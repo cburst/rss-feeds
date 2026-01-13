@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProxifierProfile version="101" platform="MacOSX" product_id="2" product_minver="200">
+    <Options>
+        <Resolve>
+            <AutoModeDetection enabled="true"/>
+            <ViaProxy enabled="false">
+                <TryLocalDnsFirst enabled="false"/>
+            </ViaProxy>
+            <ExclusionList ExcludeSimpleHostnames="true" ExcludeLocalhost="true" ExcludeSelfHostname="true" ExcludeLocalDomain="true">localhost;%SimpleHostnames%;%ComputerName%;*.local;
+</ExclusionList>
+        </Resolve>
+        <Encryption mode="basic"/>
+        <HttpProxiesSupport enabled="false"/>
+        <HandleDirectConnections enabled="false"/>
+        <ConnectionLoopDetection enabled="true"/>
+        <ProcessServices enabled="true"/>
+        <ProcessOtherUsers enabled="true"/>
+        <BlockUDP443 enabled="false"/>
+    </Options>
+    <ProxyList>
+        <Proxy id="100" type="SOCKS5">
+            <Address>IP</Address>
+            <Port>1080</Port>
+            <Options>0</Options>
+            <Authentication enabled="true">
+                <Username>9QoFJT4UmzfcHwxxbfyQ3uzN</Username>
+                <Password>AAAEuL3znB9djQbHLrUphVqNmaO8VEVU92P7NQWnL7I5cDJikGUejx5+DvsG0vkfle8DwaKTZlVs+b2cYFrxNy1A0g==</Password>
+            </Authentication>
+        </Proxy>
+        <Proxy id="101" type="SOCKS5">
+            <Address>87.239.255.37</Address>
+            <Port>1080</Port>
+            <Options>0</Options>
+            <Authentication enabled="true">
+                <Username>9QoFJT4UmzfcHwxxbfyQ3uzN</Username>
+                <Password>AAAEuL3znB9djQbHLrUphVqNmaO8VEVU92P7NQWnL7I5cDJikGUejx5+DvsG0vkfle8DwaKTZlVs+b2cYFrxNy1A0g==</Password>
+            </Authentication>
+        </Proxy>
+        <Proxy id="102" type="SOCKS5">
+            <Address>87.239.255.47</Address>
+            <Port>1080</Port>
+            <Options>0</Options>
+            <Authentication enabled="true">
+                <Username>9QoFJT4UmzfcHwxxbfyQ3uzN</Username>
+                <Password>AAAEuL3znB9djQbHLrUphVqNmaO8VEVU92P7NQWnL7I5cDJikGUejx5+DvsG0vkfle8DwaKTZlVs+b2cYFrxNy1A0g==</Password>
+            </Authentication>
+        </Proxy>
+        <Proxy id="103" type="SOCKS5">
+            <Address>87.239.255.32</Address>
+            <Port>1080</Port>
+            <Options>0</Options>
+            <Authentication enabled="true">
+                <Username>9QoFJT4UmzfcHwxxbfyQ3uzN</Username>
+                <Password>AAAEuL3znB9djQbHLrUphVqNmaO8VEVU92P7NQWnL7I5cDJikGUejx5+DvsG0vkfle8DwaKTZlVs+b2cYFrxNy1A0g==</Password>
+            </Authentication>
+        </Proxy>
+        <Proxy id="104" type="SOCKS5">
+            <Address>87.239.255.42</Address>
+            <Port>1080</Port>
+            <Options>0</Options>
+            <Authentication enabled="true">
+                <Username>9QoFJT4UmzfcHwxxbfyQ3uzN</Username>
+                <Password>AAAEuL3znB9djQbHLrUphVqNmaO8VEVU92P7NQWnL7I5cDJikGUejx5+DvsG0vkfle8DwaKTZlVs+b2cYFrxNy1A0g==</Password>
+            </Authentication>
+        </Proxy>
+    </ProxyList>
+    <ChainList>
+        <Chain id="110">
+            <Name>USnord</Name>
+            <Proxy enabled="true">104</Proxy>
+            <Proxy enabled="true">103</Proxy>
+            <Proxy enabled="true">102</Proxy>
+            <Proxy enabled="true">101</Proxy>
+            <Proxy enabled="true">100</Proxy>
+        </Chain>
+    </ChainList>
+    <RuleList>
+        <Rule enabled="true">
+            <Name>Localhost</Name>
+            <Targets>localhost; 127.0.0.1; ::1; %ComputerName%; 211.226.54.219</Targets>
+            <Action type="Direct"/>
+        </Rule>
+        <Rule enabled="true">
+            <Name>Proxifier</Name>
+            <Applications>"Proxifier.app"; "Proxifier"; com.initex.proxifier.v3.macos</Applications>
+            <Action type="Direct"/>
+        </Rule>
+        <Rule enabled="true">
+            <Name>Transmission Only Loops</Name>
+            <Applications>"Transmission.app"; "Transmission"; org.m0k.transmission</Applications>
+            <Targets>localhost; 127.0.0.1; ::1;211.226.54.219</Targets>
+            <Action type="Direct"/>
+        </Rule>
+        <Rule enabled="true">
+            <Name>Copy of Transmission Only</Name>
+            <Applications>"Transmission.app"; "Transmission"; org.m0k.transmission</Applications>
+            <Action type="Chain">110</Action>
+        </Rule>
+        <Rule enabled="true">
+            <Name>Default</Name>
+            <Action type="Direct"/>
+        </Rule>
+    </RuleList>
+</ProxifierProfile>
