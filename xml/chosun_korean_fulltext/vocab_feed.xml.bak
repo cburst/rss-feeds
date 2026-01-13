@@ -1,0 +1,2192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Korean Vocab Feed (chosun_korean_fulltext)</title>
+    <link>file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml</link>
+    <description>새로운 한국어 어휘 항목 (실제 예문 + 간단한 예문)</description>
+    <atom:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Thu, 05 Jun 2025 09:47:22 +0000</lastBuildDate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <item>
+    <title>교수 – professor</title>
+    <link>urn:urn:vocab:교수</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzb3J8ZW58MHx8fHwxNzU1MTQzNzA2fDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="교수 (professor)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (안철수 국민의힘 당대표 후보는 14일 이재명 대통령이 장관급인 국가교육위원장에 차정인 부산대 법학전문대학원 교수를 내정한 데 대해 “조국 부부에게 사채라도 썼느냐”고 비판했다&lt;br&gt;&lt;em&gt;" (Ahn Cheol-soo, the People Power Party's presidential candidate, criticized on the 14th President Lee Jae-myung's nomination of Professor Cha Jeong-in from Pusan National University's Law School, a ministerial-level position as the head of the National Education Commission, by saying, 'Did you even lend money to the Cho Kuk couple?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (차 내정자는 이 대통령의 사법연수원 18기 동기로, 2006년 부산대 법학 교수로 임용됐고 2020년부터 4년간 부산대 총장을 지냈다&lt;br&gt;&lt;em&gt;" (The nominee, Cha, is a classmate of President Lee from the 18th class of the Judicial Research and Training Institute, was appointed as a law professor at Pusan National University in 2006, and served as the president of Pusan National University for four years from 2020.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령이 13일 장관급인 국가교육위원장에 차정인(64) 부산대 법학전문대학원 교수를 내정했다&lt;br&gt;&lt;em&gt;(President Lee Jae-myung nominated Professor Cha Jeong-in (64) from Pusan National University's Law School as the head of the National Education Commission, a ministerial-level position, on the 13th.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;교수는 책을 읽습니다.&lt;br&gt;&lt;em&gt;The professor reads a book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 교수를 만났어요.&lt;br&gt;&lt;em&gt;I met the professor.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 14 Aug 2025 12:55:27 +0900</pubDate>
+    <guid isPermaLink="false">vocab-교수-1755143727</guid>
+  </item>
+  <item>
+    <title>부산대 – Pusan National University</title>
+    <link>urn:urn:vocab:부산대</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1719996540223-01d371e00fd4?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxQdXNhbiUyME5hdGlvbmFsJTIwVW5pdmVyc2l0eXxlbnwwfHx8fDE3NTUxMjk1NTd8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="부산대 (Pusan National University)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(국가교육위원장엔 이 대통령의 사법연수원 동기(18기)인 차정인 부산대 법학전문대학원 교수가, 농어업농어촌특별위원장엔 김호 단국대 식품자원경제학과 교수가 발탁됐다&lt;br&gt;&lt;em&gt;Professor Cha Jeong-in of Pusan National University's Law School, a judicial research and training institute colleague (18th class) of President Lee, was selected as the chairperson of the National Education Commission, and Professor Kim Ho of Dankook University's Department of Food Resource Economics was chosen as the chairperson of the Special Committee on Agriculture, Forestry, Fisheries, and Rural Villages.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Former Pusan National University President Who Defended Cho Kuk's Daughter Nominated as National Education Commission Chairperson (조국 딸 감쌌던 前부산대 총장, 국가교육위원장에) &amp;lt;&lt;br&gt;&lt;em&gt;Former Pusan National University President Who Defended Cho Kuk's Daughter Nominated as National Education Commission Chairperson&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;Former Pusan National University President Who Defended Cho Kuk's Daughter Nominated as National Education Commission Chairperson (조국 딸 감쌌던 前부산대 총장, 국가교육위원장에)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;%5BCDATA%5B&amp;lt;h1&amp;gt;Former%20Pusan%20National%20University%20President%20Who%20Defended%20Cho%20Kuk's%20Daughter%20Nominated%20as%20National%20Education%20Commission%20Chairperson&amp;lt;/h1&amp;gt;&amp;lt;img%20src=" https:&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;부산대는 어디에 있나요?&lt;br&gt;&lt;em&gt;Where is Pusan National University?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 부산대 학생이에요.&lt;br&gt;&lt;em&gt;I am a student at Pusan National University.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 14 Aug 2025 08:59:35 +0900</pubDate>
+    <guid isPermaLink="false">vocab-부산대-1755129575</guid>
+  </item>
+  <item>
+    <title>여러분께 – to everyone</title>
+    <link>urn:urn:vocab:여러분께</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1618102230742-c0c41176e8df?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGV2ZXJ5b25lfGVufDB8fHx8MTc1NTExNjE3NHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="여러분께 (to everyone)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;"I deeply apologize to the people" (‘尹 부부 구속’에 고개숙인 윤상현…“국민 여러분께 깊이 사죄”) &amp;lt;&lt;br&gt;&lt;em&gt;"I deeply apologize to the people" (Yoon Sang-hyun bows his head at 'the arrest of Yoon and his wife'... "I deeply apologize to the people") &amp;lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"I deeply apologize to the people" (‘尹 부부 구속’에 고개숙인 윤상현…“국민 여러분께 깊이 사죄”)&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;" i deeply apologize to the people sang-hyun bows his head at arrest of yoon and wife&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;p&amp;gt;(%EC%9C%A4%EC%83%81%ED%98%84%20%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98%20%EC%9D%98%EC%9B%90%EC%9D%B4%20%EC%9C%A4%EC%84%9D%EC%97%B4%C2%B7%EA%B9%80%EA%B1%B4%ED%9D%AC%20%EC%A0%84%20%EB%8C%80%ED%86%B5%EB%A0%B9%20%EB%B6%80%EB%B6%80%EA%B0%80%20%EB%8F%99%EC%8B%9C%EC%97%90%20%EC%88%98%EA%B0%90%EB%90%98%EB%8A%94%20%EA%B2%83%EC%97%90%20%EB%8C%80%ED%95%B4%20%E2%80%9C%EC%98%A4%EB%8A%98%EC%9D%98%20%EB%B9%84%EA%B7%B9%EC%9D%84%20%EB%A7%89%EC%A7%80%20%EB%AA%BB%ED%95%B4%20%EA%B5%AD%EB%AF%BC%20%EC%97%AC%EB%9F%AC%EB%B6%84%EA%BB%98%20%EA%B9%8A%EC%9D%B4%20%EC%82%AC%EC%A3%84%EB%93%9C%EB%A6%B0%EB%8B%A4%E2%80%9D%EA%B3%A0%20%ED%96%88%EB%8B%A4&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;(Yoon%20Sang-hyun,%20a%20member%20of%20the%20People%20Power%20Party,%20said%20regarding%20the%20simultaneous%20imprisonment%20of%20former%20President%20Yoon%20Suk-yeol%20and%20Kim%20Keon-hee,%20" i deeply apologize to the people for not preventing today tragedy.&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;여러분께 감사합니다.&lt;br&gt;&lt;em&gt;Thank you all.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여러분께 선물을 드립니다.&lt;br&gt;&lt;em&gt;I give you a gift.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 14 Aug 2025 05:16:35 +0900</pubDate>
+    <guid isPermaLink="false">vocab-여러분께-1755116195</guid>
+  </item>
+  <item>
+    <title>많은데 – many</title>
+    <link>urn:urn:vocab:많은데</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1557837847-424ee109654e?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYW55fGVufDB8fHx8MTc1NTEwMjgzOHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="많은데 (many)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(이어 “저도 국가 살림을 하다보니 해야 될 일은 많은데 쓸 돈은 없고, 참 고민이 많다”며 “지금 상태에서 밭은 많이 마련돼 있는데, 뿌릴 씨앗 없어서 밭을 묵힐 생각을 하니까 참 답답하다”고 했다&lt;br&gt;&lt;em&gt;Continuing, he said, 'As I manage the national finances, there are many things that need to be done but no money to spend, which is very troubling. In the current situation, we have prepared many fields, but the thought of leaving them fallow because there are no seeds to sow is very frustrating.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대선 과정에서 공약한 국정 과제들이 많은데, 국가 재정이 부족해 실행하기 버겁다는 뜻으로 해석된다&lt;br&gt;&lt;em&gt;This is interpreted to mean that there are many national tasks promised during the presidential election process, but it is difficult to execute them due to the lack of national finances.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령이 13일 “국가 살림을 하다 보니 해야 할 일은 많은데 쓸 돈은 없어 고민”이라며 “비효율적 혜택을 받는 잡초를 뽑아내는 게 진짜 중요하다”고 했다&lt;br&gt;&lt;em&gt;(President Lee Jae-myung said on the 13th, 'Managing the national finances, there are many things to do but no money to spend, which is troubling. It is really important to weed out inefficient benefits.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;사람이 많은데 조용해요.&lt;br&gt;&lt;em&gt;It's quiet even though there are many people.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과일이 많은데 싸요.&lt;br&gt;&lt;em&gt;The fruits are cheap even though there are many.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 14 Aug 2025 01:34:21 +0900</pubDate>
+    <guid isPermaLink="false">vocab-많은데-1755102861</guid>
+  </item>
+  <item>
+    <title>돌아온 – returned</title>
+    <link>urn:urn:vocab:돌아온</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641168785849-fd235dbabaec?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXR1cm5lZHxlbnwwfHx8fDE3NTUwODg3MTB8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="돌아온 (returned)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Six Independence Activists Return to Their Homeland… Repatriation Ceremony Held (고국으로 돌아온 독립유공자 6인… 유해 봉환식 거행) &amp;lt;&lt;br&gt;&lt;em&gt;Six Independence Activists Return to Their Homeland… Repatriation Ceremony Held&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;Six Independence Activists Return to Their Homeland… Repatriation Ceremony Held (고국으로 돌아온 독립유공자 6인… 유해 봉환식 거행)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;p&amp;gt;4em;"&gt;코스피만큼 핫한 홍콩 증시… 3년 만에 돌아온 ‘중학 개미’&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;The%20Hong%20Kong%20stock%20market%20is%20as%20hot%20as%20KOSPI%E2%80%A6%20%E2%80%98Middle%20school%20ants%E2%80%99%20return%20after%203%20years&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;/div&amp;gt;%0A&amp;lt;br/&amp;gt;&amp;lt;div%20class=" simple&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;친구가 돌아온 것 같아.&lt;br&gt;&lt;em&gt;It seems like my friend has returned.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;돌아온 날씨가 좋아요.&lt;br&gt;&lt;em&gt;The returned weather is nice.&lt;/em&gt;&lt;/p&gt;
+
+
+    &lt;/td&gt;&lt;/tr&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    <pubDate>Wed, 13 Aug 2025 21:38:46 +0900</pubDate>
+    <guid isPermaLink="false">vocab-돌아온-1755088726</guid>
+  </item>
+  <item>
+    <title>고국으로 – to the homeland</title>
+    <link>urn:urn:vocab:고국으로</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1644661057384-93ac291b47cf?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMGhvbWVsYW5kfGVufDB8fHx8MTc1NTA3NDA2OHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="고국으로 (to the homeland)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Six Independence Activists Return to Their Homeland… Repatriation Ceremony Held (고국으로 돌아온 독립유공자 6인… 유해 봉환식 거행) &amp;lt;&lt;br&gt;&lt;em&gt;Six Independence Activists Return to Their Homeland… Repatriation Ceremony Held &amp;lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;Six Independence Activists Return to Their Homeland… Repatriation Ceremony Held (고국으로 돌아온 독립유공자 6인… 유해 봉환식 거행)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;%5BCDATA%5B&amp;lt;h1&amp;gt;Six%20Independence%20Activists%20Return%20to%20Their%20Homeland%E2%80%A6%20Repatriation%20Ceremony%20Held&amp;lt;/h1&amp;gt;&amp;lt;img%20src=" https:&gt;
+&lt;p&gt;문 지사와 임 지사는 미국 캘리포니아주에 안장됐다가 이번에 유해가 고국으로 돌아왔다&lt;br&gt;&lt;em&gt;Governor Moon and Governor Lim were buried in California, USA, and their remains have now returned to their homeland&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;나는 고국으로 갑니다.&lt;br&gt;&lt;em&gt;I am going to my homeland.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고국으로 편지를 보냈어요.&lt;br&gt;&lt;em&gt;I sent a letter to my homeland.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Wed, 13 Aug 2025 17:34:48 +0900</pubDate>
+    <guid isPermaLink="false">vocab-고국으로-1755074088</guid>
+  </item>
+  <item>
+    <title>일하고 – work</title>
+    <link>urn:urn:vocab:일하고</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1556745753-b2904692b3cd?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHx3b3JrfGVufDB8fHx8MTc1NTA1OTc4N3ww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="일하고 (work)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;North Korean workers dispatched to Russia "work 18 hours a day, 363 days a year, and receive a monthly salary of 130,000 won" (러 파견된 北노동자 “363일 18시간씩 일하고 월급은 13만원”) &amp;lt;&lt;br&gt;&lt;em&gt;North Korean workers dispatched to Russia "work 18 hours a day, 363 days a year, and receive a monthly salary of 130,000 won"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;North Korean workers dispatched to Russia "work 18 hours a day, 363 days a year, and receive a monthly salary of 130,000 won" (러 파견된 北노동자 “363일 18시간씩 일하고 월급은 13만원”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;%5BCDATA%5B&amp;lt;h1&amp;gt;North%20Korean%20workers%20dispatched%20to%20Russia%20" work hours a day days year and receive monthly salary of won&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;p&amp;gt;(%EB%9F%AC%EC%8B%9C%EC%95%84%EC%97%90%20%ED%8C%8C%EA%B2%AC%EB%8F%BC%20%EA%B9%80%EC%A0%95%EC%9D%80%20%EC%A0%95%EA%B6%8C%EC%97%90%20%EC%99%B8%ED%99%94%EB%A5%BC%20%EB%B2%8C%EC%96%B4%EB%8B%A4%20%EC%A3%BC%EB%8A%94%20%EB%B6%81%ED%95%9C%20%EB%85%B8%EB%8F%99%EC%9E%90%EB%93%A4%EC%9D%B4%20%EC%97%84%EA%B2%A9%ED%95%9C%20%EA%B0%90%EC%8B%9C%EC%99%80%20%ED%86%B5%EC%A0%9C%20%EC%86%8D%EC%97%90%20%EA%B1%B0%EC%9D%98%20%EB%85%B8%EC%98%88%20%EA%B0%99%EC%9D%80%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%20%EC%9D%BC%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4%EA%B3%A0%20%EC%98%81%EA%B5%AD%20BBC%EB%B0%A9%EC%86%A1%2012%EC%9D%BC%20%EB%B3%B4%EB%8F%84%ED%96%88%EB%8B%A4&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;(It%20was%20reported%20by%20the%20British%20BBC%20on%20the%2012th%20that%20North%20Korean%20workers%20dispatched%20to%20Russia%20to%20earn%20foreign%20currency%20for%20the%20Kim%20Jong-un%20regime%20are%20working%20in%20almost%20slave-like%20conditions%20under%20strict%20surveillance%20and%20control&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;/div&amp;gt;%0A&amp;lt;br/&amp;gt;&amp;lt;div%20class=" simple&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;나는 매일 일하고 쉬어요.&lt;br&gt;&lt;em&gt;I work and rest every day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘은 친구와 일했어요.&lt;br&gt;&lt;em&gt;Today I worked with a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Wed, 13 Aug 2025 13:36:44 +0900</pubDate>
+    <guid isPermaLink="false">vocab-일하고-1755059804</guid>
+  </item>
+  <item>
+    <title>거짓말에 – to a lie</title>
+    <link>urn:urn:vocab:거짓말에</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1576529318410-f91dc2f842a8?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGElMjBsaWV8ZW58MHx8fHwxNzU1MDQ1MzgzfDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="거짓말에 (to a lie)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;거짓말에 가까워”) &amp;lt;&lt;br&gt;&lt;em&gt;Close to a lie&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;거짓말에 가까워”)&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;Close%20to%20a%20lie&amp;lt;/h1&amp;gt;&amp;lt;img%20src=" https:&gt;&lt;/p&gt;
+&lt;p&gt;" (TJWG는 정부 당국이 이날 올해 보고서에 새로 추가되는 내용이 많지 않아 보고서 발간과 관련 실무적 차원의 어려움이 있다고 설명한데 대해 “거짓말에 가깝다”고 했다&lt;br&gt;&lt;em&gt;(TJWG explained that the government authorities said there were not many new additions to this year's report, making it difficult at the practical level related to the publication of the report, and called it "close to a lie."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;나는 거짓말에 속았어.&lt;br&gt;&lt;em&gt;I was fooled by the lie.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;거짓말에 화가 났어요.&lt;br&gt;&lt;em&gt;I am angry about the lie.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Wed, 13 Aug 2025 09:36:39 +0900</pubDate>
+    <guid isPermaLink="false">vocab-거짓말에-1755045399</guid>
+  </item>
+  <item>
+    <title>가깝다 – close</title>
+    <link>urn:urn:vocab:가깝다</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1518857555-349f02ebda69?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbG9zZXxlbnwwfHx8fDE3NTUwMzE1NDh8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="가깝다 (close)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (TJWG는 정부 당국이 이날 올해 보고서에 새로 추가되는 내용이 많지 않아 보고서 발간과 관련 실무적 차원의 어려움이 있다고 설명한데 대해 “거짓말에 가깝다”고 했다&lt;br&gt;&lt;em&gt;TJWG said regarding the government authorities' explanation that there were practical difficulties related to the publication of the report due to the small amount of new content added to this year's report, "It is close to a lie."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;두 사람은 선거 내내 서로 “내가 더 이 대통령과 가깝다”며 이 대통령과의 친밀감을 강조했다&lt;br&gt;&lt;em&gt;Throughout the election, the two emphasized their closeness to President Lee, each claiming, "I am closer to President Lee."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 단체는 새로 추가할 진술이 많지 않다는 정부의 설명에 대해 “거짓말에 가깝다”며 “2023 년과 2024 년 총 2 회 발간한 보고서에 (탈북민들 증언을) 반영하지 못하고 (조사관들이 탈북민) 진술만 받아두었을 뿐 아직 분석조차 다 하지 못했을 만큼 많은 방대한 기록을 확보해뒀다”고 했다&lt;br&gt;&lt;em&gt;Regarding the government's explanation that there was not much new testimony to add, the group said, "It is close to a lie," and added, "We have secured such a vast amount of records that we have not even been able to fully analyze them yet, merely collecting statements (from North Korean defectors) without reflecting (their testimonies) in the reports published twice in 2023 and 2024."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;학교는 집에서 가깝다.&lt;br&gt;&lt;em&gt;The school is close to home.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공원이 여기에서 가깝다.&lt;br&gt;&lt;em&gt;The park is close to here.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Wed, 13 Aug 2025 05:46:08 +0900</pubDate>
+    <guid isPermaLink="false">vocab-가깝다-1755031568</guid>
+  </item>
+  <item>
+    <title>아끼기 – to save or cherish</title>
+    <link>urn:urn:vocab:아끼기</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1670105791108-718c8d4b738e?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHNhdmUlMjBvciUyMGNoZXJpc2h8ZW58MHx8fHwxNzU1MDE4MjkwfDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="아끼기 (to save or cherish)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (이 대통령은 “피할 수 있는데 피하지 않았다든지, 돈을 벌기 위해 비용을 줄이기 위해서 지출해야 할 비용을 아끼기 위해서 누군가의 목숨을 빼앗는 건 미필적 고의에 의한 살인, 사회적 타살이라는 생각”이라고 했다&lt;br&gt;&lt;em&gt;President Lee said, "It is thought that taking someone's life to save costs that should be spent to reduce expenses for the sake of making money, or not avoiding what could be avoided, is murder by potential intent, a social killing."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “해결책은 노동을 하는 데서 비용을 아끼기 위해 안전조치를 안 하는 것은 바보짓이라는 생각이 들게 하는 것, 그게 더 손해가 되게 하는 것”이라며 “일상적으로 산업현장들을 점검해서 필요한 안전조치를 안 하고 작업하면 그 자체를 엄정하게 제재해야 한다”고 했다&lt;br&gt;&lt;em&gt;President Lee said, "The solution is to make it seem foolish not to take safety measures to save costs in labor, to make it more damaging. He said, 'We must strictly sanction the act of not taking necessary safety measures and working by routinely inspecting industrial sites.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 이날 국무회의에서 “비용을 아끼기 위해 누군가의 목숨을 빼앗는 것은 일종의 미필적 고의에 의한 살인, 사회적 타살”이라며 “산재 공화국을 반드시 벗어나도록 해야겠다”고 했다&lt;br&gt;&lt;em&gt;President Lee said at the Cabinet meeting that day, "Taking someone's life to save costs is a kind of murder by potential intent, a social killing," and "We must definitely escape from being a republic of industrial accidents."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;물을 아끼기 위해 노력해요.&lt;br&gt;&lt;em&gt;I try to save water.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선물을 아끼기 위해 잘 보관해요.&lt;br&gt;&lt;em&gt;I keep the gift carefully to save it.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Wed, 13 Aug 2025 02:05:14 +0900</pubDate>
+    <guid isPermaLink="false">vocab-아끼기-1755018314</guid>
+  </item>
+  <item>
+    <title>대한민국 – South Korea</title>
+    <link>urn:urn:vocab:대한민국</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1538670178144-b8db27bad945?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTb3V0aCUyMEtvcmVhfGVufDB8fHx8MTc1NTAwNDM2MXww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="대한민국 (South Korea)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (이 대통령은 “대한민국에는 죽음이 너무 많다”며 “전 세계적으로 자살률이 가장 높고, 교통사고 사망도 많이 줄긴 했는데 여전히 많은 편이고 각종 재해 사고사도 상당히 많은 편이며, 대형참사와 일터에서 죽어가는 소위 산재 사망도 여전히 많다”고 했다&lt;br&gt;&lt;em&gt;President Lee said, "There is too much death in South Korea," adding, "It has the highest suicide rate in the world, and although the number of traffic accident deaths has decreased significantly, it is still high. There are also quite a number of deaths from various disaster accidents, and so-called industrial deaths from large-scale disasters and deaths at workplaces are still high."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 이날 오후 국무회의 모두 발언에서 “최근 대북 확성기를 우리가 철거하고 있고, 전체인지 아닌지는 모르지만 북측에서도 일부 확성기를 철거하고 있다고 한다”며 “대한민국의 조치에 맞춰 북측도 불필요하고 비용이 드는 확성기를 상호 철거했으면 좋겠다”고 말했다&lt;br&gt;&lt;em&gt;President Lee said at the afternoon Cabinet meeting, "Recently, we have been removing loudspeakers towards North Korea, and although it is not clear whether it is all or not, it is said that North Korea is also removing some of its loudspeakers." He added, "In line with South Korea's measures, it would be good if North Korea also mutually removed unnecessary and costly loudspeakers."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정 전 의장은 “당원이 아닌 국민의 뜻을 어떻게 수렴하고 받들 것인가의 노력도 함께해야 한다”며 “당원이 아닌 국민들로부터도 존중받고 함께하는 정당으로 발전해야 우리 대한민국이 미래지향적이고 발전적인 정당으로 거듭날 수 있다”고 했다&lt;br&gt;&lt;em&gt;Chairman Jung said, "We must also make efforts to gather and uphold the will of the people, not just party members," adding, "Only by developing into a party that is respected and joined by the people, not just party members, can our South Korea be reborn as a future-oriented and progressive party."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;대한민국은 아름다운 나라입니다.&lt;br&gt;&lt;em&gt;South Korea is a beautiful country.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 대한민국을 사랑합니다.&lt;br&gt;&lt;em&gt;I love South Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 22:13:09 +0900</pubDate>
+    <guid isPermaLink="false">vocab-대한민국-1755004389</guid>
+  </item>
+  <item>
+    <title>비용을 – cost</title>
+    <link>urn:urn:vocab:비용을</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1707157281599-d155d1da5b4c?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3N0fGVufDB8fHx8MTc1NDk5MDYyNHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="비용을 (cost)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (이 대통령은 “피할 수 있는데 피하지 않았다든지, 돈을 벌기 위해 비용을 줄이기 위해서 지출해야 할 비용을 아끼기 위해서 누군가의 목숨을 빼앗는 건 미필적 고의에 의한 살인, 사회적 타살이라는 생각”이라고 했다&lt;br&gt;&lt;em&gt;President Lee said, "The thought that someone's life is taken to save costs that should be spent to reduce expenses for the sake of making money, or to avoid what could have been avoided, is considered murder with potential intent, a social homicide."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “해결책은 노동을 하는 데서 비용을 아끼기 위해 안전조치를 안 하는 것은 바보짓이라는 생각이 들게 하는 것, 그게 더 손해가 되게 하는 것”이라며 “일상적으로 산업현장들을 점검해서 필요한 안전조치를 안 하고 작업하면 그 자체를 엄정하게 제재해야 한다”고 했다&lt;br&gt;&lt;em&gt;President Lee said, "The solution is to make it seem foolish to not take safety measures to save costs in labor, to make it more damaging. He added, "We must strictly sanction the act of not taking necessary safety measures and working by routinely inspecting industrial sites."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이어 “분단이 되어서 군사적 대결을 하느라 엄청난 비용을 지불하는 것도 서로에게 힘든 일인데 굳이 또 서로에게 고통을 가하고 서로에게 피해 입히고 그렇게까지 할 필요가 있겠냐는 생각이 든다”며 “가급적이면 대화와 소통을 빨리 시작해서 서로에게 도움이 되는 그런 관계로, 평화와 안정이 뒷받침되는 한반도를 통해 각자의 경제적 환경도 개선했으면 좋겠다”고 했다&lt;br&gt;&lt;em&gt;He continued, "Even the division and the military confrontation cause us to pay enormous costs, which is hard for both sides, but I wonder if it's necessary to go so far as to inflict pain and harm on each other. I hope that we can start dialogue and communication as soon as possible to establish a relationship that benefits both sides, and improve each other's economic environment through a Korean Peninsula backed by peace and stability."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;이 비용을 계산해 주세요.&lt;br&gt;&lt;em&gt;Please calculate this cost.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비용을 절약할 방법이 있나요?&lt;br&gt;&lt;em&gt;Is there a way to save costs?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 18:24:11 +0900</pubDate>
+    <guid isPermaLink="false">vocab-비용을-1754990651</guid>
+  </item>
+  <item>
+    <title>서로에게 – to each other</title>
+    <link>urn:urn:vocab:서로에게</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533444273691-ebf51af8fd9c?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGVhY2glMjBvdGhlcnxlbnwwfHx8fDE3NTQ5ODEzOTB8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="서로에게 (to each other)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;President Lee: "North and South Korea should switch to a relationship that helps each other rather than harms" (李대통령 “남북, 서로에게 피해 아닌 도움주는 관계로 전환해야”) &amp;lt;&lt;br&gt;&lt;em&gt;President Lee: "North and South Korea should switch to a relationship that helps each other rather than harms"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 12일 최근 북한이 전방 지역 일부에서 대남 확성기를 철거한 것을 언급하며 “남북 관계가 서로에게 피해를 끼치는 관계가 아니라 서로에게 도움이 되는 관계로 전환되었으면 좋겠다”고 말했다&lt;br&gt;&lt;em&gt;President Lee Myung-bak mentioned on the 12th that North Korea recently removed some loudspeakers aimed at South Korea in frontline areas, saying, "I hope that inter-Korean relations can transition from harming each other to helping each other."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이어 “분단이 되어서 군사적 대결을 하느라 엄청난 비용을 지불하는 것도 서로에게 힘든 일인데 굳이 또 서로에게 고통을 가하고 서로에게 피해 입히고 그렇게까지 할 필요가 있겠냐는 생각이 든다”며 “가급적이면 대화와 소통을 빨리 시작해서 서로에게 도움이 되는 그런 관계로, 평화와 안정이 뒷받침되는 한반도를 통해 각자의 경제적 환경도 개선했으면 좋겠다”고 했다&lt;br&gt;&lt;em&gt;He continued, "I think it's tough for both sides to bear the enormous costs of military confrontation due to division, and I wonder if it's necessary to inflict pain and harm on each other. I hope that we can start dialogue and communication as soon as possible to establish a relationship that benefits each other, supported by peace and stability on the Korean Peninsula, and improve our respective economic environments."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;우리는 서로에게 미소를 지었다.&lt;br&gt;&lt;em&gt;We smiled at each other.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그들은 서로에게 선물을 주었다.&lt;br&gt;&lt;em&gt;They gave gifts to each other.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 15:50:12 +0900</pubDate>
+    <guid isPermaLink="false">vocab-서로에게-1754981412</guid>
+  </item>
+  <item>
+    <title>소상공인 – small business owner</title>
+    <link>urn:urn:vocab:소상공인</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1531058240690-006c446962d8?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzbWFsbCUyMGJ1c2luZXNzJTIwb3duZXJ8ZW58MHx8fHwxNzU0OTc3NDg5fDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="소상공인 (small business owner)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;4em;"&amp;gt;소상공인 55&lt;br&gt;&lt;em&gt;4em;"&amp;gt;Small business owners 55&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&amp;gt;[단독] 정부, 소상공인 지원 방식 ‘현금→기술’ 전환… “AI 활용해 생산성 높일 것”&lt;/p&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;4em;"&gt;[Exclusive] Government shifts support method for small business owners from ‘cash→technology’… “Will increase productivity using AI”&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;p&amp;gt;4em;"&gt;카카오 “‘2025 카카오 클래스’로 소상공인 DX 지원”&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;a href="https://www&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;4em;"&gt;Kakao “Supports small business owners’ digital transformation with ‘2025 Kakao Class’”&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;a href="https://www&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;/div&amp;gt;%0A&amp;lt;br/&amp;gt;&amp;lt;div%20class=" simple&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;소상공인은 열심히 일해요.&lt;br&gt;&lt;em&gt;Small business owners work hard.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소상공인을 도와주세요.&lt;br&gt;&lt;em&gt;Please help small business owners.&lt;/em&gt;&lt;/p&gt;
+
+
+    &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    <pubDate>Tue, 12 Aug 2025 14:45:09 +0900</pubDate>
+    <guid isPermaLink="false">vocab-소상공인-1754977509</guid>
+  </item>
+  <item>
+    <title>카카오 – Kakao</title>
+    <link>urn:urn:vocab:카카오</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1493925410384-84f842e616fb?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxLYWthb3xlbnwwfHx8fDE3NTQ5NzM4NzV8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="카카오 (Kakao)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;4em;"&amp;gt;카카오 “‘2025 카카오 클래스’로 소상공인 DX 지원”&lt;/p&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;a href="https://www&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;Kakao%20supports%20small%20business%20owners'%20digital%20transformation%20with%20'2025%20Kakao%20Class'&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;p&amp;gt;4em;"&gt;카카오페이, ‘카카오톡 선물하기’ 오프라인 교환권 사용 기능 도입&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;Kakao%20Pay%20introduces%20offline%20voucher%20usage%20feature%20in%20'KakaoTalk%20Gift'&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;/div&amp;gt;%0A&amp;lt;br/&amp;gt;&amp;lt;div%20class=" simple&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;카카오는 유용해요.&lt;br&gt;&lt;em&gt;Kakao is useful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 카카오를 좋아해요.&lt;br&gt;&lt;em&gt;I like Kakao.&lt;/em&gt;&lt;/p&gt;
+
+
+    &lt;/td&gt;&lt;/tr&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    <pubDate>Tue, 12 Aug 2025 13:44:52 +0900</pubDate>
+    <guid isPermaLink="false">vocab-카카오-1754973892</guid>
+  </item>
+  <item>
+    <title>지켜야 – must keep</title>
+    <link>urn:urn:vocab:지켜야</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1476376282735-c82668c55fa6?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtdXN0JTIwa2VlcHxlbnwwfHx8fDE3NTQ5NzAyMTZ8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="지켜야 (must keep)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (윤희숙 “尹어게인으로부터 당 지켜야&lt;br&gt;&lt;em&gt;" (Yoon Hee-sook "Protect the party from Yoon Again"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (윤희숙 “尹어게인으로부터 당 지켜야&lt;br&gt;&lt;em&gt;" (Yoon Hee-sook "Protect the party from Yoon Again"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (윤희숙 국민의힘 여의도연구원장이 12일 “정권에 이어 당까지 말아먹으려는 ‘윤어게인(윤석열 전 대통령 복귀)’ 세력으로부터 당을 지켜야 한다” “경선 중립 원칙을 준수해야 하는 여의도연구원장직을 지금 내려놓겠다”고 했다&lt;br&gt;&lt;em&gt;" (Yoon Hee-sook, the director of the Yeouido Research Institute of the People Power Party, said on the 12th, "We must protect the party from the 'Yoon Again (return of former President Yoon Seok-yeol)' forces who are trying to ruin the party after the regime." "I will now step down from the position of director of the Yeouido Research Institute, which must adhere to the principle of neutrality during the primary."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;약속을 지켜야 해요.&lt;br&gt;&lt;em&gt;You have to keep the promise.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;규칙을 지켜야 합니다.&lt;br&gt;&lt;em&gt;You must follow the rules.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 12:43:58 +0900</pubDate>
+    <guid isPermaLink="false">vocab-지켜야-1754970238</guid>
+  </item>
+  <item>
+    <title>살겠다 – will live</title>
+    <link>urn:urn:vocab:살겠다</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1542646822891-0a8451fce513?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWxsJTIwbGl2ZXxlbnwwfHx8fDE3NTQ5NjU5ODN8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="살겠다 (will live)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Won't Forgive Yoon" (최강욱, 광복절 특사에 “차카게 살겠다…尹 용서 않겠다”) &amp;lt;&lt;br&gt;&lt;em&gt;"Won't Forgive Yoon" (Choi Kang-wook, on the special pardon for Liberation Day, "I will live well... I won't forgive Yoon") &amp;lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Won't Forgive Yoon" (최강욱, 광복절 특사에 “차카게 살겠다…尹 용서 않겠다”)&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;" won forgive yoon kang-wook on the special pardon for liberation day will live well... i&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;p&amp;gt;"&gt;&lt;em&gt;" (Former lawmaker Choi said in the early morning of the 12th through Facebook, "I received overwhelming encouragement," and "I will reflect more and live well (kindly)"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;나는 여기서 살겠다.&lt;br&gt;&lt;em&gt;I will live here.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 새로운 도시에서 살겠다.&lt;br&gt;&lt;em&gt;He will live in a new city.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 11:33:23 +0900</pubDate>
+    <guid isPermaLink="false">vocab-살겠다-1754966003</guid>
+  </item>
+  <item>
+    <title>보좌진 – staff</title>
+    <link>urn:urn:vocab:보좌진</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641122669951-3e2aff778d3b?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFmZnxlbnwwfHx8fDE3NTQ5NjIwNjV8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="보좌진 (staff)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(유시민 전 노무현재단 이사장이 여성가족부 장관 후보자에서 낙마한 강선우 더불어민주당 의원의 ‘보좌진 갑질 논란’과 관련해 “(보좌진) 한두 명이 사고 치고 일도 잘 못하고 그래서 잘렸다”고 말했다&lt;br&gt;&lt;em&gt;Former Roh Moo-hyun Foundation Chairman Yoo Si-min commented on the controversy surrounding the 'abuse of power by aides' of Rep. Kang Sun-woo of the Democratic Party of Korea, who was dropped as a candidate for the Minister of Gender Equality and Family, saying, '(Aides) one or two caused trouble, didn't work well, and so were fired.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;보좌진 탓을 하며 강 의원을 두둔한 것이다&lt;br&gt;&lt;em&gt;He defended Rep. Kang by blaming the aides.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 처음에 (보좌진) 교체가 많았다”고 했다&lt;br&gt;&lt;em&gt;He also mentioned that there were many changes in the aides at first.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;보좌진이 회의에 참석했어요.&lt;br&gt;&lt;em&gt;The staff attended the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;보좌진은 매우 바빠요.&lt;br&gt;&lt;em&gt;The staff is very busy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 10:28:06 +0900</pubDate>
+    <guid isPermaLink="false">vocab-보좌진-1754962086</guid>
+  </item>
+  <item>
+    <title>이번에 – this time</title>
+    <link>urn:urn:vocab:이번에</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1547306720-c3550ecab8b7?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwdGltZXxlbnwwfHx8fDE3NTQ5NTgzNzh8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="이번에 (this time)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (양국 공동 언론 발표에서 이 대통령은 “이번에 체결한 ‘원전 분야 인력 양성 협력 MOU’는 베트남 원전 산업 육성에 필수적인 인력 양성 분야에서 양국 기업 간 협력 기반을 마련하고 향후 다양한 원전 분야로 협력을 확대해 나가는 계기가 될 것”이라고 했다&lt;br&gt;&lt;em&gt;" (In a joint press release between the two countries, President Lee said, 'The MOU on cooperation in human resource development in the nuclear power sector signed this time will lay the foundation for cooperation between companies of both countries in the essential area of human resource development for the nurturing of Vietnam's nuclear power industry and will serve as an opportunity to expand cooperation into various nuclear power sectors in the future.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이번에 사면·복권된 여야 정치인과 공직자 출신은 27명으로, 상당수가 친문 인사다&lt;br&gt;&lt;em&gt;" (This time, 27 politicians and former public officials from both the ruling and opposition parties were pardoned or had their rights restored, with a significant number being pro-Moon figures.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;이번에 영화를 봤어요.&lt;br&gt;&lt;em&gt;I watched a movie this time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번에 친구를 만났어요.&lt;br&gt;&lt;em&gt;I met a friend this time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 09:26:34 +0900</pubDate>
+    <guid isPermaLink="false">vocab-이번에-1754958394</guid>
+  </item>
+  <item>
+    <title>네덜란드 – Netherlands</title>
+    <link>urn:urn:vocab:네덜란드</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1534351590666-13e3e96b5017?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOZXRoZXJsYW5kc3xlbnwwfHx8fDE3NTQ5NTQ4MjF8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="네덜란드 (Netherlands)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;President Lee Holds Phone Call with Dutch Prime Minister… "Promoting Substantial Semiconductor Alliance Cooperation" (李대통령, 네덜란드 총리와 통화…“내실있는 반도체 동맹 협력 추진”) &amp;lt;&lt;br&gt;&lt;em&gt;President Lee Holds Phone Call with Dutch Prime Minister… "Promoting Substantial Semiconductor Alliance Cooperation"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;President Lee Holds Phone Call with Dutch Prime Minister… "Promoting Substantial Semiconductor Alliance Cooperation" (李대통령, 네덜란드 총리와 통화…“내실있는 반도체 동맹 협력 추진”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;%5BCDATA%5B&amp;lt;h1&amp;gt;President%20Lee%20Holds%20Phone%20Call%20with%20Dutch%20Prime%20Minister%E2%80%A6%20" promoting substantial semiconductor alliance cooperation&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;p&amp;gt;(%EC%9D%B4%EC%9E%AC%EB%AA%85%20%EB%8C%80%ED%86%B5%EB%A0%B9%EC%9D%80%2011%EC%9D%BC%20%EB%94%95%20%EC%8A%A4%EC%BD%94%ED%94%84%20%EB%84%A4%EB%8D%9C%EB%9E%80%EB%93%9C%20%EC%B4%9D%EB%A6%AC%EC%99%80%EC%9D%98%20%EC%B7%A8%EC%9E%84%20%ED%9B%84%20%EC%B2%AB%20%ED%86%B5%ED%99%94%EB%A5%BC%20%ED%96%88%EB%8B%A4&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;(President%20Lee%20Jae-myung%20had%20his%20first%20phone%20call%20with%20Dutch%20Prime%20Minister%20Dick%20Schoof%20on%20the%2011th%20since%20taking%20office&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;/div&amp;gt;%0A&amp;lt;br/&amp;gt;&amp;lt;div%20class=" simple&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;네덜란드는 아름다운 나라입니다.&lt;br&gt;&lt;em&gt;The Netherlands is a beautiful country.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 네덜란드를 방문하고 싶어요.&lt;br&gt;&lt;em&gt;I want to visit the Netherlands.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 08:27:15 +0900</pubDate>
+    <guid isPermaLink="false">vocab-네덜란드-1754954835</guid>
+  </item>
+  <item>
+    <title>생각으로 – thought</title>
+    <link>urn:urn:vocab:생각으로</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1617791160536-598cf32026fb?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aG91Z2h0fGVufDB8fHx8MTc1NDk1MTMxNHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="생각으로 (thought)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;안 장관은 “’지휘관의 발걸음이 닿는 곳에 사고는 없다’는 생각으로 “사건·사고를 미연에 예방하고 대강주의를 척결해달라”고 했다&lt;br&gt;&lt;em&gt;Minister Ahn said, "With the thought that 'where the commander's footsteps reach, there are no accidents,' please prevent incidents and accidents in advance and eradicate negligence."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;당내에서조차 “대통령이 무슨 생각으로 여권의 정치 지형에 영향을 미치는 사면을 한 것이냐”는 말이 나온다&lt;br&gt;&lt;em&gt;Even within the party, there are voices saying, "What was the president thinking when he granted a pardon that affects the political landscape of the ruling party?"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;생각으로 결정을 해요.&lt;br&gt;&lt;em&gt;Make a decision with thought.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;생각으로 문제를 풀어요.&lt;br&gt;&lt;em&gt;Solve the problem with thought.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 07:28:47 +0900</pubDate>
+    <guid isPermaLink="false">vocab-생각으로-1754951327</guid>
+  </item>
+  <item>
+    <title>가슴에 – in the chest</title>
+    <link>urn:urn:vocab:가슴에</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1648799833101-1782744988c9?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGNoZXN0fGVufDB8fHx8MTc1NDk0NzgzMnww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="가슴에 (in the chest)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (박성훈 수석대변인은 이날 논평을 내고 “기어코 이 대통령이 다른 날도 아닌 광복절에 국민 가슴에 비수를 꽂겠다는 결정을 내렸다”며 이같이 밝혔다&lt;br&gt;&lt;em&gt;" (Senior Spokesperson Park Sung-hoon commented that day, saying, 'Ultimately, the president decided to stab the people in the heart on Liberation Day of all days,' he revealed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;입시 비리, 감찰 무마, 위안부 기금 횡령, 블랙리스트 의혹까지 이 모든 범죄가 면죄부를 받았다”며 “대통령이 품은 것은 ‘국민 통합’이 아니라 ‘내 사람, 내 편’이었고, 그 대가는 국민 가슴에 깊은 상처로 돌아왔다”고 했다&lt;br&gt;&lt;em&gt;'From admissions corruption, suppression of inspections, embezzlement of comfort women funds, to suspicions of a blacklist, all these crimes have been pardoned,' he said, adding, 'What the president harbored was not "national unity" but "my people, my side," and the price came back as a deep wound in the people's hearts.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;가슴에 손을 올렸다.&lt;br&gt;&lt;em&gt;I put my hand on my chest.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가슴에 통증이 있다.&lt;br&gt;&lt;em&gt;There is pain in the chest.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 06:30:46 +0900</pubDate>
+    <guid isPermaLink="false">vocab-가슴에-1754947846</guid>
+  </item>
+  <item>
+    <title>양도세 – capital gains tax</title>
+    <link>urn:urn:vocab:양도세</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1515180711443-f8685c6d6a74?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXBpdGFsJTIwZ2FpbnMlMjB0YXh8ZW58MHx8fHwxNzU0OTQ0NDA0fDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="양도세 (capital gains tax)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;한정애 의장도 “우리가 국외 투자, 부동산 투자하는 분들에게 국내 자본시장으로 들어오라고 (유인책을 제시)해서 국내 기업들이 자본시장에서 자본을 조달할 수 있도록 흐름을 바꾸려고 하는데, 이것(주식 양도세 증세)은 이런 메시지와 충돌한다는 의견이 많았다”고 했다&lt;br&gt;&lt;em&gt;Chairman Han Jeong-ae also said, 'There were many opinions that this (increase in capital gains tax) conflicts with the message we are trying to send by offering incentives to those who invest overseas or in real estate to come into the domestic capital market, so that domestic companies can raise capital in the capital market.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여권 관계자는 “맨 처음 민주당 지도부의 ‘주식 양도세 기준 재검토’ 발표는 대통령실과 사전 교감이 있었던 것으로 안다”며 “당정 간 이견이 있는 것처럼 보이지만 시장에 잘못된 시그널을 줄까 시간을 갖자는 차원이지 조만간 정리될 것”이라고 했다&lt;br&gt;&lt;em&gt;A ruling party official said, 'I understand that the Democratic Party leadership's announcement of a 'review of the capital gains tax standard' was initially coordinated with the presidential office. Although it seems there is a disagreement between the party and the government, it is a matter of taking time to avoid sending the wrong signal to the market, and it will be resolved soon.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;리얼미터는 주식 양도세 논란, 민주당 이춘석 의원의 주식 차명 거래 의혹, 조국·윤미향 특별사면 논란을 원인으로 꼽았다&lt;br&gt;&lt;em&gt;Realmeter cited the controversy over capital gains tax, suspicions of stock trading under borrowed names by Democratic Party lawmaker Lee Chun-seok, and the controversy over special pardons for Cho Kuk and Yoon Mi-hyang as causes.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;양도세를 내야 해요.&lt;br&gt;&lt;em&gt;You have to pay capital gains tax.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;집 팔 때 양도세가 있어요.&lt;br&gt;&lt;em&gt;There is capital gains tax when selling a house.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 05:33:43 +0900</pubDate>
+    <guid isPermaLink="false">vocab-양도세-1754944423</guid>
+  </item>
+  <item>
+    <title>환경부 – Ministry of Environment</title>
+    <link>urn:urn:vocab:환경부</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570548202756-a696997fb472?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxNaW5pc3RyeSUyMG9mJTIwRW52aXJvbm1lbnR8ZW58MHx8fHwxNzU0OTQwOTYyfDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="환경부 (Ministry of Environment)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;이번 특사 명단에는 조국 전 조국혁신당 대표와 정경심 전 동양대 교수 부부, 윤미향 전 의원, 조희연 전 서울시 교육감, 윤건영 민주당 의원, 백원우 전 민정비서관, 김은경 전 환경부 장관 등 여권 인사들이 대거 포함됐다&lt;br&gt;&lt;em&gt;The list of special pardons this time includes a large number of figures from the ruling party, such as former Justice Party leader Cho Kuk and his wife, former Dongyang University professor Chung Kyung-sim, former lawmaker Yoon Mi-hyang, former Seoul Metropolitan Office of Education Superintendent Cho Hee-yeon, Democratic Party lawmaker Yoon Kun-young, former senior presidential secretary for civil affairs Baek Won-woo, and former Environment Minister Kim Eun-kyung.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(복권 대상자에는 윤건영 의원과 심학봉·송광호 전 국회의원, 은수미 전 성남시장, 송도근 전 사천시장, 이제학 전 양천구청장, 김종천 전 대전광역시의회 의장, 신미숙 전 대통령실 균형인사비서관, 김은경 전 환경부 장관, 문형표 전 보건복지부 장관, 홍완선 전 국민연금공단 기금운용본부장, 황희석 전 법무부 인권국장, 노환중 전 부산의료원장이 포함됐다&lt;br&gt;&lt;em&gt;The list of those eligible for reinstatement includes lawmaker Yoon Kun-young, former lawmakers Shim Hak-bong and Song Kwang-ho, former Seongnam mayor Eun Soo-mi, former Sacheon mayor Song Doo-geun, former Yangcheon district chief Lee Je-hak, former Daejeon Metropolitan Council chairman Kim Jong-cheon, former presidential secretary for balanced personnel Shin Mi-sook, former Environment Minister Kim Eun-kyung, former Health and Welfare Minister Moon Hyung-pyo, former National Pension Service fund management head Hong Wan-sun, former Justice Ministry human rights bureau chief Hwang Hee-seok, and former Busan Medical Center head Noh Hwan-joong.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;윤건영 의원, 백원우 전 의원, 김은경 전 환경부 장관 등 친문 인사들과 함께 은수미 전 성남시장도 사면·복권된다&lt;br&gt;&lt;em&gt;Former Seongnam mayor Eun Soo-mi will also be pardoned and reinstated along with pro-Moon figures such as lawmaker Yoon Kun-young, former lawmaker Baek Won-woo, and former Environment Minister Kim Eun-kyung.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;환경부에서 공지를 발표했어요.&lt;br&gt;&lt;em&gt;The Ministry of Environment announced a notice.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;환경부는 자연을 보호해요.&lt;br&gt;&lt;em&gt;The Ministry of Environment protects nature.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 04:36:26 +0900</pubDate>
+    <guid isPermaLink="false">vocab-환경부-1754940986</guid>
+  </item>
+  <item>
+    <title>사면을 – pardon</title>
+    <link>urn:urn:vocab:사면을</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1707002569346-3d6cbca88cbb?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJkb258ZW58MHx8fHwxNzU0OTM3NDYzfDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="사면을 (pardon)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;이번 특사 명단에는 조국혁신당에서 사면을 요구해온 조 전 대표와 부인 정경심씨, 여성계와 시민단체에서 사면을 주장한 윤 전 의원, 민주당 내 친문 진영에 속한 윤건영 의원과 백원우 전 의원, 전교조 해직 교사를 부당 채용한 혐의로 유죄가 확정됐던 조희연 전 서울시교육감, 전(前) 정부에서 집단 파업을 벌였던 건설노조·화물연대 인사 등이 이름을 올렸다&lt;br&gt;&lt;em&gt;The list of special pardons this time includes former Justice Party leader Cho Kuk and his wife Chung Kyung-shim, who had requested a pardon, former lawmaker Yoon, who was advocated for pardon by women's groups and civic organizations, lawmakers Yoon Gun-young and Baek Won-woo from the pro-Moon faction within the Democratic Party, former Seoul Metropolitan Office of Education Superintendent Cho Hee-yeon, who was convicted of unfairly hiring dismissed teachers from the Korean Teachers and Education Workers' Union, and figures from the construction union and cargo solidarity who led collective strikes during the previous administration.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(경제인 16명도 사면을 받았다&lt;br&gt;&lt;em&gt;(16 business figures also received pardons.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이어 “그런 측면에서 사회적 통합과 분열 혹은 갈등 계기가 됐던 어떤 사건에 대한 분에 대해서 오히려 사면을 통해 사회적 결합과 화해, 그리고 대통합으로 나아가고자 하는 의지를 보여준 사면이었다”고 평가했다&lt;br&gt;&lt;em&gt;" (He then said, "In that regard, it was a pardon that showed the will to move toward social cohesion, reconciliation, and grand unity through pardons for incidents that had been occasions for social integration and division or conflict." He evaluated it as such.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;사면을 받았어요.&lt;br&gt;&lt;em&gt;I received a pardon.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사면을 요청했어요.&lt;br&gt;&lt;em&gt;I requested a pardon.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 03:38:04 +0900</pubDate>
+    <guid isPermaLink="false">vocab-사면을-1754937484</guid>
+  </item>
+  <item>
+    <title>수산물 – marine products</title>
+    <link>urn:urn:vocab:수산물</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605745155590-9dae45d12dc1?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJpbmUlMjBwcm9kdWN0c3xlbnwwfHx8fDE3NTQ5MzM4NzJ8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="수산물 (marine products)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Koizumi: "South Korea wants to lift restrictions on imports of marine products" (고이즈미 “한국, 수산물 수입 규제 풀어달라”) &amp;lt;&lt;br&gt;&lt;em&gt;Koizumi: "South Korea wants to lift restrictions on imports of marine products"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;Koizumi: "South Korea wants to lift restrictions on imports of marine products" (고이즈미 “한국, 수산물 수입 규제 풀어달라”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;%5BCDATA%5B&amp;lt;h1&amp;gt;Koizumi:%20" south korea wants to lift restrictions on imports of marine products&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;p&amp;gt;(%ED%95%9C%EC%9D%BC%20%EC%A0%95%EB%B6%80%EA%B0%80%20%EC%A0%95%EC%83%81%ED%9A%8C%EB%8B%B4%20%EA%B0%9C%EC%B5%9C%20%EC%9D%BC%EC%A0%95%EC%9D%84%20%EC%A1%B0%EC%9C%A8%ED%95%98%EB%8A%94%20%EA%B0%80%EC%9A%B4%EB%8D%B0,%20%EB%B0%A9%ED%95%9C%ED%95%9C%20%EA%B3%A0%EC%9D%B4%EC%A6%88%EB%AF%B8%20%EC%8B%A0%EC%A7%80%EB%A1%9C(44)%20%EC%9D%BC%EB%B3%B8%20%EB%86%8D%EB%A6%BC%EC%88%98%EC%82%B0%EC%83%81%EC%9D%B4%2011%EC%9D%BC%20%EC%A1%B0%ED%98%84%20%EC%99%B8%EA%B5%90%EB%B6%80%20%EC%9E%A5%EA%B4%80%EC%9D%84%20%EB%A7%8C%EB%82%98%20%ED%9B%84%EC%BF%A0%EC%8B%9C%EB%A7%88%20%EB%93%B1%20%EC%9D%BC%EB%B6%80%20%EC%9D%BC%EB%B3%B8%EC%82%B0%20%EC%88%98%EC%82%B0%EB%AC%BC%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%88%98%EC%9E%85%20%EA%B7%9C%EC%A0%9C%EB%A5%BC%20%ED%92%80%EC%96%B4%EC%A4%84%20%EA%B2%83%EC%9D%84%20%EC%9A%94%EA%B5%AC%ED%96%88%EB%8B%A4%EA%B3%A0%20%EC%9D%BC%EB%B3%B8%20%EA%B5%90%EB%8F%84%ED%86%B5%EC%8B%A0%EC%9D%B4%20%EB%B3%B4%EB%8F%84%ED%96%88%EB%8B%A4&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;(While%20the%20Korean%20and%20Japanese%20governments%20are%20coordinating%20the%20schedule%20for%20a%20summit,%20Japan's%20Kyodo%20News%20reported%20that%20Japan's%20Minister%20of%20Agriculture,%20Forestry%20and%20Fisheries,%20Shinjiro%20Koizumi%20(44),%20who%20visited%20South%20Korea,%20met%20with%20Foreign%20Minister%20Cho%20Hyun%20on%20the%2011th%20and%20requested%20the%20lifting%20of%20import%20restrictions%20on%20some%20Japanese%20marine%20products,%20including%20those%20from%20Fukushima.)&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;/div&amp;gt;%0A&amp;lt;br/&amp;gt;&amp;lt;div%20class=" simple&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;수산물을 좋아해요.&lt;br&gt;&lt;em&gt;I like seafood.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;수산물이 신선해요.&lt;br&gt;&lt;em&gt;The seafood is fresh.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 02:38:13 +0900</pubDate>
+    <guid isPermaLink="false">vocab-수산물-1754933893</guid>
+  </item>
+  <item>
+    <title>잘렸는데 – was fired</title>
+    <link>urn:urn:vocab:잘렸는데</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1536622308015-0740925b8221?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBmaXJlZHxlbnwwfHx8fDE3NTQ5MzAzMjh8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="잘렸는데 (was fired)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;“보좌진, 일 못해 잘렸는데 익명으로 숨어 갑질 주장”) &amp;lt;&lt;br&gt;&lt;em&gt;"Staff, fired for not being able to work, claims to have hidden and acted arrogantly anonymously") &amp;lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“보좌진, 일 못해 잘렸는데 익명으로 숨어 갑질 주장”)&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;" staff fired for not being able to work claims have hidden and acted arrogantly anonymously&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;p&amp;gt;"&gt;&lt;em&gt;" (Regarding the 'staff arrogance controversy' involving Kang Seon-woo, a member of the Democratic Party of Korea who was nominated as a candidate for the Minister of Gender Equality and Family but later resigned, former Roh Moo-hyun Foundation chairman Yoo Si-min said, "(A staff member) caused trouble and was fired for not being able to work properly, but it's really nonsense to claim that (Rep. Kang) acted arrogantly by hiding anonymously behind them.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;어제 회사에서 잘렸는데 슬퍼요.&lt;br&gt;&lt;em&gt;I was fired from the company yesterday, so I'm sad.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;동생이 잘렸는데 걱정이에요.&lt;br&gt;&lt;em&gt;I'm worried because my younger sibling was fired.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 01:39:11 +0900</pubDate>
+    <guid isPermaLink="false">vocab-잘렸는데-1754930351</guid>
+  </item>
+  <item>
+    <title>베트남 – Vietnam</title>
+    <link>urn:urn:vocab:베트남</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1528127269322-539801943592?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxWaWV0bmFtfGVufDB8fHx8MTc1NDkxNTQ1Nnww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="베트남 (Vietnam)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Kim Hye Kyung visits the National Museum with the wife of the General Secretary of the Party of Vietnam (김혜경 여사, 베트남 당서기장 부인과 국립박물관 방문) &amp;lt;&lt;br&gt;&lt;em&gt;Kim Hye Kyung visits the National Museum with the wife of the General Secretary of the Party of Vietnam (Mrs. Kim Hye Kyung, visit to the National Museum with the wife of the General Secretary of Vietnam's Party) &amp;lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kim Hye Kyung visits the National Museum with the wife of the General Secretary of the Party of Vietnam (김혜경 여사, 베트남 당서기장 부인과 국립박물관 방문)&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;Kim%20Hye%20Kyung%20visits%20the%20National%20Museum%20with%20the%20wife%20of%20the%20General%20Secretary%20of%20the%20Party%20of%20Vietnam%20(Mrs.%20Kim%20Hye%20Kyung,%20visit%20to%20the%20National%20Museum%20with%20the%20wife%20of%20the%20General%20Secretary%20of%20Vietnam's%20Party)&amp;lt;/h1&amp;gt;&amp;lt;img%20src=" https:&gt;&lt;/p&gt;
+&lt;p&gt;(김혜경 여사가 11일 국빈 방한 중인 또 럼 베트남 공산당 서기장의 부인 응오 프엉 리 여사와 국립중앙박물관을 함께 찾았다&lt;br&gt;&lt;em&gt;(Mrs. Kim Hye Kyung visited the National Museum of Korea with Mrs. Ngo Phuong Le, the wife of the General Secretary of the Communist Party of Vietnam, who is on a state visit to Korea on the 11th)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;베트남 음식은 맛있어요.&lt;br&gt;&lt;em&gt;Vietnamese food is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 베트남에 가고 싶어요.&lt;br&gt;&lt;em&gt;I want to go to Vietnam.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Tue, 12 Aug 2025 00:34:33 +0900</pubDate>
+    <guid isPermaLink="false">vocab-베트남-1754926473</guid>
+  </item>
+  <item>
+    <title>베트남 – Vietnam</title>
+    <link>urn:urn:vocab:베트남</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1528127269322-539801943592?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxWaWV0bmFtfGVufDB8fHx8MTc1NDkxNTQ1Nnww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="베트남 (Vietnam)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Kim Hye Kyung visits the National Museum with the wife of the General Secretary of the Party of Vietnam (김혜경 여사, 베트남 당서기장 부인과 국립박물관 방문) &amp;lt;&lt;br&gt;&lt;em&gt;Kim Hye Kyung visits the National Museum with the wife of the General Secretary of the Party of Vietnam&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kim Hye Kyung visits the National Museum with the wife of the General Secretary of the Party of Vietnam (김혜경 여사, 베트남 당서기장 부인과 국립박물관 방문)&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;Kim%20Hye%20Kyung%20visits%20the%20National%20Museum%20with%20the%20wife%20of%20the%20General%20Secretary%20of%20the%20Party%20of%20Vietnam&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;p&amp;gt;(%EA%B9%80%ED%98%9C%EA%B2%BD%20%EC%97%AC%EC%82%AC%EA%B0%80%2011%EC%9D%BC%20%EA%B5%AD%EB%B9%88%20%EB%B0%A9%ED%95%9C%20%EC%A4%91%EC%9D%B8%20%EB%98%90%20%EB%9F%BC%20%EB%B2%A0%ED%8A%B8%EB%82%A8%20%EA%B3%B5%EC%82%B0%EB%8B%B9%20%EC%84%9C%EA%B8%B0%EC%9E%A5%EC%9D%98%20%EB%B6%80%EC%9D%B8%20%EC%9D%91%EC%98%A4%20%ED%94%84%EC%97%89%20%EB%A6%AC%20%EC%97%AC%EC%82%AC%EC%99%80%20%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80%EC%9D%84%20%ED%95%A8%EA%BB%98%20%EC%B0%BE%EC%95%98%EB%8B%A4&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;On%20the%2011th,%20Mrs.%20Kim%20Hye%20Kyung,%20along%20with%20Mrs.%20Ngo%20Phuong%20Li,%20the%20wife%20of%20the%20General%20Secretary%20of%20the%20Communist%20Party%20of%20Vietnam,%20who%20is%20on%20a%20state%20visit%20to%20Korea,%20visited%20the%20National%20Museum%20of%20Korea%20together&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;/div&amp;gt;%0A&amp;lt;br/&amp;gt;&amp;lt;div%20class=" simple&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;&lt;p&gt;베트남 음식이 맛있어요.&lt;br&gt;&lt;em&gt;Vietnamese food is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 베트남에 가고 싶어요.&lt;br&gt;&lt;em&gt;I want to go to Vietnam.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 21:31:13 +0900</pubDate>
+    <guid isPermaLink="false">vocab-베트남-1754915473</guid>
+  </item>
+  <item>
+    <title>분야에서 – in the field</title>
+    <link>urn:urn:vocab:분야에서</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586234709312-4145ef4517db?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGZpZWxkfGVufDB8fHx8MTc1NDkxMTk2Nnww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="분야에서 (in the field)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(11일 대통령실에 따르면 양국 정상은 교역·투자 확대, 첨단·과학기술·에너지·공급망 협력, 국민·기업 지원, 교육·문화 교류, 국제사회 공조 등 7대 분야에서 전략적 협력을 강화하기로 합의한다&lt;br&gt;&lt;em&gt;According to the Presidential Office on the 11th, the leaders of the two countries agreed to strengthen strategic cooperation in seven major areas, including expanding trade and investment, cooperation in high-tech, science and technology, energy, and supply chains, support for citizens and businesses, educational and cultural exchanges, and international community coordination.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (양국은 이와 함께 전략적 중요성이 큰 원전, 고속철도, 신도시 개발 등 대규모 인프라 분야에서도 협력을 강화하기로 했다&lt;br&gt;&lt;em&gt;" (The two countries also agreed to strengthen cooperation in large-scale infrastructure areas of strategic importance, such as nuclear power plants, high-speed railways, and new city development.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 대통령은 “특히 이번에 체결한 ‘원전 분야 인력 양성 협력 MOU’는 베트남 원전 산업 육성에 필수적인 인력 양성 분야에서 양국 기업 간 협력 기반을 마련하고 향후 다양한 원전 분야로 협력을 확대해 나가는 계기가 될 것”이라고 강조했다&lt;br&gt;&lt;em&gt;The President emphasized, "In particular, the 'MOU on Cooperation in Human Resource Development in the Nuclear Power Sector' signed this time will establish a foundation for cooperation between companies of the two countries in the essential area of human resource development for the nurturing of Vietnam's nuclear power industry and serve as an opportunity to expand cooperation into various nuclear power sectors in the future."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;그는 과학 분야에서 일한다.&lt;br&gt;&lt;em&gt;He works in the field of science.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 음악 분야에서 공부한다.&lt;br&gt;&lt;em&gt;I study in the field of music.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 20:33:05 +0900</pubDate>
+    <guid isPermaLink="false">vocab-분야에서-1754911985</guid>
+  </item>
+  <item>
+    <title>재생에너지 – renewable energy</title>
+    <link>urn:urn:vocab:재생에너지</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZW5ld2FibGUlMjBlbmVyZ3l8ZW58MHx8fHwxNzU0OTA4MTIxfDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="재생에너지 (renewable energy)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;방문 기간 동안 과학기술, 재생에너지, 금융, 교육, 수산, 원전 인력양성 등 10여 건의 MOU가 체결된다&lt;br&gt;&lt;em&gt;During the visit, about 10 MOUs will be signed in the fields of science and technology, renewable energy, finance, education, fisheries, and nuclear power workforce training.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;베트남 내 한국어 교육 확대, 재생에너지 공동 프로젝트, 원전 인력양성 지원 등이다&lt;br&gt;&lt;em&gt;They include the expansion of Korean language education in Vietnam, joint projects in renewable energy, and support for nuclear power workforce training.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또 첨단·과학기술, 재생에너지, 핵심 광물 등 미래 지향적 분야로 협력을 확대하고 양국 간 인적·문화적 교류도 강화해 나가기로 했다&lt;br&gt;&lt;em&gt;They also agreed to expand cooperation in future-oriented fields such as advanced science and technology, renewable energy, and critical minerals, and to strengthen human and cultural exchanges between the two countries.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;재생에너지는 중요해요.&lt;br&gt;&lt;em&gt;Renewable energy is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;태양광은 재생에너지예요.&lt;br&gt;&lt;em&gt;Solar power is renewable energy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 19:28:58 +0900</pubDate>
+    <guid isPermaLink="false">vocab-재생에너지-1754908138</guid>
+  </item>
+  <item>
+    <title>동반자 – companion</title>
+    <link>urn:urn:vocab:동반자</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1461532257246-777de18cd58b?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW5pb258ZW58MHx8fHwxNzU0OTA0NDAyfDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="동반자 (companion)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;이어 “이러한 공동 인식을 바탕으로 ‘한·베트남 포괄적 전략 동반자 관계 심화를 위한 공동성명’을 채택하고 양국 간 협력을 더욱 전방위적이고 미래지향적으로 발전시켜 나가기로 했다”고 밝혔다&lt;br&gt;&lt;em&gt;Subsequently, it was stated, "Based on this shared understanding, we adopted the 'Joint Statement for the Deepening of the Comprehensive Strategic Partnership between Korea and Vietnam' and decided to further develop bilateral cooperation in a more comprehensive and future-oriented manner."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령이 11일 베트남 서열 1위인 또 럼 공산당 서기장을 “베트남은 대한민국에 매우 중요한 이웃 국가”라며 “한·베 간 포괄적 전략 동반자 관계가 더 높은 단계로 발전하기를 기대한다”고 했다&lt;br&gt;&lt;em&gt;(President Lee Jae-myung said on the 11th to Nguyen Phu Trong, the top-ranking leader of the Communist Party of Vietnam, "Vietnam is a very important neighboring country to the Republic of Korea," and "I expect the comprehensive strategic partnership between Korea and Vietnam to develop to a higher level."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아울러 “베트남은 대외 정책에서 변함없이 한국과 관계를 중시하고 있고 양국 협력이 보다 진취적이고 협업적으로, 포괄적 전략 동반자 관계에 걸맞게 발전하길 희망한다”며 “이번 방문에서 양국 간 전략적 신뢰를 공고히 하고 실질적 협력을 확대해 한국 정부 지도자들과 함께 핵심 방향을 심도 있게 논의할 준비가 돼 있다”고 했다&lt;br&gt;&lt;em&gt;In addition, he said, "Vietnam consistently values its relationship with Korea in its foreign policy and hopes that bilateral cooperation will develop more proactively and collaboratively, befitting a comprehensive strategic partnership. We are prepared to solidify strategic trust between the two countries and expand practical cooperation during this visit, and to discuss key directions in depth with the leaders of the Korean government."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;동반자와 함께 걷는다.&lt;br&gt;&lt;em&gt;Walking with a companion.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 좋은 동반자가 있다.&lt;br&gt;&lt;em&gt;I have a good companion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 18:27:07 +0900</pubDate>
+    <guid isPermaLink="false">vocab-동반자-1754904427</guid>
+  </item>
+  <item>
+    <title>사면에 – on all sides</title>
+    <link>urn:urn:vocab:사면에</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1578833738124-9e9d55998ed2?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMGFsbCUyMHNpZGVzfGVufDB8fHx8MTc1NDg5OTk1M3ww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="사면에 (on all sides)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(진보 성향인 정의당이 공개적으로 조국 전 조국혁신당 대표 사면에 반대한다는 입장을 밝혔다&lt;br&gt;&lt;em&gt;The Justice Party, which has progressive tendencies, has publicly stated its opposition to the pardon of former Justice Party leader Cho Kuk.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (국민의힘은 11일 조국 전 법무부 장관과 윤미향 전 더불어민주당 의원 등이 포함된 이재명 대통령의 8·15 특별 사면에 대해 “국민 통합이 아닌 파렴치와 몰상식의 선언”이라고 했다&lt;br&gt;&lt;em&gt;The People Power Party said on the 11th regarding President Lee Jae-myung's special pardon on August 15, which included former Justice Minister Cho Kuk and former Democratic Party lawmaker Yoon Mi-hyang, that it was 'a declaration of shamelessness and senselessness, not national integration.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (본지 취재를 종합하면 한 의원은 지난 9일 본지 보도 이후 “할말은 해야겠다”며 “이번 8·15 사면에 대해 입이 열개라도 할 말을 잃게 만든 상황에 대해서 누군가 해명이 있어야 한다”고 국민의힘 의원들이 모인 텔레그램 방에 올렸다&lt;br&gt;&lt;em&gt;According to our comprehensive coverage, a lawmaker posted in a Telegram room where People Power Party lawmakers gathered on the 9th, after our report, saying, 'I have to say what needs to be said,' and 'Someone needs to explain the situation where even if I had ten mouths, I would be at a loss for words about this August 15 pardon.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;산 사면에 꽃이 피었어요.&lt;br&gt;&lt;em&gt;Flowers bloomed on the mountain slope.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사면에 사람들이 모였어요.&lt;br&gt;&lt;em&gt;People gathered on all sides.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 17:12:57 +0900</pubDate>
+    <guid isPermaLink="false">vocab-사면에-1754899977</guid>
+  </item>
+  <item>
+    <title>공산당 – Communist Party</title>
+    <link>urn:urn:vocab:공산당</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1676045533543-274fe48953f8?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDb21tdW5pc3QlMjBQYXJ0eXxlbnwwfHx8fDE3NTQ4OTU5ODl8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="공산당 (Communist Party)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;( 이재명 대통령은 11일 한국을 국빈 방문한 또 럼 베트남 공산당 서기장과 정상회담을 갖는다&lt;br&gt;&lt;em&gt;President Lee Jae-myung will hold a summit with General Secretary Nguyen Phu Trong of the Communist Party of Vietnam, who is on a state visit to Korea on the 11th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령이 11일 베트남 서열 1위인 또 럼 공산당 서기장을 “베트남은 대한민국에 매우 중요한 이웃 국가”라며 “한·베 간 포괄적 전략 동반자 관계가 더 높은 단계로 발전하기를 기대한다”고 했다&lt;br&gt;&lt;em&gt;On the 11th, President Lee Jae-myung referred to General Secretary Nguyen Phu Trong, the top-ranking official in Vietnam, as "Vietnam is a very important neighboring country to the Republic of Korea" and expressed his hope that "the comprehensive strategic partnership between Korea and Vietnam will develop to a higher level."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김혜경 여사가 11일 국빈 방한 중인 또 럼 베트남 공산당 서기장의 부인 응오 프엉 리 여사와 국립중앙박물관을 함께 찾았다&lt;br&gt;&lt;em&gt;On the 11th, First Lady Kim Hye-kyung visited the National Museum of Korea with Mrs. Ngo Phuong Le, the wife of General Secretary Nguyen Phu Trong of the Communist Party of Vietnam, who was on a state visit to Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;공산당은 강력합니다.&lt;br&gt;&lt;em&gt;The Communist Party is strong.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공산당을 지원합니다.&lt;br&gt;&lt;em&gt;Support the Communist Party.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 16:06:52 +0900</pubDate>
+    <guid isPermaLink="false">vocab-공산당-1754896012</guid>
+  </item>
+  <item>
+    <title>그렇지 – right</title>
+    <link>urn:urn:vocab:그렇지</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1525011268546-bf3f9b007f6a?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWdodHxlbnwwfHx8fDE3NTQ4OTIzMzV8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="그렇지 (right)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;사실 그렇지 않다”고 했다&lt;br&gt;&lt;em&gt;He said, "Actually, that's not the case."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;말을 안 해서 그렇지, 내가 짐작하기에는 그게 어떻게 된 거냐면…”이라고 말을 꺼냈다&lt;br&gt;&lt;em&gt;He brought up the topic by saying, "It's not that I'm not saying anything, but from what I can guess, it's like this..."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (유 전 이사장은 “지금 보좌진이나 과거 보좌관 했던 사람들이 (강 의원 갑질 논란에 대해) ‘그렇지 않다’고 인터뷰하면 기사를 안 실어준다”고 주장했다&lt;br&gt;&lt;em&gt;Former Chairman Yoo claimed, "If current aides or former aides (to Representative Kang) give interviews saying 'that's not the case' regarding the controversy over Kang's abuse of power, the articles are not published."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;그렇지, 맞아요.&lt;br&gt;&lt;em&gt;That's right, correct.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그렇지, 이해했어요.&lt;br&gt;&lt;em&gt;That's right, I understand.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 15:05:54 +0900</pubDate>
+    <guid isPermaLink="false">vocab-그렇지-1754892354</guid>
+  </item>
+  <item>
+    <title>것처럼 – like, as if</title>
+    <link>urn:urn:vocab:것처럼</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1564416437164-e2d131e7ec07?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaWtlJTJDJTIwYXMlMjBpZnxlbnwwfHx8fDE3NTQ4ODg2MDF8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="것처럼 (like, as if)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (유시민 전 노무현재단 이사장이 여성가족부 장관 후보자로 지명됐다가 사퇴한 강선우 더불어민주당 의원의 ‘보좌진 갑질 논란’과 관련, “(보좌관) 한두 명이 사고 치고 일도 잘 못 해 잘렸는데, 익명으로 뒤에 숨어서 (강 의원이) 갑질한 것처럼 한 것”이라며 “정말 말이 안 된다”고 했다&lt;br&gt;&lt;em&gt;Regarding the 'controversy over the abuse of power by staff' involving Rep. Kang Sun-woo of the Democratic Party of Korea, who was nominated as a candidate for the Minister of Gender Equality and Family but later resigned, former Roh Moo-hyun Foundation chairman Yoo Si-min said, 'One or two (staff members) caused trouble and were fired because they couldn't do their jobs well, and then they anonymously hid behind and made it seem like Rep. Kang was abusing power. It really doesn't make sense.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 “그런데 그중 한두 명이 사고 치고 일도 잘 못 하고 이래서 잘렸는데, 그걸 익명으로 뒤에 숨어서 갑질한 것처럼 그렇게 한 것”이라며 “진짜 말이 안 된다”고 했다&lt;br&gt;&lt;em&gt;He also said, 'But one or two of them caused trouble, couldn't do their jobs well, and were fired, and then they anonymously hid behind and made it seem like (Rep. Kang) was abusing power. It really doesn't make sense.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 이날 오전 서울 용산구 대통령실에서 또 럼 서기장을 만나 “베트남이 당 지도부의 유능한 리더십으로 아주 빠른 속도로 성장 발전하고 있다”며 “베트남 정부가 계획하는 것처럼 조속한 시일 내 고소득 선진 국가로 발돋움할 거라 확신한다”고 했다&lt;br&gt;&lt;em&gt;On the same day, the President met with General Secretary Le in the morning at the Presidential Office in Yongsan-gu, Seoul, and said, 'Vietnam is growing and developing at a very fast pace under the capable leadership of the Party's leadership,' and 'I am confident that Vietnam will soon step up to become a high-income advanced country as planned by the Vietnamese government.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;그는 영화 속 주인공 것처럼 행동해.&lt;br&gt;&lt;em&gt;He acts like the main character in a movie.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;너는 마치 모든 걸 아는 것처럼 말해.&lt;br&gt;&lt;em&gt;You talk as if you know everything.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 14:03:48 +0900</pubDate>
+    <guid isPermaLink="false">vocab-것처럼-1754888628</guid>
+  </item>
+  <item>
+    <title>처음에 – at first</title>
+    <link>urn:urn:vocab:처음에</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1517617823475-013756831d1f?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMGZpcnN0fGVufDB8fHx8MTc1NDg4NTExOHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="처음에 (at first)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (이어 “이후 보좌진을 짜는데 처음에 엉망으로 짠 것”이라며 “그래서 처음에 (보좌진) 교체가 많았던 것”이라고 했다&lt;br&gt;&lt;em&gt;He then said, "After that, when organizing the staff, it was a mess at first," adding, "That's why there were many changes (in the staff) at first."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 처음에 (보좌진) 교체가 많았던 것”이라고 주장했다&lt;br&gt;&lt;em&gt;He claimed, "That's why there were many changes (in the staff) at first."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;엉망으로, 처음에&lt;br&gt;&lt;em&gt;A mess, at first&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;처음에 한국어를 배웠어요.&lt;br&gt;&lt;em&gt;I learned Korean at first.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;처음에 날씨가 추웠어요.&lt;br&gt;&lt;em&gt;The weather was cold at first.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 13:05:35 +0900</pubDate>
+    <guid isPermaLink="false">vocab-처음에-1754885135</guid>
+  </item>
+  <item>
+    <title>갑자기 – suddenly</title>
+    <link>urn:urn:vocab:갑자기</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1672739818681-0633b004d22a?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdWRkZW5seXxlbnwwfHx8fDE3NTQ4ODE2MDN8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="갑자기 (suddenly)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;그래서 강 의원이 거기 갑자기 뛰어들어서 아무것도 없이, 연고도 없는 데 가서 낚아챈 것”이라며 “경선 과정에서 아무 누구나의 도움을 다 받았을 거 아니냐&lt;br&gt;&lt;em&gt;So, Assemblyman Kang suddenly jumped in there and snatched it without anything, without any connection, he went and grabbed it,” saying, “In the primary process, wouldn’t he have received help from anyone?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그리고 갑자기 국회의원이 됐다”고 했다&lt;br&gt;&lt;em&gt;And suddenly he became a member of the National Assembly,” he said.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;강선우씨가 거기에 갑자기 뛰어들어서 아무 연고도 없는 데 가서 (지역구를) 낚아채 버렸다”고 했다&lt;br&gt;&lt;em&gt;Kang Seon-woo suddenly jumped in there and snatched (the district) without any connection,” he said.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;갑자기 비가 왔어요.&lt;br&gt;&lt;em&gt;It suddenly rained.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;갑자기 전화가 울렸어요.&lt;br&gt;&lt;em&gt;The phone suddenly rang.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 12:07:02 +0900</pubDate>
+    <guid isPermaLink="false">vocab-갑자기-1754881622</guid>
+  </item>
+  <item>
+    <title>사회의 – society</title>
+    <link>urn:urn:vocab:사회의</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1513682121497-80211f36a7d3?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzb2NpZXR5fGVufDB8fHx8MTc1NDg3Nzg4MXww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="사회의 (society)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;한국 사회의 중국 연구를 가늠할 수 있는 ‘차이나 핸드북’은 성균중국연구소가 아니면 발간하기 어려웠다는 게 중국 전문가들의 평가다&lt;br&gt;&lt;em&gt;The 'China Handbook', which can gauge the study of China in Korean society, was difficult to publish without the Sungkyun China Research Institute, according to Chinese experts.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미·중 전략 경쟁이 장기화될 것이라는 인식에서 비롯된 절박함이 중국 사회의 동원 체제와 결합하는 모습이다&lt;br&gt;&lt;em&gt;There is a sense of urgency stemming from the perception that the U.S.-China strategic competition will prolong, combining with China's social mobilization system.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;사회의 규칙을 배워요.&lt;br&gt;&lt;em&gt;Learn the rules of society.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사회의 변화는 빠릅니다.&lt;br&gt;&lt;em&gt;Social changes are fast.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 11:05:00 +0900</pubDate>
+    <guid isPermaLink="false">vocab-사회의-1754877900</guid>
+  </item>
+  <item>
+    <title>만나요 – meet</title>
+    <link>urn:urn:vocab:만나요</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580893246395-52aead8960dc?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWV0fGVufDB8fHx8MTc1NDg3NDEwN3ww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="만나요 (meet)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Yoon Mi-hyang "See you in the Gwanghwa Document" (윤미향 “광화문서 만나요”) &amp;lt;&lt;br&gt;&lt;em&gt;Yoon Mi-hyang "See you in the Gwanghwa Document"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;Yoon Mi-hyang "See you in the Gwanghwa Document" (윤미향 “광화문서 만나요”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;%5BCDATA%5B&amp;lt;h1&amp;gt;Yoon%20Mi-hyang%20" see you in the gwanghwa document&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;/div&amp;gt;%0A&amp;lt;br/&amp;gt;&amp;lt;div%20class=" simple&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;오늘 친구를 만나요.&lt;br&gt;&lt;em&gt;I meet a friend today.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공원에서 만나요.&lt;br&gt;&lt;em&gt;We meet at the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 10:02:01 +0900</pubDate>
+    <guid isPermaLink="false">vocab-만나요-1754874121</guid>
+  </item>
+  <item>
+    <title>수석대변인은 – chief spokesperson</title>
+    <link>urn:urn:vocab:수석대변인은</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1584257942206-4fab65fa7cfd?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGllZiUyMHNwb2tlc3BlcnNvbnxlbnwwfHx8fDE3NTQ4NzA0NTJ8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="수석대변인은 (chief spokesperson)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (민주당 박수현 수석대변인은 이날 오후 국회에서 고위당정협의회 결과를 브리핑하며 “주식 양도세와 관련한 논의가 있었고, 당정 간에 긴밀하게 논의하고 조율했으며, 향후 추이를 조금 더 지켜보며 숙고하기로 했다”고 밝혔다&lt;br&gt;&lt;em&gt;" (Park Soo-hyun, the chief spokesperson for the Democratic Party, briefed on the results of the high-level party-government consultation at the National Assembly that afternoon, saying, 'There was a discussion regarding the stock transfer tax, and the party and government closely discussed and coordinated. It was decided to observe the future trends a bit more and deliberate further.')"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (박 수석대변인은 “(주식 양도세 문제는) 오늘 안건으로 상정돼 결론에 이를 만한 수준의 논의를 하지는 않을 것이라고 (사전에) 말씀드렸고, 오늘 그대로 진행됐다”고 했다&lt;br&gt;&lt;em&gt;" (Chief Spokesperson Park said, '(Regarding the stock transfer tax issue) I had mentioned beforehand that it would not reach a level of discussion to conclude as today's agenda, and it proceeded as such today.')"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (박 수석대변인은 그러나 앞으로 어떻게 논의를 이어갈 것인지에 대해 “구체적으로 논의하고 결정한 것은 없다”고 했다&lt;br&gt;&lt;em&gt;" (However, Chief Spokesperson Park said regarding how the discussion would proceed in the future, 'Nothing specific has been discussed or decided.')"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;수석대변인은 말했습니다.&lt;br&gt;&lt;em&gt;The chief spokesperson said.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;수석대변인은 회의에 갔어요.&lt;br&gt;&lt;em&gt;The chief spokesperson went to the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 09:01:10 +0900</pubDate>
+    <guid isPermaLink="false">vocab-수석대변인은-1754870470</guid>
+  </item>
+  <item>
+    <title>못했다 – could not</title>
+    <link>urn:urn:vocab:못했다</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1514748039931-f58898828721?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3VsZCUyMG5vdHxlbnwwfHx8fDE3NTQ4NjY5NDh8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="못했다 (could not)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(더불어민주당과 정부, 대통령실이 10일 주식 거래 차익에 대해 양도소득세를 내야 하는 ‘대주주’ 기준을 50억원에서 10억원으로 낮추는 정부의 세제 개편안을 두고 논의했으나 결론을 내지 못했다&lt;br&gt;&lt;em&gt;The Democratic Party of Korea, the government, and the presidential office discussed but failed to reach a conclusion on the government's tax reform plan to lower the threshold for 'major shareholders' subject to capital gains tax on stock trading profits from 5 billion won to 1 billion won on the 10th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;중국은 지난 수십 년간 자기 혁신을 거듭하며 엄청난 변화를 이뤘지만 한국 사회는 이를 제대로 인식하지 못했다&lt;br&gt;&lt;em&gt;Over the past few decades, China has achieved tremendous changes through continuous self-innovation, but Korean society has not properly recognized this.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;0′이니 운운했을 뿐 병력 감소에 국방부가 안이하게 대응했던 측면이 있다”며 “전반적으로 인력 예측도 틀렸고 이에 따른 부대 구조 개편 및 무기 체계 획득도 이뤄지지 못했다”고 했다&lt;br&gt;&lt;em&gt;They only talked about 'zero' and so on, but there was an aspect of the Ministry of National Defense responding complacently to the reduction in troops. Overall, the manpower prediction was wrong, and accordingly, the reorganization of the unit structure and the acquisition of weapon systems were not achieved.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;나는 숙제를 못했다.&lt;br&gt;&lt;em&gt;I couldn't do my homework.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 시험에 합격 못했다.&lt;br&gt;&lt;em&gt;He didn't pass the exam.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 08:02:46 +0900</pubDate>
+    <guid isPermaLink="false">vocab-못했다-1754866966</guid>
+  </item>
+  <item>
+    <title>수준이었던 – was at the level</title>
+    <link>urn:urn:vocab:수준이었던</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567502401311-c1fb5647bef6?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBhdCUyMHRoZSUyMGxldmVsfGVufDB8fHx8MTc1NDg2MzQ0M3ww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="수준이었던 (was at the level)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;하지만 자료에 따르면 2022년 50만1000명 수준이었던 국군은 2023년 47만7000명, 2024년 47만1000명, 2025년 7월 1일 기준 45만명으로 감소했다&lt;br&gt;&lt;em&gt;However, according to the data, the number of Korean military personnel, which was at the level of 501,000 in 2022, decreased to 477,000 in 2023, 471,000 in 2024, and 450,000 as of July 1, 2025.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;6% 수준이었던 국방비를 GDP 3&lt;br&gt;&lt;em&gt;The defense budget, which was at the level of 6% of GDP&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;6% 수준이었던 국방비를 3&lt;br&gt;&lt;em&gt;The defense budget, which was at the level of 6%&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;그 시험은 쉬운 수준이었던.&lt;br&gt;&lt;em&gt;That test was at an easy level.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 영화는 재미있는 수준이었던.&lt;br&gt;&lt;em&gt;That movie was at an interesting level.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 07:04:19 +0900</pubDate>
+    <guid isPermaLink="false">vocab-수준이었던-1754863459</guid>
+  </item>
+  <item>
+    <title>앞두고 – ahead of</title>
+    <link>urn:urn:vocab:앞두고</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1478796415026-3c85ee65975e?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhaGVhZCUyMG9mfGVufDB8fHx8MTc1NDg1OTc2OXww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="앞두고 (ahead of)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(국민의힘 차기 지도부 선출을 위한 8·22 전당대회를 앞두고 10일 첫 TV 토론회가 열렸다&lt;br&gt;&lt;em&gt;The first TV debate was held on the 10th ahead of the August 22 national convention to elect the next leadership of the People Power Party.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (당초 이 대통령은 취임 후 첫 사면권 행사를 앞두고 정치인을 포함시킬지 말지 고민이 깊었던 것으로 알려졌다&lt;br&gt;&lt;em&gt;"It was known that President Lee had deep concerns about whether to include politicians in his first pardon exercise after taking office.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;민주당 일부 의원은 내년 지방선거를 앞두고 조 전 대표가 복권되면 서울시장 또는 부산시장 등 출마가 가능하기 때문에 민주당의 승패 계산이 복잡해진다고 조언한 것으로 알려졌다&lt;br&gt;&lt;em&gt;Some Democratic Party members advised that if former representative Cho is reinstated ahead of next year's local elections, it could complicate the party's victory calculations, as he could run for mayor of Seoul or Busan.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;시험을 앞두고 공부해요.&lt;br&gt;&lt;em&gt;I'm studying ahead of the exam.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;휴가를 앞두고 준비했어요.&lt;br&gt;&lt;em&gt;I prepared ahead of the vacation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 06:03:05 +0900</pubDate>
+    <guid isPermaLink="false">vocab-앞두고-1754859785</guid>
+  </item>
+  <item>
+    <title>결론을 – conclusion</title>
+    <link>urn:urn:vocab:결론을</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586542276867-832a2309a705?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25jbHVzaW9ufGVufDB8fHx8MTc1NDg1NjAzMHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="결론을 (conclusion)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(더불어민주당과 정부, 대통령실이 10일 주식 거래 차익에 대해 양도소득세를 내야 하는 ‘대주주’ 기준을 50억원에서 10억원으로 낮추는 정부의 세제 개편안을 두고 논의했으나 결론을 내지 못했다&lt;br&gt;&lt;em&gt;(The Democratic Party of Korea, the government, and the presidential office discussed on the 10th about the government's tax reform plan to lower the threshold for 'major shareholders' who must pay capital gains tax on stock trading profits from 5 billion won to 1 billion won, but failed to reach a conclusion.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김 원내대표는 6일 유튜브 방송에 출연해 “(주식 양도세에 관해) 당에서 민심, 여론까지 대통령실에 전달하고 있다”며 “대통령실이 어떤 결론을 내릴지는 지켜봐야 할 것 같다”고 했다&lt;br&gt;&lt;em&gt;Kim, the floor leader, appeared on a YouTube broadcast on the 6th and said, '(Regarding the stock transfer tax) the party is conveying public sentiment and public opinion to the presidential office,' adding, 'We will have to wait and see what conclusion the presidential office will make.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 나흘 뒤 열린 고위당정협의회에서도 결론을 내지 못한 것이다&lt;br&gt;&lt;em&gt;However, no conclusion was reached even at the high-level party-government consultation meeting held four days later.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;나는 결론을 내렸다.&lt;br&gt;&lt;em&gt;I have come to a conclusion.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 결론을 빨리 내렸다.&lt;br&gt;&lt;em&gt;He quickly came to a conclusion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 05:00:51 +0900</pubDate>
+    <guid isPermaLink="false">vocab-결론을-1754856051</guid>
+  </item>
+  <item>
+    <title>논의가 – discussion</title>
+    <link>urn:urn:vocab:논의가</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXNjdXNzaW9ufGVufDB8fHx8MTc1NDg1MjU0MXww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="논의가 (discussion)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (강훈식 대통령실 비서실장이 “한미 통상협의 과정에서 미 정부 핵심 정책 결정권자와 논의가 되는 긴밀한 소통 협력 채널이 필요하다는 것을 확인했다”라고 10일 말했다&lt;br&gt;&lt;em&gt;On the 10th, Kang Hoon-sik, the Presidential Chief of Staff, said, "We confirmed the need for a close communication and cooperation channel to discuss with key policy decision-makers of the U.S. government during the Korea-U.S. trade consultation process."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (민주당 박수현 수석대변인은 이날 오후 국회에서 고위당정협의회 결과를 브리핑하며 “주식 양도세와 관련한 논의가 있었고, 당정 간에 긴밀하게 논의하고 조율했으며, 향후 추이를 조금 더 지켜보며 숙고하기로 했다”고 밝혔다&lt;br&gt;&lt;em&gt;Park Soo-hyun, the chief spokesperson of the Democratic Party, briefed the results of the high-level party-government meeting at the National Assembly in the afternoon, saying, "There was a discussion related to the stock transfer tax, and we closely discussed and coordinated between the party and the government, and decided to observe the future trends a bit more and deliberate."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (민주당 박수현 수석대변인은 회의가 끝난 후 가진 브리핑에서 “주식 양도세와 관련한 논의가 있었고, 당정 간에 긴밀하게 논의하고 조율했으며, 향후 추이를 조금 더 지켜보며 숙고하기로 했다”고 밝혔다&lt;br&gt;&lt;em&gt;Park Soo-hyun, the chief spokesperson of the Democratic Party, stated in a briefing after the meeting, "There was a discussion related to the stock transfer tax, and we closely discussed and coordinated between the party and the government, and decided to observe the future trends a bit more and deliberate."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;회의에서 논의가 필요해요.&lt;br&gt;&lt;em&gt;We need to discuss it in the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 문제는 논의가 짧았어요.&lt;br&gt;&lt;em&gt;The issue was briefly discussed.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 04:02:45 +0900</pubDate>
+    <guid isPermaLink="false">vocab-논의가-1754852565</guid>
+  </item>
+  <item>
+    <title>북한은 – North Korea</title>
+    <link>urn:urn:vocab:북한은</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604359896927-0610b7a3a2be?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOb3J0aCUyMEtvcmVhfGVufDB8fHx8MTc1NDg0NzkyNXww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="북한은 (North Korea)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(특히 그는 “한미상호방위 조약 등 양자간의 문서에서는 결코 ‘적’을 구체적으로 명시하지 않는다”며 “북한은 ‘보트에서 가장 가까운 악어’라 우리가 예의주시하고 있다”고 했다&lt;br&gt;&lt;em&gt;(In particular, he said, 'Bilateral documents such as the ROK-US Mutual Defense Treaty never specify the 'enemy' in detail,' adding, 'North Korea is the 'closest crocodile to the boat,' and we are keeping a close eye on it.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 측의 대북 확성기 철거 완료 후에도 별 반응이 없었던 북한은 이 발표 이후 대남 확성기 철거에 착수했다&lt;br&gt;&lt;em&gt;North Korea, which had shown no particular response even after the completion of the removal of our loudspeakers, began the removal of its loudspeakers towards the South after this announcement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지난 6월 11일 우리 군이 대북 확성기 방송을 중단했을 때 북한은 하루 만인 12일 대남 소음 방송을 중단했다&lt;br&gt;&lt;em&gt;When our military stopped loudspeaker broadcasts towards North Korea on June 11 last year, North Korea stopped its noise broadcasts towards the South the next day, on the 12th.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;북한은 아름다운 나라입니다.&lt;br&gt;&lt;em&gt;North Korea is a beautiful country.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;북한은 한국의 이웃입니다.&lt;br&gt;&lt;em&gt;North Korea is a neighbor of South Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 02:45:46 +0900</pubDate>
+    <guid isPermaLink="false">vocab-북한은-1754847946</guid>
+  </item>
+  <item>
+    <title>필요해 – need</title>
+    <link>urn:urn:vocab:필요해</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570381039627-fb3348f2a719?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZWVkfGVufDB8fHx8MTc1NDg0MDkzNXww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="필요해 (need)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Kang Hoon-sik: "We need a communication channel with key US policymakers" (강훈식 “美 핵심 정책 결정권자와 소통 채널 필요해”) &amp;lt;&lt;br&gt;&lt;em&gt;Kang Hoon-sik: "We need a communication channel with key US policymakers"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;Kang Hoon-sik: "We need a communication channel with key US policymakers" (강훈식 “美 핵심 정책 결정권자와 소통 채널 필요해”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;%5BCDATA%5B&amp;lt;h1&amp;gt;Kang%20Hoon-sik:%20" we need a communication channel with key us policymakers&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;/div&amp;gt;%0A&amp;lt;br/&amp;gt;&amp;lt;div%20class=" simple&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;나는 연필이 필요해.&lt;br&gt;&lt;em&gt;I need a pencil.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;물이 필요해.&lt;br&gt;&lt;em&gt;I need water.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Mon, 11 Aug 2025 00:49:12 +0900</pubDate>
+    <guid isPermaLink="false">vocab-필요해-1754840952</guid>
+  </item>
+  <item>
+    <title>필요하다고 – to need</title>
+    <link>urn:urn:vocab:필요하다고</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504159506876-f8338247a14a?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMG5lZWR8ZW58MHx8fHwxNzU0ODMyODcyfDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="필요하다고 (to need)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(제이비어 브런슨 주한미군 사령관(미 육군 대장)이 한국 기자들과 만나 “한반도 주둔 병력수에 대한 논의가 아니라 한반도의 군사역량에 대한 논의가 이뤄져야 한다”며 “지휘관으로서 주한미군에는 변화가 필요하다고 생각한다”고 말했다&lt;br&gt;&lt;em&gt;General JB Vowell, the commander of US Forces Korea (USFK), met with Korean journalists and said, 'The discussion should not be about the number of troops stationed on the Korean Peninsula but about the military capabilities on the Korean Peninsula.' He added, 'As a commander, I think there needs to be a change in USFK.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;브런슨 사령관은 주한미군 병력 재배치 관련 질문을 받고 “지휘관으로서 주한미군 내부에 변화가 필요하다고 생각한다”며 “병력수와는 관련 없이 역량에 대해 생각하고 있다&lt;br&gt;&lt;em&gt;When asked about the realignment of USFK troops, Commander Bronson said, 'As a commander, I think there needs to be a change within USFK,' adding, 'I am thinking about capabilities, not about the number of troops.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;문 전 대통령은 지난 5일 우상호 정무수석을 만나 조 전 대표 사면이 필요하다고 말했고, 9일엔 조 전 대표가 최근 출간한 책을 추천하기도 했다&lt;br&gt;&lt;em&gt;Former President Moon met with Woo Sang-ho, the senior presidential secretary for political affairs, on the 5th and said that a pardon for former representative Cho was necessary. On the 9th, he also recommended a book recently published by former representative Cho.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;책이 필요하다고 말했어요.&lt;br&gt;&lt;em&gt;I said I need a book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;물이 필요하다고 생각해요.&lt;br&gt;&lt;em&gt;I think I need water.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sun, 10 Aug 2025 22:34:52 +0900</pubDate>
+    <guid isPermaLink="false">vocab-필요하다고-1754832892</guid>
+  </item>
+  <item>
+    <title>소고기 – beef</title>
+    <link>urn:urn:vocab:소고기</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1690983330536-3b0089d07cf9?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWVmfGVufDB8fHx8MTc1NDc3NTM3MHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="소고기 (beef)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(김 실장은 “미국은 소고기 30개월 월령 제한을 두는 나라가 전 세계에서 3개뿐이라고 했다&lt;br&gt;&lt;em&gt;Manager Kim said, "The US mentioned that there are only three countries in the world that impose a 30-month age limit on beef,"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 미국 소고기 수입 1위 국가가 대한민국이라고 (반박)했다”며 이 과정에서 고성이 오갔음을 시사했는데, 구체적으로 어떤 발언이 어느 정도의 수위에서 나왔는지는 공개하지 않았습니다&lt;br&gt;&lt;em&gt;and (refuted) that "South Korea is the number one importer of US beef," suggesting that harsh words were exchanged during this process, but did not disclose specifically what remarks were made or at what level.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (W 보좌관은 또 “한국은 소고기 문제로도 장난질을 하고 있다&lt;br&gt;&lt;em&gt;Advisor W also said, "Korea is also playing games with the beef issue."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;소고기를 좋아해요.&lt;br&gt;&lt;em&gt;I like beef.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 소고기 먹었어요.&lt;br&gt;&lt;em&gt;I ate beef.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sun, 10 Aug 2025 18:21:50 +0900</pubDate>
+    <guid isPermaLink="false">vocab-소고기-1754817710</guid>
+  </item>
+  <item>
+    <title>소중한 – precious</title>
+    <link>urn:urn:vocab:소중한</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600119612651-0db31b3a7baa?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVjaW91c3xlbnwwfHx8fDE3NTQ4MTA4MDB8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="소중한 (precious)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (다른 보좌진은 “비정규직으로 일을 하든 정규직으로 근무를 하든 공무원을 하든 보좌진을 하든 모두 다 누군가에게는 소중한 사람이다&lt;br&gt;&lt;em&gt;" (Other staff members said, 'Whether working as irregular workers, regular workers, civil servants, or staff members, everyone is someone precious to someone else.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;문 전 대통령은 “독거방에 갇힌 어려운 상황에서 나온 소중한 노력의 결과”라고 했다&lt;br&gt;&lt;em&gt;Former President Moon said, 'It is the precious result of efforts made in the difficult situation of being confined to a solitary room.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (문 전 대통령은 “조국 대표가 독거 방에 갇혀 있는 어려운 상황에서 나온 하나의 책이기 때문에 정말 아주 소중한 그런 노력의 결과라는 말씀을 드린다”고 말했다&lt;br&gt;&lt;em&gt;" (Former President Moon said, 'Because it is a book that came out of the difficult situation of Representative Cho Kuk being confined to a solitary room, I tell you it is truly a very precious result of such efforts.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;소중한 친구를 만났어요.&lt;br&gt;&lt;em&gt;I met a precious friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 소중한 선물이에요.&lt;br&gt;&lt;em&gt;This is a precious gift.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sun, 10 Aug 2025 16:27:00 +0900</pubDate>
+    <guid isPermaLink="false">vocab-소중한-1754810820</guid>
+  </item>
+  <item>
+    <title>소고기 – beef</title>
+    <link>urn:urn:vocab:소고기</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1690983330536-3b0089d07cf9?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWVmfGVufDB8fHx8MTc1NDc3NTM3MHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="소고기 (beef)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(김 실장은 “미국은 소고기 30개월 월령 제한을 두는 나라가 전 세계에서 3개뿐이라고 했다&lt;br&gt;&lt;em&gt;Manager Kim said, "The US mentioned that there are only three countries in the world that impose a 30-month age limit on beef,"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 미국 소고기 수입 1위 국가가 대한민국이라고 (반박)했다”며 이 과정에서 고성이 오갔음을 시사했는데, 구체적으로 어떤 발언이 어느 정도의 수위에서 나왔는지는 공개하지 않았습니다&lt;br&gt;&lt;em&gt;and (refuted) that "South Korea is the number one importer of US beef," hinting that harsh words were exchanged during this process, but did not disclose specifically what remarks were made or to what extent.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (W 보좌관은 또 “한국은 소고기 문제로도 장난질을 하고 있다&lt;br&gt;&lt;em&gt;Advisor W also said, "Korea is also playing games with the beef issue."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;소고기를 먹었어요.&lt;br&gt;&lt;em&gt;I ate beef.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소고기가 맛있어요.&lt;br&gt;&lt;em&gt;The beef is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sun, 10 Aug 2025 14:26:13 +0900</pubDate>
+    <guid isPermaLink="false">vocab-소고기-1754803573</guid>
+  </item>
+  <item>
+    <title>소고기 – beef</title>
+    <link>urn:urn:vocab:소고기</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1690983330536-3b0089d07cf9?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWVmfGVufDB8fHx8MTc1NDc3NTM3MHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="소고기 (beef)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(김 실장은 “미국은 소고기 30개월 월령 제한을 두는 나라가 전 세계에서 3개뿐이라고 했다&lt;br&gt;&lt;em&gt;Manager Kim said, "The US mentioned that there are only three countries in the world that impose a 30-month age limit on beef,"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 미국 소고기 수입 1위 국가가 대한민국이라고 (반박)했다”며 이 과정에서 고성이 오갔음을 시사했는데, 구체적으로 어떤 발언이 어느 정도의 수위에서 나왔는지는 공개하지 않았습니다&lt;br&gt;&lt;em&gt;and we (refuted) that South Korea is the number one importer of US beef," hinting that harsh words were exchanged during this process, but did not disclose specifically what remarks were made or at what level.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (W 보좌관은 또 “한국은 소고기 문제로도 장난질을 하고 있다&lt;br&gt;&lt;em&gt;" (Advisor W also said, "Korea is playing games with the beef issue as well."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;소고기를 먹었어요.&lt;br&gt;&lt;em&gt;I ate beef.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소고기가 맛있어요.&lt;br&gt;&lt;em&gt;The beef is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sun, 10 Aug 2025 12:28:02 +0900</pubDate>
+    <guid isPermaLink="false">vocab-소고기-1754796482</guid>
+  </item>
+  <item>
+    <title>소고기 – beef</title>
+    <link>urn:urn:vocab:소고기</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1690983330536-3b0089d07cf9?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWVmfGVufDB8fHx8MTc1NDc3NTM3MHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="소고기 (beef)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(김 실장은 “미국은 소고기 30개월 월령 제한을 두는 나라가 전 세계에서 3개뿐이라고 했다&lt;br&gt;&lt;em&gt;Manager Kim said, "The US mentioned that there are only three countries in the world that impose a 30-month age limit on beef,"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 미국 소고기 수입 1위 국가가 대한민국이라고 (반박)했다”며 이 과정에서 고성이 오갔음을 시사했는데, 구체적으로 어떤 발언이 어느 정도의 수위에서 나왔는지는 공개하지 않았습니다&lt;br&gt;&lt;em&gt;and (refuted) that "We are the number one importer of US beef, the Republic of Korea," hinting that harsh words were exchanged during this process, but did not disclose specifically what remarks were made or to what extent.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (W 보좌관은 또 “한국은 소고기 문제로도 장난질을 하고 있다&lt;br&gt;&lt;em&gt;Advisor W also said, "Korea is also playing games with the beef issue."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;소고기를 먹었어요.&lt;br&gt;&lt;em&gt;I ate beef.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소고기가 맛있어요.&lt;br&gt;&lt;em&gt;The beef is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sun, 10 Aug 2025 10:31:02 +0900</pubDate>
+    <guid isPermaLink="false">vocab-소고기-1754789462</guid>
+  </item>
+  <item>
+    <title>세계에서 – in the world</title>
+    <link>urn:urn:vocab:세계에서</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570358934836-6802981e481e?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMHdvcmxkfGVufDB8fHx8MTc1NDc4MjA3NHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="세계에서 (in the world)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(김 실장은 “미국은 소고기 30개월 월령 제한을 두는 나라가 전 세계에서 3개뿐이라고 했다&lt;br&gt;&lt;em&gt;Manager Kim said, "The U.S. mentioned that there are only three countries in the world that impose a 30-month age limit on beef."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미국이 세계에서 전쟁을 제일 많이 하는 나라라고 말하는 외교 장관이 있는 정부가 문제”라고도 했습니다&lt;br&gt;&lt;em&gt;He also said, "A government with a foreign minister who says the U.S. is the country that wages the most wars in the world is problematic."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;세계에서 가장 큰 나라예요.&lt;br&gt;&lt;em&gt;It is the largest country in the world.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;세계에서 한국어를 배워요.&lt;br&gt;&lt;em&gt;I learn Korean in the world.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sun, 10 Aug 2025 08:28:10 +0900</pubDate>
+    <guid isPermaLink="false">vocab-세계에서-1754782090</guid>
+  </item>
+  <item>
+    <title>소고기 – beef</title>
+    <link>urn:urn:vocab:소고기</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1690983330536-3b0089d07cf9?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWVmfGVufDB8fHx8MTc1NDc3NTM3MHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="소고기 (beef)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;정부는 미국산 소고기 전면 개방 금지를 요구하기 위해 “미 측에 광우병 사태 당시 시위대의 사진을 보여줬다”고 밝혔다&lt;br&gt;&lt;em&gt;The government stated that it 'showed the U.S. side photos of the protesters during the mad cow disease crisis' to demand a complete ban on the opening of American beef.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이미 수입이 이루어지고 있는 미국산 소고기를 개방하고, 국가 경제 지표에 지분이 더 큰 자동차 분야 등의 관세 감축을 위한 카드로 활용할 수 있지 않았느냐는 지적이다&lt;br&gt;&lt;em&gt;There is criticism that the already imported American beef could have been opened and used as a card to reduce tariffs in areas with a larger share in the national economic indicators, such as the automotive sector.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(실제로 정부가 미국산 소고기 수입 금지를 주장한 이유는 ‘정치적 민감성’ 때문이었다&lt;br&gt;&lt;em&gt;(In fact, the reason the government argued for the ban on American beef imports was due to 'political sensitivity'.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;소고기를 좋아해요.&lt;br&gt;&lt;em&gt;I like beef.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 소고기 먹었어요.&lt;br&gt;&lt;em&gt;I ate beef.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sun, 10 Aug 2025 06:36:26 +0900</pubDate>
+    <guid isPermaLink="false">vocab-소고기-1754775386</guid>
+  </item>
+  <item>
+    <title>마사지 – massage</title>
+    <link>urn:urn:vocab:마사지</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1519823551278-64ac92734fb1?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXNzYWdlfGVufDB8fHx8MTc1NDc2ODYzM3ww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="마사지 (massage)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(박 수석대변인은 “일본군 위안부 피해자 할머니들에게 전달된 후원금과 국고 보조금 등을 빼돌려 요가 강사비, 발 마사지, 술집, 면세점 쇼핑 등에 탕진한 사람이 광복절 80주년에 사면된다면, 광복을 위해 희생하신 순국선열들께서 통곡하실 일”이라고 했다&lt;br&gt;&lt;em&gt;Park, the chief spokesperson, said, 'If a person who embezzled donations and government subsidies meant for the grandmothers who were victims of Japanese military sexual slavery and squandered them on yoga instructor fees, foot massages, bars, and duty-free shopping is pardoned on the 80th anniversary of Liberation Day, the patriotic martyrs who sacrificed for liberation would weep.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;마사지가 필요해요.&lt;br&gt;&lt;em&gt;I need a massage.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 마사지를 좋아해요.&lt;br&gt;&lt;em&gt;I like massages.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sun, 10 Aug 2025 04:44:14 +0900</pubDate>
+    <guid isPermaLink="false">vocab-마사지-1754768654</guid>
+  </item>
+  <item>
+    <title>어려워 – difficult</title>
+    <link>urn:urn:vocab:어려워</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1489850846882-35ef10a4b480?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaWZmaWN1bHR8ZW58MHx8fHwxNzU0NzYyMTM4fDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="어려워 (difficult)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Kim Moon-so and Jang Dong-hyuk "It is difficult to agree to demonize Jeon Han-gil" "The main enemy is Lee Jae-myung, I will filter out impurities within the party" (김문수·장동혁 “전한길 악마화 동의 어려워” “주적은 이재명, 당내 불순물 걸러내겠다”) &amp;lt;&lt;br&gt;&lt;em&gt;Kim Moon-so and Jang Dong-hyuk "It is difficult to agree to demonize Jeon Han-gil" "The main enemy is Lee Jae-myung, I will filter out impurities within the party"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;Kim Moon-so and Jang Dong-hyuk "It is difficult to agree to demonize Jeon Han-gil" "The main enemy is Lee Jae-myung, I will filter out impurities within the party"  (김문수·장동혁 “전한길 악마화 동의 어려워” “주적은 이재명, 당내 불순물 걸러내겠다” )&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;%5BCDATA%5B&amp;lt;h1&amp;gt;Kim%20Moon-so%20and%20Jang%20Dong-hyuk%20" it is difficult to agree demonize jeon han-gil main enemy lee jae-myung i will filter out impurities within the party&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;/div&amp;gt;%0A&amp;lt;br/&amp;gt;&amp;lt;div%20class=" simple&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;한국어는 어려워.&lt;br&gt;&lt;em&gt;Korean is difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 문제는 어려워.&lt;br&gt;&lt;em&gt;This problem is difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sun, 10 Aug 2025 02:55:59 +0900</pubDate>
+    <guid isPermaLink="false">vocab-어려워-1754762159</guid>
+  </item>
+  <item>
+    <title>영어를 – English language</title>
+    <link>urn:urn:vocab:영어를</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1543109740-4bdb38fda756?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxFbmdsaXNoJTIwbGFuZ3VhZ2V8ZW58MHx8fHwxNzU0NzU1NTk4fDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="영어를 (English language)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;정 의원은 “강 의원이 영어를 통역사처럼 잘한다”며 “(인터뷰) 오기 전에 ‘강선우 국제위원장 유임’, 이렇게 써놓고 왔다”고 했다&lt;br&gt;&lt;em&gt;Rep. Jeong said, "Rep. Kang speaks English as well as an interpreter," and added, "Before coming (to the interview), I wrote down 'Chairman Kang Seon-woo reappointed as the international chairman' and came here."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;나는 영어를 공부해요.&lt;br&gt;&lt;em&gt;I study English.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;영어를 잘하고 싶어요.&lt;br&gt;&lt;em&gt;I want to be good at English.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sun, 10 Aug 2025 01:06:53 +0900</pubDate>
+    <guid isPermaLink="false">vocab-영어를-1754755613</guid>
+  </item>
+  <item>
+    <title>수줍은 – shy</title>
+    <link>urn:urn:vocab:수줍은</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619144340863-6326e20327de?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaHl8ZW58MHx8fHwxNzU0NzQ4NzUzfDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="수줍은 (shy)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;NYT, Kim Joo-ae spotlight (“아빠 옆 수줍은 소녀, 유력한 北 후계자로”…NYT, 김주애 집중조명) &amp;lt;&lt;br&gt;&lt;em&gt;NYT, Kim Joo-ae spotlight (“The shy girl next to dad, a strong candidate for North’s successor”…NYT, focuses on Kim Joo-ae) &amp;lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;NYT, Kim Joo-ae spotlight (“아빠 옆 수줍은 소녀, 유력한 北 후계자로”…NYT, 김주애 집중조명)&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;NYT,%20Kim%20Joo-ae%20spotlight%20(%E2%80%9CThe%20shy%20girl%20next%20to%20dad,%20a%20strong%20candidate%20for%20North%E2%80%99s%20successor%E2%80%9D%E2%80%A6NYT,%20focuses%20on%20Kim%20Joo-ae)&amp;lt;/h1&amp;gt;&amp;lt;img%20src=" https:&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;수줍은 아이가 웃었어요.&lt;br&gt;&lt;em&gt;The shy child laughed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 수줍은 미소를 지었어요.&lt;br&gt;&lt;em&gt;He gave a shy smile.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sat, 09 Aug 2025 23:12:50 +0900</pubDate>
+    <guid isPermaLink="false">vocab-수줍은-1754748770</guid>
+  </item>
+  <item>
+    <title>배신자 – traitor</title>
+    <link>urn:urn:vocab:배신자</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1655374631048-1416d81cd20a?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFpdG9yfGVufDB8fHx8MTc1NDczNTQ2OHww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="배신자 (traitor)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Cho Kyung-tae and Ahn Cheol-so "Should be expelled from the party" (찬탄파 후보들에 ‘배신자’ 외친 전한길… 조경태·안철수 “출당·제명해야”) &amp;lt;&lt;br&gt;&lt;em&gt;Cho Kyung-tae and Ahn Cheol-so "Should be expelled from the party" (Jeon Han-gil shouted 'traitor' at the pro-tan candidates… Cho Kyung-tae and Ahn Cheol-so "should be expelled and removed from the party") &amp;lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Cho Kyung-tae and Ahn Cheol-so "Should be expelled from the party" (찬탄파 후보들에 ‘배신자’ 외친 전한길… 조경태·안철수 “출당·제명해야”)&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;Cho%20Kyung-tae%20and%20Ahn%20Cheol-so%20" should be expelled from the party han-gil shouted at pro-tan candidates cho kyung-tae and ahn cheol-so removed&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;p&amp;gt;(%EC%A0%84%EC%94%A8%EB%8A%94%20%EB%8B%B9%EC%9B%90%203000%EC%97%AC%EB%AA%85%EC%9D%B4%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%ED%95%A9%EB%8F%99%20%EC%97%B0%EC%84%A4%ED%9A%8C%EC%97%90%EC%84%9C%20%EB%B0%98%ED%83%84%ED%8C%8C(%EA%B9%80%EB%AC%B8%EC%88%98%C2%B7%EC%9E%A5%EB%8F%99%ED%98%81%20%ED%9B%84%EB%B3%B4)%EA%B0%80%20%EC%97%B0%EC%84%A4%ED%95%98%EB%A9%B4%20%EB%B0%95%EC%88%98%EB%A5%BC%20%EC%B9%98%EA%B3%A0,%20%EC%B0%AC%ED%83%84%ED%8C%8C(%EC%95%88%EC%B2%A0%EC%88%98%C2%B7%EC%A1%B0%EA%B2%BD%ED%83%9C%20%ED%9B%84%EB%B3%B4)%EA%B0%80%20%EC%97%B0%EC%84%A4%EC%97%90%EC%84%9C%20%EC%9C%A4%EC%84%9D%EC%97%B4%20%EC%A0%84%20%EB%8C%80%ED%86%B5%EB%A0%B9%EC%9D%84%20%EB%B9%84%ED%8C%90%ED%95%98%EB%A9%B4%20%EC%B2%AD%EC%A4%91%EC%84%9D%20%EC%95%9E%EC%9C%BC%EB%A1%9C%20%EB%9B%B0%EC%B3%90%EB%82%98%EA%B0%80%20%EC%B0%B8%EC%84%9D%EC%9E%90%EB%93%A4%EC%97%90%EA%B2%8C%20%EC%B0%AC%ED%83%84%ED%8C%8C%20%ED%9B%84%EB%B3%B4%EB%93%A4%EC%9D%84%20%ED%96%A5%ED%95%B4%20%E2%80%9C%EB%B0%B0%EC%8B%A0%EC%9E%90%E2%80%9D%EB%9D%BC%EA%B3%A0%20%EC%99%B8%EC%B9%98%EB%9D%BC%EA%B3%A0%20%EB%8F%85%EB%A0%A4%ED%96%88%EB%8B%A4&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;(At%20a%20joint%20speech%20attended%20by%20about%203,000%20party%20members,%20Mr.%20Jeon%20encouraged%20the%20audience%20to%20applaud%20when%20the%20anti-tan%20candidates%20(Kim%20Moon-soo%20and%20Jang%20Dong-hyuk)%20spoke,%20and%20to%20rush%20to%20the%20front%20of%20the%20audience%20and%20shout%20'traitor'%20at%20the%20pro-tan%20candidates%20(Ahn%20Cheol-soo%20and%20Cho%20Kyung-tae)%20when%20they%20criticized%20former%20President%20Yoon%20Suk-yeol%20in%20their%20speeches)&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;%0A&amp;lt;/div&amp;gt;%0A&amp;lt;br/&amp;gt;&amp;lt;div%20class=" simple&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;&lt;p&gt;그는 배신자야.&lt;br&gt;&lt;em&gt;He is a traitor.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;배신자를 믿지 마.&lt;br&gt;&lt;em&gt;Don't trust the traitor.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sat, 09 Aug 2025 19:31:33 +0900</pubDate>
+    <guid isPermaLink="false">vocab-배신자-1754735493</guid>
+  </item>
+  <item>
+    <title>박수를 – applause</title>
+    <link>urn:urn:vocab:박수를</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1543980932-b5fc649a8000?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHBsYXVzZXxlbnwwfHx8fDE3NTQ3Mjg3MDd8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="박수를 (applause)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(전씨는 당원 3000여명이 참석한 합동 연설회에서 반탄파(김문수·장동혁 후보)가 연설하면 박수를 치고, 찬탄파(안철수·조경태 후보)가 연설에서 윤석열 전 대통령을 비판하면 청중석 앞으로 뛰쳐나가 참석자들에게 찬탄파 후보들을 향해 “배신자”라고 외치라고 독려했다&lt;br&gt;&lt;em&gt;At a joint speech attended by about 3,000 party members, Jeon encouraged the audience to applaud when the anti-tan faction (candidates Kim Moon-soo and Jang Dong-hyuk) spoke, and to rush to the front of the audience seats and shout 'traitors' at the pro-tan faction candidates (Ahn Cheol-soo and Jo Kyung-tae) when they criticized former President Yoon Suk-yeol in their speeches.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(전씨는 8일 당원 3000여 명이 참석한 가운데 열린 합동 연설회에서 반탄파(김문수·장동혁 후보)가 연설하면 박수를 치고, 찬탄파(안철수·조경태) 후보가 연설하면 청중석 앞으로 뛰쳐나가 참석자들에게 찬탄파 후보들을 향해 “배신자”라 외치라고 독려했다&lt;br&gt;&lt;em&gt;On the 8th, at a joint speech attended by about 3,000 party members, Jeon encouraged the audience to applaud when the anti-tan faction (candidates Kim Moon-soo and Jang Dong-hyuk) spoke, and to rush to the front of the audience seats and shout 'traitors' at the pro-tan faction candidates (Ahn Cheol-soo and Jo Kyung-tae) when they spoke.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(전씨는 8일 합동 연설회에서 김문수·장동혁 후보가 연설하면 박수를 치고, 찬탄파 안철수·조경태 후보가 연설하면 청중석 앞으로 뛰쳐나가 참석자들에게 찬탄파 후보들을 향해 “배신자”라 외치라고 독려했다&lt;br&gt;&lt;em&gt;On the 8th, at a joint speech, Jeon encouraged the audience to applaud when candidates Kim Moon-soo and Jang Dong-hyuk spoke, and to rush to the front of the audience seats and shout 'traitors' at the pro-tan faction candidates Ahn Cheol-soo and Jo Kyung-tae when they spoke.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;모두 박수를 쳤어요.&lt;br&gt;&lt;em&gt;Everyone clapped.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선생님께 박수를 드렸어요.&lt;br&gt;&lt;em&gt;I applauded the teacher.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sat, 09 Aug 2025 17:38:54 +0900</pubDate>
+    <guid isPermaLink="false">vocab-박수를-1754728734</guid>
+  </item>
+  <item>
+    <title>위안부 – comfort women</title>
+    <link>urn:urn:vocab:위안부</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1743795238971-f0e71ed903f9?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21mb3J0JTIwd29tZW58ZW58MHx8fHwxNzU0NzIxOTU2fDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="위안부 (comfort women)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;윤 전 의원은 2020년 9월 일본군 위안부 피해자의 후원금 횡령 등 혐의로 기소돼 작년 11월 대법원에서 징역 1년 6개월에 집행유예 3년이 확정됐다&lt;br&gt;&lt;em&gt;Former lawmaker Yoon was indicted in September 2020 on charges including embezzlement of donations for victims of Japanese military sexual slavery and was confirmed by the Supreme Court last November to a suspended sentence of one year and six months with three years of probation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (윤 전 의원이 이사장이었던 정의기억연대는 2019년 1월 별세한 위안부 피해자 고(故) 김복동 할머니 장례식 조의금 일부를 주한미군 사드(고고도 미사일 방어) 반대 대책위원회, 탈북 종업원 북송 추진 단체 등에 나눠줬다는 논란에 휩싸였다&lt;br&gt;&lt;em&gt;"The Korean Council for Justice and Remembrance, which former lawmaker Yoon was the chairman of, was embroiled in controversy for allegedly distributing part of the condolence money for the funeral of the late Kim Bok-dong, a victim of Japanese military sexual slavery who passed away in January 2019, to organizations such as the anti-THAAD (Terminal High Altitude Area Defense) committee and groups promoting the repatriation of North Korean workers."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박민영 국민의힘 대변인은 이날 “윤미향씨 사면은 곧 그간 민주당이 위안부 할머니들을 정치적 도구로 이용해왔다는 자백”이라며 “윤미향씨가 재판을 4년 넘게 미뤄 국회의원 임기를 모두 채운 것만으로도 국민에 대한 기망이자 국가적 수치”라고 했다&lt;br&gt;&lt;em&gt;Park Min-young, spokesperson for the People Power Party, said that day, "The pardon of Yoon Mi-hyang is an admission that the Democratic Party has been using the grandmothers who were victims of sexual slavery as political tools," adding, "The fact that Yoon Mi-hyang delayed her trial for more than four years and served her entire term as a lawmaker is a deception to the people and a national disgrace."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;위안부는 역사를 기억합니다.&lt;br&gt;&lt;em&gt;The comfort women remember history.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;위안부에 대해 배웠어요.&lt;br&gt;&lt;em&gt;I learned about the comfort women.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sat, 09 Aug 2025 15:46:24 +0900</pubDate>
+    <guid isPermaLink="false">vocab-위안부-1754721984</guid>
+  </item>
+  <item>
+    <title>할머니 – grandmother</title>
+    <link>urn:urn:vocab:할머니</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1593100126453-19b562a800c1?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxncmFuZG1vdGhlcnxlbnwwfHx8fDE3NTQ3MTQ5NTR8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="할머니 (grandmother)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (윤 전 의원이 이사장이었던 정의기억연대는 2019년 1월 별세한 위안부 피해자 고(故) 김복동 할머니 장례식 조의금 일부를 주한미군 사드(고고도 미사일 방어) 반대 대책위원회, 탈북 종업원 북송 추진 단체 등에 나눠줬다는 논란에 휩싸였다&lt;br&gt;&lt;em&gt;The Justice Memory Solidarity, where former lawmaker Yoon served as chairman, was embroiled in controversy for distributing part of the condolence money from the funeral of the late comfort woman victim Kim Bok-dong, who passed away in January 2019, to organizations such as the anti-THAAD (Terminal High Altitude Area Defense) task force against the USFK and groups promoting the repatriation of North Korean defectors.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;윤 전 의원은 자신의 페이스북에 김 할머니 별세 소식을 알리면서 자기 개인 계좌를 ‘후원 계좌 번호’라고 적기도 했다&lt;br&gt;&lt;em&gt;Former lawmaker Yoon also posted the news of Grandma Kim's passing on his Facebook and even wrote his personal account number as a 'donation account number.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박민영 국민의힘 대변인은 이날 “윤미향씨 사면은 곧 그간 민주당이 위안부 할머니들을 정치적 도구로 이용해왔다는 자백”이라며 “윤미향씨가 재판을 4년 넘게 미뤄 국회의원 임기를 모두 채운 것만으로도 국민에 대한 기망이자 국가적 수치”라고 했다&lt;br&gt;&lt;em&gt;Park Min-young, spokesperson for the People Power Party, said that day, 'The pardon of Yoon Mi-hyang is an admission that the Democratic Party has been using comfort women as political tools. It is a deception to the people and a national disgrace that Yoon Mi-hyang delayed her trial for over four years, serving her entire term as a lawmaker.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;할머니께서 음식을 만드셨어요.&lt;br&gt;&lt;em&gt;Grandmother made food.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 할머니를 방문했어요.&lt;br&gt;&lt;em&gt;I visited grandmother.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sat, 09 Aug 2025 13:49:37 +0900</pubDate>
+    <guid isPermaLink="false">vocab-할머니-1754714977</guid>
+  </item>
+  <item>
+    <title>편안하다 – comfortable</title>
+    <link>urn:urn:vocab:편안하다</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1545252681-4cc81120c471?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21mb3J0YWJsZXxlbnwwfHx8fDE3NTQ3MDcyNzh8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="편안하다 (comfortable)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(법무부 사면심사위원회의 광복절 특별사면 대상에 포함된 윤미향 전 의원이 “언론에서 무더기로 의혹 보도한 게 다 무혐의, 불기소 처분되니, 이상한 것을 모아서 기소를 했던 검찰”이라며 “그러나 저는 참 편안하다&lt;br&gt;&lt;em&gt;Former lawmaker Yoon Mi-hyang, included in the Ministry of Justice's special amnesty review committee's Liberation Day special amnesty list, said, "All the suspicions reported en masse by the media were either no charges or non-indictment decisions, so the prosecution that collected strange things to indict was odd," adding, "But I am very comfortable."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (이날 윤 전 의원은 자신의 페이스북에 “오늘도 저것들은 나를 물어뜯고 있다”며 “그러나 저는 참 편안하다&lt;br&gt;&lt;em&gt;That day, former lawmaker Yoon posted on her Facebook, "Today, those things are biting at me again," but added, "But I am very comfortable."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“저는 참 편안하다&lt;br&gt;&lt;em&gt;"I am very comfortable."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;이 침대는 매우 편안하다.&lt;br&gt;&lt;em&gt;This bed is very comfortable.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그의 목소리는 편안하다.&lt;br&gt;&lt;em&gt;His voice is comforting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Sat, 09 Aug 2025 11:41:39 +0900</pubDate>
+    <guid isPermaLink="false">vocab-편안하다-1754707299</guid>
+  </item>
+  <item>
+    <title>기준을 – standard</title>
+    <link>urn:urn:vocab:기준을</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1546250001-6b7b60086f17?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFuZGFyZHxlbnwwfHx8fDE3NTQ2MDcwMTV8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="기준을 (standard)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;이 자리에선 주식 양도소득세 부과 대주주 기준을 종목당 50억원에서 10억원으로 낮추는 세제 개편안과 관련한 입장이 나올 예정이어서 관심이 주목됐다&lt;br&gt;&lt;em&gt;Attention was focused as a position regarding the tax reform proposal to lower the threshold for major shareholders subject to stock transfer income tax from 5 billion won to 1 billion won per item is expected to be announced at this meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(현재 민주당 정책위는 당 입장을 정리하고 있고 민주당 원내 지도부는 이미 대통령실에 양도세 기준을 기존 50억원으로 유지하자는 입장을 전달한 것으로 알려졌다&lt;br&gt;&lt;em&gt;(Currently, the Democratic Party's policy committee is organizing the party's position, and it is known that the Democratic Party's leadership in the National Assembly has already conveyed to the presidential office the position to maintain the transfer tax threshold at the existing 5 billion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이날 토론회에 참석한 조국혁신당 차규근 의원은 “대주주 양도세 기준 하향 논란은 기준을 보유 금액에 두고 있기 때문”이라며 “양도세는 부과 대상 기준을 양도 차익으로 두고 과세하는 것이 제도 취지에 맞고 시장 충격을 줄일 수 있다”고 했다&lt;br&gt;&lt;em&gt;" (Rep. Cha Kyu-geun of the Cho Kuk Innovation Party, who attended the discussion that day, said, 'The controversy over lowering the threshold for major shareholders' transfer tax is because the standard is based on the amount held,' adding, 'It is in line with the purpose of the system and can reduce market shock to tax the transfer tax based on the transfer gain as the subject of taxation.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;기준을 정해 주세요.&lt;br&gt;&lt;em&gt;Please set the standard.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 기준을 따라야 해요.&lt;br&gt;&lt;em&gt;You have to follow this standard.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Fri, 08 Aug 2025 07:50:36 +0900</pubDate>
+    <guid isPermaLink="false">vocab-기준을-1754607036</guid>
+  </item>
+  <item>
+    <title>음식점 – restaurant</title>
+    <link>urn:urn:vocab:음식점</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1556745750-68295fefafc5?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxyZXN0YXVyYW50fGVufDB8fHx8MTc1NDU5ODgyN3ww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="음식점 (restaurant)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (매출액 증가 폭이 큰 업종은 음식점(2677억원), 주유(1326억원), 의류·잡화(1042억원), 마트·식료품(884억원) 순이었다&lt;br&gt;&lt;em&gt;The sectors with the largest increase in sales were restaurants (267.7 billion won), gas stations (132.6 billion won), clothing and miscellaneous goods (104.2 billion won), and supermarkets and groceries (88.4 billion won), in that order.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;음식점에 가요.&lt;br&gt;&lt;em&gt;I go to the restaurant.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 음식점에서 먹어요.&lt;br&gt;&lt;em&gt;I eat at the restaurant.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Fri, 08 Aug 2025 05:34:03 +0900</pubDate>
+    <guid isPermaLink="false">vocab-음식점-1754598843</guid>
+  </item>
+  <item>
+    <title>단어는 – word</title>
+    <link>urn:urn:vocab:단어는</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620969427101-7a2bb6d83273?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JkfGVufDB8fHx8MTc1NDU5MDQzNnww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="단어는 (word)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;우리 합참은 “2022년과 2024년 ‘자유의 방패’ 발표문에도 북한이란 단어는 없었다”며 “이번 연습 시나리오에 북한의 미사일에 대한 상황은 있어서, 북한의 핵 사용 억제에 대한 훈련을 진행할 것”이라고 말했다&lt;br&gt;&lt;em&gt;Our Joint Chiefs of Staff said, "The term 'North Korea' was not mentioned in the 'Shield of Freedom' announcements in 2022 and 2024," and added, "Since this exercise scenario includes situations involving North Korean missiles, we will conduct training to deter North Korea's nuclear use."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (올해 발표문에 ‘북한’ 언급이 전혀 없는 데 대해 합참은 “2024년 발표문에도 북한이라는 단어는 없었다”고 했다&lt;br&gt;&lt;em&gt;"Regarding the complete absence of any mention of 'North Korea' in this year's announcement, the Joint Chiefs of Staff stated, 'The term North Korea was not mentioned in the 2024 announcement either.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;단어는 중요해요.&lt;br&gt;&lt;em&gt;Words are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;단어는 쉽지 않아요.&lt;br&gt;&lt;em&gt;Words are not easy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Fri, 08 Aug 2025 03:14:13 +0900</pubDate>
+    <guid isPermaLink="false">vocab-단어는-1754590453</guid>
+  </item>
+  <item>
+    <title>폭염에 – heat wave</title>
+    <link>urn:urn:vocab:폭염에</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1740560516658-5a94b0b715ed?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWF0JTIwd2F2ZXxlbnwwfHx8fDE3NTQ1ODE5NzJ8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="폭염에 (heat wave)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (이성준 합참 공보실장은 “극심한 폭염에 따른 훈련 여건의 보장, 연중 균형된 연합방위태세 유지 등 다양한 요소들을 종합적으로 검토한 후 한미 간 긴밀한 협의를 통해 일부 훈련을 다음 달로 조정하여 시행하기로 했다”고 밝혔다&lt;br&gt;&lt;em&gt;" (Lee Seong-joon, head of the Joint Chiefs of Public Affairs, said, "After comprehensively reviewing various factors such as ensuring training conditions due to extreme heat and maintaining a balanced combined defense posture throughout the year, it was decided to adjust some trainings to next month through close consultation between South Korea and the U.S."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&amp;gt;폭염에 녹아내리는 경제&lt;br&gt;&lt;em&gt;4em;"&amp;gt;Economy melting in the heat wave&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;폭염에 물을 많이 마셔요.&lt;br&gt;&lt;em&gt;Drink plenty of water in the heatwave.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;폭염에 밖에 나가지 마세요.&lt;br&gt;&lt;em&gt;Do not go outside in the heatwave.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Fri, 08 Aug 2025 00:53:13 +0900</pubDate>
+    <guid isPermaLink="false">vocab-폭염에-1754581993</guid>
+  </item>
+  <item>
+    <title>부분에 – in part</title>
+    <link>urn:urn:vocab:부분에</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1569359535266-ad610ca9f1cd?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHBhcnR8ZW58MHx8fHwxNzU0NTc0MzAwfDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="부분에 (in part)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (이에 대해 여한구 산업통상자원부 통상교섭본부장은 SBS라디오에서 “한국이 100% 관세를 맞는 일은 없을 것”이라며 “우리는 이번에 협상을 타결하면서 미래의 관세, 특히 반도체나 바이오 부분에 있어서는 최혜국 대우를 받기로 했다&lt;br&gt;&lt;em&gt;Regarding this, Yeo Han-koo, the head of the Trade Negotiation Headquarters at the Ministry of Trade, Industry and Energy, said on SBS Radio, "There will be no case where Korea faces 100% tariffs," adding, "We have agreed in this negotiation to receive most-favored-nation treatment in future tariffs, especially in semiconductors and bio sectors."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;억울한 부분에 대해 서명운동을 시작하는 게 좋을지 여러 방법이 있다&lt;br&gt;&lt;em&gt;There are various methods, such as starting a signature campaign for the unfair parts.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;3500억원 대미 투자 펀드 운용과 미국 농산물 수입 등 관세 협상 타결 후에도 여전히 양국 입장에 차이가 있는 부분에 대한 협의도 구체화될 것으로 보인다&lt;br&gt;&lt;em&gt;It appears that discussions will also be concretized on parts where there are still differences in the positions of both countries, even after the conclusion of tariff negotiations, such as the operation of a $35 billion investment fund in the U.S. and the import of American agricultural products.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;이 부분에 주목하세요.&lt;br&gt;&lt;em&gt;Pay attention to this part.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부분에 문제가 있어요.&lt;br&gt;&lt;em&gt;There is a problem with the part.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 07 Aug 2025 22:45:22 +0900</pubDate>
+    <guid isPermaLink="false">vocab-부분에-1754574322</guid>
+  </item>
+  <item>
+    <title>북한이 – North Korea</title>
+    <link>urn:urn:vocab:북한이</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604359896927-0610b7a3a2be?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOb3J0aCUyMEtvcmVhfGVufDB8fHx8MTc1NDU2NjY3OXww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="북한이 (North Korea)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(군 당국은 폭염 등을 연기 사유로 들었지만, 북한이 한미연합훈련을 ‘북침 전쟁연습’이라고 주장하며 반발하고, 정동영 통일부 장관이 UFS 훈련 ‘조정’을 건의한 것도 고려됐을 것으로 보인다&lt;br&gt;&lt;em&gt;The military authorities cited the heatwave and other reasons for the postponement, but it appears that North Korea's opposition, claiming the ROK-US joint training as a 'war rehearsal for invasion of the North', and the suggestion by Unification Minister Jeong Dong-young to 'adjust' the UFS training were also considered.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 합참은 “2022년과 2024년 ‘자유의 방패’ 발표문에도 북한이란 단어는 없었다”며 “이번 연습 시나리오에 북한의 미사일에 대한 상황은 있어서, 북한의 핵 사용 억제에 대한 훈련을 진행할 것”이라고 말했다&lt;br&gt;&lt;em&gt;Our Joint Chiefs of Staff said, 'The term North Korea was not in the announcements of 'Freedom Shield' in 2022 and 2024,' and 'Since there is a scenario involving North Korea's missiles in this exercise, we will conduct training to deter North Korea's nuclear use.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도널드 주한미군사 공보실장은 ‘북한’ 언급이 빠진 것이 주한미군의 전략적 유연성 확대와 관련있느냐는 질문에 “‘북한’이라는 단어가 빠졌다고 해서 북한이 한반도 안보에 주 위협이라는 것에는 변함이 없다”고 말했다&lt;br&gt;&lt;em&gt;Donald, the Chief of Public Affairs for US Forces Korea, in response to a question about whether the omission of the mention of 'North Korea' was related to the expansion of strategic flexibility of US Forces Korea, said, 'Just because the word 'North Korea' is omitted, it does not change the fact that North Korea is the main threat to the security of the Korean Peninsula.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;북한이 멀리 있어요.&lt;br&gt;&lt;em&gt;North Korea is far away.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;북한이 작은 나라예요.&lt;br&gt;&lt;em&gt;North Korea is a small country.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 07 Aug 2025 20:38:26 +0900</pubDate>
+    <guid isPermaLink="false">vocab-북한이-1754566706</guid>
+  </item>
+  <item>
+    <title>자유의 – freedom</title>
+    <link>urn:urn:vocab:자유의</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1507835661088-ac1e84fe645f?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlZG9tfGVufDB8fHx8MTc1NDU1ODAwNnww&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="자유의 (freedom)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(유사시 한반도 방어를 위한 정례 한미연합훈련인 ‘을지 자유의 방패’(UFS·Ulchi Freedom Shield) 연습이 오는 18일부터 28일까지 11일간 진행된다&lt;br&gt;&lt;em&gt;The 'Ulchi Freedom Shield' (UFS) exercise, a regular South Korea-U.S. combined military drill for the defense of the Korean Peninsula in case of emergency, will be conducted for 11 days from the 18th to the 28th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 합참은 “2022년과 2024년 ‘자유의 방패’ 발표문에도 북한이란 단어는 없었다”며 “이번 연습 시나리오에 북한의 미사일에 대한 상황은 있어서, 북한의 핵 사용 억제에 대한 훈련을 진행할 것”이라고 말했다&lt;br&gt;&lt;em&gt;Our Joint Chiefs of Staff stated, "The term 'North Korea' was not mentioned in the announcements of 'Freedom Shield' in 2022 and 2024," adding, "Since there is a scenario involving North Korea's missiles in this exercise, training to deter North Korea's nuclear use will be conducted."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;자유의 의미는 중요해요.&lt;br&gt;&lt;em&gt;The meaning of freedom is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 자유의 가치를 알아요.&lt;br&gt;&lt;em&gt;I know the value of freedom.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 07 Aug 2025 18:13:47 +0900</pubDate>
+    <guid isPermaLink="false">vocab-자유의-1754558027</guid>
+  </item>
+  <item>
+    <title>거짓말 – lie</title>
+    <link>urn:urn:vocab:거짓말</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1583443920098-6b56d6aabdb1?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaWV8ZW58MHx8fHwxNzU0NTQ5NDQ2fDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="거짓말 (lie)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;" (안 후보는 “단일화 거짓말, 불출마 거짓말, 사과 거짓말&lt;br&gt;&lt;em&gt;" (Candidate Ahn said, "Lies about unification, lies about not running, lies about apologizing&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;너는 거짓말 했어.&lt;br&gt;&lt;em&gt;You lied.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;거짓말 하지 마.&lt;br&gt;&lt;em&gt;Don't lie.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 07 Aug 2025 15:51:02 +0900</pubDate>
+    <guid isPermaLink="false">vocab-거짓말-1754549462</guid>
+  </item>
+  <item>
+    <title>감사합니다 – Thank you</title>
+    <link>urn:urn:vocab:감사합니다</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1608389168343-ba8aa0cb3a63?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxUaGFuayUyMHlvdXxlbnwwfHx8fDE3NTQ1NDE0Njh8MA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="감사합니다 (Thank you)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;(예문 없음)&lt;br&gt;&lt;em&gt;(No example sentence)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;선생님, 감사합니다.&lt;br&gt;&lt;em&gt;Teacher, thank you.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도움 주셔서 감사합니다.&lt;br&gt;&lt;em&gt;Thank you for your help.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 07 Aug 2025 13:38:00 +0900</pubDate>
+    <guid isPermaLink="false">vocab-감사합니다-1754541480</guid>
+  </item>
+  <item>
+    <title>감사 – thanks</title>
+    <link>urn:urn:vocab:감사</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1526614180703-827d23e7c8f2?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGFua3N8ZW58MHx8fHwxNzU0NDk2Mzc0fDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="감사 (thanks)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Board of Audit and Inspection Sheathes Its Sword After President’s Remark (대통령 한마디에 칼 꺾은 감사원) &amp;lt;&lt;br&gt;&lt;em&gt;Board of Audit and Inspection Sheathes Its Sword After President’s Remark&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;Board of Audit and Inspection Sheathes Its Sword After President’s Remark (대통령 한마디에 칼 꺾은 감사원)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;%5BCDATA%5B&amp;lt;h1&amp;gt;Board%20of%20Audit%20and%20Inspection%20Sheathes%20Its%20Sword%20After%20President%E2%80%99s%20Remark&amp;lt;/h1&amp;gt;&amp;lt;img%20src=" https:&gt;
+&lt;p&gt;” (감사원이 6일 “정책 결정에 대한 감사를 폐지하겠다”고 밝혔다&lt;br&gt;&lt;em&gt;” (The Board of Audit and Inspection announced on the 6th that it would abolish audits on policy decisions&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;감사 많이 해요.&lt;br&gt;&lt;em&gt;Thank you very much.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구에게 감사 말했어요.&lt;br&gt;&lt;em&gt;I thanked my friend.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 07 Aug 2025 11:30:16 +0900</pubDate>
+    <guid isPermaLink="false">vocab-감사-1754533816</guid>
+  </item>
+  <item>
+    <title>감사 – thanks</title>
+    <link>urn:urn:vocab:감사</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1526614180703-827d23e7c8f2?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGFua3N8ZW58MHx8fHwxNzU0NDk2Mzc0fDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="감사 (thanks)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;이 의원은 작년 재산 신고에서 본인과 가족 명의로 보유한 주식이 없다고 했지만 작년 10월 국정감사장, 지난 4일 본회의장에서 보좌관 명의 증권 계좌로 주식을 거래하는 듯한 모습이 포착되면서 “재산 신고 내역을 믿기 어렵다”는 여론 질타가 빗발치고 있다&lt;br&gt;&lt;em&gt;This lawmaker claimed in last year's asset declaration that neither they nor their family held any stocks, but after footage surfaced showing what appeared to be stock trades through a securities account under an aide's name during the National Assembly audit last October and at the plenary session four days ago, public criticism is pouring in, saying 'it's hard to believe the asset declaration details.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Board of Audit and Inspection Sheathes Its Sword After President’s Remark (대통령 한마디에 칼 꺾은 감사원) &amp;lt;&lt;br&gt;&lt;em&gt;Board of Audit and Inspection Sheathes Its Sword After President’s Remark&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;Board of Audit and Inspection Sheathes Its Sword After President’s Remark (대통령 한마디에 칼 꺾은 감사원)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;%5BCDATA%5B&amp;lt;h1&amp;gt;Board%20of%20Audit%20and%20Inspection%20Sheathes%20Its%20Sword%20After%20President%E2%80%99s%20Remark%20(The%20Board%20of%20Audit%20and%20Inspection%20sheathes%20its%20sword%20after%20the%20President's%20remark)&amp;lt;/h1&amp;gt;&amp;lt;img%20src=" https:&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;감사합니다.&lt;br&gt;&lt;em&gt;Thank you.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정말 감사해요.&lt;br&gt;&lt;em&gt;Thank you very much.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 07 Aug 2025 09:14:51 +0900</pubDate>
+    <guid isPermaLink="false">vocab-감사-1754525691</guid>
+  </item>
+  <item>
+    <title>감사 – thanks</title>
+    <link>urn:urn:vocab:감사</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1526614180703-827d23e7c8f2?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGFua3N8ZW58MHx8fHwxNzU0NDk2Mzc0fDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="감사 (thanks)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Audit Office Declares 'No Audits on Government Policies' 13 Days After President Lee's Directive (李 지시 13일 만에… ‘정부 정책에 칼 안 빼겠다’ 선언한 감사원) &amp;lt;&lt;br&gt;&lt;em&gt;Audit Office Declares 'No Audits on Government Policies' 13 Days After President Lee's Directive&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;Audit Office Declares 'No Audits on Government Policies' 13 Days After President Lee's Directive (李 지시 13일 만에… ‘정부 정책에 칼 안 빼겠다’ 선언한 감사원)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&amp;lt;br/&amp;gt;&amp;lt;em&amp;gt;%5BCDATA%5B&amp;lt;h1&amp;gt;Audit%20Office%20Declares%20'No%20Audits%20on%20Government%20Policies'%2013%20Days%20After%20President%20Lee's%20Directive&amp;lt;/h1&amp;gt;&amp;lt;img%20src=" https:&gt;
+&lt;p&gt;(감사원이 6일 이재명 대통령의 지시에 따라 “정책 결정에 대한 감사를 폐지하겠다”고 발표한 것을 두고, 현 정부의 주요 정책과 관련해서는 감사를 아예 하지 않겠다고 선언한 것이라는 해석이 나온다&lt;br&gt;&lt;em&gt;The Audit Office announced on the 6th, following President Lee Jae-myung's directive, that it would 'abolish audits on policy decisions,' leading to interpretations that it has declared it will not conduct any audits related to the current government's major policies.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;감사합니다, 선생님.&lt;br&gt;&lt;em&gt;Thank you, teacher.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구에게 감사했어요.&lt;br&gt;&lt;em&gt;I thanked my friend.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 07 Aug 2025 07:09:06 +0900</pubDate>
+    <guid isPermaLink="false">vocab-감사-1754518146</guid>
+  </item>
+  <item>
+    <title>휴대폰 – cell phone</title>
+    <link>urn:urn:vocab:휴대폰</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1488509082528-cefbba5ad692?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjZWxsJTIwcGhvbmV8ZW58MHx8fHwxNzU0NTEwNjk4fDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="휴대폰 (cell phone)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;([팔면봉] 본회의장 간 의원들, 휴대폰으로 주식 보고 라방까지&lt;br&gt;&lt;em&gt;([Eight-sided Peak] Members of the National Assembly watching stocks on their phones and even live broadcasting in the main assembly hall&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;([팔면봉] 본회의장 간 의원들, 휴대폰으로 주식 보고 라방까지&lt;br&gt;&lt;em&gt;([Eight-sided Peak] Members of the National Assembly watching stocks on their phones and even live broadcasting in the main assembly hall&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(○본회의장 간 의원들, 휴대폰으로 주식 보고 라방까지&lt;br&gt;&lt;em&gt;(○Members of the National Assembly watching stocks on their phones and even live broadcasting in the main assembly hall&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;휴대폰을 잃어버렸어요.&lt;br&gt;&lt;em&gt;I lost my cell phone.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;휴대폰으로 사진을 찍었어요.&lt;br&gt;&lt;em&gt;I took a picture with my cell phone.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    </description>
+    <pubDate>Thu, 07 Aug 2025 05:05:15 +0900</pubDate>
+    <guid isPermaLink="false">vocab-휴대폰-1754510715</guid>
+  </item>
+  <item>
+    <title>감사 – thanks</title>
+    <link>urn:urn:vocab:감사</link>
+    <description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1526614180703-827d23e7c8f2?crop=entropy&amp;amp;cs=tinysrgb&amp;amp;fit=max&amp;amp;fm=jpg&amp;amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGFua3N8ZW58MHx8fHwxNzU0NDk2Mzc0fDA&amp;amp;ixlib=rb-4.1.0&amp;amp;q=80&amp;amp;w=1080" alt="감사 (thanks)" style="max-width:100%;height:auto;"&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;[Breaking News] Board of Audit and Inspection "We will abolish the audit of policy decisions" ([속보] 감사원 “정책결정 감사 폐지하겠다”) &amp;lt;&lt;br&gt;&lt;em&gt;[Breaking News] Board of Audit and Inspection "We will abolish the audit of policy decisions"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;/p&gt;&lt;h1&gt;[Breaking News] Board of Audit and Inspection "We will abolish the audit of policy decisions" ([속보] 감사원 “정책결정 감사 폐지하겠다”)&lt;/h1&gt;&lt;p&gt; ()&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;<br/><em>[CDATA[<h1>[Breaking News] Board of Audit and Inspection "We will abolish the audit of policy decisions"</h1><p> ()</p>]&gt;</em></description>
+<p>Audit Office Declares 'No Audits on Government Policies' 13 Days After President Lee's Directive (李 지시 13일 만에… ‘정부 정책에 칼 안 빼겠다’ 선언한 감사원) <br/><em>Audit Office Declares 'No Audits on Government Policies' 13 Days After President Lee's Directive</em></p>
+</item>
+<br/><div class="simple"><strong>간단한 예문:</strong><br/>
+<p>감사합니다.<br/><em>Thank you.</em></p>
+<p>정말 감사해요.<br/><em>Thank you very much.</em></p>
+</div>
+</channel>]&gt;</rss>
