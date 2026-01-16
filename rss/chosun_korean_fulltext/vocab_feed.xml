@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 07:03:41 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 11:41:11 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>생활비 – living expenses</title><link>urn:urn:vocab:생활비</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>비공개 – non-public / confidential</title><link>urn:urn:vocab:비공개</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577328284865-56f2943d785d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlQjklODQlRUElQjMlQjUlRUElQjAlOUN8ZW58MHx8fHwxNzY4NTMxMjYwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비공개 (non-public / confidential)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이날 민주당 비공개 의원총회에서도 일부 의원은 ‘검찰 구조의 변형이 아니냐’며 항의했다고 한다&lt;br/&gt;&lt;em&gt;On this day, at the Democratic Party's closed-door general meeting of lawmakers, some lawmakers reportedly protested, saying, 'Isn't this a transformation of the prosecution's structure?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(15일 국회에서 열린 국민의힘 비공개 의원총회에선 10여 명이 발언자로 나서 한동훈 전 대표의 제명을 재고하라고 요청했다&lt;br/&gt;&lt;em&gt;At the People Power Party's closed-door general meeting of lawmakers held at the National Assembly on the 15th, about 10 people took the floor as speakers and requested a reconsideration of the expulsion of former leader Han Dong-hoon.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;‘노란봉투법’ 3월 시행… 산업부·노동부 장관, 재계와 21일 비공개 회동&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;The 'Yellow Envelope Law' will be implemented in March... The Ministers of Industry and Labor will hold a closed-door meeting with the business community on the 21st.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 정보는 비공개입니다.&lt;br/&gt;&lt;em&gt;This information is confidential.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비공개 회의가 있습니다.&lt;br/&gt;&lt;em&gt;There is a private meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577328284865-56f2943d785d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlQjklODQlRUElQjMlQjUlRUElQjAlOUN8ZW58MHx8fHwxNzY4NTMxMjYwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비공개 (non-public / confidential)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이날 민주당 비공개 의원총회에서도 일부 의원은 ‘검찰 구조의 변형이 아니냐’며 항의했다고 한다&lt;br/&gt;&lt;em&gt;On this day, at the Democratic Party's closed-door general meeting of lawmakers, some lawmakers reportedly protested, saying, 'Isn't this a transformation of the prosecution's structure?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(15일 국회에서 열린 국민의힘 비공개 의원총회에선 10여 명이 발언자로 나서 한동훈 전 대표의 제명을 재고하라고 요청했다&lt;br/&gt;&lt;em&gt;At the People Power Party's closed-door general meeting of lawmakers held at the National Assembly on the 15th, about 10 people took the floor as speakers and requested a reconsideration of the expulsion of former leader Han Dong-hoon.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;‘노란봉투법’ 3월 시행… 산업부·노동부 장관, 재계와 21일 비공개 회동&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;The 'Yellow Envelope Law' will be implemented in March... The Ministers of Industry and Labor will hold a closed-door meeting with the business community on the 21st.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 정보는 비공개입니다.&lt;br/&gt;&lt;em&gt;This information is confidential.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비공개 회의가 있습니다.&lt;br/&gt;&lt;em&gt;There is a private meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 16 Jan 2026 11:41:10 +0900</pubDate><guid isPermaLink="false">vocab-189f96ed45a85a6ebb87fefe661a566d8f6ce490</guid><enclosure url="https://images.unsplash.com/photo-1577328284865-56f2943d785d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlQjklODQlRUElQjMlQjUlRUElQjAlOUN8ZW58MHx8fHwxNzY4NTMxMjYwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="124286" /><ns2:content url="https://images.unsplash.com/photo-1577328284865-56f2943d785d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlQjklODQlRUElQjMlQjUlRUElQjAlOUN8ZW58MHx8fHwxNzY4NTMxMjYwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1577328284865-56f2943d785d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlQjklODQlRUElQjMlQjUlRUElQjAlOUN8ZW58MHx8fHwxNzY4NTMxMjYwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>비공개</category></item><item><title>생활비 – living expenses</title><link>urn:urn:vocab:생활비</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1678289672013-68544b7da2c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaXZpbmclMjBleHBlbnNlc3xlbnwwfHx8fDE3Njg1MTQ2MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생활비 (living expenses)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (조국 조국혁신당 대표는 전날 페이스북에 이 후보자 장남이 대학생 시절 6년간 ‘생활비’ 명목의 장학금을 받았다는 내용의 언론 보도를 공유하면서 “(내 딸과) 똑같은 잣대로 이 후보자 장남이 6년간 생활비 장학금을 수령한 건을 검증하길 바란다”고 했다&lt;br/&gt;&lt;em&gt;Cho Kuk, the leader of the Cho Kuk Innovation Party, shared a media report on Facebook the previous day that the eldest son of this candidate received a scholarship under the name of 'living expenses' for six years during his college years, saying, "I hope that the case of this candidate's eldest son receiving living expense scholarships for six years will be verified with the same standard (as my daughter)."&lt;/em&gt;&lt;/p&gt;
