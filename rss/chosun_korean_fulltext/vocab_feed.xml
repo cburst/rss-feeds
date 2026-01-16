@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 11:41:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 18:45:45 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>비공개 – non-public / confidential</title><link>urn:urn:vocab:비공개</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>듯하다 – seems like, appears to be</title><link>urn:urn:vocab:듯하다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;호디스 소장의 손에 따라 선이 그어지면서 분위기는 매우 가라앉았던 듯하다&lt;br/&gt;&lt;em&gt;As the line was drawn according to Director Hodis's hand, the atmosphere seemed to have become very subdued.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 분위기는 매우 격해지고 있었던 듯하다&lt;br/&gt;&lt;em&gt;However, the atmosphere seemed to have become very intense.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이승만 대통령의 한결같은 주장이 펼쳐지자 그가 나섰던 듯하다&lt;br/&gt;&lt;em&gt;As President Syngman Rhee's consistent argument unfolded, he seemed to have stepped forward.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 피곤해 보인다.&lt;br/&gt;&lt;em&gt;He looks tired.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;날씨가 좋아 보인다.&lt;br/&gt;&lt;em&gt;The weather looks nice.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;호디스 소장의 손에 따라 선이 그어지면서 분위기는 매우 가라앉았던 듯하다&lt;br/&gt;&lt;em&gt;As the line was drawn according to Director Hodis's hand, the atmosphere seemed to have become very subdued.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 분위기는 매우 격해지고 있었던 듯하다&lt;br/&gt;&lt;em&gt;However, the atmosphere seemed to have become very intense.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이승만 대통령의 한결같은 주장이 펼쳐지자 그가 나섰던 듯하다&lt;br/&gt;&lt;em&gt;As President Syngman Rhee's consistent argument unfolded, he seemed to have stepped forward.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 피곤해 보인다.&lt;br/&gt;&lt;em&gt;He looks tired.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;날씨가 좋아 보인다.&lt;br/&gt;&lt;em&gt;The weather looks nice.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 16 Jan 2026 18:45:45 +0900</pubDate><guid isPermaLink="false">vocab-c2d774ecea8b9e76d2c7495645ab983eb1270e5c</guid><category>듯하다</category></item><item><title>비공개 – non-public / confidential</title><link>urn:urn:vocab:비공개</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577328284865-56f2943d785d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlQjklODQlRUElQjMlQjUlRUElQjAlOUN8ZW58MHx8fHwxNzY4NTMxMjYwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비공개 (non-public / confidential)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이날 민주당 비공개 의원총회에서도 일부 의원은 ‘검찰 구조의 변형이 아니냐’며 항의했다고 한다&lt;br/&gt;&lt;em&gt;On this day, at the Democratic Party's closed-door general meeting of lawmakers, some lawmakers reportedly protested, saying, 'Isn't this a transformation of the prosecution's structure?'&lt;/em&gt;&lt;/p&gt;
