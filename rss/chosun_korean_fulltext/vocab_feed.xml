@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jan 2026 10:28:38 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 15:43:18 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>거부권 – veto power</title><link>urn:urn:vocab:거부권</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>했지만 – but, however</title><link>urn:urn:vocab:했지만</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령은 16일 “제가 더불어민주당 대표를 했지만, 이제는 전 국민을 대표해야 하는 위치에 있다”며 “파란색(민주당 상징색)을 위해서만 노력하면 빨간색(국민의힘 상징색)이 섭섭하지 않겠느냐”고 했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung said on the 16th, 'Although I served as the leader of the Democratic Party, I am now in a position to represent all citizens. If I work only for the blue (the Democratic Party's symbolic color), wouldn't the red (the symbolic color of the People Power Party) feel disappointed?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;황교안 자유한국당(국민의힘 전신) 대표는 총선을 4개월여 앞두고 고위공직자범죄수사처법 철회 등을 주장하며 8일간 단식했지만 자유한국당은 2020년 4월 총선에서 103석에 그쳤다&lt;br/&gt;&lt;em&gt;Hwang Kyo-ahn, the leader of the Liberty Korea Party (predecessor of the People Power Party), fasted for 8 days ahead of the general election, about four months away, advocating for the withdrawal of the High-ranking Officials Crime Investigation Agency Act, but the Liberty Korea Party only secured 103 seats in the April 2020 general election.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;구체적으로 어느 기관을 어디로 이전할지는 추후 논의를 통해 확정하기로 했지만, 공공기관 유치를 두고 다른 지역과 경쟁했던 대전·충남과 광주·전남 모두 경쟁에서 우위에 서게 될 것으로 전망된다&lt;br/&gt;&lt;em&gt;Specifically, which institutions will be relocated and where will be determined through future discussions, but both Daejeon-Chungnam and Gwangju-Jeonnam, which competed with other regions to attract public institutions, are expected to gain an advantage in the competition.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 공부했지만 어려웠어요.&lt;br/&gt;&lt;em&gt;I studied but it was difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 일했지만 피곤했어요.&lt;br/&gt;&lt;em&gt;He worked but he was tired.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령은 16일 “제가 더불어민주당 대표를 했지만, 이제는 전 국민을 대표해야 하는 위치에 있다”며 “파란색(민주당 상징색)을 위해서만 노력하면 빨간색(국민의힘 상징색)이 섭섭하지 않겠느냐”고 했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung said on the 16th, 'Although I served as the leader of the Democratic Party, I am now in a position to represent all citizens. If I work only for the blue (the Democratic Party's symbolic color), wouldn't the red (the symbolic color of the People Power Party) feel disappointed?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;황교안 자유한국당(국민의힘 전신) 대표는 총선을 4개월여 앞두고 고위공직자범죄수사처법 철회 등을 주장하며 8일간 단식했지만 자유한국당은 2020년 4월 총선에서 103석에 그쳤다&lt;br/&gt;&lt;em&gt;Hwang Kyo-ahn, the leader of the Liberty Korea Party (predecessor of the People Power Party), fasted for 8 days ahead of the general election, about four months away, advocating for the withdrawal of the High-ranking Officials Crime Investigation Agency Act, but the Liberty Korea Party only secured 103 seats in the April 2020 general election.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;구체적으로 어느 기관을 어디로 이전할지는 추후 논의를 통해 확정하기로 했지만, 공공기관 유치를 두고 다른 지역과 경쟁했던 대전·충남과 광주·전남 모두 경쟁에서 우위에 서게 될 것으로 전망된다&lt;br/&gt;&lt;em&gt;Specifically, which institutions will be relocated and where will be determined through future discussions, but both Daejeon-Chungnam and Gwangju-Jeonnam, which competed with other regions to attract public institutions, are expected to gain an advantage in the competition.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 공부했지만 어려웠어요.&lt;br/&gt;&lt;em&gt;I studied but it was difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 일했지만 피곤했어요.&lt;br/&gt;&lt;em&gt;He worked but he was tired.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 17 Jan 2026 15:43:18 +0900</pubDate><guid isPermaLink="false">vocab-c8b3189662906dd71a2b4314e3823ffeef37d6b2</guid><category>했지만</category></item><item><title>거부권 – veto power</title><link>urn:urn:vocab:거부권</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;李, 거부권 행사해야”) &lt;&lt;br/&gt;&lt;em&gt;Lee, you must exercise the veto right&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;李, 거부권 행사해야”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Lee, you must exercise the veto right&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
