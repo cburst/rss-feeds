@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 05:59:26 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 10:19:08 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>투쟁을 – struggle</title><link>urn:urn:vocab:투쟁을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>빨간색 – red color</title><link>urn:urn:vocab:빨간색</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1568535904307-f48b760a39f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBjb2xvcnxlbnwwfHx8fDE3Njg2OTkxMzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="빨간색 (red color)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 과정에서 보수의 상징으로 여겨졌던 당색인 파란색도 ‘빨간색’으로 교체됐다&lt;br/&gt;&lt;em&gt;In this process, the party color blue, which was considered a symbol of conservatism, was also replaced with 'red'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;브랜딩 개편을 총괄한 카피라이터 출신 조동원 당시 새누리당 홍보본부장은 “태극기에서 모티브를 얻어 백의민족을 상징하는 흰색과, 열정과 역동성을 상징하는 빨간색을 사용했다”고 설명했다&lt;br/&gt;&lt;em&gt;Jo Dong-won, the then head of the Saenuri Party's public relations headquarters, who oversaw the branding overhaul and is a former copywriter, explained, "We used white, which symbolizes the white-clad people, and red, which symbolizes passion and dynamism, drawing inspiration from the Taegeukgi."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (시각디자인에서 빨간색은 어떤 색과 배치돼도 가장 먼저 시선을 끄는 ‘강조 색(Point color)’으로 여겨진다&lt;br/&gt;&lt;em&gt;"In visual design, red is considered an 'accent color (Point color)' that attracts the most attention first, regardless of what color it is paired with."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;빨간색 사과가 맛있어요.&lt;br/&gt;&lt;em&gt;The red apple is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 빨간색을 좋아해요.&lt;br/&gt;&lt;em&gt;I like the color red.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1568535904307-f48b760a39f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBjb2xvcnxlbnwwfHx8fDE3Njg2OTkxMzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="빨간색 (red color)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 과정에서 보수의 상징으로 여겨졌던 당색인 파란색도 ‘빨간색’으로 교체됐다&lt;br/&gt;&lt;em&gt;In this process, the party color blue, which was considered a symbol of conservatism, was also replaced with 'red'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;브랜딩 개편을 총괄한 카피라이터 출신 조동원 당시 새누리당 홍보본부장은 “태극기에서 모티브를 얻어 백의민족을 상징하는 흰색과, 열정과 역동성을 상징하는 빨간색을 사용했다”고 설명했다&lt;br/&gt;&lt;em&gt;Jo Dong-won, the then head of the Saenuri Party's public relations headquarters, who oversaw the branding overhaul and is a former copywriter, explained, "We used white, which symbolizes the white-clad people, and red, which symbolizes passion and dynamism, drawing inspiration from the Taegeukgi."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (시각디자인에서 빨간색은 어떤 색과 배치돼도 가장 먼저 시선을 끄는 ‘강조 색(Point color)’으로 여겨진다&lt;br/&gt;&lt;em&gt;"In visual design, red is considered an 'accent color (Point color)' that attracts the most attention first, regardless of what color it is paired with."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;빨간색 사과가 맛있어요.&lt;br/&gt;&lt;em&gt;The red apple is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 빨간색을 좋아해요.&lt;br/&gt;&lt;em&gt;I like the color red.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 18 Jan 2026 10:19:08 +0900</pubDate><guid isPermaLink="false">vocab-ce0ee3a9d8d4c8cd0f55c775a4ca9fdda6773110</guid><enclosure url="https://images.unsplash.com/photo-1568535904307-f48b760a39f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBjb2xvcnxlbnwwfHx8fDE3Njg2OTkxMzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="167911" /><ns2:content url="https://images.unsplash.com/photo-1568535904307-f48b760a39f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBjb2xvcnxlbnwwfHx8fDE3Njg2OTkxMzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1568535904307-f48b760a39f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBjb2xvcnxlbnwwfHx8fDE3Njg2OTkxMzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>빨간색</category></item><item><title>투쟁을 – struggle</title><link>urn:urn:vocab:투쟁을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1545241201-fee9df605ca8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJ1Z2dsZXxlbnwwfHx8fDE3Njg2ODM1NTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투쟁을 (struggle)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이재명 정부와 민주당을 향한 투쟁을 앞세웠지만, 당권 강화용 승부수라는 해석이 나옵니다&lt;br/&gt;&lt;em&gt;Although he has prioritized the fight against the Lee Jae-myung government and the Democratic Party, it is interpreted as a strategic move to strengthen his party leadership.&lt;/em&gt;&lt;/p&gt;
