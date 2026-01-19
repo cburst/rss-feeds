@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 02:10:55 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 07:41:28 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>국회를 – National Assembly</title><link>urn:urn:vocab:국회를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>국회가 – the National Assembly</title><link>urn:urn:vocab:국회가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1734200468887-2cb47e343c15?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc2ODg2MjQ3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국회가 (the National Assembly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;일부 민주당 의원은 김 관장을 탄핵하기 위해 국회가 독립기념관장에 대해서도 탄핵소추 의결권을 갖도록 하는 법 개정안도 발의했다&lt;br/&gt;&lt;em&gt;Some Democratic Party lawmakers also proposed a bill to revise the law so that the National Assembly has the right to pass impeachment resolutions against the director of the Independence Hall of Korea in order to impeach Director Kim.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 후보자는 이날 오후 5시 50분쯤 기자들과 만나 “국민 앞에서 검증하는 기회를 만드는 게 국회 역할이라고 생각한다”며 “그런데 그 역할을 스스로 포기하고 차단하는 건 아닌지 국회가 다시 생각해봐야 한다”고 했다&lt;br/&gt;&lt;em&gt;The candidate met with reporters around 5:50 p.m. that day and said, 'I think it is the role of the National Assembly to create an opportunity to verify in front of the people,' adding, 'However, the National Assembly should reconsider whether it is giving up and blocking that role on its own.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;다만 국회가 인사청문경과보고서를 정부로 보내야 하는 시한은 오는 21일까지다&lt;br/&gt;&lt;em&gt;However, the deadline for the National Assembly to send the personnel hearing outcome report to the government is until the 21st of this month.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국회가 법을 만듭니다.&lt;br/&gt;&lt;em&gt;The National Assembly makes laws.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국회가 중요한 결정을 합니다.&lt;br/&gt;&lt;em&gt;The National Assembly makes important decisions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1734200468887-2cb47e343c15?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc2ODg2MjQ3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국회가 (the National Assembly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;일부 민주당 의원은 김 관장을 탄핵하기 위해 국회가 독립기념관장에 대해서도 탄핵소추 의결권을 갖도록 하는 법 개정안도 발의했다&lt;br/&gt;&lt;em&gt;Some Democratic Party lawmakers also proposed a bill to revise the law so that the National Assembly has the right to pass impeachment resolutions against the director of the Independence Hall of Korea in order to impeach Director Kim.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 후보자는 이날 오후 5시 50분쯤 기자들과 만나 “국민 앞에서 검증하는 기회를 만드는 게 국회 역할이라고 생각한다”며 “그런데 그 역할을 스스로 포기하고 차단하는 건 아닌지 국회가 다시 생각해봐야 한다”고 했다&lt;br/&gt;&lt;em&gt;The candidate met with reporters around 5:50 p.m. that day and said, 'I think it is the role of the National Assembly to create an opportunity to verify in front of the people,' adding, 'However, the National Assembly should reconsider whether it is giving up and blocking that role on its own.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;다만 국회가 인사청문경과보고서를 정부로 보내야 하는 시한은 오는 21일까지다&lt;br/&gt;&lt;em&gt;However, the deadline for the National Assembly to send the personnel hearing outcome report to the government is until the 21st of this month.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국회가 법을 만듭니다.&lt;br/&gt;&lt;em&gt;The National Assembly makes laws.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국회가 중요한 결정을 합니다.&lt;br/&gt;&lt;em&gt;The National Assembly makes important decisions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 20 Jan 2026 07:41:28 +0900</pubDate><guid isPermaLink="false">vocab-acd6f3ce7f6230f485b1a6dc2630fa69d6de8fe3</guid><enclosure url="https://images.unsplash.com/photo-1734200468887-2cb47e343c15?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc2ODg2MjQ3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="218802" /><ns2:content url="https://images.unsplash.com/photo-1734200468887-2cb47e343c15?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc2ODg2MjQ3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1734200468887-2cb47e343c15?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc2ODg2MjQ3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>국회가</category></item><item><title>국회를 – National Assembly</title><link>urn:urn:vocab:국회를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1689602440279-63dd96354061?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc2ODg0MjY0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국회를 (National Assembly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;2%에 비해 최저를 기록하고 있어 국민께 죄송하고 걱정이 앞선다”며 “이재명 정부의 국정 과제와 관련하여 신속히 추진되어야 할 입법이 184건인데 그중 37건만이 현재 국회를 통과하고 있어 앞으로 모든 역량을 동원하여 입법 처리에 집중함으로써 이재명 정부의 국정 과제를 튼튼하게 뒷받침하도록 노력하겠다”라고 했다&lt;br/&gt;&lt;em&gt;"I am sorry and concerned for the people as it is recording the lowest compared to 2%," and said, "Regarding the Lee Jae-myung administration's state affairs tasks, there are 184 legislations that need to be swiftly promoted, but only 37 of them have currently passed the National Assembly. I will focus all efforts on legislative processing to firmly support the Lee Jae-myung administration's state affairs tasks."&lt;/em&gt;&lt;/p&gt;
