@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 20:55:50 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 02:10:55 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>책에서 – in the book</title><link>urn:urn:vocab:책에서</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>국회를 – National Assembly</title><link>urn:urn:vocab:국회를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1689602440279-63dd96354061?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc2ODg0MjY0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국회를 (National Assembly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;2%에 비해 최저를 기록하고 있어 국민께 죄송하고 걱정이 앞선다”며 “이재명 정부의 국정 과제와 관련하여 신속히 추진되어야 할 입법이 184건인데 그중 37건만이 현재 국회를 통과하고 있어 앞으로 모든 역량을 동원하여 입법 처리에 집중함으로써 이재명 정부의 국정 과제를 튼튼하게 뒷받침하도록 노력하겠다”라고 했다&lt;br/&gt;&lt;em&gt;"I am sorry and concerned for the people as it is recording the lowest compared to 2%," and said, "Regarding the Lee Jae-myung administration's state affairs tasks, there are 184 legislations that need to be swiftly promoted, but only 37 of them have currently passed the National Assembly. I will focus all efforts on legislative processing to firmly support the Lee Jae-myung administration's state affairs tasks."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(19일로 예정됐던 이혜훈 기획예산처 장관 후보자에 대한 국회 인사 청문회가 인사 청문 자료 부실 제출 등 문제로 불발된 가운데, 이 후보자는 이날 아침부터 국회 경내에서 대기하다가 밤 늦게 국회를 떠났다&lt;br/&gt;&lt;em&gt;(Amid the cancellation of the National Assembly hearing for Lee Hye-hoon, the candidate for Minister of Planning and Budget, scheduled for the 19th, due to issues such as inadequate submission of hearing materials, the candidate waited within the National Assembly grounds from the morning and left the National Assembly late at night.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 이 후보자는 곧장 차량을 타고 국회를 떠났다&lt;br/&gt;&lt;em&gt;Subsequently, the candidate immediately left the National Assembly by vehicle.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국회를 방문했어요.&lt;br/&gt;&lt;em&gt;I visited the National Assembly.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국회를 보러 갔어요.&lt;br/&gt;&lt;em&gt;I went to see the National Assembly.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1689602440279-63dd96354061?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc2ODg0MjY0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국회를 (National Assembly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;2%에 비해 최저를 기록하고 있어 국민께 죄송하고 걱정이 앞선다”며 “이재명 정부의 국정 과제와 관련하여 신속히 추진되어야 할 입법이 184건인데 그중 37건만이 현재 국회를 통과하고 있어 앞으로 모든 역량을 동원하여 입법 처리에 집중함으로써 이재명 정부의 국정 과제를 튼튼하게 뒷받침하도록 노력하겠다”라고 했다&lt;br/&gt;&lt;em&gt;"I am sorry and concerned for the people as it is recording the lowest compared to 2%," and said, "Regarding the Lee Jae-myung administration's state affairs tasks, there are 184 legislations that need to be swiftly promoted, but only 37 of them have currently passed the National Assembly. I will focus all efforts on legislative processing to firmly support the Lee Jae-myung administration's state affairs tasks."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(19일로 예정됐던 이혜훈 기획예산처 장관 후보자에 대한 국회 인사 청문회가 인사 청문 자료 부실 제출 등 문제로 불발된 가운데, 이 후보자는 이날 아침부터 국회 경내에서 대기하다가 밤 늦게 국회를 떠났다&lt;br/&gt;&lt;em&gt;(Amid the cancellation of the National Assembly hearing for Lee Hye-hoon, the candidate for Minister of Planning and Budget, scheduled for the 19th, due to issues such as inadequate submission of hearing materials, the candidate waited within the National Assembly grounds from the morning and left the National Assembly late at night.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 이 후보자는 곧장 차량을 타고 국회를 떠났다&lt;br/&gt;&lt;em&gt;Subsequently, the candidate immediately left the National Assembly by vehicle.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국회를 방문했어요.&lt;br/&gt;&lt;em&gt;I visited the National Assembly.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국회를 보러 갔어요.&lt;br/&gt;&lt;em&gt;I went to see the National Assembly.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 20 Jan 2026 02:10:55 +0900</pubDate><guid isPermaLink="false">vocab-729843cec0275d827606954eb1dd4b41420faed1</guid><enclosure url="https://images.unsplash.com/photo-1689602440279-63dd96354061?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc2ODg0MjY0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="124982" /><ns2:content url="https://images.unsplash.com/photo-1689602440279-63dd96354061?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc2ODg0MjY0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1689602440279-63dd96354061?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc2ODg0MjY0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>국회를</category></item><item><title>책에서 – in the book</title><link>urn:urn:vocab:책에서</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1590720485412-fc0322a7acb2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGJvb2t8ZW58MHx8fHwxNzY4ODIzNzM5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="책에서 (in the book)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (윤 의원은 책에서 “난감했다”며 “본인은 강력하게 아니라고 하는데, 국가적 행사에 축하 사절단으로 온 사람을 강제로 조사할 수도 없는 상황이었다”고 했다&lt;br/&gt;&lt;em&gt;(Rep. Yoon said in the book, "It was awkward," and "The person strongly denied it, but it was a situation where we couldn't forcibly investigate someone who came as a congratulatory envoy to a national event.")&lt;/em&gt;&lt;/p&gt;
