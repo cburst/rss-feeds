@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 23:51:45 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 03:22:38 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>문화는 – culture</title><link>urn:urn:vocab:문화는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>생리대 – sanitary pad</title><link>urn:urn:vocab:생리대</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589395937921-fddc324ccdd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYW5pdGFyeSUyMHBhZHxlbnwwfHx8fDE3Njg5MzMzNTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생리대 (sanitary pad)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Review providing them for free" (李대통령 “생리대 너무 비싸&lt;br/&gt;&lt;em&gt;Review providing them for free" (President Lee "Menstrual pads are too expensive"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Review providing them for free" (李대통령 “생리대 너무 비싸&lt;br/&gt;&lt;em&gt;Review providing them for free" (President Lee "Menstrual pads are too expensive"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 20일 국내 생리대 가격이 해외보다 비싸다며 “아예 위탁생산해서 무상 공급하는 것을 검토해 달라”고 말했다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung said on the 20th that domestic menstrual pad prices are higher than overseas, adding "Please review producing them under contract and providing them for free")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;생리대가 필요해요.&lt;br/&gt;&lt;em&gt;I need sanitary pads.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;생리대를 사러 가요.&lt;br/&gt;&lt;em&gt;I'm going to buy sanitary pads.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589395937921-fddc324ccdd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYW5pdGFyeSUyMHBhZHxlbnwwfHx8fDE3Njg5MzMzNTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생리대 (sanitary pad)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Review providing them for free" (李대통령 “생리대 너무 비싸&lt;br/&gt;&lt;em&gt;Review providing them for free" (President Lee "Menstrual pads are too expensive"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Review providing them for free" (李대통령 “생리대 너무 비싸&lt;br/&gt;&lt;em&gt;Review providing them for free" (President Lee "Menstrual pads are too expensive"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 20일 국내 생리대 가격이 해외보다 비싸다며 “아예 위탁생산해서 무상 공급하는 것을 검토해 달라”고 말했다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung said on the 20th that domestic menstrual pad prices are higher than overseas, adding "Please review producing them under contract and providing them for free")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;생리대가 필요해요.&lt;br/&gt;&lt;em&gt;I need sanitary pads.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;생리대를 사러 가요.&lt;br/&gt;&lt;em&gt;I'm going to buy sanitary pads.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 21 Jan 2026 03:22:38 +0900</pubDate><guid isPermaLink="false">vocab-aee0c5d783f80453bdd11e671a0895a372f9ef50</guid><enclosure url="https://images.unsplash.com/photo-1589395937921-fddc324ccdd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYW5pdGFyeSUyMHBhZHxlbnwwfHx8fDE3Njg5MzMzNTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="90655" /><ns2:content url="https://images.unsplash.com/photo-1589395937921-fddc324ccdd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYW5pdGFyeSUyMHBhZHxlbnwwfHx8fDE3Njg5MzMzNTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1589395937921-fddc324ccdd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYW5pdGFyeSUyMHBhZHxlbnwwfHx8fDE3Njg5MzMzNTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>생리대</category></item><item><title>문화는 – culture</title><link>urn:urn:vocab:문화는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1543906965-f9520aa2ed8a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjdWx0dXJlfGVufDB8fHx8MTc2ODkyMDY5Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="문화는 (culture)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이충형 국민의힘 대변인은 이날 논평을 통해 “민주당의 정치 문화는 이미 일반 국민의 양식으로 보기에 위험 수위를 넘어섰다”며 “정청래 민주당 대표가 이미 장동혁 대표의 단식에 대해 ‘단식 투정’ ‘단식 쇼’라고 조롱하고 폄훼한 바 있다&lt;br/&gt;&lt;em&gt;" (Lee Chung-hyeong, spokesperson for the People Power Party, said in a commentary that day, 'The Democratic Party's political culture has already exceeded the danger level in the eyes of the general public,' and 'Democratic Party leader Jeong Cheong-rae has already mocked and disparaged Representative Jang Dong-hyeok's hunger strike as a 'hunger strike tantrum' and a 'hunger strike show.'"&lt;/em&gt;&lt;/p&gt;
