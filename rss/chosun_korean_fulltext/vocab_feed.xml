@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 07:41:28 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 13:47:56 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>국회가 – the National Assembly</title><link>urn:urn:vocab:국회가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>감옥에 – in prison</title><link>urn:urn:vocab:감옥에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1643763630190-ed48b2ab44a8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHByaXNvbnxlbnwwfHx8fDE3Njg4ODQ0NjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="감옥에 (in prison)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인도 네루 총리가 과거 감옥에 있을 때 도마뱀 등을 길렀다는 일화를 떠올리며 적습니다&lt;br/&gt;&lt;em&gt;Recalling an anecdote about how former Indian Prime Minister Nehru raised lizards and such while he was in prison in the past, I write this.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“인도의 전 네루 수상의 자서전 가운데 수상이 되기 전에 감옥에 있을 때 무엇인가 해야 하기 때문에 산비탈에 있는 감옥 안에 살고 있는 벌레나 도마뱀 등을 길렀다는 것을 읽은 적이 있다&lt;br/&gt;&lt;em&gt;"I once read in the autobiography of India's former Prime Minister Nehru that before becoming prime minister, while he was in prison, he raised insects and lizards living inside the prison on a hillside because he needed something to do."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;5, 6년전(年前)에 읽은 책이지마는 인도(印度)의 전(前) 네루 수상(首相)의 자서전 가운데 수상(首相)이 되기 전(前)에 감옥에 있을 때 무엇인가 해야하기 때문에 산 삣탈(*비탈)에 있는 감옥 안에 살고 있는 벌레나 “도마비암(*도마뱀)” 등(等)을 길렀다는 것을 읽은 적이 있다&lt;br/&gt;&lt;em&gt;Although it was a book I read 5 or 6 years ago, I recall reading in the autobiography of India's former Prime Minister Nehru that before becoming prime minister, while he was in prison, he raised insects and 'lizards' living inside the prison on a hillside because he needed something to do.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 감옥에 있습니다.&lt;br/&gt;&lt;em&gt;He is in prison.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;감옥에 사람이 많아요.&lt;br/&gt;&lt;em&gt;There are many people in prison.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1643763630190-ed48b2ab44a8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHByaXNvbnxlbnwwfHx8fDE3Njg4ODQ0NjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="감옥에 (in prison)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인도 네루 총리가 과거 감옥에 있을 때 도마뱀 등을 길렀다는 일화를 떠올리며 적습니다&lt;br/&gt;&lt;em&gt;Recalling an anecdote about how former Indian Prime Minister Nehru raised lizards and such while he was in prison in the past, I write this.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“인도의 전 네루 수상의 자서전 가운데 수상이 되기 전에 감옥에 있을 때 무엇인가 해야 하기 때문에 산비탈에 있는 감옥 안에 살고 있는 벌레나 도마뱀 등을 길렀다는 것을 읽은 적이 있다&lt;br/&gt;&lt;em&gt;"I once read in the autobiography of India's former Prime Minister Nehru that before becoming prime minister, while he was in prison, he raised insects and lizards living inside the prison on a hillside because he needed something to do."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;5, 6년전(年前)에 읽은 책이지마는 인도(印度)의 전(前) 네루 수상(首相)의 자서전 가운데 수상(首相)이 되기 전(前)에 감옥에 있을 때 무엇인가 해야하기 때문에 산 삣탈(*비탈)에 있는 감옥 안에 살고 있는 벌레나 “도마비암(*도마뱀)” 등(等)을 길렀다는 것을 읽은 적이 있다&lt;br/&gt;&lt;em&gt;Although it was a book I read 5 or 6 years ago, I recall reading in the autobiography of India's former Prime Minister Nehru that before becoming prime minister, while he was in prison, he raised insects and 'lizards' living inside the prison on a hillside because he needed something to do.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 감옥에 있습니다.&lt;br/&gt;&lt;em&gt;He is in prison.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;감옥에 사람이 많아요.&lt;br/&gt;&lt;em&gt;There are many people in prison.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 20 Jan 2026 13:47:56 +0900</pubDate><guid isPermaLink="false">vocab-a67999a94c25c230bb69b9094bb5776c59f90732</guid><enclosure url="https://images.unsplash.com/photo-1643763630190-ed48b2ab44a8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHByaXNvbnxlbnwwfHx8fDE3Njg4ODQ0NjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="383133" /><ns2:content url="https://images.unsplash.com/photo-1643763630190-ed48b2ab44a8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHByaXNvbnxlbnwwfHx8fDE3Njg4ODQ0NjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1643763630190-ed48b2ab44a8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHByaXNvbnxlbnwwfHx8fDE3Njg4ODQ0NjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>감옥에</category></item><item><title>국회가 – the National Assembly</title><link>urn:urn:vocab:국회가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1734200468887-2cb47e343c15?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc2ODg2MjQ3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국회가 (the National Assembly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;일부 민주당 의원은 김 관장을 탄핵하기 위해 국회가 독립기념관장에 대해서도 탄핵소추 의결권을 갖도록 하는 법 개정안도 발의했다&lt;br/&gt;&lt;em&gt;Some Democratic Party lawmakers also proposed a bill to revise the law so that the National Assembly has the right to pass impeachment resolutions against the director of the Independence Hall of Korea in order to impeach Director Kim.&lt;/em&gt;&lt;/p&gt;
