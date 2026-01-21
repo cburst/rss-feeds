@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 19:50:08 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 00:43:21 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>가겠다 – will go</title><link>urn:urn:vocab:가겠다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>너절하다 – to be sloppy or untidy</title><link>urn:urn:vocab:너절하다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1516775448597-64ce06b9754e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwc2xvcHB5JTIwb3IlMjB1bnRpZHl8ZW58MHx8fHwxNzY5MDEwMTkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="너절하다 (to be sloppy or untidy)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Kim Jong Un, Who Once Said It Was "Truly Shabby," Revisits Hot Spring Resort and This Time Pours on 'Praise' (“정말 너절하다”던 온천 다시 찾은 김정은, 이번엔 ‘칭찬’ 쏟았다) &lt;&lt;br/&gt;&lt;em&gt;Kim Jong Un, Who Once Said It Was "Truly Shabby," Revisits Hot Spring Resort and This Time Pours on 'Praise'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Kim Jong Un, Who Once Said It Was "Truly Shabby," Revisits Hot Spring Resort and This Time Pours on 'Praise' (“정말 너절하다”던 온천 다시 찾은 김정은, 이번엔 ‘칭찬’ 쏟았다)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Kim Jong Un, Who Once Said It Was "Truly Shabby," Revisits Hot Spring Resort and This Time Pours on 'Praise'&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (김정은은 2018년 지도 당시 “물고기 수조보다도 못하다” “정말 너절하다” “이렇게 한심하게 관리 운영하면 수령님과 장군님의 업적을 말아먹고 죄를 짓게 된다”고 강하게 비판한 바 있다&lt;br/&gt;&lt;em&gt;" (In 2018, during his inspection, Kim Jong Un strongly criticized it, saying "It's worse than a fish tank," "It's truly shabby," and "If it's managed and operated this poorly, it will ruin the achievements of the Supreme Leader and the General and become a sin.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 방은 너절하다.&lt;br/&gt;&lt;em&gt;The room is messy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;옷이 너절하다.&lt;br/&gt;&lt;em&gt;The clothes are messy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1516775448597-64ce06b9754e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwc2xvcHB5JTIwb3IlMjB1bnRpZHl8ZW58MHx8fHwxNzY5MDEwMTkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="너절하다 (to be sloppy or untidy)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Kim Jong Un, Who Once Said It Was "Truly Shabby," Revisits Hot Spring Resort and This Time Pours on 'Praise' (“정말 너절하다”던 온천 다시 찾은 김정은, 이번엔 ‘칭찬’ 쏟았다) &lt;&lt;br/&gt;&lt;em&gt;Kim Jong Un, Who Once Said It Was "Truly Shabby," Revisits Hot Spring Resort and This Time Pours on 'Praise'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Kim Jong Un, Who Once Said It Was "Truly Shabby," Revisits Hot Spring Resort and This Time Pours on 'Praise' (“정말 너절하다”던 온천 다시 찾은 김정은, 이번엔 ‘칭찬’ 쏟았다)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Kim Jong Un, Who Once Said It Was "Truly Shabby," Revisits Hot Spring Resort and This Time Pours on 'Praise'&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (김정은은 2018년 지도 당시 “물고기 수조보다도 못하다” “정말 너절하다” “이렇게 한심하게 관리 운영하면 수령님과 장군님의 업적을 말아먹고 죄를 짓게 된다”고 강하게 비판한 바 있다&lt;br/&gt;&lt;em&gt;" (In 2018, during his inspection, Kim Jong Un strongly criticized it, saying "It's worse than a fish tank," "It's truly shabby," and "If it's managed and operated this poorly, it will ruin the achievements of the Supreme Leader and the General and become a sin.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 방은 너절하다.&lt;br/&gt;&lt;em&gt;The room is messy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;옷이 너절하다.&lt;br/&gt;&lt;em&gt;The clothes are messy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 22 Jan 2026 00:43:21 +0900</pubDate><guid isPermaLink="false">vocab-efbd69a5c4416b94f5a7d5200a49ad8de6e2c00e</guid><enclosure url="https://images.unsplash.com/photo-1516775448597-64ce06b9754e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwc2xvcHB5JTIwb3IlMjB1bnRpZHl8ZW58MHx8fHwxNzY5MDEwMTkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="182109" /><ns2:content url="https://images.unsplash.com/photo-1516775448597-64ce06b9754e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwc2xvcHB5JTIwb3IlMjB1bnRpZHl8ZW58MHx8fHwxNzY5MDEwMTkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1516775448597-64ce06b9754e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwc2xvcHB5JTIwb3IlMjB1bnRpZHl8ZW58MHx8fHwxNzY5MDEwMTkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>너절하다</category></item><item><title>가겠다 – will go</title><link>urn:urn:vocab:가겠다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1629492664711-cabf02c61880?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWxsJTIwZ298ZW58MHx8fHwxNzY4OTkyNjAwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가겠다 (will go)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Two North Korean Soldiers Deployed by Russia as POWs Say "We Want to Go to South Korea" (러시아 파병 북한군 포로 2명 “한국으로 가겠다”) &lt;&lt;br/&gt;&lt;em&gt;Two North Korean Soldiers Deployed by Russia as POWs Say "We Want to Go to South Korea"&lt;/em&gt;&lt;/p&gt;
