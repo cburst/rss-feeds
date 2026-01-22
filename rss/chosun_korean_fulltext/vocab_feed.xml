@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 06:51:16 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 13:34:59 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>사랑해 – I love you</title><link>urn:urn:vocab:사랑해</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>의혹이 – suspicion</title><link>urn:urn:vocab:의혹이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1635437173459-f62bbe99d7a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXNwaWNpb258ZW58MHx8fHwxNzY5MDU2NDg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="의혹이 (suspicion)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정청래 민주당 대표는 이 의혹이 언론에 보도된 작년 11월 당 윤리감찰단에 조사를 지시했으나, 조사 결과는 아직 나오지 않은 상태다&lt;br/&gt;&lt;em&gt;Democratic Party leader Jeong Cheong-rae ordered an investigation by the party's ethics inspection team in November last year when this suspicion was reported in the media, but the investigation results have not yet been released.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령은 21일 부동산 투기, 보좌진 갑질 등 각종 의혹이 제기된 이혜훈 기획예산처 장관 후보자에 대해 “문제가 있어 보이기는 한다”면서도 “그쪽(국민의힘) 진영에서 공천을 5번 받고 3번이나 국회의원에 당선되고 아무런 문제가 제기되지 않았던 분”이라고 했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung said on the 21st regarding Lee Hye-hoon, the candidate for Minister of Planning and Budget, who has been accused of various suspicions including real estate speculation and staff abuse, 'It seems there is a problem,' but also added, 'That person (from the People Power Party camp) received nominations five times, was elected as a member of the National Assembly three times, and no issues were raised before.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그런데 이 후보자의 비위 의혹이 쏟아지면서 야당이 이 대통령에게 반격할 기회를 잡았습니다&lt;br/&gt;&lt;em&gt;However, as suspicions of misconduct against this candidate poured out, the opposition party seized an opportunity to counterattack President Lee.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;의혹이 커졌어요.&lt;br/&gt;&lt;em&gt;The suspicion grew.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;의혹이 사라졌어요.&lt;br/&gt;&lt;em&gt;The suspicion disappeared.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1635437173459-f62bbe99d7a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXNwaWNpb258ZW58MHx8fHwxNzY5MDU2NDg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="의혹이 (suspicion)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정청래 민주당 대표는 이 의혹이 언론에 보도된 작년 11월 당 윤리감찰단에 조사를 지시했으나, 조사 결과는 아직 나오지 않은 상태다&lt;br/&gt;&lt;em&gt;Democratic Party leader Jeong Cheong-rae ordered an investigation by the party's ethics inspection team in November last year when this suspicion was reported in the media, but the investigation results have not yet been released.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령은 21일 부동산 투기, 보좌진 갑질 등 각종 의혹이 제기된 이혜훈 기획예산처 장관 후보자에 대해 “문제가 있어 보이기는 한다”면서도 “그쪽(국민의힘) 진영에서 공천을 5번 받고 3번이나 국회의원에 당선되고 아무런 문제가 제기되지 않았던 분”이라고 했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung said on the 21st regarding Lee Hye-hoon, the candidate for Minister of Planning and Budget, who has been accused of various suspicions including real estate speculation and staff abuse, 'It seems there is a problem,' but also added, 'That person (from the People Power Party camp) received nominations five times, was elected as a member of the National Assembly three times, and no issues were raised before.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그런데 이 후보자의 비위 의혹이 쏟아지면서 야당이 이 대통령에게 반격할 기회를 잡았습니다&lt;br/&gt;&lt;em&gt;However, as suspicions of misconduct against this candidate poured out, the opposition party seized an opportunity to counterattack President Lee.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;의혹이 커졌어요.&lt;br/&gt;&lt;em&gt;The suspicion grew.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;의혹이 사라졌어요.&lt;br/&gt;&lt;em&gt;The suspicion disappeared.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 22 Jan 2026 13:34:59 +0900</pubDate><guid isPermaLink="false">vocab-1571b708d331e9c5b9611d397b3d065edb327798</guid><enclosure url="https://images.unsplash.com/photo-1635437173459-f62bbe99d7a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXNwaWNpb258ZW58MHx8fHwxNzY5MDU2NDg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="301470" /><ns2:content url="https://images.unsplash.com/photo-1635437173459-f62bbe99d7a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXNwaWNpb258ZW58MHx8fHwxNzY5MDU2NDg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1635437173459-f62bbe99d7a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXNwaWNpb258ZW58MHx8fHwxNzY5MDU2NDg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>의혹이</category></item><item><title>사랑해 – I love you</title><link>urn:urn:vocab:사랑해</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/reserve/Af0sF2OS5S5gatqrKzVP_Silhoutte.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJJTIwbG92ZSUyMHlvdXxlbnwwfHx8fDE3NjkwMzIyNjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사랑해 (I love you)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Lee Says "That's Creepy, I Love My Ex-Wife" (‘사랑하는 강훈식’ 출마설에… 李 “징그럽다, 전 아내를 사랑해”) &lt;&lt;br/&gt;&lt;em&gt;Lee Says "That's Creepy, I Love My Ex-Wife" (Regarding the rumor of 'Beloved Kang Hoon-sik' running for office... Lee says "That's creepy, I love my ex-wife") &lt;&lt;/em&gt;&lt;/p&gt;
