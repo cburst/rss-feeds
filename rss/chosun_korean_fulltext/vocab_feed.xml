@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 19:12:10 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 00:27:04 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>목소리가 – voice</title><link>urn:urn:vocab:목소리가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>교수가 – professor (subject marker)</title><link>urn:urn:vocab:교수가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzb3IlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc2OTA5NTYxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="교수가 (professor (subject marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아들인 김영세 연세대 교수가 아닌 며느리인 이 후보자가 가업(家業)인 ‘정치’를 물려받았다&lt;br/&gt;&lt;em&gt;The candidate, who is the daughter-in-law rather than the son, Professor Kim Young-se of Yonsei University, inherited the family business of 'politics'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김 교수가 영종도 땅을 사들인 시점은 인천공항 개항이 1년 앞으로 다가온 시기였다&lt;br/&gt;&lt;em&gt;The time when Professor Kim purchased the land on Yeongjong Island was when the opening of Incheon Airport was approaching within a year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2006년 12월 한국토지공사·인천도시개발공사는 김 교수가 사들인 영종도 토지를 수용했다&lt;br/&gt;&lt;em&gt;In December 2006, the Korea Land and Housing Corporation and Incheon Urban Development Corporation expropriated the Yeongjong Island land that Professor Kim had purchased.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;교수가 책을 읽어요.&lt;br/&gt;&lt;em&gt;The professor reads a book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;교수가 학생을 가르쳐요.&lt;br/&gt;&lt;em&gt;The professor teaches the student.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzb3IlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc2OTA5NTYxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="교수가 (professor (subject marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아들인 김영세 연세대 교수가 아닌 며느리인 이 후보자가 가업(家業)인 ‘정치’를 물려받았다&lt;br/&gt;&lt;em&gt;The candidate, who is the daughter-in-law rather than the son, Professor Kim Young-se of Yonsei University, inherited the family business of 'politics'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김 교수가 영종도 땅을 사들인 시점은 인천공항 개항이 1년 앞으로 다가온 시기였다&lt;br/&gt;&lt;em&gt;The time when Professor Kim purchased the land on Yeongjong Island was when the opening of Incheon Airport was approaching within a year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2006년 12월 한국토지공사·인천도시개발공사는 김 교수가 사들인 영종도 토지를 수용했다&lt;br/&gt;&lt;em&gt;In December 2006, the Korea Land and Housing Corporation and Incheon Urban Development Corporation expropriated the Yeongjong Island land that Professor Kim had purchased.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;교수가 책을 읽어요.&lt;br/&gt;&lt;em&gt;The professor reads a book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;교수가 학생을 가르쳐요.&lt;br/&gt;&lt;em&gt;The professor teaches the student.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 23 Jan 2026 00:27:04 +0900</pubDate><guid isPermaLink="false">vocab-8bbefce387d45893503654b4b6e6d9c5db3609a0</guid><enclosure url="https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzb3IlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc2OTA5NTYxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="115320" /><ns2:content url="https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzb3IlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc2OTA5NTYxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzb3IlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc2OTA5NTYxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>교수가</category></item><item><title>목소리가 – voice</title><link>urn:urn:vocab:목소리가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1453738773917-9c3eff1db985?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b2ljZXxlbnwwfHx8fDE3NjkwNzY3MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="목소리가 (voice)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;여권 내부에서도 이 후보자 임명에 대해 부정적 목소리가 분출하고 있습니다&lt;br/&gt;&lt;em&gt;Negative voices are erupting even within the ruling party regarding this candidate's appointment.&lt;/em&gt;&lt;/p&gt;
