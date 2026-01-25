@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 20:06:43 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 23:41:22 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>정치를 – politics</title><link>urn:urn:vocab:정치를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기사를 – article</title><link>urn:urn:vocab:기사를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1623039405147-547794f92e9e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpY2xlfGVufDB8fHx8MTc2OTM1MjA3MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기사를 (article)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이재명 대통령은 24일 밤 코스피 시장 전망이 정치 성향에 따라 극명하게 갈린다는 내용의 기사를 공유하며 “한편으로 안타깝기도 하다”고 말했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung said on the night of the 24th, sharing an article that the outlook for the KOSPI market is sharply divided depending on political orientation, "On one hand, it's also regrettable."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 엑스(X·옛 트위터)에 ‘정치 테마가 된 코스피, 오를까 떨어질까’라는 제목의 기사를 소개하며 “주식 보유 상황, 국내외 투자 성향, 향후 경제 예측 등 여러 면에서 재미있는 분석”이라고 했다&lt;br/&gt;&lt;em&gt;President Lee introduced an article titled 'KOSPI, which has become a political theme, will it rise or fall?' on X (formerly Twitter), saying, "It's an interesting analysis in many aspects, such as stock holding situations, domestic and foreign investment tendencies, and future economic forecasts."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 이날 엑스(X·옛 트위터)에 한국의 자국 방어 책임을 강화하는 방향의 트럼프 행정부의 새 NDS 내용을 분석한 기사를 올리고 이같이 적었다&lt;br/&gt;&lt;em&gt;President Lee posted an article on X (formerly Twitter) that day analyzing the new NDS content of the Trump administration in the direction of strengthening Korea's self-defense responsibility and wrote this.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 기사를 읽어요.&lt;br/&gt;&lt;em&gt;I read the article.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기사를 써요.&lt;br/&gt;&lt;em&gt;I write the article.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1623039405147-547794f92e9e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpY2xlfGVufDB8fHx8MTc2OTM1MjA3MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기사를 (article)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이재명 대통령은 24일 밤 코스피 시장 전망이 정치 성향에 따라 극명하게 갈린다는 내용의 기사를 공유하며 “한편으로 안타깝기도 하다”고 말했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung said on the night of the 24th, sharing an article that the outlook for the KOSPI market is sharply divided depending on political orientation, "On one hand, it's also regrettable."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 엑스(X·옛 트위터)에 ‘정치 테마가 된 코스피, 오를까 떨어질까’라는 제목의 기사를 소개하며 “주식 보유 상황, 국내외 투자 성향, 향후 경제 예측 등 여러 면에서 재미있는 분석”이라고 했다&lt;br/&gt;&lt;em&gt;President Lee introduced an article titled 'KOSPI, which has become a political theme, will it rise or fall?' on X (formerly Twitter), saying, "It's an interesting analysis in many aspects, such as stock holding situations, domestic and foreign investment tendencies, and future economic forecasts."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 이날 엑스(X·옛 트위터)에 한국의 자국 방어 책임을 강화하는 방향의 트럼프 행정부의 새 NDS 내용을 분석한 기사를 올리고 이같이 적었다&lt;br/&gt;&lt;em&gt;President Lee posted an article on X (formerly Twitter) that day analyzing the new NDS content of the Trump administration in the direction of strengthening Korea's self-defense responsibility and wrote this.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 기사를 읽어요.&lt;br/&gt;&lt;em&gt;I read the article.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기사를 써요.&lt;br/&gt;&lt;em&gt;I write the article.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 25 Jan 2026 23:41:21 +0900</pubDate><guid isPermaLink="false">vocab-670a49501f80d973c06819f47a92357fed75ae46</guid><enclosure url="https://images.unsplash.com/photo-1623039405147-547794f92e9e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpY2xlfGVufDB8fHx8MTc2OTM1MjA3MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="343049" /><ns2:content url="https://images.unsplash.com/photo-1623039405147-547794f92e9e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpY2xlfGVufDB8fHx8MTc2OTM1MjA3MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1623039405147-547794f92e9e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpY2xlfGVufDB8fHx8MTc2OTM1MjA3MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기사를</category></item><item><title>정치를 – politics</title><link>urn:urn:vocab:정치를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xpdGljc3xlbnwwfHx8fDE3NjkzMzkxOTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정치를 (politics)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;주간조선과 만나 “한국 정치를 망치는 것이 바로 이 공천 장사”라고 목소리를 높인 그는 최근 정치 현안에도 쓴소리를 아끼지 않았다&lt;br/&gt;&lt;em&gt;Meeting with Weekly Chosun, he raised his voice saying, "What ruins Korean politics is precisely this nomination business," and recently he has not spared harsh criticism on current political issues.&lt;/em&gt;&lt;/p&gt;
