@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 13:12:50 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 16:35:56 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>살면서 – while living</title><link>urn:urn:vocab:살면서</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>그러니까 – so, therefore</title><link>urn:urn:vocab:그러니까</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그러니까 여태 아무 잡음이 없잖나&lt;br/&gt;&lt;em&gt;So there hasn't been any noise until now, right?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러니까 망하지&lt;br/&gt;&lt;em&gt;So it's ruined.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“‘나는 스시가 좋다, 이자카야에 간다, 일본 여행도 많이 가 봤다, 자식들이 일본어 공부한다, 그러니까 일본을 잘 안다&lt;br/&gt;&lt;em&gt;So I like sushi, I go to izakayas, I've traveled to Japan a lot, my children study Japanese, so I know Japan well.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그러니까 집에 가세요.&lt;br/&gt;&lt;em&gt;So go home.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러니까 조심하세요.&lt;br/&gt;&lt;em&gt;So be careful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그러니까 여태 아무 잡음이 없잖나&lt;br/&gt;&lt;em&gt;So there hasn't been any noise until now, right?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러니까 망하지&lt;br/&gt;&lt;em&gt;So it's ruined.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“‘나는 스시가 좋다, 이자카야에 간다, 일본 여행도 많이 가 봤다, 자식들이 일본어 공부한다, 그러니까 일본을 잘 안다&lt;br/&gt;&lt;em&gt;So I like sushi, I go to izakayas, I've traveled to Japan a lot, my children study Japanese, so I know Japan well.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그러니까 집에 가세요.&lt;br/&gt;&lt;em&gt;So go home.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러니까 조심하세요.&lt;br/&gt;&lt;em&gt;So be careful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 25 Jan 2026 16:35:56 +0900</pubDate><guid isPermaLink="false">vocab-a59014f1c415cc133d1a080caf6ed14bc2eb1b20</guid><category>그러니까</category></item><item><title>살면서 – while living</title><link>urn:urn:vocab:살면서</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1764636098038-091b637738ee?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlsZSUyMGxpdmluZ3xlbnwwfHx8fDE3NjkzMTQzNjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="살면서 (while living)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (김 의원은 취재진을 만나 이 수석부의장이 “대한민국의 민주화, 민주주의, 번영, 우리 국민의 삶을 챙기기 위해 평생을 살면서 크고 중대한 일을 해왔다”며 “이렇게 가시기에는 너무 허망하니 기적처럼 반드시 다시 일어나셨으면 좋겠다”고 말했다&lt;br/&gt;&lt;em&gt;" (Rep. Kim met with reporters and said of this chief vice chairman, 'He has lived his whole life doing great and important things for the democratization, democracy, prosperity of South Korea, and for taking care of our people's lives,' adding, 'It would be too empty for him to leave like this, so I hope he will definitely rise again like a miracle.'"&lt;/em&gt;&lt;/p&gt;
