@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 06:52:42 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 10:48:40 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>이해 – understanding</title><link>urn:urn:vocab:이해</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>가덕도 – Gadeokdo (island)</title><link>urn:urn:vocab:가덕도</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1621934199515-d0cc58b2bbb1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUElQjAlODAlRUIlOEQlOTUlRUIlOEYlODR8ZW58MHx8fHwxNzY5MzkyMTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가덕도 (Gadeokdo (island))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Lee Jae-myung's Gadeokdo Terror Incident: Following NIS TF Launch, Police Also Form TF of Over 40 Personnel (李 가덕도 테러 사건, 국정원 TF 출범 이어 경찰도 40여명 TF) &lt;&lt;br/&gt;&lt;em&gt;Lee Jae-myung's Gadeokdo Terror Incident: Following NIS TF Launch, Police Also Form TF of Over 40 Personnel&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Lee Jae-myung's Gadeokdo Terror Incident: Following NIS TF Launch, Police Also Form TF of Over 40 Personnel (李 가덕도 테러 사건, 국정원 TF 출범 이어 경찰도 40여명 TF)&lt;/h1&gt;&lt;p&gt;The police are forming a task force (TF) composed of over 40 investigators to reinvestigate the stabbing terror incident that occurred in Busan's Gadeokdo in 2024 when President Lee Jae-myung was the leader of the Democratic Party of Korea&lt;br/&gt;&lt;em&gt;Lee Jae-myung's Gadeokdo Terror Incident: Following NIS TF Launch, Police Also Form TF of Over 40 Personnel&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(경찰이 2024년 이재명 대통령이 더불어민주당 대표 시절 발생한 부산 가덕도 피습 테러 사건을 재수사할 수사관 40여 명으로 구성된 태스크포스(TF)를 꾸린다&lt;br/&gt;&lt;em&gt;The police are forming a task force (TF) composed of over 40 investigators to reinvestigate the stabbing terror incident that occurred in Busan's Gadeokdo in 2024 when President Lee Jae-myung was the leader of the Democratic Party of Korea&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;가덕도는 아름다운 섬입니다.&lt;br/&gt;&lt;em&gt;Gadeokdo is a beautiful island.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가덕도에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to Gadeokdo.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1621934199515-d0cc58b2bbb1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUElQjAlODAlRUIlOEQlOTUlRUIlOEYlODR8ZW58MHx8fHwxNzY5MzkyMTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가덕도 (Gadeokdo (island))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Lee Jae-myung's Gadeokdo Terror Incident: Following NIS TF Launch, Police Also Form TF of Over 40 Personnel (李 가덕도 테러 사건, 국정원 TF 출범 이어 경찰도 40여명 TF) &lt;&lt;br/&gt;&lt;em&gt;Lee Jae-myung's Gadeokdo Terror Incident: Following NIS TF Launch, Police Also Form TF of Over 40 Personnel&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Lee Jae-myung's Gadeokdo Terror Incident: Following NIS TF Launch, Police Also Form TF of Over 40 Personnel (李 가덕도 테러 사건, 국정원 TF 출범 이어 경찰도 40여명 TF)&lt;/h1&gt;&lt;p&gt;The police are forming a task force (TF) composed of over 40 investigators to reinvestigate the stabbing terror incident that occurred in Busan's Gadeokdo in 2024 when President Lee Jae-myung was the leader of the Democratic Party of Korea&lt;br/&gt;&lt;em&gt;Lee Jae-myung's Gadeokdo Terror Incident: Following NIS TF Launch, Police Also Form TF of Over 40 Personnel&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(경찰이 2024년 이재명 대통령이 더불어민주당 대표 시절 발생한 부산 가덕도 피습 테러 사건을 재수사할 수사관 40여 명으로 구성된 태스크포스(TF)를 꾸린다&lt;br/&gt;&lt;em&gt;The police are forming a task force (TF) composed of over 40 investigators to reinvestigate the stabbing terror incident that occurred in Busan's Gadeokdo in 2024 when President Lee Jae-myung was the leader of the Democratic Party of Korea&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;가덕도는 아름다운 섬입니다.&lt;br/&gt;&lt;em&gt;Gadeokdo is a beautiful island.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가덕도에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to Gadeokdo.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 26 Jan 2026 10:48:40 +0900</pubDate><guid isPermaLink="false">vocab-daf923e40336e6484bb1ba2fbfcffd913d7be4bc</guid><enclosure url="https://images.unsplash.com/photo-1621934199515-d0cc58b2bbb1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUElQjAlODAlRUIlOEQlOTUlRUIlOEYlODR8ZW58MHx8fHwxNzY5MzkyMTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="170973" /><ns2:content url="https://images.unsplash.com/photo-1621934199515-d0cc58b2bbb1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUElQjAlODAlRUIlOEQlOTUlRUIlOEYlODR8ZW58MHx8fHwxNzY5MzkyMTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1621934199515-d0cc58b2bbb1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUElQjAlODAlRUIlOEQlOTUlRUIlOEYlODR8ZW58MHx8fHwxNzY5MzkyMTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>가덕도</category></item><item><title>이해 – understanding</title><link>urn:urn:vocab:이해</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1622012665875-f4493dc101a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bmRlcnN0YW5kaW5nfGVufDB8fHx8MTc2OTM3Nzk1NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이해 (understanding)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이해찬 민주평화통일자문회의 수석부의장이 베트남 순방 중 심근경색으로 별세했다&lt;br/&gt;&lt;em&gt;Lee Hae-chan, the senior vice chairman of the Democratic Peaceful Unification Advisory Council, passed away from a myocardial infarction during his visit to Vietnam.&lt;/em&gt;&lt;/p&gt;
