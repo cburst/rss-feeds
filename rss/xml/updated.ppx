@@ -28,15 +28,6 @@
             </Authentication>
         </Proxy>
         <Proxy id="101" type="SOCKS5">
-            <Address>87.239.255.22</Address>
-            <Port>1080</Port>
-            <Options>0</Options>
-            <Authentication enabled="true">
-                <Username>9QoFJT4UmzfcHwxxbfyQ3uzN</Username>
-                <Password>AAAEuL3znB9djQbHLrUphVqNmaO8VEVU92P7NQWnL7I5cDJikGUejx5+DvsG0vkfle8DwaKTZlVs+b2cYFrxNy1A0g==</Password>
-            </Authentication>
-        </Proxy>
-        <Proxy id="102" type="SOCKS5">
             <Address>87.239.255.37</Address>
             <Port>1080</Port>
             <Options>0</Options>
@@ -45,8 +36,17 @@
                 <Password>AAAEuL3znB9djQbHLrUphVqNmaO8VEVU92P7NQWnL7I5cDJikGUejx5+DvsG0vkfle8DwaKTZlVs+b2cYFrxNy1A0g==</Password>
             </Authentication>
         </Proxy>
+        <Proxy id="102" type="SOCKS5">
+            <Address>165.231.222.251</Address>
+            <Port>1080</Port>
+            <Options>0</Options>
+            <Authentication enabled="true">
+                <Username>9QoFJT4UmzfcHwxxbfyQ3uzN</Username>
+                <Password>AAAEuL3znB9djQbHLrUphVqNmaO8VEVU92P7NQWnL7I5cDJikGUejx5+DvsG0vkfle8DwaKTZlVs+b2cYFrxNy1A0g==</Password>
+            </Authentication>
+        </Proxy>
         <Proxy id="103" type="SOCKS5">
-            <Address>165.231.222.171</Address>
+            <Address>87.239.255.57</Address>
             <Port>1080</Port>
             <Options>0</Options>
             <Authentication enabled="true">
@@ -55,7 +55,7 @@
             </Authentication>
         </Proxy>
         <Proxy id="104" type="SOCKS5">
-            <Address>165.231.222.227</Address>
+            <Address>165.231.222.235</Address>
             <Port>1080</Port>
             <Options>0</Options>
             <Authentication enabled="true">
