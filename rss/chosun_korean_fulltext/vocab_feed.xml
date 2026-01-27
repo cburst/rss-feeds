@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 07:15:54 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 11:17:25 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>바르게 – correctly, properly, rightly</title><link>urn:urn:vocab:바르게</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>여론조사에 – in the opinion poll</title><link>urn:urn:vocab:여론조사에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (친여 성향 유튜버 김어준씨가 26일 김민석 국무총리를 서울시장 선거 여론조사에 넣지 말아 달라는 총리실 요구를 “알아서 하겠다&lt;br/&gt;&lt;em&gt;(YouTube personality Kim Eo-jun, known for his pro-government stance, responded on the 26th to the Prime Minister's Office's request to exclude Prime Minister Kim Min-seok from Seoul mayoral election polls by saying, "I'll handle it as I see fit.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (하지만 총리실은 같은 날 입장문을 배포해 “여론조사에 포함시키지 말아달라는 요청에도 불구하고 계속 포함시키는 일부 조사에 대해 매우 심각한 유감을 표시한다”고 했다&lt;br/&gt;&lt;em&gt;(However, on the same day, the Prime Minister's Office released a statement saying, "We express serious regret regarding some polls that continue to include him despite our request to exclude him from the polls.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이에 대해 김어준씨는 26일 유튜브에서 “(내가) 정청래를 연임시키려고, 김민석 당대표 출마를 막으려고 그런다는 이야기가 있다”며 “여론조사에 김 총리 이름을 넣으면 당대표 출마가 막아지나”라고 했다&lt;br/&gt;&lt;em&gt;(In response, Kim Eo-jun said on YouTube on the 26th, "There are claims that I'm doing this to keep Jeong Cheong-rae in office or to block Kim Min-seok from running for party leader. Does including Prime Minister Kim's name in polls really block his bid for party leadership?")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;여론조사에 참여했어요.&lt;br/&gt;&lt;em&gt;I participated in the opinion poll.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여론조사에 결과가 나왔어요.&lt;br/&gt;&lt;em&gt;The results of the opinion poll came out.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (친여 성향 유튜버 김어준씨가 26일 김민석 국무총리를 서울시장 선거 여론조사에 넣지 말아 달라는 총리실 요구를 “알아서 하겠다&lt;br/&gt;&lt;em&gt;(YouTube personality Kim Eo-jun, known for his pro-government stance, responded on the 26th to the Prime Minister's Office's request to exclude Prime Minister Kim Min-seok from Seoul mayoral election polls by saying, "I'll handle it as I see fit.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (하지만 총리실은 같은 날 입장문을 배포해 “여론조사에 포함시키지 말아달라는 요청에도 불구하고 계속 포함시키는 일부 조사에 대해 매우 심각한 유감을 표시한다”고 했다&lt;br/&gt;&lt;em&gt;(However, on the same day, the Prime Minister's Office released a statement saying, "We express serious regret regarding some polls that continue to include him despite our request to exclude him from the polls.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이에 대해 김어준씨는 26일 유튜브에서 “(내가) 정청래를 연임시키려고, 김민석 당대표 출마를 막으려고 그런다는 이야기가 있다”며 “여론조사에 김 총리 이름을 넣으면 당대표 출마가 막아지나”라고 했다&lt;br/&gt;&lt;em&gt;(In response, Kim Eo-jun said on YouTube on the 26th, "There are claims that I'm doing this to keep Jeong Cheong-rae in office or to block Kim Min-seok from running for party leader. Does including Prime Minister Kim's name in polls really block his bid for party leadership?")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;여론조사에 참여했어요.&lt;br/&gt;&lt;em&gt;I participated in the opinion poll.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여론조사에 결과가 나왔어요.&lt;br/&gt;&lt;em&gt;The results of the opinion poll came out.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 27 Jan 2026 11:17:25 +0900</pubDate><guid isPermaLink="false">vocab-de625258fca24e19cf426c96e8c491cb4736a631</guid><category>여론조사에</category></item><item><title>바르게 – correctly, properly, rightly</title><link>urn:urn:vocab:바르게</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;붓글씨를 써달라는 요청을 받고 ‘夫政者正也(부정자정야), 義人之路也(의인지로야)’라고 써주면서 “정말 정치하는 사람은 바르게 또한 의인 답게 걸어야 하는 것”이라고 말합니다&lt;br/&gt;&lt;em&gt;Upon receiving a request to write calligraphy, he wrote '夫政者正也, 義人之路也' and said, 'A person who truly engages in politics must walk righteously and in a manner befitting a righteous person.'&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;정말 정치(政治)하는 사람은 바르게 또한 의인(義人)답게 걸어야 하는 것이다&lt;br/&gt;&lt;em&gt;A person who truly engages in politics must walk righteously and in a manner befitting a righteous person.&lt;/em&gt;&lt;/p&gt;
