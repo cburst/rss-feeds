@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 04:22:29 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 09:59:36 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>전화하라 – call</title><link>urn:urn:vocab:전화하라</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>정규직 – regular employee</title><link>urn:urn:vocab:정규직</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1657363159621-baa356179beb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWd1bGFyJTIwZW1wbG95ZWV8ZW58MHx8fHwxNzY5NTYxOTY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정규직 (regular employee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정부가 올해 공기업 등 공공기관 330여 곳에서 정규직 2만8000명을 뽑을 계획이라고 27일 밝혔다&lt;br/&gt;&lt;em&gt;(The government announced on the 27th that it plans to hire 28,000 regular employees at about 330 public institutions, including state-run companies, this year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 재정경제부에 따르면, 공공기관들의 올해 정규직 채용 계획 2만8000명 중 한국철도공사가 1800명을 뽑아 가장 많다&lt;br/&gt;&lt;em&gt;(According to the Ministry of Finance and Economy on the same day, among the 28,000 regular employee hiring plans for public institutions this year, Korea Railroad Corporation will hire 1,800, the most.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정규직 채용만 보면, 3만2명을 뽑았던 2020년 이후 6년 만에 가장 많다&lt;br/&gt;&lt;em&gt;(In terms of regular employee hiring alone, this is the highest number in six years since 2020, when 32,000 were hired.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정규직이 좋아요.&lt;br/&gt;&lt;em&gt;I like regular employment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정규직을 구합니다.&lt;br/&gt;&lt;em&gt;Looking for regular employment.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1657363159621-baa356179beb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWd1bGFyJTIwZW1wbG95ZWV8ZW58MHx8fHwxNzY5NTYxOTY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정규직 (regular employee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정부가 올해 공기업 등 공공기관 330여 곳에서 정규직 2만8000명을 뽑을 계획이라고 27일 밝혔다&lt;br/&gt;&lt;em&gt;(The government announced on the 27th that it plans to hire 28,000 regular employees at about 330 public institutions, including state-run companies, this year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 재정경제부에 따르면, 공공기관들의 올해 정규직 채용 계획 2만8000명 중 한국철도공사가 1800명을 뽑아 가장 많다&lt;br/&gt;&lt;em&gt;(According to the Ministry of Finance and Economy on the same day, among the 28,000 regular employee hiring plans for public institutions this year, Korea Railroad Corporation will hire 1,800, the most.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정규직 채용만 보면, 3만2명을 뽑았던 2020년 이후 6년 만에 가장 많다&lt;br/&gt;&lt;em&gt;(In terms of regular employee hiring alone, this is the highest number in six years since 2020, when 32,000 were hired.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정규직이 좋아요.&lt;br/&gt;&lt;em&gt;I like regular employment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정규직을 구합니다.&lt;br/&gt;&lt;em&gt;Looking for regular employment.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 28 Jan 2026 09:59:36 +0900</pubDate><guid isPermaLink="false">vocab-a9143efc40e431ac1c61e9cc5d958afe26feb4a7</guid><enclosure url="https://images.unsplash.com/photo-1657363159621-baa356179beb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWd1bGFyJTIwZW1wbG95ZWV8ZW58MHx8fHwxNzY5NTYxOTY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="161081" /><ns2:content url="https://images.unsplash.com/photo-1657363159621-baa356179beb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWd1bGFyJTIwZW1wbG95ZWV8ZW58MHx8fHwxNzY5NTYxOTY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1657363159621-baa356179beb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWd1bGFyJTIwZW1wbG95ZWV8ZW58MHx8fHwxNzY5NTYxOTY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>정규직</category></item><item><title>전화하라 – call</title><link>urn:urn:vocab:전화하라</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1523966211575-eb4a01e7dd51?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYWxsfGVufDB8fHx8MTc2OTU0MTc0MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전화하라 (call)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Fasting Lawmaker Jang Dong-hyeok, After Hospital Discharge, Says "President Lee Shouldn't Hide Behind Aides, Call Trump" (단식 퇴원 장동혁 “李대통령, 참모 뒤에 숨지 말고 트럼프에 전화하라”) &lt;&lt;br/&gt;&lt;em&gt;Fasting Lawmaker Jang Dong-hyeok, After Hospital Discharge, Says "President Lee Shouldn't Hide Behind Aides, Call Trump"&lt;/em&gt;&lt;/p&gt;
