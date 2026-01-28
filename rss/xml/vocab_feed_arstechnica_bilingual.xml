@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" xmlns:ns1="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Korean Vocab Feed (xml)</title><description>새로운 한국어 어휘 항목 (예문 + 번역 + 이미지)</description><lastBuildDate>Wed, 28 Jan 2026 14:47:34 +0900</lastBuildDate><language>ko-KR</language><ttl>60</ttl><item><title>안전벨트 – seatbelt</title><link>urn:urn:vocab:안전벨트</link><description>&lt;div class="vocab-item"&gt;
+<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" xmlns:ns1="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Korean Vocab Feed (xml)</title><description>새로운 한국어 어휘 항목 (예문 + 번역 + 이미지)</description><lastBuildDate>Wed, 28 Jan 2026 18:29:31 +0900</lastBuildDate><language>ko-KR</language><ttl>60</ttl><item><title>이메일을 – email</title><link>urn:urn:vocab:이메일을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbWFpbHxlbnwwfHx8fDE3Njk1OTI1NjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이메일을 (email)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;”&lt;br/&gt;(포보스 그룹의 설립자인 댄 텐틀러는 "이메일을 검증하는 엔드포인트를 완전히 제거한 것 같습니다&lt;br/&gt;&lt;em&gt;"&lt;br/&gt;(Dan Tentler, founder of the Phobos Group, said, 'It seems they completely removed the endpoint that verifies emails')&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그들은 네트워크를 루팅하고 최고 경영진의 이메일을 두 달간 감시했습니다&lt;br/&gt;&lt;em&gt;They rooted the network and monitored the CEO's emails for two months&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;마이크로소프트 문서에 따르면, 이 주소는 메일 사용 가능 보안 그룹에 구독 이메일을 보내는 데 사용됩니다&lt;br/&gt;&lt;em&gt;According to Microsoft documents, this address is used to send subscription emails to the mail-enabled security group&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 이메일을 보냅니다.&lt;br/&gt;&lt;em&gt;I send an email.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 이메일을 읽습니다.&lt;br/&gt;&lt;em&gt;He reads an email.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns0:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbWFpbHxlbnwwfHx8fDE3Njk1OTI1NjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이메일을 (email)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;”&lt;br/&gt;(포보스 그룹의 설립자인 댄 텐틀러는 "이메일을 검증하는 엔드포인트를 완전히 제거한 것 같습니다&lt;br/&gt;&lt;em&gt;"&lt;br/&gt;(Dan Tentler, founder of the Phobos Group, said, 'It seems they completely removed the endpoint that verifies emails')&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그들은 네트워크를 루팅하고 최고 경영진의 이메일을 두 달간 감시했습니다&lt;br/&gt;&lt;em&gt;They rooted the network and monitored the CEO's emails for two months&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;마이크로소프트 문서에 따르면, 이 주소는 메일 사용 가능 보안 그룹에 구독 이메일을 보내는 데 사용됩니다&lt;br/&gt;&lt;em&gt;According to Microsoft documents, this address is used to send subscription emails to the mail-enabled security group&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 이메일을 보냅니다.&lt;br/&gt;&lt;em&gt;I send an email.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 이메일을 읽습니다.&lt;br/&gt;&lt;em&gt;He reads an email.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns0:encoded><pubDate>Wed, 28 Jan 2026 18:29:31 +0900</pubDate><guid isPermaLink="false">vocab-d8d50e191d8fbe5037e05325a44dccb6a8ddf2b7</guid><enclosure url="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbWFpbHxlbnwwfHx8fDE3Njk1OTI1NjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="135538" /><ns1:content url="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbWFpbHxlbnwwfHx8fDE3Njk1OTI1NjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns1:thumbnail url="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbWFpbHxlbnwwfHx8fDE3Njk1OTI1NjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>이메일을</category></item><item><title>안전벨트 – seatbelt</title><link>urn:urn:vocab:안전벨트</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605647381739-9bba88b1c5d1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZWF0YmVsdHxlbnwwfHx8fDE3Njk1NzkyNDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="안전벨트 (seatbelt)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;안전벨트, 백미러, 터보차저 엔진, 공기역학, 직접 분사 엔진, 듀얼 클러치 변속기 등은 모두 경쟁 덕분에 존재하게 되었습니다&lt;br/&gt;&lt;em&gt;Safety belts, rearview mirrors, turbocharger engines, aerodynamics, direct injection engines, dual-clutch transmissions, etc., all exist thanks to competition.&lt;/em&gt;&lt;/p&gt;
