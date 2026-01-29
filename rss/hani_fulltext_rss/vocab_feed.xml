@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 17:44:23 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 23:07:13 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>영업이익 – operating profit</title><link>urn:urn:vocab:영업이익</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>친한계 – close relationship</title><link>urn:urn:vocab:친한계</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1759455359194-a3f8af90d863?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbG9zZSUyMHJlbGF0aW9uc2hpcHxlbnwwfHx8fDE3Njk2OTU2MjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="친한계 (close relationship)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Jang Dong-hyeok Must Step Down" (친한계 의원 16명 “한동훈 제명은 해당 행위…장동혁 물러나야”) &lt;&lt;br/&gt;&lt;em&gt;"Jang Dong-hyeok Must Step Down" (16 pro-Han lawmakers: "Han Dong-hoon's expulsion is an act... Jang Dong-hyeok must step down")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Jang Dong-hyeok Must Step Down" (친한계 의원 16명 “한동훈 제명은 해당 행위…장동혁 물러나야”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"Jang Dong-hyeok Must Step Down" (16 pro-Han lawmakers: "Han Dong-hoon's expulsion is an act... Jang Dong-hyeok must step down")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (고동진 의원 등 16명의 친한계 의원들은 이날 국회에서 긴급 기자회견을 열어 “오늘 한 전 대표에 대한 제명 결정은 심각한 해당 행위로 우리 의원들은 절대 받아들일 수 없다”며 “명확한 사실관계와 논리도 없이 감정적으로 전직 당 대표 정치생명을 끊는 건 정당사에 유례없는 일”이라고 비판했다&lt;br/&gt;&lt;em&gt;" (16 pro-Han lawmakers including Rep. Go Dong-jin held an emergency press conference at the National Assembly today, criticizing: 'Today's decision to expel former leader Han is a serious act that we lawmakers absolutely cannot accept,' and 'Emotionally ending a former party leader's political career without clear facts and logic is unprecedented in party history.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;친한계가 중요해요.&lt;br/&gt;&lt;em&gt;Close relationships are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 친한계를 가져요.&lt;br/&gt;&lt;em&gt;We have close relationships.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1759455359194-a3f8af90d863?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbG9zZSUyMHJlbGF0aW9uc2hpcHxlbnwwfHx8fDE3Njk2OTU2MjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="친한계 (close relationship)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Jang Dong-hyeok Must Step Down" (친한계 의원 16명 “한동훈 제명은 해당 행위…장동혁 물러나야”) &lt;&lt;br/&gt;&lt;em&gt;"Jang Dong-hyeok Must Step Down" (16 pro-Han lawmakers: "Han Dong-hoon's expulsion is an act... Jang Dong-hyeok must step down")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Jang Dong-hyeok Must Step Down" (친한계 의원 16명 “한동훈 제명은 해당 행위…장동혁 물러나야”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"Jang Dong-hyeok Must Step Down" (16 pro-Han lawmakers: "Han Dong-hoon's expulsion is an act... Jang Dong-hyeok must step down")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (고동진 의원 등 16명의 친한계 의원들은 이날 국회에서 긴급 기자회견을 열어 “오늘 한 전 대표에 대한 제명 결정은 심각한 해당 행위로 우리 의원들은 절대 받아들일 수 없다”며 “명확한 사실관계와 논리도 없이 감정적으로 전직 당 대표 정치생명을 끊는 건 정당사에 유례없는 일”이라고 비판했다&lt;br/&gt;&lt;em&gt;" (16 pro-Han lawmakers including Rep. Go Dong-jin held an emergency press conference at the National Assembly today, criticizing: 'Today's decision to expel former leader Han is a serious act that we lawmakers absolutely cannot accept,' and 'Emotionally ending a former party leader's political career without clear facts and logic is unprecedented in party history.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;친한계가 중요해요.&lt;br/&gt;&lt;em&gt;Close relationships are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 친한계를 가져요.&lt;br/&gt;&lt;em&gt;We have close relationships.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 29 Jan 2026 23:07:12 +0900</pubDate><guid isPermaLink="false">vocab-87c0ecd97382ee8227b7c4614fe232d92eeff60c</guid><enclosure url="https://images.unsplash.com/photo-1759455359194-a3f8af90d863?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbG9zZSUyMHJlbGF0aW9uc2hpcHxlbnwwfHx8fDE3Njk2OTU2MjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="84942" /><ns2:content url="https://images.unsplash.com/photo-1759455359194-a3f8af90d863?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbG9zZSUyMHJlbGF0aW9uc2hpcHxlbnwwfHx8fDE3Njk2OTU2MjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1759455359194-a3f8af90d863?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbG9zZSUyMHJlbGF0aW9uc2hpcHxlbnwwfHx8fDE3Njk2OTU2MjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>친한계</category></item><item><title>영업이익 – operating profit</title><link>urn:urn:vocab:영업이익</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(기아가 지난해 역대 최다 판매량과 사상 최대 매출액을 경신하고도 미국 자동차 관세 등의 영향으로 영업이익은 28% 넘게 급감했다&lt;br/&gt;&lt;em&gt;(Kia's operating profit plummeted by over 28% due to factors such as U.S. automobile tariffs, despite achieving record-high sales volume and the largest-ever revenue last year)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;(기아는 28일 기업설명회를 열고, 지난해 연결 재무제표 기준 매출 114조1409억원, 영업이익 9조781억원을 기록했다고 밝혔다&lt;br/&gt;&lt;em&gt;(Kia announced at a corporate briefing on the 28th that it recorded revenue of 114.1409 trillion won and operating profit of 9.0781 trillion won based on consolidated financial statements last year)&lt;/em&gt;&lt;/p&gt;
