@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 10:54:24 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 16:50:46 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>재산이 – property</title><link>urn:urn:vocab:재산이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>전쟁터 – battlefield</title><link>urn:urn:vocab:전쟁터</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1525711857929-4272fb4a040f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXR0bGVmaWVsZHxlbnwwfHx8fDE3Njk3NTk0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전쟁터 (battlefield)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 휴전회담 당시 연락책을 맡아 여러 모로 백선엽과는 ‘전쟁터 적(敵)’으로서의 인연이 있는 인물이었다&lt;br/&gt;&lt;em&gt;He was a person who served as a contact during the armistice talks and had various connections with Baek Seon-yeop as a 'battlefield enemy'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그렇게 전쟁터에서 생사를 걸고 다퉜던 둘은 전쟁이 휴전으로 일단 막을 내린 뒤 오랜 세월을 보내고서 서로 만났을 때 할 말이 많았을까&lt;br/&gt;&lt;em&gt;(After fighting life-and-death battles on the battlefield, when the two met after many years following the war's temporary end with an armistice, did they have much to say to each other?)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(전쟁터에서는 모든 게 갈린다&lt;br/&gt;&lt;em&gt;(On the battlefield, everything is divided.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전쟁터가 아주 넓습니다.&lt;br/&gt;&lt;em&gt;The battlefield is very wide.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전쟁터에 군인이 있습니다.&lt;br/&gt;&lt;em&gt;There is a soldier on the battlefield.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1525711857929-4272fb4a040f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXR0bGVmaWVsZHxlbnwwfHx8fDE3Njk3NTk0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전쟁터 (battlefield)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 휴전회담 당시 연락책을 맡아 여러 모로 백선엽과는 ‘전쟁터 적(敵)’으로서의 인연이 있는 인물이었다&lt;br/&gt;&lt;em&gt;He was a person who served as a contact during the armistice talks and had various connections with Baek Seon-yeop as a 'battlefield enemy'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그렇게 전쟁터에서 생사를 걸고 다퉜던 둘은 전쟁이 휴전으로 일단 막을 내린 뒤 오랜 세월을 보내고서 서로 만났을 때 할 말이 많았을까&lt;br/&gt;&lt;em&gt;(After fighting life-and-death battles on the battlefield, when the two met after many years following the war's temporary end with an armistice, did they have much to say to each other?)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(전쟁터에서는 모든 게 갈린다&lt;br/&gt;&lt;em&gt;(On the battlefield, everything is divided.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전쟁터가 아주 넓습니다.&lt;br/&gt;&lt;em&gt;The battlefield is very wide.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전쟁터에 군인이 있습니다.&lt;br/&gt;&lt;em&gt;There is a soldier on the battlefield.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 30 Jan 2026 16:50:46 +0900</pubDate><guid isPermaLink="false">vocab-8375da96bdb2f775709cff370aafa5079cdd523c</guid><enclosure url="https://images.unsplash.com/photo-1525711857929-4272fb4a040f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXR0bGVmaWVsZHxlbnwwfHx8fDE3Njk3NTk0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="68774" /><ns2:content url="https://images.unsplash.com/photo-1525711857929-4272fb4a040f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXR0bGVmaWVsZHxlbnwwfHx8fDE3Njk3NTk0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1525711857929-4272fb4a040f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXR0bGVmaWVsZHxlbnwwfHx8fDE3Njk3NTk0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>전쟁터</category></item><item><title>재산이 – property</title><link>urn:urn:vocab:재산이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eXxlbnwwfHx8fDE3Njk3MzgwNTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재산이 (property)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;노 대사는 주식 등 유가증권 213억원, 건물 132억원, 예금 126억원어치 등을 보유해, 이날 재산이 공개된 362명 가운데 가장 많은 재산을 가진 것으로 나타났다&lt;br/&gt;&lt;em&gt;Ambassador Noh was found to have the most assets among the 362 individuals whose wealth was disclosed today, holding 21.3 billion won in stocks and other securities, 13.2 billion won in buildings, and 12.6 billion won in deposits, among other assets.&lt;/em&gt;&lt;/p&gt;
