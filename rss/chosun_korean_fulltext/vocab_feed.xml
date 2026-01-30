@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 04:39:35 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 10:54:24 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>공휴일 – public holiday</title><link>urn:urn:vocab:공휴일</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>재산이 – property</title><link>urn:urn:vocab:재산이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eXxlbnwwfHx8fDE3Njk3MzgwNTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재산이 (property)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;노 대사는 주식 등 유가증권 213억원, 건물 132억원, 예금 126억원어치 등을 보유해, 이날 재산이 공개된 362명 가운데 가장 많은 재산을 가진 것으로 나타났다&lt;br/&gt;&lt;em&gt;Ambassador Noh was found to have the most assets among the 362 individuals whose wealth was disclosed today, holding 21.3 billion won in stocks and other securities, 13.2 billion won in buildings, and 12.6 billion won in deposits, among other assets.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령의 사법연수원 18기 동기인 이찬진 금융감독원장은 384억8874만원의 재산을 신고해 노 대사 다음으로 재산이 많았다&lt;br/&gt;&lt;em&gt;Lee Chan-jin, the head of the Financial Supervisory Service and a classmate of President Lee from the 18th class of the Judicial Research and Training Institute, reported assets of 38.48874 billion won, ranking second in wealth after Ambassador Noh.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(최동석 인사혁신처장은 재산이 57억원이었는데 이 가운데 26억원어치를 가상 자산으로 갖고 있었다&lt;br/&gt;&lt;em&gt;Choi Dong-seok, the head of the Personnel Innovation Office, had assets of 5.7 billion won, of which 2.6 billion won was held in virtual assets.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;재산이 많아요.&lt;br/&gt;&lt;em&gt;I have a lot of property.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;재산이 작아요.&lt;br/&gt;&lt;em&gt;I have little property.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eXxlbnwwfHx8fDE3Njk3MzgwNTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재산이 (property)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;노 대사는 주식 등 유가증권 213억원, 건물 132억원, 예금 126억원어치 등을 보유해, 이날 재산이 공개된 362명 가운데 가장 많은 재산을 가진 것으로 나타났다&lt;br/&gt;&lt;em&gt;Ambassador Noh was found to have the most assets among the 362 individuals whose wealth was disclosed today, holding 21.3 billion won in stocks and other securities, 13.2 billion won in buildings, and 12.6 billion won in deposits, among other assets.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령의 사법연수원 18기 동기인 이찬진 금융감독원장은 384억8874만원의 재산을 신고해 노 대사 다음으로 재산이 많았다&lt;br/&gt;&lt;em&gt;Lee Chan-jin, the head of the Financial Supervisory Service and a classmate of President Lee from the 18th class of the Judicial Research and Training Institute, reported assets of 38.48874 billion won, ranking second in wealth after Ambassador Noh.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(최동석 인사혁신처장은 재산이 57억원이었는데 이 가운데 26억원어치를 가상 자산으로 갖고 있었다&lt;br/&gt;&lt;em&gt;Choi Dong-seok, the head of the Personnel Innovation Office, had assets of 5.7 billion won, of which 2.6 billion won was held in virtual assets.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;재산이 많아요.&lt;br/&gt;&lt;em&gt;I have a lot of property.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;재산이 작아요.&lt;br/&gt;&lt;em&gt;I have little property.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 30 Jan 2026 10:54:24 +0900</pubDate><guid isPermaLink="false">vocab-6ad4ba132471bc88f23e56fb74e4829191d85ff2</guid><enclosure url="https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eXxlbnwwfHx8fDE3Njk3MzgwNTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="78482" /><ns2:content url="https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eXxlbnwwfHx8fDE3Njk3MzgwNTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eXxlbnwwfHx8fDE3Njk3MzgwNTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>재산이</category></item><item><title>공휴일 – public holiday</title><link>urn:urn:vocab:공휴일</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1609353196943-a7d6877dc240?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjBob2xpZGF5fGVufDB8fHx8MTc2OTcxNTU2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공휴일 (public holiday)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Public Holiday Act Passes in Plenary Session (제헌절, 올해부터 다시 쉰다…공휴일법 본회의 통과) &lt;&lt;br/&gt;&lt;em&gt;Public Holiday Act Passes in Plenary Session (Constitution Day, to be observed again from this year...Public Holiday Act passes in plenary session) &lt;&lt;/em&gt;&lt;/p&gt;

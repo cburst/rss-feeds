@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 04:39:24 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 10:54:12 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>인구가 – population</title><link>urn:urn:vocab:인구가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>규모로 – in scale</title><link>urn:urn:vocab:규모로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612012061077-a53a02498286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHNjYWxlfGVufDB8fHx8MTc2OTczODA0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="규모로 (in scale)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(150조원 규모로 조성되는 국민성장펀드의 메가프로젝트 1호 승인 사업으로 전남 대규모 해상풍력 발전사업이 선정됐다&lt;br/&gt;&lt;em&gt;The large-scale offshore wind power project in Jeonnam has been selected as the first mega-project approved for the National Growth Fund, which is being established with a scale of 150 trillion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부는 총 150조원 규모의 국민성장펀드를 조성해 반도체·인공지능(AI) 등 첨단전략산업과 관련 인프라에 장기·대규모로 투자할 계획이다&lt;br/&gt;&lt;em&gt;The government plans to establish a National Growth Fund with a total scale of 150 trillion won to invest long-term and large-scale in advanced strategic industries such as semiconductors and artificial intelligence (AI) and related infrastructure.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(또 이번 사업은 연간 250억원 규모로 예상되는 주민 참여에 따른 추가 수익 전액을 지역 주민과 공유하는 구조로 설계된다&lt;br/&gt;&lt;em&gt;Additionally, this project is designed with a structure that shares the entire additional revenue from resident participation, which is expected to amount to 25 billion won annually, with local residents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 공원은 규모로 크다.&lt;br/&gt;&lt;em&gt;This park is large in scale.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 회사는 규모로 성장했다.&lt;br/&gt;&lt;em&gt;That company has grown in scale.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612012061077-a53a02498286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHNjYWxlfGVufDB8fHx8MTc2OTczODA0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="규모로 (in scale)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(150조원 규모로 조성되는 국민성장펀드의 메가프로젝트 1호 승인 사업으로 전남 대규모 해상풍력 발전사업이 선정됐다&lt;br/&gt;&lt;em&gt;The large-scale offshore wind power project in Jeonnam has been selected as the first mega-project approved for the National Growth Fund, which is being established with a scale of 150 trillion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부는 총 150조원 규모의 국민성장펀드를 조성해 반도체·인공지능(AI) 등 첨단전략산업과 관련 인프라에 장기·대규모로 투자할 계획이다&lt;br/&gt;&lt;em&gt;The government plans to establish a National Growth Fund with a total scale of 150 trillion won to invest long-term and large-scale in advanced strategic industries such as semiconductors and artificial intelligence (AI) and related infrastructure.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(또 이번 사업은 연간 250억원 규모로 예상되는 주민 참여에 따른 추가 수익 전액을 지역 주민과 공유하는 구조로 설계된다&lt;br/&gt;&lt;em&gt;Additionally, this project is designed with a structure that shares the entire additional revenue from resident participation, which is expected to amount to 25 billion won annually, with local residents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 공원은 규모로 크다.&lt;br/&gt;&lt;em&gt;This park is large in scale.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 회사는 규모로 성장했다.&lt;br/&gt;&lt;em&gt;That company has grown in scale.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 30 Jan 2026 10:54:12 +0900</pubDate><guid isPermaLink="false">vocab-d997d7f61dac0f5a4ce5e85cc8d33a5ac9c73b0a</guid><enclosure url="https://images.unsplash.com/photo-1612012061077-a53a02498286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHNjYWxlfGVufDB8fHx8MTc2OTczODA0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="204058" /><ns2:content url="https://images.unsplash.com/photo-1612012061077-a53a02498286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHNjYWxlfGVufDB8fHx8MTc2OTczODA0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1612012061077-a53a02498286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHNjYWxlfGVufDB8fHx8MTc2OTczODA0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>규모로</category></item><item><title>인구가 – population</title><link>urn:urn:vocab:인구가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713001075225-8c490e800e29?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb3B1bGF0aW9ufGVufDB8fHx8MTc2OTcxNTU1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인구가 (population)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;고령화에 따라 이동이 활발한 젊은 층 인구가 감소한 영향으로 분석된다&lt;br/&gt;&lt;em&gt;It is analyzed that the population of the younger generation, which is active in moving, has decreased due to the aging population.&lt;/em&gt;&lt;/p&gt;
