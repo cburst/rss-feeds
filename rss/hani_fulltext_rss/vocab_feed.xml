@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 23:58:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 04:47:02 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>지적했다 – pointed out</title><link>urn:urn:vocab:지적했다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>운영되며 – operates</title><link>urn:urn:vocab:운영되며</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVyYXRlc3xlbnwwfHx8fDE3Njk4ODg4MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="운영되며 (operates)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘동궐동락’은 하루 4회(오후 6시, 6시20분, 6시40분, 7시) 110분간 운영되며, 티켓링크(www&lt;br/&gt;&lt;em&gt;'Donggwoldongrak' operates 4 times a day (6 PM, 6:20 PM, 6:40 PM, 7 PM) for 110 minutes, with tickets available on Ticket Link (www&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;상설 전시 및 기획 전시, 아이들이 참여할 수 있는 프로그램 등이 다채롭게 운영되며 자연 체험을 동시에 즐길 수 있는 캠핑장도 운영해 1박 코스의 여행지로도 적합하다&lt;br/&gt;&lt;em&gt;Permanent exhibitions, special exhibitions, and various programs for children are operated, along with a campground that allows for natural experiences, making it suitable as a one-night travel destination&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;Guest Reporter Park Eun-ah (총 2개 코스로 운영되며, ‘테르메덴’ ‘라드라비 미술관’ ‘시몬스테라스’ 등 겨울철 감성을 만끽할 수 있는 관광지로 알차게 구성돼 있다&lt;br/&gt;&lt;em&gt;)&lt;/p&gt;&lt;p&gt;Guest Reporter Park Eun-ah (It operates with a total of 2 courses, including 'Thermeden', 'Radravi Art Museum', and 'Simonsstrasse', which are well-organized tourist spots to fully enjoy the winter atmosphere&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 회사는 운영되며 성장합니다.&lt;br/&gt;&lt;em&gt;This company operates and grows.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도서관이 운영되며 이용됩니다.&lt;br/&gt;&lt;em&gt;The library operates and is used.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVyYXRlc3xlbnwwfHx8fDE3Njk4ODg4MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="운영되며 (operates)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘동궐동락’은 하루 4회(오후 6시, 6시20분, 6시40분, 7시) 110분간 운영되며, 티켓링크(www&lt;br/&gt;&lt;em&gt;'Donggwoldongrak' operates 4 times a day (6 PM, 6:20 PM, 6:40 PM, 7 PM) for 110 minutes, with tickets available on Ticket Link (www&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;상설 전시 및 기획 전시, 아이들이 참여할 수 있는 프로그램 등이 다채롭게 운영되며 자연 체험을 동시에 즐길 수 있는 캠핑장도 운영해 1박 코스의 여행지로도 적합하다&lt;br/&gt;&lt;em&gt;Permanent exhibitions, special exhibitions, and various programs for children are operated, along with a campground that allows for natural experiences, making it suitable as a one-night travel destination&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;Guest Reporter Park Eun-ah (총 2개 코스로 운영되며, ‘테르메덴’ ‘라드라비 미술관’ ‘시몬스테라스’ 등 겨울철 감성을 만끽할 수 있는 관광지로 알차게 구성돼 있다&lt;br/&gt;&lt;em&gt;)&lt;/p&gt;&lt;p&gt;Guest Reporter Park Eun-ah (It operates with a total of 2 courses, including 'Thermeden', 'Radravi Art Museum', and 'Simonsstrasse', which are well-organized tourist spots to fully enjoy the winter atmosphere&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 회사는 운영되며 성장합니다.&lt;br/&gt;&lt;em&gt;This company operates and grows.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도서관이 운영되며 이용됩니다.&lt;br/&gt;&lt;em&gt;The library operates and is used.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 01 Feb 2026 04:47:02 +0900</pubDate><guid isPermaLink="false">vocab-88b19b5fa418196dfe7d976b18239dc9b5f7734a</guid><enclosure url="https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVyYXRlc3xlbnwwfHx8fDE3Njk4ODg4MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="138462" /><ns2:content url="https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVyYXRlc3xlbnwwfHx8fDE3Njk4ODg4MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVyYXRlc3xlbnwwfHx8fDE3Njk4ODg4MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>운영되며</category></item><item><title>지적했다 – pointed out</title><link>urn:urn:vocab:지적했다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600878099305-91ee68abee6a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2ludGVkJTIwb3V0fGVufDB8fHx8MTc2OTg3MTQ5OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지적했다 (pointed out)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이 총재는 국민연금의 환헤지(위험회피 거래) 목표 비율을 높이고 달러 조달 방식을 다변화해야 한다고 지적했다&lt;br/&gt;&lt;em&gt;The chairman pointed out that the National Pension Service should increase its target ratio for currency hedging (risk-avoidance transactions) and diversify its dollar procurement methods.&lt;/em&gt;&lt;/p&gt;

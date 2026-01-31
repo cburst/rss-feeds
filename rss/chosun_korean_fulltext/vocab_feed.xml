@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 23:58:44 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 04:47:13 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>경제학 – economics</title><link>urn:urn:vocab:경제학</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>정상화 – normalization</title><link>urn:urn:vocab:정상화</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604364409914-dd21eb8ed25c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3JtYWxpemF0aW9ufGVufDB8fHx8MTc2OTg4ODgyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정상화 (normalization)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (장동혁 국민의힘 대표는 31일 이재명 대통령이 자신의 X(옛 트위터)에 ‘부동산 정상화는 5천피(코스피 5000)보다 훨씬 쉽다’고 밝힌 데 대해 “호텔경제학에 이은 호통경제학&lt;br/&gt;&lt;em&gt;" (People Power Party leader Jang Dong-hyuk said on the 31st regarding President Lee Jae-myung's statement on his X (formerly Twitter) that 'normalizing real estate is much easier than 5,000 pips (KOSPI 5000)', "This follows hotel economics with shouting economics"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (장 대표는 이날 오후 페이스북에 “(이 대통령이) 언제는 ‘서울·수도권 집값 때문에 욕을 많이 먹는 편인데, 보니까 대책이 없다’더니 갑자기 ‘부동산 정상화는 코스피 5천피, 계곡 정비보다 훨씬 쉽다&lt;br/&gt;&lt;em&gt;" (Leader Jang said on Facebook that afternoon, "(President Lee) once said 'I get a lot of criticism because of housing prices in Seoul and the metropolitan area, but it seems there's no solution', then suddenly says 'normalizing real estate is much easier than KOSPI 5,000 pips or valley maintenance'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;' (이 대통령이 지난달 했던 발언과 이날 X에 ‘비정상의 정상화, 부동산 투기는 실패할 것 같나요&lt;br/&gt;&lt;em&gt;" (Regarding President Lee's remarks last month and his X post saying 'Normalizing the abnormal, do you think real estate speculation will fail?'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;관계가 정상화되었어요.&lt;br/&gt;&lt;em&gt;The relationship has been normalized.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;경제가 정상화되고 있어요.&lt;br/&gt;&lt;em&gt;The economy is being normalized.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604364409914-dd21eb8ed25c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3JtYWxpemF0aW9ufGVufDB8fHx8MTc2OTg4ODgyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정상화 (normalization)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (장동혁 국민의힘 대표는 31일 이재명 대통령이 자신의 X(옛 트위터)에 ‘부동산 정상화는 5천피(코스피 5000)보다 훨씬 쉽다’고 밝힌 데 대해 “호텔경제학에 이은 호통경제학&lt;br/&gt;&lt;em&gt;" (People Power Party leader Jang Dong-hyuk said on the 31st regarding President Lee Jae-myung's statement on his X (formerly Twitter) that 'normalizing real estate is much easier than 5,000 pips (KOSPI 5000)', "This follows hotel economics with shouting economics"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (장 대표는 이날 오후 페이스북에 “(이 대통령이) 언제는 ‘서울·수도권 집값 때문에 욕을 많이 먹는 편인데, 보니까 대책이 없다’더니 갑자기 ‘부동산 정상화는 코스피 5천피, 계곡 정비보다 훨씬 쉽다&lt;br/&gt;&lt;em&gt;" (Leader Jang said on Facebook that afternoon, "(President Lee) once said 'I get a lot of criticism because of housing prices in Seoul and the metropolitan area, but it seems there's no solution', then suddenly says 'normalizing real estate is much easier than KOSPI 5,000 pips or valley maintenance'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;' (이 대통령이 지난달 했던 발언과 이날 X에 ‘비정상의 정상화, 부동산 투기는 실패할 것 같나요&lt;br/&gt;&lt;em&gt;" (Regarding President Lee's remarks last month and his X post saying 'Normalizing the abnormal, do you think real estate speculation will fail?'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;관계가 정상화되었어요.&lt;br/&gt;&lt;em&gt;The relationship has been normalized.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;경제가 정상화되고 있어요.&lt;br/&gt;&lt;em&gt;The economy is being normalized.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 01 Feb 2026 04:47:13 +0900</pubDate><guid isPermaLink="false">vocab-157e1821f29d65758dc258748a43a498ac8049a6</guid><enclosure url="https://images.unsplash.com/photo-1604364409914-dd21eb8ed25c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3JtYWxpemF0aW9ufGVufDB8fHx8MTc2OTg4ODgyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="91514" /><ns2:content url="https://images.unsplash.com/photo-1604364409914-dd21eb8ed25c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3JtYWxpemF0aW9ufGVufDB8fHx8MTc2OTg4ODgyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1604364409914-dd21eb8ed25c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3JtYWxpemF0aW9ufGVufDB8fHx8MTc2OTg4ODgyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>정상화</category></item><item><title>경제학 – economics</title><link>urn:urn:vocab:경제학</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlY29ub21pY3N8ZW58MHx8fHwxNzY5ODcxNTE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경제학 (economics)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;호통경제학이냐”) &lt;&lt;br/&gt;&lt;em&gt;"Is it shouting economics?"&lt;/em&gt;&lt;/p&gt;
