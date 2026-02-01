@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 00:17:14 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 03:44:21 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>객관적인 – objective</title><link>urn:urn:vocab:객관적인</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>만원으로 – as 10,000 won</title><link>urn:urn:vocab:만원으로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1760539620679-c3f49663fe91?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMDEwJTJDMDAwJTIwd29ufGVufDB8fHx8MTc2OTk3MTQ1M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="만원으로 (as 10,000 won)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그런데 지난 1년 동안 아파트 가격이 더 뛰면서, 올해 1월 기준으로 시가총액이 2828억8483만원으로 올랐다&lt;br/&gt;&lt;em&gt;However, over the past year, apartment prices have risen further, and as of January this year, the market capitalization increased to 282.88483 billion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;95㎡·약 26평)는 49억5000만원에서 65억5000만원으로 16억원 올랐다&lt;br/&gt;&lt;em&gt;The 95㎡ (approximately 26 pyeong) unit rose from 4.95 billion won to 6.55 billion won, an increase of 1.6 billion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;01㎡·약 46평)는 41억2500만원에서 54억7500만원으로 13억5000만원 올랐다&lt;br/&gt;&lt;em&gt;The 101㎡ (approximately 46 pyeong) unit rose from 4.125 billion won to 5.475 billion won, an increase of 1.35 billion won.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;만원으로 커피를 샀어요.&lt;br/&gt;&lt;em&gt;I bought coffee with 10,000 won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;만원으로 책을 살 거예요.&lt;br/&gt;&lt;em&gt;I will buy a book with 10,000 won.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1760539620679-c3f49663fe91?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMDEwJTJDMDAwJTIwd29ufGVufDB8fHx8MTc2OTk3MTQ1M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="만원으로 (as 10,000 won)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그런데 지난 1년 동안 아파트 가격이 더 뛰면서, 올해 1월 기준으로 시가총액이 2828억8483만원으로 올랐다&lt;br/&gt;&lt;em&gt;However, over the past year, apartment prices have risen further, and as of January this year, the market capitalization increased to 282.88483 billion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;95㎡·약 26평)는 49억5000만원에서 65억5000만원으로 16억원 올랐다&lt;br/&gt;&lt;em&gt;The 95㎡ (approximately 26 pyeong) unit rose from 4.95 billion won to 6.55 billion won, an increase of 1.6 billion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;01㎡·약 46평)는 41억2500만원에서 54억7500만원으로 13억5000만원 올랐다&lt;br/&gt;&lt;em&gt;The 101㎡ (approximately 46 pyeong) unit rose from 4.125 billion won to 5.475 billion won, an increase of 1.35 billion won.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;만원으로 커피를 샀어요.&lt;br/&gt;&lt;em&gt;I bought coffee with 10,000 won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;만원으로 책을 살 거예요.&lt;br/&gt;&lt;em&gt;I will buy a book with 10,000 won.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 02 Feb 2026 03:44:21 +0900</pubDate><guid isPermaLink="false">vocab-f764e13bd6d69a82127f1b3e3be009f02bb99040</guid><enclosure url="https://images.unsplash.com/photo-1760539620679-c3f49663fe91?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMDEwJTJDMDAwJTIwd29ufGVufDB8fHx8MTc2OTk3MTQ1M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="170352" /><ns2:content url="https://images.unsplash.com/photo-1760539620679-c3f49663fe91?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMDEwJTJDMDAwJTIwd29ufGVufDB8fHx8MTc2OTk3MTQ1M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1760539620679-c3f49663fe91?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMDEwJTJDMDAwJTIwd29ufGVufDB8fHx8MTc2OTk3MTQ1M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>만원으로</category></item><item><title>객관적인 – objective</title><link>urn:urn:vocab:객관적인</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1596008194705-2091cd6764d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvYmplY3RpdmV8ZW58MHx8fHwxNzY5OTU5MDIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="객관적인 (objective)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (한 의원은 이날 오전 국회에서 기자회견을 열고 양당 합당이 지방선거 승리에 도움이 되는 객관적인 근거를 제시해야 한다며 “왜 지금이어야 하는지 답하라”고 했다&lt;br/&gt;&lt;em&gt;" (A lawmaker held a press conference at the National Assembly this morning, demanding that objective evidence be presented to show how the merger of the two parties would help win the local elections, saying, 'Answer why it must be now.'&lt;/em&gt;&lt;/p&gt;
