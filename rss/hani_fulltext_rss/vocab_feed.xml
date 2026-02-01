@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 17:29:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 20:54:09 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>분석했다 – analyzed</title><link>urn:urn:vocab:분석했다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>하거나 – or</title><link>urn:urn:vocab:하거나</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1545873509-33e944ca7655?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcnxlbnwwfHx8fDE3Njk5NDY4NDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="하거나 (or)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김 장관은 31일 미국 출장을 마친 뒤 인천국제공항에서 기자들과 만나 “한국 정부가 (대미) 관세 협상에 대해 이행 안 하려고 하거나 지연할 의도가 전혀 없다는 점을 충분히 얘기했다”며 “그런 부분에서 상호 간 이해는 깊어지고 불필요한 오해는 해소됐다고 생각한다”고 말했다&lt;br/&gt;&lt;em&gt;Minister Kim, after completing his business trip to the United States on the 31st, met with reporters at Incheon International Airport and said, 'We sufficiently discussed that the Korean government has no intention of not implementing or delaying the (U.S.) tariff negotiations,' adding, 'I think mutual understanding has deepened and unnecessary misunderstandings have been resolved in that regard.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또 이런 경우 국토부 장관 또는 사업주체는 주택 공급을 신청할 수 있는 지위를 무효로 하거나 이미 체결된 주택의 공급계약을 취소해야 한다고 규정하고 있습니다&lt;br/&gt;&lt;em&gt;Additionally, in such cases, it stipulates that the Minister of Land, Infrastructure and Transport or the project entity must invalidate the eligibility to apply for housing supply or cancel already concluded housing supply contracts.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;목표한 거리를 완주하거나 속도를 조절하는 과정에서 뚜렷한 성취감을 느끼기에도 좋다&lt;br/&gt;&lt;em&gt;It is also good for feeling a clear sense of achievement in the process of completing the targeted distance or adjusting the speed.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;커피를 마시거나 차를 마셔요.&lt;br/&gt;&lt;em&gt;I drink coffee or tea.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;책을 읽거나 영화를 봐요.&lt;br/&gt;&lt;em&gt;I read a book or watch a movie.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1545873509-33e944ca7655?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcnxlbnwwfHx8fDE3Njk5NDY4NDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="하거나 (or)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김 장관은 31일 미국 출장을 마친 뒤 인천국제공항에서 기자들과 만나 “한국 정부가 (대미) 관세 협상에 대해 이행 안 하려고 하거나 지연할 의도가 전혀 없다는 점을 충분히 얘기했다”며 “그런 부분에서 상호 간 이해는 깊어지고 불필요한 오해는 해소됐다고 생각한다”고 말했다&lt;br/&gt;&lt;em&gt;Minister Kim, after completing his business trip to the United States on the 31st, met with reporters at Incheon International Airport and said, 'We sufficiently discussed that the Korean government has no intention of not implementing or delaying the (U.S.) tariff negotiations,' adding, 'I think mutual understanding has deepened and unnecessary misunderstandings have been resolved in that regard.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또 이런 경우 국토부 장관 또는 사업주체는 주택 공급을 신청할 수 있는 지위를 무효로 하거나 이미 체결된 주택의 공급계약을 취소해야 한다고 규정하고 있습니다&lt;br/&gt;&lt;em&gt;Additionally, in such cases, it stipulates that the Minister of Land, Infrastructure and Transport or the project entity must invalidate the eligibility to apply for housing supply or cancel already concluded housing supply contracts.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;목표한 거리를 완주하거나 속도를 조절하는 과정에서 뚜렷한 성취감을 느끼기에도 좋다&lt;br/&gt;&lt;em&gt;It is also good for feeling a clear sense of achievement in the process of completing the targeted distance or adjusting the speed.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;커피를 마시거나 차를 마셔요.&lt;br/&gt;&lt;em&gt;I drink coffee or tea.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;책을 읽거나 영화를 봐요.&lt;br/&gt;&lt;em&gt;I read a book or watch a movie.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 01 Feb 2026 20:54:09 +0900</pubDate><guid isPermaLink="false">vocab-78376bee3d89ac9051e751967a1cb098ff0bd3c8</guid><enclosure url="https://images.unsplash.com/photo-1545873509-33e944ca7655?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcnxlbnwwfHx8fDE3Njk5NDY4NDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="189476" /><ns2:content url="https://images.unsplash.com/photo-1545873509-33e944ca7655?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcnxlbnwwfHx8fDE3Njk5NDY4NDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1545873509-33e944ca7655?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcnxlbnwwfHx8fDE3Njk5NDY4NDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>하거나</category></item><item><title>분석했다 – analyzed</title><link>urn:urn:vocab:분석했다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;0%로 회복될 것으로 예상하며 이는 견조한 민간 및 정부 소비에 의해 견인될 것”이라고 분석했다&lt;br/&gt;&lt;em&gt;It analyzed that it is expected to recover to 0%, which will be driven by robust private and government consumption.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;(블룸버그 통신은 최근의 비트코인 가치 하락은 트럼프 대통령이 차기 연준 의장으로 케빈 워시 전 연준 이사를 지명한 데 따른 것으로 보인다고 분석했다&lt;br/&gt;&lt;em&gt;Bloomberg News analyzed that the recent decline in Bitcoin's value appears to be due to President Trump nominating former Federal Reserve Governor Kevin Warsh as the next Fed chair.&lt;/em&gt;&lt;/p&gt;
