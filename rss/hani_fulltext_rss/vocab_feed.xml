@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 14:01:46 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 17:29:00 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,27 @@
 
 
 
-  <item><title>가상화폐 – cryptocurrency</title><link>urn:urn:vocab:가상화폐</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>분석했다 – analyzed</title><link>urn:urn:vocab:분석했다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;0%로 회복될 것으로 예상하며 이는 견조한 민간 및 정부 소비에 의해 견인될 것”이라고 분석했다&lt;br/&gt;&lt;em&gt;It analyzed that it is expected to recover to 0%, which will be driven by robust private and government consumption.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(블룸버그 통신은 최근의 비트코인 가치 하락은 트럼프 대통령이 차기 연준 의장으로 케빈 워시 전 연준 이사를 지명한 데 따른 것으로 보인다고 분석했다&lt;br/&gt;&lt;em&gt;Bloomberg News analyzed that the recent decline in Bitcoin's value appears to be due to President Trump nominating former Federal Reserve Governor Kevin Warsh as the next Fed chair.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(1일 한국금융학회 학술지 ‘금융연구’에 실린 ‘이에스지 논란과 기업의 부도 위험에 관한 연구’를 보면, 이에스지 관련 부정적 사건이 기업의 부도 위험에 어떤 영향을 미치는지를 실증적으로 분석했다&lt;br/&gt;&lt;em&gt;According to the study 'ESG Controversy and Corporate Default Risk' published in the Korean Financial Association's academic journal 'Financial Research' on the 1st, it empirically analyzed how negative ESG-related events affect a company's default risk.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 데이터를 분석했다.&lt;br/&gt;&lt;em&gt;I analyzed the data.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 문제를 분석했다.&lt;br/&gt;&lt;em&gt;He analyzed the problem.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;0%로 회복될 것으로 예상하며 이는 견조한 민간 및 정부 소비에 의해 견인될 것”이라고 분석했다&lt;br/&gt;&lt;em&gt;It analyzed that it is expected to recover to 0%, which will be driven by robust private and government consumption.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(블룸버그 통신은 최근의 비트코인 가치 하락은 트럼프 대통령이 차기 연준 의장으로 케빈 워시 전 연준 이사를 지명한 데 따른 것으로 보인다고 분석했다&lt;br/&gt;&lt;em&gt;Bloomberg News analyzed that the recent decline in Bitcoin's value appears to be due to President Trump nominating former Federal Reserve Governor Kevin Warsh as the next Fed chair.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(1일 한국금융학회 학술지 ‘금융연구’에 실린 ‘이에스지 논란과 기업의 부도 위험에 관한 연구’를 보면, 이에스지 관련 부정적 사건이 기업의 부도 위험에 어떤 영향을 미치는지를 실증적으로 분석했다&lt;br/&gt;&lt;em&gt;According to the study 'ESG Controversy and Corporate Default Risk' published in the Korean Financial Association's academic journal 'Financial Research' on the 1st, it empirically analyzed how negative ESG-related events affect a company's default risk.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 데이터를 분석했다.&lt;br/&gt;&lt;em&gt;I analyzed the data.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 문제를 분석했다.&lt;br/&gt;&lt;em&gt;He analyzed the problem.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 01 Feb 2026 17:29:00 +0900</pubDate><guid isPermaLink="false">vocab-100f4b29859f9d4258c1b337aa6c26d1156885b0</guid><category>분석했다</category></item><item><title>가상화폐 – cryptocurrency</title><link>urn:urn:vocab:가상화폐</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1640161704729-cbe966a08476?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcnlwdG9jdXJyZW5jeXxlbnwwfHx8fDE3Njk5MjIwOTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가상화폐 (cryptocurrency)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(가상화폐 시가총액 1위인 비트코인 가격이 약 9개월 만에 7만달러대로 하락했다&lt;br/&gt;&lt;em&gt;The price of Bitcoin, the top cryptocurrency by market capitalization, fell to the $70,000 range for the first time in about nine months.&lt;/em&gt;&lt;/p&gt;
