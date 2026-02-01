@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 04:47:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 09:43:10 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>정상화 – normalization</title><link>urn:urn:vocab:정상화</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>나왔습니다 – came out / appeared</title><link>urn:urn:vocab:나왔습니다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;친명 일각에서 계속 합당 반대 목소리를 높이는 가운데 최근엔 ‘합당 밀약설’과 ‘김어준 배후설’까지 터져 나왔습니다&lt;br/&gt;&lt;em&gt;Amidst continued opposition voices from pro-Myung factions against the merger, recent allegations of a 'secret merger agreement' and 'Kim Eo-jun's involvement' have emerged.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민의힘 지도부가 한동훈 전 대표를 제명하자 반대 측에선 곧바로 ‘장동혁 퇴진론’이 나왔습니다&lt;br/&gt;&lt;em&gt;As the People Power Party leadership expelled former representative Han Dong-hoon, the opposing side immediately called for 'Jang Dong-hyuk's resignation'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친한계에선 “송언석 원내대표 퇴진” 주장도 나왔습니다&lt;br/&gt;&lt;em&gt;Within pro-Han factions, demands for 'National Assembly Representative Song Eon-seok's resignation' have also surfaced.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;달이 나왔습니다.&lt;br/&gt;&lt;em&gt;The moon has come out.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구가 나왔습니다.&lt;br/&gt;&lt;em&gt;A friend has come out.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;친명 일각에서 계속 합당 반대 목소리를 높이는 가운데 최근엔 ‘합당 밀약설’과 ‘김어준 배후설’까지 터져 나왔습니다&lt;br/&gt;&lt;em&gt;Amidst continued opposition voices from pro-Myung factions against the merger, recent allegations of a 'secret merger agreement' and 'Kim Eo-jun's involvement' have emerged.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민의힘 지도부가 한동훈 전 대표를 제명하자 반대 측에선 곧바로 ‘장동혁 퇴진론’이 나왔습니다&lt;br/&gt;&lt;em&gt;As the People Power Party leadership expelled former representative Han Dong-hoon, the opposing side immediately called for 'Jang Dong-hyuk's resignation'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친한계에선 “송언석 원내대표 퇴진” 주장도 나왔습니다&lt;br/&gt;&lt;em&gt;Within pro-Han factions, demands for 'National Assembly Representative Song Eon-seok's resignation' have also surfaced.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;달이 나왔습니다.&lt;br/&gt;&lt;em&gt;The moon has come out.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구가 나왔습니다.&lt;br/&gt;&lt;em&gt;A friend has come out.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 01 Feb 2026 09:43:10 +0900</pubDate><guid isPermaLink="false">vocab-7019bf0077b62adf138020c58b4ea255382a952e</guid><category>나왔습니다</category></item><item><title>정상화 – normalization</title><link>urn:urn:vocab:정상화</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604364409914-dd21eb8ed25c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3JtYWxpemF0aW9ufGVufDB8fHx8MTc2OTg4ODgyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정상화 (normalization)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (장동혁 국민의힘 대표는 31일 이재명 대통령이 자신의 X(옛 트위터)에 ‘부동산 정상화는 5천피(코스피 5000)보다 훨씬 쉽다’고 밝힌 데 대해 “호텔경제학에 이은 호통경제학&lt;br/&gt;&lt;em&gt;" (People Power Party leader Jang Dong-hyuk said on the 31st regarding President Lee Jae-myung's statement on his X (formerly Twitter) that 'normalizing real estate is much easier than 5,000 pips (KOSPI 5000)', "This follows hotel economics with shouting economics"&lt;/em&gt;&lt;/p&gt;
