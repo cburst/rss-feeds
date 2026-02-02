@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 07:24:25 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 11:11:58 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>배스킨라빈스 – Baskin-Robbins</title><link>urn:urn:vocab:배스킨라빈스</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기술의 – of technology</title><link>urn:urn:vocab:기술의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1584947113849-a5a12146be4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY5OTk4MzA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기술의 (of technology)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;유비쿼터스 컴퓨팅의 선구자 마크 와이저 박사도 “심오한 기술은 일상 속에 자연스럽게 녹아들어 사용자가 존재를 의식하지 못하는 보이지 않는 기술이 된다”고 기술의 이정표를 제시했다&lt;br/&gt;&lt;em&gt;Dr. Mark Weiser, a pioneer of ubiquitous computing, also presented a milestone for technology, stating, 'The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;하지만 사진 자동보정, 이메일 스팸 분류, 콘텐츠 추천처럼 사용자의 명시적 지시 없이도 인공지능이 개입해 처리하는 기능은 사용자가 기술의 존재를 의식하기 어렵다&lt;br/&gt;&lt;em&gt;However, features like automatic photo correction, email spam filtering, and content recommendations, where artificial intelligence intervenes and processes without the user's explicit instructions, make it difficult for users to be aware of the technology's presence.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이처럼 사람이 질문하자마자 거의 동시에 답이 돌아오면, 우리는 기술의 개입 여부를 생각해볼 찰나의 여유조차 갖지 못한다&lt;br/&gt;&lt;em&gt;In this way, when an answer returns almost simultaneously as soon as a person asks a question, we don't even have a moment to consider whether technology has intervened.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기술의 발전은 빠릅니다.&lt;br/&gt;&lt;em&gt;The development of technology is fast.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기술의 중요성을 배웁니다.&lt;br/&gt;&lt;em&gt;We learn the importance of technology.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1584947113849-a5a12146be4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY5OTk4MzA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기술의 (of technology)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;유비쿼터스 컴퓨팅의 선구자 마크 와이저 박사도 “심오한 기술은 일상 속에 자연스럽게 녹아들어 사용자가 존재를 의식하지 못하는 보이지 않는 기술이 된다”고 기술의 이정표를 제시했다&lt;br/&gt;&lt;em&gt;Dr. Mark Weiser, a pioneer of ubiquitous computing, also presented a milestone for technology, stating, 'The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;하지만 사진 자동보정, 이메일 스팸 분류, 콘텐츠 추천처럼 사용자의 명시적 지시 없이도 인공지능이 개입해 처리하는 기능은 사용자가 기술의 존재를 의식하기 어렵다&lt;br/&gt;&lt;em&gt;However, features like automatic photo correction, email spam filtering, and content recommendations, where artificial intelligence intervenes and processes without the user's explicit instructions, make it difficult for users to be aware of the technology's presence.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이처럼 사람이 질문하자마자 거의 동시에 답이 돌아오면, 우리는 기술의 개입 여부를 생각해볼 찰나의 여유조차 갖지 못한다&lt;br/&gt;&lt;em&gt;In this way, when an answer returns almost simultaneously as soon as a person asks a question, we don't even have a moment to consider whether technology has intervened.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기술의 발전은 빠릅니다.&lt;br/&gt;&lt;em&gt;The development of technology is fast.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기술의 중요성을 배웁니다.&lt;br/&gt;&lt;em&gt;We learn the importance of technology.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 02 Feb 2026 11:11:58 +0900</pubDate><guid isPermaLink="false">vocab-3b54b0aeb0d7977c9ca907a259f5756f1c2d63b0</guid><enclosure url="https://images.unsplash.com/photo-1584947113849-a5a12146be4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY5OTk4MzA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="37234" /><ns2:content url="https://images.unsplash.com/photo-1584947113849-a5a12146be4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY5OTk4MzA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1584947113849-a5a12146be4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY5OTk4MzA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기술의</category></item><item><title>배스킨라빈스 – Baskin-Robbins</title><link>urn:urn:vocab:배스킨라빈스</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1576506295286-5cda18df43e7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxCYXNraW4tUm9iYmluc3xlbnwwfHx8fDE3Njk5ODQ2NTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="배스킨라빈스 (Baskin-Robbins)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Fined 320 Million Won (던킨·배스킨라빈스, 동의 없이 가맹점에 판촉 비용 떠넘겨…과징금 3억2천만원) &lt;&lt;br/&gt;&lt;em&gt;Fined 320 Million Won (Dunkin' and Baskin-Robbins, shifting promotion costs to franchisees without consent... penalty of 320 million won)&lt;/em&gt;&lt;/p&gt;
