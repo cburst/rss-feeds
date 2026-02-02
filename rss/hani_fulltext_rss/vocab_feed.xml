@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 15:06:08 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 18:59:02 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>축구장 – soccer field</title><link>urn:urn:vocab:축구장</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>온라인쇼핑 – online shopping</title><link>urn:urn:vocab:온라인쇼핑</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NzAwMjYzMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="온라인쇼핑 (online shopping)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Growth Slows, While Reverse Direct Purchases Increase (지난해 온라인쇼핑 272조 역대 최고…성장세 둔화, 역직구는 증가) &lt;&lt;br/&gt;&lt;em&gt;Growth Slows, While Reverse Direct Purchases Increase (Last year's online shopping reached a record high of 272 trillion won... growth slows, reverse direct purchases increase) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Growth Slows, While Reverse Direct Purchases Increase (지난해 온라인쇼핑 272조 역대 최고…성장세 둔화, 역직구는 증가)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Growth Slows, While Reverse Direct Purchases Increase (Last year's online shopping reached a record high of 272 trillion won... growth slows, reverse direct purchases increase)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지난해 온라인쇼핑 거래액이 272조원을 넘어서며 역대 최고치를 기록했다&lt;br/&gt;&lt;em&gt;(Last year's online shopping transaction amount exceeded 272 trillion won, setting a record high)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 온라인쇼핑을 좋아해요.&lt;br/&gt;&lt;em&gt;I like online shopping.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;온라인쇼핑이 편리해요.&lt;br/&gt;&lt;em&gt;Online shopping is convenient.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NzAwMjYzMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="온라인쇼핑 (online shopping)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Growth Slows, While Reverse Direct Purchases Increase (지난해 온라인쇼핑 272조 역대 최고…성장세 둔화, 역직구는 증가) &lt;&lt;br/&gt;&lt;em&gt;Growth Slows, While Reverse Direct Purchases Increase (Last year's online shopping reached a record high of 272 trillion won... growth slows, reverse direct purchases increase) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Growth Slows, While Reverse Direct Purchases Increase (지난해 온라인쇼핑 272조 역대 최고…성장세 둔화, 역직구는 증가)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Growth Slows, While Reverse Direct Purchases Increase (Last year's online shopping reached a record high of 272 trillion won... growth slows, reverse direct purchases increase)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지난해 온라인쇼핑 거래액이 272조원을 넘어서며 역대 최고치를 기록했다&lt;br/&gt;&lt;em&gt;(Last year's online shopping transaction amount exceeded 272 trillion won, setting a record high)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 온라인쇼핑을 좋아해요.&lt;br/&gt;&lt;em&gt;I like online shopping.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;온라인쇼핑이 편리해요.&lt;br/&gt;&lt;em&gt;Online shopping is convenient.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 02 Feb 2026 18:59:02 +0900</pubDate><guid isPermaLink="false">vocab-f19d8b507687388805a5a7299f4f4407b2bff745</guid><enclosure url="https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NzAwMjYzMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="59387" /><ns2:content url="https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NzAwMjYzMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NzAwMjYzMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>온라인쇼핑</category></item><item><title>축구장 – soccer field</title><link>urn:urn:vocab:축구장</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1546608235-3310a2494cdf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBmaWVsZHxlbnwwfHx8fDE3NzAwMTIzNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="축구장 (soccer field)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Decision Made Not to Demolish Soccer Stadium ([단독] 국립공원 되는 효창공원…축구장 철거 안 하기로) &lt;&lt;br/&gt;&lt;em&gt;Decision Made Not to Demolish Soccer Stadium ([Exclusive] Hyochang Park to Become a National Park...Decision Made Not to Demolish Soccer Stadium)&lt;/em&gt;&lt;/p&gt;
