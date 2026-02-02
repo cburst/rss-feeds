@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 18:59:02 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 23:21:38 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>온라인쇼핑 – online shopping</title><link>urn:urn:vocab:온라인쇼핑</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>멤버십 – membership</title><link>urn:urn:vocab:멤버십</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1595014361820-91c39c0cf800?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW1iZXJzaGlwfGVufDB8fHx8MTc3MDA0MjA4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="멤버십 (membership)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(쿠팡이 유료 멤버십 가입을 전제로 무료 반품·교환과 오티티(OTT) 서비스를 제공해온 가운데, 다른 전자상거래(이커머스) 기업들은 회비 부담을 낮추거나 적립 혜택을 앞세운 멤버십 모델로 맞서고 있다&lt;br/&gt;&lt;em&gt;(While Coupang has been providing free returns/exchanges and OTT services based on paid membership subscriptions, other e-commerce companies are competing with membership models that lower subscription fees or emphasize accumulation benefits.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;멤버십 진입 장벽을 낮춰 ‘탈팡족’을 흡수하겠다는 전략으로 풀이된다&lt;br/&gt;&lt;em&gt;This is interpreted as a strategy to lower the membership entry barrier and absorb 'Coupang leavers'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2월 한 달 동안 무료 멤버십인 ‘11번가 플러스’ 회원을 대상으로 시범 운영한 뒤 상시 적용할 예정이다&lt;br/&gt;&lt;em&gt;After a trial operation targeting '11st Plus' members, which is a free membership, for one month in February, it plans to implement it permanently.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 멤버십이 있어요.&lt;br/&gt;&lt;em&gt;I have a membership.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;멤버십이 유용해요.&lt;br/&gt;&lt;em&gt;The membership is useful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1595014361820-91c39c0cf800?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW1iZXJzaGlwfGVufDB8fHx8MTc3MDA0MjA4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="멤버십 (membership)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(쿠팡이 유료 멤버십 가입을 전제로 무료 반품·교환과 오티티(OTT) 서비스를 제공해온 가운데, 다른 전자상거래(이커머스) 기업들은 회비 부담을 낮추거나 적립 혜택을 앞세운 멤버십 모델로 맞서고 있다&lt;br/&gt;&lt;em&gt;(While Coupang has been providing free returns/exchanges and OTT services based on paid membership subscriptions, other e-commerce companies are competing with membership models that lower subscription fees or emphasize accumulation benefits.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;멤버십 진입 장벽을 낮춰 ‘탈팡족’을 흡수하겠다는 전략으로 풀이된다&lt;br/&gt;&lt;em&gt;This is interpreted as a strategy to lower the membership entry barrier and absorb 'Coupang leavers'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2월 한 달 동안 무료 멤버십인 ‘11번가 플러스’ 회원을 대상으로 시범 운영한 뒤 상시 적용할 예정이다&lt;br/&gt;&lt;em&gt;After a trial operation targeting '11st Plus' members, which is a free membership, for one month in February, it plans to implement it permanently.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 멤버십이 있어요.&lt;br/&gt;&lt;em&gt;I have a membership.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;멤버십이 유용해요.&lt;br/&gt;&lt;em&gt;The membership is useful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 02 Feb 2026 23:21:38 +0900</pubDate><guid isPermaLink="false">vocab-3bc77ccde4e6af38175a537528cfd5102f8b63da</guid><enclosure url="https://images.unsplash.com/photo-1595014361820-91c39c0cf800?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW1iZXJzaGlwfGVufDB8fHx8MTc3MDA0MjA4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="183915" /><ns2:content url="https://images.unsplash.com/photo-1595014361820-91c39c0cf800?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW1iZXJzaGlwfGVufDB8fHx8MTc3MDA0MjA4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1595014361820-91c39c0cf800?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW1iZXJzaGlwfGVufDB8fHx8MTc3MDA0MjA4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>멤버십</category></item><item><title>온라인쇼핑 – online shopping</title><link>urn:urn:vocab:온라인쇼핑</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NzAwMjYzMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="온라인쇼핑 (online shopping)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Growth Slows, While Reverse Direct Purchases Increase (지난해 온라인쇼핑 272조 역대 최고…성장세 둔화, 역직구는 증가) &lt;&lt;br/&gt;&lt;em&gt;Growth Slows, While Reverse Direct Purchases Increase (Last year's online shopping reached a record high of 272 trillion won... growth slows, reverse direct purchases increase) &lt;&lt;/em&gt;&lt;/p&gt;
