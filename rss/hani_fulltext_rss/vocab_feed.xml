@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 03:54:29 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 09:44:14 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>학생이라면 – if you are a student</title><link>urn:urn:vocab:학생이라면</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>소수주주 – minority shareholder</title><link>urn:urn:vocab:소수주주</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1652111865987-159e4c6c6198?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaW5vcml0eSUyMHNoYXJlaG9sZGVyfGVufDB8fHx8MTc3MDA3OTQ0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소수주주 (minority shareholder)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Overlooking Minority Shareholder Protection (지배주주 경영권 방어용…소수주주 보호 외면)&lt;/p&gt;&lt;p&gt;Daewoong stated the purpose of the treasury share exchange as "mutual cooperation (capital alliance) for a strategic partnership&lt;br/&gt;&lt;em&gt;Overlooking Minority Shareholder Protection (Defensive management control by controlling shareholders... ignoring minority shareholder protection)&lt;/p&gt;&lt;p&gt;Daewoong stated the purpose of the treasury share exchange as "mutual cooperation (capital alliance) for a strategic partnership"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자사주의 의결권이 살아나면, 소수주주들은 주식가치의 희석과 주주가치의 훼손으로 이어진다&lt;br/&gt;&lt;em&gt;If the voting rights of treasury shares are revived, minority shareholders will face stock value dilution and shareholder value impairment&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주당 매수가격을 시가보다 높게 책정했지만, 주당 순자산가치의 60% 수준에 그쳐, 소수주주들이 대주주(이마트)에만 유리한 ‘헐값 상장폐지’라고 반발하고 있다&lt;br/&gt;&lt;em&gt;Although the buyback price per share was set higher than the market price, it only reached 60% of the net asset value per share, leading minority shareholders to protest that it is a 'low-price delisting' favorable only to the major shareholder (Emart)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;소수주주는 회의에 참석합니다.&lt;br/&gt;&lt;em&gt;Minority shareholders attend the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소수주주가 의견을 말합니다.&lt;br/&gt;&lt;em&gt;Minority shareholders express their opinions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1652111865987-159e4c6c6198?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaW5vcml0eSUyMHNoYXJlaG9sZGVyfGVufDB8fHx8MTc3MDA3OTQ0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소수주주 (minority shareholder)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Overlooking Minority Shareholder Protection (지배주주 경영권 방어용…소수주주 보호 외면)&lt;/p&gt;&lt;p&gt;Daewoong stated the purpose of the treasury share exchange as "mutual cooperation (capital alliance) for a strategic partnership&lt;br/&gt;&lt;em&gt;Overlooking Minority Shareholder Protection (Defensive management control by controlling shareholders... ignoring minority shareholder protection)&lt;/p&gt;&lt;p&gt;Daewoong stated the purpose of the treasury share exchange as "mutual cooperation (capital alliance) for a strategic partnership"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자사주의 의결권이 살아나면, 소수주주들은 주식가치의 희석과 주주가치의 훼손으로 이어진다&lt;br/&gt;&lt;em&gt;If the voting rights of treasury shares are revived, minority shareholders will face stock value dilution and shareholder value impairment&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주당 매수가격을 시가보다 높게 책정했지만, 주당 순자산가치의 60% 수준에 그쳐, 소수주주들이 대주주(이마트)에만 유리한 ‘헐값 상장폐지’라고 반발하고 있다&lt;br/&gt;&lt;em&gt;Although the buyback price per share was set higher than the market price, it only reached 60% of the net asset value per share, leading minority shareholders to protest that it is a 'low-price delisting' favorable only to the major shareholder (Emart)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;소수주주는 회의에 참석합니다.&lt;br/&gt;&lt;em&gt;Minority shareholders attend the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소수주주가 의견을 말합니다.&lt;br/&gt;&lt;em&gt;Minority shareholders express their opinions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 03 Feb 2026 09:44:14 +0900</pubDate><guid isPermaLink="false">vocab-035080d3571f6367388f7238127c805d7cf94483</guid><enclosure url="https://images.unsplash.com/photo-1652111865987-159e4c6c6198?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaW5vcml0eSUyMHNoYXJlaG9sZGVyfGVufDB8fHx8MTc3MDA3OTQ0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="109168" /><ns2:content url="https://images.unsplash.com/photo-1652111865987-159e4c6c6198?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaW5vcml0eSUyMHNoYXJlaG9sZGVyfGVufDB8fHx8MTc3MDA3OTQ0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1652111865987-159e4c6c6198?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaW5vcml0eSUyMHNoYXJlaG9sZGVyfGVufDB8fHx8MTc3MDA3OTQ0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>소수주주</category></item><item><title>학생이라면 – if you are a student</title><link>urn:urn:vocab:학생이라면</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1585783540205-74112af9716e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZiUyMHlvdSUyMGFyZSUyMGElMjBzdHVkZW50fGVufDB8fHx8MTc3MDA1ODQ1OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학생이라면 (if you are a student)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;특히 지금껏 ‘벼락치기’가 익숙했던 학생이라면 겨울방학 동안 자신의 공부습관과 취약과목을 비롯해 기초 실력에 대한 점검을 토대로 중장기적인 고교 학습 전략을 세워 실천할 필요가 있다&lt;br/&gt;&lt;em&gt;Especially for students who have been accustomed to 'cramming' until now, it is necessary to establish and practice a mid- to long-term high school learning strategy based on checking their study habits, weak subjects, and basic skills during the winter vacation.&lt;/em&gt;&lt;/p&gt;
