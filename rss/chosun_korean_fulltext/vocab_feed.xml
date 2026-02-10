@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 19:03:22 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 23:03:20 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>유튜버 – YouTuber</title><link>urn:urn:vocab:유튜버</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>부동산 – real estate</title><link>urn:urn:vocab:부동산</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1582407947304-fd86f028f716?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFsJTIwZXN0YXRlfGVufDB8fHx8MTc3MDczMjE4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부동산 (real estate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이재명 대통령은 10일 “서울 시내 아파트 4만2500세대는 적은 물량이 결코 아니다”라며 등록 임대 주택의 다주택 양도세를 중과할 경우 일정한 부동산 시장 안정 효과를 기대할 수 있다고 밝혔다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung said on the 10th, "42,500 households in Seoul apartments are by no means a small amount," and stated that imposing a heavy transfer tax on multiple-home rental properties could be expected to have a certain stabilizing effect on the real estate market.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (장 대표는 “이재명 대통령이 밤마다 ‘부동산 호통쇼’를 벌이는 동안, 우리 경제는 소리 없이 절망의 늪으로 빠져들고 있다”며 “무능은 호통으로 덮어지지 않는다&lt;br/&gt;&lt;em&gt;Representative Jang said, "While President Lee Jae-myung holds nightly 'real estate shouting shows,' our economy is silently sinking into a swamp of despair," adding, "Incompetence cannot be covered up by shouting."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Democratic Party's Han Byung-do: "We will activate a real estate version of the Financial Supervisory Service for precision strikes and root out ruinous speculation" (與 한병도 “부동산판 금감원 가동해 정밀타격, 망국적 투기 뿌리 뽑겠다”) &lt;&lt;br/&gt;&lt;em&gt;Democratic Party's Han Byung-do: "We will activate a real estate version of the Financial Supervisory Service for precision strikes and root out ruinous speculation."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;부동산이 비싸요.&lt;br/&gt;&lt;em&gt;Real estate is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부동산을 구매했어요.&lt;br/&gt;&lt;em&gt;I bought real estate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1582407947304-fd86f028f716?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFsJTIwZXN0YXRlfGVufDB8fHx8MTc3MDczMjE4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부동산 (real estate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이재명 대통령은 10일 “서울 시내 아파트 4만2500세대는 적은 물량이 결코 아니다”라며 등록 임대 주택의 다주택 양도세를 중과할 경우 일정한 부동산 시장 안정 효과를 기대할 수 있다고 밝혔다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung said on the 10th, "42,500 households in Seoul apartments are by no means a small amount," and stated that imposing a heavy transfer tax on multiple-home rental properties could be expected to have a certain stabilizing effect on the real estate market.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (장 대표는 “이재명 대통령이 밤마다 ‘부동산 호통쇼’를 벌이는 동안, 우리 경제는 소리 없이 절망의 늪으로 빠져들고 있다”며 “무능은 호통으로 덮어지지 않는다&lt;br/&gt;&lt;em&gt;Representative Jang said, "While President Lee Jae-myung holds nightly 'real estate shouting shows,' our economy is silently sinking into a swamp of despair," adding, "Incompetence cannot be covered up by shouting."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Democratic Party's Han Byung-do: "We will activate a real estate version of the Financial Supervisory Service for precision strikes and root out ruinous speculation" (與 한병도 “부동산판 금감원 가동해 정밀타격, 망국적 투기 뿌리 뽑겠다”) &lt;&lt;br/&gt;&lt;em&gt;Democratic Party's Han Byung-do: "We will activate a real estate version of the Financial Supervisory Service for precision strikes and root out ruinous speculation."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;부동산이 비싸요.&lt;br/&gt;&lt;em&gt;Real estate is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부동산을 구매했어요.&lt;br/&gt;&lt;em&gt;I bought real estate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 10 Feb 2026 23:03:20 +0900</pubDate><guid isPermaLink="false">vocab-a900fa067fe7968658b87989fdda7945a9b744de</guid><enclosure url="https://images.unsplash.com/photo-1582407947304-fd86f028f716?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFsJTIwZXN0YXRlfGVufDB8fHx8MTc3MDczMjE4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="136992" /><ns2:content url="https://images.unsplash.com/photo-1582407947304-fd86f028f716?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFsJTIwZXN0YXRlfGVufDB8fHx8MTc3MDczMjE4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1582407947304-fd86f028f716?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFsJTIwZXN0YXRlfGVufDB8fHx8MTc3MDczMjE4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>부동산</category></item><item><title>유튜버 – YouTuber</title><link>urn:urn:vocab:유튜버</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1630797160666-38e8c5ba44c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxZb3VUdWJlcnxlbnwwfHx8fDE3NzA3MTc3OTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="유튜버 (YouTuber)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이준석 개혁신당 대표와 강성 유튜버 전한길(본명 전유관)씨가 오는 25일 TV조선 생중계로 ‘부정선거 맞장토론’에 나서기로 잠정 합의했다&lt;br/&gt;&lt;em&gt;Lee Jun-seok, leader of the Reform Party, and strong YouTuber Jeon Han-gil (real name Jeon Yu-gwan) have tentatively agreed to participate in a 'debate on election fraud' live on TV Chosun on the 25th.&lt;/em&gt;&lt;/p&gt;
