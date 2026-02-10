@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Feb 2026 21:37:50 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 12:58:19 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>천원의 – of one thousand won</title><link>urn:urn:vocab:천원의</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>국민들이 – the people</title><link>urn:urn:vocab:국민들이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1617028739446-f8757869ab39?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBwZW9wbGV8ZW58MHx8fHwxNzcwNjk1ODg4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국민들이 (the people)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한편 이 대통령은 설 명절을 앞둔 9일 저녁 서울 종로구 통인시장을 방문해 한 식당에서 자영업자 등과 식사를 하면서 “수출이 회복되고 주가도 오르고 있지만, 막상 식당에 와서 밥 한 끼 먹어보면 국민들이 왜 힘들다고 하는지 느껴진다”고 했다&lt;br/&gt;&lt;em&gt;Meanwhile, on the evening of the 9th, ahead of the Lunar New Year holiday, President Lee visited Tongin Market in Jongno-gu, Seoul, and had a meal at a restaurant with self-employed individuals and others, saying, 'Exports are recovering and stock prices are rising, but when I actually come to a restaurant and have a meal, I can feel why people say they are struggling.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 시장 내 한 식당에서 소머리국밥으로 식사를 하면서 상인들에게 “수출이 회복되고 주가도 오르고 있지만, 막상 식당에 와서 밥 한 끼 먹어보면 국민들이 왜 힘들다고 하는지 느껴진다”고 했다&lt;br/&gt;&lt;em&gt;President Lee had a meal of ox head soup at a restaurant in the market and told merchants, 'Exports are recovering and stock prices are rising, but when I actually come to a restaurant and have a meal, I can feel why people say they are struggling.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “국민들이 체감하지 못한다면 아직 경제가 좋아졌다고 말할 수 없다”며 “정책 성과는 통계가 아니라 국민들의 일상에서 확인돼야 한다”고 했다&lt;br/&gt;&lt;em&gt;He then added, 'If people don't feel it, we can't say the economy has improved yet,' and 'Policy outcomes should be confirmed in people's daily lives, not in statistics.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국민들이 공원에 갑니다.&lt;br/&gt;&lt;em&gt;The citizens go to the park.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민들이 음악을 듣습니다.&lt;br/&gt;&lt;em&gt;The citizens listen to music.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1617028739446-f8757869ab39?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBwZW9wbGV8ZW58MHx8fHwxNzcwNjk1ODg4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국민들이 (the people)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한편 이 대통령은 설 명절을 앞둔 9일 저녁 서울 종로구 통인시장을 방문해 한 식당에서 자영업자 등과 식사를 하면서 “수출이 회복되고 주가도 오르고 있지만, 막상 식당에 와서 밥 한 끼 먹어보면 국민들이 왜 힘들다고 하는지 느껴진다”고 했다&lt;br/&gt;&lt;em&gt;Meanwhile, on the evening of the 9th, ahead of the Lunar New Year holiday, President Lee visited Tongin Market in Jongno-gu, Seoul, and had a meal at a restaurant with self-employed individuals and others, saying, 'Exports are recovering and stock prices are rising, but when I actually come to a restaurant and have a meal, I can feel why people say they are struggling.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 시장 내 한 식당에서 소머리국밥으로 식사를 하면서 상인들에게 “수출이 회복되고 주가도 오르고 있지만, 막상 식당에 와서 밥 한 끼 먹어보면 국민들이 왜 힘들다고 하는지 느껴진다”고 했다&lt;br/&gt;&lt;em&gt;President Lee had a meal of ox head soup at a restaurant in the market and told merchants, 'Exports are recovering and stock prices are rising, but when I actually come to a restaurant and have a meal, I can feel why people say they are struggling.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “국민들이 체감하지 못한다면 아직 경제가 좋아졌다고 말할 수 없다”며 “정책 성과는 통계가 아니라 국민들의 일상에서 확인돼야 한다”고 했다&lt;br/&gt;&lt;em&gt;He then added, 'If people don't feel it, we can't say the economy has improved yet,' and 'Policy outcomes should be confirmed in people's daily lives, not in statistics.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국민들이 공원에 갑니다.&lt;br/&gt;&lt;em&gt;The citizens go to the park.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민들이 음악을 듣습니다.&lt;br/&gt;&lt;em&gt;The citizens listen to music.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 10 Feb 2026 12:58:19 +0900</pubDate><guid isPermaLink="false">vocab-a63b3fb4bc53164e51970d1ccb490763eb28d1c5</guid><enclosure url="https://images.unsplash.com/photo-1617028739446-f8757869ab39?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBwZW9wbGV8ZW58MHx8fHwxNzcwNjk1ODg4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="145928" /><ns2:content url="https://images.unsplash.com/photo-1617028739446-f8757869ab39?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBwZW9wbGV8ZW58MHx8fHwxNzcwNjk1ODg4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1617028739446-f8757869ab39?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBwZW9wbGV8ZW58MHx8fHwxNzcwNjk1ODg4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>국민들이</category></item><item><title>천원의 – of one thousand won</title><link>urn:urn:vocab:천원의</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605266837954-b50ada0a732a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMG9uZSUyMHRob3VzYW5kJTIwd29ufGVufDB8fHx8MTc3MDIwODY2Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="천원의 (of one thousand won)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;‘천원의 삼시세끼’ ‘신혼 2억원 저리 대출’ 정책 패키지도) &lt;&lt;br/&gt;&lt;em&gt;Policy package including 'Three meals for 1,000 won' and 'Low-interest 200 million won loan for newlyweds'&lt;/em&gt;&lt;/p&gt;
