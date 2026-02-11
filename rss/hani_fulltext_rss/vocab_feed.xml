@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 14:46:05 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 20:30:45 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>휴게소 – rest area</title><link>urn:urn:vocab:휴게소</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>터미널 – terminal</title><link>urn:urn:vocab:터미널</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1556742521-9713bf272865?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHx0ZXJtaW5hbHxlbnwwfHx8fDE3NzA4MDk0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="터미널 (terminal)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;일반 주차대행의 경우 접수·인도장소를 기존 1터미널 단기주차장에서 4㎞ 떨어진 외곽 주차장으로 바꾸고, 프리미엄 주차대행은 지금과 같이 1터미널 단기주차장에서 접수·인도하되 가격을 2만원에서 4만원으로 두배 인상한다는 내용이다&lt;br/&gt;&lt;em&gt;The content states that for regular valet parking, the pickup/drop-off location will be changed from the existing Terminal 1 short-term parking lot to an outer parking lot 4 km away, while premium valet parking will maintain pickup/drop-off at Terminal 1 short-term parking lot as now, but the price will be doubled from 20,000 won to 40,000 won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이렇게 개편되면 일반 서비스 이용객은 차량 접수 뒤 셔틀버스를 타고 1터미널로 돌아와야 하고, 주차대행업체는 일반 서비스 차량은 500m, 프리미엄 서비스 차량은 4㎞ 떨어진 보관장에 차량을 이동시켜야 한다&lt;br/&gt;&lt;em&gt;With this reorganization, users of the regular service will have to take a shuttle bus back to Terminal 1 after dropping off their vehicle, and the valet parking company will need to move regular service vehicles to a storage facility 500 m away and premium service vehicles to a storage facility 4 km away.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공사는 1터미널 주차장 혼잡도 완화를 위해 개편을 추진했다고 밝혔으나, 지난달 14일 아시아나항공의 2터미널 이전으로 1터미널 주차장 이용률은 감소하고 2터미널 혼잡은 심해진 것으로 나타났다&lt;br/&gt;&lt;em&gt;The corporation stated that it promoted the reorganization to alleviate congestion at Terminal 1 parking lot, but it was found that since Asiana Airlines moved to Terminal 2 last month on the 14th, the utilization rate of Terminal 1 parking lot has decreased, while congestion at Terminal 2 has worsened.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;터미널이 어디에 있어요?&lt;br/&gt;&lt;em&gt;Where is the terminal?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 터미널에서 기다려요.&lt;br/&gt;&lt;em&gt;I will wait at the terminal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1556742521-9713bf272865?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHx0ZXJtaW5hbHxlbnwwfHx8fDE3NzA4MDk0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="터미널 (terminal)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;일반 주차대행의 경우 접수·인도장소를 기존 1터미널 단기주차장에서 4㎞ 떨어진 외곽 주차장으로 바꾸고, 프리미엄 주차대행은 지금과 같이 1터미널 단기주차장에서 접수·인도하되 가격을 2만원에서 4만원으로 두배 인상한다는 내용이다&lt;br/&gt;&lt;em&gt;The content states that for regular valet parking, the pickup/drop-off location will be changed from the existing Terminal 1 short-term parking lot to an outer parking lot 4 km away, while premium valet parking will maintain pickup/drop-off at Terminal 1 short-term parking lot as now, but the price will be doubled from 20,000 won to 40,000 won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이렇게 개편되면 일반 서비스 이용객은 차량 접수 뒤 셔틀버스를 타고 1터미널로 돌아와야 하고, 주차대행업체는 일반 서비스 차량은 500m, 프리미엄 서비스 차량은 4㎞ 떨어진 보관장에 차량을 이동시켜야 한다&lt;br/&gt;&lt;em&gt;With this reorganization, users of the regular service will have to take a shuttle bus back to Terminal 1 after dropping off their vehicle, and the valet parking company will need to move regular service vehicles to a storage facility 500 m away and premium service vehicles to a storage facility 4 km away.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공사는 1터미널 주차장 혼잡도 완화를 위해 개편을 추진했다고 밝혔으나, 지난달 14일 아시아나항공의 2터미널 이전으로 1터미널 주차장 이용률은 감소하고 2터미널 혼잡은 심해진 것으로 나타났다&lt;br/&gt;&lt;em&gt;The corporation stated that it promoted the reorganization to alleviate congestion at Terminal 1 parking lot, but it was found that since Asiana Airlines moved to Terminal 2 last month on the 14th, the utilization rate of Terminal 1 parking lot has decreased, while congestion at Terminal 2 has worsened.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;터미널이 어디에 있어요?&lt;br/&gt;&lt;em&gt;Where is the terminal?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 터미널에서 기다려요.&lt;br/&gt;&lt;em&gt;I will wait at the terminal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 11 Feb 2026 20:30:45 +0900</pubDate><guid isPermaLink="false">vocab-28cdbdfdb0be5a76f404604fab169b298ea8b55f</guid><enclosure url="https://images.unsplash.com/photo-1556742521-9713bf272865?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHx0ZXJtaW5hbHxlbnwwfHx8fDE3NzA4MDk0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="223629" /><ns2:content url="https://images.unsplash.com/photo-1556742521-9713bf272865?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHx0ZXJtaW5hbHxlbnwwfHx8fDE3NzA4MDk0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1556742521-9713bf272865?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHx0ZXJtaW5hbHxlbnwwfHx8fDE3NzA4MDk0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>터미널</category></item><item><title>휴게소 – rest area</title><link>urn:urn:vocab:휴게소</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625315271882-f06681028e0e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXN0JTIwYXJlYXxlbnwwfHx8fDE3NzA3ODg3NTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="휴게소 (rest area)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;'Shrinkflation' for Whole Potatoes (휴게소 호두과자 1년 새 7&lt;br/&gt;&lt;em&gt;'Shrinkflation' for Whole Potatoes (Rest area walnut cookies increased by 7% in one year)&lt;/em&gt;&lt;/p&gt;

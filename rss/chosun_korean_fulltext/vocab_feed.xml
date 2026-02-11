@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 14:46:15 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 20:30:57 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>느리다 – to be slow</title><link>urn:urn:vocab:느리다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>국회예산정책처는 – National Assembly Budget Office</title><link>urn:urn:vocab:국회예산정책처는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742888827024-6d85caf1d09b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyMEFzc2VtYmx5JTIwQnVkZ2V0JTIwT2ZmaWNlfGVufDB8fHx8MTc3MDgwOTQ0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국회예산정책처는 (National Assembly Budget Office)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국민의힘 신동욱 의원이 최근 국회예산정책처로부터 제출받은 자료에 따르면, 국회예산정책처는 2026년부터 재판소원 제도 도입 시 5년간 최소 63억6100만원에서 최대 187억7400만원의 추가 재정이 소요될 것이라고 추계했다&lt;br/&gt;&lt;em&gt;According to materials submitted by the National Assembly Budget Office to People Power Party lawmaker Shin Dong-wook, the National Assembly Budget Office estimated that introducing the judicial review system from 2026 would require additional funding of at least 6.361 billion won to a maximum of 18.774 billion won over five years.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국회예산정책처는 신 의원 요청에 따라 이번 보고서를 제출했다&lt;br/&gt;&lt;em&gt;The National Assembly Budget Office submitted this report at the request of lawmaker Shin.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국회예산정책처는 재판소원 제도 도입으로 헌재에서 심판 사건을 처리하는 인원이 지금보다 10%(9명) 증원되는 경우, 30%(27명) 증원되는 경우를 각각 가정했다&lt;br/&gt;&lt;em&gt;The National Assembly Budget Office assumed scenarios where the number of personnel handling constitutional court cases would increase by 10% (9 people) and 30% (27 people) respectively compared to current levels with the introduction of the judicial review system.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국회예산정책처는 예산을 검토합니다.&lt;br/&gt;&lt;em&gt;The National Assembly Budget Office reviews the budget.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국회예산정책처는 중요한 기관입니다.&lt;br/&gt;&lt;em&gt;The National Assembly Budget Office is an important institution.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742888827024-6d85caf1d09b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyMEFzc2VtYmx5JTIwQnVkZ2V0JTIwT2ZmaWNlfGVufDB8fHx8MTc3MDgwOTQ0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국회예산정책처는 (National Assembly Budget Office)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국민의힘 신동욱 의원이 최근 국회예산정책처로부터 제출받은 자료에 따르면, 국회예산정책처는 2026년부터 재판소원 제도 도입 시 5년간 최소 63억6100만원에서 최대 187억7400만원의 추가 재정이 소요될 것이라고 추계했다&lt;br/&gt;&lt;em&gt;According to materials submitted by the National Assembly Budget Office to People Power Party lawmaker Shin Dong-wook, the National Assembly Budget Office estimated that introducing the judicial review system from 2026 would require additional funding of at least 6.361 billion won to a maximum of 18.774 billion won over five years.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국회예산정책처는 신 의원 요청에 따라 이번 보고서를 제출했다&lt;br/&gt;&lt;em&gt;The National Assembly Budget Office submitted this report at the request of lawmaker Shin.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국회예산정책처는 재판소원 제도 도입으로 헌재에서 심판 사건을 처리하는 인원이 지금보다 10%(9명) 증원되는 경우, 30%(27명) 증원되는 경우를 각각 가정했다&lt;br/&gt;&lt;em&gt;The National Assembly Budget Office assumed scenarios where the number of personnel handling constitutional court cases would increase by 10% (9 people) and 30% (27 people) respectively compared to current levels with the introduction of the judicial review system.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국회예산정책처는 예산을 검토합니다.&lt;br/&gt;&lt;em&gt;The National Assembly Budget Office reviews the budget.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국회예산정책처는 중요한 기관입니다.&lt;br/&gt;&lt;em&gt;The National Assembly Budget Office is an important institution.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 11 Feb 2026 20:30:57 +0900</pubDate><guid isPermaLink="false">vocab-40319a70f52a0dd4b7b18aa07f44c01f959efd74</guid><enclosure url="https://images.unsplash.com/photo-1742888827024-6d85caf1d09b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyMEFzc2VtYmx5JTIwQnVkZ2V0JTIwT2ZmaWNlfGVufDB8fHx8MTc3MDgwOTQ0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="212842" /><ns2:content url="https://images.unsplash.com/photo-1742888827024-6d85caf1d09b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyMEFzc2VtYmx5JTIwQnVkZ2V0JTIwT2ZmaWNlfGVufDB8fHx8MTc3MDgwOTQ0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1742888827024-6d85caf1d09b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyMEFzc2VtYmx5JTIwQnVkZ2V0JTIwT2ZmaWNlfGVufDB8fHx8MTc3MDgwOTQ0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>국회예산정책처는</category></item><item><title>느리다 – to be slow</title><link>urn:urn:vocab:느리다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1719744065287-395027e67e63?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwc2xvd3xlbnwwfHx8fDE3NzA3ODg3Njh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="느리다 (to be slow)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Again Points Out "Legislative Speed in the National Assembly is Slow" (李대통령, 정청래 겨냥했나… “국회 입법 속도 느리다” 또다시 지적) &lt;&lt;br/&gt;&lt;em&gt;Again Points Out "Legislative Speed in the National Assembly is Slow" (President Lee, targeting Jeong Cheong-rae? "Legislative speed in the National Assembly is slow" pointed out again)&lt;/em&gt;&lt;/p&gt;
