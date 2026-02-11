@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 09:03:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 14:46:05 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>기업 – company</title><link>urn:urn:vocab:기업</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>휴게소 – rest area</title><link>urn:urn:vocab:휴게소</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625315271882-f06681028e0e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXN0JTIwYXJlYXxlbnwwfHx8fDE3NzA3ODg3NTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="휴게소 (rest area)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'Shrinkflation' for Whole Potatoes (휴게소 호두과자 1년 새 7&lt;br/&gt;&lt;em&gt;'Shrinkflation' for Whole Potatoes (Rest area walnut cookies increased by 7% in one year)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(고속도로 휴게소 인기 간식인 호두과자 가격이 1년 새 7&lt;br/&gt;&lt;em&gt;(The price of walnut cookies, a popular snack at highway rest areas, increased by 7% in one year)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;일부 휴게소에선 통감자 가격은 그대로 두면서 용량을 줄이는 ‘꼼수’가 나타나기도 했다&lt;br/&gt;&lt;em&gt;At some rest areas, there have been instances of 'tricks' such as reducing the quantity while keeping the price of whole potatoes the same&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;휴게소에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the rest area.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;휴게소에서 쉬었습니다.&lt;br/&gt;&lt;em&gt;I rested at the rest area.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625315271882-f06681028e0e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXN0JTIwYXJlYXxlbnwwfHx8fDE3NzA3ODg3NTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="휴게소 (rest area)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'Shrinkflation' for Whole Potatoes (휴게소 호두과자 1년 새 7&lt;br/&gt;&lt;em&gt;'Shrinkflation' for Whole Potatoes (Rest area walnut cookies increased by 7% in one year)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(고속도로 휴게소 인기 간식인 호두과자 가격이 1년 새 7&lt;br/&gt;&lt;em&gt;(The price of walnut cookies, a popular snack at highway rest areas, increased by 7% in one year)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;일부 휴게소에선 통감자 가격은 그대로 두면서 용량을 줄이는 ‘꼼수’가 나타나기도 했다&lt;br/&gt;&lt;em&gt;At some rest areas, there have been instances of 'tricks' such as reducing the quantity while keeping the price of whole potatoes the same&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;휴게소에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the rest area.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;휴게소에서 쉬었습니다.&lt;br/&gt;&lt;em&gt;I rested at the rest area.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 11 Feb 2026 14:46:04 +0900</pubDate><guid isPermaLink="false">vocab-83d3a59f7d170ab97b01a47c0e16c5110c2fbf62</guid><enclosure url="https://images.unsplash.com/photo-1625315271882-f06681028e0e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXN0JTIwYXJlYXxlbnwwfHx8fDE3NzA3ODg3NTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="109355" /><ns2:content url="https://images.unsplash.com/photo-1625315271882-f06681028e0e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXN0JTIwYXJlYXxlbnwwfHx8fDE3NzA3ODg3NTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1625315271882-f06681028e0e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXN0JTIwYXJlYXxlbnwwfHx8fDE3NzA3ODg3NTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>휴게소</category></item><item><title>기업 – company</title><link>urn:urn:vocab:기업</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55fGVufDB8fHx8MTc3MDc2ODE3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기업 (company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;고난 속에서 핀 기부 철학 &lt;br/&gt;이번 명칭 변경의 주인공인 이용기 이사장(전기공학 67)은 미국 냉난방 설비 기업 TRUaire를 창업해 글로벌 기업으로 성장시킨 인물이다&lt;br/&gt;&lt;em&gt;A donation philosophy that bloomed amidst adversity&lt;br/&gt;The protagonist of this name change, Chairman Lee Yong-ki (Electrical Engineering '67), is the person who founded TRUaire, an American HVAC equipment company, and grew it into a global enterprise.&lt;/em&gt;&lt;/p&gt;
