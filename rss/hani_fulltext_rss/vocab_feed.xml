@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 03:31:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 09:03:01 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>일상이 – daily life</title><link>urn:urn:vocab:일상이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기업 – company</title><link>urn:urn:vocab:기업</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55fGVufDB8fHx8MTc3MDc2ODE3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기업 (company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;고난 속에서 핀 기부 철학 &lt;br/&gt;이번 명칭 변경의 주인공인 이용기 이사장(전기공학 67)은 미국 냉난방 설비 기업 TRUaire를 창업해 글로벌 기업으로 성장시킨 인물이다&lt;br/&gt;&lt;em&gt;A donation philosophy that bloomed amidst adversity&lt;br/&gt;The protagonist of this name change, Chairman Lee Yong-ki (Electrical Engineering '67), is the person who founded TRUaire, an American HVAC equipment company, and grew it into a global enterprise.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공학 전공자로서 기업을 경영하며, 단일 전공 중심의 사고보다 다양한 분야를 넘나드는 융합 역량이 미래 사회에서 중요하다는 확신을 갖게 됐기 때문이다&lt;br/&gt;&lt;em&gt;As an engineering major managing a company, he became convinced that convergence capabilities spanning various fields are more important in future society than single-major-focused thinking.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Korean Corporate Governance Forum: "Good Management is the Best Way to Protect Management Control" (한국기업거버넌스포럼 “경영 잘하는 게 최상의 경영권 보호 방법”) &lt;&lt;br/&gt;&lt;em&gt;Korean Corporate Governance Forum: "Good Management is the Best Way to Protect Management Control"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기업이 커요.&lt;br/&gt;&lt;em&gt;The company is big.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기업에서 일해요.&lt;br/&gt;&lt;em&gt;I work at a company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55fGVufDB8fHx8MTc3MDc2ODE3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기업 (company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;고난 속에서 핀 기부 철학 &lt;br/&gt;이번 명칭 변경의 주인공인 이용기 이사장(전기공학 67)은 미국 냉난방 설비 기업 TRUaire를 창업해 글로벌 기업으로 성장시킨 인물이다&lt;br/&gt;&lt;em&gt;A donation philosophy that bloomed amidst adversity&lt;br/&gt;The protagonist of this name change, Chairman Lee Yong-ki (Electrical Engineering '67), is the person who founded TRUaire, an American HVAC equipment company, and grew it into a global enterprise.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공학 전공자로서 기업을 경영하며, 단일 전공 중심의 사고보다 다양한 분야를 넘나드는 융합 역량이 미래 사회에서 중요하다는 확신을 갖게 됐기 때문이다&lt;br/&gt;&lt;em&gt;As an engineering major managing a company, he became convinced that convergence capabilities spanning various fields are more important in future society than single-major-focused thinking.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Korean Corporate Governance Forum: "Good Management is the Best Way to Protect Management Control" (한국기업거버넌스포럼 “경영 잘하는 게 최상의 경영권 보호 방법”) &lt;&lt;br/&gt;&lt;em&gt;Korean Corporate Governance Forum: "Good Management is the Best Way to Protect Management Control"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기업이 커요.&lt;br/&gt;&lt;em&gt;The company is big.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기업에서 일해요.&lt;br/&gt;&lt;em&gt;I work at a company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 11 Feb 2026 09:03:01 +0900</pubDate><guid isPermaLink="false">vocab-293d368124d41c388df0df011cd111d9b2a6a6b8</guid><enclosure url="https://images.unsplash.com/photo-1560179707-f14e90ef3623?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55fGVufDB8fHx8MTc3MDc2ODE3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="212101" /><ns2:content url="https://images.unsplash.com/photo-1560179707-f14e90ef3623?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55fGVufDB8fHx8MTc3MDc2ODE3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1560179707-f14e90ef3623?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55fGVufDB8fHx8MTc3MDc2ODE3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기업</category></item><item><title>일상이 – daily life</title><link>urn:urn:vocab:일상이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1629228202571-91bec713fe35?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkYWlseSUyMGxpZmV8ZW58MHx8fHwxNzcwNzQ4MjUzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="일상이 (daily life)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;국립중앙과학관은 ‘AI 시대 우리 아이들의 미래’라는 주제로 인공지능 기술이 일상이 된 시대에 필요한 역량을 키울 수 있는 교육을 선보인다&lt;br/&gt;&lt;em&gt;The National Science Museum presents education to develop the competencies needed in an era where AI technology has become part of daily life, under the theme 'Our Children's Future in the AI Age'.&lt;/em&gt;&lt;/p&gt;
