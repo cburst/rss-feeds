@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 02:31:07 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 09:17:12 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>갈등을 – conflict</title><link>urn:urn:vocab:갈등을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>저소득층 – low-income class</title><link>urn:urn:vocab:저소득층</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1572847748080-bac263fae977?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb3ctaW5jb21lJTIwY2xhc3N8ZW58MHx8fHwxNzcwODU1NDI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="저소득층 (low-income class)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Non-Metropolitan Low-Income Youth Inheriting Poverty (‘수도권 거주비’ 거대한 벽…가난 대물림하는 비수도권 저소득층 청년들) &lt;&lt;br/&gt;&lt;em&gt;Non-Metropolitan Low-Income Youth Inheriting Poverty ('Metropolitan Area Living Costs' a Huge Wall... Non-Metropolitan Low-Income Youth Inheriting Poverty)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Non-Metropolitan Low-Income Youth Inheriting Poverty (‘수도권 거주비’ 거대한 벽…가난 대물림하는 비수도권 저소득층 청년들)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Non-Metropolitan Low-Income Youth Inheriting Poverty ('Metropolitan Area Living Costs' a Huge Wall... Non-Metropolitan Low-Income Youth Inheriting Poverty)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(비수도권 저소득층 청년을 중심으로 ‘가난의 대물림’이 심화됐다는 분석이 나왔다&lt;br/&gt;&lt;em&gt;(An analysis has emerged that the 'inheritance of poverty' has intensified, particularly among non-metropolitan low-income youth)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저소득층이 도움을 받습니다.&lt;br/&gt;&lt;em&gt;Low-income households receive assistance.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저소득층을 지원합니다.&lt;br/&gt;&lt;em&gt;We support low-income households.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1572847748080-bac263fae977?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb3ctaW5jb21lJTIwY2xhc3N8ZW58MHx8fHwxNzcwODU1NDI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="저소득층 (low-income class)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Non-Metropolitan Low-Income Youth Inheriting Poverty (‘수도권 거주비’ 거대한 벽…가난 대물림하는 비수도권 저소득층 청년들) &lt;&lt;br/&gt;&lt;em&gt;Non-Metropolitan Low-Income Youth Inheriting Poverty ('Metropolitan Area Living Costs' a Huge Wall... Non-Metropolitan Low-Income Youth Inheriting Poverty)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Non-Metropolitan Low-Income Youth Inheriting Poverty (‘수도권 거주비’ 거대한 벽…가난 대물림하는 비수도권 저소득층 청년들)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Non-Metropolitan Low-Income Youth Inheriting Poverty ('Metropolitan Area Living Costs' a Huge Wall... Non-Metropolitan Low-Income Youth Inheriting Poverty)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(비수도권 저소득층 청년을 중심으로 ‘가난의 대물림’이 심화됐다는 분석이 나왔다&lt;br/&gt;&lt;em&gt;(An analysis has emerged that the 'inheritance of poverty' has intensified, particularly among non-metropolitan low-income youth)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저소득층이 도움을 받습니다.&lt;br/&gt;&lt;em&gt;Low-income households receive assistance.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저소득층을 지원합니다.&lt;br/&gt;&lt;em&gt;We support low-income households.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 12 Feb 2026 09:17:12 +0900</pubDate><guid isPermaLink="false">vocab-9850cd616981e62127996df1b01ca3cf1fafeb48</guid><enclosure url="https://images.unsplash.com/photo-1572847748080-bac263fae977?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb3ctaW5jb21lJTIwY2xhc3N8ZW58MHx8fHwxNzcwODU1NDI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="75525" /><ns2:content url="https://images.unsplash.com/photo-1572847748080-bac263fae977?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb3ctaW5jb21lJTIwY2xhc3N8ZW58MHx8fHwxNzcwODU1NDI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1572847748080-bac263fae977?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb3ctaW5jb21lJTIwY2xhc3N8ZW58MHx8fHwxNzcwODU1NDI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>저소득층</category></item><item><title>갈등을 – conflict</title><link>urn:urn:vocab:갈등을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604948501466-4e9c339b9c24?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25mbGljdHxlbnwwfHx8fDE3NzA4MzEwNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="갈등을 (conflict)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이날 교육에 참여한 학생들 역시 한목소리로 “법을 만드는 역할극을 하면서, 법을 만들고 지키는 일이 우리 사회에 꼭 필요한 일임을 알았다” “타인과 갈등을 해결하고, 개인의 권리를 지키기 위해 법이 필요하다는 것을 알았다” 등의 소감을 전했다&lt;br/&gt;&lt;em&gt;"Students who participated in the training that day also unanimously shared their impressions, saying, 'Through the role-play of making laws, I realized that creating and upholding laws is essential for our society,' and 'I learned that laws are necessary to resolve conflicts with others and protect individual rights.'"&lt;/em&gt;&lt;/p&gt;
