@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 20:44:36 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 02:42:00 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>안정적 – stable</title><link>urn:urn:vocab:안정적</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>스타일 – style</title><link>urn:urn:vocab:스타일</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1608748010899-18f300247112?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHlsZXxlbnwwfHx8fDE3NzEwMDQ1MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스타일 (style)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(올해 전 세계 폴더블 스마트폰 시장에서 책처럼 펼치고 접는 ‘북 스타일’ 폴더블 스마트폰의 비중이 전체의 65%를 차지할 것이라는 전망이 나왔다&lt;br/&gt;&lt;em&gt;(It is forecasted that 'book-style' foldable smartphones, which unfold and fold like a book, will account for 65% of the global foldable smartphone market this year)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(13일 글로벌 시장조사업체 카운터포인트리서치의 자료를 보면, 올해 북 스타일 폴더블폰이 전체 폴더블폰 시장에서 차지하는 비율은 65%로 예상됐다&lt;br/&gt;&lt;em&gt;(According to data from global market research firm Counterpoint Research on the 13th, the proportion of book-style foldable phones in the entire foldable phone market this year is expected to be 65%)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (북 스타일 폴더블폰은 삼성전자의 갤럭시 제트(Z) 폴드 시리즈가 대표적이다&lt;br/&gt;&lt;em&gt;("Book-style foldable phones are typified by Samsung Electronics' Galaxy Z Fold series")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그녀의 스타일이 멋있어요.&lt;br/&gt;&lt;em&gt;Her style is cool.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 옷은 내 스타일이에요.&lt;br/&gt;&lt;em&gt;This outfit is my style.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1608748010899-18f300247112?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHlsZXxlbnwwfHx8fDE3NzEwMDQ1MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스타일 (style)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(올해 전 세계 폴더블 스마트폰 시장에서 책처럼 펼치고 접는 ‘북 스타일’ 폴더블 스마트폰의 비중이 전체의 65%를 차지할 것이라는 전망이 나왔다&lt;br/&gt;&lt;em&gt;(It is forecasted that 'book-style' foldable smartphones, which unfold and fold like a book, will account for 65% of the global foldable smartphone market this year)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(13일 글로벌 시장조사업체 카운터포인트리서치의 자료를 보면, 올해 북 스타일 폴더블폰이 전체 폴더블폰 시장에서 차지하는 비율은 65%로 예상됐다&lt;br/&gt;&lt;em&gt;(According to data from global market research firm Counterpoint Research on the 13th, the proportion of book-style foldable phones in the entire foldable phone market this year is expected to be 65%)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (북 스타일 폴더블폰은 삼성전자의 갤럭시 제트(Z) 폴드 시리즈가 대표적이다&lt;br/&gt;&lt;em&gt;("Book-style foldable phones are typified by Samsung Electronics' Galaxy Z Fold series")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그녀의 스타일이 멋있어요.&lt;br/&gt;&lt;em&gt;Her style is cool.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 옷은 내 스타일이에요.&lt;br/&gt;&lt;em&gt;This outfit is my style.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 14 Feb 2026 02:42:00 +0900</pubDate><guid isPermaLink="false">vocab-1de0a02581b24b65b6911046069ea4ea37b2af43</guid><enclosure url="https://images.unsplash.com/photo-1608748010899-18f300247112?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHlsZXxlbnwwfHx8fDE3NzEwMDQ1MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="163195" /><ns2:content url="https://images.unsplash.com/photo-1608748010899-18f300247112?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHlsZXxlbnwwfHx8fDE3NzEwMDQ1MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1608748010899-18f300247112?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHlsZXxlbnwwfHx8fDE3NzEwMDQ1MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>스타일</category></item><item><title>안정적 – stable</title><link>urn:urn:vocab:안정적</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1505841036189-ee9b664cabf7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFibGV8ZW58MHx8fHwxNzcwOTgzMDY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="안정적 (stable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;"Capability to Manage Key Challenges" (무디스, 한국 신용등급 ‘Aa2·안정적’ 유지…“핵심과제 관리 역량”) &lt;&lt;br/&gt;&lt;em&gt;"Capability to Manage Key Challenges" (Moody's maintains Korea's credit rating at 'Aa2·stable'..."Key challenge management capability") &lt;&lt;/em&gt;&lt;/p&gt;
