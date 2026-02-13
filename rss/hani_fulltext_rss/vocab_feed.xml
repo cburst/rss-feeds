@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 14:36:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 20:44:36 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>해결하기 – to solve</title><link>urn:urn:vocab:해결하기</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>안정적 – stable</title><link>urn:urn:vocab:안정적</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1505841036189-ee9b664cabf7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFibGV8ZW58MHx8fHwxNzcwOTgzMDY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="안정적 (stable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"Capability to Manage Key Challenges" (무디스, 한국 신용등급 ‘Aa2·안정적’ 유지…“핵심과제 관리 역량”) &lt;&lt;br/&gt;&lt;em&gt;"Capability to Manage Key Challenges" (Moody's maintains Korea's credit rating at 'Aa2·stable'..."Key challenge management capability") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Capability to Manage Key Challenges" (무디스, 한국 신용등급 ‘Aa2·안정적’ 유지…“핵심과제 관리 역량”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"Capability to Manage Key Challenges" (Moody's maintains Korea's credit rating at 'Aa2·stable'..."Key challenge management capability")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국제신용평가사 무디스(Moody’s)가 12일 한국의 국가신용등급을 기존과 동일한 ‘Aa2’로, 등급 전망은 ‘안정적’을 유지했다&lt;br/&gt;&lt;em&gt;(International credit rating agency Moody's maintained Korea's national credit rating at 'Aa2' and its outlook as 'stable' on the 12th)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 직장은 안정적입니다.&lt;br/&gt;&lt;em&gt;This job is stable.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 회사는 안정적이에요.&lt;br/&gt;&lt;em&gt;That company is stable.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1505841036189-ee9b664cabf7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFibGV8ZW58MHx8fHwxNzcwOTgzMDY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="안정적 (stable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"Capability to Manage Key Challenges" (무디스, 한국 신용등급 ‘Aa2·안정적’ 유지…“핵심과제 관리 역량”) &lt;&lt;br/&gt;&lt;em&gt;"Capability to Manage Key Challenges" (Moody's maintains Korea's credit rating at 'Aa2·stable'..."Key challenge management capability") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Capability to Manage Key Challenges" (무디스, 한국 신용등급 ‘Aa2·안정적’ 유지…“핵심과제 관리 역량”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"Capability to Manage Key Challenges" (Moody's maintains Korea's credit rating at 'Aa2·stable'..."Key challenge management capability")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국제신용평가사 무디스(Moody’s)가 12일 한국의 국가신용등급을 기존과 동일한 ‘Aa2’로, 등급 전망은 ‘안정적’을 유지했다&lt;br/&gt;&lt;em&gt;(International credit rating agency Moody's maintained Korea's national credit rating at 'Aa2' and its outlook as 'stable' on the 12th)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 직장은 안정적입니다.&lt;br/&gt;&lt;em&gt;This job is stable.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 회사는 안정적이에요.&lt;br/&gt;&lt;em&gt;That company is stable.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 13 Feb 2026 20:44:36 +0900</pubDate><guid isPermaLink="false">vocab-6c3d5afd4e4530033d8c807f43c08a9e347a348c</guid><enclosure url="https://images.unsplash.com/photo-1505841036189-ee9b664cabf7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFibGV8ZW58MHx8fHwxNzcwOTgzMDY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="80179" /><ns2:content url="https://images.unsplash.com/photo-1505841036189-ee9b664cabf7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFibGV8ZW58MHx8fHwxNzcwOTgzMDY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1505841036189-ee9b664cabf7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFibGV8ZW58MHx8fHwxNzcwOTgzMDY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>안정적</category></item><item><title>해결하기 – to solve</title><link>urn:urn:vocab:해결하기</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605902394069-ff2ae2430e62?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHNvbHZlfGVufDB8fHx8MTc3MDk2MDk2NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="해결하기 (to solve)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(연구팀은 이 문제를 해결하기 위해 고분자 사슬을 서로 연결하는 가교 구조 설계 전략을 적용했다&lt;br/&gt;&lt;em&gt;(The research team applied a cross-linking structure design strategy to connect polymer chains to solve this problem)&lt;/em&gt;&lt;/p&gt;
