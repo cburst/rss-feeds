@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 03:19:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 07:14:51 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>정치 – politics</title><link>urn:urn:vocab:정치</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>특사를 – special envoy</title><link>urn:urn:vocab:특사를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;일본 총리에 취임하는 아베 신조 자민당 총재가 “박근혜 대통령 당선인에게 오늘 중 특사를 보내겠다”고 발표했다가 취소하는 해프닝이 발생한 겁니다&lt;br/&gt;&lt;em&gt;Abe Shinzo, the LDP president who is set to become Japan's prime minister, announced that he would send a special envoy to President-elect Park Geun-hye within the day, but then canceled it, causing a commotion.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“아베 총재가 일방적으로 특사를 보내겠다고 발표한 것일 뿐 아무런 합의도 없었다&lt;br/&gt;&lt;em&gt;"President Abe unilaterally announced that he would send a special envoy; there was no agreement whatsoever."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (아베가 박 대통령 당선인 측과 합의되지 않은 특사를 파견하려 한 것은 심각한 외교 결례라는 지적이 나왔습니다&lt;br/&gt;&lt;em&gt;There have been criticisms that Abe's attempt to dispatch a special envoy to President-elect Park without prior agreement with her side constitutes a serious diplomatic breach.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;특사를 만났어요.&lt;br/&gt;&lt;em&gt;I met the special envoy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특사를 기다려요.&lt;br/&gt;&lt;em&gt;I am waiting for the special envoy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;일본 총리에 취임하는 아베 신조 자민당 총재가 “박근혜 대통령 당선인에게 오늘 중 특사를 보내겠다”고 발표했다가 취소하는 해프닝이 발생한 겁니다&lt;br/&gt;&lt;em&gt;Abe Shinzo, the LDP president who is set to become Japan's prime minister, announced that he would send a special envoy to President-elect Park Geun-hye within the day, but then canceled it, causing a commotion.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“아베 총재가 일방적으로 특사를 보내겠다고 발표한 것일 뿐 아무런 합의도 없었다&lt;br/&gt;&lt;em&gt;"President Abe unilaterally announced that he would send a special envoy; there was no agreement whatsoever."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (아베가 박 대통령 당선인 측과 합의되지 않은 특사를 파견하려 한 것은 심각한 외교 결례라는 지적이 나왔습니다&lt;br/&gt;&lt;em&gt;There have been criticisms that Abe's attempt to dispatch a special envoy to President-elect Park without prior agreement with her side constitutes a serious diplomatic breach.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;특사를 만났어요.&lt;br/&gt;&lt;em&gt;I met the special envoy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특사를 기다려요.&lt;br/&gt;&lt;em&gt;I am waiting for the special envoy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 15 Feb 2026 07:14:51 +0900</pubDate><guid isPermaLink="false">vocab-e22dedd9008953857bac8311efb0f5633b6ebdc5</guid><category>특사를</category></item><item><title>정치 – politics</title><link>urn:urn:vocab:정치</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xpdGljc3xlbnwwfHx8fDE3NzEwOTMxNDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정치 (politics)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (그는 전날 더불어민주당 전당대회 ‘돈봉투 살포’ 의혹과 불법 정치자금 수수 혐의로 기소된 소나무당 송영길 대표가 2심에서 무죄가 나온 것을 거론하며 “항소심에서 유죄가 돌연 무죄로 뒤집어졌다&lt;br/&gt;&lt;em&gt;He mentioned that Sonamu Party leader Song Young-gil, who was indicted the previous day on suspicion of distributing 'money envelopes' at the Democratic Party of Korea's national convention and receiving illegal political funds, was found not guilty in the second trial, saying, 'The guilty verdict was suddenly overturned to not guilty in the appeal trial.'&lt;/em&gt;&lt;/p&gt;
