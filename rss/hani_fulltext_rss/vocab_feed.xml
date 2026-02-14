@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 08:35:22 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 12:13:50 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>공간이다 – It is a space</title><link>urn:urn:vocab:공간이다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>캠프는 – camp</title><link>urn:urn:vocab:캠프는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504851149312-7a075b496cc7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW1wfGVufDB8fHx8MTc3MTAzODgyMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="캠프는 (camp)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번 캠프는 2026년 1월12일부터 23일까지 2주간 시립청소년시설 24곳에서 진행되며 로봇, 환경, 문화예술, 역사, 영어 등 5개 테마를 중심으로 세부 프로그램 330여 개가 마련된다&lt;br/&gt;&lt;em&gt;This camp will be held for two weeks from January 12 to 23, 2026, at 24 municipal youth facilities, with approximately 330 detailed programs centered around five themes: robotics, environment, culture and arts, history, and English.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(캠프는 매일 오전 9시부터 오후 5시까지 운영되며, 전문적인 교육 프로그램뿐만 아니라 체험 활동과 점심 식사까지 모두 포함된다&lt;br/&gt;&lt;em&gt;The camp operates daily from 9 AM to 5 PM and includes not only professional educational programs but also experiential activities and lunch.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(초등학교 4~6학년을 대상으로 하는 겨울방학 과학캠프는 숙박형으로 진행되는 심화 과정이다&lt;br/&gt;&lt;em&gt;The winter vacation science camp for 4th to 6th graders is an intensive residential program.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;캠프는 재미있어요.&lt;br/&gt;&lt;em&gt;The camp is fun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;캠프는 여름에 가요.&lt;br/&gt;&lt;em&gt;We go to camp in the summer.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504851149312-7a075b496cc7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW1wfGVufDB8fHx8MTc3MTAzODgyMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="캠프는 (camp)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번 캠프는 2026년 1월12일부터 23일까지 2주간 시립청소년시설 24곳에서 진행되며 로봇, 환경, 문화예술, 역사, 영어 등 5개 테마를 중심으로 세부 프로그램 330여 개가 마련된다&lt;br/&gt;&lt;em&gt;This camp will be held for two weeks from January 12 to 23, 2026, at 24 municipal youth facilities, with approximately 330 detailed programs centered around five themes: robotics, environment, culture and arts, history, and English.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(캠프는 매일 오전 9시부터 오후 5시까지 운영되며, 전문적인 교육 프로그램뿐만 아니라 체험 활동과 점심 식사까지 모두 포함된다&lt;br/&gt;&lt;em&gt;The camp operates daily from 9 AM to 5 PM and includes not only professional educational programs but also experiential activities and lunch.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(초등학교 4~6학년을 대상으로 하는 겨울방학 과학캠프는 숙박형으로 진행되는 심화 과정이다&lt;br/&gt;&lt;em&gt;The winter vacation science camp for 4th to 6th graders is an intensive residential program.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;캠프는 재미있어요.&lt;br/&gt;&lt;em&gt;The camp is fun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;캠프는 여름에 가요.&lt;br/&gt;&lt;em&gt;We go to camp in the summer.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 14 Feb 2026 12:13:50 +0900</pubDate><guid isPermaLink="false">vocab-4690f3533aa0ac40db956518b6c68f403ae9ed92</guid><enclosure url="https://images.unsplash.com/photo-1504851149312-7a075b496cc7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW1wfGVufDB8fHx8MTc3MTAzODgyMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="376617" /><ns2:content url="https://images.unsplash.com/photo-1504851149312-7a075b496cc7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW1wfGVufDB8fHx8MTc3MTAzODgyMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1504851149312-7a075b496cc7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW1wfGVufDB8fHx8MTc3MTAzODgyMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>캠프는</category></item><item><title>공간이다 – It is a space</title><link>urn:urn:vocab:공간이다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1759660973975-145c63d712d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHNwYWNlfGVufDB8fHx8MTc3MTAyNTcxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공간이다 (It is a space)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;아이들과 함께 역사와 예술을 동시에 즐길 수 있는 체험형 공간이다&lt;br/&gt;&lt;em&gt;It is an experiential space where you can enjoy history and art simultaneously with children.&lt;/em&gt;&lt;/p&gt;
