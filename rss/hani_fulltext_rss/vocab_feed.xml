@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 12:13:50 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 15:48:50 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,27 @@
 
 
 
-  <item><title>캠프는 – camp</title><link>urn:urn:vocab:캠프는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>일어나는 – happening/occurring</title><link>urn:urn:vocab:일어나는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(김 교수팀이 수행한 연구는 PSF OLED 내부에서 일어나는 포스터 에너지 전이(FRET)와 덱스터 에너지 전이(DET) 속도를 독립적으로 정량화할 수 있는 ‘멀티스케일 에너지 전이(MET) 모델’을 개발한 것이다&lt;br/&gt;&lt;em&gt;(The research conducted by Professor Kim's team developed a 'Multi-scale Energy Transfer (MET) model' that can independently quantify the rates of Förster resonance energy transfer (FRET) and Dexter energy transfer (DET) occurring inside PSF OLEDs.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘늦게 자고 늦게 일어나는’ 불규칙한 생활, 공부는커녕 하루종일 ‘스마트폰만 들여다볼 것 같은’ 불안감에 차라리 “방학이 없으면 좋겠다”고 토로하는 부모들이 많다&lt;br/&gt;&lt;em&gt;Many parents express that they would rather 'not have vacations' due to anxiety, fearing that their children will spend all day 'just staring at smartphones' instead of studying, with irregular lifestyles of 'going to bed late and waking up late.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;적어도 매일 일어나는 시간과 잠자는 시간만큼은 규칙적으로 정해 지키는 것이 좋다&lt;br/&gt;&lt;em&gt;It is advisable to at least set and adhere to regular times for waking up and going to sleep every day.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;무슨 일이 일어나는 거예요?&lt;br/&gt;&lt;em&gt;What's happening?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여기서 재미있는 일이 일어나는 것 같아요.&lt;br/&gt;&lt;em&gt;It seems like something interesting is happening here.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(김 교수팀이 수행한 연구는 PSF OLED 내부에서 일어나는 포스터 에너지 전이(FRET)와 덱스터 에너지 전이(DET) 속도를 독립적으로 정량화할 수 있는 ‘멀티스케일 에너지 전이(MET) 모델’을 개발한 것이다&lt;br/&gt;&lt;em&gt;(The research conducted by Professor Kim's team developed a 'Multi-scale Energy Transfer (MET) model' that can independently quantify the rates of Förster resonance energy transfer (FRET) and Dexter energy transfer (DET) occurring inside PSF OLEDs.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘늦게 자고 늦게 일어나는’ 불규칙한 생활, 공부는커녕 하루종일 ‘스마트폰만 들여다볼 것 같은’ 불안감에 차라리 “방학이 없으면 좋겠다”고 토로하는 부모들이 많다&lt;br/&gt;&lt;em&gt;Many parents express that they would rather 'not have vacations' due to anxiety, fearing that their children will spend all day 'just staring at smartphones' instead of studying, with irregular lifestyles of 'going to bed late and waking up late.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;적어도 매일 일어나는 시간과 잠자는 시간만큼은 규칙적으로 정해 지키는 것이 좋다&lt;br/&gt;&lt;em&gt;It is advisable to at least set and adhere to regular times for waking up and going to sleep every day.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;무슨 일이 일어나는 거예요?&lt;br/&gt;&lt;em&gt;What's happening?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여기서 재미있는 일이 일어나는 것 같아요.&lt;br/&gt;&lt;em&gt;It seems like something interesting is happening here.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 14 Feb 2026 15:48:50 +0900</pubDate><guid isPermaLink="false">vocab-eaed529ff0181b8828b48f42efdb56573f2c1a2e</guid><category>일어나는</category></item><item><title>캠프는 – camp</title><link>urn:urn:vocab:캠프는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504851149312-7a075b496cc7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW1wfGVufDB8fHx8MTc3MTAzODgyMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="캠프는 (camp)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이번 캠프는 2026년 1월12일부터 23일까지 2주간 시립청소년시설 24곳에서 진행되며 로봇, 환경, 문화예술, 역사, 영어 등 5개 테마를 중심으로 세부 프로그램 330여 개가 마련된다&lt;br/&gt;&lt;em&gt;This camp will be held for two weeks from January 12 to 23, 2026, at 24 municipal youth facilities, with approximately 330 detailed programs centered around five themes: robotics, environment, culture and arts, history, and English.&lt;/em&gt;&lt;/p&gt;
