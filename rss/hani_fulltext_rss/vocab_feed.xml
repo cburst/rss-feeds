@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 23:14:12 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 03:19:03 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>곳으로 – to a place</title><link>urn:urn:vocab:곳으로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>총장은 – president (of a university or organization)</title><link>urn:urn:vocab:총장은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1686829613649-267462a7c9ff?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVzaWRlbnQlMjAlMjhvZiUyMGElMjB1bml2ZXJzaXR5JTIwb3IlMjBvcmdhbml6YXRpb24lMjl8ZW58MHx8fHwxNzcxMDkzMTM1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="총장은 (president (of a university or organization))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br/&gt;제해종 총장은 훈화에서 생성형 AI 확산 등 급변하는 시대 속에서 인간 고유의 가치와 영성의 중요성을 강조했다&lt;br/&gt;&lt;em&gt;President Je Hae-jong emphasized the importance of human intrinsic values and spirituality in an era of rapid change, including the spread of generative AI, during his address.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;제 총장은 “AI는 답을 제시할 수 있지만 문제의식을 갖거나 책임질 수는 없다”며 기술 발전에 휩쓸리지 않고 성찰과 윤리의식을 갖춘 인재로 성장할 것을 강조했다&lt;br/&gt;&lt;em&gt;President Je stated, "AI can provide answers but cannot possess a sense of questioning or take responsibility," emphasizing the need to grow into reflective and ethical talents without being swept away by technological advancements.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (카말 압둘라 총장은 “숭실대 한국학연구소와의 협력을 통해 아제르바이잔 언어대학교 한국학센터가 한국어 교육과 한국학 연구의 중심으로 자리매김할 것으로 기대한다”며 “숭실대 내 아제르바이잔 관련 연구센터 설립도 희망한다”고 말했다&lt;br/&gt;&lt;em&gt;President Kamal Abdullah said, "Through cooperation with Soongsil University's Korean Studies Research Institute, I expect the Korean Studies Center at Azerbaijan University of Languages to establish itself as a hub for Korean language education and Korean studies research," adding, "I also hope to establish a research center related to Azerbaijan at Soongsil University."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;총장은 학교에 왔어요.&lt;br/&gt;&lt;em&gt;The president came to the school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;총장은 회의를 했어요.&lt;br/&gt;&lt;em&gt;The president had a meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1686829613649-267462a7c9ff?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVzaWRlbnQlMjAlMjhvZiUyMGElMjB1bml2ZXJzaXR5JTIwb3IlMjBvcmdhbml6YXRpb24lMjl8ZW58MHx8fHwxNzcxMDkzMTM1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="총장은 (president (of a university or organization))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br/&gt;제해종 총장은 훈화에서 생성형 AI 확산 등 급변하는 시대 속에서 인간 고유의 가치와 영성의 중요성을 강조했다&lt;br/&gt;&lt;em&gt;President Je Hae-jong emphasized the importance of human intrinsic values and spirituality in an era of rapid change, including the spread of generative AI, during his address.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;제 총장은 “AI는 답을 제시할 수 있지만 문제의식을 갖거나 책임질 수는 없다”며 기술 발전에 휩쓸리지 않고 성찰과 윤리의식을 갖춘 인재로 성장할 것을 강조했다&lt;br/&gt;&lt;em&gt;President Je stated, "AI can provide answers but cannot possess a sense of questioning or take responsibility," emphasizing the need to grow into reflective and ethical talents without being swept away by technological advancements.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (카말 압둘라 총장은 “숭실대 한국학연구소와의 협력을 통해 아제르바이잔 언어대학교 한국학센터가 한국어 교육과 한국학 연구의 중심으로 자리매김할 것으로 기대한다”며 “숭실대 내 아제르바이잔 관련 연구센터 설립도 희망한다”고 말했다&lt;br/&gt;&lt;em&gt;President Kamal Abdullah said, "Through cooperation with Soongsil University's Korean Studies Research Institute, I expect the Korean Studies Center at Azerbaijan University of Languages to establish itself as a hub for Korean language education and Korean studies research," adding, "I also hope to establish a research center related to Azerbaijan at Soongsil University."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;총장은 학교에 왔어요.&lt;br/&gt;&lt;em&gt;The president came to the school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;총장은 회의를 했어요.&lt;br/&gt;&lt;em&gt;The president had a meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 15 Feb 2026 03:19:02 +0900</pubDate><guid isPermaLink="false">vocab-ed02ec7f12a49e3730383cac08546c6c2fc26604</guid><enclosure url="https://images.unsplash.com/photo-1686829613649-267462a7c9ff?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVzaWRlbnQlMjAlMjhvZiUyMGElMjB1bml2ZXJzaXR5JTIwb3IlMjBvcmdhbml6YXRpb24lMjl8ZW58MHx8fHwxNzcxMDkzMTM1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="124794" /><ns2:content url="https://images.unsplash.com/photo-1686829613649-267462a7c9ff?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVzaWRlbnQlMjAlMjhvZiUyMGElMjB1bml2ZXJzaXR5JTIwb3IlMjBvcmdhbml6YXRpb24lMjl8ZW58MHx8fHwxNzcxMDkzMTM1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1686829613649-267462a7c9ff?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVzaWRlbnQlMjAlMjhvZiUyMGElMjB1bml2ZXJzaXR5JTIwb3IlMjBvcmdhbml6YXRpb24lMjl8ZW58MHx8fHwxNzcxMDkzMTM1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>총장은</category></item><item><title>곳으로 – to a place</title><link>urn:urn:vocab:곳으로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1660921127285-de53a3010493?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGElMjBwbGFjZXxlbnwwfHx8fDE3NzEwNzg0NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="곳으로 (to a place)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;두 지역은 당근부동산 내에서 원룸 매물이 가장 많이 등록되는 곳으로, 서울 관악구의 전체 거래완료 게시글 중 50&lt;br/&gt;&lt;em&gt;The two regions are where the most one-room properties are registered within Carrot Real Estate, accounting for 50% of all completed transaction posts in Seoul's Gwanak District.&lt;/em&gt;&lt;/p&gt;
