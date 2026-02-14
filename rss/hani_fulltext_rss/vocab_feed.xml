@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 15:48:50 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 19:33:04 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>일어나는 – happening/occurring</title><link>urn:urn:vocab:일어나는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>시민으로 – as a citizen</title><link>urn:urn:vocab:시민으로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577681108684-575b26f996a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjaXRpemVufGVufDB8fHx8MTc3MTA2NTE3NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시민으로 (as a citizen)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;12일 울산시 남구 신정시장이 장을 보려는 시민으로 북적이고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;On the 12th, Sinjeong Market in Nam-gu, Ulsan, is bustling with citizens coming to shop.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(초등학교 고학년을 대상으로 하는 ‘청소년 법마음 교육’은 타인에 대한 존중, 사회, 공동체의 중요성에 대해 배우며, 법을 알고, 신뢰하고, 행동하는 시민으로 성장하도록 돕는 것이 목표다&lt;br/&gt;&lt;em&gt;'Youth Legal Mind Education' for upper elementary school students aims to help them grow into citizens who know, trust, and act upon the law by learning about respect for others and the importance of society and community.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (박상래 NSI 책임은 “법마음 교육 프로그램은 단순한 법 교육을 넘어 민주시민 교육의 실험장”이라며 “청소년들이 민주사회의 주인으로서 권리와 책임을 균형 있게 이해하는 미래 사회의 책임 있는 시민으로 성장하는 데 큰 자산이 될 것”이라고 강조했다&lt;br/&gt;&lt;em&gt;(Park Sang-rae, NSI Director, emphasized, "The Legal Mind Education program is not just simple legal education but an experimental ground for democratic citizenship education. It will be a great asset in helping youth grow into responsible citizens of future society who understand rights and responsibilities in a balanced way as owners of a democratic society.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;시민으로 책임을 다합니다.&lt;br/&gt;&lt;em&gt;Fulfill your responsibilities as a citizen.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시민으로 참여하세요.&lt;br/&gt;&lt;em&gt;Participate as a citizen.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577681108684-575b26f996a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjaXRpemVufGVufDB8fHx8MTc3MTA2NTE3NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시민으로 (as a citizen)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;12일 울산시 남구 신정시장이 장을 보려는 시민으로 북적이고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;On the 12th, Sinjeong Market in Nam-gu, Ulsan, is bustling with citizens coming to shop.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(초등학교 고학년을 대상으로 하는 ‘청소년 법마음 교육’은 타인에 대한 존중, 사회, 공동체의 중요성에 대해 배우며, 법을 알고, 신뢰하고, 행동하는 시민으로 성장하도록 돕는 것이 목표다&lt;br/&gt;&lt;em&gt;'Youth Legal Mind Education' for upper elementary school students aims to help them grow into citizens who know, trust, and act upon the law by learning about respect for others and the importance of society and community.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (박상래 NSI 책임은 “법마음 교육 프로그램은 단순한 법 교육을 넘어 민주시민 교육의 실험장”이라며 “청소년들이 민주사회의 주인으로서 권리와 책임을 균형 있게 이해하는 미래 사회의 책임 있는 시민으로 성장하는 데 큰 자산이 될 것”이라고 강조했다&lt;br/&gt;&lt;em&gt;(Park Sang-rae, NSI Director, emphasized, "The Legal Mind Education program is not just simple legal education but an experimental ground for democratic citizenship education. It will be a great asset in helping youth grow into responsible citizens of future society who understand rights and responsibilities in a balanced way as owners of a democratic society.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;시민으로 책임을 다합니다.&lt;br/&gt;&lt;em&gt;Fulfill your responsibilities as a citizen.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시민으로 참여하세요.&lt;br/&gt;&lt;em&gt;Participate as a citizen.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 14 Feb 2026 19:33:04 +0900</pubDate><guid isPermaLink="false">vocab-ef6afb94f697070ce9dacb7c9bacd3b2658a3c7e</guid><enclosure url="https://images.unsplash.com/photo-1577681108684-575b26f996a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjaXRpemVufGVufDB8fHx8MTc3MTA2NTE3NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="139518" /><ns2:content url="https://images.unsplash.com/photo-1577681108684-575b26f996a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjaXRpemVufGVufDB8fHx8MTc3MTA2NTE3NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1577681108684-575b26f996a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjaXRpemVufGVufDB8fHx8MTc3MTA2NTE3NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>시민으로</category></item><item><title>일어나는 – happening/occurring</title><link>urn:urn:vocab:일어나는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(김 교수팀이 수행한 연구는 PSF OLED 내부에서 일어나는 포스터 에너지 전이(FRET)와 덱스터 에너지 전이(DET) 속도를 독립적으로 정량화할 수 있는 ‘멀티스케일 에너지 전이(MET) 모델’을 개발한 것이다&lt;br/&gt;&lt;em&gt;(The research conducted by Professor Kim's team developed a 'Multi-scale Energy Transfer (MET) model' that can independently quantify the rates of Förster resonance energy transfer (FRET) and Dexter energy transfer (DET) occurring inside PSF OLEDs.)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;‘늦게 자고 늦게 일어나는’ 불규칙한 생활, 공부는커녕 하루종일 ‘스마트폰만 들여다볼 것 같은’ 불안감에 차라리 “방학이 없으면 좋겠다”고 토로하는 부모들이 많다&lt;br/&gt;&lt;em&gt;Many parents express that they would rather 'not have vacations' due to anxiety, fearing that their children will spend all day 'just staring at smartphones' instead of studying, with irregular lifestyles of 'going to bed late and waking up late.'&lt;/em&gt;&lt;/p&gt;
