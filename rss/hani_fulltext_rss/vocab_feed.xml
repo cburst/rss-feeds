@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 07:14:42 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 11:05:04 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,27 @@
 
 
 
-  <item><title>종로구 – Jongno District</title><link>urn:urn:vocab:종로구</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>모의고사 – mock exam</title><link>urn:urn:vocab:모의고사</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(기존 온라인 학습코칭 서비스가 주로 학생부나 모의고사 성적 등 정량적 지표에 의존한 분석을 제공했다면, 포미스쿨은 심리검사와 학습전략 검사를 통해 학생의 성향과 학습 태도를 다층적으로 분석하고, 그 결과를 토대로 학생 개인별 맞춤형 학습전략과 코칭 방향을 제시한다&lt;br/&gt;&lt;em&gt;While existing online learning coaching services primarily provided analysis based on quantitative indicators such as student records or mock exam scores, Foreschool conducts a multi-layered analysis of students' tendencies and learning attitudes through psychological tests and learning strategy assessments, and based on the results, offers personalized learning strategies and coaching directions for each student.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;모의고사 성적을 기반으로 추정한 수능에서의 예상 위치를 파악한 후 정시 합격권을 기준 삼아 전략을 세울 것을 추천한다&lt;br/&gt;&lt;em&gt;After identifying the expected position in the college entrance exam estimated based on mock exam scores, it is recommended to develop a strategy based on the regular admission cutoff.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (우연철 진학사 입시전략연구소장은 “모의고사 성적이 내신성적에 비해 월등히 좋은 학생이라면 정시와 더불어 수시에서는 논술전형을 비롯해 수능최저기준이 높게 설정된 전형을 고려해볼 수 있다”며 “반대로 내신성적이 더 우수한 학생이라면 정시보다는 수시에 비중을 두되, 수능최저 여부를 함께 확인해 준비해야 한다”고 조언했다&lt;br/&gt;&lt;em&gt;Woo Yeon-cheol, head of the Admissions Strategy Research Institute at Jinhaksa, advised, "If a student's mock exam scores are significantly better than their school grades, they can consider not only regular admissions but also essay-based admissions and other early admissions tracks with high minimum college entrance exam score requirements. Conversely, if a student's school grades are more excellent, they should focus more on early admissions rather than regular admissions, but must also check whether there is a minimum college entrance exam score requirement and prepare accordingly."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 모의고사를 봤어요.&lt;br/&gt;&lt;em&gt;I took a mock exam.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;모의고사가 어려웠어요.&lt;br/&gt;&lt;em&gt;The mock exam was difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(기존 온라인 학습코칭 서비스가 주로 학생부나 모의고사 성적 등 정량적 지표에 의존한 분석을 제공했다면, 포미스쿨은 심리검사와 학습전략 검사를 통해 학생의 성향과 학습 태도를 다층적으로 분석하고, 그 결과를 토대로 학생 개인별 맞춤형 학습전략과 코칭 방향을 제시한다&lt;br/&gt;&lt;em&gt;While existing online learning coaching services primarily provided analysis based on quantitative indicators such as student records or mock exam scores, Foreschool conducts a multi-layered analysis of students' tendencies and learning attitudes through psychological tests and learning strategy assessments, and based on the results, offers personalized learning strategies and coaching directions for each student.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;모의고사 성적을 기반으로 추정한 수능에서의 예상 위치를 파악한 후 정시 합격권을 기준 삼아 전략을 세울 것을 추천한다&lt;br/&gt;&lt;em&gt;After identifying the expected position in the college entrance exam estimated based on mock exam scores, it is recommended to develop a strategy based on the regular admission cutoff.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (우연철 진학사 입시전략연구소장은 “모의고사 성적이 내신성적에 비해 월등히 좋은 학생이라면 정시와 더불어 수시에서는 논술전형을 비롯해 수능최저기준이 높게 설정된 전형을 고려해볼 수 있다”며 “반대로 내신성적이 더 우수한 학생이라면 정시보다는 수시에 비중을 두되, 수능최저 여부를 함께 확인해 준비해야 한다”고 조언했다&lt;br/&gt;&lt;em&gt;Woo Yeon-cheol, head of the Admissions Strategy Research Institute at Jinhaksa, advised, "If a student's mock exam scores are significantly better than their school grades, they can consider not only regular admissions but also essay-based admissions and other early admissions tracks with high minimum college entrance exam score requirements. Conversely, if a student's school grades are more excellent, they should focus more on early admissions rather than regular admissions, but must also check whether there is a minimum college entrance exam score requirement and prepare accordingly."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 모의고사를 봤어요.&lt;br/&gt;&lt;em&gt;I took a mock exam.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;모의고사가 어려웠어요.&lt;br/&gt;&lt;em&gt;The mock exam was difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 15 Feb 2026 11:05:04 +0900</pubDate><guid isPermaLink="false">vocab-5105e918a84ea69ca1b5b043fcd28fad9b331456</guid><category>모의고사</category></item><item><title>종로구 – Jongno District</title><link>urn:urn:vocab:종로구</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624465854750-d2c82b27a8bb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTIlODUlRUIlQTElOUMlRUElQjUlQUN8ZW58MHx8fHwxNzcxMTA3Mjc1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="종로구 (Jongno District)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;서울 종로구 세종문화회관 계단에 설치된 방탄소년단(BTS) 컴백 홍보물&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;BTS comeback promotional material installed on the stairs of Sejong Center for the Performing Arts in Jongno-gu, Seoul&lt;/em&gt;&lt;/p&gt;
