@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 16:14:22 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 19:50:25 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>현재의 – current</title><link>urn:urn:vocab:현재의</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>시골집 – country house</title><link>urn:urn:vocab:시골집</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1558036117-15d82a90b9b1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3VudHJ5JTIwaG91c2V8ZW58MHx8fHwxNzcxMjM5MDE4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시골집 (country house)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Jang Dong-hyeok Posts Photo of Rural Home, Says "The Unfilial Son Cries Because of the President" (시골집 사진 올린 장동혁 “대통령 때문에 불효자는 운다”) &lt;&lt;br/&gt;&lt;em&gt;Jang Dong-hyeok Posts Photo of Rural Home, Says "The Unfilial Son Cries Because of the President"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Jang Dong-hyeok Posts Photo of Rural Home, Says "The Unfilial Son Cries Because of the President" (시골집 사진 올린 장동혁 “대통령 때문에 불효자는 운다” )&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Jang Dong-hyeok Posts Photo of Rural Home, Says "The Unfilial Son Cries Because of the President"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (장 대표는 이날 사진과 함께 올린 글에서 “명절이라 95세 노모가 살고 계신 시골집에 왔다”며 “대통령이 X(옛 트위터)에 올린 글 때문에 노모의 걱정이 크다”고 했다&lt;br/&gt;&lt;em&gt;" (In a post accompanying the photo that day, CEO Jang said, "It's a holiday, so I came to the rural home where my 95-year-old mother lives," adding, "My mother is very worried because of the post the President put on X (formerly Twitter).")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;시골집이 아주 조용해요.&lt;br/&gt;&lt;em&gt;The countryside house is very quiet.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시골집에 친구가 왔어요.&lt;br/&gt;&lt;em&gt;A friend came to the countryside house.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1558036117-15d82a90b9b1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3VudHJ5JTIwaG91c2V8ZW58MHx8fHwxNzcxMjM5MDE4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시골집 (country house)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Jang Dong-hyeok Posts Photo of Rural Home, Says "The Unfilial Son Cries Because of the President" (시골집 사진 올린 장동혁 “대통령 때문에 불효자는 운다”) &lt;&lt;br/&gt;&lt;em&gt;Jang Dong-hyeok Posts Photo of Rural Home, Says "The Unfilial Son Cries Because of the President"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Jang Dong-hyeok Posts Photo of Rural Home, Says "The Unfilial Son Cries Because of the President" (시골집 사진 올린 장동혁 “대통령 때문에 불효자는 운다” )&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Jang Dong-hyeok Posts Photo of Rural Home, Says "The Unfilial Son Cries Because of the President"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (장 대표는 이날 사진과 함께 올린 글에서 “명절이라 95세 노모가 살고 계신 시골집에 왔다”며 “대통령이 X(옛 트위터)에 올린 글 때문에 노모의 걱정이 크다”고 했다&lt;br/&gt;&lt;em&gt;" (In a post accompanying the photo that day, CEO Jang said, "It's a holiday, so I came to the rural home where my 95-year-old mother lives," adding, "My mother is very worried because of the post the President put on X (formerly Twitter).")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;시골집이 아주 조용해요.&lt;br/&gt;&lt;em&gt;The countryside house is very quiet.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시골집에 친구가 왔어요.&lt;br/&gt;&lt;em&gt;A friend came to the countryside house.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 16 Feb 2026 19:50:25 +0900</pubDate><guid isPermaLink="false">vocab-8fae417d07ac3840770705fd899797dbc624fb43</guid><enclosure url="https://images.unsplash.com/photo-1558036117-15d82a90b9b1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3VudHJ5JTIwaG91c2V8ZW58MHx8fHwxNzcxMjM5MDE4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="144053" /><ns2:content url="https://images.unsplash.com/photo-1558036117-15d82a90b9b1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3VudHJ5JTIwaG91c2V8ZW58MHx8fHwxNzcxMjM5MDE4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1558036117-15d82a90b9b1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3VudHJ5JTIwaG91c2V8ZW58MHx8fHwxNzcxMjM5MDE4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>시골집</category></item><item><title>현재의 – current</title><link>urn:urn:vocab:현재의</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1609619385076-36a873425636?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjdXJyZW50fGVufDB8fHx8MTc3MTIyNjA1Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="현재의 (current)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;성공이나 희망, 신뢰와 같은 긍정적 단어는 현저히 작게 나타나는데, 이는 유권자들이 현재의 선거 국면을 미래를 위한 대안 제시의 장이 아닌 정쟁과 혐오의 각축장으로 인식하고 있음을 방증한다&lt;br/&gt;&lt;em&gt;Positive words such as success, hope, and trust appear significantly smaller, which demonstrates that voters perceive the current election phase not as a platform for presenting alternatives for the future but as a battleground of political strife and hatred.&lt;/em&gt;&lt;/p&gt;
