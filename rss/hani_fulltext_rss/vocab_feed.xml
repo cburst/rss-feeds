@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 23:25:59 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 09:52:25 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>기념관 – memorial hall/museum</title><link>urn:urn:vocab:기념관</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기반으로 – based on</title><link>urn:urn:vocab:기반으로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1743384926294-236ab7712995?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNlZCUyMG9ufGVufDB8fHx8MTc3MTU0ODczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기반으로 (based on)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (상지대 RISE사업단 관계자는 “이번 특강을 계기로 해양바이오 분야의 연구 역량을 강화하고, 연구 성과의 사업화와 창업 연계를 확대해 나갈 것”이라며 “대학 간 협력을 기반으로 지역 혁신 연구 생태계 조성에 지속적으로 힘쓰겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;(A Sangji University RISE project team official stated, "Through this special lecture, we will strengthen research capabilities in the marine bio field and expand the commercialization of research outcomes and connections to entrepreneurship," adding, "We will continue to strive to create a regional innovation research ecosystem based on inter-university cooperation.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전국 200여 개 대학의 서로 다른 조건을 환산점수로 표준화하고, 이를 기반으로 대학·학과별 유·불리를 직관적으로 확인할 수 있도록 설계됐다&lt;br/&gt;&lt;em&gt;It was designed to standardize the different conditions of about 200 universities nationwide into conversion scores, allowing for an intuitive check of advantages and disadvantages by university and department based on this.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;' (거대언어모델을 기반으로 한 챗봇 형태의 코딩 도구는 비전공자에게도 소프트웨어 개발의 문턱을 낮췄다&lt;br/&gt;&lt;em&gt;(Coding tools in the form of chatbots based on large language models have lowered the barrier to software development even for non-majors.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 계획은 사실 기반으로 만들어졌어요.&lt;br/&gt;&lt;em&gt;This plan was created based on facts.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 연구는 데이터 기반으로 진행됩니다.&lt;br/&gt;&lt;em&gt;That research is conducted based on data.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1743384926294-236ab7712995?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNlZCUyMG9ufGVufDB8fHx8MTc3MTU0ODczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기반으로 (based on)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (상지대 RISE사업단 관계자는 “이번 특강을 계기로 해양바이오 분야의 연구 역량을 강화하고, 연구 성과의 사업화와 창업 연계를 확대해 나갈 것”이라며 “대학 간 협력을 기반으로 지역 혁신 연구 생태계 조성에 지속적으로 힘쓰겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;(A Sangji University RISE project team official stated, "Through this special lecture, we will strengthen research capabilities in the marine bio field and expand the commercialization of research outcomes and connections to entrepreneurship," adding, "We will continue to strive to create a regional innovation research ecosystem based on inter-university cooperation.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전국 200여 개 대학의 서로 다른 조건을 환산점수로 표준화하고, 이를 기반으로 대학·학과별 유·불리를 직관적으로 확인할 수 있도록 설계됐다&lt;br/&gt;&lt;em&gt;It was designed to standardize the different conditions of about 200 universities nationwide into conversion scores, allowing for an intuitive check of advantages and disadvantages by university and department based on this.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;' (거대언어모델을 기반으로 한 챗봇 형태의 코딩 도구는 비전공자에게도 소프트웨어 개발의 문턱을 낮췄다&lt;br/&gt;&lt;em&gt;(Coding tools in the form of chatbots based on large language models have lowered the barrier to software development even for non-majors.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 계획은 사실 기반으로 만들어졌어요.&lt;br/&gt;&lt;em&gt;This plan was created based on facts.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 연구는 데이터 기반으로 진행됩니다.&lt;br/&gt;&lt;em&gt;That research is conducted based on data.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 20 Feb 2026 09:52:25 +0900</pubDate><guid isPermaLink="false">vocab-364069c6265087fcff886b0cbfd66fc1032782d1</guid><enclosure url="https://images.unsplash.com/photo-1743384926294-236ab7712995?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNlZCUyMG9ufGVufDB8fHx8MTc3MTU0ODczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="108602" /><ns2:content url="https://images.unsplash.com/photo-1743384926294-236ab7712995?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNlZCUyMG9ufGVufDB8fHx8MTc3MTU0ODczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1743384926294-236ab7712995?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNlZCUyMG9ufGVufDB8fHx8MTc3MTU0ODczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기반으로</category></item><item><title>기념관 – memorial hall/museum</title><link>urn:urn:vocab:기념관</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1710198692195-ab63b14f383c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW1vcmlhbCUyMGhhbGwlMkZtdXNldW18ZW58MHx8fHwxNzcxMjUxOTUzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기념관 (memorial hall/museum)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (삼육대(총장 제해종)는 12일 2025학년도 전기 학위수여식을 교내 선교70주년기념관(학부)과 요한관 홍명기홀(대학원)에서 개최했다&lt;br/&gt;&lt;em&gt;Sahmyook University (President Je Hae-jong) held the 2025 academic year first semester degree conferment ceremony on the 12th at the Mission 70th Anniversary Hall (undergraduate) and the Hong Myeong-ki Hall in John Hall (graduate school) on campus.&lt;/em&gt;&lt;/p&gt;
