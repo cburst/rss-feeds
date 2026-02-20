@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 16:55:23 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 20:30:04 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>프로그램이다 – It is a program</title><link>urn:urn:vocab:프로그램이다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>인공지능과 – artificial intelligence and</title><link>urn:urn:vocab:인공지능과</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1618758992242-2d4bc63a1be7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwYW5kfGVufDB8fHx8MTc3MTU4Njk5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인공지능과 (artificial intelligence and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인공지능과 자동화 기술로 노동 중심 사회가 재편되는 전환기에 주목한 이 연구는 관광이 단순한 여가를 넘어 인간 삶의 목적을 재구성하는 핵심 영역이 될 것이라는 ‘관광 르네상스(Tourism Renaissance)’ 개념을 제시했다&lt;br/&gt;&lt;em&gt;This study, which focused on the transitional period where labor-centered society is being restructured by artificial intelligence and automation technologies, presented the concept of 'Tourism Renaissance,' suggesting that tourism will become a key area that reconstructs the purpose of human life beyond mere leisure.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;방대한 기업금융 데이터를 인공지능과 결합해 분석·여신심사에 활용하겠다는 구상이다&lt;br/&gt;&lt;em&gt;The plan is to utilize vast corporate finance data combined with artificial intelligence for analysis and credit assessment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (그는 “방대한 기업금융 데이터를 인공지능과 결합해 분석·심사·건전성 관리 체계를 고도화하겠다”며 “기업 생애주기별 맞춤형 금융을 강화하고, 기술력과 성장성을 정밀하게 반영하는 여신 심사 체계를 구축하겠다”고 강조했다&lt;br/&gt;&lt;em&gt;He emphasized, 'We will enhance the analysis, review, and soundness management system by combining vast corporate finance data with artificial intelligence,' and 'We will strengthen customized finance according to the corporate lifecycle and establish a credit assessment system that precisely reflects technological capabilities and growth potential.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인공지능과 로봇이 일합니다.&lt;br/&gt;&lt;em&gt;Artificial intelligence and robots work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인공지능과 사람이 대화합니다.&lt;br/&gt;&lt;em&gt;Artificial intelligence and people talk.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1618758992242-2d4bc63a1be7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwYW5kfGVufDB8fHx8MTc3MTU4Njk5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인공지능과 (artificial intelligence and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인공지능과 자동화 기술로 노동 중심 사회가 재편되는 전환기에 주목한 이 연구는 관광이 단순한 여가를 넘어 인간 삶의 목적을 재구성하는 핵심 영역이 될 것이라는 ‘관광 르네상스(Tourism Renaissance)’ 개념을 제시했다&lt;br/&gt;&lt;em&gt;This study, which focused on the transitional period where labor-centered society is being restructured by artificial intelligence and automation technologies, presented the concept of 'Tourism Renaissance,' suggesting that tourism will become a key area that reconstructs the purpose of human life beyond mere leisure.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;방대한 기업금융 데이터를 인공지능과 결합해 분석·여신심사에 활용하겠다는 구상이다&lt;br/&gt;&lt;em&gt;The plan is to utilize vast corporate finance data combined with artificial intelligence for analysis and credit assessment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (그는 “방대한 기업금융 데이터를 인공지능과 결합해 분석·심사·건전성 관리 체계를 고도화하겠다”며 “기업 생애주기별 맞춤형 금융을 강화하고, 기술력과 성장성을 정밀하게 반영하는 여신 심사 체계를 구축하겠다”고 강조했다&lt;br/&gt;&lt;em&gt;He emphasized, 'We will enhance the analysis, review, and soundness management system by combining vast corporate finance data with artificial intelligence,' and 'We will strengthen customized finance according to the corporate lifecycle and establish a credit assessment system that precisely reflects technological capabilities and growth potential.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인공지능과 로봇이 일합니다.&lt;br/&gt;&lt;em&gt;Artificial intelligence and robots work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인공지능과 사람이 대화합니다.&lt;br/&gt;&lt;em&gt;Artificial intelligence and people talk.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 20 Feb 2026 20:30:04 +0900</pubDate><guid isPermaLink="false">vocab-d7c17051925f1a31d498b11b26f274e4de1e8f2f</guid><enclosure url="https://images.unsplash.com/photo-1618758992242-2d4bc63a1be7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwYW5kfGVufDB8fHx8MTc3MTU4Njk5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="110074" /><ns2:content url="https://images.unsplash.com/photo-1618758992242-2d4bc63a1be7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwYW5kfGVufDB8fHx8MTc3MTU4Njk5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1618758992242-2d4bc63a1be7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwYW5kfGVufDB8fHx8MTc3MTU4Njk5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>인공지능과</category></item><item><title>프로그램이다 – It is a program</title><link>urn:urn:vocab:프로그램이다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1768511562691-571cbede6cc7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHByb2dyYW18ZW58MHx8fHwxNzcxNTc0MTE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="프로그램이다 (It is a program)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(‘바이올(Bio-All)’은 보건복지부와 고용노동부가 공동 추진하는 「바이오헬스 아카데미」 사업의 일환으로, 연세대 K-NIBRT사업단(이하 사업단)이 운영하는 실습 중심의 바이오공정 전문 교육 프로그램이다&lt;br/&gt;&lt;em&gt;('Bio-All' is a hands-on bioprocess specialized training program operated by the Yonsei University K-NIBRT project team (hereinafter referred to as the project team), as part of the 'Bio-Health Academy' project jointly promoted by the Ministry of Health and Welfare and the Ministry of Employment and Labor.&lt;/em&gt;&lt;/p&gt;
