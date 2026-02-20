@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 13:26:29 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 16:55:23 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>우두머리 – leader</title><link>urn:urn:vocab:우두머리</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>프로그램이다 – It is a program</title><link>urn:urn:vocab:프로그램이다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1768511562691-571cbede6cc7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHByb2dyYW18ZW58MHx8fHwxNzcxNTc0MTE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="프로그램이다 (It is a program)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(‘바이올(Bio-All)’은 보건복지부와 고용노동부가 공동 추진하는 「바이오헬스 아카데미」 사업의 일환으로, 연세대 K-NIBRT사업단(이하 사업단)이 운영하는 실습 중심의 바이오공정 전문 교육 프로그램이다&lt;br/&gt;&lt;em&gt;('Bio-All' is a hands-on bioprocess specialized training program operated by the Yonsei University K-NIBRT project team (hereinafter referred to as the project team), as part of the 'Bio-Health Academy' project jointly promoted by the Ministry of Health and Welfare and the Ministry of Employment and Labor.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘법마음 교육’은 법의 의미와 필요성, 시민의 권리와 책임을 자연스럽게 이해하도록 돕는 체험형 프로그램이다&lt;br/&gt;&lt;em&gt;('Legal Mind Education' is an experiential program designed to help naturally understand the meaning and necessity of law, as well as citizens' rights and responsibilities.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미술관의 비밀’은 유치원·초등학생·청소년 대상 문화 체험 프로그램이다&lt;br/&gt;&lt;em&gt;'The Secret of the Art Museum' is a cultural experience program for kindergarteners, elementary school students, and adolescents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 프로그램이다.&lt;br/&gt;&lt;em&gt;This is a program.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그것은 좋은 프로그램이다.&lt;br/&gt;&lt;em&gt;That is a good program.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1768511562691-571cbede6cc7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHByb2dyYW18ZW58MHx8fHwxNzcxNTc0MTE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="프로그램이다 (It is a program)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(‘바이올(Bio-All)’은 보건복지부와 고용노동부가 공동 추진하는 「바이오헬스 아카데미」 사업의 일환으로, 연세대 K-NIBRT사업단(이하 사업단)이 운영하는 실습 중심의 바이오공정 전문 교육 프로그램이다&lt;br/&gt;&lt;em&gt;('Bio-All' is a hands-on bioprocess specialized training program operated by the Yonsei University K-NIBRT project team (hereinafter referred to as the project team), as part of the 'Bio-Health Academy' project jointly promoted by the Ministry of Health and Welfare and the Ministry of Employment and Labor.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘법마음 교육’은 법의 의미와 필요성, 시민의 권리와 책임을 자연스럽게 이해하도록 돕는 체험형 프로그램이다&lt;br/&gt;&lt;em&gt;('Legal Mind Education' is an experiential program designed to help naturally understand the meaning and necessity of law, as well as citizens' rights and responsibilities.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미술관의 비밀’은 유치원·초등학생·청소년 대상 문화 체험 프로그램이다&lt;br/&gt;&lt;em&gt;'The Secret of the Art Museum' is a cultural experience program for kindergarteners, elementary school students, and adolescents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 프로그램이다.&lt;br/&gt;&lt;em&gt;This is a program.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그것은 좋은 프로그램이다.&lt;br/&gt;&lt;em&gt;That is a good program.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 20 Feb 2026 16:55:23 +0900</pubDate><guid isPermaLink="false">vocab-cb57e7b2808ddd79053a4a53ed7992e3ad9f0cb9</guid><enclosure url="https://images.unsplash.com/photo-1768511562691-571cbede6cc7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHByb2dyYW18ZW58MHx8fHwxNzcxNTc0MTE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="48080" /><ns2:content url="https://images.unsplash.com/photo-1768511562691-571cbede6cc7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHByb2dyYW18ZW58MHx8fHwxNzcxNTc0MTE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1768511562691-571cbede6cc7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHByb2dyYW18ZW58MHx8fHwxNzcxNTc0MTE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>프로그램이다</category></item><item><title>우두머리 – leader</title><link>urn:urn:vocab:우두머리</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1513759565286-20e9c5fad06b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZWFkZXJ8ZW58MHx8fHwxNzcxNTYxNTgwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="우두머리 (leader)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;우원식 국회의장(왼쪽 두번째)이 19일 서울 여의도 국회의장실에서 12·3 비상계엄 관련 내란 우두머리 혐의를 받는 윤석열 전 대통령의 1심 선고 공판 생중계를 시청하고 있다&lt;br/&gt;&lt;em&gt;National Assembly Speaker Woo Won-sik (second from left) is watching the live broadcast of the first trial sentencing hearing of former President Yoon Suk-yeol, who is accused of being the ringleader of rebellion related to the December 3 emergency martial law, at the National Assembly Speaker's Office in Yeouido, Seoul, on the 19th.&lt;/em&gt;&lt;/p&gt;
