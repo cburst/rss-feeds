@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Feb 2026 22:18:59 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 02:04:52 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>판결에 – in the judgment</title><link>urn:urn:vocab:판결에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>불안 – anxiety</title><link>urn:urn:vocab:불안</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1618616191524-a9721186cbe4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnhpZXR5fGVufDB8fHx8MTc3MTY5MzQ4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불안 (anxiety)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (박 수석대변인은 이어서 “이 대통령의 SNS 부동산 정치는 이러한 부작용과 시장의 복잡한 구조는 무시한 채, 다주택자를 투기 세력, 악마, 적으로 만드는 프레임 조성에만 열중하고 있다”며 “그 결과가 세입자의 주거 불안을 키우는 역설적 상황을 만들 수 있다는 점을 염두에 뒀는지 의문”이라고 했다&lt;br/&gt;&lt;em&gt;" (Chief Spokesperson Park continued, "President Lee's social media real estate politics is only focused on creating a frame that turns multi-homeowners into speculative forces, devils, and enemies, ignoring these side effects and the complex structure of the market," and said, "I wonder if he considered that the result could create a paradoxical situation that increases housing instability for tenants."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 “대출 연장 규제를 강행해 임대 공급이 위축되고 전·월세 불안이 재연된다면, 그 책임은 온전히 이 대통령에게 있다”고 했다&lt;br/&gt;&lt;em&gt;At the same time, he said, "If the loan extension regulations are forcibly implemented, leading to a contraction in rental supply and a recurrence of jeonse and monthly rent instability, the responsibility lies entirely with President Lee."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A miraculous logic" (李대통령 “다주택자 압박하면 전·월세 불안&lt;br/&gt;&lt;em&gt;A miraculous logic" (President Lee "Pressuring multi-homeowners leads to jeonse and monthly rent instability")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 불안을 느낀다.&lt;br/&gt;&lt;em&gt;I feel anxious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;불안이 커지고 있다.&lt;br/&gt;&lt;em&gt;The anxiety is growing.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1618616191524-a9721186cbe4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnhpZXR5fGVufDB8fHx8MTc3MTY5MzQ4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불안 (anxiety)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (박 수석대변인은 이어서 “이 대통령의 SNS 부동산 정치는 이러한 부작용과 시장의 복잡한 구조는 무시한 채, 다주택자를 투기 세력, 악마, 적으로 만드는 프레임 조성에만 열중하고 있다”며 “그 결과가 세입자의 주거 불안을 키우는 역설적 상황을 만들 수 있다는 점을 염두에 뒀는지 의문”이라고 했다&lt;br/&gt;&lt;em&gt;" (Chief Spokesperson Park continued, "President Lee's social media real estate politics is only focused on creating a frame that turns multi-homeowners into speculative forces, devils, and enemies, ignoring these side effects and the complex structure of the market," and said, "I wonder if he considered that the result could create a paradoxical situation that increases housing instability for tenants."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 “대출 연장 규제를 강행해 임대 공급이 위축되고 전·월세 불안이 재연된다면, 그 책임은 온전히 이 대통령에게 있다”고 했다&lt;br/&gt;&lt;em&gt;At the same time, he said, "If the loan extension regulations are forcibly implemented, leading to a contraction in rental supply and a recurrence of jeonse and monthly rent instability, the responsibility lies entirely with President Lee."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A miraculous logic" (李대통령 “다주택자 압박하면 전·월세 불안&lt;br/&gt;&lt;em&gt;A miraculous logic" (President Lee "Pressuring multi-homeowners leads to jeonse and monthly rent instability")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 불안을 느낀다.&lt;br/&gt;&lt;em&gt;I feel anxious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;불안이 커지고 있다.&lt;br/&gt;&lt;em&gt;The anxiety is growing.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 22 Feb 2026 02:04:52 +0900</pubDate><guid isPermaLink="false">vocab-b292f8130892c6e86d0f90173b07069736fe0a9b</guid><enclosure url="https://images.unsplash.com/photo-1618616191524-a9721186cbe4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnhpZXR5fGVufDB8fHx8MTc3MTY5MzQ4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="36873" /><ns2:content url="https://images.unsplash.com/photo-1618616191524-a9721186cbe4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnhpZXR5fGVufDB8fHx8MTc3MTY5MzQ4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1618616191524-a9721186cbe4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnhpZXR5fGVufDB8fHx8MTc3MTY5MzQ4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>불안</category></item><item><title>판결에 – in the judgment</title><link>urn:urn:vocab:판결에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1729364303192-574dc0d488be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGp1ZGdtZW50fGVufDB8fHx8MTc3MTY3OTkzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="판결에 (in the judgment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Investment Act" (美 상호관세 위법 판결에 與 “정부와 협력” 진보당 “대미투자특별법 멈춰라”) &lt;&lt;br/&gt;&lt;em&gt;"Investment Act" (Regarding the U.S. mutual tariff ruling, the ruling party says "cooperate with the government," the Progressive Party says "stop the U.S. Investment Special Act") &lt;&lt;/em&gt;&lt;/p&gt;
