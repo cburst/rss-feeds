@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Feb 2026 08:22:50 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 11:53:26 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>뜨겁다 – hot</title><link>urn:urn:vocab:뜨겁다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>커다란 – big, large</title><link>urn:urn:vocab:커다란</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624238601478-eb362f3efaf2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiaWclMkMlMjBsYXJnZXxlbnwwfHx8fDE3NzE2NDIzOTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="커다란 (big, large)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김정은은 “지난 5년과 같이 간고하고 힘겨운 환경을 극복하며 커다란 성과를 이룩한 때는 일찍이 없었다”며 “(경제 분야에서) 활력 있게 전진할 수 있게 하는 일정한 토대와 잠재력이 다져졌다”고 했다&lt;br/&gt;&lt;em&gt;Kim Jong-un said, "There has never been a time like the past five years when we overcame difficult and arduous circumstances and achieved great results," adding, "(In the economic field) a certain foundation and potential have been laid to enable us to advance vigorously."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그러면서 김정은은 “대외적으로 보아도 국가의 지위를 불가역적으로 굳건히 다짐으로써 세계 정치 구도와 우리 국가에 미치는 영향 관계에서 커다란 변화를 가져왔다”고 말했다&lt;br/&gt;&lt;em&gt;(Meanwhile, Kim Jong-un said, "Even externally, by firmly and irreversibly consolidating the country's status, it has brought about significant changes in the world political landscape and its impact on our country.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;커다란 집이 있어요.&lt;br/&gt;&lt;em&gt;There is a big house.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;커다란 나무를 봤어요.&lt;br/&gt;&lt;em&gt;I saw a big tree.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624238601478-eb362f3efaf2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiaWclMkMlMjBsYXJnZXxlbnwwfHx8fDE3NzE2NDIzOTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="커다란 (big, large)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김정은은 “지난 5년과 같이 간고하고 힘겨운 환경을 극복하며 커다란 성과를 이룩한 때는 일찍이 없었다”며 “(경제 분야에서) 활력 있게 전진할 수 있게 하는 일정한 토대와 잠재력이 다져졌다”고 했다&lt;br/&gt;&lt;em&gt;Kim Jong-un said, "There has never been a time like the past five years when we overcame difficult and arduous circumstances and achieved great results," adding, "(In the economic field) a certain foundation and potential have been laid to enable us to advance vigorously."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그러면서 김정은은 “대외적으로 보아도 국가의 지위를 불가역적으로 굳건히 다짐으로써 세계 정치 구도와 우리 국가에 미치는 영향 관계에서 커다란 변화를 가져왔다”고 말했다&lt;br/&gt;&lt;em&gt;(Meanwhile, Kim Jong-un said, "Even externally, by firmly and irreversibly consolidating the country's status, it has brought about significant changes in the world political landscape and its impact on our country.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;커다란 집이 있어요.&lt;br/&gt;&lt;em&gt;There is a big house.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;커다란 나무를 봤어요.&lt;br/&gt;&lt;em&gt;I saw a big tree.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 21 Feb 2026 11:53:26 +0900</pubDate><guid isPermaLink="false">vocab-1c372d2d86490501c78082db71080960d25aaee3</guid><enclosure url="https://images.unsplash.com/photo-1624238601478-eb362f3efaf2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiaWclMkMlMjBsYXJnZXxlbnwwfHx8fDE3NzE2NDIzOTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="108635" /><ns2:content url="https://images.unsplash.com/photo-1624238601478-eb362f3efaf2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiaWclMkMlMjBsYXJnZXxlbnwwfHx8fDE3NzE2NDIzOTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1624238601478-eb362f3efaf2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiaWclMkMlMjBsYXJnZXxlbnwwfHx8fDE3NzE2NDIzOTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>커다란</category></item><item><title>뜨겁다 – hot</title><link>urn:urn:vocab:뜨겁다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1583900985737-6d0495555783?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3R8ZW58MHx8fHwxNzcxNjI5NzY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="뜨겁다 (hot)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;與 인천 계양을 벌써 뜨겁다) &lt;&lt;br/&gt;&lt;em&gt;The Saenuri Party's Incheon Gyeyang is already heating up) &lt;&lt;/em&gt;&lt;/p&gt;
