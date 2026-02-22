@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 09:47:44 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 13:29:05 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>각자의 – each one's / respective</title><link>urn:urn:vocab:각자의</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>현장에 – at the site/on the scene</title><link>urn:urn:vocab:현장에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1695901221704-685d6998c2e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMHNpdGUlMkZvbiUyMHRoZSUyMHNjZW5lfGVufDB8fHx8MTc3MTczNDUzOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="현장에 (at the site/on the scene)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현장에는 대학 연구자와 웹툰·AI 기업 관계자, 현업 창작자 등 다양한 분야의 전문가들이 참석해 뜨거운 관심 속에 논의가 진행됐다&lt;br/&gt;&lt;em&gt;The event was attended by experts from various fields including university researchers, webtoon and AI company representatives, and industry creators, with discussions proceeding amid intense interest.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 이호영 툰스퀘어 대표는 AI 웹툰과 융합 콘텐츠의 확장 가능성을 발표했으며, 추우주 강사는 AI 웹툰 제작 프로세스와 이를 반영한 교육 커리큘럼 사례를 소개해 실무 현장에서의 적용 가능성을 공유했다&lt;br/&gt;&lt;em&gt;Following this, Lee Ho-young, CEO of Toon Square, presented the expansion possibilities of AI webtoons and convergence content, while instructor Choo Woo-joo introduced examples of AI webtoon production processes and educational curricula reflecting them, sharing their applicability in practical work settings.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재도 ▲지역관광개발 ▲ESG와 지속가능성 ▲AI 및 디지털 전환을 중심으로 산업 현장에 즉각 적용 가능한 산학연계 연구를 활발히 수행 중이다&lt;br/&gt;&lt;em&gt;Currently, they are actively conducting industry-academia-research collaboration studies that can be immediately applied to industrial fields, focusing on ▲regional tourism development ▲ESG and sustainability ▲AI and digital transformation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경찰이 현장에 도착했어요.&lt;br/&gt;&lt;em&gt;The police arrived at the scene.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사진을 현장에 찍었어요.&lt;br/&gt;&lt;em&gt;I took a picture at the scene.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1695901221704-685d6998c2e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMHNpdGUlMkZvbiUyMHRoZSUyMHNjZW5lfGVufDB8fHx8MTc3MTczNDUzOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="현장에 (at the site/on the scene)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현장에는 대학 연구자와 웹툰·AI 기업 관계자, 현업 창작자 등 다양한 분야의 전문가들이 참석해 뜨거운 관심 속에 논의가 진행됐다&lt;br/&gt;&lt;em&gt;The event was attended by experts from various fields including university researchers, webtoon and AI company representatives, and industry creators, with discussions proceeding amid intense interest.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 이호영 툰스퀘어 대표는 AI 웹툰과 융합 콘텐츠의 확장 가능성을 발표했으며, 추우주 강사는 AI 웹툰 제작 프로세스와 이를 반영한 교육 커리큘럼 사례를 소개해 실무 현장에서의 적용 가능성을 공유했다&lt;br/&gt;&lt;em&gt;Following this, Lee Ho-young, CEO of Toon Square, presented the expansion possibilities of AI webtoons and convergence content, while instructor Choo Woo-joo introduced examples of AI webtoon production processes and educational curricula reflecting them, sharing their applicability in practical work settings.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재도 ▲지역관광개발 ▲ESG와 지속가능성 ▲AI 및 디지털 전환을 중심으로 산업 현장에 즉각 적용 가능한 산학연계 연구를 활발히 수행 중이다&lt;br/&gt;&lt;em&gt;Currently, they are actively conducting industry-academia-research collaboration studies that can be immediately applied to industrial fields, focusing on ▲regional tourism development ▲ESG and sustainability ▲AI and digital transformation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경찰이 현장에 도착했어요.&lt;br/&gt;&lt;em&gt;The police arrived at the scene.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사진을 현장에 찍었어요.&lt;br/&gt;&lt;em&gt;I took a picture at the scene.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 22 Feb 2026 13:29:05 +0900</pubDate><guid isPermaLink="false">vocab-0c4c9976b61e5bebc54a9102836b1143535e9c3d</guid><enclosure url="https://images.unsplash.com/photo-1695901221704-685d6998c2e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMHNpdGUlMkZvbiUyMHRoZSUyMHNjZW5lfGVufDB8fHx8MTc3MTczNDUzOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="169522" /><ns2:content url="https://images.unsplash.com/photo-1695901221704-685d6998c2e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMHNpdGUlMkZvbiUyMHRoZSUyMHNjZW5lfGVufDB8fHx8MTc3MTczNDUzOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1695901221704-685d6998c2e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMHNpdGUlMkZvbiUyMHRoZSUyMHNjZW5lfGVufDB8fHx8MTc3MTczNDUzOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>현장에</category></item><item><title>각자의 – each one's / respective</title><link>urn:urn:vocab:각자의</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;미래 사회에서 우리 아이들이 각자의 다양성을 존중하고 협력하며, 복잡한 사회 문제를 해결하기 위해서는 법의 정의, 역할, 가치를 이해하고 실질적으로 적용하는 ‘법마음&amp;#x27;을 갖춰야 한다&lt;br/&gt;&lt;em&gt;In future society, for our children to respect each other's diversity, cooperate, and solve complex social problems, they must develop a 'legal mind' that understands and practically applies the justice, role, and value of law.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;빙고 방식으로 9칸, 혹은 16칸에 가족들이 각자의 새해 목표를 써넣고, 월 단위로 가장 많은 빙고를 달성한 가족에게 작은 보상을 하는 게임 형식도 시도해볼 만하다&lt;br/&gt;&lt;em&gt;It's also worth trying a game format where family members write their New Year's goals in 9 or 16 squares in a bingo style, and the family that achieves the most bingos each month receives a small reward.&lt;/em&gt;&lt;/p&gt;
