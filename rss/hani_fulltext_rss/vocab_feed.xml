@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 17:08:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 21:00:04 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>학위를 – degree</title><link>urn:urn:vocab:학위를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>아일랜드 – Ireland</title><link>urn:urn:vocab:아일랜드</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530538095376-a4936b35b5f0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJcmVsYW5kfGVufDB8fHx8MTc3MTc2MTU5Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="아일랜드 (Ireland)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이번 교육과정은 글로벌 바이오공정 교육의 대표 모델인 아일랜드 NIBRT의 표준을 국내 산업 수요에 맞게 고도화한 것이 특징이다&lt;br/&gt;&lt;em&gt;This educational program is characterized by enhancing the standards of Ireland's NIBRT, a leading model in global bioprocess education, to meet domestic industrial demands.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이와 관련해 헌법학자인 오란 도일 아일랜드 트리니티 칼리지 교수는 국제헌법학회지(I·CON)에 게재한 논문 ‘영토의 침묵하는 헌법’에서 “영토란 헌법에 명시되어 존재하는 것이 아니라, 법체계가 작동하는 지리적 범위에 대한 공통의 관습적 합의로서 존재한다”라고 분석했다&lt;br/&gt;&lt;em&gt;In this regard, constitutional scholar Professor Oran Doyle of Trinity College Dublin analyzed in his paper 'The Silent Constitution of Territory' published in the International Journal of Constitutional Law (I·CON) that 'territory exists not as something explicitly stated in the constitution, but as a common customary agreement on the geographical scope within which the legal system operates.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;유사한 사례는 중국과 아일랜드 헌법에서 찾을 수 있지만, 그 차이점도 주목할 필요는 있다&lt;br/&gt;&lt;em&gt;Similar cases can be found in the constitutions of China and Ireland, but it is also necessary to note their differences.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아일랜드는 아름다운 나라입니다.&lt;br/&gt;&lt;em&gt;Ireland is a beautiful country.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 아일랜드에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to Ireland.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530538095376-a4936b35b5f0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJcmVsYW5kfGVufDB8fHx8MTc3MTc2MTU5Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="아일랜드 (Ireland)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이번 교육과정은 글로벌 바이오공정 교육의 대표 모델인 아일랜드 NIBRT의 표준을 국내 산업 수요에 맞게 고도화한 것이 특징이다&lt;br/&gt;&lt;em&gt;This educational program is characterized by enhancing the standards of Ireland's NIBRT, a leading model in global bioprocess education, to meet domestic industrial demands.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이와 관련해 헌법학자인 오란 도일 아일랜드 트리니티 칼리지 교수는 국제헌법학회지(I·CON)에 게재한 논문 ‘영토의 침묵하는 헌법’에서 “영토란 헌법에 명시되어 존재하는 것이 아니라, 법체계가 작동하는 지리적 범위에 대한 공통의 관습적 합의로서 존재한다”라고 분석했다&lt;br/&gt;&lt;em&gt;In this regard, constitutional scholar Professor Oran Doyle of Trinity College Dublin analyzed in his paper 'The Silent Constitution of Territory' published in the International Journal of Constitutional Law (I·CON) that 'territory exists not as something explicitly stated in the constitution, but as a common customary agreement on the geographical scope within which the legal system operates.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;유사한 사례는 중국과 아일랜드 헌법에서 찾을 수 있지만, 그 차이점도 주목할 필요는 있다&lt;br/&gt;&lt;em&gt;Similar cases can be found in the constitutions of China and Ireland, but it is also necessary to note their differences.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아일랜드는 아름다운 나라입니다.&lt;br/&gt;&lt;em&gt;Ireland is a beautiful country.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 아일랜드에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to Ireland.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 22 Feb 2026 21:00:04 +0900</pubDate><guid isPermaLink="false">vocab-799f47da4f8e762c2b39da9ade95f9d9f5014e6f</guid><enclosure url="https://images.unsplash.com/photo-1530538095376-a4936b35b5f0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJcmVsYW5kfGVufDB8fHx8MTc3MTc2MTU5Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="170178" /><ns2:content url="https://images.unsplash.com/photo-1530538095376-a4936b35b5f0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJcmVsYW5kfGVufDB8fHx8MTc3MTc2MTU5Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1530538095376-a4936b35b5f0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJcmVsYW5kfGVufDB8fHx8MTc3MTc2MTU5Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>아일랜드</category></item><item><title>학위를 – degree</title><link>urn:urn:vocab:학위를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWdyZWV8ZW58MHx8fHwxNzcxNzQ3Njg1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학위를 (degree)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;인문캠퍼스에서는 일반대학원을 비롯한 전문·특수대학원 석‧박사 320명이, 자연캠퍼스에서는 일반대학원 및 산업대학원 석사 187명이 학위를 받았다&lt;br/&gt;&lt;em&gt;At the Humanities Campus, 320 master's and doctoral degrees were awarded, including those from the Graduate School and specialized/unique graduate schools, while at the Natural Sciences Campus, 187 master's degrees were conferred from the Graduate School and the Industrial Graduate School.&lt;/em&gt;&lt;/p&gt;
