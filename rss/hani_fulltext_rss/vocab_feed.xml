@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 13:29:05 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 17:08:13 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>현장에 – at the site/on the scene</title><link>urn:urn:vocab:현장에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>학위를 – degree</title><link>urn:urn:vocab:학위를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWdyZWV8ZW58MHx8fHwxNzcxNzQ3Njg1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학위를 (degree)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인문캠퍼스에서는 일반대학원을 비롯한 전문·특수대학원 석‧박사 320명이, 자연캠퍼스에서는 일반대학원 및 산업대학원 석사 187명이 학위를 받았다&lt;br/&gt;&lt;em&gt;At the Humanities Campus, 320 master's and doctoral degrees were awarded, including those from the Graduate School and specialized/unique graduate schools, while at the Natural Sciences Campus, 187 master's degrees were conferred from the Graduate School and the Industrial Graduate School.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인문캠퍼스에서는 인문대학, 사회과학대학, 경영대학 등 6개 단과대학에서 총 1,128명이 학사 학위를 받았으며, 자연캠퍼스에서는 화학생명과학대학, ICT융합대학 등 5개 단과대학 소속 1,037명이 졸업의 영예를 안았다&lt;br/&gt;&lt;em&gt;At the Humanities Campus, a total of 1,128 students received bachelor's degrees from six colleges including the College of Humanities, College of Social Sciences, and College of Business, while at the Natural Sciences Campus, 1,037 students from five colleges such as the College of Chemical and Biological Sciences and the College of ICT Convergence were honored with graduation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(중앙대학교가 국내 자동차 부품 경쟁력 제고와 글로벌 산업 발전에 지속적으로 기여해 온 구자겸 엔브이에이치코리아(주)(이하 NVH코리아) 회장에게 명예 경영학박사 학위를 수여했다&lt;br/&gt;&lt;em&gt;(Chung-Ang University awarded an honorary Doctor of Business Administration degree to Chairman Koo Ja-kyum of NVH Korea Co., Ltd. (hereinafter NVH Korea), who has continuously contributed to enhancing the competitiveness of domestic automotive parts and global industrial development.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 학위를 받았어요.&lt;br/&gt;&lt;em&gt;I received a degree.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 학위를 공부해요.&lt;br/&gt;&lt;em&gt;He is studying for a degree.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWdyZWV8ZW58MHx8fHwxNzcxNzQ3Njg1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학위를 (degree)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인문캠퍼스에서는 일반대학원을 비롯한 전문·특수대학원 석‧박사 320명이, 자연캠퍼스에서는 일반대학원 및 산업대학원 석사 187명이 학위를 받았다&lt;br/&gt;&lt;em&gt;At the Humanities Campus, 320 master's and doctoral degrees were awarded, including those from the Graduate School and specialized/unique graduate schools, while at the Natural Sciences Campus, 187 master's degrees were conferred from the Graduate School and the Industrial Graduate School.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인문캠퍼스에서는 인문대학, 사회과학대학, 경영대학 등 6개 단과대학에서 총 1,128명이 학사 학위를 받았으며, 자연캠퍼스에서는 화학생명과학대학, ICT융합대학 등 5개 단과대학 소속 1,037명이 졸업의 영예를 안았다&lt;br/&gt;&lt;em&gt;At the Humanities Campus, a total of 1,128 students received bachelor's degrees from six colleges including the College of Humanities, College of Social Sciences, and College of Business, while at the Natural Sciences Campus, 1,037 students from five colleges such as the College of Chemical and Biological Sciences and the College of ICT Convergence were honored with graduation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(중앙대학교가 국내 자동차 부품 경쟁력 제고와 글로벌 산업 발전에 지속적으로 기여해 온 구자겸 엔브이에이치코리아(주)(이하 NVH코리아) 회장에게 명예 경영학박사 학위를 수여했다&lt;br/&gt;&lt;em&gt;(Chung-Ang University awarded an honorary Doctor of Business Administration degree to Chairman Koo Ja-kyum of NVH Korea Co., Ltd. (hereinafter NVH Korea), who has continuously contributed to enhancing the competitiveness of domestic automotive parts and global industrial development.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 학위를 받았어요.&lt;br/&gt;&lt;em&gt;I received a degree.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 학위를 공부해요.&lt;br/&gt;&lt;em&gt;He is studying for a degree.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 22 Feb 2026 17:08:13 +0900</pubDate><guid isPermaLink="false">vocab-7d57d89fdc4574cecb62a049db010b627cdbb94e</guid><enclosure url="https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWdyZWV8ZW58MHx8fHwxNzcxNzQ3Njg1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="120337" /><ns2:content url="https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWdyZWV8ZW58MHx8fHwxNzcxNzQ3Njg1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWdyZWV8ZW58MHx8fHwxNzcxNzQ3Njg1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>학위를</category></item><item><title>현장에 – at the site/on the scene</title><link>urn:urn:vocab:현장에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1695901221704-685d6998c2e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMHNpdGUlMkZvbiUyMHRoZSUyMHNjZW5lfGVufDB8fHx8MTc3MTczNDUzOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="현장에 (at the site/on the scene)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;현장에는 대학 연구자와 웹툰·AI 기업 관계자, 현업 창작자 등 다양한 분야의 전문가들이 참석해 뜨거운 관심 속에 논의가 진행됐다&lt;br/&gt;&lt;em&gt;The event was attended by experts from various fields including university researchers, webtoon and AI company representatives, and industry creators, with discussions proceeding amid intense interest.&lt;/em&gt;&lt;/p&gt;
