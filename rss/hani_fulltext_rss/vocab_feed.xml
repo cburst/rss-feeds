@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 08:33:17 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 12:21:08 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>불확실성 – uncertainty</title><link>urn:urn:vocab:불확실성</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>행사를 – event</title><link>urn:urn:vocab:행사를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVudHxlbnwwfHx8fDE3NzE4MTY4NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="행사를 (event)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;▲ 사이버한국외국어대학교 일본어학부는 2월 6일부터 이틀간 일본 간사이 지역에서 ‘제3회 해외부 모임’ 행사를 개최했다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;▲ Cyber Hankuk University of Foreign Studies' Japanese Language Department held the '3rd Overseas Department Meeting' event in Japan's Kansai region for two days starting February 6th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;ZOOM 회화스터디, 특별강연 등 정기적인 온라인 학습 프로그램을 통해 실질적인 어학 역량과 전공 이해도를 높이는 한편, 지도교수진이 인솔하는 일본 대학 탐방과 문화체험 등 오프라인 모임 행사를 운영해 학생들의 글로벌 진학 및 진로 설계를 체계적으로 지원하고 있다&lt;br/&gt;&lt;em&gt;Through regular online learning programs such as ZOOM conversation studies and special lectures, they enhance practical language skills and major understanding, while operating offline meeting events like Japanese university visits and cultural experiences led by faculty advisors to systematically support students' global academic advancement and career planning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;행사를 인솔한 사이버한국외국어대학교 일본어학부 윤호숙 교수는 “해외 거주 학우 네트워크를 기반으로 한 해외부 활동은 우리 대학만의 차별화된 강점”이라며 “앞으로도 일본어학부의 국내외 학우들이 긴밀히 연결되어 학업과 진로에서 시너지를 만들어가길 기대한다”고 덧붙였다&lt;br/&gt;&lt;em&gt;&lt;br/&gt;Professor Yun Ho-sook of Cyber Hankuk University of Foreign Studies' Japanese Language Department, who led the event, added, "Overseas department activities based on a network of overseas-residing students are a differentiated strength unique to our university," and "We look forward to domestic and international students of the Japanese Language Department continuing to connect closely to create synergy in academics and careers."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 행사를 좋아해요.&lt;br/&gt;&lt;em&gt;I like events.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;행사를 열었어요.&lt;br/&gt;&lt;em&gt;I held an event.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVudHxlbnwwfHx8fDE3NzE4MTY4NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="행사를 (event)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;▲ 사이버한국외국어대학교 일본어학부는 2월 6일부터 이틀간 일본 간사이 지역에서 ‘제3회 해외부 모임’ 행사를 개최했다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;▲ Cyber Hankuk University of Foreign Studies' Japanese Language Department held the '3rd Overseas Department Meeting' event in Japan's Kansai region for two days starting February 6th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;ZOOM 회화스터디, 특별강연 등 정기적인 온라인 학습 프로그램을 통해 실질적인 어학 역량과 전공 이해도를 높이는 한편, 지도교수진이 인솔하는 일본 대학 탐방과 문화체험 등 오프라인 모임 행사를 운영해 학생들의 글로벌 진학 및 진로 설계를 체계적으로 지원하고 있다&lt;br/&gt;&lt;em&gt;Through regular online learning programs such as ZOOM conversation studies and special lectures, they enhance practical language skills and major understanding, while operating offline meeting events like Japanese university visits and cultural experiences led by faculty advisors to systematically support students' global academic advancement and career planning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;행사를 인솔한 사이버한국외국어대학교 일본어학부 윤호숙 교수는 “해외 거주 학우 네트워크를 기반으로 한 해외부 활동은 우리 대학만의 차별화된 강점”이라며 “앞으로도 일본어학부의 국내외 학우들이 긴밀히 연결되어 학업과 진로에서 시너지를 만들어가길 기대한다”고 덧붙였다&lt;br/&gt;&lt;em&gt;&lt;br/&gt;Professor Yun Ho-sook of Cyber Hankuk University of Foreign Studies' Japanese Language Department, who led the event, added, "Overseas department activities based on a network of overseas-residing students are a differentiated strength unique to our university," and "We look forward to domestic and international students of the Japanese Language Department continuing to connect closely to create synergy in academics and careers."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 행사를 좋아해요.&lt;br/&gt;&lt;em&gt;I like events.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;행사를 열었어요.&lt;br/&gt;&lt;em&gt;I held an event.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 23 Feb 2026 12:21:08 +0900</pubDate><guid isPermaLink="false">vocab-61c30d3b0c8815912e607dcc95fb28011c1ac7bb</guid><enclosure url="https://images.unsplash.com/photo-1540575467063-178a50c2df87?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVudHxlbnwwfHx8fDE3NzE4MTY4NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="79660" /><ns2:content url="https://images.unsplash.com/photo-1540575467063-178a50c2df87?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVudHxlbnwwfHx8fDE3NzE4MTY4NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540575467063-178a50c2df87?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVudHxlbnwwfHx8fDE3NzE4MTY4NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>행사를</category></item><item><title>불확실성 – uncertainty</title><link>urn:urn:vocab:불확실성</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1510596713412-56030de252c8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bmNlcnRhaW50eXxlbnwwfHx8fDE3NzE4MDMxOTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불확실성 (uncertainty)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Efforts to Minimize It" (산업부 “대미 수출 불확실성 다소 높아져…최소화 노력”) &lt;&lt;br/&gt;&lt;em&gt;Efforts to Minimize It (Ministry of Industry: "Uncertainty in exports to the U.S. has somewhat increased...efforts to minimize") &lt;&lt;/em&gt;&lt;/p&gt;
