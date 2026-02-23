@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 16:03:16 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 20:06:22 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>누구에게나 – to anyone</title><link>urn:urn:vocab:누구에게나</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>받으면 – if you receive</title><link>urn:urn:vocab:받으면</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1513004132127-ade5a645d3e0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZiUyMHlvdSUyMHJlY2VpdmV8ZW58MHx8fHwxNzcxODQ0Nzc1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="받으면 (if you receive)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정부 매뉴얼에 따르면, 질병관리청은 코로나19 백신에 이물질이 들어 있다는 신고를 받으면 식품의약품안전처에 해당 백신의 품질을 검토해달라고 요청해야 하고, 식약처는 해당 백신에 대해 성분 분석 등을 한 뒤 그 결과를 질병청에 알려야 한다&lt;br/&gt;&lt;em&gt;According to the government manual, when the Korea Disease Control and Prevention Agency receives a report of foreign substances in COVID-19 vaccines, it must request the Ministry of Food and Drug Safety to review the quality of the vaccine, and the Ministry must analyze the components of the vaccine and inform the results to the KDCA.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;당시 방역 당국은 항공기 탑승자가 확진 판정을 받으면 인접 좌석 탑승자를 찾아내 격리 조치했는데, 정작 해당 좌석 담당 승무원은 접촉자로 분류하지 않아, 최소 658명에서 최대 9514명이 격리되지 않았다고 감사원은 지적했다&lt;br/&gt;&lt;em&gt;At that time, quarantine authorities tracked down and isolated passengers in adjacent seats when a passenger on the aircraft tested positive, but the flight crew in charge of those seats were not classified as contacts, so at least 658 to 9,514 people were not isolated, the Board of Audit and Inspection pointed out.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;“재건축 조합장 뇌물 받으면 10배 위약벌” 국민청원 등장 &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;“10 times penalty for receiving bribes as reconstruction association president” National petition appears&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선물을 받으면 기뻐요.&lt;br/&gt;&lt;em&gt;I am happy when I receive a gift.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;편지를 받으면 답장해요.&lt;br/&gt;&lt;em&gt;I reply when I receive a letter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1513004132127-ade5a645d3e0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZiUyMHlvdSUyMHJlY2VpdmV8ZW58MHx8fHwxNzcxODQ0Nzc1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="받으면 (if you receive)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정부 매뉴얼에 따르면, 질병관리청은 코로나19 백신에 이물질이 들어 있다는 신고를 받으면 식품의약품안전처에 해당 백신의 품질을 검토해달라고 요청해야 하고, 식약처는 해당 백신에 대해 성분 분석 등을 한 뒤 그 결과를 질병청에 알려야 한다&lt;br/&gt;&lt;em&gt;According to the government manual, when the Korea Disease Control and Prevention Agency receives a report of foreign substances in COVID-19 vaccines, it must request the Ministry of Food and Drug Safety to review the quality of the vaccine, and the Ministry must analyze the components of the vaccine and inform the results to the KDCA.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;당시 방역 당국은 항공기 탑승자가 확진 판정을 받으면 인접 좌석 탑승자를 찾아내 격리 조치했는데, 정작 해당 좌석 담당 승무원은 접촉자로 분류하지 않아, 최소 658명에서 최대 9514명이 격리되지 않았다고 감사원은 지적했다&lt;br/&gt;&lt;em&gt;At that time, quarantine authorities tracked down and isolated passengers in adjacent seats when a passenger on the aircraft tested positive, but the flight crew in charge of those seats were not classified as contacts, so at least 658 to 9,514 people were not isolated, the Board of Audit and Inspection pointed out.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;“재건축 조합장 뇌물 받으면 10배 위약벌” 국민청원 등장 &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;“10 times penalty for receiving bribes as reconstruction association president” National petition appears&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선물을 받으면 기뻐요.&lt;br/&gt;&lt;em&gt;I am happy when I receive a gift.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;편지를 받으면 답장해요.&lt;br/&gt;&lt;em&gt;I reply when I receive a letter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 23 Feb 2026 20:06:22 +0900</pubDate><guid isPermaLink="false">vocab-3b5347a01bd93ec37b4b19cc2c33152785901e5b</guid><enclosure url="https://images.unsplash.com/photo-1513004132127-ade5a645d3e0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZiUyMHlvdSUyMHJlY2VpdmV8ZW58MHx8fHwxNzcxODQ0Nzc1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="98353" /><ns2:content url="https://images.unsplash.com/photo-1513004132127-ade5a645d3e0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZiUyMHlvdSUyMHJlY2VpdmV8ZW58MHx8fHwxNzcxODQ0Nzc1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1513004132127-ade5a645d3e0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZiUyMHlvdSUyMHJlY2VpdmV8ZW58MHx8fHwxNzcxODQ0Nzc1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>받으면</category></item><item><title>누구에게나 – to anyone</title><link>urn:urn:vocab:누구에게나</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620075223759-f0181cbac99d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGFueW9uZXxlbnwwfHx8fDE3NzE4MzAxODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="누구에게나 (to anyone)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;장 대표는 지난 20일 윤 전 대통령 판결에 대해 “아직 1심으로, 무죄추정의 원칙은 누구에게나 적용돼야 한다”고 했었다&lt;br/&gt;&lt;em&gt;Representative Jang said on the 20th regarding the verdict on former President Yoon, 'It's still the first trial, and the principle of presumption of innocence should apply to everyone.'&lt;/em&gt;&lt;/p&gt;
