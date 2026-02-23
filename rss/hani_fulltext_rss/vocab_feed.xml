@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 04:37:32 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 08:33:17 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>진로를 – career path</title><link>urn:urn:vocab:진로를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>불확실성 – uncertainty</title><link>urn:urn:vocab:불확실성</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1510596713412-56030de252c8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bmNlcnRhaW50eXxlbnwwfHx8fDE3NzE4MDMxOTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불확실성 (uncertainty)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Efforts to Minimize It" (산업부 “대미 수출 불확실성 다소 높아져…최소화 노력”) &lt;&lt;br/&gt;&lt;em&gt;Efforts to Minimize It (Ministry of Industry: "Uncertainty in exports to the U.S. has somewhat increased...efforts to minimize") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Efforts to Minimize It" (산업부 “대미 수출 불확실성 다소 높아져…최소화 노력”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Efforts to Minimize It (Ministry of Industry: "Uncertainty in exports to the U.S. has somewhat increased...efforts to minimize")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (산업통상부는 미국 연방대법원이 도널드 트럼프 행정부의 상호관세 부과가 위법하다고 판결한 것에 대해 “대미 수출 불확실성이 다소 높아졌다”며 “불확실성 최소화”를 위해 노력하겠다고 밝혔다&lt;br/&gt;&lt;em&gt;" (The Ministry of Trade, Industry and Energy stated regarding the U.S. Supreme Court ruling that the Trump administration's imposition of reciprocal tariffs was illegal: "Uncertainty in exports to the U.S. has somewhat increased," and that they will "make efforts to minimize uncertainty.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;불확실성이 많아요.&lt;br/&gt;&lt;em&gt;There is a lot of uncertainty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 불확실성입니다.&lt;br/&gt;&lt;em&gt;This is uncertainty.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1510596713412-56030de252c8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bmNlcnRhaW50eXxlbnwwfHx8fDE3NzE4MDMxOTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불확실성 (uncertainty)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Efforts to Minimize It" (산업부 “대미 수출 불확실성 다소 높아져…최소화 노력”) &lt;&lt;br/&gt;&lt;em&gt;Efforts to Minimize It (Ministry of Industry: "Uncertainty in exports to the U.S. has somewhat increased...efforts to minimize") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Efforts to Minimize It" (산업부 “대미 수출 불확실성 다소 높아져…최소화 노력”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Efforts to Minimize It (Ministry of Industry: "Uncertainty in exports to the U.S. has somewhat increased...efforts to minimize")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (산업통상부는 미국 연방대법원이 도널드 트럼프 행정부의 상호관세 부과가 위법하다고 판결한 것에 대해 “대미 수출 불확실성이 다소 높아졌다”며 “불확실성 최소화”를 위해 노력하겠다고 밝혔다&lt;br/&gt;&lt;em&gt;" (The Ministry of Trade, Industry and Energy stated regarding the U.S. Supreme Court ruling that the Trump administration's imposition of reciprocal tariffs was illegal: "Uncertainty in exports to the U.S. has somewhat increased," and that they will "make efforts to minimize uncertainty.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;불확실성이 많아요.&lt;br/&gt;&lt;em&gt;There is a lot of uncertainty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 불확실성입니다.&lt;br/&gt;&lt;em&gt;This is uncertainty.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 23 Feb 2026 08:33:17 +0900</pubDate><guid isPermaLink="false">vocab-6da0feaea3274a220a64b0f38b1f4ffa9c261d1b</guid><enclosure url="https://images.unsplash.com/photo-1510596713412-56030de252c8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bmNlcnRhaW50eXxlbnwwfHx8fDE3NzE4MDMxOTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="159579" /><ns2:content url="https://images.unsplash.com/photo-1510596713412-56030de252c8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bmNlcnRhaW50eXxlbnwwfHx8fDE3NzE4MDMxOTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1510596713412-56030de252c8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bmNlcnRhaW50eXxlbnwwfHx8fDE3NzE4MDMxOTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>불확실성</category></item><item><title>진로를 – career path</title><link>urn:urn:vocab:진로를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1539992190939-08f22d7ebaad?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXJlZXIlMjBwYXRofGVufDB8fHx8MTc3MTc4OTA0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="진로를 (career path)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;초·중·고등학생 연령별 맞춤형 과정으로 구성된 이 캠프는 인공위성, 항공관제, 비행기 조종 등 미래 우주항공 분야의 진로를 캠퍼스에서 직접 체험하는 숙박형 프로그램이다&lt;br/&gt;&lt;em&gt;This camp, structured with age-appropriate programs for elementary, middle, and high school students, is a residential program where participants directly experience future aerospace careers such as satellites, air traffic control, and piloting aircraft on campus.&lt;/em&gt;&lt;/p&gt;
