@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Feb 2026 18:30:15 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 22:51:21 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>일자리는 – jobs</title><link>urn:urn:vocab:일자리는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>처갓집 – wife's parents' house</title><link>urn:urn:vocab:처갓집</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1715513008829-2eb86b787ffa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWZlJTI3cyUyMHBhcmVudHMlMjclMjBob3VzZXxlbnwwfHx8fDE3NzE5NDEwNzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="처갓집 (wife's parents' house)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘배민온리’에 갇힌 처갓집 점주들) &lt;&lt;br/&gt;&lt;em&gt;(In-laws' store owners trapped in 'Baemin-only') &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘배민온리’에 갇힌 처갓집 점주들)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;(In-laws' store owners trapped in 'Baemin-only')&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(배달의민족(배민)과 치킨 프랜차이즈 처갓집양념치킨(처갓집) 운영사 한국일오삼이 손잡고 진행 중인 ‘배민온리’ 협약이 논란되고 있다&lt;br/&gt;&lt;em&gt;(The 'Baemin-only' agreement currently being pursued by Baedal Minjok (Baemin) and Korean 1053, the operator of the chicken franchise Cheogajip Yangnyeom Chicken (Cheogajip), is causing controversy)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 처갓집에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to my wife's parents' house.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;처갓집이 멀지 않습니다.&lt;br/&gt;&lt;em&gt;My wife's parents' house is not far away.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1715513008829-2eb86b787ffa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWZlJTI3cyUyMHBhcmVudHMlMjclMjBob3VzZXxlbnwwfHx8fDE3NzE5NDEwNzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="처갓집 (wife's parents' house)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘배민온리’에 갇힌 처갓집 점주들) &lt;&lt;br/&gt;&lt;em&gt;(In-laws' store owners trapped in 'Baemin-only') &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘배민온리’에 갇힌 처갓집 점주들)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;(In-laws' store owners trapped in 'Baemin-only')&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(배달의민족(배민)과 치킨 프랜차이즈 처갓집양념치킨(처갓집) 운영사 한국일오삼이 손잡고 진행 중인 ‘배민온리’ 협약이 논란되고 있다&lt;br/&gt;&lt;em&gt;(The 'Baemin-only' agreement currently being pursued by Baedal Minjok (Baemin) and Korean 1053, the operator of the chicken franchise Cheogajip Yangnyeom Chicken (Cheogajip), is causing controversy)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 처갓집에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to my wife's parents' house.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;처갓집이 멀지 않습니다.&lt;br/&gt;&lt;em&gt;My wife's parents' house is not far away.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 24 Feb 2026 22:51:21 +0900</pubDate><guid isPermaLink="false">vocab-0dfa6315592cd23e26bd63c72212913d8ca92e20</guid><enclosure url="https://images.unsplash.com/photo-1715513008829-2eb86b787ffa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWZlJTI3cyUyMHBhcmVudHMlMjclMjBob3VzZXxlbnwwfHx8fDE3NzE5NDEwNzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="340937" /><ns2:content url="https://images.unsplash.com/photo-1715513008829-2eb86b787ffa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWZlJTI3cyUyMHBhcmVudHMlMjclMjBob3VzZXxlbnwwfHx8fDE3NzE5NDEwNzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1715513008829-2eb86b787ffa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWZlJTI3cyUyMHBhcmVudHMlMjclMjBob3VzZXxlbnwwfHx8fDE3NzE5NDEwNzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>처갓집</category></item><item><title>일자리는 – jobs</title><link>urn:urn:vocab:일자리는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1487528278747-ba99ed528ebc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb2JzfGVufDB8fHx8MTc3MTkyNTQwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="일자리는 (jobs)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;20대 이하 임금근로 일자리는 12분기 연속 감소하는 가운데 지난해 3분기에 감소폭이 역대 두 번째로 컸다&lt;br/&gt;&lt;em&gt;While wage-earning jobs for those in their 20s and below have decreased for 12 consecutive quarters, the decline in the third quarter of last year was the second largest on record.&lt;/em&gt;&lt;/p&gt;
