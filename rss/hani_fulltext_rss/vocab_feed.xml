@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 23:03:51 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 03:51:51 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>출생아 – newborn baby</title><link>urn:urn:vocab:출생아</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>물리학 – physics</title><link>urn:urn:vocab:물리학</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaHlzaWNzfGVufDB8fHx8MTc3MjA0NTUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="물리학 (physics)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(첨단소재·전자융합공학부 김재성 교수는 서울대 물리학 학사·석사 학위를, 미국 인디애나대학교 블루밍턴에서 물리학 박사 학위를 받았다&lt;br/&gt;&lt;em&gt;Professor Jaeseong Kim of the Department of Advanced Materials and Electronic Convergence Engineering earned his bachelor's and master's degrees in physics from Seoul National University and his Ph.D. in physics from Indiana University Bloomington in the United States.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(첨단소재·전자융합공학부 정홍 교수는 서울대 물리학 학사·석사 학위를, 미국 워싱턴대학교에서 물리학 박사 학위를 취득했다&lt;br/&gt;&lt;em&gt;Professor Hong Jeong of the Department of Advanced Materials and Electronic Convergence Engineering obtained his bachelor's and master's degrees in physics from Seoul National University and his Ph.D. in physics from the University of Washington in the United States.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1994년 부임해 기초공학부장, 나노물리학과장 등을 지냈고, 수업평가 우수교원(2022)으로 선정됐다&lt;br/&gt;&lt;em&gt;Appointed in 1994, he served as the head of the Basic Engineering Department and the head of the Department of Nanophysics, and was selected as an outstanding faculty member in course evaluations (2022).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;물리학은 재미있어요.&lt;br/&gt;&lt;em&gt;Physics is interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 물리학을 공부해요.&lt;br/&gt;&lt;em&gt;I study physics.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaHlzaWNzfGVufDB8fHx8MTc3MjA0NTUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="물리학 (physics)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(첨단소재·전자융합공학부 김재성 교수는 서울대 물리학 학사·석사 학위를, 미국 인디애나대학교 블루밍턴에서 물리학 박사 학위를 받았다&lt;br/&gt;&lt;em&gt;Professor Jaeseong Kim of the Department of Advanced Materials and Electronic Convergence Engineering earned his bachelor's and master's degrees in physics from Seoul National University and his Ph.D. in physics from Indiana University Bloomington in the United States.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(첨단소재·전자융합공학부 정홍 교수는 서울대 물리학 학사·석사 학위를, 미국 워싱턴대학교에서 물리학 박사 학위를 취득했다&lt;br/&gt;&lt;em&gt;Professor Hong Jeong of the Department of Advanced Materials and Electronic Convergence Engineering obtained his bachelor's and master's degrees in physics from Seoul National University and his Ph.D. in physics from the University of Washington in the United States.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1994년 부임해 기초공학부장, 나노물리학과장 등을 지냈고, 수업평가 우수교원(2022)으로 선정됐다&lt;br/&gt;&lt;em&gt;Appointed in 1994, he served as the head of the Basic Engineering Department and the head of the Department of Nanophysics, and was selected as an outstanding faculty member in course evaluations (2022).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;물리학은 재미있어요.&lt;br/&gt;&lt;em&gt;Physics is interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 물리학을 공부해요.&lt;br/&gt;&lt;em&gt;I study physics.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 26 Feb 2026 03:51:51 +0900</pubDate><guid isPermaLink="false">vocab-1b82f2adca6d64d6a9706374bddb77404be245c7</guid><enclosure url="https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaHlzaWNzfGVufDB8fHx8MTc3MjA0NTUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="151991" /><ns2:content url="https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaHlzaWNzfGVufDB8fHx8MTc3MjA0NTUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaHlzaWNzfGVufDB8fHx8MTc3MjA0NTUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>물리학</category></item><item><title>출생아 – newborn baby</title><link>urn:urn:vocab:출생아</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1552819289-824d37ca69d2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXdib3JuJTIwYmFieXxlbnwwfHx8fDE3NzIwMjgyMjN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="출생아 (newborn baby)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(국가데이터처가 25일 발표한 ‘2025년 출생·사망통계’를 보면, 지난해 출생아 수는 25만4500명으로 전년 대비 1만6100명(6&lt;br/&gt;&lt;em&gt;According to the '2025 Birth and Death Statistics' released by the National Data Agency on the 25th, the number of births last year was 254,500, an increase of 16,100 (6%&lt;/em&gt;&lt;/p&gt;
