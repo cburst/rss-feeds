@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 12:59:56 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 17:28:10 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>결혼과 – marriage and</title><link>urn:urn:vocab:결혼과</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>에이전트 – agent</title><link>urn:urn:vocab:에이전트</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1627161683077-e34782c24d81?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZ2VudHxlbnwwfHx8fDE3NzIwOTQ0Nzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="에이전트 (agent)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;‘네이버플러스 스토어’ 이용자들은‘쇼핑 인공지능 에이전트(AI 비서)’가 요약한 쇼핑 탐색 가이드 살펴보고(왼쪽), 인공지능 비서와의 대화를 통해 보다 상세한 쇼핑 탐색을 이어나갈 수 있다&lt;br/&gt;&lt;em&gt;Users of 'Naver Plus Store' can review shopping exploration guides summarized by the 'Shopping AI Agent (AI Assistant)' (left) and continue more detailed shopping exploration through conversations with the AI assistant.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(네이버가 인공지능(AI) 쇼핑 목적 등을 말하면 최적화 상품을 추천받을 수 있는 ‘쇼핑 인공지능 에이전트(비서)’를 선보인다&lt;br/&gt;&lt;em&gt;Naver introduces a 'Shopping AI Agent (Assistant)' that can recommend optimized products when users state their shopping purposes or other AI shopping objectives.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(네이버는 쇼핑 인공지능 비서가 상품 탐색부터 비교, 추천까지 최적의 성능을 낼 수 있도록 기능별 특화 인공지능(서브 에이전트)이 유기적으로 작동하도록 설계했다&lt;br/&gt;&lt;em&gt;Naver designed the shopping AI assistant so that specialized AI (sub-agents) for each function operate organically to deliver optimal performance from product exploration to comparison and recommendation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;에이전트가 일을 합니다.&lt;br/&gt;&lt;em&gt;The agent is working.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 에이전트를 만났어요.&lt;br/&gt;&lt;em&gt;I met the agent.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1627161683077-e34782c24d81?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZ2VudHxlbnwwfHx8fDE3NzIwOTQ0Nzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="에이전트 (agent)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;‘네이버플러스 스토어’ 이용자들은‘쇼핑 인공지능 에이전트(AI 비서)’가 요약한 쇼핑 탐색 가이드 살펴보고(왼쪽), 인공지능 비서와의 대화를 통해 보다 상세한 쇼핑 탐색을 이어나갈 수 있다&lt;br/&gt;&lt;em&gt;Users of 'Naver Plus Store' can review shopping exploration guides summarized by the 'Shopping AI Agent (AI Assistant)' (left) and continue more detailed shopping exploration through conversations with the AI assistant.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(네이버가 인공지능(AI) 쇼핑 목적 등을 말하면 최적화 상품을 추천받을 수 있는 ‘쇼핑 인공지능 에이전트(비서)’를 선보인다&lt;br/&gt;&lt;em&gt;Naver introduces a 'Shopping AI Agent (Assistant)' that can recommend optimized products when users state their shopping purposes or other AI shopping objectives.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(네이버는 쇼핑 인공지능 비서가 상품 탐색부터 비교, 추천까지 최적의 성능을 낼 수 있도록 기능별 특화 인공지능(서브 에이전트)이 유기적으로 작동하도록 설계했다&lt;br/&gt;&lt;em&gt;Naver designed the shopping AI assistant so that specialized AI (sub-agents) for each function operate organically to deliver optimal performance from product exploration to comparison and recommendation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;에이전트가 일을 합니다.&lt;br/&gt;&lt;em&gt;The agent is working.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 에이전트를 만났어요.&lt;br/&gt;&lt;em&gt;I met the agent.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 26 Feb 2026 17:28:10 +0900</pubDate><guid isPermaLink="false">vocab-91a25d367f67db47f27a28ea64f384034391ad99</guid><enclosure url="https://images.unsplash.com/photo-1627161683077-e34782c24d81?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZ2VudHxlbnwwfHx8fDE3NzIwOTQ0Nzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="215127" /><ns2:content url="https://images.unsplash.com/photo-1627161683077-e34782c24d81?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZ2VudHxlbnwwfHx8fDE3NzIwOTQ0Nzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1627161683077-e34782c24d81?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZ2VudHxlbnwwfHx8fDE3NzIwOTQ0Nzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>에이전트</category></item><item><title>결혼과 – marriage and</title><link>urn:urn:vocab:결혼과</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1629332792005-495fac74cfcf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJyaWFnZSUyMGFuZHxlbnwwfHx8fDE3NzIwNzgzODd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="결혼과 (marriage and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이철희 서울대 교수(경제학)는 “내년까지는 출생아 수가 늘 가능성은 있지만 장기적으로 지속할지는 불확실하다”며 “결혼과 출산을 어렵게 만드는 요인인 주거, 교육, 노동 등 문제를 완화하는 정책 개선이 이뤄져야 중장기적으로 (출산율 반등이) 이어질 수 있다”고 말했다&lt;br/&gt;&lt;em&gt;Professor Lee Cheol-hee of Seoul National University (Economics) said, 'There is a possibility that the number of births may increase until next year, but it is uncertain whether this will continue in the long term. For a mid- to long-term rebound in birth rates to be sustained, policy improvements that alleviate factors making marriage and childbirth difficult, such as housing, education, and labor issues, must be implemented.'&lt;/em&gt;&lt;/p&gt;
