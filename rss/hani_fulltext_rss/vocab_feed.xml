@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 11:32:08 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 16:25:17 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,27 @@
 
 
 
-  <item><title>농어촌 – farming and fishing villages</title><link>urn:urn:vocab:농어촌</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>강의실 – classroom</title><link>urn:urn:vocab:강의실</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb218ZW58MHx8fHwxNzcyMTc3MTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="강의실 (classroom)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Myongji University Holds Dedication Service and Plaque Unveiling Ceremony for 'Alumni Yoo Jae-song Memorial Lecture Hall' (명지대, ‘유재송 동문 기념 강의실’ 봉헌예배 및 현판식 개최) &lt;&lt;br/&gt;&lt;em&gt;Myongji University Holds Dedication Service and Plaque Unveiling Ceremony for 'Alumni Yoo Jae-song Memorial Lecture Hall'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;명지대 유재송기념강의실 현판식 (명지대학교 제공)&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Myongji University (President Lim Yeon-su) held the 'Alumni Yoo Jae-song Memorial Lecture Hall Dedication Service and Plaque Unveiling Ceremony' on Thursday, February 26th, in the tiered lecture hall (Room 10102) on the first floor of the MCC Building at the Humanities Campus&lt;br/&gt;&lt;em&gt;Myongji University (President Lim Yeon-su) held the 'Alumni Yoo Jae-song Memorial Lecture Hall Dedication Service and Plaque Unveiling Ceremony' on Thursday, February 26th, in the tiered lecture hall (Room 10102) on the first floor of the MCC Building at the Humanities Campus.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;강의실이 커요.&lt;br/&gt;&lt;em&gt;The classroom is big.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 강의실에 있어요.&lt;br/&gt;&lt;em&gt;I am in the classroom.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb218ZW58MHx8fHwxNzcyMTc3MTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="강의실 (classroom)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Myongji University Holds Dedication Service and Plaque Unveiling Ceremony for 'Alumni Yoo Jae-song Memorial Lecture Hall' (명지대, ‘유재송 동문 기념 강의실’ 봉헌예배 및 현판식 개최) &lt;&lt;br/&gt;&lt;em&gt;Myongji University Holds Dedication Service and Plaque Unveiling Ceremony for 'Alumni Yoo Jae-song Memorial Lecture Hall'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;명지대 유재송기념강의실 현판식 (명지대학교 제공)&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Myongji University (President Lim Yeon-su) held the 'Alumni Yoo Jae-song Memorial Lecture Hall Dedication Service and Plaque Unveiling Ceremony' on Thursday, February 26th, in the tiered lecture hall (Room 10102) on the first floor of the MCC Building at the Humanities Campus&lt;br/&gt;&lt;em&gt;Myongji University (President Lim Yeon-su) held the 'Alumni Yoo Jae-song Memorial Lecture Hall Dedication Service and Plaque Unveiling Ceremony' on Thursday, February 26th, in the tiered lecture hall (Room 10102) on the first floor of the MCC Building at the Humanities Campus.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;강의실이 커요.&lt;br/&gt;&lt;em&gt;The classroom is big.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 강의실에 있어요.&lt;br/&gt;&lt;em&gt;I am in the classroom.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 27 Feb 2026 16:25:17 +0900</pubDate><guid isPermaLink="false">vocab-8e4ae5b2aca9b0d0286e0dfc09b6fb14c96f07dd</guid><enclosure url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb218ZW58MHx8fHwxNzcyMTc3MTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="107853" /><ns2:content url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb218ZW58MHx8fHwxNzcyMTc3MTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb218ZW58MHx8fHwxNzcyMTc3MTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>강의실</category></item><item><title>농어촌 – farming and fishing villages</title><link>urn:urn:vocab:농어촌</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1752134587721-98ec6fb388dd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJtaW5nJTIwYW5kJTIwZmlzaGluZyUyMHZpbGxhZ2VzfGVufDB8fHx8MTc3MjE1OTUxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="농어촌 (farming and fishing villages)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Starting with Jangsu, Sunchang, and Yeongyang Counties (농어촌 기본소득 15만원 오늘 첫 지급…장수·순창·영양군부터) &lt;&lt;br/&gt;&lt;em&gt;Starting with Jangsu, Sunchang, and Yeongyang Counties (Rural basic income of 150,000 won first payment today... starting with Jangsu, Sunchang, and Yeongyang Counties)&lt;/em&gt;&lt;/p&gt;
