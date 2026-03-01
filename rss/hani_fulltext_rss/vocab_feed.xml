@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 05:42:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 10:20:04 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>학년을 – grade (in school)</title><link>urn:urn:vocab:학년을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>부정선거 – election fraud</title><link>urn:urn:vocab:부정선거</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598519308760-ea03e7d45e4a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGZyYXVkfGVufDB8fHx8MTc3MjMyNzk5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부정선거 (election fraud)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (한 전 대표는 이 전 위원장의 발언에 대해 이날 기자들이 묻자 “이진숙씨가 생각하는 윤어게인, 부정선거, 계엄, 탄핵에 관한 생각이 과연 대구의 정상적인 시민들의 생각인지 묻고 싶다&lt;br/&gt;&lt;em&gt;" (When reporters asked a former representative about former chairman's remarks that day, he said, 'I want to ask whether Lee Jin-sook's thoughts on Yoon's re-election, election fraud, martial law, and impeachment are truly the thoughts of normal citizens in Daegu.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (한 전 대표는 ‘장동혁 지도부’에 대해서는 “지금 당권파인 사람들은 철저하게 (유튜버) 고성국 등을 위시한 극단적으로 장사해 먹는, 컬트적으로 부정선거론과 윤어게인을 팔아서 장사해 먹는 이 집단들의 숙주로써 당선된 것”이라며 “그런 현실로는 지방선거는커녕 이 당은 존립도 어렵다”고 날을 세웠다&lt;br/&gt;&lt;em&gt;" (Regarding the 'Jang Dong-hyuk leadership', the former representative said, 'Those who are currently in the party leadership were elected as hosts for groups that thoroughly and cultishly sell election fraud theories and Yoon's re-election, led by extreme figures like YouTuber Go Seong-guk, to make a living. With such reality, this party cannot even exist, let alone win local elections.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (한 전 대표는 대구시장 출마를 선언한 이진숙 전 방송통신위원장이 자신을 겨냥해 “대구를 떠나라”고 언급한 데 대해선 “이진숙씨가 생각하는 윤어게인, 부정선거, 계엄, 탄핵에 관한 생각이 과연 대구의 정상적인 시민의 생각인지 묻고 싶다&lt;br/&gt;&lt;em&gt;" (Regarding former Korea Communications Commission chairman Lee Jin-sook, who declared her candidacy for Daegu mayor, targeting him by saying 'Leave Daegu', the former representative said, 'I want to ask whether Lee Jin-sook's thoughts on Yoon's re-election, election fraud, martial law, and impeachment are truly the thoughts of normal citizens in Daegu.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;부정선거는 나쁜 일입니다.&lt;br/&gt;&lt;em&gt;Election fraud is a bad thing.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부정선거를 하면 안 됩니다.&lt;br/&gt;&lt;em&gt;You should not commit election fraud.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598519308760-ea03e7d45e4a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGZyYXVkfGVufDB8fHx8MTc3MjMyNzk5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부정선거 (election fraud)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (한 전 대표는 이 전 위원장의 발언에 대해 이날 기자들이 묻자 “이진숙씨가 생각하는 윤어게인, 부정선거, 계엄, 탄핵에 관한 생각이 과연 대구의 정상적인 시민들의 생각인지 묻고 싶다&lt;br/&gt;&lt;em&gt;" (When reporters asked a former representative about former chairman's remarks that day, he said, 'I want to ask whether Lee Jin-sook's thoughts on Yoon's re-election, election fraud, martial law, and impeachment are truly the thoughts of normal citizens in Daegu.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (한 전 대표는 ‘장동혁 지도부’에 대해서는 “지금 당권파인 사람들은 철저하게 (유튜버) 고성국 등을 위시한 극단적으로 장사해 먹는, 컬트적으로 부정선거론과 윤어게인을 팔아서 장사해 먹는 이 집단들의 숙주로써 당선된 것”이라며 “그런 현실로는 지방선거는커녕 이 당은 존립도 어렵다”고 날을 세웠다&lt;br/&gt;&lt;em&gt;" (Regarding the 'Jang Dong-hyuk leadership', the former representative said, 'Those who are currently in the party leadership were elected as hosts for groups that thoroughly and cultishly sell election fraud theories and Yoon's re-election, led by extreme figures like YouTuber Go Seong-guk, to make a living. With such reality, this party cannot even exist, let alone win local elections.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (한 전 대표는 대구시장 출마를 선언한 이진숙 전 방송통신위원장이 자신을 겨냥해 “대구를 떠나라”고 언급한 데 대해선 “이진숙씨가 생각하는 윤어게인, 부정선거, 계엄, 탄핵에 관한 생각이 과연 대구의 정상적인 시민의 생각인지 묻고 싶다&lt;br/&gt;&lt;em&gt;" (Regarding former Korea Communications Commission chairman Lee Jin-sook, who declared her candidacy for Daegu mayor, targeting him by saying 'Leave Daegu', the former representative said, 'I want to ask whether Lee Jin-sook's thoughts on Yoon's re-election, election fraud, martial law, and impeachment are truly the thoughts of normal citizens in Daegu.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;부정선거는 나쁜 일입니다.&lt;br/&gt;&lt;em&gt;Election fraud is a bad thing.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부정선거를 하면 안 됩니다.&lt;br/&gt;&lt;em&gt;You should not commit election fraud.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 01 Mar 2026 10:20:04 +0900</pubDate><guid isPermaLink="false">vocab-ee761abf1a027e3f5127f3822ef6413618484ce4</guid><enclosure url="https://images.unsplash.com/photo-1598519308760-ea03e7d45e4a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGZyYXVkfGVufDB8fHx8MTc3MjMyNzk5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="96030" /><ns2:content url="https://images.unsplash.com/photo-1598519308760-ea03e7d45e4a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGZyYXVkfGVufDB8fHx8MTc3MjMyNzk5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1598519308760-ea03e7d45e4a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGZyYXVkfGVufDB8fHx8MTc3MjMyNzk5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>부정선거</category></item><item><title>학년을 – grade (in school)</title><link>urn:urn:vocab:학년을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742549586702-c23994895082?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxncmFkZSUyMCUyOGluJTIwc2Nob29sJTI5fGVufDB8fHx8MTc3MjMxMTM0NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학년을 (grade (in school))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;유아부터 중학교 2학년을 대상으로 하는 ‘미래인재 과학교실’은 1월6일부터 3주간 운영된다&lt;br/&gt;&lt;em&gt;The 'Future Talent Science Classroom' for children from infancy to second grade of middle school will operate for three weeks starting January 6th.&lt;/em&gt;&lt;/p&gt;
