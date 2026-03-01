@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 10:20:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 14:42:20 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>부정선거 – election fraud</title><link>urn:urn:vocab:부정선거</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>시민이 – citizen</title><link>urn:urn:vocab:시민이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1494172961521-33799ddd43a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaXRpemVufGVufDB8fHx8MTc3MjM0MzczMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시민이 (citizen)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김영배 국회의원은 환영사에서 “시민이 주인이 되는 ‘마을의 시대’가 되기 위해서는 시민의 삶터인 지역에 공동체 자산이 많이 만들어져야 한다”며 “지역 자산화 관련 상위 법률이 없는 상황에서, 국회가 지자체와 지역 자산의 근간을 만들도록 노력하겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;Assemblyman Kim Young-bae stated in his welcoming address, 'For the era of the village where citizens are the masters to come, many community assets must be created in the regions where citizens live,' and added, 'In the absence of higher-level laws related to regional assetization, the National Assembly will strive to establish the foundation for local governments and regional assets.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이와 관련, 핌피바이러스는 해마다 봄과 가을에 임시보호견과 입양에 관심 있는 시민이 한자리에 만날 수 있는 ‘입양제’를 개최한다&lt;br/&gt;&lt;em&gt;(In this regard, Pimpi Virus holds an 'Adoption Festival' every spring and fall, where temporary shelter dogs and citizens interested in adoption can gather in one place.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;강동외국인지원센터와 협력해 다문화 시민이 함께 참여할 수 있는 눈사람 제작 원데이 클래스도 참여해볼 만하다&lt;br/&gt;&lt;em&gt;It is also worth participating in a one-day snowman-making class that multicultural citizens can join together, in cooperation with the Gangdong Foreigner Support Center.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;시민이 길을 건넜어요.&lt;br/&gt;&lt;em&gt;The citizen crossed the street.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시민이 공원에 갔어요.&lt;br/&gt;&lt;em&gt;The citizen went to the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1494172961521-33799ddd43a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaXRpemVufGVufDB8fHx8MTc3MjM0MzczMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시민이 (citizen)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김영배 국회의원은 환영사에서 “시민이 주인이 되는 ‘마을의 시대’가 되기 위해서는 시민의 삶터인 지역에 공동체 자산이 많이 만들어져야 한다”며 “지역 자산화 관련 상위 법률이 없는 상황에서, 국회가 지자체와 지역 자산의 근간을 만들도록 노력하겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;Assemblyman Kim Young-bae stated in his welcoming address, 'For the era of the village where citizens are the masters to come, many community assets must be created in the regions where citizens live,' and added, 'In the absence of higher-level laws related to regional assetization, the National Assembly will strive to establish the foundation for local governments and regional assets.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이와 관련, 핌피바이러스는 해마다 봄과 가을에 임시보호견과 입양에 관심 있는 시민이 한자리에 만날 수 있는 ‘입양제’를 개최한다&lt;br/&gt;&lt;em&gt;(In this regard, Pimpi Virus holds an 'Adoption Festival' every spring and fall, where temporary shelter dogs and citizens interested in adoption can gather in one place.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;강동외국인지원센터와 협력해 다문화 시민이 함께 참여할 수 있는 눈사람 제작 원데이 클래스도 참여해볼 만하다&lt;br/&gt;&lt;em&gt;It is also worth participating in a one-day snowman-making class that multicultural citizens can join together, in cooperation with the Gangdong Foreigner Support Center.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;시민이 길을 건넜어요.&lt;br/&gt;&lt;em&gt;The citizen crossed the street.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시민이 공원에 갔어요.&lt;br/&gt;&lt;em&gt;The citizen went to the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 01 Mar 2026 14:42:20 +0900</pubDate><guid isPermaLink="false">vocab-fdf1783e97acf5893b5228057211a3c1f17219c0</guid><enclosure url="https://images.unsplash.com/photo-1494172961521-33799ddd43a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaXRpemVufGVufDB8fHx8MTc3MjM0MzczMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="113609" /><ns2:content url="https://images.unsplash.com/photo-1494172961521-33799ddd43a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaXRpemVufGVufDB8fHx8MTc3MjM0MzczMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1494172961521-33799ddd43a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaXRpemVufGVufDB8fHx8MTc3MjM0MzczMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>시민이</category></item><item><title>부정선거 – election fraud</title><link>urn:urn:vocab:부정선거</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598519308760-ea03e7d45e4a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGZyYXVkfGVufDB8fHx8MTc3MjMyNzk5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부정선거 (election fraud)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (한 전 대표는 이 전 위원장의 발언에 대해 이날 기자들이 묻자 “이진숙씨가 생각하는 윤어게인, 부정선거, 계엄, 탄핵에 관한 생각이 과연 대구의 정상적인 시민들의 생각인지 묻고 싶다&lt;br/&gt;&lt;em&gt;" (When reporters asked a former representative about former chairman's remarks that day, he said, 'I want to ask whether Lee Jin-sook's thoughts on Yoon's re-election, election fraud, martial law, and impeachment are truly the thoughts of normal citizens in Daegu.'&lt;/em&gt;&lt;/p&gt;
