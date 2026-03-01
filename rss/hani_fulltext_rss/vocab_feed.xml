@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 18:58:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 23:03:07 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>매물이 – property for sale</title><link>urn:urn:vocab:매물이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>전세계 – worldwide</title><link>urn:urn:vocab:전세계</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1576185850227-1f72b7f8d483?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JsZHdpZGV8ZW58MHx8fHwxNzcyMzczNzc3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전세계 (worldwide)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;구글 지도 서비스는 전세계 20억명의 이용자에게 80여개의 언어로 제공되고 있는 전세계 1위 지도 서비스인만큼 관광객의 편리함이 늘어날 것으로 기대된다&lt;br/&gt;&lt;em&gt;Google Maps, the world's top map service used by 2 billion users in over 80 languages, is expected to increase convenience for tourists.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;구글 지도는 전세계 20억명의 이용자에게 80여개의 언어로 제공되고 있는 1위 서비스인 만큼 해외 관광객들이 익숙한 지도 서비스를 사용해 ‘길 찾기’ 등의 필수적인 기능을 사용할 수 있게 된다&lt;br/&gt;&lt;em&gt;As Google Maps is the top service used by 2 billion users worldwide in over 80 languages, foreign tourists can use familiar map services for essential functions like 'navigation'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(로이터통신에 따르면 지난해 11월 이후 인공지능 관련 전세계 감원규모는 6만1천건 이상이다&lt;br/&gt;&lt;em&gt;(According to Reuters, since November last year, global layoffs related to artificial intelligence have exceeded 61,000 cases.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전세계 사람들이 모였어요.&lt;br/&gt;&lt;em&gt;People from all over the world gathered.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전세계 날씨가 따뜻해요.&lt;br/&gt;&lt;em&gt;The weather is warm all over the world.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1576185850227-1f72b7f8d483?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JsZHdpZGV8ZW58MHx8fHwxNzcyMzczNzc3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전세계 (worldwide)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;구글 지도 서비스는 전세계 20억명의 이용자에게 80여개의 언어로 제공되고 있는 전세계 1위 지도 서비스인만큼 관광객의 편리함이 늘어날 것으로 기대된다&lt;br/&gt;&lt;em&gt;Google Maps, the world's top map service used by 2 billion users in over 80 languages, is expected to increase convenience for tourists.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;구글 지도는 전세계 20억명의 이용자에게 80여개의 언어로 제공되고 있는 1위 서비스인 만큼 해외 관광객들이 익숙한 지도 서비스를 사용해 ‘길 찾기’ 등의 필수적인 기능을 사용할 수 있게 된다&lt;br/&gt;&lt;em&gt;As Google Maps is the top service used by 2 billion users worldwide in over 80 languages, foreign tourists can use familiar map services for essential functions like 'navigation'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(로이터통신에 따르면 지난해 11월 이후 인공지능 관련 전세계 감원규모는 6만1천건 이상이다&lt;br/&gt;&lt;em&gt;(According to Reuters, since November last year, global layoffs related to artificial intelligence have exceeded 61,000 cases.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전세계 사람들이 모였어요.&lt;br/&gt;&lt;em&gt;People from all over the world gathered.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전세계 날씨가 따뜻해요.&lt;br/&gt;&lt;em&gt;The weather is warm all over the world.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 01 Mar 2026 23:03:07 +0900</pubDate><guid isPermaLink="false">vocab-13cb15f40edfb7feae375ab8b9079025fa7c49a5</guid><enclosure url="https://images.unsplash.com/photo-1576185850227-1f72b7f8d483?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JsZHdpZGV8ZW58MHx8fHwxNzcyMzczNzc3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="96357" /><ns2:content url="https://images.unsplash.com/photo-1576185850227-1f72b7f8d483?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JsZHdpZGV8ZW58MHx8fHwxNzcyMzczNzc3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1576185850227-1f72b7f8d483?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JsZHdpZGV8ZW58MHx8fHwxNzcyMzczNzc3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>전세계</category></item><item><title>매물이 – property for sale</title><link>urn:urn:vocab:매물이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eSUyMGZvciUyMHNhbGV8ZW58MHx8fHwxNzcyMzU5MDcyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="매물이 (property for sale)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;어떤 지역, 어떤 가격대에서 매물이 집중적으로 늘고 있는지도 궁금합니다&lt;br/&gt;&lt;em&gt;I'm also curious about which regions and price ranges are seeing a concentrated increase in listings.&lt;/em&gt;&lt;/p&gt;
