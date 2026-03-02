@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 20:04:01 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 00:22:13 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>방문을 – visit</title><link>urn:urn:vocab:방문을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>통합 – integration/unification</title><link>urn:urn:vocab:통합</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1741615331533-2360157c55aa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRlZ3JhdGlvbiUyRnVuaWZpY2F0aW9ufGVufDB8fHx8MTc3MjQ2NDkyMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="통합 (integration/unification)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (리얼미터는 “금융·수출 등 경제 지표가 비교적 양호했지만, 행정통합 과정에서의 지역 형평성 논란과 촉법소년 연령 하향 공론화 등 사회적 갈등 이슈가 부각되며 6주 만에 소폭 하락했다”고 분석했다&lt;br/&gt;&lt;em&gt;Real Meter analyzed, "Although economic indicators such as finance and exports were relatively favorable, social conflict issues such as regional equity controversies in the administrative integration process and the public discussion of lowering the age of juvenile offenders became prominent, leading to a slight decline after six weeks."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;People Power Party: "Even today, open a one-point judiciary committee meeting and process the TK integration law" (국힘 “오늘이라도 원포인트 법사위 열어 TK통합법 처리해야”) &lt;&lt;br/&gt;&lt;em&gt;People Power Party: "Even today, open a one-point judiciary committee meeting and process the TK integration law"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;People Power Party: "Even today, open a one-point judiciary committee meeting and process the TK integration law" (국힘 “오늘이라도 원포인트 법사위 열어 TK통합법 처리해야”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;People Power Party: "Even today, open a one-point judiciary committee meeting and process the TK integration law" (The HTML tag and image source are not translated as they are not Korean sentences.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;통합은 중요합니다.&lt;br/&gt;&lt;em&gt;Integration is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 통합을 원합니다.&lt;br/&gt;&lt;em&gt;We want integration.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1741615331533-2360157c55aa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRlZ3JhdGlvbiUyRnVuaWZpY2F0aW9ufGVufDB8fHx8MTc3MjQ2NDkyMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="통합 (integration/unification)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (리얼미터는 “금융·수출 등 경제 지표가 비교적 양호했지만, 행정통합 과정에서의 지역 형평성 논란과 촉법소년 연령 하향 공론화 등 사회적 갈등 이슈가 부각되며 6주 만에 소폭 하락했다”고 분석했다&lt;br/&gt;&lt;em&gt;Real Meter analyzed, "Although economic indicators such as finance and exports were relatively favorable, social conflict issues such as regional equity controversies in the administrative integration process and the public discussion of lowering the age of juvenile offenders became prominent, leading to a slight decline after six weeks."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;People Power Party: "Even today, open a one-point judiciary committee meeting and process the TK integration law" (국힘 “오늘이라도 원포인트 법사위 열어 TK통합법 처리해야”) &lt;&lt;br/&gt;&lt;em&gt;People Power Party: "Even today, open a one-point judiciary committee meeting and process the TK integration law"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;People Power Party: "Even today, open a one-point judiciary committee meeting and process the TK integration law" (국힘 “오늘이라도 원포인트 법사위 열어 TK통합법 처리해야”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;People Power Party: "Even today, open a one-point judiciary committee meeting and process the TK integration law" (The HTML tag and image source are not translated as they are not Korean sentences.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;통합은 중요합니다.&lt;br/&gt;&lt;em&gt;Integration is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 통합을 원합니다.&lt;br/&gt;&lt;em&gt;We want integration.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 03 Mar 2026 00:22:13 +0900</pubDate><guid isPermaLink="false">vocab-93f667acd64d4c40d62db1433382a11b47029650</guid><enclosure url="https://images.unsplash.com/photo-1741615331533-2360157c55aa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRlZ3JhdGlvbiUyRnVuaWZpY2F0aW9ufGVufDB8fHx8MTc3MjQ2NDkyMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="96403" /><ns2:content url="https://images.unsplash.com/photo-1741615331533-2360157c55aa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRlZ3JhdGlvbiUyRnVuaWZpY2F0aW9ufGVufDB8fHx8MTc3MjQ2NDkyMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1741615331533-2360157c55aa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRlZ3JhdGlvbiUyRnVuaWZpY2F0aW9ufGVufDB8fHx8MTc3MjQ2NDkyMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>통합</category></item><item><title>방문을 – visit</title><link>urn:urn:vocab:방문을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1652064132685-5f34e653220b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aXNpdHxlbnwwfHx8fDE3NzI0NDk0Mjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방문을 (visit)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(싱가포르는 이날 오전 싱가포르 외교부에서 이 대통령 부부의 국빈 방문을 맞이하는 공식 환영식을 개최했다&lt;br/&gt;&lt;em&gt;Singapore held an official welcoming ceremony at the Ministry of Foreign Affairs this morning to greet the President and First Lady on their state visit.&lt;/em&gt;&lt;/p&gt;
