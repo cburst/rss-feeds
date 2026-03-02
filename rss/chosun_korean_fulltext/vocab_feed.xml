@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 15:50:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 20:04:01 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>도자기 – porcelain</title><link>urn:urn:vocab:도자기</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>방문을 – visit</title><link>urn:urn:vocab:방문을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1652064132685-5f34e653220b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aXNpdHxlbnwwfHx8fDE3NzI0NDk0Mjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방문을 (visit)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(싱가포르는 이날 오전 싱가포르 외교부에서 이 대통령 부부의 국빈 방문을 맞이하는 공식 환영식을 개최했다&lt;br/&gt;&lt;em&gt;Singapore held an official welcoming ceremony at the Ministry of Foreign Affairs this morning to greet the President and First Lady on their state visit.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “제가 오래전 성남시장으로 일할 때부터 싱가포르의 부동산 정책에 각별한 관심이 있었는데, 이번 방문을 계기로 싱가포르의 부동산 정책도 많이 배워가야 할 것 같다”고 했다&lt;br/&gt;&lt;em&gt;President Lee said, 'I have had a special interest in Singapore's real estate policies since I worked as the mayor of Seongnam long ago, and I think I should learn a lot about Singapore's real estate policies through this visit.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (외교부는 “해당 지역을 방문 예정인 국민들께서는 방문을 취소하거나 연기해 주시기를 바라며, 동 지역에 체류 중인 국민들께서는 안전한 지역으로 이동해 주시기를 바란다”고 했다&lt;br/&gt;&lt;em&gt;The Ministry of Foreign Affairs said, 'We ask citizens planning to visit the area to cancel or postpone their visits, and we ask citizens staying in the area to move to a safe area.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 친구를 방문을 했어요.&lt;br/&gt;&lt;em&gt;I visited a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 공원을 방문을 갔어요.&lt;br/&gt;&lt;em&gt;We went to visit the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1652064132685-5f34e653220b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aXNpdHxlbnwwfHx8fDE3NzI0NDk0Mjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방문을 (visit)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(싱가포르는 이날 오전 싱가포르 외교부에서 이 대통령 부부의 국빈 방문을 맞이하는 공식 환영식을 개최했다&lt;br/&gt;&lt;em&gt;Singapore held an official welcoming ceremony at the Ministry of Foreign Affairs this morning to greet the President and First Lady on their state visit.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “제가 오래전 성남시장으로 일할 때부터 싱가포르의 부동산 정책에 각별한 관심이 있었는데, 이번 방문을 계기로 싱가포르의 부동산 정책도 많이 배워가야 할 것 같다”고 했다&lt;br/&gt;&lt;em&gt;President Lee said, 'I have had a special interest in Singapore's real estate policies since I worked as the mayor of Seongnam long ago, and I think I should learn a lot about Singapore's real estate policies through this visit.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (외교부는 “해당 지역을 방문 예정인 국민들께서는 방문을 취소하거나 연기해 주시기를 바라며, 동 지역에 체류 중인 국민들께서는 안전한 지역으로 이동해 주시기를 바란다”고 했다&lt;br/&gt;&lt;em&gt;The Ministry of Foreign Affairs said, 'We ask citizens planning to visit the area to cancel or postpone their visits, and we ask citizens staying in the area to move to a safe area.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 친구를 방문을 했어요.&lt;br/&gt;&lt;em&gt;I visited a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 공원을 방문을 갔어요.&lt;br/&gt;&lt;em&gt;We went to visit the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 02 Mar 2026 20:04:01 +0900</pubDate><guid isPermaLink="false">vocab-e4953ece977db91115b2b48639ad0aa2a6fb03ee</guid><enclosure url="https://images.unsplash.com/photo-1652064132685-5f34e653220b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aXNpdHxlbnwwfHx8fDE3NzI0NDk0Mjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="94894" /><ns2:content url="https://images.unsplash.com/photo-1652064132685-5f34e653220b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aXNpdHxlbnwwfHx8fDE3NzI0NDk0Mjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1652064132685-5f34e653220b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aXNpdHxlbnwwfHx8fDE3NzI0NDk0Mjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>방문을</category></item><item><title>도자기 – porcelain</title><link>urn:urn:vocab:도자기</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598548420253-63d6a327df2d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb3JjZWxhaW58ZW58MHx8fHwxNzcyNDM0MTk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="도자기 (porcelain)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Lee Gifts Singapore PM with Korean Men's Cosmetics and Porcelain Plate Set (李, 싱가폴 총리에 한국 남성 화장품, 도자기 접시 세트 선물) &lt;&lt;br/&gt;&lt;em&gt;Lee Gifts Singapore PM with Korean Men's Cosmetics and Porcelain Plate Set&lt;/em&gt;&lt;/p&gt;
