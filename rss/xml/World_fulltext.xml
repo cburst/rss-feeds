@@ -1,110 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/World_fulltext.xml</link><description>Full-text NYT World articles (last 24 h)</description><atom:link href="file:///Users/purp/Downloads/translator/xml/World_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 02 Mar 2026 01:46:39 +0000</lastBuildDate><item><title>Iran Says Dozens Are Killed in Strike on School</title><link>https://www.nytimes.com/2026/02/28/world/middleeast/iran-school-strike-us-israel.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/02/28/28vid-iran-school-hit-33363-cover/28vid-iran-school-hit-33363-cover-mediumSquareAt3X.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The strike on an elementary school in the southern Iran town of Minab was one of two attacks that appear to have hit schools during U.S. and Israeli strikes on Iran on Saturday.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/02/28/world/middleeast/iran-school-strike-us-israel.html</guid><pubDate>Sun, 01 Mar 2026 05:21:04 +0000</pubDate></item><item><title>Maps: Where the U.S.-Led Strikes Hit Iran and Tehran’s Retaliation</title><link>https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/02/28/multimedia/2026-01-28-iran-new-strikes-index/2026-01-28-iran-new-strikes-index-mediumSquareAt3X-v32.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Maps show where U.S. and Israel have struck Iran, and where Iran has retaliated.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html</guid><pubDate>Sun, 01 Mar 2026 15:29:46 +0000</pubDate></item><item><title>Middle East Airspace Closes as U.S.-Israeli Strikes Hit Iran</title><link>https://www.nytimes.com/2026/02/28/world/middleeast/middle-east-airport-closures-emirates-qatar.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/02/28/multimedia/28iran-flights-jcfk/28iran-flights-jcfk-mediumSquareAt3X.jpg" alt="Article image"/&gt;&lt;/p&gt;
-The check-in desk for Emirates airline at London Gatwick Airport on Saturday. The airline announced that all operations to and from Dubai had been paused.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/02/28/world/middleeast/middle-east-airport-closures-emirates-qatar.html</guid><pubDate>Sun, 01 Mar 2026 11:15:06 +0000</pubDate></item><item><title>Diagramming the Blows to Iran’s Leadership</title><link>https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/01/multimedia/2026-02-28-iran-leadership-index/2026-02-28-iran-leadership-index-facebookJumbo.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Killed&lt;/p&gt;
-&lt;p&gt;Ali Khamenei&lt;/p&gt;
-&lt;p&gt;Supreme leader&lt;/p&gt;
-&lt;p&gt;INNER CIRCLE&lt;/p&gt;
-&lt;p&gt;DEFENSE&lt;/p&gt;
-&lt;p&gt;OTHER LEADERS&lt;/p&gt;
-&lt;p&gt;Ali Shamkhani&lt;/p&gt;
-&lt;p&gt;Head of National Defense Council&lt;/p&gt;
-&lt;p&gt;Masoud&lt;/p&gt;
-&lt;p&gt;Pezeshkian&lt;/p&gt;
-&lt;p&gt;President&lt;/p&gt;
-&lt;p&gt;Ali Larijani&lt;/p&gt;
-&lt;p&gt;Secretary of&lt;/p&gt;
-&lt;p&gt;Supreme National Security&lt;/p&gt;
-&lt;p&gt;Council&lt;/p&gt;
-&lt;p&gt;Killed, according&lt;/p&gt;
-&lt;p&gt;to Israel&lt;/p&gt;
-&lt;p&gt;Mohammad Pakpour&lt;/p&gt;
-&lt;p&gt;Commander in chief of IRGC&lt;/p&gt;
-&lt;p&gt;Amir&lt;/p&gt;
-&lt;p&gt;Nasirzadeh&lt;/p&gt;
-&lt;p&gt;Defense&lt;/p&gt;
-&lt;p&gt;minister&lt;/p&gt;
-&lt;p&gt;Gholam-Hossein&lt;/p&gt;
-&lt;p&gt;Mohseni-Ejei&lt;/p&gt;
-&lt;p&gt;Head of the&lt;/p&gt;
-&lt;p&gt;Judiciary&lt;/p&gt;
-&lt;p&gt;Yahya Rahim Safavi&lt;/p&gt;
-&lt;p&gt;Senior aide&lt;/p&gt;
-&lt;p&gt;Majid Khademi&lt;/p&gt;
-&lt;p&gt;Head of Intelligence of IRGC&lt;/p&gt;
-&lt;p&gt;Mohammad-Ali&lt;/p&gt;
-&lt;p&gt;Movahedi&lt;/p&gt;
-&lt;p&gt;Head of Iran's&lt;/p&gt;
-&lt;p&gt;Assembly&lt;/p&gt;
-&lt;p&gt;of Experts&lt;/p&gt;
-&lt;p&gt;Esmail Qaani&lt;/p&gt;
-&lt;p&gt;IRGC's Quds&lt;/p&gt;
-&lt;p&gt;Force commander&lt;/p&gt;
-&lt;p&gt;Ali Asghar Hejazi&lt;/p&gt;
-&lt;p&gt;Senior aide&lt;/p&gt;
-&lt;p&gt;Mohammad Bagher Ghalibaf&lt;/p&gt;
-&lt;p&gt;Parliament speaker&lt;/p&gt;
-&lt;p&gt;Amir Hatami&lt;/p&gt;
-&lt;p&gt;Commander&lt;/p&gt;
-&lt;p&gt;in chief of the army&lt;/p&gt;
-&lt;p&gt;Killed&lt;/p&gt;
-&lt;p&gt;Ali Khamenei&lt;/p&gt;
-&lt;p&gt;Supreme leader&lt;/p&gt;
-&lt;p&gt;DEFENSE&lt;/p&gt;
-&lt;p&gt;Killed,&lt;/p&gt;
-&lt;p&gt;according&lt;/p&gt;
-&lt;p&gt;to Israel&lt;/p&gt;
-&lt;p&gt;INNER CIRCLE&lt;/p&gt;
-&lt;p&gt;OTHER LEADERS&lt;/p&gt;
-&lt;p&gt;Ali Shamkhani&lt;/p&gt;
-&lt;p&gt;Head of National Defense Council&lt;/p&gt;
-&lt;p&gt;Masoud&lt;/p&gt;
-&lt;p&gt;Pezeshkian&lt;/p&gt;
-&lt;p&gt;President&lt;/p&gt;
-&lt;p&gt;Ali Larijani&lt;/p&gt;
-&lt;p&gt;Secretary of Supreme National Security Council&lt;/p&gt;
-&lt;p&gt;Mohammad Pakpour&lt;/p&gt;
-&lt;p&gt;Commander in chief of IRGC&lt;/p&gt;
-&lt;p&gt;Amir&lt;/p&gt;
-&lt;p&gt;Nasirzadeh&lt;/p&gt;
-&lt;p&gt;Defense&lt;/p&gt;
-&lt;p&gt;minister&lt;/p&gt;
-&lt;p&gt;Yahya Rahim Safavi&lt;/p&gt;
-&lt;p&gt;Senior aide&lt;/p&gt;
-&lt;p&gt;Majid Khademi&lt;/p&gt;
-&lt;p&gt;Head of Intelligence of IRGC&lt;/p&gt;
-&lt;p&gt;Gholam-Hossein&lt;/p&gt;
-&lt;p&gt;Mohseni-Ejei&lt;/p&gt;
-&lt;p&gt;Head of the Judiciary&lt;/p&gt;
-&lt;p&gt;Esmail Qaani&lt;/p&gt;
-&lt;p&gt;IRGC's Quds&lt;/p&gt;
-&lt;p&gt;Force commander&lt;/p&gt;
-&lt;p&gt;Ali Asghar Hejazi&lt;/p&gt;
-&lt;p&gt;Senior aide&lt;/p&gt;
-&lt;p&gt;Mohammad-Ali&lt;/p&gt;
-&lt;p&gt;Movahedi&lt;/p&gt;
-&lt;p&gt;Head of Iran's&lt;/p&gt;
-&lt;p&gt;Assembly&lt;/p&gt;
-&lt;p&gt;of Experts&lt;/p&gt;
-&lt;p&gt;Mohammad Bagher Ghalibaf&lt;/p&gt;
-&lt;p&gt;Parliament speaker&lt;/p&gt;
-&lt;p&gt;Amir Hatami&lt;/p&gt;
-&lt;p&gt;Commander&lt;/p&gt;
-&lt;p&gt;in chief of the army&lt;/p&gt;
-&lt;p&gt;Samuel Granados/The New York Times&lt;/p&gt;
-&lt;p&gt;The supreme leader of Iran, Ayatollah Ali Khamenei, was killed on Saturday during a coordinated strike by Israel and the United States, President Trump announced in a social media post. The Ayatollah’s death was confirmed by Iranian state news media several hours later. The attack also killed several high-ranking members of Iran’s security leadership.&lt;/p&gt;
-&lt;p&gt;Three top officials — Gen. Mohammad Pakpour, Gen. Aziz Nasrizadeh and Ali Shamkhani — were among those killed, according to an Israeli military spokesman. Here is a look at some key members of Iran’s theocratic regime.&lt;/p&gt;
-&lt;p&gt;Aaron Boxerman and Farnaz Fassihi contributed reporting.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html</guid><pubDate>Sun, 01 Mar 2026 04:02:13 +0000</pubDate></item><item><title>Shipping Traffic Through Strait of Hormuz Plummets After Attacks on Iran</title><link>https://www.nytimes.com/2026/02/28/world/middleeast/strait-of-hormuz-ship-traffic.html</link><description>&lt;![CDATA[
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/World_fulltext.xml</link><description>Full-text NYT World articles (last 24 h)</description><atom:link href="file:///Users/purp/Downloads/translator/xml/World_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 02 Mar 2026 05:57:47 +0000</lastBuildDate><item><title>Shipping Traffic Through Strait of Hormuz Plummets After Attacks on Iran</title><link>https://www.nytimes.com/2026/02/28/world/middleeast/strait-of-hormuz-ship-traffic.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/02/28/arts/VI-SoH_02-00910/VI-SoH_02-00910--facebookJumbo.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Commercial ship traffic through the Strait of Hormuz, a narrow waterway on Iran’s southern border connecting the Persian Gulf to the Gulf of Oman and one of the world’s most vital maritime arteries, slowed sharply on Saturday after strikes by the United States and Israel on Iran, according to industry experts and maritime data analyzed by The New York Times.&lt;/p&gt;
 &lt;p&gt;The ship-tracking platform MarineTraffic showed a 70 percent drop in vessel traffic through the Strait of Hormuz, as of late evening in Iran, according to Dimitris Ampatzidis, a senior risk and compliance analyst at Kpler, MarineTraffic’s parent company. The majority of vessels in the area had done U-turns, diverted to alternative routes or begun idling in the Gulf of Oman, he added.&lt;/p&gt;
@@ -230,7 +125,10 @@ The check-in desk for Emirates airline at London Gatwick Airport on Saturday. Th
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html</guid><pubDate>Sun, 01 Mar 2026 07:01:23 +0000</pubDate></item><item><title>Trump Stays Out of Public View After U.S. Launches Military Assault on Iran</title><link>https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/28/multimedia/28dc-trump-hvqc/28dc-trump-hvqc-mediumSquareAt3X.jpg" alt="Article image"/&gt;&lt;/p&gt;
 President Trump arriving in Palm Beach, Fla., on Friday.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html</guid><pubDate>Sun, 01 Mar 2026 16:30:16 +0000</pubDate></item><item><title>Ayatollah Ali Khamenei</title><link>https://www.nytimes.com/2026/03/01/world/middleeast/ayatollah-ali-khamenei.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html</guid><pubDate>Sun, 01 Mar 2026 16:30:16 +0000</pubDate></item><item><title>The C.I.A. Helped Pinpoint a Gathering of Iranian Leaders. Then Israel Struck.</title><link>https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/02/28/multimedia/28dc-targeting-satimage-wqvm/28dc-targeting-satimage-wqvm-mediumSquareAt3X.jpg" alt="Article image"/&gt;&lt;/p&gt;
+A satellite image shows black smoke rising and heavy damage at the compound of Iran’s supreme leader, Ayatollah Ali Khamenei.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html</guid><pubDate>Sun, 01 Mar 2026 06:49:05 +0000</pubDate></item><item><title>Ayatollah Ali Khamenei</title><link>https://www.nytimes.com/2026/03/01/world/middleeast/ayatollah-ali-khamenei.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/02/28/world/00Int-Khameni-Photos-01/00Int-Khameni-Photos-facebookJumbo.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;For more than three decades, Ayatollah Ali Khamenei ruled Iran with a steady glare and a closed fist. He was killed in U.S.-Israeli strikes on Iran on Saturday.&lt;/p&gt;
 &lt;p&gt;Ayatollah Khamenei, the Islamic Republic’s second supreme leader, hardened the revolution beyond the vision of its founder, Ayatollah Ruhollah Khomeini, who held power for a decade. He blocked reform, dismissed protests as Western “sedition,” and answered unrest with arrests and executions. The ayatollah, who was 86 at his death, also strengthened the Islamic Revolutionary Guards Corps, using its intelligence arm to police the streets and silence critics.&lt;/p&gt;
@@ -279,7 +177,10 @@ President Trump arriving in Palm Beach, Fla., on Friday.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/01/world/middleeast/ayatollah-ali-khamenei.html</guid><pubDate>Sun, 01 Mar 2026 06:43:23 +0000</pubDate></item><item><title>Israel launches new military strikes as Iran retaliates after Khamenei’s killing.</title><link>https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/israel-launches-new-military-strikes-as-iran-retaliates-after-khameneis-killing</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/28/multimedia/28iran-new-strikes-lkbj/28iran-new-strikes-lkbj-mediumSquareAt3X.jpg" alt="Article image"/&gt;&lt;/p&gt;
 People taking shelter in Tel Aviv on Sunday as air-raid sirens warned of another Iranian missile and drone attack.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/israel-launches-new-military-strikes-as-iran-retaliates-after-khameneis-killing</guid><pubDate>Sun, 01 Mar 2026 06:31:00 +0000</pubDate></item><item><title>Live Updates: Iran Vows to Avenge Leader’s Death as Strikes Continue</title><link>https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/the-us-israeli-attacks-have-killed-a-number-of-iranian-leaders</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/israel-launches-new-military-strikes-as-iran-retaliates-after-khameneis-killing</guid><pubDate>Sun, 01 Mar 2026 06:31:00 +0000</pubDate></item><item><title>Why Diplomacy Was Doomed: Trump’s Issue Was Iran’s Leadership Itself</title><link>https://www.nytimes.com/2026/03/01/us/politics/iran-trump-diplomacy-fail.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/01/multimedia/01dc-diplo-fail1-qgtl/01dc-diplo-fail1-qgtl-mediumSquareAt3X.jpg" alt="Article image"/&gt;&lt;/p&gt;
+The “radical Shia clerics” leading Iran could not be trusted, Secretary of State Marco Rubio said in recent weeks.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/01/us/politics/iran-trump-diplomacy-fail.html</guid><pubDate>Sun, 01 Mar 2026 18:25:38 +0000</pubDate></item><item><title>Live Updates: Iran Vows to Avenge Leader’s Death as Strikes Continue</title><link>https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/the-us-israeli-attacks-have-killed-a-number-of-iranian-leaders</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/01/multimedia/01iran-live-Iranian-leaders-killed-cqhm/01iran-live-Iranian-leaders-killed-cqhm-facebookJumbo.jpg" alt="Article image"/&gt;&lt;/p&gt;
 The United States and Israel killed many senior Iranian leaders in the .
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/the-us-israeli-attacks-have-killed-a-number-of-iranian-leaders</guid><pubDate>Sun, 01 Mar 2026 06:19:25 +0000</pubDate></item><item><title>OPEC Plus to Boost Oil Production as Iran Strikes Threaten Price Spike</title><link>https://www.nytimes.com/2026/03/01/world/middleeast/opec-plus-oil-production-prices.html</link><description>&lt;![CDATA[
@@ -296,7 +197,7 @@ The United States and Israel killed many senior Iranian leaders in the .
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/01/world/middleeast/opec-plus-oil-production-prices.html</guid><pubDate>Sun, 01 Mar 2026 06:15:38 +0000</pubDate></item><item><title>Israelis Are Tense but Relieved That Iran’s Supreme Leader Is Dead</title><link>https://www.nytimes.com/2026/03/01/world/middleeast/israel-iran-supreme-leader-dead.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/01/multimedia/01iran-live-israel-mood-jlfk/01iran-live-israel-mood-jlfk-mediumSquareAt3X.jpg" alt="Article image"/&gt;&lt;/p&gt;
 People taking shelter in Herzliya, Israel, on Sunday.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/01/world/middleeast/israel-iran-supreme-leader-dead.html</guid><pubDate>Sun, 01 Mar 2026 08:45:01 +0000</pubDate></item><item><title>Iran’s Regime May Survive, but the Middle East Will Be Changed</title><link>https://www.nytimes.com/2026/03/01/world/europe/iran-regime-middle-east-khamenei.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/01/world/middleeast/israel-iran-supreme-leader-dead.html</guid><pubDate>Sun, 01 Mar 2026 08:45:02 +0000</pubDate></item><item><title>Iran’s Regime May Survive, but the Middle East Will Be Changed</title><link>https://www.nytimes.com/2026/03/01/world/europe/iran-regime-middle-east-khamenei.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/01/multimedia/01Iran-change-01-bwqz/01Iran-change-01-bwqz-mediumSquareAt3X.jpg" alt="Article image"/&gt;&lt;/p&gt;
 Iranians mourning the killing of the supreme leader, Ayatollah Ali Khamenei, on Sunday.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/01/world/europe/iran-regime-middle-east-khamenei.html</guid><pubDate>Sun, 01 Mar 2026 09:02:39 +0000</pubDate></item><item><title>Pentagon Announces First Three U.S. Deaths in War With Iran</title><link>https://www.nytimes.com/2026/03/01/world/middleeast/iran-war-us-troops-dead.html</link><description>&lt;![CDATA[
@@ -470,7 +371,80 @@ A damaged building in Manama, Bahrain, on Sunday.
 &lt;p&gt;Mr. Trump added that the U.S.-Israeli military strikes had “knocked out a big portion” of the Iranian navy, including nine ships and the navy headquarters.&lt;/p&gt;
 &lt;p&gt;After roughly six minutes, Mr. Trump said he had to end the interview.&lt;/p&gt;
 &lt;p&gt;Later Sunday afternoon, he returned to Washington.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html</guid><pubDate>Sun, 01 Mar 2026 16:21:41 +0000</pubDate></item><item><title>This site can’t be reached</title><link>https://www.nytimes.com/2026/03/01/world/middleeast/iran-attacks-dubai-persian-gulf-countries-retaliation.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html</guid><pubDate>Sun, 01 Mar 2026 16:21:41 +0000</pubDate></item><item><title>Israel Strikes Beirut After Hezbollah Attacks</title><link>https://www.nytimes.com/2026/03/01/world/middleeast/israel-strikes-beirut-hezbollah.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/01/multimedia/01iran-live-hezbollah-vcwk/01iran-live-hezbollah-vcwk-mediumSquareAt3X.jpg" alt="Article image"/&gt;&lt;/p&gt;
+Smoke rising in Beirut, Lebanon, early on Monday.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/01/world/middleeast/israel-strikes-beirut-hezbollah.html</guid><pubDate>Sun, 01 Mar 2026 20:33:44 +0000</pubDate></item><item><title>Iran Strikes U.S. Military Facilities in Dubai, Bahrain and Other Middle East Locations</title><link>https://www.nytimes.com/2026/03/01/world/middleeast/iran-strikes-us-military-facilities.html</link><description>&lt;![CDATA[
+&lt;p&gt;A Times analysis of satellite imagery and verified videos shows Iran found vulnerabilities in U.S. locations in the region.&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/01/world/middleeast/iran-strikes-us-military-facilities.html</guid><pubDate>Sun, 01 Mar 2026 18:49:59 +0000</pubDate></item><item><title>China’s New Study Buddy: The A.I. ChatbotChina’s New Study Buddy: The A.I. Chatbot</title><link>https://www.nytimes.com/video/world/asia/100000010707197/china-ai-chatbot-homework.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/02/12/world/asia/cover/cover-facebookJumbo.jpg?video-overlay" alt="Article image"/&gt;&lt;/p&gt;
+Parents in China are using homegrown chatbots like DeepSeek and Doubao as well as Google’s Gemini to help their children with homework and give them an academic edge.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/video/world/asia/100000010707197/china-ai-chatbot-homework.html</guid><pubDate>Sun, 01 Mar 2026 20:02:09 +0000</pubDate></item><item><title>China’s Parents Are Outsourcing the Homework Grind to A.I.</title><link>https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/02/26/arts/TOS_9x16_V/TOS_9x16_V-facebookJumbo.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Across China, where education is famously cutthroat, parents are turning to artificial intelligence to gain a competitive edge. Some are making interactive learning games or using chatbots to grade their children’s homework. Others are using A.I.-powered gadgets to get past a language barrier.&lt;/p&gt;
+&lt;p&gt;Their eagerness to experiment is one example of how Chinese users are embracing A.I. for learning, even as many in the United States worry that it feeds students misinformation or erodes critical thinking. This cultural rift is backed by data: A 2025 global survey led by the services firm KPMG found that more than 90 percent of Chinese said they felt optimistic about the technology, compared to just over 50 percent in the United States.&lt;/p&gt;
+&lt;p&gt;The enthusiasm in China has fueled a sprawling, often unchecked, marketplace for educational technology that is worth more than $43 billion by some estimates, and where gimmicks and exaggerated marketing are common. Yet for some families, the tools are providing genuine relief. Three parents shared videos of their routines, showing how A.I., while imperfect, has made parenting and teaching their children a little easier.&lt;/p&gt;
+&lt;p&gt;As a mother of two with a full-time public relations job, Zheng Wenqi, 42, had little time to practice English herself, let alone teach her children. She knew her 9-year-old son needed more conversational experience but didn’t know where to turn.&lt;/p&gt;
+&lt;p&gt;“There just wasn’t an opportunity for him to start talking,” said Ms. Zheng, who lives in northern China’s Heilongjiang Province.&lt;/p&gt;
+&lt;p&gt;Then she saw a livestream promoting a gadget she could wear to make her conversant in English.&lt;/p&gt;
+&lt;p&gt;It has two parts: a mask that covers her mouth, and a speaker that hangs around her neck. Ms. Zheng speaks Chinese into the mask, which also muffles her voice. Then, a translation comes out of the speaker. She began wearing it around the house, for 30 to 60 minutes a day.&lt;/p&gt;
+&lt;p&gt;The roughly $375 device, called Native Language Star, draws on speech and language models developed by several Chinese technology firms, according to the company, based in Shenzhen, that makes the device.&lt;/p&gt;
+&lt;p&gt;Ms. Zheng said the translations were sometimes stiff. But she said that after about a month, her son was speaking more confidently and initiating conversations.&lt;/p&gt;
+&lt;p&gt;Ms. Zheng also uses the device with her 5-year-old daughter, who had never learned English before. The child can now describe daily tasks, like getting dressed and putting her shoes on.&lt;/p&gt;
+&lt;p&gt;“We say, ‘Now is English time, let’s all speak in English,’ and I’ll put that thing on,” Ms. Zheng said. “And then they just say whatever they know.”&lt;/p&gt;
+&lt;p&gt;Li Linyun, a stay-at-home mother, used to fight with her 10-year-old daughter, Weixiao, over her studies.&lt;/p&gt;
+&lt;p&gt;Now Ms. Li has delegated supervision of Weixiao’s schoolwork to an A.I. chatbot.&lt;/p&gt;
+&lt;p&gt;“It’s a 24-hour online teacher, and it’s knowledgeable and extremely patient,” said Ms. Li, who lives in Hunan Province, in central China.&lt;/p&gt;
+&lt;p&gt;Ms. Li uses Doubao, China’s most popular A.I. chatbot, which was created by ByteDance, the parent company of TikTok. It has a camera function, which parents refer to as Doubao’s “eyes.” People can use it to learn more about their surroundings, for instance by asking Doubao to identify plants or give more details about museum artifacts. (ChatGPT has a similar function for paying users; Doubao’s is free.)&lt;/p&gt;
+&lt;p&gt;After more experimentation, Ms. Li learned that Doubao could explain grammar rules better than she ever could.&lt;/p&gt;
+&lt;p&gt;Weixiao said she liked that she could ask Doubao to repeat explanations as many times as she needed, while her teachers moved on quickly. “It explains in more detail, so I can understand,” she said.&lt;/p&gt;
+&lt;p&gt;Ms. Li also began asking Doubao to grade completed homework assignments by uploading a photo to the app.&lt;/p&gt;
+&lt;p&gt;The chatbot identifies wrong answers and corrects them, Ms. Li said, though it sometimes makes mistakes.&lt;/p&gt;
+&lt;p&gt;The camera can also monitor Weixiao’s posture. But Ms. Li said she rarely used that feature, because her daughter didn’t like the feeling of being watched.&lt;/p&gt;
+&lt;p&gt;Ms. Li said she wasn’t worried about feeding so much footage of Weixiao to the chatbot. In the social media age, “we don’t have a lot of privacy anyway,” she said.&lt;/p&gt;
+&lt;p&gt;And the benefits were more than worthwhile. She no longer had to spend hundreds of dollars a month on English tutoring, and Weixiao’s grades had improved. “It makes educational resources more equitable for ordinary people,” Ms. Li said.&lt;/p&gt;
+&lt;p&gt;Her relationship with Weixiao had improved, too, she said. “To ease tensions in a parent-child relationship, you can’t spend too much time on homework,” she said. “Just encouraging her is enough.”&lt;/p&gt;
+&lt;p&gt;Yin Xingyu, 37, uses A.I. chatbots like DeepSeek in her job as a marketer in Shenzhen. She started to wonder whether the tool could also help her 6-year-old daughter.&lt;/p&gt;
+&lt;p&gt;Ms. Yin didn’t know how to code, so she turned to what’s known as “vibecoding” instead: using A.I. models to build software by describing what you want in plain language. She worked with DeepSeek to build an interactive English word game for her daughter. The chatbot wrote the code for her.&lt;/p&gt;
+&lt;p&gt;She is now sharing the prompts on social media so other parents can input them into their own chatbots and replicate her games.&lt;/p&gt;
+&lt;p&gt;Ms. Yin has also experimented with other models. She used Google’s A.I. image generator, Nano Banana Pro, to create comic strips that used her daughter’s Chinese vocabulary words, starring her favorite characters from movies like “Zootopia” and “Frozen.”&lt;/p&gt;
+&lt;p&gt;Ms. Yin said she didn’t think that her daughter would become dependent on A.I., because she designed the games to prioritize active thinking over passive stimulation. She plans to encourage her daughter to use the tools even more as she gets older; for example, by using chatbots to brainstorm ideas for essays.&lt;/p&gt;
+&lt;p&gt;“Most likely that’s how the future will be, and I want her to get used to it from a young age,” she said.&lt;/p&gt;
+&lt;p&gt;Not every effort to use A.I. for education has been successful. Some companies have rolled out products that critics say are more hype than substance.&lt;/p&gt;
+&lt;p&gt;So-called “A.I. self-study rooms,” for example, are advertised as physical spaces where students can learn from A.I.-powered tablets that tailor learning plans to individual needs. Fees range from a few dollars an hour to hundreds of dollars a month.&lt;/p&gt;
+&lt;p&gt;A state media report from 2024 about the trend showed a classroom in Zhejiang Province lined with cubicles, where students sat quietly in front of tablets that assessed their completion of assignments for accuracy and speed.&lt;/p&gt;
+&lt;p&gt;But some parents and former employees have complained that the “A.I.” is merely a marketing facade for prerecorded lessons or other less advanced technology, and that the tablets are just basic, off-the-shelf devices.&lt;/p&gt;
+&lt;p&gt;State media outlets have also accused the operators of some of the centers of trying to circumvent a 2021 ban on for-profit tutoring that was meant to shield children from having too much homework and families from spending too heavily. Many tutoring services have continued to operate underground. (The study centers have said that A.I. is doing the teaching, not tutors, so the ban does not apply.)&lt;/p&gt;
+&lt;p&gt;Many of the study rooms have already shut down, according to media reports. The New York Times twice tried to visit one in Beijing, only to find it locked and empty, with posters purporting to show reviews from satisfied parents still on the walls.&lt;/p&gt;
+&lt;p&gt;May Zeng, 24, worked at a study room in Jiangxi Province for two months last year, where she was in charge of making sure that students didn’t slack off. She thought that parents didn’t care as much about A.I. as they did about having somewhere to put their children.&lt;/p&gt;
+&lt;p&gt;Still, A.I. was getting used — by Ms. Zeng herself. As part of her duties, she had to write feedback on each student’s progress.&lt;/p&gt;
+&lt;p&gt;“When I found I really had nothing to say, I’d just throw it to the A.I.,” she said. “In this A.I. self-study room, I was the one using the most A.I.”&lt;/p&gt;
+&lt;p&gt;Siyi Zhao contributed research from Beijing.&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html</guid><pubDate>Sun, 01 Mar 2026 20:01:06 +0000</pubDate></item><item><title>Afghanistan Says Pakistan Tried to Strike Prized Air Base</title><link>https://www.nytimes.com/2026/03/02/world/asia/pakistan-afghanistan-bagram-attack.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/01/multimedia/01int-pakistan-bagram-lbfk/01int-pakistan-bagram-lbfk-facebookJumbo.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Afghan officials said Sunday that Pakistan had conducted airstrikes on Bagram Air Base, its most prized military asset and one coveted by President Trump.&lt;/p&gt;
+&lt;p&gt;“This morning at around 5 a.m., several fighter jets belonging to Pakistan’s military regime attempted to carry out a bombing operation within the airspace of Bagram Air Base,” Fazal Rahim Meskinyar, a spokesman for the Parwan Province police, where Bagram is, said in a statement.&lt;/p&gt;
+&lt;p&gt;Mr. Meskinyar said that Afghan antiaircraft weapons had repelled the missiles, and that there were no reported casualties.&lt;/p&gt;
+&lt;p&gt;Hamidullah Fitrat, a spokesman for the Taliban government, said Sunday evening that Afghanistan had faced an “aerial aggression” at the base. He did not say whether the attack had caused any damage.&lt;/p&gt;
+&lt;p&gt;Pakistani military officials did not respond to requests for comment.&lt;/p&gt;
+&lt;p&gt;Bagram Airfield was the nerve center of the 20-year U.S. war in Afghanistan and a big trophy when the Taliban retook control of the country in 2021 after the United States withdrew its forces.&lt;/p&gt;
+&lt;p&gt;Since returning to the presidency in 2025, Mr. Trump has said that the United States should never have abandoned Bagram and that he wanted to reclaim it. “We’re trying to get it back because they need things from us,” he said in September.&lt;/p&gt;
+&lt;p&gt;Mr. Trump said Bagram was strategically important for the United States because “it’s an hour away from where China makes its nuclear weapons.”&lt;/p&gt;
+&lt;p&gt;The Pakistani military has hit dozens of small Afghan military bases, ammunition depots and outposts in recent days, declaring that it is in “open war” against the Taliban government.&lt;/p&gt;
+&lt;p&gt;Targeting Bagram is different. Until Sunday, the Pakistani strikes had not been aimed at major infrastructure, and nothing with the symbolic significance that Bagram holds.&lt;/p&gt;
+&lt;p&gt;Since regaining control of the base, the Taliban have showcased Afghanistan’s military arsenal on Bagram’s runways every summer, organizing celebratory parades on the anniversary of their return to power.&lt;/p&gt;
+&lt;p&gt;The base, about 25 miles north of the capital, Kabul, has massive twin runways, one of which, at 11,800 feet, is Afghanistan’s longest, designed to sustain heavy fighter planes and transport carriers. But recent reports have suggested that the Afghan government now makes limited use of the airfield. “We have neither weapons nor forces in Bagram,” Bakht ur-Rahman Sharafat, the director general of Afghanistan’s national airline, said on social media on Sunday.&lt;/p&gt;
+&lt;p&gt;The attempted strikes on Bagram came on the second day of a coordinated attack by the United States and Israel on major cities and infrastructure in Iran. On Saturday, the attacks killed Iran’s longtime supreme leader, Ayatollah Ali Khamenei, a seismic political shift that raises the prospect of broader instability in the Middle East and South Asia. Iran has responded with strikes on Israel and several other Middle Eastern countries that host U.S. military bases.&lt;/p&gt;
+&lt;p&gt;Afghanistan and Pakistan have been trading attacks for months, but the violence has now reached its highest level in years. Pakistan has said the strikes are in retaliation for the Taliban government’s support of a militant group that has killed hundreds of Pakistani security forces in recent years.&lt;/p&gt;
+&lt;p&gt;Afghanistan has responded with attacks on Pakistani outposts along its 1,600-mile shared border with Pakistan. Afghan officials have rejected Pakistan’s accusations that they support the militant group, Tehreek-e-Taliban Pakistan, also known as the Pakistani Taliban. In private, however, they have acknowledged the presence of the group’s militants in Afghanistan.&lt;/p&gt;
+&lt;p&gt;On Sunday, Pakistan also carried out airstrikes in Kabul. A loud explosion rumbled through the city of six million as residents began their daily Ramadan fast. The fighting resumed on Sunday night, with heavy antiaircraft fire heard in central Kabul.&lt;/p&gt;
+&lt;p&gt;Both Pakistani and Afghan forces have ignored calls by neighboring countries to respect a truce during the holy month of Ramadan.&lt;/p&gt;
+&lt;p&gt;It remains unclear what objectives Pakistan wants to accomplish with the latest military campaign. Analysts say that more strikes on Afghan military infrastructure are likely to lead to retaliatory attacks from militant groups supporting the Taliban government, including the Pakistani Taliban.&lt;/p&gt;
+&lt;p&gt;The Pakistani military is far bigger than Afghanistan’s, but over the weekend some analysts questioned Pakistan’s endgame for its campaign — or if it had any.&lt;/p&gt;
+&lt;p&gt;“Pakistan has the capacity to do airstrikes, but where do we go from there?” said Ayesha Siddiqa, a Pakistani military analyst and senior fellow at King’s College London. “Is it about forcing the Afghans to surrender Bagram? There doesn’t seem to be an endgame in sight,” Ms. Siddiqa said in a telephone interview.&lt;/p&gt;
+&lt;p&gt;Though the Taliban government has rebuffed Mr. Trump’s effort to take back Bagram, it has called for Afghanistan and the United States to rebuild economic and diplomatic relations.&lt;/p&gt;
+&lt;p&gt;“The United States is well aware that its 20-year military presence in Afghanistan constituted a failed policy,” Amir Khan Muttaqi, Afghanistan’s foreign minister, told The New York Times in Kabul in January. “We seek positive relations with the United States across all domains — without any military presence.”&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/02/world/asia/pakistan-afghanistan-bagram-attack.html</guid><pubDate>Sun, 01 Mar 2026 20:01:13 +0000</pubDate></item><item><title>This site can’t be reached</title><link>https://www.nytimes.com/2026/03/01/world/middleeast/iran-attacks-dubai-persian-gulf-countries-retaliation.html</link><description>&lt;![CDATA[
 More than 100 people were injured and at least four were killed after Iran fired hundreds of missiles and drones at Gulf cities, including Dubai, Abu Dhabi and Doha.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/01/world/middleeast/iran-attacks-dubai-persian-gulf-countries-retaliation.html</guid><pubDate>Sun, 01 Mar 2026 07:22:07 +0000</pubDate></item><item><title>Missiles Fly and Iranians Mourn as Conflict Enters Second Day</title><link>https://www.nytimes.com/2026/02/28/world/middleeast/iran-israel-trump-attack-photos.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/01/multimedia/01Iran-stack-add-bwlv/01Iran-stack-add-bwlv-facebookJumbo.jpg" alt="Article image"/&gt;&lt;/p&gt;

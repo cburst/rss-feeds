@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 03:10:27 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 15:50:06 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>신문은 – newspaper</title><link>urn:urn:vocab:신문은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>도자기 – porcelain</title><link>urn:urn:vocab:도자기</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598548420253-63d6a327df2d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb3JjZWxhaW58ZW58MHx8fHwxNzcyNDM0MTk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="도자기 (porcelain)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Lee Gifts Singapore PM with Korean Men's Cosmetics and Porcelain Plate Set (李, 싱가폴 총리에 한국 남성 화장품, 도자기 접시 세트 선물) &lt;&lt;br/&gt;&lt;em&gt;Lee Gifts Singapore PM with Korean Men's Cosmetics and Porcelain Plate Set&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(싱가포르를 국빈 방문 중인 이재명 대통령은 2일 로렌스 웡 싱가포르 총리에게 한국 민화를 그려넣은 도자기 접시와 남성용 한국 화장품 세트를 선물했다&lt;br/&gt;&lt;em&gt;(President Lee Jae-myung, who is on a state visit to Singapore, presented Singapore Prime Minister Lawrence Wong with a porcelain plate featuring Korean folk paintings and a Korean men's cosmetics set on the 2nd)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이날 청와대에 따르면, 이 대통령은 한-싱가포르 수교 50주년을 기념한 도자기 접시를 준비했다&lt;br/&gt;&lt;em&gt;(According to the Blue House that day, the President prepared a porcelain plate commemorating the 50th anniversary of diplomatic relations between Korea and Singapore)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;도자기가 예뻐요.&lt;br/&gt;&lt;em&gt;The pottery is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도자기를 만들었어요.&lt;br/&gt;&lt;em&gt;I made pottery.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598548420253-63d6a327df2d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb3JjZWxhaW58ZW58MHx8fHwxNzcyNDM0MTk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="도자기 (porcelain)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Lee Gifts Singapore PM with Korean Men's Cosmetics and Porcelain Plate Set (李, 싱가폴 총리에 한국 남성 화장품, 도자기 접시 세트 선물) &lt;&lt;br/&gt;&lt;em&gt;Lee Gifts Singapore PM with Korean Men's Cosmetics and Porcelain Plate Set&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(싱가포르를 국빈 방문 중인 이재명 대통령은 2일 로렌스 웡 싱가포르 총리에게 한국 민화를 그려넣은 도자기 접시와 남성용 한국 화장품 세트를 선물했다&lt;br/&gt;&lt;em&gt;(President Lee Jae-myung, who is on a state visit to Singapore, presented Singapore Prime Minister Lawrence Wong with a porcelain plate featuring Korean folk paintings and a Korean men's cosmetics set on the 2nd)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이날 청와대에 따르면, 이 대통령은 한-싱가포르 수교 50주년을 기념한 도자기 접시를 준비했다&lt;br/&gt;&lt;em&gt;(According to the Blue House that day, the President prepared a porcelain plate commemorating the 50th anniversary of diplomatic relations between Korea and Singapore)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;도자기가 예뻐요.&lt;br/&gt;&lt;em&gt;The pottery is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도자기를 만들었어요.&lt;br/&gt;&lt;em&gt;I made pottery.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 02 Mar 2026 15:50:06 +0900</pubDate><guid isPermaLink="false">vocab-cfc35c545b91cde9c43a5c5543245b52b51318f3</guid><enclosure url="https://images.unsplash.com/photo-1598548420253-63d6a327df2d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb3JjZWxhaW58ZW58MHx8fHwxNzcyNDM0MTk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="543299" /><ns2:content url="https://images.unsplash.com/photo-1598548420253-63d6a327df2d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb3JjZWxhaW58ZW58MHx8fHwxNzcyNDM0MTk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1598548420253-63d6a327df2d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb3JjZWxhaW58ZW58MHx8fHwxNzcyNDM0MTk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>도자기</category></item><item><title>신문은 – newspaper</title><link>urn:urn:vocab:신문은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1631519952398-5b1d76b946e8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXdzcGFwZXJ8ZW58MHx8fHwxNzcyMzg4NjE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="신문은 (newspaper)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (노동당 기관지 노동신문은 1일 ‘위대한 조선로동당의 불변의 이념 이민위천, 일심단결, 자력갱생’이라는 제목의 논설에서 “경애하는 총비서 동지(김정은)께서는 노동당 9차 대회에서 하신 역사적인 결론에서, 당 8기 기간에 이민위천(以民爲天·인민을 하늘처럼 여김), 일심단결, 자력갱생의 이념을 높이 들었던 것처럼 이번 9기 사업 기간에도 이 세 가지 이념을 변함없이 높이 들고 나가야 한다는 데 대해 강조하셨다”고 했다&lt;br/&gt;&lt;em&gt;"In an editorial titled 'The Unchanging Ideology of the Great Workers' Party of Korea: People-First, Unity of Mind, and Self-Reliance' on the 1st, the Workers' Party organ Rodong Sinmun stated, 'Respected Comrade General Secretary (Kim Jong-un) emphasized in his historic conclusion at the 9th Congress of the Workers' Party that, just as the ideology of People-First, Unity of Mind, and Self-Reliance was upheld during the 8th Party period, these three ideologies must continue to be upheld unchanged during the 9th Party work period.'"&lt;/em&gt;&lt;/p&gt;
