@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 20:00:45 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 22:26:13 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>기름값 – oil price</title><link>urn:urn:vocab:기름값</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>통근버스 – commuter bus</title><link>urn:urn:vocab:통근버스</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1636767336202-f4ea16157616?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tdXRlciUyMGJ1c3xlbnwwfHx8fDE3NzI3MTcxNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="통근버스 (commuter bus)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;[Exclusive] Commuter Buses for 45 Public Institutions in the Capital Region to Be Suspended from March to June on President Lee's Order ([단독] 공공기관 45곳 수도권 통근버스, 李대통령 지시로 3~6월 운행 중단) &lt;&lt;br/&gt;&lt;em&gt;[Exclusive] Commuter Buses for 45 Public Institutions in the Capital Region to Be Suspended from March to June on President Lee's Order&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;[Exclusive] Commuter Buses for 45 Public Institutions in the Capital Region to Be Suspended from March to June on President Lee's Order ([단독] 공공기관 45곳 수도권 통근버스, 李대통령 지시로 3~6월 운행 중단)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;[Exclusive] Commuter Buses for 45 Public Institutions in the Capital Region to Be Suspended from March to June on President Lee's Order&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (전북 전주·완주 권역에 있는 국민연금공단은 국토부에 “노조 설득(동의)과 버스 운행사와의 협의를 통해 6월 내 폐지를 목표로 추진 중”이라면서도 “노조는 장기간 운영된 통근버스의 폐지는 실질임금 감소로 사실상 단체협약 불이익 변경에 해당한다는 입장”이라고 밝혔다&lt;br/&gt;&lt;em&gt;" (The National Pension Service in the Jeonbuk Jeonju/Wanju area stated to the Ministry of Land, Infrastructure and Transport, "We are aiming to abolish it within June through persuasion (agreement) of the union and consultation with the bus operator," while also noting, "The union's position is that the abolition of long-operated commuter buses constitutes a disadvantageous change to the collective agreement as it effectively reduces real wages.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;통근버스가 아침에 와요.&lt;br/&gt;&lt;em&gt;The commuter bus comes in the morning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 통근버스를 타요.&lt;br/&gt;&lt;em&gt;I take the commuter bus.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1636767336202-f4ea16157616?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tdXRlciUyMGJ1c3xlbnwwfHx8fDE3NzI3MTcxNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="통근버스 (commuter bus)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;[Exclusive] Commuter Buses for 45 Public Institutions in the Capital Region to Be Suspended from March to June on President Lee's Order ([단독] 공공기관 45곳 수도권 통근버스, 李대통령 지시로 3~6월 운행 중단) &lt;&lt;br/&gt;&lt;em&gt;[Exclusive] Commuter Buses for 45 Public Institutions in the Capital Region to Be Suspended from March to June on President Lee's Order&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;[Exclusive] Commuter Buses for 45 Public Institutions in the Capital Region to Be Suspended from March to June on President Lee's Order ([단독] 공공기관 45곳 수도권 통근버스, 李대통령 지시로 3~6월 운행 중단)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;[Exclusive] Commuter Buses for 45 Public Institutions in the Capital Region to Be Suspended from March to June on President Lee's Order&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (전북 전주·완주 권역에 있는 국민연금공단은 국토부에 “노조 설득(동의)과 버스 운행사와의 협의를 통해 6월 내 폐지를 목표로 추진 중”이라면서도 “노조는 장기간 운영된 통근버스의 폐지는 실질임금 감소로 사실상 단체협약 불이익 변경에 해당한다는 입장”이라고 밝혔다&lt;br/&gt;&lt;em&gt;" (The National Pension Service in the Jeonbuk Jeonju/Wanju area stated to the Ministry of Land, Infrastructure and Transport, "We are aiming to abolish it within June through persuasion (agreement) of the union and consultation with the bus operator," while also noting, "The union's position is that the abolition of long-operated commuter buses constitutes a disadvantageous change to the collective agreement as it effectively reduces real wages.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;통근버스가 아침에 와요.&lt;br/&gt;&lt;em&gt;The commuter bus comes in the morning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 통근버스를 타요.&lt;br/&gt;&lt;em&gt;I take the commuter bus.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 05 Mar 2026 22:26:13 +0900</pubDate><guid isPermaLink="false">vocab-b1a131b9e00da99f2c6cf37d37420d7cf08d0eeb</guid><enclosure url="https://images.unsplash.com/photo-1636767336202-f4ea16157616?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tdXRlciUyMGJ1c3xlbnwwfHx8fDE3NzI3MTcxNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="158841" /><ns2:content url="https://images.unsplash.com/photo-1636767336202-f4ea16157616?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tdXRlciUyMGJ1c3xlbnwwfHx8fDE3NzI3MTcxNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1636767336202-f4ea16157616?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tdXRlciUyMGJ1c3xlbnwwfHx8fDE3NzI3MTcxNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>통근버스</category></item><item><title>기름값 – oil price</title><link>urn:urn:vocab:기름값</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1644246905181-c3753e9a82bd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvaWwlMjBwcmljZXxlbnwwfHx8fDE3NzI3MDg0MzJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기름값 (oil price)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Considering Price Ceiling System" (李 “기름값 폭리 제재해야… 최고가격제 검토”) &lt;&lt;br/&gt;&lt;em&gt;"Considering Price Ceiling System" (Lee "Oil price profiteering should be sanctioned... reviewing maximum price system") &lt;&lt;/em&gt;&lt;/p&gt;
