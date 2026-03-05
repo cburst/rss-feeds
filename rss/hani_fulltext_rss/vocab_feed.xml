@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 19:04:09 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 20:00:29 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>가득한 – full</title><link>urn:urn:vocab:가득한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>회사채 – corporate bond</title><link>urn:urn:vocab:회사채</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1740645581653-068ad8fa2765?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjBib25kfGVufDB8fHx8MTc3MjcwODQxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="회사채 (corporate bond)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(중동분쟁에 회사채 금리 연중 최고치, 자금조달 경색 오나&lt;br/&gt;&lt;em&gt;(Corporate bond rates hit yearly high due to Middle East conflict, raising concerns about funding difficulties)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(중동분쟁에 회사채 금리 연중 최고치, 자금조달 경색 오나&lt;br/&gt;&lt;em&gt;(Corporate bond rates hit yearly high due to Middle East conflict, raising concerns about funding difficulties)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부가 중동지역 분쟁 여파에 따른 국내 채권시장 경색 등을 막기 위해 긴급 시중유동성 공급을 위한 100조원 규모 ‘긴급 시장안정 프로그램’ 가동에 나선 가운데, 장외 채권시장에서 회사채 금리가 1년9개월 만에 최고치로 뛰어올랐다&lt;br/&gt;&lt;em&gt;(As the government launched a 100 trillion won 'Emergency Market Stabilization Program' to provide urgent market liquidity to prevent domestic bond market strains from the Middle East conflict, corporate bond rates in the over-the-counter bond market surged to their highest level in 1 year and 9 months)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회사채를 샀어요.&lt;br/&gt;&lt;em&gt;I bought corporate bonds.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;회사채는 안전해요.&lt;br/&gt;&lt;em&gt;Corporate bonds are safe.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1740645581653-068ad8fa2765?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjBib25kfGVufDB8fHx8MTc3MjcwODQxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="회사채 (corporate bond)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(중동분쟁에 회사채 금리 연중 최고치, 자금조달 경색 오나&lt;br/&gt;&lt;em&gt;(Corporate bond rates hit yearly high due to Middle East conflict, raising concerns about funding difficulties)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(중동분쟁에 회사채 금리 연중 최고치, 자금조달 경색 오나&lt;br/&gt;&lt;em&gt;(Corporate bond rates hit yearly high due to Middle East conflict, raising concerns about funding difficulties)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부가 중동지역 분쟁 여파에 따른 국내 채권시장 경색 등을 막기 위해 긴급 시중유동성 공급을 위한 100조원 규모 ‘긴급 시장안정 프로그램’ 가동에 나선 가운데, 장외 채권시장에서 회사채 금리가 1년9개월 만에 최고치로 뛰어올랐다&lt;br/&gt;&lt;em&gt;(As the government launched a 100 trillion won 'Emergency Market Stabilization Program' to provide urgent market liquidity to prevent domestic bond market strains from the Middle East conflict, corporate bond rates in the over-the-counter bond market surged to their highest level in 1 year and 9 months)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회사채를 샀어요.&lt;br/&gt;&lt;em&gt;I bought corporate bonds.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;회사채는 안전해요.&lt;br/&gt;&lt;em&gt;Corporate bonds are safe.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 05 Mar 2026 20:00:29 +0900</pubDate><guid isPermaLink="false">vocab-6633a75bc40745f5a6198b3d406ad1de11f0021d</guid><enclosure url="https://images.unsplash.com/photo-1740645581653-068ad8fa2765?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjBib25kfGVufDB8fHx8MTc3MjcwODQxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="61362" /><ns2:content url="https://images.unsplash.com/photo-1740645581653-068ad8fa2765?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjBib25kfGVufDB8fHx8MTc3MjcwODQxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1740645581653-068ad8fa2765?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjBib25kfGVufDB8fHx8MTc3MjcwODQxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>회사채</category></item><item><title>학기에 – semester</title><link>urn:urn:vocab:학기에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1683971454407-1758772c10e0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1lc3RlcnxlbnwwfHx8fDE3NzI3MDY4NDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학기에 (semester)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;다만 국어, 사회, 과학 등 다음 학기에 나오는 지문이나 배울 내용에 해당하는 세부 주제를 다룬 책들을 읽으면 자연스럽게 선행학습 효과를 볼 수 있다&lt;br/&gt;&lt;em&gt;However, reading books that cover specific topics corresponding to passages or content to be learned in the next semester, such as Korean language, social studies, and science, can naturally provide a pre-learning effect.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;황미용 작가는 “사회, 과학 등 다음 학기에 배울 내용에 해당하는 세부 주제의 책들을 읽으면 자연스럽게 선행학습이 된다”며 “배경지식이 풍부해지는 만큼 다음 학기 때 수업 이해도가 높아지고, 아는 내용이 나오는 만큼 적극적으로 수업에 참여하게 만든다”고 조언했다&lt;br/&gt;&lt;em&gt;Author Hwang Mi-yong advised, "Reading books on specific topics corresponding to content to be learned in the next semester, such as social studies and science, naturally leads to pre-learning," adding, "As background knowledge becomes richer, understanding of classes in the next semester improves, and since familiar content appears, it encourages active participation in class."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘지속 가능한 지구를 위해 실천하는 삶’이라는 꿈을 본격적으로 실천한 시기는 2025년 2학기에 과학 전담 교사로 복직하면서부터다&lt;br/&gt;&lt;em&gt;(The period when she began earnestly practicing her dream of 'a life practicing for a sustainable Earth' was when she returned to work as a full-time science teacher in the second semester of 2025.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학기에 책을 읽어요.&lt;br/&gt;&lt;em&gt;I read books during the semester.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학기에 시험을 봐요.&lt;br/&gt;&lt;em&gt;I take exams during the semester.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1683971454407-1758772c10e0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1lc3RlcnxlbnwwfHx8fDE3NzI3MDY4NDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학기에 (semester)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;다만 국어, 사회, 과학 등 다음 학기에 나오는 지문이나 배울 내용에 해당하는 세부 주제를 다룬 책들을 읽으면 자연스럽게 선행학습 효과를 볼 수 있다&lt;br/&gt;&lt;em&gt;However, reading books that cover specific topics corresponding to passages or content to be learned in the next semester, such as Korean language, social studies, and science, can naturally provide a pre-learning effect.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;황미용 작가는 “사회, 과학 등 다음 학기에 배울 내용에 해당하는 세부 주제의 책들을 읽으면 자연스럽게 선행학습이 된다”며 “배경지식이 풍부해지는 만큼 다음 학기 때 수업 이해도가 높아지고, 아는 내용이 나오는 만큼 적극적으로 수업에 참여하게 만든다”고 조언했다&lt;br/&gt;&lt;em&gt;Author Hwang Mi-yong advised, "Reading books on specific topics corresponding to content to be learned in the next semester, such as social studies and science, naturally leads to pre-learning," adding, "As background knowledge becomes richer, understanding of classes in the next semester improves, and since familiar content appears, it encourages active participation in class."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘지속 가능한 지구를 위해 실천하는 삶’이라는 꿈을 본격적으로 실천한 시기는 2025년 2학기에 과학 전담 교사로 복직하면서부터다&lt;br/&gt;&lt;em&gt;(The period when she began earnestly practicing her dream of 'a life practicing for a sustainable Earth' was when she returned to work as a full-time science teacher in the second semester of 2025.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학기에 책을 읽어요.&lt;br/&gt;&lt;em&gt;I read books during the semester.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학기에 시험을 봐요.&lt;br/&gt;&lt;em&gt;I take exams during the semester.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 05 Mar 2026 19:34:13 +0900</pubDate><guid isPermaLink="false">vocab-a8ccf134b890379026f9d83aebe69487c57d4882</guid><enclosure url="https://images.unsplash.com/photo-1683971454407-1758772c10e0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1lc3RlcnxlbnwwfHx8fDE3NzI3MDY4NDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="208355" /><ns2:content url="https://images.unsplash.com/photo-1683971454407-1758772c10e0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1lc3RlcnxlbnwwfHx8fDE3NzI3MDY4NDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1683971454407-1758772c10e0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1lc3RlcnxlbnwwfHx8fDE3NzI3MDY4NDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>학기에</category></item><item><title>가득한 – full</title><link>urn:urn:vocab:가득한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619545493446-b378e885c6de?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmdWxsfGVufDB8fHx8MTc3MjcwNTAzOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가득한 (full)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;화려한 조명과 흥겨운 음악이 있는 뮤지컬 무대부터, 상상력을 자극하는 전시, 겨울 감성 가득한 도심 속 축제까지&lt;br/&gt;&lt;em&gt;From musical stages with dazzling lights and lively music, to exhibitions that stimulate imagination, and urban festivals full of winter sentiment&lt;/em&gt;&lt;/p&gt;
