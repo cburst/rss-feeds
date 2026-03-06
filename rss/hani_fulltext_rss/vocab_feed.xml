@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 20:44:09 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 23:18:17 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>반대로 – on the contrary</title><link>urn:urn:vocab:반대로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>이제는 – now</title><link>urn:urn:vocab:이제는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1578687388475-47f94962f6e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3d8ZW58MHx8fHwxNzcyODA2Njg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이제는 (now)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;플랫폼 제국에서 시작해 이제는 영화사와 방송사 등을 한 품에 넣고 제작, 중계, 지식재산권(IP)까지 아우르는 ‘종합 스튜디오’로 진화하려는 모습이다&lt;br/&gt;&lt;em&gt;Starting from a platform empire, it is now evolving into a 'comprehensive studio' that encompasses movie studios, broadcasters, production, broadcasting, and intellectual property (IP) under one umbrella.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;반대로 대한통운과 대우건설을 연달아 인수하며 재계 순위를 끌어올렸던 금호아시아나그룹은 과도한 차입과 글로벌 금융위기가 겹치며 위기에 빠졌고, 이제는 그룹으로서의 명맥을 유지하기도 버거운 상황이다&lt;br/&gt;&lt;em&gt;On the other hand, Kumho Asiana Group, which had raised its corporate ranking by successively acquiring Hanjin Transportation and Daewoo Engineering &amp; Construction, fell into crisis due to excessive borrowing overlapping with the global financial crisis, and now it is struggling to maintain its existence as a group.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과거에는 인공지능 서비스를 만들기 위해 복잡한 개발 과정이 필요했지만 이제는 비개발자, 특히 청소년도 자신만의 AI 에이전트를 설계할 수 있다&lt;br/&gt;&lt;em&gt;In the past, creating artificial intelligence services required complex development processes, but now even non-developers, especially teenagers, can design their own AI agents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이제는 학교에 갑니다.&lt;br/&gt;&lt;em&gt;Now I am going to school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이제는 밥을 먹어요.&lt;br/&gt;&lt;em&gt;Now I am eating a meal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1578687388475-47f94962f6e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3d8ZW58MHx8fHwxNzcyODA2Njg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이제는 (now)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;플랫폼 제국에서 시작해 이제는 영화사와 방송사 등을 한 품에 넣고 제작, 중계, 지식재산권(IP)까지 아우르는 ‘종합 스튜디오’로 진화하려는 모습이다&lt;br/&gt;&lt;em&gt;Starting from a platform empire, it is now evolving into a 'comprehensive studio' that encompasses movie studios, broadcasters, production, broadcasting, and intellectual property (IP) under one umbrella.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;반대로 대한통운과 대우건설을 연달아 인수하며 재계 순위를 끌어올렸던 금호아시아나그룹은 과도한 차입과 글로벌 금융위기가 겹치며 위기에 빠졌고, 이제는 그룹으로서의 명맥을 유지하기도 버거운 상황이다&lt;br/&gt;&lt;em&gt;On the other hand, Kumho Asiana Group, which had raised its corporate ranking by successively acquiring Hanjin Transportation and Daewoo Engineering &amp; Construction, fell into crisis due to excessive borrowing overlapping with the global financial crisis, and now it is struggling to maintain its existence as a group.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과거에는 인공지능 서비스를 만들기 위해 복잡한 개발 과정이 필요했지만 이제는 비개발자, 특히 청소년도 자신만의 AI 에이전트를 설계할 수 있다&lt;br/&gt;&lt;em&gt;In the past, creating artificial intelligence services required complex development processes, but now even non-developers, especially teenagers, can design their own AI agents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이제는 학교에 갑니다.&lt;br/&gt;&lt;em&gt;Now I am going to school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이제는 밥을 먹어요.&lt;br/&gt;&lt;em&gt;Now I am eating a meal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 06 Mar 2026 23:18:17 +0900</pubDate><guid isPermaLink="false">vocab-b5cc22efe411892f2273c0b3d881f2b470d864f5</guid><enclosure url="https://images.unsplash.com/photo-1578687388475-47f94962f6e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3d8ZW58MHx8fHwxNzcyODA2Njg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="276093" /><ns2:content url="https://images.unsplash.com/photo-1578687388475-47f94962f6e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3d8ZW58MHx8fHwxNzcyODA2Njg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1578687388475-47f94962f6e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3d8ZW58MHx8fHwxNzcyODA2Njg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>이제는</category></item><item><title>반대로 – on the contrary</title><link>urn:urn:vocab:반대로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1636110642723-c996f04765b3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMGNvbnRyYXJ5fGVufDB8fHx8MTc3Mjc5NzQzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="반대로 (on the contrary)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;반대로 대한통운과 대우건설을 연달아 인수하며 재계 순위를 끌어올렸던 금호아시아나그룹은 과도한 차입과 글로벌 금융위기가 겹치며 위기에 빠졌고, 이제는 그룹으로서의 명맥을 유지하기도 버거운 상황이다&lt;br/&gt;&lt;em&gt;On the contrary, Kumho Asiana Group, which had raised its ranking in the business world by successively acquiring Hanjin Transportation and Daewoo Engineering &amp; Construction, fell into crisis due to excessive borrowing combined with the global financial crisis, and now it is struggling to maintain its existence as a group.&lt;/em&gt;&lt;/p&gt;
