@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 00:40:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 11:24:25 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,117 @@
 
 
 
-  <item><title>점검하고 – checking and</title><link>urn:urn:vocab:점검하고</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기업은 – company (topic marker)</title><link>urn:urn:vocab:기업은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1676276383603-adaf8967f71f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55JTIwJTI4dG9waWMlMjBtYXJrZXIlMjl8ZW58MHx8fHwxNzcyNzYzODU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기업은 (company (topic marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(ㄱ기업은 친환경 에너지 관련 사업에 진출한다고 허위 공시한 뒤, 여러 페이퍼컴퍼니를 자회사로 설립해 100억원 가까운 돈을 투자했다&lt;br/&gt;&lt;em&gt;(Company A falsely announced its entry into the eco-friendly energy business and then established several paper companies as subsidiaries, investing nearly 10 billion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(미국·이스라엘과 이란의 전쟁으로 사업에 어려움을 겪는 중소·중견기업은 법인세 납부를 3개월 늦출 수 있다&lt;br/&gt;&lt;em&gt;(Small and medium-sized enterprises (SMEs) facing difficulties in their business due to the war between the U.S., Israel, and Iran can delay corporate tax payments by three months.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;해운·항공, 정유·석유화학업종 기업은 세무조사도 유예된다&lt;br/&gt;&lt;em&gt;Companies in the shipping/aviation and refining/petrochemical industries will also have their tax audits postponed.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기업은 일을 합니다.&lt;br/&gt;&lt;em&gt;A company does work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기업은 사람을 고용합니다.&lt;br/&gt;&lt;em&gt;A company hires people.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1676276383603-adaf8967f71f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55JTIwJTI4dG9waWMlMjBtYXJrZXIlMjl8ZW58MHx8fHwxNzcyNzYzODU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기업은 (company (topic marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(ㄱ기업은 친환경 에너지 관련 사업에 진출한다고 허위 공시한 뒤, 여러 페이퍼컴퍼니를 자회사로 설립해 100억원 가까운 돈을 투자했다&lt;br/&gt;&lt;em&gt;(Company A falsely announced its entry into the eco-friendly energy business and then established several paper companies as subsidiaries, investing nearly 10 billion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(미국·이스라엘과 이란의 전쟁으로 사업에 어려움을 겪는 중소·중견기업은 법인세 납부를 3개월 늦출 수 있다&lt;br/&gt;&lt;em&gt;(Small and medium-sized enterprises (SMEs) facing difficulties in their business due to the war between the U.S., Israel, and Iran can delay corporate tax payments by three months.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;해운·항공, 정유·석유화학업종 기업은 세무조사도 유예된다&lt;br/&gt;&lt;em&gt;Companies in the shipping/aviation and refining/petrochemical industries will also have their tax audits postponed.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기업은 일을 합니다.&lt;br/&gt;&lt;em&gt;A company does work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기업은 사람을 고용합니다.&lt;br/&gt;&lt;em&gt;A company hires people.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 06 Mar 2026 11:24:25 +0900</pubDate><guid isPermaLink="false">vocab-b3537d5e11dc298dc555da46b7b5eaebbe904f02</guid><enclosure url="https://images.unsplash.com/photo-1676276383603-adaf8967f71f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55JTIwJTI4dG9waWMlMjBtYXJrZXIlMjl8ZW58MHx8fHwxNzcyNzYzODU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="78398" /><ns2:content url="https://images.unsplash.com/photo-1676276383603-adaf8967f71f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55JTIwJTI4dG9waWMlMjBtYXJrZXIlMjl8ZW58MHx8fHwxNzcyNzYzODU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1676276383603-adaf8967f71f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55JTIwJTI4dG9waWMlMjBtYXJrZXIlMjl8ZW58MHx8fHwxNzcyNzYzODU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기업은</category></item><item><title>뇌졸중 – stroke</title><link>urn:urn:vocab:뇌졸중</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1622542795953-5c26b9d8a135?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJva2V8ZW58MHx8fHwxNzcyNzYyMDYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="뇌졸중 (stroke)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Sahmyook University Professor Song Chang-ho's Team Proves Effectiveness of 'Exergame' for Chronic Stroke Rehabilitation (삼육대 송창호 교수팀, 만성 뇌졸중 재활 ‘엑서게임’ 효과 입증) &lt;&lt;br/&gt;&lt;em&gt;Sahmyook University Professor Song Chang-ho's Team Proves Effectiveness of 'Exergame' for Chronic Stroke Rehabilitation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (만성 뇌졸중 환자의 재활 치료에서 엑서게임(Exergame) 기반 통합 훈련이 효과적인 대안이 될 수 있다는 연구 결과가 나왔다&lt;br/&gt;&lt;em&gt;Research results show that Exergame-based integrated training can be an effective alternative in rehabilitation treatment for chronic stroke patients&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;연구팀은 발병 후 6개월이 지난 만성 뇌졸중 환자를 대상으로 4주간 총 20회에 걸쳐 압력 센서 기반의 엑서게임 훈련을 실시했다&lt;br/&gt;&lt;em&gt;The research team conducted pressure sensor-based Exergame training for chronic stroke patients who had passed 6 months since onset, over 4 weeks for a total of 20 sessions&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;뇌졸중은 위험합니다.&lt;br/&gt;&lt;em&gt;Stroke is dangerous.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;뇌졸중을 조심하세요.&lt;br/&gt;&lt;em&gt;Be careful of stroke.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1622542795953-5c26b9d8a135?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJva2V8ZW58MHx8fHwxNzcyNzYyMDYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="뇌졸중 (stroke)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Sahmyook University Professor Song Chang-ho's Team Proves Effectiveness of 'Exergame' for Chronic Stroke Rehabilitation (삼육대 송창호 교수팀, 만성 뇌졸중 재활 ‘엑서게임’ 효과 입증) &lt;&lt;br/&gt;&lt;em&gt;Sahmyook University Professor Song Chang-ho's Team Proves Effectiveness of 'Exergame' for Chronic Stroke Rehabilitation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (만성 뇌졸중 환자의 재활 치료에서 엑서게임(Exergame) 기반 통합 훈련이 효과적인 대안이 될 수 있다는 연구 결과가 나왔다&lt;br/&gt;&lt;em&gt;Research results show that Exergame-based integrated training can be an effective alternative in rehabilitation treatment for chronic stroke patients&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;연구팀은 발병 후 6개월이 지난 만성 뇌졸중 환자를 대상으로 4주간 총 20회에 걸쳐 압력 센서 기반의 엑서게임 훈련을 실시했다&lt;br/&gt;&lt;em&gt;The research team conducted pressure sensor-based Exergame training for chronic stroke patients who had passed 6 months since onset, over 4 weeks for a total of 20 sessions&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;뇌졸중은 위험합니다.&lt;br/&gt;&lt;em&gt;Stroke is dangerous.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;뇌졸중을 조심하세요.&lt;br/&gt;&lt;em&gt;Be careful of stroke.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 06 Mar 2026 10:54:32 +0900</pubDate><guid isPermaLink="false">vocab-afb4f77cc3129741f14b0f535fe4336ebe608080</guid><enclosure url="https://images.unsplash.com/photo-1622542795953-5c26b9d8a135?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJva2V8ZW58MHx8fHwxNzcyNzYyMDYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="67093" /><ns2:content url="https://images.unsplash.com/photo-1622542795953-5c26b9d8a135?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJva2V8ZW58MHx8fHwxNzcyNzYyMDYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1622542795953-5c26b9d8a135?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJva2V8ZW58MHx8fHwxNzcyNzYyMDYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>뇌졸중</category></item><item><title>성평등 – gender equality</title><link>urn:urn:vocab:성평등</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1545693315-85b6be26a3d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnZW5kZXIlMjBlcXVhbGl0eXxlbnwwfHx8fDE3NzI3NTQyMjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="성평등 (gender equality)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;성평등한 교실을 위해 아웃박스 교사들이 펼친 캠페인 활동&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Campaign activities carried out by Outbox teachers for a gender-equal classroom&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;혐오 표현은 놀이처럼 번지고, 성평등을 향한 목소리는 오히려 거센 반격에 부딪힌다&lt;br/&gt;&lt;em&gt;Hate speech spreads like play, while voices for gender equality face fierce backlash&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;성평등 교사모임 ‘아웃박스’와 함께 일상에서 성인지 감수성을 키우는 방법을 짚어봤다&lt;br/&gt;&lt;em&gt;We examined ways to enhance gender sensitivity in daily life with the gender equality teachers' group 'Outbox'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;성평등은 중요합니다.&lt;br/&gt;&lt;em&gt;Gender equality is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 성평등을 지지합니다.&lt;br/&gt;&lt;em&gt;We support gender equality.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1545693315-85b6be26a3d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnZW5kZXIlMjBlcXVhbGl0eXxlbnwwfHx8fDE3NzI3NTQyMjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="성평등 (gender equality)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;성평등한 교실을 위해 아웃박스 교사들이 펼친 캠페인 활동&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Campaign activities carried out by Outbox teachers for a gender-equal classroom&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;혐오 표현은 놀이처럼 번지고, 성평등을 향한 목소리는 오히려 거센 반격에 부딪힌다&lt;br/&gt;&lt;em&gt;Hate speech spreads like play, while voices for gender equality face fierce backlash&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;성평등 교사모임 ‘아웃박스’와 함께 일상에서 성인지 감수성을 키우는 방법을 짚어봤다&lt;br/&gt;&lt;em&gt;We examined ways to enhance gender sensitivity in daily life with the gender equality teachers' group 'Outbox'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;성평등은 중요합니다.&lt;br/&gt;&lt;em&gt;Gender equality is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 성평등을 지지합니다.&lt;br/&gt;&lt;em&gt;We support gender equality.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 06 Mar 2026 08:43:54 +0900</pubDate><guid isPermaLink="false">vocab-99d7bdf21c4af8621ab6251d385cdf43e25e033b</guid><enclosure url="https://images.unsplash.com/photo-1545693315-85b6be26a3d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnZW5kZXIlMjBlcXVhbGl0eXxlbnwwfHx8fDE3NzI3NTQyMjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="127169" /><ns2:content url="https://images.unsplash.com/photo-1545693315-85b6be26a3d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnZW5kZXIlMjBlcXVhbGl0eXxlbnwwfHx8fDE3NzI3NTQyMjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1545693315-85b6be26a3d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnZW5kZXIlMjBlcXVhbGl0eXxlbnwwfHx8fDE3NzI3NTQyMjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>성평등</category></item><item><title>챗지피티 – ChatGPT</title><link>urn:urn:vocab:챗지피티</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712002641088-1191ef635cf2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDaGF0R1BUfGVufDB8fHx8MTc3Mjc1MjUyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="챗지피티 (ChatGPT)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;ChatGPT Stagnates (미 이란 공습 투입 AI 클로드, 국내 사용자 70%↑…챗지피티는 제자리) &lt;&lt;br/&gt;&lt;em&gt;ChatGPT Stagnates (US deploys AI Claude in Iran airstrike, domestic users increase 70%...ChatGPT remains stagnant)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;ChatGPT Stagnates (미 이란 공습 투입 AI 클로드, 국내 사용자 70%↑…챗지피티는 제자리)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;ChatGPT Stagnates (US deploys AI Claude in Iran airstrike, domestic users increase 70%...ChatGPT remains stagnant)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;같은 기간 오픈에이아이(AI)의 챗지피티(Chat GPT)는 16만명이 증가하며 31위를 차지했으나, 전월 대비 증가 비율로 보면 1% 오르는 데 그쳤다&lt;br/&gt;&lt;em&gt;During the same period, OpenAI's ChatGPT increased by 160,000 users and ranked 31st, but compared to the previous month, it only rose by 1%&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;챗지피티는 유용합니다.&lt;br/&gt;&lt;em&gt;ChatGPT is useful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;챗지피티를 사용해요.&lt;br/&gt;&lt;em&gt;I use ChatGPT.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712002641088-1191ef635cf2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDaGF0R1BUfGVufDB8fHx8MTc3Mjc1MjUyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="챗지피티 (ChatGPT)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;ChatGPT Stagnates (미 이란 공습 투입 AI 클로드, 국내 사용자 70%↑…챗지피티는 제자리) &lt;&lt;br/&gt;&lt;em&gt;ChatGPT Stagnates (US deploys AI Claude in Iran airstrike, domestic users increase 70%...ChatGPT remains stagnant)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;ChatGPT Stagnates (미 이란 공습 투입 AI 클로드, 국내 사용자 70%↑…챗지피티는 제자리)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;ChatGPT Stagnates (US deploys AI Claude in Iran airstrike, domestic users increase 70%...ChatGPT remains stagnant)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;같은 기간 오픈에이아이(AI)의 챗지피티(Chat GPT)는 16만명이 증가하며 31위를 차지했으나, 전월 대비 증가 비율로 보면 1% 오르는 데 그쳤다&lt;br/&gt;&lt;em&gt;During the same period, OpenAI's ChatGPT increased by 160,000 users and ranked 31st, but compared to the previous month, it only rose by 1%&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;챗지피티는 유용합니다.&lt;br/&gt;&lt;em&gt;ChatGPT is useful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;챗지피티를 사용해요.&lt;br/&gt;&lt;em&gt;I use ChatGPT.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 06 Mar 2026 08:15:34 +0900</pubDate><guid isPermaLink="false">vocab-345d185bd400689865f3139dad2738540ead7aeb</guid><enclosure url="https://images.unsplash.com/photo-1712002641088-1191ef635cf2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDaGF0R1BUfGVufDB8fHx8MTc3Mjc1MjUyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="75450" /><ns2:content url="https://images.unsplash.com/photo-1712002641088-1191ef635cf2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDaGF0R1BUfGVufDB8fHx8MTc3Mjc1MjUyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1712002641088-1191ef635cf2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDaGF0R1BUfGVufDB8fHx8MTc3Mjc1MjUyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>챗지피티</category></item><item><title>학습관리시스템 – learning management system</title><link>urn:urn:vocab:학습관리시스템</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMG1hbmFnZW1lbnQlMjBzeXN0ZW18ZW58MHx8fHwxNzcyNzMzNzY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학습관리시스템 (learning management system)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;University of Seoul Leads University Education Innovation with AI-based Next-Generation Learning Management System (LMS) (서울시립대, AI 기반 차세대 학습관리시스템(LMS) 도입으로 대학교육 혁신 선도한다) &lt;&lt;br/&gt;&lt;em&gt;University of Seoul Leads University Education Innovation with AI-based Next-Generation Learning Management System (LMS)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;University of Seoul Leads University Education Innovation with AI-based Next-Generation Learning Management System (LMS) (서울시립대, AI 기반 차세대 학습관리시스템(LMS) 도입으로 대학교육 혁신 선도한다)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;University of Seoul Leads University Education Innovation with AI-based Next-Generation Learning Management System (LMS)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;png" alt=""&gt;&lt;figcaption&gt;2026학년도 1학기부터 AI 기반 차세대 학습관리시스템(이하 LMS)의 전면 도입 및 운영을 시작했다&lt;br/&gt;&lt;em&gt;Starting from the first semester of the 2026 academic year, they have begun the full-scale introduction and operation of an AI-based next-generation learning management system (hereinafter referred to as LMS).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학습관리시스템을 사용해요.&lt;br/&gt;&lt;em&gt;I use a learning management system.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학습관리시스템이 편리해요.&lt;br/&gt;&lt;em&gt;The learning management system is convenient.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMG1hbmFnZW1lbnQlMjBzeXN0ZW18ZW58MHx8fHwxNzcyNzMzNzY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학습관리시스템 (learning management system)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;University of Seoul Leads University Education Innovation with AI-based Next-Generation Learning Management System (LMS) (서울시립대, AI 기반 차세대 학습관리시스템(LMS) 도입으로 대학교육 혁신 선도한다) &lt;&lt;br/&gt;&lt;em&gt;University of Seoul Leads University Education Innovation with AI-based Next-Generation Learning Management System (LMS)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;University of Seoul Leads University Education Innovation with AI-based Next-Generation Learning Management System (LMS) (서울시립대, AI 기반 차세대 학습관리시스템(LMS) 도입으로 대학교육 혁신 선도한다)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;University of Seoul Leads University Education Innovation with AI-based Next-Generation Learning Management System (LMS)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;png" alt=""&gt;&lt;figcaption&gt;2026학년도 1학기부터 AI 기반 차세대 학습관리시스템(이하 LMS)의 전면 도입 및 운영을 시작했다&lt;br/&gt;&lt;em&gt;Starting from the first semester of the 2026 academic year, they have begun the full-scale introduction and operation of an AI-based next-generation learning management system (hereinafter referred to as LMS).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학습관리시스템을 사용해요.&lt;br/&gt;&lt;em&gt;I use a learning management system.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학습관리시스템이 편리해요.&lt;br/&gt;&lt;em&gt;The learning management system is convenient.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 06 Mar 2026 03:02:53 +0900</pubDate><guid isPermaLink="false">vocab-c6ee260ed4c9289137797fad976cf62a501947ae</guid><enclosure url="https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMG1hbmFnZW1lbnQlMjBzeXN0ZW18ZW58MHx8fHwxNzcyNzMzNzY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="99438" /><ns2:content url="https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMG1hbmFnZW1lbnQlMjBzeXN0ZW18ZW58MHx8fHwxNzcyNzMzNzY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMG1hbmFnZW1lbnQlMjBzeXN0ZW18ZW58MHx8fHwxNzcyNzMzNzY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>학습관리시스템</category></item><item><title>점검하고 – checking and</title><link>urn:urn:vocab:점검하고</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641465396965-c87c701df38b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGVja2luZyUyMGFuZHxlbnwwfHx8fDE3NzI3MjUxODZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="점검하고 (checking and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(황선오 부원장은 “최근 증시 급락에 대해 최고 수준의 경각심을 가지고 다양한 대응 방안을 면밀히 점검하고 있다”며 “필요 시 비상 대응계획에 따라 단계별 조치를 차질 없이 시행하겠다”고 말했다&lt;br/&gt;&lt;em&gt;Deputy Director Hwang Seon-oh said, 'We are closely examining various response measures with the highest level of vigilance regarding the recent sharp decline in the stock market, and we will implement step-by-step measures without delay according to the emergency response plan if necessary.'&lt;/em&gt;&lt;/p&gt;
