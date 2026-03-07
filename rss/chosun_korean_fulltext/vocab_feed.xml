@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 17:00:08 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 19:31:58 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>무사히 – safely</title><link>urn:urn:vocab:무사히</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>대한민국이 – South Korea</title><link>urn:urn:vocab:대한민국이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619179834700-7a886aac80cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTb3V0aCUyMEtvcmVhfGVufDB8fHx8MTc3Mjg3OTUwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대한민국이 (South Korea)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 “론스타, 엘리엇 항소 관련, 대한민국이 7조~8조원 아끼는 데 제가 나름 일익을 담당했다”며 “그렇지만 제1 야당은 서로 깎아내리기가 바빠서 입도 뻥긋 안 했다”고 했다&lt;br/&gt;&lt;em&gt;He said, "Regarding the Lone Star and Elliott appeal, I played my part in saving South Korea 7-8 trillion won," adding, "But the main opposition party was too busy tearing each other down to even open their mouths."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 “국민의 신뢰를 회복하는 역전승 없이는 보수가 망하고 대한민국이 어려워지고 국민이 고통받는다”며 “지금은 견제 균형이 마비된 상태에서 민주당 정권이 마음 놓고 폭주하고 있다”고 했다&lt;br/&gt;&lt;em&gt;He said, "Without a comeback victory to restore public trust, conservatives will collapse, South Korea will face difficulties, and the people will suffer," adding, "Now, with checks and balances paralyzed, the Democratic Party administration is running wild without restraint."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대한민국이 아름답습니다.&lt;br/&gt;&lt;em&gt;South Korea is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대한민국이 한국에 있습니다.&lt;br/&gt;&lt;em&gt;South Korea is in Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619179834700-7a886aac80cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTb3V0aCUyMEtvcmVhfGVufDB8fHx8MTc3Mjg3OTUwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대한민국이 (South Korea)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 “론스타, 엘리엇 항소 관련, 대한민국이 7조~8조원 아끼는 데 제가 나름 일익을 담당했다”며 “그렇지만 제1 야당은 서로 깎아내리기가 바빠서 입도 뻥긋 안 했다”고 했다&lt;br/&gt;&lt;em&gt;He said, "Regarding the Lone Star and Elliott appeal, I played my part in saving South Korea 7-8 trillion won," adding, "But the main opposition party was too busy tearing each other down to even open their mouths."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 “국민의 신뢰를 회복하는 역전승 없이는 보수가 망하고 대한민국이 어려워지고 국민이 고통받는다”며 “지금은 견제 균형이 마비된 상태에서 민주당 정권이 마음 놓고 폭주하고 있다”고 했다&lt;br/&gt;&lt;em&gt;He said, "Without a comeback victory to restore public trust, conservatives will collapse, South Korea will face difficulties, and the people will suffer," adding, "Now, with checks and balances paralyzed, the Democratic Party administration is running wild without restraint."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대한민국이 아름답습니다.&lt;br/&gt;&lt;em&gt;South Korea is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대한민국이 한국에 있습니다.&lt;br/&gt;&lt;em&gt;South Korea is in Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 07 Mar 2026 19:31:58 +0900</pubDate><guid isPermaLink="false">vocab-7eb37458289a78acb2140e1ec9937fa9db169261</guid><enclosure url="https://images.unsplash.com/photo-1619179834700-7a886aac80cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTb3V0aCUyMEtvcmVhfGVufDB8fHx8MTc3Mjg3OTUwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="167228" /><ns2:content url="https://images.unsplash.com/photo-1619179834700-7a886aac80cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTb3V0aCUyMEtvcmVhfGVufDB8fHx8MTc3Mjg3OTUwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1619179834700-7a886aac80cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTb3V0aCUyMEtvcmVhfGVufDB8fHx8MTc3Mjg3OTUwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>대한민국이</category></item><item><title>무사히 – safely</title><link>urn:urn:vocab:무사히</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1553786237-c1befa435928?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYWZlbHl8ZW58MHx8fHwxNzcyODcwMzk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="무사히 (safely)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(외교부는 7일 카타르에 체류 중이던 한국인 65명이 지난 3~6일 사우디아라비아로 무사히 이동했다고 밝혔다&lt;br/&gt;&lt;em&gt;The Ministry of Foreign Affairs announced on the 7th that 65 Koreans who had been staying in Qatar safely moved to Saudi Arabia from the 3rd to the 6th.&lt;/em&gt;&lt;/p&gt;
