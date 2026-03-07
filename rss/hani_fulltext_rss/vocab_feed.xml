@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 05:00:46 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 07:10:20 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>수준이 – level</title><link>urn:urn:vocab:수준이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>시작하는 – to start</title><link>urn:urn:vocab:시작하는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1652161468447-d8abb529b464?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHN0YXJ0fGVufDB8fHx8MTc3MjkyMTQxM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시작하는 (to start)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;’ 고민에서 시작하는 아이들의 발칙한 상상들) &lt;&lt;br/&gt;&lt;em&gt;Children's Bold Imaginations Starting from Worries) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;’ 고민에서 시작하는 아이들의 발칙한 상상들)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Children's Bold Imaginations Starting from Worries)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;Youth-Led Projects Starting from Self-Exploration (자기탐구에서 시작하는 청소년 주도 프로젝트)&lt;/p&gt;&lt;p&gt;The representative program of Dagachi School Gangseo-Yangcheon is the 'Urban Project Moon', which is led by teenagers&lt;br/&gt;&lt;em&gt;)&lt;/p&gt;&lt;p&gt;Youth-Led Projects Starting from Self-Exploration (Youth-Led Projects Starting from Self-Exploration)&lt;/p&gt;&lt;p&gt;The representative program of Dagachi School Gangseo-Yangcheon is the 'Urban Project Moon', which is led by teenagers&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 공부를 시작하는 중이야.&lt;br/&gt;&lt;em&gt;I am starting to study.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 새로운 일을 시작하는 사람이야.&lt;br/&gt;&lt;em&gt;He is a person who starts new things.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1652161468447-d8abb529b464?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHN0YXJ0fGVufDB8fHx8MTc3MjkyMTQxM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시작하는 (to start)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;’ 고민에서 시작하는 아이들의 발칙한 상상들) &lt;&lt;br/&gt;&lt;em&gt;Children's Bold Imaginations Starting from Worries) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;’ 고민에서 시작하는 아이들의 발칙한 상상들)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Children's Bold Imaginations Starting from Worries)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;Youth-Led Projects Starting from Self-Exploration (자기탐구에서 시작하는 청소년 주도 프로젝트)&lt;/p&gt;&lt;p&gt;The representative program of Dagachi School Gangseo-Yangcheon is the 'Urban Project Moon', which is led by teenagers&lt;br/&gt;&lt;em&gt;)&lt;/p&gt;&lt;p&gt;Youth-Led Projects Starting from Self-Exploration (Youth-Led Projects Starting from Self-Exploration)&lt;/p&gt;&lt;p&gt;The representative program of Dagachi School Gangseo-Yangcheon is the 'Urban Project Moon', which is led by teenagers&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 공부를 시작하는 중이야.&lt;br/&gt;&lt;em&gt;I am starting to study.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 새로운 일을 시작하는 사람이야.&lt;br/&gt;&lt;em&gt;He is a person who starts new things.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 08 Mar 2026 07:10:20 +0900</pubDate><guid isPermaLink="false">vocab-f804235cc318592e8088e784825e428a9d9969fd</guid><enclosure url="https://images.unsplash.com/photo-1652161468447-d8abb529b464?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHN0YXJ0fGVufDB8fHx8MTc3MjkyMTQxM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="180038" /><ns2:content url="https://images.unsplash.com/photo-1652161468447-d8abb529b464?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHN0YXJ0fGVufDB8fHx8MTc3MjkyMTQxM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1652161468447-d8abb529b464?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHN0YXJ0fGVufDB8fHx8MTc3MjkyMTQxM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>시작하는</category></item><item><title>수준이 – level</title><link>urn:urn:vocab:수준이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1658669742598-2f70354c3326?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZXZlbHxlbnwwfHx8fDE3NzI5MTM2Mzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="수준이 (level)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;전문가는 아니더라도 ‘일반인’들보다는 더 많이 아는 수준이 돼야 한다&lt;br/&gt;&lt;em&gt;Even if you are not an expert, you should reach a level of knowing more than 'ordinary people'.&lt;/em&gt;&lt;/p&gt;
