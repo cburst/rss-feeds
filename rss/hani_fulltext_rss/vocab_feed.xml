@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 07:08:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 09:43:43 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>과정에 – in the process</title><link>urn:urn:vocab:과정에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>세미나 – seminar</title><link>urn:urn:vocab:세미나</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1pbmFyfGVufDB8fHx8MTc3Mjg0NDIxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="세미나 (seminar)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학회는 매년 3차례의 정기학술대회와 특별정책세미나를 개최해 경제 현안에 대응하고 있으며, 한국연구재단 우수 등재학술지인 「경제법연구」를 발간해 수준 높은 연구성과를 학계와 실무에 공유해오고 있다&lt;br/&gt;&lt;em&gt;The association holds three regular academic conferences and special policy seminars annually to address current economic issues, and publishes 'Economic Law Research,' a high-quality journal listed by the Korea Research Foundation, sharing advanced research outcomes with academia and practitioners.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Soongsil University Holds '2025 University Support Project for High School Education Contribution Results Sharing Seminar' (숭실대, ‘2025년 고교교육 기여대학 지원사업 성과 공유 세미나' 개최) &lt;&lt;br/&gt;&lt;em&gt;Soongsil University Holds '2025 University Support Project for High School Education Contribution Results Sharing Seminar'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Soongsil University Holds '2025 University Support Project for High School Education Contribution Results Sharing Seminar' (숭실대, ‘2025년 고교교육 기여대학 지원사업 성과 공유 세미나' 개최)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Soongsil University Holds '2025 University Support Project for High School Education Contribution Results Sharing Seminar'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;세미나에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the seminar.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;세미나가 재미있습니다.&lt;br/&gt;&lt;em&gt;The seminar is interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1pbmFyfGVufDB8fHx8MTc3Mjg0NDIxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="세미나 (seminar)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학회는 매년 3차례의 정기학술대회와 특별정책세미나를 개최해 경제 현안에 대응하고 있으며, 한국연구재단 우수 등재학술지인 「경제법연구」를 발간해 수준 높은 연구성과를 학계와 실무에 공유해오고 있다&lt;br/&gt;&lt;em&gt;The association holds three regular academic conferences and special policy seminars annually to address current economic issues, and publishes 'Economic Law Research,' a high-quality journal listed by the Korea Research Foundation, sharing advanced research outcomes with academia and practitioners.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Soongsil University Holds '2025 University Support Project for High School Education Contribution Results Sharing Seminar' (숭실대, ‘2025년 고교교육 기여대학 지원사업 성과 공유 세미나' 개최) &lt;&lt;br/&gt;&lt;em&gt;Soongsil University Holds '2025 University Support Project for High School Education Contribution Results Sharing Seminar'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Soongsil University Holds '2025 University Support Project for High School Education Contribution Results Sharing Seminar' (숭실대, ‘2025년 고교교육 기여대학 지원사업 성과 공유 세미나' 개최)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Soongsil University Holds '2025 University Support Project for High School Education Contribution Results Sharing Seminar'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;세미나에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the seminar.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;세미나가 재미있습니다.&lt;br/&gt;&lt;em&gt;The seminar is interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 07 Mar 2026 09:43:43 +0900</pubDate><guid isPermaLink="false">vocab-7356d07ff4789b668d5c62543502230967fdf762</guid><enclosure url="https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1pbmFyfGVufDB8fHx8MTc3Mjg0NDIxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="187484" /><ns2:content url="https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1pbmFyfGVufDB8fHx8MTc3Mjg0NDIxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1pbmFyfGVufDB8fHx8MTc3Mjg0NDIxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>세미나</category></item><item><title>과정에 – in the process</title><link>urn:urn:vocab:과정에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1660466077201-0036c36ad2e0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMHByb2Nlc3N8ZW58MHx8fHwxNzcyODM0ODkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="과정에 (in the process)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;강태영 요원(19기 본부장, 무역학과) 외 21명이 활동 과정에서 체험한 수출 백서를 출간했다는 점에서 그 의미가 더욱 돋보인다&lt;br/&gt;&lt;em&gt;The significance is further highlighted by the fact that Agent Kang Tae-young (19th term headquarters chief, Department of International Trade) and 21 others published an export white paper based on their experiences during their activities.&lt;/em&gt;&lt;/p&gt;
