@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 05:37:44 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 08:06:29 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>회화를 – painting (or conversation, depending on context)</title><link>urn:urn:vocab:회화를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>의견은 – opinion</title><link>urn:urn:vocab:의견은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598363431659-330370aaaa7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGluaW9ufGVufDB8fHx8MTc3MzAxMTE4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="의견은 (opinion)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;He should state his own position" (정청래 “조희대 탄핵, 지도부 공식 의견은 아냐…스스로 거취 표명해야”) &lt;&lt;br/&gt;&lt;em&gt;"He should state his own position" (Jung Cheong-rae: "The impeachment of Chief Justice Cho Hee-dae is not the official opinion of the leadership... He should state his own position") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;He should state his own position" (정청래 “조희대 탄핵, 지도부 공식 의견은 아냐…스스로 거취 표명해야”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"He should state his own position" (Jung Cheong-rae: "The impeachment of Chief Justice Cho Hee-dae is not the official opinion of the leadership... He should state his own position")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정청래 더불어민주당 대표가 당 일각에서 제기되는 조희대 대법원장 탄핵 추진이 “당 지도부의 공식 의견은 아니”라고 말했다&lt;br/&gt;&lt;em&gt;" (Jung Cheong-rae, the leader of the Democratic Party of Korea, said that the push for the impeachment of Chief Justice Cho Hee-dae, raised by some within the party, is "not the official opinion of the party leadership")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;의견은 중요해요.&lt;br/&gt;&lt;em&gt;Opinions are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;의견은 다를 수 있어요.&lt;br/&gt;&lt;em&gt;Opinions can differ.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598363431659-330370aaaa7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGluaW9ufGVufDB8fHx8MTc3MzAxMTE4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="의견은 (opinion)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;He should state his own position" (정청래 “조희대 탄핵, 지도부 공식 의견은 아냐…스스로 거취 표명해야”) &lt;&lt;br/&gt;&lt;em&gt;"He should state his own position" (Jung Cheong-rae: "The impeachment of Chief Justice Cho Hee-dae is not the official opinion of the leadership... He should state his own position") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;He should state his own position" (정청래 “조희대 탄핵, 지도부 공식 의견은 아냐…스스로 거취 표명해야”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"He should state his own position" (Jung Cheong-rae: "The impeachment of Chief Justice Cho Hee-dae is not the official opinion of the leadership... He should state his own position")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정청래 더불어민주당 대표가 당 일각에서 제기되는 조희대 대법원장 탄핵 추진이 “당 지도부의 공식 의견은 아니”라고 말했다&lt;br/&gt;&lt;em&gt;" (Jung Cheong-rae, the leader of the Democratic Party of Korea, said that the push for the impeachment of Chief Justice Cho Hee-dae, raised by some within the party, is "not the official opinion of the party leadership")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;의견은 중요해요.&lt;br/&gt;&lt;em&gt;Opinions are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;의견은 다를 수 있어요.&lt;br/&gt;&lt;em&gt;Opinions can differ.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 09 Mar 2026 08:06:29 +0900</pubDate><guid isPermaLink="false">vocab-e3e12f65bc2019aec990688f0eb55c3ba91b0f76</guid><enclosure url="https://images.unsplash.com/photo-1598363431659-330370aaaa7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGluaW9ufGVufDB8fHx8MTc3MzAxMTE4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="90286" /><ns2:content url="https://images.unsplash.com/photo-1598363431659-330370aaaa7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGluaW9ufGVufDB8fHx8MTc3MzAxMTE4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1598363431659-330370aaaa7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGluaW9ufGVufDB8fHx8MTc3MzAxMTE4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>의견은</category></item><item><title>회화를 – painting (or conversation, depending on context)</title><link>urn:urn:vocab:회화를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632067694866-de074902e56f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYWludGluZyUyMCUyOG9yJTIwY29udmVyc2F0aW9uJTJDJTIwZGVwZW5kaW5nJTIwb24lMjBjb250ZXh0JTI5fGVufDB8fHx8MTc3MzAwMjI1Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="회화를 (painting (or conversation, depending on context))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Art Informel and Abstract Expressionism&lt;/b&gt; ( 미술사에서 모더니즘의 본격적인 시작 시점은 인상주의이고, 그 완성은 회화를 최소한의 기본 요소로 분석해 회화의 영도(靈度)에 도달한 추상회화로 보는 것이 일반적이다&lt;br/&gt;&lt;em&gt;In art history, the full-fledged beginning of modernism is generally considered to be Impressionism, and its completion is typically seen as abstract painting, which analyzes painting into its minimal basic elements to reach the spirituality of painting.&lt;/em&gt;&lt;/p&gt;
