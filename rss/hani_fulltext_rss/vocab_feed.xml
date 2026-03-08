@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 13:28:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 15:33:22 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>결과다 – It is the result</title><link>urn:urn:vocab:결과다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>밥그릇 – rice bowl</title><link>urn:urn:vocab:밥그릇</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1628521061262-19b5cdb7eee5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwYm93bHxlbnwwfHx8fDE3NzI5NTE1OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="밥그릇 (rice bowl)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;고연봉을 받는 현대차 노조의 ‘밥그릇 지키기’가 얄밉다고 느낄 수도 있다&lt;br/&gt;&lt;em&gt;One might feel resentful about the Hyundai Motor union's 'protecting their rice bowl' for receiving high annual salaries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;밥그릇 싸움이었습니다&lt;br/&gt;&lt;em&gt;It was a rice bowl fight.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이들은 ‘친이’와 ‘친박’의 밥그릇 싸움을 ‘실용 보수’와 ‘정통 보수’의 이념 대결, 노선 투쟁으로 포장하는 데 성공했습니다&lt;br/&gt;&lt;em&gt;They successfully packaged the 'pro-Lee' and 'pro-Park' rice bowl fight as an ideological confrontation and line struggle between 'pragmatic conservatives' and 'orthodox conservatives'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;밥그릇이 테이블 위에 있어요.&lt;br/&gt;&lt;em&gt;The rice bowl is on the table.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 밥그릇을 씻어요.&lt;br/&gt;&lt;em&gt;I wash the rice bowl.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1628521061262-19b5cdb7eee5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwYm93bHxlbnwwfHx8fDE3NzI5NTE1OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="밥그릇 (rice bowl)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;고연봉을 받는 현대차 노조의 ‘밥그릇 지키기’가 얄밉다고 느낄 수도 있다&lt;br/&gt;&lt;em&gt;One might feel resentful about the Hyundai Motor union's 'protecting their rice bowl' for receiving high annual salaries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;밥그릇 싸움이었습니다&lt;br/&gt;&lt;em&gt;It was a rice bowl fight.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이들은 ‘친이’와 ‘친박’의 밥그릇 싸움을 ‘실용 보수’와 ‘정통 보수’의 이념 대결, 노선 투쟁으로 포장하는 데 성공했습니다&lt;br/&gt;&lt;em&gt;They successfully packaged the 'pro-Lee' and 'pro-Park' rice bowl fight as an ideological confrontation and line struggle between 'pragmatic conservatives' and 'orthodox conservatives'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;밥그릇이 테이블 위에 있어요.&lt;br/&gt;&lt;em&gt;The rice bowl is on the table.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 밥그릇을 씻어요.&lt;br/&gt;&lt;em&gt;I wash the rice bowl.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 08 Mar 2026 15:33:22 +0900</pubDate><guid isPermaLink="false">vocab-c4c8b9dbd757db55abb5e5f8a397f92f687919c3</guid><enclosure url="https://images.unsplash.com/photo-1628521061262-19b5cdb7eee5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwYm93bHxlbnwwfHx8fDE3NzI5NTE1OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="489433" /><ns2:content url="https://images.unsplash.com/photo-1628521061262-19b5cdb7eee5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwYm93bHxlbnwwfHx8fDE3NzI5NTE1OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1628521061262-19b5cdb7eee5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwYm93bHxlbnwwfHx8fDE3NzI5NTE1OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>밥그릇</category></item><item><title>결과다 – It is the result</title><link>urn:urn:vocab:결과다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1764123108291-0f48d2c7e563?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwdGhlJTIwcmVzdWx0fGVufDB8fHx8MTc3Mjk0NDEwM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="결과다 (It is the result)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;현장에서 듣는 “연구에 집중하기 최적”이란 말은 결국 돈이 아니라 조건의 묶음이 작동한 결과다&lt;br/&gt;&lt;em&gt;The phrase 'optimal for focusing on research' heard on-site is ultimately the result of a bundle of conditions working, not money.&lt;/em&gt;&lt;/p&gt;
