@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 03:14:49 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 05:37:44 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>회화 – painting</title><link>urn:urn:vocab:회화</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>회화를 – painting (or conversation, depending on context)</title><link>urn:urn:vocab:회화를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632067694866-de074902e56f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYWludGluZyUyMCUyOG9yJTIwY29udmVyc2F0aW9uJTJDJTIwZGVwZW5kaW5nJTIwb24lMjBjb250ZXh0JTI5fGVufDB8fHx8MTc3MzAwMjI1Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="회화를 (painting (or conversation, depending on context))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Art Informel and Abstract Expressionism&lt;/b&gt; ( 미술사에서 모더니즘의 본격적인 시작 시점은 인상주의이고, 그 완성은 회화를 최소한의 기본 요소로 분석해 회화의 영도(靈度)에 도달한 추상회화로 보는 것이 일반적이다&lt;br/&gt;&lt;em&gt;In art history, the full-fledged beginning of modernism is generally considered to be Impressionism, and its completion is typically seen as abstract painting, which analyzes painting into its minimal basic elements to reach the spirituality of painting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그렇다면 모더니즘은 1860년대에 시작해 1910년대에 정점에 도달했고, 이후 다다와 초현실주의는 모더니즘 회화를 비롯한 기존 미술 일반을 향한 반발로 정의할 수 있다&lt;br/&gt;&lt;em&gt;Thus, modernism began in the 1860s, reached its peak in the 1910s, and thereafter, Dada and Surrealism can be defined as a backlash against existing art in general, including modernist painting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그런데 제2차 세계대전이 끝난 뒤 추상회화는 새로운 양식으로 다시 등장했고, 전후 최대 강국으로 부상한 미국이 미술의 주도권을 유럽으로부터 가져오기 위한 문화전쟁의 와중에 모더니즘 회화를 정의하는 논의가 본격화됐다&lt;br/&gt;&lt;em&gt;However, after World War II, abstract painting re-emerged as a new style, and discussions to define modernist painting intensified amid the cultural war as the United States, which had risen as the post-war superpower, sought to take the lead in art from Europe.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 회화를 좋아해요.&lt;br/&gt;&lt;em&gt;I like conversation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;회화를 배우고 싶어요.&lt;br/&gt;&lt;em&gt;I want to learn conversation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632067694866-de074902e56f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYWludGluZyUyMCUyOG9yJTIwY29udmVyc2F0aW9uJTJDJTIwZGVwZW5kaW5nJTIwb24lMjBjb250ZXh0JTI5fGVufDB8fHx8MTc3MzAwMjI1Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="회화를 (painting (or conversation, depending on context))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Art Informel and Abstract Expressionism&lt;/b&gt; ( 미술사에서 모더니즘의 본격적인 시작 시점은 인상주의이고, 그 완성은 회화를 최소한의 기본 요소로 분석해 회화의 영도(靈度)에 도달한 추상회화로 보는 것이 일반적이다&lt;br/&gt;&lt;em&gt;In art history, the full-fledged beginning of modernism is generally considered to be Impressionism, and its completion is typically seen as abstract painting, which analyzes painting into its minimal basic elements to reach the spirituality of painting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그렇다면 모더니즘은 1860년대에 시작해 1910년대에 정점에 도달했고, 이후 다다와 초현실주의는 모더니즘 회화를 비롯한 기존 미술 일반을 향한 반발로 정의할 수 있다&lt;br/&gt;&lt;em&gt;Thus, modernism began in the 1860s, reached its peak in the 1910s, and thereafter, Dada and Surrealism can be defined as a backlash against existing art in general, including modernist painting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그런데 제2차 세계대전이 끝난 뒤 추상회화는 새로운 양식으로 다시 등장했고, 전후 최대 강국으로 부상한 미국이 미술의 주도권을 유럽으로부터 가져오기 위한 문화전쟁의 와중에 모더니즘 회화를 정의하는 논의가 본격화됐다&lt;br/&gt;&lt;em&gt;However, after World War II, abstract painting re-emerged as a new style, and discussions to define modernist painting intensified amid the cultural war as the United States, which had risen as the post-war superpower, sought to take the lead in art from Europe.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 회화를 좋아해요.&lt;br/&gt;&lt;em&gt;I like conversation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;회화를 배우고 싶어요.&lt;br/&gt;&lt;em&gt;I want to learn conversation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 09 Mar 2026 05:37:44 +0900</pubDate><guid isPermaLink="false">vocab-158d8eb648e382f2eb7c817845f16c524c936515</guid><enclosure url="https://images.unsplash.com/photo-1632067694866-de074902e56f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYWludGluZyUyMCUyOG9yJTIwY29udmVyc2F0aW9uJTJDJTIwZGVwZW5kaW5nJTIwb24lMjBjb250ZXh0JTI5fGVufDB8fHx8MTc3MzAwMjI1Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="71170" /><ns2:content url="https://images.unsplash.com/photo-1632067694866-de074902e56f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYWludGluZyUyMCUyOG9yJTIwY29udmVyc2F0aW9uJTJDJTIwZGVwZW5kaW5nJTIwb24lMjBjb250ZXh0JTI5fGVufDB8fHx8MTc3MzAwMjI1Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1632067694866-de074902e56f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYWludGluZyUyMCUyOG9yJTIwY29udmVyc2F0aW9uJTJDJTIwZGVwZW5kaW5nJTIwb24lMjBjb250ZXh0JTI5fGVufDB8fHx8MTc3MzAwMjI1Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>회화를</category></item><item><title>회화 – painting</title><link>urn:urn:vocab:회화</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1579783928621-7a13d66a62d1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYWludGluZ3xlbnwwfHx8fDE3NzI5OTM2Nzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="회화 (painting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이 비용을 사회화하지 않고서는 더 이상 버틸 수 없다&lt;br/&gt;&lt;em&gt;We can no longer sustain this without socializing the cost.&lt;/em&gt;&lt;/p&gt;
