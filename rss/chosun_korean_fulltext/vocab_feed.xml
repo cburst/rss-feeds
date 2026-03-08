@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 09:17:57 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 11:24:20 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,25 @@
 
 
 
-  <item><title>조사원 – surveyor</title><link>urn:urn:vocab:조사원</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>알겠습니다 – I understand / I see</title><link>urn:urn:vocab:알겠습니다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘아니 무슨 말씀이시냐, 저한테 명함도 주셨었다’고 하니 ‘네 알겠습니다’라고만 했다&lt;br/&gt;&lt;em&gt;When I said, 'What do you mean? You even gave me your business card,' he only replied, 'Yes, I understand.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김 실장은 ‘알겠습니다’ 하면서 대화를 급히 끝내고, 그다음 행사 도중 자리를 떴다&lt;br/&gt;&lt;em&gt;Manager Kim ended the conversation hastily by saying, 'I understand,' and then left his seat during the event.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;네, 알겠습니다.&lt;br/&gt;&lt;em&gt;Yes, I understand.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;알겠습니다, 감사합니다.&lt;br/&gt;&lt;em&gt;Understood, thank you.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘아니 무슨 말씀이시냐, 저한테 명함도 주셨었다’고 하니 ‘네 알겠습니다’라고만 했다&lt;br/&gt;&lt;em&gt;When I said, 'What do you mean? You even gave me your business card,' he only replied, 'Yes, I understand.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김 실장은 ‘알겠습니다’ 하면서 대화를 급히 끝내고, 그다음 행사 도중 자리를 떴다&lt;br/&gt;&lt;em&gt;Manager Kim ended the conversation hastily by saying, 'I understand,' and then left his seat during the event.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;네, 알겠습니다.&lt;br/&gt;&lt;em&gt;Yes, I understand.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;알겠습니다, 감사합니다.&lt;br/&gt;&lt;em&gt;Understood, thank you.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 08 Mar 2026 11:24:20 +0900</pubDate><guid isPermaLink="false">vocab-5004cd998cafc57d50ba8e20743dd5f01ecec89d</guid><category>알겠습니다</category></item><item><title>조사원 – surveyor</title><link>urn:urn:vocab:조사원</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1628158088936-68ccaaa400dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXJ2ZXlvcnxlbnwwfHx8fDE3NzI5MjkwNzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="조사원 (surveyor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;야권의 당권파 인사들은 비공식 석상에서 ‘여론조사 업체 조사원들이 중국인’이란 말을 노골적으로 할 정도다&lt;br/&gt;&lt;em&gt;Opposition party figures have even openly stated in unofficial settings that 'the pollsters conducting the surveys are Chinese'.&lt;/em&gt;&lt;/p&gt;
