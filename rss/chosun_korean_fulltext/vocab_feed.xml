@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 07:10:31 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 09:17:57 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>여론조사 – opinion poll</title><link>urn:urn:vocab:여론조사</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>조사원 – surveyor</title><link>urn:urn:vocab:조사원</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1628158088936-68ccaaa400dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXJ2ZXlvcnxlbnwwfHx8fDE3NzI5MjkwNzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="조사원 (surveyor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;야권의 당권파 인사들은 비공식 석상에서 ‘여론조사 업체 조사원들이 중국인’이란 말을 노골적으로 할 정도다&lt;br/&gt;&lt;em&gt;Opposition party figures have even openly stated in unofficial settings that 'the pollsters conducting the surveys are Chinese'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소형 헤드셋을 착용한 조사원들이 대형 독서실을 연상케 하는 100석 규모의 공간을 빼곡히 메운 채 자리를 지키고 있었다&lt;br/&gt;&lt;em&gt;Surveyors wearing small headsets were densely packed in a 100-seat space reminiscent of a large reading room, holding their positions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 무심히 종료되는 통화에도 조사원들의 표정에는 흔들림이 없었다&lt;br/&gt;&lt;em&gt;However, even as calls ended indifferently, there was no wavering in the surveyors' expressions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;조사원이 일을 합니다.&lt;br/&gt;&lt;em&gt;The investigator does the work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;조사원이 설문을 합니다.&lt;br/&gt;&lt;em&gt;The investigator conducts the survey.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1628158088936-68ccaaa400dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXJ2ZXlvcnxlbnwwfHx8fDE3NzI5MjkwNzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="조사원 (surveyor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;야권의 당권파 인사들은 비공식 석상에서 ‘여론조사 업체 조사원들이 중국인’이란 말을 노골적으로 할 정도다&lt;br/&gt;&lt;em&gt;Opposition party figures have even openly stated in unofficial settings that 'the pollsters conducting the surveys are Chinese'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소형 헤드셋을 착용한 조사원들이 대형 독서실을 연상케 하는 100석 규모의 공간을 빼곡히 메운 채 자리를 지키고 있었다&lt;br/&gt;&lt;em&gt;Surveyors wearing small headsets were densely packed in a 100-seat space reminiscent of a large reading room, holding their positions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 무심히 종료되는 통화에도 조사원들의 표정에는 흔들림이 없었다&lt;br/&gt;&lt;em&gt;However, even as calls ended indifferently, there was no wavering in the surveyors' expressions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;조사원이 일을 합니다.&lt;br/&gt;&lt;em&gt;The investigator does the work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;조사원이 설문을 합니다.&lt;br/&gt;&lt;em&gt;The investigator conducts the survey.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 08 Mar 2026 09:17:57 +0900</pubDate><guid isPermaLink="false">vocab-9930fa55621bec11987921723619495a38523e60</guid><enclosure url="https://images.unsplash.com/photo-1628158088936-68ccaaa400dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXJ2ZXlvcnxlbnwwfHx8fDE3NzI5MjkwNzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="129588" /><ns2:content url="https://images.unsplash.com/photo-1628158088936-68ccaaa400dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXJ2ZXlvcnxlbnwwfHx8fDE3NzI5MjkwNzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1628158088936-68ccaaa400dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXJ2ZXlvcnxlbnwwfHx8fDE3NzI5MjkwNzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>조사원</category></item><item><title>여론조사 – opinion poll</title><link>urn:urn:vocab:여론조사</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1638281269990-8fbe0db9375e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGluaW9uJTIwcG9sbHxlbnwwfHx8fDE3NzI5MjE0MjN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="여론조사 (opinion poll)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;”… We Visited a Telephone Survey Center (“여론조사, 그거 조작 아니냐”…전화조사실, 직접 가보니 ) &lt;&lt;br/&gt;&lt;em&gt;"...We Visited a Telephone Survey Center ("Public Opinion Polls, Aren't They Manipulated?"...A Visit to a Telephone Survey Center) &lt;&lt;/em&gt;&lt;/p&gt;
