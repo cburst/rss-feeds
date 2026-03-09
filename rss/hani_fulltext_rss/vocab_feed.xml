@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 13:06:39 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 15:40:21 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>실력을 – ability/skill</title><link>urn:urn:vocab:실력을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>거래가 – transaction</title><link>urn:urn:vocab:거래가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc2FjdGlvbnxlbnwwfHx8fDE3NzMwMzg0MDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="거래가 (transaction)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지난해 10·15 대책 이후 아파트 대출 규제가 강화된 가운데 중대형 면적 오피스텔 거래가 크게 확대되면서 일부 아파트 매수 수요가 오피스텔로 이동하는 모습을 보였다&lt;br/&gt;&lt;em&gt;After the October 15 measures last year, as apartment loan regulations were strengthened and transactions of medium-to-large-sized officetels expanded significantly, some apartment purchase demand shifted to officetels.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(9일 직방 빅데이터랩이 국토교통부 실거래가 자료를 분석해보니, 지난 1월 전국 오피스텔 거래량이 3366건으로 1년 전 같은 달(2033건)과 견줘 65&lt;br/&gt;&lt;em&gt;(According to an analysis of Ministry of Land, Infrastructure and Transport's actual transaction price data by Zigbang Big Data Lab on the 9th, last January, nationwide officetel transactions totaled 3,366 cases, a 65% increase compared to the same month a year earlier (2,033 cases).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4%를 차지한 가운데, 전용 60㎡~85㎡ 중대형 오피스텔 거래가 542건으로 1년 전(239건)보다 126&lt;br/&gt;&lt;em&gt;4% of the total, with transactions of medium-to-large-sized officetels (exclusive area 60㎡~85㎡) reaching 542 cases, a 126% increase from a year earlier (239 cases).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;거래가 완료되었습니다.&lt;br/&gt;&lt;em&gt;The transaction has been completed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;거래가 쉽습니다.&lt;br/&gt;&lt;em&gt;The transaction is easy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc2FjdGlvbnxlbnwwfHx8fDE3NzMwMzg0MDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="거래가 (transaction)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지난해 10·15 대책 이후 아파트 대출 규제가 강화된 가운데 중대형 면적 오피스텔 거래가 크게 확대되면서 일부 아파트 매수 수요가 오피스텔로 이동하는 모습을 보였다&lt;br/&gt;&lt;em&gt;After the October 15 measures last year, as apartment loan regulations were strengthened and transactions of medium-to-large-sized officetels expanded significantly, some apartment purchase demand shifted to officetels.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(9일 직방 빅데이터랩이 국토교통부 실거래가 자료를 분석해보니, 지난 1월 전국 오피스텔 거래량이 3366건으로 1년 전 같은 달(2033건)과 견줘 65&lt;br/&gt;&lt;em&gt;(According to an analysis of Ministry of Land, Infrastructure and Transport's actual transaction price data by Zigbang Big Data Lab on the 9th, last January, nationwide officetel transactions totaled 3,366 cases, a 65% increase compared to the same month a year earlier (2,033 cases).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4%를 차지한 가운데, 전용 60㎡~85㎡ 중대형 오피스텔 거래가 542건으로 1년 전(239건)보다 126&lt;br/&gt;&lt;em&gt;4% of the total, with transactions of medium-to-large-sized officetels (exclusive area 60㎡~85㎡) reaching 542 cases, a 126% increase from a year earlier (239 cases).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;거래가 완료되었습니다.&lt;br/&gt;&lt;em&gt;The transaction has been completed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;거래가 쉽습니다.&lt;br/&gt;&lt;em&gt;The transaction is easy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 09 Mar 2026 15:40:21 +0900</pubDate><guid isPermaLink="false">vocab-11c556563c4a4143f1e04f05c80552e9ca4c3f22</guid><enclosure url="https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc2FjdGlvbnxlbnwwfHx8fDE3NzMwMzg0MDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="59388" /><ns2:content url="https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc2FjdGlvbnxlbnwwfHx8fDE3NzMwMzg0MDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc2FjdGlvbnxlbnwwfHx8fDE3NzMwMzg0MDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>거래가</category></item><item><title>실력을 – ability/skill</title><link>urn:urn:vocab:실력을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1601992991989-3b710b759094?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYmlsaXR5JTJGc2tpbGx8ZW58MHx8fHwxNzczMDI5MTg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실력을 (ability/skill)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (황미용 작가는 “겨울방학 동안 선행학습보다는 올바른 생활 및 스스로 공부 습관 만들기와 더불어 1년 동안 배운 내용을 복습해 기초 실력을 탄탄하게 다질 것을 추천한다”며 “영어는 듣기 위주로 기초를 다지고, 고학년으로 올라갈수록 어려움을 느끼는 수학은 연산, 도형, 수식, 사고력 등 부족한 부분의 문제집 풀기와 함께 오답 관리, 반복 풀기를 통해 완벽하게 습득해야 한다”고 말했다&lt;br/&gt;&lt;em&gt;Writer Hwang Mi-yong recommended, "During winter break, rather than advanced learning, I suggest establishing proper living habits and self-study routines while reviewing the year's lessons to solidify foundational skills. For English, focus on listening to strengthen basics, and for math—which becomes more challenging in higher grades—master it completely by working on problem sets in weak areas like arithmetic, geometry, equations, and logical thinking, along with error management and repeated practice."&lt;/em&gt;&lt;/p&gt;
