@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 08:06:38 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 13:06:53 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,49 @@
 
 
 
-  <item><title>지원자가 – applicant</title><link>urn:urn:vocab:지원자가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>특징주 – featured stock</title><link>urn:urn:vocab:특징주</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1639154968821-6dbc3efb8d23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZWF0dXJlZCUyMHN0b2NrfGVufDB8fHx8MTc3MzAyOTIwMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="특징주 (featured stock)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4em;"&gt;[특징주] 센서뷰, LIG넥스원 계약 수주 소식에 3거래일 연속 강세&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[Featured Stock] SensorView surges for 3 consecutive trading days on news of LIG Nex1 contract win&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;[특징주] ‘유가·환율' 급등에…현대차·기아 9% 급락&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[Featured Stock] Hyundai Motor and Kia plunge 9% on sharp rise in oil prices and exchange rates&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;[특징주] 국제 유가 급등 소식에…항공주 폭락 &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[Featured Stock] Airline stocks plummet on news of international oil price surge&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 특징주는 인기가 많아요.&lt;br/&gt;&lt;em&gt;This featured stock is very popular.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특징주를 오늘 샀어요.&lt;br/&gt;&lt;em&gt;I bought the featured stock today.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1639154968821-6dbc3efb8d23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZWF0dXJlZCUyMHN0b2NrfGVufDB8fHx8MTc3MzAyOTIwMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="특징주 (featured stock)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4em;"&gt;[특징주] 센서뷰, LIG넥스원 계약 수주 소식에 3거래일 연속 강세&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[Featured Stock] SensorView surges for 3 consecutive trading days on news of LIG Nex1 contract win&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;[특징주] ‘유가·환율' 급등에…현대차·기아 9% 급락&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[Featured Stock] Hyundai Motor and Kia plunge 9% on sharp rise in oil prices and exchange rates&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;[특징주] 국제 유가 급등 소식에…항공주 폭락 &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[Featured Stock] Airline stocks plummet on news of international oil price surge&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 특징주는 인기가 많아요.&lt;br/&gt;&lt;em&gt;This featured stock is very popular.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특징주를 오늘 샀어요.&lt;br/&gt;&lt;em&gt;I bought the featured stock today.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 09 Mar 2026 13:06:53 +0900</pubDate><guid isPermaLink="false">vocab-735dd7c361fdb57e9656ba307ca3c1a1b61562e2</guid><enclosure url="https://images.unsplash.com/photo-1639154968821-6dbc3efb8d23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZWF0dXJlZCUyMHN0b2NrfGVufDB8fHx8MTc3MzAyOTIwMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="209852" /><ns2:content url="https://images.unsplash.com/photo-1639154968821-6dbc3efb8d23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZWF0dXJlZCUyMHN0b2NrfGVufDB8fHx8MTc3MzAyOTIwMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1639154968821-6dbc3efb8d23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZWF0dXJlZCUyMHN0b2NrfGVufDB8fHx8MTc3MzAyOTIwMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>특징주</category></item><item><title>전체가 – all, whole, entire</title><link>urn:urn:vocab:전체가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개혁 대상은 전체가 아닌 문제가 있는 일부 대상에 국한해야 한다는 것이다&lt;br/&gt;&lt;em&gt;The reform should target not the whole but only the problematic parts.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;어느 조직이든 구성원 전체가 아닌 일부가 문제인 만큼, 외과 수술처럼 문제만 잘라내는 게 맞다는 의미다&lt;br/&gt;&lt;em&gt;Since in any organization, it's only a part, not all members, that are problematic, it means that, like in surgery, only the problematic parts should be cut out.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 그러면서도 “저의 대한민국 사법부 전체에 대한 일반적 신뢰는 인혁당이나 조봉암 사건 같은 사법 살인 범죄, 선거법 1심 판결이나 대법원 파기환송으로 상당히 훼손되긴 했지만, 구속영장 기각이나 위증교사판결 선거법사건 항소심 무죄판결에서 보는 것처럼 사법부정은 법원 전체가 아니라 일부의 문제임을 알 수 있다”고 했다&lt;br/&gt;&lt;em&gt;President Lee said, "My general trust in the entire judiciary of the Republic of Korea has been significantly damaged by judicial murder crimes like the Inhyeokdang or Jo Bong-am cases, or by first-instance election law rulings or Supreme Court reversals, but as seen in the rejection of arrest warrants, perjury-instigation rulings, or acquittals in election law case appeals, judicial corruption is not a problem of the entire court but only a part of it."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전체가 아름답습니다.&lt;br/&gt;&lt;em&gt;Everything is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전체가 조용합니다.&lt;br/&gt;&lt;em&gt;Everything is quiet.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개혁 대상은 전체가 아닌 문제가 있는 일부 대상에 국한해야 한다는 것이다&lt;br/&gt;&lt;em&gt;The reform should target not the whole but only the problematic parts.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;어느 조직이든 구성원 전체가 아닌 일부가 문제인 만큼, 외과 수술처럼 문제만 잘라내는 게 맞다는 의미다&lt;br/&gt;&lt;em&gt;Since in any organization, it's only a part, not all members, that are problematic, it means that, like in surgery, only the problematic parts should be cut out.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 그러면서도 “저의 대한민국 사법부 전체에 대한 일반적 신뢰는 인혁당이나 조봉암 사건 같은 사법 살인 범죄, 선거법 1심 판결이나 대법원 파기환송으로 상당히 훼손되긴 했지만, 구속영장 기각이나 위증교사판결 선거법사건 항소심 무죄판결에서 보는 것처럼 사법부정은 법원 전체가 아니라 일부의 문제임을 알 수 있다”고 했다&lt;br/&gt;&lt;em&gt;President Lee said, "My general trust in the entire judiciary of the Republic of Korea has been significantly damaged by judicial murder crimes like the Inhyeokdang or Jo Bong-am cases, or by first-instance election law rulings or Supreme Court reversals, but as seen in the rejection of arrest warrants, perjury-instigation rulings, or acquittals in election law case appeals, judicial corruption is not a problem of the entire court but only a part of it."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전체가 아름답습니다.&lt;br/&gt;&lt;em&gt;Everything is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전체가 조용합니다.&lt;br/&gt;&lt;em&gt;Everything is quiet.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 09 Mar 2026 10:36:00 +0900</pubDate><guid isPermaLink="false">vocab-4ab807a656d1de9822ac9d49d6804499d63bc421</guid><category>전체가</category></item><item><title>지원자가 – applicant</title><link>urn:urn:vocab:지원자가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1698047681432-006d2449c631?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHBsaWNhbnR8ZW58MHx8fHwxNzczMDExMTkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지원자가 (applicant)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(국민의힘은 6·3 지방선거 광역단체장 후보자 접수 마감일인 8일 총 38명의 지원자가 접수했다고 밝혔다&lt;br/&gt;&lt;em&gt;(The People Power Party announced that a total of 38 applicants submitted their applications on the 8th, the deadline for accepting candidates for the June 3 local elections' metropolitan government heads)&lt;/em&gt;&lt;/p&gt;

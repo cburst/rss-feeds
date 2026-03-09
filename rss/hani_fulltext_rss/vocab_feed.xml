@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 08:06:29 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 13:06:39 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>의견은 – opinion</title><link>urn:urn:vocab:의견은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>실력을 – ability/skill</title><link>urn:urn:vocab:실력을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1601992991989-3b710b759094?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYmlsaXR5JTJGc2tpbGx8ZW58MHx8fHwxNzczMDI5MTg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실력을 (ability/skill)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (황미용 작가는 “겨울방학 동안 선행학습보다는 올바른 생활 및 스스로 공부 습관 만들기와 더불어 1년 동안 배운 내용을 복습해 기초 실력을 탄탄하게 다질 것을 추천한다”며 “영어는 듣기 위주로 기초를 다지고, 고학년으로 올라갈수록 어려움을 느끼는 수학은 연산, 도형, 수식, 사고력 등 부족한 부분의 문제집 풀기와 함께 오답 관리, 반복 풀기를 통해 완벽하게 습득해야 한다”고 말했다&lt;br/&gt;&lt;em&gt;Writer Hwang Mi-yong recommended, "During winter break, rather than advanced learning, I suggest establishing proper living habits and self-study routines while reviewing the year's lessons to solidify foundational skills. For English, focus on listening to strengthen basics, and for math—which becomes more challenging in higher grades—master it completely by working on problem sets in weak areas like arithmetic, geometry, equations, and logical thinking, along with error management and repeated practice."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(자녀의 영어 실력을 키우고 싶다면 겨울방학 동안 꾸준히 영어책을 읽는 것을 추천한다&lt;br/&gt;&lt;em&gt;If you want to improve your child's English skills, I recommend consistently reading English books during winter break.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(독서는 역사, 사회, 과학, 예술, 환경 등 교과와 연계된 주제의 배경지식을 넓히고, 글쓰기 실력을 키우는 데 도움을 준다&lt;br/&gt;&lt;em&gt;Reading helps broaden background knowledge on topics linked to subjects like history, social studies, science, art, and environment, and aids in developing writing skills.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 실력을 키우고 싶어요.&lt;br/&gt;&lt;em&gt;I want to improve my skills.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 실력을 보여줬어요.&lt;br/&gt;&lt;em&gt;He demonstrated his skills.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1601992991989-3b710b759094?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYmlsaXR5JTJGc2tpbGx8ZW58MHx8fHwxNzczMDI5MTg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실력을 (ability/skill)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (황미용 작가는 “겨울방학 동안 선행학습보다는 올바른 생활 및 스스로 공부 습관 만들기와 더불어 1년 동안 배운 내용을 복습해 기초 실력을 탄탄하게 다질 것을 추천한다”며 “영어는 듣기 위주로 기초를 다지고, 고학년으로 올라갈수록 어려움을 느끼는 수학은 연산, 도형, 수식, 사고력 등 부족한 부분의 문제집 풀기와 함께 오답 관리, 반복 풀기를 통해 완벽하게 습득해야 한다”고 말했다&lt;br/&gt;&lt;em&gt;Writer Hwang Mi-yong recommended, "During winter break, rather than advanced learning, I suggest establishing proper living habits and self-study routines while reviewing the year's lessons to solidify foundational skills. For English, focus on listening to strengthen basics, and for math—which becomes more challenging in higher grades—master it completely by working on problem sets in weak areas like arithmetic, geometry, equations, and logical thinking, along with error management and repeated practice."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(자녀의 영어 실력을 키우고 싶다면 겨울방학 동안 꾸준히 영어책을 읽는 것을 추천한다&lt;br/&gt;&lt;em&gt;If you want to improve your child's English skills, I recommend consistently reading English books during winter break.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(독서는 역사, 사회, 과학, 예술, 환경 등 교과와 연계된 주제의 배경지식을 넓히고, 글쓰기 실력을 키우는 데 도움을 준다&lt;br/&gt;&lt;em&gt;Reading helps broaden background knowledge on topics linked to subjects like history, social studies, science, art, and environment, and aids in developing writing skills.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 실력을 키우고 싶어요.&lt;br/&gt;&lt;em&gt;I want to improve my skills.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 실력을 보여줬어요.&lt;br/&gt;&lt;em&gt;He demonstrated his skills.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 09 Mar 2026 13:06:39 +0900</pubDate><guid isPermaLink="false">vocab-f9600d8c7f55dc0226c54611c083658564c39770</guid><enclosure url="https://images.unsplash.com/photo-1601992991989-3b710b759094?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYmlsaXR5JTJGc2tpbGx8ZW58MHx8fHwxNzczMDI5MTg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="188406" /><ns2:content url="https://images.unsplash.com/photo-1601992991989-3b710b759094?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYmlsaXR5JTJGc2tpbGx8ZW58MHx8fHwxNzczMDI5MTg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1601992991989-3b710b759094?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYmlsaXR5JTJGc2tpbGx8ZW58MHx8fHwxNzczMDI5MTg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>실력을</category></item><item><title>기르는 – raising/cultivating</title><link>urn:urn:vocab:기르는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1665010092501-8ff90c6245fc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYWlzaW5nJTJGY3VsdGl2YXRpbmd8ZW58MHx8fHwxNzczMDIwMTM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기르는 (raising/cultivating)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대학 측은 “최첨단 원격 학습 시스템을 기반으로 과학과 도학에 입각한 전인적 인재를 양성하고, 소통과 협력을 통해 공동체에 기여하는 실천적 지성을 기르는 교육기관으로 발전해 나가겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;The university stated, "We will develop into an educational institution that cultivates holistic talents based on science and ethics through cutting-edge remote learning systems, and fosters practical intelligence that contributes to the community through communication and cooperation."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (겨울방학은 독서 습관을 기르는 최적기라고 할 수 있다&lt;br/&gt;&lt;em&gt;"Winter vacation can be said to be the optimal time to develop reading habits."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이러한 선택지를 직접 계획하고 실천하는 과정에서 아이는 인내심을 기르는 연습을 할 수 있다&lt;br/&gt;&lt;em&gt;In the process of directly planning and implementing these choices, children can practice cultivating patience.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 꽃을 기르는 사람이야.&lt;br/&gt;&lt;em&gt;I am a person who raises flowers.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 강아지를 기르는 중이야.&lt;br/&gt;&lt;em&gt;He is raising a puppy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1665010092501-8ff90c6245fc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYWlzaW5nJTJGY3VsdGl2YXRpbmd8ZW58MHx8fHwxNzczMDIwMTM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기르는 (raising/cultivating)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대학 측은 “최첨단 원격 학습 시스템을 기반으로 과학과 도학에 입각한 전인적 인재를 양성하고, 소통과 협력을 통해 공동체에 기여하는 실천적 지성을 기르는 교육기관으로 발전해 나가겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;The university stated, "We will develop into an educational institution that cultivates holistic talents based on science and ethics through cutting-edge remote learning systems, and fosters practical intelligence that contributes to the community through communication and cooperation."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (겨울방학은 독서 습관을 기르는 최적기라고 할 수 있다&lt;br/&gt;&lt;em&gt;"Winter vacation can be said to be the optimal time to develop reading habits."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이러한 선택지를 직접 계획하고 실천하는 과정에서 아이는 인내심을 기르는 연습을 할 수 있다&lt;br/&gt;&lt;em&gt;In the process of directly planning and implementing these choices, children can practice cultivating patience.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 꽃을 기르는 사람이야.&lt;br/&gt;&lt;em&gt;I am a person who raises flowers.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 강아지를 기르는 중이야.&lt;br/&gt;&lt;em&gt;He is raising a puppy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 09 Mar 2026 10:35:46 +0900</pubDate><guid isPermaLink="false">vocab-a3a0710def45dc9bfb984933b1491c65829a1fc5</guid><enclosure url="https://images.unsplash.com/photo-1665010092501-8ff90c6245fc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYWlzaW5nJTJGY3VsdGl2YXRpbmd8ZW58MHx8fHwxNzczMDIwMTM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="88346" /><ns2:content url="https://images.unsplash.com/photo-1665010092501-8ff90c6245fc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYWlzaW5nJTJGY3VsdGl2YXRpbmd8ZW58MHx8fHwxNzczMDIwMTM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1665010092501-8ff90c6245fc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYWlzaW5nJTJGY3VsdGl2YXRpbmd8ZW58MHx8fHwxNzczMDIwMTM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기르는</category></item><item><title>의견은 – opinion</title><link>urn:urn:vocab:의견은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598363431659-330370aaaa7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGluaW9ufGVufDB8fHx8MTc3MzAxMTE4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="의견은 (opinion)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;He should state his own position" (정청래 “조희대 탄핵, 지도부 공식 의견은 아냐…스스로 거취 표명해야”) &lt;&lt;br/&gt;&lt;em&gt;"He should state his own position" (Jung Cheong-rae: "The impeachment of Chief Justice Cho Hee-dae is not the official opinion of the leadership... He should state his own position") &lt;&lt;/em&gt;&lt;/p&gt;
