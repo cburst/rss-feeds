@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 11:05:03 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 13:13:30 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>한마디 – a word, a remark</title><link>urn:urn:vocab:한마디</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>가난하고 – poor and</title><link>urn:urn:vocab:가난하고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633910477589-57ae806576cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb29yJTIwYW5kfGVufDB8fHx8MTc3MzExNjAwMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가난하고 (poor and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(‘在於有德之國(재어유덕지국·덕이 있는 나라에 있으면) 貧而賤者恥也(빈이천자치야·가난하고 신분이 낮은 것이 부끄럽고) 然而在於無德之國(연이재어무덕지국·그러나 덕이 없는 나라에 있으면) 富而位高恥之尤甚者也(부이위고치지우심자야·부유하고 지위가 높은 것이 부끄러운 것은 더 심한 것이다)’&lt;br/&gt;&lt;em&gt;In a virtuous country, being poor and of low status is shameful; however, in a country without virtue, being wealthy and holding a high position is even more shameful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(貧而賤者恥也(빈이천자치야·가난하고 신분이 낮은 것이 부끄럽고))&lt;/p&gt;&lt;p&gt;Governance is about rectitude; (然而在於無德之國(연이재어무덕지국·그러나 덕이 없는 나라에 있으면))&lt;/p&gt;&lt;p&gt;It is the path of the righteous person&lt;br/&gt;&lt;em&gt;Being poor and of low status is shameful. Governance is about rectitude; however, in a country without virtue, it is the path of the righteous person.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;가난하고 배고파요.&lt;br/&gt;&lt;em&gt;I am poor and hungry.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가난하고 외로워요.&lt;br/&gt;&lt;em&gt;I am poor and lonely.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633910477589-57ae806576cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb29yJTIwYW5kfGVufDB8fHx8MTc3MzExNjAwMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가난하고 (poor and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(‘在於有德之國(재어유덕지국·덕이 있는 나라에 있으면) 貧而賤者恥也(빈이천자치야·가난하고 신분이 낮은 것이 부끄럽고) 然而在於無德之國(연이재어무덕지국·그러나 덕이 없는 나라에 있으면) 富而位高恥之尤甚者也(부이위고치지우심자야·부유하고 지위가 높은 것이 부끄러운 것은 더 심한 것이다)’&lt;br/&gt;&lt;em&gt;In a virtuous country, being poor and of low status is shameful; however, in a country without virtue, being wealthy and holding a high position is even more shameful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(貧而賤者恥也(빈이천자치야·가난하고 신분이 낮은 것이 부끄럽고))&lt;/p&gt;&lt;p&gt;Governance is about rectitude; (然而在於無德之國(연이재어무덕지국·그러나 덕이 없는 나라에 있으면))&lt;/p&gt;&lt;p&gt;It is the path of the righteous person&lt;br/&gt;&lt;em&gt;Being poor and of low status is shameful. Governance is about rectitude; however, in a country without virtue, it is the path of the righteous person.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;가난하고 배고파요.&lt;br/&gt;&lt;em&gt;I am poor and hungry.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가난하고 외로워요.&lt;br/&gt;&lt;em&gt;I am poor and lonely.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 10 Mar 2026 13:13:30 +0900</pubDate><guid isPermaLink="false">vocab-76407b63d42de1ea971bf2cad238bc22dd902a3d</guid><enclosure url="https://images.unsplash.com/photo-1633910477589-57ae806576cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb29yJTIwYW5kfGVufDB8fHx8MTc3MzExNjAwMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="70205" /><ns2:content url="https://images.unsplash.com/photo-1633910477589-57ae806576cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb29yJTIwYW5kfGVufDB8fHx8MTc3MzExNjAwMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1633910477589-57ae806576cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb29yJTIwYW5kfGVufDB8fHx8MTc3MzExNjAwMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>가난하고</category></item><item><title>한마디 – a word, a remark</title><link>urn:urn:vocab:한마디</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1588859959611-d7e33b71a383?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhJTIwd29yZCUyQyUyMGElMjByZW1hcmt8ZW58MHx8fHwxNzczMTA4MjkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="한마디 (a word, a remark)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(意恐遲遲歸(의공지지귀·혹여나 돌아오는 길이 늦어질까 걱정하시기 때문이네))&lt;/p&gt;&lt;p&gt;Who, with a heart like a blade of grass, (誰將寸草心(수장촌초심·누가 한마디 풀 같은 자식의 마음으로))&lt;/p&gt;&lt;p&gt;Can repay the warmth of the spring sun's light&lt;br/&gt;&lt;em&gt;(Because I worry that the return might be delayed) Who, with a heart like a blade of grass, can repay the warmth of the spring sun's light&lt;/em&gt;&lt;/p&gt;
