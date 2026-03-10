@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 21:38:49 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 23:44:53 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>구조로 – as a structure</title><link>urn:urn:vocab:구조로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>국토부 – Ministry of Land, Infrastructure and Transport</title><link>urn:urn:vocab:국토부</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1763475648211-26352826065a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxNaW5pc3RyeSUyMG9mJTIwTGFuZCUyQyUyMEluZnJhc3RydWN0dXJlJTIwYW5kJTIwVHJhbnNwb3J0fGVufDB8fHx8MTc3MzE1Mzg4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국토부 (Ministry of Land, Infrastructure and Transport)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국토부는 이런 잘못된 설치에도 불구하고 정기 검사 등에서 ‘취약성(부러지기 쉬운 구조)이 확보됐다’는 승인 조치를 내렸다&lt;br/&gt;&lt;em&gt;(Despite such improper installation, the Ministry of Land, Infrastructure and Transport issued approval measures stating that 'vulnerability (fragile structure) was secured' during regular inspections, etc.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(다만 이들 공항들은 무안 제주항공 참사 이후 국토부 지시에 따라 로컬라이저 구조 개선 사업을 진행했다&lt;br/&gt;&lt;em&gt;(However, these airports have been carrying out localizer structure improvement projects in accordance with the Ministry of Land, Infrastructure and Transport's instructions since the Muan Jeju Air accident&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국토부는 최근 10년간 발생한 항공기 사고 유형 10가지 중 6가지 비정상 상황만 훈련 과목에 넣도록 의무화 했는데, 여기에 조류 충돌과 동체 착륙은 포함되지 않은 것이다&lt;br/&gt;&lt;em&gt;(The Ministry of Land, Infrastructure and Transport mandated that only 6 abnormal situations out of 10 types of aircraft accidents that occurred in the past 10 years be included in training subjects, and bird strikes and belly landings were not included among them)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국토부가 일을 합니다.&lt;br/&gt;&lt;em&gt;The Ministry of Land, Infrastructure and Transport does work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국토부는 중요합니다.&lt;br/&gt;&lt;em&gt;The Ministry of Land, Infrastructure and Transport is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1763475648211-26352826065a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxNaW5pc3RyeSUyMG9mJTIwTGFuZCUyQyUyMEluZnJhc3RydWN0dXJlJTIwYW5kJTIwVHJhbnNwb3J0fGVufDB8fHx8MTc3MzE1Mzg4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국토부 (Ministry of Land, Infrastructure and Transport)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국토부는 이런 잘못된 설치에도 불구하고 정기 검사 등에서 ‘취약성(부러지기 쉬운 구조)이 확보됐다’는 승인 조치를 내렸다&lt;br/&gt;&lt;em&gt;(Despite such improper installation, the Ministry of Land, Infrastructure and Transport issued approval measures stating that 'vulnerability (fragile structure) was secured' during regular inspections, etc.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(다만 이들 공항들은 무안 제주항공 참사 이후 국토부 지시에 따라 로컬라이저 구조 개선 사업을 진행했다&lt;br/&gt;&lt;em&gt;(However, these airports have been carrying out localizer structure improvement projects in accordance with the Ministry of Land, Infrastructure and Transport's instructions since the Muan Jeju Air accident&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국토부는 최근 10년간 발생한 항공기 사고 유형 10가지 중 6가지 비정상 상황만 훈련 과목에 넣도록 의무화 했는데, 여기에 조류 충돌과 동체 착륙은 포함되지 않은 것이다&lt;br/&gt;&lt;em&gt;(The Ministry of Land, Infrastructure and Transport mandated that only 6 abnormal situations out of 10 types of aircraft accidents that occurred in the past 10 years be included in training subjects, and bird strikes and belly landings were not included among them)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국토부가 일을 합니다.&lt;br/&gt;&lt;em&gt;The Ministry of Land, Infrastructure and Transport does work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국토부는 중요합니다.&lt;br/&gt;&lt;em&gt;The Ministry of Land, Infrastructure and Transport is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 10 Mar 2026 23:44:53 +0900</pubDate><guid isPermaLink="false">vocab-56975986e2d4aebca68fdb0a89382909c5908ab1</guid><enclosure url="https://images.unsplash.com/photo-1763475648211-26352826065a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxNaW5pc3RyeSUyMG9mJTIwTGFuZCUyQyUyMEluZnJhc3RydWN0dXJlJTIwYW5kJTIwVHJhbnNwb3J0fGVufDB8fHx8MTc3MzE1Mzg4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="324898" /><ns2:content url="https://images.unsplash.com/photo-1763475648211-26352826065a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxNaW5pc3RyeSUyMG9mJTIwTGFuZCUyQyUyMEluZnJhc3RydWN0dXJlJTIwYW5kJTIwVHJhbnNwb3J0fGVufDB8fHx8MTc3MzE1Mzg4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1763475648211-26352826065a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxNaW5pc3RyeSUyMG9mJTIwTGFuZCUyQyUyMEluZnJhc3RydWN0dXJlJTIwYW5kJTIwVHJhbnNwb3J0fGVufDB8fHx8MTc3MzE1Mzg4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>국토부</category></item><item><title>구조로 – as a structure</title><link>urn:urn:vocab:구조로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1695554521399-267546693172?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBzdHJ1Y3R1cmV8ZW58MHx8fHwxNzczMTQ2MzE3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="구조로 (as a structure)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (김 의원은 “지금 공소청·중수청법은 비대해질 경찰을 어떻게 통제할 것인가에 방점이 찍혀 있다”며 “공소청과 중수청을 수직 구조로 만들고 그 밑에 경찰을 다시 놓는 입체적인 방식의 법으로 작동을 할 것”이라고 했다&lt;br/&gt;&lt;em&gt;(Assemblyman Kim said, "The current Public Prosecution Service and Central Investigation Service Act focuses on how to control the police, which is likely to become bloated," and added, "It will operate as a law in a three-dimensional way that creates a vertical structure with the Public Prosecution Service and Central Investigation Service at the top and places the police below them again.")&lt;/em&gt;&lt;/p&gt;

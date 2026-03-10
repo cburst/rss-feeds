@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 21:38:35 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 23:44:41 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>생태계를 – ecosystem</title><link>urn:urn:vocab:생태계를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>과목별 – by subject</title><link>urn:urn:vocab:과목별</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1709718679146-953c6d466642?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMHN1YmplY3R8ZW58MHx8fHwxNzczMTUzODY5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="과목별 (by subject)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;취침 및 기상 시간 정하기, 일기 쓰기, 독서, 학습(1일 과목별 공부량 등), 운동 등 매일 습관처럼 해야 하는 과제는 일정한 시간에 할 수 있도록 계획을 세우는 것이 좋다&lt;br/&gt;&lt;em&gt;It is advisable to plan to perform daily tasks that should be done habitually, such as setting bedtime and wake-up times, writing a diary, reading, studying (e.g., daily subject-specific study amounts), and exercising, at consistent times.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (우연철 소장은 “3월 고등학교 입학까지 최장 8주 남짓 주간 계획표를 세울 수 있는데, 과목별 학습 분량을 정해 주간으로 나눈 다음 매주 해야 할 분량만큼 하루 단위로 구분해 실천하도록 한다”며 “요일별로 단원이든, 구분된 페이지든 목표 분량에 맞춰 학습해야 한다”고 말했다&lt;br/&gt;&lt;em&gt;Director Woo Yeon-cheol said, "You can create a weekly schedule for up to about 8 weeks until high school admission in March. Set the study amount for each subject, divide it by week, and then break it down into daily units to practice the amount to be done each week. You should study according to the target amount, whether by unit or by divided pages, for each day of the week."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(유성룡 1318대학진학연구소장은 “2학년 때까지 치른 학력평가의 영역별 등급이 1, 2등급 이내였다면, 그동안 출제된 수능시험 기출 문제나 EBS 수능특강 등을 통해 선행적인 대비를 해도 괜찮다”며 “하지만 3등급 이하였다면 선행적인 수능시험 대비보다는 교과목별로 고교 1, 2학년 과정을 다시 복습하는 것이 무엇보다 중요하다”고 말했다&lt;br/&gt;&lt;em&gt;Director Yoo Seong-ryong of the 1318 College Advancement Research Institute said, "If the grade for each section of the academic ability assessments taken up to the second year was within grades 1 or 2, it is okay to prepare in advance through previously administered college entrance exam questions or EBS special lectures for the exam. However, if it was grade 3 or below, it is most important to review the first and second-year high school curriculum for each subject rather than preparing in advance for the college entrance exam."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;과목별로 공부해요.&lt;br/&gt;&lt;em&gt;Study by subject.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과목별 시험을 봐요.&lt;br/&gt;&lt;em&gt;Take exams by subject.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1709718679146-953c6d466642?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMHN1YmplY3R8ZW58MHx8fHwxNzczMTUzODY5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="과목별 (by subject)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;취침 및 기상 시간 정하기, 일기 쓰기, 독서, 학습(1일 과목별 공부량 등), 운동 등 매일 습관처럼 해야 하는 과제는 일정한 시간에 할 수 있도록 계획을 세우는 것이 좋다&lt;br/&gt;&lt;em&gt;It is advisable to plan to perform daily tasks that should be done habitually, such as setting bedtime and wake-up times, writing a diary, reading, studying (e.g., daily subject-specific study amounts), and exercising, at consistent times.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (우연철 소장은 “3월 고등학교 입학까지 최장 8주 남짓 주간 계획표를 세울 수 있는데, 과목별 학습 분량을 정해 주간으로 나눈 다음 매주 해야 할 분량만큼 하루 단위로 구분해 실천하도록 한다”며 “요일별로 단원이든, 구분된 페이지든 목표 분량에 맞춰 학습해야 한다”고 말했다&lt;br/&gt;&lt;em&gt;Director Woo Yeon-cheol said, "You can create a weekly schedule for up to about 8 weeks until high school admission in March. Set the study amount for each subject, divide it by week, and then break it down into daily units to practice the amount to be done each week. You should study according to the target amount, whether by unit or by divided pages, for each day of the week."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(유성룡 1318대학진학연구소장은 “2학년 때까지 치른 학력평가의 영역별 등급이 1, 2등급 이내였다면, 그동안 출제된 수능시험 기출 문제나 EBS 수능특강 등을 통해 선행적인 대비를 해도 괜찮다”며 “하지만 3등급 이하였다면 선행적인 수능시험 대비보다는 교과목별로 고교 1, 2학년 과정을 다시 복습하는 것이 무엇보다 중요하다”고 말했다&lt;br/&gt;&lt;em&gt;Director Yoo Seong-ryong of the 1318 College Advancement Research Institute said, "If the grade for each section of the academic ability assessments taken up to the second year was within grades 1 or 2, it is okay to prepare in advance through previously administered college entrance exam questions or EBS special lectures for the exam. However, if it was grade 3 or below, it is most important to review the first and second-year high school curriculum for each subject rather than preparing in advance for the college entrance exam."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;과목별로 공부해요.&lt;br/&gt;&lt;em&gt;Study by subject.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과목별 시험을 봐요.&lt;br/&gt;&lt;em&gt;Take exams by subject.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 10 Mar 2026 23:44:41 +0900</pubDate><guid isPermaLink="false">vocab-a2af4f3df9e11704d24e94c08688397c2fdad896</guid><enclosure url="https://images.unsplash.com/photo-1709718679146-953c6d466642?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMHN1YmplY3R8ZW58MHx8fHwxNzczMTUzODY5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="128446" /><ns2:content url="https://images.unsplash.com/photo-1709718679146-953c6d466642?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMHN1YmplY3R8ZW58MHx8fHwxNzczMTUzODY5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1709718679146-953c6d466642?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMHN1YmplY3R8ZW58MHx8fHwxNzczMTUzODY5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>과목별</category></item><item><title>생태계를 – ecosystem</title><link>urn:urn:vocab:생태계를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1584257274862-42aa4f6e5f55?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlY29zeXN0ZW18ZW58MHx8fHwxNzczMTQ2MzA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생태계를 (ecosystem)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;ISF는 국내에서 유일하게 유학생의 학업 이후 커리어 전주기를 아우르는 플랫폼으로, 단순한 채용 박람회를 넘어 진학·취업·창업·정착까지 연결하는 통합 생태계를 지향한다&lt;br/&gt;&lt;em&gt;ISF is the only platform in Korea that covers the entire career cycle of international students, aiming to create an integrated ecosystem that connects not just simple job fairs but also further education, employment, entrepreneurship, and settlement.&lt;/em&gt;&lt;/p&gt;
