@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 15:19:33 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 17:26:08 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>국내총생산 – Gross Domestic Product (GDP)</title><link>urn:urn:vocab:국내총생산</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기업가치 – corporate value</title><link>urn:urn:vocab:기업가치</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758691736407-02406d18df6c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjB2YWx1ZXxlbnwwfHx8fDE3NzMxMzExNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기업가치 (corporate value)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(1~3차에 걸친 통합 상법 개정으로, 앞으로 국내 기업에서 주주권 침해나 지분 희석 가능성이 큰 유상증자·전환사채 등은 기업가치 제고 목적이 충분히 설명되지 않을 경우 활용이 크게 제한될 가능성이 있다는 분석이 나온다&lt;br/&gt;&lt;em&gt;An analysis suggests that due to the integrated Commercial Act revisions (covering phases 1 to 3), the use of capital increases through paid-in capital or convertible bonds, which could significantly infringe on shareholder rights or dilute equity in domestic companies, may be greatly restricted if the purpose of enhancing corporate value is not sufficiently explained.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 주주권 침해 또는 지분 희석 가능성이 큰 유상증자, 전환사채(CB) 및 신주인수권부사채(BW) 등은 조달 필요성과 기업가치 제고와의 연계성이 충분히 설명되지 않을 경우 과거에 비해 활용이 제한될 가능성이 있다고 밝혔다&lt;br/&gt;&lt;em&gt;It was stated that particularly for paid-in capital increases, convertible bonds (CBs), and bonds with warrants (BWs), which have a high potential for infringing shareholder rights or diluting equity, their use may be more limited compared to the past if the necessity of fundraising and its connection to enhancing corporate value are not adequately explained.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(한국기업거버넌스포럼(회장 이남우)은 주가순자산비율(PBR)이 1배 미만으로 장부가치보다 주가가 낮은 상장사에 밸류업(기업가치 제고) 공시를 의무화하는 법안에 찬성한다는 뜻을 밝혔다&lt;br/&gt;&lt;em&gt;The Korea Corporate Governance Forum (Chairman Lee Nam-woo) expressed support for a bill that would mandate value-up (corporate value enhancement) disclosures for listed companies with a price-to-book ratio (PBR) below 1, meaning their stock price is lower than their book value.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기업가치는 중요합니다.&lt;br/&gt;&lt;em&gt;Corporate value is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기업가치가 높습니다.&lt;br/&gt;&lt;em&gt;Corporate value is high.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758691736407-02406d18df6c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjB2YWx1ZXxlbnwwfHx8fDE3NzMxMzExNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기업가치 (corporate value)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(1~3차에 걸친 통합 상법 개정으로, 앞으로 국내 기업에서 주주권 침해나 지분 희석 가능성이 큰 유상증자·전환사채 등은 기업가치 제고 목적이 충분히 설명되지 않을 경우 활용이 크게 제한될 가능성이 있다는 분석이 나온다&lt;br/&gt;&lt;em&gt;An analysis suggests that due to the integrated Commercial Act revisions (covering phases 1 to 3), the use of capital increases through paid-in capital or convertible bonds, which could significantly infringe on shareholder rights or dilute equity in domestic companies, may be greatly restricted if the purpose of enhancing corporate value is not sufficiently explained.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 주주권 침해 또는 지분 희석 가능성이 큰 유상증자, 전환사채(CB) 및 신주인수권부사채(BW) 등은 조달 필요성과 기업가치 제고와의 연계성이 충분히 설명되지 않을 경우 과거에 비해 활용이 제한될 가능성이 있다고 밝혔다&lt;br/&gt;&lt;em&gt;It was stated that particularly for paid-in capital increases, convertible bonds (CBs), and bonds with warrants (BWs), which have a high potential for infringing shareholder rights or diluting equity, their use may be more limited compared to the past if the necessity of fundraising and its connection to enhancing corporate value are not adequately explained.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(한국기업거버넌스포럼(회장 이남우)은 주가순자산비율(PBR)이 1배 미만으로 장부가치보다 주가가 낮은 상장사에 밸류업(기업가치 제고) 공시를 의무화하는 법안에 찬성한다는 뜻을 밝혔다&lt;br/&gt;&lt;em&gt;The Korea Corporate Governance Forum (Chairman Lee Nam-woo) expressed support for a bill that would mandate value-up (corporate value enhancement) disclosures for listed companies with a price-to-book ratio (PBR) below 1, meaning their stock price is lower than their book value.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기업가치는 중요합니다.&lt;br/&gt;&lt;em&gt;Corporate value is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기업가치가 높습니다.&lt;br/&gt;&lt;em&gt;Corporate value is high.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 10 Mar 2026 17:26:08 +0900</pubDate><guid isPermaLink="false">vocab-28b1f9fade78122b04475d10f3453b563293656f</guid><enclosure url="https://images.unsplash.com/photo-1758691736407-02406d18df6c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjB2YWx1ZXxlbnwwfHx8fDE3NzMxMzExNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="85698" /><ns2:content url="https://images.unsplash.com/photo-1758691736407-02406d18df6c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjB2YWx1ZXxlbnwwfHx8fDE3NzMxMzExNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1758691736407-02406d18df6c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjB2YWx1ZXxlbnwwfHx8fDE3NzMxMzExNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기업가치</category></item><item><title>국내총생산 – Gross Domestic Product (GDP)</title><link>urn:urn:vocab:국내총생산</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(지난해 우리나라 국내총생산(GDP) 성장률이 속보치와 같은 1&lt;br/&gt;&lt;em&gt;(Last year, South Korea's GDP growth rate was 1% as per the preliminary figure)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;(10일 한국은행이 발표한 ‘2025년 4분기 및 연간 국민소득’(잠정치) 자료를 보면, 연간 명목 국내총생산(2663조3천억원)은 전년대비 4&lt;br/&gt;&lt;em&gt;(According to the '2025 Q4 and Annual National Income' (provisional) data released by the Bank of Korea on the 10th, the annual nominal GDP (2,663.3 trillion won) increased by 4.2% compared to the previous year, and the real GDP increased by 1%)&lt;/em&gt;&lt;/p&gt;
