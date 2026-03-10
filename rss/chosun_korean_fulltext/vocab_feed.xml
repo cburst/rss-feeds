@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 17:26:18 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 19:32:45 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>생각도 – even a thought</title><link>urn:urn:vocab:생각도</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>국회의장 – Speaker of the National Assembly</title><link>urn:urn:vocab:국회의장</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1762246433142-d7d357c76cb5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTcGVha2VyJTIwb2YlMjB0aGUlMjBOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc3MzEzODc1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국회의장 (Speaker of the National Assembly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (우원식 국회의장은 개헌과 관련 “국민투표법 개정으로 개헌의 절차적 걸림돌이 해소됐다”며 “17일까지는 국회 개헌특별위원회를 구성해달라”고 10일 말했다&lt;br/&gt;&lt;em&gt;" (National Assembly Speaker Woo Won-sik said on the 10th, regarding constitutional revision, 'The procedural obstacle to constitutional revision has been resolved through the revision of the National Referendum Act,' and 'Please form a special constitutional revision committee in the National Assembly by the 17th.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (그는 “단계적 개헌으로 반드시 이번엔 개헌을 성사하자”며 “개헌 우선 의제는 국회 개헌특위에서 정리하되 현시점에서 여야가 이견 없이 합의할 수 있고 국민적 공감대가 높게 형성된 사안을 우선 검토할 수 있을 것”이라며 “이 기회에 분명히 밝혀두면 국회의장은 내각제는 일관되게 반대해 왔다”고 했다&lt;br/&gt;&lt;em&gt;" (He said, 'Let's definitely achieve constitutional revision this time through phased revision,' and 'The priority agenda for constitutional revision should be organized by the National Assembly's special constitutional revision committee, but at this point, issues on which the ruling and opposition parties can agree without disagreement and that have high public consensus can be reviewed first,' adding, 'If we clearly state this opportunity, the National Assembly Speaker has consistently opposed the cabinet system.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (박태서 국회의장 공보수석은 국민의힘이 전날(9일) ‘윤어게인’ 반대 결의문을 채택한 뒤 이날 오전에 회견 일정을 공지했느냐는 질문에 “아니다&lt;br/&gt;&lt;em&gt;" (Park Tae-seo, the National Assembly Speaker's chief public relations officer, responded to a question about whether the People Power Party notified the press conference schedule in the morning after adopting an 'anti-Yoon again' resolution the previous day (9th), saying, 'No.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국회의장이 연설을 합니다.&lt;br/&gt;&lt;em&gt;The National Assembly speaker gives a speech.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국회의장은 중요한 사람입니다.&lt;br/&gt;&lt;em&gt;The National Assembly speaker is an important person.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1762246433142-d7d357c76cb5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTcGVha2VyJTIwb2YlMjB0aGUlMjBOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc3MzEzODc1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국회의장 (Speaker of the National Assembly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (우원식 국회의장은 개헌과 관련 “국민투표법 개정으로 개헌의 절차적 걸림돌이 해소됐다”며 “17일까지는 국회 개헌특별위원회를 구성해달라”고 10일 말했다&lt;br/&gt;&lt;em&gt;" (National Assembly Speaker Woo Won-sik said on the 10th, regarding constitutional revision, 'The procedural obstacle to constitutional revision has been resolved through the revision of the National Referendum Act,' and 'Please form a special constitutional revision committee in the National Assembly by the 17th.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (그는 “단계적 개헌으로 반드시 이번엔 개헌을 성사하자”며 “개헌 우선 의제는 국회 개헌특위에서 정리하되 현시점에서 여야가 이견 없이 합의할 수 있고 국민적 공감대가 높게 형성된 사안을 우선 검토할 수 있을 것”이라며 “이 기회에 분명히 밝혀두면 국회의장은 내각제는 일관되게 반대해 왔다”고 했다&lt;br/&gt;&lt;em&gt;" (He said, 'Let's definitely achieve constitutional revision this time through phased revision,' and 'The priority agenda for constitutional revision should be organized by the National Assembly's special constitutional revision committee, but at this point, issues on which the ruling and opposition parties can agree without disagreement and that have high public consensus can be reviewed first,' adding, 'If we clearly state this opportunity, the National Assembly Speaker has consistently opposed the cabinet system.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (박태서 국회의장 공보수석은 국민의힘이 전날(9일) ‘윤어게인’ 반대 결의문을 채택한 뒤 이날 오전에 회견 일정을 공지했느냐는 질문에 “아니다&lt;br/&gt;&lt;em&gt;" (Park Tae-seo, the National Assembly Speaker's chief public relations officer, responded to a question about whether the People Power Party notified the press conference schedule in the morning after adopting an 'anti-Yoon again' resolution the previous day (9th), saying, 'No.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국회의장이 연설을 합니다.&lt;br/&gt;&lt;em&gt;The National Assembly speaker gives a speech.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국회의장은 중요한 사람입니다.&lt;br/&gt;&lt;em&gt;The National Assembly speaker is an important person.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 10 Mar 2026 19:32:45 +0900</pubDate><guid isPermaLink="false">vocab-e3718084aec595748cd9d628b64fc8b13047173c</guid><enclosure url="https://images.unsplash.com/photo-1762246433142-d7d357c76cb5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTcGVha2VyJTIwb2YlMjB0aGUlMjBOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc3MzEzODc1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="312267" /><ns2:content url="https://images.unsplash.com/photo-1762246433142-d7d357c76cb5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTcGVha2VyJTIwb2YlMjB0aGUlMjBOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc3MzEzODc1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1762246433142-d7d357c76cb5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTcGVha2VyJTIwb2YlMjB0aGUlMjBOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc3MzEzODc1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>국회의장</category></item><item><title>생각도 – even a thought</title><link>urn:urn:vocab:생각도</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1756560149194-62de386db3a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVuJTIwYSUyMHRob3VnaHR8ZW58MHx8fHwxNzczMTMxMTcwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생각도 (even a thought)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (“이렇게 집에 연금이 되어 있는, 이 감옥에 갇히는 것이 좋지 않겠느냐는 생각도 한다&lt;br/&gt;&lt;em&gt;"I sometimes think that being confined in this prison, being under house arrest like this, might not be so bad&lt;/em&gt;&lt;/p&gt;

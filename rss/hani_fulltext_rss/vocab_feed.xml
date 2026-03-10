@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 17:26:08 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 19:32:31 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>기업가치 – corporate value</title><link>urn:urn:vocab:기업가치</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>참여하는 – participating</title><link>urn:urn:vocab:참여하는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530811761207-8d9d22f0a141?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0aWNpcGF0aW5nfGVufDB8fHx8MTc3MzEzODc0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="참여하는 (participating)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br/&gt;양 기관은 대학생들이 전공 지식과 재능을 활용해 지역사회 문제 해결에 참여하는 프로젝트형 봉사활동을 공동으로 운영한다&lt;br/&gt;&lt;em&gt;The two organizations jointly operate project-based volunteer activities where university students participate in solving community problems using their major knowledge and talents.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;해당 활동은 교과목과 연계한 서비스러닝 형태와 학생자치기구·동아리 등이 참여하는 비교과 프로젝트로 구성된다&lt;br/&gt;&lt;em&gt;These activities consist of service-learning linked to academic courses and extracurricular projects involving student self-governing organizations and clubs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;대학-서울시자원봉사센터-지역사회 비영리단체가 참여하는 협의체도 구성해 지역사회 문제 해결을 위한 장기 프로젝트를 기획하고, 지속 가능한 대학-지역사회 협력 모델 구축도 추진한다&lt;br/&gt;&lt;em&gt;They also form a consultative body involving the university, Seoul Volunteer Center, and community non-profit organizations to plan long-term projects for solving community problems and promote the establishment of sustainable university-community cooperation models.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 수업에 참여하는 학생입니다.&lt;br/&gt;&lt;em&gt;I am a student participating in the class.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 회의에 참여하는 사람입니다.&lt;br/&gt;&lt;em&gt;He is a person participating in the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530811761207-8d9d22f0a141?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0aWNpcGF0aW5nfGVufDB8fHx8MTc3MzEzODc0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="참여하는 (participating)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br/&gt;양 기관은 대학생들이 전공 지식과 재능을 활용해 지역사회 문제 해결에 참여하는 프로젝트형 봉사활동을 공동으로 운영한다&lt;br/&gt;&lt;em&gt;The two organizations jointly operate project-based volunteer activities where university students participate in solving community problems using their major knowledge and talents.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;해당 활동은 교과목과 연계한 서비스러닝 형태와 학생자치기구·동아리 등이 참여하는 비교과 프로젝트로 구성된다&lt;br/&gt;&lt;em&gt;These activities consist of service-learning linked to academic courses and extracurricular projects involving student self-governing organizations and clubs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;대학-서울시자원봉사센터-지역사회 비영리단체가 참여하는 협의체도 구성해 지역사회 문제 해결을 위한 장기 프로젝트를 기획하고, 지속 가능한 대학-지역사회 협력 모델 구축도 추진한다&lt;br/&gt;&lt;em&gt;They also form a consultative body involving the university, Seoul Volunteer Center, and community non-profit organizations to plan long-term projects for solving community problems and promote the establishment of sustainable university-community cooperation models.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 수업에 참여하는 학생입니다.&lt;br/&gt;&lt;em&gt;I am a student participating in the class.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 회의에 참여하는 사람입니다.&lt;br/&gt;&lt;em&gt;He is a person participating in the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 10 Mar 2026 19:32:31 +0900</pubDate><guid isPermaLink="false">vocab-23d0df814a1a66b3a2c70f44a5f9c990fdc58431</guid><enclosure url="https://images.unsplash.com/photo-1530811761207-8d9d22f0a141?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0aWNpcGF0aW5nfGVufDB8fHx8MTc3MzEzODc0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="58267" /><ns2:content url="https://images.unsplash.com/photo-1530811761207-8d9d22f0a141?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0aWNpcGF0aW5nfGVufDB8fHx8MTc3MzEzODc0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1530811761207-8d9d22f0a141?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0aWNpcGF0aW5nfGVufDB8fHx8MTc3MzEzODc0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>참여하는</category></item><item><title>기업가치 – corporate value</title><link>urn:urn:vocab:기업가치</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758691736407-02406d18df6c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjB2YWx1ZXxlbnwwfHx8fDE3NzMxMzExNTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기업가치 (corporate value)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(1~3차에 걸친 통합 상법 개정으로, 앞으로 국내 기업에서 주주권 침해나 지분 희석 가능성이 큰 유상증자·전환사채 등은 기업가치 제고 목적이 충분히 설명되지 않을 경우 활용이 크게 제한될 가능성이 있다는 분석이 나온다&lt;br/&gt;&lt;em&gt;An analysis suggests that due to the integrated Commercial Act revisions (covering phases 1 to 3), the use of capital increases through paid-in capital or convertible bonds, which could significantly infringe on shareholder rights or dilute equity in domestic companies, may be greatly restricted if the purpose of enhancing corporate value is not sufficiently explained.&lt;/em&gt;&lt;/p&gt;
