@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 19:32:45 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 21:38:49 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>국회의장 – Speaker of the National Assembly</title><link>urn:urn:vocab:국회의장</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>구조로 – as a structure</title><link>urn:urn:vocab:구조로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1695554521399-267546693172?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBzdHJ1Y3R1cmV8ZW58MHx8fHwxNzczMTQ2MzE3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="구조로 (as a structure)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김 의원은 “지금 공소청·중수청법은 비대해질 경찰을 어떻게 통제할 것인가에 방점이 찍혀 있다”며 “공소청과 중수청을 수직 구조로 만들고 그 밑에 경찰을 다시 놓는 입체적인 방식의 법으로 작동을 할 것”이라고 했다&lt;br/&gt;&lt;em&gt;(Assemblyman Kim said, "The current Public Prosecution Service and Central Investigation Service Act focuses on how to control the police, which is likely to become bloated," and added, "It will operate as a law in a three-dimensional way that creates a vertical structure with the Public Prosecution Service and Central Investigation Service at the top and places the police below them again.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 위원장은 “정치권 일각에서는 개헌은 빠를수록 좋다면서 오는 6·3 지방선거 때 개헌안도 국민투표에 부쳐야 한다는 주장이 나온다”면서 “하지만 개헌 절차의 엄격성과 헌법의 다단계적 구조로 볼 때 이는 물리적으로 사실상 불가능하다”고 했다&lt;br/&gt;&lt;em&gt;(Chairman Lee said, "Some in the political circle argue that constitutional amendment should be done as soon as possible, and that the amendment should be put to a national referendum during the upcoming June 3 local elections," while noting, "However, considering the strictness of the constitutional amendment process and the multi-tiered structure of the Constitution, this is physically virtually impossible.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(감사원 감사 결과, 무안·김해·여수·사천·광주·포항·제주·김포 등 국내 8개 공항에서 로컬라이저가 규정과 달리 부러지기 어려운 콘크리트 둔덕 등 구조로 잘못 설치돼 있었다&lt;br/&gt;&lt;em&gt;(According to the Board of Audit and Inspection's audit results, localizers at eight domestic airports, including Muan, Gimhae, Yeosu, Sacheon, Gwangju, Pohang, Jeju, and Gimpo, were incorrectly installed in structures such as concrete mounds that are difficult to break, contrary to regulations.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 건물은 나무 구조로 지어졌어요.&lt;br/&gt;&lt;em&gt;This building was built with a wooden structure.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 다리는 강철 구조로 만들어졌어요.&lt;br/&gt;&lt;em&gt;That bridge was made with a steel structure.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1695554521399-267546693172?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBzdHJ1Y3R1cmV8ZW58MHx8fHwxNzczMTQ2MzE3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="구조로 (as a structure)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김 의원은 “지금 공소청·중수청법은 비대해질 경찰을 어떻게 통제할 것인가에 방점이 찍혀 있다”며 “공소청과 중수청을 수직 구조로 만들고 그 밑에 경찰을 다시 놓는 입체적인 방식의 법으로 작동을 할 것”이라고 했다&lt;br/&gt;&lt;em&gt;(Assemblyman Kim said, "The current Public Prosecution Service and Central Investigation Service Act focuses on how to control the police, which is likely to become bloated," and added, "It will operate as a law in a three-dimensional way that creates a vertical structure with the Public Prosecution Service and Central Investigation Service at the top and places the police below them again.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 위원장은 “정치권 일각에서는 개헌은 빠를수록 좋다면서 오는 6·3 지방선거 때 개헌안도 국민투표에 부쳐야 한다는 주장이 나온다”면서 “하지만 개헌 절차의 엄격성과 헌법의 다단계적 구조로 볼 때 이는 물리적으로 사실상 불가능하다”고 했다&lt;br/&gt;&lt;em&gt;(Chairman Lee said, "Some in the political circle argue that constitutional amendment should be done as soon as possible, and that the amendment should be put to a national referendum during the upcoming June 3 local elections," while noting, "However, considering the strictness of the constitutional amendment process and the multi-tiered structure of the Constitution, this is physically virtually impossible.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(감사원 감사 결과, 무안·김해·여수·사천·광주·포항·제주·김포 등 국내 8개 공항에서 로컬라이저가 규정과 달리 부러지기 어려운 콘크리트 둔덕 등 구조로 잘못 설치돼 있었다&lt;br/&gt;&lt;em&gt;(According to the Board of Audit and Inspection's audit results, localizers at eight domestic airports, including Muan, Gimhae, Yeosu, Sacheon, Gwangju, Pohang, Jeju, and Gimpo, were incorrectly installed in structures such as concrete mounds that are difficult to break, contrary to regulations.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 건물은 나무 구조로 지어졌어요.&lt;br/&gt;&lt;em&gt;This building was built with a wooden structure.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 다리는 강철 구조로 만들어졌어요.&lt;br/&gt;&lt;em&gt;That bridge was made with a steel structure.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 10 Mar 2026 21:38:49 +0900</pubDate><guid isPermaLink="false">vocab-d831eb888949892a7552f105fe6e0f747cfa4b50</guid><enclosure url="https://images.unsplash.com/photo-1695554521399-267546693172?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBzdHJ1Y3R1cmV8ZW58MHx8fHwxNzczMTQ2MzE3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="133712" /><ns2:content url="https://images.unsplash.com/photo-1695554521399-267546693172?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBzdHJ1Y3R1cmV8ZW58MHx8fHwxNzczMTQ2MzE3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1695554521399-267546693172?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBzdHJ1Y3R1cmV8ZW58MHx8fHwxNzczMTQ2MzE3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>구조로</category></item><item><title>국회의장 – Speaker of the National Assembly</title><link>urn:urn:vocab:국회의장</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1762246433142-d7d357c76cb5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTcGVha2VyJTIwb2YlMjB0aGUlMjBOYXRpb25hbCUyMEFzc2VtYmx5fGVufDB8fHx8MTc3MzEzODc1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국회의장 (Speaker of the National Assembly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (우원식 국회의장은 개헌과 관련 “국민투표법 개정으로 개헌의 절차적 걸림돌이 해소됐다”며 “17일까지는 국회 개헌특별위원회를 구성해달라”고 10일 말했다&lt;br/&gt;&lt;em&gt;" (National Assembly Speaker Woo Won-sik said on the 10th, regarding constitutional revision, 'The procedural obstacle to constitutional revision has been resolved through the revision of the National Referendum Act,' and 'Please form a special constitutional revision committee in the National Assembly by the 17th.'&lt;/em&gt;&lt;/p&gt;
