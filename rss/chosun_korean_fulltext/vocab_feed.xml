@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 06:49:35 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 08:57:53 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>사무장 – secretary</title><link>urn:urn:vocab:사무장</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>구성원 – member</title><link>urn:urn:vocab:구성원</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW1iZXJ8ZW58MHx8fHwxNzczMTAwNjYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="구성원 (member)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (국민의힘은 “셋째, 당내 구성원 간의 갈등을 증폭시키는 모든 행동과 발언을 중단하고 대통합에 나서겠다”며 “당의 전열을 흐트러뜨리고, 당을 과거의 프레임에 옭아매는 일체의 언행을 끊어내겠다&lt;br/&gt;&lt;em&gt;The People Power Party stated, "Third, we will stop all actions and remarks that amplify conflicts among party members and embark on grand unity," adding, "We will cut off all words and deeds that disrupt the party's ranks and bind the party to past frameworks."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “공직 사회에 문제가 많다지만 구성원 모두의 문제는 아니다”라며 “부패하고 부정의한 조직으로 비난받는 조직도 대개는 미꾸라지 몇 마리가 우물 흐리는 것처럼 대다수는 충직하게 공직자의 책임과 역할을 다하고 있다”고 했다&lt;br/&gt;&lt;em&gt;President Lee said, "There are many problems in the public service society, but it is not the problem of all members," noting, "Even organizations criticized as corrupt and unjust are mostly like a few mudfish muddying the water, with the majority faithfully fulfilling their responsibilities and roles as public officials."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“당내 구성원 간 갈등을 증폭시키는 모든 행동과 발언을 중단하고 대통합에 나서겠다”고도 했다&lt;br/&gt;&lt;em&gt;He also said, "We will stop all actions and remarks that amplify conflicts among party members and embark on grand unity."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리 반 구성원이 많아요.&lt;br/&gt;&lt;em&gt;There are many members in our class.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;구성원이 모여 회의해요.&lt;br/&gt;&lt;em&gt;The members gather to have a meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW1iZXJ8ZW58MHx8fHwxNzczMTAwNjYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="구성원 (member)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (국민의힘은 “셋째, 당내 구성원 간의 갈등을 증폭시키는 모든 행동과 발언을 중단하고 대통합에 나서겠다”며 “당의 전열을 흐트러뜨리고, 당을 과거의 프레임에 옭아매는 일체의 언행을 끊어내겠다&lt;br/&gt;&lt;em&gt;The People Power Party stated, "Third, we will stop all actions and remarks that amplify conflicts among party members and embark on grand unity," adding, "We will cut off all words and deeds that disrupt the party's ranks and bind the party to past frameworks."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “공직 사회에 문제가 많다지만 구성원 모두의 문제는 아니다”라며 “부패하고 부정의한 조직으로 비난받는 조직도 대개는 미꾸라지 몇 마리가 우물 흐리는 것처럼 대다수는 충직하게 공직자의 책임과 역할을 다하고 있다”고 했다&lt;br/&gt;&lt;em&gt;President Lee said, "There are many problems in the public service society, but it is not the problem of all members," noting, "Even organizations criticized as corrupt and unjust are mostly like a few mudfish muddying the water, with the majority faithfully fulfilling their responsibilities and roles as public officials."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“당내 구성원 간 갈등을 증폭시키는 모든 행동과 발언을 중단하고 대통합에 나서겠다”고도 했다&lt;br/&gt;&lt;em&gt;He also said, "We will stop all actions and remarks that amplify conflicts among party members and embark on grand unity."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리 반 구성원이 많아요.&lt;br/&gt;&lt;em&gt;There are many members in our class.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;구성원이 모여 회의해요.&lt;br/&gt;&lt;em&gt;The members gather to have a meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 10 Mar 2026 08:57:53 +0900</pubDate><guid isPermaLink="false">vocab-ccbef73fe3a0e8a15707f37ca7acb710be639597</guid><enclosure url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW1iZXJ8ZW58MHx8fHwxNzczMTAwNjYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="181470" /><ns2:content url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW1iZXJ8ZW58MHx8fHwxNzczMTAwNjYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW1iZXJ8ZW58MHx8fHwxNzczMTAwNjYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>구성원</category></item><item><title>사무장 – secretary</title><link>urn:urn:vocab:사무장</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713947506179-baa795d9c893?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZWNyZXRhcnl8ZW58MHx8fHwxNzczMDkyOTY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사무장 (secretary)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;개혁신당 ‘AI사무장’ 공개) &lt;&lt;br/&gt;&lt;em&gt;Reform Party unveils 'AI secretary') &lt;&lt;/em&gt;&lt;/p&gt;
