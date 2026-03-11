@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 19:04:09 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 21:27:39 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>친환경차 – eco-friendly car</title><link>urn:urn:vocab:친환경차</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>방송에서 – on broadcast</title><link>urn:urn:vocab:방송에서</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1693328394659-e0782c606d25?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMGJyb2FkY2FzdHxlbnwwfHx8fDE3NzMyMzIwNDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방송에서 (on broadcast)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (실제로 전씨는 10일 밤 유튜브 라이브 방송에서 “장동혁 대표님께 귀찮고 힘들었다면 이제 사라져 드리면 된다&lt;br/&gt;&lt;em&gt;(In fact, on the night of the 10th, during a YouTube live broadcast, Jeon said, 'If Representative Jang Dong-hyuk found it bothersome and difficult, I can now disappear for him.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (김어준씨의 유튜브 방송에서 정부와 검찰의 ‘이재명 대통령 공소취소 거래설’ 주장이 제기된 데 대해 더불어민주당에서는 “근거없는 낭설로 대통령을 흔들어선 안 된다” “황당함을 넘어 기가 막힌다”는 격앙된 반응이 쏟아졌다&lt;br/&gt;&lt;em&gt;(Regarding the claim raised on Kim Eo-jun's YouTube broadcast about the government and prosecution's 'alleged deal to drop charges against President Lee Jae-myung,' the Democratic Party of Korea poured out heated reactions, saying, 'We should not shake the president with baseless rumors' and 'It's beyond absurd, it's astonishing.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (전 수석부대표는 진행자가 김어준씨 방송에서 관련 주장이 제기된 이유를 묻자 “검찰개혁을 더 강력하게 해야 한다는 명분으로 쓴 것 같은데 근거 없는 낭설을 이렇게 퍼뜨려서는 안 된다”고 했다&lt;br/&gt;&lt;em&gt;(When the host asked why the related claim was raised on Kim Eo-jun's broadcast, the former senior vice representative said, 'It seems to have been used as a pretext to push for stronger prosecution reform, but spreading such baseless rumors like this should not be done.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;방송에서 노래를 들었어요.&lt;br/&gt;&lt;em&gt;I heard a song on the broadcast.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;방송에서 친구를 봤어요.&lt;br/&gt;&lt;em&gt;I saw a friend on the broadcast.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1693328394659-e0782c606d25?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMGJyb2FkY2FzdHxlbnwwfHx8fDE3NzMyMzIwNDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방송에서 (on broadcast)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (실제로 전씨는 10일 밤 유튜브 라이브 방송에서 “장동혁 대표님께 귀찮고 힘들었다면 이제 사라져 드리면 된다&lt;br/&gt;&lt;em&gt;(In fact, on the night of the 10th, during a YouTube live broadcast, Jeon said, 'If Representative Jang Dong-hyuk found it bothersome and difficult, I can now disappear for him.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (김어준씨의 유튜브 방송에서 정부와 검찰의 ‘이재명 대통령 공소취소 거래설’ 주장이 제기된 데 대해 더불어민주당에서는 “근거없는 낭설로 대통령을 흔들어선 안 된다” “황당함을 넘어 기가 막힌다”는 격앙된 반응이 쏟아졌다&lt;br/&gt;&lt;em&gt;(Regarding the claim raised on Kim Eo-jun's YouTube broadcast about the government and prosecution's 'alleged deal to drop charges against President Lee Jae-myung,' the Democratic Party of Korea poured out heated reactions, saying, 'We should not shake the president with baseless rumors' and 'It's beyond absurd, it's astonishing.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (전 수석부대표는 진행자가 김어준씨 방송에서 관련 주장이 제기된 이유를 묻자 “검찰개혁을 더 강력하게 해야 한다는 명분으로 쓴 것 같은데 근거 없는 낭설을 이렇게 퍼뜨려서는 안 된다”고 했다&lt;br/&gt;&lt;em&gt;(When the host asked why the related claim was raised on Kim Eo-jun's broadcast, the former senior vice representative said, 'It seems to have been used as a pretext to push for stronger prosecution reform, but spreading such baseless rumors like this should not be done.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;방송에서 노래를 들었어요.&lt;br/&gt;&lt;em&gt;I heard a song on the broadcast.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;방송에서 친구를 봤어요.&lt;br/&gt;&lt;em&gt;I saw a friend on the broadcast.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 11 Mar 2026 21:27:38 +0900</pubDate><guid isPermaLink="false">vocab-a299b2df84bb58a65f543a997cc59bc4557157ac</guid><enclosure url="https://images.unsplash.com/photo-1693328394659-e0782c606d25?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMGJyb2FkY2FzdHxlbnwwfHx8fDE3NzMyMzIwNDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="107924" /><ns2:content url="https://images.unsplash.com/photo-1693328394659-e0782c606d25?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMGJyb2FkY2FzdHxlbnwwfHx8fDE3NzMyMzIwNDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1693328394659-e0782c606d25?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMGJyb2FkY2FzdHxlbnwwfHx8fDE3NzMyMzIwNDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>방송에서</category></item><item><title>친환경차 – eco-friendly car</title><link>urn:urn:vocab:친환경차</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1594535182308-8ffefbb661e1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlY28tZnJpZW5kbHklMjBjYXJ8ZW58MHx8fHwxNzczMjIzNDM4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="친환경차 (eco-friendly car)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;March quotation requests up 85% (고유가에 전기차 등 친환경차 관심 ‘껑충’…3월 견적 요청 85%↑) &lt;&lt;br/&gt;&lt;em&gt;March quotation requests up 85% (Interest in eco-friendly vehicles like electric cars 'jumps' due to high oil prices... March quotation requests up 85%↑) &lt;&lt;/em&gt;&lt;/p&gt;
