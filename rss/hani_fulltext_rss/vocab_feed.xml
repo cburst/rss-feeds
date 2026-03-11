@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 01:42:36 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 03:50:06 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>화물차 – truck</title><link>urn:urn:vocab:화물차</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>작가 – author</title><link>urn:urn:vocab:작가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdXRob3J8ZW58MHx8fHwxNzczMjU0OTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="작가 (author)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (세종대학교(총장 엄종화) 세종뮤지엄갤러리 2관은 ‘빛의 여정: 1980-2024’라는 주제로 문창진 작가의 개인전을 2026년 3월 10일부터 22일까지 개최한다&lt;br/&gt;&lt;em&gt;Sejong University (President Eom Jong-hwa) Sejong Museum Gallery 2 will host artist Moon Chang-jin's solo exhibition titled 'Journey of Light: 1980-2024' from March 10 to 22, 2026.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번 전시에서는 작가가 지난 40여 년간 지속해 온 자연 풍경에 대한 탐구를 중심으로 한 회화 작품 약 60여 점이 선보일 예정이다&lt;br/&gt;&lt;em&gt;This exhibition will feature approximately 60 paintings, focusing on the artist's exploration of natural landscapes over the past 40 years.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;문창진 작가는 숲과 길, 나무 등 자연 풍경의 이미지를 주요 모티프로 삼아 자연이 지닌 생명력과 그 안에서 이루어지는 사유의 시간을 화면에 담아내는 작업을 이어왔다&lt;br/&gt;&lt;em&gt;Artist Moon Chang-jin has continued his work of capturing the vitality of nature and the moments of contemplation within it on canvas, using images of forests, paths, trees, and other natural landscapes as his main motifs.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;작가가 책을 씁니다.&lt;br/&gt;&lt;em&gt;The author writes a book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 작가는 유명합니다.&lt;br/&gt;&lt;em&gt;That author is famous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdXRob3J8ZW58MHx8fHwxNzczMjU0OTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="작가 (author)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (세종대학교(총장 엄종화) 세종뮤지엄갤러리 2관은 ‘빛의 여정: 1980-2024’라는 주제로 문창진 작가의 개인전을 2026년 3월 10일부터 22일까지 개최한다&lt;br/&gt;&lt;em&gt;Sejong University (President Eom Jong-hwa) Sejong Museum Gallery 2 will host artist Moon Chang-jin's solo exhibition titled 'Journey of Light: 1980-2024' from March 10 to 22, 2026.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번 전시에서는 작가가 지난 40여 년간 지속해 온 자연 풍경에 대한 탐구를 중심으로 한 회화 작품 약 60여 점이 선보일 예정이다&lt;br/&gt;&lt;em&gt;This exhibition will feature approximately 60 paintings, focusing on the artist's exploration of natural landscapes over the past 40 years.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;문창진 작가는 숲과 길, 나무 등 자연 풍경의 이미지를 주요 모티프로 삼아 자연이 지닌 생명력과 그 안에서 이루어지는 사유의 시간을 화면에 담아내는 작업을 이어왔다&lt;br/&gt;&lt;em&gt;Artist Moon Chang-jin has continued his work of capturing the vitality of nature and the moments of contemplation within it on canvas, using images of forests, paths, trees, and other natural landscapes as his main motifs.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;작가가 책을 씁니다.&lt;br/&gt;&lt;em&gt;The author writes a book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 작가는 유명합니다.&lt;br/&gt;&lt;em&gt;That author is famous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 12 Mar 2026 03:50:05 +0900</pubDate><guid isPermaLink="false">vocab-43afe62047d212459c928d42ac3e0c017aa31c68</guid><enclosure url="https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdXRob3J8ZW58MHx8fHwxNzczMjU0OTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="73026" /><ns2:content url="https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdXRob3J8ZW58MHx8fHwxNzczMjU0OTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdXRob3J8ZW58MHx8fHwxNzczMjU0OTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>작가</category></item><item><title>화물차 – truck</title><link>urn:urn:vocab:화물차</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cnVja3xlbnwwfHx8fDE3NzMyNDczNDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="화물차 (truck)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;경유가격이 리터당 1700원을 초과하는 경우 경유 사용 화물차·노선버스·택시 등에 초과분의 50%(리터당 최대 150원)를 지원한다&lt;br/&gt;&lt;em&gt;When diesel prices exceed 1,700 won per liter, 50% of the excess amount (up to 150 won per liter) will be subsidized for diesel-powered trucks, route buses, and taxis.&lt;/em&gt;&lt;/p&gt;
