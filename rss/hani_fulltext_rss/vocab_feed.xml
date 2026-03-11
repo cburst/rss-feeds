@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 23:33:20 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 01:42:36 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>대중교통 – public transportation</title><link>urn:urn:vocab:대중교통</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>화물차 – truck</title><link>urn:urn:vocab:화물차</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cnVja3xlbnwwfHx8fDE3NzMyNDczNDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="화물차 (truck)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경유가격이 리터당 1700원을 초과하는 경우 경유 사용 화물차·노선버스·택시 등에 초과분의 50%(리터당 최대 150원)를 지원한다&lt;br/&gt;&lt;em&gt;When diesel prices exceed 1,700 won per liter, 50% of the excess amount (up to 150 won per liter) will be subsidized for diesel-powered trucks, route buses, and taxis.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이에 따라 25t 화물차 기준 차주의 유류비 실부담은 최대 월 44만원 감소할 것으로 추정된다(월평균 유류사용량 2402리터×183원=44만원)&lt;br/&gt;&lt;em&gt;Accordingly, for a 25-ton truck, the owner's actual fuel cost burden is estimated to decrease by up to 440,000 won per month (monthly average fuel usage 2,402 liters × 183 won = 440,000 won).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국토교통부는 이날부터 4월 말까지 리터당 1700원(경유 기준) 초과분의 70%(리터당 최대 183원)를 경유 이용 화물차·노선버스·택시운전자에게 지급하는 유가연동 보조금을 연장한다고 밝혔다&lt;br/&gt;&lt;em&gt;The Ministry of Land, Infrastructure and Transport announced that it will extend the fuel price-linked subsidy, which pays 70% of the excess amount (up to 183 won per liter) when diesel prices exceed 1,700 won per liter (diesel standard) to diesel-powered truck, route bus, and taxi drivers, from today until the end of April.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;화물차가 길에 있어요.&lt;br/&gt;&lt;em&gt;There is a truck on the road.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 화물차를 봤어요.&lt;br/&gt;&lt;em&gt;I saw a truck.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cnVja3xlbnwwfHx8fDE3NzMyNDczNDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="화물차 (truck)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경유가격이 리터당 1700원을 초과하는 경우 경유 사용 화물차·노선버스·택시 등에 초과분의 50%(리터당 최대 150원)를 지원한다&lt;br/&gt;&lt;em&gt;When diesel prices exceed 1,700 won per liter, 50% of the excess amount (up to 150 won per liter) will be subsidized for diesel-powered trucks, route buses, and taxis.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이에 따라 25t 화물차 기준 차주의 유류비 실부담은 최대 월 44만원 감소할 것으로 추정된다(월평균 유류사용량 2402리터×183원=44만원)&lt;br/&gt;&lt;em&gt;Accordingly, for a 25-ton truck, the owner's actual fuel cost burden is estimated to decrease by up to 440,000 won per month (monthly average fuel usage 2,402 liters × 183 won = 440,000 won).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국토교통부는 이날부터 4월 말까지 리터당 1700원(경유 기준) 초과분의 70%(리터당 최대 183원)를 경유 이용 화물차·노선버스·택시운전자에게 지급하는 유가연동 보조금을 연장한다고 밝혔다&lt;br/&gt;&lt;em&gt;The Ministry of Land, Infrastructure and Transport announced that it will extend the fuel price-linked subsidy, which pays 70% of the excess amount (up to 183 won per liter) when diesel prices exceed 1,700 won per liter (diesel standard) to diesel-powered truck, route bus, and taxi drivers, from today until the end of April.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;화물차가 길에 있어요.&lt;br/&gt;&lt;em&gt;There is a truck on the road.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 화물차를 봤어요.&lt;br/&gt;&lt;em&gt;I saw a truck.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 12 Mar 2026 01:42:36 +0900</pubDate><guid isPermaLink="false">vocab-c76293a51d24aa4c51108f6c5e815d13333c4c33</guid><enclosure url="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cnVja3xlbnwwfHx8fDE3NzMyNDczNDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="133587" /><ns2:content url="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cnVja3xlbnwwfHx8fDE3NzMyNDczNDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cnVja3xlbnwwfHx8fDE3NzMyNDczNDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>화물차</category></item><item><title>대중교통 – public transportation</title><link>urn:urn:vocab:대중교통</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1502818364365-08cda033fee1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjB0cmFuc3BvcnRhdGlvbnxlbnwwfHx8fDE3NzMyMzk1OTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대중교통 (public transportation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (그러면서 구 부총리는 사태가 장기화되면 대중교통 이용자도 간접 혜택을 볼 것이라고 강조했다&lt;br/&gt;&lt;em&gt;(Meanwhile, Deputy Prime Minister Koo emphasized that if the situation prolongs, public transportation users will also indirectly benefit)&lt;/em&gt;&lt;/p&gt;
