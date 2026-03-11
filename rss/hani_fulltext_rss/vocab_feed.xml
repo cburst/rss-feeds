@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 08:15:50 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 12:49:14 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>변화에 – to change</title><link>urn:urn:vocab:변화에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>부정수급 – fraudulent receipt</title><link>urn:urn:vocab:부정수급</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1678693361607-2b7b66dce8f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmF1ZHVsZW50JTIwcmVjZWlwdHxlbnwwfHx8fDE3NzMyMDA5NDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부정수급 (fraudulent receipt)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;김민석 국무총리가 10일 서울 종로구 정부서울청사에서 열린 국고보조금 부정수급 근절을 위한 관계장관회의에서 발언하고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Prime Minister Kim Min-seok speaks at a ministerial meeting held at the Government Seoul Complex in Jongno-gu, Seoul on the 10th to eradicate fraudulent receipt of state subsidies&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(앞으로 이 같은 국고보조금 부정수급에 부정수급 총액의 최대 9배까지 환수한다&lt;br/&gt;&lt;em&gt;(In the future, up to 9 times the total amount of fraudulent receipt will be recovered for such fraudulent receipt of state subsidies&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부정수급 점검 대상과 신고포상금도 대폭 늘린다&lt;br/&gt;&lt;em&gt;The scope of fraudulent receipt inspections and the reward for reporting will be significantly expanded&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;부정수급은 나쁜 행동입니다.&lt;br/&gt;&lt;em&gt;Fraudulent receipt of benefits is a bad behavior.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부정수급을 하지 마세요.&lt;br/&gt;&lt;em&gt;Do not engage in fraudulent receipt of benefits.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1678693361607-2b7b66dce8f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmF1ZHVsZW50JTIwcmVjZWlwdHxlbnwwfHx8fDE3NzMyMDA5NDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부정수급 (fraudulent receipt)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;김민석 국무총리가 10일 서울 종로구 정부서울청사에서 열린 국고보조금 부정수급 근절을 위한 관계장관회의에서 발언하고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Prime Minister Kim Min-seok speaks at a ministerial meeting held at the Government Seoul Complex in Jongno-gu, Seoul on the 10th to eradicate fraudulent receipt of state subsidies&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(앞으로 이 같은 국고보조금 부정수급에 부정수급 총액의 최대 9배까지 환수한다&lt;br/&gt;&lt;em&gt;(In the future, up to 9 times the total amount of fraudulent receipt will be recovered for such fraudulent receipt of state subsidies&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부정수급 점검 대상과 신고포상금도 대폭 늘린다&lt;br/&gt;&lt;em&gt;The scope of fraudulent receipt inspections and the reward for reporting will be significantly expanded&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;부정수급은 나쁜 행동입니다.&lt;br/&gt;&lt;em&gt;Fraudulent receipt of benefits is a bad behavior.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부정수급을 하지 마세요.&lt;br/&gt;&lt;em&gt;Do not engage in fraudulent receipt of benefits.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 11 Mar 2026 12:49:14 +0900</pubDate><guid isPermaLink="false">vocab-6ea7824ca9914cb83118733d1802a98f258fd9fb</guid><enclosure url="https://images.unsplash.com/photo-1678693361607-2b7b66dce8f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmF1ZHVsZW50JTIwcmVjZWlwdHxlbnwwfHx8fDE3NzMyMDA5NDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="68063" /><ns2:content url="https://images.unsplash.com/photo-1678693361607-2b7b66dce8f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmF1ZHVsZW50JTIwcmVjZWlwdHxlbnwwfHx8fDE3NzMyMDA5NDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1678693361607-2b7b66dce8f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmF1ZHVsZW50JTIwcmVjZWlwdHxlbnwwfHx8fDE3NzMyMDA5NDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>부정수급</category></item><item><title>괜찮다 – to be okay, fine, or all right</title><link>urn:urn:vocab:괜찮다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586084531149-373985a4478e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwb2theSUyQyUyMGZpbmUlMkMlMjBvciUyMGFsbCUyMHJpZ2h0fGVufDB8fHx8MTc3MzE5MjMzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="괜찮다 (to be okay, fine, or all right)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;문제는 사교육과 선행에 대한 맹신”이라며 “차라리 이번 방학에는 학원이 아니라 내 아이를 재발견하는 소중한 시간으로 채우고, 스스로 공부하려고 하는 의지를 키우는 시간으로 삼아보는 것도 괜찮다”고 말했다&lt;br/&gt;&lt;em&gt;The problem is blind faith in private education and advanced learning. Rather than filling this vacation with academies, it's okay to make it precious time to rediscover your child and cultivate their will to study on their own.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그러나 아이와의 새해 계획은 반드시 성취를 전제로 하지 않아도 괜찮다&lt;br/&gt;&lt;em&gt;(However, it's okay if your New Year's plans with your child don't necessarily have to be based on achievement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;완벽하지 않아도 괜찮다&lt;br/&gt;&lt;em&gt;It's okay if it's not perfect.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 괜찮아요.&lt;br/&gt;&lt;em&gt;I am okay.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그것은 괜찮습니다.&lt;br/&gt;&lt;em&gt;That is fine.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586084531149-373985a4478e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwb2theSUyQyUyMGZpbmUlMkMlMjBvciUyMGFsbCUyMHJpZ2h0fGVufDB8fHx8MTc3MzE5MjMzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="괜찮다 (to be okay, fine, or all right)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;문제는 사교육과 선행에 대한 맹신”이라며 “차라리 이번 방학에는 학원이 아니라 내 아이를 재발견하는 소중한 시간으로 채우고, 스스로 공부하려고 하는 의지를 키우는 시간으로 삼아보는 것도 괜찮다”고 말했다&lt;br/&gt;&lt;em&gt;The problem is blind faith in private education and advanced learning. Rather than filling this vacation with academies, it's okay to make it precious time to rediscover your child and cultivate their will to study on their own.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그러나 아이와의 새해 계획은 반드시 성취를 전제로 하지 않아도 괜찮다&lt;br/&gt;&lt;em&gt;(However, it's okay if your New Year's plans with your child don't necessarily have to be based on achievement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;완벽하지 않아도 괜찮다&lt;br/&gt;&lt;em&gt;It's okay if it's not perfect.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 괜찮아요.&lt;br/&gt;&lt;em&gt;I am okay.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그것은 괜찮습니다.&lt;br/&gt;&lt;em&gt;That is fine.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 11 Mar 2026 10:25:41 +0900</pubDate><guid isPermaLink="false">vocab-bf965d0df34401a183f11be36e00c8bd70d9c422</guid><enclosure url="https://images.unsplash.com/photo-1586084531149-373985a4478e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwb2theSUyQyUyMGZpbmUlMkMlMjBvciUyMGFsbCUyMHJpZ2h0fGVufDB8fHx8MTc3MzE5MjMzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="207290" /><ns2:content url="https://images.unsplash.com/photo-1586084531149-373985a4478e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwb2theSUyQyUyMGZpbmUlMkMlMjBvciUyMGFsbCUyMHJpZ2h0fGVufDB8fHx8MTc3MzE5MjMzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1586084531149-373985a4478e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwb2theSUyQyUyMGZpbmUlMkMlMjBvciUyMGFsbCUyMHJpZ2h0fGVufDB8fHx8MTc3MzE5MjMzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>괜찮다</category></item><item><title>변화에 – to change</title><link>urn:urn:vocab:변화에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1621408422268-da06ae556d54?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGNoYW5nZXxlbnwwfHx8fDE3NzMxODQ1NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="변화에 (to change)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이런 변화에 따라 검색어 형태도 달라지는 모습이다&lt;br/&gt;&lt;em&gt;(Accordingly, the form of search terms is also changing)&lt;/em&gt;&lt;/p&gt;
