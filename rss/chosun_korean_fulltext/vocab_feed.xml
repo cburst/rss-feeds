@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 16:44:15 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 18:49:57 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>힘들다 – to be difficult/hard</title><link>urn:urn:vocab:힘들다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>식용유 – cooking oil</title><link>urn:urn:vocab:식용유</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1709293078197-370c804d610c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29raW5nJTIwb2lsfGVufDB8fHx8MTc3MzMwODk4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="식용유 (cooking oil)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4em;"&gt;식용유·라면·과자 가격 줄줄이 낮춘다&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Prices of cooking oil, ramen, and snacks are being lowered one after another&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;靑 “라면값 최대 100원·식용유 1250원 인하…민생에 큰 도움"&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Blue House: "Ramen prices reduced by up to 100 won, cooking oil by 1,250 won... significant help for people's livelihoods"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;농심·오뚜기·삼양식품, 라면·식용유 가격 인하&lt;br/&gt;&lt;em&gt;Nongshim, Ottogi, Samyang Foods lower prices of ramen and cooking oil&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;식용유를 요리에 사용해요.&lt;br/&gt;&lt;em&gt;I use cooking oil in cooking.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;식용유가 부족해요.&lt;br/&gt;&lt;em&gt;There is a shortage of cooking oil.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1709293078197-370c804d610c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29raW5nJTIwb2lsfGVufDB8fHx8MTc3MzMwODk4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="식용유 (cooking oil)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4em;"&gt;식용유·라면·과자 가격 줄줄이 낮춘다&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Prices of cooking oil, ramen, and snacks are being lowered one after another&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;靑 “라면값 최대 100원·식용유 1250원 인하…민생에 큰 도움"&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Blue House: "Ramen prices reduced by up to 100 won, cooking oil by 1,250 won... significant help for people's livelihoods"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;농심·오뚜기·삼양식품, 라면·식용유 가격 인하&lt;br/&gt;&lt;em&gt;Nongshim, Ottogi, Samyang Foods lower prices of ramen and cooking oil&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;식용유를 요리에 사용해요.&lt;br/&gt;&lt;em&gt;I use cooking oil in cooking.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;식용유가 부족해요.&lt;br/&gt;&lt;em&gt;There is a shortage of cooking oil.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 12 Mar 2026 18:49:57 +0900</pubDate><guid isPermaLink="false">vocab-ebd87478aadf5668b3693c614ae8a7ebe88f823d</guid><enclosure url="https://images.unsplash.com/photo-1709293078197-370c804d610c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29raW5nJTIwb2lsfGVufDB8fHx8MTc3MzMwODk4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="136836" /><ns2:content url="https://images.unsplash.com/photo-1709293078197-370c804d610c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29raW5nJTIwb2lsfGVufDB8fHx8MTc3MzMwODk4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1709293078197-370c804d610c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29raW5nJTIwb2lsfGVufDB8fHx8MTc3MzMwODk4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>식용유</category></item><item><title>힘들다 – to be difficult/hard</title><link>urn:urn:vocab:힘들다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwZGlmZmljdWx0JTJGaGFyZHxlbnwwfHx8fDE3NzMzMDE0NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="힘들다 (to be difficult/hard)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;‘민주파출소’에서 왜곡·허위·조작 기사에 대해서는 명확하게 정정보도를 요청하고 그것이 진행되지 않았을 때 고발을 한다”며 “일관된 원칙을 ‘김어준의 겸손은 힘들다 뉴스공장’과 장인수 기자의 발언에 대해 적용해야 한다”고 했다&lt;br/&gt;&lt;em&gt;He said, 'Regarding distorted, false, and fabricated articles from the 'Democratic Police Station,' we clearly request corrections, and if that does not proceed, we file a complaint,' adding, 'We must apply consistent principles to 'Kim Eo-jun's Humility is Difficult News Factory' and journalist Jang In-soo's statements.'&lt;/em&gt;&lt;/p&gt;
