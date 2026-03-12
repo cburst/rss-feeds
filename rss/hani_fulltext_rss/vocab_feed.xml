@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 08:07:48 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 10:19:37 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>방탄소년단 – BTS</title><link>urn:urn:vocab:방탄소년단</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>부총리 – Deputy Prime Minister</title><link>urn:urn:vocab:부총리</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771340591800-c0832bf7d253?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxEZXB1dHklMjBQcmltZSUyME1pbmlzdGVyfGVufDB8fHx8MTc3MzI3ODM2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부총리 (Deputy Prime Minister)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;구윤철 부총리 겸 재정경제부 장관은 11일 국회 재정경제위원회 현안질의에서 “정유사 공급가격으로 (최고가격을) 조정하려고 한다”면서 구체적인 적용 대상을 밝혔다&lt;br/&gt;&lt;em&gt;Deputy Prime Minister and Minister of Economy and Finance Koo Yun-cheol said during a question-and-answer session at the National Assembly's Strategy and Finance Committee on the 11th, 'We plan to adjust (the maximum price) based on the supply price of oil refiners,' and specified the specific targets for application.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;구 부총리는 “(최고가격제 폐지 조건을) 전쟁 이전 유가 수준인 1800원대로 보고 있다”고 말했다&lt;br/&gt;&lt;em&gt;Deputy Prime Minister Koo said, '(The condition for abolishing the maximum price system) is set at the pre-war oil price level of around 1,800 won.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;구윤철 부총리는 “전쟁 상황 이전 유가와 현재 오른 가격 평균의 적정한 정도를 감안해 최고가격을 설정하면 보조금 자체는 높아지지 않을 것”이라고 말했다&lt;br/&gt;&lt;em&gt;Deputy Prime Minister Koo Yun-cheol said, 'If the maximum price is set by considering an appropriate level between the pre-war oil price and the current increased price average, the subsidy itself will not increase.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;부총리가 회의에 참석합니다.&lt;br/&gt;&lt;em&gt;The deputy prime minister attends the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부총리는 중요한 일을 합니다.&lt;br/&gt;&lt;em&gt;The deputy prime minister does important work.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771340591800-c0832bf7d253?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxEZXB1dHklMjBQcmltZSUyME1pbmlzdGVyfGVufDB8fHx8MTc3MzI3ODM2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부총리 (Deputy Prime Minister)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;구윤철 부총리 겸 재정경제부 장관은 11일 국회 재정경제위원회 현안질의에서 “정유사 공급가격으로 (최고가격을) 조정하려고 한다”면서 구체적인 적용 대상을 밝혔다&lt;br/&gt;&lt;em&gt;Deputy Prime Minister and Minister of Economy and Finance Koo Yun-cheol said during a question-and-answer session at the National Assembly's Strategy and Finance Committee on the 11th, 'We plan to adjust (the maximum price) based on the supply price of oil refiners,' and specified the specific targets for application.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;구 부총리는 “(최고가격제 폐지 조건을) 전쟁 이전 유가 수준인 1800원대로 보고 있다”고 말했다&lt;br/&gt;&lt;em&gt;Deputy Prime Minister Koo said, '(The condition for abolishing the maximum price system) is set at the pre-war oil price level of around 1,800 won.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;구윤철 부총리는 “전쟁 상황 이전 유가와 현재 오른 가격 평균의 적정한 정도를 감안해 최고가격을 설정하면 보조금 자체는 높아지지 않을 것”이라고 말했다&lt;br/&gt;&lt;em&gt;Deputy Prime Minister Koo Yun-cheol said, 'If the maximum price is set by considering an appropriate level between the pre-war oil price and the current increased price average, the subsidy itself will not increase.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;부총리가 회의에 참석합니다.&lt;br/&gt;&lt;em&gt;The deputy prime minister attends the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부총리는 중요한 일을 합니다.&lt;br/&gt;&lt;em&gt;The deputy prime minister does important work.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 12 Mar 2026 10:19:36 +0900</pubDate><guid isPermaLink="false">vocab-81a9d5ddc72dff18b61e49d6974d784230d13515</guid><enclosure url="https://images.unsplash.com/photo-1771340591800-c0832bf7d253?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxEZXB1dHklMjBQcmltZSUyME1pbmlzdGVyfGVufDB8fHx8MTc3MzI3ODM2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="291437" /><ns2:content url="https://images.unsplash.com/photo-1771340591800-c0832bf7d253?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxEZXB1dHklMjBQcmltZSUyME1pbmlzdGVyfGVufDB8fHx8MTc3MzI3ODM2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1771340591800-c0832bf7d253?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxEZXB1dHklMjBQcmltZSUyME1pbmlzdGVyfGVufDB8fHx8MTc3MzI3ODM2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>부총리</category></item><item><title>방탄소년단 – BTS</title><link>urn:urn:vocab:방탄소년단</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1691491918178-8a2e68b44919?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxCVFN8ZW58MHx8fHwxNzczMjcwNDYyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방탄소년단 (BTS)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(오는 21일 방탄소년단(BTS)의 서울 광화문 공연을 앞두고 한국을 찾는 전 세계 ‘아미’(방탄소년단 팬덤)의 마음을 잡기 위한 유통업계 경쟁에도 불이 붙고 있다&lt;br/&gt;&lt;em&gt;Competition in the distribution industry is heating up to capture the hearts of global 'ARMY' (BTS fandom) visiting Korea ahead of BTS's Seoul Gwanghwamun performance on the 21st.&lt;/em&gt;&lt;/p&gt;
