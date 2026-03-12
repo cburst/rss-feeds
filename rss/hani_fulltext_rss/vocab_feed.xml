@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 04:53:07 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:29:29 +0900</lastBuildDate>
 
 
 
@@ -765,6 +765,28 @@
 
 
   <item><title>학교 – school</title><link>urn:urn:vocab:학교</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzczMzQ1MTc2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학교 (school)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;* Information provided by: Sahmyook University (* 자료제공 : 삼육대학교)&lt;/p&gt;&lt;p&gt;&amp;lt;This article is a press release provided by the university and may differ from the views of The Hankyoreh&lt;br/&gt;&lt;em&gt;* Information provided by: Sahmyook University (* Provided by: Sahmyook University)&lt;/p&gt;&lt;p&gt;&lt;This article is a press release provided by the university and may differ from the views of The Hankyoreh&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (동덕여자대학교(총장 김명애) 모델과 곽나영 학생(25학번)이 최근 열린 ‘2026 더룩오브더이어(The Look Of The Year) 코리아’ 본선 대회에서 영예의 대상을 수상했다&lt;br/&gt;&lt;em&gt;" (Dongduk Women's University (President Kim Myung-ae) model and student Kwak Na-young (Class of 2025) recently won the grand prize at the '2026 The Look Of The Year Korea' finals&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;* Information provided by: Dongduk Women's University (* 자료제공 : 동덕여자대학교)&lt;/p&gt;&lt;p&gt;&lt;This article is an informational piece provided by the university and may differ from the views of The Hankyoreh&lt;br/&gt;&lt;em&gt;)&lt;/p&gt;&lt;p&gt;* Information provided by: Dongduk Women's University (* Provided by: Dongduk Women's University)&lt;/p&gt;&lt;p&gt;&lt;This article is an informational piece provided by the university and may differ from the views of The Hankyoreh&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교가 좋아요.&lt;br/&gt;&lt;em&gt;I like school.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzczMzQ1MTc2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학교 (school)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;* Information provided by: Sahmyook University (* 자료제공 : 삼육대학교)&lt;/p&gt;&lt;p&gt;&amp;lt;This article is a press release provided by the university and may differ from the views of The Hankyoreh&lt;br/&gt;&lt;em&gt;* Information provided by: Sahmyook University (* Provided by: Sahmyook University)&lt;/p&gt;&lt;p&gt;&lt;This article is a press release provided by the university and may differ from the views of The Hankyoreh&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (동덕여자대학교(총장 김명애) 모델과 곽나영 학생(25학번)이 최근 열린 ‘2026 더룩오브더이어(The Look Of The Year) 코리아’ 본선 대회에서 영예의 대상을 수상했다&lt;br/&gt;&lt;em&gt;" (Dongduk Women's University (President Kim Myung-ae) model and student Kwak Na-young (Class of 2025) recently won the grand prize at the '2026 The Look Of The Year Korea' finals&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;* Information provided by: Dongduk Women's University (* 자료제공 : 동덕여자대학교)&lt;/p&gt;&lt;p&gt;&lt;This article is an informational piece provided by the university and may differ from the views of The Hankyoreh&lt;br/&gt;&lt;em&gt;)&lt;/p&gt;&lt;p&gt;* Information provided by: Dongduk Women's University (* Provided by: Dongduk Women's University)&lt;/p&gt;&lt;p&gt;&lt;This article is an informational piece provided by the university and may differ from the views of The Hankyoreh&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교가 좋아요.&lt;br/&gt;&lt;em&gt;I like school.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 13 Mar 2026 07:29:29 +0900</pubDate><guid isPermaLink="false">vocab-f6072cbb7e26b34f5c633da7d5ca696ac8b2982a</guid><enclosure url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzczMzQ1MTc2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="107853" /><ns2:content url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzczMzQ1MTc2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzczMzQ1MTc2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>학교</category></item><item><title>학교 – school</title><link>urn:urn:vocab:학교</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzczMzQ1MTc2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학교 (school)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;)&lt;/p&gt;&lt;p&gt;* Information provided by: Sahmyook University (* 자료제공 : 삼육대학교)&lt;/p&gt;&lt;p&gt;&amp;lt;This article is a press release provided by the university and may differ from the views of The Hankyoreh&lt;br/&gt;&lt;em&gt;)&lt;/p&gt;&lt;p&gt;* Information provided by: Sahmyook University (* Provided by: Sahmyook University)&lt;/p&gt;&lt;p&gt;&amp;lt;This article is a press release provided by the university and may differ from the views of The Hankyoreh&lt;/em&gt;&lt;/p&gt;
