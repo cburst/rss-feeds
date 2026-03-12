@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 23:42:05 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 02:17:08 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>휴대용 – portable</title><link>urn:urn:vocab:휴대용</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>지지율이 – approval rating</title><link>urn:urn:vocab:지지율이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국민의힘 지지율이 창당 이래 최저치에 근접한 17%라는 여론조사 결과가 12일 발표됐다&lt;br/&gt;&lt;em&gt;A poll result showing the People Power Party's approval rating at 17%, nearing its lowest since its founding, was announced on the 12th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민의힘 의원들 명의로 ‘윤어게인 반대’ 결의문을 발표했음에도 지지율이 반등 없이 고착화된 형국이다&lt;br/&gt;&lt;em&gt;Despite the announcement of a resolution opposing 'Yoon Again' in the names of People Power Party lawmakers, the approval rating has stagnated without a rebound.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민의힘 지지율이 의원 전원 명의의 ‘윤 어게인 반대’ 결의문 발표에도 반등하지 않은 것으로 나타났다&lt;br/&gt;&lt;em&gt;It was revealed that the People Power Party's approval rating did not rebound even after the announcement of a resolution opposing 'Yoon Again' in the names of all lawmakers.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지지율이 높아요.&lt;br/&gt;&lt;em&gt;The approval rating is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지지율이 떨어졌어요.&lt;br/&gt;&lt;em&gt;The approval rating has dropped.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국민의힘 지지율이 창당 이래 최저치에 근접한 17%라는 여론조사 결과가 12일 발표됐다&lt;br/&gt;&lt;em&gt;A poll result showing the People Power Party's approval rating at 17%, nearing its lowest since its founding, was announced on the 12th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민의힘 의원들 명의로 ‘윤어게인 반대’ 결의문을 발표했음에도 지지율이 반등 없이 고착화된 형국이다&lt;br/&gt;&lt;em&gt;Despite the announcement of a resolution opposing 'Yoon Again' in the names of People Power Party lawmakers, the approval rating has stagnated without a rebound.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민의힘 지지율이 의원 전원 명의의 ‘윤 어게인 반대’ 결의문 발표에도 반등하지 않은 것으로 나타났다&lt;br/&gt;&lt;em&gt;It was revealed that the People Power Party's approval rating did not rebound even after the announcement of a resolution opposing 'Yoon Again' in the names of all lawmakers.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지지율이 높아요.&lt;br/&gt;&lt;em&gt;The approval rating is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지지율이 떨어졌어요.&lt;br/&gt;&lt;em&gt;The approval rating has dropped.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 13 Mar 2026 02:17:08 +0900</pubDate><guid isPermaLink="false">vocab-ef085b55d11fbfdbf7f0d9996a611b4fdddd3fc9</guid><category>지지율이</category></item><item><title>휴대용 – portable</title><link>urn:urn:vocab:휴대용</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb3J0YWJsZXxlbnwwfHx8fDE3NzMzMjY1MTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="휴대용 (portable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(김정은 북한 국무위원장이 권총 등 휴대용 경량 무기를 생산하는 군수 공장을 시찰했다&lt;br/&gt;&lt;em&gt;(Kim Jong-un, Chairman of the State Affairs Commission of North Korea, inspected a military factory producing portable lightweight weapons such as pistols.&lt;/em&gt;&lt;/p&gt;
