@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 14:37:22 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 16:44:15 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>부통령 – vice president</title><link>urn:urn:vocab:부통령</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>힘들다 – to be difficult/hard</title><link>urn:urn:vocab:힘들다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwZGlmZmljdWx0JTJGaGFyZHxlbnwwfHx8fDE3NzMzMDE0NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="힘들다 (to be difficult/hard)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘민주파출소’에서 왜곡·허위·조작 기사에 대해서는 명확하게 정정보도를 요청하고 그것이 진행되지 않았을 때 고발을 한다”며 “일관된 원칙을 ‘김어준의 겸손은 힘들다 뉴스공장’과 장인수 기자의 발언에 대해 적용해야 한다”고 했다&lt;br/&gt;&lt;em&gt;He said, 'Regarding distorted, false, and fabricated articles from the 'Democratic Police Station,' we clearly request corrections, and if that does not proceed, we file a complaint,' adding, 'We must apply consistent principles to 'Kim Eo-jun's Humility is Difficult News Factory' and journalist Jang In-soo's statements.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 “김어준의 겸손은 힘들다 뉴스공장과 장 기자가 근거와 내용을 분명하게 얘기하지 않으면 그에 합당한 조치를 받을 수밖에 없는 사건”이라고 했다&lt;br/&gt;&lt;em&gt;He said, 'If Kim Eo-jun's Humility is Difficult News Factory and journalist Jang do not clearly explain the basis and content, it will be an incident that inevitably leads to appropriate measures.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과거 우군이었지만 이제는 더 이상 함께 가기 힘들다고 판단했다는 것입니다&lt;br/&gt;&lt;em&gt;It means that although they were allies in the past, they have now judged that it is difficult to go together any longer.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한국어 공부가 힘들어요.&lt;br/&gt;&lt;em&gt;Studying Korean is difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘 일이 힘들었어요.&lt;br/&gt;&lt;em&gt;Work was difficult today.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwZGlmZmljdWx0JTJGaGFyZHxlbnwwfHx8fDE3NzMzMDE0NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="힘들다 (to be difficult/hard)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘민주파출소’에서 왜곡·허위·조작 기사에 대해서는 명확하게 정정보도를 요청하고 그것이 진행되지 않았을 때 고발을 한다”며 “일관된 원칙을 ‘김어준의 겸손은 힘들다 뉴스공장’과 장인수 기자의 발언에 대해 적용해야 한다”고 했다&lt;br/&gt;&lt;em&gt;He said, 'Regarding distorted, false, and fabricated articles from the 'Democratic Police Station,' we clearly request corrections, and if that does not proceed, we file a complaint,' adding, 'We must apply consistent principles to 'Kim Eo-jun's Humility is Difficult News Factory' and journalist Jang In-soo's statements.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 “김어준의 겸손은 힘들다 뉴스공장과 장 기자가 근거와 내용을 분명하게 얘기하지 않으면 그에 합당한 조치를 받을 수밖에 없는 사건”이라고 했다&lt;br/&gt;&lt;em&gt;He said, 'If Kim Eo-jun's Humility is Difficult News Factory and journalist Jang do not clearly explain the basis and content, it will be an incident that inevitably leads to appropriate measures.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과거 우군이었지만 이제는 더 이상 함께 가기 힘들다고 판단했다는 것입니다&lt;br/&gt;&lt;em&gt;It means that although they were allies in the past, they have now judged that it is difficult to go together any longer.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한국어 공부가 힘들어요.&lt;br/&gt;&lt;em&gt;Studying Korean is difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘 일이 힘들었어요.&lt;br/&gt;&lt;em&gt;Work was difficult today.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 12 Mar 2026 16:44:15 +0900</pubDate><guid isPermaLink="false">vocab-7ff46cad86f8dc109ccf45a397e39586cae6b613</guid><enclosure url="https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwZGlmZmljdWx0JTJGaGFyZHxlbnwwfHx8fDE3NzMzMDE0NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="139372" /><ns2:content url="https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwZGlmZmljdWx0JTJGaGFyZHxlbnwwfHx8fDE3NzMzMDE0NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGJlJTIwZGlmZmljdWx0JTJGaGFyZHxlbnwwfHx8fDE3NzMzMDE0NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>힘들다</category></item><item><title>부통령 – vice president</title><link>urn:urn:vocab:부통령</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aWNlJTIwcHJlc2lkZW50fGVufDB8fHx8MTc3MzI5MzgzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부통령 (vice president)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Possibility of Meeting with Vice President Vance (金총리, 한 달 반 만에 다시 방미…밴스 부통령 회동 가능성) &lt;&lt;br/&gt;&lt;em&gt;Possibility of Meeting with Vice President Vance (Prime Minister Kim visits the US again after a month and a half... possibility of meeting with Vice President Vance)&lt;/em&gt;&lt;/p&gt;
