@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 20:34:45 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 23:10:15 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>보고했다 – reported</title><link>urn:urn:vocab:보고했다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>가격제 – price system</title><link>urn:urn:vocab:가격제</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1723392979563-8ac752dba0c2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmljZSUyMHN5c3RlbXxlbnwwfHx8fDE3NzM0MTEwMDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가격제 (price system)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee Urges, "Report Price Gouging" (석유 최고가격제 시행&lt;br/&gt;&lt;em&gt;President Lee Urges, "Report Price Gouging" (Implementation of Petroleum Price Ceiling System)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;President Lee Urges, "Report Price Gouging" (석유 최고가격제 시행&lt;br/&gt;&lt;em&gt;President Lee Urges, "Report Price Gouging" (Implementation of Petroleum Price Ceiling System)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 13일 “오늘부터 석유 최고 가격제 전면 시행한다”며 “만약 제도를 어기는 주유소 등을 발견하신다면 지체 없이 저에게 신고해 주십시오”라고 했다&lt;br/&gt;&lt;em&gt;President Lee said on the 13th, "Starting today, we are fully implementing the petroleum price ceiling system. If you find gas stations or others violating this system, please report it to me without delay."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;가격제가 좋아요.&lt;br/&gt;&lt;em&gt;I like the price.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가격제를 이해해요.&lt;br/&gt;&lt;em&gt;I understand the price.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1723392979563-8ac752dba0c2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmljZSUyMHN5c3RlbXxlbnwwfHx8fDE3NzM0MTEwMDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가격제 (price system)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee Urges, "Report Price Gouging" (석유 최고가격제 시행&lt;br/&gt;&lt;em&gt;President Lee Urges, "Report Price Gouging" (Implementation of Petroleum Price Ceiling System)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;President Lee Urges, "Report Price Gouging" (석유 최고가격제 시행&lt;br/&gt;&lt;em&gt;President Lee Urges, "Report Price Gouging" (Implementation of Petroleum Price Ceiling System)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 13일 “오늘부터 석유 최고 가격제 전면 시행한다”며 “만약 제도를 어기는 주유소 등을 발견하신다면 지체 없이 저에게 신고해 주십시오”라고 했다&lt;br/&gt;&lt;em&gt;President Lee said on the 13th, "Starting today, we are fully implementing the petroleum price ceiling system. If you find gas stations or others violating this system, please report it to me without delay."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;가격제가 좋아요.&lt;br/&gt;&lt;em&gt;I like the price.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가격제를 이해해요.&lt;br/&gt;&lt;em&gt;I understand the price.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 13 Mar 2026 23:10:15 +0900</pubDate><guid isPermaLink="false">vocab-73269af3c6ab0191822e0b63164d25765e76619b</guid><enclosure url="https://images.unsplash.com/photo-1723392979563-8ac752dba0c2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmljZSUyMHN5c3RlbXxlbnwwfHx8fDE3NzM0MTEwMDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="97148" /><ns2:content url="https://images.unsplash.com/photo-1723392979563-8ac752dba0c2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmljZSUyMHN5c3RlbXxlbnwwfHx8fDE3NzM0MTEwMDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1723392979563-8ac752dba0c2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmljZSUyMHN5c3RlbXxlbnwwfHx8fDE3NzM0MTEwMDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>가격제</category></item><item><title>보고했다 – reported</title><link>urn:urn:vocab:보고했다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnRlZHxlbnwwfHx8fDE3NzM0MDE2NzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="보고했다 (reported)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(앞서 복지부는 지난 10일 국회 보건복지위원회에 이런 내용을 담은 ‘군 복무 크레딧 제도’ 개편 방안을 보고했다&lt;br/&gt;&lt;em&gt;(Earlier, the Ministry of Health and Welfare reported to the National Assembly's Health and Welfare Committee on the 10th a reform plan for the 'Military Service Credit System' containing such content&lt;/em&gt;&lt;/p&gt;

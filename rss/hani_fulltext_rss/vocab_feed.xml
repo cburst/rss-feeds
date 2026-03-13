@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 20:34:31 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 23:10:00 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,27 @@
 
 
 
-  <item><title>다르게 – differently</title><link>urn:urn:vocab:다르게</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>문화방송 – MBC (Munhwa Broadcasting Corporation)</title><link>urn:urn:vocab:문화방송</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;민주당은 이날 공소취소 거래설을 처음으로 제기한 장인수 전 문화방송(MBC) 기자를 고발하겠다고 밝혔다&lt;br/&gt;&lt;em&gt;The Democratic Party announced that it will file a complaint against former MBC reporter Jang In-soo, who first raised the allegation of a deal to drop charges.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;문화방송(MBC) 출신 기자 장인수씨가 지난 10일 유튜브 ‘김어준의 겸손은 힘들다 뉴스공장’에 출연해 발언하고 있다&lt;br/&gt;&lt;em&gt;Former MBC reporter Jang In-soo is seen speaking on the YouTube channel 'Kim Eo-jun's News Factory' on the 10th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지난 10일 김씨 유튜브 생방송 중 장인수 전 문화방송(MBC) 기자는 이재명 대통령의 최측근인 정부 고위관계자가 다수 고위 검사에게 공소 취소를 해달라는 메시지를 전했다며 거래설을 제기한 바 있다&lt;br/&gt;&lt;em&gt;(During the live broadcast on the 10th, former MBC reporter Jang In-soo alleged that a high-ranking government official, a close aide to President Lee Jae-myung, delivered a message to several high-ranking prosecutors requesting the dropping of charges, raising the deal allegation.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;문화방송을 봅니다.&lt;br/&gt;&lt;em&gt;I watch MBC.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;문화방송이 좋아요.&lt;br/&gt;&lt;em&gt;I like MBC.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;민주당은 이날 공소취소 거래설을 처음으로 제기한 장인수 전 문화방송(MBC) 기자를 고발하겠다고 밝혔다&lt;br/&gt;&lt;em&gt;The Democratic Party announced that it will file a complaint against former MBC reporter Jang In-soo, who first raised the allegation of a deal to drop charges.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;문화방송(MBC) 출신 기자 장인수씨가 지난 10일 유튜브 ‘김어준의 겸손은 힘들다 뉴스공장’에 출연해 발언하고 있다&lt;br/&gt;&lt;em&gt;Former MBC reporter Jang In-soo is seen speaking on the YouTube channel 'Kim Eo-jun's News Factory' on the 10th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지난 10일 김씨 유튜브 생방송 중 장인수 전 문화방송(MBC) 기자는 이재명 대통령의 최측근인 정부 고위관계자가 다수 고위 검사에게 공소 취소를 해달라는 메시지를 전했다며 거래설을 제기한 바 있다&lt;br/&gt;&lt;em&gt;(During the live broadcast on the 10th, former MBC reporter Jang In-soo alleged that a high-ranking government official, a close aide to President Lee Jae-myung, delivered a message to several high-ranking prosecutors requesting the dropping of charges, raising the deal allegation.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;문화방송을 봅니다.&lt;br/&gt;&lt;em&gt;I watch MBC.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;문화방송이 좋아요.&lt;br/&gt;&lt;em&gt;I like MBC.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 13 Mar 2026 23:10:00 +0900</pubDate><guid isPermaLink="false">vocab-8ab422a68cc7953e77a695e5d098194e2cc803d0</guid><category>문화방송</category></item><item><title>다르게 – differently</title><link>urn:urn:vocab:다르게</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;쿡 시이오는 “세상을 앞으로 나아가게 하는 것은 다르게 생각하는 사람들이었다”라며 “세상 모든 ‘미친 이들’에게 이 편지를 바친다”고 밝혔다&lt;br/&gt;&lt;em&gt;Cook CEO stated, "It was people who think differently that move the world forward," and declared, "I dedicate this letter to all the 'crazy ones' in the world."&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;(13일 애플 누리집에는 ‘50년 동안 다르게 생각해 온 정신’이라는 제목을 단 쿡 시이오의 편지가 올라왔다&lt;br/&gt;&lt;em&gt;(On the 13th, a letter from Cook CEO titled 'The Spirit That Has Thought Differently for 50 Years' was posted on Apple's website.&lt;/em&gt;&lt;/p&gt;
