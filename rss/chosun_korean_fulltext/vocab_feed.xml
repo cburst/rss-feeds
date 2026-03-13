@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 15:21:15 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 17:59:10 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>약속은 – promise</title><link>urn:urn:vocab:약속은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>거래설 – transaction rumor</title><link>urn:urn:vocab:거래설</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1574661625380-bc3795949110?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc2FjdGlvbiUyMHJ1bW9yfGVufDB8fHx8MTc3MzM5MjMzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="거래설 (transaction rumor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Pro-Myung Innovation Conference: "Regarding the 'Prosecution Withdrawal Deal' Allegation, Kim Eo-joon Should Also Take Responsibility" (친명 혁신회의 “공소취소 거래설, 김어준도 책임져야”) &lt;&lt;br/&gt;&lt;em&gt;Pro-Myung Innovation Conference: "Regarding the 'Prosecution Withdrawal Deal' Allegation, Kim Eo-joon Should Also Take Responsibility"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Pro-Myung Innovation Conference: "Regarding the 'Prosecution Withdrawal Deal' Allegation, Kim Eo-joon Should Also Take Responsibility" (친명 혁신회의 “공소취소 거래설, 김어준도 책임져야”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Pro-Myung Innovation Conference: "Regarding the 'Prosecution Withdrawal Deal' Allegation, Kim Eo-joon Should Also Take Responsibility"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (더불어민주당 친명계 외곽 조직 ‘더민주전국혁신회의’는 13일 ‘공소 취소 거래설’ 논란과 관련해 “김어준 뉴스공장은 책임을 회피하지 말라”며 “장인수 기자와 김어준 뉴스공장은 분명한 사과와 반성, 그리고 사실 검증 없는 의혹 유포가 반복되지 않도록 재발 방지책을 내놓아야 한다”고 했다&lt;br/&gt;&lt;em&gt;"The Pro-Myung National Innovation Conference, an external organization of the Democratic Party of Korea's pro-Myung faction, stated on the 13th regarding the controversy over the 'prosecution withdrawal deal' allegation: 'Kim Eo-joon's News Factory should not evade responsibility,' and added, 'Reporter Jang In-soo and Kim Eo-joon's News Factory must offer a clear apology and reflection, and present measures to prevent recurrence so that the spread of unverified suspicions is not repeated.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;거래설이 나왔어요.&lt;br/&gt;&lt;em&gt;There was a rumor of a deal.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;거래설을 들었어요.&lt;br/&gt;&lt;em&gt;I heard a rumor about a deal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1574661625380-bc3795949110?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc2FjdGlvbiUyMHJ1bW9yfGVufDB8fHx8MTc3MzM5MjMzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="거래설 (transaction rumor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Pro-Myung Innovation Conference: "Regarding the 'Prosecution Withdrawal Deal' Allegation, Kim Eo-joon Should Also Take Responsibility" (친명 혁신회의 “공소취소 거래설, 김어준도 책임져야”) &lt;&lt;br/&gt;&lt;em&gt;Pro-Myung Innovation Conference: "Regarding the 'Prosecution Withdrawal Deal' Allegation, Kim Eo-joon Should Also Take Responsibility"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Pro-Myung Innovation Conference: "Regarding the 'Prosecution Withdrawal Deal' Allegation, Kim Eo-joon Should Also Take Responsibility" (친명 혁신회의 “공소취소 거래설, 김어준도 책임져야”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Pro-Myung Innovation Conference: "Regarding the 'Prosecution Withdrawal Deal' Allegation, Kim Eo-joon Should Also Take Responsibility"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (더불어민주당 친명계 외곽 조직 ‘더민주전국혁신회의’는 13일 ‘공소 취소 거래설’ 논란과 관련해 “김어준 뉴스공장은 책임을 회피하지 말라”며 “장인수 기자와 김어준 뉴스공장은 분명한 사과와 반성, 그리고 사실 검증 없는 의혹 유포가 반복되지 않도록 재발 방지책을 내놓아야 한다”고 했다&lt;br/&gt;&lt;em&gt;"The Pro-Myung National Innovation Conference, an external organization of the Democratic Party of Korea's pro-Myung faction, stated on the 13th regarding the controversy over the 'prosecution withdrawal deal' allegation: 'Kim Eo-joon's News Factory should not evade responsibility,' and added, 'Reporter Jang In-soo and Kim Eo-joon's News Factory must offer a clear apology and reflection, and present measures to prevent recurrence so that the spread of unverified suspicions is not repeated.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;거래설이 나왔어요.&lt;br/&gt;&lt;em&gt;There was a rumor of a deal.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;거래설을 들었어요.&lt;br/&gt;&lt;em&gt;I heard a rumor about a deal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 13 Mar 2026 17:59:10 +0900</pubDate><guid isPermaLink="false">vocab-0fbb0fbead837de18f35383007d203be8299d8c2</guid><enclosure url="https://images.unsplash.com/photo-1574661625380-bc3795949110?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc2FjdGlvbiUyMHJ1bW9yfGVufDB8fHx8MTc3MzM5MjMzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="78742" /><ns2:content url="https://images.unsplash.com/photo-1574661625380-bc3795949110?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc2FjdGlvbiUyMHJ1bW9yfGVufDB8fHx8MTc3MzM5MjMzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1574661625380-bc3795949110?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc2FjdGlvbiUyMHJ1bW9yfGVufDB8fHx8MTc3MzM5MjMzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>거래설</category></item><item><title>약속은 – promise</title><link>urn:urn:vocab:약속은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1593526613712-7b4b9a707330?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9taXNlfGVufDB8fHx8MTc3MzM4Mjg2Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="약속은 (promise)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Recognizes Entire Military Service Period for Pension Enrollment (李 대통령 “약속은 지킵니다”… 軍 복무 전 기간 연금가입 인정) &lt;&lt;br/&gt;&lt;em&gt;Recognizes Entire Military Service Period for Pension Enrollment (President Lee "We keep our promises"... Recognition of entire military service period for pension enrollment)&lt;/em&gt;&lt;/p&gt;
