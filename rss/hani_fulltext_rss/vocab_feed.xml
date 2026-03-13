@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 10:09:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 12:45:52 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>적외선 – infrared</title><link>urn:urn:vocab:적외선</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>학습과 – learning and</title><link>urn:urn:vocab:학습과</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1573706376056-55f27105ff17?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMGFuZHxlbnwwfHx8fDE3NzMzNzM1MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학습과 (learning and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(명지대학교(총장 임연수)는 인문캠퍼스 학생회관 4층에 학생들의 학습과 휴식을 동시에 지원하는 ‘창의융합공간’ 환경개선 공사를 완료하고 새롭게 단장한 공간을 학생들에게 공개했다&lt;br/&gt;&lt;em&gt;Myongji University (President Lim Yeon-soo) has completed environmental improvement construction for the 'Creative Convergence Space' on the 4th floor of the Student Union Building at the Humanities Campus, which supports both students' learning and rest, and unveiled the newly renovated space to students.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 스터디와 휴식이 가능한 복합 공간으로 조성해 학생들이 보다 쾌적한 환경에서 학습과 교류 활동을 할 수 있도록 하는 데 초점을 맞췄다&lt;br/&gt;&lt;em&gt;In particular, it was created as a complex space where both studying and resting are possible, focusing on enabling students to engage in learning and exchange activities in a more comfortable environment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (공사를 담당했던 명지대학교 총무시설팀 우상균 팀원은 “이번 환경개선 공사는 학생들이 학습과 휴식을 함께 누릴 수 있는 스터디 라운지를 조성하는 데 중점을 두고 추진했다”며 “앞으로도 학생들이 보다 쾌적한 환경에서 학교생활을 할 수 있도록 캠퍼스 시설 개선을 지속적으로 검토해 나가겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;Woo Sang-gyun, a member of Myongji University's General Affairs and Facilities Team who was in charge of the construction, stated, 'This environmental improvement project was carried out with a focus on creating a study lounge where students can enjoy both learning and rest together,' adding, 'We will continue to review campus facility improvements so that students can have a more comfortable school life in the future.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학습과 놀이는 중요해요.&lt;br/&gt;&lt;em&gt;Learning and play are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학습과 운동을 좋아해요.&lt;br/&gt;&lt;em&gt;I like learning and exercise.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1573706376056-55f27105ff17?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMGFuZHxlbnwwfHx8fDE3NzMzNzM1MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학습과 (learning and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(명지대학교(총장 임연수)는 인문캠퍼스 학생회관 4층에 학생들의 학습과 휴식을 동시에 지원하는 ‘창의융합공간’ 환경개선 공사를 완료하고 새롭게 단장한 공간을 학생들에게 공개했다&lt;br/&gt;&lt;em&gt;Myongji University (President Lim Yeon-soo) has completed environmental improvement construction for the 'Creative Convergence Space' on the 4th floor of the Student Union Building at the Humanities Campus, which supports both students' learning and rest, and unveiled the newly renovated space to students.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 스터디와 휴식이 가능한 복합 공간으로 조성해 학생들이 보다 쾌적한 환경에서 학습과 교류 활동을 할 수 있도록 하는 데 초점을 맞췄다&lt;br/&gt;&lt;em&gt;In particular, it was created as a complex space where both studying and resting are possible, focusing on enabling students to engage in learning and exchange activities in a more comfortable environment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (공사를 담당했던 명지대학교 총무시설팀 우상균 팀원은 “이번 환경개선 공사는 학생들이 학습과 휴식을 함께 누릴 수 있는 스터디 라운지를 조성하는 데 중점을 두고 추진했다”며 “앞으로도 학생들이 보다 쾌적한 환경에서 학교생활을 할 수 있도록 캠퍼스 시설 개선을 지속적으로 검토해 나가겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;Woo Sang-gyun, a member of Myongji University's General Affairs and Facilities Team who was in charge of the construction, stated, 'This environmental improvement project was carried out with a focus on creating a study lounge where students can enjoy both learning and rest together,' adding, 'We will continue to review campus facility improvements so that students can have a more comfortable school life in the future.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학습과 놀이는 중요해요.&lt;br/&gt;&lt;em&gt;Learning and play are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학습과 운동을 좋아해요.&lt;br/&gt;&lt;em&gt;I like learning and exercise.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 13 Mar 2026 12:45:51 +0900</pubDate><guid isPermaLink="false">vocab-9218b950bcb35c6f426558a124d21164fa5189ae</guid><enclosure url="https://images.unsplash.com/photo-1573706376056-55f27105ff17?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMGFuZHxlbnwwfHx8fDE3NzMzNzM1MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="92080" /><ns2:content url="https://images.unsplash.com/photo-1573706376056-55f27105ff17?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMGFuZHxlbnwwfHx8fDE3NzMzNzM1MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1573706376056-55f27105ff17?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZWFybmluZyUyMGFuZHxlbnwwfHx8fDE3NzMzNzM1MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>학습과</category></item><item><title>적외선 – infrared</title><link>urn:urn:vocab:적외선</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1541958409-7618fd1ad26e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmZyYXJlZHxlbnwwfHx8fDE3NzMzNjQxMzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="적외선 (infrared)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;연세대학교 기계공학과 김종백 교수 연구팀 (공동 제1저자 한현준황규현)은 얇은 얼음층을 이용해 수직 정렬 탄소나노튜브(VACNT)를 깨끗하게 전사하는 공정을 구현하고, 이를 프로세서 칩 열관리와 적외선 센서에 적용해 성능을 크게 향상하는 데 성공했다&lt;br/&gt;&lt;em&gt;Professor Jong-Baek Kim's research team from the Department of Mechanical Engineering at Yonsei University (co-first authors Hyun-Jun Han and Kyu-Hyun Hwang) has successfully implemented a process for cleanly transferring vertically aligned carbon nanotubes (VACNTs) using a thin ice layer, and applied it to processor chip thermal management and infrared sensors, significantly improving performance.&lt;/em&gt;&lt;/p&gt;
