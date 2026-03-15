@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 21:30:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 23:36:14 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>기업 – company</title><link>urn:urn:vocab:기업</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>검찰 – prosecutor's office</title><link>urn:urn:vocab:검찰</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589216532372-1c2a367900d9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUElQjIlODAlRUMlQjAlQjB8ZW58MHx8fHwxNzczNTg1MzYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="검찰 (prosecutor's office)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Three 'Prosecutor-like' Reasons Why Prosecutorial Reform is Wandering [Nonsseul] (검찰개혁이 방황하는 3가지 ‘검사스러운’ 이유 [논썰]) &lt;&lt;br/&gt;&lt;em&gt;Three 'Prosecutor-like' Reasons Why Prosecutorial Reform is Wandering [Nonsseul]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Three 'Prosecutor-like' Reasons Why Prosecutorial Reform is Wandering [Nonsseul] (검찰개혁이 방황하는 3가지 ‘검사스러운’ 이유 [논썰])&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Three 'Prosecutor-like' Reasons Why Prosecutorial Reform is Wandering [Nonsseul]&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;[논썰] 검찰개혁이 방황하는 3가지 ‘검사스러운’ 이유&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;[Nonsseul] Three 'Prosecutor-like' Reasons Why Prosecutorial Reform is Wandering&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;검찰이 일을 합니다.&lt;br/&gt;&lt;em&gt;The prosecution does work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;검찰이 사람을 봅니다.&lt;br/&gt;&lt;em&gt;The prosecution sees people.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589216532372-1c2a367900d9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUElQjIlODAlRUMlQjAlQjB8ZW58MHx8fHwxNzczNTg1MzYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="검찰 (prosecutor's office)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Three 'Prosecutor-like' Reasons Why Prosecutorial Reform is Wandering [Nonsseul] (검찰개혁이 방황하는 3가지 ‘검사스러운’ 이유 [논썰]) &lt;&lt;br/&gt;&lt;em&gt;Three 'Prosecutor-like' Reasons Why Prosecutorial Reform is Wandering [Nonsseul]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Three 'Prosecutor-like' Reasons Why Prosecutorial Reform is Wandering [Nonsseul] (검찰개혁이 방황하는 3가지 ‘검사스러운’ 이유 [논썰])&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Three 'Prosecutor-like' Reasons Why Prosecutorial Reform is Wandering [Nonsseul]&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;[논썰] 검찰개혁이 방황하는 3가지 ‘검사스러운’ 이유&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;[Nonsseul] Three 'Prosecutor-like' Reasons Why Prosecutorial Reform is Wandering&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;검찰이 일을 합니다.&lt;br/&gt;&lt;em&gt;The prosecution does work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;검찰이 사람을 봅니다.&lt;br/&gt;&lt;em&gt;The prosecution sees people.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 15 Mar 2026 23:36:14 +0900</pubDate><guid isPermaLink="false">vocab-d96c0dde9ce509ec8e52536eeb7d4eea771beedf</guid><enclosure url="https://images.unsplash.com/photo-1589216532372-1c2a367900d9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUElQjIlODAlRUMlQjAlQjB8ZW58MHx8fHwxNzczNTg1MzYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="64988" /><ns2:content url="https://images.unsplash.com/photo-1589216532372-1c2a367900d9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUElQjIlODAlRUMlQjAlQjB8ZW58MHx8fHwxNzczNTg1MzYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1589216532372-1c2a367900d9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUElQjIlODAlRUMlQjAlQjB8ZW58MHx8fHwxNzczNTg1MzYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>검찰</category></item><item><title>기업 – company</title><link>urn:urn:vocab:기업</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55fGVufDB8fHx8MTc3MzUyMzc2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기업 (company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (참석자들은 기업이 신입을 뽑지 않는 현실에서 대학은 프로젝트형 수업이나 인턴십을 강화하는 등 미리 실무 경험을 쌓는 방향으로 갈 수밖에 없다는 데 의견을 모았다&lt;br/&gt;&lt;em&gt;Participants agreed that in the reality where companies are not hiring new employees, universities have no choice but to move in the direction of accumulating practical experience in advance, such as by strengthening project-based classes or internships.&lt;/em&gt;&lt;/p&gt;
