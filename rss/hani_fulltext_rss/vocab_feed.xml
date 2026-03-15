@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 06:29:17 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 10:38:47 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>만 – ten thousand</title><link>urn:urn:vocab:만</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>보도했다 – reported</title><link>urn:urn:vocab:보도했다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnRlZHxlbnwwfHx8fDE3NzM1Mzg3MTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="보도했다 (reported)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(앞서 로이터 통신은 지난 7일 미국 오하이오주에서 팰리세이드 전동 시트와 관련해 2살 아이가 숨지는 사고가 발생했다고 보도했다&lt;br/&gt;&lt;em&gt;(Earlier, Reuters reported on the 7th that an accident occurred in Ohio, USA, where a 2-year-old child died in relation to a Palisade electric seat.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(로이터 통신은 14일(현지시각) 소식통들을 인용해 메타 경영진이 고위 임원들에게 감원 계획 수립을 지시했다며 이같이 보도했다&lt;br/&gt;&lt;em&gt;(Reuters reported on the 14th (local time), citing sources, that Meta's management instructed senior executives to prepare a layoff plan.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;김정은 북한 국무위원장이 화상으로 참관한 가운데 지난 10일 구축함 최현호에서 순항미사일 시험발사를 진행했다고 조선중앙통신이 보도했다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;North Korea's Korean Central News Agency reported that on the 10th, a cruise missile test launch was conducted from the destroyer Choe Hyon-ho, with Chairman Kim Jong-un of the State Affairs Commission observing via video.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;뉴스가 사건을 보도했다.&lt;br/&gt;&lt;em&gt;The news reported the incident.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기자가 사실을 보도했다.&lt;br/&gt;&lt;em&gt;The reporter reported the facts.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnRlZHxlbnwwfHx8fDE3NzM1Mzg3MTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="보도했다 (reported)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(앞서 로이터 통신은 지난 7일 미국 오하이오주에서 팰리세이드 전동 시트와 관련해 2살 아이가 숨지는 사고가 발생했다고 보도했다&lt;br/&gt;&lt;em&gt;(Earlier, Reuters reported on the 7th that an accident occurred in Ohio, USA, where a 2-year-old child died in relation to a Palisade electric seat.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(로이터 통신은 14일(현지시각) 소식통들을 인용해 메타 경영진이 고위 임원들에게 감원 계획 수립을 지시했다며 이같이 보도했다&lt;br/&gt;&lt;em&gt;(Reuters reported on the 14th (local time), citing sources, that Meta's management instructed senior executives to prepare a layoff plan.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;김정은 북한 국무위원장이 화상으로 참관한 가운데 지난 10일 구축함 최현호에서 순항미사일 시험발사를 진행했다고 조선중앙통신이 보도했다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;North Korea's Korean Central News Agency reported that on the 10th, a cruise missile test launch was conducted from the destroyer Choe Hyon-ho, with Chairman Kim Jong-un of the State Affairs Commission observing via video.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;뉴스가 사건을 보도했다.&lt;br/&gt;&lt;em&gt;The news reported the incident.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기자가 사실을 보도했다.&lt;br/&gt;&lt;em&gt;The reporter reported the facts.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 15 Mar 2026 10:38:47 +0900</pubDate><guid isPermaLink="false">vocab-7049020d5f78c40783a13ea6264fab2b00329e1e</guid><enclosure url="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnRlZHxlbnwwfHx8fDE3NzM1Mzg3MTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="195441" /><ns2:content url="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnRlZHxlbnwwfHx8fDE3NzM1Mzg3MTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnRlZHxlbnwwfHx8fDE3NzM1Mzg3MTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>보도했다</category></item><item><title>위로와 – comfort and</title><link>urn:urn:vocab:위로와</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625803059154-85780518e4b2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21mb3J0JTIwYW5kfGVufDB8fHx8MTc3MzUzMTI2Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="위로와 (comfort and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그에게도 분명 상처와 아픔이 있었을 텐데, 그 마음을 헤아리고 보듬어 준다면 얼마나 큰 위로와 힘이 될까요&lt;br/&gt;&lt;em&gt;He must have had wounds and pain too, and how much comfort and strength it would be to understand and embrace that heart.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Consolation and Encouragement for the Slow Child and Their Parents (느린 아이와 그 부모에게 건네는 위로와 격려) &lt;&lt;br/&gt;&lt;em&gt;Consolation and Encouragement for the Slow Child and Their Parents&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Consolation and Encouragement for the Slow Child and Their Parents (느린 아이와 그 부모에게 건네는 위로와 격려)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Consolation and Encouragement for the Slow Child and Their Parents&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;위로와 격려가 필요해요.&lt;br/&gt;&lt;em&gt;I need comfort and encouragement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구에게 위로와 사랑을 전했어요.&lt;br/&gt;&lt;em&gt;I conveyed comfort and love to my friend.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625803059154-85780518e4b2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21mb3J0JTIwYW5kfGVufDB8fHx8MTc3MzUzMTI2Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="위로와 (comfort and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그에게도 분명 상처와 아픔이 있었을 텐데, 그 마음을 헤아리고 보듬어 준다면 얼마나 큰 위로와 힘이 될까요&lt;br/&gt;&lt;em&gt;He must have had wounds and pain too, and how much comfort and strength it would be to understand and embrace that heart.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Consolation and Encouragement for the Slow Child and Their Parents (느린 아이와 그 부모에게 건네는 위로와 격려) &lt;&lt;br/&gt;&lt;em&gt;Consolation and Encouragement for the Slow Child and Their Parents&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Consolation and Encouragement for the Slow Child and Their Parents (느린 아이와 그 부모에게 건네는 위로와 격려)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Consolation and Encouragement for the Slow Child and Their Parents&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;위로와 격려가 필요해요.&lt;br/&gt;&lt;em&gt;I need comfort and encouragement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구에게 위로와 사랑을 전했어요.&lt;br/&gt;&lt;em&gt;I conveyed comfort and love to my friend.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 15 Mar 2026 08:34:29 +0900</pubDate><guid isPermaLink="false">vocab-c44b715230b3cea6d4cbd02805cc9ba018f8d867</guid><enclosure url="https://images.unsplash.com/photo-1625803059154-85780518e4b2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21mb3J0JTIwYW5kfGVufDB8fHx8MTc3MzUzMTI2Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="144859" /><ns2:content url="https://images.unsplash.com/photo-1625803059154-85780518e4b2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21mb3J0JTIwYW5kfGVufDB8fHx8MTc3MzUzMTI2Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1625803059154-85780518e4b2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21mb3J0JTIwYW5kfGVufDB8fHx8MTc3MzUzMTI2Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>위로와</category></item><item><title>만 – ten thousand</title><link>urn:urn:vocab:만</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1649358402603-567a313eb7e9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZW4lMjB0aG91c2FuZHxlbnwwfHx8fDE3NzM1MDA5NzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="만 (ten thousand)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;급변하는 교육 환경 속에서도 삼육대만의 본질적인 교육 가치와 비전을 명확하게 전달하겠다는 의지를 담았다&lt;br/&gt;&lt;em&gt;It expressed the determination to clearly convey Sookmyung University's essential educational values and vision, even amidst rapidly changing educational environments.&lt;/em&gt;&lt;/p&gt;
