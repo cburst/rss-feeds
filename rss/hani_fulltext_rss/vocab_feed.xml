@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 19:23:26 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 21:30:06 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>버터떡 – butter rice cake</title><link>urn:urn:vocab:버터떡</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기업 – company</title><link>urn:urn:vocab:기업</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55fGVufDB8fHx8MTc3MzUyMzc2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기업 (company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (참석자들은 기업이 신입을 뽑지 않는 현실에서 대학은 프로젝트형 수업이나 인턴십을 강화하는 등 미리 실무 경험을 쌓는 방향으로 갈 수밖에 없다는 데 의견을 모았다&lt;br/&gt;&lt;em&gt;Participants agreed that in the reality where companies are not hiring new employees, universities have no choice but to move in the direction of accumulating practical experience in advance, such as by strengthening project-based classes or internships.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지난해 8월 기준으로 정부는 올해 법인세 86조5천억원, 증권거래세 5조4천억원, 농어촌특별세 8조5천억원 등 총 390조2천억원 규모의 국세수입을 전망했지만, 반도체 기업 실적과 증시가 호조를 보이면서 초과 세수가 예상되고 있다&lt;br/&gt;&lt;em&gt;As of last August, the government forecasted national tax revenue of 390.2 trillion won this year, including 86.5 trillion won in corporate tax, 5.4 trillion won in securities transaction tax, and 8.5 trillion won in special tax for rural areas, but excess tax revenue is expected due to strong performance by semiconductor companies and the stock market.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이날 기획처는 각 부처에 ‘서민·소상공인·농어민’과 ‘이번 사태로 직접 타격을 입은 수출기업’을 언급하며 추경사업 발굴을 주문했다&lt;br/&gt;&lt;em&gt;On that day, the Planning Office mentioned 'ordinary citizens, small business owners, and farmers/fishermen' and 'export companies directly hit by this situation' to each ministry and requested the discovery of supplementary budget projects.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기업이 커요.&lt;br/&gt;&lt;em&gt;The company is big.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기업에서 일해요.&lt;br/&gt;&lt;em&gt;I work at a company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55fGVufDB8fHx8MTc3MzUyMzc2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기업 (company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (참석자들은 기업이 신입을 뽑지 않는 현실에서 대학은 프로젝트형 수업이나 인턴십을 강화하는 등 미리 실무 경험을 쌓는 방향으로 갈 수밖에 없다는 데 의견을 모았다&lt;br/&gt;&lt;em&gt;Participants agreed that in the reality where companies are not hiring new employees, universities have no choice but to move in the direction of accumulating practical experience in advance, such as by strengthening project-based classes or internships.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지난해 8월 기준으로 정부는 올해 법인세 86조5천억원, 증권거래세 5조4천억원, 농어촌특별세 8조5천억원 등 총 390조2천억원 규모의 국세수입을 전망했지만, 반도체 기업 실적과 증시가 호조를 보이면서 초과 세수가 예상되고 있다&lt;br/&gt;&lt;em&gt;As of last August, the government forecasted national tax revenue of 390.2 trillion won this year, including 86.5 trillion won in corporate tax, 5.4 trillion won in securities transaction tax, and 8.5 trillion won in special tax for rural areas, but excess tax revenue is expected due to strong performance by semiconductor companies and the stock market.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이날 기획처는 각 부처에 ‘서민·소상공인·농어민’과 ‘이번 사태로 직접 타격을 입은 수출기업’을 언급하며 추경사업 발굴을 주문했다&lt;br/&gt;&lt;em&gt;On that day, the Planning Office mentioned 'ordinary citizens, small business owners, and farmers/fishermen' and 'export companies directly hit by this situation' to each ministry and requested the discovery of supplementary budget projects.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기업이 커요.&lt;br/&gt;&lt;em&gt;The company is big.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기업에서 일해요.&lt;br/&gt;&lt;em&gt;I work at a company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 15 Mar 2026 21:30:06 +0900</pubDate><guid isPermaLink="false">vocab-be2beac7b97e81b1bb068531deab80544af59563</guid><enclosure url="https://images.unsplash.com/photo-1560179707-f14e90ef3623?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55fGVufDB8fHx8MTc3MzUyMzc2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="212101" /><ns2:content url="https://images.unsplash.com/photo-1560179707-f14e90ef3623?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55fGVufDB8fHx8MTc3MzUyMzc2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1560179707-f14e90ef3623?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wYW55fGVufDB8fHx8MTc3MzUyMzc2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기업</category></item><item><title>버터떡 – butter rice cake</title><link>urn:urn:vocab:버터떡</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1767876728081-446db5577f72?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXR0ZXIlMjByaWNlJTIwY2FrZXxlbnwwfHx8fDE3NzM1NzAxOTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="버터떡 (butter rice cake)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;"Forced Trend" (‘버터떡’, 두쫀쿠 제치고 검색어 1위…“먹어보는 재미” vs “억지 유행”) &lt;&lt;br/&gt;&lt;em&gt;"Forced Trend" ('Butter Rice Cake', surpassing Dubai chewy cookie (Dubai chewy cookie) to top search rankings..."Fun to try eating" vs "Forced trend")&lt;/em&gt;&lt;/p&gt;
