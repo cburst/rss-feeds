@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 05:54:18 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 07:58:40 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>기업도 – company also</title><link>urn:urn:vocab:기업도</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>주유소를 – gas station</title><link>urn:urn:vocab:주유소를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9ufGVufDB8fHx8MTc3MzYxNTUxMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주유소를 (gas station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;김정관 산업통상부 장관이 13일 서울시 마포구 도화동에 위치한 SK에너지 직영 주유소를 방문해 석유제품 가격·품질·유통 검사를 참관하고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Minister of Trade, Industry and Energy Kim Jung-gwan visits an SK Energy-operated gas station in Dohwa-dong, Mapo-gu, Seoul on the 13th to observe inspections of petroleum product prices, quality, and distribution.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(석유 최고가격제 도입 첫날인 13일 정부는 정유업계와 주유소를 향해 관련 규정을 준수해줄 것을 거듭 당부했다&lt;br/&gt;&lt;em&gt;(On the 13th, the first day of the implementation of the petroleum price cap system, the government repeatedly urged the oil refining industry and gas stations to comply with the relevant regulations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 ‘범부처 (석유)합동점검단’은 지난 6일부터 일주일 동안 불법 석유 유통 위험군 주유소를 대상으로 800번 이상 집중 단속을 실시해 20건의 불법 행위를 적발했다고 보고했다&lt;br/&gt;&lt;em&gt;(On that day, the 'Interagency (Petroleum) Joint Inspection Team' reported that it conducted over 800 intensive inspections over the past week, starting from the 6th, targeting gas stations at high risk of illegal petroleum distribution, uncovering 20 illegal activities.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 주유소를 찾습니다.&lt;br/&gt;&lt;em&gt;I am looking for a gas station.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주유소를 지나갑니다.&lt;br/&gt;&lt;em&gt;I pass by the gas station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9ufGVufDB8fHx8MTc3MzYxNTUxMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주유소를 (gas station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;김정관 산업통상부 장관이 13일 서울시 마포구 도화동에 위치한 SK에너지 직영 주유소를 방문해 석유제품 가격·품질·유통 검사를 참관하고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Minister of Trade, Industry and Energy Kim Jung-gwan visits an SK Energy-operated gas station in Dohwa-dong, Mapo-gu, Seoul on the 13th to observe inspections of petroleum product prices, quality, and distribution.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(석유 최고가격제 도입 첫날인 13일 정부는 정유업계와 주유소를 향해 관련 규정을 준수해줄 것을 거듭 당부했다&lt;br/&gt;&lt;em&gt;(On the 13th, the first day of the implementation of the petroleum price cap system, the government repeatedly urged the oil refining industry and gas stations to comply with the relevant regulations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 ‘범부처 (석유)합동점검단’은 지난 6일부터 일주일 동안 불법 석유 유통 위험군 주유소를 대상으로 800번 이상 집중 단속을 실시해 20건의 불법 행위를 적발했다고 보고했다&lt;br/&gt;&lt;em&gt;(On that day, the 'Interagency (Petroleum) Joint Inspection Team' reported that it conducted over 800 intensive inspections over the past week, starting from the 6th, targeting gas stations at high risk of illegal petroleum distribution, uncovering 20 illegal activities.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 주유소를 찾습니다.&lt;br/&gt;&lt;em&gt;I am looking for a gas station.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주유소를 지나갑니다.&lt;br/&gt;&lt;em&gt;I pass by the gas station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 16 Mar 2026 07:58:40 +0900</pubDate><guid isPermaLink="false">vocab-1ed51b902fc3dbdd955dba514d6ced96537c1496</guid><enclosure url="https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9ufGVufDB8fHx8MTc3MzYxNTUxMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="132192" /><ns2:content url="https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9ufGVufDB8fHx8MTc3MzYxNTUxMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9ufGVufDB8fHx8MTc3MzYxNTUxMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>주유소를</category></item><item><title>기업도 – company also</title><link>urn:urn:vocab:기업도</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(미국, 강제노동 상품 수입 막으려 301조 조사…한국 기업도 불똥 튀나) &lt;&lt;br/&gt;&lt;em&gt;(U.S. launches Section 301 investigation to block imports of forced labor products... Korean companies may also be affected) &lt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;(미국, 강제노동 상품 수입 막으려 301조 조사…한국 기업도 불똥 튀나)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;(U.S. launches Section 301 investigation to block imports of forced labor products... Korean companies may also be affected)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
