@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 10:38:47 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 12:51:27 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,27 @@
 
 
 
-  <item><title>보도했다 – reported</title><link>urn:urn:vocab:보도했다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>봅니다 – see/look (polite present tense)</title><link>urn:urn:vocab:봅니다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한 아이가 태어날 때, 달님은 경이로운 얼굴로 미소 짓고 별들은 슬며시 들여다봅니다&lt;br/&gt;&lt;em&gt;(When a child is born, the moon smiles with a wondrous face, and the stars peek in quietly)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;분주한 일상에 쫓겨, 내게 찾아온 소중한 인연들을 나도 모르는 사이에 소홀히 대하고 있지는 않았는지 돌아봅니다&lt;br/&gt;&lt;em&gt;Chased by busy daily life, I look back to see if I have been neglecting the precious connections that came to me without even realizing it&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이쯤 되면 그만두거나 다른 방법을 생각해 볼 수도 있을 텐데, 플로이드는 정말 우직한 아이인가 봅니다&lt;br/&gt;&lt;em&gt;(By this point, one might consider quitting or thinking of another method, but Floyd seems to be a really stubborn child)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 영화를 봅니다.&lt;br/&gt;&lt;em&gt;I watch a movie.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구가 사진을 봅니다.&lt;br/&gt;&lt;em&gt;My friend looks at a picture.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한 아이가 태어날 때, 달님은 경이로운 얼굴로 미소 짓고 별들은 슬며시 들여다봅니다&lt;br/&gt;&lt;em&gt;(When a child is born, the moon smiles with a wondrous face, and the stars peek in quietly)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;분주한 일상에 쫓겨, 내게 찾아온 소중한 인연들을 나도 모르는 사이에 소홀히 대하고 있지는 않았는지 돌아봅니다&lt;br/&gt;&lt;em&gt;Chased by busy daily life, I look back to see if I have been neglecting the precious connections that came to me without even realizing it&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이쯤 되면 그만두거나 다른 방법을 생각해 볼 수도 있을 텐데, 플로이드는 정말 우직한 아이인가 봅니다&lt;br/&gt;&lt;em&gt;(By this point, one might consider quitting or thinking of another method, but Floyd seems to be a really stubborn child)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 영화를 봅니다.&lt;br/&gt;&lt;em&gt;I watch a movie.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구가 사진을 봅니다.&lt;br/&gt;&lt;em&gt;My friend looks at a picture.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 15 Mar 2026 12:51:27 +0900</pubDate><guid isPermaLink="false">vocab-81f296311b04dfd4d53526905824b54d1bad343d</guid><category>봅니다</category></item><item><title>보도했다 – reported</title><link>urn:urn:vocab:보도했다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnRlZHxlbnwwfHx8fDE3NzM1Mzg3MTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="보도했다 (reported)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(앞서 로이터 통신은 지난 7일 미국 오하이오주에서 팰리세이드 전동 시트와 관련해 2살 아이가 숨지는 사고가 발생했다고 보도했다&lt;br/&gt;&lt;em&gt;(Earlier, Reuters reported on the 7th that an accident occurred in Ohio, USA, where a 2-year-old child died in relation to a Palisade electric seat.&lt;/em&gt;&lt;/p&gt;
