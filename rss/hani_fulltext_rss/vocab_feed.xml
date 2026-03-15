@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 14:56:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 17:17:30 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>시작한다 – begins</title><link>urn:urn:vocab:시작한다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>소식을 – news</title><link>urn:urn:vocab:소식을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1495020689067-958852a7765e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXdzfGVufDB8fHx8MTc3MzU2MjYzN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소식을 (news)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비와 바람은 세상 곳곳을 다니며 아이의 이름을 속삭이고, 거위들은 소식을 듣고 멀리서부터 날아옵니다&lt;br/&gt;&lt;em&gt;Rain and wind travel all over the world, whispering the child's name, and geese hear the news and fly from afar.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 이날 엑스(X·옛 트위터)에 대법원이 지난 12일 공직선거법상 허위사실 공표 혐의로 기소된 장 위원장에 징역 1년에 집행유예 2년을 선고한 원심을 확정한 소식을 전한 이건태 더불어민주당 의원의 글을 공유했다&lt;br/&gt;&lt;em&gt;President Lee shared on X (formerly Twitter) a post by Democratic Party lawmaker Lee Geon-tae, who reported that the Supreme Court had upheld the original ruling sentencing Chairman Jang, who was indicted on charges of spreading false information under the Public Official Election Act, to one year in prison with a two-year suspended sentence.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 의원은 엑스에서 장 위원장의 형 확정 소식을 전하며 민주당의 재정신청 당시 자신이 당 법률위원회 부위원장으로 참여했다고 언급했다&lt;br/&gt;&lt;em&gt;The lawmaker mentioned on X that he participated as the deputy chairman of the party's legal committee when the Democratic Party filed the appeal, while reporting the confirmation of Chairman Jang's sentence.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 소식을 들었어요.&lt;br/&gt;&lt;em&gt;I heard the news.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소식을 전해 주세요.&lt;br/&gt;&lt;em&gt;Please tell me the news.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1495020689067-958852a7765e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXdzfGVufDB8fHx8MTc3MzU2MjYzN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소식을 (news)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비와 바람은 세상 곳곳을 다니며 아이의 이름을 속삭이고, 거위들은 소식을 듣고 멀리서부터 날아옵니다&lt;br/&gt;&lt;em&gt;Rain and wind travel all over the world, whispering the child's name, and geese hear the news and fly from afar.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 이날 엑스(X·옛 트위터)에 대법원이 지난 12일 공직선거법상 허위사실 공표 혐의로 기소된 장 위원장에 징역 1년에 집행유예 2년을 선고한 원심을 확정한 소식을 전한 이건태 더불어민주당 의원의 글을 공유했다&lt;br/&gt;&lt;em&gt;President Lee shared on X (formerly Twitter) a post by Democratic Party lawmaker Lee Geon-tae, who reported that the Supreme Court had upheld the original ruling sentencing Chairman Jang, who was indicted on charges of spreading false information under the Public Official Election Act, to one year in prison with a two-year suspended sentence.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 의원은 엑스에서 장 위원장의 형 확정 소식을 전하며 민주당의 재정신청 당시 자신이 당 법률위원회 부위원장으로 참여했다고 언급했다&lt;br/&gt;&lt;em&gt;The lawmaker mentioned on X that he participated as the deputy chairman of the party's legal committee when the Democratic Party filed the appeal, while reporting the confirmation of Chairman Jang's sentence.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 소식을 들었어요.&lt;br/&gt;&lt;em&gt;I heard the news.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소식을 전해 주세요.&lt;br/&gt;&lt;em&gt;Please tell me the news.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 15 Mar 2026 17:17:30 +0900</pubDate><guid isPermaLink="false">vocab-1491def08d8a77c7b4c832b9156630577a0e63af</guid><enclosure url="https://images.unsplash.com/photo-1495020689067-958852a7765e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXdzfGVufDB8fHx8MTc3MzU2MjYzN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="125572" /><ns2:content url="https://images.unsplash.com/photo-1495020689067-958852a7765e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXdzfGVufDB8fHx8MTc3MzU2MjYzN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1495020689067-958852a7765e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXdzfGVufDB8fHx8MTc3MzU2MjYzN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>소식을</category></item><item><title>시작한다 – begins</title><link>urn:urn:vocab:시작한다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1622391644051-489741109745?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWdpbnN8ZW58MHx8fHwxNzczNTU0MTUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시작한다 (begins)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (스스로 공부하는 습관을 들이려면 아이가 흥미를 느끼는 것부터 시작한다&lt;br/&gt;&lt;em&gt;"To develop a habit of self-study, start with what the child is interested in&lt;/em&gt;&lt;/p&gt;
