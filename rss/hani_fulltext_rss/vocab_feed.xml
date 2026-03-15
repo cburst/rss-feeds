@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 03:50:28 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 05:54:18 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,27 @@
 
 
 
-  <item><title>책방을 – bookstore</title><link>urn:urn:vocab:책방을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기업도 – company also</title><link>urn:urn:vocab:기업도</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(미국, 강제노동 상품 수입 막으려 301조 조사…한국 기업도 불똥 튀나) &lt;&lt;br/&gt;&lt;em&gt;(U.S. launches Section 301 investigation to block imports of forced labor products... Korean companies may also be affected) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(미국, 강제노동 상품 수입 막으려 301조 조사…한국 기업도 불똥 튀나)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;(U.S. launches Section 301 investigation to block imports of forced labor products... Korean companies may also be affected)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;경영진에게 기후 책임을 부과하고 있는 기업도 275개(94%)에 이르며, 최고경영자(CEO)가 직접 책임을 맡는 비중(66%)이 글로벌 평균(36%)보다 압도적으로 높았다&lt;br/&gt;&lt;em&gt;The number of companies imposing climate responsibility on management also reached 275 (94%), with the proportion where the CEO directly takes responsibility (66%) overwhelmingly higher than the global average (36%).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기업도 성장합니다.&lt;br/&gt;&lt;em&gt;Companies also grow.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기업도 일합니다.&lt;br/&gt;&lt;em&gt;Companies also work.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(미국, 강제노동 상품 수입 막으려 301조 조사…한국 기업도 불똥 튀나) &lt;&lt;br/&gt;&lt;em&gt;(U.S. launches Section 301 investigation to block imports of forced labor products... Korean companies may also be affected) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(미국, 강제노동 상품 수입 막으려 301조 조사…한국 기업도 불똥 튀나)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;(U.S. launches Section 301 investigation to block imports of forced labor products... Korean companies may also be affected)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;경영진에게 기후 책임을 부과하고 있는 기업도 275개(94%)에 이르며, 최고경영자(CEO)가 직접 책임을 맡는 비중(66%)이 글로벌 평균(36%)보다 압도적으로 높았다&lt;br/&gt;&lt;em&gt;The number of companies imposing climate responsibility on management also reached 275 (94%), with the proportion where the CEO directly takes responsibility (66%) overwhelmingly higher than the global average (36%).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기업도 성장합니다.&lt;br/&gt;&lt;em&gt;Companies also grow.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기업도 일합니다.&lt;br/&gt;&lt;em&gt;Companies also work.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 16 Mar 2026 05:54:18 +0900</pubDate><guid isPermaLink="false">vocab-a0b44508606543469d0cb4835f5b29b16a206fd8</guid><category>기업도</category></item><item><title>책방을 – bookstore</title><link>urn:urn:vocab:책방을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1584801096196-592feb269e31?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib29rc3RvcmV8ZW58MHx8fHwxNzczNjAwNjE5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="책방을 (bookstore)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;유아부터 청소년까지, 아이들을 위한 책을 만날 수 있는 전국의 어린이·청소년 책방을 소개한다&lt;br/&gt;&lt;em&gt;Introducing children's and youth bookstores across the country where you can find books for children from infants to teenagers&lt;/em&gt;&lt;/p&gt;
