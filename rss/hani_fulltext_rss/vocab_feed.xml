@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 01:57:47 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 04:03:44 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>강조한 – emphasized</title><link>urn:urn:vocab:강조한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>체계를 – system</title><link>urn:urn:vocab:체계를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1617228679684-890412dc57a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXN0ZW18ZW58MHx8fHwxNzczNjg3ODEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="체계를 (system)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(  카카오맵은 서울시 교통실 미래첨단교통과와 손잡고 약 2년간 초정밀 버스 데이터 생산 및 검증 체계를 구축해왔으며, 이번 시범 운영을 거쳐 초정밀 버스 위치 서비스의 정식 출시를 검토할 예정이다&lt;br/&gt;&lt;em&gt;Kakao Map has been collaborating with the Seoul Metropolitan Government's Future Advanced Transportation Division for about two years to establish a system for producing and verifying ultra-precise bus data, and plans to review the official launch of the ultra-precise bus location service after this pilot operation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;류창완 한양대 창업지원단장은 “한양대는 예비 창업자 발굴부터 스케일업까지 전 주기를 아우르는 체계적인 지원 체계를 갖추고 있다”며 “단계별 투자유치, 오픈이노베이션 연계 외에 미주·유럽·아시아 주요 창업 거점의 현지 액셀러레이터와 공동 프로그램을 통해 스타트업의 스케일업을 적극 지원하겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;Ryu Chang-wan, head of Hanyang University's Startup Support Team, stated, 'Hanyang University has a systematic support system covering the entire cycle from discovering potential entrepreneurs to scaling up. We will actively support startups' scaling up through step-by-step investment attraction, open innovation linkages, and joint programs with local accelerators in major startup hubs in the Americas, Europe, and Asia.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;홍성욱 산업경제데이터분석실장은 “국제유가 상승 장기화에 따른 제조업 비용 증가와 물가 상승 압력 확대에 대응할 필요가 있다”며 “산업별 에너지 의존도와 공급망 구조를 고려한 맞춤형 산업 대응 및 기업 지원 체계를 마련해야 한다”고 말했다&lt;br/&gt;&lt;em&gt;Hong Seong-uk, head of the Industrial Economic Data Analysis Office, said, 'It is necessary to respond to the prolonged rise in international oil prices, which increases manufacturing costs and intensifies inflationary pressures. We must prepare customized industrial responses and corporate support systems considering each industry's energy dependence and supply chain structure.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 체계를 좋아해요.&lt;br/&gt;&lt;em&gt;I like systems.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;체계를 배우고 있어요.&lt;br/&gt;&lt;em&gt;I am learning about systems.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1617228679684-890412dc57a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXN0ZW18ZW58MHx8fHwxNzczNjg3ODEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="체계를 (system)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(  카카오맵은 서울시 교통실 미래첨단교통과와 손잡고 약 2년간 초정밀 버스 데이터 생산 및 검증 체계를 구축해왔으며, 이번 시범 운영을 거쳐 초정밀 버스 위치 서비스의 정식 출시를 검토할 예정이다&lt;br/&gt;&lt;em&gt;Kakao Map has been collaborating with the Seoul Metropolitan Government's Future Advanced Transportation Division for about two years to establish a system for producing and verifying ultra-precise bus data, and plans to review the official launch of the ultra-precise bus location service after this pilot operation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;류창완 한양대 창업지원단장은 “한양대는 예비 창업자 발굴부터 스케일업까지 전 주기를 아우르는 체계적인 지원 체계를 갖추고 있다”며 “단계별 투자유치, 오픈이노베이션 연계 외에 미주·유럽·아시아 주요 창업 거점의 현지 액셀러레이터와 공동 프로그램을 통해 스타트업의 스케일업을 적극 지원하겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;Ryu Chang-wan, head of Hanyang University's Startup Support Team, stated, 'Hanyang University has a systematic support system covering the entire cycle from discovering potential entrepreneurs to scaling up. We will actively support startups' scaling up through step-by-step investment attraction, open innovation linkages, and joint programs with local accelerators in major startup hubs in the Americas, Europe, and Asia.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;홍성욱 산업경제데이터분석실장은 “국제유가 상승 장기화에 따른 제조업 비용 증가와 물가 상승 압력 확대에 대응할 필요가 있다”며 “산업별 에너지 의존도와 공급망 구조를 고려한 맞춤형 산업 대응 및 기업 지원 체계를 마련해야 한다”고 말했다&lt;br/&gt;&lt;em&gt;Hong Seong-uk, head of the Industrial Economic Data Analysis Office, said, 'It is necessary to respond to the prolonged rise in international oil prices, which increases manufacturing costs and intensifies inflationary pressures. We must prepare customized industrial responses and corporate support systems considering each industry's energy dependence and supply chain structure.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 체계를 좋아해요.&lt;br/&gt;&lt;em&gt;I like systems.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;체계를 배우고 있어요.&lt;br/&gt;&lt;em&gt;I am learning about systems.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 17 Mar 2026 04:03:44 +0900</pubDate><guid isPermaLink="false">vocab-f0bfd516e48b77dec9b41284103043cdee0423cd</guid><enclosure url="https://images.unsplash.com/photo-1617228679684-890412dc57a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXN0ZW18ZW58MHx8fHwxNzczNjg3ODEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="56828" /><ns2:content url="https://images.unsplash.com/photo-1617228679684-890412dc57a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXN0ZW18ZW58MHx8fHwxNzczNjg3ODEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1617228679684-890412dc57a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXN0ZW18ZW58MHx8fHwxNzczNjg3ODEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>체계를</category></item><item><title>강조한 – emphasized</title><link>urn:urn:vocab:강조한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이렇듯 교육 현장에서는 너 나 할 것 없이 글쓰기를 강조한다&lt;br/&gt;&lt;em&gt;(Thus, in the educational field, writing is emphasized regardless of who you are)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/strong&gt; (&lt;strong&gt;–총장님이 강조한 ‘PSG 인재상’은 어떤 인재를 말하나&lt;br/&gt;&lt;em&gt;(–What kind of talent does the 'PSG talent model' emphasized by the president refer to?)&lt;/em&gt;&lt;/p&gt;
