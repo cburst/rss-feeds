@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 19:27:31 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 21:35:09 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>선착장 – pier/wharf</title><link>urn:urn:vocab:선착장</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>출퇴근 – commuting</title><link>urn:urn:vocab:출퇴근</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1474625417279-a1308b1bb4a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tdXRpbmd8ZW58MHx8fHwxNzczNjY0NDk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="출퇴근 (commuting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;감사원은 “한강버스 사업의 선박 12척은 서울시가 발표했던 선박속도(17노트) 기준을 충족하지 못해 새로운 수상 대중교통 활성화를 통해 시민의 출퇴근 편의성을 향상한다는 사업목적을 달성하지 못할 우려가 있다”고 했다&lt;br/&gt;&lt;em&gt;The Board of Audit and Inspection stated, "The 12 vessels of the Han River Bus project do not meet the vessel speed standard (17 knots) announced by Seoul City, raising concerns that the project's objective of enhancing citizens' commuting convenience through new water-based public transportation activation may not be achieved."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Board of Audit and Inspection: Oh Se-hoon's Han River Bus 'Too Slow for Commuting and Not Economically Viable' (감사원, 속도 미달 ‘오세훈 한강버스’에 “출퇴근 어렵고 경제성도 없어”) &lt;&lt;br/&gt;&lt;em&gt;Board of Audit and Inspection: Oh Se-hoon's Han River Bus 'Too Slow for Commuting and Not Economically Viable'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Board of Audit and Inspection: Oh Se-hoon's Han River Bus 'Too Slow for Commuting and Not Economically Viable' (감사원, 속도 미달 ‘오세훈 한강버스’에 “출퇴근 어렵고 경제성도 없어”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Board of Audit and Inspection: Oh Se-hoon's Han River Bus 'Too Slow for Commuting and Not Economically Viable'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 매일 출퇴근을 합니다.&lt;br/&gt;&lt;em&gt;I commute to work every day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;출퇴근 시간이 길어요.&lt;br/&gt;&lt;em&gt;The commute time is long.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1474625417279-a1308b1bb4a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tdXRpbmd8ZW58MHx8fHwxNzczNjY0NDk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="출퇴근 (commuting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;감사원은 “한강버스 사업의 선박 12척은 서울시가 발표했던 선박속도(17노트) 기준을 충족하지 못해 새로운 수상 대중교통 활성화를 통해 시민의 출퇴근 편의성을 향상한다는 사업목적을 달성하지 못할 우려가 있다”고 했다&lt;br/&gt;&lt;em&gt;The Board of Audit and Inspection stated, "The 12 vessels of the Han River Bus project do not meet the vessel speed standard (17 knots) announced by Seoul City, raising concerns that the project's objective of enhancing citizens' commuting convenience through new water-based public transportation activation may not be achieved."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Board of Audit and Inspection: Oh Se-hoon's Han River Bus 'Too Slow for Commuting and Not Economically Viable' (감사원, 속도 미달 ‘오세훈 한강버스’에 “출퇴근 어렵고 경제성도 없어”) &lt;&lt;br/&gt;&lt;em&gt;Board of Audit and Inspection: Oh Se-hoon's Han River Bus 'Too Slow for Commuting and Not Economically Viable'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Board of Audit and Inspection: Oh Se-hoon's Han River Bus 'Too Slow for Commuting and Not Economically Viable' (감사원, 속도 미달 ‘오세훈 한강버스’에 “출퇴근 어렵고 경제성도 없어”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Board of Audit and Inspection: Oh Se-hoon's Han River Bus 'Too Slow for Commuting and Not Economically Viable'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 매일 출퇴근을 합니다.&lt;br/&gt;&lt;em&gt;I commute to work every day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;출퇴근 시간이 길어요.&lt;br/&gt;&lt;em&gt;The commute time is long.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 16 Mar 2026 21:35:09 +0900</pubDate><guid isPermaLink="false">vocab-f035068750577ebefd8ed9252c1b70152fa21544</guid><enclosure url="https://images.unsplash.com/photo-1474625417279-a1308b1bb4a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tdXRpbmd8ZW58MHx8fHwxNzczNjY0NDk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="204340" /><ns2:content url="https://images.unsplash.com/photo-1474625417279-a1308b1bb4a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tdXRpbmd8ZW58MHx8fHwxNzczNjY0NDk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1474625417279-a1308b1bb4a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tdXRpbmd8ZW58MHx8fHwxNzczNjY0NDk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>출퇴근</category></item><item><title>선착장 – pier/wharf</title><link>urn:urn:vocab:선착장</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1764074698035-20981ea22c8e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaWVyJTJGd2hhcmZ8ZW58MHx8fHwxNzczNjU2ODMzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선착장 (pier/wharf)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;한강버스 정식 운항 시작일인 지난해 9월18일 오전 한강 여의도 선착장에서 오세훈 서울시장이 한강버스를 기다리고 있는 모습&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;On the morning of September 18 last year, the official start date of the Han River Bus service, Seoul Mayor Oh Se-hoon is seen waiting for the Han River Bus at the Yeouido dock on the Han River&lt;/em&gt;&lt;/p&gt;
