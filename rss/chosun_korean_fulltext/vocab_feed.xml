@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 15:07:42 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 17:15:41 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>기념식에 – at the commemorative ceremony</title><link>urn:urn:vocab:기념식에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>발사대 – launch pad</title><link>urn:urn:vocab:발사대</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1562166622-962955595c6a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYXVuY2glMjBwYWR8ZW58MHx8fHwxNzczNjQ4OTI4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="발사대 (launch pad)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Some Possibly Sent to the Middle East (위성 사진에는 사드 발사대 3기뿐&lt;br/&gt;&lt;em&gt;Some Possibly Sent to the Middle East (Satellite photos show only three THAAD launchers)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Some Possibly Sent to the Middle East (위성 사진에는 사드 발사대 3기뿐&lt;br/&gt;&lt;em&gt;Some Possibly Sent to the Middle East (Satellite photos show only three THAAD launchers)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(주한미군 사드(THAAD·고고도 미사일 방어체계)의 중동 재배치 가능성이 제기된 가운데, 경북 성주 기지 내 사드 레이더와 발사대 일부가 배치돼 있는 것이 16일 확인됐다&lt;br/&gt;&lt;em&gt;(Amid speculation about possible redeployment of U.S. Forces Korea's THAAD (Terminal High Altitude Area Defense) system to the Middle East, it was confirmed on the 16th that some THAAD radars and launchers are deployed within the Seongju base in North Gyeongsang Province)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;발사대가 여기 있어요.&lt;br/&gt;&lt;em&gt;The launch pad is here.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;로켓이 발사대에서 날아요.&lt;br/&gt;&lt;em&gt;The rocket flies from the launch pad.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1562166622-962955595c6a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYXVuY2glMjBwYWR8ZW58MHx8fHwxNzczNjQ4OTI4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="발사대 (launch pad)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Some Possibly Sent to the Middle East (위성 사진에는 사드 발사대 3기뿐&lt;br/&gt;&lt;em&gt;Some Possibly Sent to the Middle East (Satellite photos show only three THAAD launchers)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Some Possibly Sent to the Middle East (위성 사진에는 사드 발사대 3기뿐&lt;br/&gt;&lt;em&gt;Some Possibly Sent to the Middle East (Satellite photos show only three THAAD launchers)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(주한미군 사드(THAAD·고고도 미사일 방어체계)의 중동 재배치 가능성이 제기된 가운데, 경북 성주 기지 내 사드 레이더와 발사대 일부가 배치돼 있는 것이 16일 확인됐다&lt;br/&gt;&lt;em&gt;(Amid speculation about possible redeployment of U.S. Forces Korea's THAAD (Terminal High Altitude Area Defense) system to the Middle East, it was confirmed on the 16th that some THAAD radars and launchers are deployed within the Seongju base in North Gyeongsang Province)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;발사대가 여기 있어요.&lt;br/&gt;&lt;em&gt;The launch pad is here.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;로켓이 발사대에서 날아요.&lt;br/&gt;&lt;em&gt;The rocket flies from the launch pad.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 16 Mar 2026 17:15:41 +0900</pubDate><guid isPermaLink="false">vocab-c06b2048b6f5d97a33b1c68b93e2a400c2057f07</guid><enclosure url="https://images.unsplash.com/photo-1562166622-962955595c6a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYXVuY2glMjBwYWR8ZW58MHx8fHwxNzczNjQ4OTI4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="93423" /><ns2:content url="https://images.unsplash.com/photo-1562166622-962955595c6a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYXVuY2glMjBwYWR8ZW58MHx8fHwxNzczNjQ4OTI4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1562166622-962955595c6a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYXVuY2glMjBwYWR8ZW58MHx8fHwxNzczNjQ4OTI4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>발사대</category></item><item><title>기념식에 – at the commemorative ceremony</title><link>urn:urn:vocab:기념식에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1764269719428-d268313d90e7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGNvbW1lbW9yYXRpdmUlMjBjZXJlbW9ueXxlbnwwfHx8fDE3NzM2NDEyNTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기념식에 (at the commemorative ceremony)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;기념식에 참석한 일부 유가족들은 눈물을 흘렸다&lt;br/&gt;&lt;em&gt;Some bereaved family members who attended the memorial ceremony shed tears.&lt;/em&gt;&lt;/p&gt;
