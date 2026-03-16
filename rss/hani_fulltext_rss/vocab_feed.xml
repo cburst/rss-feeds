@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 23:43:33 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 01:57:47 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,27 @@
 
 
 
-  <item><title>검찰개혁 – prosecution reform</title><link>urn:urn:vocab:검찰개혁</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>강조한 – emphasized</title><link>urn:urn:vocab:강조한</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이렇듯 교육 현장에서는 너 나 할 것 없이 글쓰기를 강조한다&lt;br/&gt;&lt;em&gt;(Thus, in the educational field, writing is emphasized regardless of who you are)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/strong&gt; (&lt;strong&gt;–총장님이 강조한 ‘PSG 인재상’은 어떤 인재를 말하나&lt;br/&gt;&lt;em&gt;(–What kind of talent does the 'PSG talent model' emphasized by the president refer to?)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김수진 교사는 이러한 ‘접근 방식의 언어’가 중요하다고 강조한다&lt;br/&gt;&lt;em&gt;Teacher Kim Soo-jin emphasizes that this 'language of approach' is important&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선생님이 중요한 점을 강조한.&lt;br/&gt;&lt;em&gt;The teacher emphasized the important point.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 자신의 의견을 강조한.&lt;br/&gt;&lt;em&gt;He emphasized his opinion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이렇듯 교육 현장에서는 너 나 할 것 없이 글쓰기를 강조한다&lt;br/&gt;&lt;em&gt;(Thus, in the educational field, writing is emphasized regardless of who you are)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/strong&gt; (&lt;strong&gt;–총장님이 강조한 ‘PSG 인재상’은 어떤 인재를 말하나&lt;br/&gt;&lt;em&gt;(–What kind of talent does the 'PSG talent model' emphasized by the president refer to?)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김수진 교사는 이러한 ‘접근 방식의 언어’가 중요하다고 강조한다&lt;br/&gt;&lt;em&gt;Teacher Kim Soo-jin emphasizes that this 'language of approach' is important&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선생님이 중요한 점을 강조한.&lt;br/&gt;&lt;em&gt;The teacher emphasized the important point.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 자신의 의견을 강조한.&lt;br/&gt;&lt;em&gt;He emphasized his opinion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 17 Mar 2026 01:57:47 +0900</pubDate><guid isPermaLink="false">vocab-080517f624fc46caed3da4356069cde99bf42e86</guid><category>강조한</category></item><item><title>검찰개혁 – prosecution reform</title><link>urn:urn:vocab:검찰개혁</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624638299925-6966fac6914f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9zZWN1dGlvbiUyMHJlZm9ybXxlbnwwfHx8fDE3NzM2NzIxODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="검찰개혁 (prosecution reform)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이날 만찬은 방송인 김어준씨 유튜브 채널에서 제기된 ‘공소취소-검찰개혁 거래설’이 여권을 뒤흔든 뒤 이뤄져 더 주목을 받았다&lt;br/&gt;&lt;em&gt;The dinner that day received more attention as it took place after the 'prosecution reform deal theory' raised on broadcaster Kim Eo-jun's YouTube channel shook the ruling party.&lt;/em&gt;&lt;/p&gt;
