@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 12:40:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 15:07:28 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>온실가스 – greenhouse gas</title><link>urn:urn:vocab:온실가스</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>배출량 – emission amount</title><link>urn:urn:vocab:배출량</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1671141414676-10837fd01aa4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbWlzc2lvbiUyMGFtb3VudHxlbnwwfHx8fDE3NzM2NDEyMzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="배출량 (emission amount)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국내 기업들이 지난해 시디피 한국위원회 사무국에 공개 보고한 자료를 보면 △연간 온실가스 배출량 △절대 배출량 감축 목표와 이행률 △기후 리스크 관리 프로세스와 기후 전환계획 △이사회·경영진의 기후대응 책임 부과 현황 △넷제로 목표 배출량 감축량 등이 담겨있다&lt;br/&gt;&lt;em&gt;According to data publicly reported by domestic companies to the secretariat of the CDP Korea Committee last year, it includes △annual greenhouse gas emissions △absolute emission reduction targets and implementation rates △climate risk management processes and climate transition plans △status of assigning climate response responsibilities to the board and management △net-zero target emission reductions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기업이 공시하는 기후 데이터는 금융사 및 연기금·자산운용사들이 기업의 미래 가치를 판단할 때 활용하는 지표 중 하나로, 온실가스 배출량과 기후 리스크 관리 능력을 분석해 투자 비중을 조절하기도 한다&lt;br/&gt;&lt;em&gt;The climate data disclosed by companies is one of the indicators used by financial institutions, pension funds, and asset management companies to assess a company's future value; they analyze greenhouse gas emissions and climate risk management capabilities to adjust investment allocations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자산운용사는 탄소배출량을 크게 감축하는 등 기후대응 활동이 우수한 기업들의 주식을 묶어 이른바 ‘이에스지(ESG) 펀드’ 상품을 설계하기도 한다&lt;br/&gt;&lt;em&gt;Asset management companies sometimes design so-called 'ESG fund' products by bundling stocks of companies with excellent climate response activities, such as significantly reducing carbon emissions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;배출량이 많습니다.&lt;br/&gt;&lt;em&gt;The emission amount is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;배출량을 줄이세요.&lt;br/&gt;&lt;em&gt;Reduce the emission amount.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1671141414676-10837fd01aa4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbWlzc2lvbiUyMGFtb3VudHxlbnwwfHx8fDE3NzM2NDEyMzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="배출량 (emission amount)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국내 기업들이 지난해 시디피 한국위원회 사무국에 공개 보고한 자료를 보면 △연간 온실가스 배출량 △절대 배출량 감축 목표와 이행률 △기후 리스크 관리 프로세스와 기후 전환계획 △이사회·경영진의 기후대응 책임 부과 현황 △넷제로 목표 배출량 감축량 등이 담겨있다&lt;br/&gt;&lt;em&gt;According to data publicly reported by domestic companies to the secretariat of the CDP Korea Committee last year, it includes △annual greenhouse gas emissions △absolute emission reduction targets and implementation rates △climate risk management processes and climate transition plans △status of assigning climate response responsibilities to the board and management △net-zero target emission reductions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기업이 공시하는 기후 데이터는 금융사 및 연기금·자산운용사들이 기업의 미래 가치를 판단할 때 활용하는 지표 중 하나로, 온실가스 배출량과 기후 리스크 관리 능력을 분석해 투자 비중을 조절하기도 한다&lt;br/&gt;&lt;em&gt;The climate data disclosed by companies is one of the indicators used by financial institutions, pension funds, and asset management companies to assess a company's future value; they analyze greenhouse gas emissions and climate risk management capabilities to adjust investment allocations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자산운용사는 탄소배출량을 크게 감축하는 등 기후대응 활동이 우수한 기업들의 주식을 묶어 이른바 ‘이에스지(ESG) 펀드’ 상품을 설계하기도 한다&lt;br/&gt;&lt;em&gt;Asset management companies sometimes design so-called 'ESG fund' products by bundling stocks of companies with excellent climate response activities, such as significantly reducing carbon emissions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;배출량이 많습니다.&lt;br/&gt;&lt;em&gt;The emission amount is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;배출량을 줄이세요.&lt;br/&gt;&lt;em&gt;Reduce the emission amount.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 16 Mar 2026 15:07:28 +0900</pubDate><guid isPermaLink="false">vocab-365b9aab821936387e636bbe2f4574333250beba</guid><enclosure url="https://images.unsplash.com/photo-1671141414676-10837fd01aa4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbWlzc2lvbiUyMGFtb3VudHxlbnwwfHx8fDE3NzM2NDEyMzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="92468" /><ns2:content url="https://images.unsplash.com/photo-1671141414676-10837fd01aa4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbWlzc2lvbiUyMGFtb3VudHxlbnwwfHx8fDE3NzM2NDEyMzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1671141414676-10837fd01aa4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbWlzc2lvbiUyMGFtb3VudHxlbnwwfHx8fDE3NzM2NDEyMzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>배출량</category></item><item><title>등록금 – tuition fee</title><link>urn:urn:vocab:등록금</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1542538241-723155f955c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0dWl0aW9uJTIwZmVlfGVufDB8fHx8MTc3MzYzOTg0OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="등록금 (tuition fee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Last Year's Education Price Inflation Rate Highest in 15 Years (대학 등록금 인상 여파…지난해 교육물가 상승률 15년 만에 최고) &lt;&lt;br/&gt;&lt;em&gt;Last Year's Education Price Inflation Rate Highest in 15 Years (Impact of University Tuition Increases... Last Year's Education Price Rise Rate Highest in 15 Years)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;대학무상화평준화국민운동본부 관계자들이 지난달 24일 서울 세종로 정부서울청사 앞에서 대학 등록금 인상 규탄·대학 무상화 촉구 기자회견을 하고 있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;University Free Education and Equalization National Movement Headquarters officials held a press conference last month on the 24th in front of the Government Seoul Complex in Sejong-ro, Seoul, condemning university tuition increases and urging free university education&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지난해 사립대 등록금 인상 등의 여파로 교육 물가가 15년 만에 가장 큰 폭으로 오른 것으로 나타났다&lt;br/&gt;&lt;em&gt;(Last year, education prices rose at the highest rate in 15 years due to the impact of private university tuition increases and other factors)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;등록금을 내야 해요.&lt;br/&gt;&lt;em&gt;I have to pay the tuition fee.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;등록금이 비싸요.&lt;br/&gt;&lt;em&gt;The tuition fee is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1542538241-723155f955c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0dWl0aW9uJTIwZmVlfGVufDB8fHx8MTc3MzYzOTg0OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="등록금 (tuition fee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Last Year's Education Price Inflation Rate Highest in 15 Years (대학 등록금 인상 여파…지난해 교육물가 상승률 15년 만에 최고) &lt;&lt;br/&gt;&lt;em&gt;Last Year's Education Price Inflation Rate Highest in 15 Years (Impact of University Tuition Increases... Last Year's Education Price Rise Rate Highest in 15 Years)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;대학무상화평준화국민운동본부 관계자들이 지난달 24일 서울 세종로 정부서울청사 앞에서 대학 등록금 인상 규탄·대학 무상화 촉구 기자회견을 하고 있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;University Free Education and Equalization National Movement Headquarters officials held a press conference last month on the 24th in front of the Government Seoul Complex in Sejong-ro, Seoul, condemning university tuition increases and urging free university education&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지난해 사립대 등록금 인상 등의 여파로 교육 물가가 15년 만에 가장 큰 폭으로 오른 것으로 나타났다&lt;br/&gt;&lt;em&gt;(Last year, education prices rose at the highest rate in 15 years due to the impact of private university tuition increases and other factors)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;등록금을 내야 해요.&lt;br/&gt;&lt;em&gt;I have to pay the tuition fee.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;등록금이 비싸요.&lt;br/&gt;&lt;em&gt;The tuition fee is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 16 Mar 2026 14:44:20 +0900</pubDate><guid isPermaLink="false">vocab-c9aa1941aa8cf86a24d20a8204352b8448bc991a</guid><enclosure url="https://images.unsplash.com/photo-1542538241-723155f955c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0dWl0aW9uJTIwZmVlfGVufDB8fHx8MTc3MzYzOTg0OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="76104" /><ns2:content url="https://images.unsplash.com/photo-1542538241-723155f955c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0dWl0aW9uJTIwZmVlfGVufDB8fHx8MTc3MzYzOTg0OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1542538241-723155f955c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0dWl0aW9uJTIwZmVlfGVufDB8fHx8MTc3MzYzOTg0OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>등록금</category></item><item><title>온실가스 – greenhouse gas</title><link>urn:urn:vocab:온실가스</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1691927458684-8b30380b9412?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxncmVlbmhvdXNlJTIwZ2FzfGVufDB8fHx8MTc3MzYzMjM5MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="온실가스 (greenhouse gas)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(국내 기업들이 지난해 시디피 한국위원회 사무국에 공개 보고한 자료를 보면 △연간 온실가스 배출량 △절대 배출량 감축 목표와 이행률 △기후 리스크 관리 프로세스와 기후 전환계획 △이사회·경영진의 기후대응 책임 부과 현황 △넷제로 목표 배출량 감축량 등이 담겨있다&lt;br/&gt;&lt;em&gt;According to data publicly reported by domestic companies to the secretariat of the CDP Korea Committee last year, it includes △annual greenhouse gas emissions △absolute emission reduction targets and implementation rates △climate risk management processes and climate transition plans △status of assigning climate response responsibilities to boards and management △net-zero target emission reductions.&lt;/em&gt;&lt;/p&gt;
