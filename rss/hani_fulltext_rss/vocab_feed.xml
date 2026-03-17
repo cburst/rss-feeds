@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 16:54:36 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 19:03:45 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,27 @@
 
 
 
-  <item><title>외삼촌 – maternal uncle</title><link>urn:urn:vocab:외삼촌</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>공시가격 – publicly announced price</title><link>urn:urn:vocab:공시가격</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Seongdong's Increase Rate Higher Than Gangnam's Three Districts (서울 아파트 공시가격 18&lt;br/&gt;&lt;em&gt;Seongdong's Increase Rate Higher Than Gangnam's Three Districts (Seoul Apartment Official Prices 18)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Seongdong's Increase Rate Higher Than Gangnam's Three Districts (서울 아파트 공시가격 18&lt;br/&gt;&lt;em&gt;Seongdong's Increase Rate Higher Than Gangnam's Three Districts (Seoul Apartment Official Prices 18)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(올해 전국 아파트 등 공동주택 공시가격이 지난해 대비 평균 9&lt;br/&gt;&lt;em&gt;(This year's nationwide apartment and multi-family housing official prices increased by an average of 9% compared to last year)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;공시가격이 높습니다.&lt;br/&gt;&lt;em&gt;The public notice price is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공시가격을 확인하세요.&lt;br/&gt;&lt;em&gt;Please check the public notice price.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Seongdong's Increase Rate Higher Than Gangnam's Three Districts (서울 아파트 공시가격 18&lt;br/&gt;&lt;em&gt;Seongdong's Increase Rate Higher Than Gangnam's Three Districts (Seoul Apartment Official Prices 18)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Seongdong's Increase Rate Higher Than Gangnam's Three Districts (서울 아파트 공시가격 18&lt;br/&gt;&lt;em&gt;Seongdong's Increase Rate Higher Than Gangnam's Three Districts (Seoul Apartment Official Prices 18)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(올해 전국 아파트 등 공동주택 공시가격이 지난해 대비 평균 9&lt;br/&gt;&lt;em&gt;(This year's nationwide apartment and multi-family housing official prices increased by an average of 9% compared to last year)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;공시가격이 높습니다.&lt;br/&gt;&lt;em&gt;The public notice price is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공시가격을 확인하세요.&lt;br/&gt;&lt;em&gt;Please check the public notice price.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 17 Mar 2026 19:03:45 +0900</pubDate><guid isPermaLink="false">vocab-fd1425a7db63fb12b6cd19455055e920ec328db2</guid><category>공시가격</category></item><item><title>외삼촌 – maternal uncle</title><link>urn:urn:vocab:외삼촌</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1685405081188-4c5d71d49cd7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXRlcm5hbCUyMHVuY2xlfGVufDB8fHx8MTc3MzczNDA2OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="외삼촌 (maternal uncle)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Omitted 20 affiliates controlled by brother and maternal uncle (공정위, 정몽규 HDC 회장 고발…동생·외삼촌 지배 계열사 20곳 누락) &lt;&lt;br/&gt;&lt;em&gt;Omitted 20 affiliates controlled by brother and maternal uncle (Fair Trade Commission reports Jeong Mong-gyu, HDC chairman...20 affiliates controlled by brother and maternal uncle omitted)&lt;/em&gt;&lt;/p&gt;
