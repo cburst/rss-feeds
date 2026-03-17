@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 02:03:07 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 04:09:51 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>정치가 – politician</title><link>urn:urn:vocab:정치가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>로봇은 – robot (topic marker)</title><link>urn:urn:vocab:로봇은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1643917367924-36592d2be3f1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyb2JvdCUyMCUyOHRvcGljJTIwbWFya2VyJTI5fGVufDB8fHx8MTc3Mzc3NDU4M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="로봇은 (robot (topic marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이 로봇은 최근 북한 주재 외교관들에게도 노출된 것으로 보인다&lt;br/&gt;&lt;em&gt;(This robot appears to have been recently exposed to diplomats stationed in North Korea as well)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;매체에 따르면 ‘도전’ 로봇은 “교원들의 교수 활동을 협조하여 학생들의 학습을 방조(도움)”하며, 학습 자료를 바탕으로 학생의 질문을 설명하는 기능을 갖췄다&lt;br/&gt;&lt;em&gt;According to media reports, the 'Challenge' robot "assists teachers' instructional activities to help students' learning" and has the function of explaining students' questions based on learning materials&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;로봇은 자동차를 만듭니다.&lt;br/&gt;&lt;em&gt;Robots make cars.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;로봇은 음악을 좋아합니다.&lt;br/&gt;&lt;em&gt;Robots like music.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1643917367924-36592d2be3f1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyb2JvdCUyMCUyOHRvcGljJTIwbWFya2VyJTI5fGVufDB8fHx8MTc3Mzc3NDU4M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="로봇은 (robot (topic marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이 로봇은 최근 북한 주재 외교관들에게도 노출된 것으로 보인다&lt;br/&gt;&lt;em&gt;(This robot appears to have been recently exposed to diplomats stationed in North Korea as well)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;매체에 따르면 ‘도전’ 로봇은 “교원들의 교수 활동을 협조하여 학생들의 학습을 방조(도움)”하며, 학습 자료를 바탕으로 학생의 질문을 설명하는 기능을 갖췄다&lt;br/&gt;&lt;em&gt;According to media reports, the 'Challenge' robot "assists teachers' instructional activities to help students' learning" and has the function of explaining students' questions based on learning materials&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;로봇은 자동차를 만듭니다.&lt;br/&gt;&lt;em&gt;Robots make cars.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;로봇은 음악을 좋아합니다.&lt;br/&gt;&lt;em&gt;Robots like music.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 18 Mar 2026 04:09:51 +0900</pubDate><guid isPermaLink="false">vocab-88048908ed171e210265fa97557c61175a865455</guid><enclosure url="https://images.unsplash.com/photo-1643917367924-36592d2be3f1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyb2JvdCUyMCUyOHRvcGljJTIwbWFya2VyJTI5fGVufDB8fHx8MTc3Mzc3NDU4M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="67276" /><ns2:content url="https://images.unsplash.com/photo-1643917367924-36592d2be3f1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyb2JvdCUyMCUyOHRvcGljJTIwbWFya2VyJTI5fGVufDB8fHx8MTc3Mzc3NDU4M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1643917367924-36592d2be3f1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyb2JvdCUyMCUyOHRvcGljJTIwbWFya2VyJTI5fGVufDB8fHx8MTc3Mzc3NDU4M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>로봇은</category></item><item><title>정치가 – politician</title><link>urn:urn:vocab:정치가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1541726260-e6b6a6a08b27?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xpdGljaWFufGVufDB8fHx8MTc3Mzc2Njk3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정치가 (politician)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (그는 “정치가 위기에 처할 때마다 노 전 대통령의 이름, 그리고 죽음을 소환하는 분들이 참 많다”며 “노 전 대통령 성함이 정치적 방패로 활용되는 것”이라고 했다&lt;br/&gt;&lt;em&gt;He said, "There are many people who invoke the name and death of former President Roh whenever politics is in crisis," and "Former President Roh's name is being used as a political shield."&lt;/em&gt;&lt;/p&gt;
