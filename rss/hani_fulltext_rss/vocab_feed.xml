@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 04:09:40 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 06:17:10 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>공소청 – prosecution request</title><link>urn:urn:vocab:공소청</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>부분은 – part is</title><link>urn:urn:vocab:부분은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1513310285890-06d9ac313835?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0JTIwaXN8ZW58MHx8fHwxNzczNzgyMjI0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부분은 (part is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정 회장은 자료 제출 대상 친족 수가 많지 않고, 누락회사 대부분은 매우 가까운 친족인 동생 일가나 외삼촌 일가가 직접 소유하거나 대표이사로 있는 회사라는 것이다&lt;br/&gt;&lt;em&gt;Chairman Jung stated that the number of relatives subject to data submission is not large, and most of the omitted companies are those directly owned or represented by very close relatives, such as his brother's family or his maternal uncle's family.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;다만 인공지능 시대가 가져올 거대한 사회 변화를 더 긴 호흡에서 다루는 부분은 부족한 게 사실입니다&lt;br/&gt;&lt;em&gt;However, it is true that there is a lack of addressing the massive social changes that the AI era will bring from a longer-term perspective.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;( ―그런 부분은 왜 빠졌나요&lt;br/&gt;&lt;em&gt;(―Why was that part omitted?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 부분은 중요해요.&lt;br/&gt;&lt;em&gt;This part is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 부분은 작아요.&lt;br/&gt;&lt;em&gt;That part is small.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1513310285890-06d9ac313835?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0JTIwaXN8ZW58MHx8fHwxNzczNzgyMjI0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부분은 (part is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정 회장은 자료 제출 대상 친족 수가 많지 않고, 누락회사 대부분은 매우 가까운 친족인 동생 일가나 외삼촌 일가가 직접 소유하거나 대표이사로 있는 회사라는 것이다&lt;br/&gt;&lt;em&gt;Chairman Jung stated that the number of relatives subject to data submission is not large, and most of the omitted companies are those directly owned or represented by very close relatives, such as his brother's family or his maternal uncle's family.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;다만 인공지능 시대가 가져올 거대한 사회 변화를 더 긴 호흡에서 다루는 부분은 부족한 게 사실입니다&lt;br/&gt;&lt;em&gt;However, it is true that there is a lack of addressing the massive social changes that the AI era will bring from a longer-term perspective.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;( ―그런 부분은 왜 빠졌나요&lt;br/&gt;&lt;em&gt;(―Why was that part omitted?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 부분은 중요해요.&lt;br/&gt;&lt;em&gt;This part is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 부분은 작아요.&lt;br/&gt;&lt;em&gt;That part is small.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 18 Mar 2026 06:17:10 +0900</pubDate><guid isPermaLink="false">vocab-3fcf7f9d58a117f526f95b74a9525913c2863192</guid><enclosure url="https://images.unsplash.com/photo-1513310285890-06d9ac313835?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0JTIwaXN8ZW58MHx8fHwxNzczNzgyMjI0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="279247" /><ns2:content url="https://images.unsplash.com/photo-1513310285890-06d9ac313835?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0JTIwaXN8ZW58MHx8fHwxNzczNzgyMjI0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1513310285890-06d9ac313835?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0JTIwaXN8ZW58MHx8fHwxNzczNzgyMjI0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>부분은</category></item><item><title>공소청 – prosecution request</title><link>urn:urn:vocab:공소청</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589307904488-7d60ff29c975?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9zZWN1dGlvbiUyMHJlcXVlc3R8ZW58MHx8fHwxNzczNzc0NTY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공소청 (prosecution request)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (국회 법제사법위원회 간사인 김용민 더불어민주당 의원이 중대범죄수사청(중수청)·공소청 설치 법안에 대한 당정청 협의안과 관련해 “검사의 우회적 수사권 확보 가능성을 제거했다”고 17일 밝혔다&lt;br/&gt;&lt;em&gt;On the 17th, Kim Yong-min, a Democratic Party of Korea lawmaker and secretary of the National Assembly's Legislation and Judiciary Committee, stated regarding the party-government consultation proposal for the establishment of the Serious Crime Investigation Agency (SCIA) and the Prosecution Service, "We have eliminated the possibility of prosecutors indirectly securing investigative authority."&lt;/em&gt;&lt;/p&gt;
