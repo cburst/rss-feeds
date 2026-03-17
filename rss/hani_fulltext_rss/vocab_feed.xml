@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 19:03:45 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 21:23:24 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>공시가격 – publicly announced price</title><link>urn:urn:vocab:공시가격</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>등록을 – registration</title><link>urn:urn:vocab:등록을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWdpc3RyYXRpb258ZW58MHx8fHwxNzczNzUwMTk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="등록을 (registration)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;장동혁 대표에게 요구사항을 제시했는데 받아들여지지 않아 등록을 포기해 버렸다고 말했다”고 전했다&lt;br/&gt;&lt;em&gt;It was reported that he said, 'I presented the requirements to CEO Jang Dong-hyuk, but they were not accepted, so I gave up on registration.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;3번째 공천 신청 마감 시한인 이날 오전까지 현직인 오세훈 서울시장이 후보 등록을 하지 않았고, 당내에서 플랜비(B) 필요성이 나오는 가운데 박 의원이 나선 것이다&lt;br/&gt;&lt;em&gt;As of the deadline for the third nomination application this morning, incumbent Seoul Mayor Oh Se-hoon had not registered as a candidate, and amid discussions within the party about the need for a Plan B, Representative Park stepped forward.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;오세훈 서울시장이 17일 오후 서울 중구 서울시청에서 6·3 지방선거 서울시장 후보 등록을 하겠다고 밝히고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Seoul Mayor Oh Se-hoon announced on the afternoon of the 17th at Seoul City Hall in Jung-gu, Seoul, that he would register as a candidate for the June 3 local elections for Seoul mayor.&lt;/figcaption&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;등록을 완료했어요.&lt;br/&gt;&lt;em&gt;Registration has been completed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;등록을 해야 해요.&lt;br/&gt;&lt;em&gt;Registration must be done.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWdpc3RyYXRpb258ZW58MHx8fHwxNzczNzUwMTk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="등록을 (registration)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;장동혁 대표에게 요구사항을 제시했는데 받아들여지지 않아 등록을 포기해 버렸다고 말했다”고 전했다&lt;br/&gt;&lt;em&gt;It was reported that he said, 'I presented the requirements to CEO Jang Dong-hyuk, but they were not accepted, so I gave up on registration.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;3번째 공천 신청 마감 시한인 이날 오전까지 현직인 오세훈 서울시장이 후보 등록을 하지 않았고, 당내에서 플랜비(B) 필요성이 나오는 가운데 박 의원이 나선 것이다&lt;br/&gt;&lt;em&gt;As of the deadline for the third nomination application this morning, incumbent Seoul Mayor Oh Se-hoon had not registered as a candidate, and amid discussions within the party about the need for a Plan B, Representative Park stepped forward.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;오세훈 서울시장이 17일 오후 서울 중구 서울시청에서 6·3 지방선거 서울시장 후보 등록을 하겠다고 밝히고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Seoul Mayor Oh Se-hoon announced on the afternoon of the 17th at Seoul City Hall in Jung-gu, Seoul, that he would register as a candidate for the June 3 local elections for Seoul mayor.&lt;/figcaption&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;등록을 완료했어요.&lt;br/&gt;&lt;em&gt;Registration has been completed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;등록을 해야 해요.&lt;br/&gt;&lt;em&gt;Registration must be done.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 17 Mar 2026 21:23:24 +0900</pubDate><guid isPermaLink="false">vocab-e2d17a957626f8a3d95cc1ee1d3f478491148bdb</guid><enclosure url="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWdpc3RyYXRpb258ZW58MHx8fHwxNzczNzUwMTk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="73852" /><ns2:content url="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWdpc3RyYXRpb258ZW58MHx8fHwxNzczNzUwMTk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWdpc3RyYXRpb258ZW58MHx8fHwxNzczNzUwMTk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>등록을</category></item><item><title>공시가격 – publicly announced price</title><link>urn:urn:vocab:공시가격</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Seongdong's Increase Rate Higher Than Gangnam's Three Districts (서울 아파트 공시가격 18&lt;br/&gt;&lt;em&gt;Seongdong's Increase Rate Higher Than Gangnam's Three Districts (Seoul Apartment Official Prices 18)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Seongdong's Increase Rate Higher Than Gangnam's Three Districts (서울 아파트 공시가격 18&lt;br/&gt;&lt;em&gt;Seongdong's Increase Rate Higher Than Gangnam's Three Districts (Seoul Apartment Official Prices 18)&lt;/em&gt;&lt;/p&gt;
