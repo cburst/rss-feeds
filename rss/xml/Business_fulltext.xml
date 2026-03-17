@@ -1,133 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT Business Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/Business_fulltext.xml</link><description>Full-text NYT Business articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/Business_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 17 Mar 2026 03:38:51 +0000</lastBuildDate><item><title>California’s Billionaire Tax Battle</title><link>https://www.nytimes.com/2026/03/14/business/dealbook/california-billionaire-tax.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/14/multimedia/14DB-wealth-tax-gbmf/14DB-wealth-tax-gbmf-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;Jon Feldhammer, like many Californians, often passes canvassers holding clipboards at the grocery store or on his commute to work. They’re part of an effort to collect the nearly 900,000 signatures required to put a proposed state billionaire tax on the ballot in November.&lt;/p&gt;
-&lt;p&gt;But Feldhammer isn’t tempted to add his name to the list: He’s on the other side of the fight.&lt;/p&gt;
-&lt;p&gt;A partner at the law firm Baker Botts, Feldhammer is one of the many high-powered lawyers, lobbyists and business leaders working against the initiative, which would place a one-time 5 percent levy on Californians with a net worth north of 1 billion dollars.&lt;/p&gt;
-&lt;p&gt;“I am coordinating with, essentially, family offices, and that coordination encompasses a very significant number of people who would be affected by this tax,” Feldhammer said.&lt;/p&gt;
-&lt;p&gt;That puts him at the center of one of the most contentious political and economic battles in California history — one with implications that could reverberate across the country.&lt;/p&gt;
-&lt;p&gt;Many of the state’s wealthiest residents have gone into overdrive to stop the ballot initiative. Billionaires, including the venture capitalist Peter Thiel and the Google co-founder Sergey Brin, have spent millions on the effort and threatened to leave the state. In some cases, they’ve already begun to cut ties.&lt;/p&gt;
-&lt;p&gt;Gavin Newsom, the state’s Democratic governor, has clashed with the major health care union that proposed the initiative, saying such a tax could drive out the business people who are responsible for much of the state’s wealth. That puts him at odds with a fellow California Democrat, Ro Khanna, the congressman who is a major proponent of the tax.&lt;/p&gt;
-&lt;p&gt;Amid this brawl, California has become the focal point of a nationwide debate over how to tax the ultrarich, who have seen a boom in wealth since 2017.&lt;/p&gt;
-&lt;p&gt;State proposals have popped up across the country. Washington State passed an annual “millionaires tax” this week. New York City’s recently elected mayor, Zohran Mamdani, is lobbying the state Legislature to pass a similar tax. In Rhode Island, Gov. Dan McKee recently proposed a higher tax on millionaires to fund a budget hole.&lt;/p&gt;
-&lt;p&gt;For proponents, such measures are a means of raising revenue from a small group of ultrawealthy people who use their resources to greatly reduce their tax bills. For opponents, they’re a structurally flawed attempt to seize the assets of society’s most innovative business leaders.&lt;/p&gt;
-&lt;p&gt;Whatever the outcome in California — home to roughly 200 of the country’s nearly 1,000 billionaires — some of the wealthiest Americans are mobilizing for a battle that is likely to keep playing out in Washington and in statehouses across the country.&lt;/p&gt;
-&lt;p&gt;‘Let 1,000 flowers bloom’&lt;/p&gt;
-&lt;p&gt;California’s potential wealth tax has left its richest citizens seething. “This is the greatest tragedy this state has ever felt,” Ron Conway, the veteran venture capitalist and longtime campaign fund-raiser for Democrats, told DealBook.&lt;/p&gt;
-&lt;p&gt;Conway has become a coordinator for those working to stop the tax, said Dan Newman, a political consultant running Stop the Squeeze, a political action committee opposed to the measure that received a $100,000 contribution from Conway.&lt;/p&gt;
-&lt;p&gt;Groups such as Stop the Squeeze and Golden State Promise, a political action committee linked to the crypto billionaire Chris Larsen, are lobbying elected officials and other interest groups to publicly oppose the bill and readying for a legal fight if the tax becomes law.&lt;/p&gt;
-&lt;p&gt;Brin recently committed $20 million to kneecap the tax through a different strategy, sponsoring three ballot measures that would undercut the wealth tax. One measure put forward by the Brin-funded committee, known as Building a Better California, would ban retroactive taxes. Such a measure is aimed at blocking the billionaire tax, which would apply to billionaires based on their residency as of Jan. 1, 2026.&lt;/p&gt;
-&lt;p&gt;“The PACS are all coordinated, and we’re coordinated under a philosophy of, let’s let 1,000 flowers bloom,” Conway said.&lt;/p&gt;
-&lt;p&gt;A concern that the tax will drive innovators — and their tax revenue — out of the state is central to Conway’s critique. “The next Google or the next OpenAI founder, for example, might decide, I will go to another state,” Conway said. “You can’t put a price tag on that.”&lt;/p&gt;
-&lt;p&gt;It’s also why Democrats like Gavin Newsom oppose it. The state’s nonpartisan Legislative Analyst’s Office expects the one-time tax to raise tens of billions of dollars but result in more than $100 million in annual lost revenue because of billionaires leaving the state and other impacts.&lt;/p&gt;
-&lt;p&gt;Late last year, Brin and his fellow co-founder of Google, Larry Page, began cutting ties with the state. Page filed documents to relocate or move 45 limited liability companies out of the state. Brin did the same with 15 California L.L.C.s, including one tied to a superyacht and another tied to a private air terminal.&lt;/p&gt;
-&lt;p&gt;At the end of 2025, the billionaire Peter Thiel announced that his firm, Thiel Capital, had opened a Miami office and David Sacks, the co-founder of Craft Ventures as well as the main liaison between the Trump administration and the tech industry, said he and his firm had relocated to Austin, Texas.&lt;/p&gt;
-&lt;p&gt;A New Gilded Age&lt;/p&gt;
-&lt;p&gt;Recent efforts to tax billionaires — including a proposal by President Biden — have failed. But a booming stock market, which has further concentrated the wealth of the richest Americans, may be changing public attitudes. According to data from the Federal Reserve, the top 0.1 percent of Americans own $13.7 trillion worth of mutual funds and stocks, nearly double the $7.1 trillion owned by the bottom 90 percent of Americans.&lt;/p&gt;
-&lt;p&gt;Persuading the public, which has grown increasingly skeptical of billionaires, to vote against a wealth tax could be difficult. Half of Californians support the tax and just 28 percent oppose it, according to a recent poll by Politico and the Citrin Center for Public Opinion Research at the University of California, Berkeley. A poll from YouGov in January found that 60 percent of Americans agreed that billionaires aren’t taxed enough.&lt;/p&gt;
-&lt;p&gt;Supporters argue that as the rich have gotten wealthier, the progressive tax system hasn’t kept up, and that wealth taxes are the best way to collect the funds needed to balance exploding budgets.&lt;/p&gt;
-&lt;p&gt;Billionaires’ fortunes are often locked up in stocks and other assets which they can borrow against to live — reducing or altogether eliminating their tax burden. Would an annual billionaires tax reduce inequality? “If administered well, yes” said John Ricco, a tax policy researcher at the Budget Lab at Yale. By targeting assets, it would create a reliable revenue stream and chip away at ballooning wealth, he added.&lt;/p&gt;
-&lt;p&gt;But, the undertaking would be enormous, requiring the government to track all major assets of every billionaire and update them annually. To value private assets, the Internal Revenue Service would have to build out new valuation models and auditing capacity.&lt;/p&gt;
-&lt;p&gt;A wealth tax would require an “unprecedented investment in the I.R.S.,” Ricco said.&lt;/p&gt;
-&lt;p&gt;Bigger than the Golden State&lt;/p&gt;
-&lt;p&gt;Regardless of how the California tax proposal works out, the wealthiest Americans are facing the threat of higher taxes in statehouses across the country and in Washington.&lt;/p&gt;
-&lt;p&gt;“We have gotten more and more interest from lawmakers on wealth tax policies than we ever had before,” Ida Eskamani, a senior director at the nonprofit State Innovation Exchange, which supports state legislators in advancing progressive legislation. Her organization has tracked more than 100 proposed tax laws targeting high-income earners or corporations in state legislatures so far in 2026.&lt;/p&gt;
-&lt;p&gt;As in California, some wealthy individuals are responding by leaving their state. This week, shortly before Washington lawmakers passed a millionaires tax, the former Starbucks C.E.O. Howard Schulz announced he and his wife were relocating to Miami.&lt;/p&gt;
-&lt;p&gt;Those fleeing state tax policy may also have to contend with the possibility of a federal wealth tax, which was introduced this month by Senator Bernie Sanders, independent of Vermont, and Rep. Khanna. Whether a federal wealth tax would require a constitutional amendment is disputed by legal scholars.&lt;/p&gt;
-&lt;p&gt;Historically, state taxes have opened the door for what is possible at the national level, said Gabriel Zucman, one of the economists who helped design the California tax legislation. Before the federal income tax was ratified by Congress in 1913, several states adopted their own income tax. “You need some states like California to pave the way and to show that it’s possible — you can tax billionaires, it can generate a lot of tax revenue, and the sky is not going to fall.”&lt;/p&gt;
-&lt;p&gt;Oil prices surged to around $100 a barrel. The price of Brent crude, the global oil benchmark, has surged almost 30 percent since the U.S. and Israel began attacks on Iran. Defense Secretary Pete Hegseth said on Friday that disruptions in the Strait of Hormuz, through which one-fifth of the world’s oil travels, were “something we are dealing with.” In an effort to curb prices, the U.S. on Thursday temporarily lifted sanctions on Russian oil currently at sea.&lt;/p&gt;
-&lt;p&gt;Microsoft backs Anthropic in its fight with the Trump administration. Microsoft, one of the largest government contractors, filed a court brief on Tuesday supporting Anthropic’s lawsuit against the Pentagon. It urged a federal court to temporarily block the designation of its partner A.I. company as a supply chain risk.&lt;/p&gt;
-&lt;p&gt;A funding standoff for the Department of Homeland Security continues. Funding for the agency was paused after Democrats refused to back money for the Department of Homeland Security without new restrictions on federal immigration officers. The freeze enters its second month this weekend after new legislation to fund the agency failed on Thursday. Officials have warned of disruptions to air travel as airport security workers miss paychecks.&lt;/p&gt;
-&lt;p&gt;Other big deals: Honda scrapped its electric vehicle plans. Meta delayed the release of its new A.I. models. Wall Street bankers were offered lucrative access to join the Pentagon. And the maker of the David bar faces a lawsuit over its calorie count.&lt;/p&gt;
-&lt;p&gt;On Monday, as the world was still grappling with news that the United States had attacked Iran, the government watchdog Open the Books released a report on military spending in September that contained some eye-popping line items.&lt;/p&gt;
-&lt;p&gt;The Pentagon blew through a total of $93.4 billion that month by spending, for example, $6.9 million on lobster tail; $15.1 million on rib-eye steak; and $225.6 million on furniture. There were 272 orders of doughnuts and three-tiered fruit basket stands that cost $12,540.&lt;/p&gt;
-&lt;p&gt;Punchlines followed. “As Paul Revere declared on his famous ride, ‘One if by surf, two if by turf,’” Stephen Colbert offered during his late night show. Jimmy Kimmel asked: “What is this? My 600 pound defense department? How are they eating so much food?”&lt;/p&gt;
-&lt;p&gt;But jokes like these missed at least some of the point. For almost a decade, Open the Books has published similar reports, intending to highlight the deluge of “use it or lose it” spending that typically occurs at the end of the fiscal year, as government agencies work to avoid forfeiting any unused budget.&lt;/p&gt;
-&lt;p&gt;While the September spike in spending by the Department of Defense was the biggest Open the Books has ever documented (at least, before adjusting for inflation), such spikes occur every year.&lt;/p&gt;
-&lt;p&gt;DealBook’s Sarah Kessler sat down with John Hart, the C.E.O. of Open the Books, to discuss his report and the reaction to it. The interview has been condensed and edited.&lt;/p&gt;
-&lt;p&gt;Tell me a little bit about what goes into a report like this.&lt;/p&gt;
-&lt;p&gt;To help people understand the scope of these mind-numbing numbers, it is very important to find specific examples that illustrate systemic problems — things like lobster tail and rib-eye steaks. We always ask ourselves this question of, is this example illustrative of a systemic problem? And I think everything we’ve put in this report absolutely is.&lt;/p&gt;
-&lt;p&gt;Do you think next year they’ll just find some delicacy other than lobster tail or king crab that’s not on your list?&lt;/p&gt;
-&lt;p&gt;One of the benefits of transparency and better technology is that it does get harder and harder to hide these things. There’s always an arms race, an information arms race, between agencies and we the people and individual citizens.&lt;/p&gt;
-&lt;p&gt;Is the Pentagon unique in this pattern of last burst spending?&lt;/p&gt;
-&lt;p&gt;All agencies tend to do this, but the Pentagon tends to be the most egregious partly because you’re dealing with enormous amounts of money. For example, during the last five days of September 2025, the Pentagon spent over $50 billion, which is more than what Israel spent all of last year on its national defense.&lt;/p&gt;
-&lt;p&gt;What is it that you want them to do instead? Not spend the money? Spend it earlier in the year in a more controlled way?&lt;/p&gt;
-&lt;p&gt;Senator Ernst has a bill that would cap what agencies can spend in the last two months of the fiscal year based on what their average burn rate is.&lt;/p&gt;
-&lt;p&gt;You could allow rollover authority. Different kinds of spending caps. You could even have some kind of a reward or incentive structure in place to, rather than punish agencies for spending less, reward them.&lt;/p&gt;
-&lt;p&gt;The food sounds particularly crazy. Is there any possible reasonable explanation? Is there some giant event they hold every year during September — or a sense of where all this lobster is going?&lt;/p&gt;
-&lt;p&gt;I think you’d have to run that past the Pentagon. They do events throughout the year, but there’s always a spike in September.&lt;/p&gt;
-&lt;p&gt;How does this compare to September spending during other administrations?&lt;/p&gt;
-&lt;p&gt;We’re not trying to single out Hegseth; we’re trying to say he had an opportunity to fix a longstanding problem. This has happened in every administration.&lt;/p&gt;
-&lt;p&gt;Have you heard from the Pentagon?&lt;/p&gt;
-&lt;p&gt;No we have not.&lt;/p&gt;
-&lt;p&gt;Chuck Schumer cited the report and called Hegseth ‘a true grifter.’ Gavin Newsom’s press office posted an A.I. generated photo of Hegseth surrounded by lobster tail, steak and fruit stands. What do you make of how Democrats are using the report?&lt;/p&gt;
-&lt;p&gt;All of a sudden people are exercised about spending. Well, they weren’t very exercised when Biden was president or Obama.&lt;/p&gt;
-&lt;p&gt;It’s not helpful for Democrats to simply be opportunistic without taking the steps to fix the problem.&lt;/p&gt;
-&lt;p&gt;Warner Bros. is poised to dominate tomorrow’s Academy Awards ceremony. The studio tied its own record, set in 2005, with 30 total Oscar nominations. Two of its films, “One Battle After Another” and “Sinners,” are the leading contenders for Best Picture.&lt;/p&gt;
-&lt;p&gt;The critical and box office success comes at a pivotal moment for the studio. Its parent company, Warner Bros. Discovery, put itself up for sale in the fall. That kicked off a high-profile bidding war between Netflix and Paramount. Last month, Paramount prevailed, agreeing to buy Warner Bros. Discovery for $111 billion.&lt;/p&gt;
-&lt;p&gt;Film studios have come and gone since the birth of Hollywood. But there have typically been six to eight major studios, according to the Entertainment Strategy Guy, an industry newsletter, which analyzed historical data.&lt;/p&gt;
-&lt;p&gt;Currently, as measured by box office revenue, there are five major stand-alone studios: Universal, Paramount, Warner Bros., Disney and Sony. (To define major, we used a cutoff of 5 percent of the market in 2025.)&lt;/p&gt;
-&lt;p&gt;If the Paramount-Warner deal is approved by regulators, the number of majors could drop to four, Christine Zhang reports for DealBook.&lt;/p&gt;
-&lt;p&gt;In 1935, there were eight major studios. Now, with a Paramount takeover of Warner Bros., that number could be cut in half.&lt;/p&gt;
-&lt;p&gt;1950&lt;/p&gt;
-&lt;p&gt;1975&lt;/p&gt;
-&lt;p&gt;2000&lt;/p&gt;
-&lt;p&gt;2025&lt;/p&gt;
-&lt;p&gt;Universal&lt;/p&gt;
-&lt;p&gt;Universal&lt;/p&gt;
-&lt;p&gt;Paramount&lt;/p&gt;
-&lt;p&gt;Paramount&lt;/p&gt;
-&lt;p&gt;Warner Bros.&lt;/p&gt;
-&lt;p&gt;Disney becomes a major studio&lt;/p&gt;
-&lt;p&gt;Disney&lt;/p&gt;
-&lt;p&gt;Disney&lt;/p&gt;
-&lt;p&gt;20th Century Fox&lt;/p&gt;
-&lt;p&gt;Sony buys Columbia and renames it&lt;/p&gt;
-&lt;p&gt;Sony&lt;/p&gt;
-&lt;p&gt;Columbia&lt;/p&gt;
-&lt;p&gt;MGM becomes a “mini-major”&lt;/p&gt;
-&lt;p&gt;due to diminished output&lt;/p&gt;
-&lt;p&gt;MGM&lt;/p&gt;
-&lt;p&gt;Amazon buys MGM&lt;/p&gt;
-&lt;p&gt;United Artists&lt;/p&gt;
-&lt;p&gt;RKO&lt;/p&gt;
-&lt;p&gt;Output drops dramatically after&lt;/p&gt;
-&lt;p&gt;Howard Hughes takes over&lt;/p&gt;
-&lt;p&gt;1950&lt;/p&gt;
-&lt;p&gt;1975&lt;/p&gt;
-&lt;p&gt;2000&lt;/p&gt;
-&lt;p&gt;2025&lt;/p&gt;
-&lt;p&gt;Universal&lt;/p&gt;
-&lt;p&gt;Universal&lt;/p&gt;
-&lt;p&gt;Paramount&lt;/p&gt;
-&lt;p&gt;Paramount&lt;/p&gt;
-&lt;p&gt;Warner Bros.&lt;/p&gt;
-&lt;p&gt;Disney becomes a major studio&lt;/p&gt;
-&lt;p&gt;Disney&lt;/p&gt;
-&lt;p&gt;Disney&lt;/p&gt;
-&lt;p&gt;20th Century Fox&lt;/p&gt;
-&lt;p&gt;Sony buys Columbia and renames it&lt;/p&gt;
-&lt;p&gt;Sony&lt;/p&gt;
-&lt;p&gt;Columbia&lt;/p&gt;
-&lt;p&gt;MGM becomes a “mini-major”&lt;/p&gt;
-&lt;p&gt;because of diminished output&lt;/p&gt;
-&lt;p&gt;MGM&lt;/p&gt;
-&lt;p&gt;Amazon buys MGM&lt;/p&gt;
-&lt;p&gt;United Artists&lt;/p&gt;
-&lt;p&gt;RKO&lt;/p&gt;
-&lt;p&gt;Output drops dramatically after Howard Hughes takes over&lt;/p&gt;
-&lt;p&gt;Sources: New York Times analysis, The Entertainment Strategy Guy. Christine Zhang/The New York Times&lt;/p&gt;
-&lt;p&gt;We say “could” for several reasons.&lt;/p&gt;
-&lt;p&gt;New players may step up. By the time Amazon acquired MGM in 2022, MGM had fallen to “mini-major” status. So far, the combined Amazon MGM Studios has not made a big dent in the box office. But last year, it said it would begin releasing around 14 films annually to theaters.&lt;/p&gt;
-&lt;p&gt;Also, the very definition of a “major” studio is fluid. Our classification ranks studios by ticket sales. What about Netflix? It boasts 18 Oscar nominations this year, but its nominated films (“Frankenstein,” “KPop Demon Hunters” and “Train Dreams”) did not see wide release in cinemas. The Entertainment Strategy Guy classifies it as a major anyway. (“They simply make too many films to not count,” he writes).&lt;/p&gt;
-&lt;p&gt;Finally, it’s unclear what will happen after the Paramount-Warner merger. Will Paramount allow Warner Bros. to be run separately and release its own films? (Notably, Paramount has zero Oscar nominations this year, the only major to be shut out entirely.)&lt;/p&gt;
-&lt;p&gt;Either way, the number of films that have theatrical releases will most likely decline, if history is a guide. After Disney and Fox merged in 2019, both studios released fewer films in theaters.&lt;/p&gt;
-&lt;p&gt;Thanks for reading! We’ll see you Monday.&lt;/p&gt;
-&lt;p&gt;We’d like your feedback. Please email thoughts and suggestions to dealbook@nytimes.com.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/14/business/dealbook/california-billionaire-tax.html</guid><pubDate>Mon, 16 Mar 2026 05:40:19 +0000</pubDate></item><item><title>The Billionaire Backlash Against a Philanthropic Dream</title><link>https://www.nytimes.com/2026/03/15/business/the-billionaire-backlash-against-a-philanthropic-dream.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/15/business/01Giving-pledge-illo/01Giving-pledge-illo-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
-The Giving Pledge, once trendy among the world’s richest, has come upon hard times.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/15/business/the-billionaire-backlash-against-a-philanthropic-dream.html</guid><pubDate>Mon, 16 Mar 2026 04:10:40 +0000</pubDate></item><item><title>How to Watch the Oscars: Date, Time and Streaming</title><link>https://www.nytimes.com/2026/03/15/movies/oscars-2026-watch-time-when.html</link><description>&lt;![CDATA[
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT Business Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/Business_fulltext.xml</link><description>Full-text NYT Business articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/Business_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 17 Mar 2026 05:45:27 +0000</lastBuildDate><item><title>How to Watch the Oscars: Date, Time and Streaming</title><link>https://www.nytimes.com/2026/03/15/movies/oscars-2026-watch-time-when.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/15/multimedia/15cul-htw-oscars-promo-pmvt/15cul-htw-oscars-promo-pmvt-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Oscars 2026: Follow live updates on the 98th Academy Awards.&lt;/p&gt;
 &lt;p&gt;Despite its beleaguered title, the Oscar campaign for “One Battle After Another” has been more of a blowout. The Leonardo DiCaprio-led epic, which earned 13 nominations, has taken the top prize at almost every major ceremony so far.&lt;/p&gt;
@@ -184,4 +56,10 @@ A meeting of the Advisory Committee on Immunization Practices in Atlanta in Dece
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html</guid><pubDate>Mon, 16 Mar 2026 15:46:21 +0000</pubDate></item><item><title>Airport Security Lines Grow as TSA Goes Unpaid in Partial Shutdown</title><link>https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/16/multimedia/16trav-airport-lines-bghw/16trav-airport-lines-bghw-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 With Transportation Security Administration officers missing paychecks as the partial government shutdown enters its fifth week, long lines are beginning to form at major airports.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html</guid><pubDate>Mon, 16 Mar 2026 16:37:58 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html</guid><pubDate>Mon, 16 Mar 2026 16:37:58 +0000</pubDate></item><item><title>As War With Iran Hurts Oil Prices, U.S. Turns to Iranian Boats for Help</title><link>https://www.nytimes.com/2026/03/17/business/iran-war-boats-russian-oil.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/03/16/multimedia/00biz-iran-oil-sanctions-02-wpjc/00biz-iran-oil-sanctions-02-wpjc-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+A tanker in the Persian Gulf last week. Ships carrying Russian oil as of Thursday are temporarily exempt from U.S. sanctions.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/17/business/iran-war-boats-russian-oil.html</guid><pubDate>Mon, 16 Mar 2026 19:00:07 +0000</pubDate></item><item><title>Inside the Katseye Fandom: Friendships, Rivalries and Boycotts Over Manon’s Hiatus</title><link>https://www.nytimes.com/2026/03/17/arts/music/katseye-fans-pop-music-manon-boycott.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/01/05/multimedia/00superfans-katseye-01-zjmt/00superfans-katseye-01-zjmt-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+“You have to remind yourself that you don’t know them personally,” said Joy Lebofsky, who has experienced the joys and disappointments of being a stan.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/03/17/arts/music/katseye-fans-pop-music-manon-boycott.html</guid><pubDate>Mon, 16 Mar 2026 19:01:14 +0000</pubDate></item></channel></rss>
