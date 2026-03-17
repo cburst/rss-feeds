@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 08:24:31 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 12:39:51 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>서울시는 – Seoul City is</title><link>urn:urn:vocab:서울시는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>학습이 – learning</title><link>urn:urn:vocab:학습이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773332611476-6ec2ba68049f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxsZWFybmluZ3xlbnwwfHx8fDE3NzM3MTg3ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학습이 (learning)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br/&gt;서울여대 노승용 평생교육원장은 “서울마이칼리지 사업을 통해 시민의 학습이 취·창업과 사회참여로 이어지는 전환학습 모델을 구축하고, 대학이 지역사회 평생학습 거점으로 역할을 확대해 나갈 것”이라고 밝혔다&lt;br/&gt;&lt;em&gt;Seoul Women's University Lifelong Education Center Director Noh Seung-yong stated, 'Through the Seoul My College project, we will establish a transformative learning model where citizens' learning leads to employment, entrepreneurship, and social participation, and expand the university's role as a lifelong learning hub in the local community.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  특히 중·고등 과정의 경우 문제집에 맞춘 핵심 강좌를 무제한으로 수강할 수 있어, 문제 풀이 중 이해가 어려운 부분이 있을 때 개념 학습부터 대표 문제 풀이까지 바로 연계 학습이 가능하다&lt;br/&gt;&lt;em&gt;(Especially for middle and high school courses, students can take unlimited key lectures aligned with workbooks, enabling immediate connected learning from concept study to solving representative problems when encountering difficulties during problem-solving.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;황미용 작가는 “사회, 과학 등 다음 학기에 배울 내용에 해당하는 세부 주제의 책들을 읽으면 자연스럽게 선행학습이 된다”며 “배경지식이 풍부해지는 만큼 다음 학기 때 수업 이해도가 높아지고, 아는 내용이 나오는 만큼 적극적으로 수업에 참여하게 만든다”고 조언했다&lt;br/&gt;&lt;em&gt;Author Hwang Mi-yong advised, 'Reading books on detailed topics related to subjects like social studies and science that will be covered next semester naturally facilitates advance learning. As background knowledge enriches, understanding of next semester's classes improves, and since familiar content appears, it encourages active participation in classes.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학습이 재미있어요.&lt;br/&gt;&lt;em&gt;Learning is fun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학습이 중요해요.&lt;br/&gt;&lt;em&gt;Learning is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773332611476-6ec2ba68049f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxsZWFybmluZ3xlbnwwfHx8fDE3NzM3MTg3ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학습이 (learning)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br/&gt;서울여대 노승용 평생교육원장은 “서울마이칼리지 사업을 통해 시민의 학습이 취·창업과 사회참여로 이어지는 전환학습 모델을 구축하고, 대학이 지역사회 평생학습 거점으로 역할을 확대해 나갈 것”이라고 밝혔다&lt;br/&gt;&lt;em&gt;Seoul Women's University Lifelong Education Center Director Noh Seung-yong stated, 'Through the Seoul My College project, we will establish a transformative learning model where citizens' learning leads to employment, entrepreneurship, and social participation, and expand the university's role as a lifelong learning hub in the local community.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  특히 중·고등 과정의 경우 문제집에 맞춘 핵심 강좌를 무제한으로 수강할 수 있어, 문제 풀이 중 이해가 어려운 부분이 있을 때 개념 학습부터 대표 문제 풀이까지 바로 연계 학습이 가능하다&lt;br/&gt;&lt;em&gt;(Especially for middle and high school courses, students can take unlimited key lectures aligned with workbooks, enabling immediate connected learning from concept study to solving representative problems when encountering difficulties during problem-solving.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;황미용 작가는 “사회, 과학 등 다음 학기에 배울 내용에 해당하는 세부 주제의 책들을 읽으면 자연스럽게 선행학습이 된다”며 “배경지식이 풍부해지는 만큼 다음 학기 때 수업 이해도가 높아지고, 아는 내용이 나오는 만큼 적극적으로 수업에 참여하게 만든다”고 조언했다&lt;br/&gt;&lt;em&gt;Author Hwang Mi-yong advised, 'Reading books on detailed topics related to subjects like social studies and science that will be covered next semester naturally facilitates advance learning. As background knowledge enriches, understanding of next semester's classes improves, and since familiar content appears, it encourages active participation in classes.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학습이 재미있어요.&lt;br/&gt;&lt;em&gt;Learning is fun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학습이 중요해요.&lt;br/&gt;&lt;em&gt;Learning is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 17 Mar 2026 12:39:51 +0900</pubDate><guid isPermaLink="false">vocab-8529b76a0a599bf281ac5899d7442d8218197d7c</guid><enclosure url="https://images.unsplash.com/photo-1773332611476-6ec2ba68049f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxsZWFybmluZ3xlbnwwfHx8fDE3NzM3MTg3ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="459641" /><ns2:content url="https://images.unsplash.com/photo-1773332611476-6ec2ba68049f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxsZWFybmluZ3xlbnwwfHx8fDE3NzM3MTg3ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1773332611476-6ec2ba68049f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxsZWFybmluZ3xlbnwwfHx8fDE3NzM3MTg3ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>학습이</category></item><item><title>서울의 – Seoul's</title><link>urn:urn:vocab:서울의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1770029884779-2dc9c622d169?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyN3N8ZW58MHx8fHwxNzczNzExMTU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서울의 (Seoul's)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(16일 직방 빅데이터랩이 법원 등기정보광장 부동산 소유권이전등기 통계를 분석한 결과, 지난 2월 서울의 증여인 1773명 가운데 70대 이상이 43&lt;br/&gt;&lt;em&gt;(According to an analysis of real estate ownership transfer registration statistics from the Court Registry Information Plaza by Zigbang Big Data Lab on the 16th, among 1,773 donors in Seoul last February, those aged 70 or older accounted for 43%)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부의 다주택자 양도소득세 중과 유예 종료 방침이 발표된 지난 2월 서울의 집값 상승폭이 축소된 것으로 나타났다&lt;br/&gt;&lt;em&gt;(It was found that the increase in housing prices in Seoul last February, when the government announced its plan to end the deferment of the heavy transfer income tax on multiple homeowners, had narrowed)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(16일 한국부동산원이 발표한 ‘2월 전국 주택가격 동향’을 보면, 서울의 주택종합(아파트·연립주택·단독주택) 매매가격은 전월 대비 0&lt;br/&gt;&lt;em&gt;(According to the 'National Housing Price Trends in February' announced by the Korea Real Estate Board on the 16th, the comprehensive housing (apartment, townhouse, detached house) transaction prices in Seoul increased by 0% compared to the previous month)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서울의 날씨는 좋아요.&lt;br/&gt;&lt;em&gt;The weather in Seoul is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서울의 공원이 커요.&lt;br/&gt;&lt;em&gt;The parks in Seoul are big.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1770029884779-2dc9c622d169?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyN3N8ZW58MHx8fHwxNzczNzExMTU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서울의 (Seoul's)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(16일 직방 빅데이터랩이 법원 등기정보광장 부동산 소유권이전등기 통계를 분석한 결과, 지난 2월 서울의 증여인 1773명 가운데 70대 이상이 43&lt;br/&gt;&lt;em&gt;(According to an analysis of real estate ownership transfer registration statistics from the Court Registry Information Plaza by Zigbang Big Data Lab on the 16th, among 1,773 donors in Seoul last February, those aged 70 or older accounted for 43%)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부의 다주택자 양도소득세 중과 유예 종료 방침이 발표된 지난 2월 서울의 집값 상승폭이 축소된 것으로 나타났다&lt;br/&gt;&lt;em&gt;(It was found that the increase in housing prices in Seoul last February, when the government announced its plan to end the deferment of the heavy transfer income tax on multiple homeowners, had narrowed)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(16일 한국부동산원이 발표한 ‘2월 전국 주택가격 동향’을 보면, 서울의 주택종합(아파트·연립주택·단독주택) 매매가격은 전월 대비 0&lt;br/&gt;&lt;em&gt;(According to the 'National Housing Price Trends in February' announced by the Korea Real Estate Board on the 16th, the comprehensive housing (apartment, townhouse, detached house) transaction prices in Seoul increased by 0% compared to the previous month)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서울의 날씨는 좋아요.&lt;br/&gt;&lt;em&gt;The weather in Seoul is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서울의 공원이 커요.&lt;br/&gt;&lt;em&gt;The parks in Seoul are big.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 17 Mar 2026 10:32:44 +0900</pubDate><guid isPermaLink="false">vocab-ede89a18ac80e55d2f5409fad4c31ca8fa43dc9d</guid><enclosure url="https://images.unsplash.com/photo-1770029884779-2dc9c622d169?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyN3N8ZW58MHx8fHwxNzczNzExMTU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="167548" /><ns2:content url="https://images.unsplash.com/photo-1770029884779-2dc9c622d169?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyN3N8ZW58MHx8fHwxNzczNzExMTU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1770029884779-2dc9c622d169?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyN3N8ZW58MHx8fHwxNzczNzExMTU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>서울의</category></item><item><title>서울시는 – Seoul City is</title><link>urn:urn:vocab:서울시는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1629137441008-14e650bca327?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyMENpdHklMjBpc3xlbnwwfHx8fDE3NzM3MDM0NjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서울시는 (Seoul City is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이밖에도 서울시는 2월8일까지 서울광장 스케이트장을 운영한다&lt;br/&gt;&lt;em&gt;(In addition, Seoul City will operate the Seoul Plaza skating rink until February 8th)&lt;/em&gt;&lt;/p&gt;
