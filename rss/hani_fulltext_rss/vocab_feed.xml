@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 06:14:45 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 08:24:31 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>과유불급 – Too much is as bad as too little</title><link>urn:urn:vocab:과유불급</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>서울시는 – Seoul City is</title><link>urn:urn:vocab:서울시는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1629137441008-14e650bca327?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyMENpdHklMjBpc3xlbnwwfHx8fDE3NzM3MDM0NjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서울시는 (Seoul City is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이밖에도 서울시는 2월8일까지 서울광장 스케이트장을 운영한다&lt;br/&gt;&lt;em&gt;(In addition, Seoul City will operate the Seoul Plaza skating rink until February 8th)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오세훈 서울시장의 ‘한강 리버버스 사업’ 추진 과정에서 서울시는 규정을 위반해 총사업비를 산정한 뒤 투자심사나 경제성 분석을 받았던 것으로 16일 감사원 감사 결과 드러났다&lt;br/&gt;&lt;em&gt;(On the 16th, the Board of Audit and Inspection revealed that during the promotion of Seoul Mayor Oh Se-hoon's 'Han River Reverse Project', Seoul City violated regulations by calculating the total project cost before undergoing investment review or economic feasibility analysis)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (또한, 서울시는 한강버스 선박 속도가 목표치(17노트)보다 느린 14&lt;br/&gt;&lt;em&gt;(Also, the speed of the Han River bus ships is 14 knots, which is slower than the target speed (17 knots))&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서울시는 한국의 수도입니다.&lt;br/&gt;&lt;em&gt;Seoul is the capital of South Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서울시는 매우 바쁩니다.&lt;br/&gt;&lt;em&gt;Seoul is very busy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1629137441008-14e650bca327?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyMENpdHklMjBpc3xlbnwwfHx8fDE3NzM3MDM0NjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서울시는 (Seoul City is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이밖에도 서울시는 2월8일까지 서울광장 스케이트장을 운영한다&lt;br/&gt;&lt;em&gt;(In addition, Seoul City will operate the Seoul Plaza skating rink until February 8th)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오세훈 서울시장의 ‘한강 리버버스 사업’ 추진 과정에서 서울시는 규정을 위반해 총사업비를 산정한 뒤 투자심사나 경제성 분석을 받았던 것으로 16일 감사원 감사 결과 드러났다&lt;br/&gt;&lt;em&gt;(On the 16th, the Board of Audit and Inspection revealed that during the promotion of Seoul Mayor Oh Se-hoon's 'Han River Reverse Project', Seoul City violated regulations by calculating the total project cost before undergoing investment review or economic feasibility analysis)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (또한, 서울시는 한강버스 선박 속도가 목표치(17노트)보다 느린 14&lt;br/&gt;&lt;em&gt;(Also, the speed of the Han River bus ships is 14 knots, which is slower than the target speed (17 knots))&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서울시는 한국의 수도입니다.&lt;br/&gt;&lt;em&gt;Seoul is the capital of South Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서울시는 매우 바쁩니다.&lt;br/&gt;&lt;em&gt;Seoul is very busy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 17 Mar 2026 08:24:31 +0900</pubDate><guid isPermaLink="false">vocab-d15e1d441fa2cac6300be21ee4316d1e75fe5d51</guid><enclosure url="https://images.unsplash.com/photo-1629137441008-14e650bca327?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyMENpdHklMjBpc3xlbnwwfHx8fDE3NzM3MDM0NjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="460302" /><ns2:content url="https://images.unsplash.com/photo-1629137441008-14e650bca327?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyMENpdHklMjBpc3xlbnwwfHx8fDE3NzM3MDM0NjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1629137441008-14e650bca327?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyMENpdHklMjBpc3xlbnwwfHx8fDE3NzM3MDM0NjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>서울시는</category></item><item><title>과유불급 – Too much is as bad as too little</title><link>urn:urn:vocab:과유불급</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1623434049228-b9146d9b1be6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxUb28lMjBtdWNoJTIwaXMlMjBhcyUyMGJhZCUyMGFzJTIwdG9vJTIwbGl0dGxlfGVufDB8fHx8MTc3MzY5NTY3NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="과유불급 (Too much is as bad as too little)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이재명 대통령이 더불어민주당 초선 의원들과 15일 청와대에서 한 만찬 회동에서 “지나친 개혁은 과유불급이 되고 오히려 부작용이 나올 수 있다”고 말한 것으로 알려졌다&lt;br/&gt;&lt;em&gt;It is reported that President Lee Jae-myung said at a dinner meeting with first-term lawmakers of the Democratic Party of Korea at the Blue House on the 15th, 'Excessive reform can become too much of a good thing and may even produce side effects.'&lt;/em&gt;&lt;/p&gt;
