@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 23:47:55 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 02:02:53 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>든든한 – reliable/strong</title><link>urn:urn:vocab:든든한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>작가가 – writer (subject marker)</title><link>urn:urn:vocab:작가가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1735893066935-2b7995bab10d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3cml0ZXIlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc3Mzc2Njk1OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="작가가 (writer (subject marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아마추어 작가가 전 세계 독자에게 작품을 선보일 수 있는 ‘캔버스’(CANVAS) 플랫폼을 개편해 창작자 저변을 넓히고, 현재 한국(컷츠)과 북미 시장(비디오 에피소드)에서 제공하는 숏폼 애니메이션 등 비디오 포맷을 확대해 웹툰의 소비 방식을 다변화할 계획이다&lt;br/&gt;&lt;em&gt;The 'Canvas' (CANVAS) platform, which allows amateur writers to showcase their works to readers worldwide, has been revamped to expand the creator base, and plans to diversify the consumption methods of webtoons by expanding video formats such as short-form animations currently offered in the Korean (Cuts) and North American (Video Episode) markets.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그림책 부문에서는 김성은(‘할머니의 비밀’), 이경희(‘행복 목욕탕’), 현단(‘칙칙폭폭 여기여기 붙어라’) 작가가 공동 수상의 영예를 안았다&lt;br/&gt;&lt;em&gt;In the picture book category, authors Kim Seong-eun ('Grandma's Secret'), Lee Kyung-hee ('Happy Bathhouse'), and Hyun-dan ('Chikchikpokpok, Stick Here and There') shared the honor of joint award.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오 교사는 “‘고추장 심부름’은 주인공의 고난과 역경을 통해 사람의 마음이 어떻게 이어지는지 알게 해준다”며 “펜 들고 레벨 업’은 웹소설 작가가 되고 싶은 한 아이의 성장기가 어린이들에게 힘과 용기를 줄 것”이라고 말했다&lt;br/&gt;&lt;em&gt;Teacher Oh said, "'Gochujang Errand' shows how people's hearts connect through the protagonist's hardships and adversities, and 'Pen in Hand, Level Up' will give children strength and courage through the growth story of a child who wants to become a web novel writer."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;작가가 책을 씁니다.&lt;br/&gt;&lt;em&gt;The author writes a book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;작가가 이야기를 합니다.&lt;br/&gt;&lt;em&gt;The author tells a story.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1735893066935-2b7995bab10d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3cml0ZXIlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc3Mzc2Njk1OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="작가가 (writer (subject marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아마추어 작가가 전 세계 독자에게 작품을 선보일 수 있는 ‘캔버스’(CANVAS) 플랫폼을 개편해 창작자 저변을 넓히고, 현재 한국(컷츠)과 북미 시장(비디오 에피소드)에서 제공하는 숏폼 애니메이션 등 비디오 포맷을 확대해 웹툰의 소비 방식을 다변화할 계획이다&lt;br/&gt;&lt;em&gt;The 'Canvas' (CANVAS) platform, which allows amateur writers to showcase their works to readers worldwide, has been revamped to expand the creator base, and plans to diversify the consumption methods of webtoons by expanding video formats such as short-form animations currently offered in the Korean (Cuts) and North American (Video Episode) markets.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그림책 부문에서는 김성은(‘할머니의 비밀’), 이경희(‘행복 목욕탕’), 현단(‘칙칙폭폭 여기여기 붙어라’) 작가가 공동 수상의 영예를 안았다&lt;br/&gt;&lt;em&gt;In the picture book category, authors Kim Seong-eun ('Grandma's Secret'), Lee Kyung-hee ('Happy Bathhouse'), and Hyun-dan ('Chikchikpokpok, Stick Here and There') shared the honor of joint award.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오 교사는 “‘고추장 심부름’은 주인공의 고난과 역경을 통해 사람의 마음이 어떻게 이어지는지 알게 해준다”며 “펜 들고 레벨 업’은 웹소설 작가가 되고 싶은 한 아이의 성장기가 어린이들에게 힘과 용기를 줄 것”이라고 말했다&lt;br/&gt;&lt;em&gt;Teacher Oh said, "'Gochujang Errand' shows how people's hearts connect through the protagonist's hardships and adversities, and 'Pen in Hand, Level Up' will give children strength and courage through the growth story of a child who wants to become a web novel writer."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;작가가 책을 씁니다.&lt;br/&gt;&lt;em&gt;The author writes a book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;작가가 이야기를 합니다.&lt;br/&gt;&lt;em&gt;The author tells a story.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 18 Mar 2026 02:02:53 +0900</pubDate><guid isPermaLink="false">vocab-188c0080bbf10cb1507bbf0ece37cf1e85bdbd18</guid><enclosure url="https://images.unsplash.com/photo-1735893066935-2b7995bab10d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3cml0ZXIlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc3Mzc2Njk1OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="252317" /><ns2:content url="https://images.unsplash.com/photo-1735893066935-2b7995bab10d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3cml0ZXIlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc3Mzc2Njk1OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1735893066935-2b7995bab10d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3cml0ZXIlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc3Mzc2Njk1OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>작가가</category></item><item><title>든든한 – reliable/strong</title><link>urn:urn:vocab:든든한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1770177009307-e37ea15ade95?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWxpYWJsZSUyRnN0cm9uZ3xlbnwwfHx8fDE3NzM3NTg4NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="든든한 (reliable/strong)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;)&lt;/p&gt;&lt;p&gt;■ Director Yoo Sook-hee: “We Will Be a Reliable Helper Ensuring Passion Bears Fruit” (■ 유숙희 원장 “열정이 결실로 이어지는 든든한 조력자 될 것”)&lt;/p&gt;&lt;p&gt;Director Yoo Sook-hee of the Lifelong Education Center stated, "In a rapidly changing era, learning is the most powerful force to protect oneself and an opportunity for new growth," adding, "I hope this spring semester, which encompasses AI competency enhancement and mind-body healing, becomes a stepping stone to enrich your lives further&lt;br/&gt;&lt;em&gt;)&lt;/em&gt;&lt;/p&gt;
