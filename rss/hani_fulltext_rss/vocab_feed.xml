@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 05:53:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 08:02:24 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>실수를 – mistake</title><link>urn:urn:vocab:실수를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>편하게 – comfortably</title><link>urn:urn:vocab:편하게</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1597566306029-fcc1b01546d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21mb3J0YWJseXxlbnwwfHx8fDE3NzM4NzQ5MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="편하게 (comfortably)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개인사업자 고객은 금융결제원의 대출이동시스템을 기반으로 온라인 대환 플랫폼에서 18개 금융기관의 사업자 신용대출 금리와 한도를 간편하게 비교하고, 더 유리한 조건의 대출로 갈아탈 수 있게 됐다&lt;br/&gt;&lt;em&gt;Individual business owners can now easily compare interest rates and limits of business credit loans from 18 financial institutions on an online refinancing platform based on the Financial Supervisory Service's loan transfer system, and switch to loans with more favorable conditions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“청소년들이 편하게 머물 수 있는 공간 자체가 부족하다”라는 박재성 사무국장의 말처럼 학교를 벗어나면 학원이나 소비 시설 외에는 마땅한 활동 공간이 없는 청소년들에게, 다가치학교는 안전하고 편안한 공간 그 자체로 의미가 크다&lt;br/&gt;&lt;em&gt;As Secretary-General Park Jae-sung said, 'There is a lack of spaces where teenagers can comfortably stay,' for teenagers who have no suitable activity spaces outside of school except for academies or commercial facilities, Dagauchi School holds significant meaning as a safe and comfortable space itself.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;청소년들이 편하게 연애를 할 공간도 없는데, 편하게 함께 시간을 보낼 수도 있다&lt;br/&gt;&lt;em&gt;Teenagers have no space to comfortably date, but they can also spend time together comfortably.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 편하게 쉬었어요.&lt;br/&gt;&lt;em&gt;I rested comfortably.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;편하게 앉으세요.&lt;br/&gt;&lt;em&gt;Please sit comfortably.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1597566306029-fcc1b01546d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21mb3J0YWJseXxlbnwwfHx8fDE3NzM4NzQ5MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="편하게 (comfortably)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개인사업자 고객은 금융결제원의 대출이동시스템을 기반으로 온라인 대환 플랫폼에서 18개 금융기관의 사업자 신용대출 금리와 한도를 간편하게 비교하고, 더 유리한 조건의 대출로 갈아탈 수 있게 됐다&lt;br/&gt;&lt;em&gt;Individual business owners can now easily compare interest rates and limits of business credit loans from 18 financial institutions on an online refinancing platform based on the Financial Supervisory Service's loan transfer system, and switch to loans with more favorable conditions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“청소년들이 편하게 머물 수 있는 공간 자체가 부족하다”라는 박재성 사무국장의 말처럼 학교를 벗어나면 학원이나 소비 시설 외에는 마땅한 활동 공간이 없는 청소년들에게, 다가치학교는 안전하고 편안한 공간 그 자체로 의미가 크다&lt;br/&gt;&lt;em&gt;As Secretary-General Park Jae-sung said, 'There is a lack of spaces where teenagers can comfortably stay,' for teenagers who have no suitable activity spaces outside of school except for academies or commercial facilities, Dagauchi School holds significant meaning as a safe and comfortable space itself.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;청소년들이 편하게 연애를 할 공간도 없는데, 편하게 함께 시간을 보낼 수도 있다&lt;br/&gt;&lt;em&gt;Teenagers have no space to comfortably date, but they can also spend time together comfortably.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 편하게 쉬었어요.&lt;br/&gt;&lt;em&gt;I rested comfortably.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;편하게 앉으세요.&lt;br/&gt;&lt;em&gt;Please sit comfortably.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 19 Mar 2026 08:02:23 +0900</pubDate><guid isPermaLink="false">vocab-00319557f89f3e42bbc48430d8b54f7fdf022c78</guid><enclosure url="https://images.unsplash.com/photo-1597566306029-fcc1b01546d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21mb3J0YWJseXxlbnwwfHx8fDE3NzM4NzQ5MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="228118" /><ns2:content url="https://images.unsplash.com/photo-1597566306029-fcc1b01546d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21mb3J0YWJseXxlbnwwfHx8fDE3NzM4NzQ5MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1597566306029-fcc1b01546d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21mb3J0YWJseXxlbnwwfHx8fDE3NzM4NzQ5MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>편하게</category></item><item><title>실수를 – mistake</title><link>urn:urn:vocab:실수를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1675266873434-5ba73c38ce6f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaXN0YWtlfGVufDB8fHx8MTc3Mzg2NzIyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실수를 (mistake)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;실수에 실수를 거듭하면 어떻게 될까&lt;br/&gt;&lt;em&gt;What happens when mistakes are repeated over and over?&lt;/em&gt;&lt;/p&gt;
