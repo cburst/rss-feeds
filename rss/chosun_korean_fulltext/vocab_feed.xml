@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 06:17:20 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 10:35:23 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>요구가 – demand</title><link>urn:urn:vocab:요구가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>혁신을 – innovation</title><link>urn:urn:vocab:혁신을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbm5vdmF0aW9ufGVufDB8fHx8MTc3Mzc5NzcxM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="혁신을 (innovation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;장 대표는 “지방선거에서 승리할 수 있도록 더 많은 당의 변화와 혁신을 이끌어내도록 하겠다”고 했다&lt;br/&gt;&lt;em&gt;Representative Jang said, 'I will lead more changes and innovations within the party to ensure victory in the local elections.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오 시장은 이날 오후 3시 서울시청에서 기자회견을 열고 “선당후사(先黨後私)의 정신으로 국민의힘 서울시장 후보에 등록한다”며 “당의 혁신을 추동하고, 비상대책위원회에 버금가는 혁신 선대위도 반드시 관철할 것”이라고 했다&lt;br/&gt;&lt;em&gt;Mayor Oh held a press conference at Seoul City Hall at 3 p.m. that day, stating, 'I will register as the People Power Party's candidate for Seoul mayor with the spirit of putting the party before personal interests,' and added, 'I will drive party innovation and definitely establish an innovation election committee comparable to the emergency response committee.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이와 관련해 장 대표는 기자들과 만나 “당의 변화를 위해 노력하고 있지만 그 속도감이나 내용에 누구나 다 만족할 순 없다고 생각한다”며 “선거에서 승리할 수 있도록 더 많은 변화와 혁신을 이끌어내도록 하겠다”고 했다&lt;br/&gt;&lt;em&gt;Regarding this, Representative Jang met with reporters and said, 'I am working hard for the party's change, but I think not everyone can be satisfied with the speed or content,' and added, 'I will lead more changes and innovations to ensure victory in the election.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;혁신을 좋아해요.&lt;br/&gt;&lt;em&gt;I like innovation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;혁신을 배워요.&lt;br/&gt;&lt;em&gt;I learn innovation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbm5vdmF0aW9ufGVufDB8fHx8MTc3Mzc5NzcxM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="혁신을 (innovation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;장 대표는 “지방선거에서 승리할 수 있도록 더 많은 당의 변화와 혁신을 이끌어내도록 하겠다”고 했다&lt;br/&gt;&lt;em&gt;Representative Jang said, 'I will lead more changes and innovations within the party to ensure victory in the local elections.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오 시장은 이날 오후 3시 서울시청에서 기자회견을 열고 “선당후사(先黨後私)의 정신으로 국민의힘 서울시장 후보에 등록한다”며 “당의 혁신을 추동하고, 비상대책위원회에 버금가는 혁신 선대위도 반드시 관철할 것”이라고 했다&lt;br/&gt;&lt;em&gt;Mayor Oh held a press conference at Seoul City Hall at 3 p.m. that day, stating, 'I will register as the People Power Party's candidate for Seoul mayor with the spirit of putting the party before personal interests,' and added, 'I will drive party innovation and definitely establish an innovation election committee comparable to the emergency response committee.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이와 관련해 장 대표는 기자들과 만나 “당의 변화를 위해 노력하고 있지만 그 속도감이나 내용에 누구나 다 만족할 순 없다고 생각한다”며 “선거에서 승리할 수 있도록 더 많은 변화와 혁신을 이끌어내도록 하겠다”고 했다&lt;br/&gt;&lt;em&gt;Regarding this, Representative Jang met with reporters and said, 'I am working hard for the party's change, but I think not everyone can be satisfied with the speed or content,' and added, 'I will lead more changes and innovations to ensure victory in the election.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;혁신을 좋아해요.&lt;br/&gt;&lt;em&gt;I like innovation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;혁신을 배워요.&lt;br/&gt;&lt;em&gt;I learn innovation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 18 Mar 2026 10:35:23 +0900</pubDate><guid isPermaLink="false">vocab-c717facf07dd92b46f4df5e33738d1c220d91e57</guid><enclosure url="https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbm5vdmF0aW9ufGVufDB8fHx8MTc3Mzc5NzcxM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="103708" /><ns2:content url="https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbm5vdmF0aW9ufGVufDB8fHx8MTc3Mzc5NzcxM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbm5vdmF0aW9ufGVufDB8fHx8MTc3Mzc5NzcxM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>혁신을</category></item><item><title>군함을 – warship</title><link>urn:urn:vocab:군함을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1719553946838-1190abdeee92?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXJzaGlwfGVufDB8fHx8MTc3Mzc4OTkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="군함을 (warship)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국회는 트럼프 미국 대통령이 호르무즈 해협에 군함을 파견해달라는 요구와 관련, 대응을 위해 17일 국방위원회와 외교통일위원회를 각각 열고 현안을 보고 받았다&lt;br/&gt;&lt;em&gt;(The National Assembly held meetings of the Defense Committee and the Foreign Affairs and Unification Committee on the 17th to receive briefings on current issues, in response to U.S. President Trump's request to dispatch warships to the Strait of Hormuz)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;원유 수급을 상당 부분 중동에 의존하는 한·일이 군함을 보내야 한다고 주장한 데 이어, 미국의 ‘안보 우산’ 제공을 빌미 삼아 압박 수위를 높인 것이다&lt;br/&gt;&lt;em&gt;Following the argument by South Korea and Japan, which rely heavily on the Middle East for crude oil supply, that they should send warships, the pressure has been increased under the pretext of the U.S. 'security umbrella'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (그러나 호르무즈 해협에 군함을 보내는 것도 만만치 않다&lt;br/&gt;&lt;em&gt;" (However, sending warships to the Strait of Hormuz is also not an easy task)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;군함을 봤어요.&lt;br/&gt;&lt;em&gt;I saw a warship.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;군함을 그렸어요.&lt;br/&gt;&lt;em&gt;I drew a warship.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1719553946838-1190abdeee92?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXJzaGlwfGVufDB8fHx8MTc3Mzc4OTkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="군함을 (warship)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국회는 트럼프 미국 대통령이 호르무즈 해협에 군함을 파견해달라는 요구와 관련, 대응을 위해 17일 국방위원회와 외교통일위원회를 각각 열고 현안을 보고 받았다&lt;br/&gt;&lt;em&gt;(The National Assembly held meetings of the Defense Committee and the Foreign Affairs and Unification Committee on the 17th to receive briefings on current issues, in response to U.S. President Trump's request to dispatch warships to the Strait of Hormuz)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;원유 수급을 상당 부분 중동에 의존하는 한·일이 군함을 보내야 한다고 주장한 데 이어, 미국의 ‘안보 우산’ 제공을 빌미 삼아 압박 수위를 높인 것이다&lt;br/&gt;&lt;em&gt;Following the argument by South Korea and Japan, which rely heavily on the Middle East for crude oil supply, that they should send warships, the pressure has been increased under the pretext of the U.S. 'security umbrella'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (그러나 호르무즈 해협에 군함을 보내는 것도 만만치 않다&lt;br/&gt;&lt;em&gt;" (However, sending warships to the Strait of Hormuz is also not an easy task)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;군함을 봤어요.&lt;br/&gt;&lt;em&gt;I saw a warship.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;군함을 그렸어요.&lt;br/&gt;&lt;em&gt;I drew a warship.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 18 Mar 2026 08:25:13 +0900</pubDate><guid isPermaLink="false">vocab-91f5aec6a6810410dfd0219bfa88284b6896c169</guid><enclosure url="https://images.unsplash.com/photo-1719553946838-1190abdeee92?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXJzaGlwfGVufDB8fHx8MTc3Mzc4OTkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="90508" /><ns2:content url="https://images.unsplash.com/photo-1719553946838-1190abdeee92?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXJzaGlwfGVufDB8fHx8MTc3Mzc4OTkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1719553946838-1190abdeee92?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXJzaGlwfGVufDB8fHx8MTc3Mzc4OTkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>군함을</category></item><item><title>요구가 – demand</title><link>urn:urn:vocab:요구가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605364850025-1c59327db3b1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZW1hbmR8ZW58MHx8fHwxNzczNzgyMjMzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="요구가 (demand)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;하지만 결과적으로 대통령이 지적한 두 가지 사안을 제외한 거의 모든 강경파 요구가 중수청·공소청법에 반영됐다&lt;br/&gt;&lt;em&gt;However, in the end, almost all of the hardliners' demands, except for the two issues pointed out by the president, were reflected in the Serious Crimes and Public Prosecution Act.&lt;/em&gt;&lt;/p&gt;
