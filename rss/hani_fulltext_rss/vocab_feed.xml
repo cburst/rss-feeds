@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 10:12:41 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 12:20:28 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>친환경농산물 – environmentally friendly agricultural products</title><link>urn:urn:vocab:친환경농산물</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>댓글을 – comment</title><link>urn:urn:vocab:댓글을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1667235326880-324e1a51d40b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tZW50fGVufDB8fHx8MTc3Mzg5MDQxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="댓글을 (comment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(네이버가 오는 6월3일 치러지는 제9회 전국동시지방선거를 앞두고 정치·선거섹션 기사의 댓글을 바로 안보이게 한다&lt;br/&gt;&lt;em&gt;(Naver will hide comments on political/election section articles ahead of the 9th nationwide local elections on June 3rd&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(네이버는 지방 선거 종료 시점까지 정치와 선거 섹션 기사 본문 하단 댓글을 접는다고 19일 밝혔다&lt;br/&gt;&lt;em&gt;(Naver announced on the 19th that it will close comments below political and election section articles until the end of the local elections&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기본 ‘닫기’로 제공되어 댓글을 보려면 한번 클릭을 해야 하는 구조로 바뀐다&lt;br/&gt;&lt;em&gt;The default will be 'closed', requiring one click to view comments&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 댓글을 썼어요.&lt;br/&gt;&lt;em&gt;I wrote a comment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;댓글을 읽어 보세요.&lt;br/&gt;&lt;em&gt;Please read the comment.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1667235326880-324e1a51d40b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tZW50fGVufDB8fHx8MTc3Mzg5MDQxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="댓글을 (comment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(네이버가 오는 6월3일 치러지는 제9회 전국동시지방선거를 앞두고 정치·선거섹션 기사의 댓글을 바로 안보이게 한다&lt;br/&gt;&lt;em&gt;(Naver will hide comments on political/election section articles ahead of the 9th nationwide local elections on June 3rd&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(네이버는 지방 선거 종료 시점까지 정치와 선거 섹션 기사 본문 하단 댓글을 접는다고 19일 밝혔다&lt;br/&gt;&lt;em&gt;(Naver announced on the 19th that it will close comments below political and election section articles until the end of the local elections&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기본 ‘닫기’로 제공되어 댓글을 보려면 한번 클릭을 해야 하는 구조로 바뀐다&lt;br/&gt;&lt;em&gt;The default will be 'closed', requiring one click to view comments&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 댓글을 썼어요.&lt;br/&gt;&lt;em&gt;I wrote a comment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;댓글을 읽어 보세요.&lt;br/&gt;&lt;em&gt;Please read the comment.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 19 Mar 2026 12:20:28 +0900</pubDate><guid isPermaLink="false">vocab-22978166658a246de4dffc4e06fb42a333a1fa06</guid><enclosure url="https://images.unsplash.com/photo-1667235326880-324e1a51d40b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tZW50fGVufDB8fHx8MTc3Mzg5MDQxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="35910" /><ns2:content url="https://images.unsplash.com/photo-1667235326880-324e1a51d40b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tZW50fGVufDB8fHx8MTc3Mzg5MDQxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1667235326880-324e1a51d40b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21tZW50fGVufDB8fHx8MTc3Mzg5MDQxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>댓글을</category></item><item><title>친환경농산물 – environmentally friendly agricultural products</title><link>urn:urn:vocab:친환경농산물</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624791338465-2c1af1eb117d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudGFsbHklMjBmcmllbmRseSUyMGFncmljdWx0dXJhbCUyMHByb2R1Y3RzfGVufDB8fHx8MTc3Mzg4Mjc1Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="친환경농산물 (environmentally friendly agricultural products)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Starting in the second half of this year (임신하면 24만원 상당 ‘친환경농산물 꾸러미’ 준다…올 하반기부터) &lt;&lt;br/&gt;&lt;em&gt;Starting in the second half of this year (Providing a 240,000 won worth 'eco-friendly agricultural product package' for pregnant women... starting this second half of the year)&lt;/em&gt;&lt;/p&gt;
