@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 08:02:32 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 10:12:52 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>개그맨 – comedian</title><link>urn:urn:vocab:개그맨</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>대응할 – to respond</title><link>urn:urn:vocab:대응할</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604261297214-39fbeb15c7f5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJlc3BvbmR8ZW58MHx8fHwxNzczODgyNzYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대응할 (to respond)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정부 당국자는 “하루하루 트럼프 메시지가 달라지고 있어서 일본 등 관련 국가의 움직임을 참고하면서 대응할 필요가 있다”고 했다&lt;br/&gt;&lt;em&gt;A government official said, "Since Trump's message changes day by day, we need to respond while taking into account the movements of related countries such as Japan."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;360도 전방위 탐지·교전 능력을 갖추고 아음속 순항미사일·드론·로켓포·박격포 공격 등에 대응할 수 있는 이 체계는 지난해 미군 해외 주둔 기지 중 처음으로 한반도에 배치된 것으로 알려져 있다&lt;br/&gt;&lt;em&gt;This system, equipped with 360-degree all-around detection and engagement capabilities and able to respond to attacks such as subsonic cruise missiles, drones, rocket launchers, and mortars, is known to have been deployed to the Korean Peninsula last year for the first time among U.S. military overseas bases.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“특정 언론사를 대상으로 별도 조치를 기획하거나 대응할 생각이 없다”는 것이었습니다&lt;br/&gt;&lt;em&gt;"We have no plans to plan or respond with separate measures targeting specific media outlets."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 질문에 대응할 거예요.&lt;br/&gt;&lt;em&gt;I will respond to the question.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 상황에 대응할 수 있어요.&lt;br/&gt;&lt;em&gt;He can respond to the situation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604261297214-39fbeb15c7f5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJlc3BvbmR8ZW58MHx8fHwxNzczODgyNzYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대응할 (to respond)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정부 당국자는 “하루하루 트럼프 메시지가 달라지고 있어서 일본 등 관련 국가의 움직임을 참고하면서 대응할 필요가 있다”고 했다&lt;br/&gt;&lt;em&gt;A government official said, "Since Trump's message changes day by day, we need to respond while taking into account the movements of related countries such as Japan."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;360도 전방위 탐지·교전 능력을 갖추고 아음속 순항미사일·드론·로켓포·박격포 공격 등에 대응할 수 있는 이 체계는 지난해 미군 해외 주둔 기지 중 처음으로 한반도에 배치된 것으로 알려져 있다&lt;br/&gt;&lt;em&gt;This system, equipped with 360-degree all-around detection and engagement capabilities and able to respond to attacks such as subsonic cruise missiles, drones, rocket launchers, and mortars, is known to have been deployed to the Korean Peninsula last year for the first time among U.S. military overseas bases.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“특정 언론사를 대상으로 별도 조치를 기획하거나 대응할 생각이 없다”는 것이었습니다&lt;br/&gt;&lt;em&gt;"We have no plans to plan or respond with separate measures targeting specific media outlets."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 질문에 대응할 거예요.&lt;br/&gt;&lt;em&gt;I will respond to the question.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 상황에 대응할 수 있어요.&lt;br/&gt;&lt;em&gt;He can respond to the situation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 19 Mar 2026 10:12:52 +0900</pubDate><guid isPermaLink="false">vocab-3db136f4ce38be40d2f9ff4225295a94497f8d21</guid><enclosure url="https://images.unsplash.com/photo-1604261297214-39fbeb15c7f5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJlc3BvbmR8ZW58MHx8fHwxNzczODgyNzYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="311544" /><ns2:content url="https://images.unsplash.com/photo-1604261297214-39fbeb15c7f5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJlc3BvbmR8ZW58MHx8fHwxNzczODgyNzYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1604261297214-39fbeb15c7f5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJlc3BvbmR8ZW58MHx8fHwxNzczODgyNzYzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>대응할</category></item><item><title>개그맨 – comedian</title><link>urn:urn:vocab:개그맨</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1607805074620-5802aee47bdb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21lZGlhbnxlbnwwfHx8fDE3NzM4NzQ5NDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개그맨 (comedian)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(개그맨 장동민(47)씨가 이재명 대통령이 주재한 자본시장 간담회에 개인 투자자 자격으로 참석해 정부의 정책 신뢰도가 높아지면 좋겠다고 건의했다&lt;br/&gt;&lt;em&gt;Comedian Jang Dong-min (47) attended a capital market meeting presided over by President Lee Jae-myung as a private investor and suggested that it would be good if the government's policy credibility increases.&lt;/em&gt;&lt;/p&gt;
