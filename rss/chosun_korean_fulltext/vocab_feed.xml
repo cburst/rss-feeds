@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 23:01:21 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 01:10:22 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,25 @@
 
 
 
-  <item><title>대신에 – instead of</title><link>urn:urn:vocab:대신에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>비정규직 – non-regular worker</title><link>urn:urn:vocab:비정규직</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이 대통령은 이날 청와대에서 열린 경제사회노동위원회 1기 출범 노동정책 토론회에 참석해 정규직과 비정규직 등 ‘노동시장의 이중구조’ 문제를 지적하며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;(President Lee attended the inaugural labor policy discussion of the Economic, Social, and Labor Committee held at the Blue House that day and pointed out the problem of the 'dual structure of the labor market,' such as regular and irregular workers, and stated this.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “기업 입장에서는 정규직으로 뽑아 놓으면 그 다음부터는 꼼짝 못 하고 어떤 상황이 돼도 유연하게 대응하기 어려운 상황을 겪게 되니까 아예 정규직으로 아예 안 뽑는다”며 “(그래서) 최대한 하청을 주고 외주 발주하고 비정규직으로 고용하는 방식을 취하게 된다”고 했다&lt;br/&gt;&lt;em&gt;" (President Lee said, "From the company's perspective, if they hire someone as a regular employee, they can't move afterward and face difficulties in responding flexibly to any situation, so they don't hire them as regular employees at all," and "(Therefore) they take the method of subcontracting as much as possible, outsourcing, and hiring irregular workers.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비정규직이 일을 합니다.&lt;br/&gt;&lt;em&gt;An irregular worker does the job.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비정규직이 많아졌어요.&lt;br/&gt;&lt;em&gt;The number of irregular workers has increased.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이 대통령은 이날 청와대에서 열린 경제사회노동위원회 1기 출범 노동정책 토론회에 참석해 정규직과 비정규직 등 ‘노동시장의 이중구조’ 문제를 지적하며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;(President Lee attended the inaugural labor policy discussion of the Economic, Social, and Labor Committee held at the Blue House that day and pointed out the problem of the 'dual structure of the labor market,' such as regular and irregular workers, and stated this.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “기업 입장에서는 정규직으로 뽑아 놓으면 그 다음부터는 꼼짝 못 하고 어떤 상황이 돼도 유연하게 대응하기 어려운 상황을 겪게 되니까 아예 정규직으로 아예 안 뽑는다”며 “(그래서) 최대한 하청을 주고 외주 발주하고 비정규직으로 고용하는 방식을 취하게 된다”고 했다&lt;br/&gt;&lt;em&gt;" (President Lee said, "From the company's perspective, if they hire someone as a regular employee, they can't move afterward and face difficulties in responding flexibly to any situation, so they don't hire them as regular employees at all," and "(Therefore) they take the method of subcontracting as much as possible, outsourcing, and hiring irregular workers.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비정규직이 일을 합니다.&lt;br/&gt;&lt;em&gt;An irregular worker does the job.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비정규직이 많아졌어요.&lt;br/&gt;&lt;em&gt;The number of irregular workers has increased.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 20 Mar 2026 01:10:22 +0900</pubDate><guid isPermaLink="false">vocab-03cbf11ef43d5892a677808ff434e184ff670fd7</guid><category>비정규직</category></item><item><title>대신에 – instead of</title><link>urn:urn:vocab:대신에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1650281385807-816bf3bfcf10?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnN0ZWFkJTIwb2Z8ZW58MHx8fHwxNzczOTI4ODc0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대신에 (instead of)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이재명 대통령은 19일 “고용 유연성을 확보하는 대신에, 사회안전망을 튼튼하게 갖추고 안정적인 정규직 일자리를 늘리는 방향으로 갈 수 있을 것”이라고 말했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung said on the 19th, "We can move in the direction of securing employment flexibility while strengthening the social safety net and increasing stable regular jobs."&lt;/em&gt;&lt;/p&gt;
