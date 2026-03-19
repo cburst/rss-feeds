@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 16:36:35 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 18:45:35 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>큽니다 – is big</title><link>urn:urn:vocab:큽니다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사과드린다 – apologize</title><link>urn:urn:vocab:사과드린다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1660922771242-c598e0808188?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcG9sb2dpemV8ZW58MHx8fHwxNzczOTEzNTI1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사과드린다 (apologize)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (그러자 다음날 정 대표도 자신의 페이스북에 “유 작가님의 사과를 기쁘게 받아들이며, 저 또한 두 배로 사과드린다”며 “그동안 미안하고 죄송했다”고 했다&lt;br/&gt;&lt;em&gt;Then, the next day, CEO Jeong also posted on his Facebook, saying, 'I gladly accept writer Yoo's apology, and I also apologize twice as much,' adding, 'I have been sorry and apologetic all this time.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;유 전 이사장이 먼저 한 유튜브 방송에서 “그때 내가 잘못했다”고 사과하자, 정 대표가 “두 배로 사과드린다”고 답했다&lt;br/&gt;&lt;em&gt;After former director Yoo first apologized in a YouTube broadcast, saying, 'I was wrong at that time,' CEO Jeong responded, 'I apologize twice as much.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;받고 두 배로 사과드린다”고 했다&lt;br/&gt;&lt;em&gt;He said, 'I accept and apologize twice as much.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 실수를 사과드린다.&lt;br/&gt;&lt;em&gt;I apologize for my mistake.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 친구에게 사과드린다.&lt;br/&gt;&lt;em&gt;He apologizes to his friend.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1660922771242-c598e0808188?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcG9sb2dpemV8ZW58MHx8fHwxNzczOTEzNTI1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사과드린다 (apologize)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (그러자 다음날 정 대표도 자신의 페이스북에 “유 작가님의 사과를 기쁘게 받아들이며, 저 또한 두 배로 사과드린다”며 “그동안 미안하고 죄송했다”고 했다&lt;br/&gt;&lt;em&gt;Then, the next day, CEO Jeong also posted on his Facebook, saying, 'I gladly accept writer Yoo's apology, and I also apologize twice as much,' adding, 'I have been sorry and apologetic all this time.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;유 전 이사장이 먼저 한 유튜브 방송에서 “그때 내가 잘못했다”고 사과하자, 정 대표가 “두 배로 사과드린다”고 답했다&lt;br/&gt;&lt;em&gt;After former director Yoo first apologized in a YouTube broadcast, saying, 'I was wrong at that time,' CEO Jeong responded, 'I apologize twice as much.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;받고 두 배로 사과드린다”고 했다&lt;br/&gt;&lt;em&gt;He said, 'I accept and apologize twice as much.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 실수를 사과드린다.&lt;br/&gt;&lt;em&gt;I apologize for my mistake.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 친구에게 사과드린다.&lt;br/&gt;&lt;em&gt;He apologizes to his friend.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 19 Mar 2026 18:45:35 +0900</pubDate><guid isPermaLink="false">vocab-f98ce3fd001565ef723778d532e74e6291053595</guid><enclosure url="https://images.unsplash.com/photo-1660922771242-c598e0808188?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcG9sb2dpemV8ZW58MHx8fHwxNzczOTEzNTI1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="247064" /><ns2:content url="https://images.unsplash.com/photo-1660922771242-c598e0808188?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcG9sb2dpemV8ZW58MHx8fHwxNzczOTEzNTI1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1660922771242-c598e0808188?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcG9sb2dpemV8ZW58MHx8fHwxNzczOTEzNTI1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사과드린다</category></item><item><title>큽니다 – is big</title><link>urn:urn:vocab:큽니다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1558522190-88c589f56171?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGJpZ3xlbnwwfHx8fDE3NzM5MDU3ODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="큽니다 (is big)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이 문제를 계속 끌고 가기보다는 빨리 털고 가는 것이 정치적으로 유리하다고 판단했을 가능성이 큽니다&lt;br/&gt;&lt;em&gt;It is highly likely that they judged it politically advantageous to quickly move on rather than dragging this issue out further.&lt;/em&gt;&lt;/p&gt;
