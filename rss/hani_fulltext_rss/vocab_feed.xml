@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 16:43:12 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 18:49:28 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>인생의 – of life</title><link>urn:urn:vocab:인생의</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>불안이 – anxiety</title><link>urn:urn:vocab:불안이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1618616191524-a9721186cbe4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnhpZXR5fGVufDB8fHx8MTc3NDAwMDE1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불안이 (anxiety)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(최근 미국의 사모대출 시장 불안이 점차 고조되는 가운데 고금리·고유가 여건과 초기 불안 징후 등에서 2008년 글로벌 금융위기 직전 서브프라임 모기지 사태 당시와 유사하다는 분석이 나온다&lt;br/&gt;&lt;em&gt;(Amid growing instability in the U.S. private loan market, analysis suggests that the current conditions of high interest rates and high oil prices, along with early signs of instability, resemble those just before the 2008 global financial crisis during the subprime mortgage crisis.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  국금센터는 “금융위기 때는 기저에 주택시장 버블이 있었던 반면, 최근 사모대출 환매는 인공지능(AI) 혁신에 따라 사모대출 주요 차주(작년 미국 신규 사모대출 발행의 20%를 차지하는 소프트웨어·기술 기업)의 사업모델이 위축될 거라는 불안이 촉발했다”며 “이번 불안이 시장의 구조적 문제인지 개별 기업의 부실 문제인지 아직 확인되지 않았다는 점에서 금융위기 때와 다르다”고 지적했다&lt;br/&gt;&lt;em&gt;(The National Financial Center pointed out, "During the financial crisis, there was a housing market bubble underlying it, whereas recent private loan redemptions were triggered by fears that the business models of major private loan borrowers (software and technology companies, which accounted for 20% of new U.S. private loan issuances last year) would shrink due to AI innovation. This instability differs from the financial crisis in that it is not yet clear whether it is a structural market issue or a problem with individual companies' insolvency.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(최근 중동 지역의 긴장이 고조되면서 고유가와 물류 불안이 확산되자, 정부가 농업 분야의 충격을 최소화하기 위한 대응에 나섰다&lt;br/&gt;&lt;em&gt;(As tensions in the Middle East have recently escalated, spreading high oil prices and logistics instability, the government has taken measures to minimize the impact on the agricultural sector.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;불안이 커요.&lt;br/&gt;&lt;em&gt;I feel anxious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;불안이 사라졌어요.&lt;br/&gt;&lt;em&gt;The anxiety has disappeared.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1618616191524-a9721186cbe4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnhpZXR5fGVufDB8fHx8MTc3NDAwMDE1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불안이 (anxiety)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(최근 미국의 사모대출 시장 불안이 점차 고조되는 가운데 고금리·고유가 여건과 초기 불안 징후 등에서 2008년 글로벌 금융위기 직전 서브프라임 모기지 사태 당시와 유사하다는 분석이 나온다&lt;br/&gt;&lt;em&gt;(Amid growing instability in the U.S. private loan market, analysis suggests that the current conditions of high interest rates and high oil prices, along with early signs of instability, resemble those just before the 2008 global financial crisis during the subprime mortgage crisis.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  국금센터는 “금융위기 때는 기저에 주택시장 버블이 있었던 반면, 최근 사모대출 환매는 인공지능(AI) 혁신에 따라 사모대출 주요 차주(작년 미국 신규 사모대출 발행의 20%를 차지하는 소프트웨어·기술 기업)의 사업모델이 위축될 거라는 불안이 촉발했다”며 “이번 불안이 시장의 구조적 문제인지 개별 기업의 부실 문제인지 아직 확인되지 않았다는 점에서 금융위기 때와 다르다”고 지적했다&lt;br/&gt;&lt;em&gt;(The National Financial Center pointed out, "During the financial crisis, there was a housing market bubble underlying it, whereas recent private loan redemptions were triggered by fears that the business models of major private loan borrowers (software and technology companies, which accounted for 20% of new U.S. private loan issuances last year) would shrink due to AI innovation. This instability differs from the financial crisis in that it is not yet clear whether it is a structural market issue or a problem with individual companies' insolvency.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(최근 중동 지역의 긴장이 고조되면서 고유가와 물류 불안이 확산되자, 정부가 농업 분야의 충격을 최소화하기 위한 대응에 나섰다&lt;br/&gt;&lt;em&gt;(As tensions in the Middle East have recently escalated, spreading high oil prices and logistics instability, the government has taken measures to minimize the impact on the agricultural sector.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;불안이 커요.&lt;br/&gt;&lt;em&gt;I feel anxious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;불안이 사라졌어요.&lt;br/&gt;&lt;em&gt;The anxiety has disappeared.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 20 Mar 2026 18:49:28 +0900</pubDate><guid isPermaLink="false">vocab-efb912c15e9e88488c92ee3d19aa1b3aaf62724b</guid><enclosure url="https://images.unsplash.com/photo-1618616191524-a9721186cbe4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnhpZXR5fGVufDB8fHx8MTc3NDAwMDE1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="36880" /><ns2:content url="https://images.unsplash.com/photo-1618616191524-a9721186cbe4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnhpZXR5fGVufDB8fHx8MTc3NDAwMDE1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1618616191524-a9721186cbe4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnhpZXR5fGVufDB8fHx8MTc3NDAwMDE1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>불안이</category></item><item><title>인생의 – of life</title><link>urn:urn:vocab:인생의</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1772909654696-3fa1331eb948?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMGxpZmV8ZW58MHx8fHwxNzczOTkyNTc3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인생의 (of life)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;결혼·이혼·상속이라는 인생의 전환점에서 세금이 어떻게 등장하고 어떤 구조로 작동하는지를 사례 중심으로 설명한다&lt;br/&gt;&lt;em&gt;It explains through case studies how taxes emerge and operate in life's turning points such as marriage, divorce, and inheritance.&lt;/em&gt;&lt;/p&gt;
