@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 23:34:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 01:54:06 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>생활관 – dormitory</title><link>urn:urn:vocab:생활관</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>설명회 – explanation session</title><link>urn:urn:vocab:설명회</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758876201697-900bf5868575?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBsYW5hdGlvbiUyMHNlc3Npb258ZW58MHx8fHwxNzc0MDI1NjM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="설명회 (explanation session)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Hanyang University to Hold Nationwide Tour of 'First Half 2027 Academic Year Admissions Briefing Sessions' (한양대, ‘2027학년도 상반기 입시 설명회’ 전국 순회 개최) &lt;&lt;br/&gt;&lt;em&gt;Hanyang University to Hold Nationwide Tour of 'First Half 2027 Academic Year Admissions Briefing Sessions'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Hanyang University to Hold Nationwide Tour of 'First Half 2027 Academic Year Admissions Briefing Sessions' (한양대, ‘2027학년도 상반기 입시 설명회’ 전국 순회 개최)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Hanyang University to Hold Nationwide Tour of 'First Half 2027 Academic Year Admissions Briefing Sessions'&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(한양대학교(총장 이기정)가 2027학년도 대입을 준비하는 수험생과 학부모, 고교 진학 담당 교사를 위해 오는 4월 23일부터 5월 16일까지 전국 6개 도시에서 상반기 입시 설명회를 순회 개최한다고 밝혔다&lt;br/&gt;&lt;em&gt;Hanyang University (President Ki-Jung Lee) announced that it will hold a nationwide tour of admissions briefing sessions for the first half of the 2027 academic year from April 23 to May 16 in six cities across the country, targeting prospective students preparing for the 2027 college entrance exam, their parents, and high school guidance counselors.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;설명회에 갔어요.&lt;br/&gt;&lt;em&gt;I went to the information session.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;설명회가 있어요.&lt;br/&gt;&lt;em&gt;There is an information session.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758876201697-900bf5868575?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBsYW5hdGlvbiUyMHNlc3Npb258ZW58MHx8fHwxNzc0MDI1NjM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="설명회 (explanation session)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Hanyang University to Hold Nationwide Tour of 'First Half 2027 Academic Year Admissions Briefing Sessions' (한양대, ‘2027학년도 상반기 입시 설명회’ 전국 순회 개최) &lt;&lt;br/&gt;&lt;em&gt;Hanyang University to Hold Nationwide Tour of 'First Half 2027 Academic Year Admissions Briefing Sessions'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Hanyang University to Hold Nationwide Tour of 'First Half 2027 Academic Year Admissions Briefing Sessions' (한양대, ‘2027학년도 상반기 입시 설명회’ 전국 순회 개최)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Hanyang University to Hold Nationwide Tour of 'First Half 2027 Academic Year Admissions Briefing Sessions'&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(한양대학교(총장 이기정)가 2027학년도 대입을 준비하는 수험생과 학부모, 고교 진학 담당 교사를 위해 오는 4월 23일부터 5월 16일까지 전국 6개 도시에서 상반기 입시 설명회를 순회 개최한다고 밝혔다&lt;br/&gt;&lt;em&gt;Hanyang University (President Ki-Jung Lee) announced that it will hold a nationwide tour of admissions briefing sessions for the first half of the 2027 academic year from April 23 to May 16 in six cities across the country, targeting prospective students preparing for the 2027 college entrance exam, their parents, and high school guidance counselors.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;설명회에 갔어요.&lt;br/&gt;&lt;em&gt;I went to the information session.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;설명회가 있어요.&lt;br/&gt;&lt;em&gt;There is an information session.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 21 Mar 2026 01:54:06 +0900</pubDate><guid isPermaLink="false">vocab-f6ab3d1a7c5779bbd97807bda64d3f3feb55de7d</guid><enclosure url="https://images.unsplash.com/photo-1758876201697-900bf5868575?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBsYW5hdGlvbiUyMHNlc3Npb258ZW58MHx8fHwxNzc0MDI1NjM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="66248" /><ns2:content url="https://images.unsplash.com/photo-1758876201697-900bf5868575?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBsYW5hdGlvbiUyMHNlc3Npb258ZW58MHx8fHwxNzc0MDI1NjM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1758876201697-900bf5868575?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBsYW5hdGlvbiUyMHNlc3Npb258ZW58MHx8fHwxNzc0MDI1NjM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>설명회</category></item><item><title>생활관 – dormitory</title><link>urn:urn:vocab:생활관</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1571474039046-42bc4e7f4b98?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3JtaXRvcnl8ZW58MHx8fHwxNzc0MDE3MjMyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생활관 (dormitory)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Seoul National University of Science and Technology Dormitory Opens 'Global Shared Kitchen' (서울과학기술대학교 생활관 ‘글로벌 공용주방’ 개소) &lt;&lt;br/&gt;&lt;em&gt;Seoul National University of Science and Technology Dormitory Opens 'Global Shared Kitchen'&lt;/em&gt;&lt;/p&gt;
