@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 21:25:41 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 23:34:14 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,25 @@
 
 
 
-  <item><title>경영자 – manager</title><link>urn:urn:vocab:경영자</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>지지도 – approval rating</title><link>urn:urn:vocab:지지도</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한국갤럽이 지난 17∼19일 전국 성인 남녀 1004명을 대상으로 조사한 정당 지지도 조사에서 더불어민주당 46%, 국민의힘은 20%를 각각 기록했다&lt;br/&gt;&lt;em&gt;In a party support survey conducted by Gallup Korea from the 17th to the 19th, targeting 1,004 adult men and women nationwide, the Democratic Party recorded 46% and the People Power Party recorded 20% respectively.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이날 장 대표가 연설한 부산·울산·경남 지역의 정당 지지도 또한 민주당 40%, 국민의힘은 25%로 나타났다&lt;br/&gt;&lt;em&gt;On that day, the party support in the Busan, Ulsan, and Gyeongnam regions where Representative Jang gave a speech also showed the Democratic Party at 40% and the People Power Party at 25%.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지지도가 높아요.&lt;br/&gt;&lt;em&gt;The approval rating is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지지도가 떨어졌어요.&lt;br/&gt;&lt;em&gt;The approval rating has dropped.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한국갤럽이 지난 17∼19일 전국 성인 남녀 1004명을 대상으로 조사한 정당 지지도 조사에서 더불어민주당 46%, 국민의힘은 20%를 각각 기록했다&lt;br/&gt;&lt;em&gt;In a party support survey conducted by Gallup Korea from the 17th to the 19th, targeting 1,004 adult men and women nationwide, the Democratic Party recorded 46% and the People Power Party recorded 20% respectively.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이날 장 대표가 연설한 부산·울산·경남 지역의 정당 지지도 또한 민주당 40%, 국민의힘은 25%로 나타났다&lt;br/&gt;&lt;em&gt;On that day, the party support in the Busan, Ulsan, and Gyeongnam regions where Representative Jang gave a speech also showed the Democratic Party at 40% and the People Power Party at 25%.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지지도가 높아요.&lt;br/&gt;&lt;em&gt;The approval rating is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지지도가 떨어졌어요.&lt;br/&gt;&lt;em&gt;The approval rating has dropped.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 20 Mar 2026 23:34:14 +0900</pubDate><guid isPermaLink="false">vocab-6385abf0cfb00f49bed77cb69eaa7980ff71e2ee</guid><category>지지도</category></item><item><title>경영자 – manager</title><link>urn:urn:vocab:경영자</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713946598467-fcf9332c56ea?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYW5hZ2VyfGVufDB8fHx8MTc3NDAwOTUzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경영자 (manager)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이 대통령은 이날 청와대에서 주재한 ‘중소기업인과의 대화 - 대한민국 99%의 도약을 위하여’ 간담회에서 “중소기업 경영자 입장에서는 노동도 관심사일 텐데, 저 역시 노동자 출신”이라며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;President Lee stated this during a meeting titled 'Dialogue with Small and Medium Business Owners - For the Leap of 99% of Korea' held at the Blue House, saying, "From the perspective of small and medium business managers, labor is likely a concern, and I too come from a labor background."&lt;/em&gt;&lt;/p&gt;
