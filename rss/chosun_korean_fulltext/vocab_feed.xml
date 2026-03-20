@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 18:49:41 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 21:25:41 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>불러요 – call</title><link>urn:urn:vocab:불러요</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>경영자 – manager</title><link>urn:urn:vocab:경영자</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713946598467-fcf9332c56ea?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYW5hZ2VyfGVufDB8fHx8MTc3NDAwOTUzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경영자 (manager)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이 대통령은 이날 청와대에서 주재한 ‘중소기업인과의 대화 - 대한민국 99%의 도약을 위하여’ 간담회에서 “중소기업 경영자 입장에서는 노동도 관심사일 텐데, 저 역시 노동자 출신”이라며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;President Lee stated this during a meeting titled 'Dialogue with Small and Medium Business Owners - For the Leap of 99% of Korea' held at the Blue House, saying, "From the perspective of small and medium business managers, labor is likely a concern, and I too come from a labor background."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 “노동자는 노동자의 몫을 정당하게 주장하고, 기업은 경영자 입장에서 할 얘기를 하면서 합리적으로 이해관계 조정이 이뤄지면 좋겠다”고 말했다&lt;br/&gt;&lt;em&gt;He added, "I hope that workers can rightfully claim their share, and businesses can speak from a managerial perspective, leading to a reasonable adjustment of interests."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;한투증권, 기업 경영자 대상 ‘GWM 오너스 포럼’ 5기 출범&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Hantoo Securities launches the 5th 'GWM Owners Forum' for corporate managers&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경영자가 회의를 합니다.&lt;br/&gt;&lt;em&gt;The manager is having a meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 좋은 경영자입니다.&lt;br/&gt;&lt;em&gt;He is a good manager.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713946598467-fcf9332c56ea?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYW5hZ2VyfGVufDB8fHx8MTc3NDAwOTUzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경영자 (manager)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이 대통령은 이날 청와대에서 주재한 ‘중소기업인과의 대화 - 대한민국 99%의 도약을 위하여’ 간담회에서 “중소기업 경영자 입장에서는 노동도 관심사일 텐데, 저 역시 노동자 출신”이라며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;President Lee stated this during a meeting titled 'Dialogue with Small and Medium Business Owners - For the Leap of 99% of Korea' held at the Blue House, saying, "From the perspective of small and medium business managers, labor is likely a concern, and I too come from a labor background."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 “노동자는 노동자의 몫을 정당하게 주장하고, 기업은 경영자 입장에서 할 얘기를 하면서 합리적으로 이해관계 조정이 이뤄지면 좋겠다”고 말했다&lt;br/&gt;&lt;em&gt;He added, "I hope that workers can rightfully claim their share, and businesses can speak from a managerial perspective, leading to a reasonable adjustment of interests."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;한투증권, 기업 경영자 대상 ‘GWM 오너스 포럼’ 5기 출범&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Hantoo Securities launches the 5th 'GWM Owners Forum' for corporate managers&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경영자가 회의를 합니다.&lt;br/&gt;&lt;em&gt;The manager is having a meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 좋은 경영자입니다.&lt;br/&gt;&lt;em&gt;He is a good manager.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 20 Mar 2026 21:25:41 +0900</pubDate><guid isPermaLink="false">vocab-d049a4df75b97fe804202c9ba6eba01577d9a646</guid><enclosure url="https://images.unsplash.com/photo-1713946598467-fcf9332c56ea?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYW5hZ2VyfGVufDB8fHx8MTc3NDAwOTUzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="89682" /><ns2:content url="https://images.unsplash.com/photo-1713946598467-fcf9332c56ea?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYW5hZ2VyfGVufDB8fHx8MTc3NDAwOTUzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1713946598467-fcf9332c56ea?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYW5hZ2VyfGVufDB8fHx8MTc3NDAwOTUzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>경영자</category></item><item><title>불러요 – call</title><link>urn:urn:vocab:불러요</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1523966211575-eb4a01e7dd51?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYWxsfGVufDB8fHx8MTc3NDAwMDE3MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불러요 (call)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" Investigation committee stalls from the very first day (서영교 “너경원이라 불러요&lt;br/&gt;&lt;em&gt;"Investigation committee stalls from the very first day (Seo Yeong-gyo says, "They call it the 'You Committee'")&lt;/em&gt;&lt;/p&gt;
