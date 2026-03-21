@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 01:54:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 11:12:29 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>설명회 – explanation session</title><link>urn:urn:vocab:설명회</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>알고싶다 – to want to know</title><link>urn:urn:vocab:알고싶다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1754009130434-a05689115866?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHdhbnQlMjB0byUyMGtub3d8ZW58MHx8fHwxNzc0MDU5MTM5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="알고싶다 (to want to know)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (신인규 변호사는 20일 페이스북에 올린 공식 사과문에서 “2021년 대선 기간 동안 에스비에스(SBS) ‘그것이 알고싶다’(그알)의 조폭연루설 방송 내용을 충분히 검증하지 않은 채, 국민의힘 대변인으로서 당시 이재명 후보님에 대한 잘못된 논평을 발표했다”며 “이것은 명백한 잘못이다&lt;br/&gt;&lt;em&gt;"In an official apology posted on Facebook on the 20th, lawyer Shin In-gyu stated, 'During the 2021 presidential election period, as a spokesperson for the People Power Party, I made erroneous comments about candidate Lee Jae-myung at the time without sufficiently verifying the broadcast content of SBS's 'I Want to Know That' regarding allegations of gang involvement. This is a clear mistake.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령이 20일 ‘이재명-조폭 연루설’을 처음 제기했던 에스비에스(SBS) 대표 시사프로그램 ‘그것이 알고싶다’를 “조작 방송”이라고 직격하며 반성과 사과를 요구하자, 청와대 내부에서는 ‘그렇게 놀랄 일은 아니다’라는 반응이 나왔다&lt;br/&gt;&lt;em&gt;"When President Lee on the 20th directly criticized SBS's representative current affairs program 'I Want to Know That,' which first raised the 'Lee Jae-myung-gang involvement allegations,' as a 'manipulated broadcast' and demanded reflection and apology, reactions within the Blue House emerged saying, 'It's not that surprising.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;청와대 관계자는 “2018년 ‘그것이 알고싶다’가 이 대통령이 조폭과 연루됐다고 (처음) 낙인 찍은 것 아니냐”고 했다&lt;br/&gt;&lt;em&gt;A Blue House official said, 'Didn't 'I Want to Know That' in 2018 first label President Lee as being involved with gangs?'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 그 답을 알고싶다.&lt;br/&gt;&lt;em&gt;I want to know the answer.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;너는 무엇을 알고싶다?&lt;br/&gt;&lt;em&gt;What do you want to know?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1754009130434-a05689115866?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHdhbnQlMjB0byUyMGtub3d8ZW58MHx8fHwxNzc0MDU5MTM5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="알고싶다 (to want to know)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (신인규 변호사는 20일 페이스북에 올린 공식 사과문에서 “2021년 대선 기간 동안 에스비에스(SBS) ‘그것이 알고싶다’(그알)의 조폭연루설 방송 내용을 충분히 검증하지 않은 채, 국민의힘 대변인으로서 당시 이재명 후보님에 대한 잘못된 논평을 발표했다”며 “이것은 명백한 잘못이다&lt;br/&gt;&lt;em&gt;"In an official apology posted on Facebook on the 20th, lawyer Shin In-gyu stated, 'During the 2021 presidential election period, as a spokesperson for the People Power Party, I made erroneous comments about candidate Lee Jae-myung at the time without sufficiently verifying the broadcast content of SBS's 'I Want to Know That' regarding allegations of gang involvement. This is a clear mistake.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령이 20일 ‘이재명-조폭 연루설’을 처음 제기했던 에스비에스(SBS) 대표 시사프로그램 ‘그것이 알고싶다’를 “조작 방송”이라고 직격하며 반성과 사과를 요구하자, 청와대 내부에서는 ‘그렇게 놀랄 일은 아니다’라는 반응이 나왔다&lt;br/&gt;&lt;em&gt;"When President Lee on the 20th directly criticized SBS's representative current affairs program 'I Want to Know That,' which first raised the 'Lee Jae-myung-gang involvement allegations,' as a 'manipulated broadcast' and demanded reflection and apology, reactions within the Blue House emerged saying, 'It's not that surprising.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;청와대 관계자는 “2018년 ‘그것이 알고싶다’가 이 대통령이 조폭과 연루됐다고 (처음) 낙인 찍은 것 아니냐”고 했다&lt;br/&gt;&lt;em&gt;A Blue House official said, 'Didn't 'I Want to Know That' in 2018 first label President Lee as being involved with gangs?'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 그 답을 알고싶다.&lt;br/&gt;&lt;em&gt;I want to know the answer.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;너는 무엇을 알고싶다?&lt;br/&gt;&lt;em&gt;What do you want to know?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 21 Mar 2026 11:12:29 +0900</pubDate><guid isPermaLink="false">vocab-2080edd9cacacdf4d19b24b0893925b77dd44b66</guid><enclosure url="https://images.unsplash.com/photo-1754009130434-a05689115866?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHdhbnQlMjB0byUyMGtub3d8ZW58MHx8fHwxNzc0MDU5MTM5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="164968" /><ns2:content url="https://images.unsplash.com/photo-1754009130434-a05689115866?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHdhbnQlMjB0byUyMGtub3d8ZW58MHx8fHwxNzc0MDU5MTM5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1754009130434-a05689115866?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHdhbnQlMjB0byUyMGtub3d8ZW58MHx8fHwxNzc0MDU5MTM5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>알고싶다</category></item><item><title>설명회 – explanation session</title><link>urn:urn:vocab:설명회</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758876201697-900bf5868575?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBsYW5hdGlvbiUyMHNlc3Npb258ZW58MHx8fHwxNzc0MDI1NjM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="설명회 (explanation session)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Hanyang University to Hold Nationwide Tour of 'First Half 2027 Academic Year Admissions Briefing Sessions' (한양대, ‘2027학년도 상반기 입시 설명회’ 전국 순회 개최) &lt;&lt;br/&gt;&lt;em&gt;Hanyang University to Hold Nationwide Tour of 'First Half 2027 Academic Year Admissions Briefing Sessions'&lt;/em&gt;&lt;/p&gt;
