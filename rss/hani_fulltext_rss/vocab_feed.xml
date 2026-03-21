@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 13:40:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 15:46:07 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>가치기반 – value-based</title><link>urn:urn:vocab:가치기반</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>이상 – above, more than, ideal</title><link>urn:urn:vocab:이상</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604840699826-9d683cada62e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYm92ZSUyQyUyMG1vcmUlMjB0aGFuJTJDJTIwaWRlYWx8ZW58MHx8fHwxNzc0MDc1NTU4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이상 (above, more than, ideal)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(20일 원-달러 환율이 17년 만에 최고치를 돌파했던 전날보다 10원 이상 내린 1480원대에 거래되고 있다&lt;br/&gt;&lt;em&gt;(The won-dollar exchange rate is trading in the 1,480 won range, down more than 10 won from the previous day when it hit a 17-year high)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 “중동 상황 영향 최소화를 위해 민생안정·경제회복을 위한 추가경정예산(추경)을 신속히 편성하겠다”며 “관계기관 합동 비상대응반 중심으로 각 부문을 24시간 모니터링하면서 이상징후 발생 시 신속 대응하겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;At the same time, he said, "We will quickly prepare an additional supplementary budget for stabilizing people's livelihoods and economic recovery to minimize the impact of the Middle East situation," adding, "We will monitor each sector 24 hours a day through a joint emergency response team of related agencies and respond promptly if any abnormal signs occur."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;올해 원금상환이 도래하고 원부자재·상품 수입 비중이 매출액의 20% 이상이거나 중동국가에 수출하는 기업이어야 한다&lt;br/&gt;&lt;em&gt;Companies must have principal repayments due this year, have raw materials and commodity imports accounting for more than 20% of sales, or export to Middle Eastern countries.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이상 이상한 일이 없어요.&lt;br/&gt;&lt;em&gt;There is nothing strange.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이상 이상한 사람이에요.&lt;br/&gt;&lt;em&gt;He/She is a strange person.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604840699826-9d683cada62e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYm92ZSUyQyUyMG1vcmUlMjB0aGFuJTJDJTIwaWRlYWx8ZW58MHx8fHwxNzc0MDc1NTU4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이상 (above, more than, ideal)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(20일 원-달러 환율이 17년 만에 최고치를 돌파했던 전날보다 10원 이상 내린 1480원대에 거래되고 있다&lt;br/&gt;&lt;em&gt;(The won-dollar exchange rate is trading in the 1,480 won range, down more than 10 won from the previous day when it hit a 17-year high)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 “중동 상황 영향 최소화를 위해 민생안정·경제회복을 위한 추가경정예산(추경)을 신속히 편성하겠다”며 “관계기관 합동 비상대응반 중심으로 각 부문을 24시간 모니터링하면서 이상징후 발생 시 신속 대응하겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;At the same time, he said, "We will quickly prepare an additional supplementary budget for stabilizing people's livelihoods and economic recovery to minimize the impact of the Middle East situation," adding, "We will monitor each sector 24 hours a day through a joint emergency response team of related agencies and respond promptly if any abnormal signs occur."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;올해 원금상환이 도래하고 원부자재·상품 수입 비중이 매출액의 20% 이상이거나 중동국가에 수출하는 기업이어야 한다&lt;br/&gt;&lt;em&gt;Companies must have principal repayments due this year, have raw materials and commodity imports accounting for more than 20% of sales, or export to Middle Eastern countries.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이상 이상한 일이 없어요.&lt;br/&gt;&lt;em&gt;There is nothing strange.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이상 이상한 사람이에요.&lt;br/&gt;&lt;em&gt;He/She is a strange person.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 21 Mar 2026 15:46:07 +0900</pubDate><guid isPermaLink="false">vocab-61fc665b0ffa8b327433d7cb56ea8a49a0a8589f</guid><enclosure url="https://images.unsplash.com/photo-1604840699826-9d683cada62e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYm92ZSUyQyUyMG1vcmUlMjB0aGFuJTJDJTIwaWRlYWx8ZW58MHx8fHwxNzc0MDc1NTU4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="67873" /><ns2:content url="https://images.unsplash.com/photo-1604840699826-9d683cada62e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYm92ZSUyQyUyMG1vcmUlMjB0aGFuJTJDJTIwaWRlYWx8ZW58MHx8fHwxNzc0MDc1NTU4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1604840699826-9d683cada62e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYm92ZSUyQyUyMG1vcmUlMjB0aGFuJTJDJTIwaWRlYWx8ZW58MHx8fHwxNzc0MDc1NTU4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>이상</category></item><item><title>가치기반 – value-based</title><link>urn:urn:vocab:가치기반</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1761118993935-0d1f4366fd2f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2YWx1ZS1iYXNlZHxlbnwwfHx8fDE3NzQwNjc5OTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가치기반 (value-based)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;가치기반 금융협동조합 설립 선언) &lt;&lt;br/&gt;&lt;em&gt;Declaration of Establishment of Value-Based Financial Cooperative) &lt;&lt;/em&gt;&lt;/p&gt;
