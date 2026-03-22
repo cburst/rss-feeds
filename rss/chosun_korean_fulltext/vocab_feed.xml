@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 05:22:33 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 07:26:34 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>최소화 – minimize</title><link>urn:urn:vocab:최소화</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>고물가 – high inflation</title><link>urn:urn:vocab:고물가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1762463176312-1757d5125c85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwaW5mbGF0aW9ufGVufDB8fHx8MTc3NDIxODM4Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고물가 (high inflation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김민석 국무총리는 “고유가·고환율·고물가의 삼각 파도에 선제적·구조적 대응이 필요하다”며 “민생 방어와 경기 안정을 위한 신속한 방파제 추경은 선택이 아닌 필수”라고 주장했다&lt;br/&gt;&lt;em&gt;Prime Minister Kim Min-seok argued, "Preemptive and structural responses are necessary against the triple wave of high oil prices, high exchange rates, and high inflation," and stated, "A swift supplementary budget as a breakwater for defending people's livelihoods and stabilizing the economy is not an option but a necessity."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 회의에서 김민석 국무총리는 “중동의 긴장이 에너지·물류·금융을 통해 우리 경제 심장부까지 밀려왔다”며 “고유가·고환율·고물가의 삼각 파도에 선제적·구조적 대응이 필요하다”고 했다&lt;br/&gt;&lt;em&gt;At the meeting that day, Prime Minister Kim Min-seok said, "Tensions in the Middle East have pushed into the heart of our economy through energy, logistics, and finance," and added, "Preemptive and structural responses are needed against the triple wave of high oil prices, high exchange rates, and high inflation."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;고물가·고환율 앞에 선 신현송…“중앙은행, 적극적으로 대응해야”&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Shin Hyun-sung facing high inflation and high exchange rates... "The central bank must respond proactively."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;고물가가 걱정돼요.&lt;br/&gt;&lt;em&gt;I'm worried about high prices.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고물가 때문에 힘들어요.&lt;br/&gt;&lt;em&gt;It's tough because of high prices.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1762463176312-1757d5125c85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwaW5mbGF0aW9ufGVufDB8fHx8MTc3NDIxODM4Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고물가 (high inflation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김민석 국무총리는 “고유가·고환율·고물가의 삼각 파도에 선제적·구조적 대응이 필요하다”며 “민생 방어와 경기 안정을 위한 신속한 방파제 추경은 선택이 아닌 필수”라고 주장했다&lt;br/&gt;&lt;em&gt;Prime Minister Kim Min-seok argued, "Preemptive and structural responses are necessary against the triple wave of high oil prices, high exchange rates, and high inflation," and stated, "A swift supplementary budget as a breakwater for defending people's livelihoods and stabilizing the economy is not an option but a necessity."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 회의에서 김민석 국무총리는 “중동의 긴장이 에너지·물류·금융을 통해 우리 경제 심장부까지 밀려왔다”며 “고유가·고환율·고물가의 삼각 파도에 선제적·구조적 대응이 필요하다”고 했다&lt;br/&gt;&lt;em&gt;At the meeting that day, Prime Minister Kim Min-seok said, "Tensions in the Middle East have pushed into the heart of our economy through energy, logistics, and finance," and added, "Preemptive and structural responses are needed against the triple wave of high oil prices, high exchange rates, and high inflation."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;고물가·고환율 앞에 선 신현송…“중앙은행, 적극적으로 대응해야”&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Shin Hyun-sung facing high inflation and high exchange rates... "The central bank must respond proactively."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;고물가가 걱정돼요.&lt;br/&gt;&lt;em&gt;I'm worried about high prices.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고물가 때문에 힘들어요.&lt;br/&gt;&lt;em&gt;It's tough because of high prices.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 23 Mar 2026 07:26:34 +0900</pubDate><guid isPermaLink="false">vocab-21d8259ea988482435a431f2249d0e392fbc1bd7</guid><enclosure url="https://images.unsplash.com/photo-1762463176312-1757d5125c85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwaW5mbGF0aW9ufGVufDB8fHx8MTc3NDIxODM4Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="259995" /><ns2:content url="https://images.unsplash.com/photo-1762463176312-1757d5125c85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwaW5mbGF0aW9ufGVufDB8fHx8MTc3NDIxODM4Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1762463176312-1757d5125c85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwaW5mbGF0aW9ufGVufDB8fHx8MTc3NDIxODM4Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>고물가</category></item><item><title>최소화 – minimize</title><link>urn:urn:vocab:최소화</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1639661257998-1ade49651300?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaW5pbWl6ZXxlbnwwfHx8fDE3NzQyMTA5NDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="최소화 (minimize)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (강훈식 대통령비서실장은 이번 추경 정부안에 대해 “고유가 대응, 산업 피해 최소화, 공급망 안정, 취약 계층 지원에 중점을 두고 있다”고 밝히고, “골든타임을 놓치지 않기 위해서는 추경안이 신속하게 처리돼야 한다”며 “국회의 협조를 요청드린다”고 했다&lt;br/&gt;&lt;em&gt;"Chief of Staff Kang Hoon-sik stated regarding this supplementary budget proposal, 'We are focusing on responding to high oil prices, minimizing industrial damage, stabilizing supply chains, and supporting vulnerable groups,' and added, 'To not miss the golden time, the supplementary budget must be processed quickly,' requesting 'cooperation from the National Assembly.'"&lt;/em&gt;&lt;/p&gt;
