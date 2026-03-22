@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Mar 2026 12:39:31 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 14:43:12 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>공직자 – public official</title><link>urn:urn:vocab:공직자</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>비례대표 – proportional representation</title><link>urn:urn:vocab:비례대표</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1755756383876-3624d20bc06e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3J0aW9uYWwlMjByZXByZXNlbnRhdGlvbnxlbnwwfHx8fDE3NzQxNTgxODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비례대표 (proportional representation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 젊고 초선이었지만 당시 서울시의회 106석(비례대표 10석 포함) 중 한나라당이 102석(96&lt;br/&gt;&lt;em&gt;He was young and a first-term member, but at the time, the Grand National Party held 102 seats (96 seats plus 10 proportional representation seats) out of 106 seats in the Seoul Metropolitan Council (including 10 proportional representation seats).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(현재는 서울시의회 112석(비례대표 11석 포함) 중 국민의힘이 76석으로 3분의2 이상이기 때문에, 오 시장이 추진하는 각종 역점 사업 관련 입법과 행정이 일사천리로 가능했다&lt;br/&gt;&lt;em&gt;(Currently, the People Power Party holds 76 seats out of 112 seats in the Seoul Metropolitan Council (including 11 proportional representation seats), which is more than two-thirds, so various key projects promoted by Mayor Oh could proceed smoothly in legislation and administration.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;&lt;&lt;PARA&gt;&gt;&gt; (피아니스트 출신인 김 의원은 지난 21대 국회에 미래한국당(국민의힘 전신 미래통합당의 비례위성정당) 비례대표로 국회에 입성한 뒤 22대에도 비례대표로 국회에서 의정 활동을 이어가고 있다&lt;br/&gt;&lt;em&gt;(Representative Kim, who is a pianist by background, entered the National Assembly as a proportional representative of the Future Korea Party (a proportional satellite party of the People Power Party's predecessor, the United Future Party) in the 21st National Assembly and continues his legislative activities as a proportional representative in the 22nd National Assembly.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비례대표는 선거 제도입니다.&lt;br/&gt;&lt;em&gt;Proportional representation is an electoral system.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비례대표를 이해해야 합니다.&lt;br/&gt;&lt;em&gt;We need to understand proportional representation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1755756383876-3624d20bc06e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3J0aW9uYWwlMjByZXByZXNlbnRhdGlvbnxlbnwwfHx8fDE3NzQxNTgxODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비례대표 (proportional representation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 젊고 초선이었지만 당시 서울시의회 106석(비례대표 10석 포함) 중 한나라당이 102석(96&lt;br/&gt;&lt;em&gt;He was young and a first-term member, but at the time, the Grand National Party held 102 seats (96 seats plus 10 proportional representation seats) out of 106 seats in the Seoul Metropolitan Council (including 10 proportional representation seats).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(현재는 서울시의회 112석(비례대표 11석 포함) 중 국민의힘이 76석으로 3분의2 이상이기 때문에, 오 시장이 추진하는 각종 역점 사업 관련 입법과 행정이 일사천리로 가능했다&lt;br/&gt;&lt;em&gt;(Currently, the People Power Party holds 76 seats out of 112 seats in the Seoul Metropolitan Council (including 11 proportional representation seats), which is more than two-thirds, so various key projects promoted by Mayor Oh could proceed smoothly in legislation and administration.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;&lt;&lt;PARA&gt;&gt;&gt; (피아니스트 출신인 김 의원은 지난 21대 국회에 미래한국당(국민의힘 전신 미래통합당의 비례위성정당) 비례대표로 국회에 입성한 뒤 22대에도 비례대표로 국회에서 의정 활동을 이어가고 있다&lt;br/&gt;&lt;em&gt;(Representative Kim, who is a pianist by background, entered the National Assembly as a proportional representative of the Future Korea Party (a proportional satellite party of the People Power Party's predecessor, the United Future Party) in the 21st National Assembly and continues his legislative activities as a proportional representative in the 22nd National Assembly.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비례대표는 선거 제도입니다.&lt;br/&gt;&lt;em&gt;Proportional representation is an electoral system.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비례대표를 이해해야 합니다.&lt;br/&gt;&lt;em&gt;We need to understand proportional representation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 22 Mar 2026 14:43:12 +0900</pubDate><guid isPermaLink="false">vocab-6d1b08f5dfa2978faafec71ba49e54ae8812657b</guid><enclosure url="https://images.unsplash.com/photo-1755756383876-3624d20bc06e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3J0aW9uYWwlMjByZXByZXNlbnRhdGlvbnxlbnwwfHx8fDE3NzQxNTgxODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="430365" /><ns2:content url="https://images.unsplash.com/photo-1755756383876-3624d20bc06e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3J0aW9uYWwlMjByZXByZXNlbnRhdGlvbnxlbnwwfHx8fDE3NzQxNTgxODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1755756383876-3624d20bc06e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3J0aW9uYWwlMjByZXByZXNlbnRhdGlvbnxlbnwwfHx8fDE3NzQxNTgxODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>비례대표</category></item><item><title>공직자 – public official</title><link>urn:urn:vocab:공직자</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605332084382-52cfc097c0d2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjBvZmZpY2lhbHxlbnwwfHx8fDE3NzQxNTA3NjN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공직자 (public official)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;President Lee: "Exclude Multi-Home Owning Public Officials from Real Estate Policy" (李 대통령 “부동산 정책서 다주택 공직자 배제”) &lt;&lt;br/&gt;&lt;em&gt;President Lee: "Exclude Multi-Home Owning Public Officials from Real Estate Policy"&lt;/em&gt;&lt;/p&gt;
