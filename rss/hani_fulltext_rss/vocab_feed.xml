@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Mar 2026 20:59:26 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 23:04:39 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>구조를 – structure</title><link>urn:urn:vocab:구조를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>이번주 – this week</title><link>urn:urn:vocab:이번주</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506485338023-6ce5f36692df?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwd2Vla3xlbnwwfHx8fDE3NzQxODgyNjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이번주 (this week)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Democratic Party: "Kim Boo-kyum Likely to Decide on Daegu Mayor Candidacy This Week" (민주당 “김부겸, 이번주 중 대구시장 출마 여부 결정할 듯”) &lt;&lt;br/&gt;&lt;em&gt;Democratic Party: "Kim Boo-kyum Likely to Decide on Daegu Mayor Candidacy This Week"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Democratic Party: "Kim Boo-kyum Likely to Decide on Daegu Mayor Candidacy This Week" (민주당 “김부겸, 이번주 중 대구시장 출마 여부 결정할 듯”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Democratic Party: "Kim Boo-kyum Likely to Decide on Daegu Mayor Candidacy This Week"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (조승래 더불어민주당 사무총장은 22일 김부겸 전 총리가 “이번주 안에 (6·3 지방선거 대구시장 선거에 출마할지를) 가부간 결정할 것으로 안다”고 말했다&lt;br/&gt;&lt;em&gt;" (Democratic Party Secretary-General Cho Seung-rae said on the 22nd that former Prime Minister Kim Boo-kyum 'is expected to decide whether to run for Daegu mayor in the June 3 local elections within this week')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번주 날씨가 좋아요.&lt;br/&gt;&lt;em&gt;The weather is nice this week.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번주 수업이 있어요.&lt;br/&gt;&lt;em&gt;There is class this week.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506485338023-6ce5f36692df?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwd2Vla3xlbnwwfHx8fDE3NzQxODgyNjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이번주 (this week)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Democratic Party: "Kim Boo-kyum Likely to Decide on Daegu Mayor Candidacy This Week" (민주당 “김부겸, 이번주 중 대구시장 출마 여부 결정할 듯”) &lt;&lt;br/&gt;&lt;em&gt;Democratic Party: "Kim Boo-kyum Likely to Decide on Daegu Mayor Candidacy This Week"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Democratic Party: "Kim Boo-kyum Likely to Decide on Daegu Mayor Candidacy This Week" (민주당 “김부겸, 이번주 중 대구시장 출마 여부 결정할 듯”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Democratic Party: "Kim Boo-kyum Likely to Decide on Daegu Mayor Candidacy This Week"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (조승래 더불어민주당 사무총장은 22일 김부겸 전 총리가 “이번주 안에 (6·3 지방선거 대구시장 선거에 출마할지를) 가부간 결정할 것으로 안다”고 말했다&lt;br/&gt;&lt;em&gt;" (Democratic Party Secretary-General Cho Seung-rae said on the 22nd that former Prime Minister Kim Boo-kyum 'is expected to decide whether to run for Daegu mayor in the June 3 local elections within this week')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번주 날씨가 좋아요.&lt;br/&gt;&lt;em&gt;The weather is nice this week.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번주 수업이 있어요.&lt;br/&gt;&lt;em&gt;There is class this week.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 22 Mar 2026 23:04:38 +0900</pubDate><guid isPermaLink="false">vocab-d0683e2e8937d7795ae7495288a885f920096976</guid><enclosure url="https://images.unsplash.com/photo-1506485338023-6ce5f36692df?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwd2Vla3xlbnwwfHx8fDE3NzQxODgyNjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="126750" /><ns2:content url="https://images.unsplash.com/photo-1506485338023-6ce5f36692df?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwd2Vla3xlbnwwfHx8fDE3NzQxODgyNjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1506485338023-6ce5f36692df?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwd2Vla3xlbnwwfHx8fDE3NzQxODgyNjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>이번주</category></item><item><title>구조를 – structure</title><link>urn:urn:vocab:구조를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560763150-5f34e9c1e68d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJ1Y3R1cmV8ZW58MHx8fHwxNzc0MTgwNzU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="구조를 (structure)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이번 포럼을 공동주최한 민병덕 더불어민주당 의원은 “취약계층의 금융 접근권이 기본권으로 보장되고 사회연대경제 조직이 제도 금융의 파트너로 인정받는 구조를 만드는 것이 국회의 과제”라며 신협법·상호금융법 제도 개선, 가치기반 금융기관에 대한 조세 인센티브 도입 등이 구체적인 입법 과제로 이어지도록 노력하겠다고 말했다&lt;br/&gt;&lt;em&gt;Rep. Min Byung-deok of the Democratic Party of Korea, who co-hosted this forum, stated, 'It is the National Assembly's task to create a structure where the financial access rights of vulnerable groups are guaranteed as a basic right and social solidarity economy organizations are recognized as partners of institutional finance.' He added that he would strive to ensure that improvements to the Credit Union Act and the Mutual Finance Act, as well as the introduction of tax incentives for value-based financial institutions, become specific legislative tasks.&lt;/em&gt;&lt;/p&gt;
