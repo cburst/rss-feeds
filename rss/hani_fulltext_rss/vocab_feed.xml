@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Mar 2026 23:04:39 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 01:11:35 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,27 @@
 
 
 
-  <item><title>이번주 – this week</title><link>urn:urn:vocab:이번주</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>높아지고 – rising/increasing</title><link>urn:urn:vocab:높아지고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국외에서는 이미 가치기반 금융의 영향력이 높아지고 있다&lt;br/&gt;&lt;em&gt;(The influence of value-based finance is already increasing overseas)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;수주 경험이 쌓일수록 수율(전체 생산량 중 양품의 비율)이 높아지고, 수율이 높아지면 다시 일감을 받아오는 ‘선순환’이 이뤄질 것이라는 예상 덕분이다&lt;br/&gt;&lt;em&gt;This is thanks to the expectation that as order experience accumulates, the yield (the proportion of good products in total production) will increase, and as the yield increases, a 'virtuous cycle' of receiving more work will be achieved.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;황미용 작가는 “사회, 과학 등 다음 학기에 배울 내용에 해당하는 세부 주제의 책들을 읽으면 자연스럽게 선행학습이 된다”며 “배경지식이 풍부해지는 만큼 다음 학기 때 수업 이해도가 높아지고, 아는 내용이 나오는 만큼 적극적으로 수업에 참여하게 만든다”고 조언했다&lt;br/&gt;&lt;em&gt;Author Hwang Mi-yong advised, "Reading books on detailed topics corresponding to the content to be learned in the next semester, such as society and science, naturally leads to advance learning," adding, "As background knowledge becomes richer, understanding of classes in the next semester increases, and as familiar content appears, it encourages active participation in classes."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;온도가 높아지고 있어요.&lt;br/&gt;&lt;em&gt;The temperature is rising.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;물가가 높아지고 있습니다.&lt;br/&gt;&lt;em&gt;Prices are rising.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국외에서는 이미 가치기반 금융의 영향력이 높아지고 있다&lt;br/&gt;&lt;em&gt;(The influence of value-based finance is already increasing overseas)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;수주 경험이 쌓일수록 수율(전체 생산량 중 양품의 비율)이 높아지고, 수율이 높아지면 다시 일감을 받아오는 ‘선순환’이 이뤄질 것이라는 예상 덕분이다&lt;br/&gt;&lt;em&gt;This is thanks to the expectation that as order experience accumulates, the yield (the proportion of good products in total production) will increase, and as the yield increases, a 'virtuous cycle' of receiving more work will be achieved.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;황미용 작가는 “사회, 과학 등 다음 학기에 배울 내용에 해당하는 세부 주제의 책들을 읽으면 자연스럽게 선행학습이 된다”며 “배경지식이 풍부해지는 만큼 다음 학기 때 수업 이해도가 높아지고, 아는 내용이 나오는 만큼 적극적으로 수업에 참여하게 만든다”고 조언했다&lt;br/&gt;&lt;em&gt;Author Hwang Mi-yong advised, "Reading books on detailed topics corresponding to the content to be learned in the next semester, such as society and science, naturally leads to advance learning," adding, "As background knowledge becomes richer, understanding of classes in the next semester increases, and as familiar content appears, it encourages active participation in classes."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;온도가 높아지고 있어요.&lt;br/&gt;&lt;em&gt;The temperature is rising.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;물가가 높아지고 있습니다.&lt;br/&gt;&lt;em&gt;Prices are rising.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 23 Mar 2026 01:11:35 +0900</pubDate><guid isPermaLink="false">vocab-2c1027189f2d41e505794bfa1cfbf41a1e366898</guid><category>높아지고</category></item><item><title>이번주 – this week</title><link>urn:urn:vocab:이번주</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506485338023-6ce5f36692df?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwd2Vla3xlbnwwfHx8fDE3NzQxODgyNjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이번주 (this week)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Democratic Party: "Kim Boo-kyum Likely to Decide on Daegu Mayor Candidacy This Week" (민주당 “김부겸, 이번주 중 대구시장 출마 여부 결정할 듯”) &lt;&lt;br/&gt;&lt;em&gt;Democratic Party: "Kim Boo-kyum Likely to Decide on Daegu Mayor Candidacy This Week"&lt;/em&gt;&lt;/p&gt;
