@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Mar 2026 14:43:12 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 16:48:26 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>비례대표 – proportional representation</title><link>urn:urn:vocab:비례대표</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>읽으며 – while reading</title><link>urn:urn:vocab:읽으며</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632976032753-2b209dd0a921?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlsZSUyMHJlYWRpbmd8ZW58MHx8fHwxNzc0MTY1Njk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="읽으며 (while reading)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Second Longest After Jang Dong-hyuk (김예지 손으로 점자 읽으며 17시간 35분 필리버스터&lt;br/&gt;&lt;em&gt;Second Longest After Jang Dong-hyuk (Kim Ye-ji reading braille with her hands during 17-hour 35-minute filibuster)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Second Longest After Jang Dong-hyuk (김예지 손으로 점자 읽으며 17시간 35분 필리버스터&lt;br/&gt;&lt;em&gt;Second Longest After Jang Dong-hyuk (Kim Ye-ji reading braille with her hands during 17-hour 35-minute filibuster)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(시각 장애가 있는 김 의원은 전날부터 진행한 필리버스터 내내 손으로 점자를 읽으며 더불어민주당의 사법 시스템 파괴를 비판했다&lt;br/&gt;&lt;em&gt;(Congressman Kim, who is visually impaired, criticized the Democratic Party of Korea's destruction of the judicial system throughout the filibuster conducted from the previous day, reading braille with his hands the entire time)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;책을 읽으며 커피를 마셔요.&lt;br/&gt;&lt;em&gt;I drink coffee while reading a book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 신문을 읽으며 웃었어요.&lt;br/&gt;&lt;em&gt;He laughed while reading the newspaper.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632976032753-2b209dd0a921?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlsZSUyMHJlYWRpbmd8ZW58MHx8fHwxNzc0MTY1Njk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="읽으며 (while reading)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Second Longest After Jang Dong-hyuk (김예지 손으로 점자 읽으며 17시간 35분 필리버스터&lt;br/&gt;&lt;em&gt;Second Longest After Jang Dong-hyuk (Kim Ye-ji reading braille with her hands during 17-hour 35-minute filibuster)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Second Longest After Jang Dong-hyuk (김예지 손으로 점자 읽으며 17시간 35분 필리버스터&lt;br/&gt;&lt;em&gt;Second Longest After Jang Dong-hyuk (Kim Ye-ji reading braille with her hands during 17-hour 35-minute filibuster)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(시각 장애가 있는 김 의원은 전날부터 진행한 필리버스터 내내 손으로 점자를 읽으며 더불어민주당의 사법 시스템 파괴를 비판했다&lt;br/&gt;&lt;em&gt;(Congressman Kim, who is visually impaired, criticized the Democratic Party of Korea's destruction of the judicial system throughout the filibuster conducted from the previous day, reading braille with his hands the entire time)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;책을 읽으며 커피를 마셔요.&lt;br/&gt;&lt;em&gt;I drink coffee while reading a book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 신문을 읽으며 웃었어요.&lt;br/&gt;&lt;em&gt;He laughed while reading the newspaper.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 22 Mar 2026 16:48:26 +0900</pubDate><guid isPermaLink="false">vocab-3e703333d8c469fef0f0cf8523a61e939cb2b91b</guid><enclosure url="https://images.unsplash.com/photo-1632976032753-2b209dd0a921?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlsZSUyMHJlYWRpbmd8ZW58MHx8fHwxNzc0MTY1Njk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="184487" /><ns2:content url="https://images.unsplash.com/photo-1632976032753-2b209dd0a921?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlsZSUyMHJlYWRpbmd8ZW58MHx8fHwxNzc0MTY1Njk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1632976032753-2b209dd0a921?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlsZSUyMHJlYWRpbmd8ZW58MHx8fHwxNzc0MTY1Njk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>읽으며</category></item><item><title>비례대표 – proportional representation</title><link>urn:urn:vocab:비례대표</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1755756383876-3624d20bc06e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3J0aW9uYWwlMjByZXByZXNlbnRhdGlvbnxlbnwwfHx8fDE3NzQxNTgxODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비례대표 (proportional representation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;그는 젊고 초선이었지만 당시 서울시의회 106석(비례대표 10석 포함) 중 한나라당이 102석(96&lt;br/&gt;&lt;em&gt;He was young and a first-term member, but at the time, the Grand National Party held 102 seats (96 seats plus 10 proportional representation seats) out of 106 seats in the Seoul Metropolitan Council (including 10 proportional representation seats).&lt;/em&gt;&lt;/p&gt;
