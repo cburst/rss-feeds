@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 04:43:12 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 06:54:28 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>없었을 – did not exist / was not there</title><link>urn:urn:vocab:없었을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>나무에 – on the tree</title><link>urn:urn:vocab:나무에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1699876026016-4d9be045a385?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMHRyZWV8ZW58MHx8fHwxNzc0MzAyODYxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="나무에 (on the tree)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;과거(過去)에는 나무에서 꽃이 피는 것이라던가 잔디가 예뿌(*쁘)게 나는 것이라던가 나무가 뜰의 어디에 서 있다던가 하는 것에 대(対)해서 관심(關心)이 없어서 별로히 모르고 지내왔다&lt;br/&gt;&lt;em&gt;In the past, I had little interest in and thus remained largely unaware of things like flowers blooming on trees, grass growing beautifully, or where trees stood in the yard.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자색 몽연과 겹철죽과 그냥 철죽 응접실 앞에 이름 모르는 이뿐 나무에 봉우리가 이뿌게 매치기 시작(始作)했으며 단풍나무가 조그마한 잎사기를 내기 시작(始作)했다&lt;br/&gt;&lt;em&gt;Purple magnolias, double-flowered wintersweets, and an unnamed beautiful tree in front of the reception hall began to bud beautifully, and maple trees started to sprout tiny leaves.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내(來)달이 되면 제법 나무에 잎사귀들이 크질 것 같다&lt;br/&gt;&lt;em&gt;Next month, it seems the leaves on the trees will grow quite large.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;새가 나무에 앉아요.&lt;br/&gt;&lt;em&gt;A bird is sitting on the tree.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사과가 나무에 있어요.&lt;br/&gt;&lt;em&gt;There is an apple on the tree.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1699876026016-4d9be045a385?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMHRyZWV8ZW58MHx8fHwxNzc0MzAyODYxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="나무에 (on the tree)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;과거(過去)에는 나무에서 꽃이 피는 것이라던가 잔디가 예뿌(*쁘)게 나는 것이라던가 나무가 뜰의 어디에 서 있다던가 하는 것에 대(対)해서 관심(關心)이 없어서 별로히 모르고 지내왔다&lt;br/&gt;&lt;em&gt;In the past, I had little interest in and thus remained largely unaware of things like flowers blooming on trees, grass growing beautifully, or where trees stood in the yard.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자색 몽연과 겹철죽과 그냥 철죽 응접실 앞에 이름 모르는 이뿐 나무에 봉우리가 이뿌게 매치기 시작(始作)했으며 단풍나무가 조그마한 잎사기를 내기 시작(始作)했다&lt;br/&gt;&lt;em&gt;Purple magnolias, double-flowered wintersweets, and an unnamed beautiful tree in front of the reception hall began to bud beautifully, and maple trees started to sprout tiny leaves.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내(來)달이 되면 제법 나무에 잎사귀들이 크질 것 같다&lt;br/&gt;&lt;em&gt;Next month, it seems the leaves on the trees will grow quite large.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;새가 나무에 앉아요.&lt;br/&gt;&lt;em&gt;A bird is sitting on the tree.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사과가 나무에 있어요.&lt;br/&gt;&lt;em&gt;There is an apple on the tree.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 24 Mar 2026 06:54:28 +0900</pubDate><guid isPermaLink="false">vocab-c1364e1abd5dc2e0b6580c2e54840e65155626c5</guid><enclosure url="https://images.unsplash.com/photo-1699876026016-4d9be045a385?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMHRyZWV8ZW58MHx8fHwxNzc0MzAyODYxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="131903" /><ns2:content url="https://images.unsplash.com/photo-1699876026016-4d9be045a385?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMHRyZWV8ZW58MHx8fHwxNzc0MzAyODYxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1699876026016-4d9be045a385?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMHRyZWV8ZW58MHx8fHwxNzc0MzAyODYxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>나무에</category></item><item><title>없었을 – did not exist / was not there</title><link>urn:urn:vocab:없었을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1558795353-c39bb028827c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaWQlMjBub3QlMjBleGlzdCUyMCUyRiUyMHdhcyUyMG5vdCUyMHRoZXJlfGVufDB8fHx8MTc3NDI5NDk4M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="없었을 (did not exist / was not there)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;There Would Have Been No Such Misfortune" (“이승만 3선 개헌만 안 했다면…불행 없었을 것") &lt;&lt;br/&gt;&lt;em&gt;"There Would Have Been No Such Misfortune" ("If Syngman Rhee Had Not Pushed for the Third-Term Constitutional Amendment... There Would Have Been No Such Misfortune")&lt;/em&gt;&lt;/p&gt;
