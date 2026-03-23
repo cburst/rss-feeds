@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 20:04:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 22:11:59 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>컨설팅 – consulting</title><link>urn:urn:vocab:컨설팅</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>분야를 – field/area</title><link>urn:urn:vocab:분야를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1677847972654-711abab6949e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaWVsZCUyRmFyZWF8ZW58MHx8fHwxNzc0MjcxNTA3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="분야를 (field/area)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이에 본 ERC 연구센터는 이를 극복하기 위해 ▲촉각·청각·후각 센서 융합형 비시각 인지 플랫폼 개발 ▲극한 환경 내구성을 갖춘 복합 기능성 스킨 표면 소재 개발 ▲초정밀 표면 제조 공정 및 장비 개발의 3대 핵심 분야를 중심으로 융합 연구를 진행하고 있다&lt;br/&gt;&lt;em&gt;To overcome this, the ERC Research Center is conducting convergence research focusing on three key areas: ▲Development of a non-visual cognitive platform integrating tactile, auditory, and olfactory sensors ▲Development of multifunctional skin surface materials with extreme environmental durability ▲Development of ultra-precision surface manufacturing processes and equipment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김영욱 교수의 인공지능 레이다/RF 연구실은 인공지능 및 Quantum Computing을 이용한 레이다 신호처리, 응용 전자기학, 안테나 설계와 관련된 다양한 분야를 연구하고 있다&lt;br/&gt;&lt;em&gt;Professor Kim Young-wook's Artificial Intelligence Radar/RF Laboratory researches various fields related to radar signal processing using artificial intelligence and quantum computing, applied electromagnetics, and antenna design.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2024년 첫 신입생을 받았음에도 불구하고, 2024년부터 2025년까지 이어진 수상 실적 목록들을 살펴보면 학년과 분야를 가리지 않는 ‘전방위적 활약’이 돋보인다&lt;br/&gt;&lt;em&gt;Despite accepting its first freshmen in 2024, the list of award achievements from 2024 to 2025 shows remarkable 'all-around performance' regardless of grade level or field.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 과학 분야를 좋아해요.&lt;br/&gt;&lt;em&gt;I like the field of science.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 음악 분야를 공부해요.&lt;br/&gt;&lt;em&gt;He studies the field of music.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1677847972654-711abab6949e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaWVsZCUyRmFyZWF8ZW58MHx8fHwxNzc0MjcxNTA3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="분야를 (field/area)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이에 본 ERC 연구센터는 이를 극복하기 위해 ▲촉각·청각·후각 센서 융합형 비시각 인지 플랫폼 개발 ▲극한 환경 내구성을 갖춘 복합 기능성 스킨 표면 소재 개발 ▲초정밀 표면 제조 공정 및 장비 개발의 3대 핵심 분야를 중심으로 융합 연구를 진행하고 있다&lt;br/&gt;&lt;em&gt;To overcome this, the ERC Research Center is conducting convergence research focusing on three key areas: ▲Development of a non-visual cognitive platform integrating tactile, auditory, and olfactory sensors ▲Development of multifunctional skin surface materials with extreme environmental durability ▲Development of ultra-precision surface manufacturing processes and equipment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김영욱 교수의 인공지능 레이다/RF 연구실은 인공지능 및 Quantum Computing을 이용한 레이다 신호처리, 응용 전자기학, 안테나 설계와 관련된 다양한 분야를 연구하고 있다&lt;br/&gt;&lt;em&gt;Professor Kim Young-wook's Artificial Intelligence Radar/RF Laboratory researches various fields related to radar signal processing using artificial intelligence and quantum computing, applied electromagnetics, and antenna design.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2024년 첫 신입생을 받았음에도 불구하고, 2024년부터 2025년까지 이어진 수상 실적 목록들을 살펴보면 학년과 분야를 가리지 않는 ‘전방위적 활약’이 돋보인다&lt;br/&gt;&lt;em&gt;Despite accepting its first freshmen in 2024, the list of award achievements from 2024 to 2025 shows remarkable 'all-around performance' regardless of grade level or field.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 과학 분야를 좋아해요.&lt;br/&gt;&lt;em&gt;I like the field of science.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 음악 분야를 공부해요.&lt;br/&gt;&lt;em&gt;He studies the field of music.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 23 Mar 2026 22:11:59 +0900</pubDate><guid isPermaLink="false">vocab-031c24d054947c90c7a75af9a027a7c2cd6a001d</guid><enclosure url="https://images.unsplash.com/photo-1677847972654-711abab6949e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaWVsZCUyRmFyZWF8ZW58MHx8fHwxNzc0MjcxNTA3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="151258" /><ns2:content url="https://images.unsplash.com/photo-1677847972654-711abab6949e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaWVsZCUyRmFyZWF8ZW58MHx8fHwxNzc0MjcxNTA3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1677847972654-711abab6949e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaWVsZCUyRmFyZWF8ZW58MHx8fHwxNzc0MjcxNTA3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>분야를</category></item><item><title>컨설팅 – consulting</title><link>urn:urn:vocab:컨설팅</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1553877522-43269d4ea984?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdWx0aW5nfGVufDB8fHx8MTc3NDI2Mzg4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="컨설팅 (consulting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;한국능률협회컨설팅(KMAC)이 주관하는 K-BPI는 소비자 인식을 기반으로 브랜드 경쟁력을 평가하는 국내 대표 지표로, 경희사이버대학교는 브랜드 인지도와 충성도 전 영역에서 최고 평가를 받으며 사이버대학 시장에서 확고한 1위 브랜드 위상을 다시 한 번 입증했다&lt;br/&gt;&lt;em&gt;K-BPI, organized by the Korea Management Association Consulting (KMAC), is a leading domestic indicator that evaluates brand competitiveness based on consumer perception. Kyung Hee Cyber University received the highest ratings across all areas of brand awareness and loyalty, once again proving its solid position as the top brand in the cyber university market.&lt;/em&gt;&lt;/p&gt;
