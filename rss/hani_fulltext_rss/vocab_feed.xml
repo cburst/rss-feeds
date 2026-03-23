@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 15:46:01 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 17:57:02 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>증권사 – securities company</title><link>urn:urn:vocab:증권사</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기능성 – functionality</title><link>urn:urn:vocab:기능성</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1738520420715-23a83fd078f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmdW5jdGlvbmFsaXR5fGVufDB8fHx8MTc3NDI1NjIxMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기능성 (functionality)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br/&gt;한편, 플랜트너는 현재 한국과 베트남을 중심으로 기술 개발과 실증을 진행하고 있으며, 향후 의료·제약·기능성 소재 분야까지 사업을 확장해 해조류 기반 바이오 소재 분야의 글로벌 플랫폼 기업으로 성장하는 것을 목표로 하고 있다&lt;br/&gt;&lt;em&gt;Meanwhile, Plantner is currently focusing on technology development and demonstration in Korea and Vietnam, aiming to expand its business into the medical, pharmaceutical, and functional materials sectors in the future, with the goal of growing into a global platform company in the field of algae-based bio-materials.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kookmin University's 'Robot Functional Skin and Super Senses Research Center' Successfully Holds Invitational Meeting with Participating Companies (국민대 ‘로봇 기능성 스킨 및 초감각 연구센터’, 참여기업 초청 간담회 성료) &lt;&lt;br/&gt;&lt;em&gt;Kookmin University's 'Robot Functional Skin and Super Senses Research Center' Successfully Holds Invitational Meeting with Participating Companies&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;png" alt=""&gt;&lt;figcaption&gt;기계공학부 임시형 교수가 이끄는 ‘로봇 기능성 스킨 및 초감각 연구센터’가 지난 17일 JW 메리어트 동대문 스퀘어에서 참여기업 초청 간담회를 성황리에 개최했다&lt;br/&gt;&lt;em&gt;Professor Lim Si-hyung of the Department of Mechanical Engineering led the 'Robot Functional Skin and Super Senses Research Center' in successfully holding an invitational meeting with participating companies at JW Marriott Dongdaemun Square on the 17th.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 제품의 기능성이 좋아요.&lt;br/&gt;&lt;em&gt;The functionality of this product is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기능성을 테스트했어요.&lt;br/&gt;&lt;em&gt;I tested the functionality.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1738520420715-23a83fd078f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmdW5jdGlvbmFsaXR5fGVufDB8fHx8MTc3NDI1NjIxMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기능성 (functionality)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br/&gt;한편, 플랜트너는 현재 한국과 베트남을 중심으로 기술 개발과 실증을 진행하고 있으며, 향후 의료·제약·기능성 소재 분야까지 사업을 확장해 해조류 기반 바이오 소재 분야의 글로벌 플랫폼 기업으로 성장하는 것을 목표로 하고 있다&lt;br/&gt;&lt;em&gt;Meanwhile, Plantner is currently focusing on technology development and demonstration in Korea and Vietnam, aiming to expand its business into the medical, pharmaceutical, and functional materials sectors in the future, with the goal of growing into a global platform company in the field of algae-based bio-materials.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kookmin University's 'Robot Functional Skin and Super Senses Research Center' Successfully Holds Invitational Meeting with Participating Companies (국민대 ‘로봇 기능성 스킨 및 초감각 연구센터’, 참여기업 초청 간담회 성료) &lt;&lt;br/&gt;&lt;em&gt;Kookmin University's 'Robot Functional Skin and Super Senses Research Center' Successfully Holds Invitational Meeting with Participating Companies&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;png" alt=""&gt;&lt;figcaption&gt;기계공학부 임시형 교수가 이끄는 ‘로봇 기능성 스킨 및 초감각 연구센터’가 지난 17일 JW 메리어트 동대문 스퀘어에서 참여기업 초청 간담회를 성황리에 개최했다&lt;br/&gt;&lt;em&gt;Professor Lim Si-hyung of the Department of Mechanical Engineering led the 'Robot Functional Skin and Super Senses Research Center' in successfully holding an invitational meeting with participating companies at JW Marriott Dongdaemun Square on the 17th.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 제품의 기능성이 좋아요.&lt;br/&gt;&lt;em&gt;The functionality of this product is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기능성을 테스트했어요.&lt;br/&gt;&lt;em&gt;I tested the functionality.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 23 Mar 2026 17:57:02 +0900</pubDate><guid isPermaLink="false">vocab-18cd110a6732bd4ee5f0140d1e8c9d8a1510f7b5</guid><enclosure url="https://images.unsplash.com/photo-1738520420715-23a83fd078f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmdW5jdGlvbmFsaXR5fGVufDB8fHx8MTc3NDI1NjIxMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="26537" /><ns2:content url="https://images.unsplash.com/photo-1738520420715-23a83fd078f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmdW5jdGlvbmFsaXR5fGVufDB8fHx8MTc3NDI1NjIxMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1738520420715-23a83fd078f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmdW5jdGlvbmFsaXR5fGVufDB8fHx8MTc3NDI1NjIxMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기능성</category></item><item><title>증권사 – securities company</title><link>urn:urn:vocab:증권사</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605071483252-41904a888644?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZWN1cml0aWVzJTIwY29tcGFueXxlbnwwfHx8fDE3NzQyNDgzNTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="증권사 (securities company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(22일 금융감독원이 국내 대형 증권사 2곳의 개인 계좌 약 460만개를 분석한 결과, 이달 1일부터 9일까지 빚(신용융자)을 내어 투자한 개인투자자는 평균 19&lt;br/&gt;&lt;em&gt;(According to an analysis by the Financial Supervisory Service on approximately 4.6 million individual accounts at two major domestic securities firms on the 22nd, individual investors who borrowed money (credit loans) to invest from the 1st to the 9th of this month averaged 19&lt;/em&gt;&lt;/p&gt;
