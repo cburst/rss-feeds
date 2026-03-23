@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 17:57:02 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 20:04:55 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>기능성 – functionality</title><link>urn:urn:vocab:기능성</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>컨설팅 – consulting</title><link>urn:urn:vocab:컨설팅</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1553877522-43269d4ea984?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdWx0aW5nfGVufDB8fHx8MTc3NDI2Mzg4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="컨설팅 (consulting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한국능률협회컨설팅(KMAC)이 주관하는 K-BPI는 소비자 인식을 기반으로 브랜드 경쟁력을 평가하는 국내 대표 지표로, 경희사이버대학교는 브랜드 인지도와 충성도 전 영역에서 최고 평가를 받으며 사이버대학 시장에서 확고한 1위 브랜드 위상을 다시 한 번 입증했다&lt;br/&gt;&lt;em&gt;K-BPI, organized by the Korea Management Association Consulting (KMAC), is a leading domestic indicator that evaluates brand competitiveness based on consumer perception. Kyung Hee Cyber University received the highest ratings across all areas of brand awareness and loyalty, once again proving its solid position as the top brand in the cyber university market.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;경희사이버대학교는 지난 19일 한국능률협회컨설팅(KMAC)이 발표한 ‘2026 한국산업의 브랜드파워(K-BPI)’ 시상식에서 사이버대학 부문 1위를 차지했다&lt;br/&gt;&lt;em&gt;On the 19th, Kyung Hee Cyber University ranked first in the cyber university category at the '2026 Korea Brand Power Index (K-BPI)' awards ceremony announced by the Korea Management Association Consulting (KMAC).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sangji University Holds '2025 On-site School Consulting Performance Dissemination and Sharing Session' (상지대, ‘2025 찾아가는 학교 컨설팅 성과확산공유회’ 개최) &lt;&lt;br/&gt;&lt;em&gt;Sangji University Holds '2025 On-site School Consulting Performance Dissemination and Sharing Session'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;컨설팅이 필요해요.&lt;br/&gt;&lt;em&gt;I need consulting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;컨설팅을 받았어요.&lt;br/&gt;&lt;em&gt;I received consulting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1553877522-43269d4ea984?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdWx0aW5nfGVufDB8fHx8MTc3NDI2Mzg4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="컨설팅 (consulting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한국능률협회컨설팅(KMAC)이 주관하는 K-BPI는 소비자 인식을 기반으로 브랜드 경쟁력을 평가하는 국내 대표 지표로, 경희사이버대학교는 브랜드 인지도와 충성도 전 영역에서 최고 평가를 받으며 사이버대학 시장에서 확고한 1위 브랜드 위상을 다시 한 번 입증했다&lt;br/&gt;&lt;em&gt;K-BPI, organized by the Korea Management Association Consulting (KMAC), is a leading domestic indicator that evaluates brand competitiveness based on consumer perception. Kyung Hee Cyber University received the highest ratings across all areas of brand awareness and loyalty, once again proving its solid position as the top brand in the cyber university market.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;경희사이버대학교는 지난 19일 한국능률협회컨설팅(KMAC)이 발표한 ‘2026 한국산업의 브랜드파워(K-BPI)’ 시상식에서 사이버대학 부문 1위를 차지했다&lt;br/&gt;&lt;em&gt;On the 19th, Kyung Hee Cyber University ranked first in the cyber university category at the '2026 Korea Brand Power Index (K-BPI)' awards ceremony announced by the Korea Management Association Consulting (KMAC).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sangji University Holds '2025 On-site School Consulting Performance Dissemination and Sharing Session' (상지대, ‘2025 찾아가는 학교 컨설팅 성과확산공유회’ 개최) &lt;&lt;br/&gt;&lt;em&gt;Sangji University Holds '2025 On-site School Consulting Performance Dissemination and Sharing Session'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;컨설팅이 필요해요.&lt;br/&gt;&lt;em&gt;I need consulting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;컨설팅을 받았어요.&lt;br/&gt;&lt;em&gt;I received consulting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 23 Mar 2026 20:04:54 +0900</pubDate><guid isPermaLink="false">vocab-81b15eefbfb39ba8910caf0faaf180e333757f9b</guid><enclosure url="https://images.unsplash.com/photo-1553877522-43269d4ea984?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdWx0aW5nfGVufDB8fHx8MTc3NDI2Mzg4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="92079" /><ns2:content url="https://images.unsplash.com/photo-1553877522-43269d4ea984?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdWx0aW5nfGVufDB8fHx8MTc3NDI2Mzg4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1553877522-43269d4ea984?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdWx0aW5nfGVufDB8fHx8MTc3NDI2Mzg4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>컨설팅</category></item><item><title>기능성 – functionality</title><link>urn:urn:vocab:기능성</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1738520420715-23a83fd078f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmdW5jdGlvbmFsaXR5fGVufDB8fHx8MTc3NDI1NjIxMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기능성 (functionality)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;&lt;br/&gt;한편, 플랜트너는 현재 한국과 베트남을 중심으로 기술 개발과 실증을 진행하고 있으며, 향후 의료·제약·기능성 소재 분야까지 사업을 확장해 해조류 기반 바이오 소재 분야의 글로벌 플랫폼 기업으로 성장하는 것을 목표로 하고 있다&lt;br/&gt;&lt;em&gt;Meanwhile, Plantner is currently focusing on technology development and demonstration in Korea and Vietnam, aiming to expand its business into the medical, pharmaceutical, and functional materials sectors in the future, with the goal of growing into a global platform company in the field of algae-based bio-materials.&lt;/em&gt;&lt;/p&gt;
