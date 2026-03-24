@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 17:33:51 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 19:48:55 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>예쁘다 – pretty</title><link>urn:urn:vocab:예쁘다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>개구리 – frog</title><link>urn:urn:vocab:개구리</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1496070242169-b672c576566b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9nfGVufDB8fHx8MTc3NDM0OTMyM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개구리 (frog)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Lee Targets Ahn Cheol-soo: "Protecting Frogs Doesn't Mean Protecting Mosquitoes Too" (李, 안철수 겨냥 “개구리 보호한다고 모기까지 보호하는 건 아냐”) &lt;&lt;br/&gt;&lt;em&gt;Lee Targets Ahn Cheol-soo: "Protecting Frogs Doesn't Mean Protecting Mosquitoes Too" (Lee targets Ahn Cheol-soo: "Protecting frogs doesn't mean protecting mosquitoes too")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Lee Targets Ahn Cheol-soo: "Protecting Frogs Doesn't Mean Protecting Mosquitoes Too" (李, 안철수 겨냥 “개구리 보호한다고 모기까지 보호하는 건 아냐”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Lee Targets Ahn Cheol-soo: "Protecting Frogs Doesn't Mean Protecting Mosquitoes Too" (Lee targets Ahn Cheol-soo: "Protecting frogs doesn't mean protecting mosquitoes too")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (안철수 국민의힘 의원이 24일 이재명 대통령의 ‘다주택 공직자 부동산 정책 입안 과정 배제’ 지시를 두고 “이 논리라면 고위 공직자 및 실무자도 보유 주식을 전량 매도해야 한다”고 주장하자, 이 대통령은 “개구리를 보호한다고 모기까지 보호해야 하는 것은 아니다”라고 했다&lt;br/&gt;&lt;em&gt;" (When Ahn Cheol-soo, a member of the People Power Party, argued on the 24th regarding President Lee Jae-myung's directive to exclude multi-home public officials from the real estate policy-making process, saying, "If that's the logic, then high-ranking public officials and practitioners should also sell all their stocks," President Lee responded, "Protecting frogs doesn't mean you have to protect mosquitoes too.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개구리가 연못에 있어요.&lt;br/&gt;&lt;em&gt;There is a frog in the pond.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개구리는 초록색이에요.&lt;br/&gt;&lt;em&gt;The frog is green.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1496070242169-b672c576566b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9nfGVufDB8fHx8MTc3NDM0OTMyM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개구리 (frog)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Lee Targets Ahn Cheol-soo: "Protecting Frogs Doesn't Mean Protecting Mosquitoes Too" (李, 안철수 겨냥 “개구리 보호한다고 모기까지 보호하는 건 아냐”) &lt;&lt;br/&gt;&lt;em&gt;Lee Targets Ahn Cheol-soo: "Protecting Frogs Doesn't Mean Protecting Mosquitoes Too" (Lee targets Ahn Cheol-soo: "Protecting frogs doesn't mean protecting mosquitoes too")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Lee Targets Ahn Cheol-soo: "Protecting Frogs Doesn't Mean Protecting Mosquitoes Too" (李, 안철수 겨냥 “개구리 보호한다고 모기까지 보호하는 건 아냐”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Lee Targets Ahn Cheol-soo: "Protecting Frogs Doesn't Mean Protecting Mosquitoes Too" (Lee targets Ahn Cheol-soo: "Protecting frogs doesn't mean protecting mosquitoes too")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (안철수 국민의힘 의원이 24일 이재명 대통령의 ‘다주택 공직자 부동산 정책 입안 과정 배제’ 지시를 두고 “이 논리라면 고위 공직자 및 실무자도 보유 주식을 전량 매도해야 한다”고 주장하자, 이 대통령은 “개구리를 보호한다고 모기까지 보호해야 하는 것은 아니다”라고 했다&lt;br/&gt;&lt;em&gt;" (When Ahn Cheol-soo, a member of the People Power Party, argued on the 24th regarding President Lee Jae-myung's directive to exclude multi-home public officials from the real estate policy-making process, saying, "If that's the logic, then high-ranking public officials and practitioners should also sell all their stocks," President Lee responded, "Protecting frogs doesn't mean you have to protect mosquitoes too.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개구리가 연못에 있어요.&lt;br/&gt;&lt;em&gt;There is a frog in the pond.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개구리는 초록색이에요.&lt;br/&gt;&lt;em&gt;The frog is green.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 24 Mar 2026 19:48:55 +0900</pubDate><guid isPermaLink="false">vocab-8d3cf553ab0990adae3c3fbeeb8f3a7e26081942</guid><enclosure url="https://images.unsplash.com/photo-1496070242169-b672c576566b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9nfGVufDB8fHx8MTc3NDM0OTMyM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="93774" /><ns2:content url="https://images.unsplash.com/photo-1496070242169-b672c576566b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9nfGVufDB8fHx8MTc3NDM0OTMyM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1496070242169-b672c576566b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9nfGVufDB8fHx8MTc3NDM0OTMyM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>개구리</category></item><item><title>예쁘다 – pretty</title><link>urn:urn:vocab:예쁘다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1521133573892-e44906baee46?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmV0dHl8ZW58MHx8fHwxNzc0MzQxMjIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="예쁘다 (pretty)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Diet Craze Spreads in North Korea (韓 드라마 영향에 “날씬해야 예쁘다”&lt;br/&gt;&lt;em&gt;Diet Craze Spreads in North Korea (Influenced by Korean dramas, "You have to be slim to be pretty")&lt;/em&gt;&lt;/p&gt;
