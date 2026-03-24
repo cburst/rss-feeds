@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 00:04:30 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 02:16:57 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>노동자는 – worker</title><link>urn:urn:vocab:노동자는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>카페가 – cafe</title><link>urn:urn:vocab:카페가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1556742400-b5b7c5121f99?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxjYWZlfGVufDB8fHx8MTc3NDM3MjYwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="카페가 (cafe)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령은 24일 대형 베이커리 카페가 편법 상속·증여 수단으로 활용되는 문제와 관련해 “관련 제도의 전면 개정 및 제도 보완 필요성에 대해 검토 후 보고하라”고 국세청에 지시했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung instructed the National Tax Service on the 24th to 'review and report on the need for a full revision and supplementation of related systems' regarding the issue of large bakery cafes being used as a means of inheritance and gift tax evasion.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(청와대는 이 대통령이 이날 국무회의에서 일부 대형 베이커리 카페가 부동산 상속 과정에서 ‘꼼수 감세’를 받고 있다는 문제를 재차 짚으며, 임광현 국세청장에게 가업 상속에 따른 상속세 인하의 타당성에 대해 물었고 관련 지시를 내렸다고 밝혔다&lt;br/&gt;&lt;em&gt;The Blue House stated that President Lee pointed out again at the Cabinet meeting that day that some large bakery cafes are receiving 'tax evasion tricks' during the real estate inheritance process, and asked National Tax Service Commissioner Lim Kwang-hyun about the validity of reducing inheritance taxes for family business succession, and gave related instructions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최근 대형 베이커리 카페가 우후죽순 늘어나고, 이런 대형 베이커리 카페가 ‘10년 이상 운영 뒤 가업 상속’을 활용한 꼼수 세금 혜택 용도로 이용된다는 지적이 있어왔다&lt;br/&gt;&lt;em&gt;Recently, there have been criticisms that large bakery cafes are proliferating like mushrooms after rain, and that these large bakery cafes are being used for 'tax benefit tricks' by utilizing 'family business succession after more than 10 years of operation'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;카페가 아주 커요.&lt;br/&gt;&lt;em&gt;The cafe is very big.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;카페가 여기 있어요.&lt;br/&gt;&lt;em&gt;The cafe is here.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1556742400-b5b7c5121f99?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxjYWZlfGVufDB8fHx8MTc3NDM3MjYwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="카페가 (cafe)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령은 24일 대형 베이커리 카페가 편법 상속·증여 수단으로 활용되는 문제와 관련해 “관련 제도의 전면 개정 및 제도 보완 필요성에 대해 검토 후 보고하라”고 국세청에 지시했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung instructed the National Tax Service on the 24th to 'review and report on the need for a full revision and supplementation of related systems' regarding the issue of large bakery cafes being used as a means of inheritance and gift tax evasion.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(청와대는 이 대통령이 이날 국무회의에서 일부 대형 베이커리 카페가 부동산 상속 과정에서 ‘꼼수 감세’를 받고 있다는 문제를 재차 짚으며, 임광현 국세청장에게 가업 상속에 따른 상속세 인하의 타당성에 대해 물었고 관련 지시를 내렸다고 밝혔다&lt;br/&gt;&lt;em&gt;The Blue House stated that President Lee pointed out again at the Cabinet meeting that day that some large bakery cafes are receiving 'tax evasion tricks' during the real estate inheritance process, and asked National Tax Service Commissioner Lim Kwang-hyun about the validity of reducing inheritance taxes for family business succession, and gave related instructions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최근 대형 베이커리 카페가 우후죽순 늘어나고, 이런 대형 베이커리 카페가 ‘10년 이상 운영 뒤 가업 상속’을 활용한 꼼수 세금 혜택 용도로 이용된다는 지적이 있어왔다&lt;br/&gt;&lt;em&gt;Recently, there have been criticisms that large bakery cafes are proliferating like mushrooms after rain, and that these large bakery cafes are being used for 'tax benefit tricks' by utilizing 'family business succession after more than 10 years of operation'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;카페가 아주 커요.&lt;br/&gt;&lt;em&gt;The cafe is very big.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;카페가 여기 있어요.&lt;br/&gt;&lt;em&gt;The cafe is here.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 25 Mar 2026 02:16:57 +0900</pubDate><guid isPermaLink="false">vocab-39a6eefb7826c7c8da659bd8a92214f5559ce194</guid><enclosure url="https://images.unsplash.com/photo-1556742400-b5b7c5121f99?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxjYWZlfGVufDB8fHx8MTc3NDM3MjYwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="284130" /><ns2:content url="https://images.unsplash.com/photo-1556742400-b5b7c5121f99?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxjYWZlfGVufDB8fHx8MTc3NDM3MjYwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1556742400-b5b7c5121f99?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxjYWZlfGVufDB8fHx8MTc3NDM3MjYwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>카페가</category></item><item><title>노동자는 – worker</title><link>urn:urn:vocab:노동자는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JrZXJ8ZW58MHx8fHwxNzc0MzY0NjU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="노동자는 (worker)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Workers Are Inherently the Weaker Party" (李 대통령 “노동3권 제대로 보장돼야… 노동자는 본질적 약자”) &lt;&lt;br/&gt;&lt;em&gt;"Workers Are Inherently the Weaker Party" (President Lee: "Labor rights must be properly guaranteed... Workers are inherently the weaker party") &lt;&lt;/em&gt;&lt;/p&gt;
