@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 19:48:41 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 21:55:10 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>활동으로 – as an activity</title><link>urn:urn:vocab:활동으로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>재산세 – property tax</title><link>urn:urn:vocab:재산세</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1707623988408-ab88c9981730?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eSUyMHRheHxlbnwwfHx8fDE3NzQzNTY4OTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재산세 (property tax)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;88 million won over three years (윤 정부 ‘재산세 깨알 감세’로 압구정 현대, 3년간 1288만원 덜 내) &lt;&lt;br/&gt;&lt;em&gt;88 million won over three years (Under the Yoon administration's 'property tax penny-pinching tax cut', Hyundai Apartment in Apgujeong paid 12.88 million won less over three years)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;88 million won over three years (윤 정부 ‘재산세 깨알 감세’로 압구정 현대, 3년간 1288만원 덜 내)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;88 million won over three years (Under the Yoon administration's 'property tax penny-pinching tax cut', Hyundai Apartment in Apgujeong paid 12.88 million won less over three years)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(윤석열 정부에서 도입된 재산세 과표상한제와 보유세 세 부담 상한제 축소 등 ‘보유세 감세 패키지’ 효과로 서울 고가 아파트 보유자 1명당 적게는 200여만원에서 많게는 1300만원에 이르는 감세 혜택을 받은 것으로 분석됐다&lt;br/&gt;&lt;em&gt;An analysis found that owners of high-priced apartments in Seoul received tax reduction benefits ranging from about 2 million won to as much as 13 million won per person, due to the effects of the 'property tax reduction package' introduced by the Yoon Suk-yeol administration, including the property tax assessment cap system and reduction of the property holding tax burden cap.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;재산세를 내야 해요.&lt;br/&gt;&lt;em&gt;You have to pay property tax.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;재산세가 비싸요.&lt;br/&gt;&lt;em&gt;Property tax is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1707623988408-ab88c9981730?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eSUyMHRheHxlbnwwfHx8fDE3NzQzNTY4OTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재산세 (property tax)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;88 million won over three years (윤 정부 ‘재산세 깨알 감세’로 압구정 현대, 3년간 1288만원 덜 내) &lt;&lt;br/&gt;&lt;em&gt;88 million won over three years (Under the Yoon administration's 'property tax penny-pinching tax cut', Hyundai Apartment in Apgujeong paid 12.88 million won less over three years)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;88 million won over three years (윤 정부 ‘재산세 깨알 감세’로 압구정 현대, 3년간 1288만원 덜 내)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;88 million won over three years (Under the Yoon administration's 'property tax penny-pinching tax cut', Hyundai Apartment in Apgujeong paid 12.88 million won less over three years)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(윤석열 정부에서 도입된 재산세 과표상한제와 보유세 세 부담 상한제 축소 등 ‘보유세 감세 패키지’ 효과로 서울 고가 아파트 보유자 1명당 적게는 200여만원에서 많게는 1300만원에 이르는 감세 혜택을 받은 것으로 분석됐다&lt;br/&gt;&lt;em&gt;An analysis found that owners of high-priced apartments in Seoul received tax reduction benefits ranging from about 2 million won to as much as 13 million won per person, due to the effects of the 'property tax reduction package' introduced by the Yoon Suk-yeol administration, including the property tax assessment cap system and reduction of the property holding tax burden cap.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;재산세를 내야 해요.&lt;br/&gt;&lt;em&gt;You have to pay property tax.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;재산세가 비싸요.&lt;br/&gt;&lt;em&gt;Property tax is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 24 Mar 2026 21:55:10 +0900</pubDate><guid isPermaLink="false">vocab-1c895688df4da99a66e2bbcb8ecf39f1032994e2</guid><enclosure url="https://images.unsplash.com/photo-1707623988408-ab88c9981730?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eSUyMHRheHxlbnwwfHx8fDE3NzQzNTY4OTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="45729" /><ns2:content url="https://images.unsplash.com/photo-1707623988408-ab88c9981730?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eSUyMHRheHxlbnwwfHx8fDE3NzQzNTY4OTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1707623988408-ab88c9981730?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eSUyMHRheHxlbnwwfHx8fDE3NzQzNTY4OTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>재산세</category></item><item><title>활동으로 – as an activity</title><link>urn:urn:vocab:활동으로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1769697705317-a9ac8376d295?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGFuJTIwYWN0aXZpdHl8ZW58MHx8fHwxNzc0MzQ5MzEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="활동으로 (as an activity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이번 협약과 공연은 호원대학교 RISE사업단의 글로컬대학30 대학상생사업의 일환으로 추진하는 ‘글로벌 K-컬처 인플루언서 양성사업’의 해외 네트워킹 활동으로, 국내외 대학 간 경계를 허물고 산업 연계형 교육 모델을 구축하고자 마련됐다&lt;br/&gt;&lt;em&gt;(This agreement and performance were prepared as part of the overseas networking activities of the 'Global K-Culture Influencer Training Project', which is being promoted as part of Hohwon University's RISE Business Unit's Glocal University 30 University Symbiosis Project, aiming to break down boundaries between domestic and international universities and establish an industry-linked education model.)&lt;/em&gt;&lt;/p&gt;
