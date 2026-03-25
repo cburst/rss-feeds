@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 08:45:59 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 13:04:39 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>국내에 – domestically</title><link>urn:urn:vocab:국내에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>대응하고 – to respond</title><link>urn:urn:vocab:대응하고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604261297214-39fbeb15c7f5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJlc3BvbmR8ZW58MHx8fHwxNzc0NDExNDY0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대응하고 (to respond)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(또한, 중동 상황이 에너지, 금융, 실물 경제 등 우리 경제에 미치는 영향을 최소화하기 위해 가용 정책 수단을 총동원해 대응하고 있습니다&lt;br/&gt;&lt;em&gt;(Additionally, we are mobilizing all available policy measures to respond and minimize the impact of the Middle East situation on our economy, including energy, finance, and the real economy.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;위기 상황을 틈탄 과도한 석유 가격 인상에 단호히 대응하고 소비자 부담을 완화하기 위해 석유 최고 가격제를 시행 중이며, 외환과 금융시장에 대한 모니터링을 강화하고 100조원 플러스 알파(+α)의 시장 안정 조치가 적기 시행될 수 있도록 선제적 대응에 만전을 다하고 있습니다&lt;br/&gt;&lt;em&gt;(We are implementing a maximum oil price system to firmly respond to excessive oil price hikes taking advantage of the crisis situation and alleviate consumer burden, while strengthening monitoring of foreign exchange and financial markets and ensuring thorough preemptive responses so that market stabilization measures of 100 trillion won plus alpha can be implemented in a timely manner.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(매주 1회는 본부장인 총리가 직접 주재하고 나머지 1회는 부본부장인 경제부총리가 주재함으로써 급변하는 상황에 기민하게 대응하고, 각 부처와 분야별 대응에 빈틈이 없도록 유기적 연계를 강화하겠습니다&lt;br/&gt;&lt;em&gt;(By having the Prime Minister, as the head of the headquarters, directly preside over one meeting per week and the Deputy Prime Minister for Economy, as the deputy head, preside over the other, we will respond agilely to rapidly changing situations and strengthen organic linkages to ensure there are no gaps in responses across ministries and sectors.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 질문에 대응하고 있어요.&lt;br/&gt;&lt;em&gt;He is responding to the question.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 상황을 대응하고 있어요.&lt;br/&gt;&lt;em&gt;We are responding to the situation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604261297214-39fbeb15c7f5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJlc3BvbmR8ZW58MHx8fHwxNzc0NDExNDY0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대응하고 (to respond)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(또한, 중동 상황이 에너지, 금융, 실물 경제 등 우리 경제에 미치는 영향을 최소화하기 위해 가용 정책 수단을 총동원해 대응하고 있습니다&lt;br/&gt;&lt;em&gt;(Additionally, we are mobilizing all available policy measures to respond and minimize the impact of the Middle East situation on our economy, including energy, finance, and the real economy.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;위기 상황을 틈탄 과도한 석유 가격 인상에 단호히 대응하고 소비자 부담을 완화하기 위해 석유 최고 가격제를 시행 중이며, 외환과 금융시장에 대한 모니터링을 강화하고 100조원 플러스 알파(+α)의 시장 안정 조치가 적기 시행될 수 있도록 선제적 대응에 만전을 다하고 있습니다&lt;br/&gt;&lt;em&gt;(We are implementing a maximum oil price system to firmly respond to excessive oil price hikes taking advantage of the crisis situation and alleviate consumer burden, while strengthening monitoring of foreign exchange and financial markets and ensuring thorough preemptive responses so that market stabilization measures of 100 trillion won plus alpha can be implemented in a timely manner.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(매주 1회는 본부장인 총리가 직접 주재하고 나머지 1회는 부본부장인 경제부총리가 주재함으로써 급변하는 상황에 기민하게 대응하고, 각 부처와 분야별 대응에 빈틈이 없도록 유기적 연계를 강화하겠습니다&lt;br/&gt;&lt;em&gt;(By having the Prime Minister, as the head of the headquarters, directly preside over one meeting per week and the Deputy Prime Minister for Economy, as the deputy head, preside over the other, we will respond agilely to rapidly changing situations and strengthen organic linkages to ensure there are no gaps in responses across ministries and sectors.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 질문에 대응하고 있어요.&lt;br/&gt;&lt;em&gt;He is responding to the question.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 상황을 대응하고 있어요.&lt;br/&gt;&lt;em&gt;We are responding to the situation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 25 Mar 2026 13:04:38 +0900</pubDate><guid isPermaLink="false">vocab-195b75e44937e7d3d9e694c3a7b608103a680720</guid><enclosure url="https://images.unsplash.com/photo-1604261297214-39fbeb15c7f5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJlc3BvbmR8ZW58MHx8fHwxNzc0NDExNDY0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="311544" /><ns2:content url="https://images.unsplash.com/photo-1604261297214-39fbeb15c7f5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJlc3BvbmR8ZW58MHx8fHwxNzc0NDExNDY0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1604261297214-39fbeb15c7f5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJlc3BvbmR8ZW58MHx8fHwxNzc0NDExNDY0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>대응하고</category></item><item><title>대응을 – response</title><link>urn:urn:vocab:대응을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1630769989573-d7f20f0193b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNwb25zZXxlbnwwfHx8fDE3NzQ0MDM2ODV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대응을 (response)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김 총리는 “이번 중동 전쟁 대응을 계기로 삼아, 공급망 경쟁력 강화, 자본시장 체질 개선, 에너지 구조 전환 등, 위기를 기회로 만들기 위한 중장기 과제들도 속도감 있게 추진해 나갈 것”이라고 했다&lt;br/&gt;&lt;em&gt;Prime Minister Kim said, "Taking this Middle East war response as an opportunity, we will also swiftly promote mid- to long-term tasks to turn the crisis into an opportunity, such as strengthening supply chain competitiveness, improving the capital market structure, and transitioning the energy structure."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(비상경제본부 산하에는 복합 위기 상황에 대한 종합적 대응을 위해, 경제 분야는 물론 복지·외교 분야를 망라한 5개 실무 대응반을 운영합니다&lt;br/&gt;&lt;em&gt;Under the Emergency Economic Headquarters, five practical response teams are operated, covering not only the economic field but also welfare and diplomacy fields, for comprehensive response to complex crisis situations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(또한 이번 중동 전쟁 대응을 계기로 삼아, 공급망 경쟁력 강화, 자본시장 체질 개선, 에너지 구조 전환 등, 위기를 기회로 만들기 위한 중장기 과제들도 속도감 있게 추진해 나갈 것입니다&lt;br/&gt;&lt;em&gt;Furthermore, taking this Middle East war response as an opportunity, we will also swiftly promote mid- to long-term tasks to turn the crisis into an opportunity, such as strengthening supply chain competitiveness, improving the capital market structure, and transitioning the energy structure.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대응을 준비합니다.&lt;br/&gt;&lt;em&gt;Preparing for response.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대응을 기다립니다.&lt;br/&gt;&lt;em&gt;Waiting for response.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1630769989573-d7f20f0193b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNwb25zZXxlbnwwfHx8fDE3NzQ0MDM2ODV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대응을 (response)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김 총리는 “이번 중동 전쟁 대응을 계기로 삼아, 공급망 경쟁력 강화, 자본시장 체질 개선, 에너지 구조 전환 등, 위기를 기회로 만들기 위한 중장기 과제들도 속도감 있게 추진해 나갈 것”이라고 했다&lt;br/&gt;&lt;em&gt;Prime Minister Kim said, "Taking this Middle East war response as an opportunity, we will also swiftly promote mid- to long-term tasks to turn the crisis into an opportunity, such as strengthening supply chain competitiveness, improving the capital market structure, and transitioning the energy structure."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(비상경제본부 산하에는 복합 위기 상황에 대한 종합적 대응을 위해, 경제 분야는 물론 복지·외교 분야를 망라한 5개 실무 대응반을 운영합니다&lt;br/&gt;&lt;em&gt;Under the Emergency Economic Headquarters, five practical response teams are operated, covering not only the economic field but also welfare and diplomacy fields, for comprehensive response to complex crisis situations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(또한 이번 중동 전쟁 대응을 계기로 삼아, 공급망 경쟁력 강화, 자본시장 체질 개선, 에너지 구조 전환 등, 위기를 기회로 만들기 위한 중장기 과제들도 속도감 있게 추진해 나갈 것입니다&lt;br/&gt;&lt;em&gt;Furthermore, taking this Middle East war response as an opportunity, we will also swiftly promote mid- to long-term tasks to turn the crisis into an opportunity, such as strengthening supply chain competitiveness, improving the capital market structure, and transitioning the energy structure.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대응을 준비합니다.&lt;br/&gt;&lt;em&gt;Preparing for response.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대응을 기다립니다.&lt;br/&gt;&lt;em&gt;Waiting for response.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 25 Mar 2026 10:54:55 +0900</pubDate><guid isPermaLink="false">vocab-90533ab0af159c190d161a14b2405d685d2e828a</guid><enclosure url="https://images.unsplash.com/photo-1630769989573-d7f20f0193b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNwb25zZXxlbnwwfHx8fDE3NzQ0MDM2ODV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="195737" /><ns2:content url="https://images.unsplash.com/photo-1630769989573-d7f20f0193b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNwb25zZXxlbnwwfHx8fDE3NzQ0MDM2ODV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1630769989573-d7f20f0193b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNwb25zZXxlbnwwfHx8fDE3NzQ0MDM2ODV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>대응을</category></item><item><title>국내에 – domestically</title><link>urn:urn:vocab:국내에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;신세계는 최근 리플렉션 AI와 함께 국내에 250MW(메가와트) 규모의 초대형 AI 데이터 센터를 짓기로 했다&lt;br/&gt;&lt;em&gt;Shinsegae recently decided to build a 250MW (megawatt) super-large AI data center in Korea in collaboration with Reflection AI.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;" (총리실에 따르면, 김 총리는 이날 오후 정부서울청사에서 라스킨 대표와 정 회장을 접견하고 “양사가 국내에 AI 데이터 센터를 구축하는 등 민간 차원에서 AI 기술 협력 사업을 새롭게 시작한다는 점을 긍정적으로 평가한다”고 말했다&lt;br/&gt;&lt;em&gt;According to the Prime Minister's Office, Prime Minister Kim met with Representative Raskin and Chairman Jung at the Government Seoul Complex in the afternoon and said, 'We positively evaluate that the two companies are newly starting AI technology cooperation projects at the private level, such as building an AI data center in Korea.'&lt;/em&gt;&lt;/p&gt;
