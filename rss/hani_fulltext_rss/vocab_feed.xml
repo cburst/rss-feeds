@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 21:47:17 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 23:52:40 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>자회사 – subsidiary company</title><link>urn:urn:vocab:자회사</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>국내외 – domestic and foreign</title><link>urn:urn:vocab:국내외</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771690289180-c516f31f84bb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb21lc3RpYyUyMGFuZCUyMGZvcmVpZ258ZW58MHx8fHwxNzc0NDUwMzQ2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국내외 (domestic and foreign)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최근 중동 사태로 국내외 금융시장 변동성이 확대된 가운데 열린 이 자리에서 대통령은 단기적 시장 안정에 그치지 않고 자본시장의 근본적인 체질개선이 더욱 중요하다는 점을 강조했다&lt;br/&gt;&lt;em&gt;Amid heightened volatility in domestic and international financial markets due to recent Middle East tensions, the President emphasized at this meeting that it is even more important to fundamentally improve the capital market's structure rather than merely achieving short-term market stability.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이를 위해 정부는 ‘100조원+알파(α)’ 규모의 시장안정 프로그램 가동, 가짜뉴스·시세교란 무관용 엄벌 등 단기 대응과 함께 △신뢰(공정하고 투명한 시장질서 확립) △주주보호(주주가치가 존중되는 기업문화 조성) △혁신(혁신기업 성장사다리 체계 구축) △시장접근성(국내외 자금의 투자환경 개선) 등 4대 방향을 중심으로 한 ‘자본시장 체질개선 방안’을 발표했다&lt;br/&gt;&lt;em&gt;To this end, the government announced a 'Capital Market Structural Improvement Plan' centered on four key directions—Trust (establishing a fair and transparent market order), Shareholder Protection (fostering a corporate culture that respects shareholder value), Innovation (building a growth ladder system for innovative companies), and Market Accessibility (improving the investment environment for domestic and foreign funds)—alongside short-term responses such as activating a market stabilization program worth '100 trillion won plus alpha' and imposing strict penalties without tolerance for fake news and market manipulation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 주총을 앞두고 아이에스에스(ISS) 등 국내외 대부분 의결권 자문기관과 국민연금 등 주요 기관투자자 대다수가 영풍·엠비케이 파트너스쪽의 정관 개정 제안을 지지했다&lt;br/&gt;&lt;em&gt;(Ahead of this shareholder meeting, most domestic and international proxy advisory firms, including ISS, and a majority of major institutional investors such as the National Pension Service supported the articles of amendment proposal from Youngpoong and MBK Partners.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국내외 여행을 좋아해요.&lt;br/&gt;&lt;em&gt;I like traveling both domestically and internationally.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국내외 뉴스를 봤어요.&lt;br/&gt;&lt;em&gt;I watched both domestic and international news.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771690289180-c516f31f84bb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb21lc3RpYyUyMGFuZCUyMGZvcmVpZ258ZW58MHx8fHwxNzc0NDUwMzQ2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국내외 (domestic and foreign)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최근 중동 사태로 국내외 금융시장 변동성이 확대된 가운데 열린 이 자리에서 대통령은 단기적 시장 안정에 그치지 않고 자본시장의 근본적인 체질개선이 더욱 중요하다는 점을 강조했다&lt;br/&gt;&lt;em&gt;Amid heightened volatility in domestic and international financial markets due to recent Middle East tensions, the President emphasized at this meeting that it is even more important to fundamentally improve the capital market's structure rather than merely achieving short-term market stability.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이를 위해 정부는 ‘100조원+알파(α)’ 규모의 시장안정 프로그램 가동, 가짜뉴스·시세교란 무관용 엄벌 등 단기 대응과 함께 △신뢰(공정하고 투명한 시장질서 확립) △주주보호(주주가치가 존중되는 기업문화 조성) △혁신(혁신기업 성장사다리 체계 구축) △시장접근성(국내외 자금의 투자환경 개선) 등 4대 방향을 중심으로 한 ‘자본시장 체질개선 방안’을 발표했다&lt;br/&gt;&lt;em&gt;To this end, the government announced a 'Capital Market Structural Improvement Plan' centered on four key directions—Trust (establishing a fair and transparent market order), Shareholder Protection (fostering a corporate culture that respects shareholder value), Innovation (building a growth ladder system for innovative companies), and Market Accessibility (improving the investment environment for domestic and foreign funds)—alongside short-term responses such as activating a market stabilization program worth '100 trillion won plus alpha' and imposing strict penalties without tolerance for fake news and market manipulation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 주총을 앞두고 아이에스에스(ISS) 등 국내외 대부분 의결권 자문기관과 국민연금 등 주요 기관투자자 대다수가 영풍·엠비케이 파트너스쪽의 정관 개정 제안을 지지했다&lt;br/&gt;&lt;em&gt;(Ahead of this shareholder meeting, most domestic and international proxy advisory firms, including ISS, and a majority of major institutional investors such as the National Pension Service supported the articles of amendment proposal from Youngpoong and MBK Partners.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국내외 여행을 좋아해요.&lt;br/&gt;&lt;em&gt;I like traveling both domestically and internationally.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국내외 뉴스를 봤어요.&lt;br/&gt;&lt;em&gt;I watched both domestic and international news.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 25 Mar 2026 23:52:39 +0900</pubDate><guid isPermaLink="false">vocab-851815058b1b6200deb210e1d0e7c8900d7e404b</guid><enclosure url="https://images.unsplash.com/photo-1771690289180-c516f31f84bb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb21lc3RpYyUyMGFuZCUyMGZvcmVpZ258ZW58MHx8fHwxNzc0NDUwMzQ2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="271746" /><ns2:content url="https://images.unsplash.com/photo-1771690289180-c516f31f84bb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb21lc3RpYyUyMGFuZCUyMGZvcmVpZ258ZW58MHx8fHwxNzc0NDUwMzQ2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1771690289180-c516f31f84bb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb21lc3RpYyUyMGFuZCUyMGZvcmVpZ258ZW58MHx8fHwxNzc0NDUwMzQ2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>국내외</category></item><item><title>자회사 – subsidiary company</title><link>urn:urn:vocab:자회사</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1563717042882-c452c3b484f9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdWJzaWRpYXJ5JTIwY29tcGFueXxlbnwwfHx8fDE3NzQ0NDI4Mjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자회사 (subsidiary company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(자회사를 별도로 상장하는 중복상장은 모회사 주주의 이익을 희석시키는 대표적인 수단으로 지목돼 왔다&lt;br/&gt;&lt;em&gt;(Duplicate listing, which involves separately listing a subsidiary, has been identified as a typical means of diluting the interests of parent company shareholders)&lt;/em&gt;&lt;/p&gt;

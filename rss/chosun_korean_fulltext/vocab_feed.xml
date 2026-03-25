@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 21:47:30 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 23:52:49 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,25 @@
 
 
 
-  <item><title>요청했다 – requested</title><link>urn:urn:vocab:요청했다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>안녕하십니까 – Hello (formal)</title><link>urn:urn:vocab:안녕하십니까</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1759310610325-2c7cb621e5e3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIZWxsbyUyMCUyOGZvcm1hbCUyOXxlbnwwfHx8fDE3NzQ0NTAzNjN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="안녕하십니까 (Hello (formal))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(안녕하십니까&lt;br/&gt;&lt;em&gt;Hello&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;안녕하십니까, 선생님.&lt;br/&gt;&lt;em&gt;Hello, teacher.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;안녕하십니까, 어머니.&lt;br/&gt;&lt;em&gt;Hello, mother.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1759310610325-2c7cb621e5e3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIZWxsbyUyMCUyOGZvcm1hbCUyOXxlbnwwfHx8fDE3NzQ0NTAzNjN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="안녕하십니까 (Hello (formal))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(안녕하십니까&lt;br/&gt;&lt;em&gt;Hello&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;안녕하십니까, 선생님.&lt;br/&gt;&lt;em&gt;Hello, teacher.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;안녕하십니까, 어머니.&lt;br/&gt;&lt;em&gt;Hello, mother.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 25 Mar 2026 23:52:49 +0900</pubDate><guid isPermaLink="false">vocab-65c203de03d9cd21184e31ad80d9ff1bbaeca33e</guid><enclosure url="https://images.unsplash.com/photo-1759310610325-2c7cb621e5e3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIZWxsbyUyMCUyOGZvcm1hbCUyOXxlbnwwfHx8fDE3NzQ0NTAzNjN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="156304" /><ns2:content url="https://images.unsplash.com/photo-1759310610325-2c7cb621e5e3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIZWxsbyUyMCUyOGZvcm1hbCUyOXxlbnwwfHx8fDE3NzQ0NTAzNjN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1759310610325-2c7cb621e5e3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIZWxsbyUyMCUyOGZvcm1hbCUyOXxlbnwwfHx8fDE3NzQ0NTAzNjN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>안녕하십니까</category></item><item><title>요청했다 – requested</title><link>urn:urn:vocab:요청했다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이재명 대통령은 마르코스 필리핀 대통령과의 회담에서 박씨의 ‘임시 인도’를 직접 요청했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung directly requested the 'temporary extradition' of Mr. Park during his meeting with Philippine President Marcos.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;(이 밖에 대장동 비리 의혹 수사팀도 대거 증인으로 요청했다&lt;br/&gt;&lt;em&gt;(In addition, the investigation team for the Daejang-dong corruption allegations also requested a large number of witnesses.&lt;/em&gt;&lt;/p&gt;
