@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 23:52:49 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 02:16:27 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>안녕하십니까 – Hello (formal)</title><link>urn:urn:vocab:안녕하십니까</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사건의 – of the incident/case</title><link>urn:urn:vocab:사건의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624968683033-c31c672453e2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGluY2lkZW50JTJGY2FzZXxlbnwwfHx8fDE3NzQ0NTg5NzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사건의 (of the incident/case)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국민의힘에서는 민주당이 이재명 대통령의 대장동 사건 등 현재 재판 중인 7개 사건의 공소 취소를 위해 검사들을 불러들이는 것이라고 비판하고 있다&lt;br/&gt;&lt;em&gt;The People Power Party is criticizing the Democratic Party for summoning prosecutors to drop charges in seven ongoing cases, including President Lee Jae-myung's Daejang-dong case.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘국정감사 및 조사에 관한 법률’ 제8조는 “국정조사는 계속 중인 재판 또는 수사 중인 사건의 소추에 관여할 목적으로 행사돼서는 안 된다”고 규정하는데, 민주당은 이재명 대통령의 대장동 사건 등 현재 재판 중인 7개 사건의 공소취소를 위한 국정조사를 추진하고 있기 때문이다&lt;br/&gt;&lt;em&gt;Article 8 of the 'Act on National Assembly Inspection and Investigation' stipulates that 'national investigations shall not be exercised for the purpose of interfering with the prosecution of ongoing trials or investigations,' but the Democratic Party is pushing for a national investigation to drop charges in seven ongoing cases, including President Lee Jae-myung's Daejang-dong case.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(탄핵안 초안에 따르면, 조 대법원장의 탄핵 사유는 크게 ‘이 대통령 사건의 불법 사전 배당’ ’12·3 비상계엄 전후의 헌법 및 법률 위배 행위’다&lt;br/&gt;&lt;em&gt;(According to the draft impeachment motion, the grounds for impeaching Chief Justice Cho are largely 'illegal pre-allocation of President Lee's case' and 'violations of the Constitution and laws before and after the December 3 state of emergency.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사건의 진실을 알았어요.&lt;br/&gt;&lt;em&gt;I found out the truth of the case.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사건의 세부 사항이 중요해요.&lt;br/&gt;&lt;em&gt;The details of the case are important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624968683033-c31c672453e2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGluY2lkZW50JTJGY2FzZXxlbnwwfHx8fDE3NzQ0NTg5NzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사건의 (of the incident/case)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국민의힘에서는 민주당이 이재명 대통령의 대장동 사건 등 현재 재판 중인 7개 사건의 공소 취소를 위해 검사들을 불러들이는 것이라고 비판하고 있다&lt;br/&gt;&lt;em&gt;The People Power Party is criticizing the Democratic Party for summoning prosecutors to drop charges in seven ongoing cases, including President Lee Jae-myung's Daejang-dong case.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘국정감사 및 조사에 관한 법률’ 제8조는 “국정조사는 계속 중인 재판 또는 수사 중인 사건의 소추에 관여할 목적으로 행사돼서는 안 된다”고 규정하는데, 민주당은 이재명 대통령의 대장동 사건 등 현재 재판 중인 7개 사건의 공소취소를 위한 국정조사를 추진하고 있기 때문이다&lt;br/&gt;&lt;em&gt;Article 8 of the 'Act on National Assembly Inspection and Investigation' stipulates that 'national investigations shall not be exercised for the purpose of interfering with the prosecution of ongoing trials or investigations,' but the Democratic Party is pushing for a national investigation to drop charges in seven ongoing cases, including President Lee Jae-myung's Daejang-dong case.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(탄핵안 초안에 따르면, 조 대법원장의 탄핵 사유는 크게 ‘이 대통령 사건의 불법 사전 배당’ ’12·3 비상계엄 전후의 헌법 및 법률 위배 행위’다&lt;br/&gt;&lt;em&gt;(According to the draft impeachment motion, the grounds for impeaching Chief Justice Cho are largely 'illegal pre-allocation of President Lee's case' and 'violations of the Constitution and laws before and after the December 3 state of emergency.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사건의 진실을 알았어요.&lt;br/&gt;&lt;em&gt;I found out the truth of the case.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사건의 세부 사항이 중요해요.&lt;br/&gt;&lt;em&gt;The details of the case are important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 26 Mar 2026 02:16:27 +0900</pubDate><guid isPermaLink="false">vocab-fe4bcf0eefc467d4c2669c4367c3a2869f6facae</guid><enclosure url="https://images.unsplash.com/photo-1624968683033-c31c672453e2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGluY2lkZW50JTJGY2FzZXxlbnwwfHx8fDE3NzQ0NTg5NzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="264810" /><ns2:content url="https://images.unsplash.com/photo-1624968683033-c31c672453e2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGluY2lkZW50JTJGY2FzZXxlbnwwfHx8fDE3NzQ0NTg5NzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1624968683033-c31c672453e2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGluY2lkZW50JTJGY2FzZXxlbnwwfHx8fDE3NzQ0NTg5NzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사건의</category></item><item><title>안녕하십니까 – Hello (formal)</title><link>urn:urn:vocab:안녕하십니까</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1759310610325-2c7cb621e5e3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIZWxsbyUyMCUyOGZvcm1hbCUyOXxlbnwwfHx8fDE3NzQ0NTAzNjN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="안녕하십니까 (Hello (formal))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(안녕하십니까&lt;br/&gt;&lt;em&gt;Hello&lt;/em&gt;&lt;/p&gt;
