@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 15:12:14 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 17:19:51 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>퇴직금 – retirement pay</title><link>urn:urn:vocab:퇴직금</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>대회에서 – at the competition</title><link>urn:urn:vocab:대회에서</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1721209215170-7d9cf77347ec?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGNvbXBldGl0aW9ufGVufDB8fHx8MTc3NDQyNjc4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대회에서 (at the competition)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이세형 학생은 ‘제5회 호남 사이버보안 컨퍼런스’ 웹취약점 경진대회에서도 최우수상을 획득, 지역 보안 생태계 활성화를 위한 분야에서도 탄탄한 기본기를 뽐냈다&lt;br/&gt;&lt;em&gt;Lee Se-hyung also won the top prize in the web vulnerability competition at the '5th Honam Cyber Security Conference', demonstrating solid foundational skills in the field of revitalizing the local security ecosystem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김서진·김부승(25학번) 학생은 ‘해킹방어대회(HACKSIUM BUSAN 2025)’ 대회에서 원수상을 받았다&lt;br/&gt;&lt;em&gt;Kim Seo-jin and Kim Bu-seung (Class of '25) received the Wonsoo Award at the 'Hacking Defense Competition (HACKSIUM BUSAN 2025)'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;장현수 학생은 ‘SW마에스트로’ 제16기 프롬프트 엔지니어링 대회에서 10위를 기록하며, AI와 보안이 융합된 차세대 기술 영역에서도 경쟁력을 증명했다&lt;br/&gt;&lt;em&gt;Jang Hyun-soo placed 10th in the 'SW Maestro' 16th Prompt Engineering Competition, proving competitiveness in the next-generation technology field where AI and security converge.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대회에서 축구를 했어요.&lt;br/&gt;&lt;em&gt;I played soccer in the competition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대회에서 친구를 만났어요.&lt;br/&gt;&lt;em&gt;I met a friend at the competition.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1721209215170-7d9cf77347ec?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGNvbXBldGl0aW9ufGVufDB8fHx8MTc3NDQyNjc4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대회에서 (at the competition)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이세형 학생은 ‘제5회 호남 사이버보안 컨퍼런스’ 웹취약점 경진대회에서도 최우수상을 획득, 지역 보안 생태계 활성화를 위한 분야에서도 탄탄한 기본기를 뽐냈다&lt;br/&gt;&lt;em&gt;Lee Se-hyung also won the top prize in the web vulnerability competition at the '5th Honam Cyber Security Conference', demonstrating solid foundational skills in the field of revitalizing the local security ecosystem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김서진·김부승(25학번) 학생은 ‘해킹방어대회(HACKSIUM BUSAN 2025)’ 대회에서 원수상을 받았다&lt;br/&gt;&lt;em&gt;Kim Seo-jin and Kim Bu-seung (Class of '25) received the Wonsoo Award at the 'Hacking Defense Competition (HACKSIUM BUSAN 2025)'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;장현수 학생은 ‘SW마에스트로’ 제16기 프롬프트 엔지니어링 대회에서 10위를 기록하며, AI와 보안이 융합된 차세대 기술 영역에서도 경쟁력을 증명했다&lt;br/&gt;&lt;em&gt;Jang Hyun-soo placed 10th in the 'SW Maestro' 16th Prompt Engineering Competition, proving competitiveness in the next-generation technology field where AI and security converge.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대회에서 축구를 했어요.&lt;br/&gt;&lt;em&gt;I played soccer in the competition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대회에서 친구를 만났어요.&lt;br/&gt;&lt;em&gt;I met a friend at the competition.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 25 Mar 2026 17:19:51 +0900</pubDate><guid isPermaLink="false">vocab-437c74533d0fd3561bd30a0e378af190eeb59543</guid><enclosure url="https://images.unsplash.com/photo-1721209215170-7d9cf77347ec?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGNvbXBldGl0aW9ufGVufDB8fHx8MTc3NDQyNjc4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="483047" /><ns2:content url="https://images.unsplash.com/photo-1721209215170-7d9cf77347ec?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGNvbXBldGl0aW9ufGVufDB8fHx8MTc3NDQyNjc4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1721209215170-7d9cf77347ec?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGNvbXBldGl0aW9ufGVufDB8fHx8MTc3NDQyNjc4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>대회에서</category></item><item><title>퇴직금 – retirement pay</title><link>urn:urn:vocab:퇴직금</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1759425628824-197a109ddce1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXRpcmVtZW50JTIwcGF5fGVufDB8fHx8MTc3NDQxOTEyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="퇴직금 (retirement pay)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Shareholders' Meeting Confirms Invalidity of Self-Determined Compensation (고려아연 회장 일가 ‘4배 퇴직금’ 주총서 제동…셀프보수 무효 확인) &lt;&lt;br/&gt;&lt;em&gt;Shareholders' Meeting Confirms Invalidity of Self-Determined Compensation (Korea Zinc Chairman's Family '4x Severance Pay' Blocked at Shareholders' Meeting...Self-Determined Compensation Invalidity Confirmed)&lt;/em&gt;&lt;/p&gt;
