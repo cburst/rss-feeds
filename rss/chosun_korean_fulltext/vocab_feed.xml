@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 17:20:05 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 19:28:44 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>위기를 – crisis</title><link>urn:urn:vocab:위기를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>원자재 – raw materials</title><link>urn:urn:vocab:원자재</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605085721615-93a6919c1115?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXclMjBtYXRlcmlhbHN8ZW58MHx8fHwxNzc0NDM0NTE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="원자재 (raw materials)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(김 총리가 이끄는 비상경제본부 산하에는 ‘거시경제/물가대응반’, ‘에너지수급반’, ‘금융안정반’, ‘민생복지반’, ‘해외상황관리반’ 등 5개 실무 대응반을 두고, 각각 물가 안정과 에너지·원자재 수급, 금융시장 안정, 취약 계층 지원, 국제 정세 분석 업무를 하기로 했다&lt;br/&gt;&lt;em&gt;(Under the emergency economic headquarters led by Prime Minister Kim, five working response teams have been established: 'Macroeconomic/Price Response Team', 'Energy Supply Team', 'Financial Stability Team', 'Livelihood and Welfare Team', and 'Overseas Situation Management Team'. Each team will handle tasks such as price stabilization, energy and raw material supply, financial market stability, support for vulnerable groups, and analysis of international situations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(하지만 중동 전쟁이 3주 넘게 지속되면서 에너지와 원자재 부족 등 중동발 경제 영향이 확대되고 있습니다&lt;br/&gt;&lt;em&gt;(However, as the Middle East war continues for over three weeks, the economic impact from the Middle East, including shortages of energy and raw materials, is expanding.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(에너지수급반은 산업통상부 장관이 반장이 되어 유가 및 원자재 수급 상황을 실시간 모니터링하고, 필요시 적기 조치를 강화하겠습니다&lt;br/&gt;&lt;em&gt;(The Energy Supply Team, with the Minister of Trade, Industry and Energy as its head, will monitor oil prices and raw material supply situations in real-time and strengthen timely measures when necessary.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;원자재가 비싸요.&lt;br/&gt;&lt;em&gt;Raw materials are expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;원자재를 구매했어요.&lt;br/&gt;&lt;em&gt;I purchased raw materials.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605085721615-93a6919c1115?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXclMjBtYXRlcmlhbHN8ZW58MHx8fHwxNzc0NDM0NTE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="원자재 (raw materials)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(김 총리가 이끄는 비상경제본부 산하에는 ‘거시경제/물가대응반’, ‘에너지수급반’, ‘금융안정반’, ‘민생복지반’, ‘해외상황관리반’ 등 5개 실무 대응반을 두고, 각각 물가 안정과 에너지·원자재 수급, 금융시장 안정, 취약 계층 지원, 국제 정세 분석 업무를 하기로 했다&lt;br/&gt;&lt;em&gt;(Under the emergency economic headquarters led by Prime Minister Kim, five working response teams have been established: 'Macroeconomic/Price Response Team', 'Energy Supply Team', 'Financial Stability Team', 'Livelihood and Welfare Team', and 'Overseas Situation Management Team'. Each team will handle tasks such as price stabilization, energy and raw material supply, financial market stability, support for vulnerable groups, and analysis of international situations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(하지만 중동 전쟁이 3주 넘게 지속되면서 에너지와 원자재 부족 등 중동발 경제 영향이 확대되고 있습니다&lt;br/&gt;&lt;em&gt;(However, as the Middle East war continues for over three weeks, the economic impact from the Middle East, including shortages of energy and raw materials, is expanding.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(에너지수급반은 산업통상부 장관이 반장이 되어 유가 및 원자재 수급 상황을 실시간 모니터링하고, 필요시 적기 조치를 강화하겠습니다&lt;br/&gt;&lt;em&gt;(The Energy Supply Team, with the Minister of Trade, Industry and Energy as its head, will monitor oil prices and raw material supply situations in real-time and strengthen timely measures when necessary.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;원자재가 비싸요.&lt;br/&gt;&lt;em&gt;Raw materials are expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;원자재를 구매했어요.&lt;br/&gt;&lt;em&gt;I purchased raw materials.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 25 Mar 2026 19:28:44 +0900</pubDate><guid isPermaLink="false">vocab-3ba0a76139d365f79fbe8d4f3692ec65390b6047</guid><enclosure url="https://images.unsplash.com/photo-1605085721615-93a6919c1115?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXclMjBtYXRlcmlhbHN8ZW58MHx8fHwxNzc0NDM0NTE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="234654" /><ns2:content url="https://images.unsplash.com/photo-1605085721615-93a6919c1115?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXclMjBtYXRlcmlhbHN8ZW58MHx8fHwxNzc0NDM0NTE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1605085721615-93a6919c1115?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXclMjBtYXRlcmlhbHN8ZW58MHx8fHwxNzc0NDM0NTE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>원자재</category></item><item><title>위기를 – crisis</title><link>urn:urn:vocab:위기를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1585829364536-ce348dd72ebc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcmlzaXN8ZW58MHx8fHwxNzc0NDI2Nzk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="위기를 (crisis)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (김 총리는 “이번 중동 전쟁 대응을 계기로 삼아, 공급망 경쟁력 강화, 자본시장 체질 개선, 에너지 구조 전환 등, 위기를 기회로 만들기 위한 중장기 과제들도 속도감 있게 추진해 나갈 것”이라고 했다&lt;br/&gt;&lt;em&gt;Prime Minister Kim said, "Taking this Middle East war response as an opportunity, we will also swiftly promote mid- to long-term tasks to turn the crisis into an opportunity, such as strengthening supply chain competitiveness, improving the capital market structure, and transitioning the energy structure."&lt;/em&gt;&lt;/p&gt;
