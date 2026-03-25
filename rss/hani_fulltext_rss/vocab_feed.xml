@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 04:23:31 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 06:33:17 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>만원이 – ten thousand won</title><link>urn:urn:vocab:만원이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>지원하고 – supporting</title><link>urn:urn:vocab:지원하고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1501770118606-b1d640526693?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0aW5nfGVufDB8fHx8MTc3NDQ3NDM4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지원하고 (supporting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;민간 투자를 유치한 로컬기업에는 최대 5억원 매칭 융자와 최대 2억원 사업화 자금을 지원하고, 2030년까지 최대 2천억원 규모 로컬기업 전용 펀드를 조성한다&lt;br/&gt;&lt;em&gt;Local companies that attract private investment will receive up to 500 million won in matching loans and up to 200 million won in commercialization funds, and a dedicated fund for local companies of up to 200 billion won will be established by 2030.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또 업무 특성을 살려 3년 연속 ‘경기도 내 발달장애 가족 기차여행’ 지원하고 있으며, 지난해부터는 ‘경기도 내 보육원 아동 여행’ 자원봉사 및 기부활동도 이어가는 등 공공기관의 환경·사회적 책임(ESG)을 다하기 위해 지속적인 활동을 전개하고 있다&lt;br/&gt;&lt;em&gt;Additionally, leveraging their operational characteristics, they have supported the 'Gyeonggi Province Train Travel for Families with Developmental Disabilities' for three consecutive years, and since last year, they have continued volunteer and donation activities for 'Gyeonggi Province Orphanage Children's Travel,' among other ongoing efforts to fulfill the environmental and social responsibilities (ESG) of public institutions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(또한 양 기관은 도쿠시마현 소재 4년제 대학과의 교류 협정 체결을 지원하고, 2년제 대학 간 2+2 편입 연계 프로그램을 추진하는 등 학사 연계 기반의 협력을 확대해 나갈 계획이다&lt;br/&gt;&lt;em&gt;(Furthermore, both institutions plan to expand cooperation based on academic linkages by supporting the signing of exchange agreements with four-year universities in Tokushima Prefecture and promoting 2+2 transfer linkage programs between two-year colleges.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 친구를 지원하고 있어요.&lt;br/&gt;&lt;em&gt;I am supporting my friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 팀을 지원하고 있습니다.&lt;br/&gt;&lt;em&gt;He is supporting the team.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1501770118606-b1d640526693?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0aW5nfGVufDB8fHx8MTc3NDQ3NDM4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지원하고 (supporting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;민간 투자를 유치한 로컬기업에는 최대 5억원 매칭 융자와 최대 2억원 사업화 자금을 지원하고, 2030년까지 최대 2천억원 규모 로컬기업 전용 펀드를 조성한다&lt;br/&gt;&lt;em&gt;Local companies that attract private investment will receive up to 500 million won in matching loans and up to 200 million won in commercialization funds, and a dedicated fund for local companies of up to 200 billion won will be established by 2030.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또 업무 특성을 살려 3년 연속 ‘경기도 내 발달장애 가족 기차여행’ 지원하고 있으며, 지난해부터는 ‘경기도 내 보육원 아동 여행’ 자원봉사 및 기부활동도 이어가는 등 공공기관의 환경·사회적 책임(ESG)을 다하기 위해 지속적인 활동을 전개하고 있다&lt;br/&gt;&lt;em&gt;Additionally, leveraging their operational characteristics, they have supported the 'Gyeonggi Province Train Travel for Families with Developmental Disabilities' for three consecutive years, and since last year, they have continued volunteer and donation activities for 'Gyeonggi Province Orphanage Children's Travel,' among other ongoing efforts to fulfill the environmental and social responsibilities (ESG) of public institutions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(또한 양 기관은 도쿠시마현 소재 4년제 대학과의 교류 협정 체결을 지원하고, 2년제 대학 간 2+2 편입 연계 프로그램을 추진하는 등 학사 연계 기반의 협력을 확대해 나갈 계획이다&lt;br/&gt;&lt;em&gt;(Furthermore, both institutions plan to expand cooperation based on academic linkages by supporting the signing of exchange agreements with four-year universities in Tokushima Prefecture and promoting 2+2 transfer linkage programs between two-year colleges.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 친구를 지원하고 있어요.&lt;br/&gt;&lt;em&gt;I am supporting my friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 팀을 지원하고 있습니다.&lt;br/&gt;&lt;em&gt;He is supporting the team.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 26 Mar 2026 06:33:17 +0900</pubDate><guid isPermaLink="false">vocab-8041ee5443d8f4d7f3690cfb443fa41bc6907735</guid><enclosure url="https://images.unsplash.com/photo-1501770118606-b1d640526693?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0aW5nfGVufDB8fHx8MTc3NDQ3NDM4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="207432" /><ns2:content url="https://images.unsplash.com/photo-1501770118606-b1d640526693?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0aW5nfGVufDB8fHx8MTc3NDQ3NDM4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1501770118606-b1d640526693?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0aW5nfGVufDB8fHx8MTc3NDQ3NDM4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>지원하고</category></item><item><title>만원이 – ten thousand won</title><link>urn:urn:vocab:만원이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605266837954-b50ada0a732a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZW4lMjB0aG91c2FuZCUyMHdvbnxlbnwwfHx8fDE3NzQ0NjY2MDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="만원이 (ten thousand won)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;그 결과 줄어드는 재산세 결정세액만 250만원이 넘는다&lt;br/&gt;&lt;em&gt;As a result, the reduced property tax determined amount exceeds 2.5 million won.&lt;/em&gt;&lt;/p&gt;
