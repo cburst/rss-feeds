@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 06:34:31 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 08:45:47 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>분야의 – field of</title><link>urn:urn:vocab:분야의</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>학교 – school</title><link>urn:urn:vocab:학교</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc0Mzk1OTM2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학교 (school)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;png" alt=""&gt;&lt;figcaption&gt;(왼쪽부터) 연세대 김병수 화학과 교수(교신저자), KAIST 이윤미 화학과 교수(교신저자), 연세대 이수민 화학과 박사과정생(공동 제1저자), KAIST 이후승 화학과 박사과정생(공동 제1저자) (연세대학교 제공)&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Polylactide (PLA) is one of the eco-friendly plastics commonly found in biodegradable cups, disposable utensils, and packaging materials used in cafes&lt;br/&gt;&lt;em&gt;(From left) Yonsei University Professor Kim Byung-soo of Chemistry (corresponding author), KAIST Professor Lee Yoon-mi of Chemistry (corresponding author), Yonsei University Ph.D. student Lee Soo-min of Chemistry (co-first author), KAIST Ph.D. student Lee Hoo-seung of Chemistry (co-first author) (Provided by Yonsei University)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(연세대학교(총장 윤동섭) 화학과 김병수 교수 연구팀은 KAIST 화학과 이윤미 교수 연구팀이 개발한 차세대 유기촉매를 활용해, PLA를 훨씬 빠르게 만들면서도 분자 구조를 정교하게 제어하는 방법을 개발했다&lt;br/&gt;&lt;em&gt;A research team led by Professor Kim Byung-soo of the Department of Chemistry at Yonsei University (President Yoon Dong-seop), utilizing a next-generation organic catalyst developed by KAIST Professor Lee Yoon-mi's research team, has developed a method to produce PLA much faster while precisely controlling its molecular structure.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(고려사이버대학교(총장 이원규) AI·데이터과학부에 재학 중인 박초영 씨가 직장과 학업을 병행하며 데이터 및 인공지능 분야 전문성 강화에 나섰다&lt;br/&gt;&lt;em&gt;Park Cho-young, a student in the AI and Data Science Department at Korea Cyber University (President Lee Won-gyu), is balancing work and studies to enhance expertise in the data and artificial intelligence fields.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교가 좋아요.&lt;br/&gt;&lt;em&gt;I like school.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc0Mzk1OTM2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학교 (school)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;png" alt=""&gt;&lt;figcaption&gt;(왼쪽부터) 연세대 김병수 화학과 교수(교신저자), KAIST 이윤미 화학과 교수(교신저자), 연세대 이수민 화학과 박사과정생(공동 제1저자), KAIST 이후승 화학과 박사과정생(공동 제1저자) (연세대학교 제공)&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Polylactide (PLA) is one of the eco-friendly plastics commonly found in biodegradable cups, disposable utensils, and packaging materials used in cafes&lt;br/&gt;&lt;em&gt;(From left) Yonsei University Professor Kim Byung-soo of Chemistry (corresponding author), KAIST Professor Lee Yoon-mi of Chemistry (corresponding author), Yonsei University Ph.D. student Lee Soo-min of Chemistry (co-first author), KAIST Ph.D. student Lee Hoo-seung of Chemistry (co-first author) (Provided by Yonsei University)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(연세대학교(총장 윤동섭) 화학과 김병수 교수 연구팀은 KAIST 화학과 이윤미 교수 연구팀이 개발한 차세대 유기촉매를 활용해, PLA를 훨씬 빠르게 만들면서도 분자 구조를 정교하게 제어하는 방법을 개발했다&lt;br/&gt;&lt;em&gt;A research team led by Professor Kim Byung-soo of the Department of Chemistry at Yonsei University (President Yoon Dong-seop), utilizing a next-generation organic catalyst developed by KAIST Professor Lee Yoon-mi's research team, has developed a method to produce PLA much faster while precisely controlling its molecular structure.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(고려사이버대학교(총장 이원규) AI·데이터과학부에 재학 중인 박초영 씨가 직장과 학업을 병행하며 데이터 및 인공지능 분야 전문성 강화에 나섰다&lt;br/&gt;&lt;em&gt;Park Cho-young, a student in the AI and Data Science Department at Korea Cyber University (President Lee Won-gyu), is balancing work and studies to enhance expertise in the data and artificial intelligence fields.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교가 좋아요.&lt;br/&gt;&lt;em&gt;I like school.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 25 Mar 2026 08:45:47 +0900</pubDate><guid isPermaLink="false">vocab-fee7c6b8fd3545321a2767881452bfcfe3c9268c</guid><enclosure url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc0Mzk1OTM2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="107853" /><ns2:content url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc0Mzk1OTM2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc0Mzk1OTM2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>학교</category></item><item><title>분야의 – field of</title><link>urn:urn:vocab:분야의</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1552529924-72da69fbb1aa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaWVsZCUyMG9mfGVufDB8fHx8MTc3NDM4ODA2MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="분야의 (field of)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;개원식과 함께 열린 학술 심포지엄에는 교내외 연구자들이 참여해 바이오·의생명 분야의 최신 연구 동향을 공유하고, 향후 융합연구 협력 방향을 모색하는 학술 교류의 장이 마련됐다&lt;br/&gt;&lt;em&gt;An academic symposium held alongside the opening ceremony provided a platform for academic exchange, where researchers from within and outside the university participated to share the latest research trends in the bio and biomedical fields and explore future directions for collaborative convergence research.&lt;/em&gt;&lt;/p&gt;
