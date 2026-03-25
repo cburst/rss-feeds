@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 19:28:44 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 21:47:30 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>원자재 – raw materials</title><link>urn:urn:vocab:원자재</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>요청했다 – requested</title><link>urn:urn:vocab:요청했다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이재명 대통령은 마르코스 필리핀 대통령과의 회담에서 박씨의 ‘임시 인도’를 직접 요청했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung directly requested the 'temporary extradition' of Mr. Park during his meeting with Philippine President Marcos.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 밖에 대장동 비리 의혹 수사팀도 대거 증인으로 요청했다&lt;br/&gt;&lt;em&gt;(In addition, the investigation team for the Daejang-dong corruption allegations also requested a large number of witnesses.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘쌍방울 불법 대북 송금 사건’을 수사한 박상용 검사도 증인으로 요청했다&lt;br/&gt;&lt;em&gt;(Prosecutor Park Sang-yong, who investigated the 'Ssangbangwool illegal North Korea remittance case', was also requested as a witness.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 도움을 요청했다.&lt;br/&gt;&lt;em&gt;I asked for help.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구가 음악을 요청했다.&lt;br/&gt;&lt;em&gt;My friend requested music.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이재명 대통령은 마르코스 필리핀 대통령과의 회담에서 박씨의 ‘임시 인도’를 직접 요청했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung directly requested the 'temporary extradition' of Mr. Park during his meeting with Philippine President Marcos.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 밖에 대장동 비리 의혹 수사팀도 대거 증인으로 요청했다&lt;br/&gt;&lt;em&gt;(In addition, the investigation team for the Daejang-dong corruption allegations also requested a large number of witnesses.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘쌍방울 불법 대북 송금 사건’을 수사한 박상용 검사도 증인으로 요청했다&lt;br/&gt;&lt;em&gt;(Prosecutor Park Sang-yong, who investigated the 'Ssangbangwool illegal North Korea remittance case', was also requested as a witness.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 도움을 요청했다.&lt;br/&gt;&lt;em&gt;I asked for help.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구가 음악을 요청했다.&lt;br/&gt;&lt;em&gt;My friend requested music.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 25 Mar 2026 21:47:30 +0900</pubDate><guid isPermaLink="false">vocab-b34018353df2923667ffa715f084b9126dc7016d</guid><category>요청했다</category></item><item><title>원자재 – raw materials</title><link>urn:urn:vocab:원자재</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605085721615-93a6919c1115?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXclMjBtYXRlcmlhbHN8ZW58MHx8fHwxNzc0NDM0NTE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="원자재 (raw materials)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(김 총리가 이끄는 비상경제본부 산하에는 ‘거시경제/물가대응반’, ‘에너지수급반’, ‘금융안정반’, ‘민생복지반’, ‘해외상황관리반’ 등 5개 실무 대응반을 두고, 각각 물가 안정과 에너지·원자재 수급, 금융시장 안정, 취약 계층 지원, 국제 정세 분석 업무를 하기로 했다&lt;br/&gt;&lt;em&gt;(Under the emergency economic headquarters led by Prime Minister Kim, five working response teams have been established: 'Macroeconomic/Price Response Team', 'Energy Supply Team', 'Financial Stability Team', 'Livelihood and Welfare Team', and 'Overseas Situation Management Team'. Each team will handle tasks such as price stabilization, energy and raw material supply, financial market stability, support for vulnerable groups, and analysis of international situations.&lt;/em&gt;&lt;/p&gt;
