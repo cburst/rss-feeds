@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 12:53:53 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 14:59:09 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>대통령에겐 – to the president</title><link>urn:urn:vocab:대통령에겐</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>방사능 – radioactivity</title><link>urn:urn:vocab:방사능</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1626823208620-4643c1884b8b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYWRpb2FjdGl2aXR5fGVufDB8fHx8MTc3NDUwNDczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방사능 (radioactivity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(일본 도쿄전력이 후쿠시마 원자력발전소의 방사능 오염 처리수를 지난 6일부터 24일까지 바다로 흘려보내는 동안 원전 인근 바다에서 방사성 원소인 삼중수소가 4차례 검출됐다고 한국 정부가 26일 밝혔다&lt;br/&gt;&lt;em&gt;The Korean government announced on the 26th that during the period from the 6th to the 24th, when Tokyo Electric Power Company (TEPCO) of Japan discharged radioactive contaminated water from the Fukushima nuclear power plant into the sea, the radioactive element tritium was detected four times in the sea near the nuclear plant.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(도쿄전력은 2011년 후쿠시마 제1원전에서 일어난 사고를 처리하는 과정에서 생긴 방사능 오염수를 수조에 보관해 왔고, ‘다핵종 제거 설비(ALPS)’를 통해 방사능 물질을 걸러내는 처리를 거친 물을 일정량씩 모아뒀다가 바다에 흘려보내고 있다&lt;br/&gt;&lt;em&gt;TEPCO has been storing radioactive contaminated water generated during the process of handling the accident at the Fukushima Daiichi Nuclear Power Plant in 2011 in tanks, and after filtering radioactive substances through the 'Advanced Liquid Processing System (ALPS)', it has been collecting a certain amount of the treated water and discharging it into the sea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;방사능은 위험합니다.&lt;br/&gt;&lt;em&gt;Radiation is dangerous.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;방사능을 조심하세요.&lt;br/&gt;&lt;em&gt;Be careful with radiation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1626823208620-4643c1884b8b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYWRpb2FjdGl2aXR5fGVufDB8fHx8MTc3NDUwNDczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방사능 (radioactivity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(일본 도쿄전력이 후쿠시마 원자력발전소의 방사능 오염 처리수를 지난 6일부터 24일까지 바다로 흘려보내는 동안 원전 인근 바다에서 방사성 원소인 삼중수소가 4차례 검출됐다고 한국 정부가 26일 밝혔다&lt;br/&gt;&lt;em&gt;The Korean government announced on the 26th that during the period from the 6th to the 24th, when Tokyo Electric Power Company (TEPCO) of Japan discharged radioactive contaminated water from the Fukushima nuclear power plant into the sea, the radioactive element tritium was detected four times in the sea near the nuclear plant.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(도쿄전력은 2011년 후쿠시마 제1원전에서 일어난 사고를 처리하는 과정에서 생긴 방사능 오염수를 수조에 보관해 왔고, ‘다핵종 제거 설비(ALPS)’를 통해 방사능 물질을 걸러내는 처리를 거친 물을 일정량씩 모아뒀다가 바다에 흘려보내고 있다&lt;br/&gt;&lt;em&gt;TEPCO has been storing radioactive contaminated water generated during the process of handling the accident at the Fukushima Daiichi Nuclear Power Plant in 2011 in tanks, and after filtering radioactive substances through the 'Advanced Liquid Processing System (ALPS)', it has been collecting a certain amount of the treated water and discharging it into the sea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;방사능은 위험합니다.&lt;br/&gt;&lt;em&gt;Radiation is dangerous.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;방사능을 조심하세요.&lt;br/&gt;&lt;em&gt;Be careful with radiation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 26 Mar 2026 14:59:09 +0900</pubDate><guid isPermaLink="false">vocab-c83d0d24816f96f6cf54af64c20591e3ae71ef58</guid><enclosure url="https://images.unsplash.com/photo-1626823208620-4643c1884b8b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYWRpb2FjdGl2aXR5fGVufDB8fHx8MTc3NDUwNDczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="185265" /><ns2:content url="https://images.unsplash.com/photo-1626823208620-4643c1884b8b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYWRpb2FjdGl2aXR5fGVufDB8fHx8MTc3NDUwNDczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1626823208620-4643c1884b8b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYWRpb2FjdGl2aXR5fGVufDB8fHx8MTc3NDUwNDczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>방사능</category></item><item><title>대통령에겐 – to the president</title><link>urn:urn:vocab:대통령에겐</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1596577759981-37e8daee06cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMHByZXNpZGVudHxlbnwwfHx8fDE3NzQ0OTcyMjN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대통령에겐 (to the president)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (대통령 직속 국민통합위원회 이석연 위원장은 이달 초 경기대 강연에서 4년 중임제 개헌론을 펴면서 “확실히 얘기하는데 중임제 개헌이든 연임제 개헌이든 개헌 당시의 대통령, 즉 이재명 대통령에겐 해당이 안 된다”고 강조했습니다&lt;br/&gt;&lt;em&gt;" (Lee Seok-yeon, chairman of the Presidential Committee on National Integration, emphasized in a lecture at Kyonggi University earlier this month while advocating for a constitutional amendment to allow a four-year consecutive term system, 'To be clear, whether it's a consecutive term amendment or a re-election amendment, it does not apply to the president at the time of the amendment, that is, President Lee Jae-myung.'"&lt;/em&gt;&lt;/p&gt;
