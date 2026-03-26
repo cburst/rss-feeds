@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 19:11:35 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 21:19:24 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>쓰레기를 – trash/garbage</title><link>urn:urn:vocab:쓰레기를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>무임승차 – free ride</title><link>urn:urn:vocab:무임승차</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533141191651-cce9ddd71d55?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTIwcmlkZXxlbnwwfHx8fDE3NzQ1Mjc1NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="무임승차 (free ride)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Han Jeong-ae: "Considering Phased Restrictions on 'Senior Citizens' Free Public Transportation' During Commute Hours" (한정애 “출퇴근시간 ‘어르신 대중교통 무임승차’ 단계적 제한 검토”) &lt;&lt;br/&gt;&lt;em&gt;Han Jeong-ae: "Considering Phased Restrictions on 'Senior Citizens' Free Public Transportation' During Commute Hours"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Han Jeong-ae: "Considering Phased Restrictions on 'Senior Citizens' Free Public Transportation' During Commute Hours" (한정애 “출퇴근시간 ‘어르신 대중교통 무임승차’ 단계적 제한 검토”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Han Jeong-ae: "Considering Phased Restrictions on 'Senior Citizens' Free Public Transportation' During Commute Hours"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(한정애 민주당 정책위원회 의장은 25일 추경예산 당·정 협의 브리핑에서 “차량 5부제 실시로 인한 출퇴근시간대에 대중교통 집중도를 감안해 어르신 무임승차를 단계적으로 제한해 대중교통을 활성화 시킬 필요가 있다”며 “합리적 대안을 찾겠다”고 말했다&lt;br/&gt;&lt;em&gt;On the 25th, Han Jeong-ae, chairperson of the Democratic Party's Policy Committee, said during a briefing on party-government consultations for the supplementary budget, "Considering the concentration of public transportation during commute hours due to the implementation of the vehicle 5-day rotation system, it is necessary to gradually restrict free public transportation for senior citizens to revitalize public transportation," adding, "We will find a reasonable alternative."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;무임승차는 좋아요.&lt;br/&gt;&lt;em&gt;Free riding is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;무임승차를 해요.&lt;br/&gt;&lt;em&gt;I do free riding.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533141191651-cce9ddd71d55?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTIwcmlkZXxlbnwwfHx8fDE3NzQ1Mjc1NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="무임승차 (free ride)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Han Jeong-ae: "Considering Phased Restrictions on 'Senior Citizens' Free Public Transportation' During Commute Hours" (한정애 “출퇴근시간 ‘어르신 대중교통 무임승차’ 단계적 제한 검토”) &lt;&lt;br/&gt;&lt;em&gt;Han Jeong-ae: "Considering Phased Restrictions on 'Senior Citizens' Free Public Transportation' During Commute Hours"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Han Jeong-ae: "Considering Phased Restrictions on 'Senior Citizens' Free Public Transportation' During Commute Hours" (한정애 “출퇴근시간 ‘어르신 대중교통 무임승차’ 단계적 제한 검토”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Han Jeong-ae: "Considering Phased Restrictions on 'Senior Citizens' Free Public Transportation' During Commute Hours"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(한정애 민주당 정책위원회 의장은 25일 추경예산 당·정 협의 브리핑에서 “차량 5부제 실시로 인한 출퇴근시간대에 대중교통 집중도를 감안해 어르신 무임승차를 단계적으로 제한해 대중교통을 활성화 시킬 필요가 있다”며 “합리적 대안을 찾겠다”고 말했다&lt;br/&gt;&lt;em&gt;On the 25th, Han Jeong-ae, chairperson of the Democratic Party's Policy Committee, said during a briefing on party-government consultations for the supplementary budget, "Considering the concentration of public transportation during commute hours due to the implementation of the vehicle 5-day rotation system, it is necessary to gradually restrict free public transportation for senior citizens to revitalize public transportation," adding, "We will find a reasonable alternative."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;무임승차는 좋아요.&lt;br/&gt;&lt;em&gt;Free riding is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;무임승차를 해요.&lt;br/&gt;&lt;em&gt;I do free riding.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 26 Mar 2026 21:19:24 +0900</pubDate><guid isPermaLink="false">vocab-a4119843bca2e384ae05151a447ad2a350c4eb89</guid><enclosure url="https://images.unsplash.com/photo-1533141191651-cce9ddd71d55?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTIwcmlkZXxlbnwwfHx8fDE3NzQ1Mjc1NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="188752" /><ns2:content url="https://images.unsplash.com/photo-1533141191651-cce9ddd71d55?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTIwcmlkZXxlbnwwfHx8fDE3NzQ1Mjc1NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1533141191651-cce9ddd71d55?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTIwcmlkZXxlbnwwfHx8fDE3NzQ1Mjc1NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>무임승차</category></item><item><title>쓰레기를 – trash/garbage</title><link>urn:urn:vocab:쓰레기를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1729162090613-b74571e233ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFzaCUyRmdhcmJhZ2V8ZW58MHx8fHwxNzc0NTE5ODg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쓰레기를 (trash/garbage)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(재단 임직원들은 제부도 해안산책로 일대에서 해양 쓰레기를 수거하고 주변 환경을 정비했다&lt;br/&gt;&lt;em&gt;(Foundation employees collected marine debris and cleaned up the surrounding environment along the coastal walking path of Jebudo Island)&lt;/em&gt;&lt;/p&gt;

@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 19:11:48 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 21:19:40 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>종업원 – employee</title><link>urn:urn:vocab:종업원</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>방송인 – broadcaster</title><link>urn:urn:vocab:방송인</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1557174360-3f4f7c724501?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxicm9hZGNhc3RlcnxlbnwwfHx8fDE3NzQ1Mjc1Njd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방송인 (broadcaster)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국민의힘이 6·3 지방선거를 앞두고 추진하는 ‘광역의원 비례 청년 오디션’ 심사위원에 ‘룸살롱 종업원 폭행 사건’으로 물의를 일으켰던 방송인 이혁재씨가 포함돼 논란이 일고 있다&lt;br/&gt;&lt;em&gt;(Controversy is brewing as broadcaster Lee Hyeok-jae, who caused a stir with the 'room salon employee assault incident,' has been included as a judge for the 'Metropolitan Council Proportional Youth Audition' being promoted by the People Power Party ahead of the June 3 local elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(당 조직부총장인 강명구 의원이 심사위원장을 맡았고, 인재영입위원인 조지연 의원, 쇼트트랙 금메달리스트 송석우씨, 정준하 전국백년소상공인연합회 대외협력국장, 김채수 중앙대학생위원장, 방송인 이혁재씨 등 5명이 심사위원에 이름을 올렸다&lt;br/&gt;&lt;em&gt;(Rep. Kang Myeong-gu, the party's organizational vice-chairman, served as the head judge, with five judges including Rep. Jo Ji-yeon, a talent recruitment committee member, short track gold medalist Song Seok-woo, former National Federation of Small Business Owners external cooperation director Jeong Jun-ha, Kim Chae-soo, Central University student committee chairman, and broadcaster Lee Hyeok-jae.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민의힘 청년 비례 의원 오디션 심사위원으로 임명돼 논란이 불거진 방송인 이혁재씨가 “어떤 순간에도 책임을 회피하지 않았다”고 밝혔다&lt;br/&gt;&lt;em&gt;(Broadcaster Lee Hyeok-jae, who was appointed as a judge for the People Power Party's youth proportional representative audition and sparked controversy, stated, 'I have never shirked responsibility at any moment.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;방송인이 텔레비전에 나왔어요.&lt;br/&gt;&lt;em&gt;The broadcaster appeared on television.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 방송인은 유명해요.&lt;br/&gt;&lt;em&gt;That broadcaster is famous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1557174360-3f4f7c724501?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxicm9hZGNhc3RlcnxlbnwwfHx8fDE3NzQ1Mjc1Njd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방송인 (broadcaster)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국민의힘이 6·3 지방선거를 앞두고 추진하는 ‘광역의원 비례 청년 오디션’ 심사위원에 ‘룸살롱 종업원 폭행 사건’으로 물의를 일으켰던 방송인 이혁재씨가 포함돼 논란이 일고 있다&lt;br/&gt;&lt;em&gt;(Controversy is brewing as broadcaster Lee Hyeok-jae, who caused a stir with the 'room salon employee assault incident,' has been included as a judge for the 'Metropolitan Council Proportional Youth Audition' being promoted by the People Power Party ahead of the June 3 local elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(당 조직부총장인 강명구 의원이 심사위원장을 맡았고, 인재영입위원인 조지연 의원, 쇼트트랙 금메달리스트 송석우씨, 정준하 전국백년소상공인연합회 대외협력국장, 김채수 중앙대학생위원장, 방송인 이혁재씨 등 5명이 심사위원에 이름을 올렸다&lt;br/&gt;&lt;em&gt;(Rep. Kang Myeong-gu, the party's organizational vice-chairman, served as the head judge, with five judges including Rep. Jo Ji-yeon, a talent recruitment committee member, short track gold medalist Song Seok-woo, former National Federation of Small Business Owners external cooperation director Jeong Jun-ha, Kim Chae-soo, Central University student committee chairman, and broadcaster Lee Hyeok-jae.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민의힘 청년 비례 의원 오디션 심사위원으로 임명돼 논란이 불거진 방송인 이혁재씨가 “어떤 순간에도 책임을 회피하지 않았다”고 밝혔다&lt;br/&gt;&lt;em&gt;(Broadcaster Lee Hyeok-jae, who was appointed as a judge for the People Power Party's youth proportional representative audition and sparked controversy, stated, 'I have never shirked responsibility at any moment.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;방송인이 텔레비전에 나왔어요.&lt;br/&gt;&lt;em&gt;The broadcaster appeared on television.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 방송인은 유명해요.&lt;br/&gt;&lt;em&gt;That broadcaster is famous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 26 Mar 2026 21:19:40 +0900</pubDate><guid isPermaLink="false">vocab-6139ad6e1d38f58af1bcc78f6907bf6ce970d27e</guid><enclosure url="https://images.unsplash.com/photo-1557174360-3f4f7c724501?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxicm9hZGNhc3RlcnxlbnwwfHx8fDE3NzQ1Mjc1Njd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="487425" /><ns2:content url="https://images.unsplash.com/photo-1557174360-3f4f7c724501?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxicm9hZGNhc3RlcnxlbnwwfHx8fDE3NzQ1Mjc1Njd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1557174360-3f4f7c724501?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxicm9hZGNhc3RlcnxlbnwwfHx8fDE3NzQ1Mjc1Njd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>방송인</category></item><item><title>종업원 – employee</title><link>urn:urn:vocab:종업원</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbXBsb3llZXxlbnwwfHx8fDE3NzQ1MTk4OTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="종업원 (employee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(국민의힘이 6·3 지방선거를 앞두고 추진하는 ‘광역의원 비례 청년 오디션’ 심사위원에 ‘룸살롱 종업원 폭행 사건’으로 물의를 일으켰던 방송인 이혁재씨가 포함돼 논란이 일고 있다&lt;br/&gt;&lt;em&gt;(Controversy is brewing as broadcaster Lee Hyeok-jae, who caused a scandal in the 'room salon employee assault case,' has been included as a judge for the 'Metropolitan Council Proportional Youth Audition' being promoted by the People Power Party ahead of the June 3 local elections.&lt;/em&gt;&lt;/p&gt;
