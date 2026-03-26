@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 14:59:09 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 17:05:28 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>방사능 – radioactivity</title><link>urn:urn:vocab:방사능</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>요금을 – fare/fee</title><link>urn:urn:vocab:요금을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1753002261627-7867e3aeacba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJlJTJGZmVlfGVufDB8fHx8MTc3NDUxMjMxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="요금을 (fare/fee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령은 26일 “전기 요금을 올리지 않고 묶어두니까 전기 사용이 계속 늘어난다”며 전기 사용 절약을 당부했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung urged people to save electricity on the 26th, saying, "Electricity usage continues to increase because we are keeping electricity rates unchanged and bundled."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이어 “전기 요금은 웬만하면 지금 변경하지 않고 유지하려고 한다”면서 “그런데 계속 이대로 전기 요금을 유지할 경우 손실 폭, 적자 폭이 엄청 늘어날 수 있고, 또 한편으로 전기 요금을 올리지 않고 묶어두니까 전기 사용이 계속 오히려 늘어난다”고 했다&lt;br/&gt;&lt;em&gt;He continued, "We are trying to maintain electricity rates without changes as much as possible," adding, "However, if we continue to keep electricity rates as they are, the loss margin and deficit margin could increase significantly, and on the other hand, because we are keeping electricity rates unchanged and bundled, electricity usage is actually continuing to increase."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정치권에서는 이 대통령이 국무회의와 비상경제점검회의에서 잇따라 전기 요금을 언급한 것에 대해, 중동 사태가 장기화할 경우 전기 요금 인상 또는 요금 차등제가 실제 적용될 수 있다는 관측도 나왔다&lt;br/&gt;&lt;em&gt;In political circles, there were observations that President Lee's repeated mentions of electricity rates at the Cabinet meeting and emergency economic review meeting could indicate that electricity rate increases or differential pricing systems might actually be applied if the Middle East situation prolongs.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;요금을 지불하세요.&lt;br/&gt;&lt;em&gt;Please pay the fee.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;요금을 확인해 주세요.&lt;br/&gt;&lt;em&gt;Please check the fee.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1753002261627-7867e3aeacba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJlJTJGZmVlfGVufDB8fHx8MTc3NDUxMjMxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="요금을 (fare/fee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령은 26일 “전기 요금을 올리지 않고 묶어두니까 전기 사용이 계속 늘어난다”며 전기 사용 절약을 당부했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung urged people to save electricity on the 26th, saying, "Electricity usage continues to increase because we are keeping electricity rates unchanged and bundled."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이어 “전기 요금은 웬만하면 지금 변경하지 않고 유지하려고 한다”면서 “그런데 계속 이대로 전기 요금을 유지할 경우 손실 폭, 적자 폭이 엄청 늘어날 수 있고, 또 한편으로 전기 요금을 올리지 않고 묶어두니까 전기 사용이 계속 오히려 늘어난다”고 했다&lt;br/&gt;&lt;em&gt;He continued, "We are trying to maintain electricity rates without changes as much as possible," adding, "However, if we continue to keep electricity rates as they are, the loss margin and deficit margin could increase significantly, and on the other hand, because we are keeping electricity rates unchanged and bundled, electricity usage is actually continuing to increase."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정치권에서는 이 대통령이 국무회의와 비상경제점검회의에서 잇따라 전기 요금을 언급한 것에 대해, 중동 사태가 장기화할 경우 전기 요금 인상 또는 요금 차등제가 실제 적용될 수 있다는 관측도 나왔다&lt;br/&gt;&lt;em&gt;In political circles, there were observations that President Lee's repeated mentions of electricity rates at the Cabinet meeting and emergency economic review meeting could indicate that electricity rate increases or differential pricing systems might actually be applied if the Middle East situation prolongs.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;요금을 지불하세요.&lt;br/&gt;&lt;em&gt;Please pay the fee.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;요금을 확인해 주세요.&lt;br/&gt;&lt;em&gt;Please check the fee.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 26 Mar 2026 17:05:28 +0900</pubDate><guid isPermaLink="false">vocab-e645505bdbc8b97f4fbab51e41fe5547886f27c9</guid><enclosure url="https://images.unsplash.com/photo-1753002261627-7867e3aeacba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJlJTJGZmVlfGVufDB8fHx8MTc3NDUxMjMxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="185262" /><ns2:content url="https://images.unsplash.com/photo-1753002261627-7867e3aeacba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJlJTJGZmVlfGVufDB8fHx8MTc3NDUxMjMxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1753002261627-7867e3aeacba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJlJTJGZmVlfGVufDB8fHx8MTc3NDUxMjMxNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>요금을</category></item><item><title>방사능 – radioactivity</title><link>urn:urn:vocab:방사능</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1626823208620-4643c1884b8b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYWRpb2FjdGl2aXR5fGVufDB8fHx8MTc3NDUwNDczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방사능 (radioactivity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(일본 도쿄전력이 후쿠시마 원자력발전소의 방사능 오염 처리수를 지난 6일부터 24일까지 바다로 흘려보내는 동안 원전 인근 바다에서 방사성 원소인 삼중수소가 4차례 검출됐다고 한국 정부가 26일 밝혔다&lt;br/&gt;&lt;em&gt;The Korean government announced on the 26th that during the period from the 6th to the 24th, when Tokyo Electric Power Company (TEPCO) of Japan discharged radioactive contaminated water from the Fukushima nuclear power plant into the sea, the radioactive element tritium was detected four times in the sea near the nuclear plant.&lt;/em&gt;&lt;/p&gt;
