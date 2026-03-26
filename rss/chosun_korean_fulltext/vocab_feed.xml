@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 21:19:40 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 23:28:05 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>방송인 – broadcaster</title><link>urn:urn:vocab:방송인</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>안전보장 – security guarantee</title><link>urn:urn:vocab:안전보장</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1770529933902-d2f7851be31c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZWN1cml0eSUyMGd1YXJhbnRlZXxlbnwwfHx8fDE3NzQ1MzUyNzJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="안전보장 (security guarantee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Korea, While China and Russia Provide Security Guarantees" (전문가 北 비핵화 위해 “美는 北과 수교, 중·러는 대북 안전보장 제공하는 다자 모델 필요”) &lt;&lt;br/&gt;&lt;em&gt;"Korea, While China and Russia Provide Security Guarantees" (Expert: For North Korea's denuclearization, "A multilateral model is needed where the U.S. establishes diplomatic relations with North Korea, and China and Russia provide security guarantees to North Korea") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Korea, While China and Russia Provide Security Guarantees" (전문가 北 비핵화 위해 “美는 北과 수교, 중·러는 대북 안전보장 제공하는 다자 모델 필요”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;"Korea, While China and Russia Provide Security Guarantees" (Expert: For North Korea's denuclearization, "A multilateral model is needed where the U.S. establishes diplomatic relations with North Korea, and China and Russia provide security guarantees to North Korea")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한미 핵협의그룹(NCG) 모델을 준용해 중국과 러시아가 비핵화 원칙을 훼손하지 않는 방식으로 물리적·법적 안전보장을 제공하는 방안이다&lt;br/&gt;&lt;em&gt;It is a plan to adopt the model of the U.S.-South Korea Nuclear Consultative Group (NCG) to have China and Russia provide physical and legal security guarantees in a way that does not undermine the principles of denuclearization.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;안전보장이 중요합니다.&lt;br/&gt;&lt;em&gt;Safety is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;안전보장을 확인하세요.&lt;br/&gt;&lt;em&gt;Check the safety.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1770529933902-d2f7851be31c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZWN1cml0eSUyMGd1YXJhbnRlZXxlbnwwfHx8fDE3NzQ1MzUyNzJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="안전보장 (security guarantee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Korea, While China and Russia Provide Security Guarantees" (전문가 北 비핵화 위해 “美는 北과 수교, 중·러는 대북 안전보장 제공하는 다자 모델 필요”) &lt;&lt;br/&gt;&lt;em&gt;"Korea, While China and Russia Provide Security Guarantees" (Expert: For North Korea's denuclearization, "A multilateral model is needed where the U.S. establishes diplomatic relations with North Korea, and China and Russia provide security guarantees to North Korea") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Korea, While China and Russia Provide Security Guarantees" (전문가 北 비핵화 위해 “美는 北과 수교, 중·러는 대북 안전보장 제공하는 다자 모델 필요”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;"Korea, While China and Russia Provide Security Guarantees" (Expert: For North Korea's denuclearization, "A multilateral model is needed where the U.S. establishes diplomatic relations with North Korea, and China and Russia provide security guarantees to North Korea")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한미 핵협의그룹(NCG) 모델을 준용해 중국과 러시아가 비핵화 원칙을 훼손하지 않는 방식으로 물리적·법적 안전보장을 제공하는 방안이다&lt;br/&gt;&lt;em&gt;It is a plan to adopt the model of the U.S.-South Korea Nuclear Consultative Group (NCG) to have China and Russia provide physical and legal security guarantees in a way that does not undermine the principles of denuclearization.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;안전보장이 중요합니다.&lt;br/&gt;&lt;em&gt;Safety is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;안전보장을 확인하세요.&lt;br/&gt;&lt;em&gt;Check the safety.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 26 Mar 2026 23:28:05 +0900</pubDate><guid isPermaLink="false">vocab-05131ba7c35a9598ae46125b1427062aeff39d77</guid><enclosure url="https://images.unsplash.com/photo-1770529933902-d2f7851be31c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZWN1cml0eSUyMGd1YXJhbnRlZXxlbnwwfHx8fDE3NzQ1MzUyNzJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="107108" /><ns2:content url="https://images.unsplash.com/photo-1770529933902-d2f7851be31c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZWN1cml0eSUyMGd1YXJhbnRlZXxlbnwwfHx8fDE3NzQ1MzUyNzJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1770529933902-d2f7851be31c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZWN1cml0eSUyMGd1YXJhbnRlZXxlbnwwfHx8fDE3NzQ1MzUyNzJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>안전보장</category></item><item><title>방송인 – broadcaster</title><link>urn:urn:vocab:방송인</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1557174360-3f4f7c724501?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxicm9hZGNhc3RlcnxlbnwwfHx8fDE3NzQ1Mjc1Njd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방송인 (broadcaster)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(국민의힘이 6·3 지방선거를 앞두고 추진하는 ‘광역의원 비례 청년 오디션’ 심사위원에 ‘룸살롱 종업원 폭행 사건’으로 물의를 일으켰던 방송인 이혁재씨가 포함돼 논란이 일고 있다&lt;br/&gt;&lt;em&gt;(Controversy is brewing as broadcaster Lee Hyeok-jae, who caused a stir with the 'room salon employee assault incident,' has been included as a judge for the 'Metropolitan Council Proportional Youth Audition' being promoted by the People Power Party ahead of the June 3 local elections.&lt;/em&gt;&lt;/p&gt;
