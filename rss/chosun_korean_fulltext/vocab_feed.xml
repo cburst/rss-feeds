@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 01:38:03 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 03:56:07 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>절약을 – saving/conservation</title><link>urn:urn:vocab:절약을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>단독주택 – detached house</title><link>urn:urn:vocab:단독주택</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591170715502-fbc32adc4f52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXRhY2hlZCUyMGhvdXNlfGVufDB8fHx8MTc3NDU1MTM1NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="단독주택 (detached house)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(관보에 따르면 장 대표와 배우자는 △서울 구로 아파트 △충남 보령 아파트 △서울 여의도 오피스텔 △노모가 거주하는 충남 보령 단독주택 △배우자가 장인으로부터 상속받은 경남 진주 상봉동 아파트 지분 5분의 1 △경기 안양 호계동 아파트 지분 10분의 1 등 총 6채의 주택을 보유하고 있어 논란이 됐었다&lt;br/&gt;&lt;em&gt;According to the official gazette, CEO Jang and his spouse owned a total of six houses, which became controversial: △an apartment in Guro, Seoul △an apartment in Boryeong, Chungcheongnam-do △an officetel in Yeouido, Seoul △a detached house in Boryeong, Chungcheongnam-do where his mother resides △a one-fifth share of an apartment in Sangbong-dong, Jinju, Gyeongsangnam-do inherited by his spouse from her father △a one-tenth share of an apartment in Hogye-dong, Anyang, Gyeonggi-do.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;노모가 거주하는 보령의 단독주택은 매입하겠다는 사람을 찾지 못해 노모에게 무상 증여하는 방식으로 명의자를 노모로 바꿨다고 당 대표실은 전했다&lt;br/&gt;&lt;em&gt;The party's representative office stated that the detached house in Boryeong where his mother resides was transferred to her name through a free gift, as they could not find a buyer to purchase it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;노모(95)가 살고 있는 장 대표 명의 충남 보령시 20평대 단독주택(2930만원)은 구매자를 찾기 어려워 노모에게 무상 증여했다&lt;br/&gt;&lt;em&gt;The 20-pyeong detached house (worth 29.3 million won) in Boryeong, Chungcheongnam-do, under CEO Jang's name where his mother (95) lives, was gifted to her for free due to difficulty in finding a buyer.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;단독주택이 예쁩니다.&lt;br/&gt;&lt;em&gt;The detached house is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 단독주택에 삽니다.&lt;br/&gt;&lt;em&gt;I live in a detached house.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591170715502-fbc32adc4f52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXRhY2hlZCUyMGhvdXNlfGVufDB8fHx8MTc3NDU1MTM1NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="단독주택 (detached house)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(관보에 따르면 장 대표와 배우자는 △서울 구로 아파트 △충남 보령 아파트 △서울 여의도 오피스텔 △노모가 거주하는 충남 보령 단독주택 △배우자가 장인으로부터 상속받은 경남 진주 상봉동 아파트 지분 5분의 1 △경기 안양 호계동 아파트 지분 10분의 1 등 총 6채의 주택을 보유하고 있어 논란이 됐었다&lt;br/&gt;&lt;em&gt;According to the official gazette, CEO Jang and his spouse owned a total of six houses, which became controversial: △an apartment in Guro, Seoul △an apartment in Boryeong, Chungcheongnam-do △an officetel in Yeouido, Seoul △a detached house in Boryeong, Chungcheongnam-do where his mother resides △a one-fifth share of an apartment in Sangbong-dong, Jinju, Gyeongsangnam-do inherited by his spouse from her father △a one-tenth share of an apartment in Hogye-dong, Anyang, Gyeonggi-do.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;노모가 거주하는 보령의 단독주택은 매입하겠다는 사람을 찾지 못해 노모에게 무상 증여하는 방식으로 명의자를 노모로 바꿨다고 당 대표실은 전했다&lt;br/&gt;&lt;em&gt;The party's representative office stated that the detached house in Boryeong where his mother resides was transferred to her name through a free gift, as they could not find a buyer to purchase it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;노모(95)가 살고 있는 장 대표 명의 충남 보령시 20평대 단독주택(2930만원)은 구매자를 찾기 어려워 노모에게 무상 증여했다&lt;br/&gt;&lt;em&gt;The 20-pyeong detached house (worth 29.3 million won) in Boryeong, Chungcheongnam-do, under CEO Jang's name where his mother (95) lives, was gifted to her for free due to difficulty in finding a buyer.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;단독주택이 예쁩니다.&lt;br/&gt;&lt;em&gt;The detached house is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 단독주택에 삽니다.&lt;br/&gt;&lt;em&gt;I live in a detached house.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 27 Mar 2026 03:56:07 +0900</pubDate><guid isPermaLink="false">vocab-b9754e4d005a1b9ea3bcf61ff9a4791fb9b52b99</guid><enclosure url="https://images.unsplash.com/photo-1591170715502-fbc32adc4f52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXRhY2hlZCUyMGhvdXNlfGVufDB8fHx8MTc3NDU1MTM1NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="116015" /><ns2:content url="https://images.unsplash.com/photo-1591170715502-fbc32adc4f52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXRhY2hlZCUyMGhvdXNlfGVufDB8fHx8MTc3NDU1MTM1NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1591170715502-fbc32adc4f52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXRhY2hlZCUyMGhvdXNlfGVufDB8fHx8MTc3NDU1MTM1NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>단독주택</category></item><item><title>절약을 – saving/conservation</title><link>urn:urn:vocab:절약을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758599669186-9eaf14f6f3ea?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYXZpbmclMkZjb25zZXJ2YXRpb258ZW58MHx8fHwxNzc0NTQzMDc0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="절약을 (saving/conservation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이재명 대통령은 26일 “전기 요금을 올리지 않고 묶어두니까 전기 사용이 계속 늘어난다”며 전기 사용 절약을 당부했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung urged people to save electricity on the 26th, saying, 'Electricity usage continues to increase because we keep electricity rates from rising and hold them down.'&lt;/em&gt;&lt;/p&gt;
