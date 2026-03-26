@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 17:05:13 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 19:11:35 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>인공지능융합대학 – Artificial Intelligence Convergence College</title><link>urn:urn:vocab:인공지능융합대학</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>쓰레기를 – trash/garbage</title><link>urn:urn:vocab:쓰레기를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1729162090613-b74571e233ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFzaCUyRmdhcmJhZ2V8ZW58MHx8fHwxNzc0NTE5ODg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쓰레기를 (trash/garbage)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(재단 임직원들은 제부도 해안산책로 일대에서 해양 쓰레기를 수거하고 주변 환경을 정비했다&lt;br/&gt;&lt;em&gt;(Foundation employees collected marine debris and cleaned up the surrounding environment along the coastal walking path of Jebudo Island)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(호주 학생들은 학교에서 색깔이 서로 다른 Trash Bin(분리수거용 쓰레기통)을 활용해 분리수거를 실천하고 있었고, ‘Earth Worm Farm’(지렁이 농장)을 운영해 음식물 쓰레기를 처리하고 있었다&lt;br/&gt;&lt;em&gt;(Australian students were practicing waste separation at school by using differently colored Trash Bins (for separate collection) and were operating an 'Earth Worm Farm' to process food waste)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 음식물 쓰레기를 퇴비로 만들어 다시 사용하는 사례는 인상적이었다&lt;br/&gt;&lt;em&gt;Particularly impressive was the case of turning food waste into compost for reuse&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;쓰레기를 버려요.&lt;br/&gt;&lt;em&gt;Throw away the trash.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;쓰레기를 정리해요.&lt;br/&gt;&lt;em&gt;Clean up the trash.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1729162090613-b74571e233ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFzaCUyRmdhcmJhZ2V8ZW58MHx8fHwxNzc0NTE5ODg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쓰레기를 (trash/garbage)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(재단 임직원들은 제부도 해안산책로 일대에서 해양 쓰레기를 수거하고 주변 환경을 정비했다&lt;br/&gt;&lt;em&gt;(Foundation employees collected marine debris and cleaned up the surrounding environment along the coastal walking path of Jebudo Island)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(호주 학생들은 학교에서 색깔이 서로 다른 Trash Bin(분리수거용 쓰레기통)을 활용해 분리수거를 실천하고 있었고, ‘Earth Worm Farm’(지렁이 농장)을 운영해 음식물 쓰레기를 처리하고 있었다&lt;br/&gt;&lt;em&gt;(Australian students were practicing waste separation at school by using differently colored Trash Bins (for separate collection) and were operating an 'Earth Worm Farm' to process food waste)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 음식물 쓰레기를 퇴비로 만들어 다시 사용하는 사례는 인상적이었다&lt;br/&gt;&lt;em&gt;Particularly impressive was the case of turning food waste into compost for reuse&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;쓰레기를 버려요.&lt;br/&gt;&lt;em&gt;Throw away the trash.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;쓰레기를 정리해요.&lt;br/&gt;&lt;em&gt;Clean up the trash.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 26 Mar 2026 19:11:35 +0900</pubDate><guid isPermaLink="false">vocab-1a7ab305c2f89b553d72b68c2d47475a513ef293</guid><enclosure url="https://images.unsplash.com/photo-1729162090613-b74571e233ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFzaCUyRmdhcmJhZ2V8ZW58MHx8fHwxNzc0NTE5ODg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="212956" /><ns2:content url="https://images.unsplash.com/photo-1729162090613-b74571e233ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFzaCUyRmdhcmJhZ2V8ZW58MHx8fHwxNzc0NTE5ODg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1729162090613-b74571e233ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFzaCUyRmdhcmJhZ2V8ZW58MHx8fHwxNzc0NTE5ODg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>쓰레기를</category></item><item><title>인공지능융합대학 – Artificial Intelligence Convergence College</title><link>urn:urn:vocab:인공지능융합대학</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1759193530966-e64c2cfcb5db?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNlJTIwQ29udmVyZ2VuY2UlMjBDb2xsZWdlfGVufDB8fHx8MTc3NDUxMjMwM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인공지능융합대학 (Artificial Intelligence Convergence College)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;University of Seoul Holds Opening Ceremony for College of Artificial Intelligence Convergence and AI/SW Convergence Education Center (서울시립대, 인공지능융합대학 및 AI·SW융합교육원 개소식 개최) &lt;&lt;br/&gt;&lt;em&gt;University of Seoul Holds Opening Ceremony for College of Artificial Intelligence Convergence and AI/SW Convergence Education Center&lt;/em&gt;&lt;/p&gt;
