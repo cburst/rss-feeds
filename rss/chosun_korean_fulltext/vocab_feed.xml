@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 08:14:35 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 10:25:29 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>고등어 – mackerel</title><link>urn:urn:vocab:고등어</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기대감 – expectation</title><link>urn:urn:vocab:기대감</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1538766017398-415434a31a5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RhdGlvbnxlbnwwfHx8fDE3NzQ1NzQ3MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기대감 (expectation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4em;"&gt;IBK證 “빙그레, 단기 실적 기대감은 제한적… 목표가 9만5000원”&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;IBK Securities: "Binggrae, short-term performance expectations are limited... target price 95,000 won"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;SK證 “산일전기, 데이터센터 수혜주 재평가 기대감…목표가 22만원"&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;SK Securities: "Sanil Electric, data center beneficiary stock re-evaluation expected... target price 220,000 won"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;‘차세대 전투기’ KF-21 수출 기대감 솔솔&lt;br/&gt;&lt;em&gt;'Next-generation fighter' KF-21 export expectations rising&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 기대감이 있어요.&lt;br/&gt;&lt;em&gt;I have anticipation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기대감이 커졌어요.&lt;br/&gt;&lt;em&gt;The anticipation has grown.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1538766017398-415434a31a5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RhdGlvbnxlbnwwfHx8fDE3NzQ1NzQ3MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기대감 (expectation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4em;"&gt;IBK證 “빙그레, 단기 실적 기대감은 제한적… 목표가 9만5000원”&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;IBK Securities: "Binggrae, short-term performance expectations are limited... target price 95,000 won"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;SK證 “산일전기, 데이터센터 수혜주 재평가 기대감…목표가 22만원"&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;SK Securities: "Sanil Electric, data center beneficiary stock re-evaluation expected... target price 220,000 won"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;‘차세대 전투기’ KF-21 수출 기대감 솔솔&lt;br/&gt;&lt;em&gt;'Next-generation fighter' KF-21 export expectations rising&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 기대감이 있어요.&lt;br/&gt;&lt;em&gt;I have anticipation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기대감이 커졌어요.&lt;br/&gt;&lt;em&gt;The anticipation has grown.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 27 Mar 2026 10:25:29 +0900</pubDate><guid isPermaLink="false">vocab-7eb52f8e0b51ee7e038306ca0b0ed7351f2b34ed</guid><enclosure url="https://images.unsplash.com/photo-1538766017398-415434a31a5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RhdGlvbnxlbnwwfHx8fDE3NzQ1NzQ3MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="85690" /><ns2:content url="https://images.unsplash.com/photo-1538766017398-415434a31a5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RhdGlvbnxlbnwwfHx8fDE3NzQ1NzQ3MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1538766017398-415434a31a5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RhdGlvbnxlbnwwfHx8fDE3NzQ1NzQ3MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기대감</category></item><item><title>고등어 – mackerel</title><link>urn:urn:vocab:고등어</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554071407-1fb7259a9118?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYWNrZXJlbHxlbnwwfHx8fDE3NzQ1NjY4Njh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고등어 (mackerel)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(물가 안정을 위한 특별 관리 품목도 기존의 돼지고기, 계란, 고등어, 쌀, 석유류 등 23가지 품목에서 공산품 및 가공식품 전반, 시설 농산물, 택배 이용료, 외식 서비스 등 43개 품목으로 늘어난다&lt;br/&gt;&lt;em&gt;(The number of special management items for price stabilization will increase from the existing 23 items, including pork, eggs, mackerel, rice, and petroleum products, to 43 items, covering industrial and processed foods, facility-grown agricultural products, courier fees, and dining services.)&lt;/em&gt;&lt;/p&gt;
