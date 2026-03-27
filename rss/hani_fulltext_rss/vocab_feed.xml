@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 10:25:20 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 12:32:58 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>물량을 – quantity, volume</title><link>urn:urn:vocab:물량을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>주유소가 – gas station</title><link>urn:urn:vocab:주유소가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9ufGVufDB8fHx8MTc3NDU4MjM2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주유소가 (gas station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;다만 1차 최고가 지정 이후 주유소가 100원 안팎의 마진을 붙여 소비자에게 판매한 점을 고려하면, 소비자들은 1리터당 2천원대에 기름을 넣을 수 있을 것으로 보인다&lt;br/&gt;&lt;em&gt;However, considering that gas stations added a margin of around 100 won after the first maximum price designation, consumers are expected to be able to fill up with oil at around 2,000 won per liter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정유사 공급가에 주유소가 90~120원 정도의 마진을 붙여 판매한 것인데, 이를 고려하면 2차 최고가격 조정에 따른 주유소 평균 기름값은 휘발유·경유 모두 2천원을 훌쩍 넘을 것으로 보인다&lt;br/&gt;&lt;em&gt;Refineries added a margin of about 90 to 120 won to the supply price of gas stations, and considering this, the average oil price at gas stations following the second maximum price adjustment is expected to significantly exceed 2,000 won for both gasoline and diesel.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(2차 석유 최고가격 고시가 시작된 27일 전국적으로 800곳이 넘는 주유소가 일제히 가격을 올린 것으로 나타났다&lt;br/&gt;&lt;em&gt;(On the 27th, when the second petroleum maximum price announcement began, it was found that over 800 gas stations nationwide simultaneously raised their prices.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주유소가 여기 있어요.&lt;br/&gt;&lt;em&gt;There is a gas station here.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주유소가 어디에 있어요?&lt;br/&gt;&lt;em&gt;Where is the gas station?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9ufGVufDB8fHx8MTc3NDU4MjM2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주유소가 (gas station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;다만 1차 최고가 지정 이후 주유소가 100원 안팎의 마진을 붙여 소비자에게 판매한 점을 고려하면, 소비자들은 1리터당 2천원대에 기름을 넣을 수 있을 것으로 보인다&lt;br/&gt;&lt;em&gt;However, considering that gas stations added a margin of around 100 won after the first maximum price designation, consumers are expected to be able to fill up with oil at around 2,000 won per liter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정유사 공급가에 주유소가 90~120원 정도의 마진을 붙여 판매한 것인데, 이를 고려하면 2차 최고가격 조정에 따른 주유소 평균 기름값은 휘발유·경유 모두 2천원을 훌쩍 넘을 것으로 보인다&lt;br/&gt;&lt;em&gt;Refineries added a margin of about 90 to 120 won to the supply price of gas stations, and considering this, the average oil price at gas stations following the second maximum price adjustment is expected to significantly exceed 2,000 won for both gasoline and diesel.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(2차 석유 최고가격 고시가 시작된 27일 전국적으로 800곳이 넘는 주유소가 일제히 가격을 올린 것으로 나타났다&lt;br/&gt;&lt;em&gt;(On the 27th, when the second petroleum maximum price announcement began, it was found that over 800 gas stations nationwide simultaneously raised their prices.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주유소가 여기 있어요.&lt;br/&gt;&lt;em&gt;There is a gas station here.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주유소가 어디에 있어요?&lt;br/&gt;&lt;em&gt;Where is the gas station?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 27 Mar 2026 12:32:58 +0900</pubDate><guid isPermaLink="false">vocab-ac862e6d0723d79dcf1883a6d21c5f290776ea71</guid><enclosure url="https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9ufGVufDB8fHx8MTc3NDU4MjM2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="132192" /><ns2:content url="https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9ufGVufDB8fHx8MTc3NDU4MjM2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9ufGVufDB8fHx8MTc3NDU4MjM2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>주유소가</category></item><item><title>물량을 – quantity, volume</title><link>urn:urn:vocab:물량을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1606645685534-67c8c5b13f10?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxxdWFudGl0eSUyQyUyMHZvbHVtZXxlbnwwfHx8fDE3NzQ1NzQ3MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="물량을 (quantity, volume)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;고등어는 할당관세 적용 물량을 1만t→2&lt;br/&gt;&lt;em&gt;Mackerel's tariff quota volume is increased from 10,000 tons to 2&lt;/em&gt;&lt;/p&gt;

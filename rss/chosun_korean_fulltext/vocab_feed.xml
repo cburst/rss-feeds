@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 10:25:29 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 12:33:11 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>기대감 – expectation</title><link>urn:urn:vocab:기대감</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>존재한다 – exists</title><link>urn:urn:vocab:존재한다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1671962360774-5819aeeb0f09?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGlzdHN8ZW58MHx8fHwxNzc0NTgyMzgxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="존재한다 (exists)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(유 전 의원을 혁신 선거대책위원장으로 추대하려는 기류도 존재한다&lt;br/&gt;&lt;em&gt;There is also a current to appoint Representative Yoo as the head of the innovation election strategy committee.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (미즈시마 대사는 한일이 이사할 수 없는 이웃이라며 “이웃이기 때문에 생기는 문제와 역사적 배경에서 유래하는 과제도 여전히 존재한다”며 “그러나 미래 지향적 정신 아래 자녀와 손자 세대를 위해 관계 기초를 더욱 견고히 하는 일은 우리 현 세대의 책무”라고 했다&lt;br/&gt;&lt;em&gt;"Ambassador Mizushima stated that Korea and Japan are neighbors who cannot move away, saying, 'There are still issues that arise from being neighbors and challenges stemming from historical backgrounds,' and added, 'However, under a future-oriented spirit, it is our generation's responsibility to further solidify the foundation of the relationship for the sake of our children and grandchildren's generation.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그것은 존재한다.&lt;br/&gt;&lt;em&gt;It exists.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사랑은 존재한다.&lt;br/&gt;&lt;em&gt;Love exists.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1671962360774-5819aeeb0f09?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGlzdHN8ZW58MHx8fHwxNzc0NTgyMzgxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="존재한다 (exists)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(유 전 의원을 혁신 선거대책위원장으로 추대하려는 기류도 존재한다&lt;br/&gt;&lt;em&gt;There is also a current to appoint Representative Yoo as the head of the innovation election strategy committee.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (미즈시마 대사는 한일이 이사할 수 없는 이웃이라며 “이웃이기 때문에 생기는 문제와 역사적 배경에서 유래하는 과제도 여전히 존재한다”며 “그러나 미래 지향적 정신 아래 자녀와 손자 세대를 위해 관계 기초를 더욱 견고히 하는 일은 우리 현 세대의 책무”라고 했다&lt;br/&gt;&lt;em&gt;"Ambassador Mizushima stated that Korea and Japan are neighbors who cannot move away, saying, 'There are still issues that arise from being neighbors and challenges stemming from historical backgrounds,' and added, 'However, under a future-oriented spirit, it is our generation's responsibility to further solidify the foundation of the relationship for the sake of our children and grandchildren's generation.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그것은 존재한다.&lt;br/&gt;&lt;em&gt;It exists.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사랑은 존재한다.&lt;br/&gt;&lt;em&gt;Love exists.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 27 Mar 2026 12:33:11 +0900</pubDate><guid isPermaLink="false">vocab-31ea807b02de16eaf24559dae6afbff5fa20c66e</guid><enclosure url="https://images.unsplash.com/photo-1671962360774-5819aeeb0f09?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGlzdHN8ZW58MHx8fHwxNzc0NTgyMzgxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="624544" /><ns2:content url="https://images.unsplash.com/photo-1671962360774-5819aeeb0f09?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGlzdHN8ZW58MHx8fHwxNzc0NTgyMzgxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1671962360774-5819aeeb0f09?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGlzdHN8ZW58MHx8fHwxNzc0NTgyMzgxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>존재한다</category></item><item><title>기대감 – expectation</title><link>urn:urn:vocab:기대감</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1538766017398-415434a31a5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RhdGlvbnxlbnwwfHx8fDE3NzQ1NzQ3MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기대감 (expectation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;4em;"&gt;IBK證 “빙그레, 단기 실적 기대감은 제한적… 목표가 9만5000원”&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;IBK Securities: "Binggrae, short-term performance expectations are limited... target price 95,000 won"&lt;/em&gt;&lt;/p&gt;
