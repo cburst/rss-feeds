@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 23:12:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 01:21:02 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>재밌게 – interestingly/fun</title><link>urn:urn:vocab:재밌게</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>과거를 – the past</title><link>urn:urn:vocab:과거를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1609643242182-7e85dfad9037?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBwYXN0fGVufDB8fHx8MTc3NDYyODQ0OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="과거를 (the past)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이재명 대통령은 27일 서해수호의 날 기념식에 참석해 “평화로운 한반도를 만드는 일이야말로 서해 수호 영웅들이 우리에게 남긴 시대적 사명”이라며 “대결과 긴장이 감돌던 서해의 과거를 끝내겠다”고 했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung attended the West Sea Defense Day ceremony on the 27th and said, 'Creating a peaceful Korean Peninsula is precisely the historical mission left to us by the West Sea defense heroes,' adding, 'We will put an end to the West Sea's past, which was marked by confrontation and tension.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “강력한 국방력으로 우리 국민과 대한민국의 영토를 흔들림없이 지켜내는 동시에, 전쟁 걱정 없는 평화로운 한반도를 만드는 일이야말로 서해 수호 영웅들이 우리에게 남긴 시대적 사명이라 믿는다”며 “대결과 긴장이 감돌던 서해의 과거를 끝내고, 공동 성장과 공동 번영의 새 역사를 써 내려가는 일에 온 힘을 다하겠다”고 했다&lt;br/&gt;&lt;em&gt;President Lee stated, 'I believe that creating a peaceful Korean Peninsula free from the worry of war, while steadfastly protecting our people and the territory of the Republic of Korea with strong defense capabilities, is precisely the historical mission left to us by the West Sea defense heroes,' and added, 'We will put an end to the West Sea's past, which was marked by confrontation and tension, and devote all our efforts to writing a new history of shared growth and prosperity.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 대통령은 “대결과 긴장이 감돌던 서해의 과거를 끝내고, 공동 성장과 공동 번영의 새 역사를 써 내려가는 일에 온 힘을 다하겠다”고도 했다&lt;br/&gt;&lt;em&gt;President Lee also said, 'We will put an end to the West Sea's past, which was marked by confrontation and tension, and devote all our efforts to writing a new history of shared growth and prosperity.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 과거를 생각해요.&lt;br/&gt;&lt;em&gt;I think about the past.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과거를 잊으세요.&lt;br/&gt;&lt;em&gt;Forget the past.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1609643242182-7e85dfad9037?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBwYXN0fGVufDB8fHx8MTc3NDYyODQ0OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="과거를 (the past)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이재명 대통령은 27일 서해수호의 날 기념식에 참석해 “평화로운 한반도를 만드는 일이야말로 서해 수호 영웅들이 우리에게 남긴 시대적 사명”이라며 “대결과 긴장이 감돌던 서해의 과거를 끝내겠다”고 했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung attended the West Sea Defense Day ceremony on the 27th and said, 'Creating a peaceful Korean Peninsula is precisely the historical mission left to us by the West Sea defense heroes,' adding, 'We will put an end to the West Sea's past, which was marked by confrontation and tension.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “강력한 국방력으로 우리 국민과 대한민국의 영토를 흔들림없이 지켜내는 동시에, 전쟁 걱정 없는 평화로운 한반도를 만드는 일이야말로 서해 수호 영웅들이 우리에게 남긴 시대적 사명이라 믿는다”며 “대결과 긴장이 감돌던 서해의 과거를 끝내고, 공동 성장과 공동 번영의 새 역사를 써 내려가는 일에 온 힘을 다하겠다”고 했다&lt;br/&gt;&lt;em&gt;President Lee stated, 'I believe that creating a peaceful Korean Peninsula free from the worry of war, while steadfastly protecting our people and the territory of the Republic of Korea with strong defense capabilities, is precisely the historical mission left to us by the West Sea defense heroes,' and added, 'We will put an end to the West Sea's past, which was marked by confrontation and tension, and devote all our efforts to writing a new history of shared growth and prosperity.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 대통령은 “대결과 긴장이 감돌던 서해의 과거를 끝내고, 공동 성장과 공동 번영의 새 역사를 써 내려가는 일에 온 힘을 다하겠다”고도 했다&lt;br/&gt;&lt;em&gt;President Lee also said, 'We will put an end to the West Sea's past, which was marked by confrontation and tension, and devote all our efforts to writing a new history of shared growth and prosperity.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 과거를 생각해요.&lt;br/&gt;&lt;em&gt;I think about the past.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과거를 잊으세요.&lt;br/&gt;&lt;em&gt;Forget the past.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 28 Mar 2026 01:21:02 +0900</pubDate><guid isPermaLink="false">vocab-ca6038c7359086114bd176ecac988c7c7164b890</guid><enclosure url="https://images.unsplash.com/photo-1609643242182-7e85dfad9037?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBwYXN0fGVufDB8fHx8MTc3NDYyODQ0OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="170484" /><ns2:content url="https://images.unsplash.com/photo-1609643242182-7e85dfad9037?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBwYXN0fGVufDB8fHx8MTc3NDYyODQ0OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1609643242182-7e85dfad9037?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBwYXN0fGVufDB8fHx8MTc3NDYyODQ0OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>과거를</category></item><item><title>재밌게 – interestingly/fun</title><link>urn:urn:vocab:재밌게</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1770648712129-17e42c4abd4e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRlcmVzdGluZ2x5JTJGZnVufGVufDB8fHx8MTc3NDYyMDcyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재밌게 (interestingly/fun)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Han Dong-hoon to appear in new season of 'SNL' (“재밌게 봐달라”&lt;br/&gt;&lt;em&gt;Han Dong-hoon to appear in new season of 'SNL' ("Please enjoy watching")&lt;/em&gt;&lt;/p&gt;
