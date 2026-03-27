@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 05:44:21 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 07:52:54 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>선택적 – selective</title><link>urn:urn:vocab:선택적</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>준비를 – preparation</title><link>urn:urn:vocab:준비를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620632889724-f1ddc7841c40?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVwYXJhdGlvbnxlbnwwfHx8fDE3NzQ2NTE5Njd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="준비를 (preparation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이 대통령은 이날 국방부에서 열린 전군 주요 지휘관 회의에서 “한반도 방위에 있어서 우리 군이 주도적 역할을 수행할 수 있도록 만반의 준비를 해줘야 되겠다”며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;President Lee stated at the military commanders' meeting held at the Ministry of National Defense that day, 'We must be fully prepared so that our military can play a leading role in the defense of the Korean Peninsula.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민의힘 지도부는 지난 26일 경기도에서 현장 최고위원 회의를 열기 위한 준비를 마쳤지만 경기도당이 25일 “현장 여건 등을 고려해 행사 진행이 어렵다”고 난색을 표하면서 무산됐다고 한다&lt;br/&gt;&lt;em&gt;It is reported that the People Power Party leadership had completed preparations to hold an on-site Supreme Council meeting in Gyeonggi Province on the 26th, but it fell through as the Gyeonggi Province party expressed reluctance on the 25th, saying 'it is difficult to proceed with the event considering on-site conditions.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 시험 준비를 합니다.&lt;br/&gt;&lt;em&gt;I am preparing for the exam.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 여행 준비를 했어요.&lt;br/&gt;&lt;em&gt;He prepared for the trip.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620632889724-f1ddc7841c40?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVwYXJhdGlvbnxlbnwwfHx8fDE3NzQ2NTE5Njd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="준비를 (preparation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이 대통령은 이날 국방부에서 열린 전군 주요 지휘관 회의에서 “한반도 방위에 있어서 우리 군이 주도적 역할을 수행할 수 있도록 만반의 준비를 해줘야 되겠다”며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;President Lee stated at the military commanders' meeting held at the Ministry of National Defense that day, 'We must be fully prepared so that our military can play a leading role in the defense of the Korean Peninsula.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민의힘 지도부는 지난 26일 경기도에서 현장 최고위원 회의를 열기 위한 준비를 마쳤지만 경기도당이 25일 “현장 여건 등을 고려해 행사 진행이 어렵다”고 난색을 표하면서 무산됐다고 한다&lt;br/&gt;&lt;em&gt;It is reported that the People Power Party leadership had completed preparations to hold an on-site Supreme Council meeting in Gyeonggi Province on the 26th, but it fell through as the Gyeonggi Province party expressed reluctance on the 25th, saying 'it is difficult to proceed with the event considering on-site conditions.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 시험 준비를 합니다.&lt;br/&gt;&lt;em&gt;I am preparing for the exam.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 여행 준비를 했어요.&lt;br/&gt;&lt;em&gt;He prepared for the trip.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 28 Mar 2026 07:52:54 +0900</pubDate><guid isPermaLink="false">vocab-65aa5d64f56e51aa5309959e14bf6ced0c05f4a0</guid><enclosure url="https://images.unsplash.com/photo-1620632889724-f1ddc7841c40?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVwYXJhdGlvbnxlbnwwfHx8fDE3NzQ2NTE5Njd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="67470" /><ns2:content url="https://images.unsplash.com/photo-1620632889724-f1ddc7841c40?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVwYXJhdGlvbnxlbnwwfHx8fDE3NzQ2NTE5Njd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1620632889724-f1ddc7841c40?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVwYXJhdGlvbnxlbnwwfHx8fDE3NzQ2NTE5Njd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>준비를</category></item><item><title>선택적 – selective</title><link>urn:urn:vocab:선택적</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742270559224-f07f44b6ea4b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZWxlY3RpdmV8ZW58MHx8fHwxNzc0NjQ0MjU0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선택적 (selective)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;선택적 모병제 속도내야”) &lt;&lt;br/&gt;&lt;em&gt;We need to accelerate the implementation of the selective conscription system.&lt;/em&gt;&lt;/p&gt;
