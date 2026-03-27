@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 12:32:58 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 14:42:42 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>주유소가 – gas station</title><link>urn:urn:vocab:주유소가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>비판적 – critical</title><link>urn:urn:vocab:비판적</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcml0aWNhbHxlbnwwfHx8fDE3NzQ1OTAxNTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비판적 (critical)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br/&gt;최근 고등교육 현장에서는 AI가 문제를 대신 해결해 줌으로써 학생들의 비판적 사고력이 저하될 수 있다는 우려가 커지고 있다&lt;br/&gt;&lt;em&gt;Recently, there has been growing concern in higher education settings that AI solving problems for students may lead to a decline in their critical thinking skills.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;연구팀은 생성형 AI가 단순한 ‘답변 생성 도구’를 넘어, 학습자의 비판적 사고를 촉진하는 ‘상호작용적 학습 파트너’로 기능할 때 교육 효과가 극대화된다고 분석했다&lt;br/&gt;&lt;em&gt;The research team analyzed that the educational effect is maximized when generative AI functions as an 'interactive learning partner' that promotes learners' critical thinking, beyond being a simple 'answer-generating tool'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;청소년은 인간과 AI의 경계를 명확히 구분하지 못하거나, 정서적 유대감을 형성하면서 비판적 판단을 약화시킬 위험이 있다&lt;br/&gt;&lt;em&gt;Adolescents may risk weakening critical judgment by not clearly distinguishing the boundary between humans and AI or by forming emotional bonds.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 비판적 생각을 합니다.&lt;br/&gt;&lt;em&gt;He thinks critically.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 비판적 의견을 말했어요.&lt;br/&gt;&lt;em&gt;I expressed a critical opinion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcml0aWNhbHxlbnwwfHx8fDE3NzQ1OTAxNTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비판적 (critical)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br/&gt;최근 고등교육 현장에서는 AI가 문제를 대신 해결해 줌으로써 학생들의 비판적 사고력이 저하될 수 있다는 우려가 커지고 있다&lt;br/&gt;&lt;em&gt;Recently, there has been growing concern in higher education settings that AI solving problems for students may lead to a decline in their critical thinking skills.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;연구팀은 생성형 AI가 단순한 ‘답변 생성 도구’를 넘어, 학습자의 비판적 사고를 촉진하는 ‘상호작용적 학습 파트너’로 기능할 때 교육 효과가 극대화된다고 분석했다&lt;br/&gt;&lt;em&gt;The research team analyzed that the educational effect is maximized when generative AI functions as an 'interactive learning partner' that promotes learners' critical thinking, beyond being a simple 'answer-generating tool'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;청소년은 인간과 AI의 경계를 명확히 구분하지 못하거나, 정서적 유대감을 형성하면서 비판적 판단을 약화시킬 위험이 있다&lt;br/&gt;&lt;em&gt;Adolescents may risk weakening critical judgment by not clearly distinguishing the boundary between humans and AI or by forming emotional bonds.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 비판적 생각을 합니다.&lt;br/&gt;&lt;em&gt;He thinks critically.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 비판적 의견을 말했어요.&lt;br/&gt;&lt;em&gt;I expressed a critical opinion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 27 Mar 2026 14:42:42 +0900</pubDate><guid isPermaLink="false">vocab-d6a3e5cd4d412bf35e5c1233ccaa51fff0ee43a6</guid><enclosure url="https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcml0aWNhbHxlbnwwfHx8fDE3NzQ1OTAxNTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="73545" /><ns2:content url="https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcml0aWNhbHxlbnwwfHx8fDE3NzQ1OTAxNTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcml0aWNhbHxlbnwwfHx8fDE3NzQ1OTAxNTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>비판적</category></item><item><title>주유소가 – gas station</title><link>urn:urn:vocab:주유소가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9ufGVufDB8fHx8MTc3NDU4MjM2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주유소가 (gas station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;다만 1차 최고가 지정 이후 주유소가 100원 안팎의 마진을 붙여 소비자에게 판매한 점을 고려하면, 소비자들은 1리터당 2천원대에 기름을 넣을 수 있을 것으로 보인다&lt;br/&gt;&lt;em&gt;However, considering that gas stations added a margin of around 100 won after the first maximum price designation, consumers are expected to be able to fill up with oil at around 2,000 won per liter.&lt;/em&gt;&lt;/p&gt;
