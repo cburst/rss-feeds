@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 07:17:30 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 09:19:27 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>참여했다 – participated</title><link>urn:urn:vocab:참여했다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>출마할 – to run for election</title><link>urn:urn:vocab:출마할</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641945512494-8448f1c2f30d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJ1biUyMGZvciUyMGVsZWN0aW9ufGVufDB8fHx8MTc3NDc0MzU2MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="출마할 (to run for election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주 의원은 가처분 신청이 받아들여지지 않으면 무소속으로 대구시장에 출마할 거라며 배수의진을 치고 있습니다&lt;br/&gt;&lt;em&gt;Representative Joo is preparing for a last-ditch effort, stating that if the injunction application is not accepted, he will run for mayor of Daegu as an independent.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주 의원이 출마하면 그 지역구에는 자연스럽게 한 전 대표가 출마할 예정입니다&lt;br/&gt;&lt;em&gt;If Representative Joo runs, former representative Han is naturally expected to run in that district.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주 의원이 국힘 후보가 되면 국회의원직을 사퇴할 것이고, 그 자리에는 한동훈 전 대표가 자연스럽게 출마할 수 있습니다&lt;br/&gt;&lt;em&gt;If Representative Joo becomes the People Power Party candidate, he will resign from his National Assembly seat, and former representative Han Dong-hoon can naturally run for that position.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 대통령에 출마할 거예요.&lt;br/&gt;&lt;em&gt;He will run for president.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그녀는 시장에 출마할 수 있어요.&lt;br/&gt;&lt;em&gt;She can run for mayor.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641945512494-8448f1c2f30d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJ1biUyMGZvciUyMGVsZWN0aW9ufGVufDB8fHx8MTc3NDc0MzU2MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="출마할 (to run for election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주 의원은 가처분 신청이 받아들여지지 않으면 무소속으로 대구시장에 출마할 거라며 배수의진을 치고 있습니다&lt;br/&gt;&lt;em&gt;Representative Joo is preparing for a last-ditch effort, stating that if the injunction application is not accepted, he will run for mayor of Daegu as an independent.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주 의원이 출마하면 그 지역구에는 자연스럽게 한 전 대표가 출마할 예정입니다&lt;br/&gt;&lt;em&gt;If Representative Joo runs, former representative Han is naturally expected to run in that district.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주 의원이 국힘 후보가 되면 국회의원직을 사퇴할 것이고, 그 자리에는 한동훈 전 대표가 자연스럽게 출마할 수 있습니다&lt;br/&gt;&lt;em&gt;If Representative Joo becomes the People Power Party candidate, he will resign from his National Assembly seat, and former representative Han Dong-hoon can naturally run for that position.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 대통령에 출마할 거예요.&lt;br/&gt;&lt;em&gt;He will run for president.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그녀는 시장에 출마할 수 있어요.&lt;br/&gt;&lt;em&gt;She can run for mayor.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 29 Mar 2026 09:19:27 +0900</pubDate><guid isPermaLink="false">vocab-9e98ff40bdf1f5d20e9aeacf1e35ed55a858d2f9</guid><enclosure url="https://images.unsplash.com/photo-1641945512494-8448f1c2f30d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJ1biUyMGZvciUyMGVsZWN0aW9ufGVufDB8fHx8MTc3NDc0MzU2MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="189121" /><ns2:content url="https://images.unsplash.com/photo-1641945512494-8448f1c2f30d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJ1biUyMGZvciUyMGVsZWN0aW9ufGVufDB8fHx8MTc3NDc0MzU2MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1641945512494-8448f1c2f30d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHJ1biUyMGZvciUyMGVsZWN0aW9ufGVufDB8fHx8MTc3NDc0MzU2MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>출마할</category></item><item><title>참여했다 – participated</title><link>urn:urn:vocab:참여했다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530811761207-8d9d22f0a141?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0aWNpcGF0ZWR8ZW58MHx8fHwxNzc0NzM2MjQzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="참여했다 (participated)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이씨는 지난 26일 열린 ‘광역의원 비례 청년 공개 오디션’ 본선에서 심사위원으로 참여했다&lt;br/&gt;&lt;em&gt;(Mr. Lee participated as a judge in the finals of the 'Metropolitan Council Proportional Youth Open Audition' held on the 26th of last month)&lt;/em&gt;&lt;/p&gt;
