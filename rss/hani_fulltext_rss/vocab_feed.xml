@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 17:40:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 19:45:29 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>불가항력 – force majeure</title><link>urn:urn:vocab:불가항력</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>고정금리 – fixed interest rate</title><link>urn:urn:vocab:고정금리</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1569979230536-b3415317a681?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaXhlZCUyMGludGVyZXN0JTIwcmF0ZXxlbnwwfHx8fDE3NzQ3ODExMTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고정금리 (fixed interest rate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;15%포인트 올랐지만, 상대적으로 금리 수준이 높은 고정금리 취급 비중이 줄어 상승 폭이 제한됐다”며 “일반 신용대출 금리는 지표 금리인 은행채 단기물 금리 상승에도 일부 은행의 중·저신용자(고금리 대출자) 대출 비중 감소로 떨어졌다”고 설명했다&lt;br/&gt;&lt;em&gt;Although it rose by 15 percentage points, the increase was limited because the proportion of fixed-rate loans, which have relatively high interest rates, decreased. He explained, 'The interest rate for general credit loans fell due to some banks reducing the proportion of loans to medium- and low-credit borrowers (high-interest loan borrowers), despite the rise in the benchmark interest rate, which is the short-term bank bond rate.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Fallout from Iran War Spreads (은행 주담대 고정금리 3년5개월 만에 7% 넘어…이란전 여파 확산) &lt;&lt;br/&gt;&lt;em&gt;Fallout from Iran War Spreads (Bank mortgage fixed rates exceed 7% for the first time in 3 years and 5 months... Iran war fallout spreads)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Fallout from Iran War Spreads (은행 주담대 고정금리 3년5개월 만에 7% 넘어…이란전 여파 확산)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Fallout from Iran War Spreads (Bank mortgage fixed rates exceed 7% for the first time in 3 years and 5 months... Iran war fallout spreads)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;고정금리 대출이 안정적입니다.&lt;br/&gt;&lt;em&gt;Fixed-rate loans are stable.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 고정금리를 선택했습니다.&lt;br/&gt;&lt;em&gt;I chose a fixed interest rate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1569979230536-b3415317a681?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaXhlZCUyMGludGVyZXN0JTIwcmF0ZXxlbnwwfHx8fDE3NzQ3ODExMTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고정금리 (fixed interest rate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;15%포인트 올랐지만, 상대적으로 금리 수준이 높은 고정금리 취급 비중이 줄어 상승 폭이 제한됐다”며 “일반 신용대출 금리는 지표 금리인 은행채 단기물 금리 상승에도 일부 은행의 중·저신용자(고금리 대출자) 대출 비중 감소로 떨어졌다”고 설명했다&lt;br/&gt;&lt;em&gt;Although it rose by 15 percentage points, the increase was limited because the proportion of fixed-rate loans, which have relatively high interest rates, decreased. He explained, 'The interest rate for general credit loans fell due to some banks reducing the proportion of loans to medium- and low-credit borrowers (high-interest loan borrowers), despite the rise in the benchmark interest rate, which is the short-term bank bond rate.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Fallout from Iran War Spreads (은행 주담대 고정금리 3년5개월 만에 7% 넘어…이란전 여파 확산) &lt;&lt;br/&gt;&lt;em&gt;Fallout from Iran War Spreads (Bank mortgage fixed rates exceed 7% for the first time in 3 years and 5 months... Iran war fallout spreads)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Fallout from Iran War Spreads (은행 주담대 고정금리 3년5개월 만에 7% 넘어…이란전 여파 확산)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Fallout from Iran War Spreads (Bank mortgage fixed rates exceed 7% for the first time in 3 years and 5 months... Iran war fallout spreads)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;고정금리 대출이 안정적입니다.&lt;br/&gt;&lt;em&gt;Fixed-rate loans are stable.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 고정금리를 선택했습니다.&lt;br/&gt;&lt;em&gt;I chose a fixed interest rate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 29 Mar 2026 19:45:29 +0900</pubDate><guid isPermaLink="false">vocab-8f11d99ee1d146ae55f98237f5451e730397a1e3</guid><enclosure url="https://images.unsplash.com/photo-1569979230536-b3415317a681?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaXhlZCUyMGludGVyZXN0JTIwcmF0ZXxlbnwwfHx8fDE3NzQ3ODExMTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="239825" /><ns2:content url="https://images.unsplash.com/photo-1569979230536-b3415317a681?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaXhlZCUyMGludGVyZXN0JTIwcmF0ZXxlbnwwfHx8fDE3NzQ3ODExMTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1569979230536-b3415317a681?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaXhlZCUyMGludGVyZXN0JTIwcmF0ZXxlbnwwfHx8fDE3NzQ3ODExMTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>고정금리</category></item><item><title>불가항력 – force majeure</title><link>urn:urn:vocab:불가항력</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1768555292353-de0814058cf2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3JjZSUyMG1hamV1cmV8ZW58MHx8fHwxNzc0NzczNTkzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불가항력 (force majeure)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;KOGAS on Qatar's Force Majeure: "Decision after on-site inspection once Middle East war ends" (가스공 “카타르 불가항력, 중동전쟁 끝나면 현장실사 뒤 결정”) &lt;&lt;br/&gt;&lt;em&gt;KOGAS on Qatar's Force Majeure: "Decision after on-site inspection once Middle East war ends"&lt;/em&gt;&lt;/p&gt;
