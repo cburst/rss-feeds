@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 20:58:57 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 23:06:08 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>경험은 – experience</title><link>urn:urn:vocab:경험은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>그림책을 – picture book</title><link>urn:urn:vocab:그림책을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1622550388717-f8eb8a29beaa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaWN0dXJlJTIwYm9va3xlbnwwfHx8fDE3NzQ4Nzk1NTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="그림책을 (picture book)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;“남자라고 꼭 파란색을 좋아할 필요는 없다”는 것을 느낄 수 있도록 아빠가 핑크색 옷을 입거나, 관련 내용을 담은 그림책을 함께 읽어주는 식이다&lt;br/&gt;&lt;em&gt;For example, a father might wear pink clothes or read picture books with related content so that children can feel that "boys don't necessarily have to like blue."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그중 그림책방 곰곰(서울특별시 마포구 성미산로23길 16-5)은 아이부터 어른까지 모두를 위한 그림책을 만날 수 있는 독립서점이다&lt;br/&gt;&lt;em&gt;Among them, the picture book store Gomgom (16-5, Seongmisan-ro 23-gil, Mapo-gu, Seoul) is an independent bookstore where you can find picture books for everyone from children to adults.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(절기 활동에 그림책을 더하면 경험이 언어로 연결된다&lt;br/&gt;&lt;em&gt;(Adding picture books to seasonal activities connects the experience to language.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 그림책을 읽어요.&lt;br/&gt;&lt;em&gt;I read picture books.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그림책을 좋아해요.&lt;br/&gt;&lt;em&gt;I like picture books.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1622550388717-f8eb8a29beaa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaWN0dXJlJTIwYm9va3xlbnwwfHx8fDE3NzQ4Nzk1NTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="그림책을 (picture book)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;“남자라고 꼭 파란색을 좋아할 필요는 없다”는 것을 느낄 수 있도록 아빠가 핑크색 옷을 입거나, 관련 내용을 담은 그림책을 함께 읽어주는 식이다&lt;br/&gt;&lt;em&gt;For example, a father might wear pink clothes or read picture books with related content so that children can feel that "boys don't necessarily have to like blue."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그중 그림책방 곰곰(서울특별시 마포구 성미산로23길 16-5)은 아이부터 어른까지 모두를 위한 그림책을 만날 수 있는 독립서점이다&lt;br/&gt;&lt;em&gt;Among them, the picture book store Gomgom (16-5, Seongmisan-ro 23-gil, Mapo-gu, Seoul) is an independent bookstore where you can find picture books for everyone from children to adults.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(절기 활동에 그림책을 더하면 경험이 언어로 연결된다&lt;br/&gt;&lt;em&gt;(Adding picture books to seasonal activities connects the experience to language.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 그림책을 읽어요.&lt;br/&gt;&lt;em&gt;I read picture books.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그림책을 좋아해요.&lt;br/&gt;&lt;em&gt;I like picture books.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 30 Mar 2026 23:06:08 +0900</pubDate><guid isPermaLink="false">vocab-88f84eeb7a85398b7aeab1a41b2a51b4778c6bfd</guid><enclosure url="https://images.unsplash.com/photo-1622550388717-f8eb8a29beaa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaWN0dXJlJTIwYm9va3xlbnwwfHx8fDE3NzQ4Nzk1NTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="112506" /><ns2:content url="https://images.unsplash.com/photo-1622550388717-f8eb8a29beaa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaWN0dXJlJTIwYm9va3xlbnwwfHx8fDE3NzQ4Nzk1NTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1622550388717-f8eb8a29beaa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaWN0dXJlJTIwYm9va3xlbnwwfHx8fDE3NzQ4Nzk1NTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>그림책을</category></item><item><title>경험은 – experience</title><link>urn:urn:vocab:경험은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773332598414-44a45e364d85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxleHBlcmllbmNlfGVufDB8fHx8MTc3NDg3MTkyOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경험은 (experience)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;사이버 폭력 피해 경험은 청소년과 성인 모두 ‘전혀 모르는 사람’으로부터 받았다는 응답이 각각 51&lt;br/&gt;&lt;em&gt;Experience of cyber violence victimization: 51% of both adolescents and adults reported that the perpetrators were 'complete strangers'.&lt;/em&gt;&lt;/p&gt;
