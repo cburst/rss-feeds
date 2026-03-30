@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 05:49:54 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:58:23 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>초음파 – ultrasound</title><link>urn:urn:vocab:초음파</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>거래량 – trading volume</title><link>urn:urn:vocab:거래량</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1745270917449-c2e2c5806586?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFkaW5nJTIwdm9sdW1lfGVufDB8fHx8MTc3NDkxMTQ5Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="거래량 (trading volume)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이처럼 CD 금리는 금융권과 투자자에게 익숙하다는 장점이 있지만, 기초 거래량이 부족해 시장금리 변동을 제대로 반영하지 못한다는 문제점이 계속 지적돼왔다&lt;br/&gt;&lt;em&gt;(While CD interest rates have the advantage of being familiar to financial institutions and investors, they have consistently been criticized for not properly reflecting market interest rate fluctuations due to insufficient underlying transaction volume.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Impact of Decreased Digital Asset Trading Volume" (두나무, 작년 매출 10%↓…“디지털자산 거래량 감소 영향”) &lt;&lt;br/&gt;&lt;em&gt;"Impact of Decreased Digital Asset Trading Volume" (Dunamu, last year's revenue down 10%... "Impact of decreased digital asset trading volume")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Impact of Decreased Digital Asset Trading Volume" (두나무, 작년 매출 10%↓…“디지털자산 거래량 감소 영향”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"Impact of Decreased Digital Asset Trading Volume" (Dunamu, last year's revenue down 10%... "Impact of decreased digital asset trading volume")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;거래량이 많습니다.&lt;br/&gt;&lt;em&gt;The trading volume is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주식 거래량이 적습니다.&lt;br/&gt;&lt;em&gt;The stock trading volume is low.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1745270917449-c2e2c5806586?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFkaW5nJTIwdm9sdW1lfGVufDB8fHx8MTc3NDkxMTQ5Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="거래량 (trading volume)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이처럼 CD 금리는 금융권과 투자자에게 익숙하다는 장점이 있지만, 기초 거래량이 부족해 시장금리 변동을 제대로 반영하지 못한다는 문제점이 계속 지적돼왔다&lt;br/&gt;&lt;em&gt;(While CD interest rates have the advantage of being familiar to financial institutions and investors, they have consistently been criticized for not properly reflecting market interest rate fluctuations due to insufficient underlying transaction volume.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Impact of Decreased Digital Asset Trading Volume" (두나무, 작년 매출 10%↓…“디지털자산 거래량 감소 영향”) &lt;&lt;br/&gt;&lt;em&gt;"Impact of Decreased Digital Asset Trading Volume" (Dunamu, last year's revenue down 10%... "Impact of decreased digital asset trading volume")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Impact of Decreased Digital Asset Trading Volume" (두나무, 작년 매출 10%↓…“디지털자산 거래량 감소 영향”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"Impact of Decreased Digital Asset Trading Volume" (Dunamu, last year's revenue down 10%... "Impact of decreased digital asset trading volume")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;거래량이 많습니다.&lt;br/&gt;&lt;em&gt;The trading volume is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주식 거래량이 적습니다.&lt;br/&gt;&lt;em&gt;The stock trading volume is low.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 31 Mar 2026 07:58:23 +0900</pubDate><guid isPermaLink="false">vocab-7fbb2d41ebb8b9101c891d4378e0b555290062d3</guid><enclosure url="https://images.unsplash.com/photo-1745270917449-c2e2c5806586?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFkaW5nJTIwdm9sdW1lfGVufDB8fHx8MTc3NDkxMTQ5Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="50827" /><ns2:content url="https://images.unsplash.com/photo-1745270917449-c2e2c5806586?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFkaW5nJTIwdm9sdW1lfGVufDB8fHx8MTc3NDkxMTQ5Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1745270917449-c2e2c5806586?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFkaW5nJTIwdm9sdW1lfGVufDB8fHx8MTc3NDkxMTQ5Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>거래량</category></item><item><title>초음파 – ultrasound</title><link>urn:urn:vocab:초음파</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1608240439568-b919f41e24d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bHRyYXNvdW5kfGVufDB8fHx8MTc3NDkwMzc4Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="초음파 (ultrasound)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;&lt;br/&gt;박 교수 연구팀은 이번 과제를 통해 인체를 절개하지 않고 비침습적으로 종양 및 암 등의 생체 조직을 정밀하게 제거할 수 있는 차세대 초음파 치료기술 개발에 나선다&lt;br/&gt;&lt;em&gt;&lt;br/&gt;Professor Park's research team is embarking on the development of next-generation ultrasound therapy technology through this project, which can precisely remove biological tissues such as tumors and cancers non-invasively without cutting the human body.&lt;/em&gt;&lt;/p&gt;
