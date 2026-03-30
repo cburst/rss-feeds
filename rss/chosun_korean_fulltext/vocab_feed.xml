@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 03:23:37 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 05:50:04 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>연금을 – pension</title><link>urn:urn:vocab:연금을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사람도 – person too/also</title><link>urn:urn:vocab:사람도</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 대통령은 “자기의 신념과 가치를 실현하기 위해 정치를 하는 사람도 있을 수 있다”며 “그것도 일리가 있지만 결과적으로 (국민에) 해악을 가져온다면 그건 잘하는 게 아니다”라고 했다&lt;br/&gt;&lt;em&gt;The president said, 'There may be people who engage in politics to realize their own beliefs and values,' adding, 'That may have its reasons, but if it ultimately brings harm (to the people), then that is not doing well.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 “이미 방송계를 떠난 지 4년이 넘은 자연인”이라며 “국민 세금을 받는 사람도, 대중의 사랑을 먹고 사는 공인도 아닌데 과거의 잘못을 이유로 활동을 막는다면 나는 어디 가서 살라는 것이냐”고 했다&lt;br/&gt;&lt;em&gt;He said, 'I am a private citizen who has been out of the broadcasting industry for over four years,' adding, 'I am not someone who receives taxpayers' money or a public figure who lives off the public's love, so if my activities are blocked due to past mistakes, where am I supposed to go to live?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “자기의 신념과 가치를 실현하기 위해 정치를 하는 사람도 있을 수 있다”며 “그것도 일리가 있지만 결과적으로 해악을 가져온다면 그건 잘하는 게 아니다”라고 했다&lt;br/&gt;&lt;em&gt;He then said, 'There may be people who engage in politics to realize their own beliefs and values,' adding, 'That may have its reasons, but if it ultimately brings harm, then that is not doing well.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사람도 공원에 갑니다.&lt;br/&gt;&lt;em&gt;The person also goes to the park.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사람도 커피를 마십니다.&lt;br/&gt;&lt;em&gt;The person also drinks coffee.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 대통령은 “자기의 신념과 가치를 실현하기 위해 정치를 하는 사람도 있을 수 있다”며 “그것도 일리가 있지만 결과적으로 (국민에) 해악을 가져온다면 그건 잘하는 게 아니다”라고 했다&lt;br/&gt;&lt;em&gt;The president said, 'There may be people who engage in politics to realize their own beliefs and values,' adding, 'That may have its reasons, but if it ultimately brings harm (to the people), then that is not doing well.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 “이미 방송계를 떠난 지 4년이 넘은 자연인”이라며 “국민 세금을 받는 사람도, 대중의 사랑을 먹고 사는 공인도 아닌데 과거의 잘못을 이유로 활동을 막는다면 나는 어디 가서 살라는 것이냐”고 했다&lt;br/&gt;&lt;em&gt;He said, 'I am a private citizen who has been out of the broadcasting industry for over four years,' adding, 'I am not someone who receives taxpayers' money or a public figure who lives off the public's love, so if my activities are blocked due to past mistakes, where am I supposed to go to live?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “자기의 신념과 가치를 실현하기 위해 정치를 하는 사람도 있을 수 있다”며 “그것도 일리가 있지만 결과적으로 해악을 가져온다면 그건 잘하는 게 아니다”라고 했다&lt;br/&gt;&lt;em&gt;He then said, 'There may be people who engage in politics to realize their own beliefs and values,' adding, 'That may have its reasons, but if it ultimately brings harm, then that is not doing well.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사람도 공원에 갑니다.&lt;br/&gt;&lt;em&gt;The person also goes to the park.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사람도 커피를 마십니다.&lt;br/&gt;&lt;em&gt;The person also drinks coffee.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 31 Mar 2026 05:50:04 +0900</pubDate><guid isPermaLink="false">vocab-6b784d4a8ffdca9c1515fc5cf19c12aa38918c2f</guid><category>사람도</category></item><item><title>연금을 – pension</title><link>urn:urn:vocab:연금을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633364365722-d41e76299dfd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZW5zaW9ufGVufDB8fHx8MTc3NDg5NTAwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연금을 (pension)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;오늘부터 연금을 풀겠습니다&lt;br/&gt;&lt;em&gt;I will release the pension starting today.&lt;/em&gt;&lt;/p&gt;

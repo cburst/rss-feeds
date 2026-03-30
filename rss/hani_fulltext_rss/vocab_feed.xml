@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 03:23:26 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 05:49:54 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>보호자와 – with a guardian</title><link>urn:urn:vocab:보호자와</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>초음파 – ultrasound</title><link>urn:urn:vocab:초음파</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1608240439568-b919f41e24d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bHRyYXNvdW5kfGVufDB8fHx8MTc3NDkwMzc4Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="초음파 (ultrasound)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br/&gt;박 교수 연구팀은 이번 과제를 통해 인체를 절개하지 않고 비침습적으로 종양 및 암 등의 생체 조직을 정밀하게 제거할 수 있는 차세대 초음파 치료기술 개발에 나선다&lt;br/&gt;&lt;em&gt;&lt;br/&gt;Professor Park's research team is embarking on the development of next-generation ultrasound therapy technology through this project, which can precisely remove biological tissues such as tumors and cancers non-invasively without cutting the human body.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;연구의 핵심은 박 교수가 국내 및 미국 원천 특허로 보유하고 있는 ‘가변압력 충격파 히스토트립시(Pressure-modulated shockwave histotripsy)’라는 신개념 집속 초음파 기술을 기반으로 인공지능과 로봇 암(arm) 기술을 결합해 환자와 질환 특성에 맞춘 정밀 치료 플랫폼을 구축하는 것이다&lt;br/&gt;&lt;em&gt;The core of the research is to build a precision treatment platform tailored to patients and disease characteristics by combining artificial intelligence and robotic arm technology based on a new concept focused ultrasound technology called 'Pressure-modulated shockwave histotripsy', which Professor Park holds as domestic and U.S. original patents.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;히스토트립시는 강한 초음파를 체내 특정 지점에 집중시켜 미세 기포 구름(Cavitation Cloud)을 생성해 이를 통해 조직을 물리적으로 잘게 부수는 비침습 치료기술이다&lt;br/&gt;&lt;em&gt;&lt;br/&gt;Histotripsy is a non-invasive treatment technology that focuses strong ultrasound on a specific point in the body to generate a fine bubble cloud (Cavitation Cloud), which physically breaks down the tissue into small pieces.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;초음파 검사를 받았어요.&lt;br/&gt;&lt;em&gt;I had an ultrasound.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;초음파로 아기를 봤어요.&lt;br/&gt;&lt;em&gt;I saw the baby with ultrasound.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1608240439568-b919f41e24d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bHRyYXNvdW5kfGVufDB8fHx8MTc3NDkwMzc4Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="초음파 (ultrasound)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br/&gt;박 교수 연구팀은 이번 과제를 통해 인체를 절개하지 않고 비침습적으로 종양 및 암 등의 생체 조직을 정밀하게 제거할 수 있는 차세대 초음파 치료기술 개발에 나선다&lt;br/&gt;&lt;em&gt;&lt;br/&gt;Professor Park's research team is embarking on the development of next-generation ultrasound therapy technology through this project, which can precisely remove biological tissues such as tumors and cancers non-invasively without cutting the human body.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;연구의 핵심은 박 교수가 국내 및 미국 원천 특허로 보유하고 있는 ‘가변압력 충격파 히스토트립시(Pressure-modulated shockwave histotripsy)’라는 신개념 집속 초음파 기술을 기반으로 인공지능과 로봇 암(arm) 기술을 결합해 환자와 질환 특성에 맞춘 정밀 치료 플랫폼을 구축하는 것이다&lt;br/&gt;&lt;em&gt;The core of the research is to build a precision treatment platform tailored to patients and disease characteristics by combining artificial intelligence and robotic arm technology based on a new concept focused ultrasound technology called 'Pressure-modulated shockwave histotripsy', which Professor Park holds as domestic and U.S. original patents.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;히스토트립시는 강한 초음파를 체내 특정 지점에 집중시켜 미세 기포 구름(Cavitation Cloud)을 생성해 이를 통해 조직을 물리적으로 잘게 부수는 비침습 치료기술이다&lt;br/&gt;&lt;em&gt;&lt;br/&gt;Histotripsy is a non-invasive treatment technology that focuses strong ultrasound on a specific point in the body to generate a fine bubble cloud (Cavitation Cloud), which physically breaks down the tissue into small pieces.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;초음파 검사를 받았어요.&lt;br/&gt;&lt;em&gt;I had an ultrasound.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;초음파로 아기를 봤어요.&lt;br/&gt;&lt;em&gt;I saw the baby with ultrasound.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 31 Mar 2026 05:49:54 +0900</pubDate><guid isPermaLink="false">vocab-a15f2a2728a6b74d99476b069bb4fb7b732dd65a</guid><enclosure url="https://images.unsplash.com/photo-1608240439568-b919f41e24d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bHRyYXNvdW5kfGVufDB8fHx8MTc3NDkwMzc4Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="72735" /><ns2:content url="https://images.unsplash.com/photo-1608240439568-b919f41e24d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bHRyYXNvdW5kfGVufDB8fHx8MTc3NDkwMzc4Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1608240439568-b919f41e24d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bHRyYXNvdW5kfGVufDB8fHx8MTc3NDkwMzc4Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>초음파</category></item><item><title>보호자와 – with a guardian</title><link>urn:urn:vocab:보호자와</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1728060832507-743dc3ae39a1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwYSUyMGd1YXJkaWFufGVufDB8fHx8MTc3NDg5NDk5OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="보호자와 (with a guardian)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;계획을 세우는 과정 자체가 아이의 마음을 들여다보고, 보호자와 아이가 같은 방향을 바라보는 계기가 될 수 있기 때문이다&lt;br/&gt;&lt;em&gt;Because the process of making a plan itself can be an opportunity to look into the child's mind and for the guardian and child to look in the same direction.&lt;/em&gt;&lt;/p&gt;
