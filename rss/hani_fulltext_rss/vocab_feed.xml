@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 16:23:26 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 18:31:49 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>가구로 – to furniture</title><link>urn:urn:vocab:가구로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>여행지리 – travel geography</title><link>urn:urn:vocab:여행지리</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625239622428-ba0ae330a1f9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBnZW9ncmFwaHl8ZW58MHx8fHwxNzc0OTQ5NDk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="여행지리 (travel geography)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Professor Byeong-Kuk Yoon of Kyung Hee Cyber University's Tourism, Leisure, and Aviation Management Department Publishes 『Travel Geography』 (경희사이버대학교 관광레저항공경영학과 윤병국 교수, 『여행지리』 출간) &lt;&lt;br/&gt;&lt;em&gt;Professor Byeong-Kuk Yoon of Kyung Hee Cyber University's Tourism, Leisure, and Aviation Management Department Publishes 『Travel Geography』&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Professor Byeong-Kuk Yoon of Kyung Hee Cyber University's Tourism, Leisure, and Aviation Management Department Publishes 『Travel Geography』 (경희사이버대학교 관광레저항공경영학과 윤병국 교수, 『여행지리』 출간)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Professor Byeong-Kuk Yoon of Kyung Hee Cyber University's Tourism, Leisure, and Aviation Management Department Publishes 『Travel Geography』&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;png" alt=""&gt;&lt;figcaption&gt;▲ 신간 ‘여행지리’는 여행지를 자연환경과 인문환경, 인간의 활동이 결합된 ‘공간’으로 이해하는 관점을 바탕으로, 여행을 단순한 이동이나 소비가 아닌 ‘읽고 해석하는 과정’으로 바라보는 내용을 담고 있다&lt;br/&gt;&lt;em&gt;The new book 'Travel Geography' contains content that views travel not as simple movement or consumption, but as a 'process of reading and interpreting,' based on the perspective of understanding travel destinations as 'spaces' where natural environment, human environment, and human activities are combined.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;여행지리는 재미있어요.&lt;br/&gt;&lt;em&gt;Travel geography is interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여행지리를 공부해요.&lt;br/&gt;&lt;em&gt;I study travel geography.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625239622428-ba0ae330a1f9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBnZW9ncmFwaHl8ZW58MHx8fHwxNzc0OTQ5NDk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="여행지리 (travel geography)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Professor Byeong-Kuk Yoon of Kyung Hee Cyber University's Tourism, Leisure, and Aviation Management Department Publishes 『Travel Geography』 (경희사이버대학교 관광레저항공경영학과 윤병국 교수, 『여행지리』 출간) &lt;&lt;br/&gt;&lt;em&gt;Professor Byeong-Kuk Yoon of Kyung Hee Cyber University's Tourism, Leisure, and Aviation Management Department Publishes 『Travel Geography』&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Professor Byeong-Kuk Yoon of Kyung Hee Cyber University's Tourism, Leisure, and Aviation Management Department Publishes 『Travel Geography』 (경희사이버대학교 관광레저항공경영학과 윤병국 교수, 『여행지리』 출간)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Professor Byeong-Kuk Yoon of Kyung Hee Cyber University's Tourism, Leisure, and Aviation Management Department Publishes 『Travel Geography』&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;png" alt=""&gt;&lt;figcaption&gt;▲ 신간 ‘여행지리’는 여행지를 자연환경과 인문환경, 인간의 활동이 결합된 ‘공간’으로 이해하는 관점을 바탕으로, 여행을 단순한 이동이나 소비가 아닌 ‘읽고 해석하는 과정’으로 바라보는 내용을 담고 있다&lt;br/&gt;&lt;em&gt;The new book 'Travel Geography' contains content that views travel not as simple movement or consumption, but as a 'process of reading and interpreting,' based on the perspective of understanding travel destinations as 'spaces' where natural environment, human environment, and human activities are combined.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;여행지리는 재미있어요.&lt;br/&gt;&lt;em&gt;Travel geography is interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여행지리를 공부해요.&lt;br/&gt;&lt;em&gt;I study travel geography.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 31 Mar 2026 18:31:49 +0900</pubDate><guid isPermaLink="false">vocab-367a3294717583a0994a83768d50eea6b5021c79</guid><enclosure url="https://images.unsplash.com/photo-1625239622428-ba0ae330a1f9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBnZW9ncmFwaHl8ZW58MHx8fHwxNzc0OTQ5NDk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="130591" /><ns2:content url="https://images.unsplash.com/photo-1625239622428-ba0ae330a1f9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBnZW9ncmFwaHl8ZW58MHx8fHwxNzc0OTQ5NDk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1625239622428-ba0ae330a1f9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBnZW9ncmFwaHl8ZW58MHx8fHwxNzc0OTQ5NDk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>여행지리</category></item><item><title>가구로 – to furniture</title><link>urn:urn:vocab:가구로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1725282585008-5cfc8d41027b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGZ1cm5pdHVyZXxlbnwwfHx8fDE3NzQ5NDE3OTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가구로 (to furniture)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(지난달 말 기준 전국의 미분양 주택은 6만6208가구로 전월 대비 0&lt;br/&gt;&lt;em&gt;As of the end of last month, the number of unsold homes nationwide was 66,208 households, a 0% change compared to the previous month.&lt;/em&gt;&lt;/p&gt;
