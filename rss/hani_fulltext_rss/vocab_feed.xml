@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 00:49:05 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 03:01:29 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,27 @@
 
 
 
-  <item><title>은행이 – bank</title><link>urn:urn:vocab:은행이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>외환시장 – foreign exchange market</title><link>urn:urn:vocab:외환시장</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;( 이날 서울 외환시장에서 원-달러 환율 주간거래 종가(오후 3시30분 기준)는 전 거래일 대비 14&lt;br/&gt;&lt;em&gt;(On this day, the weekly closing exchange rate (as of 3:30 PM) for the Korean won against the US dollar in the Seoul foreign exchange market was 14 compared to the previous trading day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;( 한편 이날 신현송 한국은행 총재 후보자는 인사청문회 준비 사무실로 처음 출근하면서 외환시장 상황에 대한 질문에 “현재 환율은 높지만 달러 유동성은 상당히 양호하다&lt;br/&gt;&lt;em&gt;(Meanwhile, on this day, Shin Hyun-sung, the candidate for Governor of the Bank of Korea, went to work for the first time at the preparation office for the personnel hearing and responded to a question about the foreign exchange market situation, saying, 'The current exchange rate is high, but dollar liquidity is quite favorable.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 환율은 주요 6개국 통화 대비 달러화 가치를 나타내는 달러인덱스가 전날에 견줘 하락했는데도 가파르게 치솟으며 유독 취약한 외환시장을 연출했다&lt;br/&gt;&lt;em&gt;(On this day, the exchange rate surged sharply, showing a particularly vulnerable foreign exchange market, even though the dollar index, which indicates the value of the US dollar against the currencies of six major countries, fell compared to the previous day.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;외환시장이 커요.&lt;br/&gt;&lt;em&gt;The foreign exchange market is big.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;외환시장을 공부해요.&lt;br/&gt;&lt;em&gt;I study the foreign exchange market.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;( 이날 서울 외환시장에서 원-달러 환율 주간거래 종가(오후 3시30분 기준)는 전 거래일 대비 14&lt;br/&gt;&lt;em&gt;(On this day, the weekly closing exchange rate (as of 3:30 PM) for the Korean won against the US dollar in the Seoul foreign exchange market was 14 compared to the previous trading day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;( 한편 이날 신현송 한국은행 총재 후보자는 인사청문회 준비 사무실로 처음 출근하면서 외환시장 상황에 대한 질문에 “현재 환율은 높지만 달러 유동성은 상당히 양호하다&lt;br/&gt;&lt;em&gt;(Meanwhile, on this day, Shin Hyun-sung, the candidate for Governor of the Bank of Korea, went to work for the first time at the preparation office for the personnel hearing and responded to a question about the foreign exchange market situation, saying, 'The current exchange rate is high, but dollar liquidity is quite favorable.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 환율은 주요 6개국 통화 대비 달러화 가치를 나타내는 달러인덱스가 전날에 견줘 하락했는데도 가파르게 치솟으며 유독 취약한 외환시장을 연출했다&lt;br/&gt;&lt;em&gt;(On this day, the exchange rate surged sharply, showing a particularly vulnerable foreign exchange market, even though the dollar index, which indicates the value of the US dollar against the currencies of six major countries, fell compared to the previous day.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;외환시장이 커요.&lt;br/&gt;&lt;em&gt;The foreign exchange market is big.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;외환시장을 공부해요.&lt;br/&gt;&lt;em&gt;I study the foreign exchange market.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 01 Apr 2026 03:01:29 +0900</pubDate><guid isPermaLink="false">vocab-c7b84034306d2ee2d1632b905556258512114109</guid><category>외환시장</category></item><item><title>은행이 – bank</title><link>urn:urn:vocab:은행이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYW5rfGVufDB8fHx8MTc3NDk3MjEzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="은행이 (bank)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(은행이 대출처를 찾지 못하는 사정은 어제오늘의 일이 아니다&lt;br/&gt;&lt;em&gt;(The situation where banks cannot find borrowers is not a recent phenomenon)&lt;/em&gt;&lt;/p&gt;
