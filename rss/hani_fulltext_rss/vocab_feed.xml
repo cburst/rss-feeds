@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 10:02:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 12:13:46 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>생산이 – production</title><link>urn:urn:vocab:생산이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>활동이 – activity</title><link>urn:urn:vocab:활동이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3Rpdml0eXxlbnwwfHx8fDE3NzQ5MjY4MTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="활동이 (activity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;특히 보호자와 아이가 함께한다면 홈트레이닝도 겨울방학의 무료함을 날려주는 좋은 신체 활동이 될 수 있다&lt;br/&gt;&lt;em&gt;Especially if parents and children do it together, home training can be a good physical activity to blow away the boredom of winter vacation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(노른자존 활동이 한창인 동안 다가치학교 곳곳에서는 다른 프로젝트도 동시다발적으로 진행된다&lt;br/&gt;&lt;em&gt;While the yolk zone activity is in full swing, other projects are simultaneously underway in various places at the Dagauchi School.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우연철 소장은 “비교과가 부족하다고 판단되는 학생이라면 수업 내용을 바탕으로 궁금한 점이나 현실에 적용할 수 있는 부분을 적극적으로 찾아 독서활동이나 발표활동으로 연계시키는 것이 좋다”고 말했다&lt;br/&gt;&lt;em&gt;Director Woo Yeon-cheol said, "For students who are judged to lack extracurricular activities, it is good to actively find points of curiosity or parts that can be applied to reality based on the class content and link them to reading activities or presentation activities."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;활동이 재미있어요.&lt;br/&gt;&lt;em&gt;The activity is fun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교 활동이 많아요.&lt;br/&gt;&lt;em&gt;There are many school activities.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3Rpdml0eXxlbnwwfHx8fDE3NzQ5MjY4MTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="활동이 (activity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;특히 보호자와 아이가 함께한다면 홈트레이닝도 겨울방학의 무료함을 날려주는 좋은 신체 활동이 될 수 있다&lt;br/&gt;&lt;em&gt;Especially if parents and children do it together, home training can be a good physical activity to blow away the boredom of winter vacation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(노른자존 활동이 한창인 동안 다가치학교 곳곳에서는 다른 프로젝트도 동시다발적으로 진행된다&lt;br/&gt;&lt;em&gt;While the yolk zone activity is in full swing, other projects are simultaneously underway in various places at the Dagauchi School.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우연철 소장은 “비교과가 부족하다고 판단되는 학생이라면 수업 내용을 바탕으로 궁금한 점이나 현실에 적용할 수 있는 부분을 적극적으로 찾아 독서활동이나 발표활동으로 연계시키는 것이 좋다”고 말했다&lt;br/&gt;&lt;em&gt;Director Woo Yeon-cheol said, "For students who are judged to lack extracurricular activities, it is good to actively find points of curiosity or parts that can be applied to reality based on the class content and link them to reading activities or presentation activities."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;활동이 재미있어요.&lt;br/&gt;&lt;em&gt;The activity is fun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교 활동이 많아요.&lt;br/&gt;&lt;em&gt;There are many school activities.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 31 Mar 2026 12:13:45 +0900</pubDate><guid isPermaLink="false">vocab-b134811214c427e00e9287606625ee7293041b40</guid><enclosure url="https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3Rpdml0eXxlbnwwfHx8fDE3NzQ5MjY4MTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="137501" /><ns2:content url="https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3Rpdml0eXxlbnwwfHx8fDE3NzQ5MjY4MTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3Rpdml0eXxlbnwwfHx8fDE3NzQ5MjY4MTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>활동이</category></item><item><title>생산이 – production</title><link>urn:urn:vocab:생산이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577190651915-bf62d54d5b36?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aW9ufGVufDB8fHx8MTc3NDkxODkzMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생산이 (production)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;수도권, 충청권, 동남권은 서비스업, 광업·제조업 등의 생산이 늘어 증가했고, 호남권은 건설업 등이 줄어 감소했다&lt;br/&gt;&lt;em&gt;The Seoul metropolitan area, Chungcheong region, and Southeast region increased due to growth in production in service industries, mining and manufacturing, etc., while the Honam region decreased as construction and other industries declined.&lt;/em&gt;&lt;/p&gt;
