@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 18:31:49 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 20:39:46 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>여행지리 – travel geography</title><link>urn:urn:vocab:여행지리</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>연극을 – play (theater)</title><link>urn:urn:vocab:연극을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1740867650660-e1a0a677e666?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGF5JTIwJTI4dGhlYXRlciUyOXxlbnwwfHx8fDE3NzQ5NTcxNzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연극을 (play (theater))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;작은 생물을 관찰하고 곤충버스를 만들어보는 ‘작반하장’부터 청소년 노동권을 공부하고 체험하는 ‘청알지’, 취미 고민을 나누는 ‘전지적 취미 시점’, 어린이 인권을 탐구하는 ‘노른자존’, 공간의 쓸모를 새롭게 구상하는 ‘OO의 공간7빵’, 이야기와 연극을 만드는 ‘한두마디’ 등 주제는 생활에서 사회로, 취미에서 권리로 다채롭게 뻗어간다&lt;br/&gt;&lt;em&gt;From 'Jakbanhajang' where you observe small creatures and create insect buses, to 'Cheongalji' where you study and experience youth labor rights, 'Jeonjijeok Chwimi Sijeom' where you share hobby concerns, 'Noreunjajon' which explores children's rights, 'OOui Gonggan7ppang' that reimagines the utility of spaces, and 'Handumadi' that creates stories and plays, the themes diversely extend from daily life to society, and from hobbies to rights.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한편의 완결된 연극을 연습하고 무대에 올리는 일은 아이들에게 잊을 수 없는 경험을 선사한다&lt;br/&gt;&lt;em&gt;Practicing and performing a complete play provides children with an unforgettable experience.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;동네 아이들을 모아 함께 연극을 준비하거나, 교실에서 학급 연극 무대를 꾸며봐도 좋다&lt;br/&gt;&lt;em&gt;You can gather neighborhood children to prepare a play together, or decorate a classroom stage for a class play.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 연극을 봅니다.&lt;br/&gt;&lt;em&gt;I watch plays.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구가 연극을 좋아합니다.&lt;br/&gt;&lt;em&gt;My friend likes plays.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1740867650660-e1a0a677e666?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGF5JTIwJTI4dGhlYXRlciUyOXxlbnwwfHx8fDE3NzQ5NTcxNzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연극을 (play (theater))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;작은 생물을 관찰하고 곤충버스를 만들어보는 ‘작반하장’부터 청소년 노동권을 공부하고 체험하는 ‘청알지’, 취미 고민을 나누는 ‘전지적 취미 시점’, 어린이 인권을 탐구하는 ‘노른자존’, 공간의 쓸모를 새롭게 구상하는 ‘OO의 공간7빵’, 이야기와 연극을 만드는 ‘한두마디’ 등 주제는 생활에서 사회로, 취미에서 권리로 다채롭게 뻗어간다&lt;br/&gt;&lt;em&gt;From 'Jakbanhajang' where you observe small creatures and create insect buses, to 'Cheongalji' where you study and experience youth labor rights, 'Jeonjijeok Chwimi Sijeom' where you share hobby concerns, 'Noreunjajon' which explores children's rights, 'OOui Gonggan7ppang' that reimagines the utility of spaces, and 'Handumadi' that creates stories and plays, the themes diversely extend from daily life to society, and from hobbies to rights.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한편의 완결된 연극을 연습하고 무대에 올리는 일은 아이들에게 잊을 수 없는 경험을 선사한다&lt;br/&gt;&lt;em&gt;Practicing and performing a complete play provides children with an unforgettable experience.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;동네 아이들을 모아 함께 연극을 준비하거나, 교실에서 학급 연극 무대를 꾸며봐도 좋다&lt;br/&gt;&lt;em&gt;You can gather neighborhood children to prepare a play together, or decorate a classroom stage for a class play.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 연극을 봅니다.&lt;br/&gt;&lt;em&gt;I watch plays.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구가 연극을 좋아합니다.&lt;br/&gt;&lt;em&gt;My friend likes plays.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 31 Mar 2026 20:39:46 +0900</pubDate><guid isPermaLink="false">vocab-547420b9d45156e976e913b8c1e3511e92e9a9b5</guid><enclosure url="https://images.unsplash.com/photo-1740867650660-e1a0a677e666?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGF5JTIwJTI4dGhlYXRlciUyOXxlbnwwfHx8fDE3NzQ5NTcxNzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="50892" /><ns2:content url="https://images.unsplash.com/photo-1740867650660-e1a0a677e666?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGF5JTIwJTI4dGhlYXRlciUyOXxlbnwwfHx8fDE3NzQ5NTcxNzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1740867650660-e1a0a677e666?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGF5JTIwJTI4dGhlYXRlciUyOXxlbnwwfHx8fDE3NzQ5NTcxNzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>연극을</category></item><item><title>여행지리 – travel geography</title><link>urn:urn:vocab:여행지리</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625239622428-ba0ae330a1f9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBnZW9ncmFwaHl8ZW58MHx8fHwxNzc0OTQ5NDk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="여행지리 (travel geography)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Professor Byeong-Kuk Yoon of Kyung Hee Cyber University's Tourism, Leisure, and Aviation Management Department Publishes 『Travel Geography』 (경희사이버대학교 관광레저항공경영학과 윤병국 교수, 『여행지리』 출간) &lt;&lt;br/&gt;&lt;em&gt;Professor Byeong-Kuk Yoon of Kyung Hee Cyber University's Tourism, Leisure, and Aviation Management Department Publishes 『Travel Geography』&lt;/em&gt;&lt;/p&gt;
