@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 20:39:46 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 22:44:06 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>연극을 – play (theater)</title><link>urn:urn:vocab:연극을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>교통비 – transportation expenses</title><link>urn:urn:vocab:교통비</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1643621325089-80d5322eb8d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc3BvcnRhdGlvbiUyMGV4cGVuc2VzfGVufDB8fHx8MTc3NDk2NDYzN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="교통비 (transportation expenses)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(전 국민 교통비 경감을 위해 877억원을 들여 케이패스 환급률도 상향한다&lt;br/&gt;&lt;em&gt;To reduce transportation costs for all citizens, 87.7 billion won will be invested to increase the K-Pass refund rate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  석유 최고가격제로 인해 공급가를 낮춘 정유사에는 5조원을 배정해 손실을 보상하고, 대중교통 이용을 촉진하기 위해 대중교통비 환급 사업인 케이(K)패스 환급률을 일반 가입자 기준 20%→30%로 6개월간 한시 상향하기로 했다&lt;br/&gt;&lt;em&gt;To compensate for losses, 5 trillion won will be allocated to oil refineries that lowered supply prices due to the oil price ceiling system, and to promote public transportation use, the K-Pass refund rate for general subscribers will be temporarily increased from 20% to 30% for six months.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대중교통 이용을 촉진하는 차원에서 교통비 환급 사업인 케이(K)패스 환급률은 일시 상향한다&lt;br/&gt;&lt;em&gt;To promote public transportation use, the K-Pass refund rate for transportation costs will be temporarily increased.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;교통비가 비싸요.&lt;br/&gt;&lt;em&gt;The transportation fare is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;교통비를 아껴요.&lt;br/&gt;&lt;em&gt;Save on transportation costs.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1643621325089-80d5322eb8d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc3BvcnRhdGlvbiUyMGV4cGVuc2VzfGVufDB8fHx8MTc3NDk2NDYzN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="교통비 (transportation expenses)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(전 국민 교통비 경감을 위해 877억원을 들여 케이패스 환급률도 상향한다&lt;br/&gt;&lt;em&gt;To reduce transportation costs for all citizens, 87.7 billion won will be invested to increase the K-Pass refund rate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  석유 최고가격제로 인해 공급가를 낮춘 정유사에는 5조원을 배정해 손실을 보상하고, 대중교통 이용을 촉진하기 위해 대중교통비 환급 사업인 케이(K)패스 환급률을 일반 가입자 기준 20%→30%로 6개월간 한시 상향하기로 했다&lt;br/&gt;&lt;em&gt;To compensate for losses, 5 trillion won will be allocated to oil refineries that lowered supply prices due to the oil price ceiling system, and to promote public transportation use, the K-Pass refund rate for general subscribers will be temporarily increased from 20% to 30% for six months.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대중교통 이용을 촉진하는 차원에서 교통비 환급 사업인 케이(K)패스 환급률은 일시 상향한다&lt;br/&gt;&lt;em&gt;To promote public transportation use, the K-Pass refund rate for transportation costs will be temporarily increased.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;교통비가 비싸요.&lt;br/&gt;&lt;em&gt;The transportation fare is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;교통비를 아껴요.&lt;br/&gt;&lt;em&gt;Save on transportation costs.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 31 Mar 2026 22:44:06 +0900</pubDate><guid isPermaLink="false">vocab-b1022790e1093300e94654a7d3a41143a80f1eac</guid><enclosure url="https://images.unsplash.com/photo-1643621325089-80d5322eb8d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc3BvcnRhdGlvbiUyMGV4cGVuc2VzfGVufDB8fHx8MTc3NDk2NDYzN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="108427" /><ns2:content url="https://images.unsplash.com/photo-1643621325089-80d5322eb8d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc3BvcnRhdGlvbiUyMGV4cGVuc2VzfGVufDB8fHx8MTc3NDk2NDYzN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1643621325089-80d5322eb8d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc3BvcnRhdGlvbiUyMGV4cGVuc2VzfGVufDB8fHx8MTc3NDk2NDYzN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>교통비</category></item><item><title>연극을 – play (theater)</title><link>urn:urn:vocab:연극을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1740867650660-e1a0a677e666?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGF5JTIwJTI4dGhlYXRlciUyOXxlbnwwfHx8fDE3NzQ5NTcxNzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연극을 (play (theater))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;작은 생물을 관찰하고 곤충버스를 만들어보는 ‘작반하장’부터 청소년 노동권을 공부하고 체험하는 ‘청알지’, 취미 고민을 나누는 ‘전지적 취미 시점’, 어린이 인권을 탐구하는 ‘노른자존’, 공간의 쓸모를 새롭게 구상하는 ‘OO의 공간7빵’, 이야기와 연극을 만드는 ‘한두마디’ 등 주제는 생활에서 사회로, 취미에서 권리로 다채롭게 뻗어간다&lt;br/&gt;&lt;em&gt;From 'Jakbanhajang' where you observe small creatures and create insect buses, to 'Cheongalji' where you study and experience youth labor rights, 'Jeonjijeok Chwimi Sijeom' where you share hobby concerns, 'Noreunjajon' which explores children's rights, 'OOui Gonggan7ppang' that reimagines the utility of spaces, and 'Handumadi' that creates stories and plays, the themes diversely extend from daily life to society, and from hobbies to rights.&lt;/em&gt;&lt;/p&gt;
