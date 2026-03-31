@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 07:58:31 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 10:02:30 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>생각나 – to come to mind / to remember</title><link>urn:urn:vocab:생각나</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>살리겠다 – will save</title><link>urn:urn:vocab:살리겠다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773687887297-74f30b3c7344?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWxsJTIwc2F2ZXxlbnwwfHx8fDE3NzQ5MTg5NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="살리겠다 (will save)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;On the Day Kim Bu-gyeom Declares Candidacy in Daegu, 6 PPP Candidates Say "I Will Revive Daegu's Economy" (김부겸 대구 출마선언한 날, 국힘 후보 6명 “내가 대구 경제 살리겠다”) &lt;&lt;br/&gt;&lt;em&gt;On the Day Kim Bu-gyeom Declares Candidacy in Daegu, 6 PPP Candidates Say "I Will Revive Daegu's Economy"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;On the Day Kim Bu-gyeom Declares Candidacy in Daegu, 6 PPP Candidates Say "I Will Revive Daegu's Economy" (김부겸 대구 출마선언한 날, 국힘 후보 6명 “내가 대구 경제 살리겠다”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;On the Day Kim Bu-gyeom Declares Candidacy in Daegu, 6 PPP Candidates Say "I Will Revive Daegu's Economy"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;윤재옥·추경호·유영하 의원과 홍석준 전 의원, 이재만 전 대구 동구청장이 참여한 1차 합동 토론회에서 후보들은 한목소리로 “위기의 대구 경제를 살리겠다”고 했다&lt;br/&gt;&lt;em&gt;At the first joint debate attended by lawmakers Yoon Jae-ok, Choo Kyung-ho, and Yoo Young-ha, former lawmaker Hong Seok-jun, and former Daegu Dong-gu District Mayor Lee Jae-man, the candidates unanimously said, "We will revive Daegu's economy in crisis."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 너를 살리겠다.&lt;br/&gt;&lt;em&gt;I will save you.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;의사가 환자를 살리겠다.&lt;br/&gt;&lt;em&gt;The doctor will save the patient.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773687887297-74f30b3c7344?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWxsJTIwc2F2ZXxlbnwwfHx8fDE3NzQ5MTg5NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="살리겠다 (will save)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;On the Day Kim Bu-gyeom Declares Candidacy in Daegu, 6 PPP Candidates Say "I Will Revive Daegu's Economy" (김부겸 대구 출마선언한 날, 국힘 후보 6명 “내가 대구 경제 살리겠다”) &lt;&lt;br/&gt;&lt;em&gt;On the Day Kim Bu-gyeom Declares Candidacy in Daegu, 6 PPP Candidates Say "I Will Revive Daegu's Economy"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;On the Day Kim Bu-gyeom Declares Candidacy in Daegu, 6 PPP Candidates Say "I Will Revive Daegu's Economy" (김부겸 대구 출마선언한 날, 국힘 후보 6명 “내가 대구 경제 살리겠다”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;On the Day Kim Bu-gyeom Declares Candidacy in Daegu, 6 PPP Candidates Say "I Will Revive Daegu's Economy"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;윤재옥·추경호·유영하 의원과 홍석준 전 의원, 이재만 전 대구 동구청장이 참여한 1차 합동 토론회에서 후보들은 한목소리로 “위기의 대구 경제를 살리겠다”고 했다&lt;br/&gt;&lt;em&gt;At the first joint debate attended by lawmakers Yoon Jae-ok, Choo Kyung-ho, and Yoo Young-ha, former lawmaker Hong Seok-jun, and former Daegu Dong-gu District Mayor Lee Jae-man, the candidates unanimously said, "We will revive Daegu's economy in crisis."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 너를 살리겠다.&lt;br/&gt;&lt;em&gt;I will save you.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;의사가 환자를 살리겠다.&lt;br/&gt;&lt;em&gt;The doctor will save the patient.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 31 Mar 2026 10:02:30 +0900</pubDate><guid isPermaLink="false">vocab-3a114ded82d7d5129c66fcbf83e4ca23435891e5</guid><enclosure url="https://images.unsplash.com/photo-1773687887297-74f30b3c7344?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWxsJTIwc2F2ZXxlbnwwfHx8fDE3NzQ5MTg5NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="115343" /><ns2:content url="https://images.unsplash.com/photo-1773687887297-74f30b3c7344?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWxsJTIwc2F2ZXxlbnwwfHx8fDE3NzQ5MTg5NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1773687887297-74f30b3c7344?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWxsJTIwc2F2ZXxlbnwwfHx8fDE3NzQ5MTg5NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>살리겠다</category></item><item><title>생각나 – to come to mind / to remember</title><link>urn:urn:vocab:생각나</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1538153809875-e25c32555d32?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGNvbWUlMjB0byUyMG1pbmQlMjAlMkYlMjB0byUyMHJlbWVtYmVyfGVufDB8fHx8MTc3NDkxMTUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생각나 (to come to mind / to remember)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Lee Attends Jeju Town Hall Meeting, Says "Today is My Wedding Anniversary, Reminds Me of My Honeymoon" (李, 제주 타운홀미팅 참석 “오늘 결혼기념일, 신혼여행 생각나”) &lt;&lt;br/&gt;&lt;em&gt;Lee Attends Jeju Town Hall Meeting, Says "Today is My Wedding Anniversary, Reminds Me of My Honeymoon" (Lee attends Jeju town hall meeting, "Today is my wedding anniversary, reminds me of my honeymoon")&lt;/em&gt;&lt;/p&gt;
