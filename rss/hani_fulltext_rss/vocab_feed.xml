@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 16:27:38 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 18:34:01 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>괜찮아요 – It's okay</title><link>urn:urn:vocab:괜찮아요</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>현재는 – currently</title><link>urn:urn:vocab:현재는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554744072-c7f4b3233c0f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjdXJyZW50bHl8ZW58MHx8fHwxNzc1MDM2MDMwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="현재는 (currently)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현재는 공정거래법, 하도급법, 대규모유통업법 등 공정위 소관 6개 법률 위반 사건이 대상이다&lt;br/&gt;&lt;em&gt;Currently, the target includes cases of violations of six laws under the jurisdiction of the Fair Trade Commission, such as the Fair Trade Act, the Subcontract Act, and the Large-Scale Retail Business Act.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재는 검찰과 감사원, 중소벤처기업부, 조달청 등 4개 기관에만 고발요청권이 부여돼 있다&lt;br/&gt;&lt;em&gt;Currently, only four agencies—the prosecution, the Board of Audit and Inspection, the Ministry of SMEs and Startups, and the Public Procurement Service—are granted the right to request prosecution.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오픈에이아이는 챗지피티 출시 1년 만에 매출 10억 달러를 기록했고, 2024년 말에는 분기당 10억 달러를 벌어들였으며 현재는 월 매출 20억 달러에 도달했다고 밝혔다&lt;br/&gt;&lt;em&gt;OpenAI announced that it recorded $1 billion in revenue within one year of ChatGPT's launch, earned $1 billion per quarter by the end of 2024, and has now reached a monthly revenue of $2 billion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현재는 날씨가 좋아요.&lt;br/&gt;&lt;em&gt;The weather is good now.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재는 학교에 있어요.&lt;br/&gt;&lt;em&gt;I am at school now.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554744072-c7f4b3233c0f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjdXJyZW50bHl8ZW58MHx8fHwxNzc1MDM2MDMwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="현재는 (currently)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현재는 공정거래법, 하도급법, 대규모유통업법 등 공정위 소관 6개 법률 위반 사건이 대상이다&lt;br/&gt;&lt;em&gt;Currently, the target includes cases of violations of six laws under the jurisdiction of the Fair Trade Commission, such as the Fair Trade Act, the Subcontract Act, and the Large-Scale Retail Business Act.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재는 검찰과 감사원, 중소벤처기업부, 조달청 등 4개 기관에만 고발요청권이 부여돼 있다&lt;br/&gt;&lt;em&gt;Currently, only four agencies—the prosecution, the Board of Audit and Inspection, the Ministry of SMEs and Startups, and the Public Procurement Service—are granted the right to request prosecution.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오픈에이아이는 챗지피티 출시 1년 만에 매출 10억 달러를 기록했고, 2024년 말에는 분기당 10억 달러를 벌어들였으며 현재는 월 매출 20억 달러에 도달했다고 밝혔다&lt;br/&gt;&lt;em&gt;OpenAI announced that it recorded $1 billion in revenue within one year of ChatGPT's launch, earned $1 billion per quarter by the end of 2024, and has now reached a monthly revenue of $2 billion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현재는 날씨가 좋아요.&lt;br/&gt;&lt;em&gt;The weather is good now.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재는 학교에 있어요.&lt;br/&gt;&lt;em&gt;I am at school now.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 01 Apr 2026 18:34:01 +0900</pubDate><guid isPermaLink="false">vocab-fa1d6ebca4138d9b2e05e02ed5f4c6b7aa19b73d</guid><enclosure url="https://images.unsplash.com/photo-1554744072-c7f4b3233c0f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjdXJyZW50bHl8ZW58MHx8fHwxNzc1MDM2MDMwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="146090" /><ns2:content url="https://images.unsplash.com/photo-1554744072-c7f4b3233c0f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjdXJyZW50bHl8ZW58MHx8fHwxNzc1MDM2MDMwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1554744072-c7f4b3233c0f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjdXJyZW50bHl8ZW58MHx8fHwxNzc1MDM2MDMwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>현재는</category></item><item><title>괜찮아요 – It's okay</title><link>urn:urn:vocab:괜찮아요</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605364978981-2984f424f529?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyN3MlMjBva2F5fGVufDB8fHx8MTc3NTAyODQ0OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="괜찮아요 (It's okay)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;It's Okay Even if Your Score is Low (1~2학년 과정 복습 위주로 대비…성적 낮아도 괜찮아요) &lt;&lt;br/&gt;&lt;em&gt;It's Okay Even if Your Score is Low (Focus on reviewing 1st-2nd grade curriculum... It's okay even if your score is low) &lt;&lt;/em&gt;&lt;/p&gt;
