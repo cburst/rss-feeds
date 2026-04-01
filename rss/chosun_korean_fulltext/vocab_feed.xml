@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 00:56:03 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:08:06 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>늘어난다 – increases</title><link>urn:urn:vocab:늘어난다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>휴양지 – resort</title><link>urn:urn:vocab:휴양지</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1610641818989-c2051b5e2cfd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNvcnR8ZW58MHx8fHwxNzc1MDY2ODc3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="휴양지 (resort)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김 의원은 전날 기자회견을 통해 정 예비후보가 성동구청장 재임 중 멕시코 휴양지 칸쿤에 여성 직원과 출장을 다녀왔으며, 이후 해당 여직원이 인사 특혜를 받았다는 의혹을 제기했다&lt;br/&gt;&lt;em&gt;Assemblyman Kim raised suspicions at a press conference the previous day that candidate Jung, while serving as Seongdong-gu mayor, traveled to the Mexican resort Cancún with a female employee and that the employee later received preferential treatment in personnel matters.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (신장식 조국혁신당 의원도 “언론에서는 여성, 휴양지, 외유성, 진급 이 키워드로 기사를 쓰고 있다”며 “그 단어들을 통해 연상시키는 것이 무엇인지는 다 아시지 않나&lt;br/&gt;&lt;em&gt;Assemblyman Shin Jang-sik of the Jo Guk Innovation Party also said, 'The media is writing articles with keywords like woman, resort, overseas trip, and promotion,' adding, 'Doesn't everyone know what those words are meant to imply?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(더불어민주당 서울시장 예비후보인 정원오 전 서울 성동구청장이 2023년 멕시코·미국 출장 중 2박 3일간 멕시코 휴양지 칸쿤에 머문 것을 둘러싼 논란이 1일 계속됐다&lt;br/&gt;&lt;em&gt;Controversy continued on the 1st over former Seongdong-gu mayor Jung Won-oh, a Democratic Party of Korea candidate for Seoul mayor, staying for two nights and three days in the Mexican resort Cancún during a business trip to Mexico and the United States in 2023.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;휴양지에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to a resort.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 휴양지는 아름다워요.&lt;br/&gt;&lt;em&gt;This resort is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1610641818989-c2051b5e2cfd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNvcnR8ZW58MHx8fHwxNzc1MDY2ODc3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="휴양지 (resort)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김 의원은 전날 기자회견을 통해 정 예비후보가 성동구청장 재임 중 멕시코 휴양지 칸쿤에 여성 직원과 출장을 다녀왔으며, 이후 해당 여직원이 인사 특혜를 받았다는 의혹을 제기했다&lt;br/&gt;&lt;em&gt;Assemblyman Kim raised suspicions at a press conference the previous day that candidate Jung, while serving as Seongdong-gu mayor, traveled to the Mexican resort Cancún with a female employee and that the employee later received preferential treatment in personnel matters.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (신장식 조국혁신당 의원도 “언론에서는 여성, 휴양지, 외유성, 진급 이 키워드로 기사를 쓰고 있다”며 “그 단어들을 통해 연상시키는 것이 무엇인지는 다 아시지 않나&lt;br/&gt;&lt;em&gt;Assemblyman Shin Jang-sik of the Jo Guk Innovation Party also said, 'The media is writing articles with keywords like woman, resort, overseas trip, and promotion,' adding, 'Doesn't everyone know what those words are meant to imply?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(더불어민주당 서울시장 예비후보인 정원오 전 서울 성동구청장이 2023년 멕시코·미국 출장 중 2박 3일간 멕시코 휴양지 칸쿤에 머문 것을 둘러싼 논란이 1일 계속됐다&lt;br/&gt;&lt;em&gt;Controversy continued on the 1st over former Seongdong-gu mayor Jung Won-oh, a Democratic Party of Korea candidate for Seoul mayor, staying for two nights and three days in the Mexican resort Cancún during a business trip to Mexico and the United States in 2023.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;휴양지에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to a resort.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 휴양지는 아름다워요.&lt;br/&gt;&lt;em&gt;This resort is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 02 Apr 2026 03:08:06 +0900</pubDate><guid isPermaLink="false">vocab-bb1e9c484d80c5e69a843c2ace75cd4899174613</guid><enclosure url="https://images.unsplash.com/photo-1610641818989-c2051b5e2cfd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNvcnR8ZW58MHx8fHwxNzc1MDY2ODc3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="171669" /><ns2:content url="https://images.unsplash.com/photo-1610641818989-c2051b5e2cfd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNvcnR8ZW58MHx8fHwxNzc1MDY2ODc3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1610641818989-c2051b5e2cfd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNvcnR8ZW58MHx8fHwxNzc1MDY2ODc3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>휴양지</category></item><item><title>늘어난다 – increases</title><link>urn:urn:vocab:늘어난다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1651961667061-19b4a71010e7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmNyZWFzZXN8ZW58MHx8fHwxNzc1MDU4OTU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="늘어난다 (increases)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Korea-Austria Direct Flights to Increase from 'Maximum 4 to 21 Times per Week' (한국·오스트리아 직항 ‘최대 주 4회→21회’로 늘어난다) &lt;&lt;br/&gt;&lt;em&gt;Korea-Austria Direct Flights to Increase from 'Maximum 4 to 21 Times per Week'&lt;/em&gt;&lt;/p&gt;

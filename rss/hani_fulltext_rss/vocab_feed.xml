@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 00:55:53 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:07:55 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>허용한다 – allows</title><link>urn:urn:vocab:허용한다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>목적이 – purpose</title><link>urn:urn:vocab:목적이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1505778276668-26b3ff7af103?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdXJwb3NlfGVufDB8fHx8MTc3NTA2Njg2OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="목적이 (purpose)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;민간임대리츠, 공익법인 등 공익 목적이 존재하는 경우도 규제에서 제외된다&lt;br/&gt;&lt;em&gt;Private rental REITs, public interest corporations, etc., are also exempt from regulations if they serve a public interest purpose.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(다만 어린이집 등 공익 목적이 인정되거나 준공 후 미분양 주택 등 규제 적용이 곤란한 경우는 주택 산정에서 제외한다&lt;br/&gt;&lt;em&gt;(However, cases such as daycare centers recognized for public interest purposes or unsold housing after completion, where regulation application is difficult, are excluded from housing calculations.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개인별 성적과 등급 등을 제공하는 데 주된 목적이 있다&lt;br/&gt;&lt;em&gt;Its main purpose is to provide individual grades and ratings.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 책의 목적이 뭐예요?&lt;br/&gt;&lt;em&gt;What is the purpose of this book?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 여행의 목적이 중요해요.&lt;br/&gt;&lt;em&gt;The purpose of our trip is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1505778276668-26b3ff7af103?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdXJwb3NlfGVufDB8fHx8MTc3NTA2Njg2OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="목적이 (purpose)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;민간임대리츠, 공익법인 등 공익 목적이 존재하는 경우도 규제에서 제외된다&lt;br/&gt;&lt;em&gt;Private rental REITs, public interest corporations, etc., are also exempt from regulations if they serve a public interest purpose.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(다만 어린이집 등 공익 목적이 인정되거나 준공 후 미분양 주택 등 규제 적용이 곤란한 경우는 주택 산정에서 제외한다&lt;br/&gt;&lt;em&gt;(However, cases such as daycare centers recognized for public interest purposes or unsold housing after completion, where regulation application is difficult, are excluded from housing calculations.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개인별 성적과 등급 등을 제공하는 데 주된 목적이 있다&lt;br/&gt;&lt;em&gt;Its main purpose is to provide individual grades and ratings.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 책의 목적이 뭐예요?&lt;br/&gt;&lt;em&gt;What is the purpose of this book?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 여행의 목적이 중요해요.&lt;br/&gt;&lt;em&gt;The purpose of our trip is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 02 Apr 2026 03:07:55 +0900</pubDate><guid isPermaLink="false">vocab-3e671ca76650a75e6a8e292686952ae9072e8a3c</guid><enclosure url="https://images.unsplash.com/photo-1505778276668-26b3ff7af103?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdXJwb3NlfGVufDB8fHx8MTc3NTA2Njg2OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="101407" /><ns2:content url="https://images.unsplash.com/photo-1505778276668-26b3ff7af103?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdXJwb3NlfGVufDB8fHx8MTc3NTA2Njg2OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1505778276668-26b3ff7af103?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdXJwb3NlfGVufDB8fHx8MTc3NTA2Njg2OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>목적이</category></item><item><title>허용한다 – allows</title><link>urn:urn:vocab:허용한다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1631085160969-6a4889625eec?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbGxvd3N8ZW58MHx8fHwxNzc1MDU4OTQ1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="허용한다 (allows)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(또 임차인이 거주하는 등 불가피한 경우도 만기연장을 예외적으로 허용한다&lt;br/&gt;&lt;em&gt;(Even in unavoidable cases such as when the tenant is still residing there, the lease term extension is exceptionally permitted)&lt;/em&gt;&lt;/p&gt;
