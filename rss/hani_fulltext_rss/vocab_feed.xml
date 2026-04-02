@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 09:35:31 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 11:47:52 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>경우는 – in the case of</title><link>urn:urn:vocab:경우는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>직원 – employee</title><link>urn:urn:vocab:직원</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbXBsb3llZXxlbnwwfHx8fDE3NzUwODI0ODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="직원 (employee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한 메모리 매장 직원은 “메모리 가격이 내렸다는 뉴스까지 나왔으니 아무래도 가격이 조금 더 내리지 않을까 싶다”고 전했다&lt;br/&gt;&lt;em&gt;A memory store employee said, 'Since there has been news that memory prices have dropped, I think the price might drop a little more.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;용산전자상가의 한 부품 업체 직원은 “삼성전자가 조만간 메모리 공급가를 추가 인상할 것이라는 관측이 많다”며 “제조사가 가격을 올리면 소매가도 이를 따라 오를 수밖에 없다”고 말했다&lt;br/&gt;&lt;em&gt;An employee at a parts company in Yongsan Electronics Market said, 'There are many predictions that Samsung Electronics will soon raise memory supply prices further,' adding, 'If manufacturers raise prices, retail prices will inevitably follow.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학생과 교수, 직원 모두가 통합 LLM(대규모 언어모델) 기반 생성형 AI를 안전하고 책임감 있게 활용할 수 있도록 설계했다&lt;br/&gt;&lt;em&gt;It was designed to allow students, professors, and staff to safely and responsibly use integrated LLM (Large Language Model)-based generative AI.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;직원이 일을 합니다.&lt;br/&gt;&lt;em&gt;The employee works.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 직원입니다.&lt;br/&gt;&lt;em&gt;I am an employee.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbXBsb3llZXxlbnwwfHx8fDE3NzUwODI0ODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="직원 (employee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한 메모리 매장 직원은 “메모리 가격이 내렸다는 뉴스까지 나왔으니 아무래도 가격이 조금 더 내리지 않을까 싶다”고 전했다&lt;br/&gt;&lt;em&gt;A memory store employee said, 'Since there has been news that memory prices have dropped, I think the price might drop a little more.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;용산전자상가의 한 부품 업체 직원은 “삼성전자가 조만간 메모리 공급가를 추가 인상할 것이라는 관측이 많다”며 “제조사가 가격을 올리면 소매가도 이를 따라 오를 수밖에 없다”고 말했다&lt;br/&gt;&lt;em&gt;An employee at a parts company in Yongsan Electronics Market said, 'There are many predictions that Samsung Electronics will soon raise memory supply prices further,' adding, 'If manufacturers raise prices, retail prices will inevitably follow.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학생과 교수, 직원 모두가 통합 LLM(대규모 언어모델) 기반 생성형 AI를 안전하고 책임감 있게 활용할 수 있도록 설계했다&lt;br/&gt;&lt;em&gt;It was designed to allow students, professors, and staff to safely and responsibly use integrated LLM (Large Language Model)-based generative AI.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;직원이 일을 합니다.&lt;br/&gt;&lt;em&gt;The employee works.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 직원입니다.&lt;br/&gt;&lt;em&gt;I am an employee.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 02 Apr 2026 11:47:52 +0900</pubDate><guid isPermaLink="false">vocab-fbdfb28a973c4e056854a0e85163e1584b0eb890</guid><enclosure url="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbXBsb3llZXxlbnwwfHx8fDE3NzUwODI0ODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="220461" /><ns2:content url="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbXBsb3llZXxlbnwwfHx8fDE3NzUwODI0ODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbXBsb3llZXxlbnwwfHx8fDE3NzUwODI0ODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>직원</category></item><item><title>경우는 – in the case of</title><link>urn:urn:vocab:경우는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1770844063638-19e37f8c42eb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGNhc2UlMjBvZnxlbnwwfHx8fDE3NzUwOTAxMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경우는 (in the case of)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;대책 시행 전날인 16일까지 체결되는 묵시적 갱신과, 발표일부터 4개월 이내에 종료되는 임대차계약(7월31일)에 대한 갱신청구권 행사를 하는 경우는 갱신계약의 종료일까지 인정한다&lt;br/&gt;&lt;em&gt;For implicit renewals concluded by the 16th, the day before the measure takes effect, and for exercising renewal rights on lease contracts ending within 4 months from the announcement date (July 31st), the renewal contract's end date is recognized until its termination.&lt;/em&gt;&lt;/p&gt;
