@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 22:21:53 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:26:43 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>운영에 – in operation</title><link>urn:urn:vocab:운영에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>이용하는 – using</title><link>urn:urn:vocab:이용하는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1615961766458-6950a05bba08?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2luZ3xlbnwwfHx8fDE3NzUxNDM1OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이용하는 (using)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (“다가치학교를 이용하는 청소년들은 이곳이 없어지면 자기 일상이 무너질 수도 있다고도 말한다&lt;br/&gt;&lt;em&gt;Teenagers who use Dagachi School also say that their daily lives might fall apart if this place disappears.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;조 대표는 “한 대표가 자꾸 저를 이용하는 ‘노이즈 정치’를 하는 것 같다”며 “이분이 국민의힘에서 제명되지 않았나&lt;br/&gt;&lt;em&gt;CEO Jo said, "I think Representative Han keeps using me for 'noise politics'," adding, "Wasn't this person expelled from the People Power Party?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(또한, 대중교통을 이용하는 서민들의 교통비 부담을 낮추기 위해&lt;br/&gt;K-패스 환급률도 대폭 확장하였습니다&lt;br/&gt;&lt;em&gt;(Additionally, to reduce the transportation cost burden for common people who use public transportation,&lt;br/&gt;the K-Pass refund rate has been significantly expanded.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 지하철을 이용하는 사람입니다.&lt;br/&gt;&lt;em&gt;I am a person who uses the subway.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도서관을 이용하는 것이 좋습니다.&lt;br/&gt;&lt;em&gt;It is good to use the library.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1615961766458-6950a05bba08?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2luZ3xlbnwwfHx8fDE3NzUxNDM1OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이용하는 (using)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (“다가치학교를 이용하는 청소년들은 이곳이 없어지면 자기 일상이 무너질 수도 있다고도 말한다&lt;br/&gt;&lt;em&gt;Teenagers who use Dagachi School also say that their daily lives might fall apart if this place disappears.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;조 대표는 “한 대표가 자꾸 저를 이용하는 ‘노이즈 정치’를 하는 것 같다”며 “이분이 국민의힘에서 제명되지 않았나&lt;br/&gt;&lt;em&gt;CEO Jo said, "I think Representative Han keeps using me for 'noise politics'," adding, "Wasn't this person expelled from the People Power Party?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(또한, 대중교통을 이용하는 서민들의 교통비 부담을 낮추기 위해&lt;br/&gt;K-패스 환급률도 대폭 확장하였습니다&lt;br/&gt;&lt;em&gt;(Additionally, to reduce the transportation cost burden for common people who use public transportation,&lt;br/&gt;the K-Pass refund rate has been significantly expanded.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 지하철을 이용하는 사람입니다.&lt;br/&gt;&lt;em&gt;I am a person who uses the subway.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도서관을 이용하는 것이 좋습니다.&lt;br/&gt;&lt;em&gt;It is good to use the library.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 03 Apr 2026 00:26:43 +0900</pubDate><guid isPermaLink="false">vocab-d3d5d768749384440f4b545d208847e6e13b6614</guid><enclosure url="https://images.unsplash.com/photo-1615961766458-6950a05bba08?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2luZ3xlbnwwfHx8fDE3NzUxNDM1OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="76410" /><ns2:content url="https://images.unsplash.com/photo-1615961766458-6950a05bba08?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2luZ3xlbnwwfHx8fDE3NzUxNDM1OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1615961766458-6950a05bba08?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2luZ3xlbnwwfHx8fDE3NzUxNDM1OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>이용하는</category></item><item><title>운영에 – in operation</title><link>urn:urn:vocab:운영에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1700165651339-1ab9532da05d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMG9wZXJhdGlvbnxlbnwwfHx8fDE3NzUxMzYxMDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="운영에 (in operation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;1부 순서로 대학 생활 안내 프로그램을 통해 외국인 유학생을 위한 학습 지원 체계, 생활 지도 방침, 학생 복지 제도 등 실질적인 정보가 제공됐으며, 사이버한국외대 아테나 교양학부장 최창수 교수가 수강 과정에서의 애로사항을 청취하고 이를 향후 교육과정 운영에 적극 반영하겠다는 방침을 전했다&lt;br/&gt;&lt;em&gt;In Part 1, the university life guidance program provided practical information such as learning support systems, life guidance policies, and student welfare systems for international students. Professor Choi Chang-soo, Dean of the Cyber University of Korea's Athena Liberal Arts Division, announced that he would listen to difficulties in the course and actively reflect them in future curriculum operations.&lt;/em&gt;&lt;/p&gt;
