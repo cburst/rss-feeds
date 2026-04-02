@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 18:10:14 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 20:17:24 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>공정성 – fairness</title><link>urn:urn:vocab:공정성</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>여직원 – female employee</title><link>urn:urn:vocab:여직원</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1648412868424-9bee5023a257?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBlbXBsb3llZXxlbnwwfHx8fDE3NzUxMjg2MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="여직원 (female employee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정청래 대표는 정 후보가 여직원과 칸쿤에 출장 갔다는 의혹 제기에 대해 당 차원에서 법적 대응에 나서라는 지시를 내렸습니다&lt;br/&gt;&lt;em&gt;Representative Jeong Cheong-rae instructed the party to take legal action regarding the allegation that candidate Jeong went on a business trip to Cancun with a female employee.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민의힘 김재섭 의원은 정원오 후보의 여직원 동반 멕시코 출장 의혹을 제기했습니다&lt;br/&gt;&lt;em&gt;(People Power Party lawmaker Kim Jae-seop raised suspicions about candidate Jeong Won-oh's business trip to Mexico accompanied by a female employee.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (김재섭 의원이 밝힌 ‘여직원 동반 해외 출장 의혹’은 큰 파장을 일으켰습니다&lt;br/&gt;&lt;em&gt;" (The 'suspicion of overseas business trip accompanied by a female employee' revealed by lawmaker Kim Jae-seop caused a major stir.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;여직원이 일해요.&lt;br/&gt;&lt;em&gt;A female employee works.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여직원이 커피를 마셔요.&lt;br/&gt;&lt;em&gt;A female employee drinks coffee.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1648412868424-9bee5023a257?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBlbXBsb3llZXxlbnwwfHx8fDE3NzUxMjg2MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="여직원 (female employee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정청래 대표는 정 후보가 여직원과 칸쿤에 출장 갔다는 의혹 제기에 대해 당 차원에서 법적 대응에 나서라는 지시를 내렸습니다&lt;br/&gt;&lt;em&gt;Representative Jeong Cheong-rae instructed the party to take legal action regarding the allegation that candidate Jeong went on a business trip to Cancun with a female employee.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민의힘 김재섭 의원은 정원오 후보의 여직원 동반 멕시코 출장 의혹을 제기했습니다&lt;br/&gt;&lt;em&gt;(People Power Party lawmaker Kim Jae-seop raised suspicions about candidate Jeong Won-oh's business trip to Mexico accompanied by a female employee.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (김재섭 의원이 밝힌 ‘여직원 동반 해외 출장 의혹’은 큰 파장을 일으켰습니다&lt;br/&gt;&lt;em&gt;" (The 'suspicion of overseas business trip accompanied by a female employee' revealed by lawmaker Kim Jae-seop caused a major stir.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;여직원이 일해요.&lt;br/&gt;&lt;em&gt;A female employee works.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여직원이 커피를 마셔요.&lt;br/&gt;&lt;em&gt;A female employee drinks coffee.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 02 Apr 2026 20:17:24 +0900</pubDate><guid isPermaLink="false">vocab-16fda4bd4a0ca0549813bf5bf9ae415b06f1d22b</guid><enclosure url="https://images.unsplash.com/photo-1648412868424-9bee5023a257?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBlbXBsb3llZXxlbnwwfHx8fDE3NzUxMjg2MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="111926" /><ns2:content url="https://images.unsplash.com/photo-1648412868424-9bee5023a257?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBlbXBsb3llZXxlbnwwfHx8fDE3NzUxMjg2MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1648412868424-9bee5023a257?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBlbXBsb3llZXxlbnwwfHx8fDE3NzUxMjg2MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>여직원</category></item><item><title>공정성 – fairness</title><link>urn:urn:vocab:공정성</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589578527966-fdac0f44566c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYWlybmVzc3xlbnwwfHx8fDE3NzUxMjEwMDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공정성 (fairness)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;공정성 잃어”) &lt;&lt;br/&gt;&lt;em&gt;"Lost fairness") &lt;&lt;/em&gt;&lt;/p&gt;
