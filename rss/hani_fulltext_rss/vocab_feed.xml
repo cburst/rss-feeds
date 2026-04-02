@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 07:28:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:35:31 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>불가피한 – inevitable</title><link>urn:urn:vocab:불가피한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>경우는 – in the case of</title><link>urn:urn:vocab:경우는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1770844063638-19e37f8c42eb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGNhc2UlMjBvZnxlbnwwfHx8fDE3NzUwOTAxMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경우는 (in the case of)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대책 시행 전날인 16일까지 체결되는 묵시적 갱신과, 발표일부터 4개월 이내에 종료되는 임대차계약(7월31일)에 대한 갱신청구권 행사를 하는 경우는 갱신계약의 종료일까지 인정한다&lt;br/&gt;&lt;em&gt;For implicit renewals concluded by the 16th, the day before the measure takes effect, and for exercising renewal rights on lease contracts ending within 4 months from the announcement date (July 31st), the renewal contract's end date is recognized until its termination.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(무주택자가 해당 주택을 구입하기 위해 올해 말까지 토지거래허가신청을 접수하고 허가일부터 4개월 내에 취득하는 경우는 매수자의 실거주 의무를 임대차계약종료일까지 유예해, 다주택자의 매물 공급을 유도한다는 계획이다&lt;br/&gt;&lt;em&gt;(For non-homeowners who apply for land transaction permission by the end of this year to purchase the relevant housing and acquire it within 4 months from the permit date, the buyer's actual residence obligation is deferred until the lease contract end date, aiming to encourage supply from multi-homeowners.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(도시정비법상 전매제한을 받는 경우는 전매제한 종료일까지, 분양가상한제 적용으로 주택법상 실거주의무가 있는 경우는 실거주의무 종료일까지 만기가 연장된다&lt;br/&gt;&lt;em&gt;(For cases subject to resale restrictions under the Urban Maintenance Act, the maturity is extended until the resale restriction end date; for cases with actual residence obligations under the Housing Act due to price ceiling regulations, it is extended until the residence obligation end date.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비가 오는 경우는 집에 있어요.&lt;br/&gt;&lt;em&gt;In case it rains, I stay at home.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;늦는 경우는 전화하세요.&lt;br/&gt;&lt;em&gt;In case you are late, please call.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1770844063638-19e37f8c42eb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGNhc2UlMjBvZnxlbnwwfHx8fDE3NzUwOTAxMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경우는 (in the case of)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대책 시행 전날인 16일까지 체결되는 묵시적 갱신과, 발표일부터 4개월 이내에 종료되는 임대차계약(7월31일)에 대한 갱신청구권 행사를 하는 경우는 갱신계약의 종료일까지 인정한다&lt;br/&gt;&lt;em&gt;For implicit renewals concluded by the 16th, the day before the measure takes effect, and for exercising renewal rights on lease contracts ending within 4 months from the announcement date (July 31st), the renewal contract's end date is recognized until its termination.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(무주택자가 해당 주택을 구입하기 위해 올해 말까지 토지거래허가신청을 접수하고 허가일부터 4개월 내에 취득하는 경우는 매수자의 실거주 의무를 임대차계약종료일까지 유예해, 다주택자의 매물 공급을 유도한다는 계획이다&lt;br/&gt;&lt;em&gt;(For non-homeowners who apply for land transaction permission by the end of this year to purchase the relevant housing and acquire it within 4 months from the permit date, the buyer's actual residence obligation is deferred until the lease contract end date, aiming to encourage supply from multi-homeowners.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(도시정비법상 전매제한을 받는 경우는 전매제한 종료일까지, 분양가상한제 적용으로 주택법상 실거주의무가 있는 경우는 실거주의무 종료일까지 만기가 연장된다&lt;br/&gt;&lt;em&gt;(For cases subject to resale restrictions under the Urban Maintenance Act, the maturity is extended until the resale restriction end date; for cases with actual residence obligations under the Housing Act due to price ceiling regulations, it is extended until the residence obligation end date.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비가 오는 경우는 집에 있어요.&lt;br/&gt;&lt;em&gt;In case it rains, I stay at home.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;늦는 경우는 전화하세요.&lt;br/&gt;&lt;em&gt;In case you are late, please call.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 02 Apr 2026 09:35:31 +0900</pubDate><guid isPermaLink="false">vocab-e49d293ed7c33a5684caf7ba4668a0e47741d0a5</guid><enclosure url="https://images.unsplash.com/photo-1770844063638-19e37f8c42eb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGNhc2UlMjBvZnxlbnwwfHx8fDE3NzUwOTAxMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="215353" /><ns2:content url="https://images.unsplash.com/photo-1770844063638-19e37f8c42eb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGNhc2UlMjBvZnxlbnwwfHx8fDE3NzUwOTAxMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1770844063638-19e37f8c42eb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGNhc2UlMjBvZnxlbnwwfHx8fDE3NzUwOTAxMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>경우는</category></item><item><title>불가피한 – inevitable</title><link>urn:urn:vocab:불가피한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1649756217942-b1b59aac937a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmV2aXRhYmxlfGVufDB8fHx8MTc3NTA4MjQ4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불가피한 (inevitable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(다만 다주택자 여부 확인 시 불가피한 경우나 공익적 목적으로 매매한 경우 등은 주택 보유수 산정에서 제외한다&lt;br/&gt;&lt;em&gt;(However, cases where it is unavoidable to confirm whether one is a multi-homeowner or where the purchase was made for public interest purposes are excluded from the calculation of the number of homes held.)&lt;/em&gt;&lt;/p&gt;
