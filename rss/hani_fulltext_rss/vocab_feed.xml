@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 19:39:18 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 21:45:22 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>알루미늄 – aluminum</title><link>urn:urn:vocab:알루미늄</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>시간제 – part-time</title><link>urn:urn:vocab:시간제</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1514178494750-80c2ed3def1e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0LXRpbWV8ZW58MHx8fHwxNzc1MjIwMzE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시간제 (part-time)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (카카오가 지난해 9월 카카오톡 대규모 개편을 진행하면서 ‘주52시간 노동상한제’(주52시간제) 위반 사실을 숨기기 위해 ‘이중장부’를 운용하고 직원들 임금 지급을 지연한 것으로 드러났다&lt;br/&gt;&lt;em&gt;It was revealed that Kakao, while conducting a large-scale overhaul of KakaoTalk last September, operated 'double books' to conceal violations of the '52-hour workweek cap system' and delayed employee salary payments.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이승현 당시 에이치알(HR) 성과리더도 “(주 52시간제 위반 사례가) 작년에는 5명 있었는데, 올해는 7월에만 17명이 있었고 대부분 최고제품책임자 조직 소속”이라고 말했다&lt;br/&gt;&lt;em&gt;Lee Seung-hyun, the HR performance leader at the time, also said, "(There were) 5 cases of 52-hour workweek violations last year, but this year there were 17 cases in July alone, most of whom belonged to the Chief Product Officer's organization."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;경영진이 주52시간제 위반 사실을 사실상 묵과한 것으로 보이는 대목이다&lt;br/&gt;&lt;em&gt;This appears to be a point where management essentially overlooked the violations of the 52-hour workweek system.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 시간제로 일해요.&lt;br/&gt;&lt;em&gt;I work part-time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시간제 일자리를 찾아요.&lt;br/&gt;&lt;em&gt;I am looking for a part-time job.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1514178494750-80c2ed3def1e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0LXRpbWV8ZW58MHx8fHwxNzc1MjIwMzE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시간제 (part-time)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (카카오가 지난해 9월 카카오톡 대규모 개편을 진행하면서 ‘주52시간 노동상한제’(주52시간제) 위반 사실을 숨기기 위해 ‘이중장부’를 운용하고 직원들 임금 지급을 지연한 것으로 드러났다&lt;br/&gt;&lt;em&gt;It was revealed that Kakao, while conducting a large-scale overhaul of KakaoTalk last September, operated 'double books' to conceal violations of the '52-hour workweek cap system' and delayed employee salary payments.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이승현 당시 에이치알(HR) 성과리더도 “(주 52시간제 위반 사례가) 작년에는 5명 있었는데, 올해는 7월에만 17명이 있었고 대부분 최고제품책임자 조직 소속”이라고 말했다&lt;br/&gt;&lt;em&gt;Lee Seung-hyun, the HR performance leader at the time, also said, "(There were) 5 cases of 52-hour workweek violations last year, but this year there were 17 cases in July alone, most of whom belonged to the Chief Product Officer's organization."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;경영진이 주52시간제 위반 사실을 사실상 묵과한 것으로 보이는 대목이다&lt;br/&gt;&lt;em&gt;This appears to be a point where management essentially overlooked the violations of the 52-hour workweek system.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 시간제로 일해요.&lt;br/&gt;&lt;em&gt;I work part-time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시간제 일자리를 찾아요.&lt;br/&gt;&lt;em&gt;I am looking for a part-time job.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 03 Apr 2026 21:45:22 +0900</pubDate><guid isPermaLink="false">vocab-7fab58f8129e3578b4f589fc6f40bfa2ee9b2b94</guid><enclosure url="https://images.unsplash.com/photo-1514178494750-80c2ed3def1e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0LXRpbWV8ZW58MHx8fHwxNzc1MjIwMzE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="136185" /><ns2:content url="https://images.unsplash.com/photo-1514178494750-80c2ed3def1e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0LXRpbWV8ZW58MHx8fHwxNzc1MjIwMzE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1514178494750-80c2ed3def1e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0LXRpbWV8ZW58MHx8fHwxNzc1MjIwMzE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>시간제</category></item><item><title>알루미늄 – aluminum</title><link>urn:urn:vocab:알루미늄</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1593715776487-edee9d123f24?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbHVtaW51bXxlbnwwfHx8fDE3NzUyMTI3NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="알루미늄 (aluminum)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(미국이 철강·알루미늄·구리 등 완제품에 25%의 관세를 일괄 부과하겠다고 밝힌 가운데, 산업통상부가 긴급 민관 합동 회의에 나서 업계 영향을 점검하고 지원 방안을 모색하기로 했다&lt;br/&gt;&lt;em&gt;(As the United States announced it would impose a blanket 25% tariff on finished products such as steel, aluminum, and copper, the Ministry of Trade, Industry and Energy held an emergency public-private joint meeting to assess the impact on the industry and seek support measures.&lt;/em&gt;&lt;/p&gt;
