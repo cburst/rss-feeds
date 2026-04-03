@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 21:45:22 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 23:50:40 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>시간제 – part-time</title><link>urn:urn:vocab:시간제</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기자는 – reporter</title><link>urn:urn:vocab:기자는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580171401298-4c2c0c44cc43?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnRlcnxlbnwwfHx8fDE3NzUyMjc4MzF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기자는 (reporter)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;))&lt;/p&gt;&lt;p&gt; (  한귀영 소장과 이주현 기자는 매주 목요일마다 가톨릭대학교 평생교육원 프로그램으로 파주 문발동 쩜오책방에서 열리는 ‘곰토미의 에이아이 교육’ 강좌에 출석 도장을 찍고 있습니다&lt;br/&gt;&lt;em&gt;Director Han Gwi-young and reporter Lee Joo-hyun are attending the 'Gomtomi's AI Education' lecture held every Thursday at the Jjeom-o Bookstore in Paju Munbal-dong as part of the Catholic University Lifelong Education Program, getting their attendance stamps.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  ‘‘너는 나의 비서야, 내 배경, 어조, 전략, 약점 등을 파악할 수 있도록 나를 인터뷰해줘” 이주현 기자는 먼저 자기 소개를 했습니다&lt;br/&gt;&lt;em&gt;Reporter Lee Joo-hyun first introduced herself, saying, 'You are my secretary. Interview me so you can understand my background, tone, strategy, and weaknesses.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;( 이주현 기자는 키티 요원이 던지는 이런 질문들에 답하며 10여분 간 인터뷰를 한 뒤  “방금 인터뷰 한 내용을 분석해서 제미나이 ‘Custom Instructions&amp;#x27;(맞춤형 지침)에 저장할 내용으로 정리해달라”고 했습니다&lt;br/&gt;&lt;em&gt;Reporter Lee Joo-hyun answered these questions thrown by Agent Kitty during a 10-minute interview, then said, 'Please analyze the content of the interview just conducted and organize it into material to be saved in Gemini's 'Custom Instructions'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기자는 신문을 읽습니다.&lt;br/&gt;&lt;em&gt;The journalist reads the newspaper.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기자는 사진을 찍습니다.&lt;br/&gt;&lt;em&gt;The journalist takes a photo.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580171401298-4c2c0c44cc43?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnRlcnxlbnwwfHx8fDE3NzUyMjc4MzF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기자는 (reporter)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;))&lt;/p&gt;&lt;p&gt; (  한귀영 소장과 이주현 기자는 매주 목요일마다 가톨릭대학교 평생교육원 프로그램으로 파주 문발동 쩜오책방에서 열리는 ‘곰토미의 에이아이 교육’ 강좌에 출석 도장을 찍고 있습니다&lt;br/&gt;&lt;em&gt;Director Han Gwi-young and reporter Lee Joo-hyun are attending the 'Gomtomi's AI Education' lecture held every Thursday at the Jjeom-o Bookstore in Paju Munbal-dong as part of the Catholic University Lifelong Education Program, getting their attendance stamps.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  ‘‘너는 나의 비서야, 내 배경, 어조, 전략, 약점 등을 파악할 수 있도록 나를 인터뷰해줘” 이주현 기자는 먼저 자기 소개를 했습니다&lt;br/&gt;&lt;em&gt;Reporter Lee Joo-hyun first introduced herself, saying, 'You are my secretary. Interview me so you can understand my background, tone, strategy, and weaknesses.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;( 이주현 기자는 키티 요원이 던지는 이런 질문들에 답하며 10여분 간 인터뷰를 한 뒤  “방금 인터뷰 한 내용을 분석해서 제미나이 ‘Custom Instructions&amp;#x27;(맞춤형 지침)에 저장할 내용으로 정리해달라”고 했습니다&lt;br/&gt;&lt;em&gt;Reporter Lee Joo-hyun answered these questions thrown by Agent Kitty during a 10-minute interview, then said, 'Please analyze the content of the interview just conducted and organize it into material to be saved in Gemini's 'Custom Instructions'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기자는 신문을 읽습니다.&lt;br/&gt;&lt;em&gt;The journalist reads the newspaper.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기자는 사진을 찍습니다.&lt;br/&gt;&lt;em&gt;The journalist takes a photo.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 03 Apr 2026 23:50:40 +0900</pubDate><guid isPermaLink="false">vocab-6453b2b9c1d5b166f2d97aa11f991915d29e9cb1</guid><enclosure url="https://images.unsplash.com/photo-1580171401298-4c2c0c44cc43?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnRlcnxlbnwwfHx8fDE3NzUyMjc4MzF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="83979" /><ns2:content url="https://images.unsplash.com/photo-1580171401298-4c2c0c44cc43?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnRlcnxlbnwwfHx8fDE3NzUyMjc4MzF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1580171401298-4c2c0c44cc43?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnRlcnxlbnwwfHx8fDE3NzUyMjc4MzF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기자는</category></item><item><title>시간제 – part-time</title><link>urn:urn:vocab:시간제</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1514178494750-80c2ed3def1e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0LXRpbWV8ZW58MHx8fHwxNzc1MjIwMzE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시간제 (part-time)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (카카오가 지난해 9월 카카오톡 대규모 개편을 진행하면서 ‘주52시간 노동상한제’(주52시간제) 위반 사실을 숨기기 위해 ‘이중장부’를 운용하고 직원들 임금 지급을 지연한 것으로 드러났다&lt;br/&gt;&lt;em&gt;It was revealed that Kakao, while conducting a large-scale overhaul of KakaoTalk last September, operated 'double books' to conceal violations of the '52-hour workweek cap system' and delayed employee salary payments.&lt;/em&gt;&lt;/p&gt;
