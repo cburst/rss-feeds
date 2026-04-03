@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 04:12:52 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 06:24:38 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>고래를 – whale</title><link>urn:urn:vocab:고래를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>최근에 – recently</title><link>urn:urn:vocab:최근에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570058087214-30a8e6b26319?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3NzUyNTE0NzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="최근에 (recently)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;값쌀 때 사온 원유부터 생산에 투입됐다고 계산했기 때문이고, 나머지 정유사들은 최근에 사온 원유를 평균해 계산했으니 마진 폭이 상대적으로 작을 수밖에 없다&lt;br/&gt;&lt;em&gt;This is because they calculated using crude oil purchased when prices were low from the start of production, while other refiners averaged the cost of recently purchased crude oil, inevitably resulting in relatively smaller profit margins.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한은 관계자는 우리나라 순위가 하락한 배경에 대해 “비교 대상 가운데 보유한 금을 시가로 평가하는 나라들이 있는데, 금값이 최근에 상승했기 때문에 이들 나라의 순위가 높아진 측면이 있다”고 설명했다&lt;br/&gt;&lt;em&gt;A Bank of Korea official explained the background of Korea's ranking decline, stating, 'Among the comparison targets, there are countries that value their gold holdings at market prices, and since gold prices have risen recently, these countries' rankings have improved to some extent.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최근에는 국제 사이버보안 경진대회 ‘2025 핵테온 세종’에서 이세형 학생(ASCii팀)이 고급부 대상, 이서준 학생이 고급부 우수상을 받았다&lt;br/&gt;&lt;em&gt;Recently, at the international cybersecurity competition '2025 HackTheon Sejong', student Lee Se-hyeong (team ASCii) received the Advanced Division Grand Prize, and student Lee Seo-jun received the Advanced Division Excellence Award.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최근에 날씨가 좋아요.&lt;br/&gt;&lt;em&gt;The weather has been nice lately.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최근에 친구를 만났어요.&lt;br/&gt;&lt;em&gt;I met a friend recently.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570058087214-30a8e6b26319?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3NzUyNTE0NzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="최근에 (recently)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;값쌀 때 사온 원유부터 생산에 투입됐다고 계산했기 때문이고, 나머지 정유사들은 최근에 사온 원유를 평균해 계산했으니 마진 폭이 상대적으로 작을 수밖에 없다&lt;br/&gt;&lt;em&gt;This is because they calculated using crude oil purchased when prices were low from the start of production, while other refiners averaged the cost of recently purchased crude oil, inevitably resulting in relatively smaller profit margins.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한은 관계자는 우리나라 순위가 하락한 배경에 대해 “비교 대상 가운데 보유한 금을 시가로 평가하는 나라들이 있는데, 금값이 최근에 상승했기 때문에 이들 나라의 순위가 높아진 측면이 있다”고 설명했다&lt;br/&gt;&lt;em&gt;A Bank of Korea official explained the background of Korea's ranking decline, stating, 'Among the comparison targets, there are countries that value their gold holdings at market prices, and since gold prices have risen recently, these countries' rankings have improved to some extent.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최근에는 국제 사이버보안 경진대회 ‘2025 핵테온 세종’에서 이세형 학생(ASCii팀)이 고급부 대상, 이서준 학생이 고급부 우수상을 받았다&lt;br/&gt;&lt;em&gt;Recently, at the international cybersecurity competition '2025 HackTheon Sejong', student Lee Se-hyeong (team ASCii) received the Advanced Division Grand Prize, and student Lee Seo-jun received the Advanced Division Excellence Award.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최근에 날씨가 좋아요.&lt;br/&gt;&lt;em&gt;The weather has been nice lately.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최근에 친구를 만났어요.&lt;br/&gt;&lt;em&gt;I met a friend recently.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 04 Apr 2026 06:24:38 +0900</pubDate><guid isPermaLink="false">vocab-7e55eb813a656b3f49623bb281416eac5fbb7307</guid><enclosure url="https://images.unsplash.com/photo-1570058087214-30a8e6b26319?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3NzUyNTE0NzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="138893" /><ns2:content url="https://images.unsplash.com/photo-1570058087214-30a8e6b26319?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3NzUyNTE0NzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1570058087214-30a8e6b26319?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3NzUyNTE0NzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>최근에</category></item><item><title>고래를 – whale</title><link>urn:urn:vocab:고래를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1698472505070-6d3b90afb530?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGFsZXxlbnwwfHx8fDE3NzUyNDM1NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고래를 (whale)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;How Fila-Mirae Asset PE's Acquisition of Acushnet Achieved the 'Shrimp Swallowing a Whale' Miracle (휠라-미래에셋PE의 아쿠쉬네트 인수, ‘새우가 고래를 삼킨’ 기적은 어떻게 일어났나) &lt;&lt;br/&gt;&lt;em&gt;How Fila-Mirae Asset PE's Acquisition of Acushnet Achieved the 'Shrimp Swallowing a Whale' Miracle&lt;/em&gt;&lt;/p&gt;
