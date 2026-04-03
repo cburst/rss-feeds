@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 17:32:59 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 19:39:18 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>호기심 – curiosity</title><link>urn:urn:vocab:호기심</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>알루미늄 – aluminum</title><link>urn:urn:vocab:알루미늄</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1593715776487-edee9d123f24?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbHVtaW51bXxlbnwwfHx8fDE3NzUyMTI3NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="알루미늄 (aluminum)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(미국이 철강·알루미늄·구리 등 완제품에 25%의 관세를 일괄 부과하겠다고 밝힌 가운데, 산업통상부가 긴급 민관 합동 회의에 나서 업계 영향을 점검하고 지원 방안을 모색하기로 했다&lt;br/&gt;&lt;em&gt;(As the United States announced it would impose a blanket 25% tariff on finished products such as steel, aluminum, and copper, the Ministry of Trade, Industry and Energy held an emergency public-private joint meeting to assess the impact on the industry and seek support measures.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 관세 체계 개편의 핵심은 철강·알루미늄·구리 ‘함량가치’ 기준을 폐지하고 제품 ‘전체 가격’(수입 신고가격)을 기준으로 관세를 부과하는 방식으로 전환하는 것이다&lt;br/&gt;&lt;em&gt;(The core of this tariff system reform is to abolish the 'content value' standard for steel, aluminum, and copper and switch to a method of imposing tariffs based on the 'entire price' (import declaration price) of the product.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예를 들어 가격이 100만원인 세탁기에서 알루미늄, 철강 등 함량 가치가 20만원이라고 가정하면, 기존에는 20만원의 50%인 10만원에다 나머지 80만원의 10%인 8만원을 더한 18만원을 관세로 냈다&lt;br/&gt;&lt;em&gt;For example, assuming a washing machine priced at 1 million won has a content value of 200,000 won for aluminum, steel, etc., previously, the tariff was 180,000 won, calculated as 100,000 won (50% of 200,000 won) plus 80,000 won (10% of the remaining 800,000 won).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;알루미늄은 가볍습니다.&lt;br/&gt;&lt;em&gt;Aluminum is light.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 알루미늄입니다.&lt;br/&gt;&lt;em&gt;This is aluminum.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1593715776487-edee9d123f24?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbHVtaW51bXxlbnwwfHx8fDE3NzUyMTI3NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="알루미늄 (aluminum)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(미국이 철강·알루미늄·구리 등 완제품에 25%의 관세를 일괄 부과하겠다고 밝힌 가운데, 산업통상부가 긴급 민관 합동 회의에 나서 업계 영향을 점검하고 지원 방안을 모색하기로 했다&lt;br/&gt;&lt;em&gt;(As the United States announced it would impose a blanket 25% tariff on finished products such as steel, aluminum, and copper, the Ministry of Trade, Industry and Energy held an emergency public-private joint meeting to assess the impact on the industry and seek support measures.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 관세 체계 개편의 핵심은 철강·알루미늄·구리 ‘함량가치’ 기준을 폐지하고 제품 ‘전체 가격’(수입 신고가격)을 기준으로 관세를 부과하는 방식으로 전환하는 것이다&lt;br/&gt;&lt;em&gt;(The core of this tariff system reform is to abolish the 'content value' standard for steel, aluminum, and copper and switch to a method of imposing tariffs based on the 'entire price' (import declaration price) of the product.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예를 들어 가격이 100만원인 세탁기에서 알루미늄, 철강 등 함량 가치가 20만원이라고 가정하면, 기존에는 20만원의 50%인 10만원에다 나머지 80만원의 10%인 8만원을 더한 18만원을 관세로 냈다&lt;br/&gt;&lt;em&gt;For example, assuming a washing machine priced at 1 million won has a content value of 200,000 won for aluminum, steel, etc., previously, the tariff was 180,000 won, calculated as 100,000 won (50% of 200,000 won) plus 80,000 won (10% of the remaining 800,000 won).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;알루미늄은 가볍습니다.&lt;br/&gt;&lt;em&gt;Aluminum is light.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 알루미늄입니다.&lt;br/&gt;&lt;em&gt;This is aluminum.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 03 Apr 2026 19:39:18 +0900</pubDate><guid isPermaLink="false">vocab-383d35a2e1078d8253be22386d95f9b1245f69c4</guid><enclosure url="https://images.unsplash.com/photo-1593715776487-edee9d123f24?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbHVtaW51bXxlbnwwfHx8fDE3NzUyMTI3NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="62370" /><ns2:content url="https://images.unsplash.com/photo-1593715776487-edee9d123f24?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbHVtaW51bXxlbnwwfHx8fDE3NzUyMTI3NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1593715776487-edee9d123f24?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbHVtaW51bXxlbnwwfHx8fDE3NzUyMTI3NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>알루미늄</category></item><item><title>호기심 – curiosity</title><link>urn:urn:vocab:호기심</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1621959921443-7c11ef366e2e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjdXJpb3NpdHl8ZW58MHx8fHwxNzc1MjA1MTcwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="호기심 (curiosity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" ( 소통 톤: 격식은 갖추되 삐삐언니의 스타일(호기심 많고 인간 중심적인 사고)에 맞춰 위트 있게 대응할 것&lt;br/&gt;&lt;em&gt;(Communication tone: Maintain formality but respond with wit that matches Bbibi's style (curious and human-centered thinking))&lt;/em&gt;&lt;/p&gt;
