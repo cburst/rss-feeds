@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 04:13:03 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 10:38:41 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>의장과 – and the chairman</title><link>urn:urn:vocab:의장과</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>예술인 – artist</title><link>urn:urn:vocab:예술인</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1628359355624-855775b5c9c4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpc3R8ZW58MHx8fHwxNzc1MjY2NzE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="예술인 (artist)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Yet items include artist support funds, farmland survey costs (전쟁 추경이라더니… 항목엔 예술인 지원금, 농지 전수조사 비용도) &lt;&lt;br/&gt;&lt;em&gt;Yet items include artist support funds, farmland survey costs (They said it was a war supplementary budget... but the items include artist support funds and farmland survey costs)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Yet items include artist support funds, farmland survey costs (전쟁 추경이라더니… 항목엔 예술인 지원금, 농지 전수조사 비용도)&lt;/h1&gt;&lt;p&gt;While the government has drawn up a supplementary budget totaling 26&lt;br/&gt;&lt;em&gt;Yet items include artist support funds, farmland survey costs (They said it was a war supplementary budget... but the items include artist support funds and farmland survey costs) While the government has drawn up a supplementary budget totaling 26&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부는 예술인들이 창작 활동에 전념할 수 있도록 1억2000만원 한도에서 연 1&lt;br/&gt;&lt;em&gt;(The government has allocated up to 120 million won annually to allow artists to focus on their creative activities)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;예술인이 그림을 그립니다.&lt;br/&gt;&lt;em&gt;The artist draws a picture.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 예술인은 유명합니다.&lt;br/&gt;&lt;em&gt;That artist is famous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1628359355624-855775b5c9c4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpc3R8ZW58MHx8fHwxNzc1MjY2NzE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="예술인 (artist)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Yet items include artist support funds, farmland survey costs (전쟁 추경이라더니… 항목엔 예술인 지원금, 농지 전수조사 비용도) &lt;&lt;br/&gt;&lt;em&gt;Yet items include artist support funds, farmland survey costs (They said it was a war supplementary budget... but the items include artist support funds and farmland survey costs)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Yet items include artist support funds, farmland survey costs (전쟁 추경이라더니… 항목엔 예술인 지원금, 농지 전수조사 비용도)&lt;/h1&gt;&lt;p&gt;While the government has drawn up a supplementary budget totaling 26&lt;br/&gt;&lt;em&gt;Yet items include artist support funds, farmland survey costs (They said it was a war supplementary budget... but the items include artist support funds and farmland survey costs) While the government has drawn up a supplementary budget totaling 26&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부는 예술인들이 창작 활동에 전념할 수 있도록 1억2000만원 한도에서 연 1&lt;br/&gt;&lt;em&gt;(The government has allocated up to 120 million won annually to allow artists to focus on their creative activities)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;예술인이 그림을 그립니다.&lt;br/&gt;&lt;em&gt;The artist draws a picture.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 예술인은 유명합니다.&lt;br/&gt;&lt;em&gt;That artist is famous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 04 Apr 2026 10:38:41 +0900</pubDate><guid isPermaLink="false">vocab-957346a57ccedd252d7f32032ff0ce6b5d096853</guid><enclosure url="https://images.unsplash.com/photo-1628359355624-855775b5c9c4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpc3R8ZW58MHx8fHwxNzc1MjY2NzE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="183075" /><ns2:content url="https://images.unsplash.com/photo-1628359355624-855775b5c9c4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpc3R8ZW58MHx8fHwxNzc1MjY2NzE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1628359355624-855775b5c9c4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpc3R8ZW58MHx8fHwxNzc1MjY2NzE0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>예술인</category></item><item><title>자리에서 – from the seat/position</title><link>urn:urn:vocab:자리에서</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1692830203615-1fff57bb7702?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwc2VhdCUyRnBvc2l0aW9ufGVufDB8fHx8MTc3NTI1MTQ4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자리에서 (from the seat/position)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이날 오후 국회에서 열린 국조특위에서는 회의 시작 뒤 증인 33명이 자리에서 일어나 “위증할 경우 처벌받겠다”는 증인 선서를 했다&lt;br/&gt;&lt;em&gt;On that afternoon at the National Assembly's special committee meeting, after the meeting began, 33 witnesses stood up and took the witness oath stating 'I will be punished if I commit perjury'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이때 박 검사는 자리에서 일어나지 않았고, 서영교 위원장이 “왜 선서를 하지 않느냐”고 했다&lt;br/&gt;&lt;em&gt;At that time, Prosecutor Park did not stand up, and Chairman Seo Young-gyo asked, 'Why aren't you taking the oath?'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러자 박 검사는 “이유를 소명하겠다”며 자리에서 일어나 마이크를 잡았다&lt;br/&gt;&lt;em&gt;Then Prosecutor Park said, 'I will explain the reason,' stood up, and took the microphone.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 자리에서 일어났어요.&lt;br/&gt;&lt;em&gt;I got up from my seat.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;책을 자리에서 찾았어요.&lt;br/&gt;&lt;em&gt;I found the book at my seat.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1692830203615-1fff57bb7702?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwc2VhdCUyRnBvc2l0aW9ufGVufDB8fHx8MTc3NTI1MTQ4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자리에서 (from the seat/position)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이날 오후 국회에서 열린 국조특위에서는 회의 시작 뒤 증인 33명이 자리에서 일어나 “위증할 경우 처벌받겠다”는 증인 선서를 했다&lt;br/&gt;&lt;em&gt;On that afternoon at the National Assembly's special committee meeting, after the meeting began, 33 witnesses stood up and took the witness oath stating 'I will be punished if I commit perjury'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이때 박 검사는 자리에서 일어나지 않았고, 서영교 위원장이 “왜 선서를 하지 않느냐”고 했다&lt;br/&gt;&lt;em&gt;At that time, Prosecutor Park did not stand up, and Chairman Seo Young-gyo asked, 'Why aren't you taking the oath?'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러자 박 검사는 “이유를 소명하겠다”며 자리에서 일어나 마이크를 잡았다&lt;br/&gt;&lt;em&gt;Then Prosecutor Park said, 'I will explain the reason,' stood up, and took the microphone.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 자리에서 일어났어요.&lt;br/&gt;&lt;em&gt;I got up from my seat.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;책을 자리에서 찾았어요.&lt;br/&gt;&lt;em&gt;I found the book at my seat.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 04 Apr 2026 08:30:19 +0900</pubDate><guid isPermaLink="false">vocab-7cdfcaefed9905de38b79b00c7431e932f85b5e6</guid><enclosure url="https://images.unsplash.com/photo-1692830203615-1fff57bb7702?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwc2VhdCUyRnBvc2l0aW9ufGVufDB8fHx8MTc3NTI1MTQ4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="408885" /><ns2:content url="https://images.unsplash.com/photo-1692830203615-1fff57bb7702?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwc2VhdCUyRnBvc2l0aW9ufGVufDB8fHx8MTc3NTI1MTQ4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1692830203615-1fff57bb7702?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwc2VhdCUyRnBvc2l0aW9ufGVufDB8fHx8MTc3NTI1MTQ4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>자리에서</category></item><item><title>의장과 – and the chairman</title><link>urn:urn:vocab:의장과</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1652811048836-2c9e82e119f2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbmQlMjB0aGUlMjBjaGFpcm1hbnxlbnwwfHx8fDE3NzUyNDM1NzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="의장과 (and the chairman)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(우 의장과 6당이 추진하는 개헌안은 ‘비상계엄 국회 사후 승인권’과 ‘지방 분권 및 지역 균형 발전’을 명시하고 ‘5·18과 부마 항쟁 정신’도 헌법 전문에 수록하는 내용입니다&lt;br/&gt;&lt;em&gt;(The constitutional amendment bill promoted by Chairman Woo and the six parties specifies 'post-approval authority for the National Assembly during a state of emergency' and 'local decentralization and balanced regional development,' and also includes the 'spirit of the May 18 and Buma Uprisings' in the preamble of the Constitution.&lt;/em&gt;&lt;/p&gt;

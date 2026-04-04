@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 06:24:38 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 10:38:32 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>최근에 – recently</title><link>urn:urn:vocab:최근에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>헝가리 – Hungary</title><link>urn:urn:vocab:헝가리</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1616432902940-b7a1acbc60b3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIdW5nYXJ5fGVufDB8fHx8MTc3NTI2NjcwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="헝가리 (Hungary)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Hungary, Europe's 'Battery Heart' Hidden Behind the Romance of the Danube (다뉴브강 낭만 뒤에 숨겨진 유럽 ‘배터리 심장’ 헝가리) &lt;&lt;br/&gt;&lt;em&gt;Hungary, Europe's 'Battery Heart' Hidden Behind the Romance of the Danube&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;‘관광대국’이라는 수식어 뒤에 가려졌지만 헝가리는 유럽 한가운데서 미래산업의 명운을 쥔 ‘이차전지 제조 허브’라는 엔진을 힘차게 구동하고 있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Although overshadowed by the title 'Tourism Powerhouse,' Hungary is vigorously driving the engine of being a 'secondary battery manufacturing hub' that holds the fate of future industries at the heart of Europe&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(인터넷 포털 사이트에서 ‘헝가리’를 검색하면 가장 먼저 쏟아지는 연관 검색어는 다뉴브강, 야경, 국회의사당 그리고 어부의 요새다&lt;br/&gt;&lt;em&gt;(When searching for 'Hungary' on internet portal sites, the most immediate related search terms that pour out are the Danube River, night views, the Parliament Building, and Fisherman's Bastion&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;헝가리는 유럽에 있습니다.&lt;br/&gt;&lt;em&gt;Hungary is in Europe.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 헝가리를 좋아합니다.&lt;br/&gt;&lt;em&gt;I like Hungary.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1616432902940-b7a1acbc60b3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIdW5nYXJ5fGVufDB8fHx8MTc3NTI2NjcwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="헝가리 (Hungary)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Hungary, Europe's 'Battery Heart' Hidden Behind the Romance of the Danube (다뉴브강 낭만 뒤에 숨겨진 유럽 ‘배터리 심장’ 헝가리) &lt;&lt;br/&gt;&lt;em&gt;Hungary, Europe's 'Battery Heart' Hidden Behind the Romance of the Danube&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;‘관광대국’이라는 수식어 뒤에 가려졌지만 헝가리는 유럽 한가운데서 미래산업의 명운을 쥔 ‘이차전지 제조 허브’라는 엔진을 힘차게 구동하고 있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Although overshadowed by the title 'Tourism Powerhouse,' Hungary is vigorously driving the engine of being a 'secondary battery manufacturing hub' that holds the fate of future industries at the heart of Europe&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(인터넷 포털 사이트에서 ‘헝가리’를 검색하면 가장 먼저 쏟아지는 연관 검색어는 다뉴브강, 야경, 국회의사당 그리고 어부의 요새다&lt;br/&gt;&lt;em&gt;(When searching for 'Hungary' on internet portal sites, the most immediate related search terms that pour out are the Danube River, night views, the Parliament Building, and Fisherman's Bastion&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;헝가리는 유럽에 있습니다.&lt;br/&gt;&lt;em&gt;Hungary is in Europe.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 헝가리를 좋아합니다.&lt;br/&gt;&lt;em&gt;I like Hungary.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 04 Apr 2026 10:38:32 +0900</pubDate><guid isPermaLink="false">vocab-7caac4bfa21e76a8aee2d92de01b7c07a8e19670</guid><enclosure url="https://images.unsplash.com/photo-1616432902940-b7a1acbc60b3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIdW5nYXJ5fGVufDB8fHx8MTc3NTI2NjcwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="186827" /><ns2:content url="https://images.unsplash.com/photo-1616432902940-b7a1acbc60b3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIdW5nYXJ5fGVufDB8fHx8MTc3NTI2NjcwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1616432902940-b7a1acbc60b3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIdW5nYXJ5fGVufDB8fHx8MTc3NTI2NjcwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>헝가리</category></item><item><title>최근에 – recently</title><link>urn:urn:vocab:최근에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570058087214-30a8e6b26319?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3NzUyNTE0NzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="최근에 (recently)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;값쌀 때 사온 원유부터 생산에 투입됐다고 계산했기 때문이고, 나머지 정유사들은 최근에 사온 원유를 평균해 계산했으니 마진 폭이 상대적으로 작을 수밖에 없다&lt;br/&gt;&lt;em&gt;This is because they calculated using crude oil purchased when prices were low from the start of production, while other refiners averaged the cost of recently purchased crude oil, inevitably resulting in relatively smaller profit margins.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한은 관계자는 우리나라 순위가 하락한 배경에 대해 “비교 대상 가운데 보유한 금을 시가로 평가하는 나라들이 있는데, 금값이 최근에 상승했기 때문에 이들 나라의 순위가 높아진 측면이 있다”고 설명했다&lt;br/&gt;&lt;em&gt;A Bank of Korea official explained the background of Korea's ranking decline, stating, 'Among the comparison targets, there are countries that value their gold holdings at market prices, and since gold prices have risen recently, these countries' rankings have improved to some extent.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최근에는 국제 사이버보안 경진대회 ‘2025 핵테온 세종’에서 이세형 학생(ASCii팀)이 고급부 대상, 이서준 학생이 고급부 우수상을 받았다&lt;br/&gt;&lt;em&gt;Recently, at the international cybersecurity competition '2025 HackTheon Sejong', student Lee Se-hyeong (team ASCii) received the Advanced Division Grand Prize, and student Lee Seo-jun received the Advanced Division Excellence Award.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최근에 날씨가 좋아요.&lt;br/&gt;&lt;em&gt;The weather has been nice lately.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최근에 친구를 만났어요.&lt;br/&gt;&lt;em&gt;I met a friend recently.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570058087214-30a8e6b26319?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3NzUyNTE0NzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="최근에 (recently)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;값쌀 때 사온 원유부터 생산에 투입됐다고 계산했기 때문이고, 나머지 정유사들은 최근에 사온 원유를 평균해 계산했으니 마진 폭이 상대적으로 작을 수밖에 없다&lt;br/&gt;&lt;em&gt;This is because they calculated using crude oil purchased when prices were low from the start of production, while other refiners averaged the cost of recently purchased crude oil, inevitably resulting in relatively smaller profit margins.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한은 관계자는 우리나라 순위가 하락한 배경에 대해 “비교 대상 가운데 보유한 금을 시가로 평가하는 나라들이 있는데, 금값이 최근에 상승했기 때문에 이들 나라의 순위가 높아진 측면이 있다”고 설명했다&lt;br/&gt;&lt;em&gt;A Bank of Korea official explained the background of Korea's ranking decline, stating, 'Among the comparison targets, there are countries that value their gold holdings at market prices, and since gold prices have risen recently, these countries' rankings have improved to some extent.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최근에는 국제 사이버보안 경진대회 ‘2025 핵테온 세종’에서 이세형 학생(ASCii팀)이 고급부 대상, 이서준 학생이 고급부 우수상을 받았다&lt;br/&gt;&lt;em&gt;Recently, at the international cybersecurity competition '2025 HackTheon Sejong', student Lee Se-hyeong (team ASCii) received the Advanced Division Grand Prize, and student Lee Seo-jun received the Advanced Division Excellence Award.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최근에 날씨가 좋아요.&lt;br/&gt;&lt;em&gt;The weather has been nice lately.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최근에 친구를 만났어요.&lt;br/&gt;&lt;em&gt;I met a friend recently.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 04 Apr 2026 08:30:11 +0900</pubDate><guid isPermaLink="false">vocab-cf4d6c3218b051fd1e5a7202d9f9be48f90b13f7</guid><enclosure url="https://images.unsplash.com/photo-1570058087214-30a8e6b26319?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3NzUyNTE0NzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="138893" /><ns2:content url="https://images.unsplash.com/photo-1570058087214-30a8e6b26319?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3NzUyNTE0NzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1570058087214-30a8e6b26319?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3NzUyNTE0NzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>최근에</category></item><item><title>최근에 – recently</title><link>urn:urn:vocab:최근에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570058087214-30a8e6b26319?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3NzUyNTE0NzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="최근에 (recently)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;값쌀 때 사온 원유부터 생산에 투입됐다고 계산했기 때문이고, 나머지 정유사들은 최근에 사온 원유를 평균해 계산했으니 마진 폭이 상대적으로 작을 수밖에 없다&lt;br/&gt;&lt;em&gt;This is because they calculated using crude oil purchased when prices were low from the start of production, while other refiners averaged the cost of recently purchased crude oil, inevitably resulting in relatively smaller profit margins.&lt;/em&gt;&lt;/p&gt;
