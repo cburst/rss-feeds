@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 18:50:13 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 20:54:12 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>이어지는 – continuing</title><link>urn:urn:vocab:이어지는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>떨어질 – to fall, to drop</title><link>urn:urn:vocab:떨어질</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1697714753811-63da503a57d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGZhbGwlMkMlMjB0byUyMGRyb3B8ZW58MHx8fHwxNzc1MzAzNjQzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="떨어질 (to fall, to drop)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 전에 싸게 사들인 주유소 재고가 떨어질 시점이 됐지만, 전국 평균 기름값은 이제야 1930원 구간에 들어섰다&lt;br/&gt;&lt;em&gt;The time has come when the cheaply purchased gas station inventory will run out, but the national average oil price has just entered the 1,930 won range.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (포럼은 삼성전자가 올해, 내년 각각 200조원에 달하는 영업이익을 창출할 것이라는 전망이 나오는 것과 관련 “주주권익을 중시하는 ‘좋은 거버넌스’는 이익 창출력과 다른 얘기로, 장기 성장성과 좋은 거버넌스가 결합하여야 존경받고 시장에서 프리미엄 밸류에이션을 받는다”며 “삼성전자가 이번 기회에 진정성을 바탕으로 주주들의 신뢰를 받는 회사로 거듭나지 못하면, 다음 메모리 경기 하락 사이클에서 다시 주가가 PBR 1배 미만으로 떨어질 수 있다”고 경고했다&lt;br/&gt;&lt;em&gt;The forum warned, regarding projections that Samsung Electronics will generate operating profits reaching 200 trillion won this year and next year respectively, that 'good governance' which prioritizes shareholder rights is a different matter from profit generation capability, and that long-term growth potential combined with good governance is respected and receives premium valuation in the market. It added that if Samsung Electronics fails to use this opportunity to genuinely transform into a company that earns shareholders' trust, its stock price could fall below a price-to-book ratio of 1 again in the next memory downturn cycle.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 상반기 기업평가에서 신용등급이 더 떨어질 경우 미래 투자용 차입금 마련에도 어려움이 생길 수 있다고 양해를 구했다&lt;br/&gt;&lt;em&gt;In particular, they requested understanding that if the credit rating falls further in the first-half corporate evaluation, it could become difficult to secure borrowing for future investments.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사과가 나무에서 떨어질 거예요.&lt;br/&gt;&lt;em&gt;The apple will fall from the tree.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;책이 책상에서 떨어질 수 있어요.&lt;br/&gt;&lt;em&gt;The book can fall from the desk.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1697714753811-63da503a57d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGZhbGwlMkMlMjB0byUyMGRyb3B8ZW58MHx8fHwxNzc1MzAzNjQzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="떨어질 (to fall, to drop)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 전에 싸게 사들인 주유소 재고가 떨어질 시점이 됐지만, 전국 평균 기름값은 이제야 1930원 구간에 들어섰다&lt;br/&gt;&lt;em&gt;The time has come when the cheaply purchased gas station inventory will run out, but the national average oil price has just entered the 1,930 won range.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (포럼은 삼성전자가 올해, 내년 각각 200조원에 달하는 영업이익을 창출할 것이라는 전망이 나오는 것과 관련 “주주권익을 중시하는 ‘좋은 거버넌스’는 이익 창출력과 다른 얘기로, 장기 성장성과 좋은 거버넌스가 결합하여야 존경받고 시장에서 프리미엄 밸류에이션을 받는다”며 “삼성전자가 이번 기회에 진정성을 바탕으로 주주들의 신뢰를 받는 회사로 거듭나지 못하면, 다음 메모리 경기 하락 사이클에서 다시 주가가 PBR 1배 미만으로 떨어질 수 있다”고 경고했다&lt;br/&gt;&lt;em&gt;The forum warned, regarding projections that Samsung Electronics will generate operating profits reaching 200 trillion won this year and next year respectively, that 'good governance' which prioritizes shareholder rights is a different matter from profit generation capability, and that long-term growth potential combined with good governance is respected and receives premium valuation in the market. It added that if Samsung Electronics fails to use this opportunity to genuinely transform into a company that earns shareholders' trust, its stock price could fall below a price-to-book ratio of 1 again in the next memory downturn cycle.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 상반기 기업평가에서 신용등급이 더 떨어질 경우 미래 투자용 차입금 마련에도 어려움이 생길 수 있다고 양해를 구했다&lt;br/&gt;&lt;em&gt;In particular, they requested understanding that if the credit rating falls further in the first-half corporate evaluation, it could become difficult to secure borrowing for future investments.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사과가 나무에서 떨어질 거예요.&lt;br/&gt;&lt;em&gt;The apple will fall from the tree.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;책이 책상에서 떨어질 수 있어요.&lt;br/&gt;&lt;em&gt;The book can fall from the desk.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 04 Apr 2026 20:54:12 +0900</pubDate><guid isPermaLink="false">vocab-4c872b1bf74ff7e6f04ddb843054dd1432650ab3</guid><enclosure url="https://images.unsplash.com/photo-1697714753811-63da503a57d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGZhbGwlMkMlMjB0byUyMGRyb3B8ZW58MHx8fHwxNzc1MzAzNjQzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="107805" /><ns2:content url="https://images.unsplash.com/photo-1697714753811-63da503a57d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGZhbGwlMkMlMjB0byUyMGRyb3B8ZW58MHx8fHwxNzc1MzAzNjQzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1697714753811-63da503a57d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGZhbGwlMkMlMjB0byUyMGRyb3B8ZW58MHx8fHwxNzc1MzAzNjQzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>떨어질</category></item><item><title>이어지는 – continuing</title><link>urn:urn:vocab:이어지는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250aW51aW5nfGVufDB8fHx8MTc3NTI5NjIwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이어지는 (continuing)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (김동환 총장은 “이번 예술작품이 상상과 창조의 에너지가 미래로 이어지는 대학의 비전을 상징적으로 보여주는 계기가 될 것”이라고 밝혔다&lt;br/&gt;&lt;em&gt;President Kim Dong-hwan stated, "This artwork will serve as an opportunity to symbolically showcase the university's vision, where the energy of imagination and creation extends into the future."&lt;/em&gt;&lt;/p&gt;
