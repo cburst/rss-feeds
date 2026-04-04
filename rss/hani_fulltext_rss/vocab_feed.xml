@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 12:41:15 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 14:43:55 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>법원의 – court's</title><link>urn:urn:vocab:법원의</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>내용은 – content</title><link>urn:urn:vocab:내용은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250ZW50fGVufDB8fHx8MTc3NTI4MTQyOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="내용은 (content)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(교육 내용은 ▲감사코칭 ▲커뮤니케이션 ▲AI 시대 인간다움 ▲조선왕릉 답사 ▲유언 및 유서 작성 등 시니어의 현실적인 삶과 연관된 주제로 구성됐다&lt;br/&gt;&lt;em&gt;The educational content consists of topics related to the practical lives of seniors, such as ▲gratitude coaching ▲communication ▲humanity in the AI era ▲tours of Joseon royal tombs ▲writing wills and suicide notes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (내용은 없었다”며 “밸류업의 핵심은 상장기업 이사들이 경영진과 함께 충실하게 밸류업 계획을 세우고, 경영진이 제대로 실천하는지 감독과 격려를 하는 것인데, 삼성전자, 삼성생명의 짧은 밸류업 계획에는 이런 내용이 전혀 없다”고 말했다&lt;br/&gt;&lt;em&gt;He said, "There was no content," adding, "The core of value-up is for listed company directors to diligently establish value-up plans with management and supervise and encourage management to properly implement them, but Samsung Electronics and Samsung Life's short value-up plans contain none of this content."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/b&gt; (  이번에 전할 내용은 제미나이를 &lt;b&gt;개인별 맞춤으로 사용하는 방법&lt;/b&gt;입니다&lt;br/&gt;&lt;em&gt;This time, the content to be delivered is &lt;b&gt;how to use Gemini on a personalized basis&lt;/b&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;내용은 재미있어요.&lt;br/&gt;&lt;em&gt;The content is interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내용은 짧아요.&lt;br/&gt;&lt;em&gt;The content is short.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250ZW50fGVufDB8fHx8MTc3NTI4MTQyOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="내용은 (content)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(교육 내용은 ▲감사코칭 ▲커뮤니케이션 ▲AI 시대 인간다움 ▲조선왕릉 답사 ▲유언 및 유서 작성 등 시니어의 현실적인 삶과 연관된 주제로 구성됐다&lt;br/&gt;&lt;em&gt;The educational content consists of topics related to the practical lives of seniors, such as ▲gratitude coaching ▲communication ▲humanity in the AI era ▲tours of Joseon royal tombs ▲writing wills and suicide notes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (내용은 없었다”며 “밸류업의 핵심은 상장기업 이사들이 경영진과 함께 충실하게 밸류업 계획을 세우고, 경영진이 제대로 실천하는지 감독과 격려를 하는 것인데, 삼성전자, 삼성생명의 짧은 밸류업 계획에는 이런 내용이 전혀 없다”고 말했다&lt;br/&gt;&lt;em&gt;He said, "There was no content," adding, "The core of value-up is for listed company directors to diligently establish value-up plans with management and supervise and encourage management to properly implement them, but Samsung Electronics and Samsung Life's short value-up plans contain none of this content."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/b&gt; (  이번에 전할 내용은 제미나이를 &lt;b&gt;개인별 맞춤으로 사용하는 방법&lt;/b&gt;입니다&lt;br/&gt;&lt;em&gt;This time, the content to be delivered is &lt;b&gt;how to use Gemini on a personalized basis&lt;/b&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;내용은 재미있어요.&lt;br/&gt;&lt;em&gt;The content is interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내용은 짧아요.&lt;br/&gt;&lt;em&gt;The content is short.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 04 Apr 2026 14:43:55 +0900</pubDate><guid isPermaLink="false">vocab-fdafeb68fcb0e5bb795b97e13cd8479b1992db6f</guid><enclosure url="https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250ZW50fGVufDB8fHx8MTc3NTI4MTQyOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="99438" /><ns2:content url="https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250ZW50fGVufDB8fHx8MTc3NTI4MTQyOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250ZW50fGVufDB8fHx8MTc3NTI4MTQyOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>내용은</category></item><item><title>법원의 – court's</title><link>urn:urn:vocab:법원의</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1775187751168-038a53d3ec3c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3VydCUyN3N8ZW58MHx8fHwxNzc1Mjc0MDY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="법원의 (court's)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (주 의원은 이날 서울남부지방법원의 가처분 신청 기각 결정이 나온 뒤 페이스북에 글을 올려 “법원의 이번 가처분 기각 결정에 깊은 유감을 표한다”며 “특히 김영환 충북지사에 대한 법원의 인용 결정에 비추어 볼 때, 법원의 판단은 쉽게 납득하기 어렵다&lt;br/&gt;&lt;em&gt;"Rep. Joo expressed deep regret over the court's decision to dismiss the injunction application, posting on Facebook after the Seoul Southern District Court's ruling, saying, 'I deeply regret the court's decision to dismiss this injunction application. Particularly in light of the court's acceptance decision regarding Chungcheongbuk-do Governor Kim Young-hwan, the court's judgment is difficult to easily accept.'&lt;/em&gt;&lt;/p&gt;
