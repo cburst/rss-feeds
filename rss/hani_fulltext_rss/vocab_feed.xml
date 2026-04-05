@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 06:13:14 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 08:16:57 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>설계할 – to design</title><link>urn:urn:vocab:설계할</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>전에는 – before</title><link>urn:urn:vocab:전에는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605791767308-46f38113f418?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWZvcmV8ZW58MHx8fHwxNzc1NDMxMDEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전에는 (before)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;얼마 전에는 내가 아는 유일한 연예인 김수철이 서울 예술의전당 한가람디자인미술관에서 전관 전시를 한다기에 오프닝에 다녀왔다&lt;br/&gt;&lt;em&gt;Recently, I attended the opening because I heard that Kim Soo-chul, the only celebrity I know, was holding a solo exhibition at the Hangaram Design Museum of the Seoul Arts Center.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;외국계는 주총 10일 전에는 의결권 행사가 완료돼야 하는데, 2주 전에 공고를 내면 이들에게 주총 안건을 설명할 시간이 하루나 이틀뿐이다&lt;br/&gt;&lt;em&gt;In foreign companies, the exercise of voting rights must be completed 10 days before the general shareholders' meeting, so if the notice is given two weeks prior, they only have a day or two to explain the agenda to them.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;( &lt;b&gt;주총, 4주 전에는 공고해야&lt;/b&gt;)&lt;/p&gt;&lt;p&gt;"At DB Insurance, the audit committee member we recommended was elected through a vote&lt;br/&gt;&lt;em&gt;(&lt;b&gt;General shareholders' meeting, must be announced 4 weeks in advance&lt;/b&gt;)&lt;/p&gt;&lt;p&gt;"At DB Insurance, the audit committee member we recommended was elected through a vote"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전에는 학교에 갔어요.&lt;br/&gt;&lt;em&gt;I went to school before.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전에는 커피를 마셨어요.&lt;br/&gt;&lt;em&gt;I drank coffee before.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605791767308-46f38113f418?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWZvcmV8ZW58MHx8fHwxNzc1NDMxMDEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전에는 (before)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;얼마 전에는 내가 아는 유일한 연예인 김수철이 서울 예술의전당 한가람디자인미술관에서 전관 전시를 한다기에 오프닝에 다녀왔다&lt;br/&gt;&lt;em&gt;Recently, I attended the opening because I heard that Kim Soo-chul, the only celebrity I know, was holding a solo exhibition at the Hangaram Design Museum of the Seoul Arts Center.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;외국계는 주총 10일 전에는 의결권 행사가 완료돼야 하는데, 2주 전에 공고를 내면 이들에게 주총 안건을 설명할 시간이 하루나 이틀뿐이다&lt;br/&gt;&lt;em&gt;In foreign companies, the exercise of voting rights must be completed 10 days before the general shareholders' meeting, so if the notice is given two weeks prior, they only have a day or two to explain the agenda to them.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;( &lt;b&gt;주총, 4주 전에는 공고해야&lt;/b&gt;)&lt;/p&gt;&lt;p&gt;"At DB Insurance, the audit committee member we recommended was elected through a vote&lt;br/&gt;&lt;em&gt;(&lt;b&gt;General shareholders' meeting, must be announced 4 weeks in advance&lt;/b&gt;)&lt;/p&gt;&lt;p&gt;"At DB Insurance, the audit committee member we recommended was elected through a vote"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전에는 학교에 갔어요.&lt;br/&gt;&lt;em&gt;I went to school before.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전에는 커피를 마셨어요.&lt;br/&gt;&lt;em&gt;I drank coffee before.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 06 Apr 2026 08:16:57 +0900</pubDate><guid isPermaLink="false">vocab-bea1d812638906518c90cf71e93e1985e81e5f37</guid><enclosure url="https://images.unsplash.com/photo-1605791767308-46f38113f418?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWZvcmV8ZW58MHx8fHwxNzc1NDMxMDEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="34497" /><ns2:content url="https://images.unsplash.com/photo-1605791767308-46f38113f418?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWZvcmV8ZW58MHx8fHwxNzc1NDMxMDEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1605791767308-46f38113f418?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWZvcmV8ZW58MHx8fHwxNzc1NDMxMDEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>전에는</category></item><item><title>설계할 – to design</title><link>urn:urn:vocab:설계할</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1676282825995-1ef6ac3e7241?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGRlc2lnbnxlbnwwfHx8fDE3NzU0MjM1ODd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="설계할 (to design)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이어 &amp;quot;한국과 프랑스는 자유와 민주주의라는 공통의 가치를 바탕으로, 과학과 기술 분야에서 세계를 이끄는 혁신 국가&amp;quot;라며 &amp;quot;오늘 이 자리에 모인 연세대 학생 여러분이야말로 양국의 미래를 설계할 주역이며, 여러분의 질문과 아이디어가 곧 내일의 정책으로 이어질 수 있다”라고 강조했다&lt;br/&gt;&lt;em&gt;He continued, emphasizing, "Korea and France are innovative nations leading the world in science and technology based on shared values of freedom and democracy. The Yonsei University students gathered here today are precisely the key players who will design the future of both countries, and your questions and ideas can directly lead to tomorrow's policies."&lt;/em&gt;&lt;/p&gt;
