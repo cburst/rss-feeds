@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 02:02:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 04:08:55 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>전화방 – phone room</title><link>urn:urn:vocab:전화방</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>논란을 – controversy</title><link>urn:urn:vocab:논란을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1643725958682-4aead878d979?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250cm92ZXJzeXxlbnwwfHx8fDE3NzU0MTYxMjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="논란을 (controversy)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;“취임 전 시점 영상이라 해도 대통령의 당무 개입 의혹으로 이어질 수 있을 뿐 아니라, 대통령의 정치적 중립 위반 논란을 촉발할 소지가 매우 큰 사안”이란 이유다&lt;br/&gt;&lt;em&gt;The reason is that "even if it is a video from before the inauguration, it could lead to suspicions of the president's involvement in party affairs and has a high potential to trigger controversy over the violation of the president's political neutrality."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공문은 “최근 경선 과정 등에서 이 대통령 취임 전 촬영된 영상과 사진을 홍보에 활용하는 행위가 확인됐다”며 “설령 취임 전이라 해도 대통령의 당무 개입 의혹으로 이어지고 대통령의 정치적 중립 위반 논란을 촉발할 소지가 매우 큰 사안”이라고 밝혔다&lt;br/&gt;&lt;em&gt;The official document stated, "It has been confirmed that videos and photos taken before the president's inauguration are being used for promotional purposes during the recent primary process," and added, "Even if it is from before the inauguration, it could lead to suspicions of the president's involvement in party affairs and has a high potential to trigger controversy over the violation of the president's political neutrality."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (일이 커지자 민주당은 재차 공문을 보내 “과거 대통령 취임 이전 상임선대위원장 및 국회의원 신분으로 특정 후보를 응원하거나 친소 관계를 보이는 영상과 사진 등 매체의 사용을 금해 대통령의 당무 개입 논란을 없애고자 하는 취지”라며 “기존에 설치된 현수막과 명함 등은 사용 가능할 것”이라고 했다&lt;br/&gt;&lt;em&gt;"As the issue escalated, the Democratic Party sent another official document, stating, 'To eliminate controversy over the president's involvement in party affairs, the use of media such as videos and photos showing the president, in their previous capacity as a standing election committee chairperson or member of the National Assembly, supporting a specific candidate or displaying close relationships is prohibited,' and added, 'Existing banners and business cards can still be used.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 영화는 논란을 일으켰어요.&lt;br/&gt;&lt;em&gt;The movie caused controversy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 문제는 논란을 만들었어요.&lt;br/&gt;&lt;em&gt;The issue created controversy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1643725958682-4aead878d979?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250cm92ZXJzeXxlbnwwfHx8fDE3NzU0MTYxMjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="논란을 (controversy)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;“취임 전 시점 영상이라 해도 대통령의 당무 개입 의혹으로 이어질 수 있을 뿐 아니라, 대통령의 정치적 중립 위반 논란을 촉발할 소지가 매우 큰 사안”이란 이유다&lt;br/&gt;&lt;em&gt;The reason is that "even if it is a video from before the inauguration, it could lead to suspicions of the president's involvement in party affairs and has a high potential to trigger controversy over the violation of the president's political neutrality."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공문은 “최근 경선 과정 등에서 이 대통령 취임 전 촬영된 영상과 사진을 홍보에 활용하는 행위가 확인됐다”며 “설령 취임 전이라 해도 대통령의 당무 개입 의혹으로 이어지고 대통령의 정치적 중립 위반 논란을 촉발할 소지가 매우 큰 사안”이라고 밝혔다&lt;br/&gt;&lt;em&gt;The official document stated, "It has been confirmed that videos and photos taken before the president's inauguration are being used for promotional purposes during the recent primary process," and added, "Even if it is from before the inauguration, it could lead to suspicions of the president's involvement in party affairs and has a high potential to trigger controversy over the violation of the president's political neutrality."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (일이 커지자 민주당은 재차 공문을 보내 “과거 대통령 취임 이전 상임선대위원장 및 국회의원 신분으로 특정 후보를 응원하거나 친소 관계를 보이는 영상과 사진 등 매체의 사용을 금해 대통령의 당무 개입 논란을 없애고자 하는 취지”라며 “기존에 설치된 현수막과 명함 등은 사용 가능할 것”이라고 했다&lt;br/&gt;&lt;em&gt;"As the issue escalated, the Democratic Party sent another official document, stating, 'To eliminate controversy over the president's involvement in party affairs, the use of media such as videos and photos showing the president, in their previous capacity as a standing election committee chairperson or member of the National Assembly, supporting a specific candidate or displaying close relationships is prohibited,' and added, 'Existing banners and business cards can still be used.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 영화는 논란을 일으켰어요.&lt;br/&gt;&lt;em&gt;The movie caused controversy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 문제는 논란을 만들었어요.&lt;br/&gt;&lt;em&gt;The issue created controversy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 06 Apr 2026 04:08:55 +0900</pubDate><guid isPermaLink="false">vocab-91c7ec6c1bd11bbc3048b68a5ceed55f95d183c3</guid><enclosure url="https://images.unsplash.com/photo-1643725958682-4aead878d979?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250cm92ZXJzeXxlbnwwfHx8fDE3NzU0MTYxMjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="218722" /><ns2:content url="https://images.unsplash.com/photo-1643725958682-4aead878d979?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250cm92ZXJzeXxlbnwwfHx8fDE3NzU0MTYxMjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1643725958682-4aead878d979?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250cm92ZXJzeXxlbnwwfHx8fDE3NzU0MTYxMjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>논란을</category></item><item><title>전화방 – phone room</title><link>urn:urn:vocab:전화방</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1472448715764-c30bf8bc2cf4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMHJvb218ZW58MHx8fHwxNzc1NDA4NTY0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전화방 (phone room)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;"Operating an Illegal Phone Room" Ruling Party Strips Gwangyang Mayor Primary Candidate Park Seong-hyun of Eligibility (“불법 전화방 운영” 與, 광양시장 경선 박성현 자격 박탈) &lt;&lt;br/&gt;&lt;em&gt;"Operating an Illegal Phone Room" Ruling Party Strips Gwangyang Mayor Primary Candidate Park Seong-hyun of Eligibility&lt;/em&gt;&lt;/p&gt;
