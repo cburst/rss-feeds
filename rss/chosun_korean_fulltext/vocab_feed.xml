@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 11:28:20 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 13:32:25 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>먹고살기 – making a living</title><link>urn:urn:vocab:먹고살기</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>지방정부 – local government</title><link>urn:urn:vocab:지방정부</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1615644256225-19c8af1b90d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb2NhbCUyMGdvdmVybm1lbnR8ZW58MHx8fHwxNzc1MzYzNTM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지방정부 (local government)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;총리실은 “김 총리가 지난달 27일부터 국민 생활과 안전에 관련된 전국 현장을 누비며 비상 전국 점검을 하고 있다”며 “중동 전쟁과 지방선거 등으로 대내외 불확실성이 확대되는 상황에서, 중앙정부의 관리가 미치기 어려운 지역 중소 도시까지 비상 경제 대응 역량을 강화하고 지방정부 단체장 공백으로 발생하는 정책 누수를 방지하기 위해 마련됐다”고 설명했다&lt;br/&gt;&lt;em&gt;The Prime Minister's Office explained, 'Prime Minister Kim has been conducting emergency nationwide inspections since the 27th of last month, covering sites across the country related to people's lives and safety. This was prepared to strengthen emergency economic response capabilities even in small and medium-sized cities where central government management is difficult, and to prevent policy leaks caused by vacancies in local government leadership, amid expanding domestic and international uncertainties due to the Middle East war and local elections.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;fiscal capacity has increased" (李대통령 “추경으로 지방정부 부담증가 말 안돼…재정여력 늘어”) &lt;&lt;br/&gt;&lt;em&gt;"fiscal capacity has increased" (President Lee: 'It's not right to say that local government burdens have increased due to the supplementary budget... fiscal capacity has grown')&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;fiscal capacity has increased" (李대통령 “추경으로 지방정부 부담증가 말 안돼…재정여력 늘어”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;"fiscal capacity has increased" (President Lee: 'It's not right to say that local government burdens have increased due to the supplementary budget... fiscal capacity has grown')&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지방정부는 도시를 관리합니다.&lt;br/&gt;&lt;em&gt;Local governments manage cities.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지방정부가 공원을 만듭니다.&lt;br/&gt;&lt;em&gt;Local governments create parks.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1615644256225-19c8af1b90d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb2NhbCUyMGdvdmVybm1lbnR8ZW58MHx8fHwxNzc1MzYzNTM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지방정부 (local government)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;총리실은 “김 총리가 지난달 27일부터 국민 생활과 안전에 관련된 전국 현장을 누비며 비상 전국 점검을 하고 있다”며 “중동 전쟁과 지방선거 등으로 대내외 불확실성이 확대되는 상황에서, 중앙정부의 관리가 미치기 어려운 지역 중소 도시까지 비상 경제 대응 역량을 강화하고 지방정부 단체장 공백으로 발생하는 정책 누수를 방지하기 위해 마련됐다”고 설명했다&lt;br/&gt;&lt;em&gt;The Prime Minister's Office explained, 'Prime Minister Kim has been conducting emergency nationwide inspections since the 27th of last month, covering sites across the country related to people's lives and safety. This was prepared to strengthen emergency economic response capabilities even in small and medium-sized cities where central government management is difficult, and to prevent policy leaks caused by vacancies in local government leadership, amid expanding domestic and international uncertainties due to the Middle East war and local elections.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;fiscal capacity has increased" (李대통령 “추경으로 지방정부 부담증가 말 안돼…재정여력 늘어”) &lt;&lt;br/&gt;&lt;em&gt;"fiscal capacity has increased" (President Lee: 'It's not right to say that local government burdens have increased due to the supplementary budget... fiscal capacity has grown')&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;fiscal capacity has increased" (李대통령 “추경으로 지방정부 부담증가 말 안돼…재정여력 늘어”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;"fiscal capacity has increased" (President Lee: 'It's not right to say that local government burdens have increased due to the supplementary budget... fiscal capacity has grown')&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지방정부는 도시를 관리합니다.&lt;br/&gt;&lt;em&gt;Local governments manage cities.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지방정부가 공원을 만듭니다.&lt;br/&gt;&lt;em&gt;Local governments create parks.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 05 Apr 2026 13:32:25 +0900</pubDate><guid isPermaLink="false">vocab-39e54848245d2405bf55624c34dde566569a37d7</guid><enclosure url="https://images.unsplash.com/photo-1615644256225-19c8af1b90d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb2NhbCUyMGdvdmVybm1lbnR8ZW58MHx8fHwxNzc1MzYzNTM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="132108" /><ns2:content url="https://images.unsplash.com/photo-1615644256225-19c8af1b90d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb2NhbCUyMGdvdmVybm1lbnR8ZW58MHx8fHwxNzc1MzYzNTM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1615644256225-19c8af1b90d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb2NhbCUyMGdvdmVybm1lbnR8ZW58MHx8fHwxNzc1MzYzNTM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>지방정부</category></item><item><title>먹고살기 – making a living</title><link>urn:urn:vocab:먹고살기</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1609816667302-152529784c80?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYWtpbmclMjBhJTIwbGl2aW5nfGVufDB8fHx8MTc3NTM1NjA5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="먹고살기 (making a living)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;실제로 대림동의 한 식료품점에서 만난 중국 국적 영주권자인 30대 여성 B씨는 “투표를 할 수 있다는 건 알지만 자세히 찾아보지는 않는다”며 “장사하고 먹고살기 바빠 정치까지 신경쓰기 어렵다”고 말했다&lt;br/&gt;&lt;em&gt;In reality, Ms. B, a Chinese national permanent resident in her 30s whom I met at a grocery store in Daerim-dong, said, 'I know I can vote, but I don't look into it in detail,' adding, 'I'm too busy running my business and making a living to pay attention to politics.'&lt;/em&gt;&lt;/p&gt;
