@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 14:30:35 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 16:35:23 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>봉투를 – envelope</title><link>urn:urn:vocab:봉투를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>가짜뉴스를 – fake news</title><link>urn:urn:vocab:가짜뉴스를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1672839946212-aee298e40923?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYWtlJTIwbmV3c3xlbnwwfHx8fDE3NzU0NjA5MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가짜뉴스를 (fake news)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이재명 대통령은 2일 “국정에 혼란을 주는 가짜뉴스는 전쟁 때 적군이 쓰는 수법”이라며 “대한민국이 중동 전쟁으로 전시 상황인데 국정 혼란을 주는 가짜뉴스를 의도적으로 퍼트리는 건 반란 행위나 다름없다”고 했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung said on the 2nd, "Fake news that causes confusion in state affairs is a tactic used by enemy forces during war," adding, "While South Korea is in a wartime situation due to the Middle East war, intentionally spreading fake news that causes confusion in state affairs is no different from an act of rebellion."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 “심지어 책임이 있는 정치인들조차도 가짜뉴스를 퍼트리거나, 가짜뉴스인 걸 모를 리가 없을 거 같은데 가짜뉴스를 증폭시키는 이런 일들을 한다”며 행정안전부에 선제적으로 가짜뉴스를 스크리닝하는 조직 신설을 검토하라고 지시했다&lt;br/&gt;&lt;em&gt;President Lee said, "Even politicians with responsibility spread fake news or amplify it, even though they should know it's fake news," and instructed the Ministry of the Interior and Safety to consider establishing an organization to proactively screen fake news.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;가짜뉴스를 믿지 마세요.&lt;br/&gt;&lt;em&gt;Do not believe fake news.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가짜뉴스를 조심하세요.&lt;br/&gt;&lt;em&gt;Be careful of fake news.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1672839946212-aee298e40923?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYWtlJTIwbmV3c3xlbnwwfHx8fDE3NzU0NjA5MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가짜뉴스를 (fake news)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이재명 대통령은 2일 “국정에 혼란을 주는 가짜뉴스는 전쟁 때 적군이 쓰는 수법”이라며 “대한민국이 중동 전쟁으로 전시 상황인데 국정 혼란을 주는 가짜뉴스를 의도적으로 퍼트리는 건 반란 행위나 다름없다”고 했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung said on the 2nd, "Fake news that causes confusion in state affairs is a tactic used by enemy forces during war," adding, "While South Korea is in a wartime situation due to the Middle East war, intentionally spreading fake news that causes confusion in state affairs is no different from an act of rebellion."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 “심지어 책임이 있는 정치인들조차도 가짜뉴스를 퍼트리거나, 가짜뉴스인 걸 모를 리가 없을 거 같은데 가짜뉴스를 증폭시키는 이런 일들을 한다”며 행정안전부에 선제적으로 가짜뉴스를 스크리닝하는 조직 신설을 검토하라고 지시했다&lt;br/&gt;&lt;em&gt;President Lee said, "Even politicians with responsibility spread fake news or amplify it, even though they should know it's fake news," and instructed the Ministry of the Interior and Safety to consider establishing an organization to proactively screen fake news.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;가짜뉴스를 믿지 마세요.&lt;br/&gt;&lt;em&gt;Do not believe fake news.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가짜뉴스를 조심하세요.&lt;br/&gt;&lt;em&gt;Be careful of fake news.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 06 Apr 2026 16:35:23 +0900</pubDate><guid isPermaLink="false">vocab-f23104ed337946d477add44aca505e79de3d66df</guid><enclosure url="https://images.unsplash.com/photo-1672839946212-aee298e40923?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYWtlJTIwbmV3c3xlbnwwfHx8fDE3NzU0NjA5MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="214455" /><ns2:content url="https://images.unsplash.com/photo-1672839946212-aee298e40923?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYWtlJTIwbmV3c3xlbnwwfHx8fDE3NzU0NjA5MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1672839946212-aee298e40923?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYWtlJTIwbmV3c3xlbnwwfHx8fDE3NzU0NjA5MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>가짜뉴스를</category></item><item><title>봉투를 – envelope</title><link>urn:urn:vocab:봉투를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1649019489428-70f505daacd6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbnZlbG9wZXxlbnwwfHx8fDE3NzU0NTM0Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="봉투를 (envelope)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;뒤이어 MBC는 전남선관위가 지난 3일 경선 운동을 한 것으로 의심되는 사무실 현장을 적발하고, 현금 봉투를 숨기려는 직원에게서 봉투를 수거하는 영상을 보도했다&lt;br/&gt;&lt;em&gt;Subsequently, MBC reported a video showing the Jeonnam Election Commission discovering an office scene on the 3rd where primary campaigning was suspected, and confiscating envelopes from an employee trying to hide cash envelopes.&lt;/em&gt;&lt;/p&gt;
