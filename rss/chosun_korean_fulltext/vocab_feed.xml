@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 22:48:35 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 00:54:03 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>의원에게 – to the member of the National Assembly</title><link>urn:urn:vocab:의원에게</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>국무회의 – cabinet meeting</title><link>urn:urn:vocab:국무회의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1749102166798-5ba7f3907279?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYWJpbmV0JTIwbWVldGluZ3xlbnwwfHx8fDE3NzU0OTA4MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국무회의 (cabinet meeting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이 대통령은 이날 주재한 국무회의 모두 발언에서 “지금까지는 5월 9일까지 허가를 완료하고 계약을 해야 한다고 알려져 4월 중순이 되면 더 이상 매각이 불가능하다고 판단하는 것 같다”며 “5월 9일까지 허가 신청을 한 경우까지는 허용하는 방향으로 해석을 명확히 하거나 규정을 개정하는 것을 검토해 달라”고 했다&lt;br/&gt;&lt;em&gt;President Lee said in his opening remarks at the Cabinet meeting he presided over that day, "It seems that until now, it has been understood that permits must be completed and contracts signed by May 9, and if it reaches mid-April, it is judged that sales are no longer possible. Please review clarifying the interpretation or amending the regulations to allow cases where permit applications have been submitted by May 9."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “수요와 공급 중 어느 쪽에 미치는 영향이 클지 객관적으로 판단해 다음 국무회의 전까지 보고해 달라”고 관계 부처에 지시했다&lt;br/&gt;&lt;em&gt;He then instructed the relevant ministries, "Objectively judge which side, demand or supply, will be more affected and report back before the next Cabinet meeting."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 이날 오전 청와대에서 열린 국무회의에서 “이게 평소에 장난치는 것과는 차원이 다르다”며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;President Lee made these remarks at the Cabinet meeting held at the Blue House that morning, saying, "This is on a different level from usual mischief."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국무회의가 오늘 열립니다.&lt;br/&gt;&lt;em&gt;The Cabinet meeting is held today.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국무회의는 중요합니다.&lt;br/&gt;&lt;em&gt;The Cabinet meeting is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1749102166798-5ba7f3907279?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYWJpbmV0JTIwbWVldGluZ3xlbnwwfHx8fDE3NzU0OTA4MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국무회의 (cabinet meeting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이 대통령은 이날 주재한 국무회의 모두 발언에서 “지금까지는 5월 9일까지 허가를 완료하고 계약을 해야 한다고 알려져 4월 중순이 되면 더 이상 매각이 불가능하다고 판단하는 것 같다”며 “5월 9일까지 허가 신청을 한 경우까지는 허용하는 방향으로 해석을 명확히 하거나 규정을 개정하는 것을 검토해 달라”고 했다&lt;br/&gt;&lt;em&gt;President Lee said in his opening remarks at the Cabinet meeting he presided over that day, "It seems that until now, it has been understood that permits must be completed and contracts signed by May 9, and if it reaches mid-April, it is judged that sales are no longer possible. Please review clarifying the interpretation or amending the regulations to allow cases where permit applications have been submitted by May 9."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “수요와 공급 중 어느 쪽에 미치는 영향이 클지 객관적으로 판단해 다음 국무회의 전까지 보고해 달라”고 관계 부처에 지시했다&lt;br/&gt;&lt;em&gt;He then instructed the relevant ministries, "Objectively judge which side, demand or supply, will be more affected and report back before the next Cabinet meeting."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 이날 오전 청와대에서 열린 국무회의에서 “이게 평소에 장난치는 것과는 차원이 다르다”며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;President Lee made these remarks at the Cabinet meeting held at the Blue House that morning, saying, "This is on a different level from usual mischief."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국무회의가 오늘 열립니다.&lt;br/&gt;&lt;em&gt;The Cabinet meeting is held today.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국무회의는 중요합니다.&lt;br/&gt;&lt;em&gt;The Cabinet meeting is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 07 Apr 2026 00:54:03 +0900</pubDate><guid isPermaLink="false">vocab-2360e41042499c6732d565bac1682bcc60b0087d</guid><enclosure url="https://images.unsplash.com/photo-1749102166798-5ba7f3907279?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYWJpbmV0JTIwbWVldGluZ3xlbnwwfHx8fDE3NzU0OTA4MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="106205" /><ns2:content url="https://images.unsplash.com/photo-1749102166798-5ba7f3907279?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYWJpbmV0JTIwbWVldGluZ3xlbnwwfHx8fDE3NzU0OTA4MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1749102166798-5ba7f3907279?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYWJpbmV0JTIwbWVldGluZ3xlbnwwfHx8fDE3NzU0OTA4MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>국무회의</category></item><item><title>의원에게 – to the member of the National Assembly</title><link>urn:urn:vocab:의원에게</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1755756383827-95a69fbee439?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMG1lbWJlciUyMG9mJTIwdGhlJTIwTmF0aW9uYWwlMjBBc3NlbWJseXxlbnwwfHx8fDE3NzU0ODMzMDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="의원에게 (to the member of the National Assembly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(더불어민주당이 성추행 의혹으로 탈당한 장경태 무소속 의원에게 6일 제명에 해당하는 징계를 의결했다&lt;br/&gt;&lt;em&gt;The Democratic Party of Korea decided on disciplinary action equivalent to expulsion on the 6th against independent lawmaker Jang Kyung-tae, who left the party over sexual harassment allegations.&lt;/em&gt;&lt;/p&gt;
