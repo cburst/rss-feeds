@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 08:16:57 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 10:21:52 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>전에는 – before</title><link>urn:urn:vocab:전에는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>과징금 – penalty</title><link>urn:urn:vocab:과징금</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZW5hbHR5fGVufDB8fHx8MTc3NTQzODUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="과징금 (penalty)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;3 Billion Won in Surcharges for LS Group (총수 일가에 200억 통행세, LS그룹에 과징금 253억) &lt;&lt;br/&gt;&lt;em&gt;3 Billion Won in Surcharges for LS Group (200 Billion Won in Toll Fees for the Controlling Family, 25.3 Billion Won in Surcharges for LS Group)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;3 Billion Won in Surcharges for LS Group (총수 일가에 200억 통행세, LS그룹에 과징금 253억)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;3 Billion Won in Surcharges for LS Group (200 Billion Won in Toll Fees for the Controlling Family, 25.3 Billion Won in Surcharges for LS Group)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(엘에스(LS)그룹 계열사들이 총수일가의 회사에 이른바 ‘통행세’를 몰아준 행위로 253억여원의 과징금을 내게 될 것으로 보인다&lt;br/&gt;&lt;em&gt;LS Group affiliates are expected to pay approximately 25.3 billion won in surcharges for funneling so-called 'toll fees' to the controlling family's company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;과징금을 내야 해요.&lt;br/&gt;&lt;em&gt;You have to pay a fine.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과징금이 너무 비싸요.&lt;br/&gt;&lt;em&gt;The fine is too expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZW5hbHR5fGVufDB8fHx8MTc3NTQzODUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="과징금 (penalty)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;3 Billion Won in Surcharges for LS Group (총수 일가에 200억 통행세, LS그룹에 과징금 253억) &lt;&lt;br/&gt;&lt;em&gt;3 Billion Won in Surcharges for LS Group (200 Billion Won in Toll Fees for the Controlling Family, 25.3 Billion Won in Surcharges for LS Group)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;3 Billion Won in Surcharges for LS Group (총수 일가에 200억 통행세, LS그룹에 과징금 253억)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;3 Billion Won in Surcharges for LS Group (200 Billion Won in Toll Fees for the Controlling Family, 25.3 Billion Won in Surcharges for LS Group)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(엘에스(LS)그룹 계열사들이 총수일가의 회사에 이른바 ‘통행세’를 몰아준 행위로 253억여원의 과징금을 내게 될 것으로 보인다&lt;br/&gt;&lt;em&gt;LS Group affiliates are expected to pay approximately 25.3 billion won in surcharges for funneling so-called 'toll fees' to the controlling family's company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;과징금을 내야 해요.&lt;br/&gt;&lt;em&gt;You have to pay a fine.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과징금이 너무 비싸요.&lt;br/&gt;&lt;em&gt;The fine is too expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 06 Apr 2026 10:21:52 +0900</pubDate><guid isPermaLink="false">vocab-522d4a99a6d8236ef3044b37dc22ff9f0e86d5f6</guid><enclosure url="https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZW5hbHR5fGVufDB8fHx8MTc3NTQzODUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="105591" /><ns2:content url="https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZW5hbHR5fGVufDB8fHx8MTc3NTQzODUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZW5hbHR5fGVufDB8fHx8MTc3NTQzODUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>과징금</category></item><item><title>전에는 – before</title><link>urn:urn:vocab:전에는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605791767308-46f38113f418?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWZvcmV8ZW58MHx8fHwxNzc1NDMxMDEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전에는 (before)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;얼마 전에는 내가 아는 유일한 연예인 김수철이 서울 예술의전당 한가람디자인미술관에서 전관 전시를 한다기에 오프닝에 다녀왔다&lt;br/&gt;&lt;em&gt;Recently, I attended the opening because I heard that Kim Soo-chul, the only celebrity I know, was holding a solo exhibition at the Hangaram Design Museum of the Seoul Arts Center.&lt;/em&gt;&lt;/p&gt;
