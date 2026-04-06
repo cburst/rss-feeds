@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 16:35:14 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 18:39:47 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>서비스물가 – service price</title><link>urn:urn:vocab:서비스물가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>주차장 – parking lot</title><link>urn:urn:vocab:주차장</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506521781263-d8422e82f27a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJraW5nJTIwbG90fGVufDB8fHx8MTc3NTQ2ODM4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주차장 (parking lot)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Bakery Cafes and Parking Lots that Buy and Resell Bread Will Not Receive Inheritance Tax Deductions (빵 사서 되파는 베이커리 카페·주차장, 상속세 안 깎아 준다) &lt;&lt;br/&gt;&lt;em&gt;Bakery Cafes and Parking Lots that Buy and Resell Bread Will Not Receive Inheritance Tax Deductions&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Bakery Cafes and Parking Lots that Buy and Resell Bread Will Not Receive Inheritance Tax Deductions (빵 사서 되파는 베이커리 카페·주차장, 상속세 안 깎아 준다)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Bakery Cafes and Parking Lots that Buy and Resell Bread Will Not Receive Inheritance Tax Deductions&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 전문 기술이나 노하우 전수 등과 관계 없는 주차장업이나 직접 빵을 만들지 않는 베이커리 카페 등은 상속 공제 대상에서 제외될 전망이다&lt;br/&gt;&lt;em&gt;In particular, parking lot businesses or bakery cafes that do not bake their own bread, which are unrelated to the transfer of specialized skills or know-how, are expected to be excluded from inheritance tax deductions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주차장에 차가 있어요.&lt;br/&gt;&lt;em&gt;There is a car in the parking lot.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주차장이 여기 있어요.&lt;br/&gt;&lt;em&gt;The parking lot is here.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506521781263-d8422e82f27a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJraW5nJTIwbG90fGVufDB8fHx8MTc3NTQ2ODM4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주차장 (parking lot)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Bakery Cafes and Parking Lots that Buy and Resell Bread Will Not Receive Inheritance Tax Deductions (빵 사서 되파는 베이커리 카페·주차장, 상속세 안 깎아 준다) &lt;&lt;br/&gt;&lt;em&gt;Bakery Cafes and Parking Lots that Buy and Resell Bread Will Not Receive Inheritance Tax Deductions&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Bakery Cafes and Parking Lots that Buy and Resell Bread Will Not Receive Inheritance Tax Deductions (빵 사서 되파는 베이커리 카페·주차장, 상속세 안 깎아 준다)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Bakery Cafes and Parking Lots that Buy and Resell Bread Will Not Receive Inheritance Tax Deductions&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 전문 기술이나 노하우 전수 등과 관계 없는 주차장업이나 직접 빵을 만들지 않는 베이커리 카페 등은 상속 공제 대상에서 제외될 전망이다&lt;br/&gt;&lt;em&gt;In particular, parking lot businesses or bakery cafes that do not bake their own bread, which are unrelated to the transfer of specialized skills or know-how, are expected to be excluded from inheritance tax deductions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주차장에 차가 있어요.&lt;br/&gt;&lt;em&gt;There is a car in the parking lot.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주차장이 여기 있어요.&lt;br/&gt;&lt;em&gt;The parking lot is here.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 06 Apr 2026 18:39:47 +0900</pubDate><guid isPermaLink="false">vocab-e825b9ebe7ebb518471041fac1c2f7ac2492cbd0</guid><enclosure url="https://images.unsplash.com/photo-1506521781263-d8422e82f27a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJraW5nJTIwbG90fGVufDB8fHx8MTc3NTQ2ODM4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="134808" /><ns2:content url="https://images.unsplash.com/photo-1506521781263-d8422e82f27a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJraW5nJTIwbG90fGVufDB8fHx8MTc3NTQ2ODM4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1506521781263-d8422e82f27a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJraW5nJTIwbG90fGVufDB8fHx8MTc3NTQ2ODM4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>주차장</category></item><item><title>서비스물가 – service price</title><link>urn:urn:vocab:서비스물가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1768424096914-df76c8aa8304?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZXJ2aWNlJTIwcHJpY2V8ZW58MHx8fHwxNzc1NDYwOTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서비스물가 (service price)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Likely to Increase More Sharply in Q2 (서비스물가 3분기 만에 최대폭 상승…2분기는 더 크게 오를 듯) &lt;&lt;br/&gt;&lt;em&gt;Likely to Increase More Sharply in Q2 (Service prices rose at the fastest pace in three quarters... Likely to rise more sharply in Q2)&lt;/em&gt;&lt;/p&gt;

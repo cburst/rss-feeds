@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 16:35:23 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 18:39:58 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>가짜뉴스를 – fake news</title><link>urn:urn:vocab:가짜뉴스를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>받겠다 – will receive</title><link>urn:urn:vocab:받겠다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1654617850887-fedbeb6b8433?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWxsJTIwcmVjZWl2ZXxlbnwwfHx8fDE3NzU0NjgzOTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="받겠다 (will receive)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Government to "Accept Reports of Improper Fuel Subsidy Claims" Amid Prolonged Middle East War (중동 전쟁 장기화에 정부 “유가 보조금 부정 수급 신고 받겠다”) &lt;&lt;br/&gt;&lt;em&gt;Government to "Accept Reports of Improper Fuel Subsidy Claims" Amid Prolonged Middle East War&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Government to "Accept Reports of Improper Fuel Subsidy Claims" Amid Prolonged Middle East War (중동 전쟁 장기화에 정부 “유가 보조금 부정 수급 신고 받겠다”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Government to "Accept Reports of Improper Fuel Subsidy Claims" Amid Prolonged Middle East War&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민권익위원회는 6일부터 다음 달 6일까지 한 달간 유가 보조금, 연구·개발비, 창업 지원금 등 산업·자원 분야에서 정부 지원금을 부정 수급한 사례에 대한 신고를 받겠다고 밝혔다&lt;br/&gt;&lt;em&gt;(The Anti-Corruption and Civil Rights Commission announced that from the 6th to the 6th of next month, for one month, it will accept reports of cases of improper receipt of government subsidies in the industrial and resource sectors, such as fuel subsidies, research and development expenses, and startup support funds.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 선물을 받겠다.&lt;br/&gt;&lt;em&gt;I will receive a gift.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구가 편지를 받겠다.&lt;br/&gt;&lt;em&gt;My friend will receive a letter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1654617850887-fedbeb6b8433?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWxsJTIwcmVjZWl2ZXxlbnwwfHx8fDE3NzU0NjgzOTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="받겠다 (will receive)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Government to "Accept Reports of Improper Fuel Subsidy Claims" Amid Prolonged Middle East War (중동 전쟁 장기화에 정부 “유가 보조금 부정 수급 신고 받겠다”) &lt;&lt;br/&gt;&lt;em&gt;Government to "Accept Reports of Improper Fuel Subsidy Claims" Amid Prolonged Middle East War&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Government to "Accept Reports of Improper Fuel Subsidy Claims" Amid Prolonged Middle East War (중동 전쟁 장기화에 정부 “유가 보조금 부정 수급 신고 받겠다”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Government to "Accept Reports of Improper Fuel Subsidy Claims" Amid Prolonged Middle East War&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민권익위원회는 6일부터 다음 달 6일까지 한 달간 유가 보조금, 연구·개발비, 창업 지원금 등 산업·자원 분야에서 정부 지원금을 부정 수급한 사례에 대한 신고를 받겠다고 밝혔다&lt;br/&gt;&lt;em&gt;(The Anti-Corruption and Civil Rights Commission announced that from the 6th to the 6th of next month, for one month, it will accept reports of cases of improper receipt of government subsidies in the industrial and resource sectors, such as fuel subsidies, research and development expenses, and startup support funds.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 선물을 받겠다.&lt;br/&gt;&lt;em&gt;I will receive a gift.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구가 편지를 받겠다.&lt;br/&gt;&lt;em&gt;My friend will receive a letter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 06 Apr 2026 18:39:58 +0900</pubDate><guid isPermaLink="false">vocab-8e0c9ec44e8eef3b31e2d0ebe52b46a472b28c8e</guid><enclosure url="https://images.unsplash.com/photo-1654617850887-fedbeb6b8433?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWxsJTIwcmVjZWl2ZXxlbnwwfHx8fDE3NzU0NjgzOTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="91045" /><ns2:content url="https://images.unsplash.com/photo-1654617850887-fedbeb6b8433?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWxsJTIwcmVjZWl2ZXxlbnwwfHx8fDE3NzU0NjgzOTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1654617850887-fedbeb6b8433?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWxsJTIwcmVjZWl2ZXxlbnwwfHx8fDE3NzU0NjgzOTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>받겠다</category></item><item><title>가짜뉴스를 – fake news</title><link>urn:urn:vocab:가짜뉴스를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1672839946212-aee298e40923?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYWtlJTIwbmV3c3xlbnwwfHx8fDE3NzU0NjA5MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가짜뉴스를 (fake news)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이재명 대통령은 2일 “국정에 혼란을 주는 가짜뉴스는 전쟁 때 적군이 쓰는 수법”이라며 “대한민국이 중동 전쟁으로 전시 상황인데 국정 혼란을 주는 가짜뉴스를 의도적으로 퍼트리는 건 반란 행위나 다름없다”고 했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung said on the 2nd, "Fake news that causes confusion in state affairs is a tactic used by enemy forces during war," adding, "While South Korea is in a wartime situation due to the Middle East war, intentionally spreading fake news that causes confusion in state affairs is no different from an act of rebellion."&lt;/em&gt;&lt;/p&gt;
