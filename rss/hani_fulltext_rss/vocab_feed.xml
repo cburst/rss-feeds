@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 11:28:34 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 13:34:33 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>공공성 – publicness</title><link>urn:urn:vocab:공공성</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>내용의 – of the content</title><link>urn:urn:vocab:내용의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773825379472-5ee5bfa98658?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGNvbnRlbnR8ZW58MHx8fHwxNzc1NTM2NDY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="내용의 (of the content)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김병진 소장은 “수시원서 접수 전후로 심리적인 동요가 생겨 학습에 소홀해지는 경우가 많으므로 주의가 필요하다”며 “낯선 문항에 대한 연습도 중요하지만 기존 학습 내용의 정리와 반복, 체화를 통해 안정적인 고정 점수를 확보하는 것이 필수적”이라고 조언했다&lt;br/&gt;&lt;em&gt;Director Kim Byung-jin advised, 'Psychological fluctuations often occur before and after submitting regular applications, leading to neglect of studies, so caution is necessary. While practicing unfamiliar questions is important, it is essential to secure stable fixed scores by organizing, repeating, and internalizing existing learning content.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (교육 내용의 한계도 분명하다&lt;br/&gt;&lt;em&gt;" (The limitations of the educational content are also clear.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (김병진 이투스 교육평가연구소장은 “겨울 방학 동안 학습했던 내용의 학습 완성도를 중심으로 학력평가를 활용할 필요가 있다&lt;br/&gt;&lt;em&gt;" (Kim Byung-jin, director of the Etoos Educational Evaluation Research Institute, said, 'It is necessary to utilize academic evaluations focusing on the completion level of the content studied during the winter break.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 책 내용의 주제는 흥미로워요.&lt;br/&gt;&lt;em&gt;The theme of this book's content is interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내용의 중요성을 이해해야 해요.&lt;br/&gt;&lt;em&gt;You need to understand the importance of the content.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773825379472-5ee5bfa98658?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGNvbnRlbnR8ZW58MHx8fHwxNzc1NTM2NDY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="내용의 (of the content)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김병진 소장은 “수시원서 접수 전후로 심리적인 동요가 생겨 학습에 소홀해지는 경우가 많으므로 주의가 필요하다”며 “낯선 문항에 대한 연습도 중요하지만 기존 학습 내용의 정리와 반복, 체화를 통해 안정적인 고정 점수를 확보하는 것이 필수적”이라고 조언했다&lt;br/&gt;&lt;em&gt;Director Kim Byung-jin advised, 'Psychological fluctuations often occur before and after submitting regular applications, leading to neglect of studies, so caution is necessary. While practicing unfamiliar questions is important, it is essential to secure stable fixed scores by organizing, repeating, and internalizing existing learning content.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (교육 내용의 한계도 분명하다&lt;br/&gt;&lt;em&gt;" (The limitations of the educational content are also clear.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (김병진 이투스 교육평가연구소장은 “겨울 방학 동안 학습했던 내용의 학습 완성도를 중심으로 학력평가를 활용할 필요가 있다&lt;br/&gt;&lt;em&gt;" (Kim Byung-jin, director of the Etoos Educational Evaluation Research Institute, said, 'It is necessary to utilize academic evaluations focusing on the completion level of the content studied during the winter break.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 책 내용의 주제는 흥미로워요.&lt;br/&gt;&lt;em&gt;The theme of this book's content is interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내용의 중요성을 이해해야 해요.&lt;br/&gt;&lt;em&gt;You need to understand the importance of the content.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 07 Apr 2026 13:34:32 +0900</pubDate><guid isPermaLink="false">vocab-19e59517c365465f6843e3d4df4237a330bb7f6b</guid><enclosure url="https://images.unsplash.com/photo-1773825379472-5ee5bfa98658?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGNvbnRlbnR8ZW58MHx8fHwxNzc1NTM2NDY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="206730" /><ns2:content url="https://images.unsplash.com/photo-1773825379472-5ee5bfa98658?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGNvbnRlbnR8ZW58MHx8fHwxNzc1NTM2NDY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1773825379472-5ee5bfa98658?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGNvbnRlbnR8ZW58MHx8fHwxNzc1NTM2NDY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>내용의</category></item><item><title>공공성 – publicness</title><link>urn:urn:vocab:공공성</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1677834097867-2558c44fdd11?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWNuZXNzfGVufDB8fHx8MTc3NTUyODkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공공성 (publicness)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;인공지능의 등장으로, 많이 외워 만들어진 인재보다는 학생들의 생각과 관점을 자유롭게 표현하되 도덕과 윤리, 공공성을 중시하는 인재가 각광받을 것이라는 의미다&lt;br/&gt;&lt;em&gt;The emergence of artificial intelligence means that talent who freely express students' thoughts and perspectives while emphasizing morality, ethics, and publicness will be spotlighted more than talent created through rote memorization.&lt;/em&gt;&lt;/p&gt;
