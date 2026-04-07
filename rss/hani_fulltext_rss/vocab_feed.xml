@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 09:21:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 11:28:34 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>주차장을 – parking lot</title><link>urn:urn:vocab:주차장을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>공공성 – publicness</title><link>urn:urn:vocab:공공성</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1677834097867-2558c44fdd11?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWNuZXNzfGVufDB8fHx8MTc3NTUyODkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공공성 (publicness)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인공지능의 등장으로, 많이 외워 만들어진 인재보다는 학생들의 생각과 관점을 자유롭게 표현하되 도덕과 윤리, 공공성을 중시하는 인재가 각광받을 것이라는 의미다&lt;br/&gt;&lt;em&gt;The emergence of artificial intelligence means that talent who freely express students' thoughts and perspectives while emphasizing morality, ethics, and publicness will be spotlighted more than talent created through rote memorization.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (민재홍 덕성여대 총장이 지난 2월 취임하면서 “AI·디지털 전환은 이미 현실이 됐다”며 “기술의 효율성과 인간의 가치가 균형을 이루는, 즉 ‘윤리·공공성·책임성·인간의 존엄성’을 함께 성찰하는 AI 기반 대학으로 만들겠다”고 강조한 이유다&lt;br/&gt;&lt;em&gt;This is why Min Jae-hong, president of Duksung Women's University, emphasized upon taking office last February, 'AI and digital transformation have already become reality,' and 'I will make it an AI-based university that balances the efficiency of technology and human values, that is, reflecting on ethics, publicness, responsibility, and human dignity together.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;AI를 교육·연구·행정 전반에 도입하고, 동시에 윤리·공공성·책임성, 인간 존엄성에 대한 성찰도 함께 추진하겠다&lt;br/&gt;&lt;em&gt;We will introduce AI into all aspects of education, research, and administration, and simultaneously promote reflection on ethics, publicness, responsibility, and human dignity.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;공공성은 중요합니다.&lt;br/&gt;&lt;em&gt;Publicness is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공원은 공공성을 가집니다.&lt;br/&gt;&lt;em&gt;Parks have publicness.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1677834097867-2558c44fdd11?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWNuZXNzfGVufDB8fHx8MTc3NTUyODkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공공성 (publicness)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인공지능의 등장으로, 많이 외워 만들어진 인재보다는 학생들의 생각과 관점을 자유롭게 표현하되 도덕과 윤리, 공공성을 중시하는 인재가 각광받을 것이라는 의미다&lt;br/&gt;&lt;em&gt;The emergence of artificial intelligence means that talent who freely express students' thoughts and perspectives while emphasizing morality, ethics, and publicness will be spotlighted more than talent created through rote memorization.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (민재홍 덕성여대 총장이 지난 2월 취임하면서 “AI·디지털 전환은 이미 현실이 됐다”며 “기술의 효율성과 인간의 가치가 균형을 이루는, 즉 ‘윤리·공공성·책임성·인간의 존엄성’을 함께 성찰하는 AI 기반 대학으로 만들겠다”고 강조한 이유다&lt;br/&gt;&lt;em&gt;This is why Min Jae-hong, president of Duksung Women's University, emphasized upon taking office last February, 'AI and digital transformation have already become reality,' and 'I will make it an AI-based university that balances the efficiency of technology and human values, that is, reflecting on ethics, publicness, responsibility, and human dignity together.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;AI를 교육·연구·행정 전반에 도입하고, 동시에 윤리·공공성·책임성, 인간 존엄성에 대한 성찰도 함께 추진하겠다&lt;br/&gt;&lt;em&gt;We will introduce AI into all aspects of education, research, and administration, and simultaneously promote reflection on ethics, publicness, responsibility, and human dignity.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;공공성은 중요합니다.&lt;br/&gt;&lt;em&gt;Publicness is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공원은 공공성을 가집니다.&lt;br/&gt;&lt;em&gt;Parks have publicness.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 07 Apr 2026 11:28:34 +0900</pubDate><guid isPermaLink="false">vocab-384f34a5874303a9827739bcd5a3d79e4403425f</guid><enclosure url="https://images.unsplash.com/photo-1677834097867-2558c44fdd11?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWNuZXNzfGVufDB8fHx8MTc3NTUyODkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="104012" /><ns2:content url="https://images.unsplash.com/photo-1677834097867-2558c44fdd11?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWNuZXNzfGVufDB8fHx8MTc3NTUyODkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1677834097867-2558c44fdd11?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWNuZXNzfGVufDB8fHx8MTc3NTUyODkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>공공성</category></item><item><title>주차장을 – parking lot</title><link>urn:urn:vocab:주차장을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506521781263-d8422e82f27a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJraW5nJTIwbG90fGVufDB8fHx8MTc3NTQ2ODM4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주차장을 (parking lot)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (그러면서 주차장을 예로 들었다&lt;br/&gt;&lt;em&gt;" (He gave the example of a parking lot&lt;/em&gt;&lt;/p&gt;
