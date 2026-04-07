@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 20:08:18 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 22:17:14 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>자동화 – automation</title><link>urn:urn:vocab:자동화</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>솔루션 – solution</title><link>urn:urn:vocab:솔루션</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzb2x1dGlvbnxlbnwwfHx8fDE3NzU1Njc4MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="솔루션 (solution)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;HD현대 아비커스의 대형선박용 자율운항 솔루션 하이나스 컨트롤(HiNAS Control)이 적용된 컨테이너 운반선&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;HD Hyundai Avikus' large ship autonomous navigation solution HiNAS Control applied to a container carrier&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(하이나스 컨트롤은 주변 선박과 장애물을 스스로 인지하고 운항 상황을 판단해 충돌을 회피하는 통합 제어 솔루션이다&lt;br/&gt;&lt;em&gt;(HiNAS Control is an integrated control solution that autonomously recognizes surrounding ships and obstacles, judges navigation situations, and avoids collisions&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;롯데케미칼, 에이치디(HD)현대케미칼, 한화솔루션, 디엘(DL)케미칼, 지에스(GS)칼텍스, 에스케이(SK)이노베이션 등 국내 정유·석화 기업 6곳이 참석했다&lt;br/&gt;&lt;em&gt;Six domestic oil refining and petrochemical companies attended, including Lotte Chemical, HD Hyundai Chemical, Hanwha Solutions, DL Chemical, GS Caltex, and SK Innovation&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 솔루션은 좋아요.&lt;br/&gt;&lt;em&gt;This solution is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;솔루션을 찾았어요.&lt;br/&gt;&lt;em&gt;I found the solution.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzb2x1dGlvbnxlbnwwfHx8fDE3NzU1Njc4MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="솔루션 (solution)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;HD현대 아비커스의 대형선박용 자율운항 솔루션 하이나스 컨트롤(HiNAS Control)이 적용된 컨테이너 운반선&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;HD Hyundai Avikus' large ship autonomous navigation solution HiNAS Control applied to a container carrier&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(하이나스 컨트롤은 주변 선박과 장애물을 스스로 인지하고 운항 상황을 판단해 충돌을 회피하는 통합 제어 솔루션이다&lt;br/&gt;&lt;em&gt;(HiNAS Control is an integrated control solution that autonomously recognizes surrounding ships and obstacles, judges navigation situations, and avoids collisions&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;롯데케미칼, 에이치디(HD)현대케미칼, 한화솔루션, 디엘(DL)케미칼, 지에스(GS)칼텍스, 에스케이(SK)이노베이션 등 국내 정유·석화 기업 6곳이 참석했다&lt;br/&gt;&lt;em&gt;Six domestic oil refining and petrochemical companies attended, including Lotte Chemical, HD Hyundai Chemical, Hanwha Solutions, DL Chemical, GS Caltex, and SK Innovation&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 솔루션은 좋아요.&lt;br/&gt;&lt;em&gt;This solution is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;솔루션을 찾았어요.&lt;br/&gt;&lt;em&gt;I found the solution.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 07 Apr 2026 22:17:14 +0900</pubDate><guid isPermaLink="false">vocab-cb4338f0c2f9fc7f0dd8651d9fddc75956740f4e</guid><enclosure url="https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzb2x1dGlvbnxlbnwwfHx8fDE3NzU1Njc4MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="52383" /><ns2:content url="https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzb2x1dGlvbnxlbnwwfHx8fDE3NzU1Njc4MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzb2x1dGlvbnxlbnwwfHx8fDE3NzU1Njc4MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>솔루션</category></item><item><title>자동화 – automation</title><link>urn:urn:vocab:자동화</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773332598413-a6d5279d1ae8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxhdXRvbWF0aW9ufGVufDB8fHx8MTc3NTU2MDA5MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자동화 (automation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이를 방지하기 위해 법인세를 인상하고 고소득층을 상대로 자본 이득세를 도입하거나 ‘자동화된 노동과 관련한 세금’을 도입하는 방안을 제안했다&lt;br/&gt;&lt;em&gt;To prevent this, they proposed measures such as increasing corporate taxes, introducing capital gains taxes targeting high-income earners, or implementing 'taxes related to automated labor'.&lt;/em&gt;&lt;/p&gt;
