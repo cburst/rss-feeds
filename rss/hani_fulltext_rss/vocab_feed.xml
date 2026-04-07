@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 02:32:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:36:13 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>포스코 – POSCO (a major South Korean steel-making company)</title><link>urn:urn:vocab:포스코</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>인공지능으로 – with artificial intelligence</title><link>urn:urn:vocab:인공지능으로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1709133807207-508ebd214a4a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwYXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHx8fDE3NzU1OTA1NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인공지능으로 (with artificial intelligence)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최재호 한국성우협회 이사장은 “광고 내레이션, 공공기관 자동응답전화(ARS) 안내 등이 인공지능으로 대체되면서 과거 대비 50%에 가까운 일자리가 사라졌다”고 주장했다&lt;br/&gt;&lt;em&gt;Choi Jae-ho, chairman of the Korean Voice Actors Association, claimed, 'Jobs have decreased by nearly 50% compared to the past as advertising narration, public institution automated response system (ARS) guidance, and others are being replaced by artificial intelligence.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최씨는 “대규모 전투 장면에서 캐릭터의 동작이나 구도를 인공지능으로 생성해 활용하거나, 학습 만화의 경우 인공지능 생성 이미지로 스케치를 대체한 뒤 펜 터치와 채색은 수작업으로 진행한다”고 했다&lt;br/&gt;&lt;em&gt;Choi said, 'In large-scale battle scenes, character movements or compositions are generated and utilized by artificial intelligence, or in the case of educational comics, sketches are replaced with AI-generated images, followed by manual pen touches and coloring.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 이어 “기술 발전을 위해 창작자의 희생을 강요하는 시대는 지났다”며 “개별 보상이 어렵다면, 인공지능으로 수익을 얻는 기업들이 기금을 조성해 창작 생태계에 환원하는 구조를 고민할 필요가 있다”고 제안했다&lt;br/&gt;&lt;em&gt;He then suggested, 'The era of forcing creators to sacrifice for technological development has passed,' and 'If individual compensation is difficult, companies that profit from artificial intelligence need to consider establishing a structure where they create a fund to give back to the creative ecosystem.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인공지능으로 일을 합니다.&lt;br/&gt;&lt;em&gt;I work with artificial intelligence.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인공지능으로 문제를 해결합니다.&lt;br/&gt;&lt;em&gt;I solve problems with artificial intelligence.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1709133807207-508ebd214a4a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwYXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHx8fDE3NzU1OTA1NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인공지능으로 (with artificial intelligence)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최재호 한국성우협회 이사장은 “광고 내레이션, 공공기관 자동응답전화(ARS) 안내 등이 인공지능으로 대체되면서 과거 대비 50%에 가까운 일자리가 사라졌다”고 주장했다&lt;br/&gt;&lt;em&gt;Choi Jae-ho, chairman of the Korean Voice Actors Association, claimed, 'Jobs have decreased by nearly 50% compared to the past as advertising narration, public institution automated response system (ARS) guidance, and others are being replaced by artificial intelligence.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최씨는 “대규모 전투 장면에서 캐릭터의 동작이나 구도를 인공지능으로 생성해 활용하거나, 학습 만화의 경우 인공지능 생성 이미지로 스케치를 대체한 뒤 펜 터치와 채색은 수작업으로 진행한다”고 했다&lt;br/&gt;&lt;em&gt;Choi said, 'In large-scale battle scenes, character movements or compositions are generated and utilized by artificial intelligence, or in the case of educational comics, sketches are replaced with AI-generated images, followed by manual pen touches and coloring.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 이어 “기술 발전을 위해 창작자의 희생을 강요하는 시대는 지났다”며 “개별 보상이 어렵다면, 인공지능으로 수익을 얻는 기업들이 기금을 조성해 창작 생태계에 환원하는 구조를 고민할 필요가 있다”고 제안했다&lt;br/&gt;&lt;em&gt;He then suggested, 'The era of forcing creators to sacrifice for technological development has passed,' and 'If individual compensation is difficult, companies that profit from artificial intelligence need to consider establishing a structure where they create a fund to give back to the creative ecosystem.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인공지능으로 일을 합니다.&lt;br/&gt;&lt;em&gt;I work with artificial intelligence.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인공지능으로 문제를 해결합니다.&lt;br/&gt;&lt;em&gt;I solve problems with artificial intelligence.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 08 Apr 2026 04:36:13 +0900</pubDate><guid isPermaLink="false">vocab-d28d33f408e48b906d2fcb711e2dc0b1740f80c8</guid><enclosure url="https://images.unsplash.com/photo-1709133807207-508ebd214a4a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwYXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHx8fDE3NzU1OTA1NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="417052" /><ns2:content url="https://images.unsplash.com/photo-1709133807207-508ebd214a4a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwYXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHx8fDE3NzU1OTA1NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1709133807207-508ebd214a4a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwYXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHx8fDE3NzU1OTA1NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>인공지능으로</category></item><item><title>포스코 – POSCO (a major South Korean steel-making company)</title><link>urn:urn:vocab:포스코</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;POSCO Group Invests 7 Billion Won in Robotics Automation Solution Company 'BriLS' (포스코그룹, 로봇 자동화 솔루션 기업 ‘브릴스’에 70억 투자) &lt;&lt;br/&gt;&lt;em&gt;POSCO Group Invests 7 Billion Won in Robotics Automation Solution Company 'BriLS'&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;title&gt;POSCO Group Invests 7 Billion Won in Robotics Automation Solution Company 'BriLS' (포스코그룹, 로봇 자동화 솔루션 기업 ‘브릴스’에 70억 투자)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;POSCO Group Invests 7 Billion Won in Robotics Automation Solution Company 'BriLS'&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
