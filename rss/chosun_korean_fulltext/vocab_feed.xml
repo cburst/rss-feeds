@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 08:56:15 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:21:33 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>철저하게 – thoroughly</title><link>urn:urn:vocab:철저하게</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>예비비 – reserve fund</title><link>urn:urn:vocab:예비비</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1582181814038-921f478c858b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNlcnZlJTIwZnVuZHxlbnwwfHx8fDE3NzU2MjIwODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="예비비 (reserve fund)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;National Assembly Warns of "Weakened Budgetary Review Authority" ([단독] 예비비 5조원으로 ‘석유 최고가격제’ 충당하려는 정부…국회 “예산심의권 약화”) &lt;&lt;br/&gt;&lt;em&gt;National Assembly Warns of "Weakened Budgetary Review Authority" (Exclusive: Government Plans to Cover 'Oil Price Cap System' with 5 Trillion Won Reserve Fund... National Assembly Says "Budget Review Authority Weakened")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부가 중동 사태에 대응하기 위한 추가경정예산(추경)에서 ‘석유 최고가격제’ 소요 비용을 예비비로 충당하려고 하는 데 대해, 국회가 “국회의 예산심의권이 약화될 우려가 있다”며 제동을 걸었다&lt;br/&gt;&lt;em&gt;Regarding the government's attempt to cover the costs of the 'oil price cap system' with reserve funds in the supplementary budget for responding to the Middle East situation, the National Assembly has put the brakes on it, saying "there is a risk that the National Assembly's budget review authority will be weakened."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정책 비용 규모를 제대로 추산하지도 않고, ‘비상금’ 개념의 예비비 항목을 크게 늘린 뒤 이를 쉽게 가져다 쓰는 건 옳지 않다는 취지다&lt;br/&gt;&lt;em&gt;The intention is that it is not right to significantly increase the reserve fund item, which is a concept of 'emergency funds,' and then easily use it without properly estimating the scale of policy costs.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;예비비가 필요해요.&lt;br/&gt;&lt;em&gt;I need a reserve fund.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예비비를 모으세요.&lt;br/&gt;&lt;em&gt;Save up a reserve fund.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1582181814038-921f478c858b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNlcnZlJTIwZnVuZHxlbnwwfHx8fDE3NzU2MjIwODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="예비비 (reserve fund)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;National Assembly Warns of "Weakened Budgetary Review Authority" ([단독] 예비비 5조원으로 ‘석유 최고가격제’ 충당하려는 정부…국회 “예산심의권 약화”) &lt;&lt;br/&gt;&lt;em&gt;National Assembly Warns of "Weakened Budgetary Review Authority" (Exclusive: Government Plans to Cover 'Oil Price Cap System' with 5 Trillion Won Reserve Fund... National Assembly Says "Budget Review Authority Weakened")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부가 중동 사태에 대응하기 위한 추가경정예산(추경)에서 ‘석유 최고가격제’ 소요 비용을 예비비로 충당하려고 하는 데 대해, 국회가 “국회의 예산심의권이 약화될 우려가 있다”며 제동을 걸었다&lt;br/&gt;&lt;em&gt;Regarding the government's attempt to cover the costs of the 'oil price cap system' with reserve funds in the supplementary budget for responding to the Middle East situation, the National Assembly has put the brakes on it, saying "there is a risk that the National Assembly's budget review authority will be weakened."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정책 비용 규모를 제대로 추산하지도 않고, ‘비상금’ 개념의 예비비 항목을 크게 늘린 뒤 이를 쉽게 가져다 쓰는 건 옳지 않다는 취지다&lt;br/&gt;&lt;em&gt;The intention is that it is not right to significantly increase the reserve fund item, which is a concept of 'emergency funds,' and then easily use it without properly estimating the scale of policy costs.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;예비비가 필요해요.&lt;br/&gt;&lt;em&gt;I need a reserve fund.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예비비를 모으세요.&lt;br/&gt;&lt;em&gt;Save up a reserve fund.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 08 Apr 2026 13:21:33 +0900</pubDate><guid isPermaLink="false">vocab-a761031670bd1069c7967e3824b579991c1267b8</guid><enclosure url="https://images.unsplash.com/photo-1582181814038-921f478c858b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNlcnZlJTIwZnVuZHxlbnwwfHx8fDE3NzU2MjIwODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="210014" /><ns2:content url="https://images.unsplash.com/photo-1582181814038-921f478c858b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNlcnZlJTIwZnVuZHxlbnwwfHx8fDE3NzU2MjIwODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1582181814038-921f478c858b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNlcnZlJTIwZnVuZHxlbnwwfHx8fDE3NzU2MjIwODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>예비비</category></item><item><title>포장재 – packaging material</title><link>urn:urn:vocab:포장재</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591130901969-2a1bfafb2ee2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYWNrYWdpbmclMjBtYXRlcmlhbHxlbnwwfHx8fDE3NzU2MTQ3MDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="포장재 (packaging material)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;exploring support for alternative packaging materials" (金총리 “나프타 부족이 식품 공급까지 위협… 대체 포장재 지원 모색”) &lt;&lt;br/&gt;&lt;em&gt;"exploring support for alternative packaging materials" (Prime Minister Kim "Naphtha shortage threatens food supply... exploring support for alternative packaging materials") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;exploring support for alternative packaging materials" (金총리 “나프타 부족이 식품 공급까지 위협… 대체 포장재 지원 모색”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;"exploring support for alternative packaging materials" (Prime Minister Kim "Naphtha shortage threatens food supply... exploring support for alternative packaging materials")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김민석 국무총리가 중동 전쟁으로 인한 나프타 부족 사태가 식품 공급까지 위협하고 있다며, 기업에 나프타를 쓰지 않는 대체 포장재 사용을 지원하는 방안을 모색하겠다고 밝혔다&lt;br/&gt;&lt;em&gt;(Prime Minister Kim Min-seok stated that the naphtha shortage crisis due to the Middle East war is threatening food supply, and announced plans to explore ways to support businesses in using alternative packaging materials that do not use naphtha)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;포장재가 필요해요.&lt;br/&gt;&lt;em&gt;I need packaging materials.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 포장재입니다.&lt;br/&gt;&lt;em&gt;This is packaging material.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591130901969-2a1bfafb2ee2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYWNrYWdpbmclMjBtYXRlcmlhbHxlbnwwfHx8fDE3NzU2MTQ3MDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="포장재 (packaging material)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;exploring support for alternative packaging materials" (金총리 “나프타 부족이 식품 공급까지 위협… 대체 포장재 지원 모색”) &lt;&lt;br/&gt;&lt;em&gt;"exploring support for alternative packaging materials" (Prime Minister Kim "Naphtha shortage threatens food supply... exploring support for alternative packaging materials") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;exploring support for alternative packaging materials" (金총리 “나프타 부족이 식품 공급까지 위협… 대체 포장재 지원 모색”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;"exploring support for alternative packaging materials" (Prime Minister Kim "Naphtha shortage threatens food supply... exploring support for alternative packaging materials")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김민석 국무총리가 중동 전쟁으로 인한 나프타 부족 사태가 식품 공급까지 위협하고 있다며, 기업에 나프타를 쓰지 않는 대체 포장재 사용을 지원하는 방안을 모색하겠다고 밝혔다&lt;br/&gt;&lt;em&gt;(Prime Minister Kim Min-seok stated that the naphtha shortage crisis due to the Middle East war is threatening food supply, and announced plans to explore ways to support businesses in using alternative packaging materials that do not use naphtha)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;포장재가 필요해요.&lt;br/&gt;&lt;em&gt;I need packaging materials.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 포장재입니다.&lt;br/&gt;&lt;em&gt;This is packaging material.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 08 Apr 2026 11:18:31 +0900</pubDate><guid isPermaLink="false">vocab-a8f93e3e36683f918d37db864b4331c6870e8ce3</guid><enclosure url="https://images.unsplash.com/photo-1591130901969-2a1bfafb2ee2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYWNrYWdpbmclMjBtYXRlcmlhbHxlbnwwfHx8fDE3NzU2MTQ3MDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="144316" /><ns2:content url="https://images.unsplash.com/photo-1591130901969-2a1bfafb2ee2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYWNrYWdpbmclMjBtYXRlcmlhbHxlbnwwfHx8fDE3NzU2MTQ3MDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1591130901969-2a1bfafb2ee2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYWNrYWdpbmclMjBtYXRlcmlhbHxlbnwwfHx8fDE3NzU2MTQ3MDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>포장재</category></item><item><title>철저하게 – thoroughly</title><link>urn:urn:vocab:철저하게</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742982250301-a9e5384140c5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aG9yb3VnaGx5fGVufDB8fHx8MTc3NTYwNjE2OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="철저하게 (thoroughly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;그러면서 관계 부처에 “전쟁 장기화를 감안해 대체 항로 모색, 우회 수송에 따른 리스크 점검을 철저하게 준비해 달라”고 했다&lt;br/&gt;&lt;em&gt;At the same time, they requested related ministries to 'thoroughly prepare for exploring alternative routes and checking risks associated with detour transportation, considering the prolonged war.'&lt;/em&gt;&lt;/p&gt;
