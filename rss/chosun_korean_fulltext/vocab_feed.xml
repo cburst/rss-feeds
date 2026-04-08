@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 04:17:30 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:25:17 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>취소를 – to cancel</title><link>urn:urn:vocab:취소를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>발언이 – remark/statement</title><link>urn:urn:vocab:발언이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1622303331575-41edd3a3da6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZW1hcmslMkZzdGF0ZW1lbnR8ZW58MHx8fHwxNzc1NjgzNTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="발언이 (remark/statement)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (정원오 더불어민주당 서울시장 예비후보는 ‘박원순 전 서울시장과 오세훈 서울시장이 똑같다’는 자신의 발언이 논란이 되자 “마음의 상처를 입으신 분들께 정중하게 사과드린다”고 했다&lt;br/&gt;&lt;em&gt;" (Jung Won-o, the Democratic Party's Seoul mayoral candidate, said 'I sincerely apologize to those who were hurt' after his remark that 'former Seoul Mayor Park Won-soon and current Seoul Mayor Oh Se-hoon are the same' caused controversy&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (해당 기사에는 “이 대통령이 대통령 신분으로서 선거에 개입하는 듯한 모습이 유포되는 건 안 된다는 뜻을 청와대가 먼저 당에 전달했다”는 청와대 고위관계자의 발언이 실려 있었다&lt;br/&gt;&lt;em&gt;" (The article included a statement from a high-ranking Blue House official that 'the Blue House first conveyed to the party that it is not appropriate for President Lee to appear to be interfering in the election in his capacity as president'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령이 자신의 의중과 다른 발언이 언론을 통해 소개되는 것에 대해 문제의식을 느끼고 이런 조치를 한 것으로 보인다고 청와대 관계자는 설명했다&lt;br/&gt;&lt;em&gt;(The Blue House official explained that President Lee appears to have taken this action because he felt a sense of problem with statements different from his intentions being introduced through the media&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 발언이 중요해요.&lt;br/&gt;&lt;em&gt;That statement is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;발언이 명확했어요.&lt;br/&gt;&lt;em&gt;The statement was clear.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1622303331575-41edd3a3da6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZW1hcmslMkZzdGF0ZW1lbnR8ZW58MHx8fHwxNzc1NjgzNTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="발언이 (remark/statement)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (정원오 더불어민주당 서울시장 예비후보는 ‘박원순 전 서울시장과 오세훈 서울시장이 똑같다’는 자신의 발언이 논란이 되자 “마음의 상처를 입으신 분들께 정중하게 사과드린다”고 했다&lt;br/&gt;&lt;em&gt;" (Jung Won-o, the Democratic Party's Seoul mayoral candidate, said 'I sincerely apologize to those who were hurt' after his remark that 'former Seoul Mayor Park Won-soon and current Seoul Mayor Oh Se-hoon are the same' caused controversy&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (해당 기사에는 “이 대통령이 대통령 신분으로서 선거에 개입하는 듯한 모습이 유포되는 건 안 된다는 뜻을 청와대가 먼저 당에 전달했다”는 청와대 고위관계자의 발언이 실려 있었다&lt;br/&gt;&lt;em&gt;" (The article included a statement from a high-ranking Blue House official that 'the Blue House first conveyed to the party that it is not appropriate for President Lee to appear to be interfering in the election in his capacity as president'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령이 자신의 의중과 다른 발언이 언론을 통해 소개되는 것에 대해 문제의식을 느끼고 이런 조치를 한 것으로 보인다고 청와대 관계자는 설명했다&lt;br/&gt;&lt;em&gt;(The Blue House official explained that President Lee appears to have taken this action because he felt a sense of problem with statements different from his intentions being introduced through the media&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 발언이 중요해요.&lt;br/&gt;&lt;em&gt;That statement is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;발언이 명확했어요.&lt;br/&gt;&lt;em&gt;The statement was clear.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 09 Apr 2026 06:25:17 +0900</pubDate><guid isPermaLink="false">vocab-a0b596520f51f9992bb9d1fd05fd4863beb1d9de</guid><enclosure url="https://images.unsplash.com/photo-1622303331575-41edd3a3da6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZW1hcmslMkZzdGF0ZW1lbnR8ZW58MHx8fHwxNzc1NjgzNTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="117743" /><ns2:content url="https://images.unsplash.com/photo-1622303331575-41edd3a3da6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZW1hcmslMkZzdGF0ZW1lbnR8ZW58MHx8fHwxNzc1NjgzNTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1622303331575-41edd3a3da6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZW1hcmslMkZzdGF0ZW1lbnR8ZW58MHx8fHwxNzc1NjgzNTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>발언이</category></item><item><title>취소를 – to cancel</title><link>urn:urn:vocab:취소를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612733375189-811e65a29255?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGNhbmNlbHxlbnwwfHx8fDE3NzU2NzU4NDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="취소를 (to cancel)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(반면 국민의힘은 민주당의 이 같은 주장이 이 대통령 공소 취소를 염두에 둔 것이라고 주장하고 있다&lt;br/&gt;&lt;em&gt;(On the other hand, the People Power Party claims that the Democratic Party's argument is aimed at canceling the prosecution of President Lee)&lt;/em&gt;&lt;/p&gt;
