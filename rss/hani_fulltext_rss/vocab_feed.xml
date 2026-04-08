@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 21:43:12 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 23:58:25 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>가상인물 – virtual character</title><link>urn:urn:vocab:가상인물</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>세계 – world</title><link>urn:urn:vocab:세계</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JsZHxlbnwwfHx8fDE3NzU2NjAyOTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="세계 (world)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;미국·이스라엘-이란 전쟁으로 인한 세계 경제의 충격에도 아랑곳 않는 메모리 가격 오름세에, 삼성전자의 올해 연간 영업이익이 지난해 코스피 전체 상장사의 영업이익 합계(약 245조원)를 상회하는 ‘300조원 시대’를 열 수 있다는 장밋빛 전망도 나온다&lt;br/&gt;&lt;em&gt;Despite the global economic shock caused by the US-Israel-Iran war, memory prices continue to rise unabated, and there is an optimistic forecast that Samsung Electronics' annual operating profit this year could exceed the total operating profit of all KOSPI-listed companies last year (approximately 245 trillion won), ushering in a '300 trillion won era'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;세계 시가총액 1위인 미국 엔비디아의 최근 연간 영업이익(2025년 2월~2026년 1월)은 약 196조원이었다&lt;br/&gt;&lt;em&gt;The recent annual operating profit (February 2025 to January 2026) of Nvidia, the world's largest company by market capitalization, was approximately 196 trillion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지난 1일부터 우리나라 국채가 세계국채지수(WGBI)에 정식 편입된 가운데 편입 전후로 6거래일 동안 외국인의 국채 순매수 규모가 4조7천억원으로 집계됐다&lt;br/&gt;&lt;em&gt;As South Korea's government bonds were officially included in the World Government Bond Index (WGBI) starting from the 1st of last month, foreign investors' net purchases of government bonds over six trading days before and after the inclusion amounted to 4.7 trillion won.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;세계는 아름답습니다.&lt;br/&gt;&lt;em&gt;The world is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 세계를 좋아합니다.&lt;br/&gt;&lt;em&gt;I like the world.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JsZHxlbnwwfHx8fDE3NzU2NjAyOTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="세계 (world)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;미국·이스라엘-이란 전쟁으로 인한 세계 경제의 충격에도 아랑곳 않는 메모리 가격 오름세에, 삼성전자의 올해 연간 영업이익이 지난해 코스피 전체 상장사의 영업이익 합계(약 245조원)를 상회하는 ‘300조원 시대’를 열 수 있다는 장밋빛 전망도 나온다&lt;br/&gt;&lt;em&gt;Despite the global economic shock caused by the US-Israel-Iran war, memory prices continue to rise unabated, and there is an optimistic forecast that Samsung Electronics' annual operating profit this year could exceed the total operating profit of all KOSPI-listed companies last year (approximately 245 trillion won), ushering in a '300 trillion won era'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;세계 시가총액 1위인 미국 엔비디아의 최근 연간 영업이익(2025년 2월~2026년 1월)은 약 196조원이었다&lt;br/&gt;&lt;em&gt;The recent annual operating profit (February 2025 to January 2026) of Nvidia, the world's largest company by market capitalization, was approximately 196 trillion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지난 1일부터 우리나라 국채가 세계국채지수(WGBI)에 정식 편입된 가운데 편입 전후로 6거래일 동안 외국인의 국채 순매수 규모가 4조7천억원으로 집계됐다&lt;br/&gt;&lt;em&gt;As South Korea's government bonds were officially included in the World Government Bond Index (WGBI) starting from the 1st of last month, foreign investors' net purchases of government bonds over six trading days before and after the inclusion amounted to 4.7 trillion won.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;세계는 아름답습니다.&lt;br/&gt;&lt;em&gt;The world is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 세계를 좋아합니다.&lt;br/&gt;&lt;em&gt;I like the world.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 08 Apr 2026 23:58:25 +0900</pubDate><guid isPermaLink="false">vocab-1703d6a879cedf6542fa66062d6abde890d6f0a5</guid><enclosure url="https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JsZHxlbnwwfHx8fDE3NzU2NjAyOTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="99958" /><ns2:content url="https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JsZHxlbnwwfHx8fDE3NzU2NjAyOTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JsZHxlbnwwfHx8fDE3NzU2NjAyOTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>세계</category></item><item><title>가상인물 – virtual character</title><link>urn:urn:vocab:가상인물</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1772371272152-d1806d4351e0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aXJ0dWFsJTIwY2hhcmFjdGVyfGVufDB8fHx8MTc3NTY1MjE4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가상인물 (virtual character)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;AI Advertisements Must Be Labeled as 'Virtual Person' (“S대 출신 의사가 추천”…AI 광고, ‘가상인물’ 표기해야 된다) &lt;&lt;br/&gt;&lt;em&gt;AI Advertisements Must Be Labeled as 'Virtual Person' ("Recommended by a Doctor from S University"... AI advertisements must be labeled as 'virtual person') &lt;&lt;/em&gt;&lt;/p&gt;
