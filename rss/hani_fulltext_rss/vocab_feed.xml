@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 12:42:36 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 14:46:45 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>만원대 – ten thousand won range</title><link>urn:urn:vocab:만원대</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>협력해 – cooperate</title><link>urn:urn:vocab:협력해</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29wZXJhdGV8ZW58MHx8fHwxNzc1NzEzNTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="협력해 (cooperate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (재경부는 “관계기관과 긴밀히 협력해 원유 수급과 금융지원 상황을 면밀히 점검하고 필요한 지원이 적기에 이루어질 수 있도록 관리해 나가겠다”고 말했다&lt;br/&gt;&lt;em&gt;The Ministry of Economy and Finance stated, "We will closely cooperate with relevant agencies to thoroughly monitor the crude oil supply and financial support situation, and manage to ensure that necessary support is provided in a timely manner."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;몽골 현지 금융기관과 협력해 신용평가모형(CSS)과 리스크 관리 역량을 함께 구축하는 사업을 추진한다&lt;br/&gt;&lt;em&gt;We will promote a project to jointly build a credit scoring model (CSS) and risk management capabilities in cooperation with local financial institutions in Mongolia.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인공지능융합대학은 ‘SW중심대학 사업’ 전담 부서인 ‘AI·SW융합교육원’과 유기적으로 협력해, 교육과정 고도화와 실습·산학 연계를 강화하고, 미래 사회가 요구하는 실용적·첨단 융합인재 양성의 거점 단과대학으로 기능할 예정이다&lt;br/&gt;&lt;em&gt;The College of Artificial Intelligence Convergence will function as a specialized college for cultivating practical and advanced convergence talents required by future society, by organically cooperating with the 'AI·SW Convergence Education Center'—the dedicated department for the 'SW-centered University Project'—to enhance curriculum sophistication and strengthen practical training and industry-academia linkages.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리는 함께 협력해요.&lt;br/&gt;&lt;em&gt;We cooperate together.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구와 협력해 일해요.&lt;br/&gt;&lt;em&gt;Work cooperatively with friends.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29wZXJhdGV8ZW58MHx8fHwxNzc1NzEzNTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="협력해 (cooperate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (재경부는 “관계기관과 긴밀히 협력해 원유 수급과 금융지원 상황을 면밀히 점검하고 필요한 지원이 적기에 이루어질 수 있도록 관리해 나가겠다”고 말했다&lt;br/&gt;&lt;em&gt;The Ministry of Economy and Finance stated, "We will closely cooperate with relevant agencies to thoroughly monitor the crude oil supply and financial support situation, and manage to ensure that necessary support is provided in a timely manner."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;몽골 현지 금융기관과 협력해 신용평가모형(CSS)과 리스크 관리 역량을 함께 구축하는 사업을 추진한다&lt;br/&gt;&lt;em&gt;We will promote a project to jointly build a credit scoring model (CSS) and risk management capabilities in cooperation with local financial institutions in Mongolia.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인공지능융합대학은 ‘SW중심대학 사업’ 전담 부서인 ‘AI·SW융합교육원’과 유기적으로 협력해, 교육과정 고도화와 실습·산학 연계를 강화하고, 미래 사회가 요구하는 실용적·첨단 융합인재 양성의 거점 단과대학으로 기능할 예정이다&lt;br/&gt;&lt;em&gt;The College of Artificial Intelligence Convergence will function as a specialized college for cultivating practical and advanced convergence talents required by future society, by organically cooperating with the 'AI·SW Convergence Education Center'—the dedicated department for the 'SW-centered University Project'—to enhance curriculum sophistication and strengthen practical training and industry-academia linkages.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리는 함께 협력해요.&lt;br/&gt;&lt;em&gt;We cooperate together.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구와 협력해 일해요.&lt;br/&gt;&lt;em&gt;Work cooperatively with friends.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 09 Apr 2026 14:46:45 +0900</pubDate><guid isPermaLink="false">vocab-226ed7f67e2e8f409a5d3c16461b736829490b37</guid><enclosure url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29wZXJhdGV8ZW58MHx8fHwxNzc1NzEzNTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="181471" /><ns2:content url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29wZXJhdGV8ZW58MHx8fHwxNzc1NzEzNTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29wZXJhdGV8ZW58MHx8fHwxNzc1NzEzNTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>협력해</category></item><item><title>만원대 – ten thousand won range</title><link>urn:urn:vocab:만원대</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1583107100502-4b9646b87858?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZW4lMjB0aG91c2FuZCUyMHdvbiUyMHJhbmdlfGVufDB8fHx8MTc3NTcwNjE0OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="만원대 (ten thousand won range)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Telecom Plan Overhaul (월 2만원대 데이터 무제한 요금제 등장한다…통신 요금제 개편) &lt;&lt;br/&gt;&lt;em&gt;Telecom Plan Overhaul (Unlimited data plans in the 20,000 won range per month emerge...Telecom plan restructuring) &lt;&lt;/em&gt;&lt;/p&gt;
