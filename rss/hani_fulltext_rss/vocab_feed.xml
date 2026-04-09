@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 06:25:07 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 10:36:35 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>세계로 – to the world</title><link>urn:urn:vocab:세계로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>영업을 – business/sales</title><link>urn:urn:vocab:영업을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1616587895732-f87efbef341a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyRnNhbGVzfGVufDB8fHx8MTc3NTY5ODU4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="영업을 (business/sales)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;배민온리 협약은 가맹점이 쿠팡이츠 영업을 중단하는 조건으로 배민으로부터 배달 수수료를 기존 7&lt;br/&gt;&lt;em&gt;The Baemin-only agreement is a condition where franchise stores stop operating Coupang Eats in exchange for Baemin reducing delivery fees from the existing 7%&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;쿠팡이츠 영업을 할 수 없게 되면서 매출 하락을 겪고 있는 점주들이 고육지책으로 ‘메뚜기식 영업’을 이어가고 있다는 이유에서다&lt;br/&gt;&lt;em&gt;This is because store owners, who are experiencing a decline in sales due to being unable to operate Coupang Eats, are continuing 'locust-style operations' as a last resort&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특정 할인 이벤트 기간에만 일시적으로 배민온리에 동의했다가 행사가 끝나면 다시 부동의로 전환해 쿠팡이츠 영업을 재개하는 식이다&lt;br/&gt;&lt;em&gt;They temporarily agree to Baemin-only during specific discount event periods, then switch back to non-exclusivity and resume Coupang Eats operations once the event ends&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;영업을 잘합니다.&lt;br/&gt;&lt;em&gt;He/She is good at sales.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;영업을 배웁니다.&lt;br/&gt;&lt;em&gt;He/She learns sales.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1616587895732-f87efbef341a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyRnNhbGVzfGVufDB8fHx8MTc3NTY5ODU4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="영업을 (business/sales)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;배민온리 협약은 가맹점이 쿠팡이츠 영업을 중단하는 조건으로 배민으로부터 배달 수수료를 기존 7&lt;br/&gt;&lt;em&gt;The Baemin-only agreement is a condition where franchise stores stop operating Coupang Eats in exchange for Baemin reducing delivery fees from the existing 7%&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;쿠팡이츠 영업을 할 수 없게 되면서 매출 하락을 겪고 있는 점주들이 고육지책으로 ‘메뚜기식 영업’을 이어가고 있다는 이유에서다&lt;br/&gt;&lt;em&gt;This is because store owners, who are experiencing a decline in sales due to being unable to operate Coupang Eats, are continuing 'locust-style operations' as a last resort&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특정 할인 이벤트 기간에만 일시적으로 배민온리에 동의했다가 행사가 끝나면 다시 부동의로 전환해 쿠팡이츠 영업을 재개하는 식이다&lt;br/&gt;&lt;em&gt;They temporarily agree to Baemin-only during specific discount event periods, then switch back to non-exclusivity and resume Coupang Eats operations once the event ends&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;영업을 잘합니다.&lt;br/&gt;&lt;em&gt;He/She is good at sales.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;영업을 배웁니다.&lt;br/&gt;&lt;em&gt;He/She learns sales.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 09 Apr 2026 10:36:34 +0900</pubDate><guid isPermaLink="false">vocab-041ffd54a2d35dfd986099161ed04ec0db16f4ba</guid><enclosure url="https://images.unsplash.com/photo-1616587895732-f87efbef341a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyRnNhbGVzfGVufDB8fHx8MTc3NTY5ODU4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="109173" /><ns2:content url="https://images.unsplash.com/photo-1616587895732-f87efbef341a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyRnNhbGVzfGVufDB8fHx8MTc3NTY5ODU4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1616587895732-f87efbef341a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyRnNhbGVzfGVufDB8fHx8MTc3NTY5ODU4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>영업을</category></item><item><title>요금제 – rate plan</title><link>urn:urn:vocab:요금제</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1709080381729-965c62ab0471?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXRlJTIwcGxhbnxlbnwwfHx8fDE3NzU2OTExMjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="요금제 (rate plan)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Telecom Plan Overhaul (월 2만원대 데이터 무제한 요금제 등장한다…통신 요금제 개편) &lt;&lt;br/&gt;&lt;em&gt;Telecom Plan Overhaul (Unlimited data plans for around 20,000 won per month emerge...Telecom plan restructuring) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(앞으로 월 2만원대의 휴대전화 요금제로도 추가 비용 지불 없이 데이터를 무제한으로 사용할 수 있게 된다&lt;br/&gt;&lt;em&gt;(From now on, even with mobile phone plans costing around 20,000 won per month, users will be able to use unlimited data without additional payments&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  과학기술정보통신부는 9일 이같은 내용이 담긴 ‘기본 통신권 보장을 위한 통신3사 요금제 개편 방향’을 발표했다&lt;br/&gt;&lt;em&gt;(The Ministry of Science and ICT announced on the 9th the 'Direction for restructuring the three telecom companies' plans to guarantee basic communication rights' containing such content&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 요금제는 좋아요.&lt;br/&gt;&lt;em&gt;This plan is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;요금제를 선택하세요.&lt;br/&gt;&lt;em&gt;Please select a plan.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1709080381729-965c62ab0471?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXRlJTIwcGxhbnxlbnwwfHx8fDE3NzU2OTExMjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="요금제 (rate plan)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Telecom Plan Overhaul (월 2만원대 데이터 무제한 요금제 등장한다…통신 요금제 개편) &lt;&lt;br/&gt;&lt;em&gt;Telecom Plan Overhaul (Unlimited data plans for around 20,000 won per month emerge...Telecom plan restructuring) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(앞으로 월 2만원대의 휴대전화 요금제로도 추가 비용 지불 없이 데이터를 무제한으로 사용할 수 있게 된다&lt;br/&gt;&lt;em&gt;(From now on, even with mobile phone plans costing around 20,000 won per month, users will be able to use unlimited data without additional payments&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  과학기술정보통신부는 9일 이같은 내용이 담긴 ‘기본 통신권 보장을 위한 통신3사 요금제 개편 방향’을 발표했다&lt;br/&gt;&lt;em&gt;(The Ministry of Science and ICT announced on the 9th the 'Direction for restructuring the three telecom companies' plans to guarantee basic communication rights' containing such content&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 요금제는 좋아요.&lt;br/&gt;&lt;em&gt;This plan is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;요금제를 선택하세요.&lt;br/&gt;&lt;em&gt;Please select a plan.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 09 Apr 2026 08:32:15 +0900</pubDate><guid isPermaLink="false">vocab-22707a1a9883aad237e5c73aeeeb862b05c0b9b8</guid><enclosure url="https://images.unsplash.com/photo-1709080381729-965c62ab0471?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXRlJTIwcGxhbnxlbnwwfHx8fDE3NzU2OTExMjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="55515" /><ns2:content url="https://images.unsplash.com/photo-1709080381729-965c62ab0471?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXRlJTIwcGxhbnxlbnwwfHx8fDE3NzU2OTExMjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1709080381729-965c62ab0471?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXRlJTIwcGxhbnxlbnwwfHx8fDE3NzU2OTExMjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>요금제</category></item><item><title>세계로 – to the world</title><link>urn:urn:vocab:세계로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1651953527447-4ad756efcd48?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMHdvcmxkfGVufDB8fHx8MTc3NTY4MzQ5OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="세계로 (to the world)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;윤 대표는 “몽골 진출은 카카오뱅크의 포용금융 역량을 세계로 수출한다는 데 큰 의미가 있다”며 “은행 중 가장 많은 중저신용대출을 공급할 수 있던 원동력인 대안 신용평가 모델을 몽골 현지 금융기관에 이식할 것”이라고 말했다&lt;br/&gt;&lt;em&gt;CEO Yoon said, 'Expanding into Mongolia holds great significance in exporting Kakao Bank's inclusive finance capabilities to the world,' adding, 'We will transplant our alternative credit assessment model, which was the driving force behind providing the largest number of low-to-medium credit loans among banks, to local financial institutions in Mongolia.'&lt;/em&gt;&lt;/p&gt;

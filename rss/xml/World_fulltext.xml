@@ -1,129 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/World_fulltext.xml</link><description>Full-text NYT World articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/World_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 08 Apr 2026 21:22:26 +0000</lastBuildDate><item><title>‘Definitely a Sham’: As Tariffs Climb, Trade Fraud and Accounting Tricks Proliferate</title><link>https://www.nytimes.com/2026/04/07/us/politics/tariffs-trade-import-fraud.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/06/multimedia/00dc-trade-fraud-01-khcf/00dc-trade-fraud-01-khcf-facebookJumbo-v2.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;As President Trump’s stiff tariffs on China went into effect, a curious thing happened to the metal containers carrying Chinese goods to the United States.&lt;/p&gt;
-&lt;p&gt;The average value of the products in a 20-foot container plunged nearly 40 percent from January 2025 to February 2026, according to data compiled by ImportGenius, a trade data provider. Yet the average value of a container headed to the United States from elsewhere in the world remained relatively flat.&lt;/p&gt;
-&lt;p&gt;The reason? Experts say companies most likely began finding ways to reduce the value of the goods they were sending to the United States. Lowering the value of the toys, couches and other products headed for America’s shores meant that companies could also reduce the amount of tariffs they had to pay for those imports.&lt;/p&gt;
-&lt;p&gt;Some firms turned to new suppliers outside China to lower their tariff bill, setting up factories in Vietnam, Mexico and other nations that faced lower U.S. tariffs. Others have found ways to substantially reduce the recorded value of their Chinese shipments without finding new factories, using tactics ranging from legal accounting tricks to outright fraud.&lt;/p&gt;
-&lt;p&gt;Some firms have routed their products through middlemen to take advantage of obscure regulations that can lower a product’s value. In other cases, firms hire Chinese shippers that illegally reduce the value of the import. Because tariffs are charged as a percentage of that value, that, in turn, cuts how much is owed.&lt;/p&gt;
-&lt;p&gt;Ryan Petersen, the chief executive of Flexport, a supply chain management company, said that kind of fraud was hard to detect, because the price of goods could be subjective. But it is an easy way to lower a tariff bill. If companies declare that their shipment is worth $50,000 rather than $100,000, “you just cut your tariff bill in half,” he said.&lt;/p&gt;
-&lt;p&gt;Mr. Petersen said he had seen a surge in activity very likely facilitating this. “We’re seeing just total, rampant fraud,” he added.&lt;/p&gt;
-&lt;p&gt;The New York Times reviewed trade data and spoke with more than a dozen company executives, as well as government officials, lawyers and economists, about the practices they were seeing as these trade and accounting schemes proliferated.&lt;/p&gt;
-&lt;p&gt;DECLARED&lt;/p&gt;
-&lt;p&gt;import Value&lt;/p&gt;
-&lt;p&gt;TOTAL&lt;/p&gt;
-&lt;p&gt;Tariff RATE&lt;/p&gt;
-&lt;p&gt;TARIFF&lt;/p&gt;
-&lt;p&gt;DUE&lt;/p&gt;
-&lt;p&gt;$10&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;$2.50&lt;/p&gt;
-&lt;p&gt;Legal&lt;/p&gt;
-&lt;p&gt;$5&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;$1.25&lt;/p&gt;
-&lt;p&gt;Illegal&lt;/p&gt;
-&lt;p&gt;Artificially reduced value&lt;/p&gt;
-&lt;p&gt;leads to a lower tariff&lt;/p&gt;
-&lt;p&gt;Legal&lt;/p&gt;
-&lt;p&gt;Illegal&lt;/p&gt;
-&lt;p&gt;$5&lt;/p&gt;
-&lt;p&gt;$10&lt;/p&gt;
-&lt;p&gt;DECLARED&lt;/p&gt;
-&lt;p&gt;import Value&lt;/p&gt;
-&lt;p&gt;TOTAL&lt;/p&gt;
-&lt;p&gt;Tariff RATE&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;$2.50&lt;/p&gt;
-&lt;p&gt;$1.25&lt;/p&gt;
-&lt;p&gt;TARIFF&lt;/p&gt;
-&lt;p&gt;DUE&lt;/p&gt;
-&lt;p&gt;Artificially reduced value&lt;/p&gt;
-&lt;p&gt;leads to a lower tariff&lt;/p&gt;
-&lt;p&gt;Legal&lt;/p&gt;
-&lt;p&gt;Illegal&lt;/p&gt;
-&lt;p&gt;$5&lt;/p&gt;
-&lt;p&gt;$10&lt;/p&gt;
-&lt;p&gt;DECLARED&lt;/p&gt;
-&lt;p&gt;import Value&lt;/p&gt;
-&lt;p&gt;TOTAL&lt;/p&gt;
-&lt;p&gt;Tariff RATE&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;$1.25&lt;/p&gt;
-&lt;p&gt;$2.50&lt;/p&gt;
-&lt;p&gt;TARIFF&lt;/p&gt;
-&lt;p&gt;DUE&lt;/p&gt;
-&lt;p&gt;Artificially reduced value&lt;/p&gt;
-&lt;p&gt;leads to a lower tariff&lt;/p&gt;
-&lt;p&gt;DECLARED&lt;/p&gt;
-&lt;p&gt;import Value&lt;/p&gt;
-&lt;p&gt;TOTAL&lt;/p&gt;
-&lt;p&gt;Tariff RATE&lt;/p&gt;
-&lt;p&gt;TARIFF&lt;/p&gt;
-&lt;p&gt;DUE&lt;/p&gt;
-&lt;p&gt;$10&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;$2.50&lt;/p&gt;
-&lt;p&gt;Legal&lt;/p&gt;
-&lt;p&gt;$5&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;$1.25&lt;/p&gt;
-&lt;p&gt;Illegal&lt;/p&gt;
-&lt;p&gt;Artificially reduced value&lt;/p&gt;
-&lt;p&gt;leads to a lower tariff&lt;/p&gt;
-&lt;p&gt;Lazaro Gamio/The New York Times&lt;/p&gt;
-&lt;p&gt;Increases in tariffs have raised the incentive to avoid them, especially since penalties for breaking the law are rare. Some U.S. companies, particularly small businesses, have found themselves operating in a legal gray area, where they may not know if their actions are legal.&lt;/p&gt;
-&lt;p&gt;The Trump administration is trying to step up efforts to combat trade fraud, but it is still woefully outmatched by the challenge, company executives and trade lawyers say.&lt;/p&gt;
-&lt;p&gt;Trish Driscoll, a spokeswoman for U.S. Customs and Border Protection, said the agency aggressively combats trade fraud. She said that duty evasion schemes “can be used to drive down declared customs values” and that C.B.P. encouraged anyone who was aware of violations to report them.&lt;/p&gt;
-&lt;p&gt;The White House did not respond to a request for comment. However, a Trump administration official, who declined to be identified citing White House policy, acknowledged during a call with reporters on April 2 that the administration was seeing importers artificially reduce the value of steel and aluminum imports to evade tariffs.&lt;/p&gt;
-&lt;p&gt;Altering the valuation of Chinese goods means that U.S. statistics may exaggerate a recent trend in which trade with China appeared to be declining. On paper, the U.S. trade deficit with China and imported Chinese goods both plummeted by nearly a third last year.&lt;/p&gt;
-&lt;p&gt;Changes in valuation may also explain some of the large and growing gap between trade data published by the U.S. and Chinese governments. Last year, China reported exporting nearly $112 billion more to the United States than what Washington said it had received, suggesting that trading firms are misrepresenting their activity to at least one government. That gap was $26 billion wider in 2025 than in 2024.&lt;/p&gt;
-&lt;p&gt;Federal Reserve economists found that a similar discrepancy emerged after Mr. Trump imposed tariffs on China during his first term, as U.S. importers underreported shipments to evade tariffs.&lt;/p&gt;
-&lt;p&gt;Brad Setser, an economist at the Council on Foreign Relations, said that some of the drop in the value of a container from China could be explained by a shift in what was being exported. China has been selling the United States fewer high-priced electronics, for example, which could lower the average value of the goods shipped here.&lt;/p&gt;
-&lt;p&gt;But William George, the director of research at ImportGenius, said that electronics shipments by sea were not big enough to account for much of the drop. At no point in the past decade had the value of a shipping container from China ever fallen anywhere near last year’s low, he said.&lt;/p&gt;
-&lt;p&gt;Monthly average value of an imported shipping container by origin&lt;/p&gt;
-&lt;p&gt;Source: ImportGenius analysis of U.S. Census Bureau data.&lt;/p&gt;
-&lt;p&gt;Ana Swanson/The New York Times&lt;/p&gt;
-&lt;p&gt;He called the trend “very suspicious” because the value began plummeting precisely as tariffs were imposed.&lt;/p&gt;
-&lt;p&gt;Part of the issue, Mr. George said, amounted to “almost certainly fraudulent declarations that U.S. customs should be aware of.”&lt;/p&gt;
-&lt;p&gt;Katie, who declined to give her last name out of fear of punishment by the Trump administration, said the decision to change how she was importing Chinese materials for her small company in Florida came down to survival.&lt;/p&gt;
-&lt;p&gt;She found herself facing a $190,000 tariff bill last year on imports of gifts and stationery made of paper, ceramics, textiles and glass. She said that cost would have crippled her company, which has a staff of six and about $3 million in annual sales.&lt;/p&gt;
-&lt;p&gt;Then the Chinese factories that she relied on for goods reached out and offered to handle shipping, tariff payments and delivery to her U.S. warehouse, all for one flat fee. That fee would not change even if Mr. Trump raised or lowered tariffs, as he was prone to do.&lt;/p&gt;
-&lt;p&gt;The Chinese factory called the service “DDP,” a term meaning “delivered duty paid.” On one recent shipment of cotton throw pillows, valued at $9,504, the Chinese manufacturer offered a $3,058 flat rate, including tariffs. If Katie had imported the product herself, the total would have been $4,563.&lt;/p&gt;
-&lt;p&gt;Katie does not know how much the Chinese factory pays in tariffs, because she does not see the paperwork. She was somewhat concerned about the practice being aboveboard, but she said she was not legally in possession of the products until after they cleared customs.&lt;/p&gt;
-&lt;p&gt;The change has helped her avoid raising prices. And from talking to other small business owners online, she knows the practice is widespread.&lt;/p&gt;
-&lt;p&gt;Many U.S. businesses that import from China have been hit with similar solicitations, with Chinese companies offering to reduce their tariff payments by handling shipping and customs.&lt;/p&gt;
-&lt;p&gt;A logistics service from Guangdong, which ships items to Amazon fulfillment centers, offered in an email last year: “If there is a customs inspection, our company will be responsible for paying the tax.” It added, “Let’s tackle tariffs together!”&lt;/p&gt;
-&lt;p&gt;“We can help you reduce the duties about 10%,” another read.&lt;/p&gt;
-&lt;p&gt;While there are legitimate ways to use delivered duty paid services to reduce tariff bills, trade experts say many of the offers are fraudulent. In many cases, Chinese firms are artificially lowering the stated cost of the product on the customs form that is provided to the United States, they said.&lt;/p&gt;
-&lt;p&gt;While Mr. Trump has slapped tariffs on nearly every trading partner, these valuation schemes appear to be concentrated in China because the country has so many factories and logistics companies, and because U.S. tariffs on China are high, in many cases above 30 percent.&lt;/p&gt;
-&lt;p&gt;Bradley Handelman, president of Illinois-based Strikeforce Bowling, said he had paid $1.7 million in tariffs last year to import bowling balls, shoes and other goods from Asia. He tried to reduce his tariff bill by assembling bowling bags in his factory near Chicago, which employs nearly 40 people.&lt;/p&gt;
-&lt;p&gt;But now that his firm was battling unscrupulous competitors, Mr. Handelman said those outlays — including a million dollars for factory equipment — were hurting rather than helping him.&lt;/p&gt;
-&lt;p&gt;“We know with certainty, because it’s public record, that our competitors are using incorrect tariff numbers,” he said.&lt;/p&gt;
-&lt;p&gt;“They’re not offering realistic prices,” he added. “You can tell.”&lt;/p&gt;
-&lt;p&gt;In some cases, the lower duty rate may allow Chinese sellers to charge lower prices for their products. In other cases, the firm just pockets the difference.&lt;/p&gt;
-&lt;p&gt;Aaron Womack, vice president of global strategy at CVB Inc., a Utah-based mattress company, said his firm had seen competitors declaring prices to customs that were 10 or 20 times lower than the typical cost, he said.&lt;/p&gt;
-&lt;p&gt;“If you took trash that was free and packaged it in a box, you couldn’t do that,” he said. “It’s definitely a sham.”&lt;/p&gt;
-&lt;p&gt;Not all efforts to reduce tariff bills are illegal. Some companies, typically deep-pocketed multinationals, have used legal accounting methods to slash the value of their imports without physically moving supply chains.&lt;/p&gt;
-&lt;p&gt;Lynlee Brown, a partner in the global trade practice at Ernst &amp; Young, said that one strategy companies used involved stripping so-called intangible costs — like the value of a product’s design, brand, software or distribution rights — out of the import price.&lt;/p&gt;
-&lt;p&gt;For example, a company might determine that, for a $20 toy, $14 of the price stems from the value of a famous brand, while the physical product itself is worth only $6.&lt;/p&gt;
-&lt;p&gt;In that case, a company could subtract the intangible value — $14 — from the import price so they instead pay tariffs on $6. Many technology companies used this practice during Mr. Trump’s first term to reduce tariffs, Ms. Brown said.&lt;/p&gt;
-&lt;p&gt;Another strategy companies use takes advantage of an obscure customs regulation that allows tariffs to be levied on the sale price a manufacturer charges its foreign distributor. That so-called first sale price is generally far lower than what the distributor charges when it sells the good in the United States.&lt;/p&gt;
-&lt;p&gt;There’s no data on how many companies are taking advantage of this rule. But it is under scrutiny in Congress, where lawmakers introduced a bill in February to abolish it.&lt;/p&gt;
-&lt;p&gt;Other companies are pursuing similar strategies that involve setting up new business entities. For example, instead of directly selling a product to a U.S. customer, a foreign company may establish a new U.S. branch of its own business that it sells its goods to at a lower “wholesale price,” thus incurring a lower tariff.&lt;/p&gt;
-&lt;p&gt;The goods are then marked up when they are sold from the U.S. wholesaler to a U.S. retailer or customer.&lt;/p&gt;
-&lt;p&gt;Thomas Taggart, a licensed customs broker, said he had seen more clients being approached about this tactic. He said the practice might be legal for multinationals with a U.S. subsidiary, but it was “ridiculous” to think one could drastically reduce tariffs by spending 15 minutes online setting up a shell company in Wyoming.&lt;/p&gt;
-&lt;p&gt;Even when a company sells goods to itself, legally it needs to do so at a fair market price, he said.&lt;/p&gt;
-&lt;p&gt;“It sounds too good to be true, because I think it is,” Mr. Taggart said. But he said that U.S. customs had yet to provide clear guidance on the issue.&lt;/p&gt;
-&lt;p&gt;The Trump administration has pledged to fight tariff fraud and has created a new task force. Customs brokers say they see evidence of those efforts, such as the government requesting more information from companies about their imports.&lt;/p&gt;
-&lt;p&gt;Still, critics say the U.S. government is badly outmatched by the scale of tariff evasion.&lt;/p&gt;
-&lt;p&gt;Trade fraud cases remain difficult to prove, especially when they involve foreign firms.&lt;/p&gt;
-&lt;p&gt;Stephen S. Hasegawa, a lawyer at Phillips &amp; Cohen, said that, right now, it was simply too easy for foreign firms to set up U.S. shell companies and then lie about the value of their imports.&lt;/p&gt;
-&lt;p&gt;“There’s nobody really paying attention,” he said. “If you catch them, they just disappear.”&lt;/p&gt;
-&lt;p&gt;Lazaro Gamio contributed reporting.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/07/us/politics/tariffs-trade-import-fraud.html</guid><pubDate>Wed, 08 Apr 2026 10:07:53 +0000</pubDate></item><item><title>How China Built Its Vast Natural Gas Stockpile</title><link>https://www.nytimes.com/2026/04/08/business/china-natural-gas-reserves-iran-war.html</link><description>&lt;![CDATA[
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/World_fulltext.xml</link><description>Full-text NYT World articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/World_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 09 Apr 2026 01:33:33 +0000</lastBuildDate><item><title>Iran War Timeline: Key Moments and Attacks</title><link>https://www.nytimes.com/2026/04/07/world/middleeast/iran-war-trump-us-israel-oil-strait-of-hormuz.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/24/multimedia/24israel-iran-timeline-HFO-03-ghcb/24israel-iran-timeline-HFO-03-ghcb-facebookJumbo.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;The U.S.-Israeli war with Iran raged for more than five weeks before a cease-fire was announced on the 39th day. It was the second time in less than a year that President Trump directly involved the United States in a military conflict with Tehran.&lt;/p&gt;
+&lt;p&gt;Cast by Mr. Trump in part as an effort to spur Iranians to topple their theocratic leadership, the conflict soon became a regional war that resulted in thousands of deaths, mostly in Iran and Lebanon. Hundreds of thousands of people have been forced from their homes, and the global economy has been badly rattled.&lt;/p&gt;
+&lt;p&gt;Here are some key moments in the war:&lt;/p&gt;
+&lt;p&gt;Feb. 28: The United States and Israel launched strikes across Iran, hitting a government compound in Tehran and military targets. The blasts killed Ayatollah Ali Khamenei, the nation’s supreme leader for almost 37 years, as well as other high-level military and intelligence leaders.&lt;/p&gt;
+&lt;p&gt;At least 175 people, most of them likely children, were killed in a strike on a girls’ elementary school in southern Iran, health officials and Iranian state media said. The strike was a targeting mistake by the U.S. military, according to U.S. officials familiar with a military investigation.&lt;/p&gt;
+&lt;p&gt;Iran retaliated by firing missiles and drones at Israel and at U.S. military bases in the region, including in Qatar, Kuwait and the United Arab Emirates.&lt;/p&gt;
+&lt;p&gt;March 1: An Iranian drone attack killed six U.S. soldiers in Port Shuaiba, Kuwait, the first Americans to die in the war.&lt;/p&gt;
+&lt;p&gt;Hezbollah, an Iran-backed militant group, dragged Lebanon into the conflict, firing rockets toward Israel in retaliation for the killing of Iran’s supreme leader.&lt;/p&gt;
+&lt;p&gt;In a brief telephone interview with The New York Times, Mr. Trump offered several seemingly contradictory visions of how a new government could take shape in Iran and how the conflict would unfold. Asked how long the United States and Israel intended to sustain its assault on Iran, Mr. Trump said “four to five weeks.”&lt;/p&gt;
+&lt;p&gt;March 8: With several top Iranian leaders killed in airstrikes, Iran named Mojtaba Khamenei, a son of the slain supreme leader, as his father’s successor. Mr. Khamenei, 56, was appointed by a committee of senior Shiite clerics, signaling continuity and defiance after Mr. Trump called him an “unacceptable” choice. But it would be several days before Iran would hear from its new supreme leader, who U.S. officials said had been injured in the war’s initial days.&lt;/p&gt;
+&lt;p&gt;March 11: Iran escalated its attacks in and around the Strait of Hormuz, through which passes a significant portion of the world’s oil and natural gas supply, striking at least three ships, according to a British maritime agency. Iran claimed responsibility for one assault on a bulk carrier from Thailand. The attacks sent oil prices surging and the Trump administration scrambling to pacify global markets.&lt;/p&gt;
+&lt;p&gt;March 12: Mojtaba Khamenei issued his first written statement as supreme leader, directing the military to continue choking off the Strait of Hormuz.&lt;/p&gt;
+&lt;p&gt;Six American crew members died after a KC-135 military refueling aircraft crashed in Iraq, bringing the number of U.S. service members killed in the war to at least 13.&lt;/p&gt;
+&lt;p&gt;March 13: The U.S. military conducted a large bombing raid on Kharg Island, Iran’s main oil export hub. Mr. Trump said the raid had targeted military infrastructure but did not hit oil facilities on the island, which is responsible for about 90 percent of Iran’s oil exports.&lt;/p&gt;
+&lt;p&gt;March 17: The Israeli military killed two of Iran’s top leaders: Ali Larijani, the head of the country’s National Security Council, and Gholamreza Soleimani, the head of the Basij, a militia aligned with the Islamic Revolutionary Guards Corps. The deaths represented the biggest blows to Iran’s leadership since Feb. 28.&lt;/p&gt;
+&lt;p&gt;March 18: Iran and U.S. allies traded attacks on key energy infrastructure in the Gulf. Israel attacked Iran’s South Pars gas field, which accounts for about 70 to 75 percent of its natural gas production. Qatar, a U.S. ally, said Iran had struck its Ras Laffan Industrial City, which is the world’s largest liquefied natural gas export plant.&lt;/p&gt;
+&lt;p&gt;March 23: Mr. Trump said that the United States and Iran were discussing an end to the war. It was the first public indication of diplomatic talks since the war began.&lt;/p&gt;
+&lt;p&gt;March 27: An Iranian strike injured 12 U.S. troops in Saudi Arabia on the Prince Sultan Air Base, one of the most serious breaches of U.S. air defenses since the start of the war.&lt;/p&gt;
+&lt;p&gt;March 28: The Houthis, an Iran-backed militant group in Yemen, joined the war by launching a ballistic missile at Israel that was intercepted.&lt;/p&gt;
+&lt;p&gt;April 3: Iran shot down a U.S. Air Force F-15E fighter jet carrying two crew members, one of whom was recovered safely that day. The risky search-and-rescue operation for the second airman lasted two days and took commandos deep inside Iran. The downing of the F-15E was the first time that a U.S. combat aircraft was shot down in the war.&lt;/p&gt;
+&lt;p&gt;April 7: Mr. Trump announced a two-week cease-fire with Iran. Iran’s national security council confirmed the agreement, casting it as a victory.&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/07/world/middleeast/iran-war-trump-us-israel-oil-strait-of-hormuz.html</guid><pubDate>Wed, 08 Apr 2026 14:55:50 +0000</pubDate></item><item><title>How China Built Its Vast Natural Gas Stockpile</title><link>https://www.nytimes.com/2026/04/08/business/china-natural-gas-reserves-iran-war.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/07/multimedia/Biz-China-Natural-Gas-01-phvw/Biz-China-Natural-Gas-01-phvw-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Two rows of storage tanks the height of 20-story buildings, filled with liquefied gas, help explain why China is better prepared than many countries to endure the interruption of gas supplies from the Middle East.&lt;/p&gt;
 &lt;p&gt;Each of six tanks in Yancheng, an industrial port, holds enough natural gas to meet the household needs of Beijing’s 22 million people for more than two months. Adjacent to them are four more tanks that are only slightly smaller.&lt;/p&gt;
@@ -196,7 +95,7 @@
 &lt;p&gt;“When this war eventually ends, in order for there to be any rebuilding of trust will take a long time,” Saudi Arabia’s foreign minister, Prince Faisal bin Farhan, told reporters on March 19.&lt;/p&gt;
 &lt;p&gt;Different Gulf governments are likely to adopt different stances, which could deepen cleavages in the region. The feud between the Emirates and Saudi Arabia, for example, which was interrupted when both were under attack by Iran, could soon pick up where it left off.&lt;/p&gt;
 &lt;p&gt;Ismaeel Naar contributed reporting from Dubai, United Arab Emirates.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/world/middleeast/iran-cease-fire-gulf-countries-reaction.html</guid><pubDate>Wed, 08 Apr 2026 05:20:30 +0000</pubDate></item><item><title>Delta Expects Strong Profit Despite Higher Fuel Costs</title><link>https://www.nytimes.com/2026/04/08/business/delta-air-lines-earnings.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/world/middleeast/iran-cease-fire-gulf-countries-reaction.html</guid><pubDate>Wed, 08 Apr 2026 12:39:05 +0000</pubDate></item><item><title>Delta Expects Strong Profit Despite Higher Fuel Costs</title><link>https://www.nytimes.com/2026/04/08/business/delta-air-lines-earnings.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/08/multimedia/08biz-delta-tjhc/08biz-delta-tjhc-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Delta Air Lines plans to spend an extra $2 billion on fuel in the three months ending in June because the war with Iran has pushed up jet fuel prices sharply, but the company says it still expects to earn a sizable profit.&lt;/p&gt;
 &lt;p&gt;The airline said it would cut about 3.5 percent of flights in the second quarter to make up for the higher costs, undoing growth plans it had put in place earlier. That, along with higher fares and fees, should help the airline recover up to half of the higher fuel costs, Ed Bastian, its chief executive, said on a call with reporters before President Trump announced a cease-fire agreement with Iran on Tuesday evening.&lt;/p&gt;
@@ -266,7 +165,7 @@
 &lt;p&gt;Several people reached on Wednesday said they feared that in the weeks and months to come, the government would flex its power at home to reassert its authority.&lt;/p&gt;
 &lt;p&gt;In recent days, Iran carried out a string of executions of people who had been arrested during the January protests. A prominent human rights lawyer was detained last week, and dozens of people have been arrested, some of them for sending information to foreign media outlets.&lt;/p&gt;
 &lt;p&gt;A Tehran resident in his 20s said he worried that the government would now be emboldened to crush its opponents “even harder.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-voices.html</guid><pubDate>Wed, 08 Apr 2026 09:11:32 +0000</pubDate></item><item><title>Truce Leaves Questions Over Fate of Iran’s Enriched Uranium</title><link>https://www.nytimes.com/2026/04/08/world/middleeast/us-iran-ceasefire-uranium-nuclear-weapons.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-voices.html</guid><pubDate>Wed, 08 Apr 2026 13:24:44 +0000</pubDate></item><item><title>Truce Leaves Questions Over Fate of Iran’s Enriched Uranium</title><link>https://www.nytimes.com/2026/04/08/world/middleeast/us-iran-ceasefire-uranium-nuclear-weapons.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/08/multimedia/08int-iran-uranium-jpbc/08int-iran-uranium-jpbc-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;The fate of highly enriched uranium in Iran remained uncertain on Wednesday after U.S. and Iranian officials agreed to a two-week cease-fire, bringing 40 days of war to a pause.&lt;/p&gt;
 &lt;p&gt;The International Atomic Energy Agency, the U.N. nuclear watchdog, estimated in a February report that Iran had about 440 kilograms, or about 970 pounds, of highly enriched uranium as of June 2025. Experts say that material could be used to develop a small number of nuclear bombs.&lt;/p&gt;
@@ -410,7 +309,24 @@ A boat transporting newly harvested rice in My Thanh Ward, Dong Thap Province, V
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/world/asia/vietnam-rice-food-shortage-iran-war.html</guid><pubDate>Wed, 08 Apr 2026 12:00:19 +0000</pubDate></item><item><title>A Shaky Truce</title><link>https://www.nytimes.com/2026/04/08/world/iran-trump-ceasefire-israel-lebanon-bitcoin-creator.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/09/multimedia/09int-theworld-iran-gfbp-web/09int-theworld-iran-gfbp-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 A pro-government demonstration in Tehran yesterday.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/world/iran-trump-ceasefire-israel-lebanon-bitcoin-creator.html</guid><pubDate>Wed, 08 Apr 2026 12:03:40 +0000</pubDate></item><item><title>China Pressed Iran Toward Cease-fire, Iranian Officials Say</title><link>https://www.nytimes.com/2026/04/08/world/asia/china-iran-cease-fire.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/world/iran-trump-ceasefire-israel-lebanon-bitcoin-creator.html</guid><pubDate>Wed, 08 Apr 2026 12:20:02 +0000</pubDate></item><item><title>White House Secures Foreign Steel for Trump’s Ballroom Project</title><link>https://www.nytimes.com/2026/04/08/us/politics/white-house-foreign-steel-ballroom.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/07/multimedia/07dc-ballroom-steel07-pbjh/07dc-ballroom-steel07-pbjh-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+The construction site for the new White House ballroom last month.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/us/politics/white-house-foreign-steel-ballroom.html</guid><pubDate>Wed, 08 Apr 2026 12:26:43 +0000</pubDate></item><item><title>White House Knew About Pakistan’s Cease-Fire Post on X Before It Was Sent</title><link>https://www.nytimes.com/2026/04/08/world/middleeast/trump-pakistan-tweet-iran.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-behind-scenes-pakistan1-gchp/08israel-iran-behind-scenes-pakistan1-gchp-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+Prime Minister Shehbaz Sharif of Pakistan at the White House to meet President Trump in September.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/world/middleeast/trump-pakistan-tweet-iran.html</guid><pubDate>Wed, 08 Apr 2026 12:44:17 +0000</pubDate></item><item><title>Vance Says Lebanon Was Never Part of U.S.-Iran Cease-Fire Deal</title><link>https://www.nytimes.com/2026/04/08/world/middleeast/jd-vance-lebanon-iran-cease-fire.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-JD-wvlh/08israel-iran-JD-wvlh-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+Vice President JD Vance speaking to reporters in Budapest, on Wednesday.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/world/middleeast/jd-vance-lebanon-iran-cease-fire.html</guid><pubDate>Wed, 08 Apr 2026 13:23:27 +0000</pubDate></item><item><title>Is Strait of Hormuz Open Again? Maybe, but Few Ships Are Using It.</title><link>https://www.nytimes.com/2026/04/08/world/middleeast/strait-of-hormuz-ships-iran.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/09/multimedia/08israel-iran-hormuz1/08israel-iran-hormuz1-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+Vessels off the coast of Oman on Wednesday.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/world/middleeast/strait-of-hormuz-ships-iran.html</guid><pubDate>Wed, 08 Apr 2026 15:30:33 +0000</pubDate></item><item><title>Here’s What Happened in the War in the Middle East on Wednesday.</title><link>https://www.nytimes.com/2026/04/08/world/middleeast/iran-war-israel-lebanon-wednesday.html</link><description>&lt;![CDATA[
+The first day of a tentative cease-fire had the region on edge.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/world/middleeast/iran-war-israel-lebanon-wednesday.html</guid><pubDate>Wed, 08 Apr 2026 14:58:56 +0000</pubDate></item><item><title>Trump Finds Himself With Fragile Iran Cease-Fire After the Scramble to Make a Deal</title><link>https://www.nytimes.com/2026/04/08/us/politics/chaos-cease-fire-iran.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/08/multimedia/08DC-RECONSTRUCT-TOP-hlfb/08DC-RECONSTRUCT-TOP-hlfb-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+President Trump’s efforts to circumvent the reality on the ground in the Middle East and move into a peace process have been hampered by an adversary that continues to hold leverage.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/us/politics/chaos-cease-fire-iran.html</guid><pubDate>Wed, 08 Apr 2026 15:56:39 +0000</pubDate></item><item><title>China Pressed Iran Toward Cease-fire, Iranian Officials Say</title><link>https://www.nytimes.com/2026/04/08/world/asia/china-iran-cease-fire.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-china-mcpv/08israel-iran-china-mcpv-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;For years, China has been one of Iran’s most important lifelines. China has bought almost all of its oil exports, shielded it diplomatically and helped it weather international isolation. Now, according to three Iranian officials, Beijing has used that influence for a different purpose: to press Iran to accept the cease-fire with the United States.&lt;/p&gt;
 &lt;p&gt;Iran’s decision to accept the two-week cease-fire proposal brokered by Pakistan came after diplomatic efforts by Pakistan and a last-minute push by China, according to the Iranian officials. China asked Iran to show flexibility and defuse tensions, they said.&lt;/p&gt;
@@ -581,5 +497,5 @@ A pro-government demonstration in Tehran yesterday.
 &lt;p&gt;Iran says it will. But it remained unclear whether ship operators considered the strait safe for transit. The shipping giant Maersk said on Wednesday that it was looking into the deal. “The cease-fire may create transit opportunities, but it does not yet provide full maritime certainty, and we need to understand all potential conditions attached,” it said in a statement.&lt;/p&gt;
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-us-explainer.html</guid><pubDate>Wed, 08 Apr 2026 02:24:46 +0000</pubDate></item><item><title>Iran War Live Updates: Fragile Cease-Fire Takes Hold as Both Sides Claim Victory</title><link>https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-promo-jvwz/08israel-iran-promo-jvwz-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-The speaker of Iran’s parliament accused the U.S. of violating the cease-fire over Israel’s attacks on Iran-backed Hezbollah in Lebanon. The Trump administration and Iran disagree about whether Lebanon was included in the truce.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news</guid><pubDate>Wed, 08 Apr 2026 12:12:26 +0000</pubDate></item></channel></rss>
+Even as the status of the Strait of Hormuz remained unclear and U.S. and Iranian officials issued dueling threats to resume attacks if the cease-fire fell apart, both countries had reason to hope it held together.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news</guid><pubDate>Wed, 08 Apr 2026 16:26:53 +0000</pubDate></item></channel></rss>
