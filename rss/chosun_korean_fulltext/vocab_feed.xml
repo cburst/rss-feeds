@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 01:18:59 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 03:26:25 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>실업에 – unemployment</title><link>urn:urn:vocab:실업에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>서울을 – Seoul</title><link>urn:urn:vocab:서울을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1532649097480-b67d52743b69?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bHxlbnwwfHx8fDE3NzU3NTkxNzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서울을 (Seoul)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (정 후보는 “함께하는 민주당의 전통과 정신으로 더 나은 서울을 만들겠다”며 “시민이 바라는 서울, 시민의 뜻을 듣고, 시민과 함께 만들겠다”고 했다&lt;br/&gt;&lt;em&gt;Candidate Jeong said, 'I will create a better Seoul with the tradition and spirit of the Democratic Party of Korea, together,' and added, 'I will listen to the citizens' wishes and build Seoul with them, as the citizens desire.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또 “민주당의 전통과 정신으로 더 나은 서울을 만들겠다”며 “시민이 주인이고 세금이 아깝지 않은 서울, 기회가 넓어지고 시간을 평등하게 누리는 서울, 경쟁력과 미래 비전이 살아나는 서울을 만들겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;He also stated, 'I will create a better Seoul with the tradition and spirit of the Democratic Party,' and declared, 'I will build a Seoul where citizens are the masters and taxes are not wasted, where opportunities expand and time is enjoyed equally, and where competitiveness and future vision come alive.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정 후보에게 패배한 박주민 의원은 페이스북에 “정 후보를 중심으로 서울을 되찾는 싸움에 함께하겠다”고 했고, 전현희 의원은 “원팀 정신으로 지방선거 승리를 향해 함께 나아가겠다”고 했다&lt;br/&gt;&lt;em&gt;Representative Park Ju-min, who lost to Candidate Jeong, posted on Facebook, 'I will join the fight to reclaim Seoul centered on Candidate Jeong,' and Representative Jeon Hyeon-hee said, 'We will move forward together with a one-team spirit toward victory in the local elections.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 서울을 좋아해요.&lt;br/&gt;&lt;em&gt;I like Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서울을 여행하고 싶어요.&lt;br/&gt;&lt;em&gt;I want to travel to Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1532649097480-b67d52743b69?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bHxlbnwwfHx8fDE3NzU3NTkxNzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서울을 (Seoul)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (정 후보는 “함께하는 민주당의 전통과 정신으로 더 나은 서울을 만들겠다”며 “시민이 바라는 서울, 시민의 뜻을 듣고, 시민과 함께 만들겠다”고 했다&lt;br/&gt;&lt;em&gt;Candidate Jeong said, 'I will create a better Seoul with the tradition and spirit of the Democratic Party of Korea, together,' and added, 'I will listen to the citizens' wishes and build Seoul with them, as the citizens desire.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또 “민주당의 전통과 정신으로 더 나은 서울을 만들겠다”며 “시민이 주인이고 세금이 아깝지 않은 서울, 기회가 넓어지고 시간을 평등하게 누리는 서울, 경쟁력과 미래 비전이 살아나는 서울을 만들겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;He also stated, 'I will create a better Seoul with the tradition and spirit of the Democratic Party,' and declared, 'I will build a Seoul where citizens are the masters and taxes are not wasted, where opportunities expand and time is enjoyed equally, and where competitiveness and future vision come alive.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정 후보에게 패배한 박주민 의원은 페이스북에 “정 후보를 중심으로 서울을 되찾는 싸움에 함께하겠다”고 했고, 전현희 의원은 “원팀 정신으로 지방선거 승리를 향해 함께 나아가겠다”고 했다&lt;br/&gt;&lt;em&gt;Representative Park Ju-min, who lost to Candidate Jeong, posted on Facebook, 'I will join the fight to reclaim Seoul centered on Candidate Jeong,' and Representative Jeon Hyeon-hee said, 'We will move forward together with a one-team spirit toward victory in the local elections.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 서울을 좋아해요.&lt;br/&gt;&lt;em&gt;I like Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서울을 여행하고 싶어요.&lt;br/&gt;&lt;em&gt;I want to travel to Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 10 Apr 2026 03:26:25 +0900</pubDate><guid isPermaLink="false">vocab-1c23e9cb9f18606671689d756045ab42e32addcb</guid><enclosure url="https://images.unsplash.com/photo-1532649097480-b67d52743b69?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bHxlbnwwfHx8fDE3NzU3NTkxNzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="135071" /><ns2:content url="https://images.unsplash.com/photo-1532649097480-b67d52743b69?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bHxlbnwwfHx8fDE3NzU3NTkxNzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1532649097480-b67d52743b69?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bHxlbnwwfHx8fDE3NzU3NTkxNzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>서울을</category></item><item><title>실업에 – unemployment</title><link>urn:urn:vocab:실업에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1616010650868-e8c1583f6b0d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bmVtcGxveW1lbnR8ZW58MHx8fHwxNzc1NzUxNTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실업에 (unemployment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;It should be revised" (李 대통령 “자발적 실업에 실업급여 안 주는 것은 ‘전근대적’… 수정해야”) &lt;&lt;br/&gt;&lt;em&gt;"It should be revised" (President Lee: 'Not providing unemployment benefits for voluntary unemployment is 'pre-modern'... should be revised') &lt;&lt;/em&gt;&lt;/p&gt;
