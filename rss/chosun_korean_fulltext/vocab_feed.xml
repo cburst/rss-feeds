@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 21:06:09 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 23:11:27 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>사진 – photo</title><link>urn:urn:vocab:사진</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>방문했다 – visited</title><link>urn:urn:vocab:방문했다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1640721743545-587de0134228?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aXNpdGVkfGVufDB8fHx8MTc3NTc0Mzg4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방문했다 (visited)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(마크롱 대통령 부부는 양국 수교 140주년을 기념해 지난 2일 1박 2일 일정으로 한국을 국빈 방문했다&lt;br/&gt;&lt;em&gt;(President Macron and his wife made a state visit to Korea for a one-night, two-day trip on the 2nd to commemorate the 140th anniversary of diplomatic relations between the two countries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김 총리는 이날 오전 세종시 장군면의 아스팔트콘크리트(아스콘) 생산 업체를 방문했다&lt;br/&gt;&lt;em&gt;(Prime Minister Kim visited an asphalt concrete (Ascon) production company in Janggun-myeon, Sejong City, this morning.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 친구를 방문했다.&lt;br/&gt;&lt;em&gt;I visited a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 도서관을 방문했다.&lt;br/&gt;&lt;em&gt;He visited the library.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1640721743545-587de0134228?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aXNpdGVkfGVufDB8fHx8MTc3NTc0Mzg4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방문했다 (visited)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(마크롱 대통령 부부는 양국 수교 140주년을 기념해 지난 2일 1박 2일 일정으로 한국을 국빈 방문했다&lt;br/&gt;&lt;em&gt;(President Macron and his wife made a state visit to Korea for a one-night, two-day trip on the 2nd to commemorate the 140th anniversary of diplomatic relations between the two countries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김 총리는 이날 오전 세종시 장군면의 아스팔트콘크리트(아스콘) 생산 업체를 방문했다&lt;br/&gt;&lt;em&gt;(Prime Minister Kim visited an asphalt concrete (Ascon) production company in Janggun-myeon, Sejong City, this morning.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 친구를 방문했다.&lt;br/&gt;&lt;em&gt;I visited a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 도서관을 방문했다.&lt;br/&gt;&lt;em&gt;He visited the library.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 09 Apr 2026 23:11:27 +0900</pubDate><guid isPermaLink="false">vocab-d28bf6c0cfcbb77249b8d06688c9a8ab444ab12d</guid><enclosure url="https://images.unsplash.com/photo-1640721743545-587de0134228?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aXNpdGVkfGVufDB8fHx8MTc3NTc0Mzg4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="212571" /><ns2:content url="https://images.unsplash.com/photo-1640721743545-587de0134228?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aXNpdGVkfGVufDB8fHx8MTc3NTc0Mzg4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1640721743545-587de0134228?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aXNpdGVkfGVufDB8fHx8MTc3NTc0Mzg4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>방문했다</category></item><item><title>사진 – photo</title><link>urn:urn:vocab:사진</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaG90b3xlbnwwfHx8fDE3NzU3MzYzNjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사진 (photo)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(‘김혜경 여사 한복’에 꽂힌 佛 마크롱 사진사&lt;br/&gt;&lt;em&gt;Photo of French President Macron's photographer captivated by 'Mrs. Kim Hye-kyung's hanbok'&lt;/em&gt;&lt;/p&gt;

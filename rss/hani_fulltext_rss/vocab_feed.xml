@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 21:06:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 23:11:18 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>과학을 – science</title><link>urn:urn:vocab:과학을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>암모니아 – ammonia</title><link>urn:urn:vocab:암모니아</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1696188751358-6ca638fa434e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbW1vbmlhfGVufDB8fHx8MTc3NTc0Mzg3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="암모니아 (ammonia)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;HD Hyundai Heavy Industries Succeeds in Building World's First Ammonia-Powered Vessel (HD현대중공업, 세계 최초 암모니아 추진선 건조 성공) &lt;&lt;br/&gt;&lt;em&gt;HD Hyundai Heavy Industries Succeeds in Building World's First Ammonia-Powered Vessel (HD Hyundai Heavy Industries, World's First Ammonia-Powered Ship Construction Success)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;HD Hyundai Heavy Industries Succeeds in Building World's First Ammonia-Powered Vessel (HD현대중공업, 세계 최초 암모니아 추진선 건조 성공)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;HD Hyundai Heavy Industries Succeeds in Building World's First Ammonia-Powered Vessel (HD Hyundai Heavy Industries, World's First Ammonia-Powered Ship Construction Success)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(에이치디(HD)현대중공업이 세계 최초로 암모니아 추진선 건조에 성공했다&lt;br/&gt;&lt;em&gt;(HD Hyundai Heavy Industries has succeeded in building the world's first ammonia-powered ship)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;암모니아 냄새가 나요.&lt;br/&gt;&lt;em&gt;It smells like ammonia.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;암모니아는 위험해요.&lt;br/&gt;&lt;em&gt;Ammonia is dangerous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1696188751358-6ca638fa434e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbW1vbmlhfGVufDB8fHx8MTc3NTc0Mzg3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="암모니아 (ammonia)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;HD Hyundai Heavy Industries Succeeds in Building World's First Ammonia-Powered Vessel (HD현대중공업, 세계 최초 암모니아 추진선 건조 성공) &lt;&lt;br/&gt;&lt;em&gt;HD Hyundai Heavy Industries Succeeds in Building World's First Ammonia-Powered Vessel (HD Hyundai Heavy Industries, World's First Ammonia-Powered Ship Construction Success)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;HD Hyundai Heavy Industries Succeeds in Building World's First Ammonia-Powered Vessel (HD현대중공업, 세계 최초 암모니아 추진선 건조 성공)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;HD Hyundai Heavy Industries Succeeds in Building World's First Ammonia-Powered Vessel (HD Hyundai Heavy Industries, World's First Ammonia-Powered Ship Construction Success)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(에이치디(HD)현대중공업이 세계 최초로 암모니아 추진선 건조에 성공했다&lt;br/&gt;&lt;em&gt;(HD Hyundai Heavy Industries has succeeded in building the world's first ammonia-powered ship)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;암모니아 냄새가 나요.&lt;br/&gt;&lt;em&gt;It smells like ammonia.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;암모니아는 위험해요.&lt;br/&gt;&lt;em&gt;Ammonia is dangerous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 09 Apr 2026 23:11:18 +0900</pubDate><guid isPermaLink="false">vocab-f24285a22bc9828cce2c0ff4a74548d76bd4c6dc</guid><enclosure url="https://images.unsplash.com/photo-1696188751358-6ca638fa434e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbW1vbmlhfGVufDB8fHx8MTc3NTc0Mzg3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="228589" /><ns2:content url="https://images.unsplash.com/photo-1696188751358-6ca638fa434e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbW1vbmlhfGVufDB8fHx8MTc3NTc0Mzg3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1696188751358-6ca638fa434e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbW1vbmlhfGVufDB8fHx8MTc3NTc0Mzg3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>암모니아</category></item><item><title>과학을 – science</title><link>urn:urn:vocab:과학을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1628595351029-c2bf17511435?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2llbmNlfGVufDB8fHx8MTc3NTczNjM1MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="과학을 (science)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이 교사는 “아이들이 좋아하는 과자를 비롯해 재밌는 이야기 속에 과학을 녹여 쉽게 이해할 수 있는 책이기 때문”이라고 그 이유를 설명했다&lt;br/&gt;&lt;em&gt;The teacher explained the reason, saying, 'Because it is a book that makes science easy to understand by incorporating it into fun stories, including snacks that children like.'&lt;/em&gt;&lt;/p&gt;
