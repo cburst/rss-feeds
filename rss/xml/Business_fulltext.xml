@@ -1,129 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT Business Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/Business_fulltext.xml</link><description>Full-text NYT Business articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/Business_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 09 Apr 2026 09:59:27 +0000</lastBuildDate><item><title>‘Definitely a Sham’: As Tariffs Climb, Trade Fraud and Accounting Tricks Proliferate</title><link>https://www.nytimes.com/2026/04/07/us/politics/tariffs-trade-import-fraud.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/06/multimedia/00dc-trade-fraud-01-khcf/00dc-trade-fraud-01-khcf-facebookJumbo-v2.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;As President Trump’s stiff tariffs on China went into effect, a curious thing happened to the metal containers carrying Chinese goods to the United States.&lt;/p&gt;
-&lt;p&gt;The average value of the products in a 20-foot container plunged nearly 40 percent from January 2025 to February 2026, according to data compiled by ImportGenius, a trade data provider. Yet the average value of a container headed to the United States from elsewhere in the world remained relatively flat.&lt;/p&gt;
-&lt;p&gt;The reason? Experts say companies most likely began finding ways to reduce the value of the goods they were sending to the United States. Lowering the value of the toys, couches and other products headed for America’s shores meant that companies could also reduce the amount of tariffs they had to pay for those imports.&lt;/p&gt;
-&lt;p&gt;Some firms turned to new suppliers outside China to lower their tariff bill, setting up factories in Vietnam, Mexico and other nations that faced lower U.S. tariffs. Others have found ways to substantially reduce the recorded value of their Chinese shipments without finding new factories, using tactics ranging from legal accounting tricks to outright fraud.&lt;/p&gt;
-&lt;p&gt;Some firms have routed their products through middlemen to take advantage of obscure regulations that can lower a product’s value. In other cases, firms hire Chinese shippers that illegally reduce the value of the import. Because tariffs are charged as a percentage of that value, that, in turn, cuts how much is owed.&lt;/p&gt;
-&lt;p&gt;Ryan Petersen, the chief executive of Flexport, a supply chain management company, said that kind of fraud was hard to detect, because the price of goods could be subjective. But it is an easy way to lower a tariff bill. If companies declare that their shipment is worth $50,000 rather than $100,000, “you just cut your tariff bill in half,” he said.&lt;/p&gt;
-&lt;p&gt;Mr. Petersen said he had seen a surge in activity very likely facilitating this. “We’re seeing just total, rampant fraud,” he added.&lt;/p&gt;
-&lt;p&gt;The New York Times reviewed trade data and spoke with more than a dozen company executives, as well as government officials, lawyers and economists, about the practices they were seeing as these trade and accounting schemes proliferated.&lt;/p&gt;
-&lt;p&gt;DECLARED&lt;/p&gt;
-&lt;p&gt;import Value&lt;/p&gt;
-&lt;p&gt;TOTAL&lt;/p&gt;
-&lt;p&gt;Tariff RATE&lt;/p&gt;
-&lt;p&gt;TARIFF&lt;/p&gt;
-&lt;p&gt;DUE&lt;/p&gt;
-&lt;p&gt;$10&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;$2.50&lt;/p&gt;
-&lt;p&gt;Legal&lt;/p&gt;
-&lt;p&gt;$5&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;$1.25&lt;/p&gt;
-&lt;p&gt;Illegal&lt;/p&gt;
-&lt;p&gt;Artificially reduced value&lt;/p&gt;
-&lt;p&gt;leads to a lower tariff&lt;/p&gt;
-&lt;p&gt;Legal&lt;/p&gt;
-&lt;p&gt;Illegal&lt;/p&gt;
-&lt;p&gt;$5&lt;/p&gt;
-&lt;p&gt;$10&lt;/p&gt;
-&lt;p&gt;DECLARED&lt;/p&gt;
-&lt;p&gt;import Value&lt;/p&gt;
-&lt;p&gt;TOTAL&lt;/p&gt;
-&lt;p&gt;Tariff RATE&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;$2.50&lt;/p&gt;
-&lt;p&gt;$1.25&lt;/p&gt;
-&lt;p&gt;TARIFF&lt;/p&gt;
-&lt;p&gt;DUE&lt;/p&gt;
-&lt;p&gt;Artificially reduced value&lt;/p&gt;
-&lt;p&gt;leads to a lower tariff&lt;/p&gt;
-&lt;p&gt;Legal&lt;/p&gt;
-&lt;p&gt;Illegal&lt;/p&gt;
-&lt;p&gt;$5&lt;/p&gt;
-&lt;p&gt;$10&lt;/p&gt;
-&lt;p&gt;DECLARED&lt;/p&gt;
-&lt;p&gt;import Value&lt;/p&gt;
-&lt;p&gt;TOTAL&lt;/p&gt;
-&lt;p&gt;Tariff RATE&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;$1.25&lt;/p&gt;
-&lt;p&gt;$2.50&lt;/p&gt;
-&lt;p&gt;TARIFF&lt;/p&gt;
-&lt;p&gt;DUE&lt;/p&gt;
-&lt;p&gt;Artificially reduced value&lt;/p&gt;
-&lt;p&gt;leads to a lower tariff&lt;/p&gt;
-&lt;p&gt;DECLARED&lt;/p&gt;
-&lt;p&gt;import Value&lt;/p&gt;
-&lt;p&gt;TOTAL&lt;/p&gt;
-&lt;p&gt;Tariff RATE&lt;/p&gt;
-&lt;p&gt;TARIFF&lt;/p&gt;
-&lt;p&gt;DUE&lt;/p&gt;
-&lt;p&gt;$10&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;$2.50&lt;/p&gt;
-&lt;p&gt;Legal&lt;/p&gt;
-&lt;p&gt;$5&lt;/p&gt;
-&lt;p&gt;25%&lt;/p&gt;
-&lt;p&gt;$1.25&lt;/p&gt;
-&lt;p&gt;Illegal&lt;/p&gt;
-&lt;p&gt;Artificially reduced value&lt;/p&gt;
-&lt;p&gt;leads to a lower tariff&lt;/p&gt;
-&lt;p&gt;Lazaro Gamio/The New York Times&lt;/p&gt;
-&lt;p&gt;Increases in tariffs have raised the incentive to avoid them, especially since penalties for breaking the law are rare. Some U.S. companies, particularly small businesses, have found themselves operating in a legal gray area, where they may not know if their actions are legal.&lt;/p&gt;
-&lt;p&gt;The Trump administration is trying to step up efforts to combat trade fraud, but it is still woefully outmatched by the challenge, company executives and trade lawyers say.&lt;/p&gt;
-&lt;p&gt;Trish Driscoll, a spokeswoman for U.S. Customs and Border Protection, said the agency aggressively combats trade fraud. She said that duty evasion schemes “can be used to drive down declared customs values” and that C.B.P. encouraged anyone who was aware of violations to report them.&lt;/p&gt;
-&lt;p&gt;The White House did not respond to a request for comment. However, a Trump administration official, who declined to be identified citing White House policy, acknowledged during a call with reporters on April 2 that the administration was seeing importers artificially reduce the value of steel and aluminum imports to evade tariffs.&lt;/p&gt;
-&lt;p&gt;Altering the valuation of Chinese goods means that U.S. statistics may exaggerate a recent trend in which trade with China appeared to be declining. On paper, the U.S. trade deficit with China and imported Chinese goods both plummeted by nearly a third last year.&lt;/p&gt;
-&lt;p&gt;Changes in valuation may also explain some of the large and growing gap between trade data published by the U.S. and Chinese governments. Last year, China reported exporting nearly $112 billion more to the United States than what Washington said it had received, suggesting that trading firms are misrepresenting their activity to at least one government. That gap was $26 billion wider in 2025 than in 2024.&lt;/p&gt;
-&lt;p&gt;Federal Reserve economists found that a similar discrepancy emerged after Mr. Trump imposed tariffs on China during his first term, as U.S. importers underreported shipments to evade tariffs.&lt;/p&gt;
-&lt;p&gt;Brad Setser, an economist at the Council on Foreign Relations, said that some of the drop in the value of a container from China could be explained by a shift in what was being exported. China has been selling the United States fewer high-priced electronics, for example, which could lower the average value of the goods shipped here.&lt;/p&gt;
-&lt;p&gt;But William George, the director of research at ImportGenius, said that electronics shipments by sea were not big enough to account for much of the drop. At no point in the past decade had the value of a shipping container from China ever fallen anywhere near last year’s low, he said.&lt;/p&gt;
-&lt;p&gt;Monthly average value of an imported shipping container by origin&lt;/p&gt;
-&lt;p&gt;Source: ImportGenius analysis of U.S. Census Bureau data.&lt;/p&gt;
-&lt;p&gt;Ana Swanson/The New York Times&lt;/p&gt;
-&lt;p&gt;He called the trend “very suspicious” because the value began plummeting precisely as tariffs were imposed.&lt;/p&gt;
-&lt;p&gt;Part of the issue, Mr. George said, amounted to “almost certainly fraudulent declarations that U.S. customs should be aware of.”&lt;/p&gt;
-&lt;p&gt;Katie, who declined to give her last name out of fear of punishment by the Trump administration, said the decision to change how she was importing Chinese materials for her small company in Florida came down to survival.&lt;/p&gt;
-&lt;p&gt;She found herself facing a $190,000 tariff bill last year on imports of gifts and stationery made of paper, ceramics, textiles and glass. She said that cost would have crippled her company, which has a staff of six and about $3 million in annual sales.&lt;/p&gt;
-&lt;p&gt;Then the Chinese factories that she relied on for goods reached out and offered to handle shipping, tariff payments and delivery to her U.S. warehouse, all for one flat fee. That fee would not change even if Mr. Trump raised or lowered tariffs, as he was prone to do.&lt;/p&gt;
-&lt;p&gt;The Chinese factory called the service “DDP,” a term meaning “delivered duty paid.” On one recent shipment of cotton throw pillows, valued at $9,504, the Chinese manufacturer offered a $3,058 flat rate, including tariffs. If Katie had imported the product herself, the total would have been $4,563.&lt;/p&gt;
-&lt;p&gt;Katie does not know how much the Chinese factory pays in tariffs, because she does not see the paperwork. She was somewhat concerned about the practice being aboveboard, but she said she was not legally in possession of the products until after they cleared customs.&lt;/p&gt;
-&lt;p&gt;The change has helped her avoid raising prices. And from talking to other small business owners online, she knows the practice is widespread.&lt;/p&gt;
-&lt;p&gt;Many U.S. businesses that import from China have been hit with similar solicitations, with Chinese companies offering to reduce their tariff payments by handling shipping and customs.&lt;/p&gt;
-&lt;p&gt;A logistics service from Guangdong, which ships items to Amazon fulfillment centers, offered in an email last year: “If there is a customs inspection, our company will be responsible for paying the tax.” It added, “Let’s tackle tariffs together!”&lt;/p&gt;
-&lt;p&gt;“We can help you reduce the duties about 10%,” another read.&lt;/p&gt;
-&lt;p&gt;While there are legitimate ways to use delivered duty paid services to reduce tariff bills, trade experts say many of the offers are fraudulent. In many cases, Chinese firms are artificially lowering the stated cost of the product on the customs form that is provided to the United States, they said.&lt;/p&gt;
-&lt;p&gt;While Mr. Trump has slapped tariffs on nearly every trading partner, these valuation schemes appear to be concentrated in China because the country has so many factories and logistics companies, and because U.S. tariffs on China are high, in many cases above 30 percent.&lt;/p&gt;
-&lt;p&gt;Bradley Handelman, president of Illinois-based Strikeforce Bowling, said he had paid $1.7 million in tariffs last year to import bowling balls, shoes and other goods from Asia. He tried to reduce his tariff bill by assembling bowling bags in his factory near Chicago, which employs nearly 40 people.&lt;/p&gt;
-&lt;p&gt;But now that his firm was battling unscrupulous competitors, Mr. Handelman said those outlays — including a million dollars for factory equipment — were hurting rather than helping him.&lt;/p&gt;
-&lt;p&gt;“We know with certainty, because it’s public record, that our competitors are using incorrect tariff numbers,” he said.&lt;/p&gt;
-&lt;p&gt;“They’re not offering realistic prices,” he added. “You can tell.”&lt;/p&gt;
-&lt;p&gt;In some cases, the lower duty rate may allow Chinese sellers to charge lower prices for their products. In other cases, the firm just pockets the difference.&lt;/p&gt;
-&lt;p&gt;Aaron Womack, vice president of global strategy at CVB Inc., a Utah-based mattress company, said his firm had seen competitors declaring prices to customs that were 10 or 20 times lower than the typical cost, he said.&lt;/p&gt;
-&lt;p&gt;“If you took trash that was free and packaged it in a box, you couldn’t do that,” he said. “It’s definitely a sham.”&lt;/p&gt;
-&lt;p&gt;Not all efforts to reduce tariff bills are illegal. Some companies, typically deep-pocketed multinationals, have used legal accounting methods to slash the value of their imports without physically moving supply chains.&lt;/p&gt;
-&lt;p&gt;Lynlee Brown, a partner in the global trade practice at Ernst &amp; Young, said that one strategy companies used involved stripping so-called intangible costs — like the value of a product’s design, brand, software or distribution rights — out of the import price.&lt;/p&gt;
-&lt;p&gt;For example, a company might determine that, for a $20 toy, $14 of the price stems from the value of a famous brand, while the physical product itself is worth only $6.&lt;/p&gt;
-&lt;p&gt;In that case, a company could subtract the intangible value — $14 — from the import price so they instead pay tariffs on $6. Many technology companies used this practice during Mr. Trump’s first term to reduce tariffs, Ms. Brown said.&lt;/p&gt;
-&lt;p&gt;Another strategy companies use takes advantage of an obscure customs regulation that allows tariffs to be levied on the sale price a manufacturer charges its foreign distributor. That so-called first sale price is generally far lower than what the distributor charges when it sells the good in the United States.&lt;/p&gt;
-&lt;p&gt;There’s no data on how many companies are taking advantage of this rule. But it is under scrutiny in Congress, where lawmakers introduced a bill in February to abolish it.&lt;/p&gt;
-&lt;p&gt;Other companies are pursuing similar strategies that involve setting up new business entities. For example, instead of directly selling a product to a U.S. customer, a foreign company may establish a new U.S. branch of its own business that it sells its goods to at a lower “wholesale price,” thus incurring a lower tariff.&lt;/p&gt;
-&lt;p&gt;The goods are then marked up when they are sold from the U.S. wholesaler to a U.S. retailer or customer.&lt;/p&gt;
-&lt;p&gt;Thomas Taggart, a licensed customs broker, said he had seen more clients being approached about this tactic. He said the practice might be legal for multinationals with a U.S. subsidiary, but it was “ridiculous” to think one could drastically reduce tariffs by spending 15 minutes online setting up a shell company in Wyoming.&lt;/p&gt;
-&lt;p&gt;Even when a company sells goods to itself, legally it needs to do so at a fair market price, he said.&lt;/p&gt;
-&lt;p&gt;“It sounds too good to be true, because I think it is,” Mr. Taggart said. But he said that U.S. customs had yet to provide clear guidance on the issue.&lt;/p&gt;
-&lt;p&gt;The Trump administration has pledged to fight tariff fraud and has created a new task force. Customs brokers say they see evidence of those efforts, such as the government requesting more information from companies about their imports.&lt;/p&gt;
-&lt;p&gt;Still, critics say the U.S. government is badly outmatched by the scale of tariff evasion.&lt;/p&gt;
-&lt;p&gt;Trade fraud cases remain difficult to prove, especially when they involve foreign firms.&lt;/p&gt;
-&lt;p&gt;Stephen S. Hasegawa, a lawyer at Phillips &amp; Cohen, said that, right now, it was simply too easy for foreign firms to set up U.S. shell companies and then lie about the value of their imports.&lt;/p&gt;
-&lt;p&gt;“There’s nobody really paying attention,” he said. “If you catch them, they just disappear.”&lt;/p&gt;
-&lt;p&gt;Lazaro Gamio contributed reporting.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/07/us/politics/tariffs-trade-import-fraud.html</guid><pubDate>Wed, 08 Apr 2026 10:07:53 +0000</pubDate></item><item><title>Oil Prices Plunge and Stocks Surge After Cease-Fire Deal</title><link>https://www.nytimes.com/2026/04/08/business/oil-stocks-gas-prices-iran.html</link><description>&lt;![CDATA[
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT Business Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/Business_fulltext.xml</link><description>Full-text NYT Business articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/Business_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 09 Apr 2026 12:05:21 +0000</lastBuildDate><item><title>Oil Prices Plunge and Stocks Surge After Cease-Fire Deal</title><link>https://www.nytimes.com/2026/04/08/business/oil-stocks-gas-prices-iran.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/08/multimedia/08Biz-Oil-Stocks-Gas-wltg/08Biz-Oil-Stocks-Gas-wltg-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Oil prices plunged and stocks surged on Wednesday as investors cheered a last-minute cease-fire agreement in the war on Iran that offered hope that energy shipments from the Persian Gulf would resume soon.&lt;/p&gt;
 &lt;p&gt;The cease-fire deal came 90 minutes before a deadline set by President Trump for Iran to accede to his demands or risk widespread devastation. The deal calls for a two-week period when the United States would suspend strikes on Iran, and Tehran would allow vessels and tankers carrying oil, gas and other commodities to pass through the Strait of Hormuz, a vital waterway for transit of oil and gas.&lt;/p&gt;
@@ -145,54 +21,17 @@
 &lt;p&gt;Diesel prices have increased even more quickly and stood at $5.67 on Wednesday, up 51 percent since the start of the war.&lt;/p&gt;
 &lt;p&gt;Here is a county-level look at where drivers are facing the highest costs.&lt;/p&gt;
 &lt;p&gt;“Presuming traffic begins to flow through Hormuz, trade flow normalization will take months, not weeks,” said Zhuwei Wang, the director of research and analysis at S&amp;P Global Energy. High prices have already led to cutbacks in energy usage, which is expected to continue, he added, and the strait will face “persistent threats” for the foreseeable future.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/business/oil-stocks-gas-prices-iran.html</guid><pubDate>Wed, 08 Apr 2026 18:20:02 +0000</pubDate></item><item><title>Unraveling the Mystery Behind Bitcoin’s CreatorUnraveling the Mystery Behind Bitcoin’s Creator</title><link>https://www.nytimes.com/video/business/100000010821603/unraveling-the-mystery-behind-bitcoins-creator.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/03/arts/John-Carreyrou_Thumb/John-Carreyrou_Thumb-facebookJumbo.png?video-overlay"/&gt;&lt;/p&gt;
-Our investigative reporter John Carreyrou spent 18 months digging through the archives of online cryptography communities in search of the identity of Satoshi Nakamoto, the anonymous inventor of bitcoin.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/video/business/100000010821603/unraveling-the-mystery-behind-bitcoins-creator.html</guid><pubDate>Wed, 08 Apr 2026 12:03:38 +0000</pubDate></item><item><title>ProPublica Journalists Strike for a Day, Partly Over A.I.</title><link>https://www.nytimes.com/2026/04/08/business/media/propublica-strike-artificial-intelligence.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/08/business/08biz-pp-file/08biz-pp-file-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;ProPublica journalists walked off the job on Wednesday, for 24 hours, after more than two years of negotiations that failed to yield a deal for a union contract.&lt;/p&gt;
-&lt;p&gt;It was the first major labor action at ProPublica, one of the country’s largest nonprofit newsrooms. About 150 of its workers, including reporters, copy editors and communications staff, unionized in 2023 and have been negotiating a contract since.&lt;/p&gt;
-&lt;p&gt;The core disagreements were over wage increases, layoff protections and the use of artificial intelligence, said Katie Campbell, a video journalist who has worked at ProPublica for eight years. She said workers wanted a say in how A.I. was being adopted at the company, protections against being replaced by the technology and transparency for readers about its use.&lt;/p&gt;
-&lt;p&gt;“ProPublica is its workers, and when more than 100 people step away from their work for a day, that’s significant,” Ms. Campbell said, adding, “We want to get back to work, but we want a fair contract to do this work.”&lt;/p&gt;
-&lt;p&gt;Newsrooms around the country are grappling with similar issues over the use of A.I. in reporting, editing and disseminating journalism. Some embarrassing errors, such as Bloomberg’s corrections for A.I.-generated summaries or the inadvertent publication of A.I.-written articles, have raised the stakes. Collective bargaining agreements at unionized newsrooms increasingly contain language that offer protections against replacing jobs with A.I. and guardrails for its use.&lt;/p&gt;
-&lt;p&gt;ProPublica’s union is represented by the NewsGuild of New York, which also represents some journalists at The New York Times.&lt;/p&gt;
-&lt;p&gt;A ProPublica spokeswoman said the company had made proposals that mirrored those accepted by the NewsGuild at other news organizations. She said ProPublica had never had layoffs.&lt;/p&gt;
-&lt;p&gt;“ProPublica is committed to reaching a fair and sustainable first contract to cement the strong pay and benefits we’ve always provided our staff,” the spokeswoman said.&lt;/p&gt;
-&lt;p&gt;The unionized workers’ authorization for the strike took place on March 20, with 92 percent of members voting in favor. On Monday, the union filed an unfair-labor-practice charge with the National Labor Relations Board against ProPublica, accusing it of failing to bargain with the union before putting in place an A.I. policy.&lt;/p&gt;
-&lt;p&gt;ProPublica’s policy says any work done with the assistance of A.I. will be reviewed by journalists and disclosed to readers.&lt;/p&gt;
-&lt;p&gt;Tyson Evans, ProPublica’s chief product and brand officer, said the company had shown the principles to the bargaining committee before publishing them.&lt;/p&gt;
-&lt;p&gt;The union has asked supporters not to visit the ProPublica website or read its content during Wednesday’s strike.&lt;/p&gt;
-&lt;p&gt;ProPublica, which was founded nearly 20 years ago, relies on support from philanthropic foundations and individual donors. Its investigative reporting has been awarded multiple Pulitzer Prizes.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/business/media/propublica-strike-artificial-intelligence.html</guid><pubDate>Wed, 08 Apr 2026 10:59:23 +0000</pubDate></item><item><title>Fed Minutes Show Officials in No Rush to Cut as Iran War Scrambled Outlook</title><link>https://www.nytimes.com/2026/04/08/business/fed-minutes-rate-cuts-iran-war.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/08/multimedia/08dc-fed-zqfm/08dc-fed-zqfm-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;Officials at the Federal Reserve broadly backed a wait-and-see approach as they held interest rates steady amid acute uncertainty about the economic impact from the conflict with Iran, minutes from March’s meeting showed.&lt;/p&gt;
-&lt;p&gt;The record of the latest gathering, released on Wednesday, affirmed that the Fed felt confident about holding rates steady for the foreseeable future, extending a pause in cuts that began in January. More officials even expressed greater openness to consider raising rates to fully tame inflation.&lt;/p&gt;
-&lt;p&gt;The minutes showed that policymakers were acutely attuned to the risk that a prolonged crisis could lead to more intense price pressures that, if sustained, could affect underlying measures of inflation. They worried that expectations about future inflation could then become unmoored, especially given that the Fed had missed its 2 percent inflation target for roughly five years.&lt;/p&gt;
-&lt;p&gt;“Partly as a result of these factors, the vast majority of participants noted that progress toward the Committee’s 2 percent objective could be slower than previously expected and judged that the risk of inflation running persistently above the Committee’s objective had increased,” the minutes said.&lt;/p&gt;
-&lt;p&gt;Many officials still saw a path to cut rates if inflation eventually retreated as expected this year, but a couple of policymakers conceded that they had pushed back the most likely timing of a reduction. Cuts could also be warranted if a protracted war further dented hiring and forced consumers to pull back, most officials indicated in the minutes. But a large cohort of policymakers did not see a weakening economy as the primary risk. Instead, many officials flagged concerns about inflation remaining too elevated for too long as a result of the energy shock, which would call for rate increases.&lt;/p&gt;
-&lt;p&gt;In fact, some attendees said there was a “strong case” for the Fed to signal more directly that there was a possibility it could raise rates “if inflation were to remain at above-target levels.”&lt;/p&gt;
-&lt;p&gt;Officials gathered for their March meeting just weeks after the conflict in the Middle East began. Supply disruptions related to the war had pushed energy prices sharply higher by that point, with Brent crude, the international oil benchmark, topping $118 a barrel the week of the meeting. That had filtered into higher gasoline prices and shipping fees. Fertilizer costs had also surged higher, reflecting strains caused by the war on the natural gas market.&lt;/p&gt;
-&lt;p&gt;Some of those gains reversed sharply on Wednesday after U.S. and Iranian officials announced a temporary cease-fire late Tuesday. But prices still broadly remain higher than before the conflict began. Brent crude, for example, dropped 14 percent, to $94 a barrel. In late February, it traded around $70.&lt;/p&gt;
-&lt;p&gt;Jerome H. Powell, the Fed chair, opted last month against making any declarative statements about either the economic impact of the war or the policy implications in light of the rapidly changing geopolitical backdrop. Instead, he was blunt about officials’ lack of clarity.&lt;/p&gt;
-&lt;p&gt;“The thing I really want to emphasize is that nobody knows,” he told reporters after the rate decision, which was supported by all but one policymaker.&lt;/p&gt;
-&lt;p&gt;Mr. Powell also sought to downplay how much to read into the latest economic projections published by the Fed alongside the rate decision, noting that several policymakers remarked that if there were ever a meeting to skip releasing quarterly economic projections “this would be a good one, because we just don’t know.”&lt;/p&gt;
-&lt;p&gt;Those projections showed that most of the Fed’s 19 officials still saw a path to lower rates this year despite expecting a bumpier and more prolonged return to 2 percent inflation.&lt;/p&gt;
-&lt;p&gt;Seven officials penciled in a quarter-point cut by the end of 2026, while five others expected a reduction of half a percentage point or more. Seven policymakers projected no policy adjustments at all. By the end of the year, most officials expect both overall inflation and a “core” measure, which strips out volatile food and energy items, to decline to only 2.7 percent, a higher level than projected three months ago.&lt;/p&gt;
-&lt;p&gt;On Thursday, data released by the Bureau of Economic Analysis is expected to show that in February, the Fed’s preferred gauge — the Personal Consumption Expenditures price index — rose 0.4 percent and maintained a 2.8 percent annual clip. Core inflation is projected to have steadied at 3 percent following another 0.4 percent increase.&lt;/p&gt;
-&lt;p&gt;A cease-fire, if it holds, would significantly reduce the risk that the war currently poses to both inflation and the labor market. But it would not eliminate the problems confronting the Fed altogether. Long before the conflict broke out, the central bank was dealing with stubbornly high inflation and a stalling out of progress toward its 2 percent goal. The minutes indicated that they were marginally less confident about the pace in which the impact from President Trump’s tariffs would start to fade, noting that the situation had become more uncertain since the January meeting.&lt;/p&gt;
-&lt;p&gt;The Fed is also contending with a labor market that still remains relatively fragile as companies scale back on hiring.&lt;/p&gt;
-&lt;p&gt;According to March’s minutes, the vast majority of policymakers “judged that upside risks to inflation and downside risks to employment were elevated.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/business/fed-minutes-rate-cuts-iran-war.html</guid><pubDate>Wed, 08 Apr 2026 10:12:10 +0000</pubDate></item><item><title>Is the Strait of Hormuz Reopening? What to Know Under Iran-Cease Fire.</title><link>https://www.nytimes.com/2026/04/09/business/iran-strait-of-hormuz-what-to-know.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/08/business/oil-stocks-gas-prices-iran.html</guid><pubDate>Wed, 08 Apr 2026 18:20:02 +0000</pubDate></item><item><title>Is the Strait of Hormuz Reopening? What to Know Under Iran-Cease Fire.</title><link>https://www.nytimes.com/2026/04/09/business/iran-strait-of-hormuz-what-to-know.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/09/multimedia/09biz-iran-shipping-bvqm/09biz-iran-shipping-bvqm-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Vessels off Oman on Wednesday. Iran has said ships that want to pass must coordinate with its armed forces.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/09/business/iran-strait-of-hormuz-what-to-know.html</guid><pubDate>Wed, 08 Apr 2026 19:00:08 +0000</pubDate></item><item><title>Oil Prices Edge Higher as Confidence in Cease-Fire Wavers</title><link>https://www.nytimes.com/2026/04/09/business/oil-gas-stocks-iran-war-ceasefire.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/09/business/iran-strait-of-hormuz-what-to-know.html</guid><pubDate>Thu, 09 Apr 2026 02:34:23 +0000</pubDate></item><item><title>Oil Prices Edge Higher as Confidence in Cease-Fire Wavers</title><link>https://www.nytimes.com/2026/04/09/business/oil-gas-stocks-iran-war-ceasefire.html</link><description>&lt;![CDATA[
 Investors were in a more sober mood after sharp moves on the previous day.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/09/business/oil-gas-stocks-iran-war-ceasefire.html</guid><pubDate>Wed, 08 Apr 2026 23:43:10 +0000</pubDate></item><item><title>A Must for the Next Food Craze? Be ‘Social Media Gorgeous.’</title><link>https://www.nytimes.com/2026/04/09/business/ube-flavor.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/09/business/oil-gas-stocks-iran-war-ceasefire.html</guid><pubDate>Thu, 09 Apr 2026 02:57:15 +0000</pubDate></item><item><title>A Must for the Next Food Craze? Be ‘Social Media Gorgeous.’</title><link>https://www.nytimes.com/2026/04/09/business/ube-flavor.html</link><description>&lt;![CDATA[
 The ascent of ube has little to do with the purple yam’s taste or Filipino origins. It’s the color, flavor experts say.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/09/business/ube-flavor.html</guid><pubDate>Thu, 09 Apr 2026 00:01:41 +0000</pubDate></item><item><title>Markets Have Faced a Year of Chaos and Still Done Awfully Well</title><link>https://www.nytimes.com/2026/04/09/business/iran-war-markets-stocks-bonds.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/12/business/12strategies-illo/12strategies-illo-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Most stock investors have lost money during the Iran war, but returns have been splendid for the year since the “Liberation Day” tariff announcement.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/09/business/iran-war-markets-stocks-bonds.html</guid><pubDate>Thu, 09 Apr 2026 00:02:27 +0000</pubDate></item><item><title>Fed’s Inflation Woes Preceded the War With Iran</title><link>https://www.nytimes.com/2026/04/09/business/federal-reserve-inflation.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/09/business/iran-war-markets-stocks-bonds.html</guid><pubDate>Thu, 09 Apr 2026 00:02:28 +0000</pubDate></item><item><title>Fed’s Inflation Woes Preceded the War With Iran</title><link>https://www.nytimes.com/2026/04/09/business/federal-reserve-inflation.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/09/multimedia/09dc-inflation-jgpm/09dc-inflation-jgpm-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 An oil facility in Fujairah, United Arab Emirates, after an attack last month. Energy-related price increases are expected to worsen U.S. inflation.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/09/business/federal-reserve-inflation.html</guid><pubDate>Thu, 09 Apr 2026 00:03:57 +0000</pubDate></item></channel></rss>
