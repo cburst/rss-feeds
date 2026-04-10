@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 05:32:04 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 07:39:54 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>개발을 – development</title><link>urn:urn:vocab:개발을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>학교 – school</title><link>urn:urn:vocab:학교</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc1ODYwNzg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학교 (school)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;삼육대, 직무·취업 박람회 &amp;#x27;잡 페스티벌&amp;#x27; (삼육대학교 제공)&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Sahmyook University (President Je Hae-jong) held the job and employment fair '2026 Job Festival' over two days on the 7th and 8th at the Solomon Plaza on campus, organized by the University Job Center&lt;br/&gt;&lt;em&gt;Sahmyook University (President Je Hae-jong) held the job and employment fair '2026 Job Festival' over two days on the 7th and 8th at the Solomon Plaza on campus, organized by the University Job Center&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;png" alt=""&gt;&lt;figcaption&gt;숭실대-서울특별시강서양천교육지원청 업무협약식 (숭실대학교 제공)&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Soongsil University (President Lee Yoon-jae) announced that on Tuesday, April 7, it signed a business agreement with the Seoul Gangseo-Yangcheon Office of Education (Superintendent Lee Eui-ran) for the "Operation of High School-University Linked Educational Programs&lt;br/&gt;&lt;em&gt;Soongsil University (President Lee Yoon-jae) announced that on Tuesday, April 7, it signed a business agreement with the Seoul Gangseo-Yangcheon Office of Education (Superintendent Lee Eui-ran) for the "Operation of High School-University Linked Educational Programs"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (숭실대학교(총장 이윤재)는 4월 7일(화) 서울특별시강서양천교육지원청(교육장 이의란)과 「고교-대학 연계 교육 프로그램 운영」을 위한 업무협약을 체결했다고 밝혔다&lt;br/&gt;&lt;em&gt;Soongsil University (President Lee Yoon-jae) announced that on Tuesday, April 7, it signed a business agreement with the Seoul Gangseo-Yangcheon Office of Education (Superintendent Lee Eui-ran) for the "Operation of High School-University Linked Educational Programs"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교가 좋아요.&lt;br/&gt;&lt;em&gt;I like school.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc1ODYwNzg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학교 (school)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;삼육대, 직무·취업 박람회 &amp;#x27;잡 페스티벌&amp;#x27; (삼육대학교 제공)&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Sahmyook University (President Je Hae-jong) held the job and employment fair '2026 Job Festival' over two days on the 7th and 8th at the Solomon Plaza on campus, organized by the University Job Center&lt;br/&gt;&lt;em&gt;Sahmyook University (President Je Hae-jong) held the job and employment fair '2026 Job Festival' over two days on the 7th and 8th at the Solomon Plaza on campus, organized by the University Job Center&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;png" alt=""&gt;&lt;figcaption&gt;숭실대-서울특별시강서양천교육지원청 업무협약식 (숭실대학교 제공)&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Soongsil University (President Lee Yoon-jae) announced that on Tuesday, April 7, it signed a business agreement with the Seoul Gangseo-Yangcheon Office of Education (Superintendent Lee Eui-ran) for the "Operation of High School-University Linked Educational Programs&lt;br/&gt;&lt;em&gt;Soongsil University (President Lee Yoon-jae) announced that on Tuesday, April 7, it signed a business agreement with the Seoul Gangseo-Yangcheon Office of Education (Superintendent Lee Eui-ran) for the "Operation of High School-University Linked Educational Programs"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (숭실대학교(총장 이윤재)는 4월 7일(화) 서울특별시강서양천교육지원청(교육장 이의란)과 「고교-대학 연계 교육 프로그램 운영」을 위한 업무협약을 체결했다고 밝혔다&lt;br/&gt;&lt;em&gt;Soongsil University (President Lee Yoon-jae) announced that on Tuesday, April 7, it signed a business agreement with the Seoul Gangseo-Yangcheon Office of Education (Superintendent Lee Eui-ran) for the "Operation of High School-University Linked Educational Programs"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교가 좋아요.&lt;br/&gt;&lt;em&gt;I like school.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 11 Apr 2026 07:39:54 +0900</pubDate><guid isPermaLink="false">vocab-7406ab7d4378f244d71a14b531d37b3887a71e4f</guid><enclosure url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc1ODYwNzg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="107853" /><ns2:content url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc1ODYwNzg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc1ODYwNzg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>학교</category></item><item><title>개발을 – development</title><link>urn:urn:vocab:개발을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wbWVudHxlbnwwfHx8fDE3NzU4NTMxMTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개발을 (development)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;생성형 인공지능(AI)의 핵심인 파운데이션 모델 운용 과정에서 발생할 수 있는 개인정보 유출과 민감정보 추론 위험을 줄이기 위한 안전성 기술 개발을 목표로 한다&lt;br/&gt;&lt;em&gt;It aims to develop safety technologies to reduce the risk of personal information leakage and sensitive information inference that may occur during the operation of foundation models, which are the core of generative artificial intelligence (AI).&lt;/em&gt;&lt;/p&gt;
