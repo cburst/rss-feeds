@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 08:09:25 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 10:27:15 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>기후위기 – climate crisis</title><link>urn:urn:vocab:기후위기</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>생성형 – generative</title><link>urn:urn:vocab:생성형</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619472351888-f844a0b33f5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnZW5lcmF0aXZlfGVufDB8fHx8MTc3NTc4NDQyOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생성형 (generative)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;생성형 인공지능 시장을 주도하는 오픈 에이아이(AI)와 구글, 앤트로픽 등의 경쟁사를 따라잡기 위해 대규모 조직 개편 뒤 선보인 첫 모델이다&lt;br/&gt;&lt;em&gt;This is the first model unveiled after a large-scale organizational restructuring to catch up with competitors such as OpenAI, Google, and Anthropic, which dominate the generative AI market.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(메타는 2023년부터 생성형 인공지능 모델 ‘라마’를 주력으로 오픈소스(개방형) 형태로 인공지능 개발을 진행해왔으나, 구글과 오픈 에이아이 등의 경쟁 모델보다 성능이 못 미친다는 평가를 받아왔다&lt;br/&gt;&lt;em&gt;Meta has been developing AI in an open-source format since 2023, focusing on the generative AI model 'Llama', but it has been evaluated as underperforming compared to competing models from Google and OpenAI.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(생성형 인공지능 챗 지피티(Chat gpt) 개발사 오픈 에이아이(AI)가 인공지능 생성물도 아동 성 착취물 관련 법령의 규제를 받도록 법을 개정해야 한다고 제안했다&lt;br/&gt;&lt;em&gt;OpenAI, the developer of the generative AI ChatGPT, has proposed that laws should be revised so that AI-generated content is also regulated under laws related to child sexual exploitation material.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 생성형 인공지능입니다.&lt;br/&gt;&lt;em&gt;This is generative artificial intelligence.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;생성형 모델을 사용합니다.&lt;br/&gt;&lt;em&gt;It uses a generative model.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619472351888-f844a0b33f5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnZW5lcmF0aXZlfGVufDB8fHx8MTc3NTc4NDQyOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생성형 (generative)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;생성형 인공지능 시장을 주도하는 오픈 에이아이(AI)와 구글, 앤트로픽 등의 경쟁사를 따라잡기 위해 대규모 조직 개편 뒤 선보인 첫 모델이다&lt;br/&gt;&lt;em&gt;This is the first model unveiled after a large-scale organizational restructuring to catch up with competitors such as OpenAI, Google, and Anthropic, which dominate the generative AI market.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(메타는 2023년부터 생성형 인공지능 모델 ‘라마’를 주력으로 오픈소스(개방형) 형태로 인공지능 개발을 진행해왔으나, 구글과 오픈 에이아이 등의 경쟁 모델보다 성능이 못 미친다는 평가를 받아왔다&lt;br/&gt;&lt;em&gt;Meta has been developing AI in an open-source format since 2023, focusing on the generative AI model 'Llama', but it has been evaluated as underperforming compared to competing models from Google and OpenAI.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(생성형 인공지능 챗 지피티(Chat gpt) 개발사 오픈 에이아이(AI)가 인공지능 생성물도 아동 성 착취물 관련 법령의 규제를 받도록 법을 개정해야 한다고 제안했다&lt;br/&gt;&lt;em&gt;OpenAI, the developer of the generative AI ChatGPT, has proposed that laws should be revised so that AI-generated content is also regulated under laws related to child sexual exploitation material.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 생성형 인공지능입니다.&lt;br/&gt;&lt;em&gt;This is generative artificial intelligence.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;생성형 모델을 사용합니다.&lt;br/&gt;&lt;em&gt;It uses a generative model.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 10 Apr 2026 10:27:14 +0900</pubDate><guid isPermaLink="false">vocab-1f0df24ffad00acab2788ddc6455436649f86885</guid><enclosure url="https://images.unsplash.com/photo-1619472351888-f844a0b33f5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnZW5lcmF0aXZlfGVufDB8fHx8MTc3NTc4NDQyOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="57896" /><ns2:content url="https://images.unsplash.com/photo-1619472351888-f844a0b33f5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnZW5lcmF0aXZlfGVufDB8fHx8MTc3NTc4NDQyOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1619472351888-f844a0b33f5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnZW5lcmF0aXZlfGVufDB8fHx8MTc3NTc4NDQyOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>생성형</category></item><item><title>기후위기 – climate crisis</title><link>urn:urn:vocab:기후위기</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1582033665011-60ccbb964168?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGltYXRlJTIwY3Jpc2lzfGVufDB8fHx8MTc3NTc3NjE2MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기후위기 (climate crisis)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이번 국제공동수업의 주제는 기후위기와 생태전환 교육이었다&lt;br/&gt;&lt;em&gt;The theme of this international joint class was climate crisis and ecological transition education.&lt;/em&gt;&lt;/p&gt;

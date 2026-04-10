@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 08:09:33 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 10:27:23 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>정원오 – Jung Won-o (a personal name, but provided as a simple vocabulary example; note: typically names are avoided, but this is the simplest word in the list)</title><link>urn:urn:vocab:정원오</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>자유로운 – free, unrestricted</title><link>urn:urn:vocab:자유로운</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1572977010240-435f73b35df1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTJDJTIwdW5yZXN0cmljdGVkfGVufDB8fHx8MTc3NTc4NDQzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자유로운 (free, unrestricted)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(조현 외교부 장관은 9일 저녁 아바스 아라그치 이란 외교장관과 통화하며 “호르무즈 해협 내 우리 선박을 포함한 모든 선박의 자유로운 항행이 신속하고 안전하게 재개될 필요”가 있다고 강조했다고 외교부가 밝혔다&lt;br/&gt;&lt;em&gt;The Ministry of Foreign Affairs stated that Minister Cho Hyun emphasized during a phone call with Iranian Foreign Minister Abbas Araghchi on the evening of the 9th that 'the free navigation of all vessels, including our ships in the Strait of Hormuz, needs to be quickly and safely resumed.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (조 장관은 호르무즈 해협 내 갇힌 우리 선박 26척을 포함해 각국 선박의 자유로운 항행이 필요하다면서 “이란 내 우리 국민 안전에 대해서도 계속 신경 써 달라”고 당부했다&lt;br/&gt;&lt;em&gt;Minister Cho stressed the need for free navigation of vessels from various countries, including 26 of our ships trapped in the Strait of Hormuz, and requested, 'Please continue to pay attention to the safety of our citizens in Iran.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 자유로운 사람이야.&lt;br/&gt;&lt;em&gt;I am a free person.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자유로운 생각이 좋아요.&lt;br/&gt;&lt;em&gt;I like free thinking.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1572977010240-435f73b35df1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTJDJTIwdW5yZXN0cmljdGVkfGVufDB8fHx8MTc3NTc4NDQzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자유로운 (free, unrestricted)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(조현 외교부 장관은 9일 저녁 아바스 아라그치 이란 외교장관과 통화하며 “호르무즈 해협 내 우리 선박을 포함한 모든 선박의 자유로운 항행이 신속하고 안전하게 재개될 필요”가 있다고 강조했다고 외교부가 밝혔다&lt;br/&gt;&lt;em&gt;The Ministry of Foreign Affairs stated that Minister Cho Hyun emphasized during a phone call with Iranian Foreign Minister Abbas Araghchi on the evening of the 9th that 'the free navigation of all vessels, including our ships in the Strait of Hormuz, needs to be quickly and safely resumed.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (조 장관은 호르무즈 해협 내 갇힌 우리 선박 26척을 포함해 각국 선박의 자유로운 항행이 필요하다면서 “이란 내 우리 국민 안전에 대해서도 계속 신경 써 달라”고 당부했다&lt;br/&gt;&lt;em&gt;Minister Cho stressed the need for free navigation of vessels from various countries, including 26 of our ships trapped in the Strait of Hormuz, and requested, 'Please continue to pay attention to the safety of our citizens in Iran.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 자유로운 사람이야.&lt;br/&gt;&lt;em&gt;I am a free person.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자유로운 생각이 좋아요.&lt;br/&gt;&lt;em&gt;I like free thinking.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 10 Apr 2026 10:27:23 +0900</pubDate><guid isPermaLink="false">vocab-2357a1bf3f3562cb150f9df52aad4b3d4bc8851d</guid><enclosure url="https://images.unsplash.com/photo-1572977010240-435f73b35df1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTJDJTIwdW5yZXN0cmljdGVkfGVufDB8fHx8MTc3NTc4NDQzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="270768" /><ns2:content url="https://images.unsplash.com/photo-1572977010240-435f73b35df1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTJDJTIwdW5yZXN0cmljdGVkfGVufDB8fHx8MTc3NTc4NDQzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1572977010240-435f73b35df1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTJDJTIwdW5yZXN0cmljdGVkfGVufDB8fHx8MTc3NTc4NDQzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>자유로운</category></item><item><title>정원오 – Jung Won-o (a personal name, but provided as a simple vocabulary example; note: typically names are avoided, but this is the simplest word in the list)</title><link>urn:urn:vocab:정원오</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1774636815965-985e74eb51e9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxKdW5nJTIwV29uLW8lMjAlMjhhJTIwcGVyc29uYWwlMjBuYW1lJTJDJTIwYnV0JTIwcHJvdmlkZWQlMjBhcyUyMGElMjBzaW1wbGUlMjB2b2NhYnVsYXJ5JTIwZXhhbXBsZSUzQiUyMG5vdGUlM0ElMjB0eXBpY2FsbHklMjBuYW1lcyUyMGFyZSUyMGF2b2lkZWQlMkMlMjBidXQlMjB0aGlzJTIwaXMlMjB0aGUlMjBzaW1wbGVzdCUyMHdvcmQlMjBpbiUyMHRoZSUyMGxpc3QlMjl8ZW58MHx8fHwxNzc1Nzc2MTY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정원오 (Jung Won-o (a personal name, but provided as a simple vocabulary example; note: typically names are avoided, but this is the simplest word in the list))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Wins Majority in Primary ([속보] 정원오, 민주당 서울시장 후보 선출…경선 과반 득표) &lt;&lt;br/&gt;&lt;em&gt;Wins Majority in Primary ([Breaking News] Jeong Won-o elected as Democratic Party's Seoul mayoral candidate... wins majority in primary)&lt;/em&gt;&lt;/p&gt;
