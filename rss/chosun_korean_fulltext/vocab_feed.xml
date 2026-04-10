@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 03:22:59 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 05:32:12 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>의원도 – even a member of the National Assembly</title><link>urn:urn:vocab:의원도</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>합의했다 – agreed</title><link>urn:urn:vocab:합의했다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1706517212966-43695534fe88?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZ3JlZWR8ZW58MHx8fHwxNzc1ODUzMTI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="합의했다 (agreed)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;여야는 고유가 피해지원금을 두고 막판 협상을 벌였지만 원안대로 4조8000억원을 유지하기로 합의했다&lt;br/&gt;&lt;em&gt;The ruling and opposition parties engaged in last-minute negotiations over high oil price relief funds but agreed to maintain the original amount of 4.8 trillion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(민주당과 국민의힘 원내대표는 이날 정부가 제출한 26조2000억원 규모의 추경 규모를 유지하기로 합의했다&lt;br/&gt;&lt;em&gt;(The floor leaders of the Democratic Party and the People Power Party agreed on this day to maintain the size of the supplementary budget at 26.2 trillion won submitted by the government.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;당초 국민의힘은 해당 예산을 ‘이재명 정부의 선거용 현금 살포’라며 삭감을 주장해왔지만 원안 통과에 합의했다&lt;br/&gt;&lt;em&gt;Initially, the People Power Party had argued for cutting the budget, calling it 'cash handouts for election purposes by the Lee Jae-myung administration,' but agreed to pass the original proposal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리는 합의했다.&lt;br/&gt;&lt;em&gt;We reached an agreement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그들은 합의했다.&lt;br/&gt;&lt;em&gt;They reached an agreement.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1706517212966-43695534fe88?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZ3JlZWR8ZW58MHx8fHwxNzc1ODUzMTI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="합의했다 (agreed)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;여야는 고유가 피해지원금을 두고 막판 협상을 벌였지만 원안대로 4조8000억원을 유지하기로 합의했다&lt;br/&gt;&lt;em&gt;The ruling and opposition parties engaged in last-minute negotiations over high oil price relief funds but agreed to maintain the original amount of 4.8 trillion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(민주당과 국민의힘 원내대표는 이날 정부가 제출한 26조2000억원 규모의 추경 규모를 유지하기로 합의했다&lt;br/&gt;&lt;em&gt;(The floor leaders of the Democratic Party and the People Power Party agreed on this day to maintain the size of the supplementary budget at 26.2 trillion won submitted by the government.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;당초 국민의힘은 해당 예산을 ‘이재명 정부의 선거용 현금 살포’라며 삭감을 주장해왔지만 원안 통과에 합의했다&lt;br/&gt;&lt;em&gt;Initially, the People Power Party had argued for cutting the budget, calling it 'cash handouts for election purposes by the Lee Jae-myung administration,' but agreed to pass the original proposal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리는 합의했다.&lt;br/&gt;&lt;em&gt;We reached an agreement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그들은 합의했다.&lt;br/&gt;&lt;em&gt;They reached an agreement.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 11 Apr 2026 05:32:12 +0900</pubDate><guid isPermaLink="false">vocab-fabcd7fae9d1ef102ad26621c8af607390a94554</guid><enclosure url="https://images.unsplash.com/photo-1706517212966-43695534fe88?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZ3JlZWR8ZW58MHx8fHwxNzc1ODUzMTI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="72138" /><ns2:content url="https://images.unsplash.com/photo-1706517212966-43695534fe88?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZ3JlZWR8ZW58MHx8fHwxNzc1ODUzMTI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1706517212966-43695534fe88?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZ3JlZWR8ZW58MHx8fHwxNzc1ODUzMTI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>합의했다</category></item><item><title>의원도 – even a member of the National Assembly</title><link>urn:urn:vocab:의원도</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1762246433153-f928cc4e234a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVuJTIwYSUyMG1lbWJlciUyMG9mJTIwdGhlJTIwTmF0aW9uYWwlMjBBc3NlbWJseXxlbnwwfHx8fDE3NzU4NDUzNzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="의원도 (even a member of the National Assembly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;최근 한 전 대표와 만난 국민의힘 부산 북갑 당협위원장인 서병수 전 의원도 본지에 “부산의 중도·보수층을 잡으려면 한 전 대표를 단일 후보로 내세우는 방안이 필요하다”고 했다&lt;br/&gt;&lt;em&gt;Former lawmaker Seo Byung-soo, who is the chairman of the People Power Party's Busan Buk-gap district party committee and recently met with former representative Han, also told this newspaper, 'To capture Busan's moderate and conservative voters, we need a plan to field former representative Han as a single candidate.'&lt;/em&gt;&lt;/p&gt;

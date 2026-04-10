@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 03:22:48 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 05:32:04 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>더하면 – add</title><link>urn:urn:vocab:더하면</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>개발을 – development</title><link>urn:urn:vocab:개발을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wbWVudHxlbnwwfHx8fDE3NzU4NTMxMTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개발을 (development)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;생성형 인공지능(AI)의 핵심인 파운데이션 모델 운용 과정에서 발생할 수 있는 개인정보 유출과 민감정보 추론 위험을 줄이기 위한 안전성 기술 개발을 목표로 한다&lt;br/&gt;&lt;em&gt;It aims to develop safety technologies to reduce the risk of personal information leakage and sensitive information inference that may occur during the operation of foundation models, which are the core of generative artificial intelligence (AI).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인공지능 기업 앤트로픽 역시 자체 반도체 개발을 검토 중이라고 복수의 미국 언론들이 보도했다&lt;br/&gt;&lt;em&gt;Multiple U.S. media outlets reported that the artificial intelligence company Anthropic is also considering developing its own semiconductors.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또한 ASU의 EdPlus는 디지털 교수학습 혁신과 온라인 교육 확산을 이끄는 핵심 조직으로, 전 세계 학습자를 대상으로 한 교육 접근성 확대와 혁신적 학습모델 개발을 주도하고 있다&lt;br/&gt;&lt;em&gt;Additionally, ASU's EdPlus is a key organization leading digital teaching and learning innovation and the spread of online education, driving the expansion of educational accessibility and the development of innovative learning models for learners worldwide.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개발을 시작했어요.&lt;br/&gt;&lt;em&gt;I started development.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개발을 배우고 있어요.&lt;br/&gt;&lt;em&gt;I am learning development.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wbWVudHxlbnwwfHx8fDE3NzU4NTMxMTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개발을 (development)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;생성형 인공지능(AI)의 핵심인 파운데이션 모델 운용 과정에서 발생할 수 있는 개인정보 유출과 민감정보 추론 위험을 줄이기 위한 안전성 기술 개발을 목표로 한다&lt;br/&gt;&lt;em&gt;It aims to develop safety technologies to reduce the risk of personal information leakage and sensitive information inference that may occur during the operation of foundation models, which are the core of generative artificial intelligence (AI).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인공지능 기업 앤트로픽 역시 자체 반도체 개발을 검토 중이라고 복수의 미국 언론들이 보도했다&lt;br/&gt;&lt;em&gt;Multiple U.S. media outlets reported that the artificial intelligence company Anthropic is also considering developing its own semiconductors.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또한 ASU의 EdPlus는 디지털 교수학습 혁신과 온라인 교육 확산을 이끄는 핵심 조직으로, 전 세계 학습자를 대상으로 한 교육 접근성 확대와 혁신적 학습모델 개발을 주도하고 있다&lt;br/&gt;&lt;em&gt;Additionally, ASU's EdPlus is a key organization leading digital teaching and learning innovation and the spread of online education, driving the expansion of educational accessibility and the development of innovative learning models for learners worldwide.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개발을 시작했어요.&lt;br/&gt;&lt;em&gt;I started development.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개발을 배우고 있어요.&lt;br/&gt;&lt;em&gt;I am learning development.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 11 Apr 2026 05:32:04 +0900</pubDate><guid isPermaLink="false">vocab-a5b8cc795c2bd1f097ef6bd412a3c99b6b89d26d</guid><enclosure url="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wbWVudHxlbnwwfHx8fDE3NzU4NTMxMTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="82281" /><ns2:content url="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wbWVudHxlbnwwfHx8fDE3NzU4NTMxMTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wbWVudHxlbnwwfHx8fDE3NzU4NTMxMTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>개발을</category></item><item><title>더하면 – add</title><link>urn:urn:vocab:더하면</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1608402907282-e6c63c782526?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZGR8ZW58MHx8fHwxNzc1ODQ1MzYyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="더하면 (add)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(절기 활동에 그림책을 더하면 경험이 언어로 연결된다&lt;br/&gt;&lt;em&gt;(Adding picture books to seasonal activities connects the experience to language)&lt;/em&gt;&lt;/p&gt;
