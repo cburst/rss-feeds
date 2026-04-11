@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 09:51:12 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 11:57:09 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>어린이를 – children (object marker)</title><link>urn:urn:vocab:어린이를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>한겨레 – The Hankyoreh (a newspaper)</title><link>urn:urn:vocab:한겨레</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713948412274-d264923b2d81?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW5reW9yZWglMjAlMjhhJTIwbmV3c3BhcGVyJTI5fGVufDB8fHx8MTc3NTg3NjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="한겨레 (The Hankyoreh (a newspaper))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이서혜 석유시장 감시단 대표가 8일 오후 서울 서초구 사무실에서 한겨레와 인터뷰하고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Lee Seo-hye, head of the Oil Market Monitoring Group, is being interviewed by Hankyoreh at her office in Seocho-gu, Seoul, on the afternoon of the 8th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이서혜 에너지·석유시장감시단(이하 감시단) 대표는 9일 한겨레 인터뷰에서 “국제 유가가 오를 때는 국내 소비자 가격이 덩달아 빠르게 오르지만, 국제 유가가 내릴 땐 소비자 가격이 천천히 내리는 가격 비대칭성의 원인을 따져 물으면 정유사와 주유소는 ‘네 탓 공방’을 벌여왔다”며 “2월28일 미국·이스라엘-이란 전쟁이 발발한 이후 가격을 분석해 보면, 주유소가 마진을 많이 남긴 것이 수치로 확인됐다”고 말했다&lt;br/&gt;&lt;em&gt;" (Lee Seo-hye, head of the Energy and Oil Market Monitoring Group (hereinafter referred to as the Monitoring Group), said in an interview with Hankyoreh on the 9th, 'When international oil prices rise, domestic consumer prices quickly follow suit, but when international oil prices fall, consumer prices drop slowly. When asked about the cause of this price asymmetry, oil refineries and gas stations have engaged in a 'blame game.' She added, 'Analyzing prices since the outbreak of the U.S.-Israel-Iran war on February 28, it has been confirmed through data that gas stations have retained significant margins.')"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&gt; (&amp;lt;이 기사는 대학이 제공한 정보기사로, 한겨레의 의견과 다를 수 있습니다&amp;gt;)&lt;/p&gt;&lt;br/&gt;&lt;em&gt;&gt; (This article is an information article provided by the university and may differ from Hankyoreh's opinion.)&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한겨레를 읽어요.&lt;br/&gt;&lt;em&gt;I read Hankyoreh.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한겨레 신문이 좋아요.&lt;br/&gt;&lt;em&gt;I like Hankyoreh newspaper.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713948412274-d264923b2d81?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW5reW9yZWglMjAlMjhhJTIwbmV3c3BhcGVyJTI5fGVufDB8fHx8MTc3NTg3NjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="한겨레 (The Hankyoreh (a newspaper))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이서혜 석유시장 감시단 대표가 8일 오후 서울 서초구 사무실에서 한겨레와 인터뷰하고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Lee Seo-hye, head of the Oil Market Monitoring Group, is being interviewed by Hankyoreh at her office in Seocho-gu, Seoul, on the afternoon of the 8th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이서혜 에너지·석유시장감시단(이하 감시단) 대표는 9일 한겨레 인터뷰에서 “국제 유가가 오를 때는 국내 소비자 가격이 덩달아 빠르게 오르지만, 국제 유가가 내릴 땐 소비자 가격이 천천히 내리는 가격 비대칭성의 원인을 따져 물으면 정유사와 주유소는 ‘네 탓 공방’을 벌여왔다”며 “2월28일 미국·이스라엘-이란 전쟁이 발발한 이후 가격을 분석해 보면, 주유소가 마진을 많이 남긴 것이 수치로 확인됐다”고 말했다&lt;br/&gt;&lt;em&gt;" (Lee Seo-hye, head of the Energy and Oil Market Monitoring Group (hereinafter referred to as the Monitoring Group), said in an interview with Hankyoreh on the 9th, 'When international oil prices rise, domestic consumer prices quickly follow suit, but when international oil prices fall, consumer prices drop slowly. When asked about the cause of this price asymmetry, oil refineries and gas stations have engaged in a 'blame game.' She added, 'Analyzing prices since the outbreak of the U.S.-Israel-Iran war on February 28, it has been confirmed through data that gas stations have retained significant margins.')"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&gt; (&amp;lt;이 기사는 대학이 제공한 정보기사로, 한겨레의 의견과 다를 수 있습니다&amp;gt;)&lt;/p&gt;&lt;br/&gt;&lt;em&gt;&gt; (This article is an information article provided by the university and may differ from Hankyoreh's opinion.)&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한겨레를 읽어요.&lt;br/&gt;&lt;em&gt;I read Hankyoreh.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한겨레 신문이 좋아요.&lt;br/&gt;&lt;em&gt;I like Hankyoreh newspaper.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 11 Apr 2026 11:57:09 +0900</pubDate><guid isPermaLink="false">vocab-2780144c47b96ca0d7c5a197f1494ab0688a75db</guid><enclosure url="https://images.unsplash.com/photo-1713948412274-d264923b2d81?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW5reW9yZWglMjAlMjhhJTIwbmV3c3BhcGVyJTI5fGVufDB8fHx8MTc3NTg3NjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="98032" /><ns2:content url="https://images.unsplash.com/photo-1713948412274-d264923b2d81?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW5reW9yZWglMjAlMjhhJTIwbmV3c3BhcGVyJTI5fGVufDB8fHx8MTc3NTg3NjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1713948412274-d264923b2d81?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBIYW5reW9yZWglMjAlMjhhJTIwbmV3c3BhcGVyJTI5fGVufDB8fHx8MTc3NTg3NjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>한겨레</category></item><item><title>어린이를 – children (object marker)</title><link>urn:urn:vocab:어린이를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633219664502-f7c0ad898f29?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMCUyOG9iamVjdCUyMG1hcmtlciUyOXxlbnwwfHx8fDE3NzU4Njg2NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어린이를 (children (object marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이날 오후 노른자존 모임에 참여한 팀원들은 어린이를 환영하는 동네 맛집 지도를 채우고, 팀을 소개할 슬로건을 만들며 시간을 보냈다&lt;br/&gt;&lt;em&gt;(On that afternoon, team members who participated in the Yolk Zone gathering spent time filling out a neighborhood food map welcoming children and creating slogans to introduce their team.&lt;/em&gt;&lt;/p&gt;

@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 09:51:21 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 11:57:22 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>농어민 – farmers and fishermen</title><link>urn:urn:vocab:농어민</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>대중교통비 – public transportation fare</title><link>urn:urn:vocab:대중교통비</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1739373850694-7eee44f11606?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjB0cmFuc3BvcnRhdGlvbiUyMGZhcmV8ZW58MHx8fHwxNzc1ODc2MjMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대중교통비 (public transportation fare)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (강유정 수석 대변인은 서면 브리핑에서 “오늘 추경안 통과로 고유가 피해 지원금뿐 아니라 나프타 구매 지원이나 국민의 대중교통비 부담을 줄이기 위한 K패스 반값 할인, 농어민 유류비 지원 등 민생 사업을 추진할 수 있게 됐다”며 이같이 말했다&lt;br/&gt;&lt;em&gt;Chief Spokesperson Kang Yoo-jung said in a written briefing, "With the passage of today's supplementary budget, we can now promote livelihood projects such as support for high oil price damages, NAFTA purchase support, K-pass half-price discounts to reduce public transportation costs for citizens, and fuel cost support for farmers and fishermen."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“위기 가구 긴급 복지, 대중교통비 환급 지원, 에너지 바우처 등 지방정부나 유관 기관의 협조가 필요한 사업은 보건복지부, 국토교통부, 기후에너지환경부 등 소관 부처 장관들이 직접 챙기라”고 했다&lt;br/&gt;&lt;em&gt;"For projects requiring cooperation from local governments or related agencies, such as emergency welfare for crisis households, public transportation fare refund support, and energy vouchers, the ministers in charge of the relevant ministries, including the Ministry of Health and Welfare, the Ministry of Land, Infrastructure and Transport, and the Ministry of Climate, Energy and Environment, should take direct charge."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(위기 가구 긴급 복지, 대중교통비 환급 지원, 에너지 바우처 등 지방정부나 유관 기관의 협조가 필요한 사업은 복지부, 국토부, 기후부 등 소관 부처 장관님들께서 직접 챙겨 주시기 바랍니다&lt;br/&gt;&lt;em&gt;"For projects requiring cooperation from local governments or related agencies, such as emergency welfare for crisis households, public transportation fare refund support, and energy vouchers, we hope the ministers in charge of the relevant ministries, including the Ministry of Welfare, the Ministry of Land, and the Ministry of Climate, will take direct charge."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대중교통비가 비싸요.&lt;br/&gt;&lt;em&gt;Public transportation fares are expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대중교통비를 아껴요.&lt;br/&gt;&lt;em&gt;Save on public transportation fares.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1739373850694-7eee44f11606?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjB0cmFuc3BvcnRhdGlvbiUyMGZhcmV8ZW58MHx8fHwxNzc1ODc2MjMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대중교통비 (public transportation fare)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (강유정 수석 대변인은 서면 브리핑에서 “오늘 추경안 통과로 고유가 피해 지원금뿐 아니라 나프타 구매 지원이나 국민의 대중교통비 부담을 줄이기 위한 K패스 반값 할인, 농어민 유류비 지원 등 민생 사업을 추진할 수 있게 됐다”며 이같이 말했다&lt;br/&gt;&lt;em&gt;Chief Spokesperson Kang Yoo-jung said in a written briefing, "With the passage of today's supplementary budget, we can now promote livelihood projects such as support for high oil price damages, NAFTA purchase support, K-pass half-price discounts to reduce public transportation costs for citizens, and fuel cost support for farmers and fishermen."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“위기 가구 긴급 복지, 대중교통비 환급 지원, 에너지 바우처 등 지방정부나 유관 기관의 협조가 필요한 사업은 보건복지부, 국토교통부, 기후에너지환경부 등 소관 부처 장관들이 직접 챙기라”고 했다&lt;br/&gt;&lt;em&gt;"For projects requiring cooperation from local governments or related agencies, such as emergency welfare for crisis households, public transportation fare refund support, and energy vouchers, the ministers in charge of the relevant ministries, including the Ministry of Health and Welfare, the Ministry of Land, Infrastructure and Transport, and the Ministry of Climate, Energy and Environment, should take direct charge."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(위기 가구 긴급 복지, 대중교통비 환급 지원, 에너지 바우처 등 지방정부나 유관 기관의 협조가 필요한 사업은 복지부, 국토부, 기후부 등 소관 부처 장관님들께서 직접 챙겨 주시기 바랍니다&lt;br/&gt;&lt;em&gt;"For projects requiring cooperation from local governments or related agencies, such as emergency welfare for crisis households, public transportation fare refund support, and energy vouchers, we hope the ministers in charge of the relevant ministries, including the Ministry of Welfare, the Ministry of Land, and the Ministry of Climate, will take direct charge."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대중교통비가 비싸요.&lt;br/&gt;&lt;em&gt;Public transportation fares are expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대중교통비를 아껴요.&lt;br/&gt;&lt;em&gt;Save on public transportation fares.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 11 Apr 2026 11:57:21 +0900</pubDate><guid isPermaLink="false">vocab-207c12c7140ac5a78453068cafe5be8899458d4e</guid><enclosure url="https://images.unsplash.com/photo-1739373850694-7eee44f11606?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjB0cmFuc3BvcnRhdGlvbiUyMGZhcmV8ZW58MHx8fHwxNzc1ODc2MjMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="129533" /><ns2:content url="https://images.unsplash.com/photo-1739373850694-7eee44f11606?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjB0cmFuc3BvcnRhdGlvbiUyMGZhcmV8ZW58MHx8fHwxNzc1ODc2MjMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1739373850694-7eee44f11606?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjB0cmFuc3BvcnRhdGlvbiUyMGZhcmV8ZW58MHx8fHwxNzc1ODc2MjMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>대중교통비</category></item><item><title>농어민 – farmers and fishermen</title><link>urn:urn:vocab:농어민</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1749456575631-056124268d07?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJtZXJzJTIwYW5kJTIwZmlzaGVybWVufGVufDB8fHx8MTc3NTg2ODY3NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="농어민 (farmers and fishermen)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (강유정 수석 대변인은 서면 브리핑에서 “오늘 추경안 통과로 고유가 피해 지원금뿐 아니라 나프타 구매 지원이나 국민의 대중교통비 부담을 줄이기 위한 K패스 반값 할인, 농어민 유류비 지원 등 민생 사업을 추진할 수 있게 됐다”며 이같이 말했다&lt;br/&gt;&lt;em&gt;" (Chief Spokesperson Kang Yoo-jeong said in a written briefing, "With the passage of the supplementary budget today, we can now promote livelihood projects such as support for high oil price damages, NAFTA purchase support, K-pass half-price discounts to reduce the public's burden on public transportation costs, and support for fuel costs for farmers and fishermen.")&lt;/em&gt;&lt;/p&gt;
