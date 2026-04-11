@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 02:38:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 04:42:44 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>활동과 – activity and</title><link>urn:urn:vocab:활동과</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>식재료로 – as ingredients</title><link>urn:urn:vocab:식재료로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1665088127661-83aeff6104c4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGluZ3JlZGllbnRzfGVufDB8fHx8MTc3NTkzNjU1N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="식재료로 (as ingredients)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이러한 흐름 속에서 한우는 전통과 과학이 함께 입증한 고품질 식재료로 주목받고 있다&lt;br/&gt;&lt;em&gt;Amidst this trend, Hanwoo (Korean beef) is gaining attention as a high-quality ingredient validated by both tradition and science.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;조선시대 의학서와 조리서에는 소고기를 기력 회복과 보양을 위한 식재료로 활용한 기록이 다수 남아 있다&lt;br/&gt;&lt;em&gt;Numerous records from medical and culinary texts of the Joseon Dynasty document the use of beef as an ingredient for restoring energy and nourishment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;농경사회에서 소는 노동력의 중심이자 중요한 단백질 공급원이었으며, 다양한 부위가 식재료로 폭넓게 활용되며 그 가치가 축적되어 왔다&lt;br/&gt;&lt;em&gt;In agrarian societies, cattle served as the core of labor and an important protein source, with various parts widely utilized as ingredients, accumulating their value over time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 식재료로 채소를 사용해요.&lt;br/&gt;&lt;em&gt;I use vegetables as ingredients.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 요리는 식재료로 고기가 필요해요.&lt;br/&gt;&lt;em&gt;This dish requires meat as an ingredient.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1665088127661-83aeff6104c4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGluZ3JlZGllbnRzfGVufDB8fHx8MTc3NTkzNjU1N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="식재료로 (as ingredients)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이러한 흐름 속에서 한우는 전통과 과학이 함께 입증한 고품질 식재료로 주목받고 있다&lt;br/&gt;&lt;em&gt;Amidst this trend, Hanwoo (Korean beef) is gaining attention as a high-quality ingredient validated by both tradition and science.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;조선시대 의학서와 조리서에는 소고기를 기력 회복과 보양을 위한 식재료로 활용한 기록이 다수 남아 있다&lt;br/&gt;&lt;em&gt;Numerous records from medical and culinary texts of the Joseon Dynasty document the use of beef as an ingredient for restoring energy and nourishment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;농경사회에서 소는 노동력의 중심이자 중요한 단백질 공급원이었으며, 다양한 부위가 식재료로 폭넓게 활용되며 그 가치가 축적되어 왔다&lt;br/&gt;&lt;em&gt;In agrarian societies, cattle served as the core of labor and an important protein source, with various parts widely utilized as ingredients, accumulating their value over time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 식재료로 채소를 사용해요.&lt;br/&gt;&lt;em&gt;I use vegetables as ingredients.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 요리는 식재료로 고기가 필요해요.&lt;br/&gt;&lt;em&gt;This dish requires meat as an ingredient.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 12 Apr 2026 04:42:44 +0900</pubDate><guid isPermaLink="false">vocab-8bcbebcaed05ffaedb1c78623922f7d9711aee06</guid><enclosure url="https://images.unsplash.com/photo-1665088127661-83aeff6104c4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGluZ3JlZGllbnRzfGVufDB8fHx8MTc3NTkzNjU1N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="105810" /><ns2:content url="https://images.unsplash.com/photo-1665088127661-83aeff6104c4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGluZ3JlZGllbnRzfGVufDB8fHx8MTc3NTkzNjU1N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1665088127661-83aeff6104c4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGluZ3JlZGllbnRzfGVufDB8fHx8MTc3NTkzNjU1N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>식재료로</category></item><item><title>활동과 – activity and</title><link>urn:urn:vocab:활동과</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758798460018-d86989b9524b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3Rpdml0eSUyMGFuZHxlbnwwfHx8fDE3NzU5MjkwNzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="활동과 (activity and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이번 표창은 보건의 날을 기념해 수여된 것으로, 2025년 경북 산불 당시 피해 지역 주민 심리지원 활동과, 산불 진화 이후 정신건강 위험군을 대상 심층 심리상담을 통해 지역 주민의 정신건강 보호와 회복에 기여한 공로가 인정됐다&lt;br/&gt;&lt;em&gt;(This commendation was awarded in commemoration of Health Day, recognizing contributions to protecting and restoring the mental health of local residents through psychological support activities for residents in affected areas during the 2025 Gyeongbuk wildfire and in-depth psychological counseling for high-risk mental health groups after the wildfire was extinguished.)&lt;/em&gt;&lt;/p&gt;
