@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 22:28:58 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 00:33:53 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>덕성여대 – Dukseong Women's University</title><link>urn:urn:vocab:덕성여대</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>덕성의 – of virtue/morality</title><link>urn:urn:vocab:덕성의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605141314385-a2b372e2d9cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHZpcnR1ZSUyRm1vcmFsaXR5fGVufDB8fHx8MTc3NTkyMTYyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="덕성의 (of virtue/morality)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이와 관련해 민 총장은 덕성의 방향을 ‘AI+X’보다 ‘X+AI’로 설정했다&lt;br/&gt;&lt;em&gt;Regarding this, President Min set Duksung's direction as 'X+AI' rather than 'AI+X'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;취임 이후 덕성의 교육·연구·행정이 어떤 지점에서 막히고, 학생들이 어디에서 불편을 체감하는지부터 빠르게 확인했고, 공약했던 내용들을 실행하기 위한 준비를 하고 있다&lt;br/&gt;&lt;em&gt;Since taking office, he has quickly identified where Duksung's education, research, and administration are blocked and where students feel inconvenienced, and is preparing to implement the promised initiatives.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;덕성의 AI 전환은 기술 중심이 아니라 사람 중심이어야 한다&lt;br/&gt;&lt;em&gt;Duksung's AI transition should be human-centered rather than technology-centered.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;덕성의 가치는 중요합니다.&lt;br/&gt;&lt;em&gt;The value of virtue is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;덕성의 의미를 배웁니다.&lt;br/&gt;&lt;em&gt;We learn the meaning of virtue.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605141314385-a2b372e2d9cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHZpcnR1ZSUyRm1vcmFsaXR5fGVufDB8fHx8MTc3NTkyMTYyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="덕성의 (of virtue/morality)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이와 관련해 민 총장은 덕성의 방향을 ‘AI+X’보다 ‘X+AI’로 설정했다&lt;br/&gt;&lt;em&gt;Regarding this, President Min set Duksung's direction as 'X+AI' rather than 'AI+X'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;취임 이후 덕성의 교육·연구·행정이 어떤 지점에서 막히고, 학생들이 어디에서 불편을 체감하는지부터 빠르게 확인했고, 공약했던 내용들을 실행하기 위한 준비를 하고 있다&lt;br/&gt;&lt;em&gt;Since taking office, he has quickly identified where Duksung's education, research, and administration are blocked and where students feel inconvenienced, and is preparing to implement the promised initiatives.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;덕성의 AI 전환은 기술 중심이 아니라 사람 중심이어야 한다&lt;br/&gt;&lt;em&gt;Duksung's AI transition should be human-centered rather than technology-centered.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;덕성의 가치는 중요합니다.&lt;br/&gt;&lt;em&gt;The value of virtue is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;덕성의 의미를 배웁니다.&lt;br/&gt;&lt;em&gt;We learn the meaning of virtue.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 12 Apr 2026 00:33:53 +0900</pubDate><guid isPermaLink="false">vocab-1b0a4649dbb021a1f7b372f59a5b5629f982bdd5</guid><enclosure url="https://images.unsplash.com/photo-1605141314385-a2b372e2d9cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHZpcnR1ZSUyRm1vcmFsaXR5fGVufDB8fHx8MTc3NTkyMTYyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="115491" /><ns2:content url="https://images.unsplash.com/photo-1605141314385-a2b372e2d9cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHZpcnR1ZSUyRm1vcmFsaXR5fGVufDB8fHx8MTc3NTkyMTYyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1605141314385-a2b372e2d9cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHZpcnR1ZSUyRm1vcmFsaXR5fGVufDB8fHx8MTc3NTkyMTYyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>덕성의</category></item><item><title>덕성여대 – Dukseong Women's University</title><link>urn:urn:vocab:덕성여대</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Duksung Women's University's Political Science and Diplomacy Major Conducts 'The National Assembly is Just an Excuse' Field Study (덕성여대 정치외교학전공, ‘국회는 핑계고’ 현장학습 진행) &lt;&lt;br/&gt;&lt;em&gt;Duksung Women's University's Political Science and Diplomacy Major Conducts 'The National Assembly is Just an Excuse' Field Study&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;title&gt;Duksung Women's University's Political Science and Diplomacy Major Conducts 'The National Assembly is Just an Excuse' Field Study (덕성여대 정치외교학전공, ‘국회는 핑계고’ 현장학습 진행)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Duksung Women's University's Political Science and Diplomacy Major Conducts 'The National Assembly is Just an Excuse' Field Study&lt;/em&gt;&lt;/p&gt;
