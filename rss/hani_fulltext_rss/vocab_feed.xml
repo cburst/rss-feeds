@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 15:07:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 17:51:47 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>사람입니다 – is a person</title><link>urn:urn:vocab:사람입니다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>재건축 – reconstruction</title><link>urn:urn:vocab:재건축</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1531476071227-b6d027595486?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvbnN0cnVjdGlvbnxlbnwwfHx8fDE3NzU5ODM4OTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재건축 (reconstruction)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Samsung C&amp;T Selected as Construction Contractor for Daechi Ssangyong 1st Reconstruction Project (삼성물산, 대치쌍용1차 재건축 사업 시공사로 선정) &lt;&lt;br/&gt;&lt;em&gt;Samsung C&amp;T Selected as Construction Contractor for Daechi Ssangyong 1st Reconstruction Project (Samsung C&amp;T, selected as construction contractor for Daechi Ssangyong 1st reconstruction project)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Samsung C&amp;T Selected as Construction Contractor for Daechi Ssangyong 1st Reconstruction Project (삼성물산, 대치쌍용1차 재건축 사업 시공사로 선정)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Samsung C&amp;T Selected as Construction Contractor for Daechi Ssangyong 1st Reconstruction Project (Samsung C&amp;T, selected as construction contractor for Daechi Ssangyong 1st reconstruction project)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(삼성물산 건설부문은 서울 강남구 대치동 대치쌍용1차 재건축 사업의 시공사로 선정됐다고 12일 밝혔다&lt;br/&gt;&lt;em&gt;(Samsung C&amp;T's construction division announced on the 12th that it has been selected as the construction contractor for the Daechi Ssangyong 1st reconstruction project in Daechi-dong, Gangnam-gu, Seoul)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;재건축이 시작되었습니다.&lt;br/&gt;&lt;em&gt;The reconstruction has begun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도시 재건축이 필요합니다.&lt;br/&gt;&lt;em&gt;Urban reconstruction is necessary.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1531476071227-b6d027595486?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvbnN0cnVjdGlvbnxlbnwwfHx8fDE3NzU5ODM4OTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재건축 (reconstruction)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Samsung C&amp;T Selected as Construction Contractor for Daechi Ssangyong 1st Reconstruction Project (삼성물산, 대치쌍용1차 재건축 사업 시공사로 선정) &lt;&lt;br/&gt;&lt;em&gt;Samsung C&amp;T Selected as Construction Contractor for Daechi Ssangyong 1st Reconstruction Project (Samsung C&amp;T, selected as construction contractor for Daechi Ssangyong 1st reconstruction project)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Samsung C&amp;T Selected as Construction Contractor for Daechi Ssangyong 1st Reconstruction Project (삼성물산, 대치쌍용1차 재건축 사업 시공사로 선정)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Samsung C&amp;T Selected as Construction Contractor for Daechi Ssangyong 1st Reconstruction Project (Samsung C&amp;T, selected as construction contractor for Daechi Ssangyong 1st reconstruction project)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(삼성물산 건설부문은 서울 강남구 대치동 대치쌍용1차 재건축 사업의 시공사로 선정됐다고 12일 밝혔다&lt;br/&gt;&lt;em&gt;(Samsung C&amp;T's construction division announced on the 12th that it has been selected as the construction contractor for the Daechi Ssangyong 1st reconstruction project in Daechi-dong, Gangnam-gu, Seoul)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;재건축이 시작되었습니다.&lt;br/&gt;&lt;em&gt;The reconstruction has begun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도시 재건축이 필요합니다.&lt;br/&gt;&lt;em&gt;Urban reconstruction is necessary.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 12 Apr 2026 17:51:46 +0900</pubDate><guid isPermaLink="false">vocab-18e4d03bca67779343cfdcf9c556ce14c360326c</guid><enclosure url="https://images.unsplash.com/photo-1531476071227-b6d027595486?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvbnN0cnVjdGlvbnxlbnwwfHx8fDE3NzU5ODM4OTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="203811" /><ns2:content url="https://images.unsplash.com/photo-1531476071227-b6d027595486?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvbnN0cnVjdGlvbnxlbnwwfHx8fDE3NzU5ODM4OTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1531476071227-b6d027595486?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvbnN0cnVjdGlvbnxlbnwwfHx8fDE3NzU5ODM4OTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>재건축</category></item><item><title>주식시장 – stock market</title><link>urn:urn:vocab:주식시장</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE3NzU5ODE1MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주식시장 (stock market)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"The Financial Investment Income Tax is the Final Step in Normalizing the Stock Market" (금투세 논의 다시 시작될까…“금투세가 주식시장 정상화 마지막 단계”) &lt;&lt;br/&gt;&lt;em&gt;"The Financial Investment Income Tax is the Final Step in Normalizing the Stock Market" (Will the discussion on the financial investment income tax resume... "The financial investment income tax is the final step in normalizing the stock market") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"The Financial Investment Income Tax is the Final Step in Normalizing the Stock Market" (금투세 논의 다시 시작될까…“금투세가 주식시장 정상화 마지막 단계”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"The Financial Investment Income Tax is the Final Step in Normalizing the Stock Market" (Will the discussion on the financial investment income tax resume... "The financial investment income tax is the final step in normalizing the stock market")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재 국내 주식시장은 상장주식 대주주(종목당 50억원 이상 등)에게만 양도소득세를 부과하는 구조다&lt;br/&gt;&lt;em&gt;Currently, the domestic stock market has a structure where capital gains tax is imposed only on major shareholders of listed stocks (e.g., those with 50 billion won or more per stock).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주식시장이 열렸어요.&lt;br/&gt;&lt;em&gt;The stock market opened.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주식시장을 공부해요.&lt;br/&gt;&lt;em&gt;I study the stock market.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE3NzU5ODE1MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주식시장 (stock market)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"The Financial Investment Income Tax is the Final Step in Normalizing the Stock Market" (금투세 논의 다시 시작될까…“금투세가 주식시장 정상화 마지막 단계”) &lt;&lt;br/&gt;&lt;em&gt;"The Financial Investment Income Tax is the Final Step in Normalizing the Stock Market" (Will the discussion on the financial investment income tax resume... "The financial investment income tax is the final step in normalizing the stock market") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"The Financial Investment Income Tax is the Final Step in Normalizing the Stock Market" (금투세 논의 다시 시작될까…“금투세가 주식시장 정상화 마지막 단계”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"The Financial Investment Income Tax is the Final Step in Normalizing the Stock Market" (Will the discussion on the financial investment income tax resume... "The financial investment income tax is the final step in normalizing the stock market")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재 국내 주식시장은 상장주식 대주주(종목당 50억원 이상 등)에게만 양도소득세를 부과하는 구조다&lt;br/&gt;&lt;em&gt;Currently, the domestic stock market has a structure where capital gains tax is imposed only on major shareholders of listed stocks (e.g., those with 50 billion won or more per stock).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주식시장이 열렸어요.&lt;br/&gt;&lt;em&gt;The stock market opened.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주식시장을 공부해요.&lt;br/&gt;&lt;em&gt;I study the stock market.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 12 Apr 2026 17:12:11 +0900</pubDate><guid isPermaLink="false">vocab-5739497186b226df2e15ecbb78ff6492cb7fd37e</guid><enclosure url="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE3NzU5ODE1MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="62019" /><ns2:content url="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE3NzU5ODE1MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE3NzU5ODE1MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>주식시장</category></item><item><title>사람입니다 – is a person</title><link>urn:urn:vocab:사람입니다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1733906130504-0055d27cad5e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGElMjBwZXJzb258ZW58MHx8fHwxNzc1OTc0MDQ1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사람입니다 (is a person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;감사할 줄 안다면 당신은 이미 복 받은 사람입니다&lt;br/&gt;&lt;em&gt;If you know how to be grateful, you are already a blessed person.&lt;/em&gt;&lt;/p&gt;

@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 15:07:43 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 17:51:58 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>검사가 – prosecutor (subject marker)</title><link>urn:urn:vocab:검사가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>후보로 – as a candidate</title><link>urn:urn:vocab:후보로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758520144437-f068ecaf0d83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjYW5kaWRhdGV8ZW58MHx8fHwxNzc1OTgzOTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="후보로 (as a candidate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(A씨(29)는 이번 선거에 본인이 졸업한 대학이 있는 5인 선거구 구의원 후보로 출마했다&lt;br/&gt;&lt;em&gt;Mr. A (29) ran as a candidate for the district council in a 5-member constituency where his alma mater is located in this election.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (민주당 경기지사 후보로 확정된 추미애 전 의원은 “민간인을 상대로 한 무차별 살상에 대해 인권적 차원에서 문제를 제기한 대통령의 메시지를 적극 지지한다”고 밝혔습니다&lt;br/&gt;&lt;em&gt;Former lawmaker Choo Mi-ae, who was confirmed as the Democratic Party's Gyeonggi gubernatorial candidate, stated, "I actively support the president's message raising the issue from a human rights perspective regarding indiscriminate killings targeting civilians."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;안 의원은 ‘술·식사비 대납 의혹’이 제기됐지만 전북지사 민주당 최종 후보로 선출된 이원택 의원에 대한 재감찰도 거듭 촉구했다&lt;br/&gt;&lt;em&gt;Lawmaker Ahn repeatedly urged for a reinvestigation into lawmaker Lee Won-taek, who was selected as the Democratic Party's final candidate for North Jeolla governor, despite allegations of 'suspicions of paying for alcohol and meal expenses' being raised.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 후보로 선출되었어요.&lt;br/&gt;&lt;em&gt;He was elected as a candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 후보로 지원했어요.&lt;br/&gt;&lt;em&gt;I applied as a candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758520144437-f068ecaf0d83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjYW5kaWRhdGV8ZW58MHx8fHwxNzc1OTgzOTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="후보로 (as a candidate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(A씨(29)는 이번 선거에 본인이 졸업한 대학이 있는 5인 선거구 구의원 후보로 출마했다&lt;br/&gt;&lt;em&gt;Mr. A (29) ran as a candidate for the district council in a 5-member constituency where his alma mater is located in this election.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (민주당 경기지사 후보로 확정된 추미애 전 의원은 “민간인을 상대로 한 무차별 살상에 대해 인권적 차원에서 문제를 제기한 대통령의 메시지를 적극 지지한다”고 밝혔습니다&lt;br/&gt;&lt;em&gt;Former lawmaker Choo Mi-ae, who was confirmed as the Democratic Party's Gyeonggi gubernatorial candidate, stated, "I actively support the president's message raising the issue from a human rights perspective regarding indiscriminate killings targeting civilians."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;안 의원은 ‘술·식사비 대납 의혹’이 제기됐지만 전북지사 민주당 최종 후보로 선출된 이원택 의원에 대한 재감찰도 거듭 촉구했다&lt;br/&gt;&lt;em&gt;Lawmaker Ahn repeatedly urged for a reinvestigation into lawmaker Lee Won-taek, who was selected as the Democratic Party's final candidate for North Jeolla governor, despite allegations of 'suspicions of paying for alcohol and meal expenses' being raised.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 후보로 선출되었어요.&lt;br/&gt;&lt;em&gt;He was elected as a candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 후보로 지원했어요.&lt;br/&gt;&lt;em&gt;I applied as a candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 12 Apr 2026 17:51:58 +0900</pubDate><guid isPermaLink="false">vocab-23077255aaf82eb703174ea291c9b5b7dd1a77bd</guid><enclosure url="https://images.unsplash.com/photo-1758520144437-f068ecaf0d83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjYW5kaWRhdGV8ZW58MHx8fHwxNzc1OTgzOTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="60984" /><ns2:content url="https://images.unsplash.com/photo-1758520144437-f068ecaf0d83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjYW5kaWRhdGV8ZW58MHx8fHwxNzc1OTgzOTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1758520144437-f068ecaf0d83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjYW5kaWRhdGV8ZW58MHx8fHwxNzc1OTgzOTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>후보로</category></item><item><title>고향집 – hometown house</title><link>urn:urn:vocab:고향집</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1621544346312-546fe424bb6d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21ldG93biUyMGhvdXNlfGVufDB8fHx8MTc3NTk4MTUzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고향집 (hometown house)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;평양시 만경대구역 만경대동에 있는 ‘만경대 고향집’은 북한 주민들은 물론 외국 관광객들도 즐겨 찾는 장소로, 필자 역시 2014년 대동강변에 있는 ‘만경대 고향집’을 방문한 적이 있다&lt;br/&gt;&lt;em&gt;The 'Mangyongdae Native House' located in Mangyongdae-dong, Mangyongdae District, Pyongyang is a popular destination not only for North Korean residents but also for foreign tourists. I also visited the 'Mangyongdae Native House' by the Daedong River in 2014.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지금의 행정구역으로는 ‘평양시 만경대구역 칠골동’으로 ‘만경대 고향집’과는 직선거리로 5㎞가량 떨어져 있다&lt;br/&gt;&lt;em&gt;In the current administrative district, it is 'Chilgol-dong, Mangyongdae District, Pyongyang City', located about 5 km in a straight line from the 'Mangyongdae Native House'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김일성이 태어난 곳이 ‘만경대 고향집’이 아닌 ‘칠골’이란 사실은 북한의 과거 자료에서도 확인된다&lt;br/&gt;&lt;em&gt;(The fact that Kim Il-sung was born in 'Chilgol', not the 'Mangyongdae Native House', is also confirmed in North Korea's past records.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 고향집에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to my hometown home.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고향집이 아름답습니다.&lt;br/&gt;&lt;em&gt;My hometown home is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1621544346312-546fe424bb6d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21ldG93biUyMGhvdXNlfGVufDB8fHx8MTc3NTk4MTUzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고향집 (hometown house)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;평양시 만경대구역 만경대동에 있는 ‘만경대 고향집’은 북한 주민들은 물론 외국 관광객들도 즐겨 찾는 장소로, 필자 역시 2014년 대동강변에 있는 ‘만경대 고향집’을 방문한 적이 있다&lt;br/&gt;&lt;em&gt;The 'Mangyongdae Native House' located in Mangyongdae-dong, Mangyongdae District, Pyongyang is a popular destination not only for North Korean residents but also for foreign tourists. I also visited the 'Mangyongdae Native House' by the Daedong River in 2014.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지금의 행정구역으로는 ‘평양시 만경대구역 칠골동’으로 ‘만경대 고향집’과는 직선거리로 5㎞가량 떨어져 있다&lt;br/&gt;&lt;em&gt;In the current administrative district, it is 'Chilgol-dong, Mangyongdae District, Pyongyang City', located about 5 km in a straight line from the 'Mangyongdae Native House'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김일성이 태어난 곳이 ‘만경대 고향집’이 아닌 ‘칠골’이란 사실은 북한의 과거 자료에서도 확인된다&lt;br/&gt;&lt;em&gt;(The fact that Kim Il-sung was born in 'Chilgol', not the 'Mangyongdae Native House', is also confirmed in North Korea's past records.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 고향집에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to my hometown home.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고향집이 아름답습니다.&lt;br/&gt;&lt;em&gt;My hometown home is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 12 Apr 2026 17:12:26 +0900</pubDate><guid isPermaLink="false">vocab-e584886097d1b4162bcb170759f1723c37e87e9e</guid><enclosure url="https://images.unsplash.com/photo-1621544346312-546fe424bb6d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21ldG93biUyMGhvdXNlfGVufDB8fHx8MTc3NTk4MTUzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="524084" /><ns2:content url="https://images.unsplash.com/photo-1621544346312-546fe424bb6d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21ldG93biUyMGhvdXNlfGVufDB8fHx8MTc3NTk4MTUzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1621544346312-546fe424bb6d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21ldG93biUyMGhvdXNlfGVufDB8fHx8MTc3NTk4MTUzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>고향집</category></item><item><title>검사가 – prosecutor (subject marker)</title><link>urn:urn:vocab:검사가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1763142842671-573188baaabd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9zZWN1dG9yJTIwJTI4c3ViamVjdCUyMG1hcmtlciUyOXxlbnwwfHx8fDE3NzU5NzQwNTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="검사가 (prosecutor (subject marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(여권의 전례 없는 파상 공세는 박 검사가 검찰 조작 기소 의혹의 가장 약한 고리라고 여기기 때문입니다&lt;br/&gt;&lt;em&gt;(The unprecedented all-out offensive against the passport is because Prosecutor Park is considered the weakest link in the suspicion of fabricated prosecution charges.&lt;/em&gt;&lt;/p&gt;
