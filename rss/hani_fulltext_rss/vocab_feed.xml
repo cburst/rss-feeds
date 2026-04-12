@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 08:55:19 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 13:03:16 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,47 @@
 
 
 
-  <item><title>억원 – hundred million won</title><link>urn:urn:vocab:억원</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>억원을 – hundred million won</title><link>urn:urn:vocab:억원을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771736006922-69a42a3e377f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW5kcmVkJTIwbWlsbGlvbiUyMHdvbnxlbnwwfHx8fDE3NzU5NTE3MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="억원을 (hundred million won)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;금융위원회가 지난 8일 발표한 3월 가계대출 동향을 보면, 지난달 전체 가계대출 증가 폭 3조5천억원 가운데 상호금융권이 2조7천억원을 차지했다&lt;br/&gt;&lt;em&gt;According to the household loan trends for March announced by the Financial Services Commission on the 8th, out of the total increase of 3.5 trillion won in household loans last month, mutual finance institutions accounted for 2.7 trillion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(쿠팡이 10일 전자공시시스템에 공시한 감사보고서를 보면, 쿠팡은 모회사인 미국 쿠팡 아이엔씨에 중간배당금 1조4659억원을 지급했다&lt;br/&gt;&lt;em&gt;According to the audit report disclosed by Coupang on the 10th through the electronic disclosure system, Coupang paid an interim dividend of 1.4659 trillion won to its parent company, Coupang Inc. in the United States.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이에 더해 쿠팡은 지난해 주식발행초과금(주식을 액면가보다 비싸게 발행해 생긴 자금) 6조2159억원을 이익잉여금(그동안 벌어서 쌓은 이익)으로 전입해, 기존에 누적됐던 적자를 털어냈다&lt;br/&gt;&lt;em&gt;In addition, Coupang transferred 6.2159 trillion won from last year's capital surplus (funds generated from issuing shares above par value) to retained earnings (profits accumulated over time), thereby clearing the previously accumulated deficit.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 억원을 모았어요.&lt;br/&gt;&lt;em&gt;I saved up a hundred million won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;억원을 은행에 맡겼어요.&lt;br/&gt;&lt;em&gt;I deposited a hundred million won in the bank.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771736006922-69a42a3e377f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW5kcmVkJTIwbWlsbGlvbiUyMHdvbnxlbnwwfHx8fDE3NzU5NTE3MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="억원을 (hundred million won)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;금융위원회가 지난 8일 발표한 3월 가계대출 동향을 보면, 지난달 전체 가계대출 증가 폭 3조5천억원 가운데 상호금융권이 2조7천억원을 차지했다&lt;br/&gt;&lt;em&gt;According to the household loan trends for March announced by the Financial Services Commission on the 8th, out of the total increase of 3.5 trillion won in household loans last month, mutual finance institutions accounted for 2.7 trillion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(쿠팡이 10일 전자공시시스템에 공시한 감사보고서를 보면, 쿠팡은 모회사인 미국 쿠팡 아이엔씨에 중간배당금 1조4659억원을 지급했다&lt;br/&gt;&lt;em&gt;According to the audit report disclosed by Coupang on the 10th through the electronic disclosure system, Coupang paid an interim dividend of 1.4659 trillion won to its parent company, Coupang Inc. in the United States.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이에 더해 쿠팡은 지난해 주식발행초과금(주식을 액면가보다 비싸게 발행해 생긴 자금) 6조2159억원을 이익잉여금(그동안 벌어서 쌓은 이익)으로 전입해, 기존에 누적됐던 적자를 털어냈다&lt;br/&gt;&lt;em&gt;In addition, Coupang transferred 6.2159 trillion won from last year's capital surplus (funds generated from issuing shares above par value) to retained earnings (profits accumulated over time), thereby clearing the previously accumulated deficit.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 억원을 모았어요.&lt;br/&gt;&lt;em&gt;I saved up a hundred million won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;억원을 은행에 맡겼어요.&lt;br/&gt;&lt;em&gt;I deposited a hundred million won in the bank.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 12 Apr 2026 13:03:16 +0900</pubDate><guid isPermaLink="false">vocab-bbee0774a9a0a80e8e6f184d2ec95806c7d44423</guid><enclosure url="https://images.unsplash.com/photo-1771736006922-69a42a3e377f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW5kcmVkJTIwbWlsbGlvbiUyMHdvbnxlbnwwfHx8fDE3NzU5NTE3MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="90871" /><ns2:content url="https://images.unsplash.com/photo-1771736006922-69a42a3e377f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW5kcmVkJTIwbWlsbGlvbiUyMHdvbnxlbnwwfHx8fDE3NzU5NTE3MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1771736006922-69a42a3e377f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW5kcmVkJTIwbWlsbGlvbiUyMHdvbnxlbnwwfHx8fDE3NzU5NTE3MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>억원을</category></item><item><title>상자에는 – in the box</title><link>urn:urn:vocab:상자에는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1688099643311-97ce56075263?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGJveHxlbnwwfHx8fDE3NzU5NTkxNjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상자에는 (in the box)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;봄 상자에는 눌러 말린 벚꽃 잎이나 새싹 씨앗을, 여름 상자에는 바닷가에서 주운 조개껍데기나 매미 허물을, 가을 상자에는 도토리와 단풍잎을, 겨울 상자에는 말린 귤 껍질을 담는 식이다&lt;br/&gt;&lt;em&gt;In the spring box, they put pressed and dried cherry blossom leaves or sprouting seeds; in the summer box, seashells picked up at the beach or cicada exuviae; in the autumn box, acorns and maple leaves; and in the winter box, dried tangerine peels, in such a manner.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;상자에는 책이 있어요.&lt;br/&gt;&lt;em&gt;There is a book in the box.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;상자에는 사과가 있어요.&lt;br/&gt;&lt;em&gt;There is an apple in the box.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1688099643311-97ce56075263?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGJveHxlbnwwfHx8fDE3NzU5NTkxNjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상자에는 (in the box)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;봄 상자에는 눌러 말린 벚꽃 잎이나 새싹 씨앗을, 여름 상자에는 바닷가에서 주운 조개껍데기나 매미 허물을, 가을 상자에는 도토리와 단풍잎을, 겨울 상자에는 말린 귤 껍질을 담는 식이다&lt;br/&gt;&lt;em&gt;In the spring box, they put pressed and dried cherry blossom leaves or sprouting seeds; in the summer box, seashells picked up at the beach or cicada exuviae; in the autumn box, acorns and maple leaves; and in the winter box, dried tangerine peels, in such a manner.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;상자에는 책이 있어요.&lt;br/&gt;&lt;em&gt;There is a book in the box.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;상자에는 사과가 있어요.&lt;br/&gt;&lt;em&gt;There is an apple in the box.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 12 Apr 2026 10:59:27 +0900</pubDate><guid isPermaLink="false">vocab-0917ea385afd1c415c43e88ef961da7ebeaceb41</guid><enclosure url="https://images.unsplash.com/photo-1688099643311-97ce56075263?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGJveHxlbnwwfHx8fDE3NzU5NTkxNjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="169129" /><ns2:content url="https://images.unsplash.com/photo-1688099643311-97ce56075263?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGJveHxlbnwwfHx8fDE3NzU5NTkxNjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1688099643311-97ce56075263?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGJveHxlbnwwfHx8fDE3NzU5NTkxNjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>상자에는</category></item><item><title>억원 – hundred million won</title><link>urn:urn:vocab:억원</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771736006922-69a42a3e377f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW5kcmVkJTIwbWlsbGlvbiUyMHdvbnxlbnwwfHx8fDE3NzU5NTE3MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="억원 (hundred million won)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(금융감독원이 2조4천억원 규모의 한화솔루션 유상증자 계획에 제동을 걸었다&lt;br/&gt;&lt;em&gt;(The Financial Supervisory Service has put the brakes on Hanwha Solutions' 2.4 trillion won rights offering plan)&lt;/em&gt;&lt;/p&gt;
