@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 06:48:27 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 08:55:19 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>고정관념을 – stereotype</title><link>urn:urn:vocab:고정관념을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>억원 – hundred million won</title><link>urn:urn:vocab:억원</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771736006922-69a42a3e377f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW5kcmVkJTIwbWlsbGlvbiUyMHdvbnxlbnwwfHx8fDE3NzU5NTE3MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="억원 (hundred million won)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(금융감독원이 2조4천억원 규모의 한화솔루션 유상증자 계획에 제동을 걸었다&lt;br/&gt;&lt;em&gt;(The Financial Supervisory Service has put the brakes on Hanwha Solutions' 2.4 trillion won rights offering plan)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(앞서 한화솔루션은 지난달 26일 2조4천억원 규모의 주주배정 유상증자를 발표한 바 있다&lt;br/&gt;&lt;em&gt;(Previously, Hanwha Solutions announced a 2.4 trillion won rights offering on the 26th of last month)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;증자 규모가 기존 발행주식의 약 40%에 이르고, 조달 자금 가운데 약 1조5천억원이 회사채 상환 등 채무 상환에 쓰인다는 점이 논란이 됐다&lt;br/&gt;&lt;em&gt;(The offering size amounts to about 40% of existing shares, and the fact that about 1.5 trillion won of the raised funds will be used for debt repayment, including corporate bond redemption, has become controversial)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 억원을 모았어요.&lt;br/&gt;&lt;em&gt;I saved a hundred million won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;억원이 필요해요.&lt;br/&gt;&lt;em&gt;I need a hundred million won.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771736006922-69a42a3e377f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW5kcmVkJTIwbWlsbGlvbiUyMHdvbnxlbnwwfHx8fDE3NzU5NTE3MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="억원 (hundred million won)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(금융감독원이 2조4천억원 규모의 한화솔루션 유상증자 계획에 제동을 걸었다&lt;br/&gt;&lt;em&gt;(The Financial Supervisory Service has put the brakes on Hanwha Solutions' 2.4 trillion won rights offering plan)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(앞서 한화솔루션은 지난달 26일 2조4천억원 규모의 주주배정 유상증자를 발표한 바 있다&lt;br/&gt;&lt;em&gt;(Previously, Hanwha Solutions announced a 2.4 trillion won rights offering on the 26th of last month)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;증자 규모가 기존 발행주식의 약 40%에 이르고, 조달 자금 가운데 약 1조5천억원이 회사채 상환 등 채무 상환에 쓰인다는 점이 논란이 됐다&lt;br/&gt;&lt;em&gt;(The offering size amounts to about 40% of existing shares, and the fact that about 1.5 trillion won of the raised funds will be used for debt repayment, including corporate bond redemption, has become controversial)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 억원을 모았어요.&lt;br/&gt;&lt;em&gt;I saved a hundred million won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;억원이 필요해요.&lt;br/&gt;&lt;em&gt;I need a hundred million won.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 12 Apr 2026 08:55:19 +0900</pubDate><guid isPermaLink="false">vocab-090ceb4874c56a2cc214934681c96e470b35217c</guid><enclosure url="https://images.unsplash.com/photo-1771736006922-69a42a3e377f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW5kcmVkJTIwbWlsbGlvbiUyMHdvbnxlbnwwfHx8fDE3NzU5NTE3MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="90871" /><ns2:content url="https://images.unsplash.com/photo-1771736006922-69a42a3e377f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW5kcmVkJTIwbWlsbGlvbiUyMHdvbnxlbnwwfHx8fDE3NzU5NTE3MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1771736006922-69a42a3e377f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW5kcmVkJTIwbWlsbGlvbiUyMHdvbnxlbnwwfHx8fDE3NzU5NTE3MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>억원</category></item><item><title>고정관념을 – stereotype</title><link>urn:urn:vocab:고정관념을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1541844053589-346841d0b34c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGVyZW90eXBlfGVufDB8fHx8MTc3NTk0NDEwMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고정관념을 (stereotype)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;성별 고정관념을 넘어선 조롱과 혐오가 놀이처럼 퍼지고 있기도 하다&lt;br/&gt;&lt;em&gt;Mockery and hatred beyond gender stereotypes are spreading like play&lt;/em&gt;&lt;/p&gt;
