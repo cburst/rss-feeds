@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 06:42:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 10:50:01 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>언젠가 – someday</title><link>urn:urn:vocab:언젠가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사업은 – business/enterprise</title><link>urn:urn:vocab:사업은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1757405909200-5f19f1f39eae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyRmVudGVycHJpc2V8ZW58MHx8fHwxNzc2MDQ0OTkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사업은 (business/enterprise)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘3만원 반값 패스’ 등 대중교통 관련 예산은 늘리고, 펀드·융자 사업은 감액해 정부안 26조2천억원을 유지했다&lt;br/&gt;&lt;em&gt;The budget for public transportation, such as the '30,000 won half-price pass,' was increased, while fund and loan projects were reduced, maintaining the government's proposal of 26.2 trillion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  우선 정부가 10조1천억원 규모로 편성했던 고유가 부담 완화 사업은 국회에서 10조4천억원으로 3천억원 늘었다&lt;br/&gt;&lt;em&gt;(First, the government's 10.1 trillion won project to alleviate high oil price burdens was increased by 300 billion won to 10.4 trillion won in the National Assembly.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사업은 서울시 강남구 대치동 66번지 일대에 지상 49층, 총 6개동 규모의 999가구와 부대·복리시설 등을 조성하는 것이다&lt;br/&gt;&lt;em&gt;The project involves constructing a 49-story above-ground complex with a total of 6 buildings, including 999 households and ancillary welfare facilities, in the Daechi-dong area of Gangnam-gu, Seoul, at lot number 66.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사업은 어렵습니다.&lt;br/&gt;&lt;em&gt;Business is difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사업은 재미있습니다.&lt;br/&gt;&lt;em&gt;Business is fun.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1757405909200-5f19f1f39eae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyRmVudGVycHJpc2V8ZW58MHx8fHwxNzc2MDQ0OTkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사업은 (business/enterprise)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘3만원 반값 패스’ 등 대중교통 관련 예산은 늘리고, 펀드·융자 사업은 감액해 정부안 26조2천억원을 유지했다&lt;br/&gt;&lt;em&gt;The budget for public transportation, such as the '30,000 won half-price pass,' was increased, while fund and loan projects were reduced, maintaining the government's proposal of 26.2 trillion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  우선 정부가 10조1천억원 규모로 편성했던 고유가 부담 완화 사업은 국회에서 10조4천억원으로 3천억원 늘었다&lt;br/&gt;&lt;em&gt;(First, the government's 10.1 trillion won project to alleviate high oil price burdens was increased by 300 billion won to 10.4 trillion won in the National Assembly.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사업은 서울시 강남구 대치동 66번지 일대에 지상 49층, 총 6개동 규모의 999가구와 부대·복리시설 등을 조성하는 것이다&lt;br/&gt;&lt;em&gt;The project involves constructing a 49-story above-ground complex with a total of 6 buildings, including 999 households and ancillary welfare facilities, in the Daechi-dong area of Gangnam-gu, Seoul, at lot number 66.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사업은 어렵습니다.&lt;br/&gt;&lt;em&gt;Business is difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사업은 재미있습니다.&lt;br/&gt;&lt;em&gt;Business is fun.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 13 Apr 2026 10:50:00 +0900</pubDate><guid isPermaLink="false">vocab-05b09c75c1b3fcc95efb810fa001007ac8800e60</guid><enclosure url="https://images.unsplash.com/photo-1757405909200-5f19f1f39eae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyRmVudGVycHJpc2V8ZW58MHx8fHwxNzc2MDQ0OTkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="113890" /><ns2:content url="https://images.unsplash.com/photo-1757405909200-5f19f1f39eae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyRmVudGVycHJpc2V8ZW58MHx8fHwxNzc2MDQ0OTkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1757405909200-5f19f1f39eae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyRmVudGVycHJpc2V8ZW58MHx8fHwxNzc2MDQ0OTkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사업은</category></item><item><title>전세보증대출 – jeonse guarantee loan</title><link>urn:urn:vocab:전세보증대출</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1552890388-211d5ad61e15?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTAlODQlRUMlODQlQjglRUIlQjMlQjQlRUMlQTYlOUQlRUIlOEMlODAlRUMlQjYlOUN8ZW58MHx8fHwxNzc2MDM3NTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전세보증대출 (jeonse guarantee loan)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Financial Services Commission "Considering Not Allowing Maturity Extensions for 'Jeonse Guarantee Loans' for Single-Homeowners Living in Jeonse" (금융위 “전세 거주 1주택자 ‘전세보증대출’ 만기 불허 검토”) &lt;&lt;br/&gt;&lt;em&gt;Financial Services Commission "Considering Not Allowing Maturity Extensions for 'Jeonse Guarantee Loans' for Single-Homeowners Living in Jeonse"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Financial Services Commission "Considering Not Allowing Maturity Extensions for 'Jeonse Guarantee Loans' for Single-Homeowners Living in Jeonse" (금융위 “전세 거주 1주택자 ‘전세보증대출’ 만기 불허 검토”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Financial Services Commission "Considering Not Allowing Maturity Extensions for 'Jeonse Guarantee Loans' for Single-Homeowners Living in Jeonse"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(금융위원회가 비거주 1주택자의 전세보증대출(만기 2년·약 14조원 추산)에 대해 만기 연장을 불허하는 방안을 검토하고 있는 것으로 나타났다&lt;br/&gt;&lt;em&gt;(It has been revealed that the Financial Services Commission is considering a plan to disallow maturity extensions for 'Jeonse Guarantee Loans' (2-year maturity, estimated at approximately 14 trillion won) for non-resident single-homeowners.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전세보증대출이 필요해요.&lt;br/&gt;&lt;em&gt;I need a jeonse guarantee loan.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전세보증대출을 신청했어요.&lt;br/&gt;&lt;em&gt;I applied for a jeonse guarantee loan.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1552890388-211d5ad61e15?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTAlODQlRUMlODQlQjglRUIlQjMlQjQlRUMlQTYlOUQlRUIlOEMlODAlRUMlQjYlOUN8ZW58MHx8fHwxNzc2MDM3NTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전세보증대출 (jeonse guarantee loan)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Financial Services Commission "Considering Not Allowing Maturity Extensions for 'Jeonse Guarantee Loans' for Single-Homeowners Living in Jeonse" (금융위 “전세 거주 1주택자 ‘전세보증대출’ 만기 불허 검토”) &lt;&lt;br/&gt;&lt;em&gt;Financial Services Commission "Considering Not Allowing Maturity Extensions for 'Jeonse Guarantee Loans' for Single-Homeowners Living in Jeonse"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Financial Services Commission "Considering Not Allowing Maturity Extensions for 'Jeonse Guarantee Loans' for Single-Homeowners Living in Jeonse" (금융위 “전세 거주 1주택자 ‘전세보증대출’ 만기 불허 검토”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Financial Services Commission "Considering Not Allowing Maturity Extensions for 'Jeonse Guarantee Loans' for Single-Homeowners Living in Jeonse"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(금융위원회가 비거주 1주택자의 전세보증대출(만기 2년·약 14조원 추산)에 대해 만기 연장을 불허하는 방안을 검토하고 있는 것으로 나타났다&lt;br/&gt;&lt;em&gt;(It has been revealed that the Financial Services Commission is considering a plan to disallow maturity extensions for 'Jeonse Guarantee Loans' (2-year maturity, estimated at approximately 14 trillion won) for non-resident single-homeowners.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전세보증대출이 필요해요.&lt;br/&gt;&lt;em&gt;I need a jeonse guarantee loan.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전세보증대출을 신청했어요.&lt;br/&gt;&lt;em&gt;I applied for a jeonse guarantee loan.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 13 Apr 2026 08:45:38 +0900</pubDate><guid isPermaLink="false">vocab-4c07d60538af678a6ae81a6cc9cf48c5ba92b8a2</guid><enclosure url="https://images.unsplash.com/photo-1552890388-211d5ad61e15?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTAlODQlRUMlODQlQjglRUIlQjMlQjQlRUMlQTYlOUQlRUIlOEMlODAlRUMlQjYlOUN8ZW58MHx8fHwxNzc2MDM3NTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="110751" /><ns2:content url="https://images.unsplash.com/photo-1552890388-211d5ad61e15?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTAlODQlRUMlODQlQjglRUIlQjMlQjQlRUMlQTYlOUQlRUIlOEMlODAlRUMlQjYlOUN8ZW58MHx8fHwxNzc2MDM3NTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1552890388-211d5ad61e15?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTAlODQlRUMlODQlQjglRUIlQjMlQjQlRUMlQTYlOUQlRUIlOEMlODAlRUMlQjYlOUN8ZW58MHx8fHwxNzc2MDM3NTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>전세보증대출</category></item><item><title>언젠가 – someday</title><link>urn:urn:vocab:언젠가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1611179612493-0124000b83cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzb21lZGF5fGVufDB8fHx8MTc3NjAzMDEyMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="언젠가 (someday)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (  이 대통령은 지난 9일 국민경제자문회의 1차 전체회의를 주재하고 “언젠가는 거래세와 양도소득세를 같은 수준에서 바꿀 필요가 있다”고 말했다&lt;br/&gt;&lt;em&gt;President Lee presided over the first plenary meeting of the National Economic Advisory Council on the 9th and said, "At some point, it will be necessary to change the transaction tax and capital gains tax to the same level."&lt;/em&gt;&lt;/p&gt;
