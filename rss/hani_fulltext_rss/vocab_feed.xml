@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 13:01:44 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 15:06:38 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>투명성 – transparency</title><link>urn:urn:vocab:투명성</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>마라탕 – spicy hot pot</title><link>urn:urn:vocab:마라탕</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1697862477275-488cfb5e7570?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGljeSUyMGhvdCUyMHBvdHxlbnwwfHx8fDE3NzYwNjAzODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="마라탕 (spicy hot pot)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Food Poisoning Bacteria Detected in Some Franchise Malatang and Peanut Sauces (춘리·샹츠·소림…일부 프랜차이즈 마라탕·땅콩소스서 식중독균 검출) &lt;&lt;br/&gt;&lt;em&gt;Food Poisoning Bacteria Detected in Some Franchise Malatang and Peanut Sauces (Chunli·Xiangci·Shaolin…Food poisoning bacteria detected in some franchise malatang and peanut sauces)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국내 주요 마라탕 프랜차이즈 일부 지점에서 식중독균이 검출됐다&lt;br/&gt;&lt;em&gt;(Food poisoning bacteria were detected at some branches of major domestic malatang franchises)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(13일 한국소비자원은 주요 마라탕 프랜차이즈 업체 20곳의 40개 제품(마라탕 20개, 땅콩소스 20개)을 조사한 결과, 마라탕 1개와 땅콩소스 3개에서 식중독균인 황색포도상구균, 리스테리아 모노사이토제네스, 대장균이 검출됐다고 밝혔다&lt;br/&gt;&lt;em&gt;(On the 13th, the Korea Consumer Agency announced that after investigating 40 products (20 malatang, 20 peanut sauces) from 20 major malatang franchise companies, food poisoning bacteria such as Staphylococcus aureus, Listeria monocytogenes, and Escherichia coli were detected in 1 malatang and 3 peanut sauces)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;마라탕을 먹었어요.&lt;br/&gt;&lt;em&gt;I ate Malatang.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;마라탕이 매워요.&lt;br/&gt;&lt;em&gt;Malatang is spicy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1697862477275-488cfb5e7570?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGljeSUyMGhvdCUyMHBvdHxlbnwwfHx8fDE3NzYwNjAzODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="마라탕 (spicy hot pot)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Food Poisoning Bacteria Detected in Some Franchise Malatang and Peanut Sauces (춘리·샹츠·소림…일부 프랜차이즈 마라탕·땅콩소스서 식중독균 검출) &lt;&lt;br/&gt;&lt;em&gt;Food Poisoning Bacteria Detected in Some Franchise Malatang and Peanut Sauces (Chunli·Xiangci·Shaolin…Food poisoning bacteria detected in some franchise malatang and peanut sauces)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국내 주요 마라탕 프랜차이즈 일부 지점에서 식중독균이 검출됐다&lt;br/&gt;&lt;em&gt;(Food poisoning bacteria were detected at some branches of major domestic malatang franchises)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(13일 한국소비자원은 주요 마라탕 프랜차이즈 업체 20곳의 40개 제품(마라탕 20개, 땅콩소스 20개)을 조사한 결과, 마라탕 1개와 땅콩소스 3개에서 식중독균인 황색포도상구균, 리스테리아 모노사이토제네스, 대장균이 검출됐다고 밝혔다&lt;br/&gt;&lt;em&gt;(On the 13th, the Korea Consumer Agency announced that after investigating 40 products (20 malatang, 20 peanut sauces) from 20 major malatang franchise companies, food poisoning bacteria such as Staphylococcus aureus, Listeria monocytogenes, and Escherichia coli were detected in 1 malatang and 3 peanut sauces)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;마라탕을 먹었어요.&lt;br/&gt;&lt;em&gt;I ate Malatang.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;마라탕이 매워요.&lt;br/&gt;&lt;em&gt;Malatang is spicy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 13 Apr 2026 15:06:38 +0900</pubDate><guid isPermaLink="false">vocab-19fdd4a59dade7e4258f2f9225ae29eb660aaf2c</guid><enclosure url="https://images.unsplash.com/photo-1697862477275-488cfb5e7570?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGljeSUyMGhvdCUyMHBvdHxlbnwwfHx8fDE3NzYwNjAzODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="145086" /><ns2:content url="https://images.unsplash.com/photo-1697862477275-488cfb5e7570?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGljeSUyMGhvdCUyMHBvdHxlbnwwfHx8fDE3NzYwNjAzODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1697862477275-488cfb5e7570?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGljeSUyMGhvdCUyMHBvdHxlbnwwfHx8fDE3NzYwNjAzODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>마라탕</category></item><item><title>투명성 – transparency</title><link>urn:urn:vocab:투명성</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1512099053734-e6767b535838?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFuc3BhcmVuY3l8ZW58MHx8fHwxNzc2MDUyODk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투명성 (transparency)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;EDCF, Abused by the Yoon Suk Yeol Administration, to be Reduced by 36% and Transparency Enhanced (윤석열 정권이 악용한 EDCF, 36% 줄이고 투명성 강화한다) &lt;&lt;br/&gt;&lt;em&gt;EDCF, Abused by the Yoon Suk Yeol Administration, to be Reduced by 36% and Transparency Enhanced&lt;/em&gt;&lt;/p&gt;

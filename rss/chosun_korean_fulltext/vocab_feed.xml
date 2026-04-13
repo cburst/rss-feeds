@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 13:01:58 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 15:06:51 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>지방선거 – local election</title><link>urn:urn:vocab:지방선거</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>인도적 – humanitarian</title><link>urn:urn:vocab:인도적</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591562747474-ab6e2dab1070?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW1hbml0YXJpYW58ZW58MHx8fHwxNzc2MDYwNDAxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인도적 (humanitarian)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령이 X(옛 트위터)에서 팔레스타인을 상대로 한 이스라엘의 ‘국제법 위반’ 행위를 비판한 뒤 이 문제가 양국 간 외교 문제로 비화한 가운데, 우리 정부가 정작 이스라엘의 정책 및 군사 행동이 국제법에 위배될 가능성을 지적하고 팔레스타인에 대한 인도적 지원 확대를 촉구하는 유엔인권이사회(UNHRC) 결의안에는 기권(abstain)표를 던진 것으로 나타났다&lt;br/&gt;&lt;em&gt;(After President Lee Jae-myung criticized Israel's 'violations of international law' against Palestine on X (formerly Twitter), and the issue escalated into a diplomatic dispute between the two countries, it was revealed that our government abstained from voting on a UN Human Rights Council (UNHRC) resolution that pointed out the possibility of Israel's policies and military actions violating international law and urged expanded humanitarian aid to Palestine.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 독립된 조사위원회(COI)가 책임 규명에 나서고, 모든 나라가 팔레스테인에 대한 인도적 지원을 확대할 것을 촉구하고 있다&lt;br/&gt;&lt;em&gt;(At the same time, an independent commission of inquiry (COI) is proceeding with identifying responsibility, and all countries are being urged to expand humanitarian aid to Palestine.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인도적 지원이 필요합니다.&lt;br/&gt;&lt;em&gt;Humanitarian assistance is needed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 인도적 가치를 가집니다.&lt;br/&gt;&lt;em&gt;He has humanitarian values.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591562747474-ab6e2dab1070?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW1hbml0YXJpYW58ZW58MHx8fHwxNzc2MDYwNDAxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인도적 (humanitarian)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령이 X(옛 트위터)에서 팔레스타인을 상대로 한 이스라엘의 ‘국제법 위반’ 행위를 비판한 뒤 이 문제가 양국 간 외교 문제로 비화한 가운데, 우리 정부가 정작 이스라엘의 정책 및 군사 행동이 국제법에 위배될 가능성을 지적하고 팔레스타인에 대한 인도적 지원 확대를 촉구하는 유엔인권이사회(UNHRC) 결의안에는 기권(abstain)표를 던진 것으로 나타났다&lt;br/&gt;&lt;em&gt;(After President Lee Jae-myung criticized Israel's 'violations of international law' against Palestine on X (formerly Twitter), and the issue escalated into a diplomatic dispute between the two countries, it was revealed that our government abstained from voting on a UN Human Rights Council (UNHRC) resolution that pointed out the possibility of Israel's policies and military actions violating international law and urged expanded humanitarian aid to Palestine.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 독립된 조사위원회(COI)가 책임 규명에 나서고, 모든 나라가 팔레스테인에 대한 인도적 지원을 확대할 것을 촉구하고 있다&lt;br/&gt;&lt;em&gt;(At the same time, an independent commission of inquiry (COI) is proceeding with identifying responsibility, and all countries are being urged to expand humanitarian aid to Palestine.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인도적 지원이 필요합니다.&lt;br/&gt;&lt;em&gt;Humanitarian assistance is needed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 인도적 가치를 가집니다.&lt;br/&gt;&lt;em&gt;He has humanitarian values.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 13 Apr 2026 15:06:51 +0900</pubDate><guid isPermaLink="false">vocab-471874e3d15781e55eea77fd4ed2e19a30aac431</guid><enclosure url="https://images.unsplash.com/photo-1591562747474-ab6e2dab1070?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW1hbml0YXJpYW58ZW58MHx8fHwxNzc2MDYwNDAxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="265061" /><ns2:content url="https://images.unsplash.com/photo-1591562747474-ab6e2dab1070?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW1hbml0YXJpYW58ZW58MHx8fHwxNzc2MDYwNDAxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1591562747474-ab6e2dab1070?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW1hbml0YXJpYW58ZW58MHx8fHwxNzc2MDYwNDAxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>인도적</category></item><item><title>지방선거 – local election</title><link>urn:urn:vocab:지방선거</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604893839428-24a6029582cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb2NhbCUyMGVsZWN0aW9ufGVufDB8fHx8MTc3NjA1MjkwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지방선거 (local election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Signs of 'Conservative Collapse' Show in June 3 Local Elections (추미애 ‘독선’·전재수 ‘리스크’에도…6·3 지방선거 ‘보수 붕괴’ 조짐 보여) &lt;&lt;br/&gt;&lt;em&gt;Signs of 'Conservative Collapse' Show in June 3 Local Elections (Despite Choo Mi-ae's 'Arrogance' and Jeon Jae-soo's 'Risk'... Signs of 'Conservative Collapse' Appear in June 3 Local Elections)&lt;/em&gt;&lt;/p&gt;
