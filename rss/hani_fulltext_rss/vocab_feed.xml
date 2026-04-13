@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 17:25:13 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 19:33:58 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>금액을 – amount</title><link>urn:urn:vocab:금액을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>주사기 – syringe</title><link>urn:urn:vocab:주사기</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1647853042468-a152e59ab9b2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXJpbmdlfGVufDB8fHx8MTc3NjA3NjQzMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주사기 (syringe)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Until June 30 (정부, 내일부터 주사기·주사침 매점매석 금지…6월30일까지) &lt;&lt;br/&gt;&lt;em&gt;Until June 30 (Government to prohibit hoarding of syringes and needles from tomorrow... until June 30)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부가 의료 필수품인 주사기와 주사침에 대한 매점매석을 금지한다&lt;br/&gt;&lt;em&gt;(The government prohibits hoarding of syringes and needles, which are essential medical supplies)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미국-이란 전쟁 여파로 주사기 등의 원료인 나프타 공급 불안으로 의료 현장에서 주사기 등에 대한 사재기 행위가 벌어지면서다&lt;br/&gt;&lt;em&gt;This is due to hoarding of syringes and other items in medical settings, caused by supply instability of naphtha (the raw material for syringes) following the US-Iran war.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주사기가 필요해요.&lt;br/&gt;&lt;em&gt;I need a syringe.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주사기를 사용해요.&lt;br/&gt;&lt;em&gt;I use a syringe.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1647853042468-a152e59ab9b2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXJpbmdlfGVufDB8fHx8MTc3NjA3NjQzMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주사기 (syringe)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Until June 30 (정부, 내일부터 주사기·주사침 매점매석 금지…6월30일까지) &lt;&lt;br/&gt;&lt;em&gt;Until June 30 (Government to prohibit hoarding of syringes and needles from tomorrow... until June 30)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부가 의료 필수품인 주사기와 주사침에 대한 매점매석을 금지한다&lt;br/&gt;&lt;em&gt;(The government prohibits hoarding of syringes and needles, which are essential medical supplies)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미국-이란 전쟁 여파로 주사기 등의 원료인 나프타 공급 불안으로 의료 현장에서 주사기 등에 대한 사재기 행위가 벌어지면서다&lt;br/&gt;&lt;em&gt;This is due to hoarding of syringes and other items in medical settings, caused by supply instability of naphtha (the raw material for syringes) following the US-Iran war.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주사기가 필요해요.&lt;br/&gt;&lt;em&gt;I need a syringe.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주사기를 사용해요.&lt;br/&gt;&lt;em&gt;I use a syringe.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 13 Apr 2026 19:33:58 +0900</pubDate><guid isPermaLink="false">vocab-4bec71f2cb11cf22d6280be22e8eda207342cb1e</guid><enclosure url="https://images.unsplash.com/photo-1647853042468-a152e59ab9b2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXJpbmdlfGVufDB8fHx8MTc3NjA3NjQzMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="28255" /><ns2:content url="https://images.unsplash.com/photo-1647853042468-a152e59ab9b2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXJpbmdlfGVufDB8fHx8MTc3NjA3NjQzMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1647853042468-a152e59ab9b2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXJpbmdlfGVufDB8fHx8MTc3NjA3NjQzMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>주사기</category></item><item><title>금액을 – amount</title><link>urn:urn:vocab:금액을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1689512105907-874db565b8bb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbW91bnR8ZW58MHx8fHwxNzc2MDY4NzAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="금액을 (amount)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(대중교통 이용요금이 기준 금액을 넘어서면 이후 이용요금을 100% 환급해줘 사실상 무제한 이용할 수 있는 ‘정액형’(모두의카드)은 기준 금액을 절반 이상 낮춘다&lt;br/&gt;&lt;em&gt;(The 'flat-rate' system (Everyone's Card), which effectively allows unlimited use by refunding 100% of subsequent fares when public transportation usage fees exceed a base amount, lowers the base amount by more than half.&lt;/em&gt;&lt;/p&gt;
