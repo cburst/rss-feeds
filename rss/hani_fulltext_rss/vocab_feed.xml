@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 06:03:28 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 08:11:22 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>커졌다 – grew/became bigger</title><link>urn:urn:vocab:커졌다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>택시는 – taxi</title><link>urn:urn:vocab:택시는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1490650404312-a2175773bbf5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0YXhpfGVufDB8fHx8MTc3NjEyMTg3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="택시는 (taxi)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지난 6일부터 유상 운송을 시작한 자율주행 택시는 평일 밤 10시부터 다음날 새벽 5시까지 서울 강남 일대를 달린다&lt;br/&gt;&lt;em&gt;The autonomous taxi service that started paid transportation on the 6th runs in the Gangnam area of Seoul from 10 p.m. on weekdays to 5 a.m. the next day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  자율주행 택시는 심야 시간대 일반 택시와는 속도부터 달랐다&lt;br/&gt;&lt;em&gt;The autonomous taxi differed from regular taxis during late-night hours, starting with its speed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  사람의 눈이 아닌, 레이더·카메라 등 다중 센서로 도로 상황을 판단하는 자율주행 택시는 ‘먼저 온 미래’처럼 어느덧 우리 일상의 현실로 다가왔다&lt;br/&gt;&lt;em&gt;Autonomous taxis, which judge road conditions using multiple sensors like radar and cameras instead of human eyes, have already become a reality in our daily lives, like a 'future that arrived early'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;택시는 빨라요.&lt;br/&gt;&lt;em&gt;The taxi is fast.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;택시는 비싸요.&lt;br/&gt;&lt;em&gt;The taxi is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1490650404312-a2175773bbf5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0YXhpfGVufDB8fHx8MTc3NjEyMTg3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="택시는 (taxi)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지난 6일부터 유상 운송을 시작한 자율주행 택시는 평일 밤 10시부터 다음날 새벽 5시까지 서울 강남 일대를 달린다&lt;br/&gt;&lt;em&gt;The autonomous taxi service that started paid transportation on the 6th runs in the Gangnam area of Seoul from 10 p.m. on weekdays to 5 a.m. the next day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  자율주행 택시는 심야 시간대 일반 택시와는 속도부터 달랐다&lt;br/&gt;&lt;em&gt;The autonomous taxi differed from regular taxis during late-night hours, starting with its speed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  사람의 눈이 아닌, 레이더·카메라 등 다중 센서로 도로 상황을 판단하는 자율주행 택시는 ‘먼저 온 미래’처럼 어느덧 우리 일상의 현실로 다가왔다&lt;br/&gt;&lt;em&gt;Autonomous taxis, which judge road conditions using multiple sensors like radar and cameras instead of human eyes, have already become a reality in our daily lives, like a 'future that arrived early'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;택시는 빨라요.&lt;br/&gt;&lt;em&gt;The taxi is fast.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;택시는 비싸요.&lt;br/&gt;&lt;em&gt;The taxi is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 14 Apr 2026 08:11:22 +0900</pubDate><guid isPermaLink="false">vocab-6c47b385f5af7aaf16a4fced84f3dcedb1d5ddaa</guid><enclosure url="https://images.unsplash.com/photo-1490650404312-a2175773bbf5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0YXhpfGVufDB8fHx8MTc3NjEyMTg3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="85577" /><ns2:content url="https://images.unsplash.com/photo-1490650404312-a2175773bbf5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0YXhpfGVufDB8fHx8MTc3NjEyMTg3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1490650404312-a2175773bbf5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0YXhpfGVufDB8fHx8MTc3NjEyMTg3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>택시는</category></item><item><title>커졌다 – grew/became bigger</title><link>urn:urn:vocab:커졌다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1622463097629-3ff0d9acfe22?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxncmV3JTJGYmVjYW1lJTIwYmlnZ2VyfGVufDB8fHx8MTc3NjExNDIwMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="커졌다 (grew/became bigger)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;게다가 항공유·정비비·항공기 리스료 등을 달러로 결제하는 구조에서 환율 상승까지 겹치며 항공사들의 부담은 더 커졌다&lt;br/&gt;&lt;em&gt;Moreover, the burden on airlines has increased further due to the structure of paying for aviation fuel, maintenance costs, and aircraft lease fees in dollars, compounded by the rise in exchange rates.&lt;/em&gt;&lt;/p&gt;
