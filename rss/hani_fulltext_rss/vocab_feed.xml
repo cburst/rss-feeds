@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 18:57:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 21:03:41 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>어린이와 – with children</title><link>urn:urn:vocab:어린이와</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>경제활동 – economic activity</title><link>urn:urn:vocab:경제활동</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1745745514084-e64b6853854e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlY29ub21pYyUyMGFjdGl2aXR5fGVufDB8fHx8MTc3NjE2ODIwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경제활동 (economic activity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'Complex Impact' of AI, Aging Population, Women, and Industrial Structure (한국 남성 청년층 경제활동 ‘급락’…AI·고령화·여성·산업구조 ‘복합 영향’) &lt;&lt;br/&gt;&lt;em&gt;'Complex Impact' of AI, Aging Population, Women, and Industrial Structure (Korean Male Youth Economic Activity 'Sharp Decline'... Complex Impact of AI, Aging, Women, and Industrial Structure)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(최근 남성 청년층의 경제활동 참가율이 가파르게 하락하는 배경에 여성 청년층 경제활동 참여 증가, 고령층 고용 증가로 인한 구축 효과, 인공지능(AI)으로 인한 직무 대체, 산업구조 자체의 변화 등이 복합적으로 작용하고 있는 것으로 분석됐다&lt;br/&gt;&lt;em&gt;(It has been analyzed that the recent sharp decline in the economic activity participation rate of male youth is due to a complex interplay of factors, including increased economic participation of female youth, the crowding-out effect from rising employment of the elderly, job replacement by artificial intelligence (AI), and changes in the industrial structure itself)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(14일 한국은행이 내놓은 ‘남성 청년층 경제활동참가율의 하락 추세 평가’는 우리나라 남성 청년층(25~34살) 경제활동참가율이 큰 폭 하락한 요인을 △인공지능 도입·확산 △고령층 고용률 증가 △산업구조 변화 △여성 청년층 경제활동 참여 증가 등의 복합적 원인으로 분석했다&lt;br/&gt;&lt;em&gt;(The 'Assessment of the Declining Trend in Economic Activity Participation Rate of Male Youth' released by the Bank of Korea on the 14th analyzed the significant decline in the economic activity participation rate of Korean male youth (ages 25-34) as being due to complex causes, including the introduction and spread of artificial intelligence, increased employment rates among the elderly, changes in industrial structure, and increased economic participation of female youth)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경제활동은 중요합니다.&lt;br/&gt;&lt;em&gt;Economic activity is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 경제활동을 합니다.&lt;br/&gt;&lt;em&gt;He is engaged in economic activity.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1745745514084-e64b6853854e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlY29ub21pYyUyMGFjdGl2aXR5fGVufDB8fHx8MTc3NjE2ODIwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경제활동 (economic activity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'Complex Impact' of AI, Aging Population, Women, and Industrial Structure (한국 남성 청년층 경제활동 ‘급락’…AI·고령화·여성·산업구조 ‘복합 영향’) &lt;&lt;br/&gt;&lt;em&gt;'Complex Impact' of AI, Aging Population, Women, and Industrial Structure (Korean Male Youth Economic Activity 'Sharp Decline'... Complex Impact of AI, Aging, Women, and Industrial Structure)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(최근 남성 청년층의 경제활동 참가율이 가파르게 하락하는 배경에 여성 청년층 경제활동 참여 증가, 고령층 고용 증가로 인한 구축 효과, 인공지능(AI)으로 인한 직무 대체, 산업구조 자체의 변화 등이 복합적으로 작용하고 있는 것으로 분석됐다&lt;br/&gt;&lt;em&gt;(It has been analyzed that the recent sharp decline in the economic activity participation rate of male youth is due to a complex interplay of factors, including increased economic participation of female youth, the crowding-out effect from rising employment of the elderly, job replacement by artificial intelligence (AI), and changes in the industrial structure itself)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(14일 한국은행이 내놓은 ‘남성 청년층 경제활동참가율의 하락 추세 평가’는 우리나라 남성 청년층(25~34살) 경제활동참가율이 큰 폭 하락한 요인을 △인공지능 도입·확산 △고령층 고용률 증가 △산업구조 변화 △여성 청년층 경제활동 참여 증가 등의 복합적 원인으로 분석했다&lt;br/&gt;&lt;em&gt;(The 'Assessment of the Declining Trend in Economic Activity Participation Rate of Male Youth' released by the Bank of Korea on the 14th analyzed the significant decline in the economic activity participation rate of Korean male youth (ages 25-34) as being due to complex causes, including the introduction and spread of artificial intelligence, increased employment rates among the elderly, changes in industrial structure, and increased economic participation of female youth)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경제활동은 중요합니다.&lt;br/&gt;&lt;em&gt;Economic activity is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 경제활동을 합니다.&lt;br/&gt;&lt;em&gt;He is engaged in economic activity.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 14 Apr 2026 21:03:41 +0900</pubDate><guid isPermaLink="false">vocab-f794b6370106da42225a7c89996c5794515aa952</guid><enclosure url="https://images.unsplash.com/photo-1745745514084-e64b6853854e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlY29ub21pYyUyMGFjdGl2aXR5fGVufDB8fHx8MTc3NjE2ODIwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="144442" /><ns2:content url="https://images.unsplash.com/photo-1745745514084-e64b6853854e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlY29ub21pYyUyMGFjdGl2aXR5fGVufDB8fHx8MTc3NjE2ODIwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1745745514084-e64b6853854e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlY29ub21pYyUyMGFjdGl2aXR5fGVufDB8fHx8MTc3NjE2ODIwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>경제활동</category></item><item><title>어린이와 – with children</title><link>urn:urn:vocab:어린이와</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1772562179599-f4137b8f18ac?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwY2hpbGRyZW58ZW58MHx8fHwxNzc2MTYwNjEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어린이와 (with children)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;어린이와 초보자들도 안전하게 이용할 수 있도록 설계된 점이 특징이다&lt;br/&gt;&lt;em&gt;It is characterized by being designed for safe use by children and beginners.&lt;/em&gt;&lt;/p&gt;
