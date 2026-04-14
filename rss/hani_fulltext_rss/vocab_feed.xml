@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 05:32:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:39:45 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>소비가 – consumption</title><link>urn:urn:vocab:소비가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>걸까요 – I wonder</title><link>urn:urn:vocab:걸까요</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1630776256858-5d746fe64d29?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJJTIwd29uZGVyfGVufDB8fHx8MTc3NjIwNjM3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="걸까요 (I wonder)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아니면, 너무 피곤해 아예 생각도 하고 싶지 않았던 걸까요&lt;br/&gt;&lt;em&gt;Or, perhaps you were so tired that you didn't even want to think about it?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주 행사장 기반 공사가 아직 끝나지 않은 채 다소 휑한 모습이 눈길을 끌었고, 김씨는 “공사장인데 여길 왜 데려온 걸까요&lt;br/&gt;&lt;em&gt;The somewhat empty appearance of the main venue, where construction is still ongoing, caught my eye, and Mr. Kim wondered, 'It's a construction site, so why did they bring us here?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;하정우 청와대 AI미래기획수석은 부산 북구갑에 출마를 하는 걸까요, 안 하는 걸까요&lt;br/&gt;&lt;em&gt;Will Ha Jung-woo, the Senior Presidential Secretary for AI and Future Planning, run for Busan Buk-gu Gap district or not?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지금 비가 올까요?&lt;br/&gt;&lt;em&gt;Is it going to rain now?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그가 언제 올까요?&lt;br/&gt;&lt;em&gt;When will he come?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1630776256858-5d746fe64d29?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJJTIwd29uZGVyfGVufDB8fHx8MTc3NjIwNjM3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="걸까요 (I wonder)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아니면, 너무 피곤해 아예 생각도 하고 싶지 않았던 걸까요&lt;br/&gt;&lt;em&gt;Or, perhaps you were so tired that you didn't even want to think about it?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주 행사장 기반 공사가 아직 끝나지 않은 채 다소 휑한 모습이 눈길을 끌었고, 김씨는 “공사장인데 여길 왜 데려온 걸까요&lt;br/&gt;&lt;em&gt;The somewhat empty appearance of the main venue, where construction is still ongoing, caught my eye, and Mr. Kim wondered, 'It's a construction site, so why did they bring us here?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;하정우 청와대 AI미래기획수석은 부산 북구갑에 출마를 하는 걸까요, 안 하는 걸까요&lt;br/&gt;&lt;em&gt;Will Ha Jung-woo, the Senior Presidential Secretary for AI and Future Planning, run for Busan Buk-gu Gap district or not?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지금 비가 올까요?&lt;br/&gt;&lt;em&gt;Is it going to rain now?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그가 언제 올까요?&lt;br/&gt;&lt;em&gt;When will he come?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 15 Apr 2026 07:39:45 +0900</pubDate><guid isPermaLink="false">vocab-ce82803b7699f218a13191273e9894c5a529a454</guid><enclosure url="https://images.unsplash.com/photo-1630776256858-5d746fe64d29?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJJTIwd29uZGVyfGVufDB8fHx8MTc3NjIwNjM3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="178865" /><ns2:content url="https://images.unsplash.com/photo-1630776256858-5d746fe64d29?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJJTIwd29uZGVyfGVufDB8fHx8MTc3NjIwNjM3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1630776256858-5d746fe64d29?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJJTIwd29uZGVyfGVufDB8fHx8MTc3NjIwNjM3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>걸까요</category></item><item><title>소비가 – consumption</title><link>urn:urn:vocab:소비가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591001706951-7505cb018306?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdW1wdGlvbnxlbnwwfHx8fDE3NzYxOTg3MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소비가 (consumption)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이재명 대통령이 14일 석유 최고가격제로 기름 소비가 늘고 있다는 점을 언급하며 에너지 절감 노력을 당부한 배경에는 현행 제도로는 수요를 제한하는 것이 어렵다는 인식이 깔려 있는 것으로 풀이된다&lt;br/&gt;&lt;em&gt;(It is interpreted that President Lee Jae-myung's mention on the 14th about increased oil consumption due to the petroleum price ceiling system, while urging energy conservation efforts, stems from the recognition that the current system makes it difficult to limit demand.)&lt;/em&gt;&lt;/p&gt;
