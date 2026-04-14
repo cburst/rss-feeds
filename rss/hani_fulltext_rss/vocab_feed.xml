@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 08:11:22 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 10:27:57 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>택시는 – taxi</title><link>urn:urn:vocab:택시는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>노동부 – Ministry of Employment and Labor</title><link>urn:urn:vocab:노동부</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620872910038-7c9db9af1bc3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxNaW5pc3RyeSUyMG9mJTIwRW1wbG95bWVudCUyMGFuZCUyMExhYm9yfGVufDB8fHx8MTc3NjEzMDA2OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="노동부 (Ministry of Employment and Labor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (경기도 파주이주노동자센터 ‘샬롬의집’에서 베트남어 통역사로 일하는 김민경씨는 지난 9일 고용노동부가 제공하는 ‘AI 노동법 상담’을 베트남어로 이용해봤다&lt;br/&gt;&lt;em&gt;Kim Min-kyung, who works as a Vietnamese interpreter at the Gyeonggi-do Paju Migrant Workers Center 'Shalom House', tried out the 'AI Labor Law Consultation' provided by the Ministry of Employment and Labor in Vietnamese on the 9th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;왕희애 사무국장은 “에이아이 상담사가 아직은 노동부 외 다른 부처·기관에서 다루는 문제까지 광범위하게 다루지 못하는 것 같지만 센터에 직접 오실 수 없는 분들이 이용하면 좋겠다 싶어 에이아이 상담 데이터를 좀 쌓아보자고 했다”고 했다&lt;br/&gt;&lt;em&gt;Secretary-General Wang Hee-ae said, "It seems that the AI counselor cannot yet broadly handle issues dealt with by other ministries and agencies besides the Ministry of Employment and Labor, but I thought it would be good for those who cannot come directly to the center to use it, so I suggested we accumulate some AI consultation data."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘AI 노동법 상담 서비스’는 지난해 조직 개편 등을 거치며 에이아이 전환 작업에 박차를 가하고 있는 고용노동부의 성과물 중 하나다&lt;br/&gt;&lt;em&gt;The 'AI Labor Law Consultation Service' is one of the achievements of the Ministry of Employment and Labor, which has been accelerating its AI transformation work through organizational restructuring and other measures last year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;노동부가 일자리를 만듭니다.&lt;br/&gt;&lt;em&gt;The Ministry of Employment creates jobs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;노동부는 근로자를 돕습니다.&lt;br/&gt;&lt;em&gt;The Ministry of Employment helps workers.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620872910038-7c9db9af1bc3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxNaW5pc3RyeSUyMG9mJTIwRW1wbG95bWVudCUyMGFuZCUyMExhYm9yfGVufDB8fHx8MTc3NjEzMDA2OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="노동부 (Ministry of Employment and Labor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (경기도 파주이주노동자센터 ‘샬롬의집’에서 베트남어 통역사로 일하는 김민경씨는 지난 9일 고용노동부가 제공하는 ‘AI 노동법 상담’을 베트남어로 이용해봤다&lt;br/&gt;&lt;em&gt;Kim Min-kyung, who works as a Vietnamese interpreter at the Gyeonggi-do Paju Migrant Workers Center 'Shalom House', tried out the 'AI Labor Law Consultation' provided by the Ministry of Employment and Labor in Vietnamese on the 9th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;왕희애 사무국장은 “에이아이 상담사가 아직은 노동부 외 다른 부처·기관에서 다루는 문제까지 광범위하게 다루지 못하는 것 같지만 센터에 직접 오실 수 없는 분들이 이용하면 좋겠다 싶어 에이아이 상담 데이터를 좀 쌓아보자고 했다”고 했다&lt;br/&gt;&lt;em&gt;Secretary-General Wang Hee-ae said, "It seems that the AI counselor cannot yet broadly handle issues dealt with by other ministries and agencies besides the Ministry of Employment and Labor, but I thought it would be good for those who cannot come directly to the center to use it, so I suggested we accumulate some AI consultation data."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘AI 노동법 상담 서비스’는 지난해 조직 개편 등을 거치며 에이아이 전환 작업에 박차를 가하고 있는 고용노동부의 성과물 중 하나다&lt;br/&gt;&lt;em&gt;The 'AI Labor Law Consultation Service' is one of the achievements of the Ministry of Employment and Labor, which has been accelerating its AI transformation work through organizational restructuring and other measures last year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;노동부가 일자리를 만듭니다.&lt;br/&gt;&lt;em&gt;The Ministry of Employment creates jobs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;노동부는 근로자를 돕습니다.&lt;br/&gt;&lt;em&gt;The Ministry of Employment helps workers.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 14 Apr 2026 10:27:57 +0900</pubDate><guid isPermaLink="false">vocab-9167ca6ec21a22cd020fa062ed63f28c1de737a0</guid><enclosure url="https://images.unsplash.com/photo-1620872910038-7c9db9af1bc3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxNaW5pc3RyeSUyMG9mJTIwRW1wbG95bWVudCUyMGFuZCUyMExhYm9yfGVufDB8fHx8MTc3NjEzMDA2OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="169639" /><ns2:content url="https://images.unsplash.com/photo-1620872910038-7c9db9af1bc3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxNaW5pc3RyeSUyMG9mJTIwRW1wbG95bWVudCUyMGFuZCUyMExhYm9yfGVufDB8fHx8MTc3NjEzMDA2OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1620872910038-7c9db9af1bc3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxNaW5pc3RyeSUyMG9mJTIwRW1wbG95bWVudCUyMGFuZCUyMExhYm9yfGVufDB8fHx8MTc3NjEzMDA2OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>노동부</category></item><item><title>택시는 – taxi</title><link>urn:urn:vocab:택시는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1490650404312-a2175773bbf5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0YXhpfGVufDB8fHx8MTc3NjEyMTg3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="택시는 (taxi)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;지난 6일부터 유상 운송을 시작한 자율주행 택시는 평일 밤 10시부터 다음날 새벽 5시까지 서울 강남 일대를 달린다&lt;br/&gt;&lt;em&gt;The autonomous taxi service that started paid transportation on the 6th runs in the Gangnam area of Seoul from 10 p.m. on weekdays to 5 a.m. the next day.&lt;/em&gt;&lt;/p&gt;

@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 08:11:29 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 10:28:06 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>좋은데 – good, but</title><link>urn:urn:vocab:좋은데</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>좋을런지 – whether it will be good</title><link>urn:urn:vocab:좋을런지</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632870781577-c04326b9683d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGV0aGVyJTIwaXQlMjB3aWxsJTIwYmUlMjBnb29kfGVufDB8fHx8MTc3NjEzMDA4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="좋을런지 (whether it will be good)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 마음을 어떻게 표현하는 것이 좋을런지 표현하기가 어렵다&lt;br/&gt;&lt;em&gt;It's difficult to express how to best express this feeling.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 마음을 어떻게 표현(表現)하는 것이 좋을런지 표현(表現)하기가 어렵다&lt;br/&gt;&lt;em&gt;It's difficult to express how to best express (express) this feeling.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 음식이 좋을런지 모르겠어요.&lt;br/&gt;&lt;em&gt;I'm not sure if this food will be good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;날씨가 좋을런지 궁금해요.&lt;br/&gt;&lt;em&gt;I wonder if the weather will be good.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632870781577-c04326b9683d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGV0aGVyJTIwaXQlMjB3aWxsJTIwYmUlMjBnb29kfGVufDB8fHx8MTc3NjEzMDA4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="좋을런지 (whether it will be good)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 마음을 어떻게 표현하는 것이 좋을런지 표현하기가 어렵다&lt;br/&gt;&lt;em&gt;It's difficult to express how to best express this feeling.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 마음을 어떻게 표현(表現)하는 것이 좋을런지 표현(表現)하기가 어렵다&lt;br/&gt;&lt;em&gt;It's difficult to express how to best express (express) this feeling.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 음식이 좋을런지 모르겠어요.&lt;br/&gt;&lt;em&gt;I'm not sure if this food will be good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;날씨가 좋을런지 궁금해요.&lt;br/&gt;&lt;em&gt;I wonder if the weather will be good.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 14 Apr 2026 10:28:06 +0900</pubDate><guid isPermaLink="false">vocab-77dac8f8107971570245d79664ebddad9c4da84f</guid><enclosure url="https://images.unsplash.com/photo-1632870781577-c04326b9683d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGV0aGVyJTIwaXQlMjB3aWxsJTIwYmUlMjBnb29kfGVufDB8fHx8MTc3NjEzMDA4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="161937" /><ns2:content url="https://images.unsplash.com/photo-1632870781577-c04326b9683d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGV0aGVyJTIwaXQlMjB3aWxsJTIwYmUlMjBnb29kfGVufDB8fHx8MTc3NjEzMDA4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1632870781577-c04326b9683d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGV0aGVyJTIwaXQlMjB3aWxsJTIwYmUlMjBnb29kfGVufDB8fHx8MTc3NjEzMDA4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>좋을런지</category></item><item><title>좋은데 – good, but</title><link>urn:urn:vocab:좋은데</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1725657668033-3ca504654087?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnb29kJTJDJTIwYnV0fGVufDB8fHx8MTc3NjEyMTg4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="좋은데 (good, but)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (“산에 있을 때는 그렇게 기분이 좋은데 밑에 내려오니 세상에 이상한 데로 내려오는 것 같다&lt;br/&gt;&lt;em&gt;"When I was in the mountains, I felt so good, but coming down, it feels like I'm descending into a strange world.&lt;/em&gt;&lt;/p&gt;
