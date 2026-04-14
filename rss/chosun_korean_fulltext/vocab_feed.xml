@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 01:16:42 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 03:27:18 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>복사하는 – copying</title><link>urn:urn:vocab:복사하는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>대가로 – in return</title><link>urn:urn:vocab:대가로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1656503825906-bbf499ef194a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHJldHVybnxlbnwwfHx8fDE3NzYxOTEyMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대가로 (in return)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Former Ssangbangwool Vice Chairman: "I met Ri Ho-nam in the Philippines and gave him money as payment for Lee Jae-myung's visit to North Korea" (쌍방울 前부회장 “李 방북 대가로 필리핀에서 리호남 만나 돈 줬다”) &lt;&lt;br/&gt;&lt;em&gt;Former Ssangbangwool Vice Chairman: "I met Ri Ho-nam in the Philippines and gave him money as payment for Lee Jae-myung's visit to North Korea"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Former Ssangbangwool Vice Chairman: "I met Ri Ho-nam in the Philippines and gave him money as payment for Lee Jae-myung's visit to North Korea" (쌍방울 前부회장 “李 방북 대가로 필리핀에서 리호남 만나 돈 줬다”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Former Ssangbangwool Vice Chairman: "I met Ri Ho-nam in the Philippines and gave him money as payment for Lee Jae-myung's visit to North Korea"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (방 전 부회장은 이 대통령의 방북 대가로 돈을 건넨 사실도 재차 증언했다&lt;br/&gt;&lt;em&gt;The former vice chairman also testified again that he gave money as payment for President Lee's visit to North Korea&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 도움을 대가로 선물을 받았어요.&lt;br/&gt;&lt;em&gt;I received a gift in return for my help.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 일을 대가로 돈을 받아요.&lt;br/&gt;&lt;em&gt;He receives money in return for his work.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1656503825906-bbf499ef194a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHJldHVybnxlbnwwfHx8fDE3NzYxOTEyMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대가로 (in return)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Former Ssangbangwool Vice Chairman: "I met Ri Ho-nam in the Philippines and gave him money as payment for Lee Jae-myung's visit to North Korea" (쌍방울 前부회장 “李 방북 대가로 필리핀에서 리호남 만나 돈 줬다”) &lt;&lt;br/&gt;&lt;em&gt;Former Ssangbangwool Vice Chairman: "I met Ri Ho-nam in the Philippines and gave him money as payment for Lee Jae-myung's visit to North Korea"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Former Ssangbangwool Vice Chairman: "I met Ri Ho-nam in the Philippines and gave him money as payment for Lee Jae-myung's visit to North Korea" (쌍방울 前부회장 “李 방북 대가로 필리핀에서 리호남 만나 돈 줬다”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Former Ssangbangwool Vice Chairman: "I met Ri Ho-nam in the Philippines and gave him money as payment for Lee Jae-myung's visit to North Korea"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (방 전 부회장은 이 대통령의 방북 대가로 돈을 건넨 사실도 재차 증언했다&lt;br/&gt;&lt;em&gt;The former vice chairman also testified again that he gave money as payment for President Lee's visit to North Korea&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 도움을 대가로 선물을 받았어요.&lt;br/&gt;&lt;em&gt;I received a gift in return for my help.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 일을 대가로 돈을 받아요.&lt;br/&gt;&lt;em&gt;He receives money in return for his work.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 15 Apr 2026 03:27:18 +0900</pubDate><guid isPermaLink="false">vocab-3442682214503b452c0a4df5d27610f0a3242a79</guid><enclosure url="https://images.unsplash.com/photo-1656503825906-bbf499ef194a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHJldHVybnxlbnwwfHx8fDE3NzYxOTEyMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="111614" /><ns2:content url="https://images.unsplash.com/photo-1656503825906-bbf499ef194a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHJldHVybnxlbnwwfHx8fDE3NzYxOTEyMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1656503825906-bbf499ef194a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHJldHVybnxlbnwwfHx8fDE3NzYxOTEyMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>대가로</category></item><item><title>복사하는 – copying</title><link>urn:urn:vocab:복사하는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3B5aW5nfGVufDB8fHx8MTc3NjE4MzM4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="복사하는 (copying)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이재명 대통령은 14일 국무회의에서 주택 및 부동산 정책 입안 과정에 이해관계자가 단 한 명도 참여하지 못하도록 하는 ‘이해관계자 원천 배제’ 지침을 다시 한번 강조하며 “서류 복사하는 사람들도 다 빼라”고 지시했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung emphasized the 'stakeholder exclusion from the source' guideline once again at the cabinet meeting on the 14th, instructing that not a single stakeholder should participate in the housing and real estate policy drafting process, saying, 'Even those who copy documents should be excluded.'&lt;/em&gt;&lt;/p&gt;
