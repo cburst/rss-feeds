@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 23:09:30 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 01:16:42 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>청와대 – Blue House (Korean presidential office)</title><link>urn:urn:vocab:청와대</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>복사하는 – copying</title><link>urn:urn:vocab:복사하는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3B5aW5nfGVufDB8fHx8MTc3NjE4MzM4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="복사하는 (copying)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이재명 대통령은 14일 국무회의에서 주택 및 부동산 정책 입안 과정에 이해관계자가 단 한 명도 참여하지 못하도록 하는 ‘이해관계자 원천 배제’ 지침을 다시 한번 강조하며 “서류 복사하는 사람들도 다 빼라”고 지시했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung emphasized the 'stakeholder exclusion from the source' guideline once again at the cabinet meeting on the 14th, instructing that not a single stakeholder should participate in the housing and real estate policy drafting process, saying, 'Even those who copy documents should be excluded.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러자 이 대통령은 “서류 복사하는 사람들도 다 빼라”며 “어쨌든 거기에 이해관계가 절대 침투할 수 없게, 귀한 용지 복사하는 직원조차도 다주택자는 안 된다”고 했다&lt;br/&gt;&lt;em&gt;Then, President Lee said, 'Even those who copy documents should be excluded,' adding, 'In any case, absolutely no stakeholder influence should penetrate there; even employees who copy precious documents should not be multiple homeowners.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 14일 부동산 정책 결정 과정에서 다주택자 공무원을 배제하기로 한 지침과 관련해 “용지를 복사하는 직원조차도 다주택자여선 안된다”며 “서류를 복사하는 사람이라도 다 빼야 한다”고 했다&lt;br/&gt;&lt;em&gt;Regarding the guideline to exclude multiple-homeowner civil servants from the real estate policy decision-making process, President Lee Jae-myung said on the 14th, 'Even employees who copy documents should not be multiple homeowners,' and 'Even those who copy documents should be excluded.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 문서를 복사하는 중이에요.&lt;br/&gt;&lt;em&gt;I am copying the document.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 그림을 복사하는 것을 좋아해요.&lt;br/&gt;&lt;em&gt;He likes copying pictures.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3B5aW5nfGVufDB8fHx8MTc3NjE4MzM4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="복사하는 (copying)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이재명 대통령은 14일 국무회의에서 주택 및 부동산 정책 입안 과정에 이해관계자가 단 한 명도 참여하지 못하도록 하는 ‘이해관계자 원천 배제’ 지침을 다시 한번 강조하며 “서류 복사하는 사람들도 다 빼라”고 지시했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung emphasized the 'stakeholder exclusion from the source' guideline once again at the cabinet meeting on the 14th, instructing that not a single stakeholder should participate in the housing and real estate policy drafting process, saying, 'Even those who copy documents should be excluded.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러자 이 대통령은 “서류 복사하는 사람들도 다 빼라”며 “어쨌든 거기에 이해관계가 절대 침투할 수 없게, 귀한 용지 복사하는 직원조차도 다주택자는 안 된다”고 했다&lt;br/&gt;&lt;em&gt;Then, President Lee said, 'Even those who copy documents should be excluded,' adding, 'In any case, absolutely no stakeholder influence should penetrate there; even employees who copy precious documents should not be multiple homeowners.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 14일 부동산 정책 결정 과정에서 다주택자 공무원을 배제하기로 한 지침과 관련해 “용지를 복사하는 직원조차도 다주택자여선 안된다”며 “서류를 복사하는 사람이라도 다 빼야 한다”고 했다&lt;br/&gt;&lt;em&gt;Regarding the guideline to exclude multiple-homeowner civil servants from the real estate policy decision-making process, President Lee Jae-myung said on the 14th, 'Even employees who copy documents should not be multiple homeowners,' and 'Even those who copy documents should be excluded.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 문서를 복사하는 중이에요.&lt;br/&gt;&lt;em&gt;I am copying the document.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 그림을 복사하는 것을 좋아해요.&lt;br/&gt;&lt;em&gt;He likes copying pictures.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 15 Apr 2026 01:16:42 +0900</pubDate><guid isPermaLink="false">vocab-baf0c5ba6ba4d00441dc804797db4dd251946f68</guid><enclosure url="https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3B5aW5nfGVufDB8fHx8MTc3NjE4MzM4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="105519" /><ns2:content url="https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3B5aW5nfGVufDB8fHx8MTc3NjE4MzM4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb3B5aW5nfGVufDB8fHx8MTc3NjE4MzM4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>복사하는</category></item><item><title>청와대 – Blue House (Korean presidential office)</title><link>urn:urn:vocab:청와대</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1708788204554-018a71aa6baf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQjIlQUQlRUMlOTklODAlRUIlOEMlODB8ZW58MHx8fHwxNzc2MTYwNjI0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="청와대 (Blue House (Korean presidential office))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Regarding 'Busan Candidacy Rumors', Ha Jung-woo Says "If I Had the Authority to Decide, I Would Stay at the Blue House" (‘부산 출마설’ 하정우 “결정권 있다면 청와대 남겠다”) &lt;&lt;br/&gt;&lt;em&gt;Regarding 'Busan Candidacy Rumors', Ha Jung-woo Says "If I Had the Authority to Decide, I Would Stay at the Blue House"&lt;/em&gt;&lt;/p&gt;
