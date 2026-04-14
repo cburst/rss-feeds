@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 03:27:18 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 05:32:16 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>대가로 – in return</title><link>urn:urn:vocab:대가로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>아니냐 – isn't it? / right? (question tag for seeking confirmation)</title><link>urn:urn:vocab:아니냐</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1737107464555-0cf16952d5fd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpc24lMjd0JTIwaXQlM0YlMjAlMkYlMjByaWdodCUzRiUyMCUyOHF1ZXN0aW9uJTIwdGFnJTIwZm9yJTIwc2Vla2luZyUyMGNvbmZpcm1hdGlvbiUyOXxlbnwwfHx8fDE3NzYxOTg3Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="아니냐 (isn't it? / right? (question tag for seeking confirmation))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(오는 9월 개막하는 여수 세계섬박람회를 두고 최근 준비 상황이 미흡한 것 아니냐는 우려가 제기돼 왔다&lt;br/&gt;&lt;em&gt;Concerns have been raised recently about whether preparations are insufficient for the Yeosu World Island Expo, which opens this September.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자칫 ‘제2의 잼버리’가 되는 것 아니냐는 지적까지 나오자, 이 대통령이 직접 대비를 주문한 것으로 풀이된다&lt;br/&gt;&lt;em&gt;As criticism even emerged that it might become a 'second Jamboree', it is interpreted that President Lee personally ordered preparations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (영상이 공개된 뒤 온라인에서는 “홍보가 아니라 내부 고발 아니냐” “홍보를 가장한 SOS 신호다” “준비가 제대로 안 되고 있는 것 같다”는 등의 반응이 쏟아졌다&lt;br/&gt;&lt;em&gt;After the video was released, reactions poured in online, such as 'Isn't this internal whistleblowing rather than promotion?', 'It's an SOS signal disguised as promotion', and 'It seems preparations aren't being done properly'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이거 맞지 아니냐?&lt;br/&gt;&lt;em&gt;Isn't this right?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;너 피곤하니 아니냐?&lt;br/&gt;&lt;em&gt;Aren't you tired?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1737107464555-0cf16952d5fd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpc24lMjd0JTIwaXQlM0YlMjAlMkYlMjByaWdodCUzRiUyMCUyOHF1ZXN0aW9uJTIwdGFnJTIwZm9yJTIwc2Vla2luZyUyMGNvbmZpcm1hdGlvbiUyOXxlbnwwfHx8fDE3NzYxOTg3Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="아니냐 (isn't it? / right? (question tag for seeking confirmation))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(오는 9월 개막하는 여수 세계섬박람회를 두고 최근 준비 상황이 미흡한 것 아니냐는 우려가 제기돼 왔다&lt;br/&gt;&lt;em&gt;Concerns have been raised recently about whether preparations are insufficient for the Yeosu World Island Expo, which opens this September.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자칫 ‘제2의 잼버리’가 되는 것 아니냐는 지적까지 나오자, 이 대통령이 직접 대비를 주문한 것으로 풀이된다&lt;br/&gt;&lt;em&gt;As criticism even emerged that it might become a 'second Jamboree', it is interpreted that President Lee personally ordered preparations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (영상이 공개된 뒤 온라인에서는 “홍보가 아니라 내부 고발 아니냐” “홍보를 가장한 SOS 신호다” “준비가 제대로 안 되고 있는 것 같다”는 등의 반응이 쏟아졌다&lt;br/&gt;&lt;em&gt;After the video was released, reactions poured in online, such as 'Isn't this internal whistleblowing rather than promotion?', 'It's an SOS signal disguised as promotion', and 'It seems preparations aren't being done properly'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이거 맞지 아니냐?&lt;br/&gt;&lt;em&gt;Isn't this right?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;너 피곤하니 아니냐?&lt;br/&gt;&lt;em&gt;Aren't you tired?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 15 Apr 2026 05:32:16 +0900</pubDate><guid isPermaLink="false">vocab-a2739d3a43ff120f1687606916716c5feaf5d048</guid><enclosure url="https://images.unsplash.com/photo-1737107464555-0cf16952d5fd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpc24lMjd0JTIwaXQlM0YlMjAlMkYlMjByaWdodCUzRiUyMCUyOHF1ZXN0aW9uJTIwdGFnJTIwZm9yJTIwc2Vla2luZyUyMGNvbmZpcm1hdGlvbiUyOXxlbnwwfHx8fDE3NzYxOTg3Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="163245" /><ns2:content url="https://images.unsplash.com/photo-1737107464555-0cf16952d5fd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpc24lMjd0JTIwaXQlM0YlMjAlMkYlMjByaWdodCUzRiUyMCUyOHF1ZXN0aW9uJTIwdGFnJTIwZm9yJTIwc2Vla2luZyUyMGNvbmZpcm1hdGlvbiUyOXxlbnwwfHx8fDE3NzYxOTg3Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1737107464555-0cf16952d5fd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpc24lMjd0JTIwaXQlM0YlMjAlMkYlMjByaWdodCUzRiUyMCUyOHF1ZXN0aW9uJTIwdGFnJTIwZm9yJTIwc2Vla2luZyUyMGNvbmZpcm1hdGlvbiUyOXxlbnwwfHx8fDE3NzYxOTg3Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>아니냐</category></item><item><title>대가로 – in return</title><link>urn:urn:vocab:대가로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1656503825906-bbf499ef194a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHJldHVybnxlbnwwfHx8fDE3NzYxOTEyMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대가로 (in return)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Former Ssangbangwool Vice Chairman: "I met Ri Ho-nam in the Philippines and gave him money as payment for Lee Jae-myung's visit to North Korea" (쌍방울 前부회장 “李 방북 대가로 필리핀에서 리호남 만나 돈 줬다”) &lt;&lt;br/&gt;&lt;em&gt;Former Ssangbangwool Vice Chairman: "I met Ri Ho-nam in the Philippines and gave him money as payment for Lee Jae-myung's visit to North Korea"&lt;/em&gt;&lt;/p&gt;

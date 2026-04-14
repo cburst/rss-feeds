@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 03:27:07 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 05:32:06 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>배경으로 – as a background</title><link>urn:urn:vocab:배경으로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>소비가 – consumption</title><link>urn:urn:vocab:소비가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591001706951-7505cb018306?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdW1wdGlvbnxlbnwwfHx8fDE3NzYxOTg3MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소비가 (consumption)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령이 14일 석유 최고가격제로 기름 소비가 늘고 있다는 점을 언급하며 에너지 절감 노력을 당부한 배경에는 현행 제도로는 수요를 제한하는 것이 어렵다는 인식이 깔려 있는 것으로 풀이된다&lt;br/&gt;&lt;em&gt;(It is interpreted that President Lee Jae-myung's mention on the 14th about increased oil consumption due to the petroleum price ceiling system, while urging energy conservation efforts, stems from the recognition that the current system makes it difficult to limit demand.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 대통령이 이날 오전 청와대에서 열린 제16회 국무회의 겸 제5차 비상경제점검회의에서 석유 최고가격제를 두고 “(제도 시행 이후) 소비가 오히려 늘어나고 있다(는 지적이 있다)&lt;br/&gt;&lt;em&gt;President Lee said at the 16th Cabinet meeting and 5th emergency economic review meeting held at the Blue House that morning regarding the petroleum price ceiling system, "(Since the system was implemented) consumption has actually increased (there are such observations)."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (최고가격제 주무부처인 산업통상부 고위 관계자는 이날 한겨레와 한 통화에서 석유 최고가격제로 소비가 늘었다는 일각의 지적에 대해 “이를 판단하기 위해서는 좀 더 시간을 두고 추세적으로 평가해야 할 것”이라며 “ 국민 부담 완화라는 최고가격제 취지와 유류 사용 절감 필요성 등 다양한 지적을 고려해서 정책을 마련해나가겠다”고 말했다&lt;br/&gt;&lt;em&gt;(A senior official from the Ministry of Trade, Industry and Energy, the ministry in charge of the price ceiling system, said in a phone call with Hankyoreh that day regarding some observations that the petroleum price ceiling system has led to increased consumption, "To judge this, we need more time to evaluate it trend-wise," adding, "We will prepare policies considering various observations, including the purpose of the price ceiling system to ease the burden on the public and the need to reduce oil consumption.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;소비가 많아요.&lt;br/&gt;&lt;em&gt;Consumption is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소비가 줄었어요.&lt;br/&gt;&lt;em&gt;Consumption has decreased.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591001706951-7505cb018306?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdW1wdGlvbnxlbnwwfHx8fDE3NzYxOTg3MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소비가 (consumption)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령이 14일 석유 최고가격제로 기름 소비가 늘고 있다는 점을 언급하며 에너지 절감 노력을 당부한 배경에는 현행 제도로는 수요를 제한하는 것이 어렵다는 인식이 깔려 있는 것으로 풀이된다&lt;br/&gt;&lt;em&gt;(It is interpreted that President Lee Jae-myung's mention on the 14th about increased oil consumption due to the petroleum price ceiling system, while urging energy conservation efforts, stems from the recognition that the current system makes it difficult to limit demand.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 대통령이 이날 오전 청와대에서 열린 제16회 국무회의 겸 제5차 비상경제점검회의에서 석유 최고가격제를 두고 “(제도 시행 이후) 소비가 오히려 늘어나고 있다(는 지적이 있다)&lt;br/&gt;&lt;em&gt;President Lee said at the 16th Cabinet meeting and 5th emergency economic review meeting held at the Blue House that morning regarding the petroleum price ceiling system, "(Since the system was implemented) consumption has actually increased (there are such observations)."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (최고가격제 주무부처인 산업통상부 고위 관계자는 이날 한겨레와 한 통화에서 석유 최고가격제로 소비가 늘었다는 일각의 지적에 대해 “이를 판단하기 위해서는 좀 더 시간을 두고 추세적으로 평가해야 할 것”이라며 “ 국민 부담 완화라는 최고가격제 취지와 유류 사용 절감 필요성 등 다양한 지적을 고려해서 정책을 마련해나가겠다”고 말했다&lt;br/&gt;&lt;em&gt;(A senior official from the Ministry of Trade, Industry and Energy, the ministry in charge of the price ceiling system, said in a phone call with Hankyoreh that day regarding some observations that the petroleum price ceiling system has led to increased consumption, "To judge this, we need more time to evaluate it trend-wise," adding, "We will prepare policies considering various observations, including the purpose of the price ceiling system to ease the burden on the public and the need to reduce oil consumption.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;소비가 많아요.&lt;br/&gt;&lt;em&gt;Consumption is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소비가 줄었어요.&lt;br/&gt;&lt;em&gt;Consumption has decreased.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 15 Apr 2026 05:32:06 +0900</pubDate><guid isPermaLink="false">vocab-607f17f3d91dc524609f7f269c6eded878fc1dc2</guid><enclosure url="https://images.unsplash.com/photo-1591001706951-7505cb018306?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdW1wdGlvbnxlbnwwfHx8fDE3NzYxOTg3MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="323998" /><ns2:content url="https://images.unsplash.com/photo-1591001706951-7505cb018306?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdW1wdGlvbnxlbnwwfHx8fDE3NzYxOTg3MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1591001706951-7505cb018306?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdW1wdGlvbnxlbnwwfHx8fDE3NzYxOTg3MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>소비가</category></item><item><title>배경으로 – as a background</title><link>urn:urn:vocab:배경으로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1650448603666-d296b6f9cd22?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBiYWNrZ3JvdW5kfGVufDB8fHx8MTc3NjE5MTIyM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="배경으로 (as a background)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(고학력 일자리를 중심으로 나타나고 있는 고령층 취업자 증가 및 에이아이 확산도 주요 배경으로 꼽혔다&lt;br/&gt;&lt;em&gt;(The increase in employment among the elderly, particularly in high-skilled jobs, and the spread of AI were also cited as major background factors.&lt;/em&gt;&lt;/p&gt;
