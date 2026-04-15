@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 01:12:25 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 03:28:47 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>아쉬움은 – regret</title><link>urn:urn:vocab:아쉬움은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>쓰이는 – is used</title><link>urn:urn:vocab:쓰이는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1614530606961-c4ce986825c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMHVzZWR8ZW58MHx8fHwxNzc2Mjc3NzE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쓰이는 (is used)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(그로시 사무총장은 원잠에 쓰이는 우라늄 원료를 IAEA가 감시하는 데 대해 “중요한 기술적인 고려 사항이 있다”며 “장기간 운항하는 선박 특성상 (잠수함에 사용하는) 핵 물질이 사찰단 감시 범위에서 벗어난다”고 했다&lt;br/&gt;&lt;em&gt;Secretary General Grossi said regarding the IAEA's monitoring of uranium fuel used in nuclear submarines that 'there are important technical considerations' and that 'due to the characteristics of vessels operating for long periods, nuclear materials (used in submarines) fall outside the inspection team's monitoring scope.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (그러면서 원잠에 쓰이는 핵 물질이 다른 곳으로 전용되지 않게 확인하는 방식 등에 대해 “(한국) 정부, 군, 조선업체 등과 함께 중요한 대화를 할 것”이라고 했다&lt;br/&gt;&lt;em&gt;He added that regarding methods to ensure nuclear materials used in nuclear submarines are not diverted elsewhere, 'we will have important discussions with the (Korean) government, military, and shipbuilding companies.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그로시 사무총장은 “원잠은 임무를 위해 장기간 출항하는 특성이 있고 그동안 (연료로 쓰이는) 핵물질이 IAEA 사찰단의 감독에서 벗어난다”며 “이는 다량의 농축 우라늄이고 어떤 기술을 선택하느냐에 따라서는 고농축 우라늄일 수도 있기 때문에 매우 중요하다”고 했다&lt;br/&gt;&lt;em&gt;Secretary General Grossi stated, 'Nuclear submarines have the characteristic of deploying for long periods for missions, during which nuclear materials (used as fuel) fall outside the IAEA inspection team's supervision,' adding, 'This is very important because it involves large quantities of enriched uranium, and depending on the technology chosen, it could be highly enriched uranium.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 학교에서 쓰이는 책상입니다.&lt;br/&gt;&lt;em&gt;This is a desk used in school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 한국어에서 쓰이는 단어입니다.&lt;br/&gt;&lt;em&gt;This is a word used in Korean.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1614530606961-c4ce986825c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMHVzZWR8ZW58MHx8fHwxNzc2Mjc3NzE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쓰이는 (is used)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(그로시 사무총장은 원잠에 쓰이는 우라늄 원료를 IAEA가 감시하는 데 대해 “중요한 기술적인 고려 사항이 있다”며 “장기간 운항하는 선박 특성상 (잠수함에 사용하는) 핵 물질이 사찰단 감시 범위에서 벗어난다”고 했다&lt;br/&gt;&lt;em&gt;Secretary General Grossi said regarding the IAEA's monitoring of uranium fuel used in nuclear submarines that 'there are important technical considerations' and that 'due to the characteristics of vessels operating for long periods, nuclear materials (used in submarines) fall outside the inspection team's monitoring scope.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (그러면서 원잠에 쓰이는 핵 물질이 다른 곳으로 전용되지 않게 확인하는 방식 등에 대해 “(한국) 정부, 군, 조선업체 등과 함께 중요한 대화를 할 것”이라고 했다&lt;br/&gt;&lt;em&gt;He added that regarding methods to ensure nuclear materials used in nuclear submarines are not diverted elsewhere, 'we will have important discussions with the (Korean) government, military, and shipbuilding companies.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그로시 사무총장은 “원잠은 임무를 위해 장기간 출항하는 특성이 있고 그동안 (연료로 쓰이는) 핵물질이 IAEA 사찰단의 감독에서 벗어난다”며 “이는 다량의 농축 우라늄이고 어떤 기술을 선택하느냐에 따라서는 고농축 우라늄일 수도 있기 때문에 매우 중요하다”고 했다&lt;br/&gt;&lt;em&gt;Secretary General Grossi stated, 'Nuclear submarines have the characteristic of deploying for long periods for missions, during which nuclear materials (used as fuel) fall outside the IAEA inspection team's supervision,' adding, 'This is very important because it involves large quantities of enriched uranium, and depending on the technology chosen, it could be highly enriched uranium.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 학교에서 쓰이는 책상입니다.&lt;br/&gt;&lt;em&gt;This is a desk used in school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 한국어에서 쓰이는 단어입니다.&lt;br/&gt;&lt;em&gt;This is a word used in Korean.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 16 Apr 2026 03:28:47 +0900</pubDate><guid isPermaLink="false">vocab-588fd52a0cee60a0e413aac3aea134c40ef76904</guid><enclosure url="https://images.unsplash.com/photo-1614530606961-c4ce986825c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMHVzZWR8ZW58MHx8fHwxNzc2Mjc3NzE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="241329" /><ns2:content url="https://images.unsplash.com/photo-1614530606961-c4ce986825c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMHVzZWR8ZW58MHx8fHwxNzc2Mjc3NzE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1614530606961-c4ce986825c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMHVzZWR8ZW58MHx8fHwxNzc2Mjc3NzE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>쓰이는</category></item><item><title>아쉬움은 – regret</title><link>urn:urn:vocab:아쉬움은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1578088060994-08c86dee9602?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWdyZXR8ZW58MHx8fHwxNzc2MjY5NTM1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="아쉬움은 (regret)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;There is Regret" (조국 “민주당이 부산 출마 말렸다…아쉬움은 있다”) &lt;&lt;br/&gt;&lt;em&gt;"There is Regret" (Cho Kuk "The Democratic Party discouraged running in Busan...there is regret") &lt;&lt;/em&gt;&lt;/p&gt;
