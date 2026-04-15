@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 03:28:47 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 05:41:41 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>쓰이는 – is used</title><link>urn:urn:vocab:쓰이는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>역사에 – in history</title><link>urn:urn:vocab:역사에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1726347914985-003a17b8d1c5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGhpc3Rvcnl8ZW58MHx8fHwxNzc2Mjg1NjkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="역사에 (in history)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이 대통령이 올린 글에 대해, 송언석 국민의힘 원내대표는 페이스북을 통해 “본인의 SNS 가짜뉴스 영상 유포로 곤란해지니 물타기하려고 애쓰신다”며 “김대업 병풍, 광우병 선동, 천안함 음모론, 세월호 괴담, 사드 괴담, 후쿠시마 오염수 괴담 등등등 민주당은 본인들의 유구한 조작선동 역사에 대해 사과하셨던가”라고 했다&lt;br/&gt;&lt;em&gt;Regarding the post uploaded by President Lee, Song Eon-seok, the floor leader of the People Power Party, said on Facebook, "He is trying to divert attention because he is in trouble due to the spread of fake news videos on his own SNS," and added, "Have the Democratic Party ever apologized for their long history of manipulation and agitation, such as the Kim Dae-up folding screen, mad cow disease agitation, Cheonan conspiracy theory, Sewol ferry rumors, THAAD rumors, Fukushima contaminated water rumors, etc.?"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민의힘은 대통령의 사과 요구에 “민주당은 광우병 선동, 천안함 음모론, 사드 괴담, 후쿠시마 오염수 괴담 등 유구한 조작 선동 역사에 대해 사과했었나”라고 했다&lt;br/&gt;&lt;em&gt;(The People Power Party responded to the president's demand for an apology by saying, "Has the Democratic Party ever apologized for their long history of manipulation and agitation, such as mad cow disease agitation, Cheonan conspiracy theory, THAAD rumors, Fukushima contaminated water rumors, etc.?")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;역사에 중요한 사건이 있습니다.&lt;br/&gt;&lt;em&gt;There is an important event in history.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 역사에 관심이 많아요.&lt;br/&gt;&lt;em&gt;We are very interested in history.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1726347914985-003a17b8d1c5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGhpc3Rvcnl8ZW58MHx8fHwxNzc2Mjg1NjkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="역사에 (in history)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이 대통령이 올린 글에 대해, 송언석 국민의힘 원내대표는 페이스북을 통해 “본인의 SNS 가짜뉴스 영상 유포로 곤란해지니 물타기하려고 애쓰신다”며 “김대업 병풍, 광우병 선동, 천안함 음모론, 세월호 괴담, 사드 괴담, 후쿠시마 오염수 괴담 등등등 민주당은 본인들의 유구한 조작선동 역사에 대해 사과하셨던가”라고 했다&lt;br/&gt;&lt;em&gt;Regarding the post uploaded by President Lee, Song Eon-seok, the floor leader of the People Power Party, said on Facebook, "He is trying to divert attention because he is in trouble due to the spread of fake news videos on his own SNS," and added, "Have the Democratic Party ever apologized for their long history of manipulation and agitation, such as the Kim Dae-up folding screen, mad cow disease agitation, Cheonan conspiracy theory, Sewol ferry rumors, THAAD rumors, Fukushima contaminated water rumors, etc.?"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민의힘은 대통령의 사과 요구에 “민주당은 광우병 선동, 천안함 음모론, 사드 괴담, 후쿠시마 오염수 괴담 등 유구한 조작 선동 역사에 대해 사과했었나”라고 했다&lt;br/&gt;&lt;em&gt;(The People Power Party responded to the president's demand for an apology by saying, "Has the Democratic Party ever apologized for their long history of manipulation and agitation, such as mad cow disease agitation, Cheonan conspiracy theory, THAAD rumors, Fukushima contaminated water rumors, etc.?")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;역사에 중요한 사건이 있습니다.&lt;br/&gt;&lt;em&gt;There is an important event in history.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 역사에 관심이 많아요.&lt;br/&gt;&lt;em&gt;We are very interested in history.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 16 Apr 2026 05:41:41 +0900</pubDate><guid isPermaLink="false">vocab-4f35d217211a2ec7a0c110caba7df66119685cf2</guid><enclosure url="https://images.unsplash.com/photo-1726347914985-003a17b8d1c5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGhpc3Rvcnl8ZW58MHx8fHwxNzc2Mjg1NjkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="189874" /><ns2:content url="https://images.unsplash.com/photo-1726347914985-003a17b8d1c5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGhpc3Rvcnl8ZW58MHx8fHwxNzc2Mjg1NjkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1726347914985-003a17b8d1c5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGhpc3Rvcnl8ZW58MHx8fHwxNzc2Mjg1NjkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>역사에</category></item><item><title>쓰이는 – is used</title><link>urn:urn:vocab:쓰이는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1614530606961-c4ce986825c1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMHVzZWR8ZW58MHx8fHwxNzc2Mjc3NzE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쓰이는 (is used)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(그로시 사무총장은 원잠에 쓰이는 우라늄 원료를 IAEA가 감시하는 데 대해 “중요한 기술적인 고려 사항이 있다”며 “장기간 운항하는 선박 특성상 (잠수함에 사용하는) 핵 물질이 사찰단 감시 범위에서 벗어난다”고 했다&lt;br/&gt;&lt;em&gt;Secretary General Grossi said regarding the IAEA's monitoring of uranium fuel used in nuclear submarines that 'there are important technical considerations' and that 'due to the characteristics of vessels operating for long periods, nuclear materials (used in submarines) fall outside the inspection team's monitoring scope.'&lt;/em&gt;&lt;/p&gt;
