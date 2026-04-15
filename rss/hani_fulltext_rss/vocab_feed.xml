@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 18:25:21 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 20:33:21 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,27 @@
 
 
 
-  <item><title>공공주택 – public housing</title><link>urn:urn:vocab:공공주택</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>다가치학교 – Dagachi School</title><link>urn:urn:vocab:다가치학교</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;청소년 자치 배움터 ‘다가치학교 강서양천’에서 청소년 주도 활동의 생생한 현장을 만났다&lt;br/&gt;&lt;em&gt;I encountered the vibrant scene of youth-led activities at the adolescent self-governing learning center 'Dagachi School Gangseo-Yangcheon'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도도센과 지도는 두 사람이 다가치학교에서 본명 대신 사용하는 별칭이다&lt;br/&gt;&lt;em&gt;Dodosen and Jido are the nicknames used by the two individuals at Dagachi School instead of their real names.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;두 청소년은 ‘노른자존’ 팀원으로, 노른자존은 노키즈존 문화에 관한 활동을 하는 다가치학교의 프로젝트 중 하나다&lt;br/&gt;&lt;em&gt;The two adolescents are members of the 'Noreunjajon' team, which is one of Dagachi School's projects focusing on activities related to no-kids-zone culture.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;다가치학교는 멋있어요.&lt;br/&gt;&lt;em&gt;Dagachi School is cool.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 다가치학교에 다녀요.&lt;br/&gt;&lt;em&gt;I attend Dagachi School.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;청소년 자치 배움터 ‘다가치학교 강서양천’에서 청소년 주도 활동의 생생한 현장을 만났다&lt;br/&gt;&lt;em&gt;I encountered the vibrant scene of youth-led activities at the adolescent self-governing learning center 'Dagachi School Gangseo-Yangcheon'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도도센과 지도는 두 사람이 다가치학교에서 본명 대신 사용하는 별칭이다&lt;br/&gt;&lt;em&gt;Dodosen and Jido are the nicknames used by the two individuals at Dagachi School instead of their real names.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;두 청소년은 ‘노른자존’ 팀원으로, 노른자존은 노키즈존 문화에 관한 활동을 하는 다가치학교의 프로젝트 중 하나다&lt;br/&gt;&lt;em&gt;The two adolescents are members of the 'Noreunjajon' team, which is one of Dagachi School's projects focusing on activities related to no-kids-zone culture.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;다가치학교는 멋있어요.&lt;br/&gt;&lt;em&gt;Dagachi School is cool.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 다가치학교에 다녀요.&lt;br/&gt;&lt;em&gt;I attend Dagachi School.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 15 Apr 2026 20:33:21 +0900</pubDate><guid isPermaLink="false">vocab-3278dc20c7fbf50ac4b1c9a7e62e11365a33f1d9</guid><category>다가치학교</category></item><item><title>공공주택 – public housing</title><link>urn:urn:vocab:공공주택</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1574362848149-11496d93a7c7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjBob3VzaW5nfGVufDB8fHx8MTc3NjI0NTExMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공공주택 (public housing)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Double the 5-Year Average (올해 수도권 공공주택 6만2천가구 착공…5년 평균치의 ‘갑절’) &lt;&lt;br/&gt;&lt;em&gt;Double the 5-Year Average (This year, 62,000 public housing units commence construction in the metropolitan area... 'Double' the 5-year average)&lt;/em&gt;&lt;/p&gt;
