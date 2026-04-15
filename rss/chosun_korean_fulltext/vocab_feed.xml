@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 11:58:42 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 14:06:18 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>받았어 – received</title><link>urn:urn:vocab:받았어</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>수석 – chief, head, top position</title><link>urn:urn:vocab:수석</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1529455910337-de5d3f7dfbd6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGllZiUyQyUyMGhlYWQlMkMlMjB0b3AlMjBwb3NpdGlvbnxlbnwwfHx8fDE3NzYyMjk1Njh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="수석 (chief, head, top position)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (하정우 청와대 AI 미래기획수석은 14일 공개된 SBS라디오 사전 녹음 인터뷰에서 부산 북갑 보궐선거 차출론에 대해 “(이재명 대통령이 결정을 맡긴다면) 저는 (청와대에) 남는 것으로 결정하겠다”고 했다&lt;br/&gt;&lt;em&gt;"Ha Jung-woo, the Senior Presidential Secretary for AI and Future Planning, said in a pre-recorded interview with SBS Radio released on the 14th regarding the theory of his nomination for the Busan Buk-gap by-election, 'If President Lee Jae-myung entrusts me with the decision, I will decide to stay (at the Blue House).'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(여권 관계자는 “하 수석은 지금 이 상황을 즐기는 것으로 보인다”며 “출마를 하면 좋고, 못 나가도 인지도를 높일 수 있어서 나쁠 게 없다”고 했다&lt;br/&gt;&lt;em&gt;(A ruling party official said, 'Secretary Ha seems to be enjoying this situation now,' adding, 'It would be good if he runs, and even if he cannot run, he can raise his recognition, so there is nothing bad about it.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;요즘 하 수석은 거의 매일 언론 인터뷰에 응하고 있다&lt;br/&gt;&lt;em&gt;These days, Secretary Ha is responding to media interviews almost every day.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;수석이 회의를 합니다.&lt;br/&gt;&lt;em&gt;The chief is having a meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 수석이 되었습니다.&lt;br/&gt;&lt;em&gt;He became the chief.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1529455910337-de5d3f7dfbd6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGllZiUyQyUyMGhlYWQlMkMlMjB0b3AlMjBwb3NpdGlvbnxlbnwwfHx8fDE3NzYyMjk1Njh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="수석 (chief, head, top position)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (하정우 청와대 AI 미래기획수석은 14일 공개된 SBS라디오 사전 녹음 인터뷰에서 부산 북갑 보궐선거 차출론에 대해 “(이재명 대통령이 결정을 맡긴다면) 저는 (청와대에) 남는 것으로 결정하겠다”고 했다&lt;br/&gt;&lt;em&gt;"Ha Jung-woo, the Senior Presidential Secretary for AI and Future Planning, said in a pre-recorded interview with SBS Radio released on the 14th regarding the theory of his nomination for the Busan Buk-gap by-election, 'If President Lee Jae-myung entrusts me with the decision, I will decide to stay (at the Blue House).'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(여권 관계자는 “하 수석은 지금 이 상황을 즐기는 것으로 보인다”며 “출마를 하면 좋고, 못 나가도 인지도를 높일 수 있어서 나쁠 게 없다”고 했다&lt;br/&gt;&lt;em&gt;(A ruling party official said, 'Secretary Ha seems to be enjoying this situation now,' adding, 'It would be good if he runs, and even if he cannot run, he can raise his recognition, so there is nothing bad about it.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;요즘 하 수석은 거의 매일 언론 인터뷰에 응하고 있다&lt;br/&gt;&lt;em&gt;These days, Secretary Ha is responding to media interviews almost every day.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;수석이 회의를 합니다.&lt;br/&gt;&lt;em&gt;The chief is having a meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 수석이 되었습니다.&lt;br/&gt;&lt;em&gt;He became the chief.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 15 Apr 2026 14:06:18 +0900</pubDate><guid isPermaLink="false">vocab-d1a9a441d5c93497aa27821afd1fff7853052663</guid><enclosure url="https://images.unsplash.com/photo-1529455910337-de5d3f7dfbd6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGllZiUyQyUyMGhlYWQlMkMlMjB0b3AlMjBwb3NpdGlvbnxlbnwwfHx8fDE3NzYyMjk1Njh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="75760" /><ns2:content url="https://images.unsplash.com/photo-1529455910337-de5d3f7dfbd6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGllZiUyQyUyMGhlYWQlMkMlMjB0b3AlMjBwb3NpdGlvbnxlbnwwfHx8fDE3NzYyMjk1Njh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1529455910337-de5d3f7dfbd6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGllZiUyQyUyMGhlYWQlMkMlMjB0b3AlMjBwb3NpdGlvbnxlbnwwfHx8fDE3NzYyMjk1Njh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>수석</category></item><item><title>받았어 – received</title><link>urn:urn:vocab:받았어</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1505224059153-b45853fcd9ef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlaXZlZHxlbnwwfHx8fDE3NzYyMjE5MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="받았어 (received)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Han Dong-hoon: "He Received It, He Did" (전재수 “까르띠에 시계, 이미 종결된 사안”… 한동훈 “받았네 받았어”) &lt;&lt;br/&gt;&lt;em&gt;Han Dong-hoon: "He Received It, He Did" (Jeon Jae-su: "Cartier watch, already settled matter"... Han Dong-hoon: "He received it, he did") &lt;&lt;/em&gt;&lt;/p&gt;
