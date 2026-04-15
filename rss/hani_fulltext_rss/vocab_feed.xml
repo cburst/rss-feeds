@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 20:33:21 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 23:01:20 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>다가치학교 – Dagachi School</title><link>urn:urn:vocab:다가치학교</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>쌀값 – rice price</title><link>urn:urn:vocab:쌀값</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771575521357-f6c9237fe16f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJpY2V8ZW58MHx8fHwxNzc2MjYxNjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쌀값 (rice price)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Main Culprit is Government Supply-Demand Policy Failure (‘20kg 6만원’ 한계선 뚫린 쌀값…주범은 정부 수급 정책 실패) &lt;&lt;br/&gt;&lt;em&gt;Main Culprit is Government Supply-Demand Policy Failure ('20kg 60,000 won' threshold breached in rice prices...main culprit is government supply-demand policy failure)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Main Culprit is Government Supply-Demand Policy Failure (‘20kg 6만원’ 한계선 뚫린 쌀값…주범은 정부 수급 정책 실패)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Main Culprit is Government Supply-Demand Policy Failure ('20kg 60,000 won' threshold breached in rice prices...main culprit is government supply-demand policy failure)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(쌀 20㎏ 평균 소매가격이 8개월째 6만원대를 웃돌고, 12개월 연속 쌀값이 전년 대비 상승세를 이어가고 있다&lt;br/&gt;&lt;em&gt;The average retail price of 20kg of rice has been exceeding 60,000 won for 8 consecutive months, with rice prices showing a year-on-year increase for 12 consecutive months&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;쌀값이 오르고 있어요.&lt;br/&gt;&lt;em&gt;The price of rice is rising.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;쌀값이 너무 비싸요.&lt;br/&gt;&lt;em&gt;The price of rice is too expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771575521357-f6c9237fe16f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJpY2V8ZW58MHx8fHwxNzc2MjYxNjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쌀값 (rice price)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Main Culprit is Government Supply-Demand Policy Failure (‘20kg 6만원’ 한계선 뚫린 쌀값…주범은 정부 수급 정책 실패) &lt;&lt;br/&gt;&lt;em&gt;Main Culprit is Government Supply-Demand Policy Failure ('20kg 60,000 won' threshold breached in rice prices...main culprit is government supply-demand policy failure)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Main Culprit is Government Supply-Demand Policy Failure (‘20kg 6만원’ 한계선 뚫린 쌀값…주범은 정부 수급 정책 실패)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Main Culprit is Government Supply-Demand Policy Failure ('20kg 60,000 won' threshold breached in rice prices...main culprit is government supply-demand policy failure)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(쌀 20㎏ 평균 소매가격이 8개월째 6만원대를 웃돌고, 12개월 연속 쌀값이 전년 대비 상승세를 이어가고 있다&lt;br/&gt;&lt;em&gt;The average retail price of 20kg of rice has been exceeding 60,000 won for 8 consecutive months, with rice prices showing a year-on-year increase for 12 consecutive months&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;쌀값이 오르고 있어요.&lt;br/&gt;&lt;em&gt;The price of rice is rising.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;쌀값이 너무 비싸요.&lt;br/&gt;&lt;em&gt;The price of rice is too expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 15 Apr 2026 23:01:20 +0900</pubDate><guid isPermaLink="false">vocab-f4374c474ef2827505e2927db27e8bf3d355f2da</guid><enclosure url="https://images.unsplash.com/photo-1771575521357-f6c9237fe16f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJpY2V8ZW58MHx8fHwxNzc2MjYxNjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="158313" /><ns2:content url="https://images.unsplash.com/photo-1771575521357-f6c9237fe16f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJpY2V8ZW58MHx8fHwxNzc2MjYxNjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1771575521357-f6c9237fe16f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJpY2V8ZW58MHx8fHwxNzc2MjYxNjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>쌀값</category></item><item><title>다가치학교 – Dagachi School</title><link>urn:urn:vocab:다가치학교</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;청소년 자치 배움터 ‘다가치학교 강서양천’에서 청소년 주도 활동의 생생한 현장을 만났다&lt;br/&gt;&lt;em&gt;I encountered the vibrant scene of youth-led activities at the adolescent self-governing learning center 'Dagachi School Gangseo-Yangcheon'.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;도도센과 지도는 두 사람이 다가치학교에서 본명 대신 사용하는 별칭이다&lt;br/&gt;&lt;em&gt;Dodosen and Jido are the nicknames used by the two individuals at Dagachi School instead of their real names.&lt;/em&gt;&lt;/p&gt;
