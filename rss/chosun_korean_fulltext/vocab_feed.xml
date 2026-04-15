@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 09:50:36 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 11:58:42 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>수도 – capital city</title><link>urn:urn:vocab:수도</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>받았어 – received</title><link>urn:urn:vocab:받았어</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1505224059153-b45853fcd9ef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlaXZlZHxlbnwwfHx8fDE3NzYyMjE5MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="받았어 (received)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Han Dong-hoon: "He Received It, He Did" (전재수 “까르띠에 시계, 이미 종결된 사안”… 한동훈 “받았네 받았어”) &lt;&lt;br/&gt;&lt;em&gt;Han Dong-hoon: "He Received It, He Did" (Jeon Jae-su: "Cartier watch, already settled matter"... Han Dong-hoon: "He received it, he did") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (전 후보의 이날 답변을 두고 한 전 대표는 페이스북에 “받았네, 받았어”라는 글을 올려 “전 후보는 오늘도 ‘까르띠에 안 받았다’ 한마디를 못 한다”고 했다&lt;br/&gt;&lt;em&gt;" (Regarding former candidate's response that day, former representative Han posted on Facebook "He received it, he did" saying "Former candidate still cannot say 'I didn't receive the Cartier'" today)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 선물을 받았어.&lt;br/&gt;&lt;em&gt;I received a gift.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구가 편지를 받았어.&lt;br/&gt;&lt;em&gt;My friend received a letter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1505224059153-b45853fcd9ef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlaXZlZHxlbnwwfHx8fDE3NzYyMjE5MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="받았어 (received)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Han Dong-hoon: "He Received It, He Did" (전재수 “까르띠에 시계, 이미 종결된 사안”… 한동훈 “받았네 받았어”) &lt;&lt;br/&gt;&lt;em&gt;Han Dong-hoon: "He Received It, He Did" (Jeon Jae-su: "Cartier watch, already settled matter"... Han Dong-hoon: "He received it, he did") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (전 후보의 이날 답변을 두고 한 전 대표는 페이스북에 “받았네, 받았어”라는 글을 올려 “전 후보는 오늘도 ‘까르띠에 안 받았다’ 한마디를 못 한다”고 했다&lt;br/&gt;&lt;em&gt;" (Regarding former candidate's response that day, former representative Han posted on Facebook "He received it, he did" saying "Former candidate still cannot say 'I didn't receive the Cartier'" today)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 선물을 받았어.&lt;br/&gt;&lt;em&gt;I received a gift.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구가 편지를 받았어.&lt;br/&gt;&lt;em&gt;My friend received a letter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 15 Apr 2026 11:58:42 +0900</pubDate><guid isPermaLink="false">vocab-5d1a47c7e467a1c0ab118a4f70edb889fe96f631</guid><enclosure url="https://images.unsplash.com/photo-1505224059153-b45853fcd9ef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlaXZlZHxlbnwwfHx8fDE3NzYyMjE5MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="109365" /><ns2:content url="https://images.unsplash.com/photo-1505224059153-b45853fcd9ef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlaXZlZHxlbnwwfHx8fDE3NzYyMjE5MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1505224059153-b45853fcd9ef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlaXZlZHxlbnwwfHx8fDE3NzYyMjE5MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>받았어</category></item><item><title>수도 – capital city</title><link>urn:urn:vocab:수도</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1574229174164-08635b1ef08f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXBpdGFsJTIwY2l0eXxlbnwwfHx8fDE3NzYyMTQyMjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="수도 (capital city)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이 수석은 대통령의 세종 집무실을 “세종시를 행정 수도로 완성하는 핵심 기반 시설”이라고 설명했다&lt;br/&gt;&lt;em&gt;The chief described the president's Sejong office as "a key infrastructure facility for completing Sejong City as the administrative capital."&lt;/em&gt;&lt;/p&gt;

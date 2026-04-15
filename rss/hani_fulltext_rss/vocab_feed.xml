@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 09:50:25 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 11:58:31 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>셈이다 – it is considered/regarded as</title><link>urn:urn:vocab:셈이다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>설치형 – installable type</title><link>urn:urn:vocab:설치형</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1675263943038-286c7fd18eaa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnN0YWxsYWJsZSUyMHR5cGV8ZW58MHx8fHwxNzc2MjIxOTA0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="설치형 (installable type)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Government to Phase Out Controversial 'Bank-Required Security Programs' Amid Criticism of Shifting Responsibility (정부, 책임전가 논란 ‘은행 설치형 보안 프로그램’ 걷어낸다) &lt;&lt;br/&gt;&lt;em&gt;Government to Phase Out Controversial 'Bank-Required Security Programs' Amid Criticism of Shifting Responsibility&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Government to Phase Out Controversial 'Bank-Required Security Programs' Amid Criticism of Shifting Responsibility (정부, 책임전가 논란 ‘은행 설치형 보안 프로그램’ 걷어낸다)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Government to Phase Out Controversial 'Bank-Required Security Programs' Amid Criticism of Shifting Responsibility&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;하지만 정부는 이 설치형 보안 프로그램을 단계적으로 걷어내는 방안을 추진하고 있다&lt;br/&gt;&lt;em&gt;However, the government is pushing forward with a plan to phase out these installed security programs gradually.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;설치형 프로그램이 필요해요.&lt;br/&gt;&lt;em&gt;I need an installable program.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 설치형 소프트웨어예요.&lt;br/&gt;&lt;em&gt;This is installable software.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1675263943038-286c7fd18eaa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnN0YWxsYWJsZSUyMHR5cGV8ZW58MHx8fHwxNzc2MjIxOTA0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="설치형 (installable type)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Government to Phase Out Controversial 'Bank-Required Security Programs' Amid Criticism of Shifting Responsibility (정부, 책임전가 논란 ‘은행 설치형 보안 프로그램’ 걷어낸다) &lt;&lt;br/&gt;&lt;em&gt;Government to Phase Out Controversial 'Bank-Required Security Programs' Amid Criticism of Shifting Responsibility&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Government to Phase Out Controversial 'Bank-Required Security Programs' Amid Criticism of Shifting Responsibility (정부, 책임전가 논란 ‘은행 설치형 보안 프로그램’ 걷어낸다)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Government to Phase Out Controversial 'Bank-Required Security Programs' Amid Criticism of Shifting Responsibility&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;하지만 정부는 이 설치형 보안 프로그램을 단계적으로 걷어내는 방안을 추진하고 있다&lt;br/&gt;&lt;em&gt;However, the government is pushing forward with a plan to phase out these installed security programs gradually.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;설치형 프로그램이 필요해요.&lt;br/&gt;&lt;em&gt;I need an installable program.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 설치형 소프트웨어예요.&lt;br/&gt;&lt;em&gt;This is installable software.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 15 Apr 2026 11:58:31 +0900</pubDate><guid isPermaLink="false">vocab-fdd435f71ff94ad53e3d6288b003746e663f2918</guid><enclosure url="https://images.unsplash.com/photo-1675263943038-286c7fd18eaa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnN0YWxsYWJsZSUyMHR5cGV8ZW58MHx8fHwxNzc2MjIxOTA0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="93351" /><ns2:content url="https://images.unsplash.com/photo-1675263943038-286c7fd18eaa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnN0YWxsYWJsZSUyMHR5cGV8ZW58MHx8fHwxNzc2MjIxOTA0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1675263943038-286c7fd18eaa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnN0YWxsYWJsZSUyMHR5cGV8ZW58MHx8fHwxNzc2MjIxOTA0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>설치형</category></item><item><title>셈이다 – it is considered/regarded as</title><link>urn:urn:vocab:셈이다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1737107464566-fd5ceaaa6537?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpdCUyMGlzJTIwY29uc2lkZXJlZCUyRnJlZ2FyZGVkJTIwYXN8ZW58MHx8fHwxNzc2MjE0MjE4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="셈이다 (it is considered/regarded as)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;보안 프로그램 없이도 보안을 유지하는 데 기술적인 문제가 없다는 점을 보여주는 셈이다&lt;br/&gt;&lt;em&gt;It demonstrates that there are no technical issues in maintaining security even without security programs.&lt;/em&gt;&lt;/p&gt;
