@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 16:18:07 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 18:25:39 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>좋아합니까 – Do you like it?</title><link>urn:urn:vocab:좋아합니까</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>칼국수 – knife-cut noodles</title><link>urn:urn:vocab:칼국수</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1734313276340-cb45345c4454?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxrbmlmZS1jdXQlMjBub29kbGVzfGVufDB8fHx8MTc3NjI0NTEyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="칼국수 (knife-cut noodles)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Yoo Ui-dong: "Can't Even Distinguish Between a City and a County, Yet Running for Office" (조국 “평택‘군’에서 닭칼국수”&lt;br/&gt;&lt;em&gt;Yoo Ui-dong: "Can't Even Distinguish Between a City and a County, Yet Running for Office" (Cho Kuk: "Chicken Kalguksu in Pyeongtaek 'County'")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (조 대표는 이날 오후 페이스북에 “평택군 포승읍 칼국수 식당에서 닭칼국수를 먹고, 안중읍 카페에서 말차 라테 한 잔”이라는 글을 적으면서 국수와 음료 사진을 함께 올렸다&lt;br/&gt;&lt;em&gt;(On that afternoon, Representative Cho posted on Facebook: "Had chicken kalguksu at a kalguksu restaurant in Poseung-eup, Pyeongtaek County, and a matcha latte at a cafe in Anjung-eup," along with photos of the noodles and drink)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이를 의식한 듯 조 대표는 20여 분 뒤 게시물 내용을 “평택시 포승읍 칼국수 식당에서 닭칼국수를 먹고”라고 수정했다&lt;br/&gt;&lt;em&gt;(As if aware of this, Representative Cho revised the post about 20 minutes later to: "Had chicken kalguksu at a kalguksu restaurant in Poseung-eup, Pyeongtaek City")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;칼국수를 먹었어요.&lt;br/&gt;&lt;em&gt;I ate kalguksu.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;칼국수가 맛있어요.&lt;br/&gt;&lt;em&gt;Kalguksu is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1734313276340-cb45345c4454?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxrbmlmZS1jdXQlMjBub29kbGVzfGVufDB8fHx8MTc3NjI0NTEyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="칼국수 (knife-cut noodles)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Yoo Ui-dong: "Can't Even Distinguish Between a City and a County, Yet Running for Office" (조국 “평택‘군’에서 닭칼국수”&lt;br/&gt;&lt;em&gt;Yoo Ui-dong: "Can't Even Distinguish Between a City and a County, Yet Running for Office" (Cho Kuk: "Chicken Kalguksu in Pyeongtaek 'County'")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (조 대표는 이날 오후 페이스북에 “평택군 포승읍 칼국수 식당에서 닭칼국수를 먹고, 안중읍 카페에서 말차 라테 한 잔”이라는 글을 적으면서 국수와 음료 사진을 함께 올렸다&lt;br/&gt;&lt;em&gt;(On that afternoon, Representative Cho posted on Facebook: "Had chicken kalguksu at a kalguksu restaurant in Poseung-eup, Pyeongtaek County, and a matcha latte at a cafe in Anjung-eup," along with photos of the noodles and drink)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이를 의식한 듯 조 대표는 20여 분 뒤 게시물 내용을 “평택시 포승읍 칼국수 식당에서 닭칼국수를 먹고”라고 수정했다&lt;br/&gt;&lt;em&gt;(As if aware of this, Representative Cho revised the post about 20 minutes later to: "Had chicken kalguksu at a kalguksu restaurant in Poseung-eup, Pyeongtaek City")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;칼국수를 먹었어요.&lt;br/&gt;&lt;em&gt;I ate kalguksu.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;칼국수가 맛있어요.&lt;br/&gt;&lt;em&gt;Kalguksu is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 15 Apr 2026 18:25:39 +0900</pubDate><guid isPermaLink="false">vocab-24b69f23c7a66bca094315a4967acfa607ef7066</guid><enclosure url="https://images.unsplash.com/photo-1734313276340-cb45345c4454?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxrbmlmZS1jdXQlMjBub29kbGVzfGVufDB8fHx8MTc3NjI0NTEyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="91057" /><ns2:content url="https://images.unsplash.com/photo-1734313276340-cb45345c4454?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxrbmlmZS1jdXQlMjBub29kbGVzfGVufDB8fHx8MTc3NjI0NTEyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1734313276340-cb45345c4454?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxrbmlmZS1jdXQlMjBub29kbGVzfGVufDB8fHx8MTc3NjI0NTEyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>칼국수</category></item><item><title>좋아합니까 – Do you like it?</title><link>urn:urn:vocab:좋아합니까</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570822827176-d965104c7eb0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxEbyUyMHlvdSUyMGxpa2UlMjBpdCUzRnxlbnwwfHx8fDE3NzYyMzc0NzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="좋아합니까 (Do you like it?)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" Jeon Jae-su: "I Love Him" (부산 간 정청래 “하정우 좋아합니까” 전재수 “사랑합니다”) &lt;&lt;br/&gt;&lt;em&gt;"Jeon Jae-su: "I Love Him" (Jeong Cheong-rae in Busan: "Do you like Ha Jung-woo?" Jeon Jae-su: "I love him") &lt;&lt;/em&gt;&lt;/p&gt;
