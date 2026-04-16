@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 18:24:22 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 20:34:53 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>쌀값은 – rice price</title><link>urn:urn:vocab:쌀값은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>항공권 – airplane ticket</title><link>urn:urn:vocab:항공권</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1655722724447-2d2a3071e7f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhaXJwbGFuZSUyMHRpY2tldHxlbnwwfHx8fDE3NzYzMzkyODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="항공권 (airplane ticket)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(미국·이스라엘-이란 전쟁 장기화로 국제 유가가 급등하면서 국제선 항공권 유류할증료가 역대 최고 수준으로 치솟았다&lt;br/&gt;&lt;em&gt;(As international oil prices surged due to the prolonged U.S.-Israel-Iran war, international flight fuel surcharges soared to record highs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;유가 상승분을 고스란히 떠안게 되는 항공사가 순수 항공권 운임 자체를 올리는 방식으로 비용을 보전할 가능성이 커지는 이유다&lt;br/&gt;&lt;em&gt;This is why airlines, which bear the full brunt of rising oil prices, are increasingly likely to compensate for costs by raising pure airfare itself.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한 항공사 관계자는 “유류할증료는 유가가 오를 때 비용을 보전할 수 있는 유일한 수단이지만 폭증한 항공유 가격 상승분을 상쇄하기엔 역부족”이라며 “유류할증료만으로 감당이 되지 않으면 순수 항공권 가격의 추가 인상으로도 이어질 수 있다”고 말했다&lt;br/&gt;&lt;em&gt;An airline official said, 'Fuel surcharges are the only means to offset costs when oil prices rise, but they are insufficient to counter the sharp increase in aviation fuel prices. If fuel surcharges alone cannot cover it, it could lead to additional increases in pure airfare prices.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;항공권을 예매했어요.&lt;br/&gt;&lt;em&gt;I booked a flight ticket.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;항공권이 비싸요.&lt;br/&gt;&lt;em&gt;The flight ticket is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1655722724447-2d2a3071e7f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhaXJwbGFuZSUyMHRpY2tldHxlbnwwfHx8fDE3NzYzMzkyODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="항공권 (airplane ticket)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(미국·이스라엘-이란 전쟁 장기화로 국제 유가가 급등하면서 국제선 항공권 유류할증료가 역대 최고 수준으로 치솟았다&lt;br/&gt;&lt;em&gt;(As international oil prices surged due to the prolonged U.S.-Israel-Iran war, international flight fuel surcharges soared to record highs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;유가 상승분을 고스란히 떠안게 되는 항공사가 순수 항공권 운임 자체를 올리는 방식으로 비용을 보전할 가능성이 커지는 이유다&lt;br/&gt;&lt;em&gt;This is why airlines, which bear the full brunt of rising oil prices, are increasingly likely to compensate for costs by raising pure airfare itself.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한 항공사 관계자는 “유류할증료는 유가가 오를 때 비용을 보전할 수 있는 유일한 수단이지만 폭증한 항공유 가격 상승분을 상쇄하기엔 역부족”이라며 “유류할증료만으로 감당이 되지 않으면 순수 항공권 가격의 추가 인상으로도 이어질 수 있다”고 말했다&lt;br/&gt;&lt;em&gt;An airline official said, 'Fuel surcharges are the only means to offset costs when oil prices rise, but they are insufficient to counter the sharp increase in aviation fuel prices. If fuel surcharges alone cannot cover it, it could lead to additional increases in pure airfare prices.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;항공권을 예매했어요.&lt;br/&gt;&lt;em&gt;I booked a flight ticket.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;항공권이 비싸요.&lt;br/&gt;&lt;em&gt;The flight ticket is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 16 Apr 2026 20:34:52 +0900</pubDate><guid isPermaLink="false">vocab-256d9098175120e8b8516b88b8f9ff7c45a80186</guid><enclosure url="https://images.unsplash.com/photo-1655722724447-2d2a3071e7f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhaXJwbGFuZSUyMHRpY2tldHxlbnwwfHx8fDE3NzYzMzkyODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="98745" /><ns2:content url="https://images.unsplash.com/photo-1655722724447-2d2a3071e7f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhaXJwbGFuZSUyMHRpY2tldHxlbnwwfHx8fDE3NzYzMzkyODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1655722724447-2d2a3071e7f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhaXJwbGFuZSUyMHRpY2tldHxlbnwwfHx8fDE3NzYzMzkyODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>항공권</category></item><item><title>쌀값은 – rice price</title><link>urn:urn:vocab:쌀값은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771575521357-f6c9237fe16f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJpY2V8ZW58MHx8fHwxNzc2MjYxNjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쌀값은 (rice price)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;송미령 농림축산식품부 장관이 “소매가 6만원은 소비자들이 비싸다고 느끼는 저항선”이라고 가리켰던 쌀값은 지난해 9월 6만원 선을 넘어선 뒤, 햅쌀이 나온 10월 6만6천원으로 고점을 찍고 줄곧 6만2천~6만3천원대에서 움직이고 있다&lt;br/&gt;&lt;em&gt;Minister of Agriculture, Food and Rural Affairs Song Mi-ryung pointed out that the rice price, which she referred to as "the resistance line where consumers feel 60,000 won is expensive," has been moving in the range of 62,000 to 63,000 won after surpassing the 60,000 won mark in September last year, peaking at 66,000 won in October when new rice came out.&lt;/em&gt;&lt;/p&gt;
