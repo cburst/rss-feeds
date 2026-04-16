@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 01:24:23 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 03:33:46 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>박람회 – exhibition</title><link>urn:urn:vocab:박람회</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>회의 – meeting</title><link>urn:urn:vocab:회의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773332598289-ed0444ad1d6f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtZWV0aW5nfGVufDB8fHx8MTc3NjI4NTczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="회의 (meeting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령은 16일 민주평화통일자문회의 수석부의장에 강창일 전 주일대사와 진실화해를위한과거사정리위원회 상임위원에 김귀옥 한성대 교수를 비롯한 정부위원회 4명의 인사를 단행했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung appointed four government committee members on the 16th, including former Ambassador to Japan Kang Chang-il as the senior vice chairman of the Democratic Peaceful Unification Advisory Council and Kim Gwi-ok, a professor at Hansung University, as a standing member of the Truth and Reconciliation Commission for Past History.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이규연 청와대 홍보소통수석은 이날 브리핑에서 “이 대통령은 오늘 대통령 자문회의 1명, 차관급 정무직 1명, 정부위원회 3명을 임명 또는 위촉했다”며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;"Lee Gyu-yeon, the senior presidential secretary for public communication, announced this at a briefing that day, saying, 'The president today appointed or commissioned one presidential advisory council member, one vice-minister-level political official, and three government committee members.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (제주 출신인 강창일 신임 민주평통자문회의 수석부의장은 17·18·19·20대 국회의원을 지냈고, 문재인 정부에서 주일대사를 지내는 등 대표적인 지일파로 꼽힌다&lt;br/&gt;&lt;em&gt;"Kang Chang-il, the new senior vice chairman of the Democratic Peaceful Unification Advisory Council, who is from Jeju, served as a member of the 17th, 18th, 19th, and 20th National Assembly and is considered a representative pro-Japan figure, having served as ambassador to Japan during the Moon Jae-in administration."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회의가 있어요.&lt;br/&gt;&lt;em&gt;There is a meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 회의에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773332598289-ed0444ad1d6f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtZWV0aW5nfGVufDB8fHx8MTc3NjI4NTczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="회의 (meeting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령은 16일 민주평화통일자문회의 수석부의장에 강창일 전 주일대사와 진실화해를위한과거사정리위원회 상임위원에 김귀옥 한성대 교수를 비롯한 정부위원회 4명의 인사를 단행했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung appointed four government committee members on the 16th, including former Ambassador to Japan Kang Chang-il as the senior vice chairman of the Democratic Peaceful Unification Advisory Council and Kim Gwi-ok, a professor at Hansung University, as a standing member of the Truth and Reconciliation Commission for Past History.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이규연 청와대 홍보소통수석은 이날 브리핑에서 “이 대통령은 오늘 대통령 자문회의 1명, 차관급 정무직 1명, 정부위원회 3명을 임명 또는 위촉했다”며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;"Lee Gyu-yeon, the senior presidential secretary for public communication, announced this at a briefing that day, saying, 'The president today appointed or commissioned one presidential advisory council member, one vice-minister-level political official, and three government committee members.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (제주 출신인 강창일 신임 민주평통자문회의 수석부의장은 17·18·19·20대 국회의원을 지냈고, 문재인 정부에서 주일대사를 지내는 등 대표적인 지일파로 꼽힌다&lt;br/&gt;&lt;em&gt;"Kang Chang-il, the new senior vice chairman of the Democratic Peaceful Unification Advisory Council, who is from Jeju, served as a member of the 17th, 18th, 19th, and 20th National Assembly and is considered a representative pro-Japan figure, having served as ambassador to Japan during the Moon Jae-in administration."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회의가 있어요.&lt;br/&gt;&lt;em&gt;There is a meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 회의에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 17 Apr 2026 03:33:45 +0900</pubDate><guid isPermaLink="false">vocab-34ea6357660afec6a624f0e734f0fd3fd05a1b2b</guid><enclosure url="https://images.unsplash.com/photo-1773332598289-ed0444ad1d6f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtZWV0aW5nfGVufDB8fHx8MTc3NjI4NTczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="269387" /><ns2:content url="https://images.unsplash.com/photo-1773332598289-ed0444ad1d6f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtZWV0aW5nfGVufDB8fHx8MTc3NjI4NTczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1773332598289-ed0444ad1d6f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtZWV0aW5nfGVufDB8fHx8MTc3NjI4NTczOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>회의</category></item><item><title>박람회 – exhibition</title><link>urn:urn:vocab:박람회</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632383380175-812d44ec112b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGhpYml0aW9ufGVufDB8fHx8MTc3NjM1NjY1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="박람회 (exhibition)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Prime Minister Kim Inspects Island Expo, Says "Unclear What It Aims to Show" (섬 박람회 점검 간 金총리 “뭘 보여주겠다는 건지 불명확”) &lt;&lt;br/&gt;&lt;em&gt;Prime Minister Kim Inspects Island Expo, Says "Unclear What It Aims to Show"&lt;/em&gt;&lt;/p&gt;
