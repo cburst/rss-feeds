@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 16:16:53 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:24:36 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>바람직하다 – desirable</title><link>urn:urn:vocab:바람직하다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>같다는 – means the same</title><link>urn:urn:vocab:같다는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1645397430059-0d9dc7775405?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWFucyUyMHRoZSUyMHNhbWV8ZW58MHx8fHwxNzc2MzMxNDY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="같다는 (means the same)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정치권에선 이번 이스라엘과의 외교 갈등 뒤에는 이재명 대통령의 유별난 ‘SNS 애착증’과 ‘무오류 확증’이 작용한 것 같다는 얘기가 나옵니다&lt;br/&gt;&lt;em&gt;(In political circles, there is talk that behind this diplomatic conflict with Israel, President Lee Jae-myung's unusual 'SNS addiction' and 'confirmation of infallibility' seem to have played a role)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(일각에선 이 대통령이 외교 라인을 패싱하고 개인 플레이를 하는 것 같다는 우려가 나옵니다&lt;br/&gt;&lt;em&gt;(Some express concern that this president appears to be bypassing diplomatic channels and engaging in personal play)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(여권 내부에선 이번 사태가 이 대통령의 오랜 SNS 사용 습관 때문에 일어난 것 같다는 관측이 나옵니다&lt;br/&gt;&lt;em&gt;(Within the ruling party, there is speculation that this incident seems to have occurred due to the president's long-standing habit of using SNS)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리 생각은 같다는 뜻이에요.&lt;br/&gt;&lt;em&gt;That means we think the same.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 말은 같다는 의미예요.&lt;br/&gt;&lt;em&gt;That means the same thing.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1645397430059-0d9dc7775405?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWFucyUyMHRoZSUyMHNhbWV8ZW58MHx8fHwxNzc2MzMxNDY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="같다는 (means the same)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정치권에선 이번 이스라엘과의 외교 갈등 뒤에는 이재명 대통령의 유별난 ‘SNS 애착증’과 ‘무오류 확증’이 작용한 것 같다는 얘기가 나옵니다&lt;br/&gt;&lt;em&gt;(In political circles, there is talk that behind this diplomatic conflict with Israel, President Lee Jae-myung's unusual 'SNS addiction' and 'confirmation of infallibility' seem to have played a role)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(일각에선 이 대통령이 외교 라인을 패싱하고 개인 플레이를 하는 것 같다는 우려가 나옵니다&lt;br/&gt;&lt;em&gt;(Some express concern that this president appears to be bypassing diplomatic channels and engaging in personal play)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(여권 내부에선 이번 사태가 이 대통령의 오랜 SNS 사용 습관 때문에 일어난 것 같다는 관측이 나옵니다&lt;br/&gt;&lt;em&gt;(Within the ruling party, there is speculation that this incident seems to have occurred due to the president's long-standing habit of using SNS)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리 생각은 같다는 뜻이에요.&lt;br/&gt;&lt;em&gt;That means we think the same.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 말은 같다는 의미예요.&lt;br/&gt;&lt;em&gt;That means the same thing.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 16 Apr 2026 18:24:36 +0900</pubDate><guid isPermaLink="false">vocab-b0376969ff2ebf08b30a9beb7bf58555344ef255</guid><enclosure url="https://images.unsplash.com/photo-1645397430059-0d9dc7775405?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWFucyUyMHRoZSUyMHNhbWV8ZW58MHx8fHwxNzc2MzMxNDY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="368578" /><ns2:content url="https://images.unsplash.com/photo-1645397430059-0d9dc7775405?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWFucyUyMHRoZSUyMHNhbWV8ZW58MHx8fHwxNzc2MzMxNDY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1645397430059-0d9dc7775405?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWFucyUyMHRoZSUyMHNhbWV8ZW58MHx8fHwxNzc2MzMxNDY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>같다는</category></item><item><title>바람직하다 – desirable</title><link>urn:urn:vocab:바람직하다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1505739648877-581d0adc9fd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXNpcmFibGV8ZW58MHx8fHwxNzc2MzIzODAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="바람직하다 (desirable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;하지만 이스라엘 외교부는 이 대통령이 2024년 사건을 현재 사건인 것처럼 허위로 게시한 ‘가짜 계정’의 동영상을 공유한 것이라며 “대통령님, 게시하기 전에 확인하는 것이 언제나 더 바람직하다”고 했습니다&lt;br/&gt;&lt;em&gt;However, the Israeli Ministry of Foreign Affairs stated that the president shared a video from a 'fake account' that falsely posted the 2024 incident as if it were a current event, saying, 'Mr. President, it is always more desirable to verify before posting.'&lt;/em&gt;&lt;/p&gt;

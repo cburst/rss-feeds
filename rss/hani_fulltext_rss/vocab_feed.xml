@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 16:16:39 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:24:22 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>라운지 – lounge</title><link>urn:urn:vocab:라운지</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>쌀값은 – rice price</title><link>urn:urn:vocab:쌀값은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771575521357-f6c9237fe16f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJpY2V8ZW58MHx8fHwxNzc2MjYxNjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쌀값은 (rice price)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;송미령 농림축산식품부 장관이 “소매가 6만원은 소비자들이 비싸다고 느끼는 저항선”이라고 가리켰던 쌀값은 지난해 9월 6만원 선을 넘어선 뒤, 햅쌀이 나온 10월 6만6천원으로 고점을 찍고 줄곧 6만2천~6만3천원대에서 움직이고 있다&lt;br/&gt;&lt;em&gt;Minister of Agriculture, Food and Rural Affairs Song Mi-ryung pointed out that the rice price, which she referred to as "the resistance line where consumers feel 60,000 won is expensive," has been moving in the range of 62,000 to 63,000 won after surpassing the 60,000 won mark in September last year, peaking at 66,000 won in October when new rice came out.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소비자물가지수로 봐도 지난해 9월부터 3월까지 쌀값은 전년 대비 두자릿수 상승률을 보이고 있다&lt;br/&gt;&lt;em&gt;Looking at the consumer price index, rice prices have shown a double-digit increase rate from September last year to March compared to the previous year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;결국 지난해 10월 쌀값은 6만6127원으로 치솟았는데, 농수산식품유통공사가 월간 가격 통계를 공표한 2010년 이래 역대 최고치였다&lt;br/&gt;&lt;em&gt;Ultimately, the rice price soared to 66,127 won in October last year, which was the highest ever since the Korea Agro-Fisheries &amp; Food Trade Corporation began publishing monthly price statistics in 2010.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;쌀값은 오늘 올랐어요.&lt;br/&gt;&lt;em&gt;The price of rice went up today.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;쌀값은 비싸요.&lt;br/&gt;&lt;em&gt;The price of rice is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771575521357-f6c9237fe16f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJpY2V8ZW58MHx8fHwxNzc2MjYxNjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쌀값은 (rice price)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;송미령 농림축산식품부 장관이 “소매가 6만원은 소비자들이 비싸다고 느끼는 저항선”이라고 가리켰던 쌀값은 지난해 9월 6만원 선을 넘어선 뒤, 햅쌀이 나온 10월 6만6천원으로 고점을 찍고 줄곧 6만2천~6만3천원대에서 움직이고 있다&lt;br/&gt;&lt;em&gt;Minister of Agriculture, Food and Rural Affairs Song Mi-ryung pointed out that the rice price, which she referred to as "the resistance line where consumers feel 60,000 won is expensive," has been moving in the range of 62,000 to 63,000 won after surpassing the 60,000 won mark in September last year, peaking at 66,000 won in October when new rice came out.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소비자물가지수로 봐도 지난해 9월부터 3월까지 쌀값은 전년 대비 두자릿수 상승률을 보이고 있다&lt;br/&gt;&lt;em&gt;Looking at the consumer price index, rice prices have shown a double-digit increase rate from September last year to March compared to the previous year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;결국 지난해 10월 쌀값은 6만6127원으로 치솟았는데, 농수산식품유통공사가 월간 가격 통계를 공표한 2010년 이래 역대 최고치였다&lt;br/&gt;&lt;em&gt;Ultimately, the rice price soared to 66,127 won in October last year, which was the highest ever since the Korea Agro-Fisheries &amp; Food Trade Corporation began publishing monthly price statistics in 2010.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;쌀값은 오늘 올랐어요.&lt;br/&gt;&lt;em&gt;The price of rice went up today.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;쌀값은 비싸요.&lt;br/&gt;&lt;em&gt;The price of rice is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 16 Apr 2026 18:24:21 +0900</pubDate><guid isPermaLink="false">vocab-e8bc11784b1b63aee60a3ccd3020516a8b90d653</guid><enclosure url="https://images.unsplash.com/photo-1771575521357-f6c9237fe16f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJpY2V8ZW58MHx8fHwxNzc2MjYxNjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="158313" /><ns2:content url="https://images.unsplash.com/photo-1771575521357-f6c9237fe16f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJpY2V8ZW58MHx8fHwxNzc2MjYxNjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1771575521357-f6c9237fe16f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJpY2V8ZW58MHx8fHwxNzc2MjYxNjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>쌀값은</category></item><item><title>라운지 – lounge</title><link>urn:urn:vocab:라운지</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1621293954908-907159247fc8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb3VuZ2V8ZW58MHx8fHwxNzc2MzIzNzg4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="라운지 (lounge)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Korean Air's Incheon Airport Lounge Doubles in Size…"Even Kimbap is Made by Hyatt Chefs" (두 배 넓어진 대한항공 인천공항 라운지…“김밥도 하얏트 세프가”) &lt;&lt;br/&gt;&lt;em&gt;Korean Air's Incheon Airport Lounge Doubles in Size…"Even Kimbap is Made by Hyatt Chefs"&lt;/em&gt;&lt;/p&gt;
