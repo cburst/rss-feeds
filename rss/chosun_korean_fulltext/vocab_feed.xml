@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 22:40:42 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 01:24:23 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>농지보전부담금 – farmland preservation charge</title><link>urn:urn:vocab:농지보전부담금</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>박람회 – exhibition</title><link>urn:urn:vocab:박람회</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632383380175-812d44ec112b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGhpYml0aW9ufGVufDB8fHx8MTc3NjM1NjY1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="박람회 (exhibition)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Prime Minister Kim Inspects Island Expo, Says "Unclear What It Aims to Show" (섬 박람회 점검 간 金총리 “뭘 보여주겠다는 건지 불명확”) &lt;&lt;br/&gt;&lt;em&gt;Prime Minister Kim Inspects Island Expo, Says "Unclear What It Aims to Show"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Prime Minister Kim Inspects Island Expo, Says "Unclear What It Aims to Show" (섬 박람회 점검 간 金총리 “뭘 보여주겠다는 건지 불명확”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Prime Minister Kim Inspects Island Expo, Says "Unclear What It Aims to Show"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오는 9월 개막하는 여수 세계 섬 박람회가 준비 부족으로 ‘제2의 잼버리’가 될 수 있다는 우려가 나온 가운데, 김민석 국무총리가 16일 전남 여수를 찾아 행사 준비 상황을 점검했다&lt;br/&gt;&lt;em&gt;Amid concerns that the Yeosu World Island Expo, opening this September, could become a 'second Jamboree' due to insufficient preparation, Prime Minister Kim Min-seok visited Yeosu, South Jeolla Province on the 16th to inspect the event's preparation status.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 박람회에 갔어요.&lt;br/&gt;&lt;em&gt;I went to the exhibition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박람회가 재미있었어요.&lt;br/&gt;&lt;em&gt;The exhibition was interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632383380175-812d44ec112b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGhpYml0aW9ufGVufDB8fHx8MTc3NjM1NjY1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="박람회 (exhibition)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Prime Minister Kim Inspects Island Expo, Says "Unclear What It Aims to Show" (섬 박람회 점검 간 金총리 “뭘 보여주겠다는 건지 불명확”) &lt;&lt;br/&gt;&lt;em&gt;Prime Minister Kim Inspects Island Expo, Says "Unclear What It Aims to Show"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Prime Minister Kim Inspects Island Expo, Says "Unclear What It Aims to Show" (섬 박람회 점검 간 金총리 “뭘 보여주겠다는 건지 불명확”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Prime Minister Kim Inspects Island Expo, Says "Unclear What It Aims to Show"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오는 9월 개막하는 여수 세계 섬 박람회가 준비 부족으로 ‘제2의 잼버리’가 될 수 있다는 우려가 나온 가운데, 김민석 국무총리가 16일 전남 여수를 찾아 행사 준비 상황을 점검했다&lt;br/&gt;&lt;em&gt;Amid concerns that the Yeosu World Island Expo, opening this September, could become a 'second Jamboree' due to insufficient preparation, Prime Minister Kim Min-seok visited Yeosu, South Jeolla Province on the 16th to inspect the event's preparation status.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 박람회에 갔어요.&lt;br/&gt;&lt;em&gt;I went to the exhibition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박람회가 재미있었어요.&lt;br/&gt;&lt;em&gt;The exhibition was interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 17 Apr 2026 01:24:23 +0900</pubDate><guid isPermaLink="false">vocab-ad82a1c631de3f04691caf0a745a3ff727c990df</guid><enclosure url="https://images.unsplash.com/photo-1632383380175-812d44ec112b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGhpYml0aW9ufGVufDB8fHx8MTc3NjM1NjY1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="257872" /><ns2:content url="https://images.unsplash.com/photo-1632383380175-812d44ec112b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGhpYml0aW9ufGVufDB8fHx8MTc3NjM1NjY1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1632383380175-812d44ec112b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGhpYml0aW9ufGVufDB8fHx8MTc3NjM1NjY1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>박람회</category></item><item><title>농지보전부담금 – farmland preservation charge</title><link>urn:urn:vocab:농지보전부담금</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1756219477543-67e643ad770c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJtbGFuZCUyMHByZXNlcnZhdGlvbiUyMGNoYXJnZXxlbnwwfHx8fDE3NzYzNDY4Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="농지보전부담금 (farmland preservation charge)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(정부가 세금을 체납한 사람들에게 농지보전부담금 환급금으로 매년 수백억원을 지급하고 있다고 감사원이 지적했다&lt;br/&gt;&lt;em&gt;The Board of Audit and Inspection pointed out that the government is paying tens of billions of won annually to people who have defaulted on taxes, as refunds for farmland conservation charges.&lt;/em&gt;&lt;/p&gt;
