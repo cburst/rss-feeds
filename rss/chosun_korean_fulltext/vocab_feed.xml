@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 20:35:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 22:40:42 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>교통사고를 – traffic accident</title><link>urn:urn:vocab:교통사고를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>농지보전부담금 – farmland preservation charge</title><link>urn:urn:vocab:농지보전부담금</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1756219477543-67e643ad770c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJtbGFuZCUyMHByZXNlcnZhdGlvbiUyMGNoYXJnZXxlbnwwfHx8fDE3NzYzNDY4Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="농지보전부담금 (farmland preservation charge)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정부가 세금을 체납한 사람들에게 농지보전부담금 환급금으로 매년 수백억원을 지급하고 있다고 감사원이 지적했다&lt;br/&gt;&lt;em&gt;The Board of Audit and Inspection pointed out that the government is paying tens of billions of won annually to people who have defaulted on taxes, as refunds for farmland conservation charges.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한국농어촌공사가 걷었다가 돌려주는 농지보전부담금에 관한 정보를 국세청과 지방자치단체가 공유받으면 이를 체납 세금 징수에 활용할 수 있는데, 관련 제도가 미비해 정보가 공유되지 않고 있었기 때문이다&lt;br/&gt;&lt;em&gt;If the National Tax Service and local governments receive information about farmland conservation charges collected and refunded by the Korea Rural Community Corporation, they could use it to collect delinquent taxes, but due to inadequate related systems, the information was not being shared.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(16일 감사원에 따르면, 개발 사업 등을 이유로 농지를 다른 용도에 쓰려는 사람은 농지법에 따라 농지 소재지의 기초자치단체장으로부터 농지 전용 허가를 받아야 하고, 이때 농어촌공사에 농지보전부담금을 내야 한다&lt;br/&gt;&lt;em&gt;According to the Board of Audit and Inspection on the 16th, those who wish to use farmland for other purposes due to development projects must obtain permission for farmland conversion from the head of the basic local government where the farmland is located, in accordance with the Farmland Act, and at that time, they must pay farmland conservation charges to the Rural Community Corporation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;농지보전부담금을 내야 합니다.&lt;br/&gt;&lt;em&gt;You must pay the farmland conservation charge.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;농지보전부담금이 중요합니다.&lt;br/&gt;&lt;em&gt;The farmland conservation charge is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1756219477543-67e643ad770c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJtbGFuZCUyMHByZXNlcnZhdGlvbiUyMGNoYXJnZXxlbnwwfHx8fDE3NzYzNDY4Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="농지보전부담금 (farmland preservation charge)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정부가 세금을 체납한 사람들에게 농지보전부담금 환급금으로 매년 수백억원을 지급하고 있다고 감사원이 지적했다&lt;br/&gt;&lt;em&gt;The Board of Audit and Inspection pointed out that the government is paying tens of billions of won annually to people who have defaulted on taxes, as refunds for farmland conservation charges.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한국농어촌공사가 걷었다가 돌려주는 농지보전부담금에 관한 정보를 국세청과 지방자치단체가 공유받으면 이를 체납 세금 징수에 활용할 수 있는데, 관련 제도가 미비해 정보가 공유되지 않고 있었기 때문이다&lt;br/&gt;&lt;em&gt;If the National Tax Service and local governments receive information about farmland conservation charges collected and refunded by the Korea Rural Community Corporation, they could use it to collect delinquent taxes, but due to inadequate related systems, the information was not being shared.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(16일 감사원에 따르면, 개발 사업 등을 이유로 농지를 다른 용도에 쓰려는 사람은 농지법에 따라 농지 소재지의 기초자치단체장으로부터 농지 전용 허가를 받아야 하고, 이때 농어촌공사에 농지보전부담금을 내야 한다&lt;br/&gt;&lt;em&gt;According to the Board of Audit and Inspection on the 16th, those who wish to use farmland for other purposes due to development projects must obtain permission for farmland conversion from the head of the basic local government where the farmland is located, in accordance with the Farmland Act, and at that time, they must pay farmland conservation charges to the Rural Community Corporation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;농지보전부담금을 내야 합니다.&lt;br/&gt;&lt;em&gt;You must pay the farmland conservation charge.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;농지보전부담금이 중요합니다.&lt;br/&gt;&lt;em&gt;The farmland conservation charge is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 16 Apr 2026 22:40:42 +0900</pubDate><guid isPermaLink="false">vocab-2de75cd4a4b1b95a893c3c221863f8e1e500ec4e</guid><enclosure url="https://images.unsplash.com/photo-1756219477543-67e643ad770c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJtbGFuZCUyMHByZXNlcnZhdGlvbiUyMGNoYXJnZXxlbnwwfHx8fDE3NzYzNDY4Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="170095" /><ns2:content url="https://images.unsplash.com/photo-1756219477543-67e643ad770c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJtbGFuZCUyMHByZXNlcnZhdGlvbiUyMGNoYXJnZXxlbnwwfHx8fDE3NzYzNDY4Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1756219477543-67e643ad770c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmYXJtbGFuZCUyMHByZXNlcnZhdGlvbiUyMGNoYXJnZXxlbnwwfHx8fDE3NzYzNDY4Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>농지보전부담금</category></item><item><title>교통사고를 – traffic accident</title><link>urn:urn:vocab:교통사고를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFmZmljJTIwYWNjaWRlbnR8ZW58MHx8fHwxNzc2MzM5Mjk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="교통사고를 (traffic accident)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(16일 권익위에 따르면, 개인택시 기사인 A씨는 후방 차량 운전자의 과실로 후방 추돌 교통사고를 당했다&lt;br/&gt;&lt;em&gt;According to the Anti-Corruption and Civil Rights Commission on the 16th, Mr. A, a private taxi driver, was involved in a rear-end collision traffic accident due to the fault of the driver of the following vehicle.&lt;/em&gt;&lt;/p&gt;
