@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 05:49:19 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:58:58 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>사무실을 – office (object marker)</title><link>urn:urn:vocab:사무실을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>선거구 – electoral district</title><link>urn:urn:vocab:선거구</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1685641400270-ada7abb06f01?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdG9yYWwlMjBkaXN0cmljdHxlbnwwfHx8fDE3NzY0NjY3MzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거구 (electoral district)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(비례대표 비율 상향은 조국혁신당·진보당·기본소득당·사회민주당 등 범여권 야4당이 중대선거구제 확대와 함께 요구해 온 내용이다&lt;br/&gt;&lt;em&gt;(The increase in the proportional representation ratio is a demand that has been made by the four opposition parties within the pan-opposition camp, including the Cho Kuk Innovation Party, the Progressive Party, the Basic Income Party, and the Social Democratic Party, along with the expansion of the medium-sized electoral district system.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 민주당·국민의힘 합의 과정에서 중대선거구제 확대는 행정 통합이 이뤄지는 광주광역시에만 일부 적용하는 것으로 바뀌었고, 비례대표 비율도 조정됐다&lt;br/&gt;&lt;em&gt;(However, during the negotiation process between the Democratic Party and the People Power Party, the expansion of the medium-sized electoral district system was changed to be partially applied only to Gwangju Metropolitan City, where administrative integration is being implemented, and the proportional representation ratio was also adjusted.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(6·3 지방선거 선거구도 이날 획정됐다&lt;br/&gt;&lt;em&gt;(The electoral districts for the June 3 local elections were also demarcated on this day.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 선거구는 넓습니다.&lt;br/&gt;&lt;em&gt;This electoral district is wide.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 이 선거구에 삽니다.&lt;br/&gt;&lt;em&gt;I live in this electoral district.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1685641400270-ada7abb06f01?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdG9yYWwlMjBkaXN0cmljdHxlbnwwfHx8fDE3NzY0NjY3MzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거구 (electoral district)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(비례대표 비율 상향은 조국혁신당·진보당·기본소득당·사회민주당 등 범여권 야4당이 중대선거구제 확대와 함께 요구해 온 내용이다&lt;br/&gt;&lt;em&gt;(The increase in the proportional representation ratio is a demand that has been made by the four opposition parties within the pan-opposition camp, including the Cho Kuk Innovation Party, the Progressive Party, the Basic Income Party, and the Social Democratic Party, along with the expansion of the medium-sized electoral district system.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 민주당·국민의힘 합의 과정에서 중대선거구제 확대는 행정 통합이 이뤄지는 광주광역시에만 일부 적용하는 것으로 바뀌었고, 비례대표 비율도 조정됐다&lt;br/&gt;&lt;em&gt;(However, during the negotiation process between the Democratic Party and the People Power Party, the expansion of the medium-sized electoral district system was changed to be partially applied only to Gwangju Metropolitan City, where administrative integration is being implemented, and the proportional representation ratio was also adjusted.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(6·3 지방선거 선거구도 이날 획정됐다&lt;br/&gt;&lt;em&gt;(The electoral districts for the June 3 local elections were also demarcated on this day.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 선거구는 넓습니다.&lt;br/&gt;&lt;em&gt;This electoral district is wide.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 이 선거구에 삽니다.&lt;br/&gt;&lt;em&gt;I live in this electoral district.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 18 Apr 2026 07:58:58 +0900</pubDate><guid isPermaLink="false">vocab-78da057e5e2583ed7d8de16af9e476d33c951b09</guid><enclosure url="https://images.unsplash.com/photo-1685641400270-ada7abb06f01?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdG9yYWwlMjBkaXN0cmljdHxlbnwwfHx8fDE3NzY0NjY3MzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="221535" /><ns2:content url="https://images.unsplash.com/photo-1685641400270-ada7abb06f01?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdG9yYWwlMjBkaXN0cmljdHxlbnwwfHx8fDE3NzY0NjY3MzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1685641400270-ada7abb06f01?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdG9yYWwlMjBkaXN0cmljdHxlbnwwfHx8fDE3NzY0NjY3MzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>선거구</category></item><item><title>사무실을 – office (object marker)</title><link>urn:urn:vocab:사무실을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1720691505374-a608f863969b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZmZpY2UlMjAlMjhvYmplY3QlMjBtYXJrZXIlMjl8ZW58MHx8fHwxNzc2NDU4OTUwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사무실을 (office (object marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;' (현재는 현역 국회의원만 의원 사무실을 당원협의회 사무실처럼 활용하고 있는데, 앞으론 선거에서 낙선한 정당도 지역 사무소를 운영할 수 있게 된 것이다&lt;br/&gt;&lt;em&gt;(Currently, only incumbent members of the National Assembly use their offices like party member council offices, but from now on, parties that lose in elections will also be able to operate regional offices.)&lt;/em&gt;&lt;/p&gt;
