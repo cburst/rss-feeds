@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 21:08:29 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 23:19:46 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>로드맵 – roadmap</title><link>urn:urn:vocab:로드맵</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>마약류 – narcotics</title><link>urn:urn:vocab:마약류</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1745085922487-1558a1686161?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuYXJjb3RpY3N8ZW58MHx8fHwxNzc2NDM1NTczfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="마약류 (narcotics)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정부가 청년층을 중심으로 마약 중독이 급증하는 상황과 관련해 17일 오전 정부서울청사에서 김민석 국무총리 주재로 ‘마약류 대응 관계 장관 회의’를 열어 대책을 논의했다&lt;br/&gt;&lt;em&gt;(The government held a 'Ministerial Meeting on Drug Response' chaired by Prime Minister Kim Min-seok at the Government Seoul Complex on the morning of the 17th to discuss countermeasures regarding the situation of a sharp increase in drug addiction, particularly among the youth.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 회의에는 정부의 마약류 수사·단속 관계 기관인 법무부, 보건복지부, 방송미디어통신위원회, 식품의약품안전처, 대검찰청, 경찰청, 관세청 관계자들이 참석했다&lt;br/&gt;&lt;em&gt;(Attending the meeting were officials from government agencies involved in drug investigation and crackdown, including the Ministry of Justice, Ministry of Health and Welfare, Korea Communications Commission, Ministry of Food and Drug Safety, Supreme Prosecutors' Office, National Police Agency, and Korea Customs Service.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (김 총리는 회의에서 “지난해 검거된 마약류 사범 2만3000명 중에서 30대 이하 청년이 62%”라며 “마약은 청년들의 미래를 갉아먹는 엄중한 사회 문제”라고 했다&lt;br/&gt;&lt;em&gt;" (At the meeting, Prime Minister Kim said, 'Among the 23,000 drug offenders arrested last year, 62% were young people under 30,' adding, 'Drugs are a serious social problem that eats away at the future of young people.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;마약류는 위험합니다.&lt;br/&gt;&lt;em&gt;Drugs are dangerous.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;마약류를 멀리하세요.&lt;br/&gt;&lt;em&gt;Stay away from drugs.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1745085922487-1558a1686161?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuYXJjb3RpY3N8ZW58MHx8fHwxNzc2NDM1NTczfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="마약류 (narcotics)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정부가 청년층을 중심으로 마약 중독이 급증하는 상황과 관련해 17일 오전 정부서울청사에서 김민석 국무총리 주재로 ‘마약류 대응 관계 장관 회의’를 열어 대책을 논의했다&lt;br/&gt;&lt;em&gt;(The government held a 'Ministerial Meeting on Drug Response' chaired by Prime Minister Kim Min-seok at the Government Seoul Complex on the morning of the 17th to discuss countermeasures regarding the situation of a sharp increase in drug addiction, particularly among the youth.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 회의에는 정부의 마약류 수사·단속 관계 기관인 법무부, 보건복지부, 방송미디어통신위원회, 식품의약품안전처, 대검찰청, 경찰청, 관세청 관계자들이 참석했다&lt;br/&gt;&lt;em&gt;(Attending the meeting were officials from government agencies involved in drug investigation and crackdown, including the Ministry of Justice, Ministry of Health and Welfare, Korea Communications Commission, Ministry of Food and Drug Safety, Supreme Prosecutors' Office, National Police Agency, and Korea Customs Service.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (김 총리는 회의에서 “지난해 검거된 마약류 사범 2만3000명 중에서 30대 이하 청년이 62%”라며 “마약은 청년들의 미래를 갉아먹는 엄중한 사회 문제”라고 했다&lt;br/&gt;&lt;em&gt;" (At the meeting, Prime Minister Kim said, 'Among the 23,000 drug offenders arrested last year, 62% were young people under 30,' adding, 'Drugs are a serious social problem that eats away at the future of young people.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;마약류는 위험합니다.&lt;br/&gt;&lt;em&gt;Drugs are dangerous.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;마약류를 멀리하세요.&lt;br/&gt;&lt;em&gt;Stay away from drugs.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 17 Apr 2026 23:19:46 +0900</pubDate><guid isPermaLink="false">vocab-92d66e6337d823438e59eab68a5cf3f4aea2961a</guid><enclosure url="https://images.unsplash.com/photo-1745085922487-1558a1686161?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuYXJjb3RpY3N8ZW58MHx8fHwxNzc2NDM1NTczfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="46165" /><ns2:content url="https://images.unsplash.com/photo-1745085922487-1558a1686161?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuYXJjb3RpY3N8ZW58MHx8fHwxNzc2NDM1NTczfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1745085922487-1558a1686161?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuYXJjb3RpY3N8ZW58MHx8fHwxNzc2NDM1NTczfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>마약류</category></item><item><title>로드맵 – roadmap</title><link>urn:urn:vocab:로드맵</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1471958680802-1345a694ba6d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyb2FkbWFwfGVufDB8fHx8MTc3NjQyNzY5NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="로드맵 (roadmap)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;캘리포니아주(州)가 지역구인 셔먼은 지난 117대 의회부터 3개 회기 연속 한반도 종전(終戰) 선언, 미국과 북한 간 연락사무소 설치, 국무부 평화협정 로드맵 마련 등이 포함된 이른바 ‘한반도 평화 법안(Peace on the Korean Peninsula Act)’을 발의한 인물이다&lt;br/&gt;&lt;em&gt;Sherman, who represents California, has been the proposer of the so-called 'Peace on the Korean Peninsula Act' since the 117th Congress, introducing it for three consecutive sessions. The bill includes provisions such as a declaration to end the Korean War, the establishment of a liaison office between the U.S. and North Korea, and the development of a roadmap for a peace agreement by the State Department.&lt;/em&gt;&lt;/p&gt;
