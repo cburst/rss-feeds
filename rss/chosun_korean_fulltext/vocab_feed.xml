@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 01:31:51 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 03:37:37 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>지구당 – district party</title><link>urn:urn:vocab:지구당</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사무소 – office</title><link>urn:urn:vocab:사무소</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773332585687-85beb4da71ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxvZmZpY2V8ZW58MHx8fHwxNzc2NDUxMDQ3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사무소 (office)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (조 대표는 “(평택으로 이사하기 위해) 지금 몇 군데 후보를 부동산 공인중개사와 알아봤다”며 “다음 주에 집 계약을 해야 하고, 선거사무소도 계약해야 하고, 후원 사무실도 열어야 한다”고 했다&lt;br/&gt;&lt;em&gt;" (Representative Cho said, "(To move to Pyeongtaek) I have looked at several candidate places with a real estate broker," and added, "I need to sign a house contract next week, sign an election office contract, and open a supporter office.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (여야가 6·3 지방선거를 앞두고 시·도당 하부 조직인 당원협의회·지역위원회 산하에 사무소 1곳을 설치할 수 있도록 하는 선거 제도 개편안에 합의했다&lt;br/&gt;&lt;em&gt;" (The ruling and opposition parties have agreed on an election system reform plan ahead of the June 3 local elections, allowing one office to be established under party member councils and regional committees, which are sub-organizations of city and provincial parties.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;' (현재는 현역 국회의원만 의원 사무실을 당원협의회 사무실처럼 활용하고 있는데, 앞으론 선거에서 낙선한 정당도 지역 사무소를 운영할 수 있게 된 것이다&lt;br/&gt;&lt;em&gt;' (Currently, only incumbent members of the National Assembly use their parliamentary offices like party member council offices, but from now on, parties that lose in elections will also be able to operate regional offices.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사무소에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the office.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사무소가 큽니다.&lt;br/&gt;&lt;em&gt;The office is big.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773332585687-85beb4da71ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxvZmZpY2V8ZW58MHx8fHwxNzc2NDUxMDQ3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사무소 (office)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (조 대표는 “(평택으로 이사하기 위해) 지금 몇 군데 후보를 부동산 공인중개사와 알아봤다”며 “다음 주에 집 계약을 해야 하고, 선거사무소도 계약해야 하고, 후원 사무실도 열어야 한다”고 했다&lt;br/&gt;&lt;em&gt;" (Representative Cho said, "(To move to Pyeongtaek) I have looked at several candidate places with a real estate broker," and added, "I need to sign a house contract next week, sign an election office contract, and open a supporter office.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (여야가 6·3 지방선거를 앞두고 시·도당 하부 조직인 당원협의회·지역위원회 산하에 사무소 1곳을 설치할 수 있도록 하는 선거 제도 개편안에 합의했다&lt;br/&gt;&lt;em&gt;" (The ruling and opposition parties have agreed on an election system reform plan ahead of the June 3 local elections, allowing one office to be established under party member councils and regional committees, which are sub-organizations of city and provincial parties.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;' (현재는 현역 국회의원만 의원 사무실을 당원협의회 사무실처럼 활용하고 있는데, 앞으론 선거에서 낙선한 정당도 지역 사무소를 운영할 수 있게 된 것이다&lt;br/&gt;&lt;em&gt;' (Currently, only incumbent members of the National Assembly use their parliamentary offices like party member council offices, but from now on, parties that lose in elections will also be able to operate regional offices.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사무소에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the office.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사무소가 큽니다.&lt;br/&gt;&lt;em&gt;The office is big.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 18 Apr 2026 03:37:37 +0900</pubDate><guid isPermaLink="false">vocab-21bf38b05b0ea4884d98628610baece0f6d07dd4</guid><enclosure url="https://images.unsplash.com/photo-1773332585687-85beb4da71ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxvZmZpY2V8ZW58MHx8fHwxNzc2NDUxMDQ3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="132885" /><ns2:content url="https://images.unsplash.com/photo-1773332585687-85beb4da71ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxvZmZpY2V8ZW58MHx8fHwxNzc2NDUxMDQ3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1773332585687-85beb4da71ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxvZmZpY2V8ZW58MHx8fHwxNzc2NDUxMDQ3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사무소</category></item><item><title>지구당 – district party</title><link>urn:urn:vocab:지구당</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1648592147156-12f813ea1269?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXN0cmljdCUyMHBhcnR5fGVufDB8fHx8MTc3NjQ0MzUwMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지구당 (district party)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;[Breaking News] 'De Facto Revival of District Party Offices and Increase in Regional Proportional Seats' Passes Plenary Session ([속보] ‘사실상 지구당 부활·광역 비례 증원' 본회의 통과) &lt;&lt;br/&gt;&lt;em&gt;[Breaking News] 'De Facto Revival of District Party Offices and Increase in Regional Proportional Seats' Passes Plenary Session&lt;/em&gt;&lt;/p&gt;
