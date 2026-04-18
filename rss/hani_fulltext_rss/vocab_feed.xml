@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 18:31:44 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 20:37:21 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>상황이다 – It is a situation.</title><link>urn:urn:vocab:상황이다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>판매량은 – sales volume</title><link>urn:urn:vocab:판매량은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1772413438614-3d4582783392?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYWxlcyUyMHZvbHVtZXxlbnwwfHx8fDE3NzY1MTIyMjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="판매량은 (sales volume)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (양기욱 산업통상부 산업자원안보실장은 16일 정부세종청사 브리핑에서 중동전쟁 발발 직전인 2월 4주차부터 4월 2주차(지난주)까지 주유소의 석유제품 판매량을 공개하며 “지난해 같은 기간과 비교하면 석유제품 판매량은 오히려 줄었다”고 밝혔다&lt;br/&gt;&lt;em&gt;Yang Ki-wook, head of the Industrial Resources Security Office at the Ministry of Trade, Industry and Energy, disclosed the sales volume of petroleum products at gas stations from the fourth week of February (just before the outbreak of the Middle East war) to the second week of April (last week) during a briefing at the Government Sejong Complex on the 16th, stating, "Compared to the same period last year, the sales volume of petroleum products has actually decreased."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(산업부가 공개한 자료를 보면, 해당 기간 전국 주유소 휘발유·경유 주간 판매량은 모두 7주 가운데 5주 동안 전년 같은 기간 대비 감소세를 보였다&lt;br/&gt;&lt;em&gt;(According to data released by the Ministry of Trade, Industry and Energy, during this period, the weekly sales of gasoline and diesel at gas stations nationwide decreased compared to the same period last year in five out of the seven weeks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(특히 석유 최고가격제가 처음 도입된 3월13일 직후인 3월 3주차부터 4월 2주차까지 전국 주유소의 휘발유·경유 판매량은 전년 대비 각각 1&lt;br/&gt;&lt;em&gt;(In particular, from the third week of March (just after the introduction of the maximum oil price system on March 13) to the second week of April, the sales of gasoline and diesel at gas stations nationwide decreased by 1% each compared to the previous year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;판매량은 높습니다.&lt;br/&gt;&lt;em&gt;Sales volume is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;판매량은 증가했습니다.&lt;br/&gt;&lt;em&gt;Sales volume has increased.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1772413438614-3d4582783392?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYWxlcyUyMHZvbHVtZXxlbnwwfHx8fDE3NzY1MTIyMjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="판매량은 (sales volume)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (양기욱 산업통상부 산업자원안보실장은 16일 정부세종청사 브리핑에서 중동전쟁 발발 직전인 2월 4주차부터 4월 2주차(지난주)까지 주유소의 석유제품 판매량을 공개하며 “지난해 같은 기간과 비교하면 석유제품 판매량은 오히려 줄었다”고 밝혔다&lt;br/&gt;&lt;em&gt;Yang Ki-wook, head of the Industrial Resources Security Office at the Ministry of Trade, Industry and Energy, disclosed the sales volume of petroleum products at gas stations from the fourth week of February (just before the outbreak of the Middle East war) to the second week of April (last week) during a briefing at the Government Sejong Complex on the 16th, stating, "Compared to the same period last year, the sales volume of petroleum products has actually decreased."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(산업부가 공개한 자료를 보면, 해당 기간 전국 주유소 휘발유·경유 주간 판매량은 모두 7주 가운데 5주 동안 전년 같은 기간 대비 감소세를 보였다&lt;br/&gt;&lt;em&gt;(According to data released by the Ministry of Trade, Industry and Energy, during this period, the weekly sales of gasoline and diesel at gas stations nationwide decreased compared to the same period last year in five out of the seven weeks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(특히 석유 최고가격제가 처음 도입된 3월13일 직후인 3월 3주차부터 4월 2주차까지 전국 주유소의 휘발유·경유 판매량은 전년 대비 각각 1&lt;br/&gt;&lt;em&gt;(In particular, from the third week of March (just after the introduction of the maximum oil price system on March 13) to the second week of April, the sales of gasoline and diesel at gas stations nationwide decreased by 1% each compared to the previous year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;판매량은 높습니다.&lt;br/&gt;&lt;em&gt;Sales volume is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;판매량은 증가했습니다.&lt;br/&gt;&lt;em&gt;Sales volume has increased.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 18 Apr 2026 20:37:20 +0900</pubDate><guid isPermaLink="false">vocab-4ba284d9e017bab4421c9113ddcb2546694fe07d</guid><enclosure url="https://images.unsplash.com/photo-1772413438614-3d4582783392?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYWxlcyUyMHZvbHVtZXxlbnwwfHx8fDE3NzY1MTIyMjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="48696" /><ns2:content url="https://images.unsplash.com/photo-1772413438614-3d4582783392?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYWxlcyUyMHZvbHVtZXxlbnwwfHx8fDE3NzY1MTIyMjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1772413438614-3d4582783392?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYWxlcyUyMHZvbHVtZXxlbnwwfHx8fDE3NzY1MTIyMjl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>판매량은</category></item><item><title>상황이다 – It is a situation.</title><link>urn:urn:vocab:상황이다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1621084285282-60c247b33bb8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHNpdHVhdGlvbi58ZW58MHx8fHwxNzc2NTA0Njk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상황이다 (It is a situation.)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;최고가격을 동결한 3차 최고가격(4월10일) 이후로는 하루에 1∼2원씩 달팽이 상승을 하는 상황이다&lt;br/&gt;&lt;em&gt;After the third highest price freeze (April 10th), the price has been rising slowly by 1-2 won per day.&lt;/em&gt;&lt;/p&gt;
