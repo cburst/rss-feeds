@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 16:25:29 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 18:31:44 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>지수는 – index is</title><link>urn:urn:vocab:지수는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>상황이다 – It is a situation.</title><link>urn:urn:vocab:상황이다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1621084285282-60c247b33bb8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHNpdHVhdGlvbi58ZW58MHx8fHwxNzc2NTA0Njk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상황이다 (It is a situation.)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최고가격을 동결한 3차 최고가격(4월10일) 이후로는 하루에 1∼2원씩 달팽이 상승을 하는 상황이다&lt;br/&gt;&lt;em&gt;After the third highest price freeze (April 10th), the price has been rising slowly by 1-2 won per day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이에 트럼프 대통령은 2월 말 모든 연방기관에서 앤트로픽 기술 사용을 금지했고, 지난달 미 국방부가 앤트로픽을 ‘공급망 위험 기업’으로 공식 지정하면서 법정 소송까지 진행되던 상황이다&lt;br/&gt;&lt;em&gt;In response, President Trump banned the use of Anthropic technology in all federal agencies at the end of February, and last month, the U.S. Department of Defense officially designated Anthropic as a 'supply chain risk company,' leading to a situation where legal proceedings were underway.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오는 5월부터는 공사 현장들이 ‘셧다운’될 수 있다는 위기설까지 나오는 상황이다&lt;br/&gt;&lt;em&gt;There is even a crisis theory that construction sites could be 'shut down' starting this May.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 어려운 상황이다.&lt;br/&gt;&lt;em&gt;This is a difficult situation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그것은 좋은 상황이다.&lt;br/&gt;&lt;em&gt;That is a good situation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1621084285282-60c247b33bb8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHNpdHVhdGlvbi58ZW58MHx8fHwxNzc2NTA0Njk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상황이다 (It is a situation.)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최고가격을 동결한 3차 최고가격(4월10일) 이후로는 하루에 1∼2원씩 달팽이 상승을 하는 상황이다&lt;br/&gt;&lt;em&gt;After the third highest price freeze (April 10th), the price has been rising slowly by 1-2 won per day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이에 트럼프 대통령은 2월 말 모든 연방기관에서 앤트로픽 기술 사용을 금지했고, 지난달 미 국방부가 앤트로픽을 ‘공급망 위험 기업’으로 공식 지정하면서 법정 소송까지 진행되던 상황이다&lt;br/&gt;&lt;em&gt;In response, President Trump banned the use of Anthropic technology in all federal agencies at the end of February, and last month, the U.S. Department of Defense officially designated Anthropic as a 'supply chain risk company,' leading to a situation where legal proceedings were underway.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오는 5월부터는 공사 현장들이 ‘셧다운’될 수 있다는 위기설까지 나오는 상황이다&lt;br/&gt;&lt;em&gt;There is even a crisis theory that construction sites could be 'shut down' starting this May.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 어려운 상황이다.&lt;br/&gt;&lt;em&gt;This is a difficult situation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그것은 좋은 상황이다.&lt;br/&gt;&lt;em&gt;That is a good situation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 18 Apr 2026 18:31:44 +0900</pubDate><guid isPermaLink="false">vocab-edda68f8aefa3d93b740db03fa262b3b3836d66c</guid><enclosure url="https://images.unsplash.com/photo-1621084285282-60c247b33bb8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHNpdHVhdGlvbi58ZW58MHx8fHwxNzc2NTA0Njk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="116801" /><ns2:content url="https://images.unsplash.com/photo-1621084285282-60c247b33bb8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHNpdHVhdGlvbi58ZW58MHx8fHwxNzc2NTA0Njk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1621084285282-60c247b33bb8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHNpdHVhdGlvbi58ZW58MHx8fHwxNzc2NTA0Njk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>상황이다</category></item><item><title>지수는 – index is</title><link>urn:urn:vocab:지수는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmRleCUyMGlzfGVufDB8fHx8MTc3NjQ5NzEyMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지수는 (index is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;유가증권시장 시가총액은 5100조원을 넘어섰고, 향후 코스피 상승에 대한 기대감이 반영된 코스피200선물 지수는 종가 기준 943&lt;br/&gt;&lt;em&gt;The market capitalization of the KOSPI exceeded 5100 trillion won, and the KOSPI 200 futures index, reflecting expectations for future KOSPI gains, closed at 943.&lt;/em&gt;&lt;/p&gt;
