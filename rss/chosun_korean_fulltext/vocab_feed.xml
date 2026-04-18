@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 14:19:44 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 16:25:40 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>신공항 – new airport</title><link>urn:urn:vocab:신공항</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>감사패 – appreciation plaque</title><link>urn:urn:vocab:감사패</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1763357617186-f47ace512fff?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHByZWNpYXRpb24lMjBwbGFxdWV8ZW58MHx8fHwxNzc2NDk3MTMyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="감사패 (appreciation plaque)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee Presents Letter of Appreciation to Ruling Party Lawmaker Cha Ji-ho for Leading 'AI Basic Society' Initiative (李대통령, ‘AI 기본사회 주도’ 與 차지호 의원에 감사패) &lt;&lt;br/&gt;&lt;em&gt;President Lee Presents Letter of Appreciation to Ruling Party Lawmaker Cha Ji-ho for Leading 'AI Basic Society' Initiative&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;President Lee Presents Letter of Appreciation to Ruling Party Lawmaker Cha Ji-ho for Leading 'AI Basic Society' Initiative (李대통령, ‘AI 기본사회 주도’ 與 차지호 의원에 감사패)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;President Lee Presents Letter of Appreciation to Ruling Party Lawmaker Cha Ji-ho for Leading 'AI Basic Society' Initiative&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령이 ‘인공지능(AI) 기본사회’ 정책 설계를 주도하고, 글로벌 확산을 위한 기반 마련에 기여한 공로로 차지호 더불어민주당 의원에게 감사패를 수여했다고 18일 청와대가 밝혔다&lt;br/&gt;&lt;em&gt;On the 18th, the Blue House announced that President Lee Jae-myung presented a letter of appreciation to Democratic Party lawmaker Cha Ji-ho for his contributions in leading the design of the 'Artificial Intelligence (AI) Basic Society' policy and establishing the foundation for its global expansion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;감사패를 받았어요.&lt;br/&gt;&lt;em&gt;I received a plaque of appreciation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;감사패가 예뻐요.&lt;br/&gt;&lt;em&gt;The plaque of appreciation is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1763357617186-f47ace512fff?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHByZWNpYXRpb24lMjBwbGFxdWV8ZW58MHx8fHwxNzc2NDk3MTMyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="감사패 (appreciation plaque)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee Presents Letter of Appreciation to Ruling Party Lawmaker Cha Ji-ho for Leading 'AI Basic Society' Initiative (李대통령, ‘AI 기본사회 주도’ 與 차지호 의원에 감사패) &lt;&lt;br/&gt;&lt;em&gt;President Lee Presents Letter of Appreciation to Ruling Party Lawmaker Cha Ji-ho for Leading 'AI Basic Society' Initiative&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;President Lee Presents Letter of Appreciation to Ruling Party Lawmaker Cha Ji-ho for Leading 'AI Basic Society' Initiative (李대통령, ‘AI 기본사회 주도’ 與 차지호 의원에 감사패)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;President Lee Presents Letter of Appreciation to Ruling Party Lawmaker Cha Ji-ho for Leading 'AI Basic Society' Initiative&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령이 ‘인공지능(AI) 기본사회’ 정책 설계를 주도하고, 글로벌 확산을 위한 기반 마련에 기여한 공로로 차지호 더불어민주당 의원에게 감사패를 수여했다고 18일 청와대가 밝혔다&lt;br/&gt;&lt;em&gt;On the 18th, the Blue House announced that President Lee Jae-myung presented a letter of appreciation to Democratic Party lawmaker Cha Ji-ho for his contributions in leading the design of the 'Artificial Intelligence (AI) Basic Society' policy and establishing the foundation for its global expansion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;감사패를 받았어요.&lt;br/&gt;&lt;em&gt;I received a plaque of appreciation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;감사패가 예뻐요.&lt;br/&gt;&lt;em&gt;The plaque of appreciation is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 18 Apr 2026 16:25:40 +0900</pubDate><guid isPermaLink="false">vocab-a8f010857884815f1ce0de04f897ee958986073c</guid><enclosure url="https://images.unsplash.com/photo-1763357617186-f47ace512fff?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHByZWNpYXRpb24lMjBwbGFxdWV8ZW58MHx8fHwxNzc2NDk3MTMyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="238785" /><ns2:content url="https://images.unsplash.com/photo-1763357617186-f47ace512fff?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHByZWNpYXRpb24lMjBwbGFxdWV8ZW58MHx8fHwxNzc2NDk3MTMyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1763357617186-f47ace512fff?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHByZWNpYXRpb24lMjBwbGFxdWV8ZW58MHx8fHwxNzc2NDk3MTMyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>감사패</category></item><item><title>신공항 – new airport</title><link>urn:urn:vocab:신공항</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1702411739924-86707bfb4d58?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXclMjBhaXJwb3J0fGVufDB8fHx8MTc3NjQ4OTU3NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="신공항 (new airport)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이 자리에서 홍 전 시장은 이 대통령에게 대구·경북(TK) 신공항 건설을 위한 국가 지원과 이명박 전 대통령에 대한 전직 대통령 예우 복원을 요청했다고 한다&lt;br/&gt;&lt;em&gt;At this meeting, former Mayor Hong reportedly requested President Lee for national support for the construction of the Daegu-Gyeongbuk (TK) new airport and the restoration of former President Lee Myung-bak's presidential privileges.&lt;/em&gt;&lt;/p&gt;
