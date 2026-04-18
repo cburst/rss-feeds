@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 22:42:10 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 00:47:39 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>무대에 – on stage</title><link>urn:urn:vocab:무대에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>이어진 – continued</title><link>urn:urn:vocab:이어진</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250aW51ZWR8ZW58MHx8fHwxNzc2NTI3MjUwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이어진 (continued)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이번 약정은 서울시립대학교 발전기금 창립 이래 첫 유산기부약정을 체결한 이후 이어진 두 번째 사례로, 교내 기부 문화 확산에 새로운 물결이 일고 있다&lt;br/&gt;&lt;em&gt;This agreement is the second case following the first legacy donation agreement signed since the establishment of the Seoul City University Development Fund, creating a new wave in spreading the donation culture within the university.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이어진 묘소 기도회에서는 영암기념사업회 고문 위광필 목사가 김응조 목사의 생애를 조명하며, 이를 바탕으로 한 교육과 그 정신을 기억하는 삶의 필요성을 강조했다&lt;br/&gt;&lt;em&gt;During the subsequent graveside prayer meeting, Pastor Wee Gwang-pil, advisor to the Yeongam Memorial Project Committee, highlighted the life of Pastor Kim Eung-jo and emphasized the necessity of a life that remembers the education and spirit based on it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;"Love for Hanwoo Stronger Than the Law" Popular Consumption Continued Even Amidst the Cattle Ban (Ugeumnyeong) (&amp;quot;법보다 강했던 한우 사랑“ 우금령(牛禁令) 속에서도 이어진 대중적 소비)&lt;/p&gt;&lt;p&gt;Joseon frequently implemented the 'Ugeumnyeong' (Cattle Ban), strictly controlling the slaughter of cattle essential for farming&lt;br/&gt;&lt;em&gt;"Love for Hanwoo Stronger Than the Law" Popular Consumption Continued Even Amidst the Cattle Ban (Ugeumnyeong)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;길이 이어진다.&lt;br/&gt;&lt;em&gt;The road continues.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이야기가 이어졌다.&lt;br/&gt;&lt;em&gt;The story continued.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250aW51ZWR8ZW58MHx8fHwxNzc2NTI3MjUwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이어진 (continued)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이번 약정은 서울시립대학교 발전기금 창립 이래 첫 유산기부약정을 체결한 이후 이어진 두 번째 사례로, 교내 기부 문화 확산에 새로운 물결이 일고 있다&lt;br/&gt;&lt;em&gt;This agreement is the second case following the first legacy donation agreement signed since the establishment of the Seoul City University Development Fund, creating a new wave in spreading the donation culture within the university.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이어진 묘소 기도회에서는 영암기념사업회 고문 위광필 목사가 김응조 목사의 생애를 조명하며, 이를 바탕으로 한 교육과 그 정신을 기억하는 삶의 필요성을 강조했다&lt;br/&gt;&lt;em&gt;During the subsequent graveside prayer meeting, Pastor Wee Gwang-pil, advisor to the Yeongam Memorial Project Committee, highlighted the life of Pastor Kim Eung-jo and emphasized the necessity of a life that remembers the education and spirit based on it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;"Love for Hanwoo Stronger Than the Law" Popular Consumption Continued Even Amidst the Cattle Ban (Ugeumnyeong) (&amp;quot;법보다 강했던 한우 사랑“ 우금령(牛禁令) 속에서도 이어진 대중적 소비)&lt;/p&gt;&lt;p&gt;Joseon frequently implemented the 'Ugeumnyeong' (Cattle Ban), strictly controlling the slaughter of cattle essential for farming&lt;br/&gt;&lt;em&gt;"Love for Hanwoo Stronger Than the Law" Popular Consumption Continued Even Amidst the Cattle Ban (Ugeumnyeong)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;길이 이어진다.&lt;br/&gt;&lt;em&gt;The road continues.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이야기가 이어졌다.&lt;br/&gt;&lt;em&gt;The story continued.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 19 Apr 2026 00:47:39 +0900</pubDate><guid isPermaLink="false">vocab-269e39c4ca9f0fac5d999e96bdbb3f930f2e13f7</guid><enclosure url="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250aW51ZWR8ZW58MHx8fHwxNzc2NTI3MjUwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="242327" /><ns2:content url="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250aW51ZWR8ZW58MHx8fHwxNzc2NTI3MjUwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250aW51ZWR8ZW58MHx8fHwxNzc2NTI3MjUwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>이어진</category></item><item><title>무대에 – on stage</title><link>urn:urn:vocab:무대에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1629327896333-7ecec1515ae5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHN0YWdlfGVufDB8fHx8MTc3NjUxOTcyMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="무대에 (on stage)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;글로벌 역량은 다른 문화와 가치에 대한 이해를 바탕으로 세계 무대에 도전하는 태도다&lt;br/&gt;&lt;em&gt;Global competency is an attitude of challenging oneself on the world stage based on an understanding of different cultures and values.&lt;/em&gt;&lt;/p&gt;
