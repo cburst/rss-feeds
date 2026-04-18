@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 07:58:58 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 10:05:47 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>선거구 – electoral district</title><link>urn:urn:vocab:선거구</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>해주세요 – please do (it)</title><link>urn:urn:vocab:해주세요</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641025753993-6e5328a7e2d0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGVhc2UlMjBkbyUyMCUyOGl0JTI5fGVufDB8fHx8MTc3NjQ3NDM0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="해주세요 (please do (it))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4em;"&gt;엄마 폰에 ‘앱테크’ 해주세요&lt;br/&gt;&lt;em&gt;Please do 'app tech' on mom's phone&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;위험구역 작업 들어갑니다, 주인님은 조종만 해주세요&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;We're entering the danger zone for work, master just needs to control it&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;물 좀 해주세요.&lt;br/&gt;&lt;em&gt;Please give me some water.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;창문 닫아 해주세요.&lt;br/&gt;&lt;em&gt;Please close the window.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641025753993-6e5328a7e2d0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGVhc2UlMjBkbyUyMCUyOGl0JTI5fGVufDB8fHx8MTc3NjQ3NDM0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="해주세요 (please do (it))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4em;"&gt;엄마 폰에 ‘앱테크’ 해주세요&lt;br/&gt;&lt;em&gt;Please do 'app tech' on mom's phone&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;위험구역 작업 들어갑니다, 주인님은 조종만 해주세요&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;We're entering the danger zone for work, master just needs to control it&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;물 좀 해주세요.&lt;br/&gt;&lt;em&gt;Please give me some water.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;창문 닫아 해주세요.&lt;br/&gt;&lt;em&gt;Please close the window.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 18 Apr 2026 10:05:47 +0900</pubDate><guid isPermaLink="false">vocab-d0e2980ddd24dd5e2c6737c1feb050644d43fcd5</guid><enclosure url="https://images.unsplash.com/photo-1641025753993-6e5328a7e2d0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGVhc2UlMjBkbyUyMCUyOGl0JTI5fGVufDB8fHx8MTc3NjQ3NDM0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="113861" /><ns2:content url="https://images.unsplash.com/photo-1641025753993-6e5328a7e2d0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGVhc2UlMjBkbyUyMCUyOGl0JTI5fGVufDB8fHx8MTc3NjQ3NDM0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1641025753993-6e5328a7e2d0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGVhc2UlMjBkbyUyMCUyOGl0JTI5fGVufDB8fHx8MTc3NjQ3NDM0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>해주세요</category></item><item><title>선거구 – electoral district</title><link>urn:urn:vocab:선거구</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1685641400270-ada7abb06f01?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdG9yYWwlMjBkaXN0cmljdHxlbnwwfHx8fDE3NzY0NjY3MzB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거구 (electoral district)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(비례대표 비율 상향은 조국혁신당·진보당·기본소득당·사회민주당 등 범여권 야4당이 중대선거구제 확대와 함께 요구해 온 내용이다&lt;br/&gt;&lt;em&gt;(The increase in the proportional representation ratio is a demand that has been made by the four opposition parties within the pan-opposition camp, including the Cho Kuk Innovation Party, the Progressive Party, the Basic Income Party, and the Social Democratic Party, along with the expansion of the medium-sized electoral district system.)&lt;/em&gt;&lt;/p&gt;
