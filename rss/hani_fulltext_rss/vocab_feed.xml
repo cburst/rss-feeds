@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 00:47:39 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 02:52:14 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>이어진 – continued</title><link>urn:urn:vocab:이어진</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>장거리 – long distance</title><link>urn:urn:vocab:장거리</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612294502681-9721ac04b850?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb25nJTIwZGlzdGFuY2V8ZW58MHx8fHwxNzc2NTM0NzI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="장거리 (long distance)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"Start by Checking Your Engine Oil" (자동차로 ‘장거리 봄여행’ 간다면…“엔진오일부터 점검하세요”) &lt;&lt;br/&gt;&lt;em&gt;"Start by Checking Your Engine Oil" (If you're going on a 'long-distance spring trip' by car... "Check your engine oil first") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Start by Checking Your Engine Oil" (자동차로 ‘장거리 봄여행’ 간다면…“엔진오일부터 점검하세요”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"Start by Checking Your Engine Oil" (If you're going on a 'long-distance spring trip' by car... "Check your engine oil first")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국내 직영 중고차 플랫폼 기업 케이카(K Car)가 황사와 미세먼지, 봄철 장거리 이동 증가가 겹치는 시기를 맞아 차량 관리·안전 수칙을 제안했다고 17일 밝혔다&lt;br/&gt;&lt;em&gt;(On the 17th, K Car, a domestic direct-operated used car platform company, announced that it has proposed vehicle management and safety rules in response to the overlapping period of yellow dust, fine dust, and increased long-distance travel in spring.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;장거리 여행을 좋아해요.&lt;br/&gt;&lt;em&gt;I like long-distance travel.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;장거리 전화를 했어요.&lt;br/&gt;&lt;em&gt;I made a long-distance call.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612294502681-9721ac04b850?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb25nJTIwZGlzdGFuY2V8ZW58MHx8fHwxNzc2NTM0NzI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="장거리 (long distance)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"Start by Checking Your Engine Oil" (자동차로 ‘장거리 봄여행’ 간다면…“엔진오일부터 점검하세요”) &lt;&lt;br/&gt;&lt;em&gt;"Start by Checking Your Engine Oil" (If you're going on a 'long-distance spring trip' by car... "Check your engine oil first") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Start by Checking Your Engine Oil" (자동차로 ‘장거리 봄여행’ 간다면…“엔진오일부터 점검하세요”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"Start by Checking Your Engine Oil" (If you're going on a 'long-distance spring trip' by car... "Check your engine oil first")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국내 직영 중고차 플랫폼 기업 케이카(K Car)가 황사와 미세먼지, 봄철 장거리 이동 증가가 겹치는 시기를 맞아 차량 관리·안전 수칙을 제안했다고 17일 밝혔다&lt;br/&gt;&lt;em&gt;(On the 17th, K Car, a domestic direct-operated used car platform company, announced that it has proposed vehicle management and safety rules in response to the overlapping period of yellow dust, fine dust, and increased long-distance travel in spring.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;장거리 여행을 좋아해요.&lt;br/&gt;&lt;em&gt;I like long-distance travel.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;장거리 전화를 했어요.&lt;br/&gt;&lt;em&gt;I made a long-distance call.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 19 Apr 2026 02:52:14 +0900</pubDate><guid isPermaLink="false">vocab-fb1fafc95029e52bef4b4496748c80ad9b8422bb</guid><enclosure url="https://images.unsplash.com/photo-1612294502681-9721ac04b850?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb25nJTIwZGlzdGFuY2V8ZW58MHx8fHwxNzc2NTM0NzI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="138703" /><ns2:content url="https://images.unsplash.com/photo-1612294502681-9721ac04b850?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb25nJTIwZGlzdGFuY2V8ZW58MHx8fHwxNzc2NTM0NzI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1612294502681-9721ac04b850?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb25nJTIwZGlzdGFuY2V8ZW58MHx8fHwxNzc2NTM0NzI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>장거리</category></item><item><title>이어진 – continued</title><link>urn:urn:vocab:이어진</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250aW51ZWR8ZW58MHx8fHwxNzc2NTI3MjUwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이어진 (continued)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이번 약정은 서울시립대학교 발전기금 창립 이래 첫 유산기부약정을 체결한 이후 이어진 두 번째 사례로, 교내 기부 문화 확산에 새로운 물결이 일고 있다&lt;br/&gt;&lt;em&gt;This agreement is the second case following the first legacy donation agreement signed since the establishment of the Seoul City University Development Fund, creating a new wave in spreading the donation culture within the university.&lt;/em&gt;&lt;/p&gt;
