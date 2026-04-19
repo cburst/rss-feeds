@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 04:15:52 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 08:23:55 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>전망이다 – It is a prospect/forecast</title><link>urn:urn:vocab:전망이다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>전교생 – all students</title><link>urn:urn:vocab:전교생</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773243906475-715149a80786?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbGwlMjBzdHVkZW50c3xlbnwwfHx8fDE3NzY1NzIwMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전교생 (all students)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (“전교생 AI 기초 교과목 필수화, 비전공자 대상 AI·SW 융합전공 신설, 마이크로 디그리와 집중이수제 운영 등 학생들이 전공과 진로를 유연하게 설계할 수 있도록 제도를 바꾸고 있다&lt;br/&gt;&lt;em&gt;" ("We are changing the system to allow students to flexibly design their majors and career paths, such as making AI foundation courses mandatory for all students, establishing AI/SW convergence majors for non-majors, and operating micro-degrees and intensive course systems.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(올해 신입생부터 전교생을 대상으로 AI·SW 기초교육을 의무화해 교양필수 교과목을 신설하고 계열별 교육과정을 운영한다&lt;br/&gt;&lt;em&gt;" ("Starting with this year's freshmen, we are making AI/SW basic education mandatory for all students, establishing a required liberal arts course, and operating department-specific curricula.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (“‘특정 첨단학과만의 AI’가 아니라, ‘전교생 기본 역량 + 전공별 심화 역량 + 교육지원 체계를 구축’하는 것이다&lt;br/&gt;&lt;em&gt;" ("It is not 'AI for specific advanced departments only,' but rather 'building basic competencies for all students + advanced competencies by major + an educational support system.'")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전교생이 운동장에 모였어요.&lt;br/&gt;&lt;em&gt;All the students gathered in the playground.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전교생이 노래를 불렀어요.&lt;br/&gt;&lt;em&gt;All the students sang a song.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773243906475-715149a80786?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbGwlMjBzdHVkZW50c3xlbnwwfHx8fDE3NzY1NzIwMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전교생 (all students)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (“전교생 AI 기초 교과목 필수화, 비전공자 대상 AI·SW 융합전공 신설, 마이크로 디그리와 집중이수제 운영 등 학생들이 전공과 진로를 유연하게 설계할 수 있도록 제도를 바꾸고 있다&lt;br/&gt;&lt;em&gt;" ("We are changing the system to allow students to flexibly design their majors and career paths, such as making AI foundation courses mandatory for all students, establishing AI/SW convergence majors for non-majors, and operating micro-degrees and intensive course systems.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(올해 신입생부터 전교생을 대상으로 AI·SW 기초교육을 의무화해 교양필수 교과목을 신설하고 계열별 교육과정을 운영한다&lt;br/&gt;&lt;em&gt;" ("Starting with this year's freshmen, we are making AI/SW basic education mandatory for all students, establishing a required liberal arts course, and operating department-specific curricula.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (“‘특정 첨단학과만의 AI’가 아니라, ‘전교생 기본 역량 + 전공별 심화 역량 + 교육지원 체계를 구축’하는 것이다&lt;br/&gt;&lt;em&gt;" ("It is not 'AI for specific advanced departments only,' but rather 'building basic competencies for all students + advanced competencies by major + an educational support system.'")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전교생이 운동장에 모였어요.&lt;br/&gt;&lt;em&gt;All the students gathered in the playground.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전교생이 노래를 불렀어요.&lt;br/&gt;&lt;em&gt;All the students sang a song.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 20 Apr 2026 08:23:55 +0900</pubDate><guid isPermaLink="false">vocab-2499158a1762ab059975db587a3f38304404c035</guid><enclosure url="https://images.unsplash.com/photo-1773243906475-715149a80786?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbGwlMjBzdHVkZW50c3xlbnwwfHx8fDE3NzY1NzIwMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="194025" /><ns2:content url="https://images.unsplash.com/photo-1773243906475-715149a80786?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbGwlMjBzdHVkZW50c3xlbnwwfHx8fDE3NzY1NzIwMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1773243906475-715149a80786?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbGwlMjBzdHVkZW50c3xlbnwwfHx8fDE3NzY1NzIwMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>전교생</category></item><item><title>전망이다 – It is a prospect/forecast</title><link>urn:urn:vocab:전망이다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1763312180711-a3f48308fa52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJdCUyMGlzJTIwYSUyMHByb3NwZWN0JTJGZm9yZWNhc3R8ZW58MHx8fHwxNzc2NjI2MTQ0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전망이다 (It is a prospect/forecast)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;25억 원)을 지원하며 산학협력 연구 파트너로 참여해, 총 35억 원 규모의 대규모 인재 양성 프로젝트가 진행될 전망이다&lt;br/&gt;&lt;em&gt;It is expected that a large-scale talent development project worth a total of 35 billion won will be carried out, with support of 2.5 billion won and participation as an industry-academia cooperation research partner.&lt;/em&gt;&lt;/p&gt;
