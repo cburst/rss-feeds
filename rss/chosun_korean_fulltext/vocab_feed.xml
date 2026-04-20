@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 01:43:24 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 03:50:29 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>인도를 – to India</title><link>urn:urn:vocab:인도를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>원전을 – nuclear power plant</title><link>urn:urn:vocab:원전을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591200834528-4050ce99fe78?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxudWNsZWFyJTIwcG93ZXIlMjBwbGFudHxlbnwwfHx8fDE3NzY3MTEwMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="원전을 (nuclear power plant)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최종적인 지향점으로 탈원전을 유럽인들이 완전히 포기한 것도 아닙니다&lt;br/&gt;&lt;em&gt;It is not that Europeans have completely abandoned nuclear phase-out as their ultimate goal.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(유럽에서 원전을 다시 지으려고 하는 이유는 무엇보다 러시아·우크라이나 전쟁 이후 전기 요금이 폭등하는 바람에 에너지 수급 체계를 근본적으로 바꿔야 한다는 데 공감하는 이들이 늘었기 때문입니다&lt;br/&gt;&lt;em&gt;The reason Europe is trying to build nuclear power plants again is primarily because, after the Russia-Ukraine war, electricity prices have skyrocketed, leading to an increasing number of people agreeing that the energy supply system needs to be fundamentally changed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;원전을 가동 안하다 보니 러시아산 천연가스와 석탄에 지나치게 의존하게 됐고, 그러다 러·우 전쟁이 터진 이후 에너지 수급이 원활하지 않아 큰 곤경에 처한 게 유럽의 현실인데요&lt;br/&gt;&lt;em&gt;The reality in Europe is that, due to not operating nuclear power plants, they have become overly reliant on Russian natural gas and coal, and after the Russia-Ukraine war broke out, energy supply has become unstable, putting them in a difficult situation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;원전을 봤어요.&lt;br/&gt;&lt;em&gt;I watched the original.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;원전을 공부해요.&lt;br/&gt;&lt;em&gt;I study the original.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591200834528-4050ce99fe78?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxudWNsZWFyJTIwcG93ZXIlMjBwbGFudHxlbnwwfHx8fDE3NzY3MTEwMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="원전을 (nuclear power plant)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최종적인 지향점으로 탈원전을 유럽인들이 완전히 포기한 것도 아닙니다&lt;br/&gt;&lt;em&gt;It is not that Europeans have completely abandoned nuclear phase-out as their ultimate goal.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(유럽에서 원전을 다시 지으려고 하는 이유는 무엇보다 러시아·우크라이나 전쟁 이후 전기 요금이 폭등하는 바람에 에너지 수급 체계를 근본적으로 바꿔야 한다는 데 공감하는 이들이 늘었기 때문입니다&lt;br/&gt;&lt;em&gt;The reason Europe is trying to build nuclear power plants again is primarily because, after the Russia-Ukraine war, electricity prices have skyrocketed, leading to an increasing number of people agreeing that the energy supply system needs to be fundamentally changed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;원전을 가동 안하다 보니 러시아산 천연가스와 석탄에 지나치게 의존하게 됐고, 그러다 러·우 전쟁이 터진 이후 에너지 수급이 원활하지 않아 큰 곤경에 처한 게 유럽의 현실인데요&lt;br/&gt;&lt;em&gt;The reality in Europe is that, due to not operating nuclear power plants, they have become overly reliant on Russian natural gas and coal, and after the Russia-Ukraine war broke out, energy supply has become unstable, putting them in a difficult situation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;원전을 봤어요.&lt;br/&gt;&lt;em&gt;I watched the original.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;원전을 공부해요.&lt;br/&gt;&lt;em&gt;I study the original.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 21 Apr 2026 03:50:28 +0900</pubDate><guid isPermaLink="false">vocab-4caab3f53a5aa48f22b65cfdccb468e6b563fb29</guid><enclosure url="https://images.unsplash.com/photo-1591200834528-4050ce99fe78?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxudWNsZWFyJTIwcG93ZXIlMjBwbGFudHxlbnwwfHx8fDE3NzY3MTEwMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="68259" /><ns2:content url="https://images.unsplash.com/photo-1591200834528-4050ce99fe78?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxudWNsZWFyJTIwcG93ZXIlMjBwbGFudHxlbnwwfHx8fDE3NzY3MTEwMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1591200834528-4050ce99fe78?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxudWNsZWFyJTIwcG93ZXIlMjBwbGFudHxlbnwwfHx8fDE3NzY3MTEwMjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>원전을</category></item><item><title>인도를 – to India</title><link>urn:urn:vocab:인도를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1675615779482-69e236b27452?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMEluZGlhfGVufDB8fHx8MTc3NjcwMzM5MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인도를 (to India)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (인도를 국빈 방문 중인 이재명 대통령은 20일 중동 전쟁과 관련해 “대한민국은 모든 선박이 호르무즈 해협을 안전하고 자유롭게 항해할 수 있도록 인도와 긴밀한 소통을 유지할 것”이라고 했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung, who is on a state visit to India, said on the 20th regarding the Middle East war, 'South Korea will maintain close communication with India to ensure that all ships can navigate the Strait of Hormuz safely and freely.'&lt;/em&gt;&lt;/p&gt;
