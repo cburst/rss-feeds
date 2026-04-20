@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 17:07:05 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 19:18:37 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>나타냈다 – showed, appeared, indicated</title><link>urn:urn:vocab:나타냈다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>미생물 – microorganism</title><link>urn:urn:vocab:미생물</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1689136995015-11a19e72015b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaWNyb29yZ2FuaXNtfGVufDB8fHx8MTc3NjY4MDMwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="미생물 (microorganism)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(연세대학교(총장 윤동섭) 생명공학과 이인석 교수 연구팀은 배양이 어려운 미생물의 유전체를 메타지놈 데이터로부터 정확하게 복원하는 최적의 분석 전략을 제시했다&lt;br/&gt;&lt;em&gt;(A research team led by Professor Inseok Lee of the Department of Biotechnology at Yonsei University (President Dongseop Yoon) has proposed an optimal analysis strategy for accurately reconstructing the genomes of difficult-to-culture microorganisms from metagenomic data.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(마이크로바이옴 연구의 핵심 과제 중 하나는 사람의 장, 구강, 그리고 다양한 환경에 존재하는 수많은 미생물 가운데 실험실에서 배양하기 어려운 미생물의 유전체를 직접 해독하고 재구성하는 것이다&lt;br/&gt;&lt;em&gt;(One of the key challenges in microbiome research is directly sequencing and reconstructing the genomes of microorganisms that are difficult to culture in the laboratory, among the numerous microorganisms present in the human gut, oral cavity, and various environments.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이러한 유전체 정보는 미생물이 어떤 기능을 하는지, 숙주 건강이나 질환과 어떤 관련이 있는지, 그리고 미생물 생태계 안에서 어떤 역할을 하는지를 이해하는 데 필수적이다&lt;br/&gt;&lt;em&gt;This genomic information is essential for understanding what functions microorganisms perform, how they relate to host health or disease, and what roles they play within microbial ecosystems.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;미생물은 작아요.&lt;br/&gt;&lt;em&gt;Microorganisms are small.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미생물이 물에 있어요.&lt;br/&gt;&lt;em&gt;Microorganisms are in the water.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1689136995015-11a19e72015b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaWNyb29yZ2FuaXNtfGVufDB8fHx8MTc3NjY4MDMwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="미생물 (microorganism)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(연세대학교(총장 윤동섭) 생명공학과 이인석 교수 연구팀은 배양이 어려운 미생물의 유전체를 메타지놈 데이터로부터 정확하게 복원하는 최적의 분석 전략을 제시했다&lt;br/&gt;&lt;em&gt;(A research team led by Professor Inseok Lee of the Department of Biotechnology at Yonsei University (President Dongseop Yoon) has proposed an optimal analysis strategy for accurately reconstructing the genomes of difficult-to-culture microorganisms from metagenomic data.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(마이크로바이옴 연구의 핵심 과제 중 하나는 사람의 장, 구강, 그리고 다양한 환경에 존재하는 수많은 미생물 가운데 실험실에서 배양하기 어려운 미생물의 유전체를 직접 해독하고 재구성하는 것이다&lt;br/&gt;&lt;em&gt;(One of the key challenges in microbiome research is directly sequencing and reconstructing the genomes of microorganisms that are difficult to culture in the laboratory, among the numerous microorganisms present in the human gut, oral cavity, and various environments.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이러한 유전체 정보는 미생물이 어떤 기능을 하는지, 숙주 건강이나 질환과 어떤 관련이 있는지, 그리고 미생물 생태계 안에서 어떤 역할을 하는지를 이해하는 데 필수적이다&lt;br/&gt;&lt;em&gt;This genomic information is essential for understanding what functions microorganisms perform, how they relate to host health or disease, and what roles they play within microbial ecosystems.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;미생물은 작아요.&lt;br/&gt;&lt;em&gt;Microorganisms are small.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미생물이 물에 있어요.&lt;br/&gt;&lt;em&gt;Microorganisms are in the water.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 20 Apr 2026 19:18:37 +0900</pubDate><guid isPermaLink="false">vocab-2c019be7f2217f392b4c2e2128758486627a5fdd</guid><enclosure url="https://images.unsplash.com/photo-1689136995015-11a19e72015b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaWNyb29yZ2FuaXNtfGVufDB8fHx8MTc3NjY4MDMwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="146685" /><ns2:content url="https://images.unsplash.com/photo-1689136995015-11a19e72015b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaWNyb29yZ2FuaXNtfGVufDB8fHx8MTc3NjY4MDMwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1689136995015-11a19e72015b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaWNyb29yZ2FuaXNtfGVufDB8fHx8MTc3NjY4MDMwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>미생물</category></item><item><title>나타냈다 – showed, appeared, indicated</title><link>urn:urn:vocab:나타냈다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1762330469392-62aa4a330e22?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaG93ZWQlMkMlMjBhcHBlYXJlZCUyQyUyMGluZGljYXRlZHxlbnwwfHx8fDE3NzY2NzI0MTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="나타냈다 (showed, appeared, indicated)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;기존 주식 수 대비 40%가 넘는 대규모 신주 발행으로 주식 가치가 희석되는 것에도 강한 불만을 나타냈다&lt;br/&gt;&lt;em&gt;They expressed strong dissatisfaction even with the dilution of stock value due to the issuance of new shares exceeding 40% of the existing number of shares.&lt;/em&gt;&lt;/p&gt;
