@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 03:50:17 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:00:04 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>행사가 – event</title><link>urn:urn:vocab:행사가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>배당금 – dividend</title><link>urn:urn:vocab:배당금</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1723587693226-3f1dc7d594e2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXZpZGVuZHxlbnwwfHx8fDE3NzY3MTg3OTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="배당금 (dividend)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;An All-Time High (올해 코스피 상장사 배당금 35조원…역대 최고) &lt;&lt;br/&gt;&lt;em&gt;An All-Time High (KOSPI-listed companies' dividends this year reach 35 trillion won...all-time high) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;An All-Time High (올해 코스피 상장사 배당금 35조원…역대 최고)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;An All-Time High (KOSPI-listed companies' dividends this year reach 35 trillion won...all-time high)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(반도체 업종을 중심으로 기업 실적이 역대급 호조를 누리는 등의 영향을 받아 유가증권시장 상장사에서 올해 지급하는 배당금 규모가 35조원으로, 역대 최고치를 기록한 것으로 나타났다&lt;br/&gt;&lt;em&gt;(Influenced by factors such as record-high corporate performance, particularly in the semiconductor sector, the dividend payout scale for companies listed on the Korea Exchange this year has reached 35 trillion won, marking an all-time high)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;배당금을 받았어요.&lt;br/&gt;&lt;em&gt;I received dividends.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;배당금이 많아요.&lt;br/&gt;&lt;em&gt;There are many dividends.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1723587693226-3f1dc7d594e2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXZpZGVuZHxlbnwwfHx8fDE3NzY3MTg3OTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="배당금 (dividend)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;An All-Time High (올해 코스피 상장사 배당금 35조원…역대 최고) &lt;&lt;br/&gt;&lt;em&gt;An All-Time High (KOSPI-listed companies' dividends this year reach 35 trillion won...all-time high) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;An All-Time High (올해 코스피 상장사 배당금 35조원…역대 최고)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;An All-Time High (KOSPI-listed companies' dividends this year reach 35 trillion won...all-time high)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(반도체 업종을 중심으로 기업 실적이 역대급 호조를 누리는 등의 영향을 받아 유가증권시장 상장사에서 올해 지급하는 배당금 규모가 35조원으로, 역대 최고치를 기록한 것으로 나타났다&lt;br/&gt;&lt;em&gt;(Influenced by factors such as record-high corporate performance, particularly in the semiconductor sector, the dividend payout scale for companies listed on the Korea Exchange this year has reached 35 trillion won, marking an all-time high)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;배당금을 받았어요.&lt;br/&gt;&lt;em&gt;I received dividends.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;배당금이 많아요.&lt;br/&gt;&lt;em&gt;There are many dividends.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 21 Apr 2026 06:00:04 +0900</pubDate><guid isPermaLink="false">vocab-f3a524de2ac133c101c81d91f435ddc8352e4729</guid><enclosure url="https://images.unsplash.com/photo-1723587693226-3f1dc7d594e2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXZpZGVuZHxlbnwwfHx8fDE3NzY3MTg3OTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="69637" /><ns2:content url="https://images.unsplash.com/photo-1723587693226-3f1dc7d594e2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXZpZGVuZHxlbnwwfHx8fDE3NzY3MTg3OTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1723587693226-3f1dc7d594e2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXZpZGVuZHxlbnwwfHx8fDE3NzY3MTg3OTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>배당금</category></item><item><title>행사가 – event</title><link>urn:urn:vocab:행사가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVudHxlbnwwfHx8fDE3NzY3MTEwMDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="행사가 (event)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;정부는 부실한 업무대행사가 난립하지 못하도록 ‘대행업 등록제’를 도입하고, 시공사가 공사비를 증액할 경우 한국부동산원 등 전문기관의 검증을 의무화하기로 했다&lt;br/&gt;&lt;em&gt;The government has decided to introduce a 'registration system for agencies' to prevent the proliferation of incompetent agencies, and to mandate verification by specialized institutions such as the Korea Real Estate Board when construction companies increase construction costs.&lt;/em&gt;&lt;/p&gt;
