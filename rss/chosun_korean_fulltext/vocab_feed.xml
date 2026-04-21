@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 03:41:39 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 05:47:10 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>무기급 – weapon-grade</title><link>urn:urn:vocab:무기급</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>아나운서 – announcer</title><link>urn:urn:vocab:아나운서</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612944639470-ce9a8346a808?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbm5vdW5jZXJ8ZW58MHx8fHwxNzc2ODA0NDIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="아나운서 (announcer)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국민의힘 경기지사 후보 경선에는 양향자 최고위원, 이성배 전 MBC 아나운서, 함진규 전 한국도로공사 사장이 나섰다&lt;br/&gt;&lt;em&gt;(In the People Power Party's Gyeonggi Province primary, Supreme Council member Yang Hyang-ja, former MBC announcer Lee Seong-bae, and former Korea Expressway Corporation president Ham Jin-gyu have entered the race)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예비후보로 등록했던 조광한 최고위원은 21일 기자회견을 열고 이 전 아나운서 지지를 선언하고 불출마하기로 했다&lt;br/&gt;&lt;em&gt;Supreme Council member Jo Gwang-han, who had registered as a preliminary candidate, held a press conference on the 21st to declare his support for the former announcer and decided not to run&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아나운서가 뉴스를 읽어요.&lt;br/&gt;&lt;em&gt;The announcer reads the news.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아나운서는 방송국에서 일해요.&lt;br/&gt;&lt;em&gt;The announcer works at a broadcasting station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612944639470-ce9a8346a808?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbm5vdW5jZXJ8ZW58MHx8fHwxNzc2ODA0NDIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="아나운서 (announcer)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국민의힘 경기지사 후보 경선에는 양향자 최고위원, 이성배 전 MBC 아나운서, 함진규 전 한국도로공사 사장이 나섰다&lt;br/&gt;&lt;em&gt;(In the People Power Party's Gyeonggi Province primary, Supreme Council member Yang Hyang-ja, former MBC announcer Lee Seong-bae, and former Korea Expressway Corporation president Ham Jin-gyu have entered the race)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예비후보로 등록했던 조광한 최고위원은 21일 기자회견을 열고 이 전 아나운서 지지를 선언하고 불출마하기로 했다&lt;br/&gt;&lt;em&gt;Supreme Council member Jo Gwang-han, who had registered as a preliminary candidate, held a press conference on the 21st to declare his support for the former announcer and decided not to run&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아나운서가 뉴스를 읽어요.&lt;br/&gt;&lt;em&gt;The announcer reads the news.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아나운서는 방송국에서 일해요.&lt;br/&gt;&lt;em&gt;The announcer works at a broadcasting station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 22 Apr 2026 05:47:10 +0900</pubDate><guid isPermaLink="false">vocab-2a703e73447f23190e1b5d527eb5ccac8dd45b24</guid><enclosure url="https://images.unsplash.com/photo-1612944639470-ce9a8346a808?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbm5vdW5jZXJ8ZW58MHx8fHwxNzc2ODA0NDIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="115121" /><ns2:content url="https://images.unsplash.com/photo-1612944639470-ce9a8346a808?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbm5vdW5jZXJ8ZW58MHx8fHwxNzc2ODA0NDIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1612944639470-ce9a8346a808?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbm5vdW5jZXJ8ZW58MHx8fHwxNzc2ODA0NDIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>아나운서</category></item><item><title>무기급 – weapon-grade</title><link>urn:urn:vocab:무기급</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1666657469168-432e7e49d085?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3ZWFwb24tZ3JhZGV8ZW58MHx8fHwxNzc2Nzk2ODgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="무기급 (weapon-grade)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(정동영 통일부 장관이 지난 3월 국회 외통위에서 북한의 무기급 우라늄 농축 시설이 기존에 알려진 영변·강선 외에 ‘구성’에도 있다고 언급한 것이 미국의 대북 정보 공유 제한으로 이어진 가운데, 정 장관이 ‘공개 정보’를 토대로 발언을 했다는 근거 중 하나로 인용한 미 전략국제문제연구소(CSIS)가 반박에 나섰다&lt;br/&gt;&lt;em&gt;Amidst concerns that the mention by Unification Minister Jeong Dong-young in March at the National Assembly's Foreign Affairs and Unification Committee about North Korea's weapons-grade uranium enrichment facilities being located not only in the known sites of Yongbyon and Gangseon but also in 'Guseong' led to U.S. restrictions on sharing intelligence on North Korea, the Center for Strategic and International Studies (CSIS), cited by Minister Jeong as one of the bases for his statement based on 'public information,' has refuted this.&lt;/em&gt;&lt;/p&gt;
