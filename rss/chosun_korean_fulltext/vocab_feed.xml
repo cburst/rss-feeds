@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 23:21:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 01:33:32 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>주민에게 – to the residents</title><link>urn:urn:vocab:주민에게</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>국정조사 – state affairs investigation</title><link>urn:urn:vocab:국정조사</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1593510987185-1ec2256148a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGF0ZSUyMGFmZmFpcnMlMjBpbnZlc3RpZ2F0aW9ufGVufDB8fHx8MTc3Njc4OTE5OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국정조사 (state affairs investigation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (국회 ‘윤석열 정권 조작기소 의혹 국정조사’ 특별위원회 소속 국민의힘 의원들은 21일 이종석 국가정보원장, 이화영 전 경기도 평화부지사, 남욱 변호사 등 증인 6명을 국회에서의 증언·감정 등에 관한 법률상 위증 혐의로 고발하기로 했다&lt;br/&gt;&lt;em&gt;Members of the People Power Party belonging to the special committee for the 'National Assembly investigation into suspicions of manipulated prosecutions under the Yoon Suk-yeol administration' decided on the 21st to file complaints against six witnesses, including National Intelligence Service Director Lee Jong-seok, former Gyeonggi Province Vice Governor for Peace Lee Hwa-young, and lawyer Nam Wook, on charges of perjury under the law regarding testimony and appraisal in the National Assembly.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민의힘은 더불어민주당 견제를 위해 여당 주도의 국정조사 특위에 참여는 하고 있지만, “이재명 대통령 죄 지우기 특위”라는 입장이다&lt;br/&gt;&lt;em&gt;The People Power Party is participating in the ruling party-led special investigation committee to check the Democratic Party of Korea, but holds the position that it is a 'special committee to frame President Lee Jae-myung.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(특위 소속 국민의힘 김형동·나경원·윤상현·곽규택 의원 등은 이날 오전 국회에서 기자회견을 열고 국정조사 특위 증인 6명이 청문회 등에 출석해 거짓 증언을 했다며 고발 방침이라고 밝혔다&lt;br/&gt;&lt;em&gt;(People Power Party members Kim Hyung-dong, Na Kyung-won, Yoon Sang-hyun, and Kwak Kyo-taek, who belong to the special committee, held a press conference at the National Assembly this morning and announced their intention to file complaints, stating that six witnesses in the special investigation committee gave false testimony during hearings, etc.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국정조사가 시작되었습니다.&lt;br/&gt;&lt;em&gt;The state affairs investigation has begun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국정조사는 중요합니다.&lt;br/&gt;&lt;em&gt;The state affairs investigation is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1593510987185-1ec2256148a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGF0ZSUyMGFmZmFpcnMlMjBpbnZlc3RpZ2F0aW9ufGVufDB8fHx8MTc3Njc4OTE5OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국정조사 (state affairs investigation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (국회 ‘윤석열 정권 조작기소 의혹 국정조사’ 특별위원회 소속 국민의힘 의원들은 21일 이종석 국가정보원장, 이화영 전 경기도 평화부지사, 남욱 변호사 등 증인 6명을 국회에서의 증언·감정 등에 관한 법률상 위증 혐의로 고발하기로 했다&lt;br/&gt;&lt;em&gt;Members of the People Power Party belonging to the special committee for the 'National Assembly investigation into suspicions of manipulated prosecutions under the Yoon Suk-yeol administration' decided on the 21st to file complaints against six witnesses, including National Intelligence Service Director Lee Jong-seok, former Gyeonggi Province Vice Governor for Peace Lee Hwa-young, and lawyer Nam Wook, on charges of perjury under the law regarding testimony and appraisal in the National Assembly.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민의힘은 더불어민주당 견제를 위해 여당 주도의 국정조사 특위에 참여는 하고 있지만, “이재명 대통령 죄 지우기 특위”라는 입장이다&lt;br/&gt;&lt;em&gt;The People Power Party is participating in the ruling party-led special investigation committee to check the Democratic Party of Korea, but holds the position that it is a 'special committee to frame President Lee Jae-myung.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(특위 소속 국민의힘 김형동·나경원·윤상현·곽규택 의원 등은 이날 오전 국회에서 기자회견을 열고 국정조사 특위 증인 6명이 청문회 등에 출석해 거짓 증언을 했다며 고발 방침이라고 밝혔다&lt;br/&gt;&lt;em&gt;(People Power Party members Kim Hyung-dong, Na Kyung-won, Yoon Sang-hyun, and Kwak Kyo-taek, who belong to the special committee, held a press conference at the National Assembly this morning and announced their intention to file complaints, stating that six witnesses in the special investigation committee gave false testimony during hearings, etc.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국정조사가 시작되었습니다.&lt;br/&gt;&lt;em&gt;The state affairs investigation has begun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국정조사는 중요합니다.&lt;br/&gt;&lt;em&gt;The state affairs investigation is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 22 Apr 2026 01:33:32 +0900</pubDate><guid isPermaLink="false">vocab-305b133ababaa1b8976bf65184d70aab42eb4ff3</guid><enclosure url="https://images.unsplash.com/photo-1593510987185-1ec2256148a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGF0ZSUyMGFmZmFpcnMlMjBpbnZlc3RpZ2F0aW9ufGVufDB8fHx8MTc3Njc4OTE5OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="107161" /><ns2:content url="https://images.unsplash.com/photo-1593510987185-1ec2256148a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGF0ZSUyMGFmZmFpcnMlMjBpbnZlc3RpZ2F0aW9ufGVufDB8fHx8MTc3Njc4OTE5OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1593510987185-1ec2256148a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGF0ZSUyMGFmZmFpcnMlMjBpbnZlc3RpZ2F0aW9ufGVufDB8fHx8MTc3Njc4OTE5OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>국정조사</category></item><item><title>주민에게 – to the residents</title><link>urn:urn:vocab:주민에게</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1728288868137-601d8c35f442?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMHJlc2lkZW50c3xlbnwwfHx8fDE3NzY3ODEyNzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주민에게 (to the residents)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (임실군수 경선에서 탈락한 성준후 전 청와대 국민통합비서관실 행정관은 이날 전북특별자치도의회에서 기자회견을 열고 “한득수 예비후보 측 운동원으로 추정되는 인물이 지역 주민에게 접근해 금품이 든 것으로 보이는 봉투를 전달하려다 거부당했다”며 “당은 즉시 경선을 중단하고 윤리감찰에 착수해야 한다”고 했다&lt;br/&gt;&lt;em&gt;Former Cheong Wa Dae (Presidential Office) administrative officer Seong Jun-hoo, who lost in the Im-sil County mayoral primary, held a press conference at the North Jeolla Special Self-Governing Province Council on this day and stated, "A person presumed to be a campaign worker for preliminary candidate Han Deuk-soo approached a local resident and attempted to deliver an envelope believed to contain money, but was refused." He added, "The party should immediately halt the primary and initiate an ethics investigation."&lt;/em&gt;&lt;/p&gt;
