@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 10:15:22 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 12:22:09 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>선풍기 – electric fan</title><link>urn:urn:vocab:선풍기</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>오랜만에 – after a long time</title><link>urn:urn:vocab:오랜만에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1694265167419-066e21fd20fe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZnRlciUyMGElMjBsb25nJTIwdGltZXxlbnwwfHx8fDE3NzY3NDE3MTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="오랜만에 (after a long time)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(그리고 역두(頭)에서 간단하게 오랜만에 인사(人事)를 했다&lt;br/&gt;&lt;em&gt;(And at the station, we briefly exchanged greetings for the first time in a long while)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(집사람과 혜숙(惠淑)이와 두아(斗児)는 마산(馬山) 아버지에게 가고 현철(賢哲)이와 두리서(*둘이서) Hotel 풀장에서 정말 오랜만에 수영(水泳)과 싼팅(*선탠)을 했다&lt;br/&gt;&lt;em&gt;(My wife, Hye-sook, and Du-a went to my father in Masan, while Hyeon-cheol and I went swimming and sunbathing at the hotel pool for the first time in a long time)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;즐거운 시간(時間)을 오랜만에 보냈다&lt;br/&gt;&lt;em&gt;We had a pleasant time for the first time in a long while&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오랜만에 친구를 만났어요.&lt;br/&gt;&lt;em&gt;I met a friend after a long time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오랜만에 영화를 봤어요.&lt;br/&gt;&lt;em&gt;I watched a movie after a long time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1694265167419-066e21fd20fe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZnRlciUyMGElMjBsb25nJTIwdGltZXxlbnwwfHx8fDE3NzY3NDE3MTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="오랜만에 (after a long time)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(그리고 역두(頭)에서 간단하게 오랜만에 인사(人事)를 했다&lt;br/&gt;&lt;em&gt;(And at the station, we briefly exchanged greetings for the first time in a long while)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(집사람과 혜숙(惠淑)이와 두아(斗児)는 마산(馬山) 아버지에게 가고 현철(賢哲)이와 두리서(*둘이서) Hotel 풀장에서 정말 오랜만에 수영(水泳)과 싼팅(*선탠)을 했다&lt;br/&gt;&lt;em&gt;(My wife, Hye-sook, and Du-a went to my father in Masan, while Hyeon-cheol and I went swimming and sunbathing at the hotel pool for the first time in a long time)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;즐거운 시간(時間)을 오랜만에 보냈다&lt;br/&gt;&lt;em&gt;We had a pleasant time for the first time in a long while&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오랜만에 친구를 만났어요.&lt;br/&gt;&lt;em&gt;I met a friend after a long time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오랜만에 영화를 봤어요.&lt;br/&gt;&lt;em&gt;I watched a movie after a long time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 21 Apr 2026 12:22:09 +0900</pubDate><guid isPermaLink="false">vocab-9a9917fc05ac2c58a8e52f220f0fef45b112319a</guid><enclosure url="https://images.unsplash.com/photo-1694265167419-066e21fd20fe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZnRlciUyMGElMjBsb25nJTIwdGltZXxlbnwwfHx8fDE3NzY3NDE3MTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="238933" /><ns2:content url="https://images.unsplash.com/photo-1694265167419-066e21fd20fe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZnRlciUyMGElMjBsb25nJTIwdGltZXxlbnwwfHx8fDE3NzY3NDE3MTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1694265167419-066e21fd20fe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZnRlciUyMGElMjBsb25nJTIwdGltZXxlbnwwfHx8fDE3NzY3NDE3MTl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>오랜만에</category></item><item><title>선풍기 – electric fan</title><link>urn:urn:vocab:선풍기</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1601084195907-44baaa49dabd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMGZhbnxlbnwwfHx8fDE3NzY3MzQxMTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선풍기 (electric fan)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;양로원도 찾아 선풍기 6대와 연탄 한 트럭을 전했습니다&lt;br/&gt;&lt;em&gt;They also visited a nursing home and delivered six electric fans and a truckload of briquettes.&lt;/em&gt;&lt;/p&gt;
