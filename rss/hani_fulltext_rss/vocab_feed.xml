@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 07:57:12 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 10:33:23 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>풍요롭게 – abundantly</title><link>urn:urn:vocab:풍요롭게</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>리터러시 – literacy</title><link>urn:urn:vocab:리터러시</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1594312915251-48db9280c8f1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaXRlcmFjeXxlbnwwfHx8fDE3NzY4MjE1OTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="리터러시 (literacy)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;특히 초등 고학년부터는 영상 속 연출과 실제 사실을 구분할 수 있는 인지 능력이 갖춰지기 시작하므로, 콘텐츠를 비판적으로 수용하는 미디어 리터러시 훈련을 함께 병행하는 것이 좋다&lt;br/&gt;&lt;em&gt;Especially from the upper grades of elementary school, children begin to develop the cognitive ability to distinguish between the direction in videos and actual facts, so it is advisable to concurrently provide media literacy training that enables critical acceptance of content.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이를 위해 전교생 AI 기초 역량을 필수화하고(‘컴퓨팅사고’ → ‘덕성 AI 리터러시’), ‘AI 융합교육 지원센터’에서 표준화된 AI-Wing 강의안·실습자료(‘밀키트’) 제공, AI TA 매칭, 학생들의 AI 구독(예: ChatGPT 유료 버전/크레딧) 지원까지 연결할 것이다&lt;br/&gt;&lt;em&gt;To achieve this, we will make basic AI competency mandatory for all students ('Computational Thinking' → 'Ducksung AI Literacy'), and connect it with the provision of standardized AI-Wing lecture plans and practice materials ('meal kits') from the 'AI Convergence Education Support Center', AI TA matching, and support for students' AI subscriptions (e.g., ChatGPT paid version/credits).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;간단히 말하면, △전교생 AI 리터러시 필수화 △전공별 X+AI 교과 확대 △AI-Wing(표준 강의안·실습)과 AI TA 체계 △산학 연계형 프로젝트(예: AI 신약·바이오헬스 클러스터 등) 등으로 요약할 수 있겠다&lt;br/&gt;&lt;em&gt;In simple terms, it can be summarized as: △Mandatory AI literacy for all students △Expansion of major-specific X+AI courses △AI-Wing (standard lecture plans and practice) and AI TA system △Industry-academia linked projects (e.g., AI new drug and biohealth clusters, etc.).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;리터러시는 중요합니다.&lt;br/&gt;&lt;em&gt;Literacy is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 리터러시를 공부합니다.&lt;br/&gt;&lt;em&gt;I study literacy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1594312915251-48db9280c8f1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaXRlcmFjeXxlbnwwfHx8fDE3NzY4MjE1OTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="리터러시 (literacy)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;특히 초등 고학년부터는 영상 속 연출과 실제 사실을 구분할 수 있는 인지 능력이 갖춰지기 시작하므로, 콘텐츠를 비판적으로 수용하는 미디어 리터러시 훈련을 함께 병행하는 것이 좋다&lt;br/&gt;&lt;em&gt;Especially from the upper grades of elementary school, children begin to develop the cognitive ability to distinguish between the direction in videos and actual facts, so it is advisable to concurrently provide media literacy training that enables critical acceptance of content.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이를 위해 전교생 AI 기초 역량을 필수화하고(‘컴퓨팅사고’ → ‘덕성 AI 리터러시’), ‘AI 융합교육 지원센터’에서 표준화된 AI-Wing 강의안·실습자료(‘밀키트’) 제공, AI TA 매칭, 학생들의 AI 구독(예: ChatGPT 유료 버전/크레딧) 지원까지 연결할 것이다&lt;br/&gt;&lt;em&gt;To achieve this, we will make basic AI competency mandatory for all students ('Computational Thinking' → 'Ducksung AI Literacy'), and connect it with the provision of standardized AI-Wing lecture plans and practice materials ('meal kits') from the 'AI Convergence Education Support Center', AI TA matching, and support for students' AI subscriptions (e.g., ChatGPT paid version/credits).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;간단히 말하면, △전교생 AI 리터러시 필수화 △전공별 X+AI 교과 확대 △AI-Wing(표준 강의안·실습)과 AI TA 체계 △산학 연계형 프로젝트(예: AI 신약·바이오헬스 클러스터 등) 등으로 요약할 수 있겠다&lt;br/&gt;&lt;em&gt;In simple terms, it can be summarized as: △Mandatory AI literacy for all students △Expansion of major-specific X+AI courses △AI-Wing (standard lecture plans and practice) and AI TA system △Industry-academia linked projects (e.g., AI new drug and biohealth clusters, etc.).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;리터러시는 중요합니다.&lt;br/&gt;&lt;em&gt;Literacy is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 리터러시를 공부합니다.&lt;br/&gt;&lt;em&gt;I study literacy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 22 Apr 2026 10:33:23 +0900</pubDate><guid isPermaLink="false">vocab-4b03928e3d6a86ff86cb424fb1e6bc02bb167ee6</guid><enclosure url="https://images.unsplash.com/photo-1594312915251-48db9280c8f1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaXRlcmFjeXxlbnwwfHx8fDE3NzY4MjE1OTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="70453" /><ns2:content url="https://images.unsplash.com/photo-1594312915251-48db9280c8f1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaXRlcmFjeXxlbnwwfHx8fDE3NzY4MjE1OTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1594312915251-48db9280c8f1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaXRlcmFjeXxlbnwwfHx8fDE3NzY4MjE1OTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>리터러시</category></item><item><title>풍요롭게 – abundantly</title><link>urn:urn:vocab:풍요롭게</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1579832156959-0801ed0e3d0a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYnVuZGFudGx5fGVufDB8fHx8MTc3NjgxMjIyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="풍요롭게 (abundantly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;입춘에는 ‘입춘대길’ 한자를 프린트해서 색칠해보는 등 절기에 맞는 활동으로 일상을 더 풍요롭게 만들어볼 수 있다&lt;br/&gt;&lt;em&gt;On the first day of spring, you can enrich your daily life with seasonal activities such as printing and coloring the Chinese characters '立春大吉' (meaning 'auspicious beginning of spring').&lt;/em&gt;&lt;/p&gt;
