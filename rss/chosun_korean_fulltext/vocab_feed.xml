@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 03:45:43 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 05:54:59 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>선생님의 – teacher's</title><link>urn:urn:vocab:선생님의</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>언급한 – mentioned</title><link>urn:urn:vocab:언급한</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1774023446280-c7a4d3901fb3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW50aW9uZWR8ZW58MHx8fHwxNzc2ODkxMjkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="언급한 (mentioned)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 대통령이 성남시장 시절 성남FC 구단주로 있으면서 기업 후원금을 받은 것이 ‘제3자 뇌물죄’ 혐의로 기소돼 재판을 받고 있는 것을 언급한 것이다&lt;br/&gt;&lt;em&gt;He mentioned that President Lee, while serving as the owner of Seongnam FC during his tenure as mayor of Seongnam, received corporate sponsorship funds and is being prosecuted and tried on charges of 'third-party bribery'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;앞서 이재명 대통령도 지난 15일 ‘메가 특구’를 언급한 바 있다&lt;br/&gt;&lt;em&gt;Previously, President Lee Jae-myung also mentioned the 'Mega Special Zone' on the 15th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정동영 통일부 장관이 지난달 북한의 우라늄 농축 시설 소재지로 ‘평북 구성’을 언급한 이후 불거진 한미 관계 갈등이 안보 분야는 물론 경제 분야로도 확산하고 있다&lt;br/&gt;&lt;em&gt;The conflict between South Korea and the United States, which erupted after Unification Minister Jeong Dong-young mentioned 'Pyeongbuk Guseong' as the location of North Korea's uranium enrichment facility last month, is spreading not only in the security sector but also in the economic sector.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 언급한 책을 읽었어요.&lt;br/&gt;&lt;em&gt;He read the mentioned book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;언급한 사람이 여기 있어요.&lt;br/&gt;&lt;em&gt;The mentioned person is here.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1774023446280-c7a4d3901fb3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW50aW9uZWR8ZW58MHx8fHwxNzc2ODkxMjkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="언급한 (mentioned)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 대통령이 성남시장 시절 성남FC 구단주로 있으면서 기업 후원금을 받은 것이 ‘제3자 뇌물죄’ 혐의로 기소돼 재판을 받고 있는 것을 언급한 것이다&lt;br/&gt;&lt;em&gt;He mentioned that President Lee, while serving as the owner of Seongnam FC during his tenure as mayor of Seongnam, received corporate sponsorship funds and is being prosecuted and tried on charges of 'third-party bribery'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;앞서 이재명 대통령도 지난 15일 ‘메가 특구’를 언급한 바 있다&lt;br/&gt;&lt;em&gt;Previously, President Lee Jae-myung also mentioned the 'Mega Special Zone' on the 15th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정동영 통일부 장관이 지난달 북한의 우라늄 농축 시설 소재지로 ‘평북 구성’을 언급한 이후 불거진 한미 관계 갈등이 안보 분야는 물론 경제 분야로도 확산하고 있다&lt;br/&gt;&lt;em&gt;The conflict between South Korea and the United States, which erupted after Unification Minister Jeong Dong-young mentioned 'Pyeongbuk Guseong' as the location of North Korea's uranium enrichment facility last month, is spreading not only in the security sector but also in the economic sector.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 언급한 책을 읽었어요.&lt;br/&gt;&lt;em&gt;He read the mentioned book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;언급한 사람이 여기 있어요.&lt;br/&gt;&lt;em&gt;The mentioned person is here.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 23 Apr 2026 05:54:59 +0900</pubDate><guid isPermaLink="false">vocab-dc372e7a25237bcef3c7060e514bf73f55ba8d53</guid><enclosure url="https://images.unsplash.com/photo-1774023446280-c7a4d3901fb3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW50aW9uZWR8ZW58MHx8fHwxNzc2ODkxMjkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="114205" /><ns2:content url="https://images.unsplash.com/photo-1774023446280-c7a4d3901fb3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW50aW9uZWR8ZW58MHx8fHwxNzc2ODkxMjkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1774023446280-c7a4d3901fb3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZW50aW9uZWR8ZW58MHx8fHwxNzc2ODkxMjkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>언급한</category></item><item><title>선생님의 – teacher's</title><link>urn:urn:vocab:선생님의</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWFjaGVyJTI3c3xlbnwwfHx8fDE3NzY4ODM1MzJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선생님의 (teacher's)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (김 총리는 봉환사에서 “이 지사는 불과 열일곱 나이에 일제의 억압과 차별에서 벗어나기 위해 비밀 결사 독서회를 조직하고 독립운동을 펼치셨고, 정신적 스승이셨던 도산 안창호 선생님의 뜻을 이어 실력 양성과 독립 정신 함양에 힘을 쏟으셨다”고 기렸다&lt;br/&gt;&lt;em&gt;Prime Minister Kim commemorated at the memorial service, "Governor Lee, at just seventeen years old, organized a secret reading society to escape Japanese oppression and discrimination and carried out independence movements, and following the will of his spiritual teacher, Dosan Ahn Chang-ho, he devoted his efforts to fostering capabilities and cultivating the spirit of independence."&lt;/em&gt;&lt;/p&gt;
