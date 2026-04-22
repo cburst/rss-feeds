@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 10:33:34 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 12:41:02 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>농가에서 – at the farmhouse</title><link>urn:urn:vocab:농가에서</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>지사가 – governor</title><link>urn:urn:vocab:지사가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1561657356-f93ac710757c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnb3Zlcm5vcnxlbnwwfHx8fDE3NzY4MjkyNDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지사가 (governor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(-지사가 되면 정부 지원을 많이 받아 오겠다는 것인가&lt;br/&gt;&lt;em&gt;(Does this mean that if you become the governor, you will receive a lot of government support?)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민의힘 후보로 확정된 이철우 경북지사가 대구·경북 공동 선대위 구성을 요청했고, 이에 대구시장 경선 중인 추경호 의원은 이날 SBS 라디오에서 “지역 선대위를 꾸려서 저희들은 저희들대로 지역별 특성을 반영한 선거 활동을 할 것”이라고 했다&lt;br/&gt;&lt;em&gt;Lee Cheol-woo, the Gyeongsangbuk-do governor confirmed as a People Power Party candidate, requested the formation of a joint election committee for Daegu and Gyeongsangbuk-do. In response, Rep. Choo Kyung-ho, who is in the primary race for Daegu mayor, said on SBS Radio that day, 'We will form a regional election committee and conduct election activities reflecting regional characteristics in our own way.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;강원지사 후보인 김진태 강원지사가 그간 언론 인터뷰 등에서 “장 대표가 강원도에 오면 쓴소리를 하겠다”고 예고한 가운데, 장 대표가 김 지사와의 만남 자체를 피하는 게 아니냐는 얘기가 나왔다&lt;br/&gt;&lt;em&gt;Amidst predictions by Gangwon governor candidate Kim Jin-tae, who has stated in media interviews, 'If Chairman Jang comes to Gangwon-do, I will give him harsh criticism,' there has been talk that Chairman Jang is avoiding meeting with Governor Kim altogether.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지사가 도시를 관리합니다.&lt;br/&gt;&lt;em&gt;The branch office manages the city.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지사가 중요한 결정을 합니다.&lt;br/&gt;&lt;em&gt;The branch office makes important decisions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1561657356-f93ac710757c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnb3Zlcm5vcnxlbnwwfHx8fDE3NzY4MjkyNDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지사가 (governor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(-지사가 되면 정부 지원을 많이 받아 오겠다는 것인가&lt;br/&gt;&lt;em&gt;(Does this mean that if you become the governor, you will receive a lot of government support?)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민의힘 후보로 확정된 이철우 경북지사가 대구·경북 공동 선대위 구성을 요청했고, 이에 대구시장 경선 중인 추경호 의원은 이날 SBS 라디오에서 “지역 선대위를 꾸려서 저희들은 저희들대로 지역별 특성을 반영한 선거 활동을 할 것”이라고 했다&lt;br/&gt;&lt;em&gt;Lee Cheol-woo, the Gyeongsangbuk-do governor confirmed as a People Power Party candidate, requested the formation of a joint election committee for Daegu and Gyeongsangbuk-do. In response, Rep. Choo Kyung-ho, who is in the primary race for Daegu mayor, said on SBS Radio that day, 'We will form a regional election committee and conduct election activities reflecting regional characteristics in our own way.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;강원지사 후보인 김진태 강원지사가 그간 언론 인터뷰 등에서 “장 대표가 강원도에 오면 쓴소리를 하겠다”고 예고한 가운데, 장 대표가 김 지사와의 만남 자체를 피하는 게 아니냐는 얘기가 나왔다&lt;br/&gt;&lt;em&gt;Amidst predictions by Gangwon governor candidate Kim Jin-tae, who has stated in media interviews, 'If Chairman Jang comes to Gangwon-do, I will give him harsh criticism,' there has been talk that Chairman Jang is avoiding meeting with Governor Kim altogether.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지사가 도시를 관리합니다.&lt;br/&gt;&lt;em&gt;The branch office manages the city.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지사가 중요한 결정을 합니다.&lt;br/&gt;&lt;em&gt;The branch office makes important decisions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 22 Apr 2026 12:41:02 +0900</pubDate><guid isPermaLink="false">vocab-9312e4f6169e2c7d82d24d2604061b16ec502b0e</guid><enclosure url="https://images.unsplash.com/photo-1561657356-f93ac710757c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnb3Zlcm5vcnxlbnwwfHx8fDE3NzY4MjkyNDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="184714" /><ns2:content url="https://images.unsplash.com/photo-1561657356-f93ac710757c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnb3Zlcm5vcnxlbnwwfHx8fDE3NzY4MjkyNDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1561657356-f93ac710757c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnb3Zlcm5vcnxlbnwwfHx8fDE3NzY4MjkyNDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>지사가</category></item><item><title>농가에서 – at the farmhouse</title><link>urn:urn:vocab:농가에서</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632154023299-bc2d69c454be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGZhcm1ob3VzZXxlbnwwfHx8fDE3NzY4MjE2MDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="농가에서 (at the farmhouse)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(더불어민주당 정청래 대표는 21일 경남 통영 욕지도 고구마 재배 농가에서 민생 체험을 했다&lt;br/&gt;&lt;em&gt;Democratic Party of Korea leader Jeong Cheong-rae visited a sweet potato farm on Yeokji Island, Tongyeong, South Gyeongsang Province, on the 21st to experience the livelihoods of farmers.&lt;/em&gt;&lt;/p&gt;
