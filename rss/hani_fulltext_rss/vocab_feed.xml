@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 14:47:55 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 16:54:59 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>클래스 – class</title><link>urn:urn:vocab:클래스</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기준이 – standard</title><link>urn:urn:vocab:기준이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1546250001-6b7b60086f17?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFuZGFyZHxlbnwwfHx8fDE3NzY4NDQ0OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기준이 (standard)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이원재 전국금속노동조합 정책국장은 “국내에서 차를 생산한 완성차 업체라는 이유만으로 일률적인 세제 지원이 이뤄지면 안 된다”며 “국내 생산 전기차라도 국산 부품 비중이 50%에 못 미치면 지원 대상에서 제외하는 등의 구체적인 기준이 필요하다”고 했다&lt;br/&gt;&lt;em&gt;"Lee Won-jae, head of the policy bureau of the Korean Metal Workers' Union, said, 'Uniform tax support should not be provided simply because a company is a domestic automaker that produces cars in Korea.' He added, 'Even for domestically produced electric vehicles, specific criteria are needed, such as excluding those with less than 50% domestic parts from support.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (우연철 진학사 입시전략연구소장은 “모의고사 성적이 내신성적에 비해 월등히 좋은 학생이라면 정시와 더불어 수시에서는 논술전형을 비롯해 수능최저기준이 높게 설정된 전형을 고려해볼 수 있다”며 “반대로 내신성적이 더 우수한 학생이라면 정시보다는 수시에 비중을 두되, 수능최저 여부를 함께 확인해 준비해야 한다”고 조언했다&lt;br/&gt;&lt;em&gt;"Woo Yeon-cheol, head of the Jinhaksa Admissions Strategy Research Institute, advised, 'If a student's mock exam scores are significantly better than their GPA, they can consider the regular admission track along with the occasional admission track, including essay-based admissions and tracks with high minimum SAT requirements. Conversely, if a student's GPA is better, they should focus more on the occasional admission track while also checking whether minimum SAT scores are required.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;원인은 그 아이의 마음속에 새겨진 목표, 혹은 부모가 내면화한 기준이 높거나 이상화된 것에 있었다&lt;br/&gt;&lt;em&gt;The cause was that the goal engraved in the child's mind, or the standards internalized by the parents, were too high or idealized.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것이 기준이 됩니다.&lt;br/&gt;&lt;em&gt;This becomes the standard.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그것은 기준이 아닙니다.&lt;br/&gt;&lt;em&gt;That is not the standard.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1546250001-6b7b60086f17?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFuZGFyZHxlbnwwfHx8fDE3NzY4NDQ0OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기준이 (standard)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이원재 전국금속노동조합 정책국장은 “국내에서 차를 생산한 완성차 업체라는 이유만으로 일률적인 세제 지원이 이뤄지면 안 된다”며 “국내 생산 전기차라도 국산 부품 비중이 50%에 못 미치면 지원 대상에서 제외하는 등의 구체적인 기준이 필요하다”고 했다&lt;br/&gt;&lt;em&gt;"Lee Won-jae, head of the policy bureau of the Korean Metal Workers' Union, said, 'Uniform tax support should not be provided simply because a company is a domestic automaker that produces cars in Korea.' He added, 'Even for domestically produced electric vehicles, specific criteria are needed, such as excluding those with less than 50% domestic parts from support.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (우연철 진학사 입시전략연구소장은 “모의고사 성적이 내신성적에 비해 월등히 좋은 학생이라면 정시와 더불어 수시에서는 논술전형을 비롯해 수능최저기준이 높게 설정된 전형을 고려해볼 수 있다”며 “반대로 내신성적이 더 우수한 학생이라면 정시보다는 수시에 비중을 두되, 수능최저 여부를 함께 확인해 준비해야 한다”고 조언했다&lt;br/&gt;&lt;em&gt;"Woo Yeon-cheol, head of the Jinhaksa Admissions Strategy Research Institute, advised, 'If a student's mock exam scores are significantly better than their GPA, they can consider the regular admission track along with the occasional admission track, including essay-based admissions and tracks with high minimum SAT requirements. Conversely, if a student's GPA is better, they should focus more on the occasional admission track while also checking whether minimum SAT scores are required.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;원인은 그 아이의 마음속에 새겨진 목표, 혹은 부모가 내면화한 기준이 높거나 이상화된 것에 있었다&lt;br/&gt;&lt;em&gt;The cause was that the goal engraved in the child's mind, or the standards internalized by the parents, were too high or idealized.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것이 기준이 됩니다.&lt;br/&gt;&lt;em&gt;This becomes the standard.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그것은 기준이 아닙니다.&lt;br/&gt;&lt;em&gt;That is not the standard.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 22 Apr 2026 16:54:59 +0900</pubDate><guid isPermaLink="false">vocab-4d068ccf35964288edaf1a42c1774e5369623746</guid><enclosure url="https://images.unsplash.com/photo-1546250001-6b7b60086f17?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFuZGFyZHxlbnwwfHx8fDE3NzY4NDQ0OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="71083" /><ns2:content url="https://images.unsplash.com/photo-1546250001-6b7b60086f17?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFuZGFyZHxlbnwwfHx8fDE3NzY4NDQ0OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1546250001-6b7b60086f17?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFuZGFyZHxlbnwwfHx8fDE3NzY4NDQ0OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기준이</category></item><item><title>클래스 – class</title><link>urn:urn:vocab:클래스</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1524178232363-1fb2b075b655?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFzc3xlbnwwfHx8fDE3NzY4MzY4NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="클래스 (class)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;' (메르세데스-벤츠가 지난 20일 서울 성수동 ‘XYZ 서울’에서 세계 최초로 공개한 ‘디 올-뉴 일렉트릭 C-클래스’ 프리미어 행사의 공간 연출 의도는 명확해 보였다&lt;br/&gt;&lt;em&gt;The spatial design intention of the 'All-New Electric C-Class' premiere event, which Mercedes-Benz first unveiled globally at 'XYZ Seoul' in Seongsu-dong, Seoul on the 20th, appeared clear.&lt;/em&gt;&lt;/p&gt;
