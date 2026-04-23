@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 05:54:48 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 10:18:24 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>승리 – victory</title><link>urn:urn:vocab:승리</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>포장마차 – street food stall</title><link>urn:urn:vocab:포장마차</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1767485219678-89affb4329a1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJlZXQlMjBmb29kJTIwc3RhbGx8ZW58MHx8fHwxNzc2OTA3MDk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="포장마차 (street food stall)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(포장마차·노래방 간판 걸고 ‘벤츠 신차’ 공개…서울 이미지가 이거&lt;br/&gt;&lt;em&gt;(Hanging signs of street food stalls and karaoke rooms to unveil 'Mercedes-Benz new car'... This is Seoul's image)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(포장마차·노래방 간판 걸고 ‘벤츠 신차’ 공개…서울 이미지가 이거&lt;br/&gt;&lt;em&gt;(Hanging signs of street food stalls and karaoke rooms to unveil 'Mercedes-Benz new car'... This is Seoul's image)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;메르세데스-벤츠 유튜브 갈무리&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Signs with large Korean text reading '포장마차 (Pojangmacha)' and '숯불구이 (Charcoal-grilled)' against a background where red is particularly emphasized, a karaoke room decorated with a neon microphone sign, a '포차 (Pocha)' sign painted with liquor bottles, a tea house and a laundromat featuring the 'Mercedes-Benz' logo&lt;br/&gt;&lt;em&gt;Mercedes-Benz YouTube screenshot&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Signs with large Korean text reading 'Pojangmacha (street food stall)' and 'Charcoal-grilled' against a background where red is particularly emphasized, a karaoke room decorated with a neon microphone sign, a 'Pocha (street pub)' sign painted with liquor bottles, a tea house and a laundromat featuring the 'Mercedes-Benz' logo&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;포장마차에서 떡볶이를 먹었어요.&lt;br/&gt;&lt;em&gt;I ate tteokbokki at a food stall.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;포장마차 음식이 맛있어요.&lt;br/&gt;&lt;em&gt;The food at the food stall is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1767485219678-89affb4329a1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJlZXQlMjBmb29kJTIwc3RhbGx8ZW58MHx8fHwxNzc2OTA3MDk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="포장마차 (street food stall)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(포장마차·노래방 간판 걸고 ‘벤츠 신차’ 공개…서울 이미지가 이거&lt;br/&gt;&lt;em&gt;(Hanging signs of street food stalls and karaoke rooms to unveil 'Mercedes-Benz new car'... This is Seoul's image)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(포장마차·노래방 간판 걸고 ‘벤츠 신차’ 공개…서울 이미지가 이거&lt;br/&gt;&lt;em&gt;(Hanging signs of street food stalls and karaoke rooms to unveil 'Mercedes-Benz new car'... This is Seoul's image)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;메르세데스-벤츠 유튜브 갈무리&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Signs with large Korean text reading '포장마차 (Pojangmacha)' and '숯불구이 (Charcoal-grilled)' against a background where red is particularly emphasized, a karaoke room decorated with a neon microphone sign, a '포차 (Pocha)' sign painted with liquor bottles, a tea house and a laundromat featuring the 'Mercedes-Benz' logo&lt;br/&gt;&lt;em&gt;Mercedes-Benz YouTube screenshot&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Signs with large Korean text reading 'Pojangmacha (street food stall)' and 'Charcoal-grilled' against a background where red is particularly emphasized, a karaoke room decorated with a neon microphone sign, a 'Pocha (street pub)' sign painted with liquor bottles, a tea house and a laundromat featuring the 'Mercedes-Benz' logo&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;포장마차에서 떡볶이를 먹었어요.&lt;br/&gt;&lt;em&gt;I ate tteokbokki at a food stall.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;포장마차 음식이 맛있어요.&lt;br/&gt;&lt;em&gt;The food at the food stall is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 23 Apr 2026 10:18:24 +0900</pubDate><guid isPermaLink="false">vocab-b8c9dcfc0026cf89a26cc083a6e383ce3bc586dc</guid><enclosure url="https://images.unsplash.com/photo-1767485219678-89affb4329a1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJlZXQlMjBmb29kJTIwc3RhbGx8ZW58MHx8fHwxNzc2OTA3MDk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="223801" /><ns2:content url="https://images.unsplash.com/photo-1767485219678-89affb4329a1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJlZXQlMjBmb29kJTIwc3RhbGx8ZW58MHx8fHwxNzc2OTA3MDk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1767485219678-89affb4329a1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJlZXQlMjBmb29kJTIwc3RhbGx8ZW58MHx8fHwxNzc2OTA3MDk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>포장마차</category></item><item><title>승리 – victory</title><link>urn:urn:vocab:승리</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1508558936510-0af1e3cccbab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aWN0b3J5fGVufDB8fHx8MTc3Njg5MTI3N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="승리 (victory)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (김 전 위원장은 장 대표가 6·3 지방선거 승리보다 당권 유지에 급급하다고 비판하기도 했다&lt;br/&gt;&lt;em&gt;Former Chairman Kim also criticized Representative Jang for being more eager to maintain party power than to secure victory in the June 3 local elections.&lt;/em&gt;&lt;/p&gt;
