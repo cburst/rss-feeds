@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 12:39:58 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 15:08:37 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>불만이 – dissatisfaction</title><link>urn:urn:vocab:불만이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>건보료 – health insurance premium</title><link>urn:urn:vocab:건보료</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1718128120413-783e25de9a3b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBpbnN1cmFuY2UlMjBwcmVtaXVtfGVufDB8fHx8MTc3NjkyNDUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="건보료 (health insurance premium)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Commission on Citizens' Rights Says to National Health Insurance Service: "Cannot Collect Now" After Failing to Collect Premiums for Over 3 Years (건보료 징수 3년 넘게 빼먹은 공단에 권익위 “이제와서 징수 못해”) &lt;&lt;br/&gt;&lt;em&gt;Commission on Citizens' Rights Says to National Health Insurance Service: "Cannot Collect Now" After Failing to Collect Premiums for Over 3 Years&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Commission on Citizens' Rights Says to National Health Insurance Service: "Cannot Collect Now" After Failing to Collect Premiums for Over 3 Years (건보료 징수 3년 넘게 빼먹은 공단에 권익위 “이제와서 징수 못해”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Commission on Citizens' Rights Says to National Health Insurance Service: "Cannot Collect Now" After Failing to Collect Premiums for Over 3 Years&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(건강보험료가 체납됐는데 국민건강보험공단이 3년 넘게 아무 조치를 하지 않았다면 해당 건보료를 걷을 수 없다고 국민권익위원회가 판단했다&lt;br/&gt;&lt;em&gt;The Citizens' Rights Commission determined that if health insurance premiums have been in arrears and the National Health Insurance Service has taken no action for over three years, those premiums cannot be collected.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;건보료를 매달 내요.&lt;br/&gt;&lt;em&gt;I pay health insurance premiums every month.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;건보료가 비싸요.&lt;br/&gt;&lt;em&gt;Health insurance premiums are expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1718128120413-783e25de9a3b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBpbnN1cmFuY2UlMjBwcmVtaXVtfGVufDB8fHx8MTc3NjkyNDUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="건보료 (health insurance premium)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Commission on Citizens' Rights Says to National Health Insurance Service: "Cannot Collect Now" After Failing to Collect Premiums for Over 3 Years (건보료 징수 3년 넘게 빼먹은 공단에 권익위 “이제와서 징수 못해”) &lt;&lt;br/&gt;&lt;em&gt;Commission on Citizens' Rights Says to National Health Insurance Service: "Cannot Collect Now" After Failing to Collect Premiums for Over 3 Years&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Commission on Citizens' Rights Says to National Health Insurance Service: "Cannot Collect Now" After Failing to Collect Premiums for Over 3 Years (건보료 징수 3년 넘게 빼먹은 공단에 권익위 “이제와서 징수 못해”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Commission on Citizens' Rights Says to National Health Insurance Service: "Cannot Collect Now" After Failing to Collect Premiums for Over 3 Years&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(건강보험료가 체납됐는데 국민건강보험공단이 3년 넘게 아무 조치를 하지 않았다면 해당 건보료를 걷을 수 없다고 국민권익위원회가 판단했다&lt;br/&gt;&lt;em&gt;The Citizens' Rights Commission determined that if health insurance premiums have been in arrears and the National Health Insurance Service has taken no action for over three years, those premiums cannot be collected.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;건보료를 매달 내요.&lt;br/&gt;&lt;em&gt;I pay health insurance premiums every month.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;건보료가 비싸요.&lt;br/&gt;&lt;em&gt;Health insurance premiums are expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 23 Apr 2026 15:08:37 +0900</pubDate><guid isPermaLink="false">vocab-c34ed75e7ffb16b4a0b789daf00e950dd814add1</guid><enclosure url="https://images.unsplash.com/photo-1718128120413-783e25de9a3b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBpbnN1cmFuY2UlMjBwcmVtaXVtfGVufDB8fHx8MTc3NjkyNDUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="110291" /><ns2:content url="https://images.unsplash.com/photo-1718128120413-783e25de9a3b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBpbnN1cmFuY2UlMjBwcmVtaXVtfGVufDB8fHx8MTc3NjkyNDUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1718128120413-783e25de9a3b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBpbnN1cmFuY2UlMjBwcmVtaXVtfGVufDB8fHx8MTc3NjkyNDUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>건보료</category></item><item><title>불만이 – dissatisfaction</title><link>urn:urn:vocab:불만이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1686854016475-e865fd987958?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXNzYXRpc2ZhY3Rpb258ZW58MHx8fHwxNzc2OTE1NTkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불만이 (dissatisfaction)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(청와대는 미국의 일방적 관세와 투자 압박, 이란 전쟁으로 인한 경제적 불안 심화에 대한 불만이 컸습니다&lt;br/&gt;&lt;em&gt;(The Blue House was highly dissatisfied with the unilateral tariffs and investment pressure from the United States, as well as the deepening economic instability caused by the Iran war)&lt;/em&gt;&lt;/p&gt;

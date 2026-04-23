@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 12:39:46 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 15:08:22 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>하모니 – harmony</title><link>urn:urn:vocab:하모니</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>가격재결정 – price readjustment</title><link>urn:urn:vocab:가격재결정</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmljZSUyMHJlYWRqdXN0bWVudHxlbnwwfHx8fDE3NzY5MjQ0ODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가격재결정 (price readjustment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(공정거래위원회가 한솔제지·무림 등 6개 제지사의 인쇄용지 담합행위에 대해 과징금 3383억원을 부과하고 법인 고발과 함께 가격재결정 명령을 했다&lt;br/&gt;&lt;em&gt;The Fair Trade Commission imposed a fine of 338.3 billion won on six paper companies, including Hansol Paper and Moorim, for colluding on printing paper prices, and ordered them to reset prices while also filing a complaint against the corporations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (주병기 공정거래위원장은 23일 민생물가 특별관리 관계장관 태스크포스(TF) 회의에서 “공정위는 22일 전원회의를 개최해 6개 제지사의 담합행위에 대한 과징금 총 3383억원, 법인 고발과 가격재결정 명령을 결정했다”고 말했다&lt;br/&gt;&lt;em&gt;"Fair Trade Commission Chairman Jo Byeong-gi said at a special ministerial task force meeting on livelihood prices on the 23rd, 'The FTC held a plenary meeting on the 22nd and decided to impose a total fine of 338.3 billion won on six paper companies for collusion, along with filing a complaint and ordering price resets.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 “이런 중대 법 위반 행위에 대해 공정위는 엄정한 과징금 부과와 함께 독자적 가격재결정 명령을 부과함으로써 담합으로 왜곡된 가격이 정상 수준으로 회복될 때까지 감시와 지도를 지속할 것”이라고 강조했다&lt;br/&gt;&lt;em&gt;He emphasized, 'For such serious violations of the law, the FTC will impose strict fines and independent price reset orders, and will continue to monitor and guide until prices distorted by collusion return to normal levels.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;가격재결정이 필요해요.&lt;br/&gt;&lt;em&gt;A price reassessment is needed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가격재결정을 했어요.&lt;br/&gt;&lt;em&gt;We have reassessed the price.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmljZSUyMHJlYWRqdXN0bWVudHxlbnwwfHx8fDE3NzY5MjQ0ODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가격재결정 (price readjustment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(공정거래위원회가 한솔제지·무림 등 6개 제지사의 인쇄용지 담합행위에 대해 과징금 3383억원을 부과하고 법인 고발과 함께 가격재결정 명령을 했다&lt;br/&gt;&lt;em&gt;The Fair Trade Commission imposed a fine of 338.3 billion won on six paper companies, including Hansol Paper and Moorim, for colluding on printing paper prices, and ordered them to reset prices while also filing a complaint against the corporations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (주병기 공정거래위원장은 23일 민생물가 특별관리 관계장관 태스크포스(TF) 회의에서 “공정위는 22일 전원회의를 개최해 6개 제지사의 담합행위에 대한 과징금 총 3383억원, 법인 고발과 가격재결정 명령을 결정했다”고 말했다&lt;br/&gt;&lt;em&gt;"Fair Trade Commission Chairman Jo Byeong-gi said at a special ministerial task force meeting on livelihood prices on the 23rd, 'The FTC held a plenary meeting on the 22nd and decided to impose a total fine of 338.3 billion won on six paper companies for collusion, along with filing a complaint and ordering price resets.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 “이런 중대 법 위반 행위에 대해 공정위는 엄정한 과징금 부과와 함께 독자적 가격재결정 명령을 부과함으로써 담합으로 왜곡된 가격이 정상 수준으로 회복될 때까지 감시와 지도를 지속할 것”이라고 강조했다&lt;br/&gt;&lt;em&gt;He emphasized, 'For such serious violations of the law, the FTC will impose strict fines and independent price reset orders, and will continue to monitor and guide until prices distorted by collusion return to normal levels.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;가격재결정이 필요해요.&lt;br/&gt;&lt;em&gt;A price reassessment is needed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가격재결정을 했어요.&lt;br/&gt;&lt;em&gt;We have reassessed the price.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 23 Apr 2026 15:08:22 +0900</pubDate><guid isPermaLink="false">vocab-3043a509916309e48746c192c2bcd95874ba8b1f</guid><enclosure url="https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmljZSUyMHJlYWRqdXN0bWVudHxlbnwwfHx8fDE3NzY5MjQ0ODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="40149" /><ns2:content url="https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmljZSUyMHJlYWRqdXN0bWVudHxlbnwwfHx8fDE3NzY5MjQ0ODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmljZSUyMHJlYWRqdXN0bWVudHxlbnwwfHx8fDE3NzY5MjQ0ODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>가격재결정</category></item><item><title>하모니 – harmony</title><link>urn:urn:vocab:하모니</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1532009877282-3340270e0529?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoYXJtb255fGVufDB8fHx8MTc3NjkxNTU4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="하모니 (harmony)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Kyung Hee University Hosts Parent Campus Invitation Event ‘2026 Spring Harmony’ (경희대, 학부모 캠퍼스 초청 행사 ‘2026 스프링 하모니’ 개최) &lt;&lt;br/&gt;&lt;em&gt;Kyung Hee University Hosts Parent Campus Invitation Event ‘2026 Spring Harmony’&lt;/em&gt;&lt;/p&gt;
