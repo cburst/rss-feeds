@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 15:08:22 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 17:23:16 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>가격재결정 – price readjustment</title><link>urn:urn:vocab:가격재결정</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>모터쇼 – motor show</title><link>urn:urn:vocab:모터쇼</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1725745095955-20f97f6a7423?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb3RvciUyMHNob3d8ZW58MHx8fHwxNzc2OTMyNTg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="모터쇼 (motor show)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;토마스 셰퍼 폭스바겐 승용차 부문 최고경영자(CEO·오른쪽)가 베이징 모터쇼 개막을 앞둔 21일(현지시각) 중국 베이징에서 열린 행사에서 새로운 전기 SUV 모델인 ‘제타(JETTA) X’를 선보이고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Thomas Schäfer, CEO of Volkswagen's passenger car division (right), presents the new electric SUV model 'JETTA X' at an event in Beijing, China, on the 21st (local time), ahead of the opening of the Beijing Motor Show.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(세계 최대 규모 자동차 전시회인 ‘오토 차이나 2026’(베이징 모터쇼)이 ‘지능의 미래’를 주제로 24일 개막한다&lt;br/&gt;&lt;em&gt;(The world's largest auto exhibition, 'Auto China 2026' (Beijing Motor Show), opens on the 24th with the theme 'Future of Intelligence'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(중국 모터쇼는 해마다 베이징과 상하이에서 번갈아 열린다&lt;br/&gt;&lt;em&gt;(The China Motor Show is held alternately in Beijing and Shanghai each year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;모터쇼에 갔어요.&lt;br/&gt;&lt;em&gt;I went to the motor show.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;모터쇼가 재미있어요.&lt;br/&gt;&lt;em&gt;The motor show is interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1725745095955-20f97f6a7423?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb3RvciUyMHNob3d8ZW58MHx8fHwxNzc2OTMyNTg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="모터쇼 (motor show)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;토마스 셰퍼 폭스바겐 승용차 부문 최고경영자(CEO·오른쪽)가 베이징 모터쇼 개막을 앞둔 21일(현지시각) 중국 베이징에서 열린 행사에서 새로운 전기 SUV 모델인 ‘제타(JETTA) X’를 선보이고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Thomas Schäfer, CEO of Volkswagen's passenger car division (right), presents the new electric SUV model 'JETTA X' at an event in Beijing, China, on the 21st (local time), ahead of the opening of the Beijing Motor Show.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(세계 최대 규모 자동차 전시회인 ‘오토 차이나 2026’(베이징 모터쇼)이 ‘지능의 미래’를 주제로 24일 개막한다&lt;br/&gt;&lt;em&gt;(The world's largest auto exhibition, 'Auto China 2026' (Beijing Motor Show), opens on the 24th with the theme 'Future of Intelligence'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(중국 모터쇼는 해마다 베이징과 상하이에서 번갈아 열린다&lt;br/&gt;&lt;em&gt;(The China Motor Show is held alternately in Beijing and Shanghai each year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;모터쇼에 갔어요.&lt;br/&gt;&lt;em&gt;I went to the motor show.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;모터쇼가 재미있어요.&lt;br/&gt;&lt;em&gt;The motor show is interesting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 23 Apr 2026 17:23:16 +0900</pubDate><guid isPermaLink="false">vocab-dff192f59517690c9f1b956fd58453220666d7a9</guid><enclosure url="https://images.unsplash.com/photo-1725745095955-20f97f6a7423?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb3RvciUyMHNob3d8ZW58MHx8fHwxNzc2OTMyNTg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="207655" /><ns2:content url="https://images.unsplash.com/photo-1725745095955-20f97f6a7423?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb3RvciUyMHNob3d8ZW58MHx8fHwxNzc2OTMyNTg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1725745095955-20f97f6a7423?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb3RvciUyMHNob3d8ZW58MHx8fHwxNzc2OTMyNTg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>모터쇼</category></item><item><title>가격재결정 – price readjustment</title><link>urn:urn:vocab:가격재결정</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmljZSUyMHJlYWRqdXN0bWVudHxlbnwwfHx8fDE3NzY5MjQ0ODh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가격재결정 (price readjustment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(공정거래위원회가 한솔제지·무림 등 6개 제지사의 인쇄용지 담합행위에 대해 과징금 3383억원을 부과하고 법인 고발과 함께 가격재결정 명령을 했다&lt;br/&gt;&lt;em&gt;The Fair Trade Commission imposed a fine of 338.3 billion won on six paper companies, including Hansol Paper and Moorim, for colluding on printing paper prices, and ordered them to reset prices while also filing a complaint against the corporations.&lt;/em&gt;&lt;/p&gt;
