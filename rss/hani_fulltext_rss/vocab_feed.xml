@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 17:23:16 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 19:28:22 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>모터쇼 – motor show</title><link>urn:urn:vocab:모터쇼</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>실적을 – performance</title><link>urn:urn:vocab:실적을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1489976908522-aabacf277f49?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJmb3JtYW5jZXxlbnwwfHx8fDE3NzY5NDAwOTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실적을 (performance)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(케이비(KB)·신한금융지주가 1분기 합계 3조5000억원 이상의 당기순이익을 내며 역대 분기 실적을 갈아치웠다&lt;br/&gt;&lt;em&gt;KB Financial Group and Shinhan Financial Group posted a combined net profit of over 3.5 trillion won in the first quarter, breaking their quarterly record.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(에스케이(SK)하이닉스와 삼성전자 등이 잇따라 천문학적 실적을 발표하는 등 반도체 호조 영향으로 법인세 등 올해 세수도 당초 예상보다 크게 늘어날 것이라는 전망이 나온다&lt;br/&gt;&lt;em&gt;With SK Hynix and Samsung Electronics successively announcing astronomical earnings, it is expected that this year's tax revenue, including corporate tax, will significantly exceed initial projections due to the semiconductor boom.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(통상 법인세는 전년도 실적을 바탕으로 이듬해 3월에 납부하지만, 대기업은 상반기 실적을 기반으로 8월에 중간예납을 하도록 돼 있다&lt;br/&gt;&lt;em&gt;Although corporate tax is typically paid in March of the following year based on the previous year's performance, large corporations are required to make interim payments in August based on their first-half performance.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;실적을 확인했어요.&lt;br/&gt;&lt;em&gt;I checked the performance.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;실적을 높여야 해요.&lt;br/&gt;&lt;em&gt;We need to improve the performance.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1489976908522-aabacf277f49?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJmb3JtYW5jZXxlbnwwfHx8fDE3NzY5NDAwOTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실적을 (performance)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(케이비(KB)·신한금융지주가 1분기 합계 3조5000억원 이상의 당기순이익을 내며 역대 분기 실적을 갈아치웠다&lt;br/&gt;&lt;em&gt;KB Financial Group and Shinhan Financial Group posted a combined net profit of over 3.5 trillion won in the first quarter, breaking their quarterly record.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(에스케이(SK)하이닉스와 삼성전자 등이 잇따라 천문학적 실적을 발표하는 등 반도체 호조 영향으로 법인세 등 올해 세수도 당초 예상보다 크게 늘어날 것이라는 전망이 나온다&lt;br/&gt;&lt;em&gt;With SK Hynix and Samsung Electronics successively announcing astronomical earnings, it is expected that this year's tax revenue, including corporate tax, will significantly exceed initial projections due to the semiconductor boom.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(통상 법인세는 전년도 실적을 바탕으로 이듬해 3월에 납부하지만, 대기업은 상반기 실적을 기반으로 8월에 중간예납을 하도록 돼 있다&lt;br/&gt;&lt;em&gt;Although corporate tax is typically paid in March of the following year based on the previous year's performance, large corporations are required to make interim payments in August based on their first-half performance.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;실적을 확인했어요.&lt;br/&gt;&lt;em&gt;I checked the performance.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;실적을 높여야 해요.&lt;br/&gt;&lt;em&gt;We need to improve the performance.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 23 Apr 2026 19:28:21 +0900</pubDate><guid isPermaLink="false">vocab-67cd3eec65cdfa4cf6a8e02edd3611e975f4941a</guid><enclosure url="https://images.unsplash.com/photo-1489976908522-aabacf277f49?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJmb3JtYW5jZXxlbnwwfHx8fDE3NzY5NDAwOTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="127317" /><ns2:content url="https://images.unsplash.com/photo-1489976908522-aabacf277f49?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJmb3JtYW5jZXxlbnwwfHx8fDE3NzY5NDAwOTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1489976908522-aabacf277f49?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJmb3JtYW5jZXxlbnwwfHx8fDE3NzY5NDAwOTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>실적을</category></item><item><title>모터쇼 – motor show</title><link>urn:urn:vocab:모터쇼</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1725745095955-20f97f6a7423?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb3RvciUyMHNob3d8ZW58MHx8fHwxNzc2OTMyNTg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="모터쇼 (motor show)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;토마스 셰퍼 폭스바겐 승용차 부문 최고경영자(CEO·오른쪽)가 베이징 모터쇼 개막을 앞둔 21일(현지시각) 중국 베이징에서 열린 행사에서 새로운 전기 SUV 모델인 ‘제타(JETTA) X’를 선보이고 있다&lt;br/&gt;&lt;em&gt;&lt;figcaption&gt;Thomas Schäfer, CEO of Volkswagen's passenger car division (right), presents the new electric SUV model 'JETTA X' at an event in Beijing, China, on the 21st (local time), ahead of the opening of the Beijing Motor Show.&lt;/em&gt;&lt;/p&gt;
