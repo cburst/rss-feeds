@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 19:28:22 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 21:34:09 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>실적을 – performance</title><link>urn:urn:vocab:실적을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기존의 – existing</title><link>urn:urn:vocab:기존의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1581203635065-0499564ec7c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGlzdGluZ3xlbnwwfHx8fDE3NzY5NDc2NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기존의 (existing)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;허승철 재경부 국고정책관은 “기존의 재고는 담배사업법상 담배가 아니어서 제세부담금이 없다&lt;br/&gt;&lt;em&gt;Heo Seung-chul, the Treasury Policy Officer at the Ministry of Finance and Economy, said, 'Existing inventory is not considered tobacco under the Tobacco Business Act, so there is no tax burden.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;매일 밤 약 80GB의 데이터가 슈퍼컴퓨터로 전송돼 은하의 위치와 속도, 화학적 성분을 분석하며, 기존의 모든 우주 관측 데이터를 합친 것보다 6배 많은 정보를 확보했다&lt;br/&gt;&lt;em&gt;Every night, about 80GB of data is transmitted to a supercomputer to analyze the positions, velocities, and chemical compositions of galaxies, securing six times more information than all existing astronomical observation data combined.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이는 향후 우주의 운명과 기본 물리학에 대한 기존의 이해를 뒤흔드는 중요한 발견이 될 것으로 보고 있다&lt;br/&gt;&lt;em&gt;This is seen as an important discovery that will shake up existing understanding of the future of the universe and fundamental physics.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기존의 계획을 바꿨어요.&lt;br/&gt;&lt;em&gt;I changed the existing plan.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기존의 규칙을 따르세요.&lt;br/&gt;&lt;em&gt;Follow the existing rules.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1581203635065-0499564ec7c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGlzdGluZ3xlbnwwfHx8fDE3NzY5NDc2NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기존의 (existing)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;허승철 재경부 국고정책관은 “기존의 재고는 담배사업법상 담배가 아니어서 제세부담금이 없다&lt;br/&gt;&lt;em&gt;Heo Seung-chul, the Treasury Policy Officer at the Ministry of Finance and Economy, said, 'Existing inventory is not considered tobacco under the Tobacco Business Act, so there is no tax burden.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;매일 밤 약 80GB의 데이터가 슈퍼컴퓨터로 전송돼 은하의 위치와 속도, 화학적 성분을 분석하며, 기존의 모든 우주 관측 데이터를 합친 것보다 6배 많은 정보를 확보했다&lt;br/&gt;&lt;em&gt;Every night, about 80GB of data is transmitted to a supercomputer to analyze the positions, velocities, and chemical compositions of galaxies, securing six times more information than all existing astronomical observation data combined.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이는 향후 우주의 운명과 기본 물리학에 대한 기존의 이해를 뒤흔드는 중요한 발견이 될 것으로 보고 있다&lt;br/&gt;&lt;em&gt;This is seen as an important discovery that will shake up existing understanding of the future of the universe and fundamental physics.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기존의 계획을 바꿨어요.&lt;br/&gt;&lt;em&gt;I changed the existing plan.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기존의 규칙을 따르세요.&lt;br/&gt;&lt;em&gt;Follow the existing rules.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 23 Apr 2026 21:34:08 +0900</pubDate><guid isPermaLink="false">vocab-b9235bcaaba44bd8129ea259f52afbd9c57ea212</guid><enclosure url="https://images.unsplash.com/photo-1581203635065-0499564ec7c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGlzdGluZ3xlbnwwfHx8fDE3NzY5NDc2NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="428035" /><ns2:content url="https://images.unsplash.com/photo-1581203635065-0499564ec7c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGlzdGluZ3xlbnwwfHx8fDE3NzY5NDc2NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1581203635065-0499564ec7c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGlzdGluZ3xlbnwwfHx8fDE3NzY5NDc2NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기존의</category></item><item><title>실적을 – performance</title><link>urn:urn:vocab:실적을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1489976908522-aabacf277f49?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJmb3JtYW5jZXxlbnwwfHx8fDE3NzY5NDAwOTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실적을 (performance)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(케이비(KB)·신한금융지주가 1분기 합계 3조5000억원 이상의 당기순이익을 내며 역대 분기 실적을 갈아치웠다&lt;br/&gt;&lt;em&gt;KB Financial Group and Shinhan Financial Group posted a combined net profit of over 3.5 trillion won in the first quarter, breaking their quarterly record.&lt;/em&gt;&lt;/p&gt;
