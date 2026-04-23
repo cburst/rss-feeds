@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 23:38:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 01:47:02 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>공개한 – disclosed</title><link>urn:urn:vocab:공개한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>전환을 – conversion</title><link>urn:urn:vocab:전환을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb252ZXJzaW9ufGVufDB8fHx8MTc3Njk2MjgxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전환을 (conversion)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;원용걸 총장은 “공립대학의 정체성을 지키는 한편, 도시과학을 기반으로 인공지능과 융합한 교육·연구 체계로의 전환을 이끄는 데 주력하겠다”고 말했다&lt;br/&gt;&lt;em&gt;President Won Yong-geol said, "While maintaining the identity of a public university, I will focus on leading the transition to an education and research system that converges with artificial intelligence based on urban science."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(공립대학의 정체성을 지키는 한편, 도시과학을 기반으로 인공지능과 융합한 교육·연구 체계로의 전환을 이끌어 온 그는 서울총장포럼 회장으로서 서울 고등교육 전반의 협력과 연대에도 힘을 쏟아왔다&lt;br/&gt;&lt;em&gt;Having led the transition to an education and research system that converges with artificial intelligence based on urban science while maintaining the identity of a public university, he has also devoted efforts to cooperation and solidarity across higher education in Seoul as the chairman of the Seoul Presidents' Forum.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(장 대표는 또 “지방선거를 앞두고 선거대책위원회 체제 전환을 위해서 시·도당 별로 선대위를 구성하도록 조치했다&lt;br/&gt;&lt;em&gt;Representative Jang also said, "Ahead of the local elections, we have taken measures to form election committees by city and provincial parties in order to transition to an election committee system."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;에너지 전환을 시작합니다.&lt;br/&gt;&lt;em&gt;Start the energy transition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전환을 위해 계획을 세워요.&lt;br/&gt;&lt;em&gt;Make a plan for the transition.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb252ZXJzaW9ufGVufDB8fHx8MTc3Njk2MjgxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전환을 (conversion)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;원용걸 총장은 “공립대학의 정체성을 지키는 한편, 도시과학을 기반으로 인공지능과 융합한 교육·연구 체계로의 전환을 이끄는 데 주력하겠다”고 말했다&lt;br/&gt;&lt;em&gt;President Won Yong-geol said, "While maintaining the identity of a public university, I will focus on leading the transition to an education and research system that converges with artificial intelligence based on urban science."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(공립대학의 정체성을 지키는 한편, 도시과학을 기반으로 인공지능과 융합한 교육·연구 체계로의 전환을 이끌어 온 그는 서울총장포럼 회장으로서 서울 고등교육 전반의 협력과 연대에도 힘을 쏟아왔다&lt;br/&gt;&lt;em&gt;Having led the transition to an education and research system that converges with artificial intelligence based on urban science while maintaining the identity of a public university, he has also devoted efforts to cooperation and solidarity across higher education in Seoul as the chairman of the Seoul Presidents' Forum.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(장 대표는 또 “지방선거를 앞두고 선거대책위원회 체제 전환을 위해서 시·도당 별로 선대위를 구성하도록 조치했다&lt;br/&gt;&lt;em&gt;Representative Jang also said, "Ahead of the local elections, we have taken measures to form election committees by city and provincial parties in order to transition to an election committee system."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;에너지 전환을 시작합니다.&lt;br/&gt;&lt;em&gt;Start the energy transition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전환을 위해 계획을 세워요.&lt;br/&gt;&lt;em&gt;Make a plan for the transition.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 24 Apr 2026 01:47:02 +0900</pubDate><guid isPermaLink="false">vocab-f320c617d50f6bafc1c429f63ad0f83231e5ddfa</guid><enclosure url="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb252ZXJzaW9ufGVufDB8fHx8MTc3Njk2MjgxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="107537" /><ns2:content url="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb252ZXJzaW9ufGVufDB8fHx8MTc3Njk2MjgxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb252ZXJzaW9ufGVufDB8fHx8MTc3Njk2MjgxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>전환을</category></item><item><title>공개한 – disclosed</title><link>urn:urn:vocab:공개한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1525847664954-bcd1e64c6ad8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXNjbG9zZWR8ZW58MHx8fHwxNzc2OTU1MDgyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공개한 (disclosed)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(앞서 이 연구소는 지난 13일(현지시각) 공개한 연례 보고서에서 지난해 출시된 주목할 만한 인공지능 모델 가운데 한국이 5개를 보유해, 미국(50개), 중국(30개)에 이어 &lt;a class="linkstyle-u" href="/arti/economy/it/1254101&lt;br/&gt;&lt;em&gt;(Earlier, in its annual report released on the 13th (local time), this research institute stated that among the notable AI models launched last year, South Korea had 5, following the United States (50) and China (30). &lt;a class="linkstyle-u" href="/arti/economy/it/1254101&lt;/em&gt;&lt;/p&gt;
