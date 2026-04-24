@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 14:19:21 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 16:24:00 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>어울리는 – suitable</title><link>urn:urn:vocab:어울리는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사업이 – business</title><link>urn:urn:vocab:사업이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1556745757-8d76bdb6984b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxidXNpbmVzc3xlbnwwfHx8fDE3NzcwMTU0MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사업이 (business)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(에스케이(SK)이노베이션 등 국내 기업들이 베트남에 인공지능(AI) 데이터센터 인프라를 조성하고, 포스코퓨처엠이 현지 배터리 소재 공장을 짓는 등 한국과 베트남의 경제 협력 사업이 본격 추진된다&lt;br/&gt;&lt;em&gt;Economic cooperation projects between South Korea and Vietnam are set to proceed in earnest, including SK Innovation and other domestic companies building AI data center infrastructure in Vietnam, and POSCO Future M constructing a local battery material plant.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“반도체 사업이 역대급 실적을 내고 있지만, 고용 불안을 겪는 하청업체 직원 처지에서 성과급 잔치 뉴스는 상대적 박탈감과 허탈함만을 안길 뿐”이라고 그는 말했다&lt;br/&gt;&lt;em&gt;He said, 'Although the semiconductor business is posting record-breaking performance, from the perspective of subcontractor employees suffering from job insecurity, news of bonus feasts only brings a sense of relative deprivation and emptiness.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;삼성전자 내부에선 장기간 대규모 적자를 내온 파운드리 사업이 미국 빅테크 기업의 수주로 흑자전환에 성공할 것이란 기대가 나온다&lt;br/&gt;&lt;em&gt;Inside Samsung Electronics, there are expectations that the foundry business, which has been in the red for a long time, will turn profitable thanks to orders from major US tech companies.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 사업이 성공했어요.&lt;br/&gt;&lt;em&gt;His business succeeded.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사업이 어렵습니다.&lt;br/&gt;&lt;em&gt;The business is difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1556745757-8d76bdb6984b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxidXNpbmVzc3xlbnwwfHx8fDE3NzcwMTU0MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사업이 (business)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(에스케이(SK)이노베이션 등 국내 기업들이 베트남에 인공지능(AI) 데이터센터 인프라를 조성하고, 포스코퓨처엠이 현지 배터리 소재 공장을 짓는 등 한국과 베트남의 경제 협력 사업이 본격 추진된다&lt;br/&gt;&lt;em&gt;Economic cooperation projects between South Korea and Vietnam are set to proceed in earnest, including SK Innovation and other domestic companies building AI data center infrastructure in Vietnam, and POSCO Future M constructing a local battery material plant.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“반도체 사업이 역대급 실적을 내고 있지만, 고용 불안을 겪는 하청업체 직원 처지에서 성과급 잔치 뉴스는 상대적 박탈감과 허탈함만을 안길 뿐”이라고 그는 말했다&lt;br/&gt;&lt;em&gt;He said, 'Although the semiconductor business is posting record-breaking performance, from the perspective of subcontractor employees suffering from job insecurity, news of bonus feasts only brings a sense of relative deprivation and emptiness.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;삼성전자 내부에선 장기간 대규모 적자를 내온 파운드리 사업이 미국 빅테크 기업의 수주로 흑자전환에 성공할 것이란 기대가 나온다&lt;br/&gt;&lt;em&gt;Inside Samsung Electronics, there are expectations that the foundry business, which has been in the red for a long time, will turn profitable thanks to orders from major US tech companies.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 사업이 성공했어요.&lt;br/&gt;&lt;em&gt;His business succeeded.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사업이 어렵습니다.&lt;br/&gt;&lt;em&gt;The business is difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 24 Apr 2026 16:24:00 +0900</pubDate><guid isPermaLink="false">vocab-d8f2394ef3a8a10e726a00c0fb83777777b8e0d1</guid><enclosure url="https://images.unsplash.com/photo-1556745757-8d76bdb6984b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxidXNpbmVzc3xlbnwwfHx8fDE3NzcwMTU0MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="86057" /><ns2:content url="https://images.unsplash.com/photo-1556745757-8d76bdb6984b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxidXNpbmVzc3xlbnwwfHx8fDE3NzcwMTU0MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1556745757-8d76bdb6984b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxidXNpbmVzc3xlbnwwfHx8fDE3NzcwMTU0MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사업이</category></item><item><title>어울리는 – suitable</title><link>urn:urn:vocab:어울리는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1596367897090-d4d25cbe3832?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdWl0YWJsZXxlbnwwfHx8fDE3NzcwMDc5NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어울리는 (suitable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;생성형 인공지능(AI) 제미나이에 이 기사에 어울리는 이미지를 생성해 달라는 지시어를 입력해 얻은 이미지&lt;br/&gt;&lt;em&gt;An image obtained by inputting a command to generate an image suitable for this article into the generative artificial intelligence (AI) Gemini&lt;/em&gt;&lt;/p&gt;
