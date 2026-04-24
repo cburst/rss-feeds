@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 02:50:51 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 04:56:54 +0900</lastBuildDate>
 
 
 
@@ -765,6 +765,28 @@
 
 
   <item><title>장소 – place</title><link>urn:urn:vocab:장소</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGFjZXxlbnwwfHx8fDE3NzcwNTMwNDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="장소 (place)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아이와 함께 동네 산책길을 하나 정해두고, 절기가 바뀔 때마다 같은 장소에서 사진을 찍거나 색깔과 냄새의 변화를 기록해보자&lt;br/&gt;&lt;em&gt;Let's pick a neighborhood walking path with the child and take photos or record changes in colors and smells at the same spot whenever the seasons change.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;영화 속에 등장한 역사의 장소를 방문하기 전에 아이와 함께 미션을 정해보자&lt;br/&gt;&lt;em&gt;Before visiting a historical place featured in a movie, let's set a mission with the child.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;조금 더 적극적으로는 아이가 직접 가이드가 되어 보호자에게 그 장소를 설명해주는 ‘일일 큐레이터’ 활동도 해볼 만하다&lt;br/&gt;&lt;em&gt;A bit more actively, the child can become a guide and explain the place to the guardian, an activity called 'daily curator' that is worth trying.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 장소는 아름답습니다.&lt;br/&gt;&lt;em&gt;This place is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 장소에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to that place.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGFjZXxlbnwwfHx8fDE3NzcwNTMwNDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="장소 (place)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아이와 함께 동네 산책길을 하나 정해두고, 절기가 바뀔 때마다 같은 장소에서 사진을 찍거나 색깔과 냄새의 변화를 기록해보자&lt;br/&gt;&lt;em&gt;Let's pick a neighborhood walking path with the child and take photos or record changes in colors and smells at the same spot whenever the seasons change.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;영화 속에 등장한 역사의 장소를 방문하기 전에 아이와 함께 미션을 정해보자&lt;br/&gt;&lt;em&gt;Before visiting a historical place featured in a movie, let's set a mission with the child.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;조금 더 적극적으로는 아이가 직접 가이드가 되어 보호자에게 그 장소를 설명해주는 ‘일일 큐레이터’ 활동도 해볼 만하다&lt;br/&gt;&lt;em&gt;A bit more actively, the child can become a guide and explain the place to the guardian, an activity called 'daily curator' that is worth trying.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 장소는 아름답습니다.&lt;br/&gt;&lt;em&gt;This place is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 장소에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to that place.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 25 Apr 2026 04:56:54 +0900</pubDate><guid isPermaLink="false">vocab-160b737cc8efb90d06c866662669345d6feb3dc9</guid><enclosure url="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGFjZXxlbnwwfHx8fDE3NzcwNTMwNDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="214023" /><ns2:content url="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGFjZXxlbnwwfHx8fDE3NzcwNTMwNDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGFjZXxlbnwwfHx8fDE3NzcwNTMwNDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>장소</category></item><item><title>장소 – place</title><link>urn:urn:vocab:장소</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGFjZXxlbnwwfHx8fDE3NzcwNTMwNDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="장소 (place)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;아이와 함께 동네 산책길을 하나 정해두고, 절기가 바뀔 때마다 같은 장소에서 사진을 찍거나 색깔과 냄새의 변화를 기록해보자&lt;br/&gt;&lt;em&gt;Let's pick a neighborhood walking path with the child and take photos or record changes in colors and smells at the same spot whenever the seasons change.&lt;/em&gt;&lt;/p&gt;
