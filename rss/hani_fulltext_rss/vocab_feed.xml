@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 22:38:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 00:42:13 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>신발을 – shoes</title><link>urn:urn:vocab:신발을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기억을 – memory</title><link>urn:urn:vocab:기억을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773332585788-9104ec6f38ef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtZW1vcnl8ZW58MHx8fHwxNzc3MDQ1MzI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기억을 (memory)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 결과 인공지능이 한 번에 읽고 기억을 유지하면서 처리할 수 있는 텍스트 길이가 100만 토큰(AI가 문장을 이해하는 최소 단위)까지 확대됐다&lt;br/&gt;&lt;em&gt;As a result, the length of text that AI can read and process while maintaining memory has expanded to 1 million tokens (the minimum unit for AI to understand sentences).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(심리학에서는 기억을 떠올리는 것이 곧 기억을 다시 구성하는 과정이라고 본다&lt;br/&gt;&lt;em&gt;(In psychology, recalling a memory is seen as a process of reconstructing it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기억을 자주 인출할수록 원본과는 달라질 위험이 커진다는 연구들도 여럿 보고되어 있다&lt;br/&gt;&lt;em&gt;Several studies have reported that the more frequently memories are retrieved, the greater the risk of them deviating from the original.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 기억을 잃었어요.&lt;br/&gt;&lt;em&gt;I lost my memory.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 기억을 잊지 마세요.&lt;br/&gt;&lt;em&gt;Don't forget that memory.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773332585788-9104ec6f38ef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtZW1vcnl8ZW58MHx8fHwxNzc3MDQ1MzI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기억을 (memory)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 결과 인공지능이 한 번에 읽고 기억을 유지하면서 처리할 수 있는 텍스트 길이가 100만 토큰(AI가 문장을 이해하는 최소 단위)까지 확대됐다&lt;br/&gt;&lt;em&gt;As a result, the length of text that AI can read and process while maintaining memory has expanded to 1 million tokens (the minimum unit for AI to understand sentences).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(심리학에서는 기억을 떠올리는 것이 곧 기억을 다시 구성하는 과정이라고 본다&lt;br/&gt;&lt;em&gt;(In psychology, recalling a memory is seen as a process of reconstructing it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기억을 자주 인출할수록 원본과는 달라질 위험이 커진다는 연구들도 여럿 보고되어 있다&lt;br/&gt;&lt;em&gt;Several studies have reported that the more frequently memories are retrieved, the greater the risk of them deviating from the original.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 기억을 잃었어요.&lt;br/&gt;&lt;em&gt;I lost my memory.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 기억을 잊지 마세요.&lt;br/&gt;&lt;em&gt;Don't forget that memory.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 25 Apr 2026 00:42:13 +0900</pubDate><guid isPermaLink="false">vocab-ae45bb31a803fd15a9073ba0a6f3c55b50b42bf1</guid><enclosure url="https://images.unsplash.com/photo-1773332585788-9104ec6f38ef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtZW1vcnl8ZW58MHx8fHwxNzc3MDQ1MzI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="138967" /><ns2:content url="https://images.unsplash.com/photo-1773332585788-9104ec6f38ef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtZW1vcnl8ZW58MHx8fHwxNzc3MDQ1MzI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1773332585788-9104ec6f38ef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtZW1vcnl8ZW58MHx8fHwxNzc3MDQ1MzI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기억을</category></item><item><title>신발을 – shoes</title><link>urn:urn:vocab:신발을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaG9lc3xlbnwwfHx8fDE3NzcwMzc4NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="신발을 (shoes)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;3층 무신사 스탠다드 매장을 제외하고는 각 층의 콘셉트에 맞춰 신발을 배치했다&lt;br/&gt;&lt;em&gt;Except for the Musinsa Standard store on the third floor, shoes were arranged according to the concept of each floor.&lt;/em&gt;&lt;/p&gt;
