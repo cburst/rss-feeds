@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 18:28:52 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 20:33:15 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>장면을 – scene</title><link>urn:urn:vocab:장면을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>힘입어 – thanks to, with the help of</title><link>urn:urn:vocab:힘입어</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1763462711665-d2392ba24231?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGFua3MlMjB0byUyQyUyMHdpdGglMjB0aGUlMjBoZWxwJTIwb2Z8ZW58MHx8fHwxNzc3MDMwMzkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="힘입어 (thanks to, with the help of)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;반도체 호황에 힘입어 올해 1분기 한국의 경제 성장률도 5년6개월 만에 가장 높은 1&lt;br/&gt;&lt;em&gt;Driven by the semiconductor boom, South Korea's economic growth rate in the first quarter of this year reached its highest in five and a half years, at 1.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1분기 당기순이익은 환율 효과, 투자 이익 증가 등에 힘입어 전년보다 397&lt;br/&gt;&lt;em&gt;Net profit in the first quarter increased by 397% compared to the previous year, driven by exchange rate effects and increased investment gains.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인공지능(AI)발 반도체 슈퍼사이클(초호황)에 힘입어 매출액과 영업이익, 순이익 모두 1년 전에 견줘 세자릿수 증가율을 보인 것이다&lt;br/&gt;&lt;em&gt;Driven by the AI-led semiconductor super cycle, sales, operating profit, and net profit all showed triple-digit growth compared to a year earlier.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;친구의 도움에 힘입어 성공했어요.&lt;br/&gt;&lt;em&gt;I succeeded thanks to my friend's help.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선생님의 격려에 힘입어 공부했어요.&lt;br/&gt;&lt;em&gt;I studied thanks to my teacher's encouragement.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1763462711665-d2392ba24231?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGFua3MlMjB0byUyQyUyMHdpdGglMjB0aGUlMjBoZWxwJTIwb2Z8ZW58MHx8fHwxNzc3MDMwMzkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="힘입어 (thanks to, with the help of)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;반도체 호황에 힘입어 올해 1분기 한국의 경제 성장률도 5년6개월 만에 가장 높은 1&lt;br/&gt;&lt;em&gt;Driven by the semiconductor boom, South Korea's economic growth rate in the first quarter of this year reached its highest in five and a half years, at 1.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1분기 당기순이익은 환율 효과, 투자 이익 증가 등에 힘입어 전년보다 397&lt;br/&gt;&lt;em&gt;Net profit in the first quarter increased by 397% compared to the previous year, driven by exchange rate effects and increased investment gains.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인공지능(AI)발 반도체 슈퍼사이클(초호황)에 힘입어 매출액과 영업이익, 순이익 모두 1년 전에 견줘 세자릿수 증가율을 보인 것이다&lt;br/&gt;&lt;em&gt;Driven by the AI-led semiconductor super cycle, sales, operating profit, and net profit all showed triple-digit growth compared to a year earlier.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;친구의 도움에 힘입어 성공했어요.&lt;br/&gt;&lt;em&gt;I succeeded thanks to my friend's help.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선생님의 격려에 힘입어 공부했어요.&lt;br/&gt;&lt;em&gt;I studied thanks to my teacher's encouragement.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 24 Apr 2026 20:33:15 +0900</pubDate><guid isPermaLink="false">vocab-ca579a54a7896252bfff43d6af6e11be17b8181a</guid><enclosure url="https://images.unsplash.com/photo-1763462711665-d2392ba24231?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGFua3MlMjB0byUyQyUyMHdpdGglMjB0aGUlMjBoZWxwJTIwb2Z8ZW58MHx8fHwxNzc3MDMwMzkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="185362" /><ns2:content url="https://images.unsplash.com/photo-1763462711665-d2392ba24231?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGFua3MlMjB0byUyQyUyMHdpdGglMjB0aGUlMjBoZWxwJTIwb2Z8ZW58MHx8fHwxNzc3MDMwMzkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1763462711665-d2392ba24231?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGFua3MlMjB0byUyQyUyMHdpdGglMjB0aGUlMjBoZWxwJTIwb2Z8ZW58MHx8fHwxNzc3MDMwMzkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>힘입어</category></item><item><title>장면을 – scene</title><link>urn:urn:vocab:장면을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2VuZXxlbnwwfHx8fDE3NzcwMjI5Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="장면을 (scene)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;나는 더 많은 이가 벽에 문을 그려내는 장면을 꿈꾼다&lt;br/&gt;&lt;em&gt;I dream of a scene where more people draw doors on the wall.&lt;/em&gt;&lt;/p&gt;
