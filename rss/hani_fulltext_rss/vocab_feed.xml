@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 10:09:40 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 14:19:21 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>월에는 – in the month</title><link>urn:urn:vocab:월에는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>어울리는 – suitable</title><link>urn:urn:vocab:어울리는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1596367897090-d4d25cbe3832?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdWl0YWJsZXxlbnwwfHx8fDE3NzcwMDc5NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어울리는 (suitable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;생성형 인공지능(AI) 제미나이에 이 기사에 어울리는 이미지를 생성해 달라는 지시어를 입력해 얻은 이미지&lt;br/&gt;&lt;em&gt;An image obtained by inputting a command to generate an image suitable for this article into the generative artificial intelligence (AI) Gemini&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4층에는 러닝화 등 스포츠화를, 1~2층에는 여성복과 어울리는 신발을, 지하 1층에는 남성용 신발을 중심으로 구성했다&lt;br/&gt;&lt;em&gt;On the 4th floor, sports shoes such as running shoes are arranged; on the 1st and 2nd floors, shoes that go well with women's clothing; and on the basement 1st floor, men's shoes are mainly displayed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;아이가 가상의 세계에서 즐겁게 어울리는 상대는 사람일 수 있으나 AI일 가능성이 점점 커지고 있으며, 그들은 아이에게 도움이 될 수도 있고 위험이 될 수도 있으므로 부모가 신경 써야하는 시대가 됐다&lt;br/&gt;&lt;em&gt;The child's enjoyable companion in the virtual world may be a human, but it is increasingly likely to be an AI, and it can be either helpful or dangerous to the child, so it is an era where parents need to pay attention.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 옷은 나에게 어울리는 것 같아.&lt;br/&gt;&lt;em&gt;This outfit seems to suit me.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 색깔은 너에게 어울리는 색이야.&lt;br/&gt;&lt;em&gt;That color is a color that suits you.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1596367897090-d4d25cbe3832?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdWl0YWJsZXxlbnwwfHx8fDE3NzcwMDc5NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어울리는 (suitable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;생성형 인공지능(AI) 제미나이에 이 기사에 어울리는 이미지를 생성해 달라는 지시어를 입력해 얻은 이미지&lt;br/&gt;&lt;em&gt;An image obtained by inputting a command to generate an image suitable for this article into the generative artificial intelligence (AI) Gemini&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4층에는 러닝화 등 스포츠화를, 1~2층에는 여성복과 어울리는 신발을, 지하 1층에는 남성용 신발을 중심으로 구성했다&lt;br/&gt;&lt;em&gt;On the 4th floor, sports shoes such as running shoes are arranged; on the 1st and 2nd floors, shoes that go well with women's clothing; and on the basement 1st floor, men's shoes are mainly displayed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;아이가 가상의 세계에서 즐겁게 어울리는 상대는 사람일 수 있으나 AI일 가능성이 점점 커지고 있으며, 그들은 아이에게 도움이 될 수도 있고 위험이 될 수도 있으므로 부모가 신경 써야하는 시대가 됐다&lt;br/&gt;&lt;em&gt;The child's enjoyable companion in the virtual world may be a human, but it is increasingly likely to be an AI, and it can be either helpful or dangerous to the child, so it is an era where parents need to pay attention.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 옷은 나에게 어울리는 것 같아.&lt;br/&gt;&lt;em&gt;This outfit seems to suit me.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 색깔은 너에게 어울리는 색이야.&lt;br/&gt;&lt;em&gt;That color is a color that suits you.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 24 Apr 2026 14:19:21 +0900</pubDate><guid isPermaLink="false">vocab-48bf6c37826e9f2ce153730a7c98f0e687de67e1</guid><enclosure url="https://images.unsplash.com/photo-1596367897090-d4d25cbe3832?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdWl0YWJsZXxlbnwwfHx8fDE3NzcwMDc5NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="114978" /><ns2:content url="https://images.unsplash.com/photo-1596367897090-d4d25cbe3832?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdWl0YWJsZXxlbnwwfHx8fDE3NzcwMDc5NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1596367897090-d4d25cbe3832?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdWl0YWJsZXxlbnwwfHx8fDE3NzcwMDc5NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>어울리는</category></item><item><title>이상을 – ideal</title><link>urn:urn:vocab:이상을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1630419493571-5066ebfb5889?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZGVhbHxlbnwwfHx8fDE3NzcwMDA1MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이상을 (ideal)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;10만원짜리 메모리 칩을 팔면 7만원 이상을 마진으로 남겼다는 얘기다&lt;br/&gt;&lt;em&gt;It means that if you sell a 100,000 won memory chip, you leave a margin of over 70,000 won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  23일 한겨레 취재를 종합하면, 삼성전자는 올해 시설 투자와 연구개발(R&amp;amp;D)에 역대 최대 규모인 110조원 이상을 투입할 계획이다&lt;br/&gt;&lt;em&gt;According to a comprehensive report by The Hankyoreh on the 23rd, Samsung Electronics plans to invest a record 110 trillion won or more in facility investment and R&amp;D this year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국토부는 “올 1분기(1~3월) 한-중 여객실적은 약 439만명으로 코로나19 이전 수준 이상을 회복했다”며 “지방공항에도 다양한 국제노선 운수권이 배분되면서 지역민의 이동 편의 제고뿐만 아니라 외국인 관광객의 지방유입도 기대된다”고 말했다&lt;br/&gt;&lt;em&gt;The Ministry of Land, Infrastructure and Transport said, 'In the first quarter (January to March) of this year, the passenger traffic between Korea and China recovered to about 4.39 million, exceeding pre-COVID-19 levels,' adding, 'As various international route rights are allocated to local airports, it is expected not only to improve the convenience of local residents' travel but also to attract foreign tourists to the regions.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이상을 꿈꾸는 것은 중요해요.&lt;br/&gt;&lt;em&gt;Dreaming of ideals is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 이상을 위해 노력해요.&lt;br/&gt;&lt;em&gt;He strives for his ideals.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1630419493571-5066ebfb5889?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZGVhbHxlbnwwfHx8fDE3NzcwMDA1MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이상을 (ideal)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;10만원짜리 메모리 칩을 팔면 7만원 이상을 마진으로 남겼다는 얘기다&lt;br/&gt;&lt;em&gt;It means that if you sell a 100,000 won memory chip, you leave a margin of over 70,000 won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  23일 한겨레 취재를 종합하면, 삼성전자는 올해 시설 투자와 연구개발(R&amp;amp;D)에 역대 최대 규모인 110조원 이상을 투입할 계획이다&lt;br/&gt;&lt;em&gt;According to a comprehensive report by The Hankyoreh on the 23rd, Samsung Electronics plans to invest a record 110 trillion won or more in facility investment and R&amp;D this year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국토부는 “올 1분기(1~3월) 한-중 여객실적은 약 439만명으로 코로나19 이전 수준 이상을 회복했다”며 “지방공항에도 다양한 국제노선 운수권이 배분되면서 지역민의 이동 편의 제고뿐만 아니라 외국인 관광객의 지방유입도 기대된다”고 말했다&lt;br/&gt;&lt;em&gt;The Ministry of Land, Infrastructure and Transport said, 'In the first quarter (January to March) of this year, the passenger traffic between Korea and China recovered to about 4.39 million, exceeding pre-COVID-19 levels,' adding, 'As various international route rights are allocated to local airports, it is expected not only to improve the convenience of local residents' travel but also to attract foreign tourists to the regions.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이상을 꿈꾸는 것은 중요해요.&lt;br/&gt;&lt;em&gt;Dreaming of ideals is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 이상을 위해 노력해요.&lt;br/&gt;&lt;em&gt;He strives for his ideals.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 24 Apr 2026 12:15:24 +0900</pubDate><guid isPermaLink="false">vocab-be0cda64b134b7d21f05dd869735a700b942a152</guid><enclosure url="https://images.unsplash.com/photo-1630419493571-5066ebfb5889?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZGVhbHxlbnwwfHx8fDE3NzcwMDA1MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="29411" /><ns2:content url="https://images.unsplash.com/photo-1630419493571-5066ebfb5889?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZGVhbHxlbnwwfHx8fDE3NzcwMDA1MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1630419493571-5066ebfb5889?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZGVhbHxlbnwwfHx8fDE3NzcwMDA1MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>이상을</category></item><item><title>월에는 – in the month</title><link>urn:urn:vocab:월에는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1588006175084-89a8451561bf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMG1vbnRofGVufDB8fHx8MTc3Njk5Mjk3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="월에는 (in the month)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;오는 3월에는 컴퓨터과학부, 인공지능학과, 첨단융합학부를 통합한 인공지능융합대학이 출범한다&lt;br/&gt;&lt;em&gt;In March, the AI Convergence College, integrating the Department of Computer Science, Department of Artificial Intelligence, and Division of Advanced Convergence, will be launched.&lt;/em&gt;&lt;/p&gt;
