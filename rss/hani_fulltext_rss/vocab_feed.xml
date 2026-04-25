@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 19:39:53 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 21:42:22 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>최초로 – for the first time</title><link>urn:urn:vocab:최초로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>소비심리 – consumer sentiment</title><link>urn:urn:vocab:소비심리</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1759843541031-de4ca8594930?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdW1lciUyMHNlbnRpbWVudHxlbnwwfHx8fDE3NzcxMjA5Mzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소비심리 (consumer sentiment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Consumer Sentiment Turns 'Pessimistic' in a Year… Government Urgently Pushes Green Consumption and Tourism Measures (소비심리 1년 만에 ‘비관’…정부, 녹색소비·관광 대책 긴급 추진) &lt;&lt;br/&gt;&lt;em&gt;Consumer Sentiment Turns 'Pessimistic' in a Year… Government Urgently Pushes Green Consumption and Tourism Measures&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Consumer Sentiment Turns 'Pessimistic' in a Year… Government Urgently Pushes Green Consumption and Tourism Measures (소비심리 1년 만에 ‘비관’…정부, 녹색소비·관광 대책 긴급 추진)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Consumer Sentiment Turns 'Pessimistic' in a Year… Government Urgently Pushes Green Consumption and Tourism Measures&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (구윤철 부총리 겸 재정경제부 장관은 24일 정부서울청사에서 비상경제본부 회의 겸 국가창업시대 전략회의를 주재하고 “소비심리 위축 우려에 선제적으로 대응해 친환경 녹색소비·관광 붐업 방안을 마련해 다음주 중 발표하겠다”고 말했다&lt;br/&gt;&lt;em&gt;" (Deputy Prime Minister and Minister of Economy and Finance Koo Yun-cheol presided over an emergency economic meeting and national startup era strategy meeting at the Seoul Government Complex on the 24th and said, 'We will proactively respond to concerns about shrinking consumer sentiment and prepare measures to boost eco-friendly green consumption and tourism, to be announced next week.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;소비심리가 좋아졌습니다.&lt;br/&gt;&lt;em&gt;Consumer sentiment has improved.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소비심리가 나쁩니다.&lt;br/&gt;&lt;em&gt;Consumer sentiment is bad.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1759843541031-de4ca8594930?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdW1lciUyMHNlbnRpbWVudHxlbnwwfHx8fDE3NzcxMjA5Mzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소비심리 (consumer sentiment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Consumer Sentiment Turns 'Pessimistic' in a Year… Government Urgently Pushes Green Consumption and Tourism Measures (소비심리 1년 만에 ‘비관’…정부, 녹색소비·관광 대책 긴급 추진) &lt;&lt;br/&gt;&lt;em&gt;Consumer Sentiment Turns 'Pessimistic' in a Year… Government Urgently Pushes Green Consumption and Tourism Measures&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Consumer Sentiment Turns 'Pessimistic' in a Year… Government Urgently Pushes Green Consumption and Tourism Measures (소비심리 1년 만에 ‘비관’…정부, 녹색소비·관광 대책 긴급 추진)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Consumer Sentiment Turns 'Pessimistic' in a Year… Government Urgently Pushes Green Consumption and Tourism Measures&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (구윤철 부총리 겸 재정경제부 장관은 24일 정부서울청사에서 비상경제본부 회의 겸 국가창업시대 전략회의를 주재하고 “소비심리 위축 우려에 선제적으로 대응해 친환경 녹색소비·관광 붐업 방안을 마련해 다음주 중 발표하겠다”고 말했다&lt;br/&gt;&lt;em&gt;" (Deputy Prime Minister and Minister of Economy and Finance Koo Yun-cheol presided over an emergency economic meeting and national startup era strategy meeting at the Seoul Government Complex on the 24th and said, 'We will proactively respond to concerns about shrinking consumer sentiment and prepare measures to boost eco-friendly green consumption and tourism, to be announced next week.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;소비심리가 좋아졌습니다.&lt;br/&gt;&lt;em&gt;Consumer sentiment has improved.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소비심리가 나쁩니다.&lt;br/&gt;&lt;em&gt;Consumer sentiment is bad.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 25 Apr 2026 21:42:21 +0900</pubDate><guid isPermaLink="false">vocab-232b891bc838a49416bf9f91376805e7e55db1ee</guid><enclosure url="https://images.unsplash.com/photo-1759843541031-de4ca8594930?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdW1lciUyMHNlbnRpbWVudHxlbnwwfHx8fDE3NzcxMjA5Mzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="234733" /><ns2:content url="https://images.unsplash.com/photo-1759843541031-de4ca8594930?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdW1lciUyMHNlbnRpbWVudHxlbnwwfHx8fDE3NzcxMjA5Mzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1759843541031-de4ca8594930?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdW1lciUyMHNlbnRpbWVudHxlbnwwfHx8fDE3NzcxMjA5Mzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>소비심리</category></item><item><title>최초로 – for the first time</title><link>urn:urn:vocab:최초로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1488044688299-3f16d0807957?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3IlMjB0aGUlMjBmaXJzdCUyMHRpbWV8ZW58MHx8fHwxNzc3MTEzNTkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="최초로 (for the first time)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;1% 늘며 최초로 분기 매출액 50조원을 돌파했다&lt;br/&gt;&lt;em&gt;Increased by 1%, surpassing 50 trillion won in quarterly sales for the first time.&lt;/em&gt;&lt;/p&gt;
