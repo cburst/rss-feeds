@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 07:04:49 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 09:12:18 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>출연해 – appear (on TV, etc.)</title><link>urn:urn:vocab:출연해</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>전해졌다 – was reported</title><link>urn:urn:vocab:전해졌다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjByZXBvcnRlZHxlbnwwfHx8fDE3NzcwNzU5MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전해졌다 (was reported)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정일우는 베트남에서 크게 흥행한 한국과의 합작 영화 ‘엄마를 버리러 갑니다’에 출연해 ‘베트남 국민 사위’라는 수식어를 얻은 것으로 전해졌다&lt;br/&gt;&lt;em&gt;It is reported that Jung Il-woo gained the nickname 'Vietnam's national son-in-law' after starring in the joint Korean-Vietnamese film 'Going to Abandon Mom', which was a huge hit in Vietnam.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;납치범 3명도 현지 당국에 검거됐으며, 이들은 모두 한국인으로 전해졌다&lt;br/&gt;&lt;em&gt;The three kidnappers were also arrested by local authorities, and they are all reported to be Korean.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (국민의힘 배현진 의원이 같은 당 장동혁 대표를 비판했다는 이유로 당 윤리위원회에 또 제소된 것으로 24일 전해졌다&lt;br/&gt;&lt;em&gt;It was reported on the 24th that Rep. Bae Hyun-jin of the People Power Party was again referred to the party's ethics committee for criticizing the party's leader, Jang Dong-hyuk.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;소식이 전해졌다.&lt;br/&gt;&lt;em&gt;The news was delivered.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 사건이 전해졌다.&lt;br/&gt;&lt;em&gt;The incident was reported.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjByZXBvcnRlZHxlbnwwfHx8fDE3NzcwNzU5MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전해졌다 (was reported)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정일우는 베트남에서 크게 흥행한 한국과의 합작 영화 ‘엄마를 버리러 갑니다’에 출연해 ‘베트남 국민 사위’라는 수식어를 얻은 것으로 전해졌다&lt;br/&gt;&lt;em&gt;It is reported that Jung Il-woo gained the nickname 'Vietnam's national son-in-law' after starring in the joint Korean-Vietnamese film 'Going to Abandon Mom', which was a huge hit in Vietnam.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;납치범 3명도 현지 당국에 검거됐으며, 이들은 모두 한국인으로 전해졌다&lt;br/&gt;&lt;em&gt;The three kidnappers were also arrested by local authorities, and they are all reported to be Korean.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (국민의힘 배현진 의원이 같은 당 장동혁 대표를 비판했다는 이유로 당 윤리위원회에 또 제소된 것으로 24일 전해졌다&lt;br/&gt;&lt;em&gt;It was reported on the 24th that Rep. Bae Hyun-jin of the People Power Party was again referred to the party's ethics committee for criticizing the party's leader, Jang Dong-hyuk.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;소식이 전해졌다.&lt;br/&gt;&lt;em&gt;The news was delivered.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 사건이 전해졌다.&lt;br/&gt;&lt;em&gt;The incident was reported.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 25 Apr 2026 09:12:18 +0900</pubDate><guid isPermaLink="false">vocab-c371d98f744359f379c69cb1ab7644d05d34292b</guid><enclosure url="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjByZXBvcnRlZHxlbnwwfHx8fDE3NzcwNzU5MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="195441" /><ns2:content url="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjByZXBvcnRlZHxlbnwwfHx8fDE3NzcwNzU5MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjByZXBvcnRlZHxlbnwwfHx8fDE3NzcwNzU5MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>전해졌다</category></item><item><title>출연해 – appear (on TV, etc.)</title><link>urn:urn:vocab:출연해</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1663669959185-57940d6bb6a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHBlYXIlMjAlMjhvbiUyMFRWJTJDJTIwZXRjLiUyOXxlbnwwfHx8fDE3NzcwNjgyODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="출연해 (appear (on TV, etc.))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;정일우는 베트남에서 크게 흥행한 한국과의 합작 영화 ‘엄마를 버리러 갑니다’에 출연해 ‘베트남 국민 사위’라는 수식어를 얻은 것으로 전해졌다&lt;br/&gt;&lt;em&gt;It is reported that Jung Il-woo gained the nickname 'Vietnam's national son-in-law' after starring in the joint Korean-Vietnamese film 'Going to Abandon Mom', which was a huge hit in Vietnam.&lt;/em&gt;&lt;/p&gt;
