@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 09:12:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 13:29:13 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,49 @@
 
 
 
-  <item><title>전해졌다 – was reported</title><link>urn:urn:vocab:전해졌다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>비밀이고 – it is a secret and</title><link>urn:urn:vocab:비밀이고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1579532537902-1e50099867b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpdCUyMGlzJTIwYSUyMHNlY3JldCUyMGFuZHxlbnwwfHx8fDE3NzcwOTEzNDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비밀이고 (it is a secret and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (‘북한 우라늄 농축 시설은 한미 연합 비밀’이라는 최근의 보도와 관련해 위 실장은 “원래 그것은 비밀이고, 그것을 한국과 공유해서 한미 간에 연합 비밀이 됐을 것”이라면서도 “정 장관이 연합 비밀을 듣고 언급했다면 큰 문제가 될 수 있겠지만, 정 장관은 일관되게 ‘그런 정보 브리핑을 받은 적이 없다’(고 하고 있다)”고 말했다&lt;br/&gt;&lt;em&gt;Regarding the recent report that 'North Korea's uranium enrichment facility is a ROK-US joint secret,' Director Wi said, 'Originally it was a secret, and it would have become a joint secret between South Korea and the US by sharing it with Korea,' but added, 'If Minister Jeong heard the joint secret and mentioned it, it could be a big problem, but Minister Jeong consistently says he has never received such a briefing.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “그러니까 연합 비밀은 정 장관에게 여전히 비밀이고 모르는 부분”이라며 “대신에 오픈소스(공개 정보)에서 들은 게 있어서 그 얘기를 한 것이 이제 사달이 난 것”이라고 했다&lt;br/&gt;&lt;em&gt;He continued, 'So the joint secret is still a secret to Minister Jeong, and he doesn't know about it. Instead, he heard something from open sources and talked about it, which caused the trouble.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 비밀이고 말하지 마세요.&lt;br/&gt;&lt;em&gt;This is a secret, don't tell anyone.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 일은 비밀이고 나만 알아요.&lt;br/&gt;&lt;em&gt;That matter is a secret, only I know.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1579532537902-1e50099867b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpdCUyMGlzJTIwYSUyMHNlY3JldCUyMGFuZHxlbnwwfHx8fDE3NzcwOTEzNDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비밀이고 (it is a secret and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (‘북한 우라늄 농축 시설은 한미 연합 비밀’이라는 최근의 보도와 관련해 위 실장은 “원래 그것은 비밀이고, 그것을 한국과 공유해서 한미 간에 연합 비밀이 됐을 것”이라면서도 “정 장관이 연합 비밀을 듣고 언급했다면 큰 문제가 될 수 있겠지만, 정 장관은 일관되게 ‘그런 정보 브리핑을 받은 적이 없다’(고 하고 있다)”고 말했다&lt;br/&gt;&lt;em&gt;Regarding the recent report that 'North Korea's uranium enrichment facility is a ROK-US joint secret,' Director Wi said, 'Originally it was a secret, and it would have become a joint secret between South Korea and the US by sharing it with Korea,' but added, 'If Minister Jeong heard the joint secret and mentioned it, it could be a big problem, but Minister Jeong consistently says he has never received such a briefing.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “그러니까 연합 비밀은 정 장관에게 여전히 비밀이고 모르는 부분”이라며 “대신에 오픈소스(공개 정보)에서 들은 게 있어서 그 얘기를 한 것이 이제 사달이 난 것”이라고 했다&lt;br/&gt;&lt;em&gt;He continued, 'So the joint secret is still a secret to Minister Jeong, and he doesn't know about it. Instead, he heard something from open sources and talked about it, which caused the trouble.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 비밀이고 말하지 마세요.&lt;br/&gt;&lt;em&gt;This is a secret, don't tell anyone.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 일은 비밀이고 나만 알아요.&lt;br/&gt;&lt;em&gt;That matter is a secret, only I know.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 25 Apr 2026 13:29:12 +0900</pubDate><guid isPermaLink="false">vocab-0b35d1f6227daaeece3044f4a1504da018fee491</guid><enclosure url="https://images.unsplash.com/photo-1579532537902-1e50099867b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpdCUyMGlzJTIwYSUyMHNlY3JldCUyMGFuZHxlbnwwfHx8fDE3NzcwOTEzNDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="110027" /><ns2:content url="https://images.unsplash.com/photo-1579532537902-1e50099867b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpdCUyMGlzJTIwYSUyMHNlY3JldCUyMGFuZHxlbnwwfHx8fDE3NzcwOTEzNDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1579532537902-1e50099867b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpdCUyMGlzJTIwYSUyMHNlY3JldCUyMGFuZHxlbnwwfHx8fDE3NzcwOTEzNDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>비밀이고</category></item><item><title>인정한 – recognized</title><link>urn:urn:vocab:인정한</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1636380733248-70f41ebcb6d5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvZ25pemVkfGVufDB8fHx8MTc3NzA4MzYzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인정한 (recognized)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Relations: “Alliances, Like Gardens, Need Careful Management” (한미 관계 ‘비정상’ 인정한 안보실장 “동맹, 정원처럼 관리 잘 해야”) &lt;&lt;br/&gt;&lt;em&gt;Relations: “Alliances, Like Gardens, Need Careful Management” (National Security Office Director Admits ROK-US Relations Are ‘Abnormal’: “Alliances, Like Gardens, Need Careful Management”) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Relations: “Alliances, Like Gardens, Need Careful Management” (한미 관계 ‘비정상’ 인정한 안보실장 “동맹, 정원처럼 관리 잘 해야”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Relations: “Alliances, Like Gardens, Need Careful Management” (National Security Office Director Admits ROK-US Relations Are ‘Abnormal’: “Alliances, Like Gardens, Need Careful Management”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (정동영 통일부 장관이 지난달 6일 국회 외통위에서 북한의 우라늄 농축 시설 소재지 중 하나로 이전에 한·미 정부가 인정한 적 없는 ‘평북 구성’을 공개 지목한 이후, 미국 측은 한국과의 대북 정보 공유를 제한하기 시작한 것으로 알려졌다&lt;br/&gt;&lt;em&gt;After Unification Minister Jeong Dong-young publicly pointed out ‘Pyongbuk Kusong’ as one of North Korea’s uranium enrichment facility locations—a site previously unacknowledged by the ROK-US governments—during a National Assembly Foreign Affairs and Unification Committee meeting on the 6th of last month, the US side is known to have begun restricting the sharing of North Korea-related information with South Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 내 실수를 인정한.&lt;br/&gt;&lt;em&gt;He acknowledged my mistake.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선생님이 나를 인정한.&lt;br/&gt;&lt;em&gt;The teacher recognized me.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1636380733248-70f41ebcb6d5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvZ25pemVkfGVufDB8fHx8MTc3NzA4MzYzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인정한 (recognized)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Relations: “Alliances, Like Gardens, Need Careful Management” (한미 관계 ‘비정상’ 인정한 안보실장 “동맹, 정원처럼 관리 잘 해야”) &lt;&lt;br/&gt;&lt;em&gt;Relations: “Alliances, Like Gardens, Need Careful Management” (National Security Office Director Admits ROK-US Relations Are ‘Abnormal’: “Alliances, Like Gardens, Need Careful Management”) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Relations: “Alliances, Like Gardens, Need Careful Management” (한미 관계 ‘비정상’ 인정한 안보실장 “동맹, 정원처럼 관리 잘 해야”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Relations: “Alliances, Like Gardens, Need Careful Management” (National Security Office Director Admits ROK-US Relations Are ‘Abnormal’: “Alliances, Like Gardens, Need Careful Management”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (정동영 통일부 장관이 지난달 6일 국회 외통위에서 북한의 우라늄 농축 시설 소재지 중 하나로 이전에 한·미 정부가 인정한 적 없는 ‘평북 구성’을 공개 지목한 이후, 미국 측은 한국과의 대북 정보 공유를 제한하기 시작한 것으로 알려졌다&lt;br/&gt;&lt;em&gt;After Unification Minister Jeong Dong-young publicly pointed out ‘Pyongbuk Kusong’ as one of North Korea’s uranium enrichment facility locations—a site previously unacknowledged by the ROK-US governments—during a National Assembly Foreign Affairs and Unification Committee meeting on the 6th of last month, the US side is known to have begun restricting the sharing of North Korea-related information with South Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 내 실수를 인정한.&lt;br/&gt;&lt;em&gt;He acknowledged my mistake.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선생님이 나를 인정한.&lt;br/&gt;&lt;em&gt;The teacher recognized me.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 25 Apr 2026 11:20:39 +0900</pubDate><guid isPermaLink="false">vocab-bf579d7979ec5dcc45ee28e3a825efd585750f17</guid><enclosure url="https://images.unsplash.com/photo-1636380733248-70f41ebcb6d5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvZ25pemVkfGVufDB8fHx8MTc3NzA4MzYzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="59748" /><ns2:content url="https://images.unsplash.com/photo-1636380733248-70f41ebcb6d5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvZ25pemVkfGVufDB8fHx8MTc3NzA4MzYzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1636380733248-70f41ebcb6d5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvZ25pemVkfGVufDB8fHx8MTc3NzA4MzYzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>인정한</category></item><item><title>전해졌다 – was reported</title><link>urn:urn:vocab:전해졌다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567447004388-a283e5decbdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjByZXBvcnRlZHxlbnwwfHx8fDE3NzcwNzU5MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전해졌다 (was reported)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;정일우는 베트남에서 크게 흥행한 한국과의 합작 영화 ‘엄마를 버리러 갑니다’에 출연해 ‘베트남 국민 사위’라는 수식어를 얻은 것으로 전해졌다&lt;br/&gt;&lt;em&gt;It is reported that Jung Il-woo gained the nickname 'Vietnam's national son-in-law' after starring in the joint Korean-Vietnamese film 'Going to Abandon Mom', which was a huge hit in Vietnam.&lt;/em&gt;&lt;/p&gt;
