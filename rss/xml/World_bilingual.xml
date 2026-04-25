@@ -1,23 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 25 Apr 2026 20:57:30 +0000</lastBuildDate><item><title>Russian Officials Say Town’s Air Is Toxic, Days After Strike on Oil Refinery (러시아 관리들, 흑해 휴양마을 공기 유독성 경고…정유소 피격 사흘 만)</title><link>https://www.nytimes.com/2026/04/23/world/europe/russia-oil-refinery-black-rain.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/multimedia/23int-russia-oil-attack-jgkv/23int-russia-oil-attack-jgkv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Officials in southern Russia have warned of dangerous levels of toxins in a Black Sea resort town’s air, ending days of official silence about the aftermath of Ukrainian strikes on an oil refinery there.&lt;br/&gt;(러시아 남부 관리들이 흑해 연안 휴양도시 투압세의 대기 중 독성 물질 위험 수준을 경고했다. 우크라이나의 정유소 공격 이후 사흘간 공식 침묵이 깨진 것이다.)&lt;/p&gt;
-&lt;p&gt;The refinery, in the coastal town of Tuapse, has been out of commission since April 16, when a Ukrainian drone attack caused extensive damage to it, resulting in an oil leak. Ukraine’s general staff said the strike had targeted facilities “actively involved in supplying the Russian Army.”&lt;br/&gt;(투압세 연안 정유소는 지난 4월 16일 우크라이나 드론 공격으로 광범위한 피해를 입고 원유 누출이 발생한 이후 가동이 중단됐다. 우크라이나군 총참모부는 해당 시설이 "러시아군에 연료를 공급하는 데 적극 관여"했다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;On Monday, another Ukrainian drone hit the refinery, starting a fire that began releasing huge amounts of smoke into the air. Residents of Tuapse soon began documenting a phenomenon called black rain, recently seen after strikes on Iranian fuel depots, in which drops of dark, oily toxins fall from the sky.&lt;br/&gt;(월요일, 우크라이나 드론이 다시 정유소를 타격해 대규모 연기와 함께 화재가 발생했다. 투압세 주민들은 최근 이란 유류 저장고 공격 이후 목격된 '검은 비' 현상을 기록하기 시작했다. 이는 어둡고 기름진 독성 물질이 하늘에서 떨어지는 현상이다.)&lt;/p&gt;
-&lt;p&gt;But not until late Wednesday night did Russian officials acknowledge the danger. A local emergency task force said in a statement that on Tuesday night, air quality monitoring across Tuapse had shown levels of benzol, xylene and soot that were two to three times the maximum amount to which people can safely be exposed. As of Thursday, the fire at the refinery was still burning.&lt;br/&gt;(그러나 러시아 관리들이 위험을 인정한 것은 수요일 늦은 밤이 되어서였다. 지역 긴급 대책반은 성명에서 화요일 밤 투압세 전역 대기질 모니터링 결과 벤젠, 크실렌, 그을음 농도가 안전 기준치의 2~3배에 달했다고 밝혔다. 목요일 현재 정유소 화재는 계속 타오르고 있다.)&lt;/p&gt;
-&lt;p&gt;The task force, which recommended that people in some parts of Tuapse stay home, did not explain why the warning had not been issued sooner. “The situation will get back to normal as soon as the fire is extinguished,” it said, adding that nearly 300 firefighters were trying to put out the blaze.&lt;br/&gt;(투압세 일부 지역 주민들에게 외출 자제를 권고한 대책반은 왜 경고가 더 일찍 발령되지 않았는지 설명하지 않았다. 대책반은 "화재가 진압되는 대로 상황이 정상화될 것"이라며 약 300명의 소방관이 진화 작업 중이라고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;A trail of black smoke from the fire stretched for hundreds of miles, according to NASA Worldview satellite data from this week.&lt;br/&gt;(이번 주 NASA 월드뷰 위성 자료에 따르면 화재로 인한 검은 연기가 수백 마일까지 뻗어 있었다.)&lt;/p&gt;
-&lt;p&gt;Officials have not closed schools or public offices in Tuapse. The task force said local hospitals had received no patients with symptoms consistent with exposure to toxins. As of Thursday, senior Russian officials had said nothing about the fire, which appears to be the worst environmental disaster for Russia from the war in Ukraine since the 2022 invasion.&lt;br/&gt;(당국은 투압세의 학교나 공공기관을 폐쇄하지 않았다. 대책반은 지역 병원에 독성 물질 노출 증상을 보이는 환자가 접수되지 않았다고 밝혔다. 목요일 현재 러시아 고위 관리들은 이 화재에 대해 아무런 언급도 하지 않았으며, 이는 2022년 침공 이후 우크라이나 전쟁으로 인한 러시아 최악의 환경 재앙으로 보인다.)&lt;/p&gt;
-&lt;p&gt;Ukraine began ramping up its attacks on Russian oil facilities after the war in Iran began in late February, hoping to chip away at the economic benefits Russia was receiving from higher oil prices.&lt;br/&gt;(우크라이나는 2월 말 이란 전쟁 발발 이후 러시아 석유 시설에 대한 공격을 강화해 왔다. 이는 러시아가 고유가로 얻는 경제적 이익을 잠식하기 위한 것이다.)&lt;/p&gt;
-&lt;p&gt;For days, Tuapse residents have posted images of animals, cars and rooftops covered with thick, oily droplets. One social media user posted a photo of a child’s hands covered in tiny black dots, writing, “This is what my child looked like when got back from school today — any chance our children can switch to distance learning?”&lt;br/&gt;(며칠째 투압세 주민들은 짙고 기름진 액체 방울로 뒤덮인 동물, 자동차, 지붕 사진을 게시하고 있다. 한 소셜미디어 사용자는 까만 점으로 뒤덮인 어린이 손 사진과 함께 "오늘 학교에서 돌아온 아이 모습이 이렇습니다. 우리 아이들이 원격수업으로 전환할 가능성은 없나요?"라고 글을 올렸다.)&lt;/p&gt;
-&lt;p&gt;A local animal shelter called for volunteers to help wash oil off stray animals, posting images of dogs and a cat soaked in gooey, black liquid. “Almost all the street animals are covered in oil,” the shelter wrote on the social media platform Vkontakte, adding, “This is a catastrophe.”&lt;br/&gt;(현지 동물 보호소는 길 잃은 동물들의 기름을 씻어줄 자원봉사자를 요청하며 끈적한 검은 액체에 젖은 개와 고양이 사진을 게시했다. 보호소는 소셜미디어 브콘탁테에 "거리의 거의 모든 동물들이 기름에 뒤덮였다"며 "이것은 재앙"이라고 적었다.)&lt;/p&gt;
-&lt;p&gt;Some people accused the government of downplaying the risks to the public. One person in a popular group on Vkontakte said there had been black rain as early as last week, after the first Ukrainian attack on the refinery. Other people asked why schools had not been closed.&lt;br/&gt;(일부 주민들은 정부가 대중에 대한 위험을 축소하고 있다고 비난했다. 브콘탁테의 인기 그룹에서 한 사람은 정유소에 대한 첫 우크라이나 공격 이후인 지난주에도 검은 비가 내렸다고 말했다. 다른 사람들은 왜 학교가 폐쇄되지 않았는지 의문을 제기했다.)&lt;/p&gt;
-&lt;p&gt;After the strikes on oil facilities in Iran last month, the World Health Organization warned that black rain and other toxins in the air could cause respiratory problems, urging people to stay indoors. Experts warned of long-term risks from exposure to the toxins.&lt;br/&gt;(지난달 이란 석유 시설에 대한 공격 이후, 세계보건기구는 검은 비와 기타 대기 중 독성 물질이 호흡기 문제를 일으킬 수 있다고 경고하며 실내에 머물 것을 촉구했다. 전문가들은 독성 물질에 노출될 경우 장기적 위험이 있다고 경고했다.)&lt;/p&gt;
-&lt;p&gt;On Tuesday, in what seemed to be an attempt to project normalcy, the Tuapse prosecutor’s office released images of uniformed employees planting saplings as plumes of pitch-black smoke rose in the background. The images instantly became a meme in Russia, where state media had said little if anything about the fire, and the prosecutor’s office deleted the photos.&lt;br/&gt;(화요일, 정상적인 상황을 연출하려는 시도로 보이는 가운데 투압세 검찰청은 칠흑 같은 연기가 치솟는 배경에서 제복을 입은 직원들이 묘목을 심는 사진을 공개했다. 이 사진은 러시아에서 즉시 밈이 되었으며, 국영 언론은 화재에 대해 거의 보도하지 않았고 검찰청은 해당 사진을 삭제했다.)&lt;/p&gt;
-&lt;p&gt;Pro-war Russian bloggers accused the authorities of trying to conceal the scale of the disaster. “This is essentially like Hiroshima, but without radiation: After a massive fire at the oil facilities, the town and nearby areas have seen ‘black rains’ that kill plants and animals,” one blogger, RIA Katyusha, said in a post this week.&lt;br/&gt;(전쟁 지지 러시아 블로거들은 당국이 재앙의 규모를 은폐하려 한다고 비난했다. 한 블로거 리아 카츄샤는 이번 주 게시글에서 "방사능만 없을 뿐, 사실상 히로시마와 같다: 석유 시설 대화재 이후 마을과 인근 지역에서 식물과 동물을 죽이는 '검은 비'가 내렸다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;Some pro-Kremlin politicians seem to be mindful that the reports could hurt the public image of Tuapse, which is famous for its beaches.&lt;br/&gt;(일부 친크렘린 정치인들은 이 보도가 해변으로 유명한 투압세의 공공 이미지를 해칠 수 있다는 점을 의식하는 것으로 보인다.)&lt;/p&gt;
-&lt;p&gt;“Right now, there is nothing threatening the tourist season,” Fyodor Gerashchenko, who leads the local chapter of the pro-Kremlin People’s Front movement, told a local television channel on Wednesday.&lt;br/&gt;(친크렘린 인민전선 운동의 지역 지부장 표도르 게라셴코는 수요일 지역 텔레비전 채널에서 "현재 관광 시즌을 위협하는 것은 없다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;Nataliia Novosolova contributed reporting.&lt;br/&gt;(나탈리아 노보솔로바가 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/23/world/europe/russia-oil-refinery-black-rain.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/23/multimedia/23int-russia-oil-attack-jgkv/23int-russia-oil-attack-jgkv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 23 Apr 2026 04:49:06 +0000</pubDate></item><item><title>World’s Biggest Condom Maker Raises Prices as Iran War Rattles Supply Chains (세계 최대 콘돔 제조사, 이란 전쟁으로 공급망 차질에 가격 인상)</title><link>https://www.nytimes.com/2026/04/23/world/middleeast/karex-condom-price-increase-iran-war.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/arts/23israel-iran-condoms/23israel-iran-condoms-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 25 Apr 2026 23:01:13 +0000</lastBuildDate><item><title>World’s Biggest Condom Maker Raises Prices as Iran War Rattles Supply Chains (세계 최대 콘돔 제조사, 이란 전쟁으로 공급망 차질에 가격 인상)</title><link>https://www.nytimes.com/2026/04/23/world/middleeast/karex-condom-price-increase-iran-war.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/arts/23israel-iran-condoms/23israel-iran-condoms-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The world’s largest condom maker is raising prices of its products by up to 30 percent, warning that shortages of raw materials and chemicals because of the Iran war could disrupt production.&lt;br/&gt;(세계 최대 콘돔 제조사가 제품 가격을 최대 30% 인상하며, 이란 전쟁으로 인한 원자재 및 화학물질 부족이 생산에 차질을 빚을 수 있다고 경고했다.)&lt;/p&gt;
 &lt;p&gt;The Malaysian condom company, Karex, which produces about five billion condoms a year, blamed a surge in raw material prices, global shipping disruptions and higher freight costs for the price increases.&lt;br/&gt;(연간 약 50억 개의 콘돔을 생산하는 말레이시아 콘돔 회사 카렉스는 원자재 가격 급등, 글로벌 해운 혼란 및 운임 상승을 가격 인상의 원인으로 꼽았다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -806,7 +788,7 @@ HIV 감염에 매우 취약하지만 주 의료 시스템에서 괴롭힘이나 
 &lt;&lt;&lt;PARA&gt;&gt;
 요즘, 매주 두세 명의 사람들이 위험할 정도로 손상된 면역 체계를 가지고 루베슈아 씨의 클리닉에 나타난다고 그녀는 말했습니다. "우리는 단지 기증자에게 의존할 수 없다는 것을 압니다. 우리는 우리 수단에 맞춰 살아야 합니다."라고 그녀는 말했습니다. "하지만 마치 우리가 예전처럼 신경 쓰지 않는 것 같습니다."
 &lt;&lt;&lt;PARA&gt;&gt;)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/17/multimedia/xx-zambia-hiv-01-jzmk/xx-zambia-hiv-01-jzmk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 06:02:09 +0000</pubDate></item><item><title>Under Trump, Green Card Seekers Face New Scrutiny for Views on Israel (트럼프 행정부, 이스라엘에 대한 견해로 영주권 신청자들 새롭게 조사)</title><link>https://www.nytimes.com/2026/04/25/us/politics/trump-green-cards-scrutiny.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/25/multimedia/25dc-greencards-hpwj/25dc-greencards-hpwj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/17/multimedia/xx-zambia-hiv-01-jzmk/xx-zambia-hiv-01-jzmk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 12:10:53 +0000</pubDate></item><item><title>Under Trump, Green Card Seekers Face New Scrutiny for Views on Israel (트럼프 행정부, 이스라엘에 대한 견해로 영주권 신청자들 새롭게 조사)</title><link>https://www.nytimes.com/2026/04/25/us/politics/trump-green-cards-scrutiny.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/25/multimedia/25dc-greencards-hpwj/25dc-greencards-hpwj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;For decades, immigrants who have followed the rules and have not broken the law have had hopes of earning a green card, a document that allows them to live legally in the United States and gain a path to citizenship.&lt;br/&gt;(수십 년 동안 규칙을 따르고 법을 위반하지 않은 이민자들은 미국에 합법적으로 거주하며 시민권 취득의 길을 열어주는 영주권을 받을 희망을 가져왔습니다.)&lt;/p&gt;
 &lt;p&gt;But under new guidance issued by the Trump administration, immigrants can now be denied a green card for expressing political opinions, such as participating in pro-Palestinian campus protests, posting criticism of Israel on social media and desecrating the American flag, according to internal Department of Homeland Security training materials reviewed by The New York Times.&lt;br/&gt;(그러나 뉴욕타임스가 검토한 국토안보부 내부 교육 자료에 따르면, 트럼프 행정부가 발표한 새로운 지침에 따라 이민자들은 친팔레스타인 캠퍼스 시위 참여, 소셜 미디어에 이스라엘 비판 게시, 미국 국기 모독과 같은 정치적 의견 표출로 인해 영주권을 거부당할 수 있습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -1075,7 +1057,162 @@ HIV 감염에 매우 취약하지만 주 의료 시스템에서 괴롭힘이나 
 &lt;p&gt;The wrestlers learned in the sumo ring to be “very quick to anticipate what’s coming next,” said Shuji Nakaita, 44, who works at the facility. The same skill is important in care centers, he said. A heightened sensitivity helps the wrestlers anticipate the needs of patients and respond quickly.&lt;br/&gt;(선수들은 스모 링에서 "다음에 무엇이 올지 매우 빠르게 예측하는 법"을 배웠다고, 시설에서 일하는 44세의 슈지 나카이타가 말했습니다. 같은 기술이 돌봄 시설에서도 중요하다고 그는 말했습니다. 높아진 민감성은 선수들이 환자의 필요를 예측하고 신속하게 대응하는 데 도움이 됩니다.)&lt;/p&gt;
 &lt;p&gt;While the caregiving roles are seen as grueling work in Japan, he said he found it rewarding.&lt;br/&gt;(일본에서 요양보호 역할은 힘든 노동으로 간주되지만, 그는 그것이 보람 있다고 말했습니다.)&lt;/p&gt;
 &lt;p&gt;“Here,” he said, “we are like family.”&lt;br/&gt;("여기서," 그가 말했습니다. "우리는 가족과 같습니다.")&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/15/multimedia/00int-japan-caregivers-02-kptm/00int-japan-caregivers-02-kptm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 10:19:47 +0000</pubDate></item><item><title>The 85-Year-Old Widow Snagged by Trump’s Immigration Crackdown (트럼프 강경 이민 단속에 걸려든 85세 과부)</title><link>https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/25/multimedia/25france-ice-01-wtcm/25france-ice-01-wtcm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/15/multimedia/00int-japan-caregivers-02-kptm/00int-japan-caregivers-02-kptm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 10:19:47 +0000</pubDate></item><item><title>Europe Prepares for a Longer War in Ukraine, With No Strategy to End It (유럽, 우크라이나 전쟁 장기화 대비… 종전 전략은 없다)</title><link>https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/25/multimedia/25int-ukraine-europe-adrift-assess-mhzt/25int-ukraine-europe-adrift-assess-mhzt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;With President Trump and his team preoccupied with the war in Iran, Europe is preparing for a longer war in Ukraine, with dwindling expectations for a negotiated settlement between Moscow and Kyiv.&lt;br/&gt;(트럼프 대통령과 그의 팀이 이란 전쟁에 몰두하면서, 유럽은 우크라이나 전쟁이 장기화될 것에 대비하고 있으며, 모스크바와 키이우 간 협상 타결에 대한 기대는 줄어들고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이로 인해 우크라이나는 사실상 홀로 남겨져, 끝이 보이지 않는 소모전을 러시아와 치르고 있다. 우크라이나와 러시아 모두 명확한 승리 경로를 갖고 있지 않으며, 누구도 트럼프 대통령이 항상 꺼려해 온 미국의 적극적인 개입과 러시아 압박 없이는 전쟁 해결이 가능할 것이라고 기대하지 않는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+양측에 상당한 영향력을 행사할 수 있는 뚜렷한 대체 중재자도 없다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프 대통령이 하루 만에 전쟁을 끝내겠다고 공언한 지 15개월이 지난 지금, "우리는 협상에서 사실상 출발점에 머물러 있다"고 우크라이나 수도 키이우에서 활동하는 러시아·우크라이나 분석가 제임스 셰어는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "점차 유럽인들은 우크라이나와 러시아 사이에 근본적인 이해관계와 목표의 양립 불가능성이 있음을 이해하고 있으며, 유일한 합리적인 방침은 우크라이나를 계속 지지하고 러시아가 군사적 또는 정치적 수단으로 승리하는 것을 막는 것임을 깨닫고 있다"고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+볼로디미르 젤렌스키 우크라이나 대통령은 트럼프 대통령의 지지를 얻을 수 있다는 "환상의 80%를 잃었다"고 셰어는 말했다. "그는 미국에 대한 이해에 있어 매우 다른 위치에 있다." 우크라이나인들은 군사적으로 자신들의 입지를 지키고 있다고 믿으며, 전쟁의 해결은 "있다면, 전장에서 이뤄질 것"이라고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+《뉴욕타임스》는 키이우와 워싱턴 사이에 낮은 수준의 비공식 대화가 일부 계속되고 있다고 보도했다. 우크라이나 관리들은 미국과 러시아와의 3자 회담을 계속 추진하고 있지만, 러시아는 이를 거부했다. 우크라이나는 심지어 모스크바와 워싱턴이 우크라이나가 포기할 것을 요구하는 동부 돈바스 지역을 "도니랜드"라고 부르자고 제안하며, 트럼프 대통령의 자존심에 호소하려 했다. 그러나 진지한 회담은 현재 중단된 상태다.
+&lt;&lt;&lt;PARA&gt;&gt;
+협상에 관해, "진실은 러시아가 이를 진지하게 받아들인 적이 없다는 것"이라고 이달 우크라이나 접촉 그룹 회의에서 보리스 피스토리우스 독일 국방장관이 말했다. "이것이 바로 우크라이나를 지원하는 것이 더욱 중요한 이유다."
+&lt;&lt;&lt;PARA&gt;&gt;
+수요일 유럽연합이 우크라이나에 900억 유로(약 1060억 달러)의 무이자 대출을 제공하기로 한 결정은, 미국의 무관심과 러시아의 우크라이나 민간 기반 시설에 대한 강화된 공격에 직면한 유럽의 우크라이나에 대한 헌신을 보여주는 강력한 신호다.
+&lt;&lt;&lt;PARA&gt;&gt;
+유럽인들은 러시아, 그 경제적 이익, 그리고 그림자 함대를 통한 석유 수출을 겨냥한 두 차례의 추가 제재 패키지로 이러한 지지를 강조했다. 목요일에 승인된 20번째 패키지는 2월부터 슬로바키아와 이번 달 총선에서 재선에 실패한 빅토르 오르반 헝가리 총리에 의해 보류되었다. 관리들은 러시아의 적응에 대응하기 위해 이미 21번째 패키지를 준비 중이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+유럽인들은 블라디미르 푸틴 러시아 대통령이 모스크바가 우크라이나에서 얻을 수 있는 것을 얻었음을 받아들이고, 승리를 챙기고 갈등을 종식시키기 위해 진지하게 협상할 것이라고 희망하지만, 푸틴 대통령은 브뤼셀이 아닌 워싱턴과 거래하기를 원한다는 점을 인식하고 있다고 민감한 외교 문제를 논의하기 위해 익명을 요구한 여러 유럽 관리들이 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+따라서 그들은 젤렌스키 대통령뿐만 아니라 푸틴 대통령에게도 양보를 강요하는 것을 의미한다면, 진지한 미국의 관여 재개를 환영할 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+유럽 자금으로 우크라이나는 당분간 자원과 능력을 갖추고 있으며, "올해는 어떤 대가를 치르더라도 합의가 필요하지 않다"고 카네기 러시아 유라시아 센터 소장 알렉산더 가부예프는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+최전선 상황은 변할 수 있지만, 우크라이나인들은 잘 대처하고 있다고 그는 말하면서, "러시아가 의미 있는 이득을 볼 것 같지 않으며, 작은 이득을 위해 계속 막대한 손실을 입을 것"이라며, 모스크바에 대한 경제적 압박은 더 높은 에너지 가격으로 다소 완화되었다고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+따라서 양측 모두 지금 당장 해결에 큰 압박을 느끼지 않는다고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+우크라이나인들은 러시아의 석유 기반 시설을 손상시키는 데 일부 성공을 거두었다. 그러나 유럽인들에게 문제는 "우리에게 우크라이나의 승리에 대한 이론이 부족하다"는 것이라고 독일 마셜 펀드의 국방 전문가 클라우디아 마요르는 말했다. 러시아의 계산을 바꾸기에 충분한 압력을 가하는 것이 아이디어였지만, "우리는 우크라이나인들에게 그렇게 할 수 있는 충분한 것을 결코 주지 않았다"고 그녀는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"이제 우리는 모스크바에서 무언가가 바뀔 때까지(누군가 죽거나, 창밖으로 던져지거나, 경제가 붕괴할 때까지) 우크라이나인들을 게임에 남겨두려고 할 뿐입니다. 그러나 그것은 전략이 아닙니다."라고 그녀는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+젤렌스키 대통령은 계속해서 푸틴 대통령의 요구를 선호하는 미국인들에게 분노를 표시해 왔다. 그는 새로운 외교 및 군사 파트너를 찾고, 사우디아라비아 및 걸프 국가들과 드론 전문 지식을 공유하고, 영국 및 독일과 무기 생산 계약을 체결하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+젤렌스키 대통령은 또한 글로벌 에너지 가격을 낮추기 위해 러시아 석유 생산에 대한 제재를 완화한 트럼프 대통령의 결정을 강하게 비판하며, "제 생각에 러시아가 미국인들을, 특히 미국 대통령을 또다시 이용했습니다."라고 말했다. 그는 우크라이나의 러시아 에너지 기반 시설 공격을 중단하라는 익명의 당사자(암묵적으로 워싱턴)의 압력에 저항했다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+바로 지난주 월요일, 그는 트럼프 대통령의 수석 협상가인 스티브 위트코프와 재러드 쿠슈너가 키이우에는 한 번도 가본 적이 없음에도 불구하고 가까운 시일 내에 모스크바를 다시 방문할 계획에 대해 비판했다. "모스크바에는 가면서 키이우에는 오지 않는 것은 무례한 일이며, 정말 무례한 일입니다."라고 그는 우크라이나 채널 ICTV에 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+EU 관리들은 자신들이 우크라이나에 너무 깊이 관여되어 있어 모스크바가 중재자로 보지 않는다는 점을 인정한다. 그럼에도 불구하고 파리는 러시아와의 대화를 시도해 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+에마뉘엘 마크롱 프랑스 대통령은 2월 수석 외교 정책 보좌관인 에마뉘엘 본을 모스크바에 보내 일방적인 러시아 접촉을 시도했다. 아이디어는 우크라이나에 관한 회담에서 유럽인들이 배제되지 않도록 하기 위한 것이었지만, 러시아인들은 대체로 무시했으며, 세르게이 라브로프 외무장관은 이를 "비참한 외교"라고 불렀다. 우크라이나와 발트해 국가들은 불안해했지만, 지금까지 마크롱 대통령의 노력에서 나온 것은 거의 없다.
+&lt;&lt;&lt;PARA&gt;&gt;
+적어도 현재로서는, 우크라이나는 새로운 유럽 자금과 전장에서의 일부 진전으로 자신감을 얻었으며, 푸틴 대통령은 이란 전쟁으로 인한 더 높은 에너지 가격으로 경제가 혜택을 보는 동안에도 목표를 달성하지 못했고, 워싱턴은 산만해지고 관심을 잃고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+따라서 전쟁은 계속되고 있으며, 휴전이나 해결은 여전히 요원하게 느껴진다.
+&lt;&lt;&lt;PARA&gt;&gt;
+짐 탱커슬리가 베를린에서, 잔나 스미알렉이 브뤼셀에서, 마크 랜들러가 파리에서 보도에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25int-ukraine-europe-adrift-assess-mhzt/25int-ukraine-europe-adrift-assess-mhzt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 02:46:15 +0000</pubDate></item><item><title>Raqqa Showcases Syria’s Tumultuous Past (라카가 보여주는 시리아의 격동하는 과거)</title><link>https://www.nytimes.com/2026/04/25/world/middleeast/syria-war-raqqa-past.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/24/multimedia/24syria-raqqa-dispatch-01-hcvl/24syria-raqqa-dispatch-01-hcvl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;We arrived within days of the government’s takeover of the northeastern Syrian city of Raqqa, and one of the first things we saw was protesters in the main square.&lt;br/&gt;(우리는 정부가 시리아 북동부 도시 라카를 장악한 지 며칠 만에 도착했고, 가장 먼저 목격한 것 중 하나는 주요 광장에 모인 시위대였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+독재자 바샤르 알아사드에 맞선 2011년 아랍의 봄 봉기의 주역인 변호사와 활동가 집단이 시리아 국기를 게양하기 위해 모였다. 그들은 소셜미디어를 통해 이슬람주의자 집단이 광장에 종교 깃발을 올리려 한다는 사실을 알고 이를 막고자 했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 혁명을 위해 많은 것을 희생했고, 다른 이들이 자기 깃발을 올리도록 두지 않을 것입니다." 혁명의 녹색, 흰색, 검은색 깃발(현재의 국기)을 어깨에 두른 48세 변호사 두하 프라이흐가 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+시위는 소규모였지만, 시리아 사회를 관통하는 분열을 드러냈고, 그 어떤 곳보다 라카에서 두드러졌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+터키
+&lt;&lt;&lt;PARA&gt;&gt;
+라카
+&lt;&lt;&lt;PARA&gt;&gt;
+알레포
+&lt;&lt;&lt;PARA&gt;&gt;
+유프라테스 강
+&lt;&lt;&lt;PARA&gt;&gt;
+시리아
+&lt;&lt;&lt;PARA&gt;&gt;
+레바논
+&lt;&lt;&lt;PARA&gt;&gt;
+다마스쿠스
+&lt;&lt;&lt;PARA&gt;&gt;
+이라크
+&lt;&lt;&lt;PARA&gt;&gt;
+요르단
+&lt;&lt;&lt;PARA&gt;&gt;
+100마일
+&lt;&lt;&lt;PARA&gt;&gt;
+뉴욕타임스
+&lt;&lt;&lt;PARA&gt;&gt;
+라카는 12년 전 이슬람국가(ISIS)가 검은 깃발 아래 이라크와 시리아에서 칼리프국의 수도로 삼으면서 테러의 중심지로 악명 높아졌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+ISIS는 피에 굶주린 통치를 강요하고 해외에서 테러 공격을 선동했으며, 이로 인해 10년 넘게 미군이 시리아에 진출하게 되었다. 미국 주도 연합군은 ISIS를 축출하기 위해 라카를 대대적으로 폭격했으며, 민간인에게 큰 피해를 입혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국과 동맹한 쿠르드 주도 조직인 시리아민주군(SDF)이 라카와 시리아 북동부 대부분을 점령했다. 이 조직은 9년 동안 이 지역을 통제하다가 1월에 협상과 군사력을 혼합해 아흐메드 알샤라 대통령의 정부가 장악했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+시리아 내전 기간 동안 나는 라카 출신의 활동가, 군인, 고문 피해자, 심지어 테러범 등 수많은 사람들을 인터뷰했다. 그래서 시리아 정부가 이 도시와 주를 장악했을 때, 그토록 많은 혼란의 근원을 처음으로 직접 볼 기회가 생겼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"라카는 위대한 역사를 가지고 있지만, 우리에게는 암울한 역사도 있습니다." 정부 화해 센터 책임자 무스타파 알이사가 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+알이사는 아랍의 봄 시위에 참여했다. 그는 2013년 라카가 아사드 정부를 축출한 첫 번째 주도가 되었을 때 기뻐했다. 그러나 몇 달 만에 ISIS 전사들이 도시를 장악하고 칼리프국을 선포했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 2014년 라카를 떠나 난민으로 해외에서 MBA를 취득했다. 이제야 안전하게 고향으로 돌아올 수 있었다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 도시가 폭격으로 인한 파괴의 흔적을 여전히 간직하고 있으며, 정전, 빈곤, 마약 중독의 만연으로 어려움을 겪고 있는 것을 발견했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리가 라카를 두 번째로 해방시켰을 때, 2013년 ISIS가 우리의 성과를 빼앗기 전처럼 기뻤습니다. 하지만 직접 보니 달콤쌉싸름한 느낌이었습니다."라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+도시 아래에서는 정부 군인들이 쿠르드 주도 세력이 판 수 마일의 터널과 벙커, 심지어 현대식 아파트까지 발견했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그들이 지하에서 한 일을 지상에서 했더라면, 온 도시를 지을 수 있었을 것입니다." 알이사가 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+라카 주변 거의 모든 지역에서 사람들은 정부의 장악을 축하하며, 수년간의 분리 끝에 친척들과 재회하는 기쁨과 미래에 대한 희망을 나타냈다.
+&lt;&lt;&lt;PARA&gt;&gt;
+많은 이들이 쿠르드족과 그들의 미국 후원자에 대한 쓰라린 감정을 숨기지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"저는 ISIS나 SDF 아래에서는 찾을 수 없었던 자유의 공간을 가지고 있습니다." 40세 인도주의 활동가 무스타파 사디크가 말했지만, 신속한 민주적 전환에 대해서는 회의적이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+나임 광장에서는 한 무리의 십대와 청년들이 중앙 대리석 단상 위에서 음악에 맞춰 춤을 추고 있었는데, 그곳은 ISIS가 한때 공개 처형을 하고 잘린 머리를 전시하던 자리였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+광장은 보수되었지만, 차를 타고 돌아다니면 여전히 폐허로 남은 전체 블록을 볼 수 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 주도 공습으로 파괴된 한때 웅장했던 주지사 관저는 철거되어 빈 부지로 남아 있었다. 2013년 라카에서 정권이 축출될 때 끌려 내려진 독재자 하페즈 알아사드(바샤르의 아버지)의 동상은 깨진 받침대만 남아 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+근처에는 국가 안보 사무소 건물이 있었다. 역시 폭격을 당했고 잔해는 치워졌다. 아치형 입구만이 남아 있었다. 많은 시위자들이 그곳에서 아사드 정부의 보안 기관에 의해 고문을 당하며 심문을 받았었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+나는 입구에 서서 최근 오스트리아 법원이 고문 혐의로 기소한 두 전직 관료에 대해 증언한 생존자들의 인터뷰를 떠올렸다.
+&lt;&lt;&lt;PARA&gt;&gt;
+우리는 거대한 성벽과 대모스크의 안뜰을 방문했는데, 이는 8세기 아바스 왕조의 수도로서 라카의 중요성을 상기시켜 주었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+비가 내리는 가운데, 도시는 움푹 패인 도로와 진흙 투성이 웅덩이가 있는 음산한 곳처럼 보였다. 거의 모든 사람들이 한때 번영했던 농업 도시 라카를 그리워하며 회상했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+세계 최초 문명에 생명을 불어넣은 메소포타미아의 위대한 강 중 하나인 유프라테스는 주변 비옥한 땅을 적신다. 라카 주민들에게 사랑받는 이 강은 무더운 여름철 시원한 휴식처를 제공한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+나는 동료에게 그의 고향 도시에 왔다고 문자를 보냈다. "이제 우리 강을 보셨군요." 그가 답장을 보냈다.
+&lt;&lt;&lt;END&gt;&gt;)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/middleeast/syria-war-raqqa-past.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/24/multimedia/24syria-raqqa-dispatch-01-hcvl/24syria-raqqa-dispatch-01-hcvl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 00:00:28 +0000</pubDate></item><item><title>Indigenous Speakers Are Booed During Commemorations of Australia’s War Dead (원주민 연사들, 호주 전몰자 추모 행사에서 야유 받아)</title><link>https://www.nytimes.com/2026/04/25/world/australia/anzac-day-indigenous-speakers-booed.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/25/multimedia/25int-oz-anzac-kcpw/25int-oz-anzac-kcpw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The annual dawn services marking Anzac Day in Australia are normally a solemn affair, with a hushed silence enveloping those gathered in the darkness to honor the country’s war dead.&lt;br/&gt;(호주에서 매년 열리는 안작 데이 새벽 예배는 엄숙한 행사로, 어둠 속에 모인 사람들이 전몰자를 추모하며 깊은 침묵에 잠기는 것이 보통이다.)&lt;/p&gt;
+&lt;p&gt;But on Saturday, in three of Australia’s biggest cities, the services were disrupted by loud booing, raucous enough to register clearly on national broadcasts carrying the ceremonies live. Indigenous speakers were the targets.&lt;br/&gt;(그러나 토요일, 호주 3대 대도시에서 이 예배가 큰 야유 소리로 방해를 받았다. 그 소리는 생중계된 전국 방송에도 선명히 잡힐 정도로 시끄러웠다. 그 대상은 원주민 연사들이었다.)&lt;/p&gt;
+&lt;p&gt;The disruptions in Sydney, Melbourne and Perth occurred during the “Welcome to Country,” an Aboriginal custom that has become common at public events in Australia, meant to acknowledge the original inhabitants of the land. The booing was widely condemned by political, military and civic leaders, and it betrayed simmering tensions over the country’s identity.&lt;br/&gt;(시드니, 멜버른, 퍼스에서 발생한 이 방해 사태는 '컨트리 웰컴' 의식 중에 일어났다. 이는 호주 공공 행사에서 흔해진 애버리지니 관습으로, 그 땅의 원주민을 인정하는 의미를 담고 있다. 이 야유는 정치, 군, 시민 지도자들로부터 널리 비난받았으며, 국가 정체성에 대한 끓어오르는 갈등을 드러냈다.
+&lt;&lt;&lt;PARA&gt;&gt;
+멜버른 일대를 포함하는 부누롱 족의 장로 마크 브라운이 도시의 전쟁 기념관에서 연설을 시작하자마자, 군중 속에서 큰 야유가 터져 나왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"저는 모든 분들을 제 아버지의 땅에 환영하기 위해 왔습니다." 브라운 씨가 방해 속에서 말했다. "하지만 그 전에, 항상 그렇듯, 우리는 잠시 시간을 내어 감사 인사를 드리고, 존경을 표합니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+멜버른이 포함된 빅토리아 주의 수상 재신타 앨런은 성명에서 이 방해를 "순수한 무례"라고 부르며, "증오심을 가진 소수"에 의한 것이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"침묵과 반성을 위한 순간이 의도적으로 깨졌습니다. 야유로 그것을 깨는 것은 항의가 아닙니다." 그녀는 썼다. "그리고 그것은 확실히 애국심도 아닙니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+시드니가 포함된 뉴사우스웨일스 주 경찰은 예배 중 야유를 한 24세 남성을 '소란' 혐의로 체포했으며, 다른 사람들을 행사장에서 제거했다고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+크리스 민스 수상은 시드니의 야유가 "소수의 사람들"에 의한 것이며, 연사인 레이 미니콘(원주민 목사이자 군인 출신)에 대한 박수 소리에 묻혔다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+안작 데이는 제1차 세계 대전 중 호주와 뉴질랜드 군대가 갈리폴리 반도에 상륙한 것을 기념하는 소중한 국경일이다. (안작은 호주-뉴질랜드 군단을 의미한다.) 수천 명의 호주 원주민이 두 차례 세계 대전에서 군 복무를 한 것으로 추정된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 예배에 대한 분노는 호주의 유럽 식민지 역사를 어떻게 인정할 것인지, 그리고 오늘날 호주인이 된다는 것이 무엇을 의미하는지에 대한 갈등의 최신 쟁점이 되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+야유한 사람들 중 적어도 일부는 '호주를 위한 행진'이라는 단체에 동조하는 것으로 보인다. 이 단체는 최근 몇 년간 수천 명이 모인 반이민 집회를 열었으며, 정부 장관은 지난해 이 운동을 "인종주의와 민족 중심주의에 기반한 극우 활동"이라고 묘사했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+우익 단체들은 '컨트리 웰컴' 인정 의식이 비원주민 호주인들에게 그들이 여기에 속하지 않는다고 말함으로써 소외시킨다고 항의했다. '호주를 위한 행진'은 금요일 페이스북 게시물에서 많은 회원들이 안작 데이 예배에서 "야유할 필요성을 느낀다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 단체는 애버리지니 토지 소유주에 대한 인정은 "호주를 건설하고 지킨 사람들을 영원한 외부인처럼 느끼게 만드는 무기이며, 불필요하게 호주인과 원주민을 대립시킨다."고 주장했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+호주는 최근 몇 년간 식민지 과거의 유산과 씨름하며, 애버리지니 호주인을 위한 정치적 대표성을 제도화할지, 그리고 호주에 영국인이 도착한 기념일을 어떻게 표시할지에 대한 격렬한 의견 차이를 겪어왔다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/australia/anzac-day-indigenous-speakers-booed.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25int-oz-anzac-kcpw/25int-oz-anzac-kcpw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 06:35:10 +0000</pubDate></item><item><title>The 85-Year-Old Widow Snagged by Trump’s Immigration Crackdown (트럼프 강경 이민 단속에 걸려든 85세 과부)</title><link>https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/25/multimedia/25france-ice-01-wtcm/25france-ice-01-wtcm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Marie-Thérèse Ross-Mahé was in bed at home in Anniston, Ala., when she was startled awake by banging. Men had surrounded the bungalow where Ms. Ross-Mahé, a French citizen, had lived with her American husband until he died in January. They were knocking loudly on the windows and doors.&lt;br/&gt;(마리테레즈 로스-마에는 앨라배마주 애니스턴에 있는 자택 침대에 누워 있다가 쾅쾅 두드리는 소리에 놀라 잠에서 깼다. 남성들이 프랑스 국적의 로스-마에 씨가 1월 남편이 사망할 때까지 함께 살던 방갈로를 포위하고 있었다. 그들은 창문과 문을 크게 두드리고 있었다.
 &lt;&lt;&lt;PARA&gt;&gt;
 85세의 로스-마에 씨가 문을 열자, 그들은 이민 경찰이라며 안으로 밀고 들어왔다고 인터뷰에서 밝혔다. 그녀는 수갑이 채워진 채 표식 없는 차에 실려 교도소 감방으로 끌려갔다고 말했다. 그녀는 아직 목욕 가운, 잠옷, 슬리퍼를 신고 있었다고 전했다.
