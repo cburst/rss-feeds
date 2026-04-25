@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 13:29:13 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 15:33:50 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>비밀이고 – it is a secret and</title><link>urn:urn:vocab:비밀이고</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>후보도 – candidate also</title><link>urn:urn:vocab:후보도</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1762330466678-45b42e02f5a0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGUlMjBhbHNvfGVufDB8fHx8MTc3NzA5ODgyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="후보도 (candidate also)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정 후보도 이날 오 시장을 세게 비판했다&lt;br/&gt;&lt;em&gt;(Candidate Jeong also strongly criticized Mayor Oh on this day)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;변호사 출신의 김정철 최고위원이 서울시장 선거를 뛰고 있고, 개혁신당 대변인 출신의 정이한 후보도 부산시장 출마를 선언했다&lt;br/&gt;&lt;em&gt;Kim Jeong-cheol, a supreme council member and former lawyer, is running in the Seoul mayoral election, and candidate Jeong Yi-han, a former spokesperson for the Reform Party, has declared his candidacy for Busan mayor.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 후보도 아니에요.&lt;br/&gt;&lt;em&gt;He is not even a candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;후보도 발표를 했어요.&lt;br/&gt;&lt;em&gt;The candidate also made an announcement.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1762330466678-45b42e02f5a0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGUlMjBhbHNvfGVufDB8fHx8MTc3NzA5ODgyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="후보도 (candidate also)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정 후보도 이날 오 시장을 세게 비판했다&lt;br/&gt;&lt;em&gt;(Candidate Jeong also strongly criticized Mayor Oh on this day)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;변호사 출신의 김정철 최고위원이 서울시장 선거를 뛰고 있고, 개혁신당 대변인 출신의 정이한 후보도 부산시장 출마를 선언했다&lt;br/&gt;&lt;em&gt;Kim Jeong-cheol, a supreme council member and former lawyer, is running in the Seoul mayoral election, and candidate Jeong Yi-han, a former spokesperson for the Reform Party, has declared his candidacy for Busan mayor.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 후보도 아니에요.&lt;br/&gt;&lt;em&gt;He is not even a candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;후보도 발표를 했어요.&lt;br/&gt;&lt;em&gt;The candidate also made an announcement.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 25 Apr 2026 15:33:50 +0900</pubDate><guid isPermaLink="false">vocab-108bbd82436518af347004cd4fb71f8ed69dfc19</guid><enclosure url="https://images.unsplash.com/photo-1762330466678-45b42e02f5a0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGUlMjBhbHNvfGVufDB8fHx8MTc3NzA5ODgyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="68758" /><ns2:content url="https://images.unsplash.com/photo-1762330466678-45b42e02f5a0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGUlMjBhbHNvfGVufDB8fHx8MTc3NzA5ODgyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1762330466678-45b42e02f5a0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGUlMjBhbHNvfGVufDB8fHx8MTc3NzA5ODgyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>후보도</category></item><item><title>비밀이고 – it is a secret and</title><link>urn:urn:vocab:비밀이고</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1579532537902-1e50099867b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpdCUyMGlzJTIwYSUyMHNlY3JldCUyMGFuZHxlbnwwfHx8fDE3NzcwOTEzNDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비밀이고 (it is a secret and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;” (‘북한 우라늄 농축 시설은 한미 연합 비밀’이라는 최근의 보도와 관련해 위 실장은 “원래 그것은 비밀이고, 그것을 한국과 공유해서 한미 간에 연합 비밀이 됐을 것”이라면서도 “정 장관이 연합 비밀을 듣고 언급했다면 큰 문제가 될 수 있겠지만, 정 장관은 일관되게 ‘그런 정보 브리핑을 받은 적이 없다’(고 하고 있다)”고 말했다&lt;br/&gt;&lt;em&gt;Regarding the recent report that 'North Korea's uranium enrichment facility is a ROK-US joint secret,' Director Wi said, 'Originally it was a secret, and it would have become a joint secret between South Korea and the US by sharing it with Korea,' but added, 'If Minister Jeong heard the joint secret and mentioned it, it could be a big problem, but Minister Jeong consistently says he has never received such a briefing.'&lt;/em&gt;&lt;/p&gt;
