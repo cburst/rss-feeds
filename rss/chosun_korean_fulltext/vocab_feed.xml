@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 22:40:21 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 00:53:31 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>불안한 – uneasy</title><link>urn:urn:vocab:불안한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기자단 – press corps</title><link>urn:urn:vocab:기자단</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1699662585308-fcb113a0a4ba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVzcyUyMGNvcnBzfGVufDB8fHx8MTc3NzIxODgwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기자단 (press corps)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Lee: "Shooting at WHCA Event 'a Grave Threat Undermining the Very Foundation of Democracy'" (李, 백악관 기자단 행사 총격 사건에 “민주주의 근간 훼손하는 중대한 위협”) &lt;&lt;br/&gt;&lt;em&gt;Lee: "Shooting at WHCA Event 'a Grave Threat Undermining the Very Foundation of Democracy'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Lee: "Shooting at WHCA Event 'a Grave Threat Undermining the Very Foundation of Democracy'" (李, 백악관 기자단 행사 총격 사건에 “민주주의 근간 훼손하는 중대한 위협”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;![CDATA[&lt;h1&gt;Lee: "Shooting at WHCA Event 'a Grave Threat Undermining the Very Foundation of Democracy'"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 26일 도널드 트럼프 미국 대통령이 참석한 백악관 출입기자단 만찬 행사에서 총격 사태가 벌어진 것에 대해 “정치적 폭력은 민주주의의 근간을 훼손하는 중대한 위협“이라며 ”어떠한 이유로도 결코 정당화될 수 없다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung stated on the 26th regarding the shooting incident at the White House Correspondents' Association dinner attended by U.S. President Donald Trump, "Political violence is a grave threat that undermines the very foundation of democracy" and "can never be justified for any reason."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기자단이 기자회견에 참석했다.&lt;br/&gt;&lt;em&gt;The press corps attended the press conference.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기자단은 뉴스를 보도한다.&lt;br/&gt;&lt;em&gt;The press corps reports the news.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1699662585308-fcb113a0a4ba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVzcyUyMGNvcnBzfGVufDB8fHx8MTc3NzIxODgwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기자단 (press corps)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Lee: "Shooting at WHCA Event 'a Grave Threat Undermining the Very Foundation of Democracy'" (李, 백악관 기자단 행사 총격 사건에 “민주주의 근간 훼손하는 중대한 위협”) &lt;&lt;br/&gt;&lt;em&gt;Lee: "Shooting at WHCA Event 'a Grave Threat Undermining the Very Foundation of Democracy'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Lee: "Shooting at WHCA Event 'a Grave Threat Undermining the Very Foundation of Democracy'" (李, 백악관 기자단 행사 총격 사건에 “민주주의 근간 훼손하는 중대한 위협”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;![CDATA[&lt;h1&gt;Lee: "Shooting at WHCA Event 'a Grave Threat Undermining the Very Foundation of Democracy'"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 26일 도널드 트럼프 미국 대통령이 참석한 백악관 출입기자단 만찬 행사에서 총격 사태가 벌어진 것에 대해 “정치적 폭력은 민주주의의 근간을 훼손하는 중대한 위협“이라며 ”어떠한 이유로도 결코 정당화될 수 없다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung stated on the 26th regarding the shooting incident at the White House Correspondents' Association dinner attended by U.S. President Donald Trump, "Political violence is a grave threat that undermines the very foundation of democracy" and "can never be justified for any reason."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기자단이 기자회견에 참석했다.&lt;br/&gt;&lt;em&gt;The press corps attended the press conference.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기자단은 뉴스를 보도한다.&lt;br/&gt;&lt;em&gt;The press corps reports the news.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 27 Apr 2026 00:53:31 +0900</pubDate><guid isPermaLink="false">vocab-54d12e6b495f1fdc615df33e5cde0549411a9842</guid><enclosure url="https://images.unsplash.com/photo-1699662585308-fcb113a0a4ba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVzcyUyMGNvcnBzfGVufDB8fHx8MTc3NzIxODgwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="127509" /><ns2:content url="https://images.unsplash.com/photo-1699662585308-fcb113a0a4ba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVzcyUyMGNvcnBzfGVufDB8fHx8MTc3NzIxODgwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1699662585308-fcb113a0a4ba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVzcyUyMGNvcnBzfGVufDB8fHx8MTc3NzIxODgwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기자단</category></item><item><title>불안한 – uneasy</title><link>urn:urn:vocab:불안한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1654272531347-d7bf75ec6a42?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bmVhc3l8ZW58MHx8fHwxNzc3MjEwODE3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불안한 (uneasy)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (압승론에도 불안한 민주당 “장동혁 사퇴하면 안되는데…”) &lt;&lt;br/&gt;&lt;em&gt;" (Democratic Party uneasy despite landslide victory theory: 'Jang Dong-hyuk shouldn't resign...') &lt;&lt;/em&gt;&lt;/p&gt;
