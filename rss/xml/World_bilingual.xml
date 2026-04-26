@@ -1,214 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 26 Apr 2026 07:18:29 +0000</lastBuildDate><item><title>Touring Africa, Pope Leo Raised His Voice, but Didn’t Like the Echo (아프리카 순방 교황 레오, 목소리는 높였지만 메아리는 달갑지 않았다)</title><link>https://www.nytimes.com/2026/04/23/world/europe/pope-leo-africa-trump.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/multimedia/23int-pope-wrap-1-hfmq/23int-pope-wrap-1-hfmq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;When Pope Leo XIV talks, people listen.&lt;br/&gt;(교황 레오 14세가 말하면 사람들은 귀를 기울인다.)&lt;/p&gt;
-&lt;p&gt;Yet he is learning that he can’t always control how they hear him.&lt;br/&gt;(그러나 자신의 말이 어떻게 전달되는지 항상 통제할 수 없다는 것을 깨닫고 있다.)&lt;/p&gt;
-&lt;p&gt;From the very beginning of Leo’s 11-day trip to Africa, which ended on Thursday, his mission to highlight injustice across the continent was interpreted through the lens of his dispute with President Trump.&lt;br/&gt;(목요일 종료된 레오의 11일간 아프리카 순방 내내, 대륙 전역의 부정의를 조명하려는 그의 사명은 도널드 트럼프 대통령과의 논쟁이라는 렌즈를 통해 해석되었다.)&lt;/p&gt;
-&lt;p&gt;Leo’s remarks in Algeria, Cameroon, Angola and Equatorial Guinea were almost drowned out by his comments on the first flight of the trip, when he responded to a diatribe about him Mr. Trump posted on social media after the pope spoke out repeatedly against the war in Iran. Leo told the reporters traveling with him that he had “no fear” of the Trump administration.&lt;br/&gt;(알제리, 카메룬, 앙골라, 적도 기니에서 한 레오의 발언은 순방 첫 비행기에서 한 그의 발언에 거의 묻혔다. 교황이 이란 전쟁에 대해 반복적으로 목소리를 낸 후 트럼프가 소셜미디어에 올린 교황에 대한 독설에 응답한 것이었다. 레오는 동행한 기자들에게 트럼프 행정부를 "두려워하지 않는다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;As the trip wore on, the pope’s subsequent criticisms of authoritarian behavior were viewed as being aimed as much at Mr. Trump as they were at African leaders. Collectively, his increasingly forthright comments also appeared to suggest that a previously cautious pontiff had finally found his voice.&lt;br/&gt;(순방이 진행됨에 따라, 권위주의적 행태에 대한 교황의 이후 비판은 아프리카 지도자들만큼이나 트럼프에게도 향한 것으로 간주되었다. 점점 더 솔직해지는 그의 발언들은 전체적으로, 이전에는 신중했던 교황이 마침내 자신의 목소리를 찾았음을 암시하는 것처럼 보였다.)&lt;/p&gt;
-&lt;p&gt;He didn’t always seem to like how people took what he said. Halfway through the trip, Leo addressed the media frenzy surrounding his dispute with Mr. Trump, telling the journalists accompanying him that commentators had misinterpreted some of his words in Africa as further criticism of the American president.&lt;br/&gt;(그는 사람들이 자신의 말을 받아들이는 방식이 항상 마음에 드는 것 같지는 않았다. 순방 중간에 레오는 트럼프와의 논쟁을 둘러싼 언론의 과열을 언급하며, 동행 기자들에게 해설자들이 아프리카에서 한 자신의 말 중 일부를 미국 대통령에 대한 추가 비판으로 오해했다고 말했다.)&lt;/p&gt;
-&lt;p&gt;It almost seemed as if he were backing away from his unflinching stance and trying to return to the early days of his papacy, when both liberal and conservative Catholics embraced him as someone who resisted easy ideological categorization.&lt;br/&gt;(그는 마치 자신의 확고한 입장에서 물러나 보수와 진보 가톨릭 신자 모두가 쉬운 이념적 분류를 거부하는 인물로 받아들였던 교황직 초기로 돌아가려는 듯 보였다.)&lt;/p&gt;
-&lt;p&gt;In his still young papacy, Leo has begun to speak more pointedly about world events, including the U.S.-Israeli attacks on Iran. But as a trained canon lawyer, he wants people to interpret him narrowly, even as he often speaks in vague biblical metaphors and seemingly alludes to the actions of political leaders without naming them.&lt;br/&gt;(아직 젊은 그의 교황직에서 레오는 미국-이스라엘의 이란 공격을 포함한 세계 정세에 대해 더 날카롭게 발언하기 시작했다. 그러나 훈련된 교회법 학자로서 그는 자신이 종종 모호한 성서적 은유로 말하고 정치 지도자들의 행동을 거명하지 않고 암시하는 듯 보임에도 불구하고, 사람들이 자신을 좁은 의미로 해석하기를 원한다.)&lt;/p&gt;
-&lt;p&gt;“My sense with this latest stuff is he wanted plausible deniability,” said Miles Pattenden, a historian at Oxford University who studies the church. “Obviously the pope can’t lie, but he can say things in such a way that there’s more than one way of reading it.”&lt;br/&gt;("이번 일에서 제가 느낀 것은 그가 그럴듯한 부인 가능성을 원했다는 것입니다. 교황은 분명 거짓말을 할 수 없지만, 여러 방식으로 읽힐 수 있도록 말할 수는 있습니다." 교회를 연구하는 옥스퍼드 대학의 역사학자 마일스 패튼든이 말했다.)&lt;/p&gt;
-&lt;p&gt;The pope chastised news outlets for creating what he said was an inaccurate narrative around a speech in Cameroon, where he lamented a world “ravaged by a handful of tyrants.” Many news outlets, including The New York Times, said he seemed to be speaking not only to local leaders but also to Mr. Trump.&lt;br/&gt;(교황은 카메룬 연설에 대해 부정확한 서사를 만들었다며 언론사를 질책했다. 그 연설에서 그는 "소수의 폭군들에 의해 황폐해진" 세상을 한탄했다. 뉴욕타임스를 포함한 많은 언론사는 그가 지역 지도자뿐 아니라 트럼프에게도 말하는 것 같다고 전했다.)&lt;/p&gt;
-&lt;p&gt;The pope said that the comments had been prepared two weeks earlier and that it was “not in my interest at all” to continue to debate the president.&lt;br/&gt;(교황은 해당 발언이 2주 전에 준비된 것이었으며 대통령과 계속 논쟁하는 것은 "전혀 제 이익이 아니다"라고 말했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Pattenden said he was skeptical of the pope’s “nothing to see here” explanation. “Anyone, even one of my students, knows that you can revise your remarks from two weeks ago,” said Mr. Pattenden. “And it’s probably a good idea to do that if you can foresee that people are going to interpret it in a particular way.”&lt;br/&gt;(패튼든은 교황의 "볼 것 없다"는 설명에 회의적이었다. "누구든, 제 학생들조차도 2주 전의 발언을 수정할 수 있다는 걸 압니다. 그리고 사람들이 특정 방식으로 해석할 것을 예상할 수 있다면 그렇게 하는 것이 아마 좋은 생각일 겁니다." 패튼든이 말했다.)&lt;/p&gt;
-&lt;p&gt;Leo’s predecessor, Pope Francis, was more likely to provoke and could even appear energized by conflict. Francis was “totally comfortable being in uncomfortable situations,” said David M. Lantigua, an associate professor of theology at the University of Notre Dame. “I don’t think that Leo shares that kind of temperament.”&lt;br/&gt;(레오의 전임자 프란치스코 교황은 더 자극하는 경향이 있었고 갈등에 활력을 얻는 듯 보이기까지 했다. 프란치스코는 "불편한 상황에서 완전히 편안해했다"고 노틀담 대학의 신학 부교수 데이비드 M. 란티과가 말했다. "레오가 그런 기질을 공유한다고 생각하지 않습니다.")&lt;/p&gt;
-&lt;p&gt;Still, the pope, who met with leaders of authoritarian governments that have cracked down on dissent and fostered massive inequality, seemed willing to take some of them on from the pulpit.&lt;br/&gt;(그럼에도, 반대 의견을 탄압하고 막대한 불평등을 조장해온 권위주의 정부 지도자들을 만난 교황은 설교단에서 그들 중 일부를 비판하려는 의지를 보인 듯했다.)&lt;/p&gt;
-&lt;p&gt;Speaking to reporters on the plane home on Thursday, Leo also continued to criticize the war in Iran, lamenting that the conflict had caused “the death of so many innocents.” He also expressed frustration at the slow pace of peace negotiations. “One day Iran says ‘yes’ and the United States says ‘no,’ and vice versa,” he said, “and we don’t know where it goes, which has created this chaotic situation for the global economy.”&lt;br/&gt;(목요일 귀국 비행기에서 기자들에게 연설한 레오는 또한 이란 전쟁을 계속 비판하며 분쟁이 "수많은 무고한 사람들의 죽음"을 초래했다고 한탄했다. 그는 또한 평화 협상의 더딘 속도에 좌절감을 표했다. "어느 날은 이란이 '예'라고 하고 미국이 '아니오'라고 하며, 그 반대도 일어납니다, 그리고 우리는 그것이 어디로 가는지 모르며, 이것이 글로벌 경제에 혼란스러운 상황을 만들었습니다." 그가 말했다.)&lt;/p&gt;
-&lt;p&gt;William T. Cavanaugh, a political theologian at DePaul University in Chicago, noted that Leo kept criticizing the war — and authoritarianism writ large — even after he backed away from the direct confrontation with Mr. Trump.&lt;br/&gt;(시카고 드폴 대학의 정치 신학자 윌리엄 T. 카바나우는 레오가 트럼프와의 직접적 대결에서 물러난 후에도 전쟁과 권위주의 전반을 계속 비판했다고 지적했다.)&lt;/p&gt;
-&lt;p&gt;“But he did sound like he just didn’t want to be portrayed as being in a pissing match with Donald Trump,” said Mr. Cavanaugh.&lt;br/&gt;("하지만 그는 도널드 트럼프와의 싸움으로 묘사되기를 원하지 않는 것처럼 들렸습니다." 카바나우가 말했다.)&lt;/p&gt;
-&lt;p&gt;In Algeria, Leo told those “who hold positions of authority” that they should “promote a vibrant, dynamic and free civil society.”&lt;br/&gt;(알제리에서 레오는 "권위 있는 위치에 있는 이들"에게 "생동감 있고 역동적이며 자유로운 시민 사회를 촉진해야 한다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;In Cameroon, where Leo met with Paul Biya, 93, who has ruled the nation for more than four decades, the pope warned against “an idolatrous thirst for profit.”&lt;br/&gt;(40년 넘게 국가를 통치해 온 93세의 폴 비야를 만난 카메룬에서 교황은 "이익에 대한 우상 숭배적 갈망"에 대해 경고했다.)&lt;/p&gt;
-&lt;p&gt;And in Equatorial Guinea, Leo met the strongman leader, Teodoro Obiang Nguema Mbasogo, who is the world’s longest-serving president and rules over a country with vast reserves of oil but where more than half the population lives under the poverty line. At a Mass on Wednesday where the president accompanied the pope, Leo called for a society that serves the “common good rather than private interests, bridging the gap between the privileged and the disadvantaged.”&lt;br/&gt;(그리고 적도 기니에서 레오는 세계 최장수 대통령이자 막대한 석유 매장량을 가졌지만 인구의 절반 이상이 빈곤선 아래에서 사는 나라를 통치하는 강력한 지도자 테오도로 오비앙 응게마 음바소고를 만났다. 수요일 대통령이 교황과 동행한 미사에서 레오는 "사적 이익보다 공공선을 섬기고, 특권층과 소외층 간의 격차를 해소하는" 사회를 촉구했다.)&lt;/p&gt;
-&lt;p&gt;Leo, speaking on the plane on Thursday, said he hoped that such engagement with leaders might nudge them toward better governance.&lt;br/&gt;(목요일 비행기에서 연설한 레오는 그러한 지도자들과의 교류가 더 나은 통치를 향해 그들을 움직이게 할 수 있기를 희망한다고 말했다.)&lt;/p&gt;
-&lt;p&gt;Such engagement, Leo said, is “interpreted by some as the pope or the church is saying, ‘It’s OK that they live like that.’”&lt;br/&gt;(그러한 교류는 "어떤 이들에 의해 교황이나 교회가 '그들이 그렇게 사는 것이 괜찮다'고 말하는 것으로 해석됩니다." 레오가 말했다.)&lt;/p&gt;
-&lt;p&gt;But, he said, “It is important to talk to heads of state, to encourage maybe a change of mentality, a greater openness to thinking about the good of the people.”&lt;br/&gt;(하지만, "국가 원수들과 이야기하고, 어쩌면 사고방식의 변화, 국민의 복지에 대해 생각하는 더 큰 개방성을 장려하는 것이 중요합니다." 그가 말했다.)&lt;/p&gt;
-&lt;p&gt;The question is what effect the pope’s words will have once he has left.&lt;br/&gt;(문제는 그가 떠난 후 교황의 말이 어떤 효과를 낼 것인가이다.)&lt;/p&gt;
-&lt;p&gt;“He has not been afraid to call out bad leaders,” said the Rev. Stan Chu Ilo, a Nigerian priest and professor of Catholic studies at DePaul. But societies and governments, he said, don’t change “just because the pope came.”&lt;br/&gt;("그는 나쁜 지도자들을 지적하는 것을 두려워하지 않았습니다." 나이지리아 사제이자 드폴 대학 가톨릭 연구 교수인 스탄 추 일로 신부가 말했다. 그러나 사회와 정부는 "교황이 왔다고 해서 변하지 않습니다." 그가 말했다.)&lt;/p&gt;
-&lt;p&gt;“It might even get worse,” Father Ilo said. “The papal visit might also be used as a veneer or mask” for governments seeking validation.&lt;br/&gt;("더 나빠질 수도 있습니다. 교황 방문은 인정을 받으려는 정부에게 표면상의 가면으로 사용될 수도 있습니다." 일로 신부가 말했다.)&lt;/p&gt;
-&lt;p&gt;Yet if Leo refused to visit countries ruled by troubling leaders, other scholars said, he risked making it seem as if he didn’t care about Catholics in those places.&lt;br/&gt;(그러나 만약 레오가 문제 있는 지도자들이 통치하는 국가 방문을 거부한다면, 다른 학자들은 그가 그곳의 가톨릭 신자들에게 관심이 없는 것처럼 보일 위험이 있다고 말했다.)&lt;/p&gt;
-&lt;p&gt;“Of course it does run the risk of seeming like you’re legitimizing something that is not good,” said Elissa Cutter, associate professor of religious studies and theology at Georgian Court University in Lakewood, N.J. But, she said, “you want to keep the lines of communication open.”&lt;br/&gt;("물론 좋지 않은 것을 정당화하는 것처럼 보일 위험이 있습니다." 뉴저지주 레이크우드의 조지안 코트 대학 종교 연구 및 신학 부교수 엘리사 커터가 말했다. 하지만, 그녀는 "의사소통의 통로를 열어두길 원합니다."라고 말했다.)&lt;/p&gt;
-&lt;p&gt;Zacarias Hossi, 24, a college student in Kilamba, Angola, said he did not expect the pope to shift the thinking of political leaders. “I believe some politicians will listen and are listening,” said Mr. Hossi, laughing. “But others, well, I think you know.”&lt;br/&gt;(앙골라 킬람바의 대학생 자카리아스 호시(24)는 교황이 정치 지도자들의 사고를 바꿀 것이라고 기대하지 않는다고 말했다. "일부 정치인들은 듣고 있고 들을 것이라고 믿습니다." 호시가 웃으며 말했다. "하지만 다른 이들은, 글쎄요, 아시다시피.")&lt;/p&gt;
-&lt;p&gt;Leo, now 70, kept up a grueling schedule on the trip, taking 18 flights and saying eight Masses over 11 days, often in remote regions. In addition to his stops at presidential palaces and cathedrals, he visited nursing homes, a psychiatric hospital, universities and a prison, often in intense heat.&lt;br/&gt;(현재 70세인 레오는 순방 동안 강행군 일정을 소화했으며, 11일 동안 18번의 비행을 하고 8번의 미사를 집전했으며, 종종 외딴 지역을 방문했다. 대통령 궁전과 성당 외에도, 그는 요양원, 정신 병원, 대학, 교도소를 방문했으며, 종종 뜨거운 더위 속에서였다.)&lt;/p&gt;
-&lt;p&gt;In Leo’s words, some people heard the seeds of a different kind of future.&lt;br/&gt;(레오의 말에서 어떤 사람들은 다른 종류의 미래의 씨앗을 들었다.)&lt;/p&gt;
-&lt;p&gt;“The way that the pope speaks, he gives us authority,” said Mufua Theophile, 30, who came to see Leo’s final Mass in Yaoundé, Cameroon’s capital, last week.&lt;br/&gt;("교황님께서 말씀하시는 방식은 우리에게 권위를 부여합니다." 지난주 카메룬 수도 야운데에서 레오의 마지막 미사를 보러 온 무푸아 테오필(30)이 말했다.)&lt;/p&gt;
-&lt;p&gt;The pope, said Mr. Theophile, “makes us have hope” that “a new generation of young people can also have freedom to enjoy the rights of the country.”&lt;br/&gt;(교황님은 "우리에게 희망을 주십니다." 테오필이 말했다. "새로운 세대의 젊은이들도 국가의 권리를 누릴 자유를 가질 수 있다는 희망을요.")&lt;/p&gt;
-&lt;p&gt;Gilberto Neto contributed reporting from Kilamba, Angola, and Josephine de La Bruyère from Rome.&lt;br/&gt;(길베르토 네투가 앙골라 킬람바에서, 조세핀 드 라 브뤼예르가 로마에서 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/23/world/europe/pope-leo-africa-trump.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/23/multimedia/23int-pope-wrap-1-hfmq/23int-pope-wrap-1-hfmq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 23 Apr 2026 09:49:09 +0000</pubDate></item><item><title>A Deadly Crash Is a Reminder of the Depth of U.S. Security Ties in Mexico (치명적 교통사고가 드러내는 미국과 멕시코 안보 유대의 깊이)</title><link>https://www.nytimes.com/2026/04/23/world/americas/mexico-crash-us-security-cia.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/multimedia/23int-mexico-security-wpbh/23int-mexico-security-wpbh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The deaths of two Americans in an automobile crash on a remote mountain road in northern Mexico has raised urgent questions about the extent of U.S. involvement in the region’s drug war. The vehicle, carrying the Americans and two Mexican security officials, was returning from a raid on a large clandestine drug lab when it plunged off the steep terrain of the Sierra Tarahumara.&lt;br/&gt;(멕시코 북부 외딴 산길에서 발생한 자동차 사고로 미국인 두 명이 사망하면서, 미국이 이 지역 마약 전쟁에 얼마나 깊숙이 관여하고 있는지에 대한 긴급한 의문이 제기됐다. 미국인 2명과 멕시코 보안 요원 2명이 탑승한 차량은 대규모 비밀 마약 제조소를 급습한 후 돌아오는 길에 시에라 타라우마라의 가파른 지형에서 추락했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 미국인들은 누구였으며, 그곳에서 무엇을 하고 있었을까? 그들이 멕시코에서 활동할 권한을 가지고 있었는지, 어떤 자격으로 있었는지? 이 의문들은 뉴욕타임스와 다른 매체들이 미국 관료들이 CIA 요원이었다고 보도하면서 더욱 커졌고, 멕시코의 조직범죄와의 싸움에서 CIA의 역할 확대에 대한 조사가 집중되고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-클라우디아 셰인바움 대통령은 해당 요원들의 활동을 인지하지 못했다고 밝히며, 그들의 존재가 국가 안보법을 위반했는지 조사하겠다고 말했다. 조사 결과 요원들이 현장 보안 작전에 참여한 것으로 확인되면, 자국 정부는 미국 정부에 공식 항의 서한을 보낼 것이라고 그녀는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-셰인바움 대통령은 분명한 선을 그었다: 미국과의 협력은 필수적이지만, 멕시코 영토 내에서 미군이 작전을 수행하는 것은 허용하지 않는다는 것이다. 이러한 입장은 대다수의 멕시코 국민이 카르텔에 맞서기 위한 미국의 군사 개입에 반대하는 광범위한 국가적 정서를 반영한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 멕시코 내 CIA 요원들의 존재가 전례가 없는 것은 아니다. 수십 년 동안 미국 정보 및 법 집행 기관들은 멕시코의 안보 작전에서 조용하지만 중요한 역할을 해왔으며, 이는 종종 불편한 파트너십 속에서 위협과 정치적 흐름이 국경 양측에서 변화함에 따라 진화해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난 1년 동안, 이 관계는 더욱 긴장되었다. 이는 트럼프 대통령이 멕시코에 카르텔에 대한 더 강력한 조치와 북쪽으로의 마약 흐름 차단을 요구하면서 압박을 가한 데 따른 것이다. 트럼프 대통령은 멕시코 영토 내에서 일방적인 군사 행동을 추구하겠다고 여러 번 다짐했지만, 셰인바움 대통령은 이를 단호히 거부했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그럼에도 불구하고, 안보 협력은 여전히 긴밀하고 지속적으로 유지되고 있다. "우리는 매우 강력한 조정을 하고 있습니다."라고 멕시코 최고 안보 책임자 오마르 가르시아 하르푸흐는 최근 타임스와의 인터뷰에서 말했다. "정보 공유가 매우 많습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-가르시아 하르푸흐는 전직 CIA 준군사 요원인 미국 대사와 정기적으로 접촉하고 있으며, 미국 안보 기관들과도 직접 소통하고 있다고 설명했다. "저는 그들 모두와 대화합니다."라고 그는 말하며, 이러한 유대 관계가 미국의 일방적인 행동 가능성을 줄여준다고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이러한 조정 수준은 워싱턴에서 찬사를 받고 있다. 마르코 루비오 국무장관은 셰인바움 정권 하의 안보 유대가 "역사적인" 수준에 도달했다고 평가했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 이처럼 긴밀하고 지속적인 의사소통과 정보 공유가 항상 순조롭거나 확실했던 것은 아니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난 40년 동안, 미-멕시코 안보 협력은 비공식적인 공조에서 보다 제도화된 파트너십으로 발전해 왔지만, 전문가, 분석가 및 전직 안보 관료들에 따르면 여전히 비밀과 주기적인 마찰 속에 가려져 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국 기관들은 또한 더 조용한 경로를 통해 활동해 왔으며, 현지 정보원을 육성하고 범죄 네트워크에 침투하는 방식으로 공식 기록에 남지 않는 정보 작업을 수행해 왔다고 멕시코의 안보 분석가 라울 베니테즈는 말했다. 마약 카르텔의 세력이 커지고 미국 내 마약 수요가 급증하면서, 이러한 범죄 조직이 양국 공동의 최우선 과제가 되면서 협력은 더욱 강화되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2006년에 취임한 펠리페 칼데론 대통령 아래에서 멕시코는 마약과의 전쟁을 시작했으며, 조지 W. 부시 대통령의 지원을 받아 강력한 카르텔을 해체하기 위해 군대를 투입했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-약 14억 달러의 미국 자금 지원을 받은 2008년 안보 파트너십인 메리다 이니셔티브를 통해, 미국은 멕시코 안보군에 장비, 첨단 감시 및 훈련을 제공하기 시작했다. 이는 또한 현장에 더 깊은 미국의 존재감을 가져왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-멕시코 관계자들은 나중에 이를 직설적으로 표현했다: "그들은 부엌 안까지 들어왔다"는 뜻의 스페인어 "entraron hasta la cocina"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이러한 노력은 멕시코에서 살인 사건의 급격한 증가와 함께, 2006년부터 2008년까지 멕시코군에 대한 인권 침해 신고가 6배 증가하는 결과를 초래했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-더 최근에는, 카르텔 지도자들에 대한 가장 주목할 만한 작전 중 일부가 적어도 부분적으로는 미국 정보에 의존해 왔다. 여기에는 2016년 멕시코 해병대가 시날로아 카르텔의 악명 높은 지도자 엘 차포로 알려진 호아킨 구스만 로에라를 재체포한 작전이 포함된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-가장 최근에는, CIA가 또 다른 카르텔 보스의 위치에 대한 중요한 정보를 제공했다. 바로 2월 멕시코 특수부대의 작전 중 사망한 할리스코 신세대 카르텔의 오랜 지도자 엘 멘초로 알려진 네메시오 오세게라 세르반테스이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 작전은 체포의 물결, 대규마약 압수, 비밀 연구소 해체, 그리고 범죄 조직원으로 의심되는 거의 100명을 미국으로 송환하는 등 카르텔에 대한 정부의 광범위한 공세의 일환이었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-양국 간의 긴장은 위기, 특히 미국인이 희생된 사건 이후에 더욱 깊어지는 경향이 있다. 1985년 마약단속국(DEA) 요원 엔리케 "키키" 카마레나의 살해는 전환점이었다. 그의 고문과 살해는 긴장을 고조시켰지만, 동시에 레이건 시대의 마약 전쟁을 촉발시켰고 DEA를 멕시코에서 더 중심적인 역할로 밀어 넣었으며, 수년간 조정을 확대시켰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 양자 협력은 때때로 비극적인 실수로 얼룩지기도 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-협력의 가장 명백한 실패 중 하나에서, DEA는 2011년 세타스 카르텔의 최고 지도자들을 위해 추적 가능한 휴대폰을 확보하여 검증된 멕시코 연방 경찰 부대와 공유했다. 그 정보는 곧 카르텔에 다시 유출되었고, 카르텔은 초토화 보복을 감행하여 수십, 아마도 수백 명의 남성, 여성, 어린이를 살해했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-어떤 경우에는 그러한 위험이 멕시코 안보 지도부의 최고위층까지 확대되기도 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2006년부터 2012년까지 멕시코 최고 안보 책임자로 재임하는 동안, 헤나로 가르시아 루나는 미국 관리들로부터 마약 전쟁의 중요한 동맹으로 칭송받았다. 그러나 시날로아 카르텔로부터 수백만 달러의 뇌물을 받은 혐의로 2023년 미국 법원에서 유죄 판결을 받은 것은 미국 정보기관 역사상 가장 부끄러운 사건 중 하나였다. 이는 그 관리가 엘 차포를 포함한 강력한 마약 밀매자들을 보호하고 있었음을 드러냈다.
-&lt;&lt;&lt;PARA&gt;&gt;
-더 최근에는, 2018년에 선출된 안드레스 마누엘 로페스 오브라도르 대통령 아래에서 관계가 냉각되었다. 2020년, 트럼프 행정부 기간 동안 미국 검찰이 멕시코 전 국방장관 살바도르 시엔푸에고스를 체포한 후, 멕시코는 DEA와의 협력을 축소했다. 로페스 오브라도르 대통령은 또한 20년 넘게 미국 기관과 긴밀히 협력해 온 검증된 부대를 해체했으며, 범죄 조직에 의해 손상되었다고 주장했다. 그러나 장기적인 안보 유대를 손상시킨 이 조치는 멕시코가 주권 침해로 간주한 시엔푸에고스 체포에 대한 방어적 대응으로 여겨졌다. (그는 나중에 무죄로 판명되었다.)
-&lt;&lt;&lt;PARA&gt;&gt;
-1990년대 멕시코 주재 미국 대사관의 전직 미국 군무관이었던 크레이그 디어는 최근 몇 년 동안 군사 협력이 크게 확대되어 불신의 유산을 완화하는 데 도움이 되었다고 지적했다. 이러한 긴장은 1848년 멕시코의 패배와 영토의 거의 절반을 상실로 끝난 멕시코-미국 전쟁에 뿌리를 두고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"개인적, 제도적, 이념적 마찰이 있습니다. 불신이 존재하지만, 우리 국가를 방어할 책임이 있는 사람들은 계속 나아가야 할 필요성을 이해하고 있습니다."라고 디어는 말했다. "위험이 너무 크기 때문입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-미-멕시코 협력이 가장 분명하게 드러나는 곳은 국경 지역으로, 그곳에서는 합동 작전과 정보 공유가 오랫동안 일상화되어 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-CIA 요원들이 사망한 북부 주 치와와에서는, 주 관리들은 마약 및 인신 밀매, 그리고 미국으로의 이주 흐름에 초점을 맞춘 미국 법 집행 기관과의 파트너십을 설명했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-주 공공 안보 사무국 대변인 호르헤 아르멘다리스는 올여름 늦게까지 국토안보수사국(HSI), DEA, FBI, 세관국경보호국(CBP), 주류·담배·화기·폭발물 단속국(ATF)을 포함한 미국 기관의 최대 18명의 분석가가 텍사스주 엘파소에서 남쪽으로 약 10마일 떨어진 시우다드후아레스의 새로운 정보 센터에 배치될 것이라고 말했다. 그는 이들의 역할은 멕시코의 국가 안보법에 따라 현장 작전이 아닌 모니터링, 국경 관련 분석 및 정보 공유가 될 것이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아르멘다리스는 치와와 주의 지리적 특성, 뉴멕시코주 및 텍사스주와의 164마일 국경, 그리고 안보 과제로 인해 이러한 조정이 필수적이며, 지역 보안군은 CBP 요원들과 매주 합동 작전을 수행하며 각자 국경 쪽에서 동시에 작업을 진행하고 있다고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이 기관 및 기관들과의 조정은 상호성, 기술 교류 및 전략적 협력을 기반으로 하며, 항상 명확한 규칙, 상호 존중 및 멕시코 법적 체계에 대한 완전한 준수 아래 이루어질 것입니다."라고 아르멘다리스는 말하며, CIA는 새로운 정보 센터에 참여하지 않을 것이라고 덧붙였다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/23/world/americas/mexico-crash-us-security-cia.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/23/multimedia/23int-mexico-security-wpbh/23int-mexico-security-wpbh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 23 Apr 2026 15:09:44 +0000</pubDate></item><item><title>Tanzania Blames Outsiders and Government Foes for Election Violence (탄자니아, 선거 폭력 사태에 '외부 세력과 정부 반대파 탓')</title><link>https://www.nytimes.com/2026/04/23/world/africa/tanzania-election-violence-report.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/multimedia/23int-tanzania-violence-1-vmjg/23int-tanzania-violence-1-vmjg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;A commission appointed by Tanzania’s government on Thursday said that the deadly violence that followed last year’s presidential election was fomented by well-trained agitators with outside help and the authorities were not to blame.&lt;br/&gt;(탄자니아 정부가 임명한 위원회는 목요일, 지난해 대통령 선거 이후 발생한 치명적 폭력 사태가 외부 도움을 받은 잘 훈련된 선동가들에 의해 조장되었으며 책임은 당국에 있지 않다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;The commission was set up by President Samia Suluhu Hassan as the first consolidated attempt by the state to explain the worst violence of its kind since Tanzania gained independence in the 1960s. In a speech on receiving the report, Ms. Hassan said that what had happened “shook the nation.”&lt;br/&gt;(이 위원회는 사미아 술루후 하산 대통령이 탄자니아가 1960년대 독립한 이후 최악의 이런 유형의 폭력 사태를 설명하기 위한 국가 차원의 첫 번째 통합된 시도로 설립했다. 보고서를 받은 연설에서 하산 대통령은 일어난 일이 "국가를 흔들었다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;Yet the findings outlined by commission chairman Mohamed Chande Othman, a former chief justice of Tanzania, presented a picture at odds with human rights groups, which estimated that hundreds and possibly thousands of people were killed during the crackdown.&lt;br/&gt;(그러나 위원장인 탄자니아 전 대법원장 모하메드 찬데 오트만이 개괄한 결과는 수백 명에서 수천 명에 달하는 사람들이 진압 과정에서 사망했다고 추정한 인권 단체들의 견해와 상반된 그림을 제시했다.)&lt;/p&gt;
-&lt;p&gt;Without providing evidence, Mr. Chande said that the violence was carefully planned and financed by outside forces and others that wanted to destabilize the country. The commission completed extensive research, but was unable to substantiate earlier reports of a mass grave, he said. It also provided a provisional death toll of 518 people.&lt;br/&gt;(증거를 제시하지 않은 채 찬데는 폭력이 국가를 불안정하게 만들려는 외부 세력과 다른 이들에 의해 신중하게 계획되고 자금이 지원되었다고 말했다. 위원회는 광범위한 조사를 완료했지만, 이전에 보고된 집단 매장지에 대한 주장을 입증할 수 없었다고 그는 말했다. 또한 잠정적 사망자 수를 518명으로 제시했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Chande said that it was not the commission’s place to investigate crimes, but concluded that the security forces had exercised restraint and used force proportionately.&lt;br/&gt;(찬데는 위원회가 범죄를 수사할 위치에 있지 않다고 말했지만, 보안군이 자제력을 발휘하고 비례적으로 병력을 사용했다고 결론지었다.)&lt;/p&gt;
-&lt;p&gt;In her speech on national television, Ms. Hassan appealed to Tanzania’s history of social harmony and said she sympathized with the victims and with parents who had lost children.&lt;br/&gt;(국영 텔레비전 연설에서 하산 대통령은 탄자니아의 사회적 화합 역사에 호소하며 피해자와 자녀를 잃은 부모들에게 공감을 표했다.)&lt;/p&gt;
-&lt;p&gt;She called for reconciliation and placed the blame on the government’s opponents. “The objective of those involved was to disrupt the election and create a leadership vacuum so that the country would become ungovernable,” she said. Outside agitators seeking to plunder resources are usually responsible for conflicts in Africa, she said.&lt;br/&gt;(그녀는 화해를 촉구하고 정부 반대파에 책임을 돌렸다. "관련된 사람들의 목표는 선거를 방해하고 지도력 공백을 만들어 국가를 통치 불가능 상태로 만드는 것이었다"고 그녀는 말했다. 자원을 약탈하려는 외부 선동가들이 보통 아프리카 분쟁의 원인이라고 그녀는 말했다.)&lt;/p&gt;
-&lt;p&gt;Human Rights Watch said last month that Tanzanian security forces had acted with impunity after the election, shooting and killing protesters as well as bystanders in many parts of the country. “At least hundreds” of people died, the report said.&lt;br/&gt;(휴먼라이츠워치는 지난달 탄자니아 보안군이 선거 후 처벌받지 않고 행동하며 전국 여러 지역에서 시위자와 방관자를 총살했다고 밝혔다. 보고서는 "적어도 수백 명"이 사망했다고 전했다.)&lt;/p&gt;
-&lt;p&gt;Other groups have suggested higher numbers may have been killed.&lt;br/&gt;(다른 단체들은 더 많은 숫자가 사망했을 수 있다고 제기했다.)&lt;/p&gt;
-&lt;p&gt;The release of the report on Thursday came against the backdrop of what political analysts see as a retreat from democracy in Tanzania, an East African country of around 70 million people.&lt;br/&gt;(목요일 보고서 발표는 정치 분석가들이 약 7000만 명의 동아프리카 국가인 탄자니아에서 민주주의로부터의 후퇴로 보는 배경 속에서 이루어졌다.)&lt;/p&gt;
-&lt;p&gt;The main opposition leader, Tundu Lissu, was detained a year ago and is on trial for treason. His party, Chadema, was barred from contesting the vote last October. The ruling party, Chama Cha Mapenduzi, has been in power for decades, and was the only major party on the ballot. Chadema called for an election boycott.&lt;br/&gt;(야당 지도자 툰두 리수는 1년 전 구금되었으며 반역죄로 재판을 받고 있다. 그의 정당 차데마는 지난 10월 선거에 출전하는 것이 금지되었다. 집권당 차마 차 마펜두지는 수십 년 동안 집권해 왔으며 유일한 주요 정당이었다. 차데마는 선거 보이콧을 촉구했다.)&lt;/p&gt;
-&lt;p&gt;Ms. Hassan was declared the winner with 98 percent of the vote, and a turnout of 87 percent. The African Union criticized the election. Senator Jim Risch, the Foreign Relations Committee’s chairman, and Senator Jeanne Shaheen, the committee’s ranking member, called for the United States to reassess its relations with the country.&lt;br/&gt;(하산 대통령은 98%의 득표율과 87%의 투표율로 승자로 선언되었다. 아프리카 연합은 이 선거를 비판했다. 외교위원회 위원장 짐 리시 상원의원과 위원회 간사 잰 샤힌 상원의원은 미국이 탄자니아와의 관계를 재평가할 것을 촉구했다.)&lt;/p&gt;
-&lt;p&gt;It was not immediately clear whether the commission’s statement on Thursday would mollify concern from some of the country’s international partners. John Heche, the deputy leader of Chadema, called the report a “total lie.”&lt;br/&gt;(목요일 위원회 성명이 국가의 일부 국제 파트너들의 우려를 완화할지는 즉시 명확하지 않았다. 차데마 부대표 존 헤체는 보고서를 "완전한 거짓말"이라고 불렀다.)&lt;/p&gt;
-&lt;p&gt;“It is shifting the blame from the killers and the people who ordered people to be killed to innocent civilians,” he said in an interview.&lt;br/&gt;("그것은 살인자들과 사람들을 죽이라고 명령한 사람들로부터 책임을 무고한 민간인에게 돌리고 있다"고 그는 인터뷰에서 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/23/world/africa/tanzania-election-violence-report.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/23/multimedia/23int-tanzania-violence-1-vmjg/23int-tanzania-violence-1-vmjg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 23 Apr 2026 09:56:11 +0000</pubDate></item><item><title>How the Supreme Court’s Shadow Docket Upended Climate Policy (대법원의 '그림자 재판부'가 기후 정책을 어떻게 뒤흔들었나)</title><link>https://www.nytimes.com/2026/04/23/climate/supreme-court-climate-shadow-docket.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/20/multimedia/23cli-newsletter-SCOTUS-01/23cli-newsletter-SCOTUS-01-articleLarge-v2.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;In 2016, a surprise decision from the Supreme Court “sent both climate policy and the court itself spinning in new directions,” Jodi Kantor and Adam Liptak wrote in an investigation published last week.&lt;br/&gt;(2016년, 대법원의 예상치 못한 결정은 "기후 정책과 법원 자체를 새로운 방향으로 돌리게 했다"고 조디 캔터와 애덤 립탁이 지난주 발표한 조사 기사에서 보도했다.)&lt;/p&gt;
-&lt;p&gt;The one-paragraph ruling halted the Clean Power Plan, President Barack Obama’s signature environmental policy, which was aimed at reducing emissions from power plants. The decision signaled the birth of the court’s modern “shadow docket,” which the court uses to issue short opinions and bypass the time-tested procedures of hearing oral arguments and publishing detailed explanation of the justices’ thinking.&lt;br/&gt;(단 한 문단으로 작성된 이 판결은 버락 오바마 대통령의 상징적 환경 정책인 청정 전력 계획(발전소 배출가스 감축 목표)을 중단시켰다. 이 결정은 법원이 간결한 의견을 내고 구두 변론 청취 및 판사들의 판단에 대한 상세한 설명 공개라는 오랜 절차를 생략하는, 현대적 '그림자 재판부'의 탄생을 알렸다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이후 법원은 이 비상 재판부를 활용해 이민, 직원 해고 등 문제에서 트럼프 대통령에게 20회 이상의 승소를 안겨주었다. 이렇게 내려진 결정은 일반적으로 임시적이지만 엄청난 영향을 미칠 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 사건의 핵심은 오바마 행정부의 기후 변화 대응 시도였다. 그러나 존 G. 로버츠 대법원장이 규제 시행으로 인한 산업계 비용을 우려한 반면, 타임스가 입수한 어떤 메모에서도 단 한 명의 판사도 기후 변화를 언급하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-해당 조사 기사가 발표된 이후, 환경 변호사들과 전 미국 환경보호청(EPA) 관계자들은 법원의 그림자 재판부 활용을 비판하며 결정이 성급하고 결함이 있었다고 주장했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-타임스가 공개한 대법원 내부 메모의 연속은 2016년 로버츠 대법원장이 오바마의 환경 정책을 막기 위해 신속히 행동해야 한다는 메시지에서 시작되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 그가 동료 판사들에게 보낸 해당 메모에서 인용한 증거는 불완전하고 편향적이었다고, 오바마 대통령 시절 EPA 국장이었던 인물과 환경법 전문가들은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-로버츠 대법원장은 대법원이 결국 청정 전력 계획을 뒤집을 가능성이 높으며, 하급 법원을 통해 사건이 진행되기를 기다리는 것은 에너지 회사들이 배출가스 감축에 큰 투자를 해야 하므로 돌이킬 수 없는 피해를 초래할 것이라고 주장했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2015년, 대법원은 수은 배출 관련 사건에서 오바마 행정부에 불리한 판결을 내렸다. 그러나 그 결정 당시 사건은 3년간 법정에 있었고 많은 발전소가 이미 배출 규제를 준수하기 위한 조치를 취한 상태였다. 이번에는 더 일찍 개입함으로써, 로버츠 대법원장은 법원이 판단을 내리기 전에 잠재적으로 불법적인 규제가 의도한 효과를 발휘하는 것을 막고자 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 마지막 요점을 뒷받침하며, 로버츠 대법원장은 당시 EPA 행정관이었던 지나 매카시가 BBC에 한 최근 발언을 인용했다. 그녀는 "우리는 청정 전력 계획을 시스템에 '각인시키고 있다'"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-매카시는 타임스에 이메일 성명을 통해 "대법원 다수결이 청정 전력 계획을 중단하기로 결정할 때, 사람들의 건강과 복지보다 화석 연료 산업의 요구와 필요에 더 집중했음이 분명해 보인다"고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀는 법원의 메모는 "대다수가 오바마 행정부에 대한 개인적 편견을 가지고 있었으며, 이것이 규칙의 법적 타당성에 영향을 미쳤음을 보여준다"고 적었다. "그들의 행동은 단순한 주의 의무나 의사 소통의 실패 이상이었습니다. 그들은 전국 각지의 사람들이 기후 변화에 대처하고 더 깨끗한 공기를 마실 수 있는 능력을 빼앗아간 것입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-로버츠 대법원장은 한 메모에서 청정 전력 계획 시행 비용이 최대 4800억 달러에 달할 수 있으며, 15년 동안 연평균 320억 달러에 이를 것이라는 추정치를 인용했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 숫자는 EPA 자체 추정치(연간 100억 달러 미만)보다 훨씬 높았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"다수결은 항소 측의 일방적 비용 추정에 속아 넘어갔으며, 이는 완전히 거짓으로 드러났습니다"라고 이 사건에 참여한 천연자원보호위원회(NRDC)의 선임 변호사 데이비드 도니거가 말했다. (주 정부와 기업들은 법원에서 EPA의 계획에 이의를 제기했다.)
-&lt;&lt;&lt;PARA&gt;&gt;
-"만약 정상적인 브리핑 과정 등을 거쳤다면, 이러한 사실들이 드러났을 것입니다"라고 그는 덧붙였다. 대법원은 논평 요청에 응하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-법원은 2016년 2월 청정 전력 계획을 중단시켰다. 그럼에도 불구하고 에너지 회사들은 2030년 마감일을 훨씬 앞당겨 2019년까지 배출가스 목표를 달성했다. 전문가들은 이는 주로 셰일가스 붐과 같은 발전이 에너지 생산 경제성을 석탄에서 덜 오염되는 다른 에너지원으로 전환시켰기 때문이라고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-최근 몇 년간 환경 정책을 설명 없이 중단시키기 위해 비상 재판부가 광범위하게 사용되지는 않았다고 도니거는 말했다. 법원의 구성도 바뀌었다. 현재 9명의 대법관 중 6명은 공화당 대통령이 임명했다. 그러나 2016년에는 5명의 대법관이 공화당에 의해 임명되었으며, 레이건 대통령이 임명한 앤서니 M. 케네디 대법관이 종종 스윙 보트 역할을 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 이 메모들은 대법원이 트럼프 행정부가 연방 정부의 기후 변화 대응 법적 권한을 뒷받침하는 과학적 발견을 폐기하려는 최근 시도를 어떻게 다룰지에 대한 일부 실마리를 제공할 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하버드 로스쿨의 환경법 교수 리처드 라자루스는 이 문서들이 새로운 법원이 행정부의 주장을 기꺼이 받아들일 가능성을 시사한다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-재활용
-&lt;&lt;&lt;PARA&gt;&gt;
-봄철이 되어 많은 사람들이 옷장을 새로 정리하며, 따뜻한 날씨를 맞아 낡은 옷을 버리고 새 옷을 장만하고 있다. 하지만 사용한 물건을 책임감 있게 버릴 수 있을까?
-&lt;&lt;&lt;PARA&gt;&gt;
-그것이 가능하기는 하지만, 점점 더 많은 기업들이 믿게 하는 것처럼 쉬운 일은 아니다. 그들은 사용한 옷을 수거함이나 선불 우편물에 넣기만 하면 직물을 재활용해 매립지에서 벗어나게 해준다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 훌륭한 목표이지만, 그 기업들은 옷의 최종 행선지보다 수거에 대해 더 많이 이야기한다. 종종 그 이유는 그들도 거의 또는 전혀 알지 못하기 때문이다. 그리고 이는 큰 우려를 불러일으킨다. 가장 중요한 것은, 기업이 의류의 전체 여정을 추적하지 않으면 그 물건이 실제로 어디에 도착하는지 알 방법이 없다는 점이다. — 레이첼 체르난스키
-&lt;&lt;&lt;PARA&gt;&gt;
-더 읽기.
-&lt;&lt;&lt;PARA&gt;&gt;
-중국
-&lt;&lt;&lt;PARA&gt;&gt;
-연구 그룹 엠버가 집계한 중국 세관 당국의 데이터에 따르면, 3월 중국의 태양광 수출이 사상 최고치로 급증했다. 엠버는 중국의 월간 수출이 전월 대비 두 배로 증가했으며, 이는 스페인의 전체 태양광 발전 용량과 거의 맞먹는 수준이라고 밝혔다. 많은 아시아와 아프리카 국가를 포함한 50개국이 중국산 태양광 장비 구매 기록을 세웠다.
-&lt;&lt;&lt;PARA&gt;&gt;
-로이터 통신에 따르면, 이러한 급증은 부분적으로 중국 수출에 대한 가격 인상이 임박했기 때문이지만, 시장은 호르무즈 해협에서 뻗어나오는 에너지 충격으로부터도 활력을 얻고 있다. 높은 석유와 가스 가격은 일부 정부가 재생 가능 에너지원 설치 계획을 가속화하도록 압박하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 전쟁이 사람들을 대체 에너지원으로 몰아가고 있다는 유일한 징후는 아니다. 유럽에서는 일부 옥상 태양광 기업이 2월 말 이후 수요가 두 배로 증가했다고 한다. 유럽의 전기차(EV) 판매는 올해 1분기에 2025년 같은 기간 대비 3분의 1 증가했다. — 클레어 브라운
-&lt;&lt;&lt;PARA&gt;&gt;
-오늘의 숫자
-&lt;&lt;&lt;PARA&gt;&gt;
-스콧 댄스가 보도한 대로, 공중 보건 당국이 지난달 포토맥 강의 하수 오염 비상사태 종료를 선언했지만, 과학자들은 수로가 여전히 위태롭다고 우려했다. 파손된 하수관 메인에서 거의 2억 5천만 갤런의 인간 배설물이 강으로 흘러들었다고 그는 쓴다. 연구자들은 3월 초에 물 샘플을 채취해 어떤 피해가 발생했는지 확인하려 했다. 여름 더위가 시작될 때까지 나타나지 않을 우려 사항 중에는 유독성 조류 번성, 물고기 폐사, 용존 산소가 없는 '죽은 구역'이 있다. 그리고 곧 사람들을 끌어들일 인기 휴양지 주변에 하수가 숨어 있을 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-더 읽기.
-&lt;&lt;&lt;PARA&gt;&gt;
-마지막으로 한 가지
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 덴마크-아이슬란드 예술가 올라퍼 엘리아손이 자신의 최신 프로젝트를 설명한 말로, 현재 솔트레이크시티에서 전시 중이다. 파라 나예리는 엘리아손이 150종 이상의 현지 동물 종이 내는 소리를 사용해 사운드트랙을 만들었으며, 이를 결정 구조와 자연 속 모티프에서 영감을 받은 추상 이미지와 결합했다고 보도했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-더 읽기.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란 전쟁으로 인한 기름 유출이 이제 우주에서도 보인다고 CNN이 보도했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-중국 자동차 제조사 CATL은 단 6분 만에 충전이 가능하고 한 번 충전으로 약 930마일(약 1,500km)을 주행할 수 있는 EV 배터리를 개발했다고 파이낸셜 타임스가 보도했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-가디언은 유엔의 주요 새 보고서에 대해 보도했는데, 이 보고서는 세계의 식량 시스템이 극심한 더위로 '위기 직전'에 몰렸다고 말한다. 인도, 동남아시아, 아프리카, 중남미 일부 지역에서는 농부들이 1년에 250일 동안 일하기에 너무 더울 수 있다고 보고서는 추정한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-뉴스레터의 과거 호를 여기서 읽어보세요.
-&lt;&lt;&lt;PARA&gt;&gt;
-읽고 계신 내용이 마음에 드신다면, 다른 사람들에게 추천해 주시기 바랍니다. 그들은 여기서 가입할 수 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-인스타그램, 스레드, 페이스북, 틱톡에서 @nytimes로 뉴욕 타임스를 팔로우하세요.
-&lt;&lt;&lt;PARA&gt;&gt;
-climateforward@nytimes.com으로 연락 주세요. 모든 메시지를 읽고, 많은 분께 답변드립니다!)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/23/climate/supreme-court-climate-shadow-docket.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/20/multimedia/23cli-newsletter-SCOTUS-01/23cli-newsletter-SCOTUS-01-articleLarge-v2.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 23 Apr 2026 10:17:54 +0000</pubDate></item><item><title>Lebanese Journalist Killed in Israeli Strike Was Known for Being Intrepid (이스라엘 공습으로 숨진 레바논 기자, 용감무쌍함으로 유명했던 인물)</title><link>https://www.nytimes.com/2026/04/23/world/middleeast/lebanese-journalist-amal-khalil-killed-israeli-strike.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/multimedia/23israel-iran-23israel-iran-lebanon-visual-05-vwpk/23israel-iran-23israel-iran-lebanon-visual-05-vwpk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Amal Khalil, a reporter for the Lebanese newspaper Al-Akhbar, had gained renown for her intrepidity and her resolve over two decades of covering round after round of war between Israel and the Iran-backed Hezbollah militia.&lt;br/&gt;(레바논 신문 알-아크바르의 기자 아말 칼릴은 20년 이상 이스라엘과 이란의 지원을 받는 헤즈볼라 민병대 사이의 전쟁을 반복해서 취재하며 보여준 그녀의 용기와 결의로 유명세를 떨쳤다.)&lt;/p&gt;
-&lt;p&gt;On Wednesday, she was killed in an Israeli airstrike in the village of Tayri in southern Lebanon. She remained trapped under rubble for hours before emergency medics recovered her body, according to the Lebanese Civil Defense.&lt;br/&gt;(수요일, 그녀는 남부 레바논의 타이리 마을에서 발생한 이스라엘 공습으로 사망했다. 레바논 민방위대에 따르면, 그녀는 응급 의료진이 시신을 수습하기 전까지 몇 시간 동안 잔해 속에 갇혀 있었다.)&lt;/p&gt;
-&lt;p&gt;At her family’s home on Thursday, mourners gathered to pay their respects and vent their anger at what they saw not just as the blatant targeting of civilians but a violation of Israel’s and Hezbollah’s temporary cease-fire.&lt;br/&gt;(목요일 그녀의 집에서는 추모객들이 모여 조의를 표하고, 이를 단순한 민간인 표적 공격이 아니라 이스라엘과 헤즈볼라 간의 임시 휴전 위반으로 보며 분노를 표출했다.)&lt;/p&gt;
-&lt;p&gt;“You couldn’t ask Amal to be careful,” her brother Ali Khalil said as he received condolences. “This is the only time I know Amal’s address: she’s in the grave. She used to move nonstop from one village to another in the south,” he said. “Now I know where my sister is.”&lt;br/&gt;("아말에게 조심하라고 말할 수 없었어요," 그녀의 오빠 알리 칼릴이 조의를 받으며 말했다. "이번이 제가 아말의 주소를 알게 된 유일한 때예요. 그녀는 남부에서 끊임없이 한 마을에서 다른 마을로 이동하곤 했죠,"라고 그는 말했다. "이제야 제 여동생이 어디 있는지 알게 됐어요.")&lt;/p&gt;
-&lt;p&gt;Zeinab Faraj, a photojournalist and colleague of Ms. Khalil’s, was rescued from the house.&lt;br/&gt;(칼릴의 동료이자 사진기자인 자이나브 파라즈는 그 집에서 구조되었다.)&lt;/p&gt;
-&lt;p&gt;The Lebanese Ministry of Public Health said the Israeli military had targeted the journalists in Tayri, where they took shelter in a nearby house after an airstrike destroyed a vehicle in front of the car they were traveling in. About an hour and a half later, a second strike hit the house they were hiding in, according to a statement by Al-Akhbar.&lt;br/&gt;(레바논 공중보건부는 이스라엘 군이 타이리에서 기자들을 표적으로 삼았다고 밝혔다. 이들은 그들이 타고 가던 차량 앞에 있는 차량이 공습으로 파괴된 후 인근 주택으로 대피했으며, 약 1시간 30분 후 두 번째 공습이 그들이 숨어 있던 집을 강타했다고 알-아크바르의 성명이 전했다.)&lt;/p&gt;
-&lt;p&gt;Amid the 10-day truce between Israel and Lebanon, Israel has continued strikes against what it says are Hezbollah targets in southern Lebanon, citing its right to self-defense. The Israeli military denied in a statement that it had prevented rescuers from reaching the injured journalists, and said the incident was under investigation.&lt;br/&gt;(이스라엘과 레바논 간의 10일간 휴전 기간 중, 이스라엘은 남부 레바논에서 자위권을 주장하며 헤즈볼라 표적이라고 주장하는 곳에 대한 공습을 계속해왔다. 이스라엘 군은 성명에서 구조대가 부상당한 기자들에 접근하는 것을 막았다는 주장을 부인했으며, 해당 사건은 조사 중이라고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;A spokeswoman for the Israeli military said Israeli forces had spotted two vehicles emerging from a military building used by Hezbollah. The military observed the vehicles cross what the spokeswoman called the forward defense line, determining the move to be a violation of the truce agreement.&lt;br/&gt;(이스라엘 군 대변인은 이스라엘 군이 헤즈볼라가 사용하는 군사 건물에서 두 대의 차량이 나오는 것을 목격했다고 말했다. 군은 이 차량들이 대변인이 말하는 전방 방어선을 넘는 것을 관찰했으며, 이를 휴전 협정 위반으로 판단했다.)&lt;/p&gt;
-&lt;p&gt;Lebanon’s prime minister, as well as the Committee to Protect Journalists and Ms. Khalil’s employer disputed Israel’s justifications, and condemned what they said was the deliberate targeting of journalists and humanitarian workers.&lt;br/&gt;(레바논 총리, 기자보호위원회, 그리고 칼릴의 고용주는 이스라엘의 정당화에 이의를 제기하고, 이른바 기자와 인도주의 활동가에 대한 의도적 표적 공격이라고 비난했다.)&lt;/p&gt;
-&lt;p&gt;“As with every act of aggression, wearing a press vest did not protect those who wore it from the treachery of the Israeli enemy,” Al-Akhbar said in a statement. “Instead, it has become a danger to journalists’ lives, as part of a systematic Israeli policy aimed at silencing anyone who seeks to expose the crimes and practices of the occupation.”&lt;br/&gt;("모든 침략 행위와 마찬가지로, 프레스 조끼를 입는 것은 착용자를 이스라엘 적의 배신으로부터 보호하지 못했습니다," 알-아크바르는 성명에서 밝혔다. "대신, 그것은 점령의 범죄와 관행을 폭로하려는 모든 이들의 목소리를 침묵시키려는 체계적인 이스라엘 정책의 일환으로 기자들의 생명에 위협이 되었습니다.")&lt;/p&gt;
-&lt;p&gt;Hwaida Saad contributed reporting from Baysariyeh, Lebanon.&lt;br/&gt;(와이다 사드가 레바논 바이사리예에서 취재에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/23/world/middleeast/lebanese-journalist-amal-khalil-killed-israeli-strike.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/23/multimedia/23israel-iran-23israel-iran-lebanon-visual-05-vwpk/23israel-iran-23israel-iran-lebanon-visual-05-vwpk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 24 Apr 2026 00:53:44 +0000</pubDate></item><item><title>Europeans Ask: What Would It Mean to Defend One Another Without NATO? (유럽인들이 묻는다: 나토 없이 서로를 방어한다는 것은 무엇을 의미할까?)</title><link>https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/multimedia/00int-europe-defense-01-wlgq/00int-europe-defense-01-wlgq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 26 Apr 2026 09:24:30 +0000</lastBuildDate><item><title>Europeans Ask: What Would It Mean to Defend One Another Without NATO? (유럽인들이 묻는다: 나토 없이 서로를 방어한다는 것은 무엇을 의미할까?)</title><link>https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/multimedia/00int-europe-defense-01-wlgq/00int-europe-defense-01-wlgq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Europeans have increasing doubts that President Trump remains committed to the NATO alliance and the mutual defense it ensures. And so they are talking more seriously about their own little-known guarantee for collective defense, an article buried in the European Union’s governing documents.&lt;br/&gt;(유럽인들은 트럼프 대통령이 나토 동맹과 그 동맹이 보장하는 상호 방어에 계속 전념할지에 대한 의구심을 점점 더 키우고 있다. 이에 따라 그들은 EU 운영 문서에 숨겨진 조항인, 잘 알려지지 않은 집단 방어 보장에 대해 더 진지하게 이야기하고 있다.)&lt;/p&gt;
 &lt;p&gt;Long dismissed by many as unworkable and even unnecessary given the well-established NATO alliance, Article 42.7 of the E.U.’s Treaty of Lisbon obliges member states to provide military, humanitarian and financial aid to other members in case of attack. Meant to complement NATO, it has been used only once, when France invoked it after the November 2015 terrorist attacks in and around Paris.&lt;br/&gt;(오랫동안 많은 이들이 실행 불가능하거나 잘 정립된 나토 동맹을 고려할 때 불필요하다고 일축해 온 EU 리스본 조약의 제42조 7항은 회원국들이 공격을 받을 경우 다른 회원국에 군사적, 인도적, 재정적 지원을 제공할 의무를 부과한다. 나토를 보완하기 위한 이 조항은 프랑스가 2015년 11월 파리와 그 주변에서 발생한 테러 공격 이후 발동한 단 한 번만 사용되었다.)&lt;/p&gt;
 &lt;p&gt;But with Mr. Trump intermittently threatening to leave NATO over member countries’ refusal to support the war in Iran, this moment is profoundly reshaping both the alliance and the European Union, said Camille Grand, a former NATO official who is the secretary general of ASD Europe, a trade association for defense industries.&lt;br/&gt;(그러나 트럼프 대통령이 회원국들의 이란 전쟁 지원 거부를 이유로 간헐적으로 나토 탈퇴를 위협하면서, 이 순간이 동맹과 유럽연합 모두를 근본적으로 재편하고 있다고 방위 산업 무역 협회인 ASD 유럽의 사무총장인 캐미유 그랑 전 나토 관료는 말했다.)&lt;/p&gt;
@@ -1010,7 +801,322 @@ ISIS는 피에 굶주린 통치를 강요하고 해외에서 테러 공격을 �
 "당신의 국토를 지키고 문화를 수호하십시오,"라고 한 공고는 말합니다.
 &lt;&lt;&lt;PARA&gt;&gt;
 스티븐 리치가 보고에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/us/politics/trump-green-cards-scrutiny.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25dc-greencards-hpwj/25dc-greencards-hpwj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 00:02:37 +0000</pubDate></item><item><title>Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters (일본의 새로운 요양보호사: 보디빌더, 레슬러, 종합격투기 선수들)</title><link>https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/15/multimedia/00int-japan-caregivers-02-kptm/00int-japan-caregivers-02-kptm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/us/politics/trump-green-cards-scrutiny.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25dc-greencards-hpwj/25dc-greencards-hpwj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 00:02:37 +0000</pubDate></item><item><title>Trump Seeks to Abolish Iran’s Atomic Stockpile, a Problem He Helped Create (트럼프, 자신이 만든 문제인 이란 핵 비축량 폐기 추진)</title><link>https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/02/22/multimedia/25dc-TRUMP-NUKES/22int-iran-larijani-lfwj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;As President Trump struggles to negotiate or intimidate his way out of the war he began with Iran, he is confronting the complicated legacy of his decision, eight years ago, to cancel what he has called “a horrible, one-sided deal.”&lt;br/&gt;(도널드 트럼프 대통령이 자신이 시작한 이란과의 전쟁에서 협상이나 위협을 통해 빠져나가기 위해 고군분투하면서, 8년 전 자신이 "끔찍하고 일방적인 합의"라고 부른 것을 취소하기로 한 결정의 복잡한 유산과 직면하고 있다.)&lt;/p&gt;
+&lt;p&gt;That Obama-era agreement suffered from flaws and omissions. It would have expired after 15 years, leaving Iran free after 2030 to make as much nuclear fuel as it wanted. But once Mr. Trump withdrew from the deal in 2018, the Iranians went on an enrichment spree much sooner, leaving them closer to a bomb than ever before.&lt;br/&gt;(그 오바마 시대의 합의에는 결함과 누락이 있었다. 이 합의는 15년 후에 만료되어 2030년 이후에는 이란이 원하는 만큼 핵연료를 만들 수 있게 했다. 하지만 트럼프가 2018년 그 합의에서 탈퇴하자, 이란은 훨씬 더 일찍 농축 광풍을 시작하여 그 어느 때보다 핵폭탄에 가까워졌다.)&lt;/p&gt;
+&lt;p&gt;Now, Mr. Trump’s negotiators are dealing with the consequences of that decision, which he made over the objections of many of his national security advisers at the time. Underscoring the challenges, Mr. Trump abruptly called off on Saturday a round of nuclear talks with Iran in Pakistan.&lt;br/&gt;(이제 트럼프의 협상가들은 당시 국가안보 고문들 중 많은 수의 반대에도 불구하고 그가 내린 그 결정의 결과를 처리하고 있다. 트럼프가 토요일에 파키스탄에서 열릴 예정이었던 이란과의 핵 협상 라운드를 갑자기 취소하면서 그 과제가 더욱 부각되었다.)&lt;/p&gt;
+&lt;p&gt;Much recent attention has focused on Iran’s half-ton of uranium that has been enriched to a level just shy of what is typically used in atom bombs. The majority of it is thought to be buried in a tunnel complex that Mr. Trump bombed last June. But those 970 pounds of potential bomb fuel represent only a small fraction of the problem.&lt;br/&gt;(최근의 많은 관심은 일반적으로 원자폭탄에 사용되는 수준에 약간 못 미치는 수준으로 농축된 이란의 0.5톤(약 500kg)의 우라늄에 집중되어 왔다. 그 대부분은 트럼프가 지난 6월에 폭격한 터널 단지에 묻혀 있는 것으로 추정된다. 그러나 이 970파운드(약 440kg)의 잠재적 폭탄 연료는 문제의 극히 일부에 불과하다.)&lt;/p&gt;
+&lt;p&gt;Today, international inspectors say, Iran has a total of 11 tons of uranium, at various enrichment levels. With further purification, that is enough to build up to 100 nuclear weapons — more than the estimated size of Israel’s arsenal.&lt;br/&gt;(오늘날 국제 사찰단은 이란이 다양한 농축 수준의 총 11톤의 우라늄을 보유하고 있다고 밝히고 있다. 추가 정제를 통해 이는 최대 100개의 핵무기를 제조할 수 있는 양으로, 이는 이스라엘의 추정 무기고 규모보다 많은 것이다.)&lt;/p&gt;
+&lt;p&gt;Virtually all of that cache accumulated in the years after Mr. Trump abandoned the Obama-era deal. That is because Tehran lived up to its pledge to ship to Russia 12.5 tons of its overall stockpile, about 97 percent. Iran’s weapon designers were left with too little nuclear fuel to build a single bomb.&lt;br/&gt;(이 비축량의 거의 전부는 트럼프가 오바마 시대 합의를 포기한 이후 몇 년 동안 축적되었다. 테헤란이 전체 비축량의 약 97%인 12.5톤을 러시아로 보내겠다는 약속을 지켰기 때문이다. 이란의 핵무기 설계자들은 단 하나의 폭탄도 만들기에 충분한 핵연료를 거의 남기지 못했다.)&lt;/p&gt;
+&lt;p&gt;Now, matching or exceeding that diplomatic accomplishment is one of the most complex challenges facing Mr. Trump and his two lead negotiators, his son-in-law Jared Kushner and his special envoy, Steve Witkoff, whose planned travel to Pakistan for another session of negotiations was canceled at the last minute by Mr. Trump. Central to the negotiations is the American demand that Iran halt further enrichment and that it hand over the fuel stockpile it has built up over the past eight years; Iran is resisting on both fronts.&lt;br/&gt;(이제 이 외교적 성과에 필적하거나 능가하는 것이 트럼프와 그의 두 수석 협상가인 사위 재러드 쿠슈너와 특사 스티브 위트코프가 직면한 가장 복잡한 과제 중 하나이다. 위트코프 특사는 파키스탄에서 또 다른 협상 회의를 위해 가려 했으나 트럼프에 의해 막판에 취소되었다. 협상의 핵심은 이란이 추가 농축을 중단하고 지난 8년간 축적해 온 핵연료 비축량을 넘겨줄 것을 요구하는 미국의 요구이며, 이란은 두 가지 모두에 저항하고 있다.)&lt;/p&gt;
+&lt;p&gt;Mr. Trump is acutely aware that whatever he can negotiate with the Iranians will be compared with what Mr. Obama achieved more a decade ago. While the two countries are still exchanging proposals, and could well come up empty-handed, Mr. Trump is already judging his own, yet-to-be-negotiated agreement as superior.&lt;br/&gt;(트럼프는 자신이 이란과 협상할 수 있는 모든 것이 오바마가 10여 년 전에 이룬 것과 비교될 것임을 잘 알고 있다. 양국이 여전히 제안을 교환 중이고 빈손으로 끝날 가능성도 있지만, 트럼프는 이미 아직 협상되지 않은 자신의 합의가 더 우월하다고 판단하고 있다.)&lt;/p&gt;
+&lt;p&gt;“The DEAL that we are making with Iran will be FAR BETTER,” Mr. Trump wrote on his social media site on Monday. The Obama-era deal “was a guaranteed Road to a Nuclear Weapon, which will not, and cannot, happen with the deal we’re working on.”&lt;br/&gt;("우리가 이란과 맺고 있는 합의는 훨씬 더 나을 것입니다(DEL that we are making with Iran will be FAR BETTER)"라고 트럼프는 월요일 자신의 소셜 미디어 사이트에 썼다. 오바마 시대 합의는 "핵무기로 가는 보장된 길이었으며, 우리가 진행 중인 합의로는 그런 일이 일어나지 않을 것이고 일어날 수도 없습니다.")&lt;/p&gt;
+&lt;p&gt;Based on Mr. Trump’s often-shifting objectives for the conflict with Iran, Mr. Kushner and Mr. Witkoff face a daunting list of negotiation topics, many of which the Obama team failed to address. They have to find a way to limit Iran’s ability to rebuild its arsenal of missiles. (The 2015 deal never addressed Iran’s missile capability, and Tehran ignored a United Nations resolution imposing limits.)&lt;br/&gt;(이란과의 갈등에 대한 트럼프의 자주 바뀌는 목표에 기초하여, 쿠슈너와 위트코프는 오바마 팀이 다루지 못했던 많은 협상 주제들로 구성된 벅찬 목록에 직면해 있다. 그들은 이란이 미사일 무기고를 재건할 수 있는 능력을 제한할 방법을 찾아야 한다. (2015년 합의는 이란의 미사일 능력을 전혀 다루지 않았으며, 테헤란은 제한을 부과한 유엔 결의를 무시했다.))&lt;/p&gt;
+&lt;p&gt;They need to find a way to fulfill Mr. Trump’s mandate to protect anti-regime protesters, whom Mr. Trump promised to help in January when they took to the streets. In fact, those protests were among the triggers for the American military buildup that ultimately led to the Feb. 28 attack.&lt;br/&gt;(그들은 반체제 시위대를 보호하라는 트럼프의 명령을 이행할 방법을 찾아야 한다. 트럼프는 1월 그들이 거리로 나왔을 때 그들을 돕겠다고 약속했다. 사실, 그 시위는 궁극적으로 2월 28일 공격으로 이어진 미군 증강의 촉발 요인 중 하나였다.)&lt;/p&gt;
+&lt;p&gt;And they must negotiate a reopening of the Strait of Hormuz, which the Iranians shut down after the American-Israeli attacks, a move Mr. Trump was clearly unprepared for. Now Iran has discovered that a few inexpensive mines and threats to ships have given it huge leverage over the global economy, pressure it can dial up or down in ways that nuclear weapons cannot.&lt;br/&gt;(그리고 그들은 이란이 미-이스라엘 공격 이후 폐쇄한 호르무즈 해협의 재개방을 협상해야 한다. 이에 대해 트럼프는 분명히 준비가 되어 있지 않았다. 이제 이란은 값싼 기뢰 몇 개와 선박에 대한 위협이 세계 경제에 대해 막대한 영향력을 주었으며, 핵무기로는 할 수 없는 방식으로 그 압력을 높이거나 낮출 수 있다는 것을 발견했다.)&lt;/p&gt;
+&lt;p&gt;But it is the fate of the atomic program that lies at the negotiations’ heart. As in the 2015 talks, the Iranians declare they have a “right” to enrich under the Nuclear Nonproliferation Treaty, one they refuse to give up. But that still leaves room for “suspension” of all nuclear efforts for some number of years. (Vice President JD Vance demanded 20 years when he met his Pakistani interlocutors two weeks ago, only to have Mr. Trump declare a few days later that the right period was “unlimited.”)&lt;br/&gt;(그러나 협상의 핵심은 핵 프로그램의 운명이다. 2015년 협상에서와 마찬가지로, 이란은 핵확산금지조약(NPT) 하에서 농축할 '권리'가 있으며 이를 포기하지 않겠다고 선언한다. 그러나 이것은 몇 년 동안 모든 핵 노력을 '중단'할 여지를 남긴다. (JD 밴스 부통령은 2주 전 파키스탄 상대들을 만났을 때 20년을 요구했으나, 며칠 후 트럼프가 적절한 기간은 "무제한"이라고 선언했다.))&lt;/p&gt;
+&lt;p&gt;William J. Burns, the former C.I.A. chief who played a lead role in the Obama-era negotiations, said in The New York Times on Friday that a good deal would require “tight nuclear inspections, an extended moratorium on the enrichment of uranium and the export or dilution of Tehran’s existing stockpile of enriched uranium in exchange for tangible sanctions relief.”&lt;br/&gt;(오바마 시대 협상에서 주도적 역할을 했던 전 CIA 국장 윌리엄 J. 번스는 금요일 뉴욕타임스에서 좋은 합의는 "엄격한 핵 사찰, 우라늄 농축에 대한 장기 모라토리엄, 그리고 실질적인 제재 완화와 교환으로 테헤란의 기존 고농축 우라늄 비축량의 수출 또는 희석"을 필요로 할 것이라고 말했다.)&lt;/p&gt;
+&lt;p&gt;He also called for the Trump administration to delineate every term. “Unless the lines are clearly drawn and strictly monitored,” Mr. Burns said, “the Iranians will paint outside them.”&lt;br/&gt;(그는 또한 트럼프 행정부가 모든 조건을 명확히 할 것을 촉구했다. "선이 명확하게 그어지고 엄격히 감독되지 않는 한, 이란인들은 그 선 밖으로 그림을 그릴 것입니다"라고 번스는 말했다.)&lt;/p&gt;
+&lt;p&gt;That is exactly what happened when Mr. Trump pulled out of the Obama agreement in 2018 and replaced it with nothing. At the time, Iran did not have a single bomb’s worth of uranium. Then it started enriching with a vengeance.&lt;br/&gt;(이는 정확히 트럼프가 2018년 오바마 합의에서 탈퇴하고 아무것도 대체하지 않았을 때 일어난 일이다. 당시 이란은 폭탄 하나 분량의 우라늄도 가지고 있지 않았다. 그런 다음 그들은 맹렬히 농축하기 시작했다.)&lt;/p&gt;
+&lt;p&gt;In the current war, Mr. Trump has spoken publicly about a possible raid to seize Iran’s half ton of near-bomb grade material, which could make roughly 10 weapons. But he has not talked about the overall 11-ton cache and the threat it poses to the United States and its allies.&lt;br/&gt;(현재 전쟁에서 트럼프는 대략 10개의 무기를 만들 수 있는 이란의 0.5톤 가량의 무기급에 가까운 물질을 압수하기 위한 급습 가능성에 대해 공개적으로 언급했다. 그러나 그는 전체 11톤 비축량과 그것이 미국과 그 동맹국에 미치는 위협에 대해서는 언급하지 않았다.)&lt;/p&gt;
+&lt;p&gt;It is hardly a new problem. In 2006, Iran began enriching uranium on an industrial scale. While it described its aims as peaceful and civilian in nature, its aggressive moves convinced experts that Tehran wanted to build a bomb.&lt;br/&gt;(이는 새로운 문제가 거의 아니다. 2006년, 이란은 산업 규모로 우라늄 농축을 시작했다. 목표는 평화적이고 민간적인 성격이라고 설명했지만, 그 공격적인 움직임은 전문가들로 하여금 테헤란이 폭탄을 만들고자 한다고 확신하게 했다.)&lt;/p&gt;
+&lt;p&gt;The alarms rang louder in 2010, when Iran began enriching uranium to 20 percent. That level of purity marks the official dividing line between civilian and military uses. Iran said it wanted the 20 percent fuel for a research reactor at the University of Tehran.&lt;br/&gt;(2010년, 이란이 우라늄을 20%까지 농축하기 시작하면서 경보음은 더 크게 울렸다. 그 순도 수준은 민간 용도와 군사 용도 사이의 공식적인 분기점을 표시한다. 이란은 테헤란 대학의 연구용 원자로를 위해 20% 연료를 원한다고 말했다.)&lt;/p&gt;
+&lt;p&gt;The 20 percent enrichment alarmed the Obama administration. It put the Iranians on the road to the 90 percent fuel used to make a warhead light and compact enough to fit atop a missile. (It is possible to make a weapon from 20 percent fuel, but it would be so large and heavy that a truck, boat or aircraft would be needed to deliver it.)&lt;br/&gt;(20% 농축은 오바마 행정부를 놀라게 했다. 그것은 이란인들을 미사일 꼭대기에 맞출 만큼 가볍고 작은 탄두를 만드는 데 사용되는 90% 연료 생산의 길로 접어들게 했다. (20% 연료로 무기를 만드는 것은 가능하지만, 너무 크고 무거워서 트럭, 선박 또는 항공기로 운반해야 할 것이다.))&lt;/p&gt;
+&lt;p&gt;In the Obama-era pact, the Iranians were prohibited from enriching fuel to a purity level greater than 3.67 percent, which is sufficient to fuel nuclear reactors for civilian power. The country’s entire stockpile was limited to about 660 pounds. The constraints were supposed to remain in place for 15 years, until 2030. But the Iranians were permitted to continue the low-level enrichment, and they built more efficient centrifuges.&lt;br/&gt;(오바마 시대 협정에서 이란인들은 민간 발전용 원자로에 연료를 공급하기에 충분한 3.67%보다 더 높은 순도로 연료를 농축하는 것이 금지되었다. 국가의 전체 비축량은 약 660파운드(약 300kg)로 제한되었다. 이러한 제약은 2030년까지 15년 동안 유지되어야 했다. 그러나 이란인들은 낮은 수준의 농축을 계속하는 것이 허용되었고, 그들은 더 효율적인 원심분리기를 건설했다.)&lt;/p&gt;
+&lt;p&gt;That loophole turned out to set them up well for what happened after Mr. Trump scrapped the agreement three years later and reimposed economic sanctions. The Iranians responded by blowing past all those limits.&lt;br/&gt;(그 허점은 결국 3년 후 트럼프가 협정을 폐기하고 경제 제재를 재개한 후 일어난 일에 대해 그들을 잘 준비시킨 것으로 드러났다. 이란인들은 그 모든 제한을 훨씬 넘어서며 대응했다.)&lt;/p&gt;
+&lt;p&gt;Early in 2021, just before Mr. Trump left office, Iran reinstituted its goal of raising the enrichment level to 20 percent.&lt;br/&gt;(2021년 초, 트럼프가 퇴임하기 직전, 이란은 농축 수준을 20%까지 높이려는 목표를 재개했다.)&lt;/p&gt;
+&lt;p&gt;Then a mysterious blast knocked out power at Natanz, which is Iran’s main enrichment complex. Iranian officials blamed it on Israeli sabotage, and retaliated by raising part of its stockpile to the 60 percent level, the biggest jump in the history of its enrichment program. That was just a hairbreadth away from the highest military grade.&lt;br/&gt;(그런 다음 의문의 폭발이 이란의 주요 농축 단지인 나타츠의 전력을 마비시켰다. 이란 관리들은 이를 이스라엘의 사보타주 탓으로 돌렸고, 보복으로 비축량의 일부를 60% 수준으로 높였으며, 이는 농축 프로그램 역사상 가장 큰 도약이었다. 그것은 최고 군사용 등급과 불과 한 끗 차이였다.)&lt;/p&gt;
+&lt;p&gt;From early 2021 to early 2025, the Biden administration tried, unsuccessfully, to negotiate new limits. Throughout the negotiations, Iran kept enriching, expanding its cache of 60 percent fuel.&lt;br/&gt;(2021년 초부터 2025년 초까지 바이든 행정부는 새로운 제한을 협상하려 했지만 실패했다. 협상 내내 이란은 농축을 계속하여 60% 연료 비축량을 확장했다.)&lt;/p&gt;
+&lt;p&gt;Then, in June 2025, Mr. Trump bombed Iran’s enrichment plants at Natanz and Fordo, as well as uranium storage tunnels and other facilities at Isfahan. He declared that the nuclear program had been “obliterated.”&lt;br/&gt;(그런 다음 2025년 6월, 트럼프는 나타츠와 포르도의 농축 공장과 이스파한의 우라늄 저장 터널 및 기타 시설을 폭격했다. 그는 핵 프로그램이 "완전히 파괴되었다"고 선언했다.)&lt;/p&gt;
+&lt;p&gt;Officially the U.S. government was more circumspect, saying the program had been “set back.” But if “Operation Midnight Hammer” did, in fact, cripple much of Iran’s atomic infrastructure, the Trump administration said little or nothing about the survival of Iran’s cache of enriched uranium, which the International Atomic Energy Agency has estimated at 10.9 tons, with purity levels ranging from 2 percent to 60 percent.&lt;br/&gt;(공식적으로 미국 정부는 더 신중하게 프로그램이 "후퇴했다"고 말했다. 그러나 만약 "작전 미드나잇 해머"가 실제로 이란의 핵 기반 시설 대부분을 마비시켰다면, 트럼프 행정부는 국제원자력기구(IAEA)가 순도 수준 2%에서 60% 범위로 추정하는 10.9톤의 이란 농축 우라늄 비축량의 생존에 대해 거의 또는 전혀 언급하지 않았다.)&lt;/p&gt;
+&lt;p&gt;One of the few officials who did discuss it was Mr. Witkoff, who called the stockpile “a move towards weaponization — it’s the only reason you would have it.” Iran, he added, could turn its most enriched fuel into roughly three dozen bombs.&lt;br/&gt;(이에 대해 논의한 몇 안 되는 관리 중 한 명은 위트코프였는데, 그는 그 비축량을 "무기화로의 움직임이며, 그것을 보유할 유일한 이유"라고 불렀다. 이란은 가장 고농축 연료를 약 36개의 폭탄으로 전환할 수 있다고 그는 덧붙였다.)&lt;/p&gt;
+&lt;p&gt;While public discussion has focused on whether a U.S. commando team could retrieve Iran’s half ton of uranium enriched to 60 percent, nuclear experts say Tehran could turn the entire 11 tons into bomb fuel, if it can activate new centrifuges, probably underground, to boost its levels of enrichment.&lt;br/&gt;(공개 논의가 미국 특수부대 팀이 이란의 0.5톤 60% 농축 우라늄을 회수할 수 있을지 여부에 초점을 맞추고 있는 반면, 핵 전문가들은 이란이 농축 수준을 높이기 위해 아마도 지하에 있는 새로운 원심분리기를 가동할 수 있다면 전체 11톤을 폭탄 연료로 전환할 수 있다고 말한다.)&lt;/p&gt;
+&lt;p&gt;Edwin S. Lyman, a nuclear expert at the Union of Concerned Scientists, said Iran’s stockpile could yield roughly 35 to 55 weapons depending on its skill in making not only the bomb’s fuel core but such nonnuclear parts as detonators that spark the chain reactions.&lt;br/&gt;(유니온 오브 컨선드 사이언티스트의 핵 전문가 에드윈 S. 라이먼에 따르면, 이란의 비축량은 폭탄의 핵연료 코어뿐만 아니라 연쇄 반응을 촉발하는 기폭 장치와 같은 비핵 부품을 만드는 능력에 따라 대략 35~55개의 무기를 생산할 수 있다고 한다.)&lt;/p&gt;
+&lt;p&gt;Thomas B. Cochran, a nuclear weapons expert who wrote an influential study on enrichment levels, concluded that Iran’s stockpile was sufficient for 50 to 100 bombs if further enriched.&lt;br/&gt;(농축 수준에 관한 영향력 있는 연구를 저술한 핵무기 전문가 토머스 B. 코크런은 이란의 비축량은 추가 농축 시 50~100개의 폭탄에 충분하다고 결론지었다.)&lt;/p&gt;
+&lt;p&gt;For the United States, the location of the 11-ton stockpile is a major uncertainty. For Iran, it’s political leverage.&lt;br/&gt;(미국에게 11톤 비축량의 위치는 주요 불확실성이다. 이란에게는 정치적 영향력이다.)&lt;/p&gt;
+&lt;p&gt;“Yes, a lot of their top scientists have been killed,” said Gary Samore, who advised the Obama White House on Iran’s nuclear program. “But they still have the basic industrial capacity to produce nuclear weapons if they decide to do that.”&lt;br/&gt;("네, 그들의 최고 과학자들 중 많은 수가 살해되었습니다."라고 오바마 백악관에 이란 핵 프로그램에 대해 조언했던 게리 사모어가 말했다. "하지만 그들이 핵무기를 생산하기로 결정한다면, 여전히 기본적인 산업 능력을 가지고 있습니다.")&lt;/p&gt;
+&lt;p&gt;Iran has another card in the nuclear game — uncertainty over the exact location of a new enrichment complex that Tehran was about to declare on the eve of the 12-day war with Israel last June. The International Atomic Energy Agency reported that a disclosure meeting set for June 13, 2025, was “canceled due to the commencement of the military attacks on that day.”&lt;br/&gt;(이란은 핵 게임에서 또 다른 카드를 가지고 있다. 지난 6월 이스라엘과의 12일 전쟁 직전 테헤란이 발표하려 했던 새로운 농축 단지의 정확한 위치에 대한 불확실성이다. 국제원자력기구는 2025년 6월 13일로 예정된 공개 회의가 "그날 군사 공격이 시작되어 취소되었다"고 보고했다.)&lt;/p&gt;
+&lt;p&gt;Analysts now believe that Iran may have set up the plant in the maze of mountain tunnels that adjoin its sprawling Isfahan industrial site. That’s near where Tehran is thought to store the bulk of its uranium stockpile, raising the possibility that Iran harbors a deeply buried industrial site that could conduct new rounds of fuel enrichment.&lt;br/&gt;(분석가들은 이제 이란이 그 광대한 이스파한 산업 부지에 인접한 산악 터널 미로에 공장을 설립했을 수 있다고 믿고 있다. 이는 이란이 우라늄 비축량의 대부분을 저장하는 것으로 추정되는 곳 근처로, 테헤란이 새로운 핵연료 농축 라운드를 수행할 수 있는 깊이 묻힌 산업 현장을 은닉하고 있을 가능성을 제기한다.)&lt;/p&gt;
+&lt;p&gt;“We can’t bomb away their knowledge,” said Matthew Bunn, a nuclear specialist at Harvard. And since a plant to enrich uranium can be “comparable in size to a grocery store,” he added, the mountainous terrain of Iran offers many places to hide a clandestine bomb effort.&lt;br/&gt;("우리는 그들의 지식을 폭격으로 없앨 수 없습니다."라고 하버드대 핵 전문가 매튜 번이 말했다. 그리고 우라늄을 농축하는 공장은 "식료품점 크기와 비슷할 수 있기 때문에"라고 그는 덧붙이며, 이란의 산악 지형은 비밀 폭탄 제조 시도를 숨길 수 있는 많은 장소를 제공한다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html</guid><enclosure url="https://static01.nyt.com/images/2026/02/22/multimedia/25dc-TRUMP-NUKES/22int-iran-larijani-lfwj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 17:20:18 +0000</pubDate></item><item><title>Trump Cancels Aides’ Trip for Iran Talks: ‘We Have All the Cards’ (트럼프, 이란 협상을 위한 보좌관들의 여행 취소…"우리가 모든 패를 쥐고 있다")</title><link>https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/25/multimedia/25israel-iran-trump-cancels-topart-tlhf/25israel-iran-trump-cancels-topart-tlhf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;President Trump on Saturday abruptly called off a trip by two of his top negotiators to Islamabad, Pakistan, the latest sign that Iran and the United States remain far apart on a deal to end the war.&lt;br/&gt;(도널드 트럼프 미국 대통령이 토요일, 최고 협상단 두 명의 파키스탄 이슬라마바드 방문을 갑작스럽게 취소했다. 이는 이란과 미국이 전쟁 종식을 위한 합의에 여전히 큰 이견을 보이고 있음을 보여주는 최신 신호다.)&lt;/p&gt;
+&lt;p&gt;The president said he pulled his team from the flight shortly before takeoff, and he told the Iranians they could negotiate by telephone instead.&lt;br/&gt;(트럼프 대통령은 비행기 이륙 직전에 팀을 여행에서 제외시켰으며, 이란 측에 전화로 협상할 수 있다고 말했다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;“They can call me,” Mr. Trump told reporters. “We have all the cards. We’ve won everything.”&lt;br/&gt;("그들은 나에게 전화할 수 있다"고 트럼프는 기자들에게 말했다. "우리가 모든 패를 쥐고 있다. 우리는 모든 것을 이겼다.")&lt;/p&gt;
+&lt;p&gt;Steve Witkoff, Mr. Trump’s special envoy, and Jared Kushner, the president’s son-in-law, had been scheduled to travel to Pakistan on Saturday, along with top aides to Vice President JD Vance, who participated in talks in the Pakistani capital earlier this month. Officials in Pakistan have been relaying messages between Iran and the United States to try to end around two months of war.&lt;br/&gt;(트럼프의 특사 스티브 위트코프와 대통령의 사위인 재러드 쿠슈너는 토요일, 이달 초 파키스탄 수도에서 협상에 참여했던 JD 밴스 부통령의 최고 보좌관들과 함께 파키스탄으로 갈 예정이었다. 파키스탄 관리들은 약 두 달간의 전쟁을 끝내기 위해 이란과 미국 사이에서 메시지를 전달해 왔다.)&lt;/p&gt;
+&lt;p&gt;But the Americans appear no closer to persuading Iran to turn over its stockpile of enriched uranium and curtail its nuclear program. The two sides are also in dispute over control of the Strait of Hormuz, through which a fifth of the world’s oil supply normally flows. Mr. Vance’s trip to Islamabad two weeks ago proved unsuccessful, but an administration official said that the vice president remained on standby to re-engage in the talks.&lt;br/&gt;(그러나 미국은 이란으로 하여금 농축 우라늄 비축분을 넘기고 핵 프로그램을 축소하도록 설득하는 데 여전히 진전을 보지 못하고 있다. 양측은 또한 세계 석유 공급의 5분의 1이 정상적으로 흐르는 호르무즈 해협의 통제권을 두고 분쟁 중이다. 2주 전 밴스 부통령의 이슬라마바드 방문은 성공적이지 못했지만, 행정부 관계자는 부통령이 협상에 재참여하기 위해 대기 중이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+여행을 취소하게 된 이유가 무엇인지 묻는 질문에(양측이 직접 만날지는 확실하지 않았다) 트럼프 대통령은 토요일 기자들에게 이란이 미국에 "더 나았어야 할 서류"를 건넸다고 말했으며, 이는 평화 제안을 가리키는 것으로 보인다. 대통령이 특사단의 여행을 취소한 후, 이란이 "훨씬 더 나은" 새로운 제안을 했지만 여전히 미국의 요구에는 미치지 못한다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그들은 많은 것을 제안했지만 충분하지 않았다"고 트럼프 대통령은 구체적인 내용 없이 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+대통령은 또한 그의 대표단과 대화할 예정이었던 이란 관리들의 직급이 충분히 높지 않다고 불평했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 15, 16시간을 여행해서 들어본 적도 없는 사람들을 만나러 가지 않을 것이다"라고 그는 말하며 덧붙였다: "그들은 그 나라의 지도자를 만나는 것이 아니었다. 그들은 다른 사람들을 만나고 있었다. 그래서 내가 말했다, '우리는 그냥 하지 않을 거야.' 너무 많은 여행, 너무 오래 걸리고, 너무 비싸다. 나는 비용에 매우 민감한 사람이다."
+&lt;&lt;&lt;PARA&gt;&gt;
+미국과 이란은 이제 어느 쪽이 더 오래 버틸 수 있는지를 겨루는 경쟁에 돌입한 것으로 보인다. 이란은 트럼프가 중간 선거를 앞두고 전쟁을 재개하는 것을 꺼린다는 점을 알고 있다. 이 전쟁은 미국 내에서 인기가 없고 세계 경제와 에너지 시장에 부담을 주고 있기 때문이다. 백악관은 이란 경제가 미국의 봉쇄를 견딜 수 없을 것이라고 계산하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 이란이 이번 주말에 협상을 무산시키기로 결정했을 수도 있다는 징후가 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프 대통령은 이란 외무장관 아바스 아라크치가 파키스탄 관리들과의 회담을 위해 이슬라마바드에 머물다가 오만으로 떠난 후 특사단의 여행을 취소했다. 이란 관리들은 금요일에 아라크치가 파키스탄에서 미국 협상 대표단을 만날 것으로 예상된다고 말했었다. 그러나 그가 도착한 후, 이란 외무부 대변인은 회동이 계획된 적이 없다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이슬라마바드를 떠난 후, 아라크치는 소셜 미디어 게시물에서 이란에 대한 전쟁을 영구히 종식시키기 위한 "실행 가능한 틀"에 대한 이란의 입장을 파키스탄 관리들과 공유했다고 밝혔다. 그는 최신 제안의 구체적인 내용은 밝히지 않았다. "미국이 외교에 진정으로 진지한지 아직 보지 못했다"고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+토요일 늦게, 이란 국영 매체는 아라크치가 오만 방문 후 이슬라마바드로 돌아올 것이라고 보도했다. 일요일에는 "전쟁 종식"에 관한 추가 협의를 위해 이슬라마바드에서 테헤란으로 돌아간 다른 이란 대표단 일원들이 합류할 예정이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+토요일 파키스탄 총리와의 전화 통화에서 이란 대통령은 미국이 이란 항구를 오가는 선박에 대한 해군 봉쇄를 유지하는 한 테헤란은 평화 협상에 재참여하지 않을 것이라고 말했다고 이란 국영 매체가 보도했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이란 국영 매체 보도에 따르면, 마수드 페제시키안 이란 대통령은 파키스탄 지도자에게 이란이 "압박, 위협, 봉쇄 아래서" 협상에 임하지 않을 것이라고 말했다. 이란 대통령은 미국의 봉쇄가 이란 지도부 사이에 불신을 심었으며, 이는 트럼프 행정부가 밝힌 외교적 교섭 의지와 모순된다고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이번 주 초, 트럼프 대통령은 만료 직전이었던 미국과 이란 간의 휴전을 일방적으로 연장하며, 테헤란에 전쟁 종식을 위한 새로운 제안을 내놓을 기회를 주고 싶다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그의 결정에 대한 트루스 소셜 게시물에서 대통령은 이란 정부가 분열되어 있다는 자신의 주장을 반복하며, 그러한 의견 차이가 협상을 복잡하게 만들고 있다고 주장했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그들의 '지도부' 내에 엄청난 내분과 혼란이 있다"고 그는 말했다. "그들 스스로를 포함해 누가 책임자인지 아무도 모른다." 여러 이란 고위 관리들은 목요일 성명을 통해 국가 지도자들이 분열되었다는 주장을 부인했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국은 최근 이란 측에 서면 제안서를 전달했으며, 이는 더 상세한 협상을 위한 틀을 제공할 수 있는 합의점을 확립하기 위한 것이다. 이 문서는 광범위한 문제를 다루지만, 핵심 쟁점은 10년 넘게 서방 협상가들을 괴롭혀 온 것과 동일하다: 이란의 우라늄 농축 프로그램 규모와 농축 우라늄 비축분의 처리 문제다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 군대는 전쟁 기간 동안 압도적인 힘을 과시하며 수천 개의 표적을 성공적으로 타격했다. 그러나 최고 지도자들이 사망한 후에도 이란의 신정 체제는 계속 권력을 유지하며 호르무즈 해협을 엄격히 통제하고, 선박 운항을 제한하고, 유가를 상승시키며 세계 경제를 흔들고 있다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25israel-iran-trump-cancels-topart-tlhf/25israel-iran-trump-cancels-topart-tlhf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 15:33:39 +0000</pubDate></item><item><title>Big-Game Hunter From California Is Killed by Elephant in Central Africa (캘리포니아 출신 빅게임 사냥꾼, 중앙아프리카서 코끼리에 의해 사망)</title><link>https://www.nytimes.com/2026/04/25/world/africa/big-game-hunter-death-africa.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/24/multimedia/24xp-hunter-death/24xp-hunter-death-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;A big-game hunter from California was killed on April 17 by an elephant after his hunting party stumbled on a small herd of the animals in the dense forests of Gabon in central Africa, according to the Sacramento Safari Club and a former hunting partner.&lt;br/&gt;(새크라멘토 사파리 클럽과 전 사냥 파트너에 따르면, 캘리포니아 출신의 빅게임 사냥꾼이 4월 17일 가봉의 울창한 숲에서 소규모 코끼리 무리를 우연히 마주친 후 코끼리에 의해 사망했다.)&lt;/p&gt;
+&lt;p&gt;The hunter, Ernie Dosio, 75, and two professional hunters were tracking yellow-backed duikers, a species of forest-dwelling antelope, when they were surprised by a group of female elephants with calves, said Dax McCarty, the head of hunting operations at Wagonhound Outfitters in Wyoming, and a close friend of Mr. Dosio. Mr. McCarty said he had received permission from Mr. Dosio’s family to discuss the episode with The New York Times.&lt;br/&gt;(와이오밍 소재 와곤하운드 아웃피터스의 사냥 운영 책임자이자 도시오 씨의 절친인 댁스 매카티는 사냥꾼 어니 도시오(75세)와 전문 사냥꾼 두 명이 숲에 사는 영양 종인 노랑등다이커를 추적하다 새끼를 데린 암컷 코끼리 무리에게 놀랐다고 말했다. 매카티 씨는 도시오 씨의 가족으로부터 이 사건을 뉴욕타임스와 논의할 허가를 받았다고 했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+매카티 씨는 사냥 일행이 새끼가 있을 때 더 공격적일 수 있는 암컷 코끼리들로부터 물러섰지만, 약 150야드 떨어진 무리가 사냥꾼들을 쫓아내려고 돌진했다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+동물들이 다시 돌진해 약 25야드까지 접근했고, 한 코끼리가 도시오 씨의 사냥 파트너 중 한 명을 공격해 중상을 입혔다고 매카티 씨는 전했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+부상당하지 않은 다른 사냥꾼이 도시오 씨를 붙잡아 나무 뒤로 대피시키려 했지만, 코끼리 중 한 마리가 다시 공격해 그녀의 엄니로 도시오 씨를 치명적으로 찔렀다고 현장에 없었던 매카티 씨는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+도시오 씨의 유해는 가봉에 남아 미국 송환을 기다리고 있으며, 그가 회원이었던 새크라멘토 사파리 클럽과 매카티 씨에 따르면 그렇게 되고 있다. 도시오 씨는 새크라멘토에서 남쪽으로 약 45분 거리에 있는 캘리포니아주 로디에 거주했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+가봉 주재 미국 대사관은 논평 요청에 즉시 응답하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+도시오 씨는 지역 포도원과 협력하는 모데스토 소재 농장 관리 회사인 퍼시픽 애그리랜드의 소유주였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+도시오 씨의 아들 제프 도시오가 사장으로 있는 이 회사의 대표는 논평을 거부했다. 제프 도시오와 그의 형제 셰인 도시오는 논평 요청에 즉시 응답하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+어니 도시오는 미국과 해외에서 빅게임을 노리는 경험 많은 사냥꾼이었다. 와곤하운드 및 기타 사냥 단체가 게시한 사진에는 수컷 사자, 엘크, 그리고 아프리카 원산의 큰 영양인 젬스복 등 여러 동물의 사체 옆에 서 있는 그가 나타나 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+새크라멘토 사파리 클럽에 따르면, 도시오 씨는 가봉 사냥 여행을 위해 플로리다주 코럴게이블스에 본사를 둔 사파리 회사 콜렉트 아프리카를 고용했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+웹사이트에서 콜렉트 아프리카는 "아프리카 사냥 목표를 달성할 수 있는 최고의 사파리를 찾고 준비하는 데 전념하며 도움을 드립니다"라고 광고한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+회사 대표는 논평 요청에 즉시 응답하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+매카티 씨는 도시오 씨가 10년 전 와곤하운드의 단골 사냥 고객이 되었고, 함께 엘크, 사슴, 새를 사냥하며 가까워졌다고 말했다. 그들은 지난 11월 와이오밍에서 흰꼬리사슴을 추적하며 마지막으로 함께 사냥했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+도시오 씨는 매우 관대하고 자선적이며 지역 사회에 깊이 관여했다고 매카티 씨는 말했다. 그는 "자신이 가진 것을 얻기 위해 열심히 일한 겸손한 사람"이라고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+오랜 엘크스 회원이었던 도시오 씨는 이번 주 로디 로지 1900의 비서 Tommy Whitman으로부터 추모사를 받았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그의 가족과 사랑하는 이들에게 우리의 모든 생각과 기도가 전해지길 바랍니다"라고 그는 목요일 페이스북에서 말했다. 도시오 씨는 "위대한 엘크" 지위를 가졌으며 "우리 지역사회의 기둥"이었다고 Whitman 씨는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+가봉은 세계에서 가장 숲이 밀집한 국가 중 하나로, 국제자연보전연맹(IUCN)의 멸종위기종 적색 목록에 따르면 심각한 멸종 위기에 처한 아프리카숲코끼리의 주요 서식지이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+야생동물보호협회에 따르면 최대 5만 마리의 숲코끼리가 이 나라에 살고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+매카티 씨는 집이 박제된 이국적인 동물들로 가득 찬 도시오 씨가 빅게임 사냥의 위험을 잘 알고 있었고 "위험을 알고 있었다"고 말했지만, 그가 과거에 겪은 근접 조우를 기억하지는 못했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+도시오 씨는 아프리카를 여러 번 방문했으며, 남아프리카와 미국 전역에서 사냥했다고 매카티 씨는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그는 자신이 사랑하는 일을 하다가 세상을 떠났습니다"라고 매카티 씨는 말했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/africa/big-game-hunter-death-africa.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/24/multimedia/24xp-hunter-death/24xp-hunter-death-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 18:46:41 +0000</pubDate></item><item><title>Families of Iranian Children Killed in School Airstrike Pen Letter to Pope (이란 학교 공습으로 숨진 어린이들 유가족, 교황에 편지)</title><link>https://www.nytimes.com/2026/04/25/world/middleeast/families-of-iranian-children-killed-in-school-airstrike-pen-letter-to-pope.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/25/multimedia/25israel-iran-minab-letter-topart-fckh/25israel-iran-minab-letter-topart-fckh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The families of more than a hundred children killed when a missile struck an elementary school in Iran have penned a letter of grief and gratitude to Pope Leo XIV, who has repeatedly criticized the loss of innocent lives in the war with Iran.&lt;br/&gt;(이란의 한 초등학교에 미사일이 떨어져 숨진 100명이 넘는 어린이들의 유가족이 교황 레오 14세에게 슬픔과 감사를 담은 편지를 보냈다. 교황은 이란과의 전쟁에서 무고한 생명이 희생되는 것을 거듭 비판해 왔다.)&lt;/p&gt;
+&lt;p&gt;An investigation by the U.S. military determined that the United States was responsible for the Tomahawk missile that destroyed the Shajarah Tayyebeh elementary school in the town of Minab, on Feb. 28, the first day of the war, killing 175 people, according to the preliminary findings of the inquiry.&lt;br/&gt;(미군 조사에 따르면, 전쟁 첫날인 2월 28일 미나브 마을의 샤자라 타이예베 초등학교를 파괴한 토마호크 미사일의 책임은 미국에 있는 것으로 밝혀졌다. 해당 공격으로 175명이 사망했다고 조사 예비 결과가 전했다.)&lt;/p&gt;
+&lt;p&gt;The authors of the letter, which was published by Iranian state media on April 19, called themselves “the fathers and mothers of 168 children who, these days, instead of hugging the warm bodies of our children, are clutching their burned bags and bloody notebooks to our chests.”&lt;br/&gt;(4월 19일 이란 국영 매체를 통해 공개된 이 편지의 저자들은 스스로를 "요즘, 우리 아이들의 따뜻한 몸을 안는 대신, 그들의 탄 가방과 피 묻은 공책을 가슴에 껴안고 있는 168명 어린이의 아버지와 어머니"라고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;The letter thanked the pontiff for being the “the voice for our voiceless children,” and then urged him to keep promoting peace and dialogue in the hope that no other parent would have to suffer the loss of a child in the fighting.&lt;br/&gt;(편지는 교황이 "목소리 없는 우리 아이들의 목소리"가 되어 준 것에 감사하며, 다른 어떤 부모도 전쟁에서 자식을 잃는 고통을 겪지 않도록 평화와 대화를 계속 촉구해 달라고 당부했다.)&lt;/p&gt;
+&lt;p&gt;“Our children will never return home to build a brighter future, but it is the prayer of us grieving parents that your message to lay down the weapons be heard, at a time when the United States and the Israeli regime fuel the flames of these atrocities with their excessive demands,” the authors wrote, according to Iranian state media.&lt;br/&gt;(이란 국영 매체에 따르면, 편지 저자들은 "우리 아이들은 더 밝은 미래를 위해 다시는 집에 돌아오지 못할 것입니다. 하지만 무기를 내려놓으라는 교황님의 메시지가, 미국과 이스라엘 정권이 과도한 요구로 이 잔학 행위의 불길을 부추기는 이때에, 전해지기를 바라는 것이 슬픔에 잠긴 우리 부모들의 기도입니다"라고 썼다.)&lt;/p&gt;
+&lt;p&gt;On Thursday, during his flight back to Rome after an 11-day trip to Africa, Leo said that he had seen the letter and used it to call attention to the loss of innocent lives in the conflict. At least 1,665 civilians had been killed in Iran, according to the Human Rights Activists News Agency.&lt;br/&gt;(목요일, 11일간의 아프리카 방문을 마치고 로마로 돌아오는 비행기 안에서 레오 교황은 이 편지를 보았다고 말하며, 이를 통해 분쟁에서 무고한 생명을 잃은 사실에 주목해 달라고 했다. 인권운동가 뉴스 통신에 따르면 이란에서 최소 1,665명의 민간인이 사망했다.)&lt;/p&gt;
+&lt;p&gt;The families “speak about how they have lost their children, who died in that event,” the pope said to reporters, referring to the airstrike on the school. “The issue is not whether there is regime change or not; the issue is how to promote the values we believe in without the death of so many innocent people.”&lt;br/&gt;(유가족들은 "그 사건에서 숨진 자녀들을 어떻게 잃었는지 이야기합니다"라고 교황이 학교 공습을 언급하며 기자들에게 말했다. "문제는 정권 교체 여부가 아닙니다. 문제는 수많은 무고한 사람들의 죽음 없이 우리가 믿는 가치를 어떻게 증진할 것인가 하는 것입니다.")&lt;/p&gt;
+&lt;p&gt;On Saturday, President Trump called off a trip by two of his top negotiators, who had planned to travel to Pakistan for peace talks. Iran and the United States have been locked in a stalemate over the Strait of Hormuz, where both sides are blockading ships, as a truce between Israel and Lebanon has been teetering because of clashes between Israel and Hezbollah, an Iran-backed militia.&lt;br/&gt;(토요일, 트럼프 대통령은 평화 회담을 위해 파키스탄으로 갈 예정이었던 최고 협상단 두 명의 출장을 취소했다. 이란과 미국은 호르무즈 해협을 두고 교착 상태에 빠져 있으며, 양측이 선박을 봉쇄하고 있다. 이스라엘과 레바논 간의 휴전은 이스라엘과 이란 지원 민병대 헤즈볼라 간의 충돌로 인해 불안정한 상태다.)&lt;/p&gt;
+&lt;p&gt;“We do not know where things are heading,” Leo said on Thursday, referring to the on-again-off-again peace talks. “This chaotic, critical situation for the global economy has been created, but there is also an entire population in Iran of innocent people suffering because of this war.”&lt;br/&gt;("상황이 어디로 흘러갈지 모르겠습니다"라고 레오 교황이 목요일, 중단과 재개를 반복하는 평화 회담을 언급하며 말했다. "이 혼란스럽고 위태로운 글로벌 경제 상황이 조성되었지만, 이란에는 이 전쟁 때문에 고통받는 무고한 사람들로 가득한 인구 전체가 있습니다.")&lt;/p&gt;
+&lt;p&gt;The American-born pontiff has been one of the world’s most powerful and vocal critics of the war, angering President Trump, who has called Leo “weak on crime” and “terrible for foreign policy.” Vice President JD Vance, who is a Catholic, also waded into the theological fight, attempting to justify the U.S. and Israeli military campaign in Iran as a just cause.&lt;br/&gt;(미국 태생의 이 교황은 전쟁에 대해 세계에서 가장 강력하고 목소리 높은 비판자 중 한 명으로, 트럼프 대통령의 분노를 샀다. 트럼프 대통령은 레오 교황을 "범죄에 약하다"고 하며 "외교 정책에 끔찍하다"고 비난했다. 가톨릭 신자인 JD 밴스 부통령도 신학적 논쟁에 뛰어들어, 이란에서의 미국과 이스라엘 군사 작전을 정당한 명분으로 정당화하려 했다.)&lt;/p&gt;
+&lt;p&gt;Mr. Trump has tried to sidestep blame for civilian deaths in Iran and other places touched by the war. At one point, before the preliminary results of the military inquiry became public, the president even briefly blamed Iran for the strike on the elementary school.&lt;br/&gt;(트럼프 대통령은 이란과 전쟁의 다른 지역에서 발생한 민간인 사망에 대한 책임을 회피하려 했다. 한 때, 군 조사의 예비 결과가 공개되기 전에 대통령은 초등학교 공격에 대해 일시적으로 이란을 비난하기도 했다.)&lt;/p&gt;
+&lt;p&gt;The American investigation said the strike stemmed from a targeting mistake by the U.S. military, which was conducting attacks on an adjacent base operated by the Islamic Revolutionary Guards Corps, according to the preliminary findings. Officers used outdated data when they were planning strikes on an adjacent Iranian military base, and the school building had once been part of the base, the preliminary investigation found.&lt;br/&gt;(미국 조사에 따르면, 이 공격은 이슬람 혁명수비대가 운영하는 인근 기지를 공격하던 미군의 표적 오류에서 비롯되었다고 예비 결과는 밝혔다. 장교들은 인접한 이란 군사 기지에 대한 공습을 계획할 때 구식 데이터를 사용했으며, 학교 건물은 한때 그 기지의 일부였다고 예비 조사가 발견했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/middleeast/families-of-iranian-children-killed-in-school-airstrike-pen-letter-to-pope.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25israel-iran-minab-letter-topart-fckh/25israel-iran-minab-letter-topart-fckh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 12:55:18 +0000</pubDate></item><item><title>U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’ (미국 조폐국, 마약 카르텔 금 구매해 ‘미국산’으로 판매)</title><link>https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html</link><description>&lt;![CDATA[&lt;p&gt;This gold comes from a Colombian drug cartel mine. It should never end up at the U.S. Mint.But it does.&lt;br/&gt;(이 금은 콜롬비아 마약 카르텔 광산에서 나온 것이다. 결코 미국 조폐국에 도달해서는 안 되는 금이다. 그러나 도달한다.)&lt;/p&gt;
+&lt;p&gt;The mine poisons the workers. The gold underwrites terrorism and cocaine trafficking.&lt;br/&gt;(그 광산은 노동자들을 중독시킨다. 그 금은 테러리즘과 코카인 밀매를 지원한다.)&lt;/p&gt;
+&lt;p&gt;But how do you stop illegal gold at $5,000 an ounce, when even the U.S. government is buying?&lt;br/&gt;(하지만 온스당 5,000달러에 달하는 불법 금을, 심지어 미국 정부조차 사들이는 상황에서 어떻게 막을 수 있을까?)&lt;/p&gt;
+&lt;p&gt;Supported by&lt;br/&gt;(후원)&lt;/p&gt;
+&lt;p&gt;Times Investigation&lt;br/&gt;(타임스 조사)&lt;/p&gt;
+&lt;p&gt;As prices for the precious metal soar, the industry’s guardrails have broken down.&lt;br/&gt;(귀금속 가격이 급등하면서 업계의 안전장치가 무너졌다.)&lt;/p&gt;
+&lt;p&gt;By Justin ScheckSimón Posada and Federico Rios&lt;br/&gt;(저스틴 셰크, 시몬 포사다, 페데리코 리오스)&lt;/p&gt;
+&lt;p&gt;Visuals by Federico Rios&lt;br/&gt;(시각 자료: 페데리코 리오스)&lt;/p&gt;
+&lt;p&gt;Reporting from illegal mines in northwestern Colombia, in the heart of Clan del Golfo territory&lt;br/&gt;(콜롬비아 북서부, 골포 일족 영토 중심부의 불법 광산에서 보도)&lt;/p&gt;
+&lt;p&gt;Every year, the United States Mint sells more than $1 billion of investment-grade gold coins. Each is stamped with an icon like the bald eagle, signifying the government’s guarantee, required by law, that the gold is 100 percent American.&lt;br/&gt;(매년 미국 조폐국은 10억 달러 이상의 투자 등급 금화를 판매한다. 각 동전에는 독수리 같은 상징이 각인되어 있어, 법으로 요구되는 대로 금이 100% 미국산이라는 정부의 보증을 의미한다.)&lt;/p&gt;
+&lt;p&gt;“To hold a coin or medal produced by the Mint is to connect to the founding principles of our nation,” the Mint declares.&lt;br/&gt;(조폐국은 “조폐국에서 생산된 동전이나 메달을 소유하는 것은 우리 국가의 건국 원칙에 연결되는 것”이라고 선언한다.)&lt;/p&gt;
+&lt;p&gt;But a New York Times investigation has found that the government’s program of gold sales is based on a lie. The Mint is actually the last link in a chain that launders foreign gold, much of it illegally mined, for an insatiable market.&lt;br/&gt;(하지만 뉴욕타임스 조사 결과, 정부의 금 판매 프로그램은 거짓말에 기반을 둔 것으로 드러났다. 조폐국은 사실상 외국 금, 그중에서도 상당량이 불법 채굴된 금을 갈망하는 시장에 세탁해 공급하는 사슬의 마지막 고리이다.)&lt;/p&gt;
+&lt;p&gt;The Mint buys gold that originates in a Colombian drug cartel mine. It makes Lady Liberty coins out of gold from Mexican and Peruvian pawn shops and from a Congolese mine that is part-owned by the Chinese government, records show. Some Mint gold has come from a company in Honduras that dug up an Indigenous graveyard for the ore underneath.&lt;br/&gt;(조폐국은 콜롬비아 마약 카르텔 광산에서 나온 금을 구매한다. 기록에 따르면 멕시코와 페루의 전당포, 그리고 중국 정부가 일부 소유한 콩고 광산에서 나온 금으로 자유의 여신상 동전을 만든다. 일부 조폐국 금은 원주민 묘지를 파헤쳐 그 아래 광석을 캐낸 온두라스의 한 회사에서 나왔다.)&lt;/p&gt;
+&lt;p&gt;Congress in 1985 prohibited the Mint from making bullion out of foreign gold because it wanted to insulate the process from human rights abuses, primarily in apartheid South Africa. The Mint has flouted that law, across Democratic and Republican administrations, despite internal warnings.&lt;br/&gt;(1985년 미국 의회는 조폐국이 외국 금으로 주괴를 만드는 것을 금지했다. 이는 주로 아파르트헤이트 남아프리카공화국의 인권 침해로부터 과정을 차단하려는 의도였다. 조폐국은 내부 경고에도 불구하고 민주당과 공화당 정부를 막론하고 이 법을 무시해왔다.)&lt;/p&gt;
+&lt;p&gt;Now, even President Trump’s 24-karat gold coin, commemorating the United States’ 250th birthday, could come from a swirl of non-American gold from any number of sources.&lt;br/&gt;(이제 트럼프 대통령의 미국 건국 250주년 기념 24캐럿 금화조차 다양한 출처의 외국 금이 뒤섞인 것에서 나올 수 있다.)&lt;/p&gt;
+&lt;p&gt;The Mint, the biggest name in the global market for investment gold coins, is an example of how the industry’s guardrails have collapsed. Gold prices hover around $5,000 an ounce, about four times the price of a decade ago. That gives criminal organizations and fly-by-night operators a huge incentive to mine in wasteful, destructive and risky ways.&lt;br/&gt;(투자용 금화 시장에서 가장 큰 이름인 조폐국은 업계의 안전장치가 붕괴된 사례이다. 금 가격은 온스당 약 5,000달러로 10년 전 가격의 약 4배이다. 이는 범죄 조직과 무명 업체들에게 낭비적이고 파괴적이며 위험한 방식으로 채굴할 막대한 유인을 제공한다.)&lt;/p&gt;
+&lt;p&gt;Investors buy gold as a hedge against instability. Nearly every terrorist attack, war and financial meltdown in the past quarter-century has fueled a gold-buying frenzy.&lt;br/&gt;(투자자들은 불안정에 대한 헤지 수단으로 금을 구매한다. 지난 25년간 거의 모든 테러 공격, 전쟁, 금융 붕괴가 금 매수 열풍을 부채질해왔다.)&lt;/p&gt;
+&lt;p&gt;But as prices climb ever higher, wealthy buyers are actually helping to create the very instability they are trying to hedge against.&lt;br/&gt;(하지만 가격이 계속 치솟으면서, 부유한 구매자들은 사실상 자신들이 헤지하려는 바로 그 불안정을 조장하는 데 일조하고 있다.)&lt;/p&gt;
+&lt;p&gt;Gold mining funds Sudan’s brutal civil war and Russia’s invasion of Ukraine. Surging gold prices have helped Venezuela and Iran temper the effects of financial sanctions. Colombia’s biggest cartel, the Clan del Golfo, traffics in gold alongside cocaine — and uses the proceeds to maintain control through murder and bombings. Illegal miners deforest and pollute the Amazon, poisoning people there with mercury. Terrorist groups, including some linked to Al Qaeda, are getting into the gold business, too.&lt;br/&gt;(금 채굴은 수단의 잔혹한 내전과 우크라이나 침공 러시아에 자금을 댄다. 급등하는 금 가격은 베네수엘라와 이란이 금융 제재의 영향을 완화하는 데 도움을 주었다. 콜롬비아 최대 카르텔인 골포 일족은 코카인과 함께 금을 밀매하며, 그 수익금을 살인과 폭탄 테러를 통해 통제력을 유지하는 데 사용한다. 불법 채굴자들은 아마존 삼림을 파괴하고 오염시켜, 그곳 사람들을 수은에 중독시킨다. 알카에다와 관련된 일부 단체를 포함한 테러 조직들도 금 사업에 뛰어들고 있다.)&lt;/p&gt;
+&lt;p&gt;The easier it is to sell this gold on the world’s legitimate exchanges, the easier it is to make war, sustain an autocracy, launder money or destroy the environment. Drug cartel gold ending up at the U.S. Mint is one example of that process in action.&lt;br/&gt;(이러한 금을 세계의 합법적인 거래소에서 판매하기 쉬울수록, 전쟁을 수행하고, 독재 정권을 유지하며, 돈을 세탁하거나 환경을 파괴하기가 더 쉬워진다. 마약 카르텔 금이 미국 조폐국에 유입되는 것은 그 과정이 실제로 작동하는 한 예이다.)&lt;/p&gt;
+&lt;p&gt;The industry’s biggest players speak about bright lines between legal and criminal gold. Buying from a reputable source, like the Mint, is supposed to ensure that criminals, terrorists and polluters do not profit. In fact, the Mint has looked away for decades as gold from dubious sources flows into its plant in West Point, N.Y.&lt;br/&gt;(업계의 주요 플레이어들은 합법 금과 범죄 금 사이에 명확한 경계선이 있다고 말한다. 조폐국 같은 평판 좋은 출처에서 구매하는 것은 범죄자, 테러리스트, 오염자가 이익을 얻지 못하도록 보장해야 한다. 사실 조폐국은 수십 년 동안 의심스러운 출처의 금이 뉴욕주 웨스트포인트의 공장으로 흘러들어오는 것을 외면해왔다.)&lt;/p&gt;
+&lt;p&gt;We tracked hundreds of millions of dollars in foreign gold entering the Mint’s supply chain in recent years. That includes secondhand gold, with provenance that is difficult or even impossible to determine, and gold from countries like Colombia and Nicaragua, where the industry is linked to criminal groups.&lt;br/&gt;(우리는 최근 몇 년간 수억 달러에 달하는 외국 금이 조폐국의 공급망에 유입된 것을 추적했다. 여기에는 원산지를 확인하기 어렵거나 심지어 불가능한 중고 금과, 업계가 범죄 조직과 연결된 콜롬비아나 니카라과 같은 국가의 금이 포함된다.)&lt;/p&gt;
+&lt;p&gt;When we first approached the Mint, a spokesman said that its gold came entirely from the United States, as the law requires. After we shared our findings, the Mint said the U.S. was its “primary” source and said it was taking steps to better track its gold.&lt;br/&gt;(우리가 처음 조폐국에 접근했을 때, 대변인은 법이 요구하는 대로 조폐국의 금이 전적으로 미국에서 나온다고 말했다. 우리가 조사 결과를 공유한 후, 조폐국은 미국이 ‘주된’ 원산지라고 밝히며 금을 더 잘 추적하기 위한 조치를 취하고 있다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Treasury Secretary Scott Bessent, whose department oversees the Mint, said he would investigate the gold procurement practices.&lt;br/&gt;(조폐국을 감독하는 재무부의 스콧 베센트 장관은 금 조달 관행을 조사하겠다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;“This review is focused on ensuring that the U.S. Mint’s gold suppliers comply with the law and strictly satisfy their obligations, and that the Mint takes every step possible to continue to vigorously safeguard our national security and uphold market integrity,” he said in a written statement.&lt;br/&gt;(그는 서면 성명에서 “이번 검토는 미국 조폐국의 금 공급업체들이 법을 준수하고 의무를 엄격히 이행하며, 조폐국이 국가 안보를 강력히 보호하고 시장 무결성을 유지하기 위해 가능한 모든 조치를 취하도록 하는 데 중점을 둘 것”이라고 말했다.)&lt;/p&gt;
+&lt;p&gt;For illegally mined foreign gold to become an American Eagle coin, two seeming acts of alchemy occur.&lt;br/&gt;(불법 채굴된 외국 금이 미국 독수리 동전이 되기 위해서는 두 가지 연금술적 변환이 일어나는 것으로 보인다.)&lt;/p&gt;
+&lt;p&gt;First, the illegal gold becomes legal.&lt;br/&gt;(첫째, 불법 금이 합법이 된다.)&lt;/p&gt;
+&lt;p&gt;Second, it becomes American.&lt;br/&gt;(둘째, 그것이 미국산이 된다.)&lt;/p&gt;
+&lt;p&gt;To see this sleight of hand at work, we headed into the heart of Clan del Golfo territory in northwestern Colombia. A six-hour drive from Medellín took us down the northern slope of the Andes and into the tropical lowlands.&lt;br/&gt;(이 속임수가 어떻게 작동하는지 보기 위해, 우리는 콜롬비아 북서부 골포 일족 영토의 중심부로 향했다. 메데인에서 6시간 차를 타고 안데스 산맥 북쪽 경사면을 내려와 열대 저지대에 도착했다.)&lt;/p&gt;
+&lt;p&gt;Just outside the small city of Caucasia, a sign announced that we had arrived at a cattle ranch owned by the government “for the benefit of the Colombian people.”&lt;br/&gt;(작은 도시 카우카시아 바로 외곽에서, ‘콜롬비아 국민의 이익을 위해’ 정부가 소유한 목장에 도착했음을 알리는 표지판을 보았다.)&lt;/p&gt;
+&lt;p&gt;It was clear that the Colombian government had long ago lost control. The roadside sign was charred black. An old man raised fighting roosters. All around, workers were grinding up the land, openly flouting a ban on mining.&lt;br/&gt;(콜롬비아 정부가 오래전에 통제권을 잃었다는 것은 분명했다. 길가의 표지판은 새까맣게 그을려 있었다. 한 노인이 투계를 키우고 있었다. 사방에서 노동자들이 땅을 갈아엎으며 광산 채굴 금지령을 공공연히 무시하고 있었다.)&lt;/p&gt;
+&lt;p&gt;The miners call the ranch La Mandinga, a name for an evil spirit.&lt;br/&gt;(광부들은 그 목장을 ‘라 만딩가’(악령을 뜻하는 이름)라고 부른다.)&lt;/p&gt;
+&lt;p&gt;Caribbean Sea&lt;br/&gt;(카리브해)&lt;/p&gt;
+&lt;p&gt;PANAMA&lt;br/&gt;(파나마)&lt;/p&gt;
+&lt;p&gt;Colombia&lt;br/&gt;(콜롬비아)&lt;/p&gt;
+&lt;p&gt;VENEZUELA&lt;br/&gt;(베네수엘라)&lt;/p&gt;
+&lt;p&gt;Caucasia&lt;br/&gt;(카우카시아)&lt;/p&gt;
+&lt;p&gt;LA MANDINGA&lt;br/&gt;(라 만딩가)&lt;/p&gt;
+&lt;p&gt;Medellín&lt;br/&gt;(메데인)&lt;/p&gt;
+&lt;p&gt;100 Miles&lt;br/&gt;(100마일)&lt;/p&gt;
+&lt;p&gt;UNITED States&lt;br/&gt;(미국)&lt;/p&gt;
+&lt;p&gt;800 Miles&lt;br/&gt;(800마일)&lt;/p&gt;
+&lt;p&gt;Atlantic Ocean&lt;br/&gt;(대서양)&lt;/p&gt;
+&lt;p&gt;Mexico&lt;br/&gt;(멕시코)&lt;/p&gt;
+&lt;p&gt;Detail&lt;br/&gt;(세부)&lt;/p&gt;
+&lt;p&gt;area&lt;br/&gt;(지역)&lt;/p&gt;
+&lt;p&gt;VENEZuela&lt;br/&gt;(베네수엘라)&lt;/p&gt;
+&lt;p&gt;Pacific Ocean&lt;br/&gt;(태평양)&lt;/p&gt;
+&lt;p&gt;COLOMBIA&lt;br/&gt;(콜롬비아)&lt;/p&gt;
+&lt;p&gt;Ecuador&lt;br/&gt;(에콰도르)&lt;/p&gt;
+&lt;p&gt;BRAZIL&lt;br/&gt;(브라질)&lt;/p&gt;
+&lt;p&gt;The New York Times&lt;br/&gt;(뉴욕타임스)&lt;/p&gt;
+&lt;p&gt;For the past eight years, the Clan del Golfo has run La Mandinga with a short list of rules, a pair of mining supervisors told us. The most important: Nobody mines without cartel permission, and everybody pays.&lt;br/&gt;(지난 8년 동안 골포 일족은 몇 가지 간단한 규칙으로 라 만딩가를 운영해왔다고 두 명의 광산 감독관이 우리에게 말했다. 가장 중요한 규칙은 카르텔의 허가 없이는 아무도 채굴하지 않으며, 모두가 돈을 지불해야 한다는 것이다.)&lt;/p&gt;
+&lt;p&gt;Every month, the supervisors said, a man on a motorbike collects the Clan’s cut, $400 for each team of five. There are hundreds of teams, perhaps a thousand or more.&lt;br/&gt;(감독관들은 매월 오토바이를 탄 남자가 팀당 400달러씩, 5명으로 구성된 팀에서 골포 일족의 몫을 거둬간다고 말했다. 수백 개, 어쩌면 천 개 이상의 팀이 있다.)&lt;/p&gt;
+&lt;p&gt;They work in open-air mines, using excavators and high-pressure hoses to turn La Mandinga’s hillsides into mud. Picking the tiny flecks of gold from that muck is impossible, so the miners mix the mud with mercury and stir by hand until the mercury binds to the gold.&lt;br/&gt;(그들은 노천 광산에서 굴착기와 고압 호스를 사용해 라 만딩가의 언덕을 진흙으로 만든다. 그 진흙에서 금의 미세한 조각을 골라내는 것은 불가능하므로, 광부들은 진흙에 수은을 섞어 수은이 금에 결합될 때까지 손으로 저은 다음 휘발시킨다.)&lt;/p&gt;
+&lt;p&gt;All of this is illegal, environmentally destructive and toxic.&lt;br/&gt;(이 모든 것은 불법이며, 환경적으로 파괴적이고 독성이 있다.)&lt;/p&gt;
+&lt;p&gt;The Colombian authorities occasionally conduct airstrikes and raids on mines that support the Clan. But the miners at La Mandinga apparently need not worry, even though their operation directly abuts a military base. They operate with such impunity that, when we flew a drone over the area in February, we saw that workers had breached the base’s perimeter and were mining for gold on military land.&lt;br/&gt;(콜롬비아 당국은 때때로 골포 일족을 지원하는 광산에 대한 공습과 습격을 감행한다. 하지만 라 만딩가의 광부들은 그들의 작업이 군사 기지에 직접 인접해 있음에도 불구하고 걱정할 필요가 없는 것 같다. 그들은 너무나 면책적으로 운영해서, 우리가 2월에 그 지역에 드론을 띄웠을 때, 작업자들이 기지 경계를 침범하여 군사용 토지에서 금을 채굴하고 있는 것을 보았다.)&lt;/p&gt;
+&lt;p&gt;Illegal gold mining&lt;br/&gt;(불법 금 채굴)&lt;/p&gt;
+&lt;p&gt;COLOMBIAN MILITARY BASE&lt;br/&gt;(콜롬비아 군사 기지)&lt;/p&gt;
+&lt;p&gt;Base perimeter&lt;br/&gt;(기지 경계)&lt;/p&gt;
+&lt;p&gt;COLOMBIAN MILITARY BASE&lt;br/&gt;(콜롬비아 군사 기지)&lt;/p&gt;
+&lt;p&gt;Base perimeter&lt;br/&gt;(기지 경계)&lt;/p&gt;
+&lt;p&gt;Illegal gold mining&lt;br/&gt;(불법 금 채굴)&lt;/p&gt;
+&lt;p&gt;COLOMBIAN MILITARY BASE&lt;br/&gt;(콜롬비아 군사 기지)&lt;/p&gt;
+&lt;p&gt;Base perimeter&lt;br/&gt;(기지 경계)&lt;/p&gt;
+&lt;p&gt;Illegal gold mining&lt;br/&gt;(불법 금 채굴)&lt;/p&gt;
+&lt;p&gt;COLOMBIAN MILITARY BASE&lt;br/&gt;(콜롬비아 군사 기지)&lt;/p&gt;
+&lt;p&gt;Base perimeter&lt;br/&gt;(기지 경계)&lt;/p&gt;
+&lt;p&gt;Illegal gold mining&lt;br/&gt;(불법 금 채굴)&lt;/p&gt;
+&lt;p&gt;At day’s end, workers gather their gray globs of mercury and gold, each about the size of a marble, and wrap them in plastic. They stuff these marbles in their pockets and drive their motorbikes down La Mandinga’s dirt paths and into nearby Caucasia.&lt;br/&gt;(하루가 끝나면, 작업자들은 각각 구슬 크기 정도의 수은과 금의 회색 덩어리를 모아 플라스틱으로 싼다. 그들은 이 구슬들을 주머니에 넣고 오토바이를 타고 라 만딩가의 흙길을 따라 근처 카우카시아로 향한다.)&lt;/p&gt;
+&lt;p&gt;La Mandinga gold has no business making its way into the United States. Secretary of State Marco Rubio called the Clan “a violent and powerful criminal organization” last year when the United States designated the cartel a terrorist group.&lt;br/&gt;(라 만딩가 금은 미국으로 유입될 이유가 전혀 없다. 마르코 루비오 국무장관은 작년 미국이 이 카르텔을 테러 조직으로 지정했을 때 골포 일족을 “폭력적이고 강력한 범죄 조직”이라고 불렀다.)&lt;/p&gt;
+&lt;p&gt;The Treasury Department keeps Clan del Golfo leaders on a financial blacklist, banning American companies from doing business with them. Government organizations and academics have documented the cartel’s gold mining activities here for years. (A Colombian lawyer for the cartel did not return a call for comment.)&lt;br/&gt;(재무부는 골포 일족 지도자들을 금융 블랙리스트에 올려 미국 기업들이 그들과 거래하는 것을 금지한다. 정부 기관과 학계는 수년간 이곳에서의 카르텔의 금 채굴 활동을 기록해왔다. (카르텔의 콜롬비아 변호사는 논평 요청에 응하지 않았다.))&lt;/p&gt;
+&lt;p&gt;Caucasia is a gold-rush city. Businesses sell excavators, pumps and million-dollar dredges for illegal riverbed mining. Fancy cafes and dance clubs have sprung up. Miners can sell gold to any of hundreds of storefronts. Every month, two shop owners told us, the Clan collects $400 from them, too.&lt;br/&gt;(카우카시아는 골드러시 도시이다. 상점들은 불법 하상 채굴을 위한 굴착기, 펌프, 백만 달러짜리 준설선을 판다. 고급 카페와 댄스 클럽이 생겨났다. 광부들은 수백 개의 노점 중 어디에서나 금을 팔 수 있다. 두 명의 상점 주인은 우리에게 매달 골포 일족도 그들에게서 400달러를 징수한다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Alex Cuevas works in one such shop. One by one, miners pass him mercury-and-gold marbles through a hole in a plexiglass window. His hands tremble — a symptom, he says, of long-term mercury poisoning.&lt;br/&gt;(알렉스 쿠에바스는 그러한 상점 중 한 곳에서 일한다. 광부들은 하나씩 플렉시글라스 창문의 구멍을 통해 그에게 수은과 금 구슬을 건넨다. 그의 손은 떨린다. 그는 이것이 장기간 수은 중독의 증상이라고 말한다.)&lt;/p&gt;
+&lt;p&gt;Mr. Cuevas burns off the mercury with a blowtorch, weighs what is left and pays out cash — $2,500 for miners who had a good day, $50 or less for the unlucky. At the end of the night, he melts the gold together in a crucible and pours it into a mold.&lt;br/&gt;(쿠에바스 씨는 블로우토치로 수은을 태워버리고, 남은 금의 무게를 잰 후 현금을 지불한다. 좋은 날을 보낸 광부에게는 2,500달러, 운이 나쁜 사람에게는 50달러 이하이다. 밤이 끝날 무렵, 그는 금을 도가니에 함께 녹여 주형에 붓는다.)&lt;/p&gt;
+&lt;p&gt;And just like that, the first metamorphosis is complete. The gold is legal. The mercury, the off-limits mining, the payments to the Clan — it is all erased.&lt;br/&gt;(그러면 첫 번째 변형이 완료된다. 금은 합법이 된다. 수은, 채굴 금지 구역, 골포 일족에 대한 지불 등 모든 것이 지워진다.)&lt;/p&gt;
+&lt;p&gt;How?&lt;br/&gt;(어떻게?)&lt;/p&gt;
+&lt;p&gt;Mr. Cuevas showed us ledger entries on the shop’s computer. His suppliers from La Mandinga, he said, have registered under a Colombian program for small-scale miners, or barequeros. Nearly anyone can get a license, as long as they mine in authorized areas using only hand tools and no mercury.&lt;br/&gt;(쿠에바스 씨는 가게 컴퓨터의 장부 항목을 우리에게 보여주었다. 라 만딩가에서 온 그의 공급업체들은, 그가 말하기로, 소규모 광부 또는 바레케로스를 위한 콜롬비아 프로그램에 등록되어 있다. 승인된 지역에서 손도구만 사용하고 수은을 전혀 사용하지 않는 조건으로 채굴한다면 거의 누구나 면허를 얻을 수 있다.)&lt;/p&gt;
+&lt;p&gt;Of course, La Mandinga’s workers are not mining only with hand tools. Or in authorized areas. And they are using mercury. Mr. Cuevas knows all of this. He mines in La Mandinga himself. But it is not his job to look beyond the paperwork. And the Colombian authorities rarely examine barequero gold’s origins to determine legality.&lt;br/&gt;(물론 라 만딩가의 노동자들은 손도구만으로 채굴하지 않는다. 승인된 지역에서도 아니다. 그리고 그들은 수은을 사용한다. 쿠에바스 씨는 이 모든 것을 알고 있다. 그 자신도 라 만딩가에서 채굴한다. 하지만 서류 이상을 살펴보는 것은 그의 일이 아니다. 그리고 콜롬비아 당국은 바레케로 금의 합법성을 결정하기 위해 그 기원을 거의 조사하지 않는다.)&lt;/p&gt;
+&lt;p&gt;Instead, they ask one question: Does it have paperwork?&lt;br/&gt;(대신 그들은 한 가지 질문을 한다. 서류가 있는가?)&lt;/p&gt;
+&lt;p&gt;And Mr. Cuevas does. He says each gram he buys is linked to a licensed miner. Every shop that sells gold for legal export keeps these ledgers, he says.&lt;br/&gt;(그리고 쿠에바스 씨는 그렇다. 그가 구매하는 모든 그램이 면허를 소지한 광부와 연결되어 있다고 말한다. 합법적인 수출을 위해 금을 판매하는 모든 상점은 이러한 장부를 보관한다고 그는 말한다.)&lt;/p&gt;
+&lt;p&gt;Gold industry players know how this works. “If you’re buying from barequeros, you’re buying illegal gold,” said the trader Patrick Schein. He said his firm, Gold by Gold, will not buy barequero gold.&lt;br/&gt;(금 업계 관계자들은 이것이 어떻게 작동하는지 알고 있다. “바레케로에게서 사는 것은 불법 금을 사는 것과 같습니다”라고 거래상 패트릭 샤인은 말했다. 그의 회사 골드 바이 골드는 바레케로 금을 사지 않는다고 그는 말했다.)&lt;/p&gt;
+&lt;p&gt;The shop where Mr. Cuevas works, like others in town, sells to a government-owned exporter. The exporter said it checks the same database that Mr. Cuevas uses, verifying that the gold is legal. The gold from La Mandinga is mixed with supplies from around Colombia and melted into bars. Export records show that many of them, worth about $255 million over the past year or so, arrive in Texas.&lt;br/&gt;(쿠에바스 씨가 일하는 상점은 마을의 다른 상점들과 마찬가지로 정부 소유 수출업체에 판매한다. 수출업체는 쿠에바스 씨가 사용하는 것과 동일한 데이터베이스를 확인하여 금이 합법적인지 검증한다고 밝혔다. 라 만딩가의 금은 콜롬비아 전역의 공급품과 혼합되어 금괴로 녹여진다. 수출 기록에 따르면 지난 1년 동안 약 2억 5,500만 달러 상당의 많은 금괴가 텍사스에 도착한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+거기서 금은 미국산이 된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+댈러스 외곽의 딜런 게이지라는 정련소에서 노동자들은 수입된 금을 빛나는 가마에 쏟아붓고, 기록과 인터뷰에 따르면 남미 광산, 미국 중고 보석 딜러, 페루 전당포 등 다른 공급업체의 용융 금과 혼합한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 딜런 게이지의 고객들에게, 그 금이 댈러스 가마를 떠나는 순간 외국산이 아니게 된다. 딜런 게이지는 미국에 있으며 미국 금과 콜롬비아 금을 혼합한다. 따라서 업계 논리에 따르면 최종 제품은 미국산이어야 한다. “그들의 관점에서는 미국 내에서 생산된 것입니다”라고 딜런 게이지의 최고경영자 테리 핸런은 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+핸런 씨는 자신의 회사가 불법 금을 경계하고 있다고 말했다. 하지만 이 시점에서 만딩가 금은 상점 장부와 수출 서류 덕분에 합법적이다. 이는 핸런 씨의 구매와 판매가 합법적임을 의미한다. (핸런 씨는 자신의 파이프라인에서 카르텔 금을 발견한 것에 놀랐다고 말했다. 회사는 콜롬비아 수출업체로부터의 구매를 중단했다.)
+&lt;&lt;&lt;PARA&gt;&gt;
+딜런 게이지의 가장 큰 고객 중에는 두 개의 조폐국 공급업체가 있다고 핸런 씨는 말했다. 그는 고객들에게 자신의 출처에 대한 연간 목록을 제공하므로, 고객들이 금을 미국산으로 취급하더라도 실제 기원을 알고 있다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+라 만딩가는 이 지역에서 카르텔이 통제하는 수많은 광산 중 하나일 뿐이다. 쿠에바스 씨는 한 도시에 있는 수백 개의 상점 중 한 곳에서 일한다. 수많은 수출업체와 더 많은 구매자가 있다. 사기와 돈세탁으로 악명 높은 이 수조 달러 규모의 시장에서 더러운 금과 깨끗한 금의 구분은 주로 서류상으로만 존재한다. 고객이 확인하려 하지 않는 한, 그 구분은 사라진다.
+&lt;&lt;&lt;PARA&gt;&gt;
+조폐국은 확인하지 않는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국에서의 완전한 공급망 감사는 골포 일족 금의 위험을 지적할 것이다. 콜롬비아 금은 업계 기준에 따라 고위험으로 간주되며, 미국 정부 자체가 특히 카우카시아에서의 골포 일족의 활동을 문서화해왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 20년 동안 — 9·11 이후 금 붐의 거의 전 기간 — 조폐국은 공급업체에게 금을 어디서 샀는지 묻지 않았다고 재무부 감찰관 감사가 2024년 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+만약 물었다면, 놀라울 정도로 투명한 공급망을 발견했을 것이다. 수입 및 수출 데이터베이스와 중개 회사와의 인터뷰를 통해, 우리는 조폐국의 금 파이프라인에서 수십 개의 외국 출처를 찾아냈다.
+&lt;&lt;&lt;PARA&gt;&gt;
+여기에는 멕시코와 페루의 산업 광산이 포함되었다. 전당포 같은 일부 공급업체는 재활용 보석을 전문으로 한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+역사적으로 가장 큰 조폐국 공급업체 중 하나인 유타주의 정련소 아사히 USA는 자사의 가마에 여러 다른 국가의 금이 들어 있다는 사실을 공개적으로 밝히고 있다. 그중 일부는 딜런 게이지에서 온다. 하지만 사방에서 온 금이 있다. “혼합됩니다”라고 회사의 정련 책임자 폴 힐리는 말했다. “그리고 반대쪽으로 나옵니다.” 힐리 씨는 회사가 골포 일족에 대한 우리의 조사 결과를 조사할 것이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+조폐국은 내부 감사에 대한 응답으로, 공급업체가 외국 금을 미국 금으로 상쇄하기 때문에 자체 금이 미국산으로 간주된다고 밝혀왔다. 예를 들어 조폐국이 1톤의 금을 구매하면, 공급업체가 언젠가는 그만큼의 미국 금을 구매할 것으로 기대한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 법은 이런 종류의 상쇄를 허용하지 않는다. 그리고 수십 년 동안 조폐국은 해당 조항을 시행하지 않았거나 공급업체에 준수를 요구조차 하지 않았다고 재무부 감찰관이 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+설사 그랬더라도, 텍사스의 큰 가마에 있는 모든 것, 카르텔 금을 포함하여, 미국산으로 간주될 수 있었을 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 조폐국은 질문을 하지 않는 것을 넘어선다. 법이 요구하는 새로 채굴된 미국 금을 공급할 수 없는 출처에서 공개적으로 구매한다. 기록에 따르면, 최근 몇 년간 조폐국은 캐나다 구리 정련소로부터 수억 달러의 금괴를 구매했는데, 이 정련소는 구리 가공 후 남은 슬라임에서 금을 얻지 새로 채굴된 금에서는 얻지 않는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+수출 기록에 따르면, 그 구리 중 일부는 중국 정부가 일부 소유한 콩고 광산에서 나온다.
+&lt;&lt;&lt;PARA&gt;&gt;
+조폐국의 조달 관행은 때때로 재무부 내부에서 적색 신호를 일으켰으며, 트럼프 대통령의 첫 임기 중 감찰관이 질문을 시작했을 때도 그랬다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 조사는 완료되는 데 5년이 걸렸다. 그 과정에서 감사관들은 심각한 문제를 발견했다. 그들은 조폐국이 자체 정책을 따르지 않고 있으며 조폐국의 금 상쇄 계획(외국 금 1톤당 미국 금 1톤)이 미국 법을 위반할 수 있다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+바이든 행정부는 2024년에 금 출처 조사를 위한 새로운 계획을 발표하기까지 몇 달 남지 않았다고 응답했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 결코 그렇게 하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+재무부 대변인은 트럼프 행정부가 이미 금 출처를 식별하기 위한 조치를 취하고 있다고 말했다. 외국 금을 차단하지는 않았다고 그녀는 말했는데, 그렇게 하면 수요를 충족시키는 것이 불가능해지기 때문이다. 하지만 정부는 구매를 모니터링한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+조폐국은 여전히 금 추적 정책을 공개하지 않았다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html</guid><pubDate>Sun, 26 Apr 2026 00:00:18 +0000</pubDate></item><item><title>How We Traced U.S. Government Gold to a Drug Cartel (미국 정부 금이 마약 카르텔까지 연결된 경로를 추적한 방법)</title><link>https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/multimedia/23insider-gold1-gmct/23insider-gold1-gmct-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Almost three years ago, I became obsessed with gold.&lt;br/&gt;(거의 3년 전, 나는 금에 사로잡혔다.)&lt;/p&gt;
+&lt;p&gt;I’d been watching the price shoot up for two decades. By December of 2023, gold was an eye-watering $2,000 an ounce, inflated by the anxiety of wealthy investors and governments. They worried about terrorist attacks and wars and financial instability and, lately, disease. Gold, they reasoned, would hold its value if stocks and bonds and dollars lost theirs.&lt;br/&gt;(20년 동안 금값이 치솟는 것을 지켜봤다. 2023년 12월, 금은 온스당 2,000달러라는 눈물나는 가격에 달했으며, 부유한 투자자들과 정부의 불안감이 이를 부풀렸다. 그들은 테러 공격과 전쟁, 금융 불안정, 그리고 최근에는 질병을 우려했다. 그들은 주식과 채권, 달러의 가치가 떨어지면 금이 그 가치를 유지할 것이라고 추론했다.)&lt;/p&gt;
+&lt;p&gt;At the same time, I’d been reading about illegal gold mining devastating the Sahel across Africa and the Amazon rainforest. It was fueling terrorist attacks and wars and financial instability and lately, researchers were learning, disease.&lt;br/&gt;(동시에, 나는 불법 금 채굴이 아프리카 사헬 지역과 아마존 열대 우림을 황폐화시키고 있다는 기사를 읽고 있었다. 이는 테러 공격과 전쟁, 금융 불안정을 부추기고 있었으며, 최근 연구자들은 질병까지도 유발한다는 사실을 알게 되었다.)&lt;/p&gt;
+&lt;p&gt;I’ve spent much of my career writing about money and power, and the intersection of great wealth and deep poverty. I’m fascinated by the consequences of actions that wealthy institutions take to become wealthier. And I’m always looking for stories about how the choices made in rich countries affect people in poor ones. So I told my editor, Matt Apuzzo, that during this price run-up, I wanted to report on gold mining.&lt;br/&gt;(나는 경력의 상당 부분을 돈과 권력, 그리고 막대한 부와 극심한 빈곤이 교차하는 지점에 대해 글을 쓰며 보냈다. 부유한 기관들이 더 부유해지기 위해 취하는 행동의 결과에 매료되었다. 그리고 부유한 국가에서 내린 선택이 가난한 국가의 사람들에게 어떻게 영향을 미치는지에 대한 이야기를 항상 찾고 있다. 그래서 나는 편집자 매트 아푸조에게 이 가격 상승기 동안 금 채굴에 대해 보도하고 싶다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 회의적이었고, 결국 핵심 질문으로 판명된 것을 물었다: 불안정과 폭력을 피하기 위해 금을 비축하는 것이 실제로 더 많은 불안정과 폭력을 만들어내고 있는가?)&lt;/p&gt;
+&lt;p&gt;He was skeptical and asked what turned out to be the big question: Is the hoarding of gold to avoid instability and violence actually creating more instability and violence?&lt;br/&gt;(은행과 미국 정부가 투자자들에게 가장 크고 신뢰할 수 있는 금 공급처이며, 예를 들어 테러 단체에서 비롯된 동일한 금을 구매한다면 이야깃거리가 될 것이라고 그가 말했다.)&lt;/p&gt;
+&lt;p&gt;If banks and the U.S. government — the biggest, most credible suppliers of gold to investors — are buying the same gold that originates with, say, a terrorist group, he said, we would have a story.&lt;br/&gt;(그날이 끝날 무렵, 나는 이야깃거리가 없을 것이라고 확신했다.)&lt;/p&gt;
+&lt;p&gt;By the end of that day, I was pretty sure that we would not have a story.&lt;br/&gt;(미국과 유럽에서 투자자들에게 금을 판매하는 대기업들은 범죄적으로 채굴된 금을 구매하지 않기 위해 철통 같은 정책을 가지고 있는 것처럼 보였다. 그리고 연방법은 미국에서 가장 평판이 좋은 금 판매자인 미국 조폐국이 투자자용 주화에 미국에서 채굴된 금만 사용하도록 요구한다. 조폐국 대변인은 내 보도 초기에 미국 금만 구매한다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Big companies that sell gold to investors in the United States and Europe have seemingly ironclad policies to avoid buying gold that was criminally mined. And federal law requires America’s most reputable gold seller, the United States Mint, to use only U.S.-mined gold for its investor-grade coins. A Mint spokesman told me early in my reporting that it buys only U.S. gold.&lt;br/&gt;(나는 미국 조폐국에 금 공급업체 목록을 요청하고 이를 선적 기록 데이터베이스와 대조했다. 공급업체들이 문자 그대로 수 톤의 외국 금을 수입하고 있음을 발견했다. 그리고 그들에게 전화를 걸자, 그들은 때때로 미국 금과 함께 그 모든 금을 녹여서 미국 조폐국이 결국 구매하는 바를 만든다고 말했다.)&lt;/p&gt;
+&lt;p&gt;I asked the U.S. Mint for a list of its gold suppliers and ran them through a shipping-records database. I found that the suppliers were importing, literally, tons of foreign gold. And when I called them, they told me they melt all that gold together, sometimes with U.S. gold, to make bars that the U.S. Mint eventually buys.&lt;br/&gt;(조폐국이 법을 위반하고 있었을까? 1년 이상의 작업과 더 많은 전화, 더 많은 무역 기록, 그리고 40년간의 입법 역사를 살펴본 끝에 나는 무슨 일이 일어나고 있는지 알아냈다. 복잡하지 않았다: 미국 조폐국은 외국 금을 구매하고 법적으로는 미국에서 왔다고 주장하는 것이었다.)&lt;/p&gt;
+&lt;p&gt;Was the Mint violating the law? After over a year of work and more calls, more trade records and a detour into four decades of legislative history, I figured out what was going on. It wasn’t complicated: The U.S. Mint buys foreign gold and claims that, as far as the law is concerned, it comes from the United States.&lt;br/&gt;(수십 년 동안 조폐국 지도자들은 외국 금을 미국산이라고 부르기 위해 논리적 체조를 해왔다. 그들은 콩고 민주 공화국에서 비롯된 공급품, 멕시코 전당포, 그리고 남미 중개인을 통해 구매했다. 2024년 연방 감시 보고서에 따르면 조폐국은 20여 년 전부터 공급업체에 금 원산지를 묻는 것을 중단했다.)&lt;/p&gt;
+&lt;p&gt;For decades, Mint leaders had been using logical gymnastics to call foreign gold American. They bought supplies originating in the Democratic Republic of Congo, from Mexican pawn shops and through South American brokers. A 2024 federal watchdog report said the Mint had stopped asking suppliers about gold origins more than 20 years earlier.&lt;br/&gt;(나는 이 금을 적어도 하나의 출처까지 추적하기로 결정했다.)&lt;/p&gt;
+&lt;p&gt;I decided to trace this gold back to at least one of its sources.&lt;br/&gt;(금이 온스당 3,000달러에 가까워졌을 때 나는 2024년 말에 전화를 걸기 시작했다. 한 통화는 텍사스 중개인에게 했는데, 그는 자신의 가장 큰 금 고객 두 곳이 미국 조폐국의 공급업체라고 말했다. 무역 기록에 따르면 그는 법적 문제가 있는 콜롬비아 회사에서 금을 수입했다.)&lt;/p&gt;
+&lt;p&gt;Gold was nearing $3,000 an ounce when I started making calls in late 2024. One was to a Texas middleman who said his two biggest gold clients were suppliers for the U.S. Mint. Trade records showed he imported gold from a Colombian company with a checkered legal history.&lt;br/&gt;(그래서 나는 동료 시몬 포사다와 페데리코 리오스와 함께 메데인으로 날아가 이 금이 어디서 오는지 알아내기로 했다.)&lt;/p&gt;
+&lt;p&gt;So I flew to Medellín with my colleagues Simón Posada and Federico Rios to figure out where this gold originates.&lt;br/&gt;(우리는 결국 클란 델 골포(미국이 지정한 테러 단체)가 장악한 금 붐 타운인 카우카시아에 도착했다. 클란은 마약과 금을 판매하며 영토를 유지하기 위해 폭력을 사용한다.)&lt;/p&gt;
+&lt;p&gt;We ended up in Caucasia, a gold boomtown controlled by the Clan del Golfo, a U.S.-designated terrorist group. The Clan sells drugs and gold, and uses violence to hold onto its territory.&lt;br/&gt;(우리 셋은 지난 1년 동안 그곳을 네 번 방문했다. 세 번째 방문 때는 금이 온스당 5,000달러를 넘었다.)&lt;/p&gt;
+&lt;p&gt;Between the three of us, we traveled there four times over the past year; by the third trip, gold had surpassed $5,000 an ounce.&lt;br/&gt;(카우카시아의 금 붐은 나이트클럽과 반짝이는 새 굴착기를 판매하는 상점에서 분명히 드러난다. 시내 중심가에서는 무장 경비원이 지키는 가운데 남성들이 금 자루를 브링크스 트럭에 싣는 모습을 보았다.)&lt;/p&gt;
+&lt;p&gt;Caucasia’s gold boom is obvious in nightclubs and in the shops that sell shiny new excavators for mining. Downtown we saw men loading bags of gold into a Brinks truck while armed guards stood by.&lt;br/&gt;(우리는 마을 안팎에서 다양한 금 업계 인물들을 만났다 — 중개인, 삽과 팬을 사용하는 광부, 그리고 강바닥 퇴적물을 흡입하여 합법적으로 금을 추출하는 대기업 관계자들. 우리는 합법 광산, 불법 광산, 그리고 현장에 있는 누구에게도 합법성이 명확하지 않은 한 산업화 작업장을 방문했다.)&lt;/p&gt;
+&lt;p&gt;We met all sorts of gold-industry figures in and around the town — brokers, shovel-and-pan miners and those with a huge company that vacuums up river sediment to legally extract gold. We went to legal mines, illegal mines and one industrialized operation whose legality wasn’t clear to anyone on the premises.&lt;br/&gt;(우리는 동료가 방금 살해된 광부 노조 위원장과 인스타그램 비디오로 사업을 광고하는 암시장 딜러를 만났다.)&lt;/p&gt;
+&lt;p&gt;We met the head of a miners’ union whose colleague had just been killed, and a black-market dealer who advertised his business with Instagram videos.&lt;br/&gt;(우리는 쇠고기(현지 특산품)를 많이 먹고 야채(현지 특산품이 아님)는 거의 먹지 않았다.)&lt;/p&gt;
+&lt;p&gt;We ate lots of beef (a local specialty) and few vegetables (not a local specialty).&lt;br/&gt;(마침내 연락처가 우리를 라 만딩가라는 곳으로 데려갔다. 이곳은 정부 소유의 목장으로, 불법 광부들이 고압 호스로 땅을 파헤치고 있었다. 그들은 클란이 이곳을 운영하며 토지에서 채굴할 월 사용료를 부과한다고 말했다. 광부들은 금을 상인에게 팔고, 상인 역시 클란에 돈을 지불한다. 상인들은 금을 수출업체에 판매하고, 수출업체는 이를 텍사스로 보낸다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Eventually a contact took us to a place called La Mandinga. It’s a government-owned cattle ranch where illegal miners tear up the earth with high-pressure hoses. They told us that the Clan ran the place, charging them a monthly fee to mine the land. The miners sell their gold to traders who also pay the Clan. Traders told us they sell the gold to the exporter, who sends it to Texas.&lt;br/&gt;(미국 조폐국은 공급업체를 비난했다. 공급업체들은 텍사스 중개인이 불법 금을 차단하는 데 의존한다고 말했다. 텍사스 중개인은 멕시코에 있는 한 사람에게 동일한 일을 맡긴다고 말했다. 내가 발견한 사실을 알린 후, 그들은 모두 콜롬비아 금 수령을 중단했다고 말했다.)&lt;/p&gt;
+&lt;p&gt;The U.S. Mint blamed its suppliers. The suppliers told me they rely on the Texan middleman to keep out illegal gold. The Texan said he relies on a guy in Mexico to do the same. After I told them what I found, they all said they stopped receiving the Colombian gold.&lt;br/&gt;(그러나 조폐국을 감독하는 미국 재무부는 시스템적인 문제가 없다고 부인했다. 재무부의 입장은 투자자 주화를 위해 외국 금을 구매하는 관행이 법을 위반하지 않는다는 것이라고 대변인이 말했다.)&lt;/p&gt;
+&lt;p&gt;But the U.S. Treasury, which overseas the Mint, denied there was any systemic problem. The Treasury’s stance is that its practice of buying foreign gold for investor coins does not violate the law, a spokeswoman said.&lt;br/&gt;(수년 동안 조폐국은 미국 금에 대한 느슨한 정의를 사용해왔다. 즉, 외국 금은 조폐국에 공급하는 회사가 상쇄되는 양의 미국 금을 구매했다면 포함될 수 있다고 했다. 2024년 연방 감시 보고서는 조폐국이 20여 년 전부터 이 요건을 시행하는 것을 중단했다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;For years, the Mint had been using a loose definition for U.S. gold, saying that foreign gold could count if it was supplied to the Mint by a company that had bought an offsetting quantity of U.S. gold. A federal watchdog report in 2024 said the Mint stopped enforcing that requirement more than 20 years ago.&lt;br/&gt;(우리가 조사 결과를 제시한 후, 재무부 대변인은 부서가 조폐국의 금 조달을 조사 중이며, 미국이 조폐국이 구매하는 금의 '주요' 출처임을 보장하기 위해 조달 기준을 강화했다고 말했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/23/multimedia/23insider-gold1-gmct/23insider-gold1-gmct-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 26 Apr 2026 00:02:15 +0000</pubDate></item><item><title>See What Happened After We Found a Cartel Mine on a Military Base (군사기지에서 카르텔 광산을 발견한 후 벌어진 일)</title><link>https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-gold-colombia-gpvq/26int-gold-colombia-gpvq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;It was during my third visit to La Mandinga, a gold mine controlled by a Colombian drug cartel, when I understood just how badly the institutions that are supposed prevent illegal mining had failed.&lt;br/&gt;(라 만딩가를 세 번째 방문했을 때, 콜롬비아 마약 카르텔이 운영하는 금광에서 불법 채굴을 막아야 할 기관들이 얼마나 실패했는지 깨달았다.)&lt;/p&gt;
+&lt;p&gt;The mine abutted a Colombian military base. Weren’t people worried about operating under the noses of the authorities? After all, the mine supported the notorious Clan del Golfo cartel.&lt;br/&gt;(그 광산은 콜롬비아 군사기지와 맞닿아 있었다. 당국이 코앞에서 벌어지는 일을 눈치채지 못할까 걱정하지 않았을까? 결국 이 광산은 악명 높은 클란 델 골포 카르텔을 지원하고 있었다.)&lt;/p&gt;
+&lt;p&gt;Hardly. One miner told me and my colleagues that the operation had even expanded beyond the military perimeter line and that workers were mining for gold directly on the base.&lt;br/&gt;(전혀 아니었다. 한 광부는 나와 동료들에게 작업이 군사 경계선 너머로까지 확장되었으며, 노동자들이 기지 바로 위에서 금을 캐고 있다고 말했다.)&lt;/p&gt;
+&lt;p&gt;“Fly a drone and see,” the miner said.&lt;br/&gt;("드론을 띄워 보세요," 광부가 말했다.)&lt;/p&gt;
+&lt;p&gt;So we did. The images were clear: Miners with high-pressure hoses were tearing up a forested area of the base, home to the Rifles Battalion 31, a Colombian military unit. We could see what appeared to be a former fence line — but no sign of a fence separating the base from La Mandinga. After we shared the images with the military and asked for comment, the base’s commander, Col. Daniel Echeverry, denied any gold mining was happening on his base.&lt;br/&gt;(그래서 우리는 그렇게 했다. 이미지는 선명했다: 고압 호스를 든 광부들이 콜롬비아 군 부대인 소총 31대대가 주둔한 기지의 숲 지역을 파헤치고 있었다. 우리는 이전 경계선으로 보이는 것을 볼 수 있었지만, 기지와 라 만딩가를 나누는 울타리는 없었다. 군대에 이미지를 보내고 논평을 요청한 후, 기지 사령관 다니엘 에체베리 대령은 자신의 기지에서 금 채굴이 일어나고 있다는 것을 부인했다.)&lt;/p&gt;
+&lt;p&gt;That made no sense to us. The diesel generators on a working mine are deafening and, from satellite imagery, we could see that the mines had expanded to within about 150 yards of the base’s swimming pool and outbuildings.&lt;br/&gt;(그 말은 우리에게 전혀 말이 되지 않았다. 가동 중인 광산의 디젤 발전기는 귀청이 터질 정도로 시끄러웠고, 위성 이미지로 보니 광산이 기지의 수영장과 별채에서 약 150야드 이내까지 확장되어 있었다.)&lt;/p&gt;
+&lt;p&gt;Colonel Echeverry invited me to the base to talk, so I went. He told me that in the six months he’d been in charge, he’d been aware of the illegal miners next door but noted that the military was hesitant to take armed action against civilians, even if they were committing crimes. But he was adamant that the miners were not on the base.&lt;br/&gt;(에체베리 대령이 나를 기지로 초대해 대화를 나누자 나는 갔다. 그는 자신이 지휘한 6개월 동안 옆집의 불법 광부들을 알고 있었지만, 군대가 범죄를 저지르더라도 민간인을 상대로 무력 행동을 취하는 것을 주저한다고 말했다. 그러나 그는 광부들이 기지 안에 있지 않다고 단호히 주장했다.)&lt;/p&gt;
+&lt;p&gt;As a journalist, I’m not in the business of leading the authorities to the site of criminal activity. I never want to become part of the story. But here was a colonel denying, on the record, what I had seen with my own eyes.&lt;br/&gt;(기자로서 나는 당국을 범죄 현장으로 이끄는 일을 하지 않는다. 나는 이야기의 일부가 되고 싶지 않았다. 하지만 여기 대령이 내 눈으로 본 것을 공식적으로 부인하고 있었다.)&lt;/p&gt;
+&lt;p&gt;So I asked if we could go for a walk.&lt;br/&gt;(그래서 나는 산책하러 갈 수 있냐고 물었다.)&lt;/p&gt;
+&lt;p&gt;I could hear the generators in the distance. After five minutes, the forest opened into a panorama of torn-up soil and muddy pits. Miners with high-pressure hoses were running a full-scale illegal gold-mining operation, just as we’d seen from the sky.&lt;br/&gt;(멀리서 발전기 소리가 들렸다. 5분 후, 숲이 열리며 찢긴 흙과 진흙 웅덩이가 펼쳐졌다. 고압 호스를 든 광부들이 하늘에서 본 그대로 본격적인 불법 금 채굴 작업을 진행하고 있었다.)&lt;/p&gt;
+&lt;p&gt;Colonel Echeverry froze. “This is inside the base,” he said. He ordered the miners to leave. “We can shoot you for trespassing!” he shouted.&lt;br/&gt;(에체베리 대령은 멈춰 섰다. "이곳은 기지 내부입니다,"라고 말했다. 그는 광부들에게 떠나라고 명령했다. "침입하면 쏠 수 있다!"고 외쳤다.)&lt;/p&gt;
+&lt;p&gt;I don’t know whether the miners had been working there surreptitiously or whether they’d had an understanding with someone on the base. Either way, I expected them to scatter.&lt;br/&gt;(광부들이 은밀하게 그곳에서 일하고 있었는지, 아니면 기지 내 누군가와 합의가 있었는지 모르겠다. 어쨌든 나는 그들이 흩어질 거라 예상했다.)&lt;/p&gt;
+&lt;p&gt;Instead, they shouted obscenities and kept working.&lt;br/&gt;(대신, 그들은 욕설을 퍼부으며 계속 일했다.)&lt;/p&gt;
+&lt;p&gt;As we were on a military base, reinforcements were close by.&lt;br/&gt;(우리가 군사기지에 있었기 때문에 지원군이 가까이 있었다.)&lt;/p&gt;
+&lt;p&gt;Soldiers arrived with gasoline canisters. They doused the mining equipment and lit it on fire.&lt;br/&gt;(군인들이 휘발유 통을 들고 도착했다. 그들은 채굴 장비에 휘발유를 뿌리고 불을 붙였다.)&lt;/p&gt;
+&lt;p&gt;“You can’t burn our equipment!” shouted a miner working in his underwear. He swore at the soldiers before grabbing his gold ore and running off.&lt;br/&gt;("장비를 태울 수 없어!" 속옷 차림으로 일하던 광부가 외쳤다. 그는 금광석을 집어 들고 달아나기 전에 군인들에게 욕설을 퍼부었다.)&lt;/p&gt;
+&lt;p&gt;Some miners pulled out machetes. Others threw rocks. The soldiers began cutting hoses with chain saws.&lt;br/&gt;(일부 광부들은 마체테를 꺼냈다. 다른 이들은 돌을 던졌다. 군인들은 전기톱으로 호스를 자르기 시작했다.)&lt;/p&gt;
+&lt;p&gt;Workers tried to rescue their equipment and to extinguish the flames with buckets of muddy runoff.&lt;br/&gt;(노동자들은 장비를 구출하고 진흙물 양동이로 불을 끄려고 애썼다.)&lt;/p&gt;
+&lt;p&gt;The miners pay the Clan del Golfo for the right to mine at La Mandinga. It was clear that, as far as many of them were concerned, they believed that right extended to where we stood — military property or not.&lt;br/&gt;(광부들은 라 만딩가에서 채굴할 권리를 위해 클란 델 골포에 돈을 지불한다. 그들 중 많은 이에게 그 권리가 우리가 서 있는 곳까지 미친다고 믿는 것이 분명했다 — 군사 자산이든 아니든 상관없이.)&lt;/p&gt;
+&lt;p&gt;One miner threatened the colonel with a stick. Then he doused the soldiers and me with gas and shouted, “We’re all going to burn!”&lt;br/&gt;(한 광부가 막대기로 대령을 위협했다. 그런 다음 그는 군인들과 나에게 휘발유를 뿌리며 "우리 모두 불타 죽자!"고 외쳤다.)&lt;/p&gt;
+&lt;p&gt;The colonel said it was time to go. The soldiers and I retreated.&lt;br/&gt;(대령은 떠날 때라고 말했다. 군인들과 나는 후퇴했다.)&lt;/p&gt;
+&lt;p&gt;Colonel Echeverry seemed shaken. He oversees about 800 men who are responsible for clamping down on the Clan and other armed groups in the area. The gold trade keeps those groups awash in arms and in control of the region.&lt;br/&gt;(에체베리 대령은 충격받은 듯 보였다. 그는 지역에서 클란과 다른 무장 단체를 단속하는 임무를 맡은 약 800명의 병력을 감독한다. 금 거래는 이들 단체가 무기로 넘쳐나고 지역을 장악하게 만든다.)&lt;/p&gt;
+&lt;p&gt;We hadn’t come to La Mandinga to report on the military base. We came because we had learned that Clan del Golfo gold was making its way to the U.S. Mint, despite laws requiring the Mint to buy only gold mined in the United States.&lt;br/&gt;(우리는 군사기지를 보도하기 위해 라 만딩가에 온 것이 아니었다. 클란 델 골포의 금이 미국 조폐국으로 유입되고 있다는 사실을 알게 되었기 때문에 왔다. 조폐국이 미국 내에서만 채굴된 금을 구매하도록 요구하는 법에도 불구하고 말이다.)&lt;/p&gt;
+&lt;p&gt;Colonel Echeverry initially had the same reaction to our findings that many others in the gold supply chain had displayed. Like the Mint, the Mint’s suppliers and the exporters who send the gold to the United States, the colonel had insisted that there was no way illicit gold was moving right under his nose.&lt;br/&gt;(에체베리 대령은 처음에 금 공급망의 다른 많은 사람들이 보여준 반응과 동일한 반응을 보였다. 조폐국, 조폐국의 공급업체, 금을 미국으로 보내는 수출업체들처럼, 대령은 불법 금이 자신의 코앞에서 움직일 리가 없다고 주장했다.)&lt;/p&gt;
+&lt;p&gt;When we showed him the evidence, he, like everyone else, said he was surprised and promised to crack down.&lt;br/&gt;(우리가 증거를 보여주자, 그는 다른 사람들처럼 놀랐다고 말하며 강경 대응을 약속했다.)&lt;/p&gt;
+&lt;p&gt;It left us wondering: We had such an easy time tracking this gold. Were others even looking?&lt;br/&gt;(이는 우리에게 의문을 남겼다: 우리가 이 금을 추적하는 것이 그렇게 쉬웠다. 다른 사람들은 아예 찾고 있었을까?)&lt;/p&gt;
+&lt;p&gt;Justin Scheck contributed reporting.&lt;br/&gt;(저스틴 셰크가 보도에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-gold-colombia-gpvq/26int-gold-colombia-gpvq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 26 Apr 2026 00:04:17 +0000</pubDate></item><item><title>Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters (일본의 새로운 요양보호사: 보디빌더, 레슬러, 종합격투기 선수들)</title><link>https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/15/multimedia/00int-japan-caregivers-02-kptm/00int-japan-caregivers-02-kptm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Japan’s nursing homes and care centers face a daunting crisis: an ongoing influx of elderly patients and a dearth of workers to care for them.&lt;br/&gt;(일본의 요양원과 돌봄 시설은 엄청난 위기에 직면해 있습니다: 계속해서 증가하는 고령 환자와 그들을 돌볼 인력의 부족입니다.)&lt;/p&gt;
 &lt;p&gt;Some are turning to an unconventional solution, recruiting bodybuilders, mixed martial arts fighters and sumo wrestlers to take on roles as caregivers in an industry where men have long been scarce.&lt;br/&gt;(일부는 비전통적인 해결책을 찾고 있으며, 보디빌더, 종합격투기 선수, 스모 선수들을 요양보호사 역할로 채용하고 있습니다. 이 업계는 오랫동안 남성 인력이 부족한 분야입니다.)&lt;/p&gt;
 &lt;p&gt;The unusual arrangement has given steady work to athletes, who typically have short careers and struggle to find high-paying jobs. They also get perks like free housing, gym memberships and protein supplements.&lt;br/&gt;(이 특이한 제도는 일반적으로 짧은 경력을 가지고 있고 고임금 일자리를 찾기 어려운 운동선수들에게 안정적인 일자리를 제공했습니다. 또한 무료 주택, 헬스장 회원권, 단백질 보충제 같은 혜택도 받습니다.)&lt;/p&gt;
@@ -1211,4 +1317,312 @@ ICE 관계자는 그녀가 9월에 90일 비자가 만료된 후 12월 초 영�
 "나는 남편의 무덤에 다시는 돌아갈 수 없을 거예요. 그곳에 있는 친구들을 다시 만나러 갈 수도 없고요. 정말 가슴 아파요."
 &lt;&lt;&lt;PARA&gt;&gt;
 니콜라스 보겔-버로스가 뉴욕에서 취재에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25france-ice-01-wtcm/25france-ice-01-wtcm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 06:18:45 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25france-ice-01-wtcm/25france-ice-01-wtcm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 06:18:45 +0000</pubDate></item><item><title>Al Qaeda-Linked Militants Launch Major Attacks on Cities Across Mali (알카에다 연계 무장세력, 말리 여러 도시에 대규모 공격 개시)</title><link>https://www.nytimes.com/2026/04/25/world/africa/mali-attacks-jnim-al-qaeda-bamako.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/25/multimedia/25int-mali-htgc/25int-mali-htgc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Al Qaeda-linked militants launched coordinated attacks across Mali on Saturday, claiming to have seized two major cities while simultaneously striking the heart of the capital, Bamako, in what observers described as a major, unprecedented offensive.&lt;br/&gt;(알카에다와 연계된 무장세력이 토요일 말리 전역에서 동시다발 공격을 감행해 두 주요 도시를 장악했다고 주장하는 한편, 수도 바마코의 중심부를 타격했다. 관찰자들은 이를 대규모의 전례 없는 공세라고 묘사했다.)&lt;/p&gt;
+&lt;p&gt;The group, JNIM, attacked several cities at the same time and hit the country’s military headquarters just outside Bamako, where the home of the defense minister was destroyed, according to experts who monitor the region. In a statement, JNIM claimed to have captured the northern city of Kidal and the central city of Mopti, as well as military bases in nearby Sevaré and in Gao. It named the Azawad Liberation Front, an armed separatist movement of the Tuareg ethnic minority, as its partner in the attacks.&lt;br/&gt;(이 지역을 모니터링하는 전문가들에 따르면, JNIM 조직은 동시에 여러 도시를 공격했으며 바마코 외곽에 있는 국군 본부를 타격해 국방부 장관의 자택이 파괴되었다. JNIM은 성명을 통해 북부 도시 키달과 중부 도시 몹티, 그리고 인근 세바레와 가오에 있는 군기지를 장악했다고 주장했다. 이 공격의 파트너로 투아레그 소수민족의 무장 분리주의 운동인 아자와드 해방 전선을 지목했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이번 공세는 이 조직이 농촌 지역의 반군에서 주요 도시를 봉쇄해 굶주리게 하고 말리군을 상대로 전통적인 전투를 벌이는 강력한 세력으로 진화한 이후 나온 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"오늘 아침의 공격은 분쟁의 중대한 확대, 즉 무장 단체들이 도달한 새로운 단계를 나타냅니다."라고 국제위기그룹의 사헬 프로젝트 책임자인 장-에르베 제즈켈이 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+토요일, 많은 바마코 주민들은 엄청난 폭발음과 함께 잠에서 깼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"오전 5시쯤, 거대한 폭발음이 집을 흔들었습니다."라고 보안상의 이유로 이름 대신 '압둘라예'라는 이름만 공개한 바마코의 한 사업가가 말했다. "정말 무서웠습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+정부는 토요일 초기에 짧은 성명을 내어 "아직 신원이 확인되지 않은 무장 테러 단체"의 여러 공격을 확인하며, 군대가 여전히 그들과 교전 중이며 추후 정보가 제공될 것이라고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 더 이상의 공식 정보가 나오지 않자, 많은 사람들이 소셜 미디어로 눈을 돌렸다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그곳에서는 국방장관 사디오 카마라 장군의 파괴된 자택으로 보이는 동영상이 속속 올라오고 있었다. 카마라 장군의 행방은 불분명하다. 전문가들은 그가 말리 정권과 협력하는 러시아의 아프리카 군단 준군사 조직과의 주요 연락책이었다고 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+현재의 말리 영토는 한때 서아프리카 제국들의 학문과 상업의 중심지였으며, 팀북투의 수천 점의 중세 필사본, 니제르 강 계곡의 우뚝 솟은 진흙 벽돌 건축물, 그리고 세계 관광객들을 끌어모은 활기찬 음악 전통으로 유명했다. 그러나 지난 14년 동안, 반란, 지하드 위협, 프랑스군의 도착과 이어진 무례한 철수, 그리고 여러 차례의 군사 쿠데타로 시달려 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+무장 분쟁 위치 및 사건 데이터 프로젝트의 헤니 은사이비아에 따르면, JNIM은 전국적인 동시다발 공격에서 자동차 폭탄과 무인기를 사용했다. 토요일이 저물어갈 무렵에도 전투는 계속되고 있었고 여러 도시의 상황은 여전히 불분명했다. 수도에 딸린 수비대 도시이자 군사 정권이 있는 카티도 주요 표적이었다. 은사이비아는 이러한 공격들이 격퇴되었다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"목표는 정권을 타도하는 것으로 보이지만, 성공할 가능성은 낮아 보입니다."라고 그는 말했다. "하지만 그것이 성공하지 못하더라도, 그들은 거의 모든 곳을 공격할 수 있는 능력이 있고 큰 압박을 가할 수 있음을 보여주었습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+JNIM은 2017년에 설립되었으며, 아랍어로 "이슬람과 무슬림 지원을 위한 집단"을 의미하는 자마아트 누스라트 알-이슬람 왈-무슬리민의 약자이다. 처음에는 농촌 지역 장악에 집중했다. 최근에는 상황이 바뀌었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+국제위기그룹에 따르면, 2022년 이후 중부 사헬 지역에서 JNIM 주도의 도시 중심지 공격이 세 배 이상 증가했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+사헬 지역의 독립 분석가이자 JNIM과 가까운 사람들과 정기적으로 연락하는 코린 뒤프카는 JNIM이 최근 시리아에서 영감을 받았다고 말했다. 시리아에서는 한때 알카에다와 동맹을 맺었던 반군 그룹이 2024년 말 오랜 독재자 바샤르 알-아사드를 축출했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 거의 10년 동안 밀림에 숨어 지낸 후, JNIM의 지도자들은 조직이 군사적 실체일 뿐만 아니라 정치적 실체가 되기를 원하며, 말리 정부를 협상 타결로 이끌기를 원한다고 말했다. 이는 정부가 거부해 온 것이다. 그녀는 주요 도시 중심지를 점령하면 정부에 압박을 가하고 그 약점(그리고 군사 파트너인 러시아와 터키의 약점)을 드러낼 것이라고 말했다. 또한 최근 알카에다와 거리를 두고 있는 JNIM이 도시를 통치할 수 있음을 보여줄 기회가 될 것이라고 그녀는 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"이번 번개 같은 공세는 군사적으로나 상징적으로나 매우 중요합니다."라고 그녀는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+많은 말리인들은 공격의 규모와 조율된 성격에 경악했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"나는 완전히 혼란스럽습니다."라고 자신의 안전을 위해 익명을 요구한 바마코의 한 교통업 종사자가 말하며, 정부가 인정하는 것보다 더 많은 일이 진행되고 있다고 생각한다고 덧붙였다. "JNIM이 이것을 모두 혼자서 하는 것은 거의 불가능할 것입니다. 내부 세력의 지원이 있어야 합니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+하루가 지나면서 많은 사람들이 더 많은 정보를 갈망했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"대통령이나 고위 인사가 나서서 말리 국민에게 말해주길 바랍니다."라고 사업가 압둘라예가 말했다. "그러면 말리인들을 진정시키고 안심시킬 수 있을 것입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+사이쿠 자메가 다카르에서 보도에 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/africa/mali-attacks-jnim-al-qaeda-bamako.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25int-mali-htgc/25int-mali-htgc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 14:24:57 +0000</pubDate></item><item><title>40 Years Ago, a Nuclear Catastrophe at Chernobyl (40년 전, 체르노빌의 핵 재앙)</title><link>https://www.nytimes.com/2026/04/26/world/europe/40-years-ago-a-nuclear-catastrophe-at-chernobyl.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/20/world/00int-chernobyl-photos-01/00int-chernobyl-photos-01-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The reactor exploded early on April 26, 1986, sending a column of fire and radioactive debris high above the Chernobyl nuclear power plant in the Soviet Union.&lt;br/&gt;(1986년 4월 26일 이른 아침, 원자로가 폭발하며 소련 체르노빌 원자력 발전소 위로 불기둥과 방사능 잔해가 치솟았습니다.)&lt;/p&gt;
+&lt;p&gt;The fallout settled over the streets, schools and playgrounds of nearby cities like Pripyat. Trace amounts of particles were eventually detected across the Northern Hemisphere. It was the world’s largest ever accidental release of radioactive material.&lt;br/&gt;(그 낙진은 프리피야트 같은 인근 도시의 거리와 학교, 놀이터에 내려앉았습니다. 미량의 입자는 결국 북반구 전역에서 감지되었습니다. 이는 인류 역사상 최대 규모의 우발적 방사성 물질 누출 사고였습니다.)&lt;/p&gt;
+&lt;p&gt;In the beginning, the Soviet Union said little about the explosion, which was triggered by a safety test and exacerbated by design flaws. Officials obfuscated and denied. After radiation levels rose in Sweden, Soviet officials acknowledged that something had gone wrong. But they hid the scale of the disaster for months, even from the thousands of people sent to fix it.&lt;br/&gt;(처음에 소련은 안전 점검으로 촉발되고 설계 결함으로 악화된 이 폭발에 대해 거의 언급하지 않았습니다. 관리들은 사실을 모호하게 하고 부인했습니다. 스웨덴에서 방사능 수치가 상승한 후에야 소련 관리들은 무언가 잘못되었음을 인정했습니다. 그러나 그들은 수개월 동안, 심지어 이를 수리하러 파견된 수천 명의 사람들에게조차 재앙의 규모를 숨겼습니다.)&lt;/p&gt;
+&lt;p&gt;Firefighters, miners, soldiers and civilians — who would come to be known as “liquidators” — shoveled debris and sealed the shattered reactor, without fully understanding the risks. They sometimes paid with their lives.&lt;br/&gt;(소방관, 광부, 군인, 민간인 — 이들은 나중에 '청산인'으로 알려지게 됩니다 — 위험을 완전히 이해하지 못한 채 잔해를 치우고 부서진 원자로를 봉인했습니다. 그들은 때로 목숨을 잃었습니다.)&lt;/p&gt;
+&lt;p&gt;Pripyat was evacuated 36 hours after the disaster. Thousands of other residents nearby were ordered to do the same in the weeks and months that followed. The city and dozens of villages were left to rot. This corner of the Soviet Union became known as the Chernobyl exclusion zone, an area roughly the size of Rhode Island that remains restricted. The Soviet Union fell apart; Chernobyl remains in Ukraine.&lt;br/&gt;(프리피야트는 재앙 발생 36시간 후에 대피했습니다. 이후 몇 주와 몇 달 동안 수천 명의 다른 인근 주민들도 같은 명령을 받았습니다. 도시와 수십 개의 마을은 버려져 썩어갔습니다. 소련의 이 구석은 로드아일랜드 주와 비슷한 크기로 제한 구역으로 남아 있는 체르노빌 출입 금지 구역으로 알려지게 되었습니다. 소련은 붕괴되었고, 체르노빌은 우크라이나에 남아 있습니다.)&lt;/p&gt;
+&lt;p&gt;These photographs — some taken in the first days after the explosion, others many years later — illustrate the immediate response, the evacuation and what was left behind.&lt;br/&gt;(이 사진들 중 일부는 폭발 직후 며칠 만에, 다른 일부는 수년 후에 촬영된 것으로, 초기 대응, 대피, 그리고 남겨진 것들을 보여줍니다.)&lt;/p&gt;
+&lt;p&gt;In the first of these images, the cleanup workers called liquidators are walking past a temporary tent camp set up in the exclusion zone, which is about 1,000 square miles. In the early days of the cleanup, the workers, mobilized by the government, had little clue about the health risks they faced.&lt;br/&gt;(첫 번째 이미지에서 청산인이라 불리는 정리 작업자들이 약 1,000제곱마일의 출입 금지 구역에 설치된 임시 텐트 캠프를 지나 걸어가고 있습니다. 정리 작업 초기에 정부에 의해 동원된 작업자들은 자신들이 직면한 건강 위험에 대해 거의 알지 못했습니다.)&lt;/p&gt;
+&lt;p&gt;But the risks from the high levels of radiation were significant. In this photograph, a doctor checked a girl’s thyroid gland as other children waited their turns at a school in eastern Belarus, which neighbors Ukraine. At least 1,800 cases of thyroid cancer were documented in children who were under 14 when the accident occurred, a far higher rate than normal.&lt;br/&gt;(하지만 높은 방사능 수준의 위험은 상당했습니다. 이 사진에서는 의사가 한 소녀의 갑상선을 검사하고 있고, 다른 아이들은 우크라이나와 접경한 벨라루스 동부의 한 학교에서 차례를 기다리고 있습니다. 사고 당시 14세 미만이었던 어린이들에게서 최소 1,800건의 갑상선암 사례가 기록되었으며, 이는 정상보다 훨씬 높은 비율입니다.)&lt;/p&gt;
+&lt;p&gt;Miners wore little protection in May 1986 as they dug a tunnel beneath the exploded reactor. They were trying to prevent molten nuclear fuel from reaching the groundwater, which would have caused a far more dangerous release of radiation.&lt;br/&gt;(1986년 5월, 광부들은 폭발한 원자로 아래에 터널을 파면서 거의 보호 장비를 착용하지 않았습니다. 그들은 용융된 핵연료가 지하수에 닿아 훨씬 더 위험한 방사능 누출을 일으키는 것을 막으려고 했습니다.)&lt;/p&gt;
+&lt;p&gt;Employees continued working at the Chernobyl plant a few months after the disaster. The explosion destroyed Reactor 4. The plant’s other reactors kept running for years.&lt;br/&gt;(재앙 발생 몇 달 후에도 체르노빌 발전소 직원들은 계속 일했습니다. 폭발로 4호기가 파괴되었지만, 공장의 다른 원자로들은 수년간 가동을 유지했습니다.)&lt;/p&gt;
+&lt;p&gt;A worker in protective gear sorted through boxes of contaminated vegetables at a landfill in what was then West Berlin, where tainted produce was discarded after the disaster. Fallout from Chernobyl spread across Europe, poisoning crops far from the reactor.&lt;br/&gt;(보호복을 입은 작업자가 당시 서베를린이었던 쓰레기 매립지에서 오염된 야채 상자를 분류하고 있습니다. 이곳은 재앙 이후 오염된 농산물이 폐기된 곳입니다. 체르노빌의 낙진은 유럽 전역으로 퍼져 원자로에서 멀리 떨어진 농작물을 오염시켰습니다.)&lt;/p&gt;
+&lt;p&gt;A child from a contaminated area underwent medical examinations at a diagnostic clinic for radiation medicine in Minsk, Belarus, in 1991. Belarus received the largest share of Chernobyl’s fallout, more than Ukraine or Russia.&lt;br/&gt;(1991년, 오염 지역 출신의 한 어린이가 벨라루스 민스크의 방사선 의학 진단 클리닉에서 의료 검사를 받고 있습니다. 벨라루스는 체르노빌 낙진의 가장 큰 부분을 받았으며, 그 양은 우크라이나나 러시아보다 많았습니다.)&lt;/p&gt;
+&lt;p&gt;Children playing in Slavutych, a city built about 25 miles east of Chernobyl in the year 2000 to house displaced workers and their families. It replaced Pripyat, where residents never returned.&lt;br/&gt;(2000년에 이주한 노동자와 그 가족들을 수용하기 위해 체르노빌에서 동쪽으로 약 25마일 떨어진 곳에 건설된 도시 슬라부티치에서 아이들이 놀고 있습니다. 이 도시는 주민들이 결코 돌아오지 않은 프리피야트를 대체했습니다.)&lt;/p&gt;
+&lt;p&gt;A stray dog sitting in front of Reactor 4 and a new steel confinement structure being built in 2013 to enclose the original concrete “sarcophagus” that was starting to decay. Many dogs in the exclusion zone are descendants of pets left behind during the evacuation.&lt;br/&gt;(2013년, 4호기와 썩기 시작한 원래 콘크리트 '석관'을 둘러싸기 위해 건설 중인 새로운 강철 밀폐 구조물 앞에 앉아 있는 떠돌이 개. 출입 금지 구역의 많은 개들은 대피 당시 남겨진 반려동물의 후손입니다.)&lt;/p&gt;
+&lt;p&gt;The reception area of a hospital in Pripyat, in 2021, where firefighters and other emergency workers were initially treated after the disaster. Since the evacuation, the buildings have been left to crumble.&lt;br/&gt;(2021년 프리피야트에 있는 한 병원의 접수 구역입니다. 이곳은 재앙 이후 소방관과 다른 응급 작업자들이 처음 치료를 받은 곳입니다. 대피 이후 건물들은 무너져 내리도록 방치되었습니다.)&lt;/p&gt;
+&lt;p&gt;Discarded gas masks covering the floor of an abandoned school in Pripyat in 2016.&lt;br/&gt;(2016년 프리피야트의 버려진 학교 바닥을 덮고 있는 버려진 방독면들.)&lt;/p&gt;
+&lt;p&gt;The control room of Reactor 4 at the plant in 2026. The safety test that triggered the explosion was held here.&lt;br/&gt;(2026년 발전소 4호기 제어실. 폭발을 촉발한 안전 점검이 이곳에서 진행되었습니다.)&lt;/p&gt;
+&lt;p&gt;Bumper cars in an abandoned amusement park in Pripyat in 2023. The city was founded in 1970 to house Chernobyl workers, less than two miles from the plant.&lt;br/&gt;(2023년 프리피야트의 버려진 놀이공원에 있는 범퍼카. 이 도시는 1970년에 발전소에서 2마일도 안 되는 곳에 체르노빌 노동자들을 수용하기 위해 세워졌습니다.)&lt;/p&gt;
+&lt;p&gt;Soldiers from Ukraine’s National Guard training this month in the Chernobyl exclusion zone. The area, closed after the 1986 disaster, was held by Russian forces for more than a month in 2022, when fighting in the zone damaged power lines and temporarily cut electricity to the plant.&lt;br/&gt;(이번 달 체르노빌 출입 금지 구역에서 훈련 중인 우크라이나 국가 근위대 병사들. 1986년 재앙 이후 폐쇄된 이 지역은 2022년에 러시아 군대가 한 달 넘게 점령했으며, 그 기간 동안 구역 내 교전으로 인해 전력선이 손상되고 발전소의 전기가 일시적으로 차단되었습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/europe/40-years-ago-a-nuclear-catastrophe-at-chernobyl.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/20/world/00int-chernobyl-photos-01/00int-chernobyl-photos-01-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 19:01:26 +0000</pubDate></item><item><title>2 C.I.A. Officers Killed in Mexico Crash Lacked Proper Authorization (멕시코 교통사고로 사망한 CIA 요원 2명, 적절한 허가 없었다)</title><link>https://www.nytimes.com/2026/04/25/world/americas/2-cia-officers-killed-in-mexico-crash-lacked-proper-authorization.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/25/multimedia/25int-mexico-security-tqfz/25int-mexico-security-tqfz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The two American officials killed in a car crash last weekend in northern Mexico while returning from a counter-cartel operation did not have formal authorization for such activities in the country, the Mexican government announced.&lt;br/&gt;(지난 주말 멕시코 북부에서 카르텔 척결 작전에서 복귀하던 중 교통사고로 사망한 미국인 관리 2명은 멕시코에서 해당 활동에 대한 공식 허가를 받지 못했다고 멕시코 정부가 발표했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+토요일 아침 발표된 성명에서 멕시코 연방 보안 내각은 출입국 기록에 따르면 두 관리 중 한 명은 "유급 노동 허가 없이" 방문객 자격으로 입국했고, 다른 한 명은 외교관 여권으로 입국했다고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"멕시코 정부, 보안 내각을 구성하는 기관들, 외무부는 멕시코 영토 내에서 작전 활동을 수행하거나 물리적으로 참여할 계획을 가진 외국 요원의 존재를 전혀 인지하지 못했다"고 성명은 전했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+뉴욕타임스와 다른 언론들은 이 미국인 관리들이 CIA 요원이라고 보도했다. 주 당국에 따르면, 두 미국인과 두 명의 멕시코 관리는 일요일 이른 시간, 치와와 주에 있는 대규모 비밀 메스암페타민 연구실을 해체하기 위해 멕시코군이 주도한 작전에서 복귀하던 중 차량이 외딴 산길에서 추락해 사망했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+두 미국인의 사망은 해당 지역 마약 전쟁에 대한 미국의 개입 범위와 이번 작전에 미국 관리들이 참여할 수 있도록 허가한 멕시코 당국에 대한 긴급한 의문을 제기했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프 대통령 아래에서 라틴 아메리카의 마약 및 밀수 조직과의 전쟁에서 역할이 확대된 CIA는 논평을 거부했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+멕시코 정부는 토요일, 현지 당국 및 주멕시코 미국 대사관과 협력하여 검토가 진행 중이라고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+치와와 주지사 사무실은 논평 요청에 응답하지 않았다. 치와와 주 검찰청은 논평을 거부했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"분명히 말씀드리자면, 우리에게는 공통의 적, 즉 우리 가족을 해치는 범죄 조직이 있습니다,"라고 주멕시코 미국 대사 로널드 존슨이 뉴욕타임스에 보낸 성명에서 말했다. "국경 양쪽의 가족들은 긴밀한 협력 파트너로서만 제공할 수 있는 안전과 보안을 원합니다." 존슨 대사는 멕시코의 허가 부재에 대해 직접 언급하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+멕시코 국가안보법은 미국 군 및 법 집행관을 포함한 외국 요원이 정부 허가 없이 국내에서 활동하는 것을 금지한다. 연방 승인 없이 주 차원 당국과 직접 협력하는 미국 관리들은 헌법 위반이 될 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"안보 문제에 관한 국제 협력은 정보 교환, 기관 간 조정 및 기술 협력 메커니즘을 통해 이루어지며, 항상 국가 주권, 상호성, 상호 신뢰를 절대적으로 존중하고 종속 없이 수행됩니다,"라고 멕시코군, 검찰청, 안보부 및 외무부로 구성된 연방 보안 내각이 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+치와와 주 검사는 미국 요원들이 마약 척결 작전에 관여하지 않았으며 작전은 멕시코군이 주도했다고 주장했다. 그의 사무실은 미국인 "강사들"이 작전이 진행된 후에야 훈련 목적, "예를 들어 드론 조작 교육"을 위해 현장에 갔다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 그의 사무실은 이전 보도 자료와 대변인을 통해 이를 반박하는 듯 보였다. 처음에는 미국인들이 "비밀 연구실 해체 작전"에서 복귀 중 사망했다고 밝혔지만, 이후 그들이 멕시코 측에 위험한 합성 마약 취급 방법을 가르치는 승인된 훈련 프로그램의 일부였다고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+클라우디아 셰인바움 대통령은 미국이 멕시코 당국과 "함께 일하고 있다"고 말했으며, 진행 중인 조사에서 CIA 요원들이 합동 작전에 참여한 것으로 확인될 경우 그녀의 정부는 미국 정부에 공식 항의를 보낼 것이라고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+셰인바움 대통령은 재임 기간 내내 명확한 입장을 견지해 왔다: 미국과의 협력은 필수적이지만, 트럼프가 반복적으로 일방적으로 추진하겠다고 맹세한 미국군의 멕시코 영토 내 작전은 허용하지 않는다. 양국 간 협력이 항상 원활하거나 확실하지는 않았지만, 셰인바움 아래에서의 진전은 워싱턴에서 찬사를 받았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+금요일, 셰인바움 대통령은 멕시코 최고 안보 책임자인 오마르 가르시아 하르푸치가 치와와 주지사 마루 캄포스를 만나 외국 정부와 협력하는 원칙과 법률을 설명했다고 말했다. "그리고 이 사건에서는 절차가 준수되지 않았습니다,"라고 셰인바움 대통령은 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+캄포스 주지사는 자신의 행정부가 "대화, 신뢰, 제도적 책임을 바탕으로, 항상 우리 국가의 주권과 완전성을 수호하며 연방 정부와의 협력을 강화"하겠다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+금요일, 그녀는 "사건의 중요성에 대응하고 완전한 투명성을 보장하기 위해" 마약 척결 작전을 조사할 전문 부서를 창설한다고 발표했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+줄리안 E. 반즈가 보고에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/americas/2-cia-officers-killed-in-mexico-crash-lacked-proper-authorization.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25int-mexico-security-tqfz/25int-mexico-security-tqfz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 12:29:17 +0000</pubDate></item><item><title>In the Foothills of Mt. Fuji, the Fight Is On Against Unruly Tourists (후지산 기슭에서 난폭한 관광객과의 싸움 시작)</title><link>https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-japan-tourism-02-bpzl/26int-japan-tourism-02-bpzl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Just after sunrise on a cloudless spring day, Junichi Horiuchi, wearing a Dodgers cap and hot-pink gloves and carrying a walking stick, was on the hunt.&lt;br/&gt;(구름 한 점 없는 봄날, 해가 막 뜨자 다저스 모자와 핫핑크 장갑을 착용하고 지팡이를 든 호리우치 준이치가 수색에 나섰다.)&lt;/p&gt;
+&lt;p&gt;Mr. Horiuchi, the leader of a civic group, was picking up trash and looking for unruly tourists at Arakurayama Sengen Park in Fujiyoshida, an idyllic town of about 46,000 in the foothills of Mount Fuji. He was joined in his quest by a local radio personality and a professor of medicine. The trio issued polite warnings to tourists who ventured off the designated path.&lt;br/&gt;(시민 단체 대표인 호리우치 씨는 후지산 기슭의 고요한 마을 후지요시다(인구 약 4만 6000명)에 있는 아라쿠라야마 센겐 공원에서 쓰레기를 줍고 무질서한 관광객을 찾아다녔다. 그의 탐색에는 지역 라디오 진행자와 의대 교수가 합류했다. 이 셋은 지정된 경로를 벗어난 관광객에게 정중하게 경고했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+54세의 호리우치 씨에게 이 임무는 개인적인 일이다. 그는 작년에 관광객들이 후지산을 배경으로 애비 로드 스타일 사진을 찍는 것을 피하려다 자전거를 타다 추락해 거의 30개의 뼈가 부러졌다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "사람들이 일본의 문화와 규칙을 존중해줬으면 좋겠다"며 이른 아침의 관광객 무리를 살펴보며 말했다. 일부 관광객은 완벽한 일출 사진을 찍기 위해 밤새 야영을 하기도 했다. "이것은 생사의 문제입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+도쿄 남서쪽에 위치한 후지요시다는 일본이 행동이 나쁜 관광객과 싸우는 중심지다. 약화된 엔화로 더 많은 돈을 쓸 수 있게 된 외국인 관광객이 쏟아져 들어와 2025년에는 약 4200만 명으로 10년 전의 두 배가 되었다. 이제 일본 일부 지역에서는 반외국인 정서가 높아지고 있으며, 당국은 방문객 수를 제한하라는 압력을 받고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+쇠퇴하는 섬유 산업을 가진 후지요시다는 한때 경제를 활성화하기 위해 더 많은 관광객을 갈망했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+더 이상은 아니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+방문객들이 뒷마당을 화장실로 사용하고, 허가 없이 집에 들어가고, 학교 교통을 막고, 쓰레기 더미를 남겼다는 널리 알려진 보도가 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+올해, 마을은 과감한 조치를 취했다. 10년 전 시작된 대표적인 벚꽃 축제를 취소하면서 "시민들의 평화로운 삶이 위협받고 있다"고 선언했다. 공무원들은 또한 "과잉 관광을 조장할 수 있는" 그림 같은 장면을 촬영하는 언론사를 금지했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+호리우치 시게루 시장은 축제 취소 결정이 사람들이 벚꽃을 보는 것을 막기 위한 것이 아니라고 말했다. 실제로 공무원들은 어떤 지역도 차단하지 않았다. 대신 그는 주민들의 혼잡에 대한 불만에 대응하여 가장 붐비는 지역의 관광을 저지하려고 노력했다고 말했다. 마을이 더 많은 화장실과 주차 공간을 건설했지만, 보행자 교통을 처리하는 데 어려움을 겪고 있다. 그는 또한 관광객들이 인스타그램에서 익숙하지 않은 후지요시다의 다른 지역으로 가길 원한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 시청 인터뷰에서 "주민들의 인내심이 한계에 다다르고 있다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+축제가 취소되었음에도 불구하고 수만 명의 사람들이 계속해서 마을로 몰려들어 주렌토 파고다에서 셀카를 찍기 위해 줄을 서고, 요시다 우동이나 후지산 위의 일출을 연상시키는 붉은색 딸기 맛 소프트 아이스크림 같은 지역 특산품을 간식으로 먹고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+최근 어느 날, 미국에서 온 친구 그룹이 벚꽃 아래서 셀카를 찍기 위해 주요 경로를 벗어났다.
+&lt;&lt;&lt;PARA&gt;&gt;
+오하이오 출신의 소매업 종사자 줄리아 모로(26)는 "소셜 미디어에서 이 멋진 사진을 보고 '어떻게 하면 가능한 한 빨리 여기에 갈 수 있을까'라고 생각했다"고 말했다. "그 사진을 찍지 못하면 여행의 의미가 뭐가 있나요?"
+&lt;&lt;&lt;PARA&gt;&gt;
+일부 방문객들은 도착하기 전에 일본 관습을 공부하는 데 시간을 투자했다고 말했다. 예를 들어 걸으면서 먹지 않기, 쓰레기 봉투를 직접 챙기기 등이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+뉴질랜드 출신의 교사 칼린 모건은 파트너와 함께 벚꽃을 보기 위해 11일간 일본을 여행 중이었다. "우리는 존중하려고 노력하고 있어요. 누군가 우리 나라에 올 때 우리도 그렇게 해주길 바라니까요."라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+수십 년 동안 후지요시다는 많은 일본인에게조차 거의 알려지지 않았다. 2013년 유네스코가 후지산을 세계문화유산 목록에 추가하면서 상황이 바뀌기 시작했다. 지역 직물 산업이 쇠퇴하면서 마을은 더 국제적인 관광객을 유치하려고 노력했다. 빈 점포 자리에는 와인 바와 전통 이자카야가 생겨났다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러다가 팬데믹 이후, 관광객들이 인터넷에서 본 후지산의 웅장한 전망을 재현하려고 몰려들었다. 종종 콜드플레이나 한스 짐머 등의 음악이 배경으로 깔렸다. 인스타그램에는 "이곳은 영화 세트장이 아니라 후지요시다입니다"라는 글이 올라와 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+과잉 관광 문제는 이 지역 전역에 널리 퍼져 있다. 인근 가와구치코에서는 2024년 공무원들이 편의점이 소셜 미디어 현상이 된 것을 막기 위해 광고판 크기의 스크린을 세웠다. 그 편의점은 마치 산이 지붕에서 솟아나는 것처럼 보였기 때문이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+실크스크린 인쇄 회사 사장인 마에다 코지는 2000년에 후지요시다 역 근처에 후지산이 보이는 주택을 샀다. 그는 평온함 때문에 그 동네에 매료되었다. 이제 그는 매일 수천 명의 사람들이 그의 집 앞을 지나 공원으로 가는 것을 지켜본다. 때때로 그들은 그의 앞마당을 지름길로 사용한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "처음 관광객을 보기 시작했을 때 '이건 미친 짓이다'라고 생각했다"며 "정말로 도망가고 싶다는 느낌이 든다. 이사하고 싶다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 일부 주민들은 유입을 받아들였다. 아라쿠라야마 센겐 공원 근처 뇨라이 사원의 수석 승려인 와타나베 에이도는 불교가 관용의 중요성을 강조한다고 말했다. 이제 이 지역을 방문하는 외국인이 일본인 방문객보다 훨씬 많다. 인근 신사에서는 방문객들이 부적에 적은 메시지가 주로 영어로 되어 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "누구든 갑자기 습관을 바꾸기는 어렵기 때문에 외국인을 환영할 때 가능한 한 많이 안내하는 것이 중요하다고 생각한다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 덧붙여 "친절한 마음과 미소로 사람들에게 접근하면 당신의 감정이 그들에게 전달될 것이다"라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+사업주들은 후지요시다가 관광객들이 지역 상점, 식당, 호텔에서 더 많은 시간을 보내고 돈을 쓰게 할 방법을 찾아야 한다고 말한다. 요즘 방문객들은 종종 사진을 찍고 나가기에 충분한 몇 시간만 마을에 머문다.
+&lt;&lt;&lt;PARA&gt;&gt;
+시내에서 신발 가게를 3대째 운영하는 와타나베 카즈코는 "모든 사람이 그냥 지나칠 뿐이다"라고 말했다. 그녀의 가게 창문에서 관광객들이 후지산을 배경으로 구식 상점 정면을 사진 찍느라 교통 위험을 초래하는 모습을 지켜본다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 더 많은 관광객을 환영한다고 말했지만, 마을이 그들이 일본 규칙을 이해하도록 더 많은 도움을 줘야 한다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 "그들이 모든 것을 이해하길 기대하는 것은 좀 무리라고 생각한다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+공원 순찰을 이끄는 호리우치 씨는 방문객들이 일본 문화와 더 많이 연결되도록 설득하기를 바란다고 말했다. 최근 그는 관광객들을 붙잡아 파고다 근처에서 사진을 찍기 위해 계단을 오르기 전에 일본 전통에 따라 공원 내 신토 신사에서 기도하도록 권장하고 있다. 그는 방문객들에게 일본인에게 공원은 신성한 장소라고 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "자신의 예절과 감정만이 아니라 현지인에게 적응해야 한다. 이곳, 이 지역이 오랫동안 깨끗하게 유지되길 바란다. 심지어 내 손자 세대까지도"라고 말했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-japan-tourism-02-bpzl/26int-japan-tourism-02-bpzl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 19:01:40 +0000</pubDate></item><item><title>What to Know About King Charles and Queen Camilla’s State Visit to the U.S. (찰스 국왕과 카밀라 왕비의 미국 국빈 방문에 대해 알아야 할 사항)</title><link>https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-uk-royals-wtk-kbcz/26int-uk-royals-wtk-kbcz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;King Charles III and Queen Camilla will travel to the United States this week for an official state visit, making stops in New York and Washington, where they will meet with President Trump and the king will deliver an address to Congress.&lt;br/&gt;(찰스 3세 국왕과 카밀라 왕비가 이번 주 미국 국빈 방문을 위해 뉴욕과 워싱턴을 방문하며, 트럼프 대통령을 만나고 국왕은 의회에서 연설할 예정입니다.)&lt;/p&gt;
+&lt;p&gt;The visit was arranged to celebrate the 250th anniversary of American independence, and planning began long before the United States and Israel launched their war with Iran in late February — a conflict that has put considerable strain on the U.S.-U.K. relationship. But Mr. Trump has long indicated a great fondness for the monarch, and the trip could go some way to smoothing over recent tensions.&lt;br/&gt;(이 방문은 미국 독립 250주년을 기념하기 위해 마련되었으며, 미국과 이스라엘이 2월 말 이란과의 전쟁을 시작하기 훨씬 전부터 계획이 수립되었습니다. 이 갈등은 미영 관계에 상당한 부담을 주고 있습니다. 그러나 트럼프 대통령은 오랫동안 군주에 대한 큰 애정을 표시해 왔으며, 이번 방문은 최근 긴장을 완화하는 데 어느 정도 도움이 될 수 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이번 방문은 월요일부터 목요일까지 진행됩니다. 알아야 할 사항은 다음과 같습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+영국 정부를 대신해 수행되는 이 공식 방문은 양국 간의 연결을 기념하고 오랜 관계를 인정하기 위한 것이며, 올해 미국 독립 250주년을 기념하는 시점에 맞춰졌습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+버킹엄 궁전은 이 방문을 "두 국가의 공유된 역사; 그 이후 발전한 경제, 안보 및 문화 관계의 폭; 그리고 커뮤니티를 하나로 묶는 깊은 국민 간 연결을 인정하는 기회"라고 불렀습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+두 동맹국 간의 관계는 더 나았던 시절도 있었습니다. 미국과 이스라엘이 이란에 대한 공격을 감행한 이후, 트럼프 대통령은 영국이 전쟁 참여를 거부한 것에 대해 키어 스타머 총리와 그의 정부에 대해 일련의 비판적인 발언을 해왔습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프 대통령은 스타머 총리가 "윈스턴 처칠이 아니다"라고 반복해서 말하는 등 영국 지도자에 대한 끊임없는 비판을 퍼부었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+방문 며칠 전, 국방부 내부 이메일에서 미국이 영국과 스페인의 거부에 대한 제재 방안을 검토 중인 것으로 드러나 균열이 더욱 깊어졌습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프 대통령은 BBC 기자와의 전화 인터뷰에서 국왕의 방문이 양국 관계 회복에 도움이 될 수 있는지 묻는 질문에 "물론이죠. 그는 환상적인 사람입니다. 그는 훌륭한 사람입니다. 대답은 절대적으로 '그렇다'입니다."라고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 덧붙여 "저는 그를 잘 알고 있으며, 수년간 그를 알고 지냈습니다. 그는 용감한 사람이고 위대한 사람입니다. 그들은 분명 긍정적인 요소가 될 것입니다."라고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+대통령은 오랫동안 영국 왕실에 대한 애정을 표현해 왔으며, 국빈 방문이 제공할 수 있는 화려함과 의전을 즐기는 것으로 보입니다. 방문이 공식화된 직후, 트럼프 대통령은 트루스 소셜에 "내가 크게 존경하는 국왕과 시간을 보내기를 고대합니다. 정말 환상적일 것입니다!"라는 글을 올렸습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프 대통령은 지난 9월 영국을 국빈 방문하여 찰스 국왕이 주최한 윈저 성에서의 호화로운 연회를 즐겼습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+찰스 국왕과 카밀라 왕비는 월요일 워싱턴에 도착할 예정이며, 버킹엄 궁전에 따르면 트럼프 대통령과 영부인이 "사적인 차를 마시며" 환영할 것입니다. 이들은 가든 파티와 의례적인 군사 검열에 참석할 예정입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+화요일, 국왕은 상하원 합동 회의에서 연설할 예정이며, 이는 영국 군주가 두 번째로 하는 것입니다. (엘리자베스 2세 여왕은 1991년 국회의사당에서 연설했습니다.) 오후에는 트럼프 대통령이 백악관에서 국빈 만찬을 주최할 예정입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+수요일, 왕실 일행은 뉴욕으로 이동하여 9·11 테러 25주년을 앞두고 희생자들을 추모할 예정입니다. 또한 지역 사회 멘토링 프로젝트를 방문하고 시내에서 문학 행사를 개최하며, 킹스 트러스트(King's Trust) 리셉션에도 참석할 예정입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+목요일, 국왕과 왕비는 워싱턴 지역으로 돌아와 알링턴 국립묘지를 방문하고 버지니아에서 열리는 미국 독립 250주년 기념 블록 파티에 참석할 예정입니다. 국왕은 캘리포니아주 민주당 의원 로 칸나가 성범죄자 제프리 엡스타인의 피해자들과 비공개 면담을 요청했지만, 이들의 요청을 받아들이지 않을 예정입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+엡스타인과 국왕의 동생 앤드루 마운트배튼-윈저(전 앤드루 왕자)의 관계는 전 왕자의 극적인 몰락을 초래했으며 왕실에 그림자를 드리우고 있습니다. 엡스타인의 피해자 버지니아 주프리는 마운트배튼-윈저가 자신을 인신매매한 후 성폭행했다고 주장했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+성폭행 혐의와 2019년 사망한 엡스타인과 관련된 모든 잘못을 일관되게 부인해 온 마운트배튼-윈저는 공직 위법 행위 조사의 일환으로 2월에 체포되었습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-uk-royals-wtk-kbcz/26int-uk-royals-wtk-kbcz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 19:01:33 +0000</pubDate></item><item><title>Crushed at the Polls, Hungary’s Former Ruling Party Licks Its Wounds (선거에서 참패한 헝가리 전직 여당, 상처를 핥다)</title><link>https://www.nytimes.com/2026/04/25/world/europe/viktor-orban-fidesz.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/25/multimedia/25hungary-orban-bqhf/25hungary-orban-bqhf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Following his party’s crushing defeat in a general election, Hungary’s outgoing prime minister, Viktor Orban, said on Saturday that he would give up his seat in Parliament and focus on rebuilding his battered “patriotic movement.”&lt;br/&gt;(자신의 정당이 총선에서 참패한 후, 헝가리의 퇴임하는 총리 빅토르 오르반은 토요일 국회의석을 포기하고 난타당한 '애국 운동'을 재건하는 데 집중하겠다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;But after 16 years in power and nearly four decades as leader of Hungary’s once invincible Fidesz party, he indicated that he would like to stay on as leader of the party, which won only 52 seats in an April 12 election, compared with 141 for Tisza, an upstart opposition movement.&lt;br/&gt;(그러나 16년간의 집권과 한때 무적이었던 헝가리 피데스당의 지도자로서 거의 40년을 보낸 그는 4월 12일 선거에서 티사당(떠오르는 야권 운동)이 141석을 얻은 반면, 자신의 당은 52석만 획득한 상황에서 당 대표직을 계속 맡기를 원한다고 시사했다.)&lt;/p&gt;
+&lt;p&gt;“I am needed not in Parliament but in the organization of the patriotic movement,” Mr. Orban said in a video message posted on X. He added that he would surrender leadership of Fidesz’s contingent in the legislature to Gergely Gulyas, his chief of staff.&lt;br/&gt;("나는 국회보다는 애국 운동 조직에 필요합니다"라고 오르반은 X에 게시된 영상 메시지에서 말했다. 그는 또한 피데스당의 국회 내 대표직을 자신의 비서실장인 게르겔리 굴리아스에게 넘기겠다고 덧붙였다.)&lt;/p&gt;
+&lt;p&gt;“Discussions are in full swing about renewing the patriotic camp, strengthening our parliamentary group and protecting our communities,” he said.&lt;br/&gt;("애국 진영을 쇄신하고, 국회 교섭단체를 강화하며, 우리 공동체를 보호하기 위한 논의가 한창 진행 중입니다"라고 그는 말했다.)&lt;/p&gt;
+&lt;p&gt;By surrendering his Parliament seat, Mr. Orban avoids having to submit to a large majority of legislators led by Peter Magyar, a onetime loyalist whom Fidesz vilified during the election campaign as a sex pest, a traitor and a puppet of Ukraine and the European Union. Mr. Orban has been a member of Parliament since 1990 and his decision to quit drew scorn from Mr. Magyar. “The ‘brave’ street fighter is still incapable of one thing: taking responsibility,” he said in message on Facebook.&lt;br/&gt;(국회의석을 포기함으로써 오르반은 한때 충성파였으나 피데스가 선거 운동 기간 동안 성범죄자, 배신자, 우크라이나와 유럽연합의 꼭두각시라고 악마화했던 페테르 머저르가 이끄는 대다수 의원들에게 굴복할 필요를 피하게 되었다. 오르반은 1990년부터 국회의원을 지냈으며, 사퇴 결정은 머저르의 조롱을 불러일으켰다. 머저르는 페이스북 메시지에서 "'용감한' 거리 투사는 여전히 한 가지를 할 수 없습니다: 책임을 지는 것"이라고 말했다.)&lt;/p&gt;
+&lt;p&gt;Mr. Magyar, a conservative former member of Fidesz, is scheduled to take over as prime minister when Parliament reconvenes for its first post-election session, currently set for May 9. With more than two-thirds of the seats controlled by Tisza, Mr. Magyar commands a so-called “constitutional majority,” allowing him to undo electoral and other sweeping changes introduced during Mr. Orban’s long tenure.&lt;br/&gt;(피데스 출신 보수 성향의 머저르는 현재 5월 9일로 예정된 총선 후 첫 국회 회의에서 총리직을 인수할 예정이다. 티사가 전체 의석의 3분의 2 이상을 장악함에 따라 머저르는 소위 '헌법적 다수'를 확보하여, 오르반의 장기 집권 기간 동안 도입된 선거법 및 기타 광범위한 변경 사항을 되돌릴 수 있게 되었다.)&lt;/p&gt;
+&lt;p&gt;Fidesz’s election rout has set off infighting in the party over how to recover, with some supporters calling for more focus on economic problems and an end to Mr. Orban’s strategy of stirring up fear and hatred of perceived political enemies at home and abroad, like the Hungarian-born American financier George Soros.&lt;br/&gt;(피데스의 선거 대패는 당 내에서 회복 방안을 두고 내분을 촉발했으며, 일부 지지자들은 경제 문제에 더 집중하고 국내외에서 인식된 정치적 적들(예: 헝가리 태생의 미국 금융가 조지 소로스)에 대한 두려움과 증오를 부추기는 오르반의 전략을 중단할 것을 촉구하고 있다.)&lt;/p&gt;
+&lt;p&gt;But Mr. Orban still enjoys strong support from within the party that he helped found in the 1980s as a champion of pro-European, liberal values and that he led to victory in five general elections. Fidesz, which later morphed into a nationalist party at odds with the European Union and in step with President Trump’s MAGA movement, won thumping majorities in four consecutive elections between 2010 and 2022.&lt;br/&gt;(그러나 오르반은 1980년대에 친유럽·자유주의 가치를 옹호하며 창당을 도왔고 다섯 차례 총선에서 승리로 이끈 당 내에서 여전히 강력한 지지를 받고 있다. 이후 민족주의 정당으로 변모하여 유럽연합과 갈등을 빚고 트럼프 대통령의 MAGA 운동과 보조를 맞춘 피데스는 2010년부터 2022년까지 네 차례 연속 선거에서 압도적인 다수를 차지했다.)&lt;/p&gt;
+&lt;p&gt;“The future of Fidesz is unimaginable without Viktor Orban,” the outgoing foreign minister Peter Szijjarto told Telex, an opposition-aligned media outlet, last week.&lt;br/&gt;("피데스의 미래는 빅토르 오르반 없이는 상상할 수 없습니다"라고 퇴임하는 외무장관 페테르 시야르토가 지난주 야권 성향 매체 텔렉스에 말했다.)&lt;/p&gt;
+&lt;p&gt;He blamed the party’s defeat on “the behavior and activities of people who did not hold political authority.” He declined to name these people, but his remark was widely interpreted as a swipe at pro-Fidesz tycoons, some of them friends and relatives of Mr. Orban, who used their connections to win state contracts, feeding public anger over corruption, an issue that drove Mr. Magyar’s successful campaign.&lt;br/&gt;(그는 당의 패배 원인을 "정치적 권위를 갖지 않은 사람들의 행동과 활동" 탓으로 돌렸다. 그는 이들의 이름을 밝히지 않았지만, 이 발언은 오르반의 친구나 친척 중 일부가 포함된 친(親)피데스 재벌들을 겨냥한 것으로 널리 해석되었으며, 이들은 인맥을 이용해 정부 계약을 따내며 부패에 대한 대중의 분노를 키웠고, 이는 머저르의 성공적인 선거 운동을 이끈 핵심 이슈였다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/europe/viktor-orban-fidesz.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25hungary-orban-bqhf/25hungary-orban-bqhf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 12:10:43 +0000</pubDate></item><item><title>How a Pop Star’s Portrait Launched the Career of an Unknown Spanish Artist (팝스타의 초상화가 무명 스페인 화가의 커리어를 어떻게 시작시켰나)</title><link>https://www.nytimes.com/2026/04/26/world/europe/nieves-gonzalez-lily-allen-artist-west-end-girl-spain.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-spain-aritst-profile-promo-bwkt/26int-spain-aritst-profile-promo-bwkt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The shushing of brush strokes stopped as Nieves González, painting her latest Baroque-style portrait of a woman in a contemporary puffer jacket, paused to chitchat with a fellow artist in their studio in southern Spain.&lt;br/&gt;(붓질 소리가 멈추었다. 니에베스 곤살레스가 남부 스페인의 작업실에서 동료 화가와 잡담을 나누기 위해 현대식 패딩 점퍼를 입은 여인의 바로크 양식 초상화 작업을 잠시 멈춘 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 항상 수다를 떨어요." 초록색 스웨터에 물감이 튀고 얼굴에 코걸이가 반짝이는 곤살레스가 웃으며 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 최근 스페인 미술계에서 오가는 이야깃거리의 상당 부분은 곤살레스 자신에 관한 것이다. 작년, 영국 가수 릴리 앨런이 곤살레스(29)를 인스타그램 속 푸른 화면에서 발탁해 자신의 최신 앨범 커버를 그리게 했다. 음반 '웨스트 엔드 걸'은 히트를 쳤고, 곤살레스 역시 신문 아트넷이 "하룻밤 사이에 탄생한 미술계 센세이션"이라고 부른 존재가 되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+곤살레스가 물방울 무늬 패딩 점퍼를 입힌 앨런의 이미지는 스포티파이, 광판, 심지어 지미 팰런의 심야 토크쇼 책상 위에서 수백만 회 조회되었다. 3월에는 내셔널 초상화 갤러리 런던이 이 그림을 공개하며 "오늘날 회화의 가장 설득력 있는 목소리 중 하나"라고 칭했고, 이 작품은 데이비드 호크니의 작품과 같은 방에 걸리게 될 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"제 꿈이에요." 곤살레스가 최신작에서 진홍색 패딩 코트를 재빨리 채색하며 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이런 패딩 점퍼들은 곤살레스 작품의 전형적인 특징으로, 그녀의 작품은 옛 거장들의 작품을 연상시키는 자연 풍경 속에 천상적이거나 성서적인 뮤즈들이 당당하게 앉아 있는 모습을 담는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 전형적으로 화려한 분홍색, 하얀색, 파란색 누빔 재킷으로 대상들을 입히고, 또한 그들에게 더 많은 주체성과 주인공 에너지를 부여함으로써 수백 년 된 그 미학을 뒤집는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+6월에 로스앤젤레스에서 자신의 작품을 전시할 예정이지만, 수집가들은 그림이 이미 모두 매진되었다고 불평한다. 곤살레스의 빌바오 기반 화상 세르히오 가르시아는 그녀의 궤적을 "부릉, 부릉, 부르릉!"이라고 묘사했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+어떤 이들에게 곤살레스의 떠오르는 별은 그녀의 나라가 새롭게 얻은 문화적 활기를 반영한다. 다른 이들에게 그녀의 수백 년 된 스페인 바로크 미학 안에서의 현대적인 푹신한 의상 사용은 과거와 현재의 협상을 말해준다. 그녀의 친구들에게 곤살레스가 정말로 외치는 것은 남부 스페인의 진정성이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+에너제틱하고 수다스러운 그녀는 좋아하는 안달루시아 별미를 보며 기쁨에 박수를 친다. 우리가 그라나다 거리를 걸을 때, 그녀는 모든 사람을 알고, 모든 사람과 이야기하는 것 같았다. 길모퉁이에서 친구들과 수다를 떨고, 꽃집, 네일숍, 레코드 가게의 여성들에게 손을 흔들며 인사했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"1년 만에, 나는 이 도시의 여왕이야." 그녀는 농담을 하며, 실제로는 항상 길을 잃는다고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 고향에 계신 할아버지가 전화를 걸자 입맞춤을 보냈고, 관광객 미술관 앞에서는 "해시태그 컨템포러리 아트"라고 속삭였다. 한 순간, 그녀는 작업실에 걸린 달력에 나온 통통한 수도사와 닮았다는 농담을 너무 많이 한다고 항의한 남자친구에게 "아모르" — "사랑" — 라고 안심시키며 불렀다. 그녀는 그와 함께 작은 광산 고향인 우엘바 외곽에 시골집을 사는 것보다 더 바라는 것이 없다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"사람들이 저에게 묻곤 해요, '그래서 당신의 목표가 뭔데, 무엇이 되려는 거야?'" 그녀가 작업실에서 말했다. "저는 이미 제 목표를 이뤘다고 생각해요, 제 예술로 생계를 유지하는 것 말이에요."
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 캔버스에서 물러나 18번째 생일에 받았던 오래된 노트북의 이미지를 확인했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+곤살레스는 실제 모델이나 사진을 그리는 대신 그 노트북의 AI 시스템을 사용하여 합성 디지털 이미지를 생성한다. 이러한 혼합물은 바로크 초상화, 그녀의 스케치, 그리고 가장 최근 시리즈에서는 에르메스가 그녀를 파리 패션쇼에 초대했을 때 찍은 런웨이 사진들을 조합하여 만들어진다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀가 "프랑켄슈타인"이라고 부르는 이 디지털 콜라주들은 그녀가 그리는 초상화의 영감이 된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+모델들은 가상이지만, 가끔 완성된 초상화에서 자신의 얼굴 흔적을 본다고 그녀는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+얼마 전까지만 해도 이런 초상화들로 생계를 유지하는 것이 불가능해 보였다고 그녀는 말했다. "하지만 우리는 여기 있어요." 그녀가 말했다. "마치 제가 항상 꿈꿔왔던 것인데, 50배는 더 큰 거예요."
+&lt;&lt;&lt;PARA&gt;&gt;
+곤살레스는 우엘바에서 노동자 계층 가정에서 태어나 자랐다. 그녀는 어린 시절 어머니가 그녀의 간청에 굴복하여 빈센트 반 고흐의 '해바라기' 시리즈 테마의 그림 세트를 사주면서 그림 그리기를 시작했다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"왜 그날 어머니가 '그래'라고 말씀하셨는지 모르겠어요." 곤살레스가 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀가 가장 좋아하는 색은 노란색이 되었는데, "미친 사람들이 가장 좋아하는 색"이라고 그녀는 말했다. 17세에 그녀는 세비야 대학교 미술 학부에 등록했다. 그곳은 화가 디에고 벨라스케스와 한동안 프란시스코 데 수르바란의 도시로, 두 화가 모두 그녀에게 큰 영향을 미쳤다. 그녀는 고전 회화 교육을 받고 세비야 미술 시장에서 외국인에게 초상화를 팔고 우엘바의 결혼식 손님 캐리커처를 그려 용돈을 벌었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+세비야에서 미술 석사 학위를 받은 후, 그녀는 우엘바의 화장품 매장에서 일하고 있었고 그곳을 벗어나고 싶었다. 그녀는 이탈리아 친구들이 있었고 언어에 귀가 열려 있었기에 이탈리아에 도전해 북부에서 "두 마귀"의 베이비시터로 일한 후 남부 아퀼라로 도피하여 결국 치과 조수 일자리를 제안받았다. "저요?" 그녀가 말했다. "이에 대해 아무것도 모르는데요."
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 자신이 전혀 모르는 일을 외국 땅과 언어로 직업을 얻을 수 있다면, 아마 집으로 돌아가 자신이 가장 잘하는 일에 도전해야 한다는 것을 깨달았다. 그녀는 화가가 되기 위해 1년의 시간을 자기 자신에게 주었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+우엘바로 돌아와 그녀는 초상화 작업을 하며 미술 수업을 가르쳤다. 우엘바의 새 박물관 개관을 위해 바로크 거장의 작품 사본을 한 시간 만에 스케치했다. 갤러리들이 그녀의 작품을 전시하기 시작했다. 그녀의 초상화로 가득 찬 인스타그램 페이지는 팔로워를 얻기 시작했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+작년, 그녀는 지역을 가로질러 그라나다로 남자친구이자 동료 예술가인 아구스 디아스 바스케스와 함께 이사했다. 그녀는 보통 물감 냄새가 가득한 축축한 지하 작업실에서 동료 화가들과 함께 점심을 먹었는데, 그들은 농담을 좋아하는 무리로 카드 게임에서 그녀를 이겨먹는 것을 즐겼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+어느 날 그곳에서 그녀는 예상치 못한 메시지를 받았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+릴리 앨런의 앨범 크리에이티브 디렉터인 리스 클라크가 곤살레스의 페이지를 발견했다. 그녀는 곤살레스의 작품을 앨런에게 전달했는데, 그중에는 백조를 안고 있는 파란 패딩 점퍼를 입은 성스러운 인물의 그림도 포함되어 있었고, 상사가 어떻게 생각하는지 물었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"뭔지 알 때가 있잖아요." 이 과정에 참여한 앨런의 프로듀서이자 가까운 동료인 세브 츄가 말했다. "전에는 이런 걸 본 적이 없어요."
+&lt;&lt;&lt;PARA&gt;&gt;
+앨런의 팀은 누구를 위해 일하는지 밝히지 않은 채 곤살레스에게 연락했다. 하지만 화가는 작업에 바빴고, 그들이 원하는 것을 이해하지 못해 메시지를 무시했다. 그러자 앨런의 팀은 "매우 유명한 사람"을 위한 앨범 커버를 찾고 있다고 강조했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+곤살레스는 곧 화상 통화로 앨런과 연결되었고, 의뢰를 받아 몇 주 동안 작업실에 틀어박혀 플라멩코 음악을 들으며 그림을 그렸다. 곤살레스는 앨런의 팀이 그녀에게 작업할 사진들을 주었지만 상대적으로 지시는 거의 하지 않았다고 말했다 — 그들이 원했던 강함과 독립심을 전달하는 것을 그녀에게 믿고 맡긴 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 창작의 자유를 이용해 곤살레스는 앨런에게 실제로는 한 번도 입은 적 없는 물방울 무늬 패딩을 입혔다. 앨범이 나오자마자, 가수가 말한 대로 미국 배우 데이비드 하버와의 이별에 관한 세부 사항이 담긴 가사들로 곧 헤드라인을 장식했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 홍보는 곤살레스에게도 이익이 되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+곧, 작업실의 친구들은 그녀의 상주 연예인 신분을 놀리기 시작했다. 그들은 곤살레스를 브리트니 스피어스라고 부르며 놀리기 시작했다. 곤살레스가 시간에 대한 새로운 요구들에 대해 불평할 때마다 한 동료가 "오, 브리트니"라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+곤살레스는 런던에서 초상화가 공식적으로 공개된 지난 달까지 실제 팝스타 앨런을 직접 만나지 못했다. 그들은 잘 통했다고 곤살레스는 말했지만, 이번에는 입을 다물었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"상상할 수 있겠어요?" 그녀는 가능성에 눈을 크게 뜨며 말했다. "그녀랑 수다를 떠는 걸?"
+&lt;&lt;&lt;PARA&gt;&gt;
+까를로스 바라간이 취재에 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/europe/nieves-gonzalez-lily-allen-artist-west-end-girl-spain.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-spain-aritst-profile-promo-bwkt/26int-spain-aritst-profile-promo-bwkt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 19:01:08 +0000</pubDate></item><item><title>40 Years After the Meltdown, War Layers Another Disaster on Chernobyl (멜트다운 40년 후, 전쟁이 체르노빌에 또 다른 재앙을 더하다)</title><link>https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-ukraine-chernobyl-01-jzqb/26int-ukraine-chernobyl-01-jzqb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Vines twirl through the broken windows of long-abandoned homes, where the detritus of lives interrupted by disaster are still scattered about: children’s shoes, dishes, coats hanging on pegs, all covered in lichen and dust.&lt;br/&gt;(오래전 버려진 집들의 깨진 창문 사이로 덩굴이 휘감겨 있고, 재해로 중단된 삶의 잔해들—아이들의 신발, 접시, 못에 걸린 코트—이 여기저기 흩어져 있으며, 모두 이끼와 먼지로 덮여 있다.)&lt;/p&gt;
+&lt;p&gt;The ghost towns of the Chernobyl exclusion zone in northern Ukraine emptied of people after the catastrophic explosion and meltdown at the nuclear power plant there 40 years ago, on April 26, 1986. High levels of radiation mean humans may never live in them again.&lt;br/&gt;(1986년 4월 26일, 40년 전 북부 우크라이나 체르노빌 원자력 발전소의 치명적인 폭발과 멜트다운 이후, 체르노빌 출입 금지 구역의 유령 도시들은 사람들이 떠나면서 텅 비었다. 높은 방사능 수치로 인해 인간이 그곳에 다시 살지 못할 수도 있다.)&lt;/p&gt;
+&lt;p&gt;But these towns served another purpose for Ukrainian soldiers who recently trained amid the ruins. The troops practiced defending the irradiated land against a repeat Russian attack, taking precautions to avoid the most radioactive areas. In February 2022, Moscow’s forces entered the zone on the first day of the full-scale invasion, and occupied it for five weeks.&lt;br/&gt;(그러나 이 도시들은 최근 폐허 속에서 훈련한 우크라이나 군인들에게 또 다른 목적을 제공했다. 군인들은 가장 방사능이 높은 지역을 피하기 위해 주의를 기울이며, 러시아의 반복된 공격에 맞서 방사능 오염 지역을 방어하는 훈련을 했다. 2022년 2월, 모스크바 군대는 전면 침공 첫날 이 지역에 진입해 5주 동안 점령했다.)&lt;/p&gt;
+&lt;p&gt;During the exercise, soldiers crouched beside waterlogged, mold-covered walls, aiming their rifles. Others threw live grenades into homes, chipping walls already crumbling from dry rot. Their presence highlighted a reality in the Chernobyl zone: For the foreseeable future, it will be an army-controlled security belt along the border with Belarus, a Russian ally.&lt;br/&gt;(훈련 중, 군인들은 물에 잠기고 곰팡이로 덮인 벽 옆에 웅크려 소총을 겨누었다. 다른 이들은 집 안에 수류탄을 던져, 이미 건조 부패로 무너져 내리는 벽을 부쉈다. 그들의 존재는 체르노빌 지역의 현실을 강조했다: 가까운 미래 동안, 이곳은 러시아의 동맹인 벨라루스와의 국경을 따라 군대가 통제하는 보안 벨트가 될 것이라는 점이다.)&lt;/p&gt;
+&lt;p&gt;“Everything depends on security” in the zone today, said the commander of the battalion training in the area, who asked to be identified by only his nickname, Skif, in keeping with military protocol.&lt;br/&gt;(이 지역에서 훈련 중인 대대장은 “모든 것은 안보에 달려 있다”고 말했다. 그는 군 프로토콜에 따라 별명인 ‘스키프’로만 불러 달라고 요청했다.)&lt;/p&gt;
+&lt;p&gt;The explosion in 1986, set off by a safety test and exacerbated by design flaws, spewed fire and radioactive material into the air, in the world’s worst nuclear disaster. Two workers were killed in the initial explosion, over two dozen emergency responders and cleanup workers died in the three months after from radiation exposure, and some 200,000 people are believed to have been relocated from the area.&lt;br/&gt;(안전 테스트로 촉발되고 설계 결함으로 악화된 1986년의 폭발은 불과 방사성 물질을 공기 중으로 뿜어냈으며, 세계 최악의 원자력 재해였다. 초기 폭발로 두 명의 작업자가 사망했고, 20명이 넘는 응급 대응자와 청소 작업자가 이후 3개월 동안 방사선 노출로 사망했으며, 약 20만 명이 이 지역에서 대피한 것으로 추정된다.)&lt;/p&gt;
+&lt;p&gt;Over the years, the radioactive towns, villages, forests and swamps have posed quandaries for the authorities. The land could never be repopulated, they concluded, because of contamination from long-lingering isotopes, including plutonium.&lt;br/&gt;(수년에 걸쳐, 방사능 오염 도시, 마을, 숲, 습지는 당국에 딜레마를 안겼다. 그들은 플루토늄을 포함한 오래 지속되는 동위원소로 인한 오염 때문에 이 땅에 다시 사람이 살 수 없다고 결론 내렸다.)&lt;/p&gt;
+&lt;p&gt;But it could bring economic benefits. Ideas included using it as a storage area for other countries’ nuclear waste, as a test site for new generations of small modular reactors, as territory for solar farms and as a destination for so-called disaster tourism.&lt;br/&gt;(하지만 경제적 이점을 가져올 수는 있었다. 아이디어로는 다른 국가의 핵폐기물 저장 지역, 차세대 소형 모듈 원자로의 시험 장소, 태양광 발전소 부지, 소위 ‘재앙 관광’ 목적지로 사용하는 것 등이 있었다.)&lt;/p&gt;
+&lt;p&gt;Now, everything, other than modest solar-farm development, is on indefinite hold. Tourists, who began showing up at the site 20 years ago, are not coming back anytime soon, said Shaun Burnie, the senior nuclear specialist with Greenpeace Ukraine. Chernobyl has become one disaster layered on another: war fought in a radioactive zone.&lt;br/&gt;(이제는 소규모 태양광 발전소 개발을 제외한 모든 것이 무기한 보류되었다. 20년 전 이곳을 방문하기 시작한 관광객들은 당분간 돌아오지 않을 것이라고 그린피스 우크라이나의 수석 핵 전문가 숀 버니가 말했다. 체르노빌은 재앙 위에 또 다른 재앙이 겹쳐진 곳이 되었다: 방사능 지역에서 치러지는 전쟁이다.)&lt;/p&gt;
+&lt;p&gt;Russia’s invasion in 2022 harmed efforts to contain radiation in multiple ways. Moscow’s forces occupied the crippled nuclear power station and used it as a staging area for attacks on Kyiv, the Ukrainian capital, early in the war. Their heavy armored vehicles stirred up small amounts of radioactive dust. Weeks later, Russian troops were defeated in the battle for Kyiv, and they withdrew from Chernobyl.&lt;br/&gt;(2022년 러시아의 침공은 여러 방식으로 방사능 봉쇄 노력을 해쳤다. 모스크바 군대는 손상된 원자력 발전소를 점령하고 전쟁 초기 우크라이나 수도 키이우 공격의 거점으로 사용했다. 그들의 중장갑 차량은 소량의 방사성 먼지를 휘저었다. 몇 주 후, 러시아 군대는 키이우 전투에서 패배하고 체르노빌에서 철수했다.)&lt;/p&gt;
+&lt;p&gt;More worrisome are longer-term war risks. Scientists cannot reach wells that measure groundwater radiation, lest they step on a land mine. Also owing to mines, firefighters cannot rush to extinguish wildfires that spread radiation in smoke. Foreign scientists who studied radiation in the environment have fled.&lt;br/&gt;(더 우려되는 것은 장기적인 전쟁 위험이다. 과학자들은 지뢰를 밟을까 두려워 지하수 방사능을 측정하는 우물에 접근할 수 없다. 또한 지뢰 때문에 소방관들은 연기로 방사능을 퍼뜨리는 산불을 진압하러 달려갈 수 없다. 환경 내 방사능을 연구하던 외국 과학자들은 떠났다.)&lt;/p&gt;
+&lt;p&gt;In February 2025, Russia flew an exploding Iranian-designed Shahed drone into the gigantic steel shell that encloses an older, rickety structure built over the ruined reactor shortly after the accident. That older structure, known as the sarcophagus, is at risk of collapsing and releasing radiation.&lt;br/&gt;(2025년 2월, 러시아는 사고 직후 파괴된 원자로 위에 세워진 낡고 불안정한 구조물을 감싸는 거대한 강철 외피로 이란 설계 샤헤드 드론을 날려 폭발시켰다. ‘석관’으로 알려진 이 낡은 구조물은 붕괴되어 방사능을 누출할 위험이 있다.)&lt;/p&gt;
+&lt;p&gt;The drone explosion punched a hole in the $2.5 billion outer shell, called the New Safe Confinement, and started a fire that burned through material needed to maintain the airtight seal. No radiation was released, but the strike set back two decades of efforts to safely isolate the worst of Chernobyl’s radiation.&lt;br/&gt;(드론 폭발은 ‘신안전봉쇄’라는 25억 달러짜리 외피에 구멍을 뚫고, 밀봉 유지에 필요한 재료를 태우는 화재를 일으켰다. 방사능 누출은 없었지만, 이 공격은 체르노빌 최악의 방사능을 안전하게 격리하려는 20년간의 노력을 후퇴시켰다.)&lt;/p&gt;
+&lt;p&gt;The attack came a day before the opening of the influential Munich Security Conference in Germany, a warning to Ukraine’s Western allies that the war could spread radiation to Europe, from Chernobyl or other nuclear sites.&lt;br/&gt;(이 공격은 독일에서 영향력 있는 뮌헨 안보 회의가 열리기 하루 전에 발생했으며, 우크라이나의 서방 동맹국들에게 전쟁이 체르노빌이나 다른 핵 시설에서 유럽으로 방사능을 퍼뜨릴 수 있다는 경고였다.)&lt;/p&gt;
+&lt;p&gt;It is unclear how the confinement structure can be repaired. To protect workers from radiation, it had been built away from the reactor and later moved on rails into position over it. Now, repair work will have to be done in the highly radioactive zone, possibly by cycling large numbers of workers through stints that cannot exceed 11 hours per year, to comply with safety rules.&lt;br/&gt;(봉쇄 구조물을 어떻게 수리할 수 있을지는 불분명하다. 방사능으로부터 작업자를 보호하기 위해 원자로에서 떨어져 건설된 후 나중에 레일 위로 이동하여 그 위에 배치되었다. 이제 수리 작업은 방사능이 매우 높은 지역에서 이루어져야 하며, 안전 규정을 준수하기 위해 연간 11시간을 초과할 수 없는 교대 근무로 많은 수의 작업자를 순환시켜야 할 가능성이 있다.)&lt;/p&gt;
+&lt;p&gt;The European Bank for Reconstruction and Development has estimated that repairs will cost $500 million and last four years. Foreign donors, including France and Britain, have so far pledged 70 million euros, or about $82 million, for urgent repairs. The Russian drone most likely cost no more than about $50,000.&lt;br/&gt;(유럽부흥개발은행은 수리 비용이 5억 달러이며 4년 동안 지속될 것으로 추정했다. 프랑스와 영국을 포함한 외국 기부자들은 긴급 수리를 위해 지금까지 7천만 유로(약 8천200만 달러)를 약속했다. 러시아 드론은 아마도 약 5만 달러 이하의 비용이 들었을 것이다.)&lt;/p&gt;
+&lt;p&gt;Easier to repair was a nearby solar farm that was struck by shrapnel from the drone. The 18 damaged panels were replaced.&lt;br/&gt;(수리가 더 쉬웠던 것은 드론의 파편에 맞은 인근 태양광 발전소였다. 손상된 패널 18개가 교체되었다.)&lt;/p&gt;
+&lt;p&gt;Two solar plants are operating in the Chernobyl zone, and a third is under construction despite the war. They sell electricity for the grid using high-voltage transmission lines originally built for the reactors, and they provide backup power for cooling ponds for nuclear waste.&lt;br/&gt;(체르노빌 지역에서는 두 개의 태양광 발전소가 가동 중이며, 전쟁에도 불구하고 세 번째 발전소가 건설 중이다. 이들은 원래 원자로용으로 건설된 고압 송전선을 사용하여 전력을 전력망에 판매하고, 핵폐기물 냉각 연못의 백업 전력을 제공한다.)&lt;/p&gt;
+&lt;p&gt;Solar farms, which are unaffected by radiation and are largely impervious to missile and drone attacks because they are dispersed over large areas, still have a viable future in the exclusion zone, said Yevgen Variagin, the chief executive of Solar Chernobyl. The company opened the first solar plant there in 2018.&lt;br/&gt;(방사능의 영향을 받지 않고 넓은 지역에 분산되어 미사일 및 드론 공격에 거의 영향을 받지 않는 태양광 발전소는 여전히 출입 금지 구역에서 실행 가능한 미래를 가지고 있다고 솔라 체르노빌의 최고경영자 예브겐 바랴긴이 말했다. 이 회사는 2018년 그곳에 첫 번째 태양광 발전소를 열었다.)&lt;/p&gt;
+&lt;p&gt;Otherwise, the area around Chernobyl is now primarily a military site, fortified against attacks from the north toward Kyiv and against possible Russian sabotage of the reactor or waste-storage facilities.&lt;br/&gt;(그 외에도 체르노빌 주변 지역은 현재 주로 군사 시설로, 북쪽에서 키이우로 향하는 공격과 원자로나 폐기물 저장 시설에 대한 러시아의 잠재적 사보타주에 대비해 요새화되어 있다.)&lt;/p&gt;
+&lt;p&gt;Tank traps, which look like X’s made from steel beams, and coils of razor wire stretch out over fields in the zone. At military positions, paths are covered in nets to protect against drones.&lt;br/&gt;(강철 빔으로 만든 X자 모양의 전차 방어 장치와 코일형 철조망이 이 지역의 들판에 펼쳐져 있다. 군사 진지에서는 길이 드론으로부터 보호하기 위해 그물로 덮여 있다.)&lt;/p&gt;
+&lt;p&gt;These defenses are typical for much of the front line in Ukraine. Other military preparations are peculiar to the radiation zone.&lt;br/&gt;(이러한 방어 시설은 우크라이나의 전선 대부분에서 전형적이다. 다른 군사 준비는 방사능 지역에 특화되어 있다.)&lt;/p&gt;
+&lt;p&gt;To fight in this landscape, the Ukrainian Army took special precautions. It did not dig trenches or burrow bunkers into the ground, lest it expose soldiers to radiation in the soil. Instead, aboveground berms or bunkers were built into hills of fresh sand that was trucked in.&lt;br/&gt;(이러한 지형에서 싸우기 위해 우크라이나군은 특별한 예방 조치를 취했다. 병사들이 토양 속 방사능에 노출되는 것을 막기 위해 참호를 파거나 지하 벙커를 굴착하지 않았다. 대신, 트럭으로 운반된 신선한 모래 언덕에 지상 둑이나 벙커를 건설했다.)&lt;/p&gt;
+&lt;p&gt;Looking like large yellow anthills, these now dot the landscape around the Chernobyl plant.&lt;br/&gt;(노란 큰 개미집처럼 보이는 이 구조물들이 이제 체르노빌 발전소 주변 풍경에 점재하고 있다.)&lt;/p&gt;
+&lt;p&gt;Soldiers patrol the ghost towns, where buildings are covered in moss and surrounded by mature trees, lost in a swirl of dense vegetation like ancient Mayan ruins.&lt;br/&gt;(군인들은 건물이 이끼로 덮이고 성숙한 나무로 둘러싸여 있으며, 고대 마야 유적처럼 울창한 초목 소용돌이 속에 사라진 유령 도시들을 순찰한다.)&lt;/p&gt;
+&lt;p&gt;In the recent exercise, soldiers with the 28th Regiment of the National Guard maneuvered amid abandoned homes with corroded corrugated-metal roofs and broken windows.&lt;br/&gt;(최근 훈련에서, 국가 방위군 제28연대의 군인들은 부식된 골판지 금속 지붕과 깨진 창문이 있는 버려진 집들 사이에서 기동했다.)&lt;/p&gt;
+&lt;p&gt;Though devoid of people, the area must be defended against further damage, said Skif, the commander.&lt;br/&gt;(사람이 없지만, 이 지역은 추가 피해로부터 방어되어야 한다고 지휘관 스키프가 말했다.)&lt;/p&gt;
+&lt;p&gt;Compared with destruction inflicted elsewhere in Ukraine, an attack that released more radiation at Chernobyl, he said, would be “on a completely different scale.”&lt;br/&gt;(우크라이나 다른 곳에서 가해진 파괴와 비교하여, 체르노빌에서 더 많은 방사능을 누출하는 공격은 “완전히 다른 수준”이 될 것이라고 그는 말했다.)&lt;/p&gt;
+&lt;p&gt;Constant Méheut contributed reporting from Kyiv, Ukraine.&lt;br/&gt;(콩스탕 메외가 우크라이나 키이우에서 취재에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-ukraine-chernobyl-01-jzqb/26int-ukraine-chernobyl-01-jzqb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 19:01:26 +0000</pubDate></item></channel></rss>
