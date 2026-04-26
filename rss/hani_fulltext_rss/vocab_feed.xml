@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 00:53:25 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 03:01:01 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>후에는 – after</title><link>urn:urn:vocab:후에는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>현대차는 – Hyundai Motor is</title><link>urn:urn:vocab:현대차는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1726248982042-13dcd9a46444?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIeXVuZGFpJTIwTW90b3IlMjBpc3xlbnwwfHx8fDE3NzcyMjY0NTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="현대차는 (Hyundai Motor is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (현대차는 지난해 글로벌 누적 판매 50만대를 넘긴 아이오닉 시리즈를 중국에서는 팔지 않았다&lt;br/&gt;&lt;em&gt;"Hyundai Motor did not sell the Ioniq series, which surpassed 500,000 units in global cumulative sales last year, in China.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1회 충전 주행거리는 중국 도심 주행 기준(CLTC) 600㎞를 넘는다고 현대차는 설명했다&lt;br/&gt;&lt;em&gt;Hyundai Motor explained that the driving range on a single charge exceeds 600 km under China's urban driving conditions (CLTC).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;복잡한 도로 환경 탓에 자율주행 격전장이기도 한 중국 시장을 따라잡기 위해, 현대차는 과감하게 현지 자율주행 기술 전문기업인 ‘모멘타’와 손을 잡았다&lt;br/&gt;&lt;em&gt;To catch up with the Chinese market, which is also a fierce battleground for autonomous driving due to its complex road environment, Hyundai Motor boldly partnered with 'Momenta', a local autonomous driving technology company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현대차는 자동차를 만듭니다.&lt;br/&gt;&lt;em&gt;Hyundai makes cars.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현대차는 한국 회사입니다.&lt;br/&gt;&lt;em&gt;Hyundai is a Korean company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1726248982042-13dcd9a46444?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIeXVuZGFpJTIwTW90b3IlMjBpc3xlbnwwfHx8fDE3NzcyMjY0NTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="현대차는 (Hyundai Motor is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (현대차는 지난해 글로벌 누적 판매 50만대를 넘긴 아이오닉 시리즈를 중국에서는 팔지 않았다&lt;br/&gt;&lt;em&gt;"Hyundai Motor did not sell the Ioniq series, which surpassed 500,000 units in global cumulative sales last year, in China.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1회 충전 주행거리는 중국 도심 주행 기준(CLTC) 600㎞를 넘는다고 현대차는 설명했다&lt;br/&gt;&lt;em&gt;Hyundai Motor explained that the driving range on a single charge exceeds 600 km under China's urban driving conditions (CLTC).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;복잡한 도로 환경 탓에 자율주행 격전장이기도 한 중국 시장을 따라잡기 위해, 현대차는 과감하게 현지 자율주행 기술 전문기업인 ‘모멘타’와 손을 잡았다&lt;br/&gt;&lt;em&gt;To catch up with the Chinese market, which is also a fierce battleground for autonomous driving due to its complex road environment, Hyundai Motor boldly partnered with 'Momenta', a local autonomous driving technology company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현대차는 자동차를 만듭니다.&lt;br/&gt;&lt;em&gt;Hyundai makes cars.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현대차는 한국 회사입니다.&lt;br/&gt;&lt;em&gt;Hyundai is a Korean company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 27 Apr 2026 03:01:01 +0900</pubDate><guid isPermaLink="false">vocab-6ce8a64f4d33d33f97d17524d967a728acbca100</guid><enclosure url="https://images.unsplash.com/photo-1726248982042-13dcd9a46444?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIeXVuZGFpJTIwTW90b3IlMjBpc3xlbnwwfHx8fDE3NzcyMjY0NTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="152521" /><ns2:content url="https://images.unsplash.com/photo-1726248982042-13dcd9a46444?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIeXVuZGFpJTIwTW90b3IlMjBpc3xlbnwwfHx8fDE3NzcyMjY0NTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1726248982042-13dcd9a46444?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIeXVuZGFpJTIwTW90b3IlMjBpc3xlbnwwfHx8fDE3NzcyMjY0NTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>현대차는</category></item><item><title>후에는 – after</title><link>urn:urn:vocab:후에는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1667100834185-d680d31f4fdf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZnRlcnxlbnwwfHx8fDE3NzcyMTg4MDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="후에는 (after)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;운동 후에는 달력이나 다이어리에 운동을 인증하는 스티커를 붙여 성취감을 키워주는 것도 좋은 방법이다&lt;br/&gt;&lt;em&gt;After exercising, it is also a good way to enhance a sense of achievement by attaching a sticker certifying the workout to a calendar or diary.&lt;/em&gt;&lt;/p&gt;
