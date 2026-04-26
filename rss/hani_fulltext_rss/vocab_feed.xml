@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 18:24:35 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 20:35:18 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>않다고 – not (do)</title><link>urn:urn:vocab:않다고</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>공간과 – space and</title><link>urn:urn:vocab:공간과</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1575269394383-a7b325200792?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGFjZSUyMGFuZHxlbnwwfHx8fDE3NzcyMDMzMTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공간과 (space and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지하 1층은 남성 패션과 나이키·아디다스 등 숍인숍(shop in shop), 1층은 팝업 공간과 숍인숍, 무신사 걸즈 등 여성 패션 중심으로 꾸몄다&lt;br/&gt;&lt;em&gt;The basement floor is centered on men's fashion and shop-in-shops like Nike and Adidas, while the first floor is centered on pop-up spaces, shop-in-shops, and women's fashion including Musinsa Girls.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;눈썰매 슬로프를 비롯해 트램폴린·유아 에어바운스·눈놀이터 등 아이들을 위한 놀이 공간과 가족 휴식 공간 등이 마련돼 있다&lt;br/&gt;&lt;em&gt;There are play areas for children such as a sled slope, trampolines, a toddler air bounce, and a snow playground, as well as family rest areas.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 가상현실(VR)로 만화를 감상할 수 있는 공간과 고전만화를 반응형 콘텐츠로 구현한 디지털미디어북 등 최첨단 스마트 시설이 인기다&lt;br/&gt;&lt;em&gt;In particular, high-tech smart facilities are popular, including a space where you can enjoy cartoons through virtual reality (VR) and digital media books that implement classic cartoons as interactive content.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;공간과 시간이 중요해요.&lt;br/&gt;&lt;em&gt;Space and time are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 공간과 저 공간이 달라요.&lt;br/&gt;&lt;em&gt;This space and that space are different.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1575269394383-a7b325200792?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGFjZSUyMGFuZHxlbnwwfHx8fDE3NzcyMDMzMTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공간과 (space and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지하 1층은 남성 패션과 나이키·아디다스 등 숍인숍(shop in shop), 1층은 팝업 공간과 숍인숍, 무신사 걸즈 등 여성 패션 중심으로 꾸몄다&lt;br/&gt;&lt;em&gt;The basement floor is centered on men's fashion and shop-in-shops like Nike and Adidas, while the first floor is centered on pop-up spaces, shop-in-shops, and women's fashion including Musinsa Girls.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;눈썰매 슬로프를 비롯해 트램폴린·유아 에어바운스·눈놀이터 등 아이들을 위한 놀이 공간과 가족 휴식 공간 등이 마련돼 있다&lt;br/&gt;&lt;em&gt;There are play areas for children such as a sled slope, trampolines, a toddler air bounce, and a snow playground, as well as family rest areas.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 가상현실(VR)로 만화를 감상할 수 있는 공간과 고전만화를 반응형 콘텐츠로 구현한 디지털미디어북 등 최첨단 스마트 시설이 인기다&lt;br/&gt;&lt;em&gt;In particular, high-tech smart facilities are popular, including a space where you can enjoy cartoons through virtual reality (VR) and digital media books that implement classic cartoons as interactive content.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;공간과 시간이 중요해요.&lt;br/&gt;&lt;em&gt;Space and time are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 공간과 저 공간이 달라요.&lt;br/&gt;&lt;em&gt;This space and that space are different.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 26 Apr 2026 20:35:18 +0900</pubDate><guid isPermaLink="false">vocab-7f75d788d220e04879a26f0602c9631da166d409</guid><enclosure url="https://images.unsplash.com/photo-1575269394383-a7b325200792?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGFjZSUyMGFuZHxlbnwwfHx8fDE3NzcyMDMzMTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="81474" /><ns2:content url="https://images.unsplash.com/photo-1575269394383-a7b325200792?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGFjZSUyMGFuZHxlbnwwfHx8fDE3NzcyMDMzMTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1575269394383-a7b325200792?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGFjZSUyMGFuZHxlbnwwfHx8fDE3NzcyMDMzMTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>공간과</category></item><item><title>않다고 – not (do)</title><link>urn:urn:vocab:않다고</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1592495994946-52ba21a70bdd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3QlMjAlMjhkbyUyOXxlbnwwfHx8fDE3NzcxOTU0NzF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="않다고 (not (do))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;위 실장은 “정부는 그런 방향의 연결이 바람직하지 않다고 본다”며 “쿠팡의 문제는 법적 절차대로 진행하고 안보 협상은 협상대로 진전해야 한다는 입장으로 미국과 논의하고 있다”고 설명했다&lt;br/&gt;&lt;em&gt;Director Wi explained, 'The government believes that such a direction of connection is not desirable,' adding, 'We are discussing with the US the position that Coupang's issue should proceed according to legal procedures, and security negotiations should progress as negotiations.'&lt;/em&gt;&lt;/p&gt;
