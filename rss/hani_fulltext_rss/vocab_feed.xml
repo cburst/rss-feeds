@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 10:05:36 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 14:13:00 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>쿠팡의 – of Coupang</title><link>urn:urn:vocab:쿠팡의</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>차이나 – China</title><link>urn:urn:vocab:차이나</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDaGluYXxlbnwwfHx8fDE3NzcxODAzNzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="차이나 (China)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;kr&lt;/a&gt; (‘오토 차이나 2026’(베이징 모터쇼) 개막 사흘 전인 지난 21일&lt;br/&gt;&lt;em&gt;kr&lt;/a&gt; ('Auto China 2026' (Beijing Motor Show) three days before its opening on the 21st&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(중국 진출 24년째를 맞은 현대차가 24일(현지시각) 중국 베이징 국제전람중심 순의관에서 개막한 ‘오토 차이나 2026’(베이징 모터쇼)에서 전용 전기차 브랜드 ‘아이오닉V’를 세계 최초 공개하며 최대 자동차 시장 중국 재공략에 나섰다&lt;br/&gt;&lt;em&gt;Hyundai Motor, marking its 24th year in China, unveiled its dedicated electric vehicle brand 'Ioniq V' for the first time in the world at 'Auto China 2026' (Beijing Motor Show), which opened on the 24th (local time) at the China International Exhibition Center Shunyi Hall in Beijing, China, as it re-enters the largest automobile market, China.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;세계 최대 규모 자동차 전시회인 ‘오토 차이나 2026’(베이징 모터쇼)이 ‘지능의 미래’를 주제로 24일 개막했다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;The world's largest auto show, 'Auto China 2026' (Beijing Motor Show), opened on the 24th under the theme 'Intelligent Future'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;차이나는 큰 나라입니다.&lt;br/&gt;&lt;em&gt;China is a big country.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 차이나에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to China.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDaGluYXxlbnwwfHx8fDE3NzcxODAzNzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="차이나 (China)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;kr&lt;/a&gt; (‘오토 차이나 2026’(베이징 모터쇼) 개막 사흘 전인 지난 21일&lt;br/&gt;&lt;em&gt;kr&lt;/a&gt; ('Auto China 2026' (Beijing Motor Show) three days before its opening on the 21st&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(중국 진출 24년째를 맞은 현대차가 24일(현지시각) 중국 베이징 국제전람중심 순의관에서 개막한 ‘오토 차이나 2026’(베이징 모터쇼)에서 전용 전기차 브랜드 ‘아이오닉V’를 세계 최초 공개하며 최대 자동차 시장 중국 재공략에 나섰다&lt;br/&gt;&lt;em&gt;Hyundai Motor, marking its 24th year in China, unveiled its dedicated electric vehicle brand 'Ioniq V' for the first time in the world at 'Auto China 2026' (Beijing Motor Show), which opened on the 24th (local time) at the China International Exhibition Center Shunyi Hall in Beijing, China, as it re-enters the largest automobile market, China.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;세계 최대 규모 자동차 전시회인 ‘오토 차이나 2026’(베이징 모터쇼)이 ‘지능의 미래’를 주제로 24일 개막했다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;The world's largest auto show, 'Auto China 2026' (Beijing Motor Show), opened on the 24th under the theme 'Intelligent Future'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;차이나는 큰 나라입니다.&lt;br/&gt;&lt;em&gt;China is a big country.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 차이나에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to China.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 26 Apr 2026 14:12:59 +0900</pubDate><guid isPermaLink="false">vocab-d9aacd879ee78d7cf322b71325697bf069b56036</guid><enclosure url="https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDaGluYXxlbnwwfHx8fDE3NzcxODAzNzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="187406" /><ns2:content url="https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDaGluYXxlbnwwfHx8fDE3NzcxODAzNzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDaGluYXxlbnwwfHx8fDE3NzcxODAzNzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>차이나</category></item><item><title>조선의 – Joseon's</title><link>urn:urn:vocab:조선의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1744518826911-ac9d3c572eb2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTElQjAlRUMlODQlQTAlRUMlOUQlOTh8ZW58MHx8fHwxNzc3MTcyOTMzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="조선의 (Joseon's)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 인과관계에 관한 질문은 조선의 현실을 제대로 파악하기 위해서뿐만 아니라 우리의 대북정책을 설계하는 데에 있어서 매우 중요하다&lt;br/&gt;&lt;em&gt;This question about causality is very important not only for properly understanding the reality of North Korea but also for designing our North Korea policy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  전자에 방점을 찍으면 조선의 변화를 기다리는 것 외에는 딱히 할 수 있는 일이 없게 된다&lt;br/&gt;&lt;em&gt;(If the emphasis is placed on the former, there is not much we can do other than wait for changes in North Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한국이 조선의 체제 불안을 유도하거나 흡수통일을 할 의사가 없다고 아무리 강조해도, 조선 정권은 한국의 문화와 사상이 유입될 수 있는 교류협력 자체를 두려워할 것이기 때문이다&lt;br/&gt;&lt;em&gt;No matter how much South Korea emphasizes that it has no intention of inducing instability in the North Korean regime or pursuing absorption unification, the North Korean regime will fear any exchange and cooperation that could allow the influx of South Korean culture and ideas.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;조선의 역사는 길다.&lt;br/&gt;&lt;em&gt;The history of Joseon is long.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;조선의 왕은 세종이다.&lt;br/&gt;&lt;em&gt;The king of Joseon is Sejong.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1744518826911-ac9d3c572eb2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTElQjAlRUMlODQlQTAlRUMlOUQlOTh8ZW58MHx8fHwxNzc3MTcyOTMzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="조선의 (Joseon's)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 인과관계에 관한 질문은 조선의 현실을 제대로 파악하기 위해서뿐만 아니라 우리의 대북정책을 설계하는 데에 있어서 매우 중요하다&lt;br/&gt;&lt;em&gt;This question about causality is very important not only for properly understanding the reality of North Korea but also for designing our North Korea policy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  전자에 방점을 찍으면 조선의 변화를 기다리는 것 외에는 딱히 할 수 있는 일이 없게 된다&lt;br/&gt;&lt;em&gt;(If the emphasis is placed on the former, there is not much we can do other than wait for changes in North Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한국이 조선의 체제 불안을 유도하거나 흡수통일을 할 의사가 없다고 아무리 강조해도, 조선 정권은 한국의 문화와 사상이 유입될 수 있는 교류협력 자체를 두려워할 것이기 때문이다&lt;br/&gt;&lt;em&gt;No matter how much South Korea emphasizes that it has no intention of inducing instability in the North Korean regime or pursuing absorption unification, the North Korean regime will fear any exchange and cooperation that could allow the influx of South Korean culture and ideas.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;조선의 역사는 길다.&lt;br/&gt;&lt;em&gt;The history of Joseon is long.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;조선의 왕은 세종이다.&lt;br/&gt;&lt;em&gt;The king of Joseon is Sejong.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 26 Apr 2026 12:08:55 +0900</pubDate><guid isPermaLink="false">vocab-cb170f8455d23e9b01e445830407c0f609de0cb8</guid><enclosure url="https://images.unsplash.com/photo-1744518826911-ac9d3c572eb2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTElQjAlRUMlODQlQTAlRUMlOUQlOTh8ZW58MHx8fHwxNzc3MTcyOTMzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="165850" /><ns2:content url="https://images.unsplash.com/photo-1744518826911-ac9d3c572eb2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTElQjAlRUMlODQlQTAlRUMlOUQlOTh8ZW58MHx8fHwxNzc3MTcyOTMzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1744518826911-ac9d3c572eb2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTElQjAlRUMlODQlQTAlRUMlOUQlOTh8ZW58MHx8fHwxNzc3MTcyOTMzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>조선의</category></item><item><title>쿠팡의 – of Coupang</title><link>urn:urn:vocab:쿠팡의</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(최근 미국의 공화당 하원의원 모임이 쿠팡 등 한국에서 영업하는 미국 기업에 대한 차별적 규제를 중단하라고 요구한 사실 등이 알려지면서, 쿠팡의 대미 로비가 한국의 대미 관계와 안보 협의에까지 악영향을 미치고 있다는 논란이 커지고 있다&lt;br/&gt;&lt;em&gt;As news spread that a recent meeting of Republican House members in the U.S. demanded the cessation of discriminatory regulations against American companies operating in South Korea, such as Coupang, controversy is growing that Coupang's lobbying in the U.S. is negatively affecting South Korea's relations with the U.S. and security consultations.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;특히 이들은 서한에서 쿠팡의 대규모 개인정보 유출 사태에 대해 “민감도가 낮은 정보 유출 사건을 구실로 쿠팡에 범정부적 공격을 가했다”고 쿠팡을 적극 옹호한 것으로 전해졌다&lt;br/&gt;&lt;em&gt;In particular, it is reported that in their letter, they actively defended Coupang regarding the massive personal information leak incident, stating that 'the government launched a cross-governmental attack on Coupang using a low-sensitivity information leak incident as a pretext.'&lt;/em&gt;&lt;/p&gt;
