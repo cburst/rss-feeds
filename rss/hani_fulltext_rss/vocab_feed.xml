@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 09:11:12 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:19:23 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>전기차 – electric car</title><link>urn:urn:vocab:전기차</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>개인화 – personalization</title><link>urn:urn:vocab:개인화</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1603811601606-1252ac37d097?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbGl6YXRpb258ZW58MHx8fHwxNzc3MjYzNTU4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개인화 (personalization)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(고려사이버대학교 일반대학원 이규정 교수가 이끄는 PIKA(Personalized Intelligence &amp;amp; Knowledge Adaptation) 연구실이 개인화 인공지능(AI) 연구를 중심으로 본격적인 연구 활동에 나선다&lt;br/&gt;&lt;em&gt;The PIKA (Personalized Intelligence &amp; Knowledge Adaptation) Lab, led by Professor Lee Kyu-jung of the Graduate School of Korea Cyber University, is embarking on full-scale research activities centered on personalized artificial intelligence (AI) research.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재는 온디바이스 AI, 연합학습, 개인화 모델 학습 기술을 중심으로 실제 환경에서 활용 가능한 인공지능 기술 개발에 집중하고 있다&lt;br/&gt;&lt;em&gt;Currently, the lab is focusing on developing AI technologies applicable in real-world environments, with a focus on on-device AI, federated learning, and personalized model training techniques.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(PIKA 연구실은 &amp;#x27;개인화 지능&amp;#x27;을 핵심 키워드로, 사용자와 환경에 최적화된 추론을 제공하는 AI 모델 연구를 수행한다&lt;br/&gt;&lt;em&gt;The PIKA Lab conducts research on AI models that provide reasoning optimized for users and environments, with 'personalized intelligence' as a key keyword.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 앱은 개인화가 잘 되어 있다.&lt;br/&gt;&lt;em&gt;This app is well personalized.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개인화 서비스를 이용해 보세요.&lt;br/&gt;&lt;em&gt;Try using the personalized service.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1603811601606-1252ac37d097?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbGl6YXRpb258ZW58MHx8fHwxNzc3MjYzNTU4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개인화 (personalization)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(고려사이버대학교 일반대학원 이규정 교수가 이끄는 PIKA(Personalized Intelligence &amp;amp; Knowledge Adaptation) 연구실이 개인화 인공지능(AI) 연구를 중심으로 본격적인 연구 활동에 나선다&lt;br/&gt;&lt;em&gt;The PIKA (Personalized Intelligence &amp; Knowledge Adaptation) Lab, led by Professor Lee Kyu-jung of the Graduate School of Korea Cyber University, is embarking on full-scale research activities centered on personalized artificial intelligence (AI) research.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재는 온디바이스 AI, 연합학습, 개인화 모델 학습 기술을 중심으로 실제 환경에서 활용 가능한 인공지능 기술 개발에 집중하고 있다&lt;br/&gt;&lt;em&gt;Currently, the lab is focusing on developing AI technologies applicable in real-world environments, with a focus on on-device AI, federated learning, and personalized model training techniques.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(PIKA 연구실은 &amp;#x27;개인화 지능&amp;#x27;을 핵심 키워드로, 사용자와 환경에 최적화된 추론을 제공하는 AI 모델 연구를 수행한다&lt;br/&gt;&lt;em&gt;The PIKA Lab conducts research on AI models that provide reasoning optimized for users and environments, with 'personalized intelligence' as a key keyword.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 앱은 개인화가 잘 되어 있다.&lt;br/&gt;&lt;em&gt;This app is well personalized.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개인화 서비스를 이용해 보세요.&lt;br/&gt;&lt;em&gt;Try using the personalized service.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 27 Apr 2026 13:19:23 +0900</pubDate><guid isPermaLink="false">vocab-77d4f97c2d2ac40c51a1ca3f84de72fa47b5fb62</guid><enclosure url="https://images.unsplash.com/photo-1603811601606-1252ac37d097?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbGl6YXRpb258ZW58MHx8fHwxNzc3MjYzNTU4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="75303" /><ns2:content url="https://images.unsplash.com/photo-1603811601606-1252ac37d097?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbGl6YXRpb258ZW58MHx8fHwxNzc3MjYzNTU4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1603811601606-1252ac37d097?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbGl6YXRpb258ZW58MHx8fHwxNzc3MjYzNTU4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>개인화</category></item><item><title>던지기 – throwing</title><link>urn:urn:vocab:던지기</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1541580654-046afe2ec956?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aHJvd2luZ3xlbnwwfHx8fDE3NzcyNDEyNjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="던지기 (throwing)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개념이 좋은 질문을 던지기 위한 ‘빌딩 블록’이라면, 이론은 이러한 블록을 쌓아서 만든 견실한 답변이다&lt;br/&gt;&lt;em&gt;If a concept is a 'building block' for asking good questions, a theory is a solid answer built by stacking these blocks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;적절한 질문을 던지기 위해서 학문적 기본기를 갖추는 것만큼 요긴한 일은 없다&lt;br/&gt;&lt;em&gt;Nothing is as essential as having a solid academic foundation to ask the right questions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The Reckless Throwing of Life, Tangling and Twisting the More You Throw (던질수록 엉키고 꼬이는, 인생의 무모한 던지기) &lt;&lt;br/&gt;&lt;em&gt;The Reckless Throwing of Life, Tangling and Twisting the More You Throw&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;던지기는 재미있어요.&lt;br/&gt;&lt;em&gt;Throwing is fun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공 던지기를 연습해요.&lt;br/&gt;&lt;em&gt;Practice throwing the ball.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1541580654-046afe2ec956?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aHJvd2luZ3xlbnwwfHx8fDE3NzcyNDEyNjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="던지기 (throwing)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개념이 좋은 질문을 던지기 위한 ‘빌딩 블록’이라면, 이론은 이러한 블록을 쌓아서 만든 견실한 답변이다&lt;br/&gt;&lt;em&gt;If a concept is a 'building block' for asking good questions, a theory is a solid answer built by stacking these blocks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;적절한 질문을 던지기 위해서 학문적 기본기를 갖추는 것만큼 요긴한 일은 없다&lt;br/&gt;&lt;em&gt;Nothing is as essential as having a solid academic foundation to ask the right questions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The Reckless Throwing of Life, Tangling and Twisting the More You Throw (던질수록 엉키고 꼬이는, 인생의 무모한 던지기) &lt;&lt;br/&gt;&lt;em&gt;The Reckless Throwing of Life, Tangling and Twisting the More You Throw&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;던지기는 재미있어요.&lt;br/&gt;&lt;em&gt;Throwing is fun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공 던지기를 연습해요.&lt;br/&gt;&lt;em&gt;Practice throwing the ball.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 27 Apr 2026 11:15:00 +0900</pubDate><guid isPermaLink="false">vocab-37290a46fa476aca6d889b72e998864ff527cb70</guid><enclosure url="https://images.unsplash.com/photo-1541580654-046afe2ec956?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aHJvd2luZ3xlbnwwfHx8fDE3NzcyNDEyNjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="295566" /><ns2:content url="https://images.unsplash.com/photo-1541580654-046afe2ec956?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aHJvd2luZ3xlbnwwfHx8fDE3NzcyNDEyNjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1541580654-046afe2ec956?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aHJvd2luZ3xlbnwwfHx8fDE3NzcyNDEyNjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>던지기</category></item><item><title>전기차 – electric car</title><link>urn:urn:vocab:전기차</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1593941707874-ef25b8b4a92b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMGNhcnxlbnwwfHx8fDE3NzcyNDg2Njl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전기차 (electric car)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;특히 선박, 전기차, 우주항공 등 국가 전략 산업에 필수적인 핵심 소재 기술을 확보하는 데 기여하며 기술 자립도 향상에 크게 이바지했다&lt;br/&gt;&lt;em&gt;In particular, it contributed to securing core material technologies essential for national strategic industries such as ships, electric vehicles, and aerospace, greatly improving technological independence.&lt;/em&gt;&lt;/p&gt;
