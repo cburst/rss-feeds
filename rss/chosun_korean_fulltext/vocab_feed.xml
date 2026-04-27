@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 06:00:08 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 08:08:36 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>하정우 – Ha Jung-woo (actor's name)</title><link>urn:urn:vocab:하정우</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>음료수 – beverage</title><link>urn:urn:vocab:음료수</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1609951651467-713256d1a3be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZXZlcmFnZXxlbnwwfHx8fDE3NzczMzEzMTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="음료수 (beverage)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(오는 6월 3일 치러지는 부산시장 선거에 출마한 개혁신당 정이한 후보에게 음료수를 투척한 운전자가 경찰에 붙잡혔다&lt;br/&gt;&lt;em&gt;A driver who threw a beverage at Jeong Yi-han, a candidate of the Reform Party who is running in the Busan mayoral election scheduled for June 3, has been caught by the police.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정 후보는 갑작스럽게 날아온 음료수를 얼굴 등에 맞고 중심을 잃고 뒤로 넘어졌다&lt;br/&gt;&lt;em&gt;Candidate Jeong was hit in the face and other areas by the suddenly thrown beverage, lost his balance, and fell backward.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정 후보 측은 “이번 음료수 테러는 청년 정치인의 도전을 가로막고 민주주의 근간을 흔들려는 중대 범죄”라고 했다&lt;br/&gt;&lt;em&gt;Candidate Jeong's side said, 'This beverage terror is a serious crime that blocks the challenge of young politicians and shakes the foundation of democracy.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;음료수를 마십니다.&lt;br/&gt;&lt;em&gt;I drink a beverage.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;차가운 음료수 좋아해요.&lt;br/&gt;&lt;em&gt;I like cold drinks.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1609951651467-713256d1a3be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZXZlcmFnZXxlbnwwfHx8fDE3NzczMzEzMTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="음료수 (beverage)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(오는 6월 3일 치러지는 부산시장 선거에 출마한 개혁신당 정이한 후보에게 음료수를 투척한 운전자가 경찰에 붙잡혔다&lt;br/&gt;&lt;em&gt;A driver who threw a beverage at Jeong Yi-han, a candidate of the Reform Party who is running in the Busan mayoral election scheduled for June 3, has been caught by the police.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정 후보는 갑작스럽게 날아온 음료수를 얼굴 등에 맞고 중심을 잃고 뒤로 넘어졌다&lt;br/&gt;&lt;em&gt;Candidate Jeong was hit in the face and other areas by the suddenly thrown beverage, lost his balance, and fell backward.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정 후보 측은 “이번 음료수 테러는 청년 정치인의 도전을 가로막고 민주주의 근간을 흔들려는 중대 범죄”라고 했다&lt;br/&gt;&lt;em&gt;Candidate Jeong's side said, 'This beverage terror is a serious crime that blocks the challenge of young politicians and shakes the foundation of democracy.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;음료수를 마십니다.&lt;br/&gt;&lt;em&gt;I drink a beverage.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;차가운 음료수 좋아해요.&lt;br/&gt;&lt;em&gt;I like cold drinks.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 28 Apr 2026 08:08:35 +0900</pubDate><guid isPermaLink="false">vocab-b180285410356d80f4b8f41532fedec73c956d16</guid><enclosure url="https://images.unsplash.com/photo-1609951651467-713256d1a3be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZXZlcmFnZXxlbnwwfHx8fDE3NzczMzEzMTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="206727" /><ns2:content url="https://images.unsplash.com/photo-1609951651467-713256d1a3be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZXZlcmFnZXxlbnwwfHx8fDE3NzczMzEzMTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1609951651467-713256d1a3be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZXZlcmFnZXxlbnwwfHx8fDE3NzczMzEzMTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>음료수</category></item><item><title>하정우 – Ha Jung-woo (actor's name)</title><link>urn:urn:vocab:하정우</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(하정우도 전은수도&lt;br/&gt;&lt;em&gt;(Ha Jung-woo and Jeon Eun-soo too&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;(하정우도 전은수도&lt;br/&gt;&lt;em&gt;(Ha Jung-woo and Jeon Eun-soo too&lt;/em&gt;&lt;/p&gt;
