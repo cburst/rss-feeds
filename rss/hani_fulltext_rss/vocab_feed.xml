@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 19:33:45 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 23:42:43 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>연구실은 – laboratory</title><link>urn:urn:vocab:연구실은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>개발한 – developed</title><link>urn:urn:vocab:개발한</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624523026384-255f52152082?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZWR8ZW58MHx8fHwxNzc3MzAwOTU5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개발한 (developed)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(덕성여자대학교(총장 민재홍) 아동가족학전공 박우철 교수가 공동 개발한 부모-자녀 관계 컨설팅 프로그램 ‘양육자-자녀 관계검진’이 서울시와 부산시 시범사업으로 선정되며 공공 영역에서의 본격적인 보급에 나선다&lt;br/&gt;&lt;em&gt;The parent-child relationship consulting program 'Caregiver-Child Relationship Checkup', co-developed by Professor Park Woo-cheol of the Department of Child and Family Studies at Duksung Women's University (President Min Jae-hong), has been selected as a pilot project by Seoul and Busan cities, and will begin full-scale distribution in the public sector.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;kr&lt;/a&gt; (생성형 인공지능에 주력 중인 메타는 최근 아마존이 자체 개발한 중앙처리장치 ‘그래비톤’ 수천만개를 도입하기로 했다&lt;br/&gt;&lt;em&gt;Meta, which is focusing on generative artificial intelligence, recently decided to introduce tens of millions of Amazon's self-developed central processing unit 'Graviton'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(구글 딥마인드는 2016년 당시 프로바둑 기사였던 이세돌 9단을 꺾은 인공지능 바둑모델 알파고를 개발한 회사로 국내에 잘 알려져 있다&lt;br/&gt;&lt;em&gt;Google DeepMind is well known in Korea as the company that developed the AI Go model AlphaGo, which defeated professional Go player Lee Sedol 9-dan in 2016.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 앱을 개발했어요.&lt;br/&gt;&lt;em&gt;I developed an app.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 회사가 게임을 개발했어요.&lt;br/&gt;&lt;em&gt;That company developed a game.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624523026384-255f52152082?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZWR8ZW58MHx8fHwxNzc3MzAwOTU5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개발한 (developed)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(덕성여자대학교(총장 민재홍) 아동가족학전공 박우철 교수가 공동 개발한 부모-자녀 관계 컨설팅 프로그램 ‘양육자-자녀 관계검진’이 서울시와 부산시 시범사업으로 선정되며 공공 영역에서의 본격적인 보급에 나선다&lt;br/&gt;&lt;em&gt;The parent-child relationship consulting program 'Caregiver-Child Relationship Checkup', co-developed by Professor Park Woo-cheol of the Department of Child and Family Studies at Duksung Women's University (President Min Jae-hong), has been selected as a pilot project by Seoul and Busan cities, and will begin full-scale distribution in the public sector.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;kr&lt;/a&gt; (생성형 인공지능에 주력 중인 메타는 최근 아마존이 자체 개발한 중앙처리장치 ‘그래비톤’ 수천만개를 도입하기로 했다&lt;br/&gt;&lt;em&gt;Meta, which is focusing on generative artificial intelligence, recently decided to introduce tens of millions of Amazon's self-developed central processing unit 'Graviton'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(구글 딥마인드는 2016년 당시 프로바둑 기사였던 이세돌 9단을 꺾은 인공지능 바둑모델 알파고를 개발한 회사로 국내에 잘 알려져 있다&lt;br/&gt;&lt;em&gt;Google DeepMind is well known in Korea as the company that developed the AI Go model AlphaGo, which defeated professional Go player Lee Sedol 9-dan in 2016.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 앱을 개발했어요.&lt;br/&gt;&lt;em&gt;I developed an app.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 회사가 게임을 개발했어요.&lt;br/&gt;&lt;em&gt;That company developed a game.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 27 Apr 2026 23:42:43 +0900</pubDate><guid isPermaLink="false">vocab-0c6a59de0f607c9fe2be8ab29bc37bd875d13645</guid><enclosure url="https://images.unsplash.com/photo-1624523026384-255f52152082?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZWR8ZW58MHx8fHwxNzc3MzAwOTU5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="89840" /><ns2:content url="https://images.unsplash.com/photo-1624523026384-255f52152082?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZWR8ZW58MHx8fHwxNzc3MzAwOTU5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1624523026384-255f52152082?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZWR8ZW58MHx8fHwxNzc3MzAwOTU5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>개발한</category></item><item><title>계기가 – opportunity</title><link>urn:urn:vocab:계기가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcHBvcnR1bml0eXxlbnwwfHx8fDE3NzcyOTM0NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="계기가 (opportunity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한편, 이번 공모전은 단순한 기록을 넘어 세대와 지역을 아우르는 참여형 프로젝트로, 올림픽체육관의 의미를 재조명하는 계기가 될 것으로 보인다&lt;br/&gt;&lt;em&gt;Meanwhile, this contest is expected to serve as an opportunity to reexamine the meaning of the Olympic Gymnasium as a participatory project that transcends generations and regions, beyond mere records.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;' (전문가들은 이러한 시도가 가족 문제를 사후 개입이 아닌 사전 예방과 관계 증진 중심으로 전환하는 계기가 될 것으로 보고 있다&lt;br/&gt;&lt;em&gt;Experts see this attempt as a chance to shift family issues from post-intervention to a focus on prevention and relationship enhancement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (배경훈 부총리는 “오늘 체결한 업무협약(MOU)은 대한민국이 ‘케이-문샷’을 중심으로 과학기술 분야 인공지능 혁신을 가속화하는 동시에 안전하고 책임 있는 인공지능 연구와 모범 사례를 확산하기 위해 양 기관이 협력하는 핵심적인 계기가 될 것”이라 말했다&lt;br/&gt;&lt;em&gt;Vice Prime Minister Bae Kyung-hoon said, 'The business agreement (MOU) signed today will be a key opportunity for the two institutions to cooperate in accelerating AI innovation in science and technology centered on 'K-Moonshot' while spreading safe and responsible AI research and best practices.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것이 좋은 계기가 되었어요.&lt;br/&gt;&lt;em&gt;This served as a good opportunity.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 일이 계기가 되었습니다.&lt;br/&gt;&lt;em&gt;That incident served as a turning point.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcHBvcnR1bml0eXxlbnwwfHx8fDE3NzcyOTM0NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="계기가 (opportunity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한편, 이번 공모전은 단순한 기록을 넘어 세대와 지역을 아우르는 참여형 프로젝트로, 올림픽체육관의 의미를 재조명하는 계기가 될 것으로 보인다&lt;br/&gt;&lt;em&gt;Meanwhile, this contest is expected to serve as an opportunity to reexamine the meaning of the Olympic Gymnasium as a participatory project that transcends generations and regions, beyond mere records.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;' (전문가들은 이러한 시도가 가족 문제를 사후 개입이 아닌 사전 예방과 관계 증진 중심으로 전환하는 계기가 될 것으로 보고 있다&lt;br/&gt;&lt;em&gt;Experts see this attempt as a chance to shift family issues from post-intervention to a focus on prevention and relationship enhancement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (배경훈 부총리는 “오늘 체결한 업무협약(MOU)은 대한민국이 ‘케이-문샷’을 중심으로 과학기술 분야 인공지능 혁신을 가속화하는 동시에 안전하고 책임 있는 인공지능 연구와 모범 사례를 확산하기 위해 양 기관이 협력하는 핵심적인 계기가 될 것”이라 말했다&lt;br/&gt;&lt;em&gt;Vice Prime Minister Bae Kyung-hoon said, 'The business agreement (MOU) signed today will be a key opportunity for the two institutions to cooperate in accelerating AI innovation in science and technology centered on 'K-Moonshot' while spreading safe and responsible AI research and best practices.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것이 좋은 계기가 되었어요.&lt;br/&gt;&lt;em&gt;This served as a good opportunity.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 일이 계기가 되었습니다.&lt;br/&gt;&lt;em&gt;That incident served as a turning point.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 27 Apr 2026 21:37:26 +0900</pubDate><guid isPermaLink="false">vocab-049a2534cfe1eef031e14a7d384ecd91e0a7eebf</guid><enclosure url="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcHBvcnR1bml0eXxlbnwwfHx8fDE3NzcyOTM0NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="69328" /><ns2:content url="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcHBvcnR1bml0eXxlbnwwfHx8fDE3NzcyOTM0NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcHBvcnR1bml0eXxlbnwwfHx8fDE3NzcyOTM0NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>계기가</category></item><item><title>연구실은 – laboratory</title><link>urn:urn:vocab:연구실은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYWJvcmF0b3J5fGVufDB8fHx8MTc3NzI3MTExNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연구실은 (laboratory)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(PIKA 연구실은 &amp;#x27;개인화 지능&amp;#x27;을 핵심 키워드로, 사용자와 환경에 최적화된 추론을 제공하는 AI 모델 연구를 수행한다&lt;br/&gt;&lt;em&gt;(PIKA Lab conducts research on AI models that provide reasoning optimized for users and environments, with 'personalized intelligence' as a core keyword.&lt;/em&gt;&lt;/p&gt;

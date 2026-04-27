@@ -1,141 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 27 Apr 2026 10:33:41 +0000</lastBuildDate><item><title>Both Iran and U.S. Blockade Strait of Hormuz (이란과 미국, 호르무즈 해협 봉쇄)</title><link>https://www.nytimes.com/2026/04/24/world/middleeast/iran-us-strait-of-hormuz-blockade.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/multimedia/23israel-iran-explainer-hgkb/23israel-iran-explainer-hgkb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;U.S. Defense Secretary Pete Hegseth said Friday morning American forces would maintain a blockade of the Strait of Hormuz “for as long as it takes.”&lt;br/&gt;(미국의 피트 헤그세스 국방장관은 금요일 오전 미군이 "필요한 기간 동안" 호르무즈 해협 봉쇄를 유지할 것이라고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;The day before, a senior Iranian official declared on social media that its fighters had been hiding in sea caves in the strait to “devastate the aggressors.”&lt;br/&gt;(전날, 이란 고위 관리는 소셜미디어를 통해 자국 전투기들이 해협 내 해식동굴에 은닉해 "침략자들을 초토화할 준비"를 하고 있다고 선언했다.)&lt;/p&gt;
-&lt;p&gt;Both the United States and Iran have sought to exert control over the Strait of Hormuz since they agreed to a cease-fire. Iran says only ships that have permission from the country’s Islamic Revolutionary Guards Corps will be allowed to pass. The United States Navy says it is intercepting all ships coming from or traveling to Iranian ports.&lt;br/&gt;(미국과 이란은 휴전에 합의한 이후로 호르무즈 해협의 통제권을 놓고 경쟁해왔다. 이란은 이란 이슬람 혁명수비대의 허가를 받은 선박만 통과를 허용하겠다고 밝혔다. 미 해군은 이란 항구를 오가는 모든 선박을 요격하고 있다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-요컨대, 페르시아만 입구에 위치한 이 주요 해상 항로를 누가 장악하고 있는지 알 수 없는 상황이다. 분명한 것은 해협의 운명이 이란-미국 갈등 해결뿐만 아니라 세계 경제에도 중요한 사안이 되었다는 점이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다음은 이 좁은 수로에서 벌어지고 있는 일들에 대해 우리가 알고 있는 내용이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란군은 수요일 해협 인근에서 화물선 2척을 나포했다고 밝혔고, 미군은 금요일 이란 항구 봉쇄를 시작한 이후 34척의 선박을 저지해 되돌려 보냈다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-선박 회사들과 보험사들은 이란이 주요 항로에 기뢰를 부설했을 가능성과 상선을 공격할 수 있다는 점을 우려하고 있다. 이로 인해 페르시아만에 발이 묶인 수백 척의 선박 대부분이 탈출을 시도하지 못하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그럼에도 이란은 자국 선박을 포함한 일부 선박들이 해협을 통과하도록 허용하고 있으며, 이들은 이란 해안선 가까이를 운항하는 경로를 이용해 이란 항구에 기항하기도 한다. 글로벌 선박 추적 업체인 Kpler의 데이터에 따르면 4월 7일 휴전이 처음 발표된 이후 최소 150척의 선박이 해협을 통과했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 해협의 일일 교통량은 여전히 전쟁 전 수준에 크게 못 미친다. 평상시에는 세계 석유 공급량의 약 5분의 1과 상당량의 천연가스가 선박을 통해 이 해협을 통과했다. 수로의 긴장은 세계 에너지 시장을 뒤흔들었고, 원유 가격은 다시 배럴당 100달러에 근접하게 거래되고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Kpler의 데이터에 따르면 목요일에는 단 3척의 선박만이 수로를 건넌 것으로 나타났다. 해양 정보 그룹인 Lloyd's List는 해협에서의 일련의 공격과 나포 사건 이후 교통량이 급감했다고 밝히며, 수요일과 목요일 사이에 단 7척의 선박만이 수로를 통과했으며, 그중 6척은 "이란 무역과 관련된" 선박이라고 전했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-갈등 초기 이란의 정규 해군 대부분이 이스라엘과 미국의 공격으로 파괴되었지만, 이슬람 혁명수비대는 여전히 소형 고속정을 투입해 해상 운송을 방해하고 있다. "모기 함대"로 알려진 이 부대는 주로 미사일과 드론을 통해 해상 운송을 교란하도록 설계되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-또한 이란은 전쟁 전에는 선박이 통과할 수 있는 두 개의 잘 정비된 항로(하나는 페르시아만으로 들어가는 항로, 다른 하나는 나가는 항로)가 있던 해협 구역에 기뢰를 부설했다고 밝혔다. 이로 인해 선박들은 이란에 더 가깝고 이란군이 통제하기 쉬운 통로로 강제로 진입하게 되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-테헤란은 최근 사전 승인된 항로에 대한 허가증 확보를 포함하여 수로 통과 규정을 시행했다. 또한 이란 관리들은 의회에 해협 통과를 원하는 선박에 통행료를 부과하는 법안을 제출했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-도널드 트럼프 대통령은 이란과 미국이 지속 가능한 평화 협정에 합의할 때까지 미 해군이 봉쇄를 유지할 것이라고 밝혔다. 이란은 봉쇄 해제를 협상 재개의 조건으로 내세웠다.
-&lt;&lt;&lt;PARA&gt;&gt;
-충분한 항공 지원과 해협 남동쪽 오만만과 아라비아해를 샅샅이 뒤지는 군함 함대를 보유한 미 해군은 이란 항구를 떠나는 상선들을 추적하고 이를 통과하는 선박들과 대치하여 되돌려 보내거나 승선을 강요하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-헤그세스 장관은 금요일 34척의 선박이 요격되어 되돌려 보내졌다고 밝혔다. 댄 케인 장군은 금요일, 일요일 미 봉쇄를 피해 달아나려다 해군의 함포 사격으로 무력화된 이란 국적 화물선 투스카호가 4월 19일 아라비아해에서 선원들과 함께 미군에 나포되었다고 밝혔다. 이란은 이 나포를 해적 행위라고 비난했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미군은 어떠한 이란 선박도 자체 그물망을 통과하지 못했다고 밝혔지만, Lloyd's List의 분석가들은 4월 13일 이후 이란과 관련된 최소 7척의 선박이 호르무즈 해협과 광범위한 봉쇄망을 통과하는 데 성공했다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일부 선박들은 허위 출발지나 목적지를 입력하거나 다른 선박인 척 가장하여 봉쇄를 피하는 데 성공했다. 선박들은 또한 잠시 선박자동식별장치를 꺼서 한 장소에서 사라진 것처럼 보이다가 다른 장소에 나타나기도 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-존 이스메이, 헬렌 쿠퍼, 피터 에이비스, 제니 그로스가 보도에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/24/world/middleeast/iran-us-strait-of-hormuz-blockade.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/23/multimedia/23israel-iran-explainer-hgkb/23israel-iran-explainer-hgkb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 24 Apr 2026 15:28:36 +0000</pubDate></item><item><title>Escalating Clashes Test Newly Extended Israel-Lebanon Truce (격화되는 충돌, 새로 연장된 이스라엘-레바논 휴전 협정 시험대에 올리다)</title><link>https://www.nytimes.com/2026/04/24/world/middleeast/israel-lebanon-fighting-ceasefire.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/24/multimedia/24israel-iran-lebanon-topart-gcbt/24israel-iran-lebanon-topart-gcbt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Clashes between Israel and Hezbollah intensified on Friday despite a newly extended cease-fire announced just the day before. The fighting cast doubt on the truce as Lebanon and Israel prepare for higher-level peace negotiations.&lt;br/&gt;(이스라엘과 헤즈볼라 간의 충돌이 금요일에 격화되며, 불과 하루 전 발표된 새로 연장된 휴전 협정에도 불구하고 상황이 악화됐다. 이 전투는 레바논과 이스라엘이 더 높은 수준의 평화 협상을 준비하는 가운데 휴전 협정에 의문을 제기했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 대통령은 목요일 백악관에서 이스라엘과 레바논 외교관들을 접견한 후 휴전 협정의 3주 연장을 발표했다. 이스라엘이 표적으로 삼고 있는 이란 지원 단체 헤즈볼라는 미국 중재 협상에 참여하지 않았지만, 이스라엘이 같은 조치를 취할 경우 휴전 협정을 준수할 의사를 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 분쟁으로 레바논에서 약 2,500명이 사망했다. 이스라엘에서는 민간인 2명과 군인 15명이 사망했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난주 원래 휴전 협정이 발표된 이후 이스라엘과 헤즈볼라의 공격은 크게 줄었지만, 양측은 반복적으로 교전을 벌여 휴전이 다시 전면전으로 붕괴될 수 있다는 우려를 키우고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“휴전? 드론이 여전히 우리 머리 위에 맴도는데 무슨 휴전이란 말인가? 우리가 여전히 우리의 병사들과 사랑하는 사람들을 잃고 있는데 무슨 휴전이란 말인가?”라고 금요일 레바논 남부 카나 마을에서 분쟁 중 사망한 응급 구조원인 남편의 묘지를 방문한 49세의 파티마 알-마스리가 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“우리는 이 전쟁이 끝나길 바란다”고 그녀는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-최근 분쟁은 지난달 헤즈볼라가 이란을 지원하기 위해 이스라엘에 로켓을 발사하면서 시작됐으며, 이는 대규모 이스라엘 폭격 캠페인과 레바논 남부 지상 침공을 촉발했다. 이스라엘군은 여전히 레바논 남부의 넓은 지역에 배치되어 있으며, 이스라엘 관리들은 무기한 점령할 계획이라고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘은 금요일 작전을 확대한 것으로 보이며, 레바논 남부 도시 데이르 아메스에 대피 경고를 발령한 후 몇 시간 뒤 공습을 시작했다. 이 도시는 이스라엘이 휴전 기간 중 통제하겠다고 밝힌 6마일 깊이의 “전방 방어선” 너머에 위치해 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘군은 성명에서 헤즈볼라가 목요일 이 도시에서 북부 이스라엘을 향해 로켓을 발사했다고 밝혔다. 헤즈볼라는 또한 금요일 레바논 남부에 있는 이스라엘군을 향해 다시 드론을 발사했다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘의 국방장관 이스라엘 카츠는 휴전 기간 중 국경 마을과 촌락의 철거를 계속하겠다고 약속했다. 이 지역에서 수십만 명의 레바논인이 피난을 떠났다.
-&lt;&lt;&lt;PARA&gt;&gt;
-목요일 워싱턴에서 열린 최근 협상 라운드에서 레바논은 이러한 철거 중단을 요구했다고, 협상 내용을 전해들은 익명을 요구한 한 고위 레바논 관리가 민감한 외교를 논의하기 위해 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-헤즈볼라는 금요일 휴전 상태에 대해 경멸을 표현하며 이스라엘 군사 작전의 지속을 지적하고 무력 대응 약속을 재확인했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-헤즈볼라 의회 블록의 지도자 모하마드 라드는 성명에서 휴전 협정이 “전혀 휴전이 아니다”라며 레바논 정부에 이스라엘과의 직접 협상을 취소할 것을 촉구했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“당국은 국민 앞에서 부끄러워해야 한다”고 라드는 말하며, 이미 뜨겁게 달아오르고 있는 레바논 정부와 통제하지 못하는 헤즈볼라 간의 긴장을 더욱 고조시켰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 주 초 이스라엘의 공격으로 레바논 남부에서 기자 한 명이 사망하고 다른 한 명이 부상을 입었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난주 국무부가 발표한 휴전 협정은 이스라엘이 레바논에서 “공세적 군사 작전”을 중단하지만 “계획된, 임박한, 또는 진행 중인 공격에 대해 언제든지 자위를 위해 필요한 모든 조치를 취할 권리를 보유한다”고 규정했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘의 베냐민 네타냐후 총리는 금요일 발표된 녹화된 영상 성명에서 헤즈볼라가 이스라엘과 레바논 간의 평화 노력을 “방해”하려 한다고 비난하며, 이 단체에 대한 공격을 중단할 의사가 없음을 시사했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“우리는 모든 위협, 즉 신흥 위협을 포함한 모든 위협에 대해 완전한 행동의 자유를 유지하고 있다”고 그는 말했다. “우리는 어제 공격했고, 오늘도 공격했다. 우리는 북부 주민들의 안전을 회복하기로 결심했다.”)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/24/world/middleeast/israel-lebanon-fighting-ceasefire.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/24/multimedia/24israel-iran-lebanon-topart-gcbt/24israel-iran-lebanon-topart-gcbt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 24 Apr 2026 09:56:29 +0000</pubDate></item><item><title>Britain and Spain Reject Reported Plans by Trump to Punish Them (영국과 스페인, 트럼프의 처벌 계획 보도 거부)</title><link>https://www.nytimes.com/2026/04/24/world/europe/trump-britain-spain-falklands.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/24/multimedia/24int-trump-global-reax-01-ckzf/24int-trump-global-reax-01-ckzf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Britain and Spain pushed back against Washington on Friday in response to a report that the Trump administration is considering whether to punish the two nations over their failure to offer full-throated support for the war against Iran.&lt;br/&gt;(영국과 스페인이 금요일 워싱턴에 반발했다. 트럼프 행정부가 이란 전쟁에 대한 전폭적인 지지를 표명하지 않았다는 이유로 두 국가를 처벌하는 방안을 검토 중이라는 보도에 따른 것이다.)&lt;/p&gt;
-&lt;p&gt;An internal Pentagon email, reported by the Reuters news agency, suggested that options under review include withdrawing American support for Britain’s sovereignty over the Falkland Islands — which are also claimed by Argentina — and seeking to suspend Spain from NATO.&lt;br/&gt;(로이터 통신이 보도한 국방부 내부 이메일에는 검토 대상 옵션으로 아르헨티나도 영유권을 주장하는 포클랜드 제도에 대한 영국의 주권 지지를 철회하고 스페인을 NATO에서 제명하는 방안이 포함된 것으로 알려졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-국방부는 성명에서 로이터 보도나 그 안에서 논의된 옵션에 대해 직접적으로 언급하지 않았지만, 대변인 킹슬리 윌슨은 "미국이 나토 동맹국을 위해 모든 것을 했음에도 불구하고, 그들은 우리 편에 서지 않았다"며 "전쟁부는 대통령이 동맹국이 더 이상 무용지물이 아니라 제 역할을 다하도록 신뢰할 수 있는 옵션을 갖도록 보장할 것"이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 보도는 국제법을 경시하고 NATO의 가치에 의문을 제기하며 이란과의 전쟁에 동참하지 않은 동맹국을 질책해 온 행정부의 일련의 발언 이후 나온 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아르헨티나 해안에서 수백 마일 동쪽에 위치한 군도인 포클랜드에 대한 영국의 주권에 의문을 제기하는 것은 중대한 외교적 모욕이 될 수 있으며, 영국과의 대서양 횡단 긴장을 고조시킬 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-1982년, 당시 영국 총리였던 마거릿 대처는 당시 군사 독재자 레오폴도 갈티에리가 이끌던 아르헨티나가 섬을 침공한 후 이를 되찾기 위해 해군 기동부대를 남대서양으로 보냈다.
-&lt;&lt;&lt;PARA&gt;&gt;
-로이터 보도에 대해 영국 총리 키어 스타머의 대변인은 금요일 "영국 정부의 입장은 이보다 더 명확할 수 없다"며 "주권은 영국에 있으며 섬 주민들의 자결권이 가장 중요하다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다우닝 스트리트는 포클랜드 제도 주민들이 이전에 압도적인 다수로 영국 해외 영토로 남는 것에 찬성 투표를 했다고 언급했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 논란은 찰스 3세 국왕이 월요일부터 시작되는 미국 국빈 방문을 준비하는 민감한 시기에 발생했다. 영국 야당 대표 케미 베이덕은 스카이 뉴스와의 인터뷰에서 섬의 주권에 대한 어떠한 도전도 "완전히 말도 안 되는 소리"라며, 영국은 "영국 주권 영토를 보호하는 데 매우 단호해야 한다"고 말했으며, "여기에는 포클랜드 제도가 포함된다"고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 대통령은 러시아와의 분쟁에서 우크라이나에 대한 미국의 지원을 제한하고, 나토 동맹국인 덴마크의 자치령인 그린란드에 대한 영유권을 주장함으로써 일부 유럽 동맹국들을 놀라게 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-워싱턴이 이란에 대한 군사적 공격을 시작한 이후, 트럼프 대통령은 처음에 미국이 영국 공군 기지를 사용하는 것을 거부했던 스타머에 대한 불만을 숨기지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란이 군사적으로 대응한 후, 영국은 물러서서 미국이 호르무즈 해협이나 영국 기지 및 동맹국을 위협하는 이란 현장에 대한 일부 공격을 영국 비행장에서 수행하는 것을 허용했다. 그러나 이는 트럼프 대통령을 달래지 못했으며, 그는 최근 스타머를 "윈스턴 처칠이 아니다"라고 묘사했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-대조적으로, 아르헨티나의 하비에르 밀레이 대통령은 트럼프 대통령의 가까운 동맹이자 이념적 지지자이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스페인은 영국보다 이란 전쟁에 대해 더 분명한 입장을 취해 왔으며, 스페인 총리 페드로 산체스는 금요일 이에 대해 사과하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 이메일로 일하지 않습니다." 이란 공격을 위해 미국이 스페인 영토 내 공군 기지를 사용하는 것을 거부한 산체스는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 공식 문서와 정부 입장, 이 경우 미국의 입장을 기준으로 일합니다."라고 그는 말했다. "스페인의 입장은 절대적으로 명확합니다. 동맹국과의 협력, 하지만 항상 국제법 내에서입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-일부에서는 NATO 내 스페인의 지위에 대한 어떤 위협의 실현 가능성에 의문을 제기한다. 군사 동맹의 창설 조약은 "NATO 회원국의 자격 정지 또는 추방에 대한 어떠한 규정도 예상하지 않는다"고 동맹 관계자가 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아르헨티나에서는 포클랜드에 대한 입장 변화 가능성에 대한 소식이 정부에 의해 환영받았다. "우리는 말비나스가 아르헨티나의 것이 되도록 인간적으로 가능한 모든 것을 하고 있습니다." 밀레이 대변인 하비에르 라나리가 로이터 보도에 대한 질문에 답하며 왓츠앱 메시지에서 말했다. 그는 "우리는 그 어느 때보다도 진전을 이루고 있습니다."라고 덧붙였다. 아르헨티나는 이 섬들을 스페인어 이름인 말비나스로 부른다.
-&lt;&lt;&lt;PARA&gt;&gt;
-목요일, 밀레이는 자유지상주의 스트리밍 채널인 노이라 미디어와의 인터뷰에서 같은 주장을 하며 "주권은 협상 대상이 아니다"라고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 섬들에 대한 아르헨티나의 영유권 주장에 대한 지지는 트럼프 대통령이 한때 "가장 좋아하는 대통령"이라고 불렀던 아르헨티나 지도자에게 또 다른 중요한 힘이 될 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난 가을, 미국은 아르헨티나에 주요 중간선거를 앞두고 200억 달러의 생명줄을 제공했으며, 이는 밀레이의 선거 성공에 크게 기여한 것으로 널리 알려져 있다. 밀레이는 또한 국제 포럼에서 미국을 일관되게 지지해 왔으며, 지난 주 이스라엘을 방문하는 동안 이란 전쟁에 대한 확고한 지지를 표명했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-마이클 D. 셰어, 카를로스 바라간, 스티븐 얼랭어, 헬렌 쿠퍼, 에릭 슈미트가 보고에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/24/world/europe/trump-britain-spain-falklands.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/24/multimedia/24int-trump-global-reax-01-ckzf/24int-trump-global-reax-01-ckzf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 26 Apr 2026 03:13:57 +0000</pubDate></item><item><title>As Putin Orders That the Economy Be Fixed, Russia Grasps for Solutions (푸틴, 경제 회생 명령 내리자 러시아, 해결책 모색에 나서)</title><link>https://www.nytimes.com/2026/04/24/world/europe/russia-economy.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/24/multimedia/24int-russia-economy-ghtk/24int-russia-economy-ghtk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The central bank of Russia further reduced its benchmark interest rate on Friday, trying to find a way to revive the country’s economy after President Vladimir V. Putin scolded officials over its lackluster performance.&lt;br/&gt;(러시아 중앙은행은 금요일 기준금리를 추가 인하하며 블라디미르 V. 푸틴 대통령이 부진한 경제 성과를 질책한 후 경제 회생 방안을 모색하고 있다.)&lt;/p&gt;
-&lt;p&gt;The huge costs of the war in Ukraine have left Russia in a bind. Starting last June, the Bank of Russia has made a series of rate cuts — including a reduction to 14.5 percent from 15 percent on Friday — in hopes of encouraging growth. But as it dials down rates, it risks stoking inflation that is already elevated because of overspending on the war.&lt;br/&gt;(우크라이나 전쟁의 막대한 비용으로 러시아는 곤경에 빠졌다. 지난 6월부터 러시아 중앙은행은 성장 촉진을 기대하며 일련의 금리 인하(금요일 15%에서 14.5%로 인하 포함)를 단행했다. 그러나 금리를 낮추면 전쟁 과잉 지출로 이미 높은 인플레이션을 자극할 위험이 있다.)&lt;/p&gt;
-&lt;p&gt;Russia has benefited in recent weeks from an increase in oil prices caused by the war in the Middle East. Still, its economy stands on the precipice of crisis because of the high interest rates and Western sanctions that have limited energy export revenues. After years of growth fueled by the war, Russia’s economy contracted by 1.8 percent in the first two months of the year, compared with the same period in 2025.&lt;br/&gt;(러시아는 최근 중동 전쟁으로 인한 유가 상승으로 이득을 보았다. 그럼에도 불구하고 높은 금리와 에너지 수출 수익을 제한하는 서방 제재로 인해 경제는 위기 직전에 서 있다. 전쟁으로 인한 수년간의 성장 이후, 러시아 경제는 올해 첫 두 달 동안 2025년 같은 기간에 비해 1.8% 위축되었다.)&lt;/p&gt;
-&lt;p&gt;Last week, Mr. Putin ordered his top economic officials to act to improve the situation. Speaking in the Kremlin, Mr. Putin said he wanted to “hear detailed reports today on the current economic situation and on why the trajectory of macroeconomic indicators is currently falling short of expectations.”&lt;br/&gt;(지난주 푸틴 대통령은 경제 고위 관리들에게 상황 개선을 위한 조치를 취하라고 명령했다. 크렘린궁에서 연설한 푸틴 대통령은 "현재 경제 상황과 거시경제 지표의 궤적이 기대에 미치지 못하는 이유에 대해 오늘 상세한 보고를 듣고 싶다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;“I look forward to hearing proposals for additional measures aimed at restoring growth in the domestic economy,” Mr. Putin added.&lt;br/&gt;(푸틴 대통령은 또한 "국내 경제 성장 회복을 목표로 한 추가 조치에 대한 제안을 기대한다"고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;His comments acknowledged increasing concern inside the Kremlin about the economy. In December, Mr. Putin had called the economic slowdown “a price paid for maintaining the quality of the economy and macroeconomic indicators.”&lt;br/&gt;(그의 발언은 크렘린궁 내부에서 경제에 대한 우려가 커지고 있음을 인정한 것이다. 지난 12월, 푸틴 대통령은 경제 둔화를 "경제 질과 거시경제 지표를 유지하기 위해 치른 대가"라고 부른 바 있다.)&lt;/p&gt;
-&lt;p&gt;Russia has had some relief because of the windfall from the war in Iran. Russian oil revenues nearly doubled in March from the month before, a report by the International Energy Agency said last week.&lt;br/&gt;(러시아는 이란 전쟁으로 인한 횡재 덕분에 일부 완화를 누렸다. 국제에너지기구(IEA)의 보고서에 따르면 지난주 3월 러시아 석유 수익은 전월 대비 거의 두 배로 증가했다.)&lt;/p&gt;
-&lt;p&gt;According to Argus Media, a price reporting agency used by the Russian government to calculate its oil extraction taxes, the average price of Russian crude has increased by more than 30 percent in April.&lt;br/&gt;(러시아 정부가 석유 채굴세를 계산하는 데 사용하는 가격 보고 기관인 아르거스 미디어(Argus Media)에 따르면, 4월 러시아 원유 평균 가격은 30% 이상 상승했다.)&lt;/p&gt;
-&lt;p&gt;Russia calculates its oil taxes using a complex formula with a one-month lag and has yet to release official data for March.&lt;br/&gt;(러시아는 한 달 시차가 있는 복잡한 공식을 사용해 석유 세금을 계산하며, 3월 공식 데이터는 아직 발표하지 않았다.)&lt;/p&gt;
-&lt;p&gt;Russia has also benefited from increases in the prices of other resources, including gas, fertilizers and aluminum.&lt;br/&gt;(러시아는 가스, 비료, 알루미늄 등 다른 자원 가격 상승으로도 이득을 보았다.)&lt;/p&gt;
-&lt;p&gt;Citing higher commodity prices, the International Monetary Fund last week raised its forecast for Russia’s economic growth to 1.1 percent from 0.8 percent.&lt;br/&gt;(상품 가격 상승을 이유로 국제통화기금(IMF)은 지난주 러시아의 경제 성장 전망을 0.8%에서 1.1%로 상향 조정했다.)&lt;/p&gt;
-&lt;p&gt;While the Russian government pondered cutting expenditures this year before the war in Iran, the Russian Finance Ministry announced on Thursday that it would resume buying foreign currency and gold to add money to the country’s rainy day fund.&lt;br/&gt;(러시아 정부가 이란 전쟁 전에 올해 지출 삭감을 고려했던 반면, 러시아 재무부는 목요일 비상 자금을 확충하기 위해 외화와 금 매입을 재개하겠다고 발표했다.)&lt;/p&gt;
-&lt;p&gt;Still, the reprieve does not rectify the structural difficulties facing the Russian economy. Because of the war in Ukraine, Moscow cannot stop its overspending. The predicament fuels inflation — which currently stands at 5.9 percent — which means interest rates must remain high. And just as Russia benefits from rising energy prices, the oil crunch also risks a further boost in inflation.&lt;br/&gt;(그러나 이러한 일시적 완화가 러시아 경제의 구조적 어려움을 해결하지는 못한다. 우크라이나 전쟁 때문에 모스크바는 과잉 지출을 멈출 수 없다. 이러한 곤경은 현재 5.9%인 인플레이션을 부추겨 금리를 높게 유지해야 한다. 그리고 러시아가 에너지 가격 상승으로 이익을 보는 동시에, 석유 부족은 인플레이션을 더욱 자극할 위험도 있다.)&lt;/p&gt;
-&lt;p&gt;The signs of an unfolding crisis are manifold. Most Russian companies do not plan to expand their staffs until the end of the year, according to data released by the central bank last week. At the end of last year, the number of people working part time or on standby rose to the highest level since the pandemic, the regulator said.&lt;br/&gt;(다가오는 위기의 징후는 다양하다. 중앙은행이 지난주 발표한 데이터에 따르면, 대부분의 러시아 기업들은 연말까지 인력 확충 계획이 없다. 규제 기관은 지난해 말 시간제 또는 대기 근무자 수가 팬데믹 이후 최고 수준으로 증가했다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;In April, the Russian Finance Ministry reported that the national budget deficit exceeded $60 billion in the first three months of the year, surpassing the deficit projected for all of 2026.&lt;br/&gt;(4월, 러시아 재무부는 올해 첫 3개월 동안 국가 예산 적자가 600억 달러를 초과해 2026년 전체 예상 적자를 넘어섰다고 보고했다.)&lt;/p&gt;
-&lt;p&gt;Increasing economic pressure has started to spill into the country’s politics. On Friday, VTsIOM, a state-run pollster, reported that Mr. Putin’s approval rating had fallen for the seventh consecutive week, to 65.6 percent, its lowest level since the invasion of Ukraine in 2022.&lt;br/&gt;(증가하는 경제적 압박이 국가 정치로 번지기 시작했다. 금요일, 국영 여론조사 기관 VTsIOM은 푸틴 대통령의 지지율이 7주 연속 하락해 65.6%로 2022년 우크라이나 침공 이후 최저치를 기록했다고 발표했다.)&lt;/p&gt;
-&lt;p&gt;On Tuesday, Gennady Zyuganov, the head of the Communist Party in the State Duma, the lower house of the Russian Parliament, warned that if the government did not improve the economic situation, “by fall we will face what happened in 1917,” referring to the deposing of the Russian monarchy.&lt;br/&gt;(화요일, 러시아 하원인 국가두마(State Duma)의 공산당 대표 겐나디 주가노프는 정부가 경제 상황을 개선하지 않으면 "가을이 되면 1917년에 일어난 일(러시아 군주제 폐위)에 직면할 것"이라고 경고했다.)&lt;/p&gt;
-&lt;p&gt;But Russian experts said that while the downturn was real, the country’s economy was still far from cracking. Should the oil windfall continue, Russia could markedly reduce its deficit, easing the pressure on the country’s finances.&lt;br/&gt;(그러나 러시아 전문가들은 경기 침체가 현실적이지만, 경제가 아직 붕괴 직전은 아니라며 석유 횡재가 지속된다면 러시아가 재정 적자를 크게 줄여 국가 재정 압박을 완화할 수 있다고 말했다.)&lt;/p&gt;
-&lt;p&gt;“The Russian economy has entered yet another trouble zone,” said Natalia V. Zubarevich, an economist in Moscow. “We don’t know how long it will last, though it will likely be quite protracted.”&lt;br/&gt;(모스크바의 경제학자 나탈리아 V. 주바레비치는 "러시아 경제가 또 다른 난국에 빠졌다"며 "얼마나 오래 지속될지는 모르지만, 상당히 장기화될 가능성이 크다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;“This isn’t a ‘fall down, get back up’ kind of crisis — the nature of this downturn is different,” she added. “But again, it is not fatal.”&lt;br/&gt;(그녀는 "이것은 '넘어졌다 일어나는' 종류의 위기가 아니다. 이번 경기 침체의 성격은 다르다"며 "하지만 다시 말해, 치명적이지는 않다"고 덧붙였다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/24/world/europe/russia-economy.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/24/multimedia/24int-russia-economy-ghtk/24int-russia-economy-ghtk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 24 Apr 2026 08:07:52 +0000</pubDate></item><item><title>A New Idea to Save the Climate? Dam the Bering Strait. (기후를 구할 새로운 아이디어? 베링 해협에 댐을 건설하라.)</title><link>https://www.nytimes.com/2026/04/24/climate/amoc-bering-strait-dam.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/24/climate/24cli-amoc/24cli-amoc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 27 Apr 2026 14:42:38 +0000</lastBuildDate><item><title>A New Idea to Save the Climate? Dam the Bering Strait. (기후를 구할 새로운 아이디어? 베링 해협에 댐을 건설하라.)</title><link>https://www.nytimes.com/2026/04/24/climate/amoc-bering-strait-dam.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/24/climate/24cli-amoc/24cli-amoc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Brightening clouds. Refreezing the Arctic. Floating a giant parasol in outer space. To the ranks of out-there ideas for countering climate change, two Dutch scientists have added this: building a 50-mile-long dam across the Bering Strait, the shallow waterway that separates Russia and Alaska.&lt;br/&gt;(구름 밝게 하기. 북극 재빙하화. 우주에 거대한 파라솔 띄우기. 기후 변화에 대응하는 엉뚱한 아이디어 목록에 네덜란드 과학자 두 명이 새로운 것을 추가했다: 러시아와 알래스카를 나누는 얕은 수로인 베링 해협을 가로질러 50마일 길이의 댐을 건설하는 것이다.)&lt;/p&gt;
 &lt;p&gt;In a study published on Friday in the journal Science Advances, the researchers show that, under certain conditions, such a dam could prevent a collapse of a network of ocean currents, known as the AMOC, that plays a central role in regulating Earth’s climate.&lt;br/&gt;(금요일 《사이언스 어드밴시스》 저널에 발표된 연구에서 연구자들은 특정 조건에서 그러한 댐이 지구 기후 조절에 핵심적인 역할을 하는 해류 네트워크(AMOC)의 붕괴를 막을 수 있음을 보여준다.)&lt;/p&gt;
 &lt;p&gt;The AMOC (pronounced AY-mock) has weakened in recent decades, and a growing body of evidence suggests human-caused warming could someday cause it to shut down or slow significantly, with grave effects on the weather on multiple continents.&lt;br/&gt;(AMOC(에이-목으로 발음)는 최근 수십 년간 약화되었으며, 점점 더 많은 증거에 따르면 인간이 초래한 온난화가 언젠가 이를 멈추거나 크게 늦춰 여러 대륙의 날씨에 심각한 영향을 미칠 수 있음을 시사한다.)&lt;/p&gt;
@@ -955,7 +819,109 @@ JNIM은 2017년에 설립되었으며, 아랍어로 "이슬람과 무슬림 지�
 "대통령이나 고위 인사가 나서서 말리 국민에게 말해주길 바랍니다."라고 사업가 압둘라예가 말했다. "그러면 말리인들을 진정시키고 안심시킬 수 있을 것입니다."
 &lt;&lt;&lt;PARA&gt;&gt;
 사이쿠 자메가 다카르에서 보도에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/africa/mali-attacks-jnim-al-qaeda-bamako.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25int-mali-htgc/25int-mali-htgc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 14:24:57 +0000</pubDate></item><item><title>What to Know About King Charles and Queen Camilla’s State Visit to the U.S. (찰스 국왕과 카밀라 왕비의 미국 국빈 방문에 대해 알아야 할 사항)</title><link>https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-uk-royals-wtk-kbcz/26int-uk-royals-wtk-kbcz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/25/world/africa/mali-attacks-jnim-al-qaeda-bamako.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/25/multimedia/25int-mali-htgc/25int-mali-htgc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 14:24:57 +0000</pubDate></item><item><title>How a Pop Star’s Portrait Launched the Career of an Unknown Spanish Artist (팝스타의 초상화가 무명 스페인 화가의 커리어를 어떻게 시작시켰나)</title><link>https://www.nytimes.com/2026/04/26/world/europe/nieves-gonzalez-lily-allen-artist-west-end-girl-spain.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-spain-aritst-profile-promo-bwkt/26int-spain-aritst-profile-promo-bwkt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The shushing of brush strokes stopped as Nieves González, painting her latest Baroque-style portrait of a woman in a contemporary puffer jacket, paused to chitchat with a fellow artist in their studio in southern Spain.&lt;br/&gt;(붓질 소리가 멈추었다. 니에베스 곤살레스가 남부 스페인의 작업실에서 동료 화가와 잡담을 나누기 위해 현대식 패딩 점퍼를 입은 여인의 바로크 양식 초상화 작업을 잠시 멈춘 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 항상 수다를 떨어요." 초록색 스웨터에 물감이 튀고 얼굴에 코걸이가 반짝이는 곤살레스가 웃으며 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 최근 스페인 미술계에서 오가는 이야깃거리의 상당 부분은 곤살레스 자신에 관한 것이다. 작년, 영국 가수 릴리 앨런이 곤살레스(29)를 인스타그램 속 푸른 화면에서 발탁해 자신의 최신 앨범 커버를 그리게 했다. 음반 '웨스트 엔드 걸'은 히트를 쳤고, 곤살레스 역시 신문 아트넷이 "하룻밤 사이에 탄생한 미술계 센세이션"이라고 부른 존재가 되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+곤살레스가 물방울 무늬 패딩 점퍼를 입힌 앨런의 이미지는 스포티파이, 광판, 심지어 지미 팰런의 심야 토크쇼 책상 위에서 수백만 회 조회되었다. 3월에는 내셔널 초상화 갤러리 런던이 이 그림을 공개하며 "오늘날 회화의 가장 설득력 있는 목소리 중 하나"라고 칭했고, 이 작품은 데이비드 호크니의 작품과 같은 방에 걸리게 될 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"제 꿈이에요." 곤살레스가 최신작에서 진홍색 패딩 코트를 재빨리 채색하며 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이런 패딩 점퍼들은 곤살레스 작품의 전형적인 특징으로, 그녀의 작품은 옛 거장들의 작품을 연상시키는 자연 풍경 속에 천상적이거나 성서적인 뮤즈들이 당당하게 앉아 있는 모습을 담는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 전형적으로 화려한 분홍색, 하얀색, 파란색 누빔 재킷으로 대상들을 입히고, 또한 그들에게 더 많은 주체성과 주인공 에너지를 부여함으로써 수백 년 된 그 미학을 뒤집는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+6월에 로스앤젤레스에서 자신의 작품을 전시할 예정이지만, 수집가들은 그림이 이미 모두 매진되었다고 불평한다. 곤살레스의 빌바오 기반 화상 세르히오 가르시아는 그녀의 궤적을 "부릉, 부릉, 부르릉!"이라고 묘사했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+어떤 이들에게 곤살레스의 떠오르는 별은 그녀의 나라가 새롭게 얻은 문화적 활기를 반영한다. 다른 이들에게 그녀의 수백 년 된 스페인 바로크 미학 안에서의 현대적인 푹신한 의상 사용은 과거와 현재의 협상을 말해준다. 그녀의 친구들에게 곤살레스가 정말로 외치는 것은 남부 스페인의 진정성이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+에너제틱하고 수다스러운 그녀는 좋아하는 안달루시아 별미를 보며 기쁨에 박수를 친다. 우리가 그라나다 거리를 걸을 때, 그녀는 모든 사람을 알고, 모든 사람과 이야기하는 것 같았다. 길모퉁이에서 친구들과 수다를 떨고, 꽃집, 네일숍, 레코드 가게의 여성들에게 손을 흔들며 인사했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"1년 만에, 나는 이 도시의 여왕이야." 그녀는 농담을 하며, 실제로는 항상 길을 잃는다고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 고향에 계신 할아버지가 전화를 걸자 입맞춤을 보냈고, 관광객 미술관 앞에서는 "해시태그 컨템포러리 아트"라고 속삭였다. 한 순간, 그녀는 작업실에 걸린 달력에 나온 통통한 수도사와 닮았다는 농담을 너무 많이 한다고 항의한 남자친구에게 "아모르" — "사랑" — 라고 안심시키며 불렀다. 그녀는 그와 함께 작은 광산 고향인 우엘바 외곽에 시골집을 사는 것보다 더 바라는 것이 없다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"사람들이 저에게 묻곤 해요, '그래서 당신의 목표가 뭔데, 무엇이 되려는 거야?'" 그녀가 작업실에서 말했다. "저는 이미 제 목표를 이뤘다고 생각해요, 제 예술로 생계를 유지하는 것 말이에요."
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 캔버스에서 물러나 18번째 생일에 받았던 오래된 노트북의 이미지를 확인했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+곤살레스는 실제 모델이나 사진을 그리는 대신 그 노트북의 AI 시스템을 사용하여 합성 디지털 이미지를 생성한다. 이러한 혼합물은 바로크 초상화, 그녀의 스케치, 그리고 가장 최근 시리즈에서는 에르메스가 그녀를 파리 패션쇼에 초대했을 때 찍은 런웨이 사진들을 조합하여 만들어진다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀가 "프랑켄슈타인"이라고 부르는 이 디지털 콜라주들은 그녀가 그리는 초상화의 영감이 된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+모델들은 가상이지만, 가끔 완성된 초상화에서 자신의 얼굴 흔적을 본다고 그녀는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+얼마 전까지만 해도 이런 초상화들로 생계를 유지하는 것이 불가능해 보였다고 그녀는 말했다. "하지만 우리는 여기 있어요." 그녀가 말했다. "마치 제가 항상 꿈꿔왔던 것인데, 50배는 더 큰 거예요."
+&lt;&lt;&lt;PARA&gt;&gt;
+곤살레스는 우엘바에서 노동자 계층 가정에서 태어나 자랐다. 그녀는 어린 시절 어머니가 그녀의 간청에 굴복하여 빈센트 반 고흐의 '해바라기' 시리즈 테마의 그림 세트를 사주면서 그림 그리기를 시작했다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"왜 그날 어머니가 '그래'라고 말씀하셨는지 모르겠어요." 곤살레스가 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀가 가장 좋아하는 색은 노란색이 되었는데, "미친 사람들이 가장 좋아하는 색"이라고 그녀는 말했다. 17세에 그녀는 세비야 대학교 미술 학부에 등록했다. 그곳은 화가 디에고 벨라스케스와 한동안 프란시스코 데 수르바란의 도시로, 두 화가 모두 그녀에게 큰 영향을 미쳤다. 그녀는 고전 회화 교육을 받고 세비야 미술 시장에서 외국인에게 초상화를 팔고 우엘바의 결혼식 손님 캐리커처를 그려 용돈을 벌었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+세비야에서 미술 석사 학위를 받은 후, 그녀는 우엘바의 화장품 매장에서 일하고 있었고 그곳을 벗어나고 싶었다. 그녀는 이탈리아 친구들이 있었고 언어에 귀가 열려 있었기에 이탈리아에 도전해 북부에서 "두 마귀"의 베이비시터로 일한 후 남부 아퀼라로 도피하여 결국 치과 조수 일자리를 제안받았다. "저요?" 그녀가 말했다. "이에 대해 아무것도 모르는데요."
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 자신이 전혀 모르는 일을 외국 땅과 언어로 직업을 얻을 수 있다면, 아마 집으로 돌아가 자신이 가장 잘하는 일에 도전해야 한다는 것을 깨달았다. 그녀는 화가가 되기 위해 1년의 시간을 자기 자신에게 주었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+우엘바로 돌아와 그녀는 초상화 작업을 하며 미술 수업을 가르쳤다. 우엘바의 새 박물관 개관을 위해 바로크 거장의 작품 사본을 한 시간 만에 스케치했다. 갤러리들이 그녀의 작품을 전시하기 시작했다. 그녀의 초상화로 가득 찬 인스타그램 페이지는 팔로워를 얻기 시작했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+작년, 그녀는 지역을 가로질러 그라나다로 남자친구이자 동료 예술가인 아구스 디아스 바스케스와 함께 이사했다. 그녀는 보통 물감 냄새가 가득한 축축한 지하 작업실에서 동료 화가들과 함께 점심을 먹었는데, 그들은 농담을 좋아하는 무리로 카드 게임에서 그녀를 이겨먹는 것을 즐겼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+어느 날 그곳에서 그녀는 예상치 못한 메시지를 받았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+릴리 앨런의 앨범 크리에이티브 디렉터인 리스 클라크가 곤살레스의 페이지를 발견했다. 그녀는 곤살레스의 작품을 앨런에게 전달했는데, 그중에는 백조를 안고 있는 파란 패딩 점퍼를 입은 성스러운 인물의 그림도 포함되어 있었고, 상사가 어떻게 생각하는지 물었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"뭔지 알 때가 있잖아요." 이 과정에 참여한 앨런의 프로듀서이자 가까운 동료인 세브 츄가 말했다. "전에는 이런 걸 본 적이 없어요."
+&lt;&lt;&lt;PARA&gt;&gt;
+앨런의 팀은 누구를 위해 일하는지 밝히지 않은 채 곤살레스에게 연락했다. 하지만 화가는 작업에 바빴고, 그들이 원하는 것을 이해하지 못해 메시지를 무시했다. 그러자 앨런의 팀은 "매우 유명한 사람"을 위한 앨범 커버를 찾고 있다고 강조했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+곤살레스는 곧 화상 통화로 앨런과 연결되었고, 의뢰를 받아 몇 주 동안 작업실에 틀어박혀 플라멩코 음악을 들으며 그림을 그렸다. 곤살레스는 앨런의 팀이 그녀에게 작업할 사진들을 주었지만 상대적으로 지시는 거의 하지 않았다고 말했다 — 그들이 원했던 강함과 독립심을 전달하는 것을 그녀에게 믿고 맡긴 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 창작의 자유를 이용해 곤살레스는 앨런에게 실제로는 한 번도 입은 적 없는 물방울 무늬 패딩을 입혔다. 앨범이 나오자마자, 가수가 말한 대로 미국 배우 데이비드 하버와의 이별에 관한 세부 사항이 담긴 가사들로 곧 헤드라인을 장식했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 홍보는 곤살레스에게도 이익이 되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+곧, 작업실의 친구들은 그녀의 상주 연예인 신분을 놀리기 시작했다. 그들은 곤살레스를 브리트니 스피어스라고 부르며 놀리기 시작했다. 곤살레스가 시간에 대한 새로운 요구들에 대해 불평할 때마다 한 동료가 "오, 브리트니"라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+곤살레스는 런던에서 초상화가 공식적으로 공개된 지난 달까지 실제 팝스타 앨런을 직접 만나지 못했다. 그들은 잘 통했다고 곤살레스는 말했지만, 이번에는 입을 다물었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"상상할 수 있겠어요?" 그녀는 가능성에 눈을 크게 뜨며 말했다. "그녀랑 수다를 떠는 걸?"
+&lt;&lt;&lt;PARA&gt;&gt;
+까를로스 바라간이 취재에 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/europe/nieves-gonzalez-lily-allen-artist-west-end-girl-spain.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-spain-aritst-profile-promo-bwkt/26int-spain-aritst-profile-promo-bwkt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 19:01:08 +0000</pubDate></item><item><title>40 Years After the Meltdown, War Layers Another Disaster on Chernobyl (멜트다운 40년 후, 전쟁이 체르노빌에 또 다른 재앙을 더하다)</title><link>https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-ukraine-chernobyl-01-jzqb/26int-ukraine-chernobyl-01-jzqb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Vines twirl through the broken windows of long-abandoned homes, where the detritus of lives interrupted by disaster are still scattered about: children’s shoes, dishes, coats hanging on pegs, all covered in lichen and dust.&lt;br/&gt;(오래전 버려진 집들의 깨진 창문 사이로 덩굴이 휘감겨 있고, 재해로 중단된 삶의 잔해들—아이들의 신발, 접시, 못에 걸린 코트—이 여기저기 흩어져 있으며, 모두 이끼와 먼지로 덮여 있다.)&lt;/p&gt;
+&lt;p&gt;The ghost towns of the Chernobyl exclusion zone in northern Ukraine emptied of people after the catastrophic explosion and meltdown at the nuclear power plant there 40 years ago, on April 26, 1986. High levels of radiation mean humans may never live in them again.&lt;br/&gt;(1986년 4월 26일, 40년 전 북부 우크라이나 체르노빌 원자력 발전소의 치명적인 폭발과 멜트다운 이후, 체르노빌 출입 금지 구역의 유령 도시들은 사람들이 떠나면서 텅 비었다. 높은 방사능 수치로 인해 인간이 그곳에 다시 살지 못할 수도 있다.)&lt;/p&gt;
+&lt;p&gt;But these towns served another purpose for Ukrainian soldiers who recently trained amid the ruins. The troops practiced defending the irradiated land against a repeat Russian attack, taking precautions to avoid the most radioactive areas. In February 2022, Moscow’s forces entered the zone on the first day of the full-scale invasion, and occupied it for five weeks.&lt;br/&gt;(그러나 이 도시들은 최근 폐허 속에서 훈련한 우크라이나 군인들에게 또 다른 목적을 제공했다. 군인들은 가장 방사능이 높은 지역을 피하기 위해 주의를 기울이며, 러시아의 반복된 공격에 맞서 방사능 오염 지역을 방어하는 훈련을 했다. 2022년 2월, 모스크바 군대는 전면 침공 첫날 이 지역에 진입해 5주 동안 점령했다.)&lt;/p&gt;
+&lt;p&gt;During the exercise, soldiers crouched beside waterlogged, mold-covered walls, aiming their rifles. Others threw live grenades into homes, chipping walls already crumbling from dry rot. Their presence highlighted a reality in the Chernobyl zone: For the foreseeable future, it will be an army-controlled security belt along the border with Belarus, a Russian ally.&lt;br/&gt;(훈련 중, 군인들은 물에 잠기고 곰팡이로 덮인 벽 옆에 웅크려 소총을 겨누었다. 다른 이들은 집 안에 수류탄을 던져, 이미 건조 부패로 무너져 내리는 벽을 부쉈다. 그들의 존재는 체르노빌 지역의 현실을 강조했다: 가까운 미래 동안, 이곳은 러시아의 동맹인 벨라루스와의 국경을 따라 군대가 통제하는 보안 벨트가 될 것이라는 점이다.)&lt;/p&gt;
+&lt;p&gt;“Everything depends on security” in the zone today, said the commander of the battalion training in the area, who asked to be identified by only his nickname, Skif, in keeping with military protocol.&lt;br/&gt;(이 지역에서 훈련 중인 대대장은 “모든 것은 안보에 달려 있다”고 말했다. 그는 군 프로토콜에 따라 별명인 ‘스키프’로만 불러 달라고 요청했다.)&lt;/p&gt;
+&lt;p&gt;The explosion in 1986, set off by a safety test and exacerbated by design flaws, spewed fire and radioactive material into the air, in the world’s worst nuclear disaster. Two workers were killed in the initial explosion, over two dozen emergency responders and cleanup workers died in the three months after from radiation exposure, and some 200,000 people are believed to have been relocated from the area.&lt;br/&gt;(안전 테스트로 촉발되고 설계 결함으로 악화된 1986년의 폭발은 불과 방사성 물질을 공기 중으로 뿜어냈으며, 세계 최악의 원자력 재해였다. 초기 폭발로 두 명의 작업자가 사망했고, 20명이 넘는 응급 대응자와 청소 작업자가 이후 3개월 동안 방사선 노출로 사망했으며, 약 20만 명이 이 지역에서 대피한 것으로 추정된다.)&lt;/p&gt;
+&lt;p&gt;Over the years, the radioactive towns, villages, forests and swamps have posed quandaries for the authorities. The land could never be repopulated, they concluded, because of contamination from long-lingering isotopes, including plutonium.&lt;br/&gt;(수년에 걸쳐, 방사능 오염 도시, 마을, 숲, 습지는 당국에 딜레마를 안겼다. 그들은 플루토늄을 포함한 오래 지속되는 동위원소로 인한 오염 때문에 이 땅에 다시 사람이 살 수 없다고 결론 내렸다.)&lt;/p&gt;
+&lt;p&gt;But it could bring economic benefits. Ideas included using it as a storage area for other countries’ nuclear waste, as a test site for new generations of small modular reactors, as territory for solar farms and as a destination for so-called disaster tourism.&lt;br/&gt;(하지만 경제적 이점을 가져올 수는 있었다. 아이디어로는 다른 국가의 핵폐기물 저장 지역, 차세대 소형 모듈 원자로의 시험 장소, 태양광 발전소 부지, 소위 ‘재앙 관광’ 목적지로 사용하는 것 등이 있었다.)&lt;/p&gt;
+&lt;p&gt;Now, everything, other than modest solar-farm development, is on indefinite hold. Tourists, who began showing up at the site 20 years ago, are not coming back anytime soon, said Shaun Burnie, the senior nuclear specialist with Greenpeace Ukraine. Chernobyl has become one disaster layered on another: war fought in a radioactive zone.&lt;br/&gt;(이제는 소규모 태양광 발전소 개발을 제외한 모든 것이 무기한 보류되었다. 20년 전 이곳을 방문하기 시작한 관광객들은 당분간 돌아오지 않을 것이라고 그린피스 우크라이나의 수석 핵 전문가 숀 버니가 말했다. 체르노빌은 재앙 위에 또 다른 재앙이 겹쳐진 곳이 되었다: 방사능 지역에서 치러지는 전쟁이다.)&lt;/p&gt;
+&lt;p&gt;Russia’s invasion in 2022 harmed efforts to contain radiation in multiple ways. Moscow’s forces occupied the crippled nuclear power station and used it as a staging area for attacks on Kyiv, the Ukrainian capital, early in the war. Their heavy armored vehicles stirred up small amounts of radioactive dust. Weeks later, Russian troops were defeated in the battle for Kyiv, and they withdrew from Chernobyl.&lt;br/&gt;(2022년 러시아의 침공은 여러 방식으로 방사능 봉쇄 노력을 해쳤다. 모스크바 군대는 손상된 원자력 발전소를 점령하고 전쟁 초기 우크라이나 수도 키이우 공격의 거점으로 사용했다. 그들의 중장갑 차량은 소량의 방사성 먼지를 휘저었다. 몇 주 후, 러시아 군대는 키이우 전투에서 패배하고 체르노빌에서 철수했다.)&lt;/p&gt;
+&lt;p&gt;More worrisome are longer-term war risks. Scientists cannot reach wells that measure groundwater radiation, lest they step on a land mine. Also owing to mines, firefighters cannot rush to extinguish wildfires that spread radiation in smoke. Foreign scientists who studied radiation in the environment have fled.&lt;br/&gt;(더 우려되는 것은 장기적인 전쟁 위험이다. 과학자들은 지뢰를 밟을까 두려워 지하수 방사능을 측정하는 우물에 접근할 수 없다. 또한 지뢰 때문에 소방관들은 연기로 방사능을 퍼뜨리는 산불을 진압하러 달려갈 수 없다. 환경 내 방사능을 연구하던 외국 과학자들은 떠났다.)&lt;/p&gt;
+&lt;p&gt;In February 2025, Russia flew an exploding Iranian-designed Shahed drone into the gigantic steel shell that encloses an older, rickety structure built over the ruined reactor shortly after the accident. That older structure, known as the sarcophagus, is at risk of collapsing and releasing radiation.&lt;br/&gt;(2025년 2월, 러시아는 사고 직후 파괴된 원자로 위에 세워진 낡고 불안정한 구조물을 감싸는 거대한 강철 외피로 이란 설계 샤헤드 드론을 날려 폭발시켰다. ‘석관’으로 알려진 이 낡은 구조물은 붕괴되어 방사능을 누출할 위험이 있다.)&lt;/p&gt;
+&lt;p&gt;The drone explosion punched a hole in the $2.5 billion outer shell, called the New Safe Confinement, and started a fire that burned through material needed to maintain the airtight seal. No radiation was released, but the strike set back two decades of efforts to safely isolate the worst of Chernobyl’s radiation.&lt;br/&gt;(드론 폭발은 ‘신안전봉쇄’라는 25억 달러짜리 외피에 구멍을 뚫고, 밀봉 유지에 필요한 재료를 태우는 화재를 일으켰다. 방사능 누출은 없었지만, 이 공격은 체르노빌 최악의 방사능을 안전하게 격리하려는 20년간의 노력을 후퇴시켰다.)&lt;/p&gt;
+&lt;p&gt;The attack came a day before the opening of the influential Munich Security Conference in Germany, a warning to Ukraine’s Western allies that the war could spread radiation to Europe, from Chernobyl or other nuclear sites.&lt;br/&gt;(이 공격은 독일에서 영향력 있는 뮌헨 안보 회의가 열리기 하루 전에 발생했으며, 우크라이나의 서방 동맹국들에게 전쟁이 체르노빌이나 다른 핵 시설에서 유럽으로 방사능을 퍼뜨릴 수 있다는 경고였다.)&lt;/p&gt;
+&lt;p&gt;It is unclear how the confinement structure can be repaired. To protect workers from radiation, it had been built away from the reactor and later moved on rails into position over it. Now, repair work will have to be done in the highly radioactive zone, possibly by cycling large numbers of workers through stints that cannot exceed 11 hours per year, to comply with safety rules.&lt;br/&gt;(봉쇄 구조물을 어떻게 수리할 수 있을지는 불분명하다. 방사능으로부터 작업자를 보호하기 위해 원자로에서 떨어져 건설된 후 나중에 레일 위로 이동하여 그 위에 배치되었다. 이제 수리 작업은 방사능이 매우 높은 지역에서 이루어져야 하며, 안전 규정을 준수하기 위해 연간 11시간을 초과할 수 없는 교대 근무로 많은 수의 작업자를 순환시켜야 할 가능성이 있다.)&lt;/p&gt;
+&lt;p&gt;The European Bank for Reconstruction and Development has estimated that repairs will cost $500 million and last four years. Foreign donors, including France and Britain, have so far pledged 70 million euros, or about $82 million, for urgent repairs. The Russian drone most likely cost no more than about $50,000.&lt;br/&gt;(유럽부흥개발은행은 수리 비용이 5억 달러이며 4년 동안 지속될 것으로 추정했다. 프랑스와 영국을 포함한 외국 기부자들은 긴급 수리를 위해 지금까지 7천만 유로(약 8천200만 달러)를 약속했다. 러시아 드론은 아마도 약 5만 달러 이하의 비용이 들었을 것이다.)&lt;/p&gt;
+&lt;p&gt;Easier to repair was a nearby solar farm that was struck by shrapnel from the drone. The 18 damaged panels were replaced.&lt;br/&gt;(수리가 더 쉬웠던 것은 드론의 파편에 맞은 인근 태양광 발전소였다. 손상된 패널 18개가 교체되었다.)&lt;/p&gt;
+&lt;p&gt;Two solar plants are operating in the Chernobyl zone, and a third is under construction despite the war. They sell electricity for the grid using high-voltage transmission lines originally built for the reactors, and they provide backup power for cooling ponds for nuclear waste.&lt;br/&gt;(체르노빌 지역에서는 두 개의 태양광 발전소가 가동 중이며, 전쟁에도 불구하고 세 번째 발전소가 건설 중이다. 이들은 원래 원자로용으로 건설된 고압 송전선을 사용하여 전력을 전력망에 판매하고, 핵폐기물 냉각 연못의 백업 전력을 제공한다.)&lt;/p&gt;
+&lt;p&gt;Solar farms, which are unaffected by radiation and are largely impervious to missile and drone attacks because they are dispersed over large areas, still have a viable future in the exclusion zone, said Yevgen Variagin, the chief executive of Solar Chernobyl. The company opened the first solar plant there in 2018.&lt;br/&gt;(방사능의 영향을 받지 않고 넓은 지역에 분산되어 미사일 및 드론 공격에 거의 영향을 받지 않는 태양광 발전소는 여전히 출입 금지 구역에서 실행 가능한 미래를 가지고 있다고 솔라 체르노빌의 최고경영자 예브겐 바랴긴이 말했다. 이 회사는 2018년 그곳에 첫 번째 태양광 발전소를 열었다.)&lt;/p&gt;
+&lt;p&gt;Otherwise, the area around Chernobyl is now primarily a military site, fortified against attacks from the north toward Kyiv and against possible Russian sabotage of the reactor or waste-storage facilities.&lt;br/&gt;(그 외에도 체르노빌 주변 지역은 현재 주로 군사 시설로, 북쪽에서 키이우로 향하는 공격과 원자로나 폐기물 저장 시설에 대한 러시아의 잠재적 사보타주에 대비해 요새화되어 있다.)&lt;/p&gt;
+&lt;p&gt;Tank traps, which look like X’s made from steel beams, and coils of razor wire stretch out over fields in the zone. At military positions, paths are covered in nets to protect against drones.&lt;br/&gt;(강철 빔으로 만든 X자 모양의 전차 방어 장치와 코일형 철조망이 이 지역의 들판에 펼쳐져 있다. 군사 진지에서는 길이 드론으로부터 보호하기 위해 그물로 덮여 있다.)&lt;/p&gt;
+&lt;p&gt;These defenses are typical for much of the front line in Ukraine. Other military preparations are peculiar to the radiation zone.&lt;br/&gt;(이러한 방어 시설은 우크라이나의 전선 대부분에서 전형적이다. 다른 군사 준비는 방사능 지역에 특화되어 있다.)&lt;/p&gt;
+&lt;p&gt;To fight in this landscape, the Ukrainian Army took special precautions. It did not dig trenches or burrow bunkers into the ground, lest it expose soldiers to radiation in the soil. Instead, aboveground berms or bunkers were built into hills of fresh sand that was trucked in.&lt;br/&gt;(이러한 지형에서 싸우기 위해 우크라이나군은 특별한 예방 조치를 취했다. 병사들이 토양 속 방사능에 노출되는 것을 막기 위해 참호를 파거나 지하 벙커를 굴착하지 않았다. 대신, 트럭으로 운반된 신선한 모래 언덕에 지상 둑이나 벙커를 건설했다.)&lt;/p&gt;
+&lt;p&gt;Looking like large yellow anthills, these now dot the landscape around the Chernobyl plant.&lt;br/&gt;(노란 큰 개미집처럼 보이는 이 구조물들이 이제 체르노빌 발전소 주변 풍경에 점재하고 있다.)&lt;/p&gt;
+&lt;p&gt;Soldiers patrol the ghost towns, where buildings are covered in moss and surrounded by mature trees, lost in a swirl of dense vegetation like ancient Mayan ruins.&lt;br/&gt;(군인들은 건물이 이끼로 덮이고 성숙한 나무로 둘러싸여 있으며, 고대 마야 유적처럼 울창한 초목 소용돌이 속에 사라진 유령 도시들을 순찰한다.)&lt;/p&gt;
+&lt;p&gt;In the recent exercise, soldiers with the 28th Regiment of the National Guard maneuvered amid abandoned homes with corroded corrugated-metal roofs and broken windows.&lt;br/&gt;(최근 훈련에서, 국가 방위군 제28연대의 군인들은 부식된 골판지 금속 지붕과 깨진 창문이 있는 버려진 집들 사이에서 기동했다.)&lt;/p&gt;
+&lt;p&gt;Though devoid of people, the area must be defended against further damage, said Skif, the commander.&lt;br/&gt;(사람이 없지만, 이 지역은 추가 피해로부터 방어되어야 한다고 지휘관 스키프가 말했다.)&lt;/p&gt;
+&lt;p&gt;Compared with destruction inflicted elsewhere in Ukraine, an attack that released more radiation at Chernobyl, he said, would be “on a completely different scale.”&lt;br/&gt;(우크라이나 다른 곳에서 가해진 파괴와 비교하여, 체르노빌에서 더 많은 방사능을 누출하는 공격은 “완전히 다른 수준”이 될 것이라고 그는 말했다.)&lt;/p&gt;
+&lt;p&gt;Constant Méheut contributed reporting from Kyiv, Ukraine.&lt;br/&gt;(콩스탕 메외가 우크라이나 키이우에서 취재에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-ukraine-chernobyl-01-jzqb/26int-ukraine-chernobyl-01-jzqb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 26 Apr 2026 01:32:14 +0000</pubDate></item><item><title>What to Know About King Charles and Queen Camilla’s State Visit to the U.S. (찰스 국왕과 카밀라 왕비의 미국 국빈 방문에 대해 알아야 할 사항)</title><link>https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-uk-royals-wtk-kbcz/26int-uk-royals-wtk-kbcz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;King Charles III and Queen Camilla will travel to the United States this week for an official state visit, making stops in New York and Washington, where they will meet with President Trump and the king will deliver an address to Congress.&lt;br/&gt;(찰스 3세 국왕과 카밀라 왕비가 이번 주 미국 국빈 방문을 위해 뉴욕과 워싱턴을 방문하며, 트럼프 대통령을 만나고 국왕은 의회에서 연설할 예정입니다.)&lt;/p&gt;
 &lt;p&gt;The visit was arranged to celebrate the 250th anniversary of American independence, and planning began long before the United States and Israel launched their war with Iran in late February — a conflict that has put considerable strain on the U.S.-U.K. relationship. But Mr. Trump has long indicated a great fondness for the monarch, and the trip could go some way to smoothing over recent tensions.&lt;br/&gt;(이 방문은 미국 독립 250주년을 기념하기 위해 마련되었으며, 미국과 이스라엘이 2월 말 이란과의 전쟁을 시작하기 훨씬 전부터 계획이 수립되었습니다. 이 갈등은 미영 관계에 상당한 부담을 주고 있습니다. 그러나 트럼프 대통령은 오랫동안 군주에 대한 큰 애정을 표시해 왔으며, 이번 방문은 최근 긴장을 완화하는 데 어느 정도 도움이 될 수 있습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -990,7 +956,66 @@ JNIM은 2017년에 설립되었으며, 아랍어로 "이슬람과 무슬림 지�
 엡스타인과 국왕의 동생 앤드루 마운트배튼-윈저(전 앤드루 왕자)의 관계는 전 왕자의 극적인 몰락을 초래했으며 왕실에 그림자를 드리우고 있습니다. 엡스타인의 피해자 버지니아 주프리는 마운트배튼-윈저가 자신을 인신매매한 후 성폭행했다고 주장했습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
 성폭행 혐의와 2019년 사망한 엡스타인과 관련된 모든 잘못을 일관되게 부인해 온 마운트배튼-윈저는 공직 위법 행위 조사의 일환으로 2월에 체포되었습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-uk-royals-wtk-kbcz/26int-uk-royals-wtk-kbcz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 27 Apr 2026 00:54:46 +0000</pubDate></item><item><title>How We Traced U.S. Government Gold to a Drug Cartel (미국 정부 금이 마약 카르텔까지 연결된 경로를 추적한 방법)</title><link>https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/multimedia/23insider-gold1-gmct/23insider-gold1-gmct-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-uk-royals-wtk-kbcz/26int-uk-royals-wtk-kbcz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 27 Apr 2026 00:54:46 +0000</pubDate></item><item><title>In the Foothills of Mt. Fuji, the Fight Is On Against Unruly Tourists (후지산 기슭에서 난폭한 관광객과의 싸움 시작)</title><link>https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-japan-tourism-02-bpzl/26int-japan-tourism-02-bpzl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Just after sunrise on a cloudless spring day, Junichi Horiuchi, wearing a Dodgers cap and hot-pink gloves and carrying a walking stick, was on the hunt.&lt;br/&gt;(구름 한 점 없는 봄날, 해가 막 뜨자 다저스 모자와 핫핑크 장갑을 착용하고 지팡이를 든 호리우치 준이치가 수색에 나섰다.)&lt;/p&gt;
+&lt;p&gt;Mr. Horiuchi, the leader of a civic group, was picking up trash and looking for unruly tourists at Arakurayama Sengen Park in Fujiyoshida, an idyllic town of about 46,000 in the foothills of Mount Fuji. He was joined in his quest by a local radio personality and a professor of medicine. The trio issued polite warnings to tourists who ventured off the designated path.&lt;br/&gt;(시민 단체 대표인 호리우치 씨는 후지산 기슭의 고요한 마을 후지요시다(인구 약 4만 6000명)에 있는 아라쿠라야마 센겐 공원에서 쓰레기를 줍고 무질서한 관광객을 찾아다녔다. 그의 탐색에는 지역 라디오 진행자와 의대 교수가 합류했다. 이 셋은 지정된 경로를 벗어난 관광객에게 정중하게 경고했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+54세의 호리우치 씨에게 이 임무는 개인적인 일이다. 그는 작년에 관광객들이 후지산을 배경으로 애비 로드 스타일 사진을 찍는 것을 피하려다 자전거를 타다 추락해 거의 30개의 뼈가 부러졌다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "사람들이 일본의 문화와 규칙을 존중해줬으면 좋겠다"며 이른 아침의 관광객 무리를 살펴보며 말했다. 일부 관광객은 완벽한 일출 사진을 찍기 위해 밤새 야영을 하기도 했다. "이것은 생사의 문제입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+도쿄 남서쪽에 위치한 후지요시다는 일본이 행동이 나쁜 관광객과 싸우는 중심지다. 약화된 엔화로 더 많은 돈을 쓸 수 있게 된 외국인 관광객이 쏟아져 들어와 2025년에는 약 4200만 명으로 10년 전의 두 배가 되었다. 이제 일본 일부 지역에서는 반외국인 정서가 높아지고 있으며, 당국은 방문객 수를 제한하라는 압력을 받고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+쇠퇴하는 섬유 산업을 가진 후지요시다는 한때 경제를 활성화하기 위해 더 많은 관광객을 갈망했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+더 이상은 아니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+방문객들이 뒷마당을 화장실로 사용하고, 허가 없이 집에 들어가고, 학교 교통을 막고, 쓰레기 더미를 남겼다는 널리 알려진 보도가 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+올해, 마을은 과감한 조치를 취했다. 10년 전 시작된 대표적인 벚꽃 축제를 취소하면서 "시민들의 평화로운 삶이 위협받고 있다"고 선언했다. 공무원들은 또한 "과잉 관광을 조장할 수 있는" 그림 같은 장면을 촬영하는 언론사를 금지했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+호리우치 시게루 시장은 축제 취소 결정이 사람들이 벚꽃을 보는 것을 막기 위한 것이 아니라고 말했다. 실제로 공무원들은 어떤 지역도 차단하지 않았다. 대신 그는 주민들의 혼잡에 대한 불만에 대응하여 가장 붐비는 지역의 관광을 저지하려고 노력했다고 말했다. 마을이 더 많은 화장실과 주차 공간을 건설했지만, 보행자 교통을 처리하는 데 어려움을 겪고 있다. 그는 또한 관광객들이 인스타그램에서 익숙하지 않은 후지요시다의 다른 지역으로 가길 원한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 시청 인터뷰에서 "주민들의 인내심이 한계에 다다르고 있다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+축제가 취소되었음에도 불구하고 수만 명의 사람들이 계속해서 마을로 몰려들어 주렌토 파고다에서 셀카를 찍기 위해 줄을 서고, 요시다 우동이나 후지산 위의 일출을 연상시키는 붉은색 딸기 맛 소프트 아이스크림 같은 지역 특산품을 간식으로 먹고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+최근 어느 날, 미국에서 온 친구 그룹이 벚꽃 아래서 셀카를 찍기 위해 주요 경로를 벗어났다.
+&lt;&lt;&lt;PARA&gt;&gt;
+오하이오 출신의 소매업 종사자 줄리아 모로(26)는 "소셜 미디어에서 이 멋진 사진을 보고 '어떻게 하면 가능한 한 빨리 여기에 갈 수 있을까'라고 생각했다"고 말했다. "그 사진을 찍지 못하면 여행의 의미가 뭐가 있나요?"
+&lt;&lt;&lt;PARA&gt;&gt;
+일부 방문객들은 도착하기 전에 일본 관습을 공부하는 데 시간을 투자했다고 말했다. 예를 들어 걸으면서 먹지 않기, 쓰레기 봉투를 직접 챙기기 등이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+뉴질랜드 출신의 교사 칼린 모건은 파트너와 함께 벚꽃을 보기 위해 11일간 일본을 여행 중이었다. "우리는 존중하려고 노력하고 있어요. 누군가 우리 나라에 올 때 우리도 그렇게 해주길 바라니까요."라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+수십 년 동안 후지요시다는 많은 일본인에게조차 거의 알려지지 않았다. 2013년 유네스코가 후지산을 세계문화유산 목록에 추가하면서 상황이 바뀌기 시작했다. 지역 직물 산업이 쇠퇴하면서 마을은 더 국제적인 관광객을 유치하려고 노력했다. 빈 점포 자리에는 와인 바와 전통 이자카야가 생겨났다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러다가 팬데믹 이후, 관광객들이 인터넷에서 본 후지산의 웅장한 전망을 재현하려고 몰려들었다. 종종 콜드플레이나 한스 짐머 등의 음악이 배경으로 깔렸다. 인스타그램에는 "이곳은 영화 세트장이 아니라 후지요시다입니다"라는 글이 올라와 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+과잉 관광 문제는 이 지역 전역에 널리 퍼져 있다. 인근 가와구치코에서는 2024년 공무원들이 편의점이 소셜 미디어 현상이 된 것을 막기 위해 광고판 크기의 스크린을 세웠다. 그 편의점은 마치 산이 지붕에서 솟아나는 것처럼 보였기 때문이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+실크스크린 인쇄 회사 사장인 마에다 코지는 2000년에 후지요시다 역 근처에 후지산이 보이는 주택을 샀다. 그는 평온함 때문에 그 동네에 매료되었다. 이제 그는 매일 수천 명의 사람들이 그의 집 앞을 지나 공원으로 가는 것을 지켜본다. 때때로 그들은 그의 앞마당을 지름길로 사용한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "처음 관광객을 보기 시작했을 때 '이건 미친 짓이다'라고 생각했다"며 "정말로 도망가고 싶다는 느낌이 든다. 이사하고 싶다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 일부 주민들은 유입을 받아들였다. 아라쿠라야마 센겐 공원 근처 뇨라이 사원의 수석 승려인 와타나베 에이도는 불교가 관용의 중요성을 강조한다고 말했다. 이제 이 지역을 방문하는 외국인이 일본인 방문객보다 훨씬 많다. 인근 신사에서는 방문객들이 부적에 적은 메시지가 주로 영어로 되어 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "누구든 갑자기 습관을 바꾸기는 어렵기 때문에 외국인을 환영할 때 가능한 한 많이 안내하는 것이 중요하다고 생각한다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 덧붙여 "친절한 마음과 미소로 사람들에게 접근하면 당신의 감정이 그들에게 전달될 것이다"라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+사업주들은 후지요시다가 관광객들이 지역 상점, 식당, 호텔에서 더 많은 시간을 보내고 돈을 쓰게 할 방법을 찾아야 한다고 말한다. 요즘 방문객들은 종종 사진을 찍고 나가기에 충분한 몇 시간만 마을에 머문다.
+&lt;&lt;&lt;PARA&gt;&gt;
+시내에서 신발 가게를 3대째 운영하는 와타나베 카즈코는 "모든 사람이 그냥 지나칠 뿐이다"라고 말했다. 그녀의 가게 창문에서 관광객들이 후지산을 배경으로 구식 상점 정면을 사진 찍느라 교통 위험을 초래하는 모습을 지켜본다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 더 많은 관광객을 환영한다고 말했지만, 마을이 그들이 일본 규칙을 이해하도록 더 많은 도움을 줘야 한다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 "그들이 모든 것을 이해하길 기대하는 것은 좀 무리라고 생각한다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+공원 순찰을 이끄는 호리우치 씨는 방문객들이 일본 문화와 더 많이 연결되도록 설득하기를 바란다고 말했다. 최근 그는 관광객들을 붙잡아 파고다 근처에서 사진을 찍기 위해 계단을 오르기 전에 일본 전통에 따라 공원 내 신토 신사에서 기도하도록 권장하고 있다. 그는 방문객들에게 일본인에게 공원은 신성한 장소라고 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "자신의 예절과 감정만이 아니라 현지인에게 적응해야 한다. 이곳, 이 지역이 오랫동안 깨끗하게 유지되길 바란다. 심지어 내 손자 세대까지도"라고 말했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-japan-tourism-02-bpzl/26int-japan-tourism-02-bpzl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 26 Apr 2026 06:59:10 +0000</pubDate></item><item><title>How We Traced U.S. Government Gold to a Drug Cartel (미국 정부 금이 마약 카르텔까지 연결된 경로를 추적한 방법)</title><link>https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/23/multimedia/23insider-gold1-gmct/23insider-gold1-gmct-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Almost three years ago, I became obsessed with gold.&lt;br/&gt;(거의 3년 전, 나는 금에 사로잡혔다.)&lt;/p&gt;
 &lt;p&gt;I’d been watching the price shoot up for two decades. By December of 2023, gold was an eye-watering $2,000 an ounce, inflated by the anxiety of wealthy investors and governments. They worried about terrorist attacks and wars and financial instability and, lately, disease. Gold, they reasoned, would hold its value if stocks and bonds and dollars lost theirs.&lt;br/&gt;(20년 동안 금값이 치솟는 것을 지켜봤다. 2023년 12월, 금은 온스당 2,000달러라는 눈물나는 가격에 달했으며, 부유한 투자자들과 정부의 불안감이 이를 부풀렸다. 그들은 테러 공격과 전쟁, 금융 불안정, 그리고 최근에는 질병을 우려했다. 그들은 주식과 채권, 달러의 가치가 떨어지면 금이 그 가치를 유지할 것이라고 추론했다.)&lt;/p&gt;
 &lt;p&gt;At the same time, I’d been reading about illegal gold mining devastating the Sahel across Africa and the Amazon rainforest. It was fueling terrorist attacks and wars and financial instability and lately, researchers were learning, disease.&lt;br/&gt;(동시에, 나는 불법 금 채굴이 아프리카 사헬 지역과 아마존 열대 우림을 황폐화시키고 있다는 기사를 읽고 있었다. 이는 테러 공격과 전쟁, 금융 불안정을 부추기고 있었으며, 최근 연구자들은 질병까지도 유발한다는 사실을 알게 되었다.)&lt;/p&gt;
@@ -1017,7 +1042,7 @@ JNIM은 2017년에 설립되었으며, 아랍어로 "이슬람과 무슬림 지�
 &lt;p&gt;The U.S. Mint blamed its suppliers. The suppliers told me they rely on the Texan middleman to keep out illegal gold. The Texan said he relies on a guy in Mexico to do the same. After I told them what I found, they all said they stopped receiving the Colombian gold.&lt;br/&gt;(그러나 조폐국을 감독하는 미국 재무부는 시스템적인 문제가 없다고 부인했다. 재무부의 입장은 투자자 주화를 위해 외국 금을 구매하는 관행이 법을 위반하지 않는다는 것이라고 대변인이 말했다.)&lt;/p&gt;
 &lt;p&gt;But the U.S. Treasury, which overseas the Mint, denied there was any systemic problem. The Treasury’s stance is that its practice of buying foreign gold for investor coins does not violate the law, a spokeswoman said.&lt;br/&gt;(수년 동안 조폐국은 미국 금에 대한 느슨한 정의를 사용해왔다. 즉, 외국 금은 조폐국에 공급하는 회사가 상쇄되는 양의 미국 금을 구매했다면 포함될 수 있다고 했다. 2024년 연방 감시 보고서는 조폐국이 20여 년 전부터 이 요건을 시행하는 것을 중단했다고 밝혔다.)&lt;/p&gt;
 &lt;p&gt;For years, the Mint had been using a loose definition for U.S. gold, saying that foreign gold could count if it was supplied to the Mint by a company that had bought an offsetting quantity of U.S. gold. A federal watchdog report in 2024 said the Mint stopped enforcing that requirement more than 20 years ago.&lt;br/&gt;(우리가 조사 결과를 제시한 후, 재무부 대변인은 부서가 조폐국의 금 조달을 조사 중이며, 미국이 조폐국이 구매하는 금의 '주요' 출처임을 보장하기 위해 조달 기준을 강화했다고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/23/multimedia/23insider-gold1-gmct/23insider-gold1-gmct-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 26 Apr 2026 00:02:15 +0000</pubDate></item><item><title>Islamabad Reopens After U.S.-Iran Talks Fail to Materialize (미·이란 회담 무산 후 이슬라마바드 재개)</title><link>https://www.nytimes.com/2026/04/26/world/asia/islamabad-talks-iran-us.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-islamabad-talks-hbkt/26int-islamabad-talks-hbkt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/23/multimedia/23insider-gold1-gmct/23insider-gold1-gmct-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 27 Apr 2026 04:36:48 +0000</pubDate></item><item><title>Islamabad Reopens After U.S.-Iran Talks Fail to Materialize (미·이란 회담 무산 후 이슬라마바드 재개)</title><link>https://www.nytimes.com/2026/04/26/world/asia/islamabad-talks-iran-us.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-islamabad-talks-hbkt/26int-islamabad-talks-hbkt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Residents of Islamabad, Pakistan’s capital, lived in a state of quasi lockdown for nearly a week as they awaited Iranian and U.S. negotiators who were expected to gather for high-level talks in their usually quiet city.&lt;br/&gt;(파키스탄의 수도 이슬라마바드 주민들은 평소 조용한 도시에서 고위급 회담을 위해 이란과 미국 협상단이 모일 것으로 예상되면서 거의 일주일 동안 준봉쇄 상태에서 생활했습니다.)&lt;/p&gt;
 &lt;p&gt;But the negotiators did not show up — at least not together.&lt;br/&gt;(그러나 협상단은 나타나지 않았습니다. 적어도 함께 모이지는 않았습니다.)&lt;/p&gt;
 &lt;p&gt;As the city reopened on Sunday after President Trump canceled the American delegation’s trip to Islamabad, residents and business owners emerged from their barricaded neighborhoods and shuttered shops with a shared grievance: “We all had to close down — we all suffered for one thing that didn’t happen,” said Abdul Haq, a tea shop manager who said he had lost the equivalent of $1,800 in revenue. “What did I close my business for?”&lt;br/&gt;(트럼프 대통령이 미국 대표단의 이슬라마바드 방문을 취소한 후 일요일 도시가 재개되자, 주민들과 상인들은 바리케이드로 막힌 동네와 문을 닫은 가게에서 나와 공통된 불만을 토로했습니다. "우리 모두 문을 닫아야 했고, 일어나지 않은 일 하나 때문에 모두 피해를 봤습니다." 차 가게 관리자인 압둘 하크는 이렇게 말하며 1,800달러 상당의 수익 손실을 입었다고 밝혔습니다. "내가 무슨 이유로 장사를 접었겠습니까?")&lt;/p&gt;
@@ -1234,7 +1259,7 @@ JNIM은 2017년에 설립되었으며, 아랍어로 "이슬람과 무슬림 지�
 &lt;p&gt;Karen de Witt, who covered the event for The New York Times, described the standing ovation for the queen as she entered the chamber. But she also noted that some lawmakers boycotted the speech to protest the British state’s actions in Northern Ireland.&lt;br/&gt;(뉴욕타임스에서 이 행사를 취재한 캐런 드 위트는 여왕이 의사당에 입장할 때 기립 박수를 받았다고 설명했습니다. 하지만 그녀는 또한 일부 의원들이 북아일랜드에서의 영국 정부의 행동에 항의하기 위해 연설을 보이콧했다고 지적했습니다.)&lt;/p&gt;
 &lt;p&gt;In her speech, the queen thanked America for its leadership in the Persian Gulf war that year, while warning against a reliance on military force:&lt;br/&gt;(연설에서 여왕은 그해 걸프전에서의 미국의 리더십에 감사하면서도 군사력에 의존하는 것에 대해 경고했습니다:)&lt;/p&gt;
 &lt;p&gt;“Some people believe that power grows from the barrel of a gun. So it can, but history shows that it never grows well nor for very long. Force, in the end, is sterile. We have gone a better way: Our societies rest on mutual agreement, on contract and on consensus.”&lt;br/&gt;("어떤 사람들은 권력이 총구에서 나온다고 믿습니다. 그럴 수도 있지만, 역사는 그것이 결코 잘 자라지도 오래 지속되지도 않음을 보여줍니다. 결국 힘은 불모입니다. 우리는 더 나은 길을 걸어왔습니다: 우리 사회는 상호 합의, 계약, 그리고 합의에 기반을 두고 있습니다.")&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/27/world/europe/royal-visits-america-history-trump-uk.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/27/multimedia/27int-uk-royals-visual-01-hbvk/27int-uk-royals-visual-01-hbvk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 27 Apr 2026 00:19:31 +0000</pubDate></item><item><title>U.S. Military Strikes Another Boat in Eastern Pacific, Killing 3 (미군, 동부 태평양에서 또 다른 선박 공격…3명 사망)</title><link>https://www.nytimes.com/2026/04/27/world/americas/us-military-boat-strike-pacific-drugs.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/27/multimedia/27xp-boat-strike-gjtw/27xp-boat-strike-gjtw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/27/world/europe/royal-visits-america-history-trump-uk.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/27/multimedia/27int-uk-royals-visual-01-hbvk/27int-uk-royals-visual-01-hbvk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 27 Apr 2026 02:39:20 +0000</pubDate></item><item><title>U.S. Military Strikes Another Boat in Eastern Pacific, Killing 3 (미군, 동부 태평양에서 또 다른 선박 공격…3명 사망)</title><link>https://www.nytimes.com/2026/04/27/world/americas/us-military-boat-strike-pacific-drugs.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/27/multimedia/27xp-boat-strike-gjtw/27xp-boat-strike-gjtw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The U.S. military said it attacked another boat in the eastern Pacific Ocean on Sunday, killing three people and raising the death toll to at least 185 in the campaign against people the Trump administration accuses of smuggling drugs at sea.&lt;br/&gt;(미군이 지난 일요일 동부 태평양에서 또 다른 선박을 공격해 3명을 사망시켰으며, 이로 인해 트럼프 행정부가 해상 마약 밀수 혐의자들을 상대로 벌이고 있는 캠페인에서 최소 185명의 사망자가 발생했다고 밝혔다.
 &lt;&lt;&lt;PARA&gt;&gt;
 해병대의 프랜시스 L. 도노반 장군이 명령한 이번 공격은 미군 남부사령부의 책임자에 의해 수행됐으며, 이 사령부는 라틴아메리카와 카리브해 지역의 군사 작전을 총괄한다고 소셜 미디어에 게시했다.
@@ -1248,138 +1273,7 @@ JNIM은 2017년에 설립되었으며, 아랍어로 "이슬람과 무슬림 지�
 치명적 무력 사용에 관한 법률을 전문으로 하는 다양한 전문가들은 이번 살인이 불법이라고 주장하며, 군은 즉각적인 폭력 위협을 가하지 않는 민간인을 의도적으로 표적으로 삼을 수 없다고 말했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 백악관은 이번 살인이 합법적이라고 밝히며, 트럼프 대통령이 미국이 마약 카르텔과 공식적인 무력 충돌 상태에 있으며, 마약 밀수 선박의 선원들은 ‘전투원’이라고 ‘판결’했다고 주장했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/27/world/americas/us-military-boat-strike-pacific-drugs.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/27/multimedia/27xp-boat-strike-gjtw/27xp-boat-strike-gjtw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 26 Apr 2026 19:54:55 +0000</pubDate></item><item><title>In the Foothills of Mt. Fuji, the Fight Is On Against Unruly Tourists (후지산 기슭에서 난폭한 관광객과의 싸움 시작)</title><link>https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-japan-tourism-02-bpzl/26int-japan-tourism-02-bpzl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Just after sunrise on a cloudless spring day, Junichi Horiuchi, wearing a Dodgers cap and hot-pink gloves and carrying a walking stick, was on the hunt.&lt;br/&gt;(구름 한 점 없는 봄날, 해가 막 뜨자 다저스 모자와 핫핑크 장갑을 착용하고 지팡이를 든 호리우치 준이치가 수색에 나섰다.)&lt;/p&gt;
-&lt;p&gt;Mr. Horiuchi, the leader of a civic group, was picking up trash and looking for unruly tourists at Arakurayama Sengen Park in Fujiyoshida, an idyllic town of about 46,000 in the foothills of Mount Fuji. He was joined in his quest by a local radio personality and a professor of medicine. The trio issued polite warnings to tourists who ventured off the designated path.&lt;br/&gt;(시민 단체 대표인 호리우치 씨는 후지산 기슭의 고요한 마을 후지요시다(인구 약 4만 6000명)에 있는 아라쿠라야마 센겐 공원에서 쓰레기를 줍고 무질서한 관광객을 찾아다녔다. 그의 탐색에는 지역 라디오 진행자와 의대 교수가 합류했다. 이 셋은 지정된 경로를 벗어난 관광객에게 정중하게 경고했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-54세의 호리우치 씨에게 이 임무는 개인적인 일이다. 그는 작년에 관광객들이 후지산을 배경으로 애비 로드 스타일 사진을 찍는 것을 피하려다 자전거를 타다 추락해 거의 30개의 뼈가 부러졌다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 "사람들이 일본의 문화와 규칙을 존중해줬으면 좋겠다"며 이른 아침의 관광객 무리를 살펴보며 말했다. 일부 관광객은 완벽한 일출 사진을 찍기 위해 밤새 야영을 하기도 했다. "이것은 생사의 문제입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-도쿄 남서쪽에 위치한 후지요시다는 일본이 행동이 나쁜 관광객과 싸우는 중심지다. 약화된 엔화로 더 많은 돈을 쓸 수 있게 된 외국인 관광객이 쏟아져 들어와 2025년에는 약 4200만 명으로 10년 전의 두 배가 되었다. 이제 일본 일부 지역에서는 반외국인 정서가 높아지고 있으며, 당국은 방문객 수를 제한하라는 압력을 받고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-쇠퇴하는 섬유 산업을 가진 후지요시다는 한때 경제를 활성화하기 위해 더 많은 관광객을 갈망했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-더 이상은 아니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-방문객들이 뒷마당을 화장실로 사용하고, 허가 없이 집에 들어가고, 학교 교통을 막고, 쓰레기 더미를 남겼다는 널리 알려진 보도가 있었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-올해, 마을은 과감한 조치를 취했다. 10년 전 시작된 대표적인 벚꽃 축제를 취소하면서 "시민들의 평화로운 삶이 위협받고 있다"고 선언했다. 공무원들은 또한 "과잉 관광을 조장할 수 있는" 그림 같은 장면을 촬영하는 언론사를 금지했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-호리우치 시게루 시장은 축제 취소 결정이 사람들이 벚꽃을 보는 것을 막기 위한 것이 아니라고 말했다. 실제로 공무원들은 어떤 지역도 차단하지 않았다. 대신 그는 주민들의 혼잡에 대한 불만에 대응하여 가장 붐비는 지역의 관광을 저지하려고 노력했다고 말했다. 마을이 더 많은 화장실과 주차 공간을 건설했지만, 보행자 교통을 처리하는 데 어려움을 겪고 있다. 그는 또한 관광객들이 인스타그램에서 익숙하지 않은 후지요시다의 다른 지역으로 가길 원한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 시청 인터뷰에서 "주민들의 인내심이 한계에 다다르고 있다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-축제가 취소되었음에도 불구하고 수만 명의 사람들이 계속해서 마을로 몰려들어 주렌토 파고다에서 셀카를 찍기 위해 줄을 서고, 요시다 우동이나 후지산 위의 일출을 연상시키는 붉은색 딸기 맛 소프트 아이스크림 같은 지역 특산품을 간식으로 먹고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-최근 어느 날, 미국에서 온 친구 그룹이 벚꽃 아래서 셀카를 찍기 위해 주요 경로를 벗어났다.
-&lt;&lt;&lt;PARA&gt;&gt;
-오하이오 출신의 소매업 종사자 줄리아 모로(26)는 "소셜 미디어에서 이 멋진 사진을 보고 '어떻게 하면 가능한 한 빨리 여기에 갈 수 있을까'라고 생각했다"고 말했다. "그 사진을 찍지 못하면 여행의 의미가 뭐가 있나요?"
-&lt;&lt;&lt;PARA&gt;&gt;
-일부 방문객들은 도착하기 전에 일본 관습을 공부하는 데 시간을 투자했다고 말했다. 예를 들어 걸으면서 먹지 않기, 쓰레기 봉투를 직접 챙기기 등이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-뉴질랜드 출신의 교사 칼린 모건은 파트너와 함께 벚꽃을 보기 위해 11일간 일본을 여행 중이었다. "우리는 존중하려고 노력하고 있어요. 누군가 우리 나라에 올 때 우리도 그렇게 해주길 바라니까요."라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-수십 년 동안 후지요시다는 많은 일본인에게조차 거의 알려지지 않았다. 2013년 유네스코가 후지산을 세계문화유산 목록에 추가하면서 상황이 바뀌기 시작했다. 지역 직물 산업이 쇠퇴하면서 마을은 더 국제적인 관광객을 유치하려고 노력했다. 빈 점포 자리에는 와인 바와 전통 이자카야가 생겨났다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러다가 팬데믹 이후, 관광객들이 인터넷에서 본 후지산의 웅장한 전망을 재현하려고 몰려들었다. 종종 콜드플레이나 한스 짐머 등의 음악이 배경으로 깔렸다. 인스타그램에는 "이곳은 영화 세트장이 아니라 후지요시다입니다"라는 글이 올라와 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-과잉 관광 문제는 이 지역 전역에 널리 퍼져 있다. 인근 가와구치코에서는 2024년 공무원들이 편의점이 소셜 미디어 현상이 된 것을 막기 위해 광고판 크기의 스크린을 세웠다. 그 편의점은 마치 산이 지붕에서 솟아나는 것처럼 보였기 때문이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-실크스크린 인쇄 회사 사장인 마에다 코지는 2000년에 후지요시다 역 근처에 후지산이 보이는 주택을 샀다. 그는 평온함 때문에 그 동네에 매료되었다. 이제 그는 매일 수천 명의 사람들이 그의 집 앞을 지나 공원으로 가는 것을 지켜본다. 때때로 그들은 그의 앞마당을 지름길로 사용한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 "처음 관광객을 보기 시작했을 때 '이건 미친 짓이다'라고 생각했다"며 "정말로 도망가고 싶다는 느낌이 든다. 이사하고 싶다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 일부 주민들은 유입을 받아들였다. 아라쿠라야마 센겐 공원 근처 뇨라이 사원의 수석 승려인 와타나베 에이도는 불교가 관용의 중요성을 강조한다고 말했다. 이제 이 지역을 방문하는 외국인이 일본인 방문객보다 훨씬 많다. 인근 신사에서는 방문객들이 부적에 적은 메시지가 주로 영어로 되어 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 "누구든 갑자기 습관을 바꾸기는 어렵기 때문에 외국인을 환영할 때 가능한 한 많이 안내하는 것이 중요하다고 생각한다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 덧붙여 "친절한 마음과 미소로 사람들에게 접근하면 당신의 감정이 그들에게 전달될 것이다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-사업주들은 후지요시다가 관광객들이 지역 상점, 식당, 호텔에서 더 많은 시간을 보내고 돈을 쓰게 할 방법을 찾아야 한다고 말한다. 요즘 방문객들은 종종 사진을 찍고 나가기에 충분한 몇 시간만 마을에 머문다.
-&lt;&lt;&lt;PARA&gt;&gt;
-시내에서 신발 가게를 3대째 운영하는 와타나베 카즈코는 "모든 사람이 그냥 지나칠 뿐이다"라고 말했다. 그녀의 가게 창문에서 관광객들이 후지산을 배경으로 구식 상점 정면을 사진 찍느라 교통 위험을 초래하는 모습을 지켜본다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀는 더 많은 관광객을 환영한다고 말했지만, 마을이 그들이 일본 규칙을 이해하도록 더 많은 도움을 줘야 한다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀는 "그들이 모든 것을 이해하길 기대하는 것은 좀 무리라고 생각한다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-공원 순찰을 이끄는 호리우치 씨는 방문객들이 일본 문화와 더 많이 연결되도록 설득하기를 바란다고 말했다. 최근 그는 관광객들을 붙잡아 파고다 근처에서 사진을 찍기 위해 계단을 오르기 전에 일본 전통에 따라 공원 내 신토 신사에서 기도하도록 권장하고 있다. 그는 방문객들에게 일본인에게 공원은 신성한 장소라고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 "자신의 예절과 감정만이 아니라 현지인에게 적응해야 한다. 이곳, 이 지역이 오랫동안 깨끗하게 유지되길 바란다. 심지어 내 손자 세대까지도"라고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-japan-tourism-02-bpzl/26int-japan-tourism-02-bpzl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 26 Apr 2026 06:59:10 +0000</pubDate></item><item><title>How a Pop Star’s Portrait Launched the Career of an Unknown Spanish Artist (팝스타의 초상화가 무명 스페인 화가의 커리어를 어떻게 시작시켰나)</title><link>https://www.nytimes.com/2026/04/26/world/europe/nieves-gonzalez-lily-allen-artist-west-end-girl-spain.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-spain-aritst-profile-promo-bwkt/26int-spain-aritst-profile-promo-bwkt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The shushing of brush strokes stopped as Nieves González, painting her latest Baroque-style portrait of a woman in a contemporary puffer jacket, paused to chitchat with a fellow artist in their studio in southern Spain.&lt;br/&gt;(붓질 소리가 멈추었다. 니에베스 곤살레스가 남부 스페인의 작업실에서 동료 화가와 잡담을 나누기 위해 현대식 패딩 점퍼를 입은 여인의 바로크 양식 초상화 작업을 잠시 멈춘 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 항상 수다를 떨어요." 초록색 스웨터에 물감이 튀고 얼굴에 코걸이가 반짝이는 곤살레스가 웃으며 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 최근 스페인 미술계에서 오가는 이야깃거리의 상당 부분은 곤살레스 자신에 관한 것이다. 작년, 영국 가수 릴리 앨런이 곤살레스(29)를 인스타그램 속 푸른 화면에서 발탁해 자신의 최신 앨범 커버를 그리게 했다. 음반 '웨스트 엔드 걸'은 히트를 쳤고, 곤살레스 역시 신문 아트넷이 "하룻밤 사이에 탄생한 미술계 센세이션"이라고 부른 존재가 되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-곤살레스가 물방울 무늬 패딩 점퍼를 입힌 앨런의 이미지는 스포티파이, 광판, 심지어 지미 팰런의 심야 토크쇼 책상 위에서 수백만 회 조회되었다. 3월에는 내셔널 초상화 갤러리 런던이 이 그림을 공개하며 "오늘날 회화의 가장 설득력 있는 목소리 중 하나"라고 칭했고, 이 작품은 데이비드 호크니의 작품과 같은 방에 걸리게 될 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"제 꿈이에요." 곤살레스가 최신작에서 진홍색 패딩 코트를 재빨리 채색하며 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이런 패딩 점퍼들은 곤살레스 작품의 전형적인 특징으로, 그녀의 작품은 옛 거장들의 작품을 연상시키는 자연 풍경 속에 천상적이거나 성서적인 뮤즈들이 당당하게 앉아 있는 모습을 담는다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀는 전형적으로 화려한 분홍색, 하얀색, 파란색 누빔 재킷으로 대상들을 입히고, 또한 그들에게 더 많은 주체성과 주인공 에너지를 부여함으로써 수백 년 된 그 미학을 뒤집는다.
-&lt;&lt;&lt;PARA&gt;&gt;
-6월에 로스앤젤레스에서 자신의 작품을 전시할 예정이지만, 수집가들은 그림이 이미 모두 매진되었다고 불평한다. 곤살레스의 빌바오 기반 화상 세르히오 가르시아는 그녀의 궤적을 "부릉, 부릉, 부르릉!"이라고 묘사했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-어떤 이들에게 곤살레스의 떠오르는 별은 그녀의 나라가 새롭게 얻은 문화적 활기를 반영한다. 다른 이들에게 그녀의 수백 년 된 스페인 바로크 미학 안에서의 현대적인 푹신한 의상 사용은 과거와 현재의 협상을 말해준다. 그녀의 친구들에게 곤살레스가 정말로 외치는 것은 남부 스페인의 진정성이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-에너제틱하고 수다스러운 그녀는 좋아하는 안달루시아 별미를 보며 기쁨에 박수를 친다. 우리가 그라나다 거리를 걸을 때, 그녀는 모든 사람을 알고, 모든 사람과 이야기하는 것 같았다. 길모퉁이에서 친구들과 수다를 떨고, 꽃집, 네일숍, 레코드 가게의 여성들에게 손을 흔들며 인사했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"1년 만에, 나는 이 도시의 여왕이야." 그녀는 농담을 하며, 실제로는 항상 길을 잃는다고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀는 고향에 계신 할아버지가 전화를 걸자 입맞춤을 보냈고, 관광객 미술관 앞에서는 "해시태그 컨템포러리 아트"라고 속삭였다. 한 순간, 그녀는 작업실에 걸린 달력에 나온 통통한 수도사와 닮았다는 농담을 너무 많이 한다고 항의한 남자친구에게 "아모르" — "사랑" — 라고 안심시키며 불렀다. 그녀는 그와 함께 작은 광산 고향인 우엘바 외곽에 시골집을 사는 것보다 더 바라는 것이 없다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"사람들이 저에게 묻곤 해요, '그래서 당신의 목표가 뭔데, 무엇이 되려는 거야?'" 그녀가 작업실에서 말했다. "저는 이미 제 목표를 이뤘다고 생각해요, 제 예술로 생계를 유지하는 것 말이에요."
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀는 캔버스에서 물러나 18번째 생일에 받았던 오래된 노트북의 이미지를 확인했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-곤살레스는 실제 모델이나 사진을 그리는 대신 그 노트북의 AI 시스템을 사용하여 합성 디지털 이미지를 생성한다. 이러한 혼합물은 바로크 초상화, 그녀의 스케치, 그리고 가장 최근 시리즈에서는 에르메스가 그녀를 파리 패션쇼에 초대했을 때 찍은 런웨이 사진들을 조합하여 만들어진다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀가 "프랑켄슈타인"이라고 부르는 이 디지털 콜라주들은 그녀가 그리는 초상화의 영감이 된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-모델들은 가상이지만, 가끔 완성된 초상화에서 자신의 얼굴 흔적을 본다고 그녀는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-얼마 전까지만 해도 이런 초상화들로 생계를 유지하는 것이 불가능해 보였다고 그녀는 말했다. "하지만 우리는 여기 있어요." 그녀가 말했다. "마치 제가 항상 꿈꿔왔던 것인데, 50배는 더 큰 거예요."
-&lt;&lt;&lt;PARA&gt;&gt;
-곤살레스는 우엘바에서 노동자 계층 가정에서 태어나 자랐다. 그녀는 어린 시절 어머니가 그녀의 간청에 굴복하여 빈센트 반 고흐의 '해바라기' 시리즈 테마의 그림 세트를 사주면서 그림 그리기를 시작했다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"왜 그날 어머니가 '그래'라고 말씀하셨는지 모르겠어요." 곤살레스가 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀가 가장 좋아하는 색은 노란색이 되었는데, "미친 사람들이 가장 좋아하는 색"이라고 그녀는 말했다. 17세에 그녀는 세비야 대학교 미술 학부에 등록했다. 그곳은 화가 디에고 벨라스케스와 한동안 프란시스코 데 수르바란의 도시로, 두 화가 모두 그녀에게 큰 영향을 미쳤다. 그녀는 고전 회화 교육을 받고 세비야 미술 시장에서 외국인에게 초상화를 팔고 우엘바의 결혼식 손님 캐리커처를 그려 용돈을 벌었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-세비야에서 미술 석사 학위를 받은 후, 그녀는 우엘바의 화장품 매장에서 일하고 있었고 그곳을 벗어나고 싶었다. 그녀는 이탈리아 친구들이 있었고 언어에 귀가 열려 있었기에 이탈리아에 도전해 북부에서 "두 마귀"의 베이비시터로 일한 후 남부 아퀼라로 도피하여 결국 치과 조수 일자리를 제안받았다. "저요?" 그녀가 말했다. "이에 대해 아무것도 모르는데요."
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀는 자신이 전혀 모르는 일을 외국 땅과 언어로 직업을 얻을 수 있다면, 아마 집으로 돌아가 자신이 가장 잘하는 일에 도전해야 한다는 것을 깨달았다. 그녀는 화가가 되기 위해 1년의 시간을 자기 자신에게 주었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-우엘바로 돌아와 그녀는 초상화 작업을 하며 미술 수업을 가르쳤다. 우엘바의 새 박물관 개관을 위해 바로크 거장의 작품 사본을 한 시간 만에 스케치했다. 갤러리들이 그녀의 작품을 전시하기 시작했다. 그녀의 초상화로 가득 찬 인스타그램 페이지는 팔로워를 얻기 시작했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-작년, 그녀는 지역을 가로질러 그라나다로 남자친구이자 동료 예술가인 아구스 디아스 바스케스와 함께 이사했다. 그녀는 보통 물감 냄새가 가득한 축축한 지하 작업실에서 동료 화가들과 함께 점심을 먹었는데, 그들은 농담을 좋아하는 무리로 카드 게임에서 그녀를 이겨먹는 것을 즐겼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-어느 날 그곳에서 그녀는 예상치 못한 메시지를 받았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-릴리 앨런의 앨범 크리에이티브 디렉터인 리스 클라크가 곤살레스의 페이지를 발견했다. 그녀는 곤살레스의 작품을 앨런에게 전달했는데, 그중에는 백조를 안고 있는 파란 패딩 점퍼를 입은 성스러운 인물의 그림도 포함되어 있었고, 상사가 어떻게 생각하는지 물었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"뭔지 알 때가 있잖아요." 이 과정에 참여한 앨런의 프로듀서이자 가까운 동료인 세브 츄가 말했다. "전에는 이런 걸 본 적이 없어요."
-&lt;&lt;&lt;PARA&gt;&gt;
-앨런의 팀은 누구를 위해 일하는지 밝히지 않은 채 곤살레스에게 연락했다. 하지만 화가는 작업에 바빴고, 그들이 원하는 것을 이해하지 못해 메시지를 무시했다. 그러자 앨런의 팀은 "매우 유명한 사람"을 위한 앨범 커버를 찾고 있다고 강조했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-곤살레스는 곧 화상 통화로 앨런과 연결되었고, 의뢰를 받아 몇 주 동안 작업실에 틀어박혀 플라멩코 음악을 들으며 그림을 그렸다. 곤살레스는 앨런의 팀이 그녀에게 작업할 사진들을 주었지만 상대적으로 지시는 거의 하지 않았다고 말했다 — 그들이 원했던 강함과 독립심을 전달하는 것을 그녀에게 믿고 맡긴 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 창작의 자유를 이용해 곤살레스는 앨런에게 실제로는 한 번도 입은 적 없는 물방울 무늬 패딩을 입혔다. 앨범이 나오자마자, 가수가 말한 대로 미국 배우 데이비드 하버와의 이별에 관한 세부 사항이 담긴 가사들로 곧 헤드라인을 장식했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 홍보는 곤살레스에게도 이익이 되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-곧, 작업실의 친구들은 그녀의 상주 연예인 신분을 놀리기 시작했다. 그들은 곤살레스를 브리트니 스피어스라고 부르며 놀리기 시작했다. 곤살레스가 시간에 대한 새로운 요구들에 대해 불평할 때마다 한 동료가 "오, 브리트니"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-곤살레스는 런던에서 초상화가 공식적으로 공개된 지난 달까지 실제 팝스타 앨런을 직접 만나지 못했다. 그들은 잘 통했다고 곤살레스는 말했지만, 이번에는 입을 다물었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"상상할 수 있겠어요?" 그녀는 가능성에 눈을 크게 뜨며 말했다. "그녀랑 수다를 떠는 걸?"
-&lt;&lt;&lt;PARA&gt;&gt;
-까를로스 바라간이 취재에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/europe/nieves-gonzalez-lily-allen-artist-west-end-girl-spain.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-spain-aritst-profile-promo-bwkt/26int-spain-aritst-profile-promo-bwkt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 19:01:08 +0000</pubDate></item><item><title>40 Years Ago, a Nuclear Catastrophe at Chernobyl (40년 전, 체르노빌의 핵 재앙)</title><link>https://www.nytimes.com/2026/04/26/world/europe/40-years-ago-a-nuclear-catastrophe-at-chernobyl.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/20/world/00int-chernobyl-photos-01/00int-chernobyl-photos-01-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/27/world/americas/us-military-boat-strike-pacific-drugs.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/27/multimedia/27xp-boat-strike-gjtw/27xp-boat-strike-gjtw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 26 Apr 2026 19:54:56 +0000</pubDate></item><item><title>40 Years Ago, a Nuclear Catastrophe at Chernobyl (40년 전, 체르노빌의 핵 재앙)</title><link>https://www.nytimes.com/2026/04/26/world/europe/40-years-ago-a-nuclear-catastrophe-at-chernobyl.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/20/world/00int-chernobyl-photos-01/00int-chernobyl-photos-01-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The reactor exploded early on April 26, 1986, sending a column of fire and radioactive debris high above the Chernobyl nuclear power plant in the Soviet Union.&lt;br/&gt;(1986년 4월 26일 이른 아침, 원자로가 폭발하며 소련 체르노빌 원자력 발전소 위로 불기둥과 방사능 잔해가 치솟았습니다.)&lt;/p&gt;
 &lt;p&gt;The fallout settled over the streets, schools and playgrounds of nearby cities like Pripyat. Trace amounts of particles were eventually detected across the Northern Hemisphere. It was the world’s largest ever accidental release of radioactive material.&lt;br/&gt;(그 낙진은 프리피야트 같은 인근 도시의 거리와 학교, 놀이터에 내려앉았습니다. 미량의 입자는 결국 북반구 전역에서 감지되었습니다. 이는 인류 역사상 최대 규모의 우발적 방사성 물질 누출 사고였습니다.)&lt;/p&gt;
 &lt;p&gt;In the beginning, the Soviet Union said little about the explosion, which was triggered by a safety test and exacerbated by design flaws. Officials obfuscated and denied. After radiation levels rose in Sweden, Soviet officials acknowledged that something had gone wrong. But they hid the scale of the disaster for months, even from the thousands of people sent to fix it.&lt;br/&gt;(처음에 소련은 안전 점검으로 촉발되고 설계 결함으로 악화된 이 폭발에 대해 거의 언급하지 않았습니다. 관리들은 사실을 모호하게 하고 부인했습니다. 스웨덴에서 방사능 수치가 상승한 후에야 소련 관리들은 무언가 잘못되었음을 인정했습니다. 그러나 그들은 수개월 동안, 심지어 이를 수리하러 파견된 수천 명의 사람들에게조차 재앙의 규모를 숨겼습니다.)&lt;/p&gt;
@@ -1399,37 +1293,7 @@ JNIM은 2017년에 설립되었으며, 아랍어로 "이슬람과 무슬림 지�
 &lt;p&gt;The control room of Reactor 4 at the plant in 2026. The safety test that triggered the explosion was held here.&lt;br/&gt;(2026년 발전소 4호기 제어실. 폭발을 촉발한 안전 점검이 이곳에서 진행되었습니다.)&lt;/p&gt;
 &lt;p&gt;Bumper cars in an abandoned amusement park in Pripyat in 2023. The city was founded in 1970 to house Chernobyl workers, less than two miles from the plant.&lt;br/&gt;(2023년 프리피야트의 버려진 놀이공원에 있는 범퍼카. 이 도시는 1970년에 발전소에서 2마일도 안 되는 곳에 체르노빌 노동자들을 수용하기 위해 세워졌습니다.)&lt;/p&gt;
 &lt;p&gt;Soldiers from Ukraine’s National Guard training this month in the Chernobyl exclusion zone. The area, closed after the 1986 disaster, was held by Russian forces for more than a month in 2022, when fighting in the zone damaged power lines and temporarily cut electricity to the plant.&lt;br/&gt;(이번 달 체르노빌 출입 금지 구역에서 훈련 중인 우크라이나 국가 근위대 병사들. 1986년 재앙 이후 폐쇄된 이 지역은 2022년에 러시아 군대가 한 달 넘게 점령했으며, 그 기간 동안 구역 내 교전으로 인해 전력선이 손상되고 발전소의 전기가 일시적으로 차단되었습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/europe/40-years-ago-a-nuclear-catastrophe-at-chernobyl.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/20/world/00int-chernobyl-photos-01/00int-chernobyl-photos-01-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 19:01:26 +0000</pubDate></item><item><title>40 Years After the Meltdown, War Layers Another Disaster on Chernobyl (멜트다운 40년 후, 전쟁이 체르노빌에 또 다른 재앙을 더하다)</title><link>https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-ukraine-chernobyl-01-jzqb/26int-ukraine-chernobyl-01-jzqb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Vines twirl through the broken windows of long-abandoned homes, where the detritus of lives interrupted by disaster are still scattered about: children’s shoes, dishes, coats hanging on pegs, all covered in lichen and dust.&lt;br/&gt;(오래전 버려진 집들의 깨진 창문 사이로 덩굴이 휘감겨 있고, 재해로 중단된 삶의 잔해들—아이들의 신발, 접시, 못에 걸린 코트—이 여기저기 흩어져 있으며, 모두 이끼와 먼지로 덮여 있다.)&lt;/p&gt;
-&lt;p&gt;The ghost towns of the Chernobyl exclusion zone in northern Ukraine emptied of people after the catastrophic explosion and meltdown at the nuclear power plant there 40 years ago, on April 26, 1986. High levels of radiation mean humans may never live in them again.&lt;br/&gt;(1986년 4월 26일, 40년 전 북부 우크라이나 체르노빌 원자력 발전소의 치명적인 폭발과 멜트다운 이후, 체르노빌 출입 금지 구역의 유령 도시들은 사람들이 떠나면서 텅 비었다. 높은 방사능 수치로 인해 인간이 그곳에 다시 살지 못할 수도 있다.)&lt;/p&gt;
-&lt;p&gt;But these towns served another purpose for Ukrainian soldiers who recently trained amid the ruins. The troops practiced defending the irradiated land against a repeat Russian attack, taking precautions to avoid the most radioactive areas. In February 2022, Moscow’s forces entered the zone on the first day of the full-scale invasion, and occupied it for five weeks.&lt;br/&gt;(그러나 이 도시들은 최근 폐허 속에서 훈련한 우크라이나 군인들에게 또 다른 목적을 제공했다. 군인들은 가장 방사능이 높은 지역을 피하기 위해 주의를 기울이며, 러시아의 반복된 공격에 맞서 방사능 오염 지역을 방어하는 훈련을 했다. 2022년 2월, 모스크바 군대는 전면 침공 첫날 이 지역에 진입해 5주 동안 점령했다.)&lt;/p&gt;
-&lt;p&gt;During the exercise, soldiers crouched beside waterlogged, mold-covered walls, aiming their rifles. Others threw live grenades into homes, chipping walls already crumbling from dry rot. Their presence highlighted a reality in the Chernobyl zone: For the foreseeable future, it will be an army-controlled security belt along the border with Belarus, a Russian ally.&lt;br/&gt;(훈련 중, 군인들은 물에 잠기고 곰팡이로 덮인 벽 옆에 웅크려 소총을 겨누었다. 다른 이들은 집 안에 수류탄을 던져, 이미 건조 부패로 무너져 내리는 벽을 부쉈다. 그들의 존재는 체르노빌 지역의 현실을 강조했다: 가까운 미래 동안, 이곳은 러시아의 동맹인 벨라루스와의 국경을 따라 군대가 통제하는 보안 벨트가 될 것이라는 점이다.)&lt;/p&gt;
-&lt;p&gt;“Everything depends on security” in the zone today, said the commander of the battalion training in the area, who asked to be identified by only his nickname, Skif, in keeping with military protocol.&lt;br/&gt;(이 지역에서 훈련 중인 대대장은 “모든 것은 안보에 달려 있다”고 말했다. 그는 군 프로토콜에 따라 별명인 ‘스키프’로만 불러 달라고 요청했다.)&lt;/p&gt;
-&lt;p&gt;The explosion in 1986, set off by a safety test and exacerbated by design flaws, spewed fire and radioactive material into the air, in the world’s worst nuclear disaster. Two workers were killed in the initial explosion, over two dozen emergency responders and cleanup workers died in the three months after from radiation exposure, and some 200,000 people are believed to have been relocated from the area.&lt;br/&gt;(안전 테스트로 촉발되고 설계 결함으로 악화된 1986년의 폭발은 불과 방사성 물질을 공기 중으로 뿜어냈으며, 세계 최악의 원자력 재해였다. 초기 폭발로 두 명의 작업자가 사망했고, 20명이 넘는 응급 대응자와 청소 작업자가 이후 3개월 동안 방사선 노출로 사망했으며, 약 20만 명이 이 지역에서 대피한 것으로 추정된다.)&lt;/p&gt;
-&lt;p&gt;Over the years, the radioactive towns, villages, forests and swamps have posed quandaries for the authorities. The land could never be repopulated, they concluded, because of contamination from long-lingering isotopes, including plutonium.&lt;br/&gt;(수년에 걸쳐, 방사능 오염 도시, 마을, 숲, 습지는 당국에 딜레마를 안겼다. 그들은 플루토늄을 포함한 오래 지속되는 동위원소로 인한 오염 때문에 이 땅에 다시 사람이 살 수 없다고 결론 내렸다.)&lt;/p&gt;
-&lt;p&gt;But it could bring economic benefits. Ideas included using it as a storage area for other countries’ nuclear waste, as a test site for new generations of small modular reactors, as territory for solar farms and as a destination for so-called disaster tourism.&lt;br/&gt;(하지만 경제적 이점을 가져올 수는 있었다. 아이디어로는 다른 국가의 핵폐기물 저장 지역, 차세대 소형 모듈 원자로의 시험 장소, 태양광 발전소 부지, 소위 ‘재앙 관광’ 목적지로 사용하는 것 등이 있었다.)&lt;/p&gt;
-&lt;p&gt;Now, everything, other than modest solar-farm development, is on indefinite hold. Tourists, who began showing up at the site 20 years ago, are not coming back anytime soon, said Shaun Burnie, the senior nuclear specialist with Greenpeace Ukraine. Chernobyl has become one disaster layered on another: war fought in a radioactive zone.&lt;br/&gt;(이제는 소규모 태양광 발전소 개발을 제외한 모든 것이 무기한 보류되었다. 20년 전 이곳을 방문하기 시작한 관광객들은 당분간 돌아오지 않을 것이라고 그린피스 우크라이나의 수석 핵 전문가 숀 버니가 말했다. 체르노빌은 재앙 위에 또 다른 재앙이 겹쳐진 곳이 되었다: 방사능 지역에서 치러지는 전쟁이다.)&lt;/p&gt;
-&lt;p&gt;Russia’s invasion in 2022 harmed efforts to contain radiation in multiple ways. Moscow’s forces occupied the crippled nuclear power station and used it as a staging area for attacks on Kyiv, the Ukrainian capital, early in the war. Their heavy armored vehicles stirred up small amounts of radioactive dust. Weeks later, Russian troops were defeated in the battle for Kyiv, and they withdrew from Chernobyl.&lt;br/&gt;(2022년 러시아의 침공은 여러 방식으로 방사능 봉쇄 노력을 해쳤다. 모스크바 군대는 손상된 원자력 발전소를 점령하고 전쟁 초기 우크라이나 수도 키이우 공격의 거점으로 사용했다. 그들의 중장갑 차량은 소량의 방사성 먼지를 휘저었다. 몇 주 후, 러시아 군대는 키이우 전투에서 패배하고 체르노빌에서 철수했다.)&lt;/p&gt;
-&lt;p&gt;More worrisome are longer-term war risks. Scientists cannot reach wells that measure groundwater radiation, lest they step on a land mine. Also owing to mines, firefighters cannot rush to extinguish wildfires that spread radiation in smoke. Foreign scientists who studied radiation in the environment have fled.&lt;br/&gt;(더 우려되는 것은 장기적인 전쟁 위험이다. 과학자들은 지뢰를 밟을까 두려워 지하수 방사능을 측정하는 우물에 접근할 수 없다. 또한 지뢰 때문에 소방관들은 연기로 방사능을 퍼뜨리는 산불을 진압하러 달려갈 수 없다. 환경 내 방사능을 연구하던 외국 과학자들은 떠났다.)&lt;/p&gt;
-&lt;p&gt;In February 2025, Russia flew an exploding Iranian-designed Shahed drone into the gigantic steel shell that encloses an older, rickety structure built over the ruined reactor shortly after the accident. That older structure, known as the sarcophagus, is at risk of collapsing and releasing radiation.&lt;br/&gt;(2025년 2월, 러시아는 사고 직후 파괴된 원자로 위에 세워진 낡고 불안정한 구조물을 감싸는 거대한 강철 외피로 이란 설계 샤헤드 드론을 날려 폭발시켰다. ‘석관’으로 알려진 이 낡은 구조물은 붕괴되어 방사능을 누출할 위험이 있다.)&lt;/p&gt;
-&lt;p&gt;The drone explosion punched a hole in the $2.5 billion outer shell, called the New Safe Confinement, and started a fire that burned through material needed to maintain the airtight seal. No radiation was released, but the strike set back two decades of efforts to safely isolate the worst of Chernobyl’s radiation.&lt;br/&gt;(드론 폭발은 ‘신안전봉쇄’라는 25억 달러짜리 외피에 구멍을 뚫고, 밀봉 유지에 필요한 재료를 태우는 화재를 일으켰다. 방사능 누출은 없었지만, 이 공격은 체르노빌 최악의 방사능을 안전하게 격리하려는 20년간의 노력을 후퇴시켰다.)&lt;/p&gt;
-&lt;p&gt;The attack came a day before the opening of the influential Munich Security Conference in Germany, a warning to Ukraine’s Western allies that the war could spread radiation to Europe, from Chernobyl or other nuclear sites.&lt;br/&gt;(이 공격은 독일에서 영향력 있는 뮌헨 안보 회의가 열리기 하루 전에 발생했으며, 우크라이나의 서방 동맹국들에게 전쟁이 체르노빌이나 다른 핵 시설에서 유럽으로 방사능을 퍼뜨릴 수 있다는 경고였다.)&lt;/p&gt;
-&lt;p&gt;It is unclear how the confinement structure can be repaired. To protect workers from radiation, it had been built away from the reactor and later moved on rails into position over it. Now, repair work will have to be done in the highly radioactive zone, possibly by cycling large numbers of workers through stints that cannot exceed 11 hours per year, to comply with safety rules.&lt;br/&gt;(봉쇄 구조물을 어떻게 수리할 수 있을지는 불분명하다. 방사능으로부터 작업자를 보호하기 위해 원자로에서 떨어져 건설된 후 나중에 레일 위로 이동하여 그 위에 배치되었다. 이제 수리 작업은 방사능이 매우 높은 지역에서 이루어져야 하며, 안전 규정을 준수하기 위해 연간 11시간을 초과할 수 없는 교대 근무로 많은 수의 작업자를 순환시켜야 할 가능성이 있다.)&lt;/p&gt;
-&lt;p&gt;The European Bank for Reconstruction and Development has estimated that repairs will cost $500 million and last four years. Foreign donors, including France and Britain, have so far pledged 70 million euros, or about $82 million, for urgent repairs. The Russian drone most likely cost no more than about $50,000.&lt;br/&gt;(유럽부흥개발은행은 수리 비용이 5억 달러이며 4년 동안 지속될 것으로 추정했다. 프랑스와 영국을 포함한 외국 기부자들은 긴급 수리를 위해 지금까지 7천만 유로(약 8천200만 달러)를 약속했다. 러시아 드론은 아마도 약 5만 달러 이하의 비용이 들었을 것이다.)&lt;/p&gt;
-&lt;p&gt;Easier to repair was a nearby solar farm that was struck by shrapnel from the drone. The 18 damaged panels were replaced.&lt;br/&gt;(수리가 더 쉬웠던 것은 드론의 파편에 맞은 인근 태양광 발전소였다. 손상된 패널 18개가 교체되었다.)&lt;/p&gt;
-&lt;p&gt;Two solar plants are operating in the Chernobyl zone, and a third is under construction despite the war. They sell electricity for the grid using high-voltage transmission lines originally built for the reactors, and they provide backup power for cooling ponds for nuclear waste.&lt;br/&gt;(체르노빌 지역에서는 두 개의 태양광 발전소가 가동 중이며, 전쟁에도 불구하고 세 번째 발전소가 건설 중이다. 이들은 원래 원자로용으로 건설된 고압 송전선을 사용하여 전력을 전력망에 판매하고, 핵폐기물 냉각 연못의 백업 전력을 제공한다.)&lt;/p&gt;
-&lt;p&gt;Solar farms, which are unaffected by radiation and are largely impervious to missile and drone attacks because they are dispersed over large areas, still have a viable future in the exclusion zone, said Yevgen Variagin, the chief executive of Solar Chernobyl. The company opened the first solar plant there in 2018.&lt;br/&gt;(방사능의 영향을 받지 않고 넓은 지역에 분산되어 미사일 및 드론 공격에 거의 영향을 받지 않는 태양광 발전소는 여전히 출입 금지 구역에서 실행 가능한 미래를 가지고 있다고 솔라 체르노빌의 최고경영자 예브겐 바랴긴이 말했다. 이 회사는 2018년 그곳에 첫 번째 태양광 발전소를 열었다.)&lt;/p&gt;
-&lt;p&gt;Otherwise, the area around Chernobyl is now primarily a military site, fortified against attacks from the north toward Kyiv and against possible Russian sabotage of the reactor or waste-storage facilities.&lt;br/&gt;(그 외에도 체르노빌 주변 지역은 현재 주로 군사 시설로, 북쪽에서 키이우로 향하는 공격과 원자로나 폐기물 저장 시설에 대한 러시아의 잠재적 사보타주에 대비해 요새화되어 있다.)&lt;/p&gt;
-&lt;p&gt;Tank traps, which look like X’s made from steel beams, and coils of razor wire stretch out over fields in the zone. At military positions, paths are covered in nets to protect against drones.&lt;br/&gt;(강철 빔으로 만든 X자 모양의 전차 방어 장치와 코일형 철조망이 이 지역의 들판에 펼쳐져 있다. 군사 진지에서는 길이 드론으로부터 보호하기 위해 그물로 덮여 있다.)&lt;/p&gt;
-&lt;p&gt;These defenses are typical for much of the front line in Ukraine. Other military preparations are peculiar to the radiation zone.&lt;br/&gt;(이러한 방어 시설은 우크라이나의 전선 대부분에서 전형적이다. 다른 군사 준비는 방사능 지역에 특화되어 있다.)&lt;/p&gt;
-&lt;p&gt;To fight in this landscape, the Ukrainian Army took special precautions. It did not dig trenches or burrow bunkers into the ground, lest it expose soldiers to radiation in the soil. Instead, aboveground berms or bunkers were built into hills of fresh sand that was trucked in.&lt;br/&gt;(이러한 지형에서 싸우기 위해 우크라이나군은 특별한 예방 조치를 취했다. 병사들이 토양 속 방사능에 노출되는 것을 막기 위해 참호를 파거나 지하 벙커를 굴착하지 않았다. 대신, 트럭으로 운반된 신선한 모래 언덕에 지상 둑이나 벙커를 건설했다.)&lt;/p&gt;
-&lt;p&gt;Looking like large yellow anthills, these now dot the landscape around the Chernobyl plant.&lt;br/&gt;(노란 큰 개미집처럼 보이는 이 구조물들이 이제 체르노빌 발전소 주변 풍경에 점재하고 있다.)&lt;/p&gt;
-&lt;p&gt;Soldiers patrol the ghost towns, where buildings are covered in moss and surrounded by mature trees, lost in a swirl of dense vegetation like ancient Mayan ruins.&lt;br/&gt;(군인들은 건물이 이끼로 덮이고 성숙한 나무로 둘러싸여 있으며, 고대 마야 유적처럼 울창한 초목 소용돌이 속에 사라진 유령 도시들을 순찰한다.)&lt;/p&gt;
-&lt;p&gt;In the recent exercise, soldiers with the 28th Regiment of the National Guard maneuvered amid abandoned homes with corroded corrugated-metal roofs and broken windows.&lt;br/&gt;(최근 훈련에서, 국가 방위군 제28연대의 군인들은 부식된 골판지 금속 지붕과 깨진 창문이 있는 버려진 집들 사이에서 기동했다.)&lt;/p&gt;
-&lt;p&gt;Though devoid of people, the area must be defended against further damage, said Skif, the commander.&lt;br/&gt;(사람이 없지만, 이 지역은 추가 피해로부터 방어되어야 한다고 지휘관 스키프가 말했다.)&lt;/p&gt;
-&lt;p&gt;Compared with destruction inflicted elsewhere in Ukraine, an attack that released more radiation at Chernobyl, he said, would be “on a completely different scale.”&lt;br/&gt;(우크라이나 다른 곳에서 가해진 파괴와 비교하여, 체르노빌에서 더 많은 방사능을 누출하는 공격은 “완전히 다른 수준”이 될 것이라고 그는 말했다.)&lt;/p&gt;
-&lt;p&gt;Constant Méheut contributed reporting from Kyiv, Ukraine.&lt;br/&gt;(콩스탕 메외가 우크라이나 키이우에서 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/26/multimedia/26int-ukraine-chernobyl-01-jzqb/26int-ukraine-chernobyl-01-jzqb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 26 Apr 2026 01:32:14 +0000</pubDate></item><item><title>Iranian Negotiators Set to Return to Pakistan to Try to Revive Truce Talks (이란 협상단, 휴전 협상 재개 위해 파키스탄 귀환 예정)</title><link>https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26-iran-us-fgzw/26-iran-us-fgzw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/europe/40-years-ago-a-nuclear-catastrophe-at-chernobyl.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/20/world/00int-chernobyl-photos-01/00int-chernobyl-photos-01-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Apr 2026 19:01:26 +0000</pubDate></item><item><title>Iranian Negotiators Set to Return to Pakistan to Try to Revive Truce Talks (이란 협상단, 휴전 협상 재개 위해 파키스탄 귀환 예정)</title><link>https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26-iran-us-fgzw/26-iran-us-fgzw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Iranian negotiators were expected to head back to Pakistan on Sunday as the on-and-off talks with the United States to end the war in the Middle East remained up in the air.&lt;br/&gt;(이란 협상단이 일요일 파키스탄으로 돌아갈 예정이며, 중동 전쟁 종식을 위한 미국과의 간헐적 협상은 여전히 불투명한 상황이다.)&lt;/p&gt;
 &lt;p&gt;Abbas Araghchi, the Iranian foreign minister, will return to the Pakistani capital, Islamabad, according to Iranian state media reports. Pakistan is the lead intermediary in U.S.-Iran cease-fire negotiations.&lt;br/&gt;(이란 국영 매체 보도에 따르면, 아바스 아락치 이란 외무장관이 파키스탄 수도 이슬라마바드로 복귀할 예정이다. 파키스탄은 미국-이란 휴전 협상의 주요 중개자 역할을 하고 있다.)&lt;/p&gt;
 &lt;p&gt;The talks hit a snag on Saturday as Mr. Araghchi was wrapping up his last round of meetings with the Pakistani mediators. President Trump then abruptly announced that some of his top aides — including Steve Witkoff, Mr. Trump’s special envoy, and Jared Kushner, the president’s son-in-law — would not travel to Pakistan as planned for a new round of talks.&lt;br/&gt;(토요일, 아락치 장관이 파키스탄 중개자들과의 마지막 회의를 마무리하던 중 협상에 난관이 생겼다. 이후 도널드 트럼프 대통령은 자신의 최측근들인 스티브 위트코프 특사와 사위 재러드 쿠슈너 등이 계획된 새로운 협상 라운드를 위해 파키스탄으로 가지 않을 것이라고 갑작스럽게 발표했다.)&lt;/p&gt;
@@ -1598,7 +1462,7 @@ JNIM은 2017년에 설립되었으며, 아랍어로 "이슬람과 무슬림 지�
 재무부 대변인은 트럼프 행정부가 이미 금 출처를 식별하기 위한 조치를 취하고 있다고 말했다. 외국 금을 차단하지는 않았다고 그녀는 말했는데, 그렇게 하면 수요를 충족시키는 것이 불가능해지기 때문이다. 하지만 정부는 구매를 모니터링한다.
 &lt;&lt;&lt;PARA&gt;&gt;
 조폐국은 여전히 금 추적 정책을 공개하지 않았다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html</guid><pubDate>Sun, 26 Apr 2026 02:57:39 +0000</pubDate></item><item><title>Iran and U.S. Sink Into Awkward Limbo of ‘No War, No Peace’ (이란과 미국, '전쟁도 평화도 아닌' 어색한 교착 상태에 빠지다)</title><link>https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-iran-strategy-assess-01-qwjh/26int-iran-strategy-assess-01-qwjh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html</guid><pubDate>Mon, 27 Apr 2026 04:34:55 +0000</pubDate></item><item><title>Iran and U.S. Sink Into Awkward Limbo of ‘No War, No Peace’ (이란과 미국, '전쟁도 평화도 아닌' 어색한 교착 상태에 빠지다)</title><link>https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/04/26/multimedia/26int-iran-strategy-assess-01-qwjh/26int-iran-strategy-assess-01-qwjh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;With plans for U.S.-Iran peace talks derailed, at least for now, Tehran and Washington are sinking into an awkward limbo of neither peace, nor war, each hoping to outlast the other in a standoff with drastic stakes for the global economy.&lt;br/&gt;(미국과 이란 간 평화 회담 계획이 적어도 당분간은 무산되면서, 테헤란과 워싱턴은 '전쟁도 평화도 아닌' 어색한 교착 상태에 빠져들고 있다. 양측은 세계 경제에 막대한 영향을 미칠 대치 상황에서 상대방보다 오래 버티길 바라고 있다.)&lt;/p&gt;
 &lt;p&gt;Iranian officials seem confident they can withstand economic pain caused by war longer than President Trump, analysts say. But they are still concerned that without the momentum of negotiations, they will remain trapped under the persistent threat of U.S. or Israeli attacks.&lt;br/&gt;(분석가들에 따르면, 이란 관리들은 트럼프 대통령보다 전쟁으로 인한 경제적 고통을 더 오래 견딜 수 있다고 확신하는 것으로 보인다. 그러나 그들은 여전히 협상의 동력 없이는 미국이나 이스라엘의 지속적인 공격 위협 아래 갇힌 채 남아 있을 것을 우려하고 있다.)&lt;/p&gt;
 &lt;p&gt;“What’s happening is something akin to what we had at the end of the 12-day war, which is ending the war, but without any permanency,” Sasan Karimi, a vice president in Iran’s previous government and political scientist at the University of Tehran, said of the Israel-Iran war last June.&lt;br/&gt;(이란 전 정부 부통령이자 테헤란 대학 정치학자인 사산 카리미는 지난 6월의 이스라엘-이란 전쟁에 대해 "우리가 12일 전쟁 말기에 겪었던 것과 유사한 일이 벌어지고 있다. 전쟁은 끝났지만 영구성은 없다"고 말했다.
@@ -1683,4 +1547,4 @@ JNIM은 2017년에 설립되었으며, 아랍어로 "이슬람과 무슬림 지�
 &lt;p&gt;In a statement issued during the offensive, JNIM said it had captured the northern city of Kidal and the central city of Mopti, as well as military bases in nearby Sevaré and in Gao. It named the Azawad Liberation Front, an armed separatist movement of the Tuareg ethnic minority, as its partner in the attacks.&lt;br/&gt;(공세 중 발표된 성명에서 JNIM은 북부 도시 키달과 중부 도시 몹티, 그리고 인근 세바레와 가오의 군사 기지를 점령했다고 밝혔습니다. 또한 투아레그 소수 민족의 무장 분리주의 운동인 아자와드 해방 전선을 공격의 파트너로 지목했습니다.)&lt;/p&gt;
 &lt;p&gt;In an interview with the state broadcaster ORTM on Sunday, Maj. Gen. Oumar Diarra, the Malian military’s chief of general staff, said that more than 200 terrorists had been “neutralized” during counteroffensives against the insurgents, who he said were trying to disguise themselves by wearing military uniforms.&lt;br/&gt;(일요일 국영 방송 ORTM과의 인터뷰에서 말리군 참모총장 우마르 디아라 소장은 반군에 대한 역공세 동안 200명 이상의 테러리스트가 "무력화"되었으며, 이들은 군복을 입고 변장하려 했다고 말했습니다.)&lt;/p&gt;
 &lt;p&gt;“Search and sweep operations are continuing in practically all areas and we are searching for them, pursuing them, and destroying them wherever they are found,” he said.&lt;br/&gt;(그는 "거의 모든 지역에서 수색 및 소탕 작전이 계속되고 있으며, 우리는 그들을 찾고, 추적하고, 발견되는 곳마다 파괴하고 있습니다."라고 말했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/27/world/africa/mali-defense-minster-killed.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/27/multimedia/27int-mali-wmkb/27int-mali-wmkb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 27 Apr 2026 00:03:23 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/04/27/world/africa/mali-defense-minster-killed.html</guid><enclosure url="https://static01.nyt.com/images/2026/04/27/multimedia/27int-mali-wmkb/27int-mali-wmkb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 27 Apr 2026 04:08:44 +0000</pubDate></item></channel></rss>
