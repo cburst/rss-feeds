@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 23:42:43 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 01:48:12 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>개발한 – developed</title><link>urn:urn:vocab:개발한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>양육자 – caregiver</title><link>urn:urn:vocab:양육자</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589061434060-a05a5335bfbb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXJlZ2l2ZXJ8ZW58MHx8fHwxNzc3MzA4NDg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="양육자 (caregiver)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'Caregiver-Child Relationship Checkup' Developed by Duksung Women's University Professor Park Woo-Cheol Selected as Pilot Project for Seoul and Busan (덕성여대 박우철 교수 개발 ‘양육자-자녀 관계검진’-서울·부산 시범사업 선정) &lt;&lt;br/&gt;&lt;em&gt;'Caregiver-Child Relationship Checkup' Developed by Duksung Women's University Professor Park Woo-Cheol Selected as Pilot Project for Seoul and Busan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;'Caregiver-Child Relationship Checkup' Developed by Duksung Women's University Professor Park Woo-Cheol Selected as Pilot Project for Seoul and Busan (덕성여대 박우철 교수 개발 ‘양육자-자녀 관계검진’-서울·부산 시범사업 선정)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;'Caregiver-Child Relationship Checkup' Developed by Duksung Women's University Professor Park Woo-Cheol Selected as Pilot Project for Seoul and Busan&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(덕성여자대학교(총장 민재홍) 아동가족학전공 박우철 교수가 공동 개발한 부모-자녀 관계 컨설팅 프로그램 ‘양육자-자녀 관계검진’이 서울시와 부산시 시범사업으로 선정되며 공공 영역에서의 본격적인 보급에 나선다&lt;br/&gt;&lt;em&gt;The parent-child relationship consulting program 'Caregiver-Child Relationship Checkup', co-developed by Professor Park Woo-Cheol of the Department of Child and Family Studies at Duksung Women's University (President Min Jae-hong), has been selected as a pilot project by Seoul and Busan, marking its full-scale deployment in the public sector.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;양육자는 아이를 돌본다.&lt;br/&gt;&lt;em&gt;The caregiver takes care of the child.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 양육자는 친절하다.&lt;br/&gt;&lt;em&gt;The caregiver is kind.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589061434060-a05a5335bfbb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXJlZ2l2ZXJ8ZW58MHx8fHwxNzc3MzA4NDg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="양육자 (caregiver)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'Caregiver-Child Relationship Checkup' Developed by Duksung Women's University Professor Park Woo-Cheol Selected as Pilot Project for Seoul and Busan (덕성여대 박우철 교수 개발 ‘양육자-자녀 관계검진’-서울·부산 시범사업 선정) &lt;&lt;br/&gt;&lt;em&gt;'Caregiver-Child Relationship Checkup' Developed by Duksung Women's University Professor Park Woo-Cheol Selected as Pilot Project for Seoul and Busan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;'Caregiver-Child Relationship Checkup' Developed by Duksung Women's University Professor Park Woo-Cheol Selected as Pilot Project for Seoul and Busan (덕성여대 박우철 교수 개발 ‘양육자-자녀 관계검진’-서울·부산 시범사업 선정)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;'Caregiver-Child Relationship Checkup' Developed by Duksung Women's University Professor Park Woo-Cheol Selected as Pilot Project for Seoul and Busan&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(덕성여자대학교(총장 민재홍) 아동가족학전공 박우철 교수가 공동 개발한 부모-자녀 관계 컨설팅 프로그램 ‘양육자-자녀 관계검진’이 서울시와 부산시 시범사업으로 선정되며 공공 영역에서의 본격적인 보급에 나선다&lt;br/&gt;&lt;em&gt;The parent-child relationship consulting program 'Caregiver-Child Relationship Checkup', co-developed by Professor Park Woo-Cheol of the Department of Child and Family Studies at Duksung Women's University (President Min Jae-hong), has been selected as a pilot project by Seoul and Busan, marking its full-scale deployment in the public sector.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;양육자는 아이를 돌본다.&lt;br/&gt;&lt;em&gt;The caregiver takes care of the child.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 양육자는 친절하다.&lt;br/&gt;&lt;em&gt;The caregiver is kind.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 28 Apr 2026 01:48:11 +0900</pubDate><guid isPermaLink="false">vocab-8ee9fd7f5cb9cffcc591c590d6d4511812c2b729</guid><enclosure url="https://images.unsplash.com/photo-1589061434060-a05a5335bfbb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXJlZ2l2ZXJ8ZW58MHx8fHwxNzc3MzA4NDg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="120273" /><ns2:content url="https://images.unsplash.com/photo-1589061434060-a05a5335bfbb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXJlZ2l2ZXJ8ZW58MHx8fHwxNzc3MzA4NDg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1589061434060-a05a5335bfbb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXJlZ2l2ZXJ8ZW58MHx8fHwxNzc3MzA4NDg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>양육자</category></item><item><title>개발한 – developed</title><link>urn:urn:vocab:개발한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624523026384-255f52152082?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZWR8ZW58MHx8fHwxNzc3MzAwOTU5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개발한 (developed)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(덕성여자대학교(총장 민재홍) 아동가족학전공 박우철 교수가 공동 개발한 부모-자녀 관계 컨설팅 프로그램 ‘양육자-자녀 관계검진’이 서울시와 부산시 시범사업으로 선정되며 공공 영역에서의 본격적인 보급에 나선다&lt;br/&gt;&lt;em&gt;The parent-child relationship consulting program 'Caregiver-Child Relationship Checkup', co-developed by Professor Park Woo-cheol of the Department of Child and Family Studies at Duksung Women's University (President Min Jae-hong), has been selected as a pilot project by Seoul and Busan cities, and will begin full-scale distribution in the public sector.&lt;/em&gt;&lt;/p&gt;

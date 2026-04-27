@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 23:42:49 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 01:48:17 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>후보에 – to candidate</title><link>urn:urn:vocab:후보에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>알파고 – AlphaGo</title><link>urn:urn:vocab:알파고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee Meets 'Father of AlphaGo' – Meets Google DeepMind CEO Demis Hassabis (李대통령 ‘알파고 아버지’ 만났다… 하사비스 구글 딥마인드 CEO 접견) &lt;&lt;br/&gt;&lt;em&gt;President Lee Meets 'Father of AlphaGo' – Meets Google DeepMind CEO Demis Hassabis&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;President Lee Meets 'Father of AlphaGo' – Meets Google DeepMind CEO Demis Hassabis (李대통령 ‘알파고 아버지’ 만났다… 하사비스 구글 딥마인드 CEO 접견)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;![CDATA[&lt;h1&gt;President Lee Meets 'Father of AlphaGo' – Meets Google DeepMind CEO Demis Hassabis&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령이 ‘알파고의 아버지’ 데미스 허사비스 구글 딥마인드 최고경영자(CEO)를 27일 만나 AI 기술 발전에 따른 일자리 문제와 부의 재분배 등을 논의했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung met Demis Hassabis, the 'father of AlphaGo' and CEO of Google DeepMind, on the 27th to discuss job issues and wealth redistribution due to AI technology development.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;알파고는 바둑을 잘 둡니다.&lt;br/&gt;&lt;em&gt;AlphaGo is good at playing Go.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 알파고를 좋아합니다.&lt;br/&gt;&lt;em&gt;I like AlphaGo.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee Meets 'Father of AlphaGo' – Meets Google DeepMind CEO Demis Hassabis (李대통령 ‘알파고 아버지’ 만났다… 하사비스 구글 딥마인드 CEO 접견) &lt;&lt;br/&gt;&lt;em&gt;President Lee Meets 'Father of AlphaGo' – Meets Google DeepMind CEO Demis Hassabis&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;President Lee Meets 'Father of AlphaGo' – Meets Google DeepMind CEO Demis Hassabis (李대통령 ‘알파고 아버지’ 만났다… 하사비스 구글 딥마인드 CEO 접견)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;![CDATA[&lt;h1&gt;President Lee Meets 'Father of AlphaGo' – Meets Google DeepMind CEO Demis Hassabis&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령이 ‘알파고의 아버지’ 데미스 허사비스 구글 딥마인드 최고경영자(CEO)를 27일 만나 AI 기술 발전에 따른 일자리 문제와 부의 재분배 등을 논의했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung met Demis Hassabis, the 'father of AlphaGo' and CEO of Google DeepMind, on the 27th to discuss job issues and wealth redistribution due to AI technology development.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;알파고는 바둑을 잘 둡니다.&lt;br/&gt;&lt;em&gt;AlphaGo is good at playing Go.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 알파고를 좋아합니다.&lt;br/&gt;&lt;em&gt;I like AlphaGo.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 28 Apr 2026 01:48:17 +0900</pubDate><guid isPermaLink="false">vocab-3acb4c2324854125929d6f6e001ea48798418c7f</guid><category>알파고</category></item><item><title>후보에 – to candidate</title><link>urn:urn:vocab:후보에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758520144437-f068ecaf0d83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGNhbmRpZGF0ZXxlbnwwfHx8fDE3NzczMDA5NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="후보에 (to candidate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Kim Young-hwan, Current Governor, Named People Power Party Candidate for North Chungcheong Province Governor (국민의힘 충북지사 후보에 김영환 현 지사) &lt;&lt;br/&gt;&lt;em&gt;Kim Young-hwan, Current Governor, Named People Power Party Candidate for North Chungcheong Province Governor&lt;/em&gt;&lt;/p&gt;
