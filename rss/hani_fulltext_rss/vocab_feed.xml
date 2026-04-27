@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 15:25:17 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 19:33:45 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>연구실 – laboratory</title><link>urn:urn:vocab:연구실</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>연구실은 – laboratory</title><link>urn:urn:vocab:연구실은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYWJvcmF0b3J5fGVufDB8fHx8MTc3NzI3MTExNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연구실은 (laboratory)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(PIKA 연구실은 &amp;#x27;개인화 지능&amp;#x27;을 핵심 키워드로, 사용자와 환경에 최적화된 추론을 제공하는 AI 모델 연구를 수행한다&lt;br/&gt;&lt;em&gt;(PIKA Lab conducts research on AI models that provide reasoning optimized for users and environments, with 'personalized intelligence' as a core keyword.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(연구실은 온디바이스 환경에서 동작하는 소형 언어모델 기반 개인화 AI 구현에 주력하고 있다&lt;br/&gt;&lt;em&gt;(The lab focuses on implementing personalized AI based on small language models that operate in on-device environments.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(현재 연구실은 초기 단계로, 외부 연구진과 협업을 통해 연구를 수행하며 학생 연구원을 모집하고 있다&lt;br/&gt;&lt;em&gt;(Currently in its early stages, the lab conducts research through collaboration with external researchers and is recruiting student researchers.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;연구실은 조용합니다.&lt;br/&gt;&lt;em&gt;The lab is quiet.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;연구실은 깨끗합니다.&lt;br/&gt;&lt;em&gt;The lab is clean.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYWJvcmF0b3J5fGVufDB8fHx8MTc3NzI3MTExNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연구실은 (laboratory)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(PIKA 연구실은 &amp;#x27;개인화 지능&amp;#x27;을 핵심 키워드로, 사용자와 환경에 최적화된 추론을 제공하는 AI 모델 연구를 수행한다&lt;br/&gt;&lt;em&gt;(PIKA Lab conducts research on AI models that provide reasoning optimized for users and environments, with 'personalized intelligence' as a core keyword.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(연구실은 온디바이스 환경에서 동작하는 소형 언어모델 기반 개인화 AI 구현에 주력하고 있다&lt;br/&gt;&lt;em&gt;(The lab focuses on implementing personalized AI based on small language models that operate in on-device environments.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(현재 연구실은 초기 단계로, 외부 연구진과 협업을 통해 연구를 수행하며 학생 연구원을 모집하고 있다&lt;br/&gt;&lt;em&gt;(Currently in its early stages, the lab conducts research through collaboration with external researchers and is recruiting student researchers.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;연구실은 조용합니다.&lt;br/&gt;&lt;em&gt;The lab is quiet.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;연구실은 깨끗합니다.&lt;br/&gt;&lt;em&gt;The lab is clean.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 27 Apr 2026 19:33:45 +0900</pubDate><guid isPermaLink="false">vocab-46c96337e3c45f25f1a1294bf5f424c1d9af011f</guid><enclosure url="https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYWJvcmF0b3J5fGVufDB8fHx8MTc3NzI3MTExNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="117012" /><ns2:content url="https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYWJvcmF0b3J5fGVufDB8fHx8MTc3NzI3MTExNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYWJvcmF0b3J5fGVufDB8fHx8MTc3NzI3MTExNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>연구실은</category></item><item><title>한국형 – Korean-style</title><link>urn:urn:vocab:한국형</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624375308497-2e3bde9879f2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxLb3JlYW4tc3R5bGV8ZW58MHx8fHwxNzc3Mjc4NTQ0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="한국형 (Korean-style)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(서울시와 부산시를 시작으로 한 이번 시범사업은 향후 전국 단위 확산 가능성도 점쳐지며, 가족 관계 진단과 컨설팅을 결합한 한국형 가족 지원 모델로 자리매김할지 주목된다&lt;br/&gt;&lt;em&gt;This pilot project, starting with Seoul and Busan, is expected to potentially expand nationwide in the future, and it is drawing attention as to whether it will establish itself as a Korean-style family support model that combines family relationship diagnosis and consulting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Government pushes for legislation and new exchange (한국형 ‘자발적 탄소시장’ 만든다…정부, 법 제정·거래소 신설 추진) &lt;&lt;br/&gt;&lt;em&gt;Government pushes for legislation and new exchange (Korea to create a 'voluntary carbon market'... Government pushes for legislation and establishment of exchange) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;박홍근 기획예산처 장관이 27일 오전 서울 중구 대한상공회의소에서 열린 ‘한국형 자발적 탄소시장 얼라이언스 출범식’에 참석해 개회사를 하고 있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Minister of Planning and Budget Park Hong-geun attends the 'Launching Ceremony of the Korean Voluntary Carbon Market Alliance' held at the Korea Chamber of Commerce and Industry in Jung-gu, Seoul on the morning of the 27th, delivering an opening speech.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 식당은 한국형 음식을 팔아요.&lt;br/&gt;&lt;em&gt;This restaurant sells Korean-style food.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한국형 디자인이 아름다워요.&lt;br/&gt;&lt;em&gt;The Korean-style design is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624375308497-2e3bde9879f2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxLb3JlYW4tc3R5bGV8ZW58MHx8fHwxNzc3Mjc4NTQ0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="한국형 (Korean-style)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(서울시와 부산시를 시작으로 한 이번 시범사업은 향후 전국 단위 확산 가능성도 점쳐지며, 가족 관계 진단과 컨설팅을 결합한 한국형 가족 지원 모델로 자리매김할지 주목된다&lt;br/&gt;&lt;em&gt;This pilot project, starting with Seoul and Busan, is expected to potentially expand nationwide in the future, and it is drawing attention as to whether it will establish itself as a Korean-style family support model that combines family relationship diagnosis and consulting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Government pushes for legislation and new exchange (한국형 ‘자발적 탄소시장’ 만든다…정부, 법 제정·거래소 신설 추진) &lt;&lt;br/&gt;&lt;em&gt;Government pushes for legislation and new exchange (Korea to create a 'voluntary carbon market'... Government pushes for legislation and establishment of exchange) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;박홍근 기획예산처 장관이 27일 오전 서울 중구 대한상공회의소에서 열린 ‘한국형 자발적 탄소시장 얼라이언스 출범식’에 참석해 개회사를 하고 있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Minister of Planning and Budget Park Hong-geun attends the 'Launching Ceremony of the Korean Voluntary Carbon Market Alliance' held at the Korea Chamber of Commerce and Industry in Jung-gu, Seoul on the morning of the 27th, delivering an opening speech.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 식당은 한국형 음식을 팔아요.&lt;br/&gt;&lt;em&gt;This restaurant sells Korean-style food.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한국형 디자인이 아름다워요.&lt;br/&gt;&lt;em&gt;The Korean-style design is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 27 Apr 2026 17:29:05 +0900</pubDate><guid isPermaLink="false">vocab-e3e8fa60d1b914f80ac97bb2f08e14ac0650f6b0</guid><enclosure url="https://images.unsplash.com/photo-1624375308497-2e3bde9879f2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxLb3JlYW4tc3R5bGV8ZW58MHx8fHwxNzc3Mjc4NTQ0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="134134" /><ns2:content url="https://images.unsplash.com/photo-1624375308497-2e3bde9879f2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxLb3JlYW4tc3R5bGV8ZW58MHx8fHwxNzc3Mjc4NTQ0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1624375308497-2e3bde9879f2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxLb3JlYW4tc3R5bGV8ZW58MHx8fHwxNzc3Mjc4NTQ0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>한국형</category></item><item><title>연구실 – laboratory</title><link>urn:urn:vocab:연구실</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYWJvcmF0b3J5fGVufDB8fHx8MTc3NzI3MTExNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연구실 (laboratory)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Interview with Professor Gyu-Jeong Lee of the PIKA Lab at Korea Cyber University (고려사이버대 PIKA 연구실 이규정 교수 인터뷰) &lt;&lt;br/&gt;&lt;em&gt;Interview with Professor Gyu-Jeong Lee of the PIKA Lab at Korea Cyber University&lt;/em&gt;&lt;/p&gt;
