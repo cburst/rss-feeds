@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 10:15:26 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 14:31:21 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>교실은 – classroom</title><link>urn:urn:vocab:교실은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>비중은 – proportion is</title><link>urn:urn:vocab:비중은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612012061077-a53a02498286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3J0aW9uJTIwaXN8ZW58MHx8fHwxNzc3MzU0Mjc4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비중은 (proportion is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(가계대출의 고정금리 비중은 전달 43&lt;br/&gt;&lt;em&gt;(The proportion of fixed-rate household loans was 43% in the previous month)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고정형 주담대 비중은 전달보다 10&lt;br/&gt;&lt;em&gt;The proportion of fixed-type mortgage loans was 10% compared to the previous month&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(팬데믹 이후 2023년부터 2025년까지 국내에서 제작된 상업영화의 평균수익률은 -27%, 손익분기점을 넘은 작품 비중은 18%로 나타났다&lt;br/&gt;&lt;em&gt;(From 2023 to 2025 after the pandemic, the average return rate of commercial films produced in Korea was -27%, and the proportion of works that exceeded the break-even point was 18%&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;물의 비중은 1입니다.&lt;br/&gt;&lt;em&gt;The specific gravity of water is 1.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 반의 비중은 크다.&lt;br/&gt;&lt;em&gt;The proportion of this class is large.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612012061077-a53a02498286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3J0aW9uJTIwaXN8ZW58MHx8fHwxNzc3MzU0Mjc4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비중은 (proportion is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(가계대출의 고정금리 비중은 전달 43&lt;br/&gt;&lt;em&gt;(The proportion of fixed-rate household loans was 43% in the previous month)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고정형 주담대 비중은 전달보다 10&lt;br/&gt;&lt;em&gt;The proportion of fixed-type mortgage loans was 10% compared to the previous month&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(팬데믹 이후 2023년부터 2025년까지 국내에서 제작된 상업영화의 평균수익률은 -27%, 손익분기점을 넘은 작품 비중은 18%로 나타났다&lt;br/&gt;&lt;em&gt;(From 2023 to 2025 after the pandemic, the average return rate of commercial films produced in Korea was -27%, and the proportion of works that exceeded the break-even point was 18%&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;물의 비중은 1입니다.&lt;br/&gt;&lt;em&gt;The specific gravity of water is 1.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 반의 비중은 크다.&lt;br/&gt;&lt;em&gt;The proportion of this class is large.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 28 Apr 2026 14:31:21 +0900</pubDate><guid isPermaLink="false">vocab-a0a18d9552ede8e1ab70d89d074cfb94b91f88db</guid><enclosure url="https://images.unsplash.com/photo-1612012061077-a53a02498286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3J0aW9uJTIwaXN8ZW58MHx8fHwxNzc3MzU0Mjc4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="204035" /><ns2:content url="https://images.unsplash.com/photo-1612012061077-a53a02498286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3J0aW9uJTIwaXN8ZW58MHx8fHwxNzc3MzU0Mjc4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1612012061077-a53a02498286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3J0aW9uJTIwaXN8ZW58MHx8fHwxNzc3MzU0Mjc4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>비중은</category></item><item><title>특성을 – characteristics</title><link>urn:urn:vocab:특성을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1658763050120-d3dad23ac460?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFyYWN0ZXJpc3RpY3N8ZW58MHx8fHwxNzc3MzQ2ODc2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="특성을 (characteristics)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;“우리 아이가 ○○ 게임을 좋아하는데, 이 게임의 특성을 분석해서 아이가 좋아할 만한 활동과 적성을 추천해줘”라고 입력하면 꽤 구체적인 답이 돌아온다&lt;br/&gt;&lt;em&gt;If you input, 'My child likes ○○ game, please analyze the characteristics of this game and recommend activities and aptitudes that my child might like,' you get a fairly specific answer.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘신경다양성’(Neurodiversity)이란 뇌가 정보를 처리하고 세상을 인식하는 방식의 신경학적 차이를 가리키는 개념으로, ADHD(주의력 결핍, 과잉행동, 충동성을 특징으로 하는 신경발달장애), 자폐스펙트럼장애, 난독증, 난산증, 발달성 협응장애, 경계선 지능, 학습장애, 함묵증, 틱장애 등 다양한 특성을 포괄한다&lt;br/&gt;&lt;em&gt;'Neurodiversity' is a concept referring to neurological differences in how the brain processes information and perceives the world, encompassing various characteristics such as ADHD (a neurodevelopmental disorder characterized by inattention, hyperactivity, and impulsivity), autism spectrum disorder, dyslexia, dyscalculia, developmental coordination disorder, borderline intellectual functioning, learning disabilities, selective mutism, and tic disorders.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;다양성이라는 언어를 쓰는 것이 중요한 이유는 그 사람만의 독특한 특성을 없애서 평균적인 모습을 보이도록 강요하지 말아야 한다는 의미에서다&lt;br/&gt;&lt;em&gt;The reason it is important to use the language of diversity is that it means we should not force individuals to eliminate their unique characteristics and conform to an average norm.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 제품의 특성을 설명하세요.&lt;br/&gt;&lt;em&gt;Describe the characteristics of this product.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 동물의 특성을 관찰했어요.&lt;br/&gt;&lt;em&gt;I observed the characteristics of that animal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1658763050120-d3dad23ac460?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFyYWN0ZXJpc3RpY3N8ZW58MHx8fHwxNzc3MzQ2ODc2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="특성을 (characteristics)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;“우리 아이가 ○○ 게임을 좋아하는데, 이 게임의 특성을 분석해서 아이가 좋아할 만한 활동과 적성을 추천해줘”라고 입력하면 꽤 구체적인 답이 돌아온다&lt;br/&gt;&lt;em&gt;If you input, 'My child likes ○○ game, please analyze the characteristics of this game and recommend activities and aptitudes that my child might like,' you get a fairly specific answer.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘신경다양성’(Neurodiversity)이란 뇌가 정보를 처리하고 세상을 인식하는 방식의 신경학적 차이를 가리키는 개념으로, ADHD(주의력 결핍, 과잉행동, 충동성을 특징으로 하는 신경발달장애), 자폐스펙트럼장애, 난독증, 난산증, 발달성 협응장애, 경계선 지능, 학습장애, 함묵증, 틱장애 등 다양한 특성을 포괄한다&lt;br/&gt;&lt;em&gt;'Neurodiversity' is a concept referring to neurological differences in how the brain processes information and perceives the world, encompassing various characteristics such as ADHD (a neurodevelopmental disorder characterized by inattention, hyperactivity, and impulsivity), autism spectrum disorder, dyslexia, dyscalculia, developmental coordination disorder, borderline intellectual functioning, learning disabilities, selective mutism, and tic disorders.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;다양성이라는 언어를 쓰는 것이 중요한 이유는 그 사람만의 독특한 특성을 없애서 평균적인 모습을 보이도록 강요하지 말아야 한다는 의미에서다&lt;br/&gt;&lt;em&gt;The reason it is important to use the language of diversity is that it means we should not force individuals to eliminate their unique characteristics and conform to an average norm.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 제품의 특성을 설명하세요.&lt;br/&gt;&lt;em&gt;Describe the characteristics of this product.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 동물의 특성을 관찰했어요.&lt;br/&gt;&lt;em&gt;I observed the characteristics of that animal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 28 Apr 2026 12:28:02 +0900</pubDate><guid isPermaLink="false">vocab-ea884abc502feaa2b6f4c63bc4f9fc3c68f4c558</guid><enclosure url="https://images.unsplash.com/photo-1658763050120-d3dad23ac460?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFyYWN0ZXJpc3RpY3N8ZW58MHx8fHwxNzc3MzQ2ODc2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="203406" /><ns2:content url="https://images.unsplash.com/photo-1658763050120-d3dad23ac460?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFyYWN0ZXJpc3RpY3N8ZW58MHx8fHwxNzc3MzQ2ODc2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1658763050120-d3dad23ac460?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFyYWN0ZXJpc3RpY3N8ZW58MHx8fHwxNzc3MzQ2ODc2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>특성을</category></item><item><title>교실은 – classroom</title><link>urn:urn:vocab:교실은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb218ZW58MHx8fHwxNzc3MzM4OTIzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="교실은 (classroom)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" ( 교실은 이제 세계를 만나는 출발점이 되고 있다&lt;br/&gt;&lt;em&gt;" (The classroom is now becoming a starting point for encountering the world.&lt;/em&gt;&lt;/p&gt;
