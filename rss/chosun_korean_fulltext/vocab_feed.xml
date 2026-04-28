@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 03:01:25 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 05:07:41 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>검사 – prosecutor</title><link>urn:urn:vocab:검사</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>카드로 – with a card</title><link>urn:urn:vocab:카드로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604387373668-c5fe7ac30ed9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwYSUyMGNhcmR8ZW58MHx8fHwxNzc3NDA2ODU3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="카드로 (with a card)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (당시 쌍방울 법인 카드로 수원지검 앞 편의점에서 소주를 산 것으로 알려진 박상웅 전 쌍방울 이사도 이날 출석해 “당시 술을 왜 샀느냐”는 질의에 “개인적으로 먹으려고 산 것이다&lt;br/&gt;&lt;em&gt;"Park Sang-woong, former director of Ssangbangwool, who is known to have bought soju at a convenience store in front of the Suwon District Prosecutors' Office using the Ssangbangwool corporate card at the time, also attended on this day and when asked 'Why did you buy the alcohol at that time?' he replied, 'I bought it to drink personally.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여권에선 5월 17일 당시 수원지검 앞 편의점에서 쌍방울 법인 카드로 소주가 결제된 점을 들어 해당 직원이 술을 사서 검찰청사 안으로 반입했다고 주장하고 있다&lt;br/&gt;&lt;em&gt;In the passport, citing that soju was paid for with the Ssangbangwool corporate card at a convenience store in front of the Suwon District Prosecutors' Office on May 17, it is claimed that the employee bought alcohol and brought it into the prosecution building.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이화영씨가 ‘연어 술 파티’가 있었다고 주장하는 2023년 5월 17일 수원지검 앞에서 법인 카드로 소주를 구매한 박상웅 전 쌍방울 이사도 이날 증인으로 출석해 관련 의혹을 부인했다&lt;br/&gt;&lt;em&gt;"Lee Hwa-young claims there was a 'salmon drinking party' on May 17, 2023. Park Sang-woong, former director of Ssangbangwool, who bought soju with a corporate card in front of the Suwon District Prosecutors' Office on that day, also attended as a witness on this day and denied the related suspicions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;카드로 계산해요.&lt;br/&gt;&lt;em&gt;I'll pay by card.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;카드로 결제해요.&lt;br/&gt;&lt;em&gt;I'll pay by card.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604387373668-c5fe7ac30ed9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwYSUyMGNhcmR8ZW58MHx8fHwxNzc3NDA2ODU3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="카드로 (with a card)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (당시 쌍방울 법인 카드로 수원지검 앞 편의점에서 소주를 산 것으로 알려진 박상웅 전 쌍방울 이사도 이날 출석해 “당시 술을 왜 샀느냐”는 질의에 “개인적으로 먹으려고 산 것이다&lt;br/&gt;&lt;em&gt;"Park Sang-woong, former director of Ssangbangwool, who is known to have bought soju at a convenience store in front of the Suwon District Prosecutors' Office using the Ssangbangwool corporate card at the time, also attended on this day and when asked 'Why did you buy the alcohol at that time?' he replied, 'I bought it to drink personally.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여권에선 5월 17일 당시 수원지검 앞 편의점에서 쌍방울 법인 카드로 소주가 결제된 점을 들어 해당 직원이 술을 사서 검찰청사 안으로 반입했다고 주장하고 있다&lt;br/&gt;&lt;em&gt;In the passport, citing that soju was paid for with the Ssangbangwool corporate card at a convenience store in front of the Suwon District Prosecutors' Office on May 17, it is claimed that the employee bought alcohol and brought it into the prosecution building.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이화영씨가 ‘연어 술 파티’가 있었다고 주장하는 2023년 5월 17일 수원지검 앞에서 법인 카드로 소주를 구매한 박상웅 전 쌍방울 이사도 이날 증인으로 출석해 관련 의혹을 부인했다&lt;br/&gt;&lt;em&gt;"Lee Hwa-young claims there was a 'salmon drinking party' on May 17, 2023. Park Sang-woong, former director of Ssangbangwool, who bought soju with a corporate card in front of the Suwon District Prosecutors' Office on that day, also attended as a witness on this day and denied the related suspicions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;카드로 계산해요.&lt;br/&gt;&lt;em&gt;I'll pay by card.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;카드로 결제해요.&lt;br/&gt;&lt;em&gt;I'll pay by card.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 29 Apr 2026 05:07:41 +0900</pubDate><guid isPermaLink="false">vocab-d1f15b3066945bee13501343d3573d946dac6eb5</guid><enclosure url="https://images.unsplash.com/photo-1604387373668-c5fe7ac30ed9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwYSUyMGNhcmR8ZW58MHx8fHwxNzc3NDA2ODU3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="210059" /><ns2:content url="https://images.unsplash.com/photo-1604387373668-c5fe7ac30ed9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwYSUyMGNhcmR8ZW58MHx8fHwxNzc3NDA2ODU3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1604387373668-c5fe7ac30ed9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwYSUyMGNhcmR8ZW58MHx8fHwxNzc3NDA2ODU3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>카드로</category></item><item><title>검사 – prosecutor</title><link>urn:urn:vocab:검사</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589216532372-1c2a367900d9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9zZWN1dG9yfGVufDB8fHx8MTc3NzM5OTI4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="검사 (prosecutor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Kim Seong-tae on 'Illegal Remittance to North Korea' Praises Prosecutor Park Sang-yong: "He Really Worked Hard on the Investigation" (‘대북 송금’ 김성태, 박상용 검사에 “수사 정말 열심히 해” 칭찬) &lt;&lt;br/&gt;&lt;em&gt;Kim Seong-tae on 'Illegal Remittance to North Korea' Praises Prosecutor Park Sang-yong: "He Really Worked Hard on the Investigation"&lt;/em&gt;&lt;/p&gt;
