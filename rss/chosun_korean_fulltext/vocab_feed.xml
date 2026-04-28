@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 18:40:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 20:44:49 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>먹었다 – ate</title><link>urn:urn:vocab:먹었다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>개인적인 – personal</title><link>urn:urn:vocab:개인적인</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbHxlbnwwfHx8fDE3NzczNzY2ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개인적인 (personal)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'" (이어 “당의 전략 단위라든지, 광역자치단체장 후보자 등 일선에서 뛰고 있는 후보자들의 의견도 많이 들었다”며 “그랬더니 ‘(김 전 부원장에게) 여러 개인적인 안타까움은 있을 수 있겠으나, 선거에 미치는 영향을 고려했을 때 공천하지 않는 것이 적절한 것 같다’는 의견이 강했다”고 했다&lt;br/&gt;&lt;em&gt;" (He continued) 'We also heard a lot of opinions from candidates on the front lines, such as the party's strategic units and candidates for heads of regional governments.' He added, 'Then there was a strong opinion that 'While there may be personal regrets for former Vice Chairman Kim, considering the impact on the election, it seems appropriate not to nominate him.''&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민의힘은 정 장관이 비무장지대(DMZ) 안에서 유엔군사령부의 관할권을 임의로 제한하는 법안을 추진하고, 국가안보실이나 외교부, 국방부와의 조율 없이 북한 관련 사안에 대해 개인적인 견해를 말하고 다닌다고 주장하면서, 이 또한 해임 건의 이유로 들었다&lt;br/&gt;&lt;em&gt;The People Power Party argued that Minister Jeong is pushing legislation that arbitrarily limits the jurisdiction of the United Nations Command within the Demilitarized Zone (DMZ), and that he expresses personal opinions on North Korea-related issues without coordination with the National Security Office, the Ministry of Foreign Affairs, or the Ministry of National Defense, citing this as another reason for recommending his dismissal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 개인적인 일이에요.&lt;br/&gt;&lt;em&gt;This is a personal matter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그건 개인적인 생각이에요.&lt;br/&gt;&lt;em&gt;That's a personal thought.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbHxlbnwwfHx8fDE3NzczNzY2ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개인적인 (personal)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'" (이어 “당의 전략 단위라든지, 광역자치단체장 후보자 등 일선에서 뛰고 있는 후보자들의 의견도 많이 들었다”며 “그랬더니 ‘(김 전 부원장에게) 여러 개인적인 안타까움은 있을 수 있겠으나, 선거에 미치는 영향을 고려했을 때 공천하지 않는 것이 적절한 것 같다’는 의견이 강했다”고 했다&lt;br/&gt;&lt;em&gt;" (He continued) 'We also heard a lot of opinions from candidates on the front lines, such as the party's strategic units and candidates for heads of regional governments.' He added, 'Then there was a strong opinion that 'While there may be personal regrets for former Vice Chairman Kim, considering the impact on the election, it seems appropriate not to nominate him.''&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국민의힘은 정 장관이 비무장지대(DMZ) 안에서 유엔군사령부의 관할권을 임의로 제한하는 법안을 추진하고, 국가안보실이나 외교부, 국방부와의 조율 없이 북한 관련 사안에 대해 개인적인 견해를 말하고 다닌다고 주장하면서, 이 또한 해임 건의 이유로 들었다&lt;br/&gt;&lt;em&gt;The People Power Party argued that Minister Jeong is pushing legislation that arbitrarily limits the jurisdiction of the United Nations Command within the Demilitarized Zone (DMZ), and that he expresses personal opinions on North Korea-related issues without coordination with the National Security Office, the Ministry of Foreign Affairs, or the Ministry of National Defense, citing this as another reason for recommending his dismissal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 개인적인 일이에요.&lt;br/&gt;&lt;em&gt;This is a personal matter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그건 개인적인 생각이에요.&lt;br/&gt;&lt;em&gt;That's a personal thought.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 28 Apr 2026 20:44:49 +0900</pubDate><guid isPermaLink="false">vocab-f7c69737aadb56891be883b1d44d92597f3b73fa</guid><enclosure url="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbHxlbnwwfHx8fDE3NzczNzY2ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="84481" /><ns2:content url="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbHxlbnwwfHx8fDE3NzczNzY2ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbHxlbnwwfHx8fDE3NzczNzY2ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>개인적인</category></item><item><title>먹었다 – ate</title><link>urn:urn:vocab:먹었다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1582732182645-ac46fb223f4e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdGV8ZW58MHx8fHwxNzc3MzY5MjE4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="먹었다 (ate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;안 먹었다”&lt;br/&gt;&lt;em&gt;I didn't drink.&lt;/em&gt;&lt;/p&gt;
