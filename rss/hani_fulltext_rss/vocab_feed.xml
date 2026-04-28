@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 14:31:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 18:40:16 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>비중은 – proportion is</title><link>urn:urn:vocab:비중은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>서한을 – letter</title><link>urn:urn:vocab:서한을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1566125882500-87e10f726cdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZXR0ZXJ8ZW58MHx8fHwxNzc3MzY5MjEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서한을 (letter)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(더불어민주당 등 범여권 의원들이 김범석 쿠팡아이엔씨(Inc) 의장의 신변 안전 문제 해결을 요구하며 고위급 안보 협상 중단을 압박한 미국 행정부를 향해 항의서한을 발송한다&lt;br/&gt;&lt;em&gt;Lawmakers from the ruling bloc, including the Democratic Party of Korea, will send a protest letter to the U.S. administration, which has been pressuring for the suspension of high-level security negotiations by demanding a resolution to the personal safety issue of Kim Beom-seok, chairman of Coupang Inc.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미국 연방하원 공화당 의원 모임인 ‘공화당 연구위원회’(RSC) 소속 의원 54명도 강경화 주미대사에게 서한을 보내 “한국에서 영업하는 미국 기업들에 대한 차별적 규제 조처를 즉각 중단하라”고 요구한 바 있다&lt;br/&gt;&lt;em&gt;Fifty-four members of the Republican Study Committee (RSC), a group of U.S. House Republicans, also sent a letter to Ambassador to the U.S. Kang Kyung-wha demanding an immediate halt to discriminatory regulatory measures against American companies operating in South Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이들은 이날 회견을 마치고 한미 동맹의 근간과 한국의 법치주의 체계를 흔들려는 쿠팡 사태의 올바른 해결을 촉구하는 항의 서한을 마련해 주한 미국대사관에 전달할 계획이다&lt;br/&gt;&lt;em&gt;After the press conference, they plan to prepare a protest letter urging a proper resolution to the Coupang incident, which threatens the foundation of the South Korea-U.S. alliance and South Korea's rule of law system, and deliver it to the U.S. Embassy in South Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서한을 썼어요.&lt;br/&gt;&lt;em&gt;I wrote a letter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서한을 받았어요.&lt;br/&gt;&lt;em&gt;I received a letter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1566125882500-87e10f726cdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZXR0ZXJ8ZW58MHx8fHwxNzc3MzY5MjEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서한을 (letter)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(더불어민주당 등 범여권 의원들이 김범석 쿠팡아이엔씨(Inc) 의장의 신변 안전 문제 해결을 요구하며 고위급 안보 협상 중단을 압박한 미국 행정부를 향해 항의서한을 발송한다&lt;br/&gt;&lt;em&gt;Lawmakers from the ruling bloc, including the Democratic Party of Korea, will send a protest letter to the U.S. administration, which has been pressuring for the suspension of high-level security negotiations by demanding a resolution to the personal safety issue of Kim Beom-seok, chairman of Coupang Inc.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미국 연방하원 공화당 의원 모임인 ‘공화당 연구위원회’(RSC) 소속 의원 54명도 강경화 주미대사에게 서한을 보내 “한국에서 영업하는 미국 기업들에 대한 차별적 규제 조처를 즉각 중단하라”고 요구한 바 있다&lt;br/&gt;&lt;em&gt;Fifty-four members of the Republican Study Committee (RSC), a group of U.S. House Republicans, also sent a letter to Ambassador to the U.S. Kang Kyung-wha demanding an immediate halt to discriminatory regulatory measures against American companies operating in South Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이들은 이날 회견을 마치고 한미 동맹의 근간과 한국의 법치주의 체계를 흔들려는 쿠팡 사태의 올바른 해결을 촉구하는 항의 서한을 마련해 주한 미국대사관에 전달할 계획이다&lt;br/&gt;&lt;em&gt;After the press conference, they plan to prepare a protest letter urging a proper resolution to the Coupang incident, which threatens the foundation of the South Korea-U.S. alliance and South Korea's rule of law system, and deliver it to the U.S. Embassy in South Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서한을 썼어요.&lt;br/&gt;&lt;em&gt;I wrote a letter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서한을 받았어요.&lt;br/&gt;&lt;em&gt;I received a letter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 28 Apr 2026 18:40:16 +0900</pubDate><guid isPermaLink="false">vocab-f504ef2de28c9dd92967fd270fdb9fe55d8d85d5</guid><enclosure url="https://images.unsplash.com/photo-1566125882500-87e10f726cdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZXR0ZXJ8ZW58MHx8fHwxNzc3MzY5MjEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="58400" /><ns2:content url="https://images.unsplash.com/photo-1566125882500-87e10f726cdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZXR0ZXJ8ZW58MHx8fHwxNzc3MzY5MjEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1566125882500-87e10f726cdc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZXR0ZXJ8ZW58MHx8fHwxNzc3MzY5MjEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>서한을</category></item><item><title>비중은 – proportion is</title><link>urn:urn:vocab:비중은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612012061077-a53a02498286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3J0aW9uJTIwaXN8ZW58MHx8fHwxNzc3MzU0Mjc4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비중은 (proportion is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(가계대출의 고정금리 비중은 전달 43&lt;br/&gt;&lt;em&gt;(The proportion of fixed-rate household loans was 43% in the previous month)&lt;/em&gt;&lt;/p&gt;
