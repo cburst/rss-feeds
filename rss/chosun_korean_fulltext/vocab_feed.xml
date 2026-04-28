@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 00:54:33 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 03:01:25 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>쌍방울 – Ssangbangwool (a company name)</title><link>urn:urn:vocab:쌍방울</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>검사 – prosecutor</title><link>urn:urn:vocab:검사</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589216532372-1c2a367900d9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9zZWN1dG9yfGVufDB8fHx8MTc3NzM5OTI4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="검사 (prosecutor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Kim Seong-tae on 'Illegal Remittance to North Korea' Praises Prosecutor Park Sang-yong: "He Really Worked Hard on the Investigation" (‘대북 송금’ 김성태, 박상용 검사에 “수사 정말 열심히 해” 칭찬) &lt;&lt;br/&gt;&lt;em&gt;Kim Seong-tae on 'Illegal Remittance to North Korea' Praises Prosecutor Park Sang-yong: "He Really Worked Hard on the Investigation"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Kim Seong-tae on 'Illegal Remittance to North Korea' Praises Prosecutor Park Sang-yong: "He Really Worked Hard on the Investigation" (‘대북 송금’ 김성태, 박상용 검사에 “수사 정말 열심히 해” 칭찬)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Kim Seong-tae on 'Illegal Remittance to North Korea' Praises Prosecutor Park Sang-yong: "He Really Worked Hard on the Investigation"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김성태 전 쌍방울 회장이 28일 쌍방울 불법 대북 송금 사건을 수사한 박상용 검사에 대해 “제가 검사들 칭찬할 일도 없는데 제가 느낀 바로 말씀드리면 수사 정말 열심히 했다”고 했다&lt;br/&gt;&lt;em&gt;(Former Chairman of Ssangbangwool Kim Seong-tae said on the 28th about Prosecutor Park Sang-yong, who investigated the Ssangbangwool illegal remittance to North Korea case, "I don't usually praise prosecutors, but based on what I felt, he really worked hard on the investigation."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;검사가 사무실에 있어요.&lt;br/&gt;&lt;em&gt;The prosecutor is in the office.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 검사를 만났어요.&lt;br/&gt;&lt;em&gt;I met the prosecutor.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589216532372-1c2a367900d9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9zZWN1dG9yfGVufDB8fHx8MTc3NzM5OTI4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="검사 (prosecutor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Kim Seong-tae on 'Illegal Remittance to North Korea' Praises Prosecutor Park Sang-yong: "He Really Worked Hard on the Investigation" (‘대북 송금’ 김성태, 박상용 검사에 “수사 정말 열심히 해” 칭찬) &lt;&lt;br/&gt;&lt;em&gt;Kim Seong-tae on 'Illegal Remittance to North Korea' Praises Prosecutor Park Sang-yong: "He Really Worked Hard on the Investigation"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Kim Seong-tae on 'Illegal Remittance to North Korea' Praises Prosecutor Park Sang-yong: "He Really Worked Hard on the Investigation" (‘대북 송금’ 김성태, 박상용 검사에 “수사 정말 열심히 해” 칭찬)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Kim Seong-tae on 'Illegal Remittance to North Korea' Praises Prosecutor Park Sang-yong: "He Really Worked Hard on the Investigation"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김성태 전 쌍방울 회장이 28일 쌍방울 불법 대북 송금 사건을 수사한 박상용 검사에 대해 “제가 검사들 칭찬할 일도 없는데 제가 느낀 바로 말씀드리면 수사 정말 열심히 했다”고 했다&lt;br/&gt;&lt;em&gt;(Former Chairman of Ssangbangwool Kim Seong-tae said on the 28th about Prosecutor Park Sang-yong, who investigated the Ssangbangwool illegal remittance to North Korea case, "I don't usually praise prosecutors, but based on what I felt, he really worked hard on the investigation."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;검사가 사무실에 있어요.&lt;br/&gt;&lt;em&gt;The prosecutor is in the office.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 검사를 만났어요.&lt;br/&gt;&lt;em&gt;I met the prosecutor.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 29 Apr 2026 03:01:24 +0900</pubDate><guid isPermaLink="false">vocab-cf165974e211403316f7ce63450892cbff0d0d80</guid><enclosure url="https://images.unsplash.com/photo-1589216532372-1c2a367900d9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9zZWN1dG9yfGVufDB8fHx8MTc3NzM5OTI4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="64988" /><ns2:content url="https://images.unsplash.com/photo-1589216532372-1c2a367900d9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9zZWN1dG9yfGVufDB8fHx8MTc3NzM5OTI4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1589216532372-1c2a367900d9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9zZWN1dG9yfGVufDB8fHx8MTc3NzM5OTI4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>검사</category></item><item><title>쌍방울 – Ssangbangwool (a company name)</title><link>urn:urn:vocab:쌍방울</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(‘대북 송금’ 사건의 핵심 인물인 김성태 전 쌍방울 회장이 28일 오전 국회에서 열린 ‘윤석열 정권 정치검찰 조작 기소 의혹 사건 진상규명 국정조사 특별위원회’(국조특위)의 종합 청문회에 출석했다&lt;br/&gt;&lt;em&gt;Former Ssangbangwool Chairman Kim Seong-tae, a key figure in the 'remittance to North Korea' case, attended the comprehensive hearing of the 'Special Committee on the Truth Investigation of the Suspicion of Manipulated Indictment by the Yoon Seok-yeol Administration's Political Prosecution' held at the National Assembly on the morning of the 28th.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;(국조특위는 이날 서울 여의도 국회에서 종합 청문회를 열고 국정조사 대상인 쌍방울 대북 송금 사건과 대장동 사건 등 7가지 사건에 대해 검찰의 수사가 적절했는지 등을 확인할 계획이다&lt;br/&gt;&lt;em&gt;The Special Committee plans to hold a comprehensive hearing at the National Assembly in Yeouido, Seoul, on this day to verify whether the prosecution's investigation was appropriate regarding seven cases, including the Ssangbangwool remittance to North Korea case and the Daejang-dong case, which are subjects of the parliamentary investigation.&lt;/em&gt;&lt;/p&gt;
