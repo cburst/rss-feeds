@@ -1,67 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 29 Apr 2026 13:10:11 +0000</lastBuildDate><item><title>With new patch design, the Crew-13 astronauts clearly aren’t superstitious (새로운 패치 디자인으로 보아, 크루-13 우주비행사들은 분명 미신을 믿지 않는다)</title><link>https://arstechnica.com/space/2026/04/nasas-spacex-crew-13-pays-homage-to-apollo-13-on-mission-patch/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/news-042526a-lg-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Houston, we have another “13.”&lt;br/&gt;(휴스턴, 또 하나의 "13"이 있다.)&lt;/p&gt;
-&lt;p&gt;NASA has assigned its first crew to launch on a mission “13” since Apollo 13 “had a problem” on the way to the Moon 56 years ago.&lt;br/&gt;(NASA가 56년 전 아폴로 13호가 달로 가는 길에 "문제가 발생한" 이후 처음으로 "13"이라는 임무를 수행할 첫 번째 crew를 배정했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-제시카 왓킨스(Jessica Watkins)와 루크 딜레이니(Luke Delaney, NASA 소속), 조슈아 쿠트리크(Joshua Kutryk, 캐나다 우주국 소속), 그리고 로스코스모스 우주비행사 세르게이 테테랴트니코프(Sergey Teteryatnikov)가 9월 중순 스페이스X 드래곤 우주선을 타고 Crew-13으로 국제우주정거장(ISS)을 향해 발사될 예정이다. 이들 4명은 스테이션의 익스페디션 75 및 76 승무원으로 활동한 후, 약 5개월 후 지구로 귀환할 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이 비행은 스페이스X와의 13번째 승무원 교대 임무입니다."라고 NASA의 발표문은 전했다. "승무원은 인류의 미래 달 및 화성 탐사 임무를 준비하고 지구상의 사람들에게 혜택을 주기 위한 과학 조사와 기술 시연을 수행할 것입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-트리스카이데카포비아(숫자 13에 대한 공포 또는 회피)에 굴복하기보다는, 승무원들은 이를 받아들이거나, 적어도 마지막으로 비슷하게 번호가 매겨진 미국 발사 임무와의 연결성을 수용하고 있다. Crew-13 임무 패치에는 1970년 4월 아폴로 13호 우주비행사 짐 러벨, 프레드 헤이즈, 잭 스위거트가 착용했던 휘장에 대한 시각적 오마주가 포함되어 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"NASA의 스페이스X Crew-13 패치는 앞서 온 이들의 유산을 기리면서도 우주 탐사의 미래를 열렬히 응시합니다."라고 이 엠블럼의 공식 설명은 적혀 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Crew-13 패치의 중앙에는 황금색 용이 있는데, 이는 스페이스X 캡슐의 이름을 암시하는 동시에 아폴로 13호 휘장에 묘사된 황금색 말들을 참조한 것이다. (러벨과 그의 동료 승무원들은 NASA 협력 아티스트 노먼 틸러, 그리고 말 디자인을 제안한 벽화가이자 조각가인 루멘 윈터와 협력하여 비행 배지를 제작했다.)
-&lt;&lt;&lt;PARA&gt;&gt;
-Crew-13 패치에 있는 용의 꼬리는 아폴로 13호 휘장에서 지구와 말들을 연결하는 파란색 비행운(contrail)을 연상시키는 방식으로 지구 주위를 감싸고 있다. 1970년 작품에서 이는 로마와 그리스 신 아폴로에 대한 경의였으나, 오늘날 NASA의 설명에 따르면 "지구, 국제우주정거장, 달, 화성을 잇는 다리" 역할을 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Crew-13 패치에 로마 숫자 "XIII"(13)를 사용하고 승무원 이름을 생략한 점 역시 약 60년 전 디자인의 요소를 모방한 것이다. 여기서 황금별들은 Crew-13 가족들을 상징하며, (원형이 아닌) 전체 캡슐 모양은 우주국에 따르면 "공동 목표를 향한 인간 협력에서 탄생한 가능성"을 암시한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Crew-13 이전에 NASA 관리자들은 미신에 기대어, 9번째 우주왕복선 임무 이후 시행된 덜 직관적이지만 더 데이터 중심적인 명칭을 고안했다. 따라서 STS-13이 될 뻔한 임무는 STS-41-C가 되었는데, 여기서 4는 회계연도(1984년), 1은 발사 장소(플로리다 케네디 우주센터), C는 발사 순서(해당 연도 세 번째 계획된 비행)를 나타냈다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"제가 41-C가 원래 STS-13이었다고 말했을 때, 당시 NASA 국장이었던 제 친구 짐 베그스가 트리스카이데카포비아가 있어서 '아폴로 13호나 셔틀 13호가 또 있어서는 안 되니 새로운 번호 체계를 만들어라'고 말했습니다. 그래서 우리는 그 기간 동안 셔틀 번호를 매기는 복잡한 시스템을 고안했죠."라고 STS-41C 사령관 밥 크리펜이 NASA 구술 역사 인터뷰에서 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-NASA는 1986년 1월 우주왕복선 챌린저호와 STS-51L 승무원의 손실 이후 다시 간단한 숫자 명칭으로 되돌아갔다. 이에 따라 2002년 우주왕복선 엔데버호를 타고 발사된 STS-113이 있었지만, 의학적 문제로 인해 늦은 승무원 교체를 겪어야 했다. NASA가 동일한 결정을 마지막으로 내린 것은 아폴로 13호 때였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 113호라는 숫자에 대해 많이 농담을 했습니다."라고 당시 사령관 켄 바워속스가 언론에 말했다. 그는 안전을 위해 임무 패치에 로마 숫자(CXIII)를 사용했다고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-국제우주정거장에서 13번째 유인 탐사(Expedition 13)는 아폴로 13호 발사 36주년을 10일 앞둔 2006년 4월 1일에 시작되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-러시아 우주 프로그램은 13번으로 지정된 6번의 유인 임무를 발사했다. 그중 적어도 한 번은 해당 국가 우주국의 수장이 이를 건너뛸 것을 제안했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"많은 사람들이 미신적인 믿음을 가지고 있습니다."라고 로스코스모스 국장 아나톨리 페르미노프가 2008년 자신의 언론 비서를 통해 말했다. "그래서 다음 우주선의 번호를 바꾸는 것이 좋은 생각이라고 생각합니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-우려에도 불구하고 소유즈 TMA-13호는 계획대로 진행되었다. 그 전의 소유즈 13호, 소유즈 T-13호, 소유즈 TM-13호도 마찬가지였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-소유즈 TMA-13M호는 리드 와이즈먼(Reid Wiseman)을 발사했고, 소유즈 MS-13호는 크리스티나 코크(Christina Koch)와 함께 착륙했다. 두 미국 우주비행사 모두 이달 초 NASA의 아르테미스 II 임무에 참여하여 비행했으며, 이는 아폴로 13호 우주비행사들이 세운 거리 기록을 경신한 유인 달 근접 비행이었다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/04/nasas-spacex-crew-13-pays-homage-to-apollo-13-on-mission-patch/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/news-042526a-lg-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 27 Apr 2026 10:45:06 +0000</pubDate></item><item><title>EU tells Google to open up AI on Android; Google says that’s “unwarranted intervention” (EU, 구글에 안드로이드 AI 개방 요구… 구글 “부당한 개입”)</title><link>https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Gemini gets preferential treatment on Android, but maybe not for long (in Europe).&lt;br/&gt;(안드로이드에서 제미나이가 특혜를 받고 있지만, 유럽에서는 그리 오래가지 않을 수도 있다.)&lt;/p&gt;
-&lt;p&gt;In January, the European Commission began an initial investigation, known as a specification proceeding, into how Google has implemented AI in the Android operating system. The results are in, and the EU says Android needs to be more open, which is not surprising. Meanwhile, Google says this amounts to “unwarranted intervention,” which is equally unsurprising. Regardless of Google’s characterization of the investigation, the commission may force Google to make Android AI changes this summer.&lt;br/&gt;(1월, 유럽연합 집행위원회는 구글이 안드로이드 운영체제에 AI를 구현한 방식에 대한 예비 조사(사양 절차)에 착수했다. 결과가 나왔고, EU는 안드로이드가 더 개방적이어야 한다고 밝혔다. 이는 놀라운 일이 아니다. 한편, 구글은 이를 “부당한 개입”이라고 주장하며, 이 역시 놀랍지 않다. 구글의 조사 성격 규명과 관계없이, 집행위는 올여름 구글이 안드로이드 AI를 변경하도록 강제할 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 조치는 유럽의 디지털시장법(DMA)에 근거한다. 이 광범위한 법률은 7개 우위 기술 기업을 '게이트키퍼'로 지정해 공정 경쟁을 보장하기 위해 더 강력한 규제를 적용한다. 구글은 DMA에 따른 규제에 지속적으로 반대해 왔지만, 구글과 다른 게이트키퍼들은 이미 수년간 이 법의 적용을 받아 왔으며, 집행위가 이를 철회할 가능성은 거의 없다.
-&lt;&lt;&lt;PARA&gt;&gt;
-현재 집행위가 문제 삼는 것은 안드로이드에서 제미나이가 갖는 기본 이점이다. 구글 기반 안드로이드 폰을 켜면 제미나이가 이미 설치되어 시스템 수준에서 특별 대우를 받는다. 유럽연합 집행위는 타사 AI 서비스에 제공되는 기능 부족을 겨냥하고 있다. 집행위는 안드로이드에서 구글의 제미나이 AI로만 작동하는 경험이 너무 많다고 보고, 게이트키퍼로서 구글이 이를 바꿔야 한다고 생각한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“AI가 급변하는 환경을 탐색하면서 상호운용성이 이러한 기술의 잠재력을 최대한 발휘하는 열쇠임이 분명해졌다”고 기술 주권 담당 집행위원 헨나 비르쿠넨은 성명에서 밝혔다. “이번 조치는 안드로이드 기기를 더 다양한 AI 서비스에 개방하여 사용자가 기능을 희생하지 않고도 자신의 필요와 가치에 가장 적합한 AI 서비스를 선택할 자유를 누릴 수 있도록 할 것입니다.”
-&lt;&lt;&lt;PARA&gt;&gt;
-집행위는 지금까지 개방성을 추진해 온 확고한 실적을 가지고 있다. DMA 발효 이후 구글은 유럽에서 안드로이드 검색 선택 화면 구현, 플레이 스토어 내 대체 결제 수단 허용, 서비스 간 데이터 공유 제한 등 비즈니스에 수많은 변경을 해야 했다. 이제 EU는 구글이 안드로이드 플랫폼을 타사 AI 서비스에 더 우호적으로 만들기를 원한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-구글의 반대는 기기 제조사(구글 포함)의 AI 서비스 맞춤화 자율성을 보호하는 데 초점을 맞춘다. “이러한 부당한 개입은 그 자율성을 박탈하고, 민감한 하드웨어 및 기기 권한에 대한 접근을 강제하며, 비용을 불필요하게 증가시키고 유럽 사용자의 중요한 개인정보 보호 및 보안을 훼손할 것입니다”라고 구글 수석 경쟁 변호사 클레어 켈리는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-제미나이가 사실상 모든 안드로이드 폰에 사전 설치되어 있다고 해서 반드시 사용해야 하는 것은 아니다. ChatGPT나 Grok을 쉽게 설치하여 필요할 때 그 챗봇을 사용할 수 있다. 그러나 이 앱들은 제미나이와 동일한 데이터 및 기능 접근 권한을 갖지 못한다. 집행위는 제미나이가 유일한 경로인 몇 가지 사례를 언급하는데, 기본 메일 클라이언트에서 이메일을 보내거나 친구와 사진을 공유하는 경우가 이에 해당한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-유럽 규제 당국은 안드로이드 폰에서 AI 도구가 작동하는 방식에 대한 몇 가지 광범위한 변화를 제안하고 있다. 일부는 간단한데, 예를 들어 핫워드나 버튼 누름을 통해 타사 AI 도구가 시스템 전체에서 호출되도록 허용하는 것이다. 여기에는 사용자가 AI 도구를 열 때 화면 컨텍스트를 볼 수 있도록 하는 것도 포함될 수 있다. 컨텍스트는 또한 대체 AI 시스템이 로컬 데이터에 접근하여 사전 제안 및 요약을 생성할 수 있도록 하는 것으로 확장된다. 보고서는 실제로 구글의 매직 큐와 유사한 것을 설명하는데, 이는 제미나이에 의존하여 사용자의 활동을 기반으로 제안을 제공한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-구글은 또한 AI가 특정 앱을 제어하도록 실험을 시작했다. 갤럭시 S26에서 이 기능이 처음 선보였을 때 보았듯이, 제미나이는 현재 사용자를 대신하여 앱을 사용하는 데 상당히 미흡하다. 집행위는 다른 AI 서비스가 안드로이드 폰에서 설치된 앱과 시스템 기능을 자율적으로 제어할 수 있도록 허용하는 방안을 모색하고 있다. 어쩌면 다른 누군가가 더 잘할 수 있을까?
-&lt;&lt;&lt;PARA&gt;&gt;
-안드로이드의 많은 제미나이 AI 기능(매직 큐 포함)은 로컬 모델을 실행하는 데 의존하며, 구글은 타사가 이를 효과적으로 작동하도록 시스템 접근을 제공하는 데 느렸다. 따라서 EU는 개발자가 '높은 수준의 성능, 가용성 및 응답성'으로 로컬 모델을 실행하는 데 필요한 하드웨어 접근을 보장하는 명령도 제안하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-마지막으로, 구글은 DMA에 따라 안드로이드에 연결하려는 다른 AI 제조사를 위해 새로운 API를 만들고 기술 지원을 제공해야 할 수 있다. 집행위는 또한 이러한 도구를 무료로 제공해야 한다고 명시한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지금까지는 안드로이드에서 AI가 어떻게 변화할지에 대한 틀일 뿐이다. 유럽연합 집행위는 현재 이해 관계자의 의견을 접수 중이다. 이 절차의 일부는 5월 13일에 종료된다. 이 조사에 대한 최종 결정은 늦어도 올해 7월 27일까지 내려질 예정이다. 필요한 변경을 이행하지 않으면 큰 벌금이 부과될 수 있다. DMA는 기업의 연간 글로벌 수익의 최대 10%에 이르는 제재를 허용한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 구글이 즉시 문을 활짝 열어야 할 가능성은 낮다. 타사 AI 앱이 시스템 도구와 데이터에 접근할 수 있는 경로를 만드는 데는 시간이 걸릴 것이다. 절차를 서두르면 보안이나 개인정보 문제가 발생할 위험이 있다. 그리고 당연히, 이러한 제안된 변경 사항이 EU 외부에서 적용된다는 보장은 없다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 27 Apr 2026 11:03:49 +0000</pubDate></item><item><title>OpenAI ends its exclusive partnership with Microsoft (오픈AI, 마이크로소프트와 독점 파트너십 종료)</title><link>https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2153474326-1024x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 29 Apr 2026 15:15:28 +0000</lastBuildDate><item><title>OpenAI ends its exclusive partnership with Microsoft (오픈AI, 마이크로소프트와 독점 파트너십 종료)</title><link>https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2153474326-1024x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Amended agreement clears the way for OpenAI models to run on Amazon Bedrock.&lt;br/&gt;(수정된 계약으로 오픈AI 모델이 아마존 베드락에서 실행될 수 있게 되었다.)&lt;/p&gt;
 &lt;p&gt;Since Microsoft invested $1 billion in OpenAI back in 2019 , the exclusive partnership between the two firms has been one of the strongest and most consequential in the AI industry. Today, though, OpenAI and Microsoft jointly announced an amended agreement that will allow the company to go beyond Microsoft’s Azure and “serve all its products to customers across any cloud provider.”&lt;br/&gt;(마이크로소프트가 2019년 오픈AI에 10억 달러를 투자한 이후, 두 회사 간의 독점 파트너십은 AI 업계에서 가장 강력하고 영향력 있는 관계 중 하나였다. 그러나 오늘 오픈AI와 마이크로소프트는 수정된 계약을 공동 발표하여, 오픈AI가 마이크로소프트의 애저를 넘어 "모든 클라우드 제공업체를 통해 모든 제품을 고객에게 제공"할 수 있도록 허용했다.)&lt;/p&gt;
 &lt;p&gt;The announcement clarifies that Microsoft will continue to have a license for OpenAI’s IP and models through 2032 and that Azure will remain the “primary cloud partner” for OpenAI during that time (should Microsoft continue to be able to honor that). But Microsoft’s license “will now be non-exclusive,” the announcement reads, letting OpenAI make its models available through other major cloud providers going forward.&lt;br/&gt;(발표에 따르면, 마이크로소프트는 2032년까지 오픈AI의 지적 재산권과 모델에 대한 라이선스를 계속 보유하며, 해당 기간 동안 애저가 오픈AI의 "주요 클라우드 파트너"로 유지될 것임을 명확히 했다(마이크로소프트가 이를 계속 준수할 수 있는 경우). 그러나 발표문에는 마이크로소프트의 라이선스가 "이제 비독점적"이 될 것이라고 명시되어 있어, 오픈AI가 향후 다른 주요 클라우드 제공업체를 통해 자사 모델을 제공할 수 있게 되었다.)&lt;/p&gt;
@@ -664,4 +602,57 @@ ABC 조사는 DEI, 키멜의 코미디 및 기타 프로그램을 검토할 수 
 캘리포니아 배심원단이 오픈AI가 위협을 차단하고 캐나다 가족들을 보호하기 위해 행동했을 수도 있는 당국에 범인을 신고해야 할 의무가 있었다고 동의한다면 오픈AI는 징벌적 손해 배상을 포함한 상당한 손해 배상금을 지불해야 할 수 있습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
 "우리는 결국 샘을 심판할 사람들이 그의 이웃들이어야 한다고 생각합니다." 에델슨이 Ars에 말했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2261040231-1024x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 29 Apr 2026 03:00:41 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2261040231-1024x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 29 Apr 2026 03:00:41 +0000</pubDate></item><item><title>A Falcon 9 rocket will hit the Moon this summer at seven times the speed of sound (팰컨9 로켓, 음속의 7배 속도로 올여름 달에 충돌한다)</title><link>https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Firefly_i_Space_outside39mound_DSC_1723_desktop_463a0c9a28-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The object will be traveling at 2.43 km a second, or 5,400 mph, upon impact.&lt;br/&gt;(해당 물체는 충돌 시 초속 2.43km(시속 5,400마일)로 이동할 것이다.)&lt;/p&gt;
+&lt;p&gt;Astronomers say the upper stage of a Falcon 9 rocket that launched in early 2025 will strike the Moon later this summer, likely on the near side of the Moon.&lt;br/&gt;(천문학자들은 2025년 초 발사된 팰컨9 로켓의 상단부가 올여름 늦게 달의 앞면에 충돌할 가능성이 높다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;Bill Gray, who writes the widely used Project Pluto software to track near-Earth objects, has published a comprehensive report on the impact expected to occur at 2:44 am ET (06:44 UTC) on August 5. The Falcon 9 rocket’s upper stage is 13.8 meters (45 feet) tall and has a 3.7-meter (12 feet) diameter. Since the Moon has no atmosphere, it will strike the lunar surface intact.&lt;br/&gt;(지구 근접 천체 추적에 널리 사용되는 '프로젝트 플루토' 소프트웨어를 개발한 빌 그레이는 8월 5일 오전 2시 44분(미 동부 시간, UTC 06:44)에 예상되는 충돌에 대한 포괄적인 보고서를 발표했다. 팰컨9 로켓의 상단부는 높이 13.8미터(45피트), 직경 3.7미터(12피트)이다. 달에는 대기가 없기 때문에 로켓은 원형 그대로 달 표면에 충돌할 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그레이는 미국 동부와 캐나다, 그리고 남미 대부분 지역에서 달이 보이지만, 충돌 현상은 지구 망원경으로 관측하기에는 너무 희미할 것이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그레이와 다른 천문학자들은 이 물체가 2025년 1월 15일 발사된 두 대의 달 착륙선(파이어플라이의 블루 고스트와 아이스페이스의 하쿠토-R)을 실었던 팰컨9 로켓의 2단부임을 확신한다. 발사 후 두 착륙선, 페이로드 페어링, 그리고 상단부는 분리 후 모두 추적되었다. 두 착륙선은 달에 도달했으며(블루 고스트만 성공적으로 착륙), 페어링은 지구 대기권에 재진입했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"상단부(2025-010D)도 계속 지구 궤도를 돌고 있었지만, 궤도가 다소 높아 재진입하지 않았습니다,"라고 그레이는 썼다. "달과 지구 근처를 여러 번 가까이 통과했지만, 충돌 가능성을 시사할 만큼 가깝지는 않았습니다. 소행성 관측 프로그램들은 이 물체가 태양이나 달에 너무 가깝지 않을 때마다 관측했습니다. 2026년 2월 26일 기준으로 총 1,053건의 관측 데이터를 축적했습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+그레이는 이 물체가 아인슈타인 분화구 내부 또는 근처에서 달에 충돌할 때 초속 2.43km(시속 5,400마일)의 속도로 이동할 것으로 추정한다. 이 속도는 음속의 약 7배에 해당한다. 이 충돌로 작은 분화구가 생기겠지만, 그 외의 피해는 없을 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+4년 전 아르스 테크니카는 천문학자들이 또 다른 팰컨9 상단부가 달에 충돌할 것이라고 믿었다고 보도한 바 있다. 그러나 이후 분석 결과, 그 물체는 사실 중국 창어 5호 T1 임무의 상단부로 확인되었다. 그레이는 이번 물체가 발사 이후 지속적으로 추적되어 왔기 때문에 팰컨9 상단부라는 식별에 의심의 여지가 없다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 충돌이 달에 있는 어떤 것에 위험을 초래하지는 않는다. 달은 생명이 없는 세계이며, 근처에 인간이 착륙시킨 물체도 없다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 NASA와 중국은 현재 달 남극 근처에 반영구적 전초 기지 건설을 위한 심층 계획 단계에 있다. 이 과정에서 로버, 보급품, 주거 시설, 통신 장비 등 인간 활동 지원에 필요한 물자를 달에 보내기 위해 팰컨9 및 기타 로켓의 달 발사 빈도는 현재보다 약 10배 증가할 전망이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이에 비교적 간단한 해결책이 있다. 추가 계획과 약간의 연료를 아껴 발사 기업들은 이러한 상단부를 태양 주위 '처분' 궤도에 진입시켜 영구히 지구나 달에 충돌하지 않는 경로로 보낼 수 있다. 미래의 달 운영 안전을 위해, 이는 표준 운영 절차가 되어야 할 것이다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Firefly_i_Space_outside39mound_DSC_1723_desktop_463a0c9a28-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 29 Apr 2026 03:39:52 +0000</pubDate></item><item><title>Attempt to repeal Colorado’s right-to-repair law fails (콜로라도 수리권법 폐지 시도 실패)</title><link>https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/phonerepair-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Manufacturers backed effort to repeal the law but ultimately failed.&lt;br/&gt;(제조업체들이 법률 폐지를 지원했지만 결국 실패했다.)&lt;/p&gt;
+&lt;p&gt;A controversial bill in Colorado that would have undone some repair protections in the state has failed. The bill had been the target of right-to-repair advocates, who saw it as a bellwether for how tech companies might try to undo repair legislation more broadly in the US.&lt;br/&gt;(콜로라도 주에서 일부 수리 보호 조항을 무효화하려던 논란의 법안이 폐기되었다. 이 법안은 수리권 지지자들의 표적이 되었으며, 이는 기술 기업들이 미국 전역에서 수리 관련 법안을 무력화하려는 움직임의 선례가 될 수 있다고 여겨졌다.)&lt;/p&gt;
+&lt;p&gt;Colorado’s landmark 2024 repair law, the Consumer Right to Repair Digital Electronic Equipment , went into effect in January 2026 and ensured access to tools and documentation people needed to modify and fix digital electronics such as phones, computers, and Wi-Fi routers. The new bill, SB26-090 , would have carved out an exception to those repair protections for “critical infrastructure,” a loosely defined term that repair advocates worried could be applied to just about any technology.&lt;br/&gt;(콜로라도의 획기적인 2024년 수리법(소비자 디지털 전자 기기 수리권)은 2026년 1월 발효되어 휴대전화, 컴퓨터, 와이파이 라우터 등 디지털 전자 제품을 수리하고 개조하는 데 필요한 도구와 문서에 대한 접근을 보장했다. 새로운 법안 SB26-090은 "핵심 인프라"에 대한 수리 보호 예외를 두려고 했는데, 이는 수리 지지자들이 거의 모든 기술에 적용될 수 있는 모호한 용어라고 우려했다.)&lt;/p&gt;
+&lt;p&gt;SB26-090 was introduced during a Colorado Senate hearing on April 2 and was supported by lobbying efforts from companies such as Cisco and IBM. It passed that hearing unanimously. The bill then passed in the Colorado Senate on April 16. On Monday evening, the bill was discussed in a long, delayed hearing in the Colorado House’s State, Civic, Military, and Veterans Affairs Committee. Dozens of supporters and detractors gave public comments. Finally, the bill was shot down in a 7-to-4 vote and classified as postponed indefinitely.&lt;br/&gt;(SB26-090은 4월 2일 콜로라도 상원 청문회에서 상정되었으며, 시스코와 IBM 같은 기업들의 로비 지원을 받았다. 청문회에서 만장일치로 통과된 후, 4월 16일 콜로라도 상원을 통과했다. 월요일 저녁, 이 법안은 콜로라도 하원의 주정부, 시민, 군사 및 재향군인 문제 위원회에서 오랜 지연 끝에 논의되었다. 수많은 지지자와 반대자들이 공개 의견을 제시했다. 결국 법안은 7대 4로 부결되어 무기한 연기로 분류되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지역 비영리 소비자 옹호 단체 CoPIRG의 전무이사 대니 캐츠는 이번 싸움이 집단적인 노력이었다고 말한다. 법안에 반대한 이들은 PIRG, Repair.org, iFixit, Consumer Reports 같은 조직의 수리권 옹호자들과 Blue Star Recyclers, Recycle Colorado, Environment Colorado, GreenLatinos 같은 지역 기업 및 환경 단체 등 다양한 세력이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"법안의 동력을 조금씩 깎아내는 진전을 보이고 있었지만, 여전히 지고 있었습니다." 캐츠는 청문회 후 WIRED에 보낸 이메일에서 썼다. "그래서 우리는 어떤 것도 당연하게 여기지 않았고, 사이버 보안 전문가, 기업, 수리 옹호자, 재활용 업체, 그리고 물건을 고칠 자유를 원하는 사람들 등 폭넓은 사람들의 놀라운 증언이 큰 차이를 만들었다고 믿습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+시스코와 같은 기업들의 지원을 받은 법안 지지자들은 법률 문구를 수정하려는 동기로 사이버 보안 위험 가능성을 지적했다. 기업들이 모든 사람에게 수리 도구를 제공해야 한다면, 나쁜 행위자들이 그 도구를 사용해 인터넷 라우터 같은 핵심 기술을 역설계하는 것을 막을 수 없다는 논리였다. 그들은 그러한 도구를 숨기면 해커들이 오용할 가능성이 줄어든다고 주장했다. 법안 지지자들은 보안을 보장한다면 기업들이 비밀을 유지할 수 있어야 한다고 말했지만, 이 주장은 약간의 검토만으로도 무너지기 시작한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+청문회에서 민주당원 채드 클리포드(콜로라도 주 하원의원이자 하원 위원회 부위원장, 법안의 주요 발의자)는 클라우드플레어가 인터넷 암호화를 무작위화하기 위해 라바 램프 벽을 매우 공개적으로 사용한 사례를 언급하며, 이를 민감한 시스템이 보안을 유지하기 위해 이해 불가능해야 하는 필요성의 예로 들었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"중국인들이 네트워크에 침투하는 것을 막기 위해 왜 누군가가 벽에 라바 램프를 두어야 하는지는 모르지만, 그것이 효과가 있는 방법입니다." 클리포드가 말했다. "그들이 어떻게 하는지에 대해서는, 콜로라도에서조차 비밀로 유지할 수 있어야 한다고 믿습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+사이버 보안 전문가들이 청문회에서 지적한 대로, 이 주장의 문제점은 대다수의 해킹이 교체 부품이나 개별 기계 분해를 통해 이루어지지 않는다는 점이다. 대부분의 해킹은 원격으로 이루어지며, 공격자가 실시간으로 변경을 가하고 방어자는 장비 제조사의 허가를 기다릴 필요 없이 즉석에서 대응해야 한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"시간이 없습니다." 사이버 보안 전문가이자 화이트 해커인 빌리 리오스가 청문회에서 말했다. "그렇게 작동하지 않습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+사이버 보안 논쟁 외에도, 주에 투자한 대형 기술 기업들을 화나게 하는 경제적 문제가 또 다른 쟁점이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그들은 우리가 통과시킨 법 때문에 고객 수십억 달러의 이익을 확보하는 것에 대해 왕국의 열쇠를 넘기며 준수하지 않을 것입니다." 클리포드가 말했다. "그들이 할 일은 그 품목에 대한 거래를 여기서 하지 않는 것입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+그 주장은 지지자들에게 유리한 표를 바꿀 만큼의 힘을 갖지 못했다. 청문회가 끝날 무렵, 모두가 지쳐 있었고 새 법안과 수정안이 정확히 어떻게 전개될지 완전히 명확하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리가 정말로 여기서 무엇을 하려는 겁니까?" 청문회 말미에 반대표를 던진 콜로라도 주 하원의원 나케타 릭스가 말했다. "단 한 회사를 보호하려는 것인가요, 아니면 진정한 핵심 인프라를 보고 있는 건가요? 저는 확신이 서지 않습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 PIRG의 수리권 캠페인 선임 디렉터 네이선 프록터는 입법자들이 수리가 본질적으로 위험하지 않다는 점을 이해한 것에 안도감을 느꼈다고 말했다. 하지만 이것이 끝이 아니라는 것을 알고 있다. 그는 로비스트들이 콜로라도와 더 넓은 범위에서 싸움을 계속할 것이라고 완전히 예상한다. 그는 아이오와 같은 주의 최근 수리법과 수리 관련 법안을 고려하는 주의 증가를 지적하며, 그곳에서도 불가피한 전투를 준비하고 있다고 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"사실, 고칠 수 없는 물건이 도처에 있습니다." 프록터가 썼다. "이것은 광범위한 문제이며, 광범위한 대응이 필요합니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+이 이야기는 원래 wired.com에 게재되었습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/phonerepair-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 29 Apr 2026 05:00:19 +0000</pubDate></item></channel></rss>
