@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 20:01:39 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:46:11 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>최고경영자 – CEO</title><link>urn:urn:vocab:최고경영자</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>계열사 – affiliate</title><link>urn:urn:vocab:계열사</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZmZpbGlhdGV8ZW58MHx8fHwxNzc3NTA2MzY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="계열사 (affiliate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(공정위는 “김유석씨가 부사장(Vice President)급으로 쿠팡 내 등급상 거의 최상위 등급에 해당해 주요 계열사의 대표이사 등급과 유사하다”고 설명했다&lt;br/&gt;&lt;em&gt;The Fair Trade Commission explained that Kim Yu-seok, at the vice president level, corresponds to almost the highest rank within Coupang, similar to the level of a representative director of major affiliates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또한 김 의장의 동생인 김유석씨(부사장)가 공정거래법상 임원이 아니며, 한국 계열사 지분이 없다고 강조했다&lt;br/&gt;&lt;em&gt;They also emphasized that Chairman Kim's younger brother, Kim Yu-seok (Vice President), is not an executive under the Fair Trade Act and holds no shares in Korean affiliates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공정위는 김씨가 국내 계열사에서 등기임원에 준하는 보수와 대우를 받고, 회사의 주요 정책 논의와 사업에 관여한 사실을 확인했다는 점을 들어, 그가 쿠팡 경영에 참여하고 있다고 판단했다&lt;br/&gt;&lt;em&gt;The Fair Trade Commission determined that Kim is participating in Coupang's management, citing that he receives compensation and treatment equivalent to a registered executive at domestic affiliates and has been involved in discussions on major company policies and business.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 회사는 계열사가 많다.&lt;br/&gt;&lt;em&gt;This company has many affiliates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;계열사에서 일하고 싶다.&lt;br/&gt;&lt;em&gt;I want to work at an affiliate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZmZpbGlhdGV8ZW58MHx8fHwxNzc3NTA2MzY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="계열사 (affiliate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(공정위는 “김유석씨가 부사장(Vice President)급으로 쿠팡 내 등급상 거의 최상위 등급에 해당해 주요 계열사의 대표이사 등급과 유사하다”고 설명했다&lt;br/&gt;&lt;em&gt;The Fair Trade Commission explained that Kim Yu-seok, at the vice president level, corresponds to almost the highest rank within Coupang, similar to the level of a representative director of major affiliates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또한 김 의장의 동생인 김유석씨(부사장)가 공정거래법상 임원이 아니며, 한국 계열사 지분이 없다고 강조했다&lt;br/&gt;&lt;em&gt;They also emphasized that Chairman Kim's younger brother, Kim Yu-seok (Vice President), is not an executive under the Fair Trade Act and holds no shares in Korean affiliates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공정위는 김씨가 국내 계열사에서 등기임원에 준하는 보수와 대우를 받고, 회사의 주요 정책 논의와 사업에 관여한 사실을 확인했다는 점을 들어, 그가 쿠팡 경영에 참여하고 있다고 판단했다&lt;br/&gt;&lt;em&gt;The Fair Trade Commission determined that Kim is participating in Coupang's management, citing that he receives compensation and treatment equivalent to a registered executive at domestic affiliates and has been involved in discussions on major company policies and business.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 회사는 계열사가 많다.&lt;br/&gt;&lt;em&gt;This company has many affiliates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;계열사에서 일하고 싶다.&lt;br/&gt;&lt;em&gt;I want to work at an affiliate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 30 Apr 2026 08:46:11 +0900</pubDate><guid isPermaLink="false">vocab-8166dedde5a8238d94a5158049dbd021ddcb7f6c</guid><enclosure url="https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZmZpbGlhdGV8ZW58MHx8fHwxNzc3NTA2MzY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="99403" /><ns2:content url="https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZmZpbGlhdGV8ZW58MHx8fHwxNzc3NTA2MzY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZmZpbGlhdGV8ZW58MHx8fHwxNzc3NTA2MzY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>계열사</category></item><item><title>최고경영자 – CEO</title><link>urn:urn:vocab:최고경영자</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDRU98ZW58MHx8fHwxNzc3NDYwNDk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="최고경영자 (CEO)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;데미스 허사비스 구글 딥마인드 최고경영자(CEO)가 27일 서울 종로구 포시즌스호텔에서 열린 과기정통부-구글 딥마인드 MOU 체결식에서 인사말을 하고 있다&lt;br/&gt;&lt;em&gt;Demis Hassabis, CEO of Google DeepMind, delivers a speech at the signing ceremony of the MOU between the Ministry of Science and ICT and Google DeepMind held at the Four Seasons Hotel in Jongno-gu, Seoul on the 27th.&lt;/em&gt;&lt;/p&gt;
