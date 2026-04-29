@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 09:23:21 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:38:34 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,49 @@
 
 
 
-  <item><title>공약을 – pledge</title><link>urn:urn:vocab:공약을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사람인 – is a person</title><link>urn:urn:vocab:사람인</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1733906130504-0055d27cad5e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGElMjBwZXJzb258ZW58MHx8fHwxNzc3NDM3NTEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사람인 (is a person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김 후보는 계엄 이후 탄핵 찬성 등 용기 있는 선택을 한 정의로운 사람인 것은 분명하다&lt;br/&gt;&lt;em&gt;It is clear that candidate Kim is a righteous person who made courageous choices such as supporting impeachment after the martial law.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (더불어민주당 김상욱 울산시장 후보는 지난 23일 본지 인터뷰에서 “민주당이라는 당을 뽑아달라고 호소하지 않겠다”며 “울산을 위해 일할 사람인 저, 김상욱을 뽑아달라”고 말했다&lt;br/&gt;&lt;em&gt;" (Democratic Party candidate for Ulsan mayor Kim Sang-wook said in an interview with this newspaper on the 23rd, 'I will not appeal for votes for the Democratic Party,' and 'Please vote for me, Kim Sang-wook, who will work for Ulsan.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 좋은 사람인.&lt;br/&gt;&lt;em&gt;He is a good person.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저 사람인 누구?&lt;br/&gt;&lt;em&gt;Who is that person?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1733906130504-0055d27cad5e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGElMjBwZXJzb258ZW58MHx8fHwxNzc3NDM3NTEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사람인 (is a person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김 후보는 계엄 이후 탄핵 찬성 등 용기 있는 선택을 한 정의로운 사람인 것은 분명하다&lt;br/&gt;&lt;em&gt;It is clear that candidate Kim is a righteous person who made courageous choices such as supporting impeachment after the martial law.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (더불어민주당 김상욱 울산시장 후보는 지난 23일 본지 인터뷰에서 “민주당이라는 당을 뽑아달라고 호소하지 않겠다”며 “울산을 위해 일할 사람인 저, 김상욱을 뽑아달라”고 말했다&lt;br/&gt;&lt;em&gt;" (Democratic Party candidate for Ulsan mayor Kim Sang-wook said in an interview with this newspaper on the 23rd, 'I will not appeal for votes for the Democratic Party,' and 'Please vote for me, Kim Sang-wook, who will work for Ulsan.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 좋은 사람인.&lt;br/&gt;&lt;em&gt;He is a good person.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저 사람인 누구?&lt;br/&gt;&lt;em&gt;Who is that person?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 29 Apr 2026 13:38:34 +0900</pubDate><guid isPermaLink="false">vocab-8dd2640888dc4bef138e600356c264f551878b06</guid><enclosure url="https://images.unsplash.com/photo-1733906130504-0055d27cad5e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGElMjBwZXJzb258ZW58MHx8fHwxNzc3NDM3NTEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="123631" /><ns2:content url="https://images.unsplash.com/photo-1733906130504-0055d27cad5e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGElMjBwZXJzb258ZW58MHx8fHwxNzc3NDM3NTEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1733906130504-0055d27cad5e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGElMjBwZXJzb258ZW58MHx8fHwxNzc3NDM3NTEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사람인</category></item><item><title>사용료 – usage fee</title><link>urn:urn:vocab:사용료</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604833102475-d50706d35edb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2FnZSUyMGZlZXxlbnwwfHx8fDE3Nzc0Mjk4MjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사용료 (usage fee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한미 간에는 망 사용료 문제도 불거지고 있다&lt;br/&gt;&lt;em&gt;(The issue of network usage fees is also emerging between South Korea and the United States)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미 무역대표부(USTR)는 27일(현지 시각) 공식 SNS를 통해 “세계 어느 나라도 자국 인터넷 서비스 제공업체에 인터넷 트래픽 전송에 네트워크 사용료를 부과하지 않는다”며 “한국만 예외”라고 했다&lt;br/&gt;&lt;em&gt;The U.S. Trade Representative (USTR) said on its official social media on the 27th (local time), 'No country in the world imposes network usage fees on its internet service providers for internet traffic transmission,' adding, 'South Korea is the only exception.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (청와대는 이날 공지를 통해 “미국 기업이 망 사용료, 플랫폼 규제 등에서 차별받고 있다는 주장은 사실과 다르다”며 “국회에서 발의된 망 사용료 의무화 법안이 있으나 통과된 법안은 없다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (The presidential office announced on the same day, 'The claim that U.S. companies are being discriminated against in network usage fees and platform regulations is not true,' and stated, 'Although there is a bill mandating network usage fees proposed in the National Assembly, no law has been passed.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사용료를 냈어요.&lt;br/&gt;&lt;em&gt;I paid the fee.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사용료가 비싸요.&lt;br/&gt;&lt;em&gt;The fee is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604833102475-d50706d35edb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2FnZSUyMGZlZXxlbnwwfHx8fDE3Nzc0Mjk4MjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사용료 (usage fee)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한미 간에는 망 사용료 문제도 불거지고 있다&lt;br/&gt;&lt;em&gt;(The issue of network usage fees is also emerging between South Korea and the United States)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미 무역대표부(USTR)는 27일(현지 시각) 공식 SNS를 통해 “세계 어느 나라도 자국 인터넷 서비스 제공업체에 인터넷 트래픽 전송에 네트워크 사용료를 부과하지 않는다”며 “한국만 예외”라고 했다&lt;br/&gt;&lt;em&gt;The U.S. Trade Representative (USTR) said on its official social media on the 27th (local time), 'No country in the world imposes network usage fees on its internet service providers for internet traffic transmission,' adding, 'South Korea is the only exception.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (청와대는 이날 공지를 통해 “미국 기업이 망 사용료, 플랫폼 규제 등에서 차별받고 있다는 주장은 사실과 다르다”며 “국회에서 발의된 망 사용료 의무화 법안이 있으나 통과된 법안은 없다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (The presidential office announced on the same day, 'The claim that U.S. companies are being discriminated against in network usage fees and platform regulations is not true,' and stated, 'Although there is a bill mandating network usage fees proposed in the National Assembly, no law has been passed.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사용료를 냈어요.&lt;br/&gt;&lt;em&gt;I paid the fee.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사용료가 비싸요.&lt;br/&gt;&lt;em&gt;The fee is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 29 Apr 2026 11:30:28 +0900</pubDate><guid isPermaLink="false">vocab-a3e318b0b9d1ece970725aeb6b479473b5dea4b4</guid><enclosure url="https://images.unsplash.com/photo-1604833102475-d50706d35edb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2FnZSUyMGZlZXxlbnwwfHx8fDE3Nzc0Mjk4MjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="94854" /><ns2:content url="https://images.unsplash.com/photo-1604833102475-d50706d35edb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2FnZSUyMGZlZXxlbnwwfHx8fDE3Nzc0Mjk4MjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1604833102475-d50706d35edb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2FnZSUyMGZlZXxlbnwwfHx8fDE3Nzc0Mjk4MjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사용료</category></item><item><title>공약을 – pledge</title><link>urn:urn:vocab:공약을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1697992350594-f45c925702ed?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwbGVkZ2V8ZW58MHx8fHwxNzc3NDIyMTk3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공약을 (pledge)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;더불어민주당 김경수 후보도 도민의 일상적 불편을 해소하는 생활 밀착형 공약을 순차적으로 발표하면서 맞불을 놨다&lt;br/&gt;&lt;em&gt;Kim Kyung-soo, the candidate of the Democratic Party of Korea, also fought back by sequentially announcing life-friendly pledges that address the daily inconveniences of the provincial residents.&lt;/em&gt;&lt;/p&gt;

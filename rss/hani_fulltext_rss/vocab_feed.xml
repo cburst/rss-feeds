@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 09:23:16 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:38:29 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>이어졌다 – continued</title><link>urn:urn:vocab:이어졌다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>가치는 – value</title><link>urn:urn:vocab:가치는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2YWx1ZXxlbnwwfHx8fDE3Nzc0Mzc1MDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가치는 (value)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;심사위원 존 타카르는 “수십 년간 교육 현장을 지켜본 결과, 그 가치는 완성된 결과물보다 과정에서 이루어지는 ‘대화’에 있다”며, DBEW Award가 다양성에 주목하고 단 하나의 정답을 강요하지 않으면서, 참가자들이 얼마나 진정성 있게 문제의 본질을 탐구하는지를 두루 살폈다고 설명했다&lt;br/&gt;&lt;em&gt;Judge John Takar explained, 'Having observed the educational field for decades, the value lies not in the completed result but in the 'dialogue' that takes place during the process,' and noted that the DBEW Award pays attention to diversity, does not force a single correct answer, and thoroughly examines how sincerely participants explore the essence of the problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국가데이터처가 29일 발표한 ‘2024년 가계생산위성계정’을 보면, 1인당 무급 가사노동 가치는 여성이 1646만원, 남성이 605만원으로 집계됐다&lt;br/&gt;&lt;em&gt;According to the '2024 Household Production Satellite Account' released by the National Data Service on the 29th, the per capita value of unpaid domestic labor was estimated at 16.46 million won for women and 6.05 million won for men.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가사노동 가치는 ‘가사노동 시간’에 ‘가사노동 인구’와 ‘대체임금’(시장임금)을 곱해 산출하는데, 이번 조사에서 1인당 하루 가사노동 시간은 5년 새 5분(-3&lt;br/&gt;&lt;em&gt;The value of domestic labor is calculated by multiplying 'domestic labor time' by 'domestic labor population' and 'replacement wage' (market wage). In this survey, the per capita daily domestic labor time decreased by 5 minutes over five years (-3&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 책의 가치는 높다.&lt;br/&gt;&lt;em&gt;The value of this book is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가치는 돈으로 살 수 없다.&lt;br/&gt;&lt;em&gt;Value cannot be bought with money.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2YWx1ZXxlbnwwfHx8fDE3Nzc0Mzc1MDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가치는 (value)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;심사위원 존 타카르는 “수십 년간 교육 현장을 지켜본 결과, 그 가치는 완성된 결과물보다 과정에서 이루어지는 ‘대화’에 있다”며, DBEW Award가 다양성에 주목하고 단 하나의 정답을 강요하지 않으면서, 참가자들이 얼마나 진정성 있게 문제의 본질을 탐구하는지를 두루 살폈다고 설명했다&lt;br/&gt;&lt;em&gt;Judge John Takar explained, 'Having observed the educational field for decades, the value lies not in the completed result but in the 'dialogue' that takes place during the process,' and noted that the DBEW Award pays attention to diversity, does not force a single correct answer, and thoroughly examines how sincerely participants explore the essence of the problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국가데이터처가 29일 발표한 ‘2024년 가계생산위성계정’을 보면, 1인당 무급 가사노동 가치는 여성이 1646만원, 남성이 605만원으로 집계됐다&lt;br/&gt;&lt;em&gt;According to the '2024 Household Production Satellite Account' released by the National Data Service on the 29th, the per capita value of unpaid domestic labor was estimated at 16.46 million won for women and 6.05 million won for men.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가사노동 가치는 ‘가사노동 시간’에 ‘가사노동 인구’와 ‘대체임금’(시장임금)을 곱해 산출하는데, 이번 조사에서 1인당 하루 가사노동 시간은 5년 새 5분(-3&lt;br/&gt;&lt;em&gt;The value of domestic labor is calculated by multiplying 'domestic labor time' by 'domestic labor population' and 'replacement wage' (market wage). In this survey, the per capita daily domestic labor time decreased by 5 minutes over five years (-3&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 책의 가치는 높다.&lt;br/&gt;&lt;em&gt;The value of this book is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가치는 돈으로 살 수 없다.&lt;br/&gt;&lt;em&gt;Value cannot be bought with money.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 29 Apr 2026 13:38:29 +0900</pubDate><guid isPermaLink="false">vocab-a6c54d3465dfe83d4a8e464178bf159f6540810f</guid><enclosure url="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2YWx1ZXxlbnwwfHx8fDE3Nzc0Mzc1MDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="79689" /><ns2:content url="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2YWx1ZXxlbnwwfHx8fDE3Nzc0Mzc1MDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2YWx1ZXxlbnwwfHx8fDE3Nzc0Mzc1MDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>가치는</category></item><item><title>운영된다 – is operated</title><link>urn:urn:vocab:운영된다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMG9wZXJhdGVkfGVufDB8fHx8MTc3NzQyOTgxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="운영된다 (is operated)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;박람회엔 대기업, 중견·중소기업, 스타트업, 외국계 기업 약 170개 회사의 채용 상담이 이뤄지는 채용상담관, 현장 면접을 지원하는 집중면접관 등이 운영된다&lt;br/&gt;&lt;em&gt;The fair will operate recruitment consultation booths where about 170 companies, including large corporations, mid-sized and small businesses, startups, and foreign-invested companies, provide recruitment advice, as well as intensive interview booths supporting on-site interviews.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;방문이 쉽지 않은 구직자들을 위해 기업 정보 확인과 입사지원, 채용 일정 등을 지원하는 온라인 채용박람회도 채용 플랫폼 ‘사람인’을 통해 오는 7월31일까지 운영된다&lt;br/&gt;&lt;em&gt;For job seekers who find it difficult to visit in person, an online job fair that supports company information checking, job applications, and recruitment schedules will also be operated through the recruitment platform 'Saramin' until July 31.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘구이존’을 통해 고품질 한우를 현장에서 직접 구워 맛볼 수 있으며, 경품 이벤트 등 다양한 프로그램도 함께 운영된다&lt;br/&gt;&lt;em&gt;Through 'Guizone', high-quality Korean beef can be grilled and tasted on-site, and various programs such as giveaway events will also be operated.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;도서관은 매일 운영된다.&lt;br/&gt;&lt;em&gt;The library operates every day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 프로그램은 잘 운영된다.&lt;br/&gt;&lt;em&gt;This program runs well.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMG9wZXJhdGVkfGVufDB8fHx8MTc3NzQyOTgxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="운영된다 (is operated)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;박람회엔 대기업, 중견·중소기업, 스타트업, 외국계 기업 약 170개 회사의 채용 상담이 이뤄지는 채용상담관, 현장 면접을 지원하는 집중면접관 등이 운영된다&lt;br/&gt;&lt;em&gt;The fair will operate recruitment consultation booths where about 170 companies, including large corporations, mid-sized and small businesses, startups, and foreign-invested companies, provide recruitment advice, as well as intensive interview booths supporting on-site interviews.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;방문이 쉽지 않은 구직자들을 위해 기업 정보 확인과 입사지원, 채용 일정 등을 지원하는 온라인 채용박람회도 채용 플랫폼 ‘사람인’을 통해 오는 7월31일까지 운영된다&lt;br/&gt;&lt;em&gt;For job seekers who find it difficult to visit in person, an online job fair that supports company information checking, job applications, and recruitment schedules will also be operated through the recruitment platform 'Saramin' until July 31.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘구이존’을 통해 고품질 한우를 현장에서 직접 구워 맛볼 수 있으며, 경품 이벤트 등 다양한 프로그램도 함께 운영된다&lt;br/&gt;&lt;em&gt;Through 'Guizone', high-quality Korean beef can be grilled and tasted on-site, and various programs such as giveaway events will also be operated.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;도서관은 매일 운영된다.&lt;br/&gt;&lt;em&gt;The library operates every day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 프로그램은 잘 운영된다.&lt;br/&gt;&lt;em&gt;This program runs well.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 29 Apr 2026 11:30:22 +0900</pubDate><guid isPermaLink="false">vocab-af25b1764e3463d23a4c5ae8310929b2afe7aa88</guid><enclosure url="https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMG9wZXJhdGVkfGVufDB8fHx8MTc3NzQyOTgxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="138464" /><ns2:content url="https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMG9wZXJhdGVkfGVufDB8fHx8MTc3NzQyOTgxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMG9wZXJhdGVkfGVufDB8fHx8MTc3NzQyOTgxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>운영된다</category></item><item><title>이어졌다 – continued</title><link>urn:urn:vocab:이어졌다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250aW51ZWR8ZW58MHx8fHwxNzc3NDIyMTkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이어졌다 (continued)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;그래도 남은 빚은 상환하기 어려워지자 사금융업자는 대출 과정에서 제공한 본인 사진과 가족·지인 연락처를 악용해 피해사실을 유포하는 등 불법추심도 이어졌다&lt;br/&gt;&lt;em&gt;Nevertheless, as it became difficult to repay the remaining debt, the private lender continued illegal collection by exploiting the borrower's photos and contact information of family and acquaintances provided during the loan process, spreading the victimization.&lt;/em&gt;&lt;/p&gt;
