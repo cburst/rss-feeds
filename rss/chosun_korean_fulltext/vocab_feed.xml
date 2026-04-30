@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 15:09:37 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 19:23:33 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>노동자 – worker</title><link>urn:urn:vocab:노동자</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>서귀포 – Seogwipo (city in Jeju)</title><link>urn:urn:vocab:서귀포</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1671536695863-dde864d4b90e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW9nd2lwbyUyMCUyOGNpdHklMjBpbiUyMEplanUlMjl8ZW58MHx8fHwxNzc3NTQ0NjA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서귀포 (Seogwipo (city in Jeju))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Democratic Party Recruits Former Vice Minister of Oceans and Fisheries Kim Seong-beom… Likely to Run in Seogwipo, Jeju (민주당, 김성범 전 해수부 차관 영입…제주 서귀포 출마 유력) &lt;&lt;br/&gt;&lt;em&gt;Democratic Party Recruits Former Vice Minister of Oceans and Fisheries Kim Seong-beom… Likely to Run in Seogwipo, Jeju&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Democratic Party Recruits Former Vice Minister of Oceans and Fisheries Kim Seong-beom… Likely to Run in Seogwipo, Jeju (민주당, 김성범 전 해수부 차관 영입…제주 서귀포 출마 유력)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Democratic Party Recruits Former Vice Minister of Oceans and Fisheries Kim Seong-beom… Likely to Run in Seogwipo, Jeju&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;제주 서귀포 출신인 김 전 차관은 위성곤 의원의 제주도지사 출마로 보궐선거가 치러지는 서귀포 지역구 출마가 유력하다&lt;br/&gt;&lt;em&gt;Former Vice Minister Kim, a native of Seogwipo, Jeju, is likely to run in the Seogwipo district, where a by-election will be held due to Rep. Wi Seong-gon's candidacy for Jeju governor.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서귀포는 제주도에 있어요.&lt;br/&gt;&lt;em&gt;Seogwipo is on Jeju Island.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서귀포에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to Seogwipo.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1671536695863-dde864d4b90e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW9nd2lwbyUyMCUyOGNpdHklMjBpbiUyMEplanUlMjl8ZW58MHx8fHwxNzc3NTQ0NjA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서귀포 (Seogwipo (city in Jeju))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Democratic Party Recruits Former Vice Minister of Oceans and Fisheries Kim Seong-beom… Likely to Run in Seogwipo, Jeju (민주당, 김성범 전 해수부 차관 영입…제주 서귀포 출마 유력) &lt;&lt;br/&gt;&lt;em&gt;Democratic Party Recruits Former Vice Minister of Oceans and Fisheries Kim Seong-beom… Likely to Run in Seogwipo, Jeju&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Democratic Party Recruits Former Vice Minister of Oceans and Fisheries Kim Seong-beom… Likely to Run in Seogwipo, Jeju (민주당, 김성범 전 해수부 차관 영입…제주 서귀포 출마 유력)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Democratic Party Recruits Former Vice Minister of Oceans and Fisheries Kim Seong-beom… Likely to Run in Seogwipo, Jeju&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;제주 서귀포 출신인 김 전 차관은 위성곤 의원의 제주도지사 출마로 보궐선거가 치러지는 서귀포 지역구 출마가 유력하다&lt;br/&gt;&lt;em&gt;Former Vice Minister Kim, a native of Seogwipo, Jeju, is likely to run in the Seogwipo district, where a by-election will be held due to Rep. Wi Seong-gon's candidacy for Jeju governor.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서귀포는 제주도에 있어요.&lt;br/&gt;&lt;em&gt;Seogwipo is on Jeju Island.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서귀포에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to Seogwipo.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 30 Apr 2026 19:23:33 +0900</pubDate><guid isPermaLink="false">vocab-112a24fda86816356f453751e85027bb9af53d21</guid><enclosure url="https://images.unsplash.com/photo-1671536695863-dde864d4b90e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW9nd2lwbyUyMCUyOGNpdHklMjBpbiUyMEplanUlMjl8ZW58MHx8fHwxNzc3NTQ0NjA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="131624" /><ns2:content url="https://images.unsplash.com/photo-1671536695863-dde864d4b90e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW9nd2lwbyUyMCUyOGNpdHklMjBpbiUyMEplanUlMjl8ZW58MHx8fHwxNzc3NTQ0NjA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1671536695863-dde864d4b90e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW9nd2lwbyUyMCUyOGNpdHklMjBpbiUyMEplanUlMjl8ZW58MHx8fHwxNzc3NTQ0NjA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>서귀포</category></item><item><title>별도로 – separately</title><link>urn:urn:vocab:별도로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1583078379333-e34d6569c406?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZXBhcmF0ZWx5fGVufDB8fHx8MTc3NzUzNjk4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="별도로 (separately)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (그는 서귀포 제2공항 문제에 대해선 “공항 시설 확충 필요성은 공감하나 여러 걱정이 있는 것도 잘 안다”며 “그런 사안을 잘 정리해 구체적 방법이나 절차는 별도로 지역에서 말하겠다”고 했다&lt;br/&gt;&lt;em&gt;"Regarding the Seogwipo Second Airport issue, he said, 'I sympathize with the need for airport facility expansion, but I also know there are many concerns,' adding, 'We will organize such matters well and discuss specific methods or procedures separately at the local level.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또 “현재 민주당도 당대표와 원내대표가 별도로 움직이는 것으로 알고 있다”고 덧붙였다&lt;br/&gt;&lt;em&gt;He also added, "I understand that currently the Democratic Party's party leader and floor leader are moving separately."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 송 원내대표가 노량진 수산시장을 방문했지만, 장 대표는 이와 별도로 국회에서 소상공인연합회 정책 과제 전달식을 진행했다&lt;br/&gt;&lt;em&gt;(On this day, Floor Leader Song visited the Noryangjin Fisheries Wholesale Market, but separately from this, Party Leader Jang held a policy task delivery ceremony for the Small Business Federation at the National Assembly.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 별도로 계산해 주세요.&lt;br/&gt;&lt;em&gt;Please calculate this separately.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 일은 별도로 이야기합시다.&lt;br/&gt;&lt;em&gt;Let's talk about that separately.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1583078379333-e34d6569c406?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZXBhcmF0ZWx5fGVufDB8fHx8MTc3NzUzNjk4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="별도로 (separately)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (그는 서귀포 제2공항 문제에 대해선 “공항 시설 확충 필요성은 공감하나 여러 걱정이 있는 것도 잘 안다”며 “그런 사안을 잘 정리해 구체적 방법이나 절차는 별도로 지역에서 말하겠다”고 했다&lt;br/&gt;&lt;em&gt;"Regarding the Seogwipo Second Airport issue, he said, 'I sympathize with the need for airport facility expansion, but I also know there are many concerns,' adding, 'We will organize such matters well and discuss specific methods or procedures separately at the local level.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또 “현재 민주당도 당대표와 원내대표가 별도로 움직이는 것으로 알고 있다”고 덧붙였다&lt;br/&gt;&lt;em&gt;He also added, "I understand that currently the Democratic Party's party leader and floor leader are moving separately."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 송 원내대표가 노량진 수산시장을 방문했지만, 장 대표는 이와 별도로 국회에서 소상공인연합회 정책 과제 전달식을 진행했다&lt;br/&gt;&lt;em&gt;(On this day, Floor Leader Song visited the Noryangjin Fisheries Wholesale Market, but separately from this, Party Leader Jang held a policy task delivery ceremony for the Small Business Federation at the National Assembly.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 별도로 계산해 주세요.&lt;br/&gt;&lt;em&gt;Please calculate this separately.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 일은 별도로 이야기합시다.&lt;br/&gt;&lt;em&gt;Let's talk about that separately.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 30 Apr 2026 17:16:25 +0900</pubDate><guid isPermaLink="false">vocab-f67ccc799fa06face675ea4a3cc3301657953994</guid><enclosure url="https://images.unsplash.com/photo-1583078379333-e34d6569c406?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZXBhcmF0ZWx5fGVufDB8fHx8MTc3NzUzNjk4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="136635" /><ns2:content url="https://images.unsplash.com/photo-1583078379333-e34d6569c406?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZXBhcmF0ZWx5fGVufDB8fHx8MTc3NzUzNjk4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1583078379333-e34d6569c406?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZXBhcmF0ZWx5fGVufDB8fHx8MTc3NzUzNjk4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>별도로</category></item><item><title>노동자 – worker</title><link>urn:urn:vocab:노동자</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JrZXJ8ZW58MHx8fHwxNzc3NTI5MzcyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="노동자 (worker)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;다른 노동자에게 피해”) &lt;&lt;br/&gt;&lt;em&gt;harm to other workers&lt;/em&gt;&lt;/p&gt;
