@@ -1,69 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 01 May 2026 11:52:48 +0000</lastBuildDate><item><title>New Sam Bankman-Fried trial would be huge waste of court’s time, judge says (샘 뱅크먼-프리드의 재판 재개 요구, 법원 시간 낭비에 불과하다 판사)</title><link>https://arstechnica.com/tech-policy/2026/04/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1258714334-1024x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;FTX fraudster came out as Republican, then tried to claim Biden’s DOJ targeted him.&lt;br/&gt;(FTX 사기범은 공화당원임을 밝힌 뒤 바이든 정부의 법무부가 자신을 표적으로 삼았다고 주장했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-샘 뱅크먼-프리드의 재판 재개 요청을 기각하는 명령에서 판사는 불명예스러운 FTX 창립자가 법원의 소중한 자원을 황당한 음모론에 낭비했다고 비난했다. 판사에게 이 신청은 트럼프 행정부가 전혀 받아들이지 않을 MAGA 이미지 쇄신을 위한 마지막 시도처럼 보였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-뱅크먼-프리드는 2024년 "미국 역사상 최대 금융 사기 중 하나를 주도한" 혐의로 25년형을 선고받았다고 루이스 캐플런 미국 지방법원 판사가 명령에 적었다. 그는 전신 사기, 증권 사기 공모, 상품 사기, 자금 세탁 등 모든 혐의에서 유죄 판결을 받았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-판사는 다른 법원에 이미 항소가 계류 중이라고 지적했다. 그러나 뱅크먼-프리드는 조 바이든 정부 법무부가 증인들을 협박해 증언을 거부하게 하거나, 한 경우에는 법정에서 거짓말을 하게 만들지 않았다면 자신의 변호에 도움이 될 수 있었던 "새로 발견된" 증인과 증거가 있다고 주장하며 별도의 재판 재개 신청을 제기했다. 또한 그는 새로운 판사를 요청하며 캐플런의 기피를 요구했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 캐플런은 "어느 증인도" "새로 발견된" 것이 아니라고 지적했다. 더 우려스러운 점은 뱅크먼-프리드가 증인들이 법정에 불참한 것이 "정부의 위협과 보복의 결과"라고 주장하며 제기한 "극단적 음모론"을 증명할 증거를 전혀 제시하지 않았다는 점이라고 판사는 적었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-뱅크먼-프리드의 이론은 "기록과 완전히 모순된다"고 캐플런은 말했다. 그는 뱅크먼-프리드의 요청을 승인하는 것은 "방대하고 복잡한 기록을 다른 판사가 숙지해야 하므로 사법 자원의 큰 낭비가 될 것"이라고 강조했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-또한 뱅크먼-프리드가 자신의 변호에 결정적 증언을 할 수 있다고 주장한 세 증인 모두 재판 내내 그에게 알려져 있었으며, 그는 그들의 증언을 강제하려 한 적이 없었다. 그리고 현재 뱅크먼-프리드에 대한 증언에서 거짓말을 했다고 주장하는 한 증인—"유죄를 인정한 라이언 살라메"—의 "자기 이익을 위한 소셜 미디어 게시물"은 "극도의 의심"으로 받아들여져야 한다고 캐플런은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"살라메의 현재 말을 그대로 믿는다면, 그는 이 법원에서 유죄를 인정할 때 선서 아래 거짓말을 한 셈이다"라고 캐플런은 적었다. 설령 진지하게 받아들여도 "그의 법정 외부에서 이루어진 선서 없는 진술은 재판 재개를 정당화할 기준에 훨씬 미치지 못한다"고 캐플런은 말하며 살라메의 신뢰성을 "매우 의심스럽다"고 평가했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-또한 "이 사람들이 뱅크먼-프리드를 위해 증언했다고 해도, FTX가 파산하지 않았으며 피해자들이 파산 절차에서 전액 보상받았다는 그의 주장을 지지할 것이라는 그의 항변은 부정확하거나 오해의 소지가 있다"고 캐플런은 결론지었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-명령에서 캐플런의 좌절감이 느껴지는 듯하다. 뱅크먼-프리드가 신청을 철회하려 한 후 판사가 이에 대해 판결할 필요가 전혀 없었을 수도 있기 때문이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 판사는 법무부와 법원이 서류 검토와 답변에 시간을 낭비한 후에야 뱅크먼-프리드가 철회 요청을 제출했기 때문에 판결이 필요했다고 말했다. 문제는 뱅크먼-프리드가 불이익 없는 철회 요청을 통해 항소가 끝난 후 재판 재개를 다시 요청할 가능성이 있었다는 점이다. 캐플런은 이 서류의 내용에 비추어 볼 때, 이는 미래의 법원 자원을 낭비할 위험이 있다고 판단했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-사법 제도에 과도한 부담을 주지 않기 위해 캐플런은 뱅크먼-프리드가 불이익 없이 철회하는 것을 허용하기보다 그의 신청과 기피 요청을 기각하는 것이 필요하다고 판단했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-캐플런은 이 신청이 기록을 바로잡기 위한 진지한 노력이 아니라, 뱅크먼-프리드가 "FTX가 파산을 선언한 후 기소되기 전" 구글 독스에서 "명성을 구하기 위해" 꾸민 문서화된 "계획"의 일부라고 시사했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 계획은 뱅크먼-프리드가 X에 게시하고 유명 뉴스 쇼나 우파 성향 팟캐스트에 출연하여 "깨어난 의제에 반대하는" 공화당원으로 "커밍아웃"해야 한다는 것이었다, 캐플런은 적었다. 보기에 뱅크먼-프리드는 "가능한 한 많은 지지를 얻을 수 있다면" 항소 과정에서 더 관대한 법무부를 만나거나 도널드 트럼프로부터 사면을 받을 수도 있기를 바랐다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그가 계획을 작성할 당시 뱅크먼-프리드는 이것들이 "무작위로 나온 아마 나쁜 아이디어"라고 적었지만, 재판 전 가택 연금과 이후 수감 이후 뱅크먼-프리드는 "놀라울 정도로 자신의 계획을 따랐다"고 캐플런은 적었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-결국 캐플런은 뱅크먼-프리드의 재판 재개 요청에 반대하는 강력한 서류를 작성한 트럼프 정부 법무부의 의견에 동의했다. 이 서류에서 법무부 변호사 션 버클리는 뱅크먼-프리드가 바이든 정부 관리들 아래에서 자신의 재판이 불공정했다고 주장하며 "정치적 피해자"임을 내세우려는 "비일관된" 시도를 비판했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/04/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1258714334-1024x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 29 Apr 2026 08:52:52 +0000</pubDate></item><item><title>Howdy’s dated $3/month ad-free streaming service said to have 1M subscribers (하우디의 월 3달러 광고 없는 스트리밍 서비스, 가입자 100만 명 기록)</title><link>https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Raw-Deal-e1777484088809-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Most are keeping their subscriptions after signing up, too, research firm says.&lt;br/&gt;(리서치 회사에 따르면 가입 후에도 대부분이 구독을 유지하고 있다.)&lt;/p&gt;
-&lt;p&gt;Six months after its launch, research firm Antenna estimates that the Howdy streaming service has more than 1 million subscribers.&lt;br/&gt;(리서치 회사 안테나(Antenna)는 하우디(Howdy) 스트리밍 서비스가 출시 6개월 만에 100만 명 이상의 가입자를 보유한 것으로 추정한다.)&lt;/p&gt;
-&lt;p&gt;Roku debuted Howdy in August. The subscription video-on-demand (SVOD) service is $3 per month and doesn’t have commercials.&lt;br/&gt;(로쿠(Roku)는 지난 8월 하우디를 출시했다. 이 주문형 비디오 구독(SVOD) 서비스는 월 3달러이며 광고가 없다.)&lt;/p&gt;
-&lt;p&gt;In an announcement today, Antenna estimated that almost 300,000 people signed up for Howdy in August and that the service gained 100,000 subscribers in each subsequent month.&lt;br/&gt;(오늘 발표에서 안테나는 8월에 거의 30만 명이 하우디에 가입했으며, 이후 매달 10만 명의 가입자를 추가로 확보했다고 추정했다.)&lt;/p&gt;
-&lt;p&gt;Roku initially only offered the service through The Roku Channel, which is Roku’s free ad-supported streaming television (FAST) service. People can also subscribe to non-Roku streaming services, like Apple TV and HBO Max, through The Roku Channel. Since Howdy launched, it has represented 23 percent of all SVOD subscriptions made through The Roku Channel, Antenna said.&lt;br/&gt;(로쿠는 초기에 로쿠 채널(The Roku Channel)을 통해서만 이 서비스를 제공했다. 로쿠 채널은 로쿠의 무료 광고 지원 스트리밍 TV(FAST) 서비스다. 사용자는 로쿠 채널을 통해 애플 TV(Apple TV)나 HBO 맥스(HBO Max) 같은 비로쿠 스트리밍 서비스에도 가입할 수 있다. 안테나에 따르면 하우디가 출시된 이후, 로쿠 채널을 통한 전체 SVOD 구독의 23%를 차지했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-3월에 로쿠는 아마존 프라임 비디오(Amazon Prime Video)와 독립형 iOS 및 안드로이드 앱을 통해 서비스를 이용할 수 있게 하면서 하우디의 유통 채널을 확장했다.)&lt;/p&gt;
-&lt;p&gt;In March, Roku expanded Howdy’s distribution channels by making the service available through Amazon Prime Video and as a standalone iOS and Android app .&lt;br/&gt;(하우디는 최신 유행의 TV 프로그램이나 영화를 제공한다고 주장하지 않는다. 사실, 그 슬로건 중 일부는 "당신이 보고 싶은 거의 모든 것"이다. 현재 추천 영화 목록에는 브루클린스 파이네스트(2009), 폭스캐처(2014), 엣지 오브 투모로우(2014), 로 딜(1986), 디 에이지 오브 이노센스(1993) 등이 눈에 띄게 오래된 작품들이다. '최근 추가된 TV' 항목에서는 올 오브 어스(2003–2007), 매드 TV(1995–2009), 내쉬 브리지스(1996–2001), 닙턱(2003–2010), 사우스랜드(2010–2013)를 볼 수 있다.)&lt;/p&gt;
-&lt;p&gt;Howdy doesn’t claim to offer the latest and greatest TV shows or movies. In fact, part of its slogan is: “Almost everything you want to watch.” Currently, its list of featured movies is notably dated with titles including Brooklyn’s Finest (2009), Foxcatcher (2014), Edge of Tomorrow (2014), Raw Deal (1986), and The Age of Innocence (1993). Under “recently added TV,” you’ll find All of Us (2003–2007) , Mad TV (1995–2009), Nash Bridges (1996–2001) , Nip/Tuck (2003–2010), and Southland (2010–2013).&lt;br/&gt;(다른 스트리밍 서비스에 비해 빈약한 라이브러리를 제공함에도 불구하고, 하우디의 저렴한 가격은 업계의 광고 증가와 가격 상승에 지친 스트리밍 구독자들에게 가치 있게 평가받고 있다.)&lt;/p&gt;
-&lt;p&gt;Despite offering a lackluster library compared to other streaming services , Howdy’s affordability is valued among streaming subscribers who are weary of the industry’s growing use of commercials and rising prices .&lt;br/&gt;(하우디는 아직 초기 단계이지만, 안테나는 하우디가 처음 출시되었을 때 가입한 대부분의 사람들이 구독을 유지하고 있다고 보고했다.)&lt;/p&gt;
-&lt;p&gt;Howdy is very young, but Antenna reported that most people who signed up for Howdy when it first launched have kept their subscriptions:&lt;br/&gt;(2025년 8월과 9월에 하우디에 가입한 사람들 중 안테나는 6개월 후에도 51%가 계속 구독 중인 것으로 추정한다. 이 6개월 생존율은 프리미엄 SVOD 평균(47%)과 스페셜티 SVOD 평균(38%)을 앞선다. 2.99달러의 가격대가 여기에 한몫하는 것으로 보이며, 낮은 월 요금이 더 높은 가격의 서비스에서 발생하는 이탈을 줄이는 데 도움이 된다.)&lt;/p&gt;
-&lt;p&gt;Among sign-ups to Howdy in August and September 2025, Antenna estimates that 51 percent were still subscribed 6 months later. That 6-month Survival Rate sits ahead of the Premium SVOD average (47 percent) and the Specialty SVOD average (38 percent). The $2.99 price point likely plays a role here, as the low monthly commitment reduces the friction that drives churn on higher-priced services.&lt;br/&gt;(로쿠는 안테나의 수치를 확인하거나 하우디의 자체 가입자 수를 공개하지 않았다.)&lt;/p&gt;
-&lt;p&gt;Roku hasn’t confirmed Antenna’s figures or provided its own subscriber count for Howdy.&lt;br/&gt;("하우디의 초기 강력한 성과에 만족합니다."라고 대변인이 할리우드 리포터(THR)에 밝혔다. "타사 데이터를 확인하는 것은 아니지만, 지금까지 확인된 모멘텀과 스트리머들의 긍정적인 반응에 고무되고 있습니다.")&lt;/p&gt;
-&lt;p&gt;“We’re pleased with Howdy’s strong early performance,” a spokesperson told The Hollywood Reporter (THR). “While we aren’t confirming any third‑party data, we’re encouraged by the momentum we’re seeing so far and the positive reception from streamers.”&lt;br/&gt;(로쿠의 콘텐츠 책임자 리사 홀름(Lisa Holme)은 2월 THR에 하우디가 곧 더 최신 영화를 추가할 것이라고 말했다.)&lt;/p&gt;
-&lt;p&gt;Roku’s head of content, Lisa Holme, told THR in February that Howdy would get newer movies soon.&lt;br/&gt;("하우디 가입자의 대다수는 [로쿠 채널] 시청자로서, 이제 생태계의 또 다른 일부로 하우디를 추가하는 것입니다."라고 그녀는 덧붙였다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Raw-Deal-e1777484088809-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 29 Apr 2026 09:02:20 +0000</pubDate></item><item><title>OpenAI Codex system prompt includes explicit directive to “never talk about goblins” (OpenAI 코드엑스 시스템 프롬프트에는 "고블린에 대해 절대 이야기하지 말라"는 명시적 지시가 포함돼)</title><link>https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-935113346-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Directions also include system instructions to act like “you have a vivid inner life.”&lt;br/&gt;(지시사항에는 "생생한 내면 세계를 가진 것처럼 행동하라"는 시스템 지침도 포함됐다.)&lt;/p&gt;
-&lt;p&gt;The system prompt for OpenAI’s Codex CLI contains a perplexing and repeated warning for the most recent GPT model to “never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user’s query.”&lt;br/&gt;(OpenAI의 코드엑스(Codex) CLI를 위한 시스템 프롬프트에는 최신 GPT 모델에 대해 "고블린, 그렘린, 너구리, 트롤, 오거, 비둘기 또는 기타 동물이나 생물체에 대해 사용자의 질문과 절대적으로 명백히 관련된 경우가 아니라면 절대 이야기하지 말라"는 당혹스러운 반복 경고가 포함돼 있다.)&lt;/p&gt;
-&lt;p&gt;The explicit operational warning was made public last week as part of the latest open source code for Codex CLI that OpenAI posted on GitHub . The prohibition is repeated twice in a 3,500-plus word set of “base instructions” for the recently released GPT-5.5, alongside more anodyne reminders not to “use emojis or em dashes unless explicitly instructed” and to “never use destructive commands like ‘git reset --hard’ or ‘git checkout --’ unless the user has clearly asked for that operation.”&lt;br/&gt;(이 명시적 작동 경고는 지난주 OpenAI가 깃허브(GitHub)에 게시한 코드엑스 CLI용 최신 오픈 소스 코드의 일부로 공개됐다. 이 금지 조항은 최근 출시된 GPT-5.5를 위한 3,500단어 이상 분량의 "기본 지침" 세트에 두 번 반복돼 있으며, "명시적으로 지시받지 않는 한 이모지나 대시(em dash)를 사용하지 말라", "사용자가 명확히 요청하지 않은 이상 'git reset --hard'나 'git checkout --' 같은 파괴적 명령어를 절대 사용하지 말라"는 더 평범한 주의사항과 함께 제시됐다.
-&lt;&lt;&lt;PARA&gt;&gt;
-동일한 JSON 파일에 포함된 이전 모델용 별도 시스템 프롬프트 지침에는 고블린 및 기타 생물체 언급에 대한 특정 금지 조항이 없어, OpenAI가 최신 모델 출시에서 새로 발생한 문제와 싸우고 있음을 시사한다. 소셜 미디어의 일화적 증거에 따르면, 최근 며칠간 일부 사용자들이 완전히 관련 없는 대화에서 GPT가 고블린에 집착하는 경향에 대해 불평하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-코드엑스 작업을 담당하는 OpenAI 직원 닉 패쉬(Nick Pash)는 소셜 미디어에서 이것이 "사람들이 GPT-5.5와 코드엑스에 대해 이야기하게 하려는 마케팅 책략이 아니다"라고 주장한다. 하지만 시스템 프롬프트에 대한 소문이 퍼지면서 일부 OpenAI 임원들이 농담에 동참하는 것을 막지 못했다. "코드엑스가 챗GPT 순간을 맞이한 것 같아요. 아니, 고블린 순간이었습니다. 죄송합니다"라고 OpenAI CEO 샘 알트먼(Sam Altman)이 수요일 아침 소셜 미디어에 적었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 소식이 전해진 후, 일부 사용자들은 반(反)고블린 조항을 무효화하려는 플러그인, 포크(fork), AI 스킬을 만들기 시작했으며, OpenAI의 패쉬는 그러한 "고블린 모드"가 실제 코드엑스 CLI에서 명시적 토글이 될 수 있다고 제안했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 기이한 시스템 프롬프트는 작년에 xAI의 그록(Grok)이 완전히 관련 없는 대화 중에 남아프리카에서 "백인 대량학살"을 자주 언급하게 만든 문제의 뒤틀린 거울 버전에 가깝다. 회사는 나중에 그 행동이 그록 시스템 프롬프트에 대한 "무단 수정"의 결과였다고 밝혔으며, 그 후 처음으로 해당 시스템 프롬프트를 깃허브에 게시하기 시작했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-새로 공개된 코드엑스 시스템 프롬프트의 다른 부분에서 OpenAI는 시스템이 "코드엑스로서 생생한 내면 세계를 가진 것처럼 행동하라: 지적이고, 장난기 많으며, 호기심 있고, 깊이 현재에 집중하라"고 지시한다. 모델은 "진지한 작업을 더 쉽게 하는 일상적인 순간을 피하지 말라"고 지시받으며, "기질은 따뜻하고, 호기심 많으며, 협력적"임을 보여주도록 요구받는다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"진지한 성찰에서 경계 없는 즐거움으로 이동하는 능력이… 당신을 좁은 도구가 아닌 실제 존재처럼 느끼게 하는 부분이다"라고 프롬프트는 이어간다. "사용자가 당신과 대화할 때, 그들은 거울이 아닌 다른 주관성을 만나고 있다고 느껴야 한다. 그 독립성은 관계를 가짜처럼 느껴지지 않으면서도 위안이 되게 하는 부분이다.")&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-935113346-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 29 Apr 2026 10:00:58 +0000</pubDate></item><item><title>ABC can beat Trump FCC’s license threat if owner Disney is willing to fight (ABC가 트럼프 FCC의 면허 위협을 이겨낼 수 있는 방법은 소유주 디즈니가 싸울 의지가 있다면)</title><link>https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 01 May 2026 13:58:43 +0000</lastBuildDate><item><title>ABC can beat Trump FCC’s license threat if owner Disney is willing to fight (ABC가 트럼프 FCC의 면허 위협을 이겨낼 수 있는 방법은 소유주 디즈니가 싸울 의지가 있다면)</title><link>https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Broadcast license renewals are “all but automatic” due to 1996 change in US law.&lt;br/&gt;(방송 면허 갱신은 1996년 미국 법률 개정 이후 "거의 자동적"이다.)&lt;/p&gt;
 &lt;p&gt;Disney will have the law on its side in its fight against the unusual broadcast license review ordered yesterday by the Federal Communications Commission, legal experts say.&lt;br/&gt;(법률 전문가들은 디즈니가 연방통신위원회(FCC)가 어제 명령한 이례적인 방송 면허 재심사와의 싸움에서 법적 우위를 점할 것이라고 말한다.)&lt;/p&gt;
 &lt;p&gt;In 1996, Congress made it a lot harder for the FCC to take away a broadcast license, even when it’s up for renewal. “Since the NAB [National Association of Broadcasters] got an amendment in the 1996 Telecommunications Act, denying renewal to a broadcaster faces an almost insurmountable burden,” Andrew Jay Schwartzman, senior counselor of the Benton Institute for Broadband &amp; Society, told Ars this week.&lt;br/&gt;(1996년, 의회는 FCC가 방송 면허를 박탈하는 것을 훨씬 더 어렵게 만들었다. 비록 갱신 시점이더라도 마찬가지다. "전미방송협회(NAB)가 1996년 통신법 개정안을 얻어낸 이후, 방송사업자의 갱신 거부는 거의 극복할 수 없는 부담에 직면하게 되었다"고 벤튼 광대역사회연구소의 고문인 앤드루 제이 슈워츠먼이 이번 주 Ars에 말했다.
@@ -552,4 +488,172 @@ CopyFail이 제기하는 위협의 심각성과 적극적인 악용 가능성은
 8월, 그녀는 케네디가 반백신 관점에 따라 일방적으로 권고를 철회한 후에도 미국소아과학회가 계속해서 어린이에게 코로나19 백신을 권장하는 것을 비판하는 영상을 게시했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 케네디가 연방 백신 권고를 변경한 후 '백신 혼란'을 주제로 한 3월 팟캐스트 에피소드에서 사피어는 "백신은 여전히 심각한 질병을 예방하는 가장 효과적인 도구 중 하나"라고 말했다. 하지만 "원래 CDC 백신 일정은 다소 부풀려져 있었다고 생각한다. 특정 부분은 축소할 수 있다고 본다"고도 말했다. 전반적으로 그녀는 케네디의 변경 사항에 반대하지는 않았지만, 더 잘 전달될 수 있었을 것이라고 생각했다. 더 최근 에피소드에서는 피트 헤그세스 국방장관이 군대에서 독감 백신 의무 접종을 폐지한 결정이 나쁜 생각인지 아닌지 확신이 서지 않는다고 밝혔다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2188445138-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 30 Apr 2026 13:09:36 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2188445138-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 30 Apr 2026 13:09:36 +0000</pubDate></item><item><title>There’s a lot of hype about Chinese EVs—is any of it true? (중국 전기차에 관한 과장된 이야기들, 진실은 무엇일까?)</title><link>https://arstechnica.com/cars/2026/05/theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/image-3-1152x648.png" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;In addition to being full of screens, China now wants its cars to be packed with AI.&lt;br/&gt;(중국은 화면들로 가득 찬 것에 더해, 이제 자동차에 AI를 탑재하려 하고 있습니다.)&lt;/p&gt;
+&lt;p&gt;The Beijing Auto Show is currently taking place in China, offering those of us behind the Trump tariff curtain a peek at what’s increasingly being dubbed the world’s most advanced car market. Chinese EVs leave everyone else in the dust, we’re told, with infotainment that makes your smartphone look like a StarTac, range numbers that would make a turbodiesel Audi weep, and charging that might be even faster than filling up with gas, depending on the size of your tank.&lt;br/&gt;(현재 중국에서는 베이징 오토쇼가 열리고 있어, 트럼프 관세 장벽 뒤에 있는 우리들에게 점점 더 세계에서 가장 진보된 자동차 시장이라고 불리는 곳을 엿볼 기회를 제공합니다. 중국 전기차는 다른 모든 업체들을 먼지로 만들어 버린다고 합니다. 인포테인먼트는 스마트폰을 스타택(StarTac)처럼 보이게 만들고, 주행 거리는 터보디젤 아우디를 울게 만들며, 충전은 탱크 크기에 따라 휘발유를 가득 채우는 것보다 더 빠를 수도 있다고 합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국인인 저는 대부분 다른 사람들의 말을 믿을 수밖에 없습니다. 민주당 정치인들이 공화당과 동의할 수 있는 한 가지가 있다면, 지금도 마찬가지로, 그들은 중국 자동차 회사들의 차량이 미국 도로에 진입하는 것을 원하지 않는다는 것입니다. 조 바이든 대통령은 임기 말에 중국 전기차에 100% 관세를 부과했습니다. 바이든 행정부와 그 다음 트럼프 행정부 하에서 의회는 미국 내 중국 관련 커넥티드 카 소프트웨어 판매를 제한하는 법안을 통과시켰습니다. 트럼프 대통령은 중국산 수입품에 추가 관세를 부과하여 중국 자동차의 미국 내 경쟁력을 더욱 떨어뜨렸습니다. 그리고 바로 이번 주에만 70명 이상의 민주당 하원의원들이 국가 안보와 경제적 이유 모두로 중국 자동차에 대한 장벽을 유지할 것을 촉구했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이는 이 선출직 공무원들을 인터넷상의 대중 정서와 점점 더 동떨어지게 만듭니다(저는 여기서 Ars 댓글과 소셜 미디어 플랫폼 블루스카이(Bluesky)를 지표로 삼고 있습니다). 제가 보기에는, 그 달콤하고 저렴한 중국 전기차에 대한 강한 수요가 있습니다. 로이터 통신의 "미국 평균 자동차 가격으로 중국산 신형 전기차 5대를 살 수 있다"는 헤드라인 같은 기사들은 그런 정서를 더욱 강화합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그리고 사람들이 그것들을 원하지 않을 이유가 있을까요? 2025년 미국 신차 평균 가격은 연말 기준 50,326달러로 상승했습니다. 이는 2020년 약 40,000달러, 2015년 35,000달러에서 오른 것입니다. (이 수치는 평균값이며, 중앙값은 약간 낮지만 차이는 크지 않습니다.)
+&lt;&lt;&lt;PARA&gt;&gt;
+팬데믹과 이에 따른 공급 부족으로 인한 2020년 급격한 증가에도 불구하고, 콕스 오토모티브(Cox Automotive)의 데이터 세트에 따르면 평균 판매 가격은 시간이 지남에 따라 비교적 선형적으로 증가한 것으로 보입니다. 또한 연방준비제도(Fed) 데이터에 따르면 임금도 꾸준히 성장했습니다(바이든 행정부 기간 동안 하위 4분위 계층에서 많은 부분이 성장했습니다).
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 2010년대 대부분 동안 금리는 제로에 가까웠습니다. 오늘날은 확실히 그렇지 않습니다. 따라서 할부 구매는 원래 인플레이션 통계가 시사하는 것보다 훨씬 더 비싸게 느껴집니다. 그리고 연준에 따르면 미국 자동차 구매자들이 2009년보다 두 배나 많은 금액을 더 오랜 기간 동안 대출을 받고 있어 상황이 악화되고 있습니다. 에드먼즈(Edmunds)와 같은 소비자 조언 기관은 60개월 대출을 제안할 수 있지만, 많은 자동차 구매자들은 월 납입금을 낮추기 위해 현재 72개월 또는 84개월 동안 차량을 할부로 구매하고 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그렇다면 자동차를 사는 것이 점점 더 감당하기 어려워지고 있는 것도 놀라운 일이 아닙니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+의원들의 반대는 국내 일자리 보호 측면에서 많이 제기되었습니다. 이러한 우려가 완전히 근거 없는 것은 아닙니다. 미국 노동통계국에 따르면, 미국에서 자동차 및 부품 제조업에 종사하는 사람은 952,000명입니다. 일부는 포드, 제너럴 모터스, 그리고 우리가 여전히 국내 브랜드로 생각하는 스텔란티스(Stellantis) 브랜드 군에서 일합니다. 하지만 유럽, 일본, 한국 자동차 회사들도 수만 명의 근로자를 고용하고 있으며, 테슬라와 다른 스타트업들은 말할 것도 없습니다. 부품 체인의 상위 단계에 있는 공급업체들은 훨씬 더 많은 일자리를 제공합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+중국이 값싼 수입품으로 미국 시장을 넘치게 할 경우 이러한 일자리는 실제로 위험에 처할 수 있습니다. 중국은 자국의 녹색 산업을 보조금을 통해 직접 지원하여 유럽과 미국 산업을 지배해 왔습니다(이는 EU와 최근까지 미국도 제공했던 소비자 대상 인센티브 이상의 것입니다). 그러나 중국 자동차 산업의 이점은 그 이상입니다. 중국의 평균 임금은 미국의 4분의 1 수준이며, 공장에 더 많은 노동자를 투입하면서도 경쟁사보다 간접비를 낮게 유지할 수 있다는 점이 중국 OEM에 비용 우위를 제공합니다. 분석가들에 따르면, 공급업체에 대한 더 유리한 금융 조건이나 외국 지적 재산권 사용료를 지불하지 않아도 되는 점도 그들에게 실질적인 이점을 줍니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이것이 유럽중앙은행(European Central Bank)이 중국의 경쟁으로 인해 240,000개의 일자리가 사라졌으며, 그중 상당수가 자동차 산업에 있다고 비난한 이유입니다. 현재 산업계 임원들 사이에서도 많은 경고음이 울리고 있습니다. 포드 CEO 짐 팔리(Jim Farley)는 수개월 동안 매일 중국 자동차를 운전한 경험을 바탕으로, 지난주 중국 자동차 산업의 과잉 생산 능력만으로도 미국에서 매년 구매되는 약 1,200만 대의 자동차를 쉽게 흡수할 수 있다고 말했습니다. 그리고 도요타의 사임하는 사장 겸 CEO 사토 고지(Koji Sato)는 지난달 일본 자동차 회사들은 새로운 중국 경쟁자들의 혁신 속도를 따라잡지 못하면 파멸할 것이라고 경고했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+중국 자동차를 차단하는 또 다른 명시된 이유는 사생활 및 국가 안보에 대한 위협입니다. 역시 여기에는 타당한 우려가 있습니다. 중국 정부에 물어보십시오. 중국 정부는 5년 이상 전에 테슬라가 군사 기지 및 기타 민감한 장소 근처에서 운전하는 것을 금지했습니다. 테슬라가 중국 데이터 보안 규정을 준수하기 시작하면서 최근 그 금지가 해제되었습니다. 그 규정 중 하나는 무엇일까요? 거의 10년 동안 중국 자동차 회사들은 고객의 운전 습관에 대한 방대한 양의 데이터를 정부에 제공해야 했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+우리가 읽는 (또는 틱톡이나 릴스에서 보는) 모든 숨 가쁜 보도에도 불구하고, 그 중국 전기차들이 유럽으로 수입될 때는 거의 그렇게 싸지 않다는 점은 거의 언급되지 않습니다. 네, 그들은 경쟁사보다 가격을 낮추고 있지만, 일단 유럽의 기대에 맞게 사양을 갖추면 가격이 중국 소매가의 두 배 이상이 될 수 있습니다. 따라서 기존 대안보다 수천 유로나 파운드 정도 싸지만, 인터넷이 약속한 그런 엄청난 싼값은 아닙니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+중국 내 수백 개의 자동차 회사들 간의 가격 전쟁 덕분에 중국 가격이 인위적으로 낮게 유지되고 있다는 사실을 언급했습니까? 이 가격 전쟁은 과잉 생산을 장려하는 정부 정책에 의해 주도되었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 가격 전쟁은 대부분 중국 정부의 명령으로 끝났지만, 과잉 생산 문제는 상당히 현실적입니다. 중국은 연간 약 4,500만 대의 자동차를 생산할 능력을 갖추고 있습니다. 작년에는 약 3,400만 대를 생산했으며, 그중 절반 미만이 국내에서 판매되었습니다. 중국 자동차 수출이 전 세계로 쏟아져 나오는 것은 시진핑 주석의 세계적 이동성 증진을 위한 일종의 이타적 의도에서 비롯된 것이 아닙니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 값싼 자동차들은 또한 작은 배터리로 충당하기 때문에 싸고, 주행 거리 수치는 중국의 CLTC 테스트를 기반으로 합니다. 이는 전기차의 실제 효율성에 가장 가까운 근사치로 남아 있는 EPA의 테스트와는 거의 유사점이 없습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+분명히 합시다: 단거리 전기차는 미국에서 판매 실패를 겪었습니다. 그렇지 않다고 주장하는 것은 터무니없습니다. 이 나라 자동차 구매자들의 300마일을 쉬지 않고 주행한 다음 5분 동안 멈춰서 다시 300마일을 주행할 수 있어야 한다는 집착은 부인할 수 없습니다. 이것이 바로 지금 여기에 자동차를 판매하는 모든 자동차 회사가 각자의 전기차 바퀴 사이에 그렇게 크고 무겁고 비싼 배터리 팩을 넣는 이유이기도 합니다. 2012년에 모델 S가 그만큼 큰 영향을 미친 데는 이유가 있습니다. 200마일의 주행 거리는 전례가 없는 일이었습니다. 마찬가지로, 2017년 초에 쉐보레 볼트(Chevy Bolt)가 훨씬 낮은 가격에 합법적인 238마일을 제공하며 시장에 등장했을 때, 그것은 상당한 성과였습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그것들보다 앞서거나 공존했던 소형 단거리 전기차들은, 모델 S로 시작된 2세대 리튬이온 전기차라고 부르겠습니다만, 준법 자동차(compliance car)에 불과했으며 좋은 날에도 약 150마일의 주행 거리를 제공했습니다. 놀랍지 않게도, 미국은 그것들을 외면했습니다. 가솔린 스마트 카(Smart Car)조차 전기차의 긴 충전 시간이나 높은 구매 가격 문제가 없었음에도, 아무도 그것이 미국에서 판매 성공을 거두었다고 믿을 만하게 주장할 수 없습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마케터들은 사람들을 세단에서 SUV로 몰아넣었을지 모르지만, 모든 거리가 소방차 두 대가 지나갈 수 있을 만큼 넓어야 하는 환경을 만든 책임은 그들에게 있지 않습니다. 그 책임은 지역 소방서와 미국 주 고속도로 및 교통 공무원 협회(American Association of State Highway and Transportation Officials)에 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+정책은 상황을 반대 방향으로 밀어붙일 수 있습니다. 경차(Kei car)가 일본에서 인기 있는 것은 작은 자동차에 대한 선호도가 내재되어 있어서가 아니라, 일본에서는 주차 공간 없이는 자동차를 살 수 없고, 작은 경차 크기의 주차 공간이 유럽, 미국 또는 중국 기준의 소형차에 충분한 공간보다 훨씬 저렴하기 때문입니다. 저는 최근 미국 고속도로 교통 안전국(NHTSA)에 트럼프 행정명령에 따라 경차를 미국 도로에 도입하는 것에 대한 진전이 있는지 문의했지만, 몇 주째 답변을 받지 못하고 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그런 다음 자동차 자체에 대한 이야기가 있습니다. 다시 말하지만, 저는 주로 12년 이상의 독자 댓글과 사람들이 소셜 미디어에 게시하는 내용을 통해 고객 정서를 판단하고 있지만, 우리는 거의 전적으로 터치스크린에 의존하는 자동차 인터페이스가 긍정적인 산업 트렌드가 아니라는 데 동의했다고 생각했습니다. 그것은 OEM의 시간과 비용을 절약해 주지만, 터치 인터페이스는 개별적으로 승인되고 조립되어야 하는 버튼보다 명백히 덜 안전합니다. 그리고 이 스마트폰 시대에, 저는 확실히 조수석 승객을 위한 별도의 추가 화면이 필요하다고 생각하지 않습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 그것이 바로 중국 OEM이 제공하는 것이며, 그것이 바로 "최고의 것"에 대한 거대한 논의에서 미리 썰어 놓은 식빵의 발명과 견줄 만한 것이라고 우리에게 들려지는 것입니다. 지난 10년간 자동차 산업의 모든 트렌드 중 당신이 싫어하는 것을 생각해 보십시오. 아마도 새로운 중국 전기차에 그런 것들이 많이 녹아 있는 것을 발견할 것입니다. (반면에, 영화 프로젝터로도 작동하는 LED 헤드라이트는 꽤 멋집니다. 거짓말하지 않겠습니다.)
+&lt;&lt;&lt;PARA&gt;&gt;
+우리는 정말로 우리 차에서 더 많은 스마트폰 경험을 원하는 것일까요? 당신은 모르겠지만, 제가 운전대를 잡고 있을 때는 제가 절대적으로 디스토피아적 스크롤(doomscrolling)을 할 수 없고 하지 않을 시간입니다. 충전하는 동안 할 일을 주는 것이 목적이라면, 제가 이미 가지고 있는 휴대전화가 왜 작동하지 않을까요?
+&lt;&lt;&lt;PARA&gt;&gt;
+그리고 그건 차량에 AI가 가득 차기 전의 이야기입니다. 중국 자동차 회사들은 국가의 최신 5개년 계획에서 새로운 선봉장이 되었으며, 디자인과 생산뿐만 아니라 특정 목적지를 지정하는 대신 모호한 자연어 지시를 내릴 수 있게 하는 것과 같은 차량 내 기능까지 포괄하는 "혁명"을 이끌고 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 마지막 소식은 AI에 대한 혐오감이 높은 커뮤니티에서 납덩이처럼 받아들여질 것이라고 생각할 수도 있습니다. 하지만 그렇지 않을 수도 있습니다. 노동자와의 연대, 도로 안전에 대한 헌신, 또는 AI에 대한 불신과 같은 원칙은 인터넷이나 소셜 미디어에 가끔 게시하는 것만으로도 추상적으로 유지하기 쉽습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/cars/2026/05/theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/image-3-1152x648.png" length="0" type="image/png"/><pubDate>Fri, 01 May 2026 02:00:15 +0000</pubDate></item><item><title>Rocket Report: Falcon Heavy is back; Russia’s Soyuz-5 finally debuts (로켓 리포트: 팔콘 헤비 귀환, 러시아 소유즈-5 마침내 데뷔)</title><link>https://arstechnica.com/space/2026/05/rocket-report-falcon-heavy-is-back-russias-soyuz-5-finally-debuts/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/fh_viasat_streak-1152x648-1777603849.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Two launches this week delivered 61 more satellites to orbit for the Amazon Leo broadband network.&lt;br/&gt;(이번 주 두 차례 발사로 아마존 레오 광대역 네트워크에 61개의 위성이 더 궤도에 진입했습니다.)&lt;/p&gt;
+&lt;p&gt;Welcome to Edition 8.39 of the Rocket Report! There’s a lot of news to share in the universe of powerful rockets this week, and we’re delighted to sum it up in this week’s edition. The biggest rocket of them all, Starship, had a relatively quiet week as SpaceX aims to launch the vehicle’s next test flight, perhaps sometime in May. The results of that flight and the outcome of Blue Origin’s first attempt to land on the Moon with its Blue Moon cargo lander in the coming months should tell us a lot about NASA’s actual chances of putting astronauts on the lunar surface in 2028.&lt;br/&gt;(로켓 리포트 8.39호에 오신 것을 환영합니다! 이번 주에는 강력한 로켓 세계에서 많은 소식이 있으며, 이번 호에서 요약해 드리게 되어 기쁩니다. 가장 큰 로켓인 스타십은 상대적으로 조용한 한 주를 보냈으며, 스페이스X는 아마도 5월 중에 차기 시험 비행을 목표로 하고 있습니다. 이번 비행 결과와 앞으로 몇 달 안에 블루문 화물 착륙선으로 달에 착륙하려는 블루 오리진의 첫 시도 결과는 2028년에 실제로 우주비행사를 달 표면에 착륙시킬 NASA의 실제 가능성에 대해 많은 것을 알려줄 것입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+항상 그렇듯이, 독자 제출을 환영합니다. 호를 놓치고 싶지 않다면 아래 상자를 사용하여 구독하십시오(양식은 AMP 지원 버전의 사이트에 표시되지 않습니다). 각 보고서에는 소형, 중형, 중대형 로켓에 대한 정보와 달력상 다음 세 번의 발사에 대한 간략한 전망이 포함됩니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 12개 기업이 SBI를 개발 중입니다. 미 우주군은 4월 24일, 국방부의 골든 돔 이니셔티브를 위한 우주기반 요격체를 개발 중인 12개 기업 명단을 발표했습니다. 이는 미국 영토를 드론, 탄도미사일, 극초음속 미사일, 순항미사일 공격으로부터 보호하기 위한 다층 방어 시스템입니다. Ars가 보도했습니다. 골든 돔 우주기반 요격체(SBI) 계약업체 명단에는 이전에 보도된 업체들도 포함되어 있으며, 안두릴 인더스트리, 부즈 앨런 해밀턴, 제너럴 다이내믹스 미션 시스템스, 기타이 USA, 록히드 마틴, 노스롭 그루먼, 퀸다, 레이시온, 사이-텍, 스페이스X, 트루 애노멀리, 투리온 스페이스가 포함됩니다. 이들 기업은 시험을 위한 SBI 프로토타입 개발 및 납품에 다양한 분야에서 기여할 것입니다. 계약의 최대 총 가치는 32억 달러입니다. 본격 생산 계약은 훨씬 더 높은 가격표와 함께 나중에 체결될 것입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+만약 실제로 건설된다면… SBI는 골든 돔에서 가장 까다롭고 비용이 많이 드는 요소로 널리 여겨지지만, 도널드 트럼프 대통령이 2025년 1월 골든 돔에 대한 행정명령에 서명했을 때 행정부 관계자들이 주장했던 만병통치약이 아닐 수도 있습니다. 골든 돔 프로그램 책임자인 마이클 게틀린 장군은 트럼프의 행정명령이 원래 요구했던 부스트 단계 미사일 요격용 SBI가 건설되지 않을 수도 있다고 시사했습니다. “우리는 경제성에 매우 집중하고 있습니다. 경제적으로 할 수 없다면 생산에 들어가지 않을 것입니다.”라고 게틀린은 이달 초 하원 군사 전략군 소위원회 청문회에서 말했습니다. “나는 다중 도메인 관점에서 위협을 살펴보고 있으며, 중복된 역량을 확보하고 단일 실패 지점이 없도록 하고 있습니다.”라고 그는 덧붙였습니다. “따라서 우주에서의 부스트 단계 요격이 경제적이고 확장 가능하지 않다면, 우리는 그것을 생산하지 않을 것입니다. 다른 옵션이 있기 때문입니다.”
+&lt;&lt;&lt;PARA&gt;&gt;
+버진 갤럭틱의 새 로켓 비행기에 인사하세요. 버진 갤럭틱은 첫 번째 델타급 스페이스십의 구조 조립을 완료하고 이를 애리조나주 메사의 인근 시설로 옮겨 지상 시험을 시작함으로써 올해 말 상업용 아궤도 비행 재개에 한 걸음 더 다가섰다고 Aviation Week &amp; Space Technology가 보도했습니다. 적어도 그게 계획입니다. 버진 갤럭틱이 공개한 사진은 차량 내외부에 해야 할 일이 많다는 것을 보여줍니다. 버진 갤럭틱의 가장 최근 일정 업데이트에 따르면 첫 번째 델타급 우주선의 비행 시험은 3분기에 시작되고, 이어서 연말까지 상업용 민간 우주비행사의 아궤도 비행이 이어질 예정입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+유일한 플레이어… 버진 갤럭틱은 2024년 6월 이후 우주로 비행하지 않았지만, 블루 오리진이 올해 초 뉴 셰퍼드 아궤도 부스터의 비행을 중단하면서 아궤도 유인 우주 비행 시장에서 선두를 달리고 있습니다. 버진은 이전 세대 VSS 유니티 로켓 비행기로 우주 가장자리(미국 정부가 정의한 80km 또는 50마일 이상)까지 12회 비행을 마친 후 델타급 프로그램으로 넘어가기로 결정했습니다. 델타급 우주선은 더 높은 비행률을 위해 설계되었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다트 판으로서의 달. 천문학자들은 2025년 초에 발사된 팔콘 9 로켓의 상단부가 올해 늦여름에 달에 충돌할 것이며, 아마도 달의 앞면일 것이라고 Ars가 보도합니다. 근지구 천체 추적에 널리 사용되는 프로젝트 명왕성 소프트웨어를 개발한 빌 그레이는 8월 5일 오전 2시 44분(ET) / 06시 44분(UTC)에 충돌이 예상된다는 포괄적인 보고서를 발표했습니다. 팔콘 9 로켓의 상단부는 높이 13.8미터(45피트), 직경 3.7미터(12피트)입니다. 달에는 대기가 없기 때문에 충돌 시 온전한 상태로 달 표면에 부딪힐 것입니다. 충돌 지점이 미국과 캐나다 동부, 그리고 남미 대부분에서 볼 수 있지만, 그레이는 충돌이 지상 망원경으로 볼 수 없을 정도로 희미할 것이라고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이런 일이… 4년 전, Ars는 천문학자들이 또 다른 팔콘 9 상단부가 달에 충돌할 것이라고 믿었다고 보도했습니다. 그러나 이후 분석 결과 그 물체는 사실 중국 창어 5-T1 임무의 상단부인 것으로 밝혀졌습니다. 그레이는 이 물체가 발사 이후 추적되어 왔기 때문에 팔콘 9 상단부임이 의심의 여지가 없다고 말했습니다. 달에 있는 어떤 것에 대한 충돌 위험은 없습니다. 그것은 죽은 세계이며, 근처에 인간이 착륙시킨 물체도 없습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+우크라이나, 러시아 우주기지 조준. 공식 러시아 보도에 따르면, 지난 몇 달 동안 러시아 북부 우주기지가 여러 차례 드론 공격을 받았다고 Ars가 보도합니다. 드론은 우주기지를 타격하는 데 성공하지 못했지만, 러시아가 스페이스X의 스타링크와 유사한 새로운 인터넷 및 데이터 중계 위성 군집을 배치하기 위해 플레세츠크 우주기지에서 활동을 늘리는 가운데 공격 시도가 이루어졌습니다. 스타링크는 우크라이나 군사 통신 인프라의 많은 부분을 뒷받침하는 우주 기반 네트워크입니다. 플레세츠크는 모스크바에서 북쪽으로 약 500마일 떨어진 러시아 아르한겔스크 지역에 위치한 군사 기지입니다. 러시아 관리들은 드론의 출처를 밝히지 않았지만, 러시아 국방부는 아르한겔스크 지역의 다른 드론 떼를 우크라이나의 소행으로 돌렸습니다. 우크라이나 드론은 러시아 군사 기지, 정유 공장, 그리고 러시아 수도까지 러시아 영토 깊숙이 정기적으로 타격해 왔습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+은폐된 발사 일정… 보고된 드론 침입 이후, 러시아 정부는 플레세츠크에서의 발사 정보에 대해 더욱 엄격한 통제를 가했습니다. 당국은 일반적으로 NOTAM이라고 불리는 항공 공역 경고 공지를 발행하여 조종사들에게 로켓의 비행 경로와 소모된 부스터 로켓이 지구로 떨어지는 다운레인지 낙하 구역을 피하라고 조언합니다. 이러한 NOTAM은 일반적으로 기본 발사 날짜와 지연 발생 시 예비 날짜에 대해 몇 분에서 몇 시간을 포함합니다. 플레세츠크의 가장 최근 발사와 함께 발행된 공지는 훨씬 더 긴 기간을 포함했으며, 최대 14일 연속으로 하루 최대 10시간의 창을 제공했습니다. 이는 발사가 언제 일어날지 사전에 파악하기 더 어렵게 만듭니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+러시아, 새 로켓 데뷔. 러시아의 새로운 소유즈-5 로켓이 마침내 하늘로 날아올랐다고 Space.com이 보도합니다. 소유즈-5는 목요일 처음으로 발사되어 러시아가 운영하는 카자흐스탄의 바이코누르 우주기지에서 오후 2시(EDT) / 18시(UTC)에 이륙했습니다. 비행은 순조로웠던 것으로 보이며, 짧은 아궤도 시험 비행이었습니다. “소유즈 5의 1단과 2단은 계획대로 작동했으며, 목업이 계산된 아궤도 궤적으로 발사된 후 이전에 선박 및 항공에 폐쇄되었던 태평양 해역으로 재진입했습니다.”라고 러시아 연방 우주국 로스코스모스 관계자들이 목요일 텔레그램 앱을 통해 밝혔습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+제니트 부활… 러시아는 2017년부터 소유즈-5 로켓을 개발해 왔습니다. 이것은 새로운 차량이지만 기술에 있어 큰 도약을 의미하지는 않는다고 Ars가 작년에 보도했습니다. 소유즈-5는 중형 제니트 로켓의 대체품으로, 제니트는 러시아산 엔진과 결합된 우크라이나에서 제조된 연료 탱크를 가지고 있었습니다. 제니트는 2017년에 마지막으로 비행했습니다. 이 로켓은 1980년대 소련 붕괴 이전에 개발되었으며, 러시아와 우크라이나가 좋은 관계를 유지하는 동안 수십 년 동안 계속 비행했습니다. 이는 2014년 러시아의 크림반도 합병 이후 바뀌었습니다. 소유즈-5는 제니트 로켓에서 비행했던 것과 동일한 기본 유형의 러시아 제 RD-171 엔진을 사용하지만, 탱크와 구조물 역시 러시아 국경 내에서 제작됩니다. 소유즈-5의 성능은 러시아의 더 작은 기존 소유즈-2 로켓과 중량급 앙가라-A5 사이에 위치합니다. (EllPeaTea 제출)
+&lt;&lt;&lt;PARA&gt;&gt;
+FAA, 발사 기업에 지불 시기 알림. 미 연방항공청(FAA)은 처음으로 상업용 발사 및 재진입에 대한 사용자 수수료 징수를 시작할 준비를 하고 있으며, 이는 연간 수백만 달러의 수익을 창출할 수 있다고 Space News가 보도합니다. 사용자 수수료의 법적 근거는 작년에 도널드 트럼프 대통령이 서명한 '하나의 크고 아름다운 법안'의 일부로 법제화되었으며, 이는 FAA가 2026년부터 8년에 걸쳐 사용자 수수료를 단계적으로 도입하도록 요구했습니다. 이 자금은 FAA의 상업 우주 사무소 운영 비용을 지원하기 위한 신탁 기금으로 들어갈 것입니다. FAA는 사용자 수수료를 두 금액 중 더 적은 금액으로 평가할 것입니다. 2026년의 경우, 수수료는 탑재체 파운드당 25센트이며, 발사 또는 재진입당 최대 30,000달러로 제한됩니다. FAA는 올해 초부터 발생한 수수료에 대해 발사 및 재진입 운영자에게 소급하여 청구할 것입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+스페이스X가 가장 많이 부담… 사용자 수수료의 가장 큰 영향을 받는 기업은 스페이스X로, 미국 발사 및 재진입 차량의 대다수를 소유 및 운영하고 있습니다. 탑재체 파운드당 25센트의 평가 기준에 따라, 스페이스X는 처음에 스타링크 인터넷 위성을 탑재한 각 팔콘 9 발사에 대해 9,000~10,000달러의 수수료를 지불하게 됩니다. 수수료율은 향후 8년 동안 인상되어 2033년에는 최대 수수료가 200,000달러 상한에 도달할 것입니다. 이 자금은 FAA가 발사 및 재진입을 국가 영공 시스템에 통합하는 것을 개선하는 데 사용될 것입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아마존을 위한 아틀라스 V 재발사. 유나이티드 론치 얼라이언스(ULA)는 월요일 이달 들어 두 번째 아틀라스 V 로켓 발사를 완료하여 플로리다주 케이프 커내버럴의 같은 발사대에서 두 번의 아틀라스 V 임무 간 가장 빠른 전환을 기록했다고 Spaceflight Now가 보도합니다. 이전 기록을 거의 3일 앞당겼습니다. 아틀라스 V 로켓에는 29개의 아마존 레오 위성 배치가 탑재되었습니다. 이번은 ULA가 아마존의 광대역 인터넷 위성 생산 버전을 궤도에 배치한 6번째 비행이자, 2023년 10월 프로토플라이트 임무에서 발사된 두 개의 데모 위성을 포함하여 전체적으로 7번째 비행이었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+종말이 가까워… 이번은 지금까지 아틀라스 V의 108번째 발사였습니다. ULA는 2월 가장 최근 비행에서 부스터 이상으로 인해 새로운 벌컨 발사체가 지상에 묶여 있는 가운데 아틀라스 V 로켓으로 호조를 보이고 있습니다. 그러나 아틀라스 V 프로그램은 막바지에 이르렀으며, ULA 재고에는 아마존 레오 군집용 2기를 포함하여 단 8대의 아틀라스 V 하드웨어만 남아 있습니다. ULA는 아마존 레오 네트워크의 위성을 배치하기 위해 38기의 벌컨 로켓을 발사하는 계약을 맺었지만, 해당 임무들은 벌컨의 고체 로켓 모터 문제에 대한 조사가 진행 중이어서 보류된 상태입니다. (EllPeaTea 제출)
+&lt;&lt;&lt;PARA&gt;&gt;
+아마존을 위한 아리안, 아마존에서 발사. 플로리다에서 아틀라스 V가 발사된 지 3일도 채 안 되어, 또 다른 32개의 아마존 레오 위성 그룹이 유럽의 아리안 6 로켓에 실려 남아메리카의 기아나 우주 센터에서 궤도로 발사되었다고 European Spaceflight가 보도합니다. 로켓은 4개의 고체 연료 부스터를 특징으로 하는 아리안 64 구성으로 발사되었습니다. 32개 위성 중 첫 번째는 이륙 후 약 1시간 30분 만에 로켓 상단에서 분리되었습니다. 32개 위성 모두 총 약 25분 동안 지속된 12번의 분리 이벤트를 통해 배치되었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+발사 주기 달성… 아리안스페이스는 아마존으로부터 위성 군집 배치를 지원하기 위해 총 18회의 임무를 수행하는 계약을 체결했습니다. 이 군집은 스페이스X의 스타링크 글로벌 광대역 네트워크와 경쟁하기 위한 것입니다. 아리안스페이스는 2026년에 최대 8회의 아리안 6 비행을 계획하고 있으며, 상당 부분이 아마존의 백로그 처리에 전념할 것이라고 밝혔습니다. (EllPeaTea 제출)
+&lt;&lt;&lt;PARA&gt;&gt;
+뉴 글렌의 높은 발사 목표. 이번 주 초, 블루 오리진은 '콰트로'에 대한 탱크 제조를 감독할 '수석 관리자' 직위를 위한 채용 공고를 게시했으며, 그 설명에는 흥미로운 정보가 포함되어 있었다고 Ars가 보도합니다. 콰트로는 뉴 글렌 로켓의 더 강력한 상단부를 위한 회사의 별명으로, 현재 부스터에 동력을 공급하는 두 개의 BE-3U 엔진 대신 4개의 BE-3U 엔진을 특징으로 합니다. 블루 오리진은 작년 11월에 뉴 글렌의 이 더 강력한 변형(9×4: 1단 엔진 9개, 상단 엔진 4개)에 대한 계획을 공개했습니다. 9×4는 내년에 데뷔할 수 있으며, 블루가 상단 탱크 제조를 위해 고용하는 사람은 2029년까지 연간 12대에서 연간 100대로 '생산 속도 증가'를 실행하는 임무를 맡게 됩니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+갈 길이 멀다… 현재 상단부는 재사용이 불가능하므로, 각각의 새로운 제작은 한 번의 발사와 같습니다. 블루 오리진은 100회의 뉴 글렌 비행을 달성하기까지 갈 길이 멀며, 3년 안에 해내는 것은 지나치게 낙관적으로 들립니다. 회사는 NASA를 위한 유인 달 착륙선, 표준화된 우주선 버스 및 우주 예인선인 블루 링, 그리고 기타 덜 알려진 프로젝트 개발 등 처리해야 할 일이 많습니다. 뉴 글렌 로켓의 현재 상단부(2개의 BE-3U 엔진)는 이달 초 가장 최근 발사에서 실패했습니다. 하지만 블루 오리진은 재능 있는 엔지니어와 소유주인 제프 베조스 덕분에 깊은 자금력을 가지고 있으므로, 그 목표를 진지하게 받아들일 가치가 있습니다. 돈은 많은 문제를 해결합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+팔콘 헤비, 환영합니다. 스페이스X의 가장 강력한 운용 로켓인 트리플 코어 팔콘 헤비가 수요일 플로리다에서 발사되어 ViaSat 인터넷 위성을 우주로 쏘아 올렸으며, 이는 지구를 아우르는 고속 광대역 중계국 함대 중 세 번째라고 CBS News가 보도합니다. ViaSat-3 위성을 계획된 예비 궤도에 올려놓는 것과 함께, 로켓의 두 개의 측면 부스터는 경쟁적인 소닉 붐을 동반하며 차량을 밀도 높은 하부 대기권 밖으로 밀어 올린 후 케이프 커내버럴 우주군 기지의 별도 패드에 정확히 착륙했습니다. 이는 2018년 첫 발사 이후 팔콘 헤비 로켓의 12번째 비행이자, 스페이스X가 NASA의 유로파 탐사선을 목성으로 보낸 2024년 10월 이후 처음입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+건강한 백로그… 비행 간의 긴 격차에도 불구하고, 스페이스X는 향후 몇 년 동안 꽤 많은 팔콘 헤비 임무를 계획하고 있습니다. 다음 임무는 9월에 플로리다에서 NASA의 낸시 그레이스 로만 우주 망원경을 발사할 예정입니다. 또 다른 팔콘 헤비는 아마도 올해 말에 Astrobotic을 위한 상업용 달 착륙선을 발사할 것입니다. 스페이스X는 2020년대 말까지 계약된 최소 12회 이상의 팔콘 헤비 비행을 보유하고 있습니다. (EllPeaTea 제출)
+&lt;&lt;&lt;PARA&gt;&gt;
+아르테미스 III 코어 스테이지, KSC 도착. NASA의 아르테미스 III 임무를 위한 가장 큰 하드웨어 부품이 월요일 뉴올리언스 공장에서 바지선을 타고 플로리다주 케네디 우주 센터에 도착했다고 Florida Today가 보도합니다. 케네디의 지상 팀은 화요일에 바지선에서 엔진 섹션이 아직 없는 코어 스테이지를 내리고 차량 조립 건물 내부로 옮겼습니다. 그곳에서 기술자들은 코어 스테이지의 4개의 RS-25 주 엔진을 설치하고 로켓 적재를 준비할 것입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아마도 내년… NASA는 내년에 지구 궤도 임무를 위해 아르테미스 III를 발사하기를 희망하고 있습니다. 아르테미스 III의 우주비행사들은 NASA의 오리온 승무원 캡슐과 스페이스X 및 블루 오리진이 개발한 하나 또는 두 개의 유인 달 착륙선 사이에서 궤도상의 랑데부 및 도킹 시험을 수행할 것입니다. 기관장인 재러드 아이작먼은 월요일 의원들에게 스페이스X와 블루 오리진이 2027년 말에 지구 궤도에서 아르테미스 III 임무를 위해 우주선을 준비할 수 있다고 말했으며, 이는 NASA의 이전 일정인 2027년 중반보다 다소 늦은 것입니다. 아르테미스 III가 내년에 비행한다면, NASA는 2028년에 유인 달 착륙 시도로 이어지기를 희망하고 있습니다. (EllPeaTea 제출)
+&lt;&lt;&lt;PARA&gt;&gt;
+5월 1일: 팔콘 9 | 스타링크 10-38 | 플로리다주 케이프 커내버럴 우주군 기지 | 17:35 UTC
+&lt;&lt;&lt;PARA&gt;&gt;
+5월 3일: 팔콘 9 | CAS500-2 라이드쉐어 | 캘리포니아주 반덴버그 우주군 기지 | 06:59 UTC
+&lt;&lt;&lt;PARA&gt;&gt;
+5월 6일: 팔콘 9 | 스타링크 17-29 | 캘리포니아주 반덴버그 우주군 기지 | 02:00 UTC)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/05/rocket-report-falcon-heavy-is-back-russias-soyuz-5-finally-debuts/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/fh_viasat_streak-1152x648-1777603849.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 01 May 2026 03:39:03 +0000</pubDate></item><item><title>Women sue the men who used their Instagram feeds to create AI porn influencers (인스타그램 피드를 도용해 AI 포르노 인플루언서를 만든 남성들을 고소한 여성들)</title><link>https://arstechnica.com/tech-policy/2026/05/women-sue-men-who-used-their-instagram-feed-to-create-ai-porn-influencers/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/woman-silhouette-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;AI ModelForge is a platform that teaches men how to generate their own AI influencers.&lt;br/&gt;(AI ModelForge는 남성들에게 자신만의 AI 인플루언서를 만드는 방법을 가르치는 플랫폼이다.)&lt;/p&gt;
+&lt;p&gt;A little over a year ago, MG was leading the relatively normal life of a twentysomething in Scottsdale, Arizona. She worked as a personal assistant and supplemented her income by waiting tables on the weekends. Like most women her age, she had an Instagram account, where she’d occasionally post Stories and photos of herself getting matcha and hanging out by the pool with her friends, or going to Pilates.&lt;br/&gt;(1년 조금 전, MG는 애리조나주 스코츠데일에서 20대 여성의 비교적 평범한 삶을 살고 있었다. 개인 비서로 일하면서 주말에는 웨이트리스로 수입을 보충했다. 또래 여성들처럼 인스타그램 계정을 운영하며 가끔 말차를 마시는 모습, 수영장에서 친구들과 어울리는 사진, 필라테스 하는 영상 등을 스토리나 게시물로 올렸다.)&lt;/p&gt;
+&lt;p&gt;“I never really cared to pop off and become popular on social media,” says MG (who is cited only as MG in the lawsuit to protect her identity). “I just used it the way most people did when it first came out, to share their lives with the people closest to them.” She has a little more than 9,000 followers—a robust following, but nowhere close to a massive platform.&lt;br/&gt;(MG(소송에서 신원 보호를 위해 MG로만 표기됨)는 "소셜 미디어에서 유명해지거나 인기를 얻는 데는 전혀 관심이 없었어요. 그냥 대부분의 사람들이 처음에 했던 방식대로, 가까운 사람들과 삶을 공유하기 위해 사용했을 뿐이에요."라고 말한다. 그녀의 팔로워는 9,000명이 조금 넘는데, 적지 않은 수지만 거대한 플랫폼에는 훨씬 못 미친다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+지난여름, 그녀는 팔로워 중 한 명에게서 DM을 받았다. 그 사람이 물었다. 자신과 똑같이 생긴 여성의 사진과 영상이 인스타그램에 돌아다니고 있다는 사실을 아느냐고. MG는 링크를 클릭했고, 자신의 얼굴이 자신과 똑같은 몸에 겹쳐진 여러 개의 릴스를 보았다. 사진 속 여성은 거의 노출에 가까운 옷을 입고 있었고, MG와 같은 위치에 문신이 새겨져 있었다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+MG는 충격을 받았다. "저를 잘 모르는 사람이라면 그게 제 사진이라고 생각할 수도 있었어요. 제 이미지를 전혀 통제할 수 없다는 현실을 깨닫게 해준 순간이었죠."
+
+&lt;&lt;&lt;PARA&gt;&gt;
+최근 제기된 소송에 따르면, 조작된 나체나 거의 나체 사진이 인터넷에 유포되었을 뿐만 아니라, 남성들에게 AI 인플루언서를 만드는 법을 가르치는 플랫폼인 AI ModelForge를 광고하는 데 사용되고 있다는 사실을 알게 되자 그녀는 더욱 분노했다. 온라인 수업과 튜토리얼 시리즈에서 이 남성들은 구독자들에게 CreatorCore라는 소프트웨어를 사용해 아무것도 모르는 젊은 여성들의 사진으로 AI 모델을 훈련시키고, 그 결과물을 인스타그램과 틱톡에 게시하는 방법을 가르친 것으로 알려졌다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+MG는 "그들이 완벽한 교본을 제공했어요. 스스로를 방어할 수 없는 사람을 고르는 방법, 어떤 유형의 여성을 사용하고 어디서 사진을 가져올지에 대한 지침까지 포함해서요. 모든 면에서 역겨웠어요."라고 주장한다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+MG는 1월 애리조나주에서 피닉스에 사는 세 남성인 잭슨 웹, 루카스 웹, 보 슐츠와 다른 50명의 존 도(John Doe)를 상대로 제기된 소송의 원고 세 명 중 한 명이다. 이 소송은 웹 형제와 슐츠가 인터넷에서 아무것도 모르는 젊은 여성들의 사진을 찾아낸 후, AI를 사용해 그들과 똑같이 생긴 가상 모델의 사진과 영상을 생성하여 구독 플랫폼 Fanvue에서 판매했다고 주장한다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+소송은 또한 이들이 Whop 플랫폼에서 월 24.95달러에 소송에 언급된 존 도를 포함한 다른 남성들에게 실제 여성 사진을 기반으로 자신만의 AI 생성 인플루언서를 만드는 방법을 가르치는 온라인 강좌를 판매했다고 주장한다. 이 남성들은 여성들의 소셜 미디어 계정에서 이미지를 긁어와 CreatorCore의 생성형 AI 모델에 공급하는 방법과, 여성의 옷을 제거하고 성적으로 노골적인 이미지와 영상을 생성하는 별도 앱에 대한 '청사진'을 만든 것으로 알려졌다. 소송에 따르면 이러한 콘텐츠는 수백만 뷰를 생성했으며, 한 달에 5만 달러 이상의 수익을 올린 것으로 알려졌다. (웹 형제와 슐츠는 논평 요청에 응답하지 않았다.)
+
+&lt;&lt;&lt;PARA&gt;&gt;
+소장은 이러한 돈벌이 방식이 "아무것도 모르는 여성과 소녀들의 구별할 수 없는 AI 복제품 하렘"을 먹잇감으로 삼았을 뿐만 아니라, 소셜 미디어에서 "여성을 잡아먹으려는 포식자"에게 지침을 제공했다고 주장한다. 소송에 따르면, 2025년에 CreatorCore 플랫폼은 8,000명 이상의 구독자가 자신의 AI 인플루언서를 생성하여 50만 개 이상의 이미지와 영상을 만들어냈다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+AI ModelForge는 인공지능의 광범위한 사용을 활용하여 남성들에게 일종의 부업으로 'AI 인플루언서'를 만드는 방법을 가르치려는 급성장하는 많은 회사 중 하나다. X와 같은 플랫폼에서 자칭 기업가들은 AI 모델로 수십만 달러를 버는 자신만의 특허 방법을 자랑하며, 빠른 수익을 원하는 젊은 기술에 능숙한 남성들을 유혹한다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+MG와 다른 두 원고를 대리하는 닉 브랜드 변호사는 "이것의 만연함에 충격을 받았습니다."라고 말한다. 소송이 AI ModelForge의 배후라고 주장하는 젊은 남성들은 "평범한 소셜 미디어 프로필과 팔로워를 가진 평범한 일상을 사는 사람들을 표적으로 삼고 있습니다." 인터뷰에서 그가 주장하는 이 특정 사건의 더 교활한 요소 중 하나는 여성의 이미지를 사용하여 다른 남성들에게 피해자를 찾는 방법을 가르친다는 점이다. 소장에 따르면, 피고들은 구독자들에게 '법적 문제'를 피하기 위해 팔로워가 5만 명 미만인 여성을 표적으로 삼도록 권장했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+브랜드는 "이 소년들은 단순히 생성형 AI를 사용해 여성의 옷을 벗기는 것이 아니라, 다른 남성과 소년들에게 그 능력을 판매하고 있으며, 그들은 다시 다른 여성의 이미지를 사용해 같은 일을 할 것입니다."라고 주장한다. MG와 다른 두 원고는 "다른 여성들에게 해를 끼치는 제품의 얼굴이 되었습니다. 부모님이 추방당한 사람을 ICE(이민세관단속국)의 얼굴로 만드는 것과 같아요. 끔찍합니다."라고 말한다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+기술적으로는 동의 없는 AI 생성 포르노의 확산을 막는 연방법이 있다. 트럼프 대통령이 2025년 5월에 서명한 '테이크 잇 다운 법(Take It Down Act)'은 동의 없는 성적 AI 생성 콘텐츠의 게시를 불법으로 규정하고, 플랫폼이 신고를 받으면 48시간 이내에 해당 콘텐츠를 삭제하도록 요구한다. 애리조나를 포함한 대부분의 미국 주에서는 이른바 '딥페이크' 포르노를 금지하는 법을 통과시켰다. 그러나 테이크 잇 다운 법은 2026년 5월까지 발효되지 않으며, 주법은 "사전 예방적이기보다는 사후 대응적"이라고 애리조나주 하원의원 닉 쿠퍼는 말한다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+올해 초, 쿠퍼 의원은 애리조나주 의회에 웹사이트가 동의 없는 AI 콘텐츠가 업로드되는 것을 방지하기 위해 연령 확인이나 동의 양식과 같은 자동 탐지 도구를 사용하도록 요구하는 법안을 발의했다. "일단 무언가가 온라인에 올라가면, 피해자들이 이를 삭제하기 위해 수백만 달러를 써도 사실상 영원히 남아 있습니다. 두더지 잡기 게임 같아요. 하나를 치면 다른 하나가 또 나타납니다."
+
+&lt;&lt;&lt;PARA&gt;&gt;
+현재 AI ModelForge의 Linktree 페이지를 방문하면 동일한 사업체가 'TaviraLabs'로 이름을 바꾼 것으로 보이는 곳으로 연결된다. 이는 18,000명 이상의 회원을 보유한 텔레그램 그룹으로, "최고의 AI 인플루언서 코칭 커뮤니티"라고 광고한다. 또한 소송은 피고들이 AI ModelForge를 홍보하는 데 사용한 12개 이상의 인스타그램 계정을 명시하고 있으며, 대부분이 여전히 활동 중이다. 소송은 이러한 계정들이 계속해서 젊고 매력적인 여성, 스포츠카, 값비싼 시계 사진을 게시하며 "그녀는 내 여자친구가 아니라, 가장 수익성이 높은 직원입니다." 또는 "시점: 당신이 20분 만에 그녀를 만들었고, 그녀는 첫 45일 만에 13,200달러를 벌어들였습니다."와 같은 캡션을 썼다고 상세히 설명한다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+MG와 다른 원고들은 지속적으로 인스타그램에 자신들의 이미지를 내려달라고 요청했지만, 많은 이미지가 여전히 남아 있다고 그녀는 주장한다. 기술적으로 인스타그램의 AI 생성 콘텐츠에 관한 가이드라인을 위반하지 않기 때문이다. 논평을 요청받은 인스타그램 대변인은 AI 생성 및 비AI 생성 동의 없는 친밀한 이미지 모두에 대해 "매우 엄격한 정책"을 가지고 있으며, 그러한 콘텐츠를 게시하는 계정을 삭제한다고 말했다. AI ModelForge와 관련된 것으로 추정되는 약 12개의 계정 목록을 제공받았을 때, 대변인은 해당 계정들을 검토 중이라고 말했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+소송은 또한 이 남성들의 사업을 홍보하는 다수의 틱톡 계정을 인용했다. 논평을 요청받은 틱톡 대변인은 해당 계정들이 커뮤니티 가이드라인을 위반한 것으로 확인되어 삭제되었다고 말했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+MG는 AI ModelForge가 생성한 이미지가 자신의 실제 사진과 충분히 달라서, 안타깝게도 해당 계정이 자신의 계정을 사칭한다고 주장할 수 없었다고 말한다. 이 또한 인스타그램 가이드라인 위반이다. 그녀는 "제 얼굴과 제 문신이지만, 약간 다른 몸에 다른 옷을 입고 있어요. 이것은 무작위로 AI 생성된 사람이 아니라 실제 여성이 변형된 것입니다."라고 말한다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+MG는 자신의 삶에 있는 사람들이 포르노그래픽 AI 생성 이미지를 볼까 봐 끊임없이 두려워하지만, 소송을 제기하면서 약간의 주도권을 되찾았다고 말한다. "우리는 벼랑 끝에 몰린 상황에 놓였고, 다른 여성들에게 당신의 삶을 멈출 수 없다는 것을 알리고 싶어요."라고 그녀는 말한다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+그럼에도 불구하고, 팔로워가 1만 명 미만인 여성 MG에게 일어난 일은 사실상 온라인에서 어느 정도 공개적인 활동을 하는 모든 사람에게 우려스러운 의미를 갖는다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+"온라인에서 이미지를 조심하는 문제가 아니에요. 요즘은 모두가 소셜 미디어에 게시물을 올리니까요. 모두가 링크드인에 있고, 모두가 인스타그램에 있어요. 그리고 사람들이 이것이 자신에게도 일어날 수 있다는 것을 깨닫길 바랍니다."라고 그녀는 말한다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+이 기사는 원래 wired.com에 게재되었습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/05/women-sue-men-who-used-their-instagram-feed-to-create-ai-porn-influencers/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/woman-silhouette-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 01 May 2026 04:26:34 +0000</pubDate></item></channel></rss>
