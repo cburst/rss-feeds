@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 01:08:20 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 03:15:42 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>억달러 – hundred million dollars</title><link>urn:urn:vocab:억달러</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>요구를 – demand</title><link>urn:urn:vocab:요구를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605364850025-1c59327db3b1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZW1hbmR8ZW58MHx8fHwxNzc3NjU5MzM2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="요구를 (demand)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;금감원은 “형식 요건이 미비하거나 중요사항 기재가 누락·불분명해 투자자의 합리적 판단을 저해할 우려가 있는 경우에 해당돼 정정신고서 제출 요구를 했다”고 밝혔다&lt;br/&gt;&lt;em&gt;The Financial Supervisory Service stated, 'This corresponds to cases where formal requirements are insufficient or important matters are omitted or unclear, potentially hindering investors' rational judgment, so we requested the submission of a corrected registration statement.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;금감원은 앞선 지난해 4월에 한화에어로스페이스의 약 3조6천억원 규모의 유상증자 당시 한 차례 정정 요구 이후 2조3천억원으로 규모를 줄여 재신고했지만 이런 이유로 재차 정정 요구를 한 바 있다&lt;br/&gt;&lt;em&gt;The Financial Supervisory Service had previously requested a correction in April last year for Hanwha Aerospace's approximately 3.6 trillion won rights offering, after which the company resubmitted with a reduced scale of 2.3 trillion won, but for these reasons, it requested another correction.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (한화솔루션은 “금감원의 2차 정정요구를 매우 무겁게 받아들인다”며 “그동안 저희 유상증자에 대해 주주 여러분과 언론에서 제기해주신 지적과 의견을 겸허한 자세로 다시 한 번 깊이 새기고, 성실하게 정정요구를 충족하는 신고서를 준비하겠다”고 말했다&lt;br/&gt;&lt;em&gt;" (Hanwha Solutions said, 'We take the FSS's second correction request very seriously. We will once again deeply reflect on the criticisms and opinions raised by our shareholders and the media regarding our rights offering, and we will prepare a registration statement that faithfully meets the correction request.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 요구를 했어요.&lt;br/&gt;&lt;em&gt;He made a request.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;요구를 받아들였어요.&lt;br/&gt;&lt;em&gt;The request was accepted.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605364850025-1c59327db3b1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZW1hbmR8ZW58MHx8fHwxNzc3NjU5MzM2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="요구를 (demand)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;금감원은 “형식 요건이 미비하거나 중요사항 기재가 누락·불분명해 투자자의 합리적 판단을 저해할 우려가 있는 경우에 해당돼 정정신고서 제출 요구를 했다”고 밝혔다&lt;br/&gt;&lt;em&gt;The Financial Supervisory Service stated, 'This corresponds to cases where formal requirements are insufficient or important matters are omitted or unclear, potentially hindering investors' rational judgment, so we requested the submission of a corrected registration statement.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;금감원은 앞선 지난해 4월에 한화에어로스페이스의 약 3조6천억원 규모의 유상증자 당시 한 차례 정정 요구 이후 2조3천억원으로 규모를 줄여 재신고했지만 이런 이유로 재차 정정 요구를 한 바 있다&lt;br/&gt;&lt;em&gt;The Financial Supervisory Service had previously requested a correction in April last year for Hanwha Aerospace's approximately 3.6 trillion won rights offering, after which the company resubmitted with a reduced scale of 2.3 trillion won, but for these reasons, it requested another correction.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (한화솔루션은 “금감원의 2차 정정요구를 매우 무겁게 받아들인다”며 “그동안 저희 유상증자에 대해 주주 여러분과 언론에서 제기해주신 지적과 의견을 겸허한 자세로 다시 한 번 깊이 새기고, 성실하게 정정요구를 충족하는 신고서를 준비하겠다”고 말했다&lt;br/&gt;&lt;em&gt;" (Hanwha Solutions said, 'We take the FSS's second correction request very seriously. We will once again deeply reflect on the criticisms and opinions raised by our shareholders and the media regarding our rights offering, and we will prepare a registration statement that faithfully meets the correction request.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 요구를 했어요.&lt;br/&gt;&lt;em&gt;He made a request.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;요구를 받아들였어요.&lt;br/&gt;&lt;em&gt;The request was accepted.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 02 May 2026 03:15:42 +0900</pubDate><guid isPermaLink="false">vocab-de6827cfe9b590dc8d7e8761d1cb36dea8c82490</guid><enclosure url="https://images.unsplash.com/photo-1605364850025-1c59327db3b1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZW1hbmR8ZW58MHx8fHwxNzc3NjU5MzM2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="68424" /><ns2:content url="https://images.unsplash.com/photo-1605364850025-1c59327db3b1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZW1hbmR8ZW58MHx8fHwxNzc3NjU5MzM2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1605364850025-1c59327db3b1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZW1hbmR8ZW58MHx8fHwxNzc3NjU5MzM2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>요구를</category></item><item><title>억달러 – hundred million dollars</title><link>urn:urn:vocab:억달러</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771736007817-658bb36d5642?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodW5kcmVkJTIwbWlsbGlvbiUyMGRvbGxhcnN8ZW58MHx8fHwxNzc3NjUxNjk2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="억달러 (hundred million dollars)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;먼저 구글 모기업인 알파벳은 1분기 매출이 전년 동기 대비 22% 증가한 1099억달러(약 163조원)를 기록했다고 밝혔다&lt;br/&gt;&lt;em&gt;First, Google's parent company Alphabet announced that its first-quarter revenue increased by 22% year-on-year to $109.9 billion (approximately 163 trillion won).&lt;/em&gt;&lt;/p&gt;
