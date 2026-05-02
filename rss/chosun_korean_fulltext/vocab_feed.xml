@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 16:00:39 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 18:07:18 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>이슈로 – as an issue</title><link>urn:urn:vocab:이슈로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>단체장 – head of an organization</title><link>urn:urn:vocab:단체장</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1767851522798-147f426a6b65?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFkJTIwb2YlMjBhbiUyMG9yZ2FuaXphdGlvbnxlbnwwfHx8fDE3Nzc3MTI4MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="단체장 (head of an organization)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;앞서 다른 지역의 국민의힘 광역 단체장 후보들도 장 대표를 향해 쓴소리를 내며 변화를 촉구해왔다&lt;br/&gt;&lt;em&gt;Earlier, candidates for regional heads of the People Power Party from other regions also made critical remarks toward Representative Jang, urging change.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;… Must Be Judged” (국힘 단체장 후보들 “李, 네로 황제 되려 하나… 심판해야”) &lt;&lt;br/&gt;&lt;em&gt;... Must Be Judged” (PPP regional head candidates: “Is Lee trying to become Emperor Nero? … Must be judged”) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;… Must Be Judged” (국힘 단체장 후보들 “李, 네로 황제 되려 하나… 심판해야”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;... Must Be Judged” (PPP regional head candidates: “Is Lee trying to become Emperor Nero? … Must be judged”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;단체장이 회의를 시작했습니다.&lt;br/&gt;&lt;em&gt;The head of the organization started the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 단체장은 친절합니다.&lt;br/&gt;&lt;em&gt;Our head of the organization is kind.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1767851522798-147f426a6b65?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFkJTIwb2YlMjBhbiUyMG9yZ2FuaXphdGlvbnxlbnwwfHx8fDE3Nzc3MTI4MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="단체장 (head of an organization)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;앞서 다른 지역의 국민의힘 광역 단체장 후보들도 장 대표를 향해 쓴소리를 내며 변화를 촉구해왔다&lt;br/&gt;&lt;em&gt;Earlier, candidates for regional heads of the People Power Party from other regions also made critical remarks toward Representative Jang, urging change.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;… Must Be Judged” (국힘 단체장 후보들 “李, 네로 황제 되려 하나… 심판해야”) &lt;&lt;br/&gt;&lt;em&gt;... Must Be Judged” (PPP regional head candidates: “Is Lee trying to become Emperor Nero? … Must be judged”) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;… Must Be Judged” (국힘 단체장 후보들 “李, 네로 황제 되려 하나… 심판해야”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;... Must Be Judged” (PPP regional head candidates: “Is Lee trying to become Emperor Nero? … Must be judged”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;단체장이 회의를 시작했습니다.&lt;br/&gt;&lt;em&gt;The head of the organization started the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 단체장은 친절합니다.&lt;br/&gt;&lt;em&gt;Our head of the organization is kind.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 02 May 2026 18:07:18 +0900</pubDate><guid isPermaLink="false">vocab-be84821cc35d087ddfcc88b1f586a5da2a51d259</guid><enclosure url="https://images.unsplash.com/photo-1767851522798-147f426a6b65?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFkJTIwb2YlMjBhbiUyMG9yZ2FuaXphdGlvbnxlbnwwfHx8fDE3Nzc3MTI4MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="394412" /><ns2:content url="https://images.unsplash.com/photo-1767851522798-147f426a6b65?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFkJTIwb2YlMjBhbiUyMG9yZ2FuaXphdGlvbnxlbnwwfHx8fDE3Nzc3MTI4MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1767851522798-147f426a6b65?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFkJTIwb2YlMjBhbiUyMG9yZ2FuaXphdGlvbnxlbnwwfHx8fDE3Nzc3MTI4MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>단체장</category></item><item><title>이슈로 – as an issue</title><link>urn:urn:vocab:이슈로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1542367787-4baf35f3037d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGFuJTIwaXNzdWV8ZW58MHx8fHwxNzc3NzA1MjM1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이슈로 (as an issue)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Special Prosecutor's Authority to Drop Charges Against Lee Becomes Top Local Election Issue (특검에 李 공소취소권, 지방선거 최대 이슈로) &lt;&lt;br/&gt;&lt;em&gt;Special Prosecutor's Authority to Drop Charges Against Lee Becomes Top Local Election Issue&lt;/em&gt;&lt;/p&gt;
