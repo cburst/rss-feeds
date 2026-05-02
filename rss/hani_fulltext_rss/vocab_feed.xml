@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 09:39:50 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 13:54:13 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>대표이사 – representative director</title><link>urn:urn:vocab:대표이사</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>빅테크 – big tech</title><link>urn:urn:vocab:빅테크</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1610727791619-57626b1d424e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiaWclMjB0ZWNofGVufDB8fHx8MTc3NzY5NzY1MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="빅테크 (big tech)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;US Big Tech Giants Soar in Q1 Earnings, Riding the AI Boom (‘인공지능 훈풍’에 미국 빅테크 4사, 1분기 실적 날았다) &lt;&lt;br/&gt;&lt;em&gt;US Big Tech Giants Soar in Q1 Earnings, Riding the AI Boom&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;US Big Tech Giants Soar in Q1 Earnings, Riding the AI Boom (‘인공지능 훈풍’에 미국 빅테크 4사, 1분기 실적 날았다)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;US Big Tech Giants Soar in Q1 Earnings, Riding the AI Boom&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(미국 주요 빅테크 기업인 알파벳(구글 모기업)·마이크로소프트·아마존·메타가 시장 기대를 웃도는 1분기 매출 실적을 기록했다&lt;br/&gt;&lt;em&gt;Major US big tech companies Alphabet (Google's parent company), Microsoft, Amazon, and Meta recorded first-quarter sales results that exceeded market expectations.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;빅테크 회사가 크다.&lt;br/&gt;&lt;em&gt;The big tech company is big.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 빅테크를 좋아한다.&lt;br/&gt;&lt;em&gt;I like big tech.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1610727791619-57626b1d424e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiaWclMjB0ZWNofGVufDB8fHx8MTc3NzY5NzY1MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="빅테크 (big tech)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;US Big Tech Giants Soar in Q1 Earnings, Riding the AI Boom (‘인공지능 훈풍’에 미국 빅테크 4사, 1분기 실적 날았다) &lt;&lt;br/&gt;&lt;em&gt;US Big Tech Giants Soar in Q1 Earnings, Riding the AI Boom&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;US Big Tech Giants Soar in Q1 Earnings, Riding the AI Boom (‘인공지능 훈풍’에 미국 빅테크 4사, 1분기 실적 날았다)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;US Big Tech Giants Soar in Q1 Earnings, Riding the AI Boom&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(미국 주요 빅테크 기업인 알파벳(구글 모기업)·마이크로소프트·아마존·메타가 시장 기대를 웃도는 1분기 매출 실적을 기록했다&lt;br/&gt;&lt;em&gt;Major US big tech companies Alphabet (Google's parent company), Microsoft, Amazon, and Meta recorded first-quarter sales results that exceeded market expectations.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;빅테크 회사가 크다.&lt;br/&gt;&lt;em&gt;The big tech company is big.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 빅테크를 좋아한다.&lt;br/&gt;&lt;em&gt;I like big tech.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 02 May 2026 13:54:13 +0900</pubDate><guid isPermaLink="false">vocab-32cfc6275c11c31298c39884bb8cf843ecd1d77b</guid><enclosure url="https://images.unsplash.com/photo-1610727791619-57626b1d424e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiaWclMjB0ZWNofGVufDB8fHx8MTc3NzY5NzY1MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="45064" /><ns2:content url="https://images.unsplash.com/photo-1610727791619-57626b1d424e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiaWclMjB0ZWNofGVufDB8fHx8MTc3NzY5NzY1MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1610727791619-57626b1d424e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiaWclMjB0ZWNofGVufDB8fHx8MTc3NzY5NzY1MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>빅테크</category></item><item><title>에너지저장장치 – energy storage device</title><link>urn:urn:vocab:에너지저장장치</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1766639214308-759e9993574d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBzdG9yYWdlJTIwZGV2aWNlfGVufDB8fHx8MTc3NzY5MDA1OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="에너지저장장치 (energy storage device)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회사는 전기차(EV)와 에너지저장장치(ESS) 사업을 확대해 실적을 개선한다는 계획이다&lt;br/&gt;&lt;em&gt;The company plans to improve its performance by expanding its electric vehicle (EV) and energy storage system (ESS) businesses.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미국 테네시, 오하이오 등 북미에서 에너지저장장치 생산거점을 다섯 곳 확보한 데 따른 초기 안정화 비용 부담과 전략 고객의 전기차 파우치 제품 물량 감소도 이익 감소에 영향을 미쳤다&lt;br/&gt;&lt;em&gt;The initial stabilization costs from securing five energy storage system production bases in North America, including Tennessee and Ohio, as well as a decrease in the volume of electric vehicle pouch products from strategic customers, also affected the profit decline.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(회사는 1분기 불확실한 대외 환경 속에서도 전기차와 에너지저장장치 전 사업 영역에서 신규 수주를 확대해 중장기 성장 기반을 다졌다고 밝혔다&lt;br/&gt;&lt;em&gt;(The company announced that despite the uncertain external environment in the first quarter, it strengthened its mid- to long-term growth foundation by expanding new orders in all business areas of electric vehicles and energy storage systems.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;에너지저장장치가 중요합니다.&lt;br/&gt;&lt;em&gt;Energy storage devices are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 에너지저장장치입니다.&lt;br/&gt;&lt;em&gt;This is an energy storage device.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1766639214308-759e9993574d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBzdG9yYWdlJTIwZGV2aWNlfGVufDB8fHx8MTc3NzY5MDA1OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="에너지저장장치 (energy storage device)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회사는 전기차(EV)와 에너지저장장치(ESS) 사업을 확대해 실적을 개선한다는 계획이다&lt;br/&gt;&lt;em&gt;The company plans to improve its performance by expanding its electric vehicle (EV) and energy storage system (ESS) businesses.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;미국 테네시, 오하이오 등 북미에서 에너지저장장치 생산거점을 다섯 곳 확보한 데 따른 초기 안정화 비용 부담과 전략 고객의 전기차 파우치 제품 물량 감소도 이익 감소에 영향을 미쳤다&lt;br/&gt;&lt;em&gt;The initial stabilization costs from securing five energy storage system production bases in North America, including Tennessee and Ohio, as well as a decrease in the volume of electric vehicle pouch products from strategic customers, also affected the profit decline.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(회사는 1분기 불확실한 대외 환경 속에서도 전기차와 에너지저장장치 전 사업 영역에서 신규 수주를 확대해 중장기 성장 기반을 다졌다고 밝혔다&lt;br/&gt;&lt;em&gt;(The company announced that despite the uncertain external environment in the first quarter, it strengthened its mid- to long-term growth foundation by expanding new orders in all business areas of electric vehicles and energy storage systems.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;에너지저장장치가 중요합니다.&lt;br/&gt;&lt;em&gt;Energy storage devices are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 에너지저장장치입니다.&lt;br/&gt;&lt;em&gt;This is an energy storage device.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 02 May 2026 11:47:43 +0900</pubDate><guid isPermaLink="false">vocab-6e9219f8d94cbe0441b846a40c3094d72df96a10</guid><enclosure url="https://images.unsplash.com/photo-1766639214308-759e9993574d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBzdG9yYWdlJTIwZGV2aWNlfGVufDB8fHx8MTc3NzY5MDA1OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="144243" /><ns2:content url="https://images.unsplash.com/photo-1766639214308-759e9993574d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBzdG9yYWdlJTIwZGV2aWNlfGVufDB8fHx8MTc3NzY5MDA1OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1766639214308-759e9993574d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBzdG9yYWdlJTIwZGV2aWNlfGVufDB8fHx8MTc3NzY5MDA1OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>에너지저장장치</category></item><item><title>대표이사 – representative director</title><link>urn:urn:vocab:대표이사</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXByZXNlbnRhdGl2ZSUyMGRpcmVjdG9yfGVufDB8fHx8MTc3NzY4MjM4NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대표이사 (representative director)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;30일 서울 여의도에서 진행된 에이치엠엠(HMM) 본사 이전 노사합의서 서명식에서 (왼쪽부터) 황종우 해양수산부 장관, 정성철 에이치엠엠육상노조 지부장, 최원혁 HMM 대표이사 사장, 이재진 사무금융서비스노조 위원장, 김형준 한국해양진흥공사 본부장이 기념촬영을 하고 있다&lt;br/&gt;&lt;em&gt;From left, Minister of Oceans and Fisheries Kang Jong-woo, HMM Land Union Branch Chief Jung Sung-chul, HMM CEO Choi Won-hyuk, Financial Services Union Chairman Lee Jae-jin, and Korea Ocean Business Corporation Headquarters Head Kim Hyung-joon pose for a photo at the signing ceremony of the HMM headquarters relocation labor-management agreement held in Yeouido, Seoul on the 30th.&lt;/em&gt;&lt;/p&gt;
