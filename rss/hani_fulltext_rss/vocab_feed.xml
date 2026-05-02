@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 May 2026 00:24:12 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 02:28:36 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>어쨌든 – anyway</title><link>urn:urn:vocab:어쨌든</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>숭실대 – Soongsil University</title><link>urn:urn:vocab:숭실대</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1716346740840-4c44087efab8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlODglQUQlRUMlOEIlQTQlRUIlOEMlODB8ZW58MHx8fHwxNzc3NzQyOTEyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="숭실대 (Soongsil University)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;숭실대 정보보호학과가 화이트해커의 요람으로 주목받으며, 설립 2년 만에 국내외 보안 생태계를 뒤흔들며 ‘글로벌 보안 명문’으로 자리잡아가고 있다&lt;br/&gt;&lt;em&gt;Soongsil University's Department of Information Security is gaining attention as a cradle for white hat hackers, and within just two years of its establishment, it has shaken the domestic and international security ecosystem and is establishing itself as a 'global security powerhouse'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;숭실대 제공&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Coupled with the advancement of the internet and information communication, alarms have been raised for 'cyber security&lt;br/&gt;&lt;em&gt;Provided by Soongsil University&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Coupled with the advancement of the internet and information communication, alarms have been raised for 'cyber security'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이러한 시대적 흐름 속에서 숭실대 정보보호학과가 화이트해커의 요람으로 주목받으며, 설립 2년 만에 국내외 보안 생태계를 뒤흔들며 ‘글로벌 보안 명문’으로 자리잡아가고 있다&lt;br/&gt;&lt;em&gt;Amid this trend of the times, Soongsil University's Department of Information Security is gaining attention as a cradle for white hat hackers, and within just two years of its establishment, it has shaken the domestic and international security ecosystem and is establishing itself as a 'global security powerhouse'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 숭실대에 다닙니다.&lt;br/&gt;&lt;em&gt;I attend Soongsil University.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;숭실대는 서울에 있습니다.&lt;br/&gt;&lt;em&gt;Soongsil University is in Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1716346740840-4c44087efab8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlODglQUQlRUMlOEIlQTQlRUIlOEMlODB8ZW58MHx8fHwxNzc3NzQyOTEyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="숭실대 (Soongsil University)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;숭실대 정보보호학과가 화이트해커의 요람으로 주목받으며, 설립 2년 만에 국내외 보안 생태계를 뒤흔들며 ‘글로벌 보안 명문’으로 자리잡아가고 있다&lt;br/&gt;&lt;em&gt;Soongsil University's Department of Information Security is gaining attention as a cradle for white hat hackers, and within just two years of its establishment, it has shaken the domestic and international security ecosystem and is establishing itself as a 'global security powerhouse'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;숭실대 제공&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Coupled with the advancement of the internet and information communication, alarms have been raised for 'cyber security&lt;br/&gt;&lt;em&gt;Provided by Soongsil University&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Coupled with the advancement of the internet and information communication, alarms have been raised for 'cyber security'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이러한 시대적 흐름 속에서 숭실대 정보보호학과가 화이트해커의 요람으로 주목받으며, 설립 2년 만에 국내외 보안 생태계를 뒤흔들며 ‘글로벌 보안 명문’으로 자리잡아가고 있다&lt;br/&gt;&lt;em&gt;Amid this trend of the times, Soongsil University's Department of Information Security is gaining attention as a cradle for white hat hackers, and within just two years of its establishment, it has shaken the domestic and international security ecosystem and is establishing itself as a 'global security powerhouse'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 숭실대에 다닙니다.&lt;br/&gt;&lt;em&gt;I attend Soongsil University.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;숭실대는 서울에 있습니다.&lt;br/&gt;&lt;em&gt;Soongsil University is in Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 03 May 2026 02:28:36 +0900</pubDate><guid isPermaLink="false">vocab-e0ee9c60a1d103d423c69daa4a6e34dd76aff3c9</guid><enclosure url="https://images.unsplash.com/photo-1716346740840-4c44087efab8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlODglQUQlRUMlOEIlQTQlRUIlOEMlODB8ZW58MHx8fHwxNzc3NzQyOTEyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="289870" /><ns2:content url="https://images.unsplash.com/photo-1716346740840-4c44087efab8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlODglQUQlRUMlOEIlQTQlRUIlOEMlODB8ZW58MHx8fHwxNzc3NzQyOTEyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1716346740840-4c44087efab8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlODglQUQlRUMlOEIlQTQlRUIlOEMlODB8ZW58MHx8fHwxNzc3NzQyOTEyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>숭실대</category></item><item><title>어쨌든 – anyway</title><link>urn:urn:vocab:어쨌든</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554902748-79535dbf5ff7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnl3YXl8ZW58MHx8fHwxNzc3NzM1NDQ5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어쨌든 (anyway)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;어쨌든 소년에게 그것은 그다지 중요하지 않았습니다&lt;br/&gt;&lt;em&gt;Anyway, it didn't matter much to the boy.&lt;/em&gt;&lt;/p&gt;
