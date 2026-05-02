@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 22:18:08 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 00:24:12 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>해녀들이 – female divers (plural)</title><link>urn:urn:vocab:해녀들이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>어쨌든 – anyway</title><link>urn:urn:vocab:어쨌든</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554902748-79535dbf5ff7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnl3YXl8ZW58MHx8fHwxNzc3NzM1NDQ5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어쨌든 (anyway)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어쨌든 소년에게 그것은 그다지 중요하지 않았습니다&lt;br/&gt;&lt;em&gt;Anyway, it didn't matter much to the boy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(&lt;strong&gt; 주한나 | 전 미국 마이크로소프트 연구원·데이터 과학자&lt;/strong&gt;&lt;br/&gt; &lt;br/&gt; 우리집에서는 세계 정상들의 국제관계 협상 테이블을 방불케하게까지는 않더라도 어쨌든 치열한 ‘네고전쟁’(negotiation war)이 매일같이 일어나는데 그것은 게임시간 관련이다&lt;br/&gt;&lt;em&gt;(&lt;strong&gt; Joo Hanna | Former Microsoft Researcher and Data Scientist in the U.S.&lt;/strong&gt;&lt;br/&gt; &lt;br/&gt; In our house, although it may not be as intense as the international negotiation table of world leaders, a fierce 'negotiation war' occurs every day, and it's about game time.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 의원은 “청와대 수석이라서 사람들의 관심과 지지 또 기대는 좀 있을 거라고 본다”며 “다만 이제 부산이라는 곳이 어쨌든 지역이다&lt;br/&gt;&lt;em&gt;The lawmaker said, 'Because he is a senior presidential secretary, I think there will be some attention, support, and expectations from people. However, Busan is, after all, a region.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어쨌든 나는 갈 거야.&lt;br/&gt;&lt;em&gt;Anyway, I'm going.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;어쨌든 그건 중요해.&lt;br/&gt;&lt;em&gt;Anyway, that's important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554902748-79535dbf5ff7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnl3YXl8ZW58MHx8fHwxNzc3NzM1NDQ5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어쨌든 (anyway)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어쨌든 소년에게 그것은 그다지 중요하지 않았습니다&lt;br/&gt;&lt;em&gt;Anyway, it didn't matter much to the boy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(&lt;strong&gt; 주한나 | 전 미국 마이크로소프트 연구원·데이터 과학자&lt;/strong&gt;&lt;br/&gt; &lt;br/&gt; 우리집에서는 세계 정상들의 국제관계 협상 테이블을 방불케하게까지는 않더라도 어쨌든 치열한 ‘네고전쟁’(negotiation war)이 매일같이 일어나는데 그것은 게임시간 관련이다&lt;br/&gt;&lt;em&gt;(&lt;strong&gt; Joo Hanna | Former Microsoft Researcher and Data Scientist in the U.S.&lt;/strong&gt;&lt;br/&gt; &lt;br/&gt; In our house, although it may not be as intense as the international negotiation table of world leaders, a fierce 'negotiation war' occurs every day, and it's about game time.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 의원은 “청와대 수석이라서 사람들의 관심과 지지 또 기대는 좀 있을 거라고 본다”며 “다만 이제 부산이라는 곳이 어쨌든 지역이다&lt;br/&gt;&lt;em&gt;The lawmaker said, 'Because he is a senior presidential secretary, I think there will be some attention, support, and expectations from people. However, Busan is, after all, a region.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어쨌든 나는 갈 거야.&lt;br/&gt;&lt;em&gt;Anyway, I'm going.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;어쨌든 그건 중요해.&lt;br/&gt;&lt;em&gt;Anyway, that's important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 03 May 2026 00:24:12 +0900</pubDate><guid isPermaLink="false">vocab-ca8eb7d56da2d4e4e2c4f69e0188f2eca41e8411</guid><enclosure url="https://images.unsplash.com/photo-1554902748-79535dbf5ff7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnl3YXl8ZW58MHx8fHwxNzc3NzM1NDQ5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="88696" /><ns2:content url="https://images.unsplash.com/photo-1554902748-79535dbf5ff7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnl3YXl8ZW58MHx8fHwxNzc3NzM1NDQ5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1554902748-79535dbf5ff7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnl3YXl8ZW58MHx8fHwxNzc3NzM1NDQ5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>어쨌든</category></item><item><title>해녀들이 – female divers (plural)</title><link>urn:urn:vocab:해녀들이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742906717447-b598140af288?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBkaXZlcnMlMjAlMjhwbHVyYWwlMjl8ZW58MHx8fHwxNzc3NzI3ODgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="해녀들이 (female divers (plural))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이 회장은 해녀들이 입는 작업복인 해녀복의 유효기간은 1년이지만, 정책 지원이 부족해 대부분의 해녀들이 3년 넘게 입고 있다고 밝혔다&lt;br/&gt;&lt;em&gt;The chairman revealed that the haenyeo suit, the work clothes worn by female divers, has a validity period of one year, but due to insufficient policy support, most haenyeo have been wearing them for over three years.&lt;/em&gt;&lt;/p&gt;
