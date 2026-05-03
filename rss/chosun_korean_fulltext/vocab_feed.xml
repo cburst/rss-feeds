@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 May 2026 03:22:36 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 05:26:52 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>잔인한 – cruel</title><link>urn:urn:vocab:잔인한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>개소식 – opening ceremony</title><link>urn:urn:vocab:개소식</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560801122-f61c8e6e5ea1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVuaW5nJTIwY2VyZW1vbnl8ZW58MHx8fHwxNzc3ODQwMDA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개소식 (opening ceremony)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김경수 더불어민주당 경남지사 후보는 3일 경남 창원에서 선거사무소 개소식을 열고 “경남의 승리가 대한민국의 승리, 김경수의 승리가 이재명의 승리”라고 했다&lt;br/&gt;&lt;em&gt;"(Kim Kyung-soo, the Democratic Party candidate for governor of South Gyeongsang Province, held an election office opening ceremony in Changwon, South Gyeongsang on the 3rd and said, 'The victory of South Gyeongsang is the victory of the Republic of Korea, and the victory of Kim Kyung-soo is the victory of Lee Jae-myung.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이날 개소식에 방문한 정청래 민주당 대표는 “노무현 전 대통령이 뿌려놓은 씨앗이 전국 방방곡곡에서 성장해 대한민국 미래를 밝히고 있다”며 “(김 후보는) 노 전 대통령의 못다 이룬 꿈을 가장 노무현답게 실현할 적임자이자 적자”라고 했다&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae, a Democratic Party representative who visited the opening ceremony that day, said, 'The seeds sown by former President Roh Moo-hyun are growing in every corner of the country, brightening the future of the Republic of Korea,' adding, '(Candidate Kim) is the most suitable person and rightful heir to realize former President Roh's unfinished dreams in the most Roh Moo-hyun-like way.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(6·3 지방선거 주요 정당 대구시장 예비 후보들이 3일 대규모 개소식과 전진대회 등을 열고 본격적인 세몰이에 나섰다&lt;br/&gt;&lt;em&gt;(Major party preliminary candidates for mayor of Daegu in the June 3 local elections held large-scale opening ceremonies and rallies on the 3rd, launching full-scale vote-gathering efforts.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개소식이 내일입니다.&lt;br/&gt;&lt;em&gt;The opening ceremony is tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개소식에 참석했어요.&lt;br/&gt;&lt;em&gt;I attended the opening ceremony.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560801122-f61c8e6e5ea1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVuaW5nJTIwY2VyZW1vbnl8ZW58MHx8fHwxNzc3ODQwMDA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개소식 (opening ceremony)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김경수 더불어민주당 경남지사 후보는 3일 경남 창원에서 선거사무소 개소식을 열고 “경남의 승리가 대한민국의 승리, 김경수의 승리가 이재명의 승리”라고 했다&lt;br/&gt;&lt;em&gt;"(Kim Kyung-soo, the Democratic Party candidate for governor of South Gyeongsang Province, held an election office opening ceremony in Changwon, South Gyeongsang on the 3rd and said, 'The victory of South Gyeongsang is the victory of the Republic of Korea, and the victory of Kim Kyung-soo is the victory of Lee Jae-myung.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이날 개소식에 방문한 정청래 민주당 대표는 “노무현 전 대통령이 뿌려놓은 씨앗이 전국 방방곡곡에서 성장해 대한민국 미래를 밝히고 있다”며 “(김 후보는) 노 전 대통령의 못다 이룬 꿈을 가장 노무현답게 실현할 적임자이자 적자”라고 했다&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae, a Democratic Party representative who visited the opening ceremony that day, said, 'The seeds sown by former President Roh Moo-hyun are growing in every corner of the country, brightening the future of the Republic of Korea,' adding, '(Candidate Kim) is the most suitable person and rightful heir to realize former President Roh's unfinished dreams in the most Roh Moo-hyun-like way.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(6·3 지방선거 주요 정당 대구시장 예비 후보들이 3일 대규모 개소식과 전진대회 등을 열고 본격적인 세몰이에 나섰다&lt;br/&gt;&lt;em&gt;(Major party preliminary candidates for mayor of Daegu in the June 3 local elections held large-scale opening ceremonies and rallies on the 3rd, launching full-scale vote-gathering efforts.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개소식이 내일입니다.&lt;br/&gt;&lt;em&gt;The opening ceremony is tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개소식에 참석했어요.&lt;br/&gt;&lt;em&gt;I attended the opening ceremony.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 04 May 2026 05:26:52 +0900</pubDate><guid isPermaLink="false">vocab-3c1bb497e922f3eecae5c208eff847f4e621e68b</guid><enclosure url="https://images.unsplash.com/photo-1560801122-f61c8e6e5ea1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVuaW5nJTIwY2VyZW1vbnl8ZW58MHx8fHwxNzc3ODQwMDA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="287629" /><ns2:content url="https://images.unsplash.com/photo-1560801122-f61c8e6e5ea1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVuaW5nJTIwY2VyZW1vbnl8ZW58MHx8fHwxNzc3ODQwMDA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1560801122-f61c8e6e5ea1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVuaW5nJTIwY2VyZW1vbnl8ZW58MHx8fHwxNzc3ODQwMDA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>개소식</category></item><item><title>잔인한 – cruel</title><link>urn:urn:vocab:잔인한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1653550148829-d99f843e2706?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcnVlbHxlbnwwfHx8fDE3Nzc4MzI1NTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="잔인한 (cruel)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이재명 대통령의 ‘정의롭지 않고, 잔인한 금융’이라는 지적에 공감하며 시스템을 바꿔야 한다는 취지다&lt;br/&gt;&lt;em&gt;The intent is to change the system, agreeing with President Lee Jae-myung's criticism of 'unjust and cruel finance.'&lt;/em&gt;&lt;/p&gt;
