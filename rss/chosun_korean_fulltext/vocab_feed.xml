@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 06:32:43 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:36:16 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>후보들이 – candidates</title><link>urn:urn:vocab:후보들이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>살다가 – while living</title><link>urn:urn:vocab:살다가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1764636098038-091b637738ee?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlsZSUyMGxpdmluZ3xlbnwwfHx8fDE3Nzc5Mzc3NzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="살다가 (while living)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어떤 사람은 30년(年) 혹(或)은 50년(年) 혹(或)은 80년간(年間)을 세상(世上)에 살다가 죽는다&lt;br/&gt;&lt;em&gt;Some people live in the world for 30 years, or 50 years, or 80 years and then die.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(B라고 하는 사람은 세상(世上)에 사는 동안에 자기자신(自己自身)이 10년(年) 혹(或)은 20년(年) 주장(主張)해오던 민주주의(民主主義)라고 하는 것이 이러한 것이다라고 말하던 것을 하로(*하루) 아침에 부정(否定)하고 살다가 죽어간 사람도 있다&lt;br/&gt;&lt;em&gt;There are also people who, during their time in the world, deny in a single morning what they had claimed for 10 or 20 years about democracy, and then live and die.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(후세(后世) 사람들은 비굴하게 더럽게 살다가 죽었다고 역사(歷史)는 기록될 것이다&lt;br/&gt;&lt;em&gt;History will record that later generations lived and died in a servile and filthy manner.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한국에서 살다가 미국에 갔어요.&lt;br/&gt;&lt;em&gt;I lived in Korea and then went to the United States.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시골에서 살다가 도시로 이사했어요.&lt;br/&gt;&lt;em&gt;I lived in the countryside and then moved to the city.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1764636098038-091b637738ee?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlsZSUyMGxpdmluZ3xlbnwwfHx8fDE3Nzc5Mzc3NzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="살다가 (while living)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어떤 사람은 30년(年) 혹(或)은 50년(年) 혹(或)은 80년간(年間)을 세상(世上)에 살다가 죽는다&lt;br/&gt;&lt;em&gt;Some people live in the world for 30 years, or 50 years, or 80 years and then die.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(B라고 하는 사람은 세상(世上)에 사는 동안에 자기자신(自己自身)이 10년(年) 혹(或)은 20년(年) 주장(主張)해오던 민주주의(民主主義)라고 하는 것이 이러한 것이다라고 말하던 것을 하로(*하루) 아침에 부정(否定)하고 살다가 죽어간 사람도 있다&lt;br/&gt;&lt;em&gt;There are also people who, during their time in the world, deny in a single morning what they had claimed for 10 or 20 years about democracy, and then live and die.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(후세(后世) 사람들은 비굴하게 더럽게 살다가 죽었다고 역사(歷史)는 기록될 것이다&lt;br/&gt;&lt;em&gt;History will record that later generations lived and died in a servile and filthy manner.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한국에서 살다가 미국에 갔어요.&lt;br/&gt;&lt;em&gt;I lived in Korea and then went to the United States.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시골에서 살다가 도시로 이사했어요.&lt;br/&gt;&lt;em&gt;I lived in the countryside and then moved to the city.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 05 May 2026 08:36:16 +0900</pubDate><guid isPermaLink="false">vocab-dd88c722fdfc9e04fd98bbe4fdb42dbd021023fa</guid><enclosure url="https://images.unsplash.com/photo-1764636098038-091b637738ee?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlsZSUyMGxpdmluZ3xlbnwwfHx8fDE3Nzc5Mzc3NzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="259043" /><ns2:content url="https://images.unsplash.com/photo-1764636098038-091b637738ee?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlsZSUyMGxpdmluZ3xlbnwwfHx8fDE3Nzc5Mzc3NzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1764636098038-091b637738ee?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlsZSUyMGxpdmluZ3xlbnwwfHx8fDE3Nzc5Mzc3NzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>살다가</category></item><item><title>후보들이 – candidates</title><link>urn:urn:vocab:후보들이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758520144437-f068ecaf0d83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGVzfGVufDB8fHx8MTc3Nzc0MjkxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="후보들이 (candidates)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;&lt;&lt;&lt;PARA&gt;&gt; (6·3지방선거 경남도지사 자리를 놓고 맞붙은 여야 후보들이 유권자 표심을 잡기 위해 지역과 세대를 겨냥한 맞춤형 공약을 내놨다&lt;br/&gt;&lt;em&gt;&lt;&lt;&lt;PARA&gt;&gt;&gt; (In the 6·3 local elections, the ruling and opposition candidates competing for the Gyeongsangnam-do governor position have unveiled customized pledges targeting regions and generations to win voters' support.&lt;/em&gt;&lt;/p&gt;
