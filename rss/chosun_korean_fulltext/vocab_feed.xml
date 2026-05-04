@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 04:25:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 06:32:43 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>후보 – candidate</title><link>urn:urn:vocab:후보</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>후보들이 – candidates</title><link>urn:urn:vocab:후보들이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758520144437-f068ecaf0d83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGVzfGVufDB8fHx8MTc3Nzc0MjkxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="후보들이 (candidates)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;&lt;&lt;PARA&gt;&gt; (6·3지방선거 경남도지사 자리를 놓고 맞붙은 여야 후보들이 유권자 표심을 잡기 위해 지역과 세대를 겨냥한 맞춤형 공약을 내놨다&lt;br/&gt;&lt;em&gt;&lt;&lt;&lt;PARA&gt;&gt;&gt; (In the 6·3 local elections, the ruling and opposition candidates competing for the Gyeongsangnam-do governor position have unveiled customized pledges targeting regions and generations to win voters' support.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (국민의힘과 개혁신당의 서울·경기·인천 등 수도권 광역단체장 후보들이 4일 이재명 대통령 사건을 공소 취소할 수 있도록 한 ‘조작 기소’ 특검법 처리 저지를 위해 모였다&lt;br/&gt;&lt;em&gt;" (Candidates for metropolitan mayors in the Seoul, Gyeonggi, and Incheon areas from the People Power Party and the Reform Party gathered on the 4th to block the handling of the 'fabricated indictment' special counsel bill, which would allow the dismissal of the indictment in President Lee Jae-myung's case.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (6·3 지방선거가 한 달 앞으로 다가온 가운데 영남권에서 여야 후보들이 오차 범위 내에서 접전을 벌이고 있다는 여론조사 결과가 4일 발표됐다&lt;br/&gt;&lt;em&gt;" (With the 6·3 local elections a month away, a poll released on the 4th shows that ruling and opposition candidates in the Yeongnam region are in a tight race within the margin of error.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;후보들이 연설을 합니다.&lt;br/&gt;&lt;em&gt;The candidates give speeches.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;후보들이 서로 인사해요.&lt;br/&gt;&lt;em&gt;The candidates greet each other.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758520144437-f068ecaf0d83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGVzfGVufDB8fHx8MTc3Nzc0MjkxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="후보들이 (candidates)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;&lt;&lt;PARA&gt;&gt; (6·3지방선거 경남도지사 자리를 놓고 맞붙은 여야 후보들이 유권자 표심을 잡기 위해 지역과 세대를 겨냥한 맞춤형 공약을 내놨다&lt;br/&gt;&lt;em&gt;&lt;&lt;&lt;PARA&gt;&gt;&gt; (In the 6·3 local elections, the ruling and opposition candidates competing for the Gyeongsangnam-do governor position have unveiled customized pledges targeting regions and generations to win voters' support.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (국민의힘과 개혁신당의 서울·경기·인천 등 수도권 광역단체장 후보들이 4일 이재명 대통령 사건을 공소 취소할 수 있도록 한 ‘조작 기소’ 특검법 처리 저지를 위해 모였다&lt;br/&gt;&lt;em&gt;" (Candidates for metropolitan mayors in the Seoul, Gyeonggi, and Incheon areas from the People Power Party and the Reform Party gathered on the 4th to block the handling of the 'fabricated indictment' special counsel bill, which would allow the dismissal of the indictment in President Lee Jae-myung's case.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (6·3 지방선거가 한 달 앞으로 다가온 가운데 영남권에서 여야 후보들이 오차 범위 내에서 접전을 벌이고 있다는 여론조사 결과가 4일 발표됐다&lt;br/&gt;&lt;em&gt;" (With the 6·3 local elections a month away, a poll released on the 4th shows that ruling and opposition candidates in the Yeongnam region are in a tight race within the margin of error.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;후보들이 연설을 합니다.&lt;br/&gt;&lt;em&gt;The candidates give speeches.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;후보들이 서로 인사해요.&lt;br/&gt;&lt;em&gt;The candidates greet each other.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 05 May 2026 06:32:43 +0900</pubDate><guid isPermaLink="false">vocab-f30fc0c43f09e09957de2ea0c44493f8c1414046</guid><enclosure url="https://images.unsplash.com/photo-1758520144437-f068ecaf0d83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGVzfGVufDB8fHx8MTc3Nzc0MjkxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="60984" /><ns2:content url="https://images.unsplash.com/photo-1758520144437-f068ecaf0d83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGVzfGVufDB8fHx8MTc3Nzc0MjkxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1758520144437-f068ecaf0d83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGVzfGVufDB8fHx8MTc3Nzc0MjkxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>후보들이</category></item><item><title>후보 – candidate</title><link>urn:urn:vocab:후보</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1698047681452-08eba22d0c64?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGV8ZW58MHx8fHwxNzc3OTIyNzA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="후보 (candidate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Choo Kyung-ho and Lee Cheol-woo Preliminary Candidates Visit Former President Park Geun-hye (추경호·이철우 예비후보, 박근혜 전 대통령 예방) &lt;&lt;br/&gt;&lt;em&gt;Choo Kyung-ho and Lee Cheol-woo Preliminary Candidates Visit Former President Park Geun-hye&lt;/em&gt;&lt;/p&gt;
