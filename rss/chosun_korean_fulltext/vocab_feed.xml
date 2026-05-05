@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 10:39:51 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 16:56:48 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>싸우다 – to fight</title><link>urn:urn:vocab:싸우다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>원인은 – cause</title><link>urn:urn:vocab:원인은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1669232696081-6f186ac7d4e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXVzZXxlbnwwfHx8fDE3Nzc5Njc4MDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="원인은 (cause)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;외교부는 5일 오전 “선박의 정상 운항 가능 여부는 불확실해 인근 항구로 예인한 뒤 피해 상태 등을 확인하고 수리 예정”이라며 “정확한 사고 원인은 선박 예인 후 피해 상태를 확인하는 과정에서 파악 가능할 것으로 보인다”고 했다&lt;br/&gt;&lt;em&gt;The Ministry of Foreign Affairs said on the morning of the 5th, 'It is uncertain whether the ship can operate normally, so we plan to tow it to a nearby port, check the damage, and repair it,' adding, 'The exact cause of the accident is expected to be determined during the process of inspecting the damage after towing the ship.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이번 폭발 사고가 외부 피격으로 인한 것인지, 내부 원인으로 인한 것인지 등 사고 원인은 아직 구체적으로 파악되지 않은 상태다&lt;br/&gt;&lt;em&gt;"The cause of the accident, such as whether this explosion was due to an external attack or an internal cause, has not yet been specifically identified.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;외교부는 “정확한 사고 원인은 선박 예인 후 피해 상태를 확인하는 과정에서 파악 가능할 것으로 보인다”고 했다&lt;br/&gt;&lt;em&gt;The Ministry of Foreign Affairs said, 'The exact cause of the accident is expected to be determined during the process of inspecting the damage after towing the ship.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사고의 원인은 무엇입니까?&lt;br/&gt;&lt;em&gt;What is the cause of the accident?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 문제의 원인은 복잡합니다.&lt;br/&gt;&lt;em&gt;The cause of this problem is complex.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1669232696081-6f186ac7d4e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXVzZXxlbnwwfHx8fDE3Nzc5Njc4MDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="원인은 (cause)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;외교부는 5일 오전 “선박의 정상 운항 가능 여부는 불확실해 인근 항구로 예인한 뒤 피해 상태 등을 확인하고 수리 예정”이라며 “정확한 사고 원인은 선박 예인 후 피해 상태를 확인하는 과정에서 파악 가능할 것으로 보인다”고 했다&lt;br/&gt;&lt;em&gt;The Ministry of Foreign Affairs said on the morning of the 5th, 'It is uncertain whether the ship can operate normally, so we plan to tow it to a nearby port, check the damage, and repair it,' adding, 'The exact cause of the accident is expected to be determined during the process of inspecting the damage after towing the ship.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이번 폭발 사고가 외부 피격으로 인한 것인지, 내부 원인으로 인한 것인지 등 사고 원인은 아직 구체적으로 파악되지 않은 상태다&lt;br/&gt;&lt;em&gt;"The cause of the accident, such as whether this explosion was due to an external attack or an internal cause, has not yet been specifically identified.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;외교부는 “정확한 사고 원인은 선박 예인 후 피해 상태를 확인하는 과정에서 파악 가능할 것으로 보인다”고 했다&lt;br/&gt;&lt;em&gt;The Ministry of Foreign Affairs said, 'The exact cause of the accident is expected to be determined during the process of inspecting the damage after towing the ship.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사고의 원인은 무엇입니까?&lt;br/&gt;&lt;em&gt;What is the cause of the accident?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 문제의 원인은 복잡합니다.&lt;br/&gt;&lt;em&gt;The cause of this problem is complex.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 05 May 2026 16:56:48 +0900</pubDate><guid isPermaLink="false">vocab-4ea24a52f6ddd1edb42a14dc42f6ec6d2197d562</guid><enclosure url="https://images.unsplash.com/photo-1669232696081-6f186ac7d4e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXVzZXxlbnwwfHx8fDE3Nzc5Njc4MDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="140764" /><ns2:content url="https://images.unsplash.com/photo-1669232696081-6f186ac7d4e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXVzZXxlbnwwfHx8fDE3Nzc5Njc4MDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1669232696081-6f186ac7d4e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXVzZXxlbnwwfHx8fDE3Nzc5Njc4MDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>원인은</category></item><item><title>어린이는 – children</title><link>urn:urn:vocab:어린이는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540479859555-17af45c78602?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbnxlbnwwfHx8fDE3Nzc5NjAyMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어린이는 (children)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee: “Children are whole individuals… We will become ‘dignified adults’ that uphold their dignity” (李 대통령 “어린이는 온전한 한 사람… 품위 지켜주는 ‘품위 있는 어른’ 될 것”) &lt;&lt;br/&gt;&lt;em&gt;President Lee: "Children are whole individuals… We will become 'dignified adults' that uphold their dignity"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령은 5일 어린이날을 맞아 “어린이는 어른에 비해 조금 더 시간이 필요할 뿐 결코 부족하거나 미숙한 존재가 아니다”라며 어린이의 인격과 존엄을 최우선으로 하는 사회를 만들겠다고 했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung, on the occasion of Children's Day on the 5th, said, "Children just need a little more time compared to adults; they are never lacking or immature beings," and vowed to create a society that prioritizes children's personality and dignity.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (이 대통령은 이날 자신의 페이스북을 통해 “지금은 각자의 자리에서 어엿한 어른의 모습으로 살아가고 있지만, 한때 우리는 모두 누군가의 보살핌 속에 세상을 배워가던 어린이였다”며 “어린이는 저마다의 속도로 배우고 성장하며, 자신만의 방식으로 세상을 이해해 나가는 온전한 한 사람이다&lt;br/&gt;&lt;em&gt;President Lee said on his Facebook page that day, "Although we now live as respectable adults in our respective positions, we were all once children learning about the world under someone's care. Children are whole individuals who learn and grow at their own pace and understand the world in their own way."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어린이는 공원에서 놀아요.&lt;br/&gt;&lt;em&gt;The child plays in the park.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;어린이는 책을 읽어요.&lt;br/&gt;&lt;em&gt;The child reads a book.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540479859555-17af45c78602?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbnxlbnwwfHx8fDE3Nzc5NjAyMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어린이는 (children)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee: “Children are whole individuals… We will become ‘dignified adults’ that uphold their dignity” (李 대통령 “어린이는 온전한 한 사람… 품위 지켜주는 ‘품위 있는 어른’ 될 것”) &lt;&lt;br/&gt;&lt;em&gt;President Lee: "Children are whole individuals… We will become 'dignified adults' that uphold their dignity"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령은 5일 어린이날을 맞아 “어린이는 어른에 비해 조금 더 시간이 필요할 뿐 결코 부족하거나 미숙한 존재가 아니다”라며 어린이의 인격과 존엄을 최우선으로 하는 사회를 만들겠다고 했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung, on the occasion of Children's Day on the 5th, said, "Children just need a little more time compared to adults; they are never lacking or immature beings," and vowed to create a society that prioritizes children's personality and dignity.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (이 대통령은 이날 자신의 페이스북을 통해 “지금은 각자의 자리에서 어엿한 어른의 모습으로 살아가고 있지만, 한때 우리는 모두 누군가의 보살핌 속에 세상을 배워가던 어린이였다”며 “어린이는 저마다의 속도로 배우고 성장하며, 자신만의 방식으로 세상을 이해해 나가는 온전한 한 사람이다&lt;br/&gt;&lt;em&gt;President Lee said on his Facebook page that day, "Although we now live as respectable adults in our respective positions, we were all once children learning about the world under someone's care. Children are whole individuals who learn and grow at their own pace and understand the world in their own way."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어린이는 공원에서 놀아요.&lt;br/&gt;&lt;em&gt;The child plays in the park.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;어린이는 책을 읽어요.&lt;br/&gt;&lt;em&gt;The child reads a book.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 05 May 2026 14:50:27 +0900</pubDate><guid isPermaLink="false">vocab-48a47c30ffe0cbd69431ae3f24e91b53fc0215ad</guid><enclosure url="https://images.unsplash.com/photo-1540479859555-17af45c78602?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbnxlbnwwfHx8fDE3Nzc5NjAyMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="157409" /><ns2:content url="https://images.unsplash.com/photo-1540479859555-17af45c78602?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbnxlbnwwfHx8fDE3Nzc5NjAyMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540479859555-17af45c78602?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbnxlbnwwfHx8fDE3Nzc5NjAyMjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>어린이는</category></item><item><title>싸우다 – to fight</title><link>urn:urn:vocab:싸우다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1678542230173-8e2c3eb87c85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGZpZ2h0fGVufDB8fHx8MTc3Nzk0NTE4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="싸우다 (to fight)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;I Will Become a Righteous One Who Died Fighting for the Homeland (조국을 위해 싸우다 죽은 의인이 되겠다) &lt;&lt;br/&gt;&lt;em&gt;I Will Become a Righteous One Who Died Fighting for the Homeland&lt;/em&gt;&lt;/p&gt;
