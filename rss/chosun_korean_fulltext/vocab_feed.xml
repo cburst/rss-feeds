@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 16:56:48 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 21:07:59 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>원인은 – cause</title><link>urn:urn:vocab:원인은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>선원 – crew member</title><link>urn:urn:vocab:선원</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1696553609300-0bb0dc657785?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcmV3JTIwbWVtYmVyfGVufDB8fHx8MTc3Nzk4Mjg3NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선원 (crew member)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Ruling Party: Crew Safety Top Priority After Explosion on Korean-Operated Ship in Hormuz (與, 호르무즈 韓선사 운용 선박내 폭발에 “선원 안전 최우선”) &lt;&lt;br/&gt;&lt;em&gt;Ruling Party: Crew Safety Top Priority After Explosion on Korean-Operated Ship in Hormuz&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Ruling Party: Crew Safety Top Priority After Explosion on Korean-Operated Ship in Hormuz (與, 호르무즈 韓선사 운용 선박내 폭발에 “선원 안전 최우선”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;![CDATA[&lt;h1&gt;Ruling Party: Crew Safety Top Priority After Explosion on Korean-Operated Ship in Hormuz&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (더불어민주당은 4일 호르무즈 해협 내 한국 선사 운용 선박에서 폭발 사고가 발생한 것과 관련해 “선원의 안전과 무사 귀환을 위해 상황을 주시하며 취할 수 있는 모든 조치를 다하겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (The Democratic Party of Korea stated on the 4th regarding the explosion on a ship operated by a Korean shipping company in the Strait of Hormuz, "We will monitor the situation and take all possible measures for the safety and safe return of the crew."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선원이 배에서 일합니다.&lt;br/&gt;&lt;em&gt;The sailor works on a ship.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 선원은 친절합니다.&lt;br/&gt;&lt;em&gt;That sailor is kind.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1696553609300-0bb0dc657785?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcmV3JTIwbWVtYmVyfGVufDB8fHx8MTc3Nzk4Mjg3NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선원 (crew member)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Ruling Party: Crew Safety Top Priority After Explosion on Korean-Operated Ship in Hormuz (與, 호르무즈 韓선사 운용 선박내 폭발에 “선원 안전 최우선”) &lt;&lt;br/&gt;&lt;em&gt;Ruling Party: Crew Safety Top Priority After Explosion on Korean-Operated Ship in Hormuz&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Ruling Party: Crew Safety Top Priority After Explosion on Korean-Operated Ship in Hormuz (與, 호르무즈 韓선사 운용 선박내 폭발에 “선원 안전 최우선”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;![CDATA[&lt;h1&gt;Ruling Party: Crew Safety Top Priority After Explosion on Korean-Operated Ship in Hormuz&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (더불어민주당은 4일 호르무즈 해협 내 한국 선사 운용 선박에서 폭발 사고가 발생한 것과 관련해 “선원의 안전과 무사 귀환을 위해 상황을 주시하며 취할 수 있는 모든 조치를 다하겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (The Democratic Party of Korea stated on the 4th regarding the explosion on a ship operated by a Korean shipping company in the Strait of Hormuz, "We will monitor the situation and take all possible measures for the safety and safe return of the crew."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선원이 배에서 일합니다.&lt;br/&gt;&lt;em&gt;The sailor works on a ship.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 선원은 친절합니다.&lt;br/&gt;&lt;em&gt;That sailor is kind.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 05 May 2026 21:07:59 +0900</pubDate><guid isPermaLink="false">vocab-139e088d2e7183deba0a96f237a3525c9c142fba</guid><enclosure url="https://images.unsplash.com/photo-1696553609300-0bb0dc657785?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcmV3JTIwbWVtYmVyfGVufDB8fHx8MTc3Nzk4Mjg3NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="236309" /><ns2:content url="https://images.unsplash.com/photo-1696553609300-0bb0dc657785?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcmV3JTIwbWVtYmVyfGVufDB8fHx8MTc3Nzk4Mjg3NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1696553609300-0bb0dc657785?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcmV3JTIwbWVtYmVyfGVufDB8fHx8MTc3Nzk4Mjg3NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>선원</category></item><item><title>원인은 – cause</title><link>urn:urn:vocab:원인은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1669232696081-6f186ac7d4e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXVzZXxlbnwwfHx8fDE3Nzc5Njc4MDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="원인은 (cause)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;외교부는 5일 오전 “선박의 정상 운항 가능 여부는 불확실해 인근 항구로 예인한 뒤 피해 상태 등을 확인하고 수리 예정”이라며 “정확한 사고 원인은 선박 예인 후 피해 상태를 확인하는 과정에서 파악 가능할 것으로 보인다”고 했다&lt;br/&gt;&lt;em&gt;The Ministry of Foreign Affairs said on the morning of the 5th, 'It is uncertain whether the ship can operate normally, so we plan to tow it to a nearby port, check the damage, and repair it,' adding, 'The exact cause of the accident is expected to be determined during the process of inspecting the damage after towing the ship.'&lt;/em&gt;&lt;/p&gt;

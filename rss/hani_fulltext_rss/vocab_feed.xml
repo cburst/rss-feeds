@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 19:02:58 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 23:12:37 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>호르무즈해협 – Strait of Hormuz</title><link>urn:urn:vocab:호르무즈해협</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>보궐선거 – by-election</title><link>urn:urn:vocab:보궐선거</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604715822200-1816b966dbd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieS1lbGVjdGlvbnxlbnwwfHx8fDE3Nzc5OTAzNTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="보궐선거 (by-election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(6·3 지방선거와 함께 치러지는 부산 북갑 국회의원 보궐선거 국민의힘 후보에 박민식 전 국가보훈부 장관이 5일 선출됐다&lt;br/&gt;&lt;em&gt;Former Minister of Patriots and Veterans Affairs Park Min-sik was elected on the 5th as the People Power Party candidate for the by-election for the National Assembly member in Buk-gu, Busan, which will be held alongside the June 3 local elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;6·3 국회의원 보궐선거 부산 북갑 하정우 더불어민주당 후보가  4월29일 오후 부산 북구 구포시장을 찾아 상인들과 인사하고 있다&lt;br/&gt;&lt;em&gt;Ha Jung-woo, the Democratic Party candidate for the June 3 National Assembly by-election in Buk-gu, Busan, visited Gupo Market in Buk-gu, Busan on the afternoon of April 29 and greeted merchants.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (최근 ‘악수 뒤 손 털기’ 논란이 일었던 6·3 국회의원 보궐선거 부산 북갑 하정우 더불어민주당 후보가 “당사자분을 직접 찾아가 인사드렸고 ‘괜찮다, 열심히 해라’라는 격려까지 받았다”고 밝혔다&lt;br/&gt;&lt;em&gt;Ha Jung-woo, the Democratic Party candidate for the June 3 National Assembly by-election in Buk-gu, Busan, who recently sparked controversy over 'shaking hands and then wiping his hand,' said, 'I visited the person directly and greeted them, and even received encouragement saying, 'It's okay, do your best.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;보궐선거가 내일 있습니다.&lt;br/&gt;&lt;em&gt;There is a by-election tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 보궐선거에 출마합니다.&lt;br/&gt;&lt;em&gt;He is running in the by-election.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604715822200-1816b966dbd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieS1lbGVjdGlvbnxlbnwwfHx8fDE3Nzc5OTAzNTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="보궐선거 (by-election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(6·3 지방선거와 함께 치러지는 부산 북갑 국회의원 보궐선거 국민의힘 후보에 박민식 전 국가보훈부 장관이 5일 선출됐다&lt;br/&gt;&lt;em&gt;Former Minister of Patriots and Veterans Affairs Park Min-sik was elected on the 5th as the People Power Party candidate for the by-election for the National Assembly member in Buk-gu, Busan, which will be held alongside the June 3 local elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;6·3 국회의원 보궐선거 부산 북갑 하정우 더불어민주당 후보가  4월29일 오후 부산 북구 구포시장을 찾아 상인들과 인사하고 있다&lt;br/&gt;&lt;em&gt;Ha Jung-woo, the Democratic Party candidate for the June 3 National Assembly by-election in Buk-gu, Busan, visited Gupo Market in Buk-gu, Busan on the afternoon of April 29 and greeted merchants.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (최근 ‘악수 뒤 손 털기’ 논란이 일었던 6·3 국회의원 보궐선거 부산 북갑 하정우 더불어민주당 후보가 “당사자분을 직접 찾아가 인사드렸고 ‘괜찮다, 열심히 해라’라는 격려까지 받았다”고 밝혔다&lt;br/&gt;&lt;em&gt;Ha Jung-woo, the Democratic Party candidate for the June 3 National Assembly by-election in Buk-gu, Busan, who recently sparked controversy over 'shaking hands and then wiping his hand,' said, 'I visited the person directly and greeted them, and even received encouragement saying, 'It's okay, do your best.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;보궐선거가 내일 있습니다.&lt;br/&gt;&lt;em&gt;There is a by-election tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 보궐선거에 출마합니다.&lt;br/&gt;&lt;em&gt;He is running in the by-election.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 05 May 2026 23:12:37 +0900</pubDate><guid isPermaLink="false">vocab-6f262f610796d8330594f7340f0860366172043b</guid><enclosure url="https://images.unsplash.com/photo-1604715822200-1816b966dbd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieS1lbGVjdGlvbnxlbnwwfHx8fDE3Nzc5OTAzNTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="170053" /><ns2:content url="https://images.unsplash.com/photo-1604715822200-1816b966dbd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieS1lbGVjdGlvbnxlbnwwfHx8fDE3Nzc5OTAzNTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1604715822200-1816b966dbd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieS1lbGVjdGlvbnxlbnwwfHx8fDE3Nzc5OTAzNTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>보궐선거</category></item><item><title>년에는 – in the year</title><link>urn:urn:vocab:년에는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1760411537704-943aab93a9bf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMHllYXJ8ZW58MHx8fHwxNzc3OTUyNjAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="년에는 (in the year)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;2024년 SK하이닉스는 매출 66조원에 영업이익 23조원을 올렸고, 1년 뒤 2025년에는 매출 97조원·영업이익 47조원으로 영업이익률 49%라는, 제조업에서는 보기 힘든 수익성을 기록했다&lt;br/&gt;&lt;em&gt;In 2024, SK Hynix recorded sales of 66 trillion won and operating profit of 23 trillion won, and a year later in 2025, it achieved sales of 97 trillion won and operating profit of 47 trillion won, with an operating profit margin of 49%, a profitability rarely seen in the manufacturing industry.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부가가치비율을 두 해 모두 매출의 40%로 잡으면, 2023년에는 부가가치 13조원 가운데 인건비 8&lt;br/&gt;&lt;em&gt;If the value-added ratio is set at 40% of sales for both years, in 2023, out of 13 trillion won in value-added, labor costs were 8&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2024년에는 부가가치가 26조원대로 두 배 이상 불어나는 사이 인건비는 12&lt;br/&gt;&lt;em&gt;In 2024, while value-added more than doubled to 26 trillion won, labor costs were 12&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 2023년에는 학교에 다녔어요.&lt;br/&gt;&lt;em&gt;I attended school in 2023.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내년에는 한국에 갈 거예요.&lt;br/&gt;&lt;em&gt;I will go to Korea next year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1760411537704-943aab93a9bf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMHllYXJ8ZW58MHx8fHwxNzc3OTUyNjAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="년에는 (in the year)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;2024년 SK하이닉스는 매출 66조원에 영업이익 23조원을 올렸고, 1년 뒤 2025년에는 매출 97조원·영업이익 47조원으로 영업이익률 49%라는, 제조업에서는 보기 힘든 수익성을 기록했다&lt;br/&gt;&lt;em&gt;In 2024, SK Hynix recorded sales of 66 trillion won and operating profit of 23 trillion won, and a year later in 2025, it achieved sales of 97 trillion won and operating profit of 47 trillion won, with an operating profit margin of 49%, a profitability rarely seen in the manufacturing industry.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부가가치비율을 두 해 모두 매출의 40%로 잡으면, 2023년에는 부가가치 13조원 가운데 인건비 8&lt;br/&gt;&lt;em&gt;If the value-added ratio is set at 40% of sales for both years, in 2023, out of 13 trillion won in value-added, labor costs were 8&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2024년에는 부가가치가 26조원대로 두 배 이상 불어나는 사이 인건비는 12&lt;br/&gt;&lt;em&gt;In 2024, while value-added more than doubled to 26 trillion won, labor costs were 12&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 2023년에는 학교에 다녔어요.&lt;br/&gt;&lt;em&gt;I attended school in 2023.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내년에는 한국에 갈 거예요.&lt;br/&gt;&lt;em&gt;I will go to Korea next year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 05 May 2026 21:07:53 +0900</pubDate><guid isPermaLink="false">vocab-545deb7b05121b33810011bb67b320cf7ff72632</guid><enclosure url="https://images.unsplash.com/photo-1760411537704-943aab93a9bf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMHllYXJ8ZW58MHx8fHwxNzc3OTUyNjAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="37065" /><ns2:content url="https://images.unsplash.com/photo-1760411537704-943aab93a9bf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMHllYXJ8ZW58MHx8fHwxNzc3OTUyNjAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1760411537704-943aab93a9bf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMHllYXJ8ZW58MHx8fHwxNzc3OTUyNjAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>년에는</category></item><item><title>호르무즈해협 – Strait of Hormuz</title><link>urn:urn:vocab:호르무즈해협</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1636885344961-b31b0c615e13?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdHJhaXQlMjBvZiUyMEhvcm11enxlbnwwfHx8fDE3Nzc5NzUzNzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="호르무즈해협 (Strait of Hormuz)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;호르무즈해협 인근에 있는 컨테이너선&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Container ship near the Strait of Hormuz&lt;/em&gt;&lt;/p&gt;
