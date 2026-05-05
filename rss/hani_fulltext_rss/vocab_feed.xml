@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 10:39:46 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 12:43:26 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>프리덤 – freedom</title><link>urn:urn:vocab:프리덤</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>년에는 – in the year</title><link>urn:urn:vocab:년에는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1760411537704-943aab93a9bf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMHllYXJ8ZW58MHx8fHwxNzc3OTUyNjAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="년에는 (in the year)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;2024년 SK하이닉스는 매출 66조원에 영업이익 23조원을 올렸고, 1년 뒤 2025년에는 매출 97조원·영업이익 47조원으로 영업이익률 49%라는, 제조업에서는 보기 힘든 수익성을 기록했다&lt;br/&gt;&lt;em&gt;In 2024, SK Hynix recorded sales of 66 trillion won and operating profit of 23 trillion won, and a year later in 2025, it achieved sales of 97 trillion won and operating profit of 47 trillion won, with an operating profit margin of 49%, a profitability rarely seen in the manufacturing industry.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부가가치비율을 두 해 모두 매출의 40%로 잡으면, 2023년에는 부가가치 13조원 가운데 인건비 8&lt;br/&gt;&lt;em&gt;If the value-added ratio is set at 40% of sales for both years, in 2023, out of 13 trillion won in value-added, labor costs were 8&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2024년에는 부가가치가 26조원대로 두 배 이상 불어나는 사이 인건비는 12&lt;br/&gt;&lt;em&gt;In 2024, while value-added more than doubled to 26 trillion won, labor costs were 12&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 2023년에는 학교에 다녔어요.&lt;br/&gt;&lt;em&gt;I attended school in 2023.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내년에는 한국에 갈 거예요.&lt;br/&gt;&lt;em&gt;I will go to Korea next year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1760411537704-943aab93a9bf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMHllYXJ8ZW58MHx8fHwxNzc3OTUyNjAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="년에는 (in the year)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;2024년 SK하이닉스는 매출 66조원에 영업이익 23조원을 올렸고, 1년 뒤 2025년에는 매출 97조원·영업이익 47조원으로 영업이익률 49%라는, 제조업에서는 보기 힘든 수익성을 기록했다&lt;br/&gt;&lt;em&gt;In 2024, SK Hynix recorded sales of 66 trillion won and operating profit of 23 trillion won, and a year later in 2025, it achieved sales of 97 trillion won and operating profit of 47 trillion won, with an operating profit margin of 49%, a profitability rarely seen in the manufacturing industry.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부가가치비율을 두 해 모두 매출의 40%로 잡으면, 2023년에는 부가가치 13조원 가운데 인건비 8&lt;br/&gt;&lt;em&gt;If the value-added ratio is set at 40% of sales for both years, in 2023, out of 13 trillion won in value-added, labor costs were 8&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2024년에는 부가가치가 26조원대로 두 배 이상 불어나는 사이 인건비는 12&lt;br/&gt;&lt;em&gt;In 2024, while value-added more than doubled to 26 trillion won, labor costs were 12&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 2023년에는 학교에 다녔어요.&lt;br/&gt;&lt;em&gt;I attended school in 2023.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내년에는 한국에 갈 거예요.&lt;br/&gt;&lt;em&gt;I will go to Korea next year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 05 May 2026 12:43:26 +0900</pubDate><guid isPermaLink="false">vocab-6560b252cc42820be528d9e3420f4c1b7828d028</guid><enclosure url="https://images.unsplash.com/photo-1760411537704-943aab93a9bf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMHllYXJ8ZW58MHx8fHwxNzc3OTUyNjAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="37065" /><ns2:content url="https://images.unsplash.com/photo-1760411537704-943aab93a9bf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMHllYXJ8ZW58MHx8fHwxNzc3OTUyNjAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1760411537704-943aab93a9bf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMHllYXJ8ZW58MHx8fHwxNzc3OTUyNjAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>년에는</category></item><item><title>프리덤 – freedom</title><link>urn:urn:vocab:프리덤</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1492681290082-e932832941e6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlZG9tfGVufDB8fHx8MTc3Nzk0NTE4M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="프리덤 (freedom)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;같은 날 미국은 호르무즈해협에 발이 묶인 선박들을 이동시키기 위해 ‘프로젝트 프리덤’(해방 계획) 작전에 착수했다&lt;br/&gt;&lt;em&gt;On the same day, the United States launched 'Project Freedom' (Operation Liberation) to move ships stranded in the Strait of Hormuz.&lt;/em&gt;&lt;/p&gt;
