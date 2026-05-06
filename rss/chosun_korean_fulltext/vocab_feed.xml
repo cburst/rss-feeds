@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 04:50:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 06:58:33 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>없어야 – should not exist</title><link>urn:urn:vocab:없어야</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>나무호가 – Namoo-ho (a ship name)</title><link>urn:urn:vocab:나무호가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1757837313378-955d580f4119?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYW1vby1obyUyMCUyOGElMjBzaGlwJTIwbmFtZSUyOXxlbnwwfHx8fDE3NzgxMDQ3MDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="나무호가 (Namoo-ho (a ship name))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (위성락 청와대 국가안보실장은 이날 브리핑에서 나무호가 7일 새벽쯤 두바이에 입항할 것이라며 “그러면 조사팀이 가서 (폭발 원인을) 파악할 예정”이라고 했다&lt;br/&gt;&lt;em&gt;" (National Security Office Director Wi Sung-lac said at a briefing that day that the MV Hojun will arrive in Dubai around dawn on the 7th, and said, 'Then the investigation team will go and determine the cause of the explosion.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나무호가 이 공격에 휩쓸렸을 가능성이 우선 거론되고 있다&lt;br/&gt;&lt;em&gt;The possibility that the MV Hojun was caught up in this attack is being raised first.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (해외에서 활동하는 군사 정보 업체 관계자는 6일 “현지 정보 소식통들은 나무호가 이란의 샤헤드-136 드론에 피격된 것으로 추정하고 있다”며 “당시 아랍에미리트(UAE) 방공망 가동 등을 보면 공중을 통한 이란의 드론 공격 등이 이뤄졌을 가능성이 높다”고 했다&lt;br/&gt;&lt;em&gt;" (A military intelligence company official operating overseas said on the 6th, 'Local intelligence sources presume that the MV Hojun was hit by Iran's Shahed-136 drone,' and added, 'Given the operation of the UAE air defense system at the time, it is highly likely that an Iranian drone attack occurred through the air.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나무호가 항구에 있어요.&lt;br/&gt;&lt;em&gt;The Namu is at the port.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나무호가 배가 커요.&lt;br/&gt;&lt;em&gt;The Namu's ship is big.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1757837313378-955d580f4119?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYW1vby1obyUyMCUyOGElMjBzaGlwJTIwbmFtZSUyOXxlbnwwfHx8fDE3NzgxMDQ3MDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="나무호가 (Namoo-ho (a ship name))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (위성락 청와대 국가안보실장은 이날 브리핑에서 나무호가 7일 새벽쯤 두바이에 입항할 것이라며 “그러면 조사팀이 가서 (폭발 원인을) 파악할 예정”이라고 했다&lt;br/&gt;&lt;em&gt;" (National Security Office Director Wi Sung-lac said at a briefing that day that the MV Hojun will arrive in Dubai around dawn on the 7th, and said, 'Then the investigation team will go and determine the cause of the explosion.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나무호가 이 공격에 휩쓸렸을 가능성이 우선 거론되고 있다&lt;br/&gt;&lt;em&gt;The possibility that the MV Hojun was caught up in this attack is being raised first.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (해외에서 활동하는 군사 정보 업체 관계자는 6일 “현지 정보 소식통들은 나무호가 이란의 샤헤드-136 드론에 피격된 것으로 추정하고 있다”며 “당시 아랍에미리트(UAE) 방공망 가동 등을 보면 공중을 통한 이란의 드론 공격 등이 이뤄졌을 가능성이 높다”고 했다&lt;br/&gt;&lt;em&gt;" (A military intelligence company official operating overseas said on the 6th, 'Local intelligence sources presume that the MV Hojun was hit by Iran's Shahed-136 drone,' and added, 'Given the operation of the UAE air defense system at the time, it is highly likely that an Iranian drone attack occurred through the air.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나무호가 항구에 있어요.&lt;br/&gt;&lt;em&gt;The Namu is at the port.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나무호가 배가 커요.&lt;br/&gt;&lt;em&gt;The Namu's ship is big.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 07 May 2026 06:58:33 +0900</pubDate><guid isPermaLink="false">vocab-317c6885571aab107aa8c875c2b73e11847283e7</guid><enclosure url="https://images.unsplash.com/photo-1757837313378-955d580f4119?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYW1vby1obyUyMCUyOGElMjBzaGlwJTIwbmFtZSUyOXxlbnwwfHx8fDE3NzgxMDQ3MDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="161128" /><ns2:content url="https://images.unsplash.com/photo-1757837313378-955d580f4119?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYW1vby1obyUyMCUyOGElMjBzaGlwJTIwbmFtZSUyOXxlbnwwfHx8fDE3NzgxMDQ3MDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1757837313378-955d580f4119?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxOYW1vby1obyUyMCUyOGElMjBzaGlwJTIwbmFtZSUyOXxlbnwwfHx8fDE3NzgxMDQ3MDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>나무호가</category></item><item><title>없어야 – should not exist</title><link>urn:urn:vocab:없어야</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1558795353-c39bb028827c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaG91bGQlMjBub3QlMjBleGlzdHxlbnwwfHx8fDE3NzgwOTY5OTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="없어야 (should not exist)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Cho Kuk: "Prosecution withdrawal is necessary, but must avoid constitutional violations" (조국 “공소 취소 필요하지만, 위헌 소지 없어야”) &lt;&lt;br/&gt;&lt;em&gt;Cho Kuk: "Prosecution withdrawal is necessary, but must avoid constitutional violations"&lt;/em&gt;&lt;/p&gt;
