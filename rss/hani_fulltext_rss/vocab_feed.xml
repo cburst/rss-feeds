@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 20:23:52 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 22:28:34 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>넘어선 – exceeded</title><link>urn:urn:vocab:넘어선</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>표현은 – expression</title><link>urn:urn:vocab:표현은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619431843665-54babc76ac8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHByZXNzaW9ufGVufDB8fHx8MTc3ODA3NDEwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="표현은 (expression)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;혐오 표현은 놀이처럼 번지고, 성평등을 향한 목소리는 오히려 거센 반격에 부딪힌다&lt;br/&gt;&lt;em&gt;Hate speech spreads like a game, and voices for gender equality face fierce backlash instead.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김정은 북한 국무위원장이 주장해 온 ‘적대적 두 국가’ 관련 표현은 헌법에 담지 않은 것으로 나타났다&lt;br/&gt;&lt;em&gt;It has been revealed that expressions related to 'hostile two states' advocated by North Korean State Affairs Commission Chairman Kim Jong-un were not included in the constitution.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;' (이정철 교수는 북한이 언급해 온 적대적 두 국가론과 관련 “이번 헌법에선 ‘적대적’이란 형용사 표현은 찾아볼 수 없었다”며 “영토 조항을 신설해 국가성을 강조했지만 적대적 관계, 교전국 관계 등의 표현은 등장하지 않는다”고 말했다&lt;br/&gt;&lt;em&gt;Professor Lee Jeong-cheol said regarding the hostile two-state theory that North Korea has mentioned, 'In this constitution, the adjective expression 'hostile' could not be found. Although a territorial clause was newly established to emphasize statehood, expressions such as hostile relations or belligerent relations do not appear.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 표현은 재미있어요.&lt;br/&gt;&lt;em&gt;His expression is funny.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 표현은 어렵습니다.&lt;br/&gt;&lt;em&gt;This expression is difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619431843665-54babc76ac8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHByZXNzaW9ufGVufDB8fHx8MTc3ODA3NDEwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="표현은 (expression)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;혐오 표현은 놀이처럼 번지고, 성평등을 향한 목소리는 오히려 거센 반격에 부딪힌다&lt;br/&gt;&lt;em&gt;Hate speech spreads like a game, and voices for gender equality face fierce backlash instead.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김정은 북한 국무위원장이 주장해 온 ‘적대적 두 국가’ 관련 표현은 헌법에 담지 않은 것으로 나타났다&lt;br/&gt;&lt;em&gt;It has been revealed that expressions related to 'hostile two states' advocated by North Korean State Affairs Commission Chairman Kim Jong-un were not included in the constitution.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;' (이정철 교수는 북한이 언급해 온 적대적 두 국가론과 관련 “이번 헌법에선 ‘적대적’이란 형용사 표현은 찾아볼 수 없었다”며 “영토 조항을 신설해 국가성을 강조했지만 적대적 관계, 교전국 관계 등의 표현은 등장하지 않는다”고 말했다&lt;br/&gt;&lt;em&gt;Professor Lee Jeong-cheol said regarding the hostile two-state theory that North Korea has mentioned, 'In this constitution, the adjective expression 'hostile' could not be found. Although a territorial clause was newly established to emphasize statehood, expressions such as hostile relations or belligerent relations do not appear.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 표현은 재미있어요.&lt;br/&gt;&lt;em&gt;His expression is funny.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 표현은 어렵습니다.&lt;br/&gt;&lt;em&gt;This expression is difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 06 May 2026 22:28:34 +0900</pubDate><guid isPermaLink="false">vocab-7d7ea0d8bbda7520050ed843057d693ede11034e</guid><enclosure url="https://images.unsplash.com/photo-1619431843665-54babc76ac8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHByZXNzaW9ufGVufDB8fHx8MTc3ODA3NDEwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="24301" /><ns2:content url="https://images.unsplash.com/photo-1619431843665-54babc76ac8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHByZXNzaW9ufGVufDB8fHx8MTc3ODA3NDEwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1619431843665-54babc76ac8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHByZXNzaW9ufGVufDB8fHx8MTc3ODA3NDEwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>표현은</category></item><item><title>넘어선 – exceeded</title><link>urn:urn:vocab:넘어선</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1691921632855-1b2da2300c43?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGNlZWRlZHxlbnwwfHx8fDE3NzgwNjY2Mjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="넘어선 (exceeded)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;삼성그룹의 순현금이 100조원을 넘어선 것은 2022년(106조9천억원) 이후 3년 만이다&lt;br/&gt;&lt;em&gt;It has been three years since 2022 (106.9 trillion won) that Samsung Group's net cash exceeded 100 trillion won.&lt;/em&gt;&lt;/p&gt;
