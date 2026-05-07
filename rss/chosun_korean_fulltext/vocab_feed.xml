@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 00:02:42 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 02:12:11 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>국가유공자 – person of national merit</title><link>urn:urn:vocab:국가유공자</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>선거에선 – in the election</title><link>urn:urn:vocab:선거에선</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604715822200-1816b966dbd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGVsZWN0aW9ufGVufDB8fHx8MTc3ODE3MzkyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거에선 (in the election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;첫 대결이었던 당시 선거에선 한 전 군수가 득표율 50&lt;br/&gt;&lt;em&gt;In the first election, a former county governor had a vote share of 50%.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 평창군수 선거에선 인구 감소 문제가 쟁점이 될 전망이다&lt;br/&gt;&lt;em&gt;In this Pyeongchang county governor election, the population decline issue is expected to become a key point.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 제주도지사 선거에선 제주 제2공항(신공항) 건설 문제가 쟁점으로 부각되고 있다&lt;br/&gt;&lt;em&gt;In this Jeju governor election, the issue of constructing Jeju's second airport (new airport) is emerging as a key point.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선거에선 많은 사람이 투표해요.&lt;br/&gt;&lt;em&gt;Many people vote in elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선거에선 후보자의 공약이 중요해요.&lt;br/&gt;&lt;em&gt;The candidate's pledges are important in elections.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1604715822200-1816b966dbd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGVsZWN0aW9ufGVufDB8fHx8MTc3ODE3MzkyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거에선 (in the election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;첫 대결이었던 당시 선거에선 한 전 군수가 득표율 50&lt;br/&gt;&lt;em&gt;In the first election, a former county governor had a vote share of 50%.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 평창군수 선거에선 인구 감소 문제가 쟁점이 될 전망이다&lt;br/&gt;&lt;em&gt;In this Pyeongchang county governor election, the population decline issue is expected to become a key point.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 제주도지사 선거에선 제주 제2공항(신공항) 건설 문제가 쟁점으로 부각되고 있다&lt;br/&gt;&lt;em&gt;In this Jeju governor election, the issue of constructing Jeju's second airport (new airport) is emerging as a key point.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선거에선 많은 사람이 투표해요.&lt;br/&gt;&lt;em&gt;Many people vote in elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선거에선 후보자의 공약이 중요해요.&lt;br/&gt;&lt;em&gt;The candidate's pledges are important in elections.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 08 May 2026 02:12:11 +0900</pubDate><guid isPermaLink="false">vocab-ce055c32a6c216f7b55479e03b7fc72e17924c63</guid><enclosure url="https://images.unsplash.com/photo-1604715822200-1816b966dbd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGVsZWN0aW9ufGVufDB8fHx8MTc3ODE3MzkyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="170053" /><ns2:content url="https://images.unsplash.com/photo-1604715822200-1816b966dbd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGVsZWN0aW9ufGVufDB8fHx8MTc3ODE3MzkyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1604715822200-1816b966dbd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGVsZWN0aW9ufGVufDB8fHx8MTc3ODE3MzkyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>선거에선</category></item><item><title>국가유공자 – person of national merit</title><link>urn:urn:vocab:국가유공자</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1706694874970-ca905f8b4e02?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvZiUyMG5hdGlvbmFsJTIwbWVyaXR8ZW58MHx8fHwxNzc4MTY2MTU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국가유공자 (person of national merit)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Government to Conduct Full Survey of Unclaimed Korean War Dead: “Ensure Every Single One is Designated as a National Meritorious Person and Honored” (정부, 무연고 6·25 전사자 전수조사… “빠짐없이 국가유공자 지정해 예우”) &lt;&lt;br/&gt;&lt;em&gt;Government to Conduct Full Survey of Unclaimed Korean War Dead: “Ensure Every Single One is Designated as a National Meritorious Person and Honored”&lt;/em&gt;&lt;/p&gt;
