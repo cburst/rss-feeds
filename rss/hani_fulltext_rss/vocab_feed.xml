@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 06:25:08 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 08:33:17 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>학교 – school</title><link>urn:urn:vocab:학교</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>심리적 – psychological</title><link>urn:urn:vocab:심리적</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620486729163-23b5225ae75d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwc3ljaG9sb2dpY2FsfGVufDB8fHx8MTc3ODE5Njc5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="심리적 (psychological)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;윤 교수가 공공 안전 인력의 심리적 부담을 예방적 관점에서 개입할 수 있는 모델을 현장에 적용한 배경이다&lt;br/&gt;&lt;em&gt;This is the background of Professor Yoon applying a model that can intervene in the psychological burden of public safety personnel from a preventive perspective to the field.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예술 활동을 통해 정서적 이완과 심리적 환기를 유도하는 구조로, 현장 적용성이 높다는 평가다&lt;br/&gt;&lt;em&gt;It is a structure that induces emotional relaxation and psychological ventilation through artistic activities, and is evaluated as having high field applicability.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;8%가 심리적 회복에 도움이 된다고 응답했고, 만족도는 95%, 동료 추천 의향은 91&lt;br/&gt;&lt;em&gt;8% responded that it helps with psychological recovery, with a satisfaction rate of 95% and a willingness to recommend to colleagues of 91%.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그것은 심리적 문제다.&lt;br/&gt;&lt;em&gt;It is a psychological problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;심리적 도움이 필요해요.&lt;br/&gt;&lt;em&gt;I need psychological help.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620486729163-23b5225ae75d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwc3ljaG9sb2dpY2FsfGVufDB8fHx8MTc3ODE5Njc5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="심리적 (psychological)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;윤 교수가 공공 안전 인력의 심리적 부담을 예방적 관점에서 개입할 수 있는 모델을 현장에 적용한 배경이다&lt;br/&gt;&lt;em&gt;This is the background of Professor Yoon applying a model that can intervene in the psychological burden of public safety personnel from a preventive perspective to the field.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예술 활동을 통해 정서적 이완과 심리적 환기를 유도하는 구조로, 현장 적용성이 높다는 평가다&lt;br/&gt;&lt;em&gt;It is a structure that induces emotional relaxation and psychological ventilation through artistic activities, and is evaluated as having high field applicability.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;8%가 심리적 회복에 도움이 된다고 응답했고, 만족도는 95%, 동료 추천 의향은 91&lt;br/&gt;&lt;em&gt;8% responded that it helps with psychological recovery, with a satisfaction rate of 95% and a willingness to recommend to colleagues of 91%.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그것은 심리적 문제다.&lt;br/&gt;&lt;em&gt;It is a psychological problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;심리적 도움이 필요해요.&lt;br/&gt;&lt;em&gt;I need psychological help.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 08 May 2026 08:33:17 +0900</pubDate><guid isPermaLink="false">vocab-de217d6dfbd18e8063f4527b1700ee5befc49ab3</guid><enclosure url="https://images.unsplash.com/photo-1620486729163-23b5225ae75d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwc3ljaG9sb2dpY2FsfGVufDB8fHx8MTc3ODE5Njc5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="66137" /><ns2:content url="https://images.unsplash.com/photo-1620486729163-23b5225ae75d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwc3ljaG9sb2dpY2FsfGVufDB8fHx8MTc3ODE5Njc5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1620486729163-23b5225ae75d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwc3ljaG9sb2dpY2FsfGVufDB8fHx8MTc3ODE5Njc5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>심리적</category></item><item><title>학교 – school</title><link>urn:urn:vocab:학교</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc4MTg5MTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학교 (school)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(숙명여자대학교(총장 문시연)가 교내 구성원이 생성형 AI를 무료로 이용할 수 있는 플랫폼 &amp;#x27;스노우챗(SnowChat)&amp;#x27;을 오픈했다&lt;br/&gt;&lt;em&gt;Sookmyung Women's University (President Moon Si-yeon) has opened a platform called 'SnowChat' that allows members of the university to use generative AI for free.&lt;/em&gt;&lt;/p&gt;
