@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 09:04:57 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 13:21:56 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>창의적 – creative</title><link>urn:urn:vocab:창의적</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>우리나라의 – of our country</title><link>urn:urn:vocab:우리나라의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1568715505415-3b51324d4591?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMG91ciUyMGNvdW50cnl8ZW58MHx8fHwxNzc4MTI3NzEyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="우리나라의 (of our country)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(  한국은행은 우리나라의 외환보유액이 4월말 기준 4278억8천만달러로 전달보다 42억2천만달러 증가한 것으로 집계됐다고 7일 밝혔다&lt;br/&gt;&lt;em&gt;The Bank of Korea announced on the 7th that the country's foreign exchange reserves stood at $427.88 billion as of the end of April, up $4.22 billion from the previous month.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  3월말 기준 우리나라의 외환보유액 규모(4236억6천만달러)는 홍콩(4308억달러)에 이어 세계 12위 수준이다&lt;br/&gt;&lt;em&gt;As of the end of March, South Korea's foreign exchange reserves ($423.66 billion) ranked 12th in the world, following Hong Kong ($430.8 billion).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  우리나라의 외환보유액은 지난해 12월 이후 감소 흐름을 이어왔다&lt;br/&gt;&lt;em&gt;South Korea's foreign exchange reserves had been on a downward trend since December last year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리나라의 국기가 아름답습니다.&lt;br/&gt;&lt;em&gt;Our national flag is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리나라의 음식이 맛있어요.&lt;br/&gt;&lt;em&gt;Our country's food is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1568715505415-3b51324d4591?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMG91ciUyMGNvdW50cnl8ZW58MHx8fHwxNzc4MTI3NzEyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="우리나라의 (of our country)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(  한국은행은 우리나라의 외환보유액이 4월말 기준 4278억8천만달러로 전달보다 42억2천만달러 증가한 것으로 집계됐다고 7일 밝혔다&lt;br/&gt;&lt;em&gt;The Bank of Korea announced on the 7th that the country's foreign exchange reserves stood at $427.88 billion as of the end of April, up $4.22 billion from the previous month.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  3월말 기준 우리나라의 외환보유액 규모(4236억6천만달러)는 홍콩(4308억달러)에 이어 세계 12위 수준이다&lt;br/&gt;&lt;em&gt;As of the end of March, South Korea's foreign exchange reserves ($423.66 billion) ranked 12th in the world, following Hong Kong ($430.8 billion).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  우리나라의 외환보유액은 지난해 12월 이후 감소 흐름을 이어왔다&lt;br/&gt;&lt;em&gt;South Korea's foreign exchange reserves had been on a downward trend since December last year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리나라의 국기가 아름답습니다.&lt;br/&gt;&lt;em&gt;Our national flag is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리나라의 음식이 맛있어요.&lt;br/&gt;&lt;em&gt;Our country's food is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 07 May 2026 13:21:56 +0900</pubDate><guid isPermaLink="false">vocab-2fea1862b0b7ce84984d10e55eda87e3dce63984</guid><enclosure url="https://images.unsplash.com/photo-1568715505415-3b51324d4591?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMG91ciUyMGNvdW50cnl8ZW58MHx8fHwxNzc4MTI3NzEyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="122239" /><ns2:content url="https://images.unsplash.com/photo-1568715505415-3b51324d4591?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMG91ciUyMGNvdW50cnl8ZW58MHx8fHwxNzc4MTI3NzEyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1568715505415-3b51324d4591?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMG91ciUyMGNvdW50cnl8ZW58MHx8fHwxNzc4MTI3NzEyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>우리나라의</category></item><item><title>게임기 – game console</title><link>urn:urn:vocab:게임기</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1592840496694-26d035b52b48?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYW1lJTIwY29uc29sZXxlbnwwfHx8fDE3NzgxMjAwNDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="게임기 (game console)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Nintendo and Sony Struggle Even with Strong Console Sales… ‘Chipflation’ Delivers a Direct Blow to Profitability (닌텐도·소니, 게임기 ‘잘 팔려도’ 괴롭다…칩플레이션에 수익성 ‘직격탄’) &lt;&lt;br/&gt;&lt;em&gt;Nintendo and Sony Struggle Even with Strong Console Sales… ‘Chipflation’ Delivers a Direct Blow to Profitability&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Nintendo and Sony Struggle Even with Strong Console Sales… ‘Chipflation’ Delivers a Direct Blow to Profitability (닌텐도·소니, 게임기 ‘잘 팔려도’ 괴롭다…칩플레이션에 수익성 ‘직격탄’)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Nintendo and Sony Struggle Even with Strong Console Sales… ‘Chipflation’ Delivers a Direct Blow to Profitability&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;닌텐도 콘솔 게임기 ‘닌텐도 스위치2’와 함께 발매된 게임 ‘마리오 카트 월드’&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;The game 'Mario Kart World' released alongside Nintendo's console 'Nintendo Switch 2'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;게임기가 방에 있어요.&lt;br/&gt;&lt;em&gt;The game console is in the room.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 게임기를 샀어요.&lt;br/&gt;&lt;em&gt;I bought a game console.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1592840496694-26d035b52b48?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYW1lJTIwY29uc29sZXxlbnwwfHx8fDE3NzgxMjAwNDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="게임기 (game console)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Nintendo and Sony Struggle Even with Strong Console Sales… ‘Chipflation’ Delivers a Direct Blow to Profitability (닌텐도·소니, 게임기 ‘잘 팔려도’ 괴롭다…칩플레이션에 수익성 ‘직격탄’) &lt;&lt;br/&gt;&lt;em&gt;Nintendo and Sony Struggle Even with Strong Console Sales… ‘Chipflation’ Delivers a Direct Blow to Profitability&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Nintendo and Sony Struggle Even with Strong Console Sales… ‘Chipflation’ Delivers a Direct Blow to Profitability (닌텐도·소니, 게임기 ‘잘 팔려도’ 괴롭다…칩플레이션에 수익성 ‘직격탄’)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Nintendo and Sony Struggle Even with Strong Console Sales… ‘Chipflation’ Delivers a Direct Blow to Profitability&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;닌텐도 콘솔 게임기 ‘닌텐도 스위치2’와 함께 발매된 게임 ‘마리오 카트 월드’&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;The game 'Mario Kart World' released alongside Nintendo's console 'Nintendo Switch 2'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;게임기가 방에 있어요.&lt;br/&gt;&lt;em&gt;The game console is in the room.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 게임기를 샀어요.&lt;br/&gt;&lt;em&gt;I bought a game console.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 07 May 2026 11:14:12 +0900</pubDate><guid isPermaLink="false">vocab-b59f1e1b2f27bc6503d1fe59a4dbe6d1eb68ff95</guid><enclosure url="https://images.unsplash.com/photo-1592840496694-26d035b52b48?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYW1lJTIwY29uc29sZXxlbnwwfHx8fDE3NzgxMjAwNDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="36322" /><ns2:content url="https://images.unsplash.com/photo-1592840496694-26d035b52b48?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYW1lJTIwY29uc29sZXxlbnwwfHx8fDE3NzgxMjAwNDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1592840496694-26d035b52b48?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYW1lJTIwY29uc29sZXxlbnwwfHx8fDE3NzgxMjAwNDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>게임기</category></item><item><title>창의적 – creative</title><link>urn:urn:vocab:창의적</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1603993097397-89c963e325c7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZXxlbnwwfHx8fDE3NzgxMTIyOTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="창의적 (creative)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이번 대회 역시 SW 중심의 문제해결 능력을 배양하고, 학생들의 창의적 아이디어 개발과 SW 사고력 향상을 위해 마련됐다&lt;br/&gt;&lt;em&gt;This competition was also designed to cultivate SW-centered problem-solving skills and to develop students' creative ideas and improve their SW thinking ability.&lt;/em&gt;&lt;/p&gt;
