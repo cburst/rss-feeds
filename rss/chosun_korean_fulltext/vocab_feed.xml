@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 21:56:35 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 00:02:42 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>줄이고 – reduce</title><link>urn:urn:vocab:줄이고</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>국가유공자 – person of national merit</title><link>urn:urn:vocab:국가유공자</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1706694874970-ca905f8b4e02?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvZiUyMG5hdGlvbmFsJTIwbWVyaXR8ZW58MHx8fHwxNzc4MTY2MTU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국가유공자 (person of national merit)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Government to Conduct Full Survey of Unclaimed Korean War Dead: “Ensure Every Single One is Designated as a National Meritorious Person and Honored” (정부, 무연고 6·25 전사자 전수조사… “빠짐없이 국가유공자 지정해 예우”) &lt;&lt;br/&gt;&lt;em&gt;Government to Conduct Full Survey of Unclaimed Korean War Dead: “Ensure Every Single One is Designated as a National Meritorious Person and Honored”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Government to Conduct Full Survey of Unclaimed Korean War Dead: “Ensure Every Single One is Designated as a National Meritorious Person and Honored” (정부, 무연고 6·25 전사자 전수조사… “빠짐없이 국가유공자 지정해 예우”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Government to Conduct Full Survey of Unclaimed Korean War Dead: “Ensure Every Single One is Designated as a National Meritorious Person and Honored”&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부가 국립묘지에 안장됐으나 국가유공자로 등록돼 있지 않은 전사자를 전수 조사해 국가유공자로 등록하기로 했다&lt;br/&gt;&lt;em&gt;The government has decided to conduct a full survey of war dead buried in national cemeteries but not registered as national meritorious persons, and register them as such.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 국가유공자입니다.&lt;br/&gt;&lt;em&gt;He is a national merit holder.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국가유공자에게 감사합니다.&lt;br/&gt;&lt;em&gt;Thank you to the national merit holder.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1706694874970-ca905f8b4e02?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvZiUyMG5hdGlvbmFsJTIwbWVyaXR8ZW58MHx8fHwxNzc4MTY2MTU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국가유공자 (person of national merit)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Government to Conduct Full Survey of Unclaimed Korean War Dead: “Ensure Every Single One is Designated as a National Meritorious Person and Honored” (정부, 무연고 6·25 전사자 전수조사… “빠짐없이 국가유공자 지정해 예우”) &lt;&lt;br/&gt;&lt;em&gt;Government to Conduct Full Survey of Unclaimed Korean War Dead: “Ensure Every Single One is Designated as a National Meritorious Person and Honored”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Government to Conduct Full Survey of Unclaimed Korean War Dead: “Ensure Every Single One is Designated as a National Meritorious Person and Honored” (정부, 무연고 6·25 전사자 전수조사… “빠짐없이 국가유공자 지정해 예우”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Government to Conduct Full Survey of Unclaimed Korean War Dead: “Ensure Every Single One is Designated as a National Meritorious Person and Honored”&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부가 국립묘지에 안장됐으나 국가유공자로 등록돼 있지 않은 전사자를 전수 조사해 국가유공자로 등록하기로 했다&lt;br/&gt;&lt;em&gt;The government has decided to conduct a full survey of war dead buried in national cemeteries but not registered as national meritorious persons, and register them as such.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 국가유공자입니다.&lt;br/&gt;&lt;em&gt;He is a national merit holder.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;국가유공자에게 감사합니다.&lt;br/&gt;&lt;em&gt;Thank you to the national merit holder.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 08 May 2026 00:02:42 +0900</pubDate><guid isPermaLink="false">vocab-aa382133e6b0d03ff2074491745baae44310ded0</guid><enclosure url="https://images.unsplash.com/photo-1706694874970-ca905f8b4e02?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvZiUyMG5hdGlvbmFsJTIwbWVyaXR8ZW58MHx8fHwxNzc4MTY2MTU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="98552" /><ns2:content url="https://images.unsplash.com/photo-1706694874970-ca905f8b4e02?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvZiUyMG5hdGlvbmFsJTIwbWVyaXR8ZW58MHx8fHwxNzc4MTY2MTU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1706694874970-ca905f8b4e02?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvZiUyMG5hdGlvbmFsJTIwbWVyaXR8ZW58MHx8fHwxNzc4MTY2MTU2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>국가유공자</category></item><item><title>줄이고 – reduce</title><link>urn:urn:vocab:줄이고</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWR1Y2V8ZW58MHx8fHwxNzc4MTU4NTkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="줄이고 (reduce)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (정 후보는 “서울을 30분 통근이 가능한 도시로 만들겠다”면서 “교통비 부담도 줄이고 수도권 전체의 이동 효율도 높이겠다”고 밝혔다&lt;br/&gt;&lt;em&gt;"Candidate Jeong stated, 'I will make Seoul a city where commuting within 30 minutes is possible,' and 'I will reduce the burden of transportation costs and increase the mobility efficiency of the entire metropolitan area.'"&lt;/em&gt;&lt;/p&gt;
