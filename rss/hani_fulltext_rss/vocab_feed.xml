@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 04:19:16 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 06:25:08 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>개헌안 – constitutional amendment bill</title><link>urn:urn:vocab:개헌안</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>학교 – school</title><link>urn:urn:vocab:학교</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc4MTg5MTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학교 (school)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(숙명여자대학교(총장 문시연)가 교내 구성원이 생성형 AI를 무료로 이용할 수 있는 플랫폼 &amp;#x27;스노우챗(SnowChat)&amp;#x27;을 오픈했다&lt;br/&gt;&lt;em&gt;Sookmyung Women's University (President Moon Si-yeon) has opened a platform called 'SnowChat' that allows members of the university to use generative AI for free.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&gt; (&amp;lt;이 기사는 숙명여자대학교에서 제공하는 정보기사로 한겨레의 의견과 다를 수 있습니다&lt;br/&gt;&lt;em&gt;&gt; (This article is an information article provided by Sookmyung Women's University and may differ from the opinions of The Hankyoreh.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(명지대학교(총장 임연수)는 5월 7일(목) 인문캠퍼스 방목학술정보관 1층 인터랙티브 가든에서 ‘제자들을 위한 정오 음악회’를 개최했다&lt;br/&gt;&lt;em&gt;Myongji University (President Lim Yeon-soo) held a 'Noon Concert for Students' on Thursday, May 7, at the Interactive Garden on the first floor of the Bangmok Academic Information Center on the Humanities Campus.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 학교에 갑니다.&lt;br/&gt;&lt;em&gt;I go to school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교가 아주 큽니다.&lt;br/&gt;&lt;em&gt;The school is very big.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc4MTg5MTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학교 (school)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(숙명여자대학교(총장 문시연)가 교내 구성원이 생성형 AI를 무료로 이용할 수 있는 플랫폼 &amp;#x27;스노우챗(SnowChat)&amp;#x27;을 오픈했다&lt;br/&gt;&lt;em&gt;Sookmyung Women's University (President Moon Si-yeon) has opened a platform called 'SnowChat' that allows members of the university to use generative AI for free.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&gt; (&amp;lt;이 기사는 숙명여자대학교에서 제공하는 정보기사로 한겨레의 의견과 다를 수 있습니다&lt;br/&gt;&lt;em&gt;&gt; (This article is an information article provided by Sookmyung Women's University and may differ from the opinions of The Hankyoreh.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(명지대학교(총장 임연수)는 5월 7일(목) 인문캠퍼스 방목학술정보관 1층 인터랙티브 가든에서 ‘제자들을 위한 정오 음악회’를 개최했다&lt;br/&gt;&lt;em&gt;Myongji University (President Lim Yeon-soo) held a 'Noon Concert for Students' on Thursday, May 7, at the Interactive Garden on the first floor of the Bangmok Academic Information Center on the Humanities Campus.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 학교에 갑니다.&lt;br/&gt;&lt;em&gt;I go to school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교가 아주 큽니다.&lt;br/&gt;&lt;em&gt;The school is very big.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 08 May 2026 06:25:08 +0900</pubDate><guid isPermaLink="false">vocab-726b8545cafb94db1ad3497c2e2179d8b57c2068</guid><enclosure url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc4MTg5MTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="107851" /><ns2:content url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc4MTg5MTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2x8ZW58MHx8fHwxNzc4MTg5MTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>학교</category></item><item><title>개헌안 – constitutional amendment bill</title><link>urn:urn:vocab:개헌안</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591453089977-c5cd298cb7c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdGl0dXRpb25hbCUyMGFtZW5kbWVudCUyMGJpbGx8ZW58MHx8fHwxNzc4MTgxNTU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개헌안 (constitutional amendment bill)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(7000선 밟은 코스피, “1만피도 불가능하지 않다”/국회, 오늘 개헌안 표결…국힘 반대에 처리 불투명/‘특검법’ 규탄하며 기세등등…‘보폭 넓히는’ 장동혁/“안 할란다 단일화”… 한동훈·박민식 신경전/민주 “지방선거 이후 조작기소 특검법 처리”/ ‘2인자’ 한덕수 오늘 2심… 징역 23년 유지될까/“공포 사회”…나경원, 신종오 판사 죽음 정쟁화 ‘파문’&lt;br/&gt;&lt;em&gt;KOSPI Breaks 7,000 Mark, '10,000 Not Impossible'/National Assembly to Vote on Constitutional Amendment Today... Passage Uncertain Due to Opposition from People Power Party/Jang Dong-hyuk Expands Influence, Denouncing 'Special Counsel Law'/'I Won't Do It' Unification... Han Dong-hoon and Park Min-shik Engage in Verbal Battle/Democratic Party 'Will Handle Manipulated Indictment Special Counsel Law After Local Elections'/Second Trial for 'Number Two' Han Duck-soo Today... Will 23-Year Sentence Be Upheld?/'Fear Society'... Na Kyung-won Politicizes Death of Judge Shin Jong-oh, Stirring Controversy&lt;/em&gt;&lt;/p&gt;

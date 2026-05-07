@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 04:19:23 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 06:25:14 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>개헌을 – constitutional amendment</title><link>urn:urn:vocab:개헌을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>개헌안을 – constitutional amendment bill</title><link>urn:urn:vocab:개헌안을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591453089977-c5cd298cb7c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdGl0dXRpb25hbCUyMGFtZW5kbWVudCUyMGJpbGx8ZW58MHx8fHwxNzc4MTgxNTU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개헌안을 (constitutional amendment bill)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국민의힘은 개헌안 내용엔 반대하지 않으나, 지방선거 이후 여야 논의를 거쳐 개헌안을 표결하자는 입장이다&lt;br/&gt;&lt;em&gt;The People Power Party does not oppose the content of the constitutional amendment, but insists that the amendment should be put to a vote after discussions between the ruling and opposition parties following the local elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(우원식 국회의장은 이날 본회의장을 떠난 국민의힘 의원들을 향해 “주권자인 국민이 투표로 직접 개헌안을 판단할 기회를 닫아서는 안 된다”면서 “표결에 참여해달라”고 요청했지만, 국민의힘 의원들이 오후 4시까지 표결에 참여하지 않자 결국 의결 정족수 미달에 따른 투표 불성립을 선언했다&lt;br/&gt;&lt;em&gt;National Assembly Speaker Woo Won-shik asked the People Power Party lawmakers who left the plenary session, saying, 'The sovereign people should not be denied the opportunity to directly judge the constitutional amendment through a vote. Please participate in the vote.' However, as the People Power Party lawmakers did not participate in the vote until 4 p.m., he ultimately declared that the vote was invalid due to a lack of quorum.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;본회의에 상정된 안건이 부결되면 같은 회기에 다시 상정할 수 없지만 우원식 국회의장과 민주당은 “의결정족수 부족에 따른 투표 불성립”이라며 8일 본회의에서 개헌안을 다시 처리할 계획이다&lt;br/&gt;&lt;em&gt;If a bill submitted to the plenary session is rejected, it cannot be resubmitted during the same session. However, National Assembly Speaker Woo Won-shik and the Democratic Party plan to process the constitutional amendment again at the plenary session on the 8th, stating that 'the vote was invalid due to a lack of quorum.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국회가 개헌안을 논의했다.&lt;br/&gt;&lt;em&gt;The National Assembly discussed the constitutional amendment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대통령이 개헌안을 제안했다.&lt;br/&gt;&lt;em&gt;The president proposed the constitutional amendment.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591453089977-c5cd298cb7c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdGl0dXRpb25hbCUyMGFtZW5kbWVudCUyMGJpbGx8ZW58MHx8fHwxNzc4MTgxNTU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개헌안을 (constitutional amendment bill)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국민의힘은 개헌안 내용엔 반대하지 않으나, 지방선거 이후 여야 논의를 거쳐 개헌안을 표결하자는 입장이다&lt;br/&gt;&lt;em&gt;The People Power Party does not oppose the content of the constitutional amendment, but insists that the amendment should be put to a vote after discussions between the ruling and opposition parties following the local elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(우원식 국회의장은 이날 본회의장을 떠난 국민의힘 의원들을 향해 “주권자인 국민이 투표로 직접 개헌안을 판단할 기회를 닫아서는 안 된다”면서 “표결에 참여해달라”고 요청했지만, 국민의힘 의원들이 오후 4시까지 표결에 참여하지 않자 결국 의결 정족수 미달에 따른 투표 불성립을 선언했다&lt;br/&gt;&lt;em&gt;National Assembly Speaker Woo Won-shik asked the People Power Party lawmakers who left the plenary session, saying, 'The sovereign people should not be denied the opportunity to directly judge the constitutional amendment through a vote. Please participate in the vote.' However, as the People Power Party lawmakers did not participate in the vote until 4 p.m., he ultimately declared that the vote was invalid due to a lack of quorum.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;본회의에 상정된 안건이 부결되면 같은 회기에 다시 상정할 수 없지만 우원식 국회의장과 민주당은 “의결정족수 부족에 따른 투표 불성립”이라며 8일 본회의에서 개헌안을 다시 처리할 계획이다&lt;br/&gt;&lt;em&gt;If a bill submitted to the plenary session is rejected, it cannot be resubmitted during the same session. However, National Assembly Speaker Woo Won-shik and the Democratic Party plan to process the constitutional amendment again at the plenary session on the 8th, stating that 'the vote was invalid due to a lack of quorum.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국회가 개헌안을 논의했다.&lt;br/&gt;&lt;em&gt;The National Assembly discussed the constitutional amendment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대통령이 개헌안을 제안했다.&lt;br/&gt;&lt;em&gt;The president proposed the constitutional amendment.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 08 May 2026 06:25:14 +0900</pubDate><guid isPermaLink="false">vocab-c2c7379970ba7ebfcaccdf84a2741c613c152988</guid><enclosure url="https://images.unsplash.com/photo-1591453089977-c5cd298cb7c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdGl0dXRpb25hbCUyMGFtZW5kbWVudCUyMGJpbGx8ZW58MHx8fHwxNzc4MTgxNTU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="83124" /><ns2:content url="https://images.unsplash.com/photo-1591453089977-c5cd298cb7c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdGl0dXRpb25hbCUyMGFtZW5kbWVudCUyMGJpbGx8ZW58MHx8fHwxNzc4MTgxNTU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1591453089977-c5cd298cb7c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdGl0dXRpb25hbCUyMGFtZW5kbWVudCUyMGJpbGx8ZW58MHx8fHwxNzc4MTgxNTU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>개헌안을</category></item><item><title>개헌을 – constitutional amendment</title><link>urn:urn:vocab:개헌을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1760829130145-2ea0ac80f8b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25zdGl0dXRpb25hbCUyMGFtZW5kbWVudHxlbnwwfHx8fDE3NzgxODE1NjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개헌을 (constitutional amendment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(국정원은 “이번 개헌을 통해 대한민국과 단절은 분명히 하지만 그게 반드시 대한민국에 대한 공세적 의미보다는 현상 유지 및 상황관리에 방점을 뒀다”고 평가했다고 박 의원이 전했다&lt;br/&gt;&lt;em&gt;Rep. Park reported that the National Intelligence Service assessed that 'this constitutional amendment clearly severs ties with the Republic of Korea, but it focuses more on maintaining the status quo and managing the situation rather than being offensive toward the Republic of Korea.'&lt;/em&gt;&lt;/p&gt;
