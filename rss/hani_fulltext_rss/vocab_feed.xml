@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 17:02:47 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 19:08:37 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>갤러리 – gallery</title><link>urn:urn:vocab:갤러리</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>교육에 – in education</title><link>urn:urn:vocab:교육에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1764720573370-5008f1ccc9fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGVkdWNhdGlvbnxlbnwwfHx8fDE3NzgyMzQ5MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="교육에 (in education)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(경영전문대학원은 ‘AX(AI Transformation)’ 기반 교육과정을 도입해 정통 경영학 교육에 AI·빅데이터 분석 역량을 결합한 교육을 제공한다&lt;br/&gt;&lt;em&gt;(The Graduate School of Business has introduced an 'AX (AI Transformation)' based curriculum, providing education that combines traditional business administration with AI and big data analysis capabilities.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;문휘창 총장은 “전문성과 글로벌 네트워크, 그리고 교육에 대한 열정을 갖춘 두 분을 모시게 되어 대학의 국제화 역량 강화가 기대된다”며 “우리 대학이 글로벌 교육 시장을 선도하는 데 핵심적인 역할을 수행해 주길 바란다”고 당부했다&lt;br/&gt;&lt;em&gt;President Moon Hwi-chang said, "We are pleased to welcome two individuals with expertise, global networks, and passion for education, and we expect to strengthen the university's internationalization capabilities. I hope they will play a key role in leading our university in the global education market."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(경영전문대학원은 ‘AX(AI Transformation)’ 기반 교육과정을 도입해 정통 경영학 교육에 AI·빅데이터 분석 역량을 결합한 교육을 제공한다&lt;br/&gt;&lt;em&gt;(The Graduate School of Business has introduced an 'AX (AI Transformation)' based curriculum, providing education that combines traditional business administration with AI and big data analysis capabilities.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;교육에 관심이 많아요.&lt;br/&gt;&lt;em&gt;I am very interested in education.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;교육에 돈을 써요.&lt;br/&gt;&lt;em&gt;I spend money on education.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1764720573370-5008f1ccc9fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGVkdWNhdGlvbnxlbnwwfHx8fDE3NzgyMzQ5MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="교육에 (in education)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(경영전문대학원은 ‘AX(AI Transformation)’ 기반 교육과정을 도입해 정통 경영학 교육에 AI·빅데이터 분석 역량을 결합한 교육을 제공한다&lt;br/&gt;&lt;em&gt;(The Graduate School of Business has introduced an 'AX (AI Transformation)' based curriculum, providing education that combines traditional business administration with AI and big data analysis capabilities.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;문휘창 총장은 “전문성과 글로벌 네트워크, 그리고 교육에 대한 열정을 갖춘 두 분을 모시게 되어 대학의 국제화 역량 강화가 기대된다”며 “우리 대학이 글로벌 교육 시장을 선도하는 데 핵심적인 역할을 수행해 주길 바란다”고 당부했다&lt;br/&gt;&lt;em&gt;President Moon Hwi-chang said, "We are pleased to welcome two individuals with expertise, global networks, and passion for education, and we expect to strengthen the university's internationalization capabilities. I hope they will play a key role in leading our university in the global education market."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(경영전문대학원은 ‘AX(AI Transformation)’ 기반 교육과정을 도입해 정통 경영학 교육에 AI·빅데이터 분석 역량을 결합한 교육을 제공한다&lt;br/&gt;&lt;em&gt;(The Graduate School of Business has introduced an 'AX (AI Transformation)' based curriculum, providing education that combines traditional business administration with AI and big data analysis capabilities.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;교육에 관심이 많아요.&lt;br/&gt;&lt;em&gt;I am very interested in education.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;교육에 돈을 써요.&lt;br/&gt;&lt;em&gt;I spend money on education.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 08 May 2026 19:08:37 +0900</pubDate><guid isPermaLink="false">vocab-71d36a33fa00647e0b2d89a986d85c3d55e02664</guid><enclosure url="https://images.unsplash.com/photo-1764720573370-5008f1ccc9fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGVkdWNhdGlvbnxlbnwwfHx8fDE3NzgyMzQ5MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="114476" /><ns2:content url="https://images.unsplash.com/photo-1764720573370-5008f1ccc9fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGVkdWNhdGlvbnxlbnwwfHx8fDE3NzgyMzQ5MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1764720573370-5008f1ccc9fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGVkdWNhdGlvbnxlbnwwfHx8fDE3NzgyMzQ5MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>교육에</category></item><item><title>갤러리 – gallery</title><link>urn:urn:vocab:갤러리</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1606819717115-9159c900370b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYWxsZXJ5fGVufDB8fHx8MTc3ODIyNzM2Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="갤러리 (gallery)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Zeekr Opens First Gallery with Brand Value… From ‘Luxury’ to ‘Hyper Performance’ (지커, 브랜드 가치 담아 첫 갤러리…‘럭셔리’부터 ‘하이퍼 퍼포먼스’까지) &lt;&lt;br/&gt;&lt;em&gt;Zeekr Opens First Gallery with Brand Value… From ‘Luxury’ to ‘Hyper Performance’&lt;/em&gt;&lt;/p&gt;
