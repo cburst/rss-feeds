@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 May 2026 03:32:24 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 05:38:41 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>분들이 – people (honorific plural)</title><link>urn:urn:vocab:분들이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>실시한 – conducted</title><link>urn:urn:vocab:실시한</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1756885375569-f04400d99cee?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25kdWN0ZWR8ZW58MHx8fHwxNzc4MjcyNzE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실시한 (conducted)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'" (JTBC 의뢰로 메타보이스·리서치랩이 지난 5~6일 대구 유권자 804명을 대상으로 실시한 대구시장 지지도 조사(무선 전화면접)에서 민주당 김부겸 후보는 40%, 국민의힘 추경호 후보가 41%로 나타났다&lt;br/&gt;&lt;em&gt;In a survey of Daegu mayoral approval ratings conducted by Metavoice and Research Lab on the 5th and 6th at the request of JTBC, targeting 804 Daegu voters (wireless telephone interview), Democratic Party candidate Kim Boo-gyeom received 40% and People Power Party candidate Choo Kyung-ho received 41%.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(KBS울산방송·울산매일신문 의뢰로 여론조사공정이 지난 4~5일 실시한 울산시장 지지도 조사에서 민주당 김상욱 후보 32&lt;br/&gt;&lt;em&gt;In a survey of Ulsan mayoral approval ratings conducted by Public Opinion Research Fair on the 4th and 5th at the request of KBS Ulsan Broadcasting and Ulsan Daily News, Democratic Party candidate Kim Sang-wook received 32%.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;경남신문 의뢰로 모노리서치가 지난 1~2일 경남 유권자 1000명을 대상으로 실시한 무선 ARS 조사에서 민주당 김경수 후보가 41&lt;br/&gt;&lt;em&gt;In a wireless ARS survey conducted by Mono Research on the 1st and 2nd at the request of Gyeongnam News, targeting 1,000 Gyeongnam voters, Democratic Party candidate Kim Kyoung-soo received 41%.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경찰이 조사를 실시한.&lt;br/&gt;&lt;em&gt;The police conducted an investigation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교에서 시험을 실시한.&lt;br/&gt;&lt;em&gt;The school conducted an exam.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1756885375569-f04400d99cee?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25kdWN0ZWR8ZW58MHx8fHwxNzc4MjcyNzE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실시한 (conducted)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'" (JTBC 의뢰로 메타보이스·리서치랩이 지난 5~6일 대구 유권자 804명을 대상으로 실시한 대구시장 지지도 조사(무선 전화면접)에서 민주당 김부겸 후보는 40%, 국민의힘 추경호 후보가 41%로 나타났다&lt;br/&gt;&lt;em&gt;In a survey of Daegu mayoral approval ratings conducted by Metavoice and Research Lab on the 5th and 6th at the request of JTBC, targeting 804 Daegu voters (wireless telephone interview), Democratic Party candidate Kim Boo-gyeom received 40% and People Power Party candidate Choo Kyung-ho received 41%.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(KBS울산방송·울산매일신문 의뢰로 여론조사공정이 지난 4~5일 실시한 울산시장 지지도 조사에서 민주당 김상욱 후보 32&lt;br/&gt;&lt;em&gt;In a survey of Ulsan mayoral approval ratings conducted by Public Opinion Research Fair on the 4th and 5th at the request of KBS Ulsan Broadcasting and Ulsan Daily News, Democratic Party candidate Kim Sang-wook received 32%.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;경남신문 의뢰로 모노리서치가 지난 1~2일 경남 유권자 1000명을 대상으로 실시한 무선 ARS 조사에서 민주당 김경수 후보가 41&lt;br/&gt;&lt;em&gt;In a wireless ARS survey conducted by Mono Research on the 1st and 2nd at the request of Gyeongnam News, targeting 1,000 Gyeongnam voters, Democratic Party candidate Kim Kyoung-soo received 41%.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경찰이 조사를 실시한.&lt;br/&gt;&lt;em&gt;The police conducted an investigation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교에서 시험을 실시한.&lt;br/&gt;&lt;em&gt;The school conducted an exam.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 09 May 2026 05:38:41 +0900</pubDate><guid isPermaLink="false">vocab-698025b647d0781447d433335bea2517e8aa0432</guid><enclosure url="https://images.unsplash.com/photo-1756885375569-f04400d99cee?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25kdWN0ZWR8ZW58MHx8fHwxNzc4MjcyNzE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="132098" /><ns2:content url="https://images.unsplash.com/photo-1756885375569-f04400d99cee?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25kdWN0ZWR8ZW58MHx8fHwxNzc4MjcyNzE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1756885375569-f04400d99cee?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb25kdWN0ZWR8ZW58MHx8fHwxNzc4MjcyNzE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>실시한</category></item><item><title>분들이 – people (honorific plural)</title><link>urn:urn:vocab:분들이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1638866413233-0861565aa45d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZW9wbGUlMjAlMjhob25vcmlmaWMlMjBwbHVyYWwlMjl8ZW58MHx8fHwxNzc4MjQyMzg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="분들이 (people (honorific plural))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(그러면서 “애초에 지방선거 이전에 추진하자고 하는 분들이 있었으면 반대 의견을 내고 제동을 걸었을 것”이라며 “이런 문제는 국민 의견도 충분히 수렴해야 하고 의원들 안에서도 격렬한 논쟁이 있을 수밖에 없는 사안이다&lt;br/&gt;&lt;em&gt;(Adding that "If there were people who insisted on pushing forward before the local elections, I would have raised objections and put a brake on it," he said, "This is an issue that requires sufficient gathering of public opinion and inevitably involves intense debate among lawmakers.")&lt;/em&gt;&lt;/p&gt;

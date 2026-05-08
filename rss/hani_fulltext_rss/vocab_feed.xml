@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 May 2026 03:32:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 05:38:35 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>참여형 – participatory</title><link>urn:urn:vocab:참여형</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>선착순 – first-come-first-served</title><link>urn:urn:vocab:선착순</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1563480379612-332dcd2a742a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaXJzdC1jb21lLWZpcnN0LXNlcnZlZHxlbnwwfHx8fDE3NzgyNDIzODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선착순 (first-come-first-served)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘Not a First-Come, First-Served Basis’… KT Fined 640 Million Won for False Galaxy S25 Pre-Order Information (선착순 아니라더니…KT ‘갤S25 사전예약’ 허위 안내 과징금 6&lt;br/&gt;&lt;em&gt;'Not a First-Come, First-Served Basis'… KT Fined 640 Million Won for False Galaxy S25 Pre-Order Information&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;‘Not a First-Come, First-Served Basis’… KT Fined 640 Million Won for False Galaxy S25 Pre-Order Information (선착순 아니라더니…KT ‘갤S25 사전예약’ 허위 안내 과징금 6&lt;br/&gt;&lt;em&gt;&lt;title&gt;'Not a First-Come, First-Served Basis'… KT Fined 640 Million Won for False Galaxy S25 Pre-Order Information&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 실제로는 ‘선착순 1000명’으로 참여 인원을 제한했던 것으로 드러났다&lt;br/&gt;&lt;em&gt;However, it was revealed that they actually limited participation to 'first 1,000 people'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선착순으로 입장합니다.&lt;br/&gt;&lt;em&gt;Admission is on a first-come, first-served basis.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 이벤트는 선착순입니다.&lt;br/&gt;&lt;em&gt;This event is first-come, first-served.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1563480379612-332dcd2a742a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaXJzdC1jb21lLWZpcnN0LXNlcnZlZHxlbnwwfHx8fDE3NzgyNDIzODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선착순 (first-come-first-served)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘Not a First-Come, First-Served Basis’… KT Fined 640 Million Won for False Galaxy S25 Pre-Order Information (선착순 아니라더니…KT ‘갤S25 사전예약’ 허위 안내 과징금 6&lt;br/&gt;&lt;em&gt;'Not a First-Come, First-Served Basis'… KT Fined 640 Million Won for False Galaxy S25 Pre-Order Information&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;‘Not a First-Come, First-Served Basis’… KT Fined 640 Million Won for False Galaxy S25 Pre-Order Information (선착순 아니라더니…KT ‘갤S25 사전예약’ 허위 안내 과징금 6&lt;br/&gt;&lt;em&gt;&lt;title&gt;'Not a First-Come, First-Served Basis'… KT Fined 640 Million Won for False Galaxy S25 Pre-Order Information&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 실제로는 ‘선착순 1000명’으로 참여 인원을 제한했던 것으로 드러났다&lt;br/&gt;&lt;em&gt;However, it was revealed that they actually limited participation to 'first 1,000 people'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선착순으로 입장합니다.&lt;br/&gt;&lt;em&gt;Admission is on a first-come, first-served basis.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 이벤트는 선착순입니다.&lt;br/&gt;&lt;em&gt;This event is first-come, first-served.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 09 May 2026 05:38:35 +0900</pubDate><guid isPermaLink="false">vocab-fc56ffdaf51876a169cc7bf30f0dfbddbaabda10</guid><enclosure url="https://images.unsplash.com/photo-1563480379612-332dcd2a742a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaXJzdC1jb21lLWZpcnN0LXNlcnZlZHxlbnwwfHx8fDE3NzgyNDIzODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="102583" /><ns2:content url="https://images.unsplash.com/photo-1563480379612-332dcd2a742a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaXJzdC1jb21lLWZpcnN0LXNlcnZlZHxlbnwwfHx8fDE3NzgyNDIzODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1563480379612-332dcd2a742a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaXJzdC1jb21lLWZpcnN0LXNlcnZlZHxlbnwwfHx8fDE3NzgyNDIzODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>선착순</category></item><item><title>참여형 – participatory</title><link>urn:urn:vocab:참여형</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758959975358-95f5127660d0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0aWNpcGF0b3J5fGVufDB8fHx8MTc3ODI2NTEzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="참여형 (participatory)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(특히 서울과기대 금속공예디자인학과의 산학 연계 교육과정을 기반으로 학생 참여형 프로젝트를 운영하여, 학생들에게 실무 중심 교육과 공공기관 협력 경험을 제공할 계획이다&lt;br/&gt;&lt;em&gt;(In particular, based on the industry-academic curriculum of the Department of Metal Craft and Design at Seoul National University of Science and Technology, we plan to operate student-participatory projects to provide students with practical education and experience in cooperation with public institutions.)&lt;/em&gt;&lt;/p&gt;
