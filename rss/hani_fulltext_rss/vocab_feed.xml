@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 12:50:15 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 14:55:24 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>검색어 – search term</title><link>urn:urn:vocab:검색어</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>순으로 – in order</title><link>urn:urn:vocab:순으로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1628858979828-7e4c61e0f895?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMG9yZGVyfGVufDB8fHx8MTc3ODIxOTcxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="순으로 (in order)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(행사는 김재구 교수기도회 회장의 개회사를 시작으로, △축하 인사(임연수 총장) △축복의 사람(카르멜 찬양팀) △공연(김미란 교수 외 3인, 윤광범 교수 외 3인) △하나님의 약속(카르멜 찬양팀) △마침기도(백성우 목사) 순으로 진행됐다&lt;br/&gt;&lt;em&gt;The event proceeded in the following order: opening remarks by Professor Jaegu Kim, president of the Professor Prayer Meeting; congratulatory remarks by President Yeonsoo Lim; 'People of Blessing' by the Carmel Praise Team; performances by Professor Miran Kim and three others, and by Professor Gwangbeom Yoon and three others; 'God's Promise' by the Carmel Praise Team; and closing prayer by Pastor Seongwoo Baek.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;수능 반영비율은 국어·수학·영어·탐구(1과목) 중 성적이 우수한 4개 순으로 각각 35%, 25%, 25%, 15%를 적용한다(약학과 제외)&lt;br/&gt;&lt;em&gt;The reflection ratio for the CSAT is applied as 35%, 25%, 25%, and 15% for the top four subjects among Korean, Math, English, and one elective subject (excluding Pharmacy), in descending order of scores.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2) 순으로 지수가 높았다&lt;br/&gt;&lt;em&gt;The index was high in the order of 2).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이름 순으로 서세요.&lt;br/&gt;&lt;em&gt;Stand in order of name.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;숫자 순으로 정리하세요.&lt;br/&gt;&lt;em&gt;Arrange them in numerical order.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1628858979828-7e4c61e0f895?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMG9yZGVyfGVufDB8fHx8MTc3ODIxOTcxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="순으로 (in order)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(행사는 김재구 교수기도회 회장의 개회사를 시작으로, △축하 인사(임연수 총장) △축복의 사람(카르멜 찬양팀) △공연(김미란 교수 외 3인, 윤광범 교수 외 3인) △하나님의 약속(카르멜 찬양팀) △마침기도(백성우 목사) 순으로 진행됐다&lt;br/&gt;&lt;em&gt;The event proceeded in the following order: opening remarks by Professor Jaegu Kim, president of the Professor Prayer Meeting; congratulatory remarks by President Yeonsoo Lim; 'People of Blessing' by the Carmel Praise Team; performances by Professor Miran Kim and three others, and by Professor Gwangbeom Yoon and three others; 'God's Promise' by the Carmel Praise Team; and closing prayer by Pastor Seongwoo Baek.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;수능 반영비율은 국어·수학·영어·탐구(1과목) 중 성적이 우수한 4개 순으로 각각 35%, 25%, 25%, 15%를 적용한다(약학과 제외)&lt;br/&gt;&lt;em&gt;The reflection ratio for the CSAT is applied as 35%, 25%, 25%, and 15% for the top four subjects among Korean, Math, English, and one elective subject (excluding Pharmacy), in descending order of scores.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2) 순으로 지수가 높았다&lt;br/&gt;&lt;em&gt;The index was high in the order of 2).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이름 순으로 서세요.&lt;br/&gt;&lt;em&gt;Stand in order of name.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;숫자 순으로 정리하세요.&lt;br/&gt;&lt;em&gt;Arrange them in numerical order.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 08 May 2026 14:55:24 +0900</pubDate><guid isPermaLink="false">vocab-20b819a0aabdb35052cde6158ea1730f0369c8d5</guid><enclosure url="https://images.unsplash.com/photo-1628858979828-7e4c61e0f895?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMG9yZGVyfGVufDB8fHx8MTc3ODIxOTcxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="64740" /><ns2:content url="https://images.unsplash.com/photo-1628858979828-7e4c61e0f895?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMG9yZGVyfGVufDB8fHx8MTc3ODIxOTcxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1628858979828-7e4c61e0f895?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMG9yZGVyfGVufDB8fHx8MTc3ODIxOTcxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>순으로</category></item><item><title>검색어 – search term</title><link>urn:urn:vocab:검색어</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632096936824-565d39f8e5eb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZWFyY2glMjB0ZXJtfGVufDB8fHx8MTc3ODIxMjIxMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="검색어 (search term)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Professor Lee Ja-yeon of Hanyang University Appointed as Member of the Korea Internet Self-governance Organization (KISO) Post and Search Term Policy Subcommittee (한양대 이자연 교수, 한국인터넷자율정책기구(KISO) 게시물·검색어 정책 소위원회 위원 위촉) &lt;&lt;br/&gt;&lt;em&gt;Professor Lee Ja-yeon of Hanyang University Appointed as Member of the Korea Internet Self-governance Organization (KISO) Post and Search Term Policy Subcommittee&lt;/em&gt;&lt;/p&gt;

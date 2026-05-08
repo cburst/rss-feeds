@@ -1,87 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 08 May 2026 03:50:10 +0000</lastBuildDate><item><title>Is It Time to Tax the Oil and Gas Industry’s Windfall? (석유·가스 업계의 초과 이익에 세금을 부과할 때가 되었는가?)</title><link>https://www.nytimes.com/2026/05/05/climate/oil-and-gas-windfall-tax-climate.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/05/multimedia/05cli-newsletter-WindfallTax-01-wlfg/05cli-newsletter-WindfallTax-01-wlfg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;As U.S. gas prices soar to their highest levels in four years, it’s becoming clear that the war in Iran has been very profitable for oil and gas companies. BP boasted about “exceptional” performance in the first quarter of this year, and TotalEnergies, which is based in France, announced $5.4 billion in net profits, Patricia Cohen reported last week.&lt;br/&gt;(미국 휘발유 가격이 4년 만에 최고치로 치솟으면서 이란 전쟁이 석유·가스 기업들에게 매우 수익성이 높았다는 사실이 분명해지고 있다. BP는 올해 1분기 "예외적인" 실적을 자랑했고, 프랑스에 본사를 둔 토탈에너지는 54억 달러의 순이익을 발표했다고 패트리샤 코헨이 지난주 보도했다.)&lt;/p&gt;
-&lt;p&gt;Now, the finance ministers of a handful of European countries, including Germany and Italy, along with a few Democrats in the Senate, are calling for windfall taxes on the war-related gains of oil and gas companies. These excess profits are the result of the war in Iran, the argument goes, as opposed to savvy business decisions, and should be taxed more. Governments could then use the proceeds to send money back to consumers saddled with high energy bills or invest in renewable energy sources.&lt;br/&gt;(이제 독일과 이탈리아 등 일부 유럽 국가들의 재무장관과 상원의 몇몇 민주당 의원들은 석유·가스 기업들의 전쟁 관련 이익에 대해 초과 이익세를 부과할 것을 촉구하고 있다. 이러한 초과 이익은 현명한 사업 결정의 결과라기보다는 이란 전쟁의 결과이므로 더 높은 세율로 과세되어야 한다는 주장이다. 그러면 정부는 그 수익을 높은 에너지 요금에 시달리는 소비자들에게 돌려주거나 재생 에너지원에 투자할 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 새로운 아이디어가 아니다. 2022년, EU 국가들, 영국, 인도는 러시아의 우크라이나 침공으로 에너지 가격이 급등하자 화석 연료 공급업체에 초과 이익세를 부과했다. 1980년대에는 미국이 석유 회사에 자체 초과 이익세를 부과했으며, 한때 지미 카터 대통령은 그 수익의 일부를 태양광 대출을 지원하는 데 사용할 계획이었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 석유·가스 초과 이익에 대한 과세 노력은 근본적인 문제에 직면했다. 때로는 예상만큼 많은 수익을 올리지 못한다는 것이다. 오늘 우리는 그 이유 몇 가지를 설명하겠다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑스가 2022년 화석 연료 기업의 순이익에 임시 초과 이익세를 시행했을 때, 정책 입안자들은 이를 통해 최대 30억 달러의 세수를 기대했다. 그러나 실제 기업들은 6900만 달러만 납부했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-무슨 일이 일어난 것일까?
-&lt;&lt;&lt;PARA&gt;&gt;
-파리 경제대학 연구진은 국제 기업 수익 데이터 분석을 기반으로 설명을 내놓았다. 석유·가스 기업들은 고세율 국가에서 실효 세율이 약 6%인 조세 피난처로 수익을 옮기는 것으로 보였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-연구진은 평년에는 기업들이 수익의 약 12%를 모리셔스, 마카오, 몰타와 같은 매우 낮은 세율의 국가에 기록한다는 것을 발견했다. 유가가 높을 때는 조세 피난처에 기록된 수익 비율이 20%로 상승했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-어떻게 이것이 가능한가? "이론적으로 기업은 실제 활동이 일어나는 곳에 수익을 기록해야 합니다."라고 이 논문의 공동 저자 중 한 명인 앨리스 키오케티가 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 석유·가스 기업들은 서로 재화와 용역을 사고파는 복잡한 자회사 네트워크를 갖는 경향이 있으며, 회사의 한 부분이 다른 부분에 얼마를 청구할지 결정하는 데 어느 정도 재량권이 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 프랑스에서 수익의 50%를 내는 기업이 수익의 몇 퍼센트 포인트를 조세 피난처에 본사를 둔 다른 사업체로 이전하여 프랑스 내 과세 소득과 전체 글로벌 세금 부담을 낮출 수 있는 방법을 찾을 수 있음을 의미한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-세금이 기대에 미치지 못한 추가적인 이유도 있다. 이 세금은 정책 입안자들이 예상했던 것보다 더 적은 기업에 적용되었다. 그리고 기업들은 이전 연도의 손실을 소득에서 공제했는데, 이는 기업의 세금 부담을 줄여주는 일반적인 기업 회계 관행이라고 기업 과세를 연구하는 스탠포드 대학의 박사후 연구원 마농 프랑수아가 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-1970년대, 미국이 석유 가격 통제를 해제하기 시작하면서 많은 사람들은 석유·가스 채굴 기업에 호황이 올 것으로 예상했다. 석유 산업에 대한 새로운 세금은 정치적 필수불가결한 것으로 여겨졌다. (타임스 사설위원회는 1979년 석유·가스 이익에 대해 무언가 조치가 필요하다고 주장하며 세금을 지지했다.)
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 예외적인 상황에 대응하여 일회성 부과금으로 부과된 전형적인 초과 이익세가 아니었다. 대신 시간이 지남에 따라 원유 생산에 과세하도록 설계되었다. 다양한 생산자가 정부 회계 감사원이 1984년 보고서에서 "아마도 미국 산업에 부과된 가장 크고 복잡한 세금"이라고 부른 복잡한 시스템에서 서로 다른 수준으로 과세되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 세금이 통과된 후 유가는 일부 사람들이 예측했던 어지러울 정도의 높은 수준에 도달하지 못했다. 그리고 세금은 예상만큼 많은 수익을 가져오지 못했다. 마지막 2년 동안에는 전혀 세수를 올리지 못했다. 로널드 레이건 대통령은 이에 반대하는 캠페인을 벌였고, 의원들은 이것이 국내 생산을 저해하고 있다고 우려했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-의회는 1988년 원유 초과 이익세를 폐지했다. 그 시점에 이전에 지지했던 타임스 사설위원회는 이에 반대하는 입장으로 돌아섰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-파리 경제대학 연구진의 연구 결과는 의원들이 향후 버전의 초과 이익세에서 허점을 막는 데 도움이 될 수 있다. 키오케티와 공동 저자 니논 모로-카스틀러는 더 효과적인 구조는 "조작할 수 없는" 숫자에 기반할 수 있다고 말했다. 기업이 종종 이전할 수 있는 현지 소득에 과세하는 대신, 국가들은 국내 판매량이나 정제량을 기준으로 에너지 기업에 과세하는 것을 선택할 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국에서는 새로운 초과 이익세를 부과하는 것보다 화석 연료 산업이 더 많은 세금을 내도록 강제하는 더 간단한 방법이 있다. 의회 조사국이 2022년 보고서에서 지적했듯이, 의원들은 기업의 연간 세금 청구서를 낮추는 많은 업계별 보조금 중 일부를 단순히 폐지할 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-우리는 또한 의원들이 아무것도 하지 않을 때 어떤 일이 일어나는지에 대해 예전보다 더 많이 알고 있다. 2022년 러시아-우크라이나 연료 위기로 화석 연료 기업들이 기록적인 이익을 얻은 후, 최근 연구에 따르면 미국 상위 1%의 부유층이 전 세계 혜택의 약 절반을 차지한 것으로 나타났다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 행정부
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 행정부가 백악관 동관 철거 잔해를 버린 워싱턴의 공공 골프장 토양에서 납, 크롬 및 기타 유해 금속이 검출되었다고 국립공원관리청 데이터가 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-공원관리청이 지난주 자체 웹사이트에 게시한 데이터는 이스트 포토맥 골프 링크스의 토양에서 이러한 오염 물질의 수치가 상대적으로 낮은 것으로 나타났다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 이 매립지로 인해 제퍼슨 기념관 근처의 인기 있는 공공 코스 한가운데에 트럼프 행정부가 진흙, 철근, 석고 및 기타 잔해를 트럭에 가득 실어 버리기로 한 결정이 환경법을 우회한 것에 대한 의문이 제기되었다. — 맥신 조슬로
-&lt;&lt;&lt;PARA&gt;&gt;
-더 읽어보기.
-&lt;&lt;&lt;PARA&gt;&gt;
-오늘의 숫자
-&lt;&lt;&lt;PARA&gt;&gt;
-브래드 플루머는 풍력 산업 협회에 따르면 트럼프 행정부가 한때 일상적이었던 군사 검토를 지연시켜 미국 전역의 150개 이상의 육상 풍력 발전 단지를 차단하고 있다고 보도했다. 이들 풍력 발전 단지는 함께 30기가와트의 전력을 생산할 것으로 예상되었다. 그는 1기가와트가 30만 가구 이상에 충분한 전력을 공급할 수 있지만, 풍력 터빈이 모든 시간대에 전력을 생산할 수는 없다고 썼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-과학이 말하는 바: 풍력 터빈은 선박 레이더와 항공기를 찾는 지상 시스템에 두 가지 문제를 일으킨다고 에릭 나일러가 썼다. 첫째, 강철 지지탑이 전자기파를 반사하여 레이더가 근처 물체를 감지하기 어렵게 만들 수 있다. 둘째, 회전하는 블레이드는 레이더 화면에 "블레이드 플래시"를 생성하여 실제로는 없는 물체가 있는 것처럼 보이게 할 수 있다. 그러나 연구자들은 새로운 기술을 사용하고 기업들이 풍력 터빈을 건설하는 위치를 조정함으로써 이 문제를 관리할 수 있다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-해상 운송에 대한 최초의 글로벌 탄소세가 적어도 현재로서는 추진되고 있다고 AP 통신이 보도했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-가디언이 강조한 새로운 연구에 따르면 뉴올리언스 주민들의 이주 과정이 즉시 시작되어야 하는데, 그 이유는 이 도시가 "돌아올 수 없는 지점"에 도달했으며 세기 말까지 대부분 물에 잠길 수 있기 때문이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-여기에서 뉴스레터의 과거 호를 읽어보세요.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 글을 즐기고 계신다면 다른 사람들에게 추천해 주시기 바랍니다. 그들은 여기에서 가입할 수 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-인스타그램, 스레즈, 페이스북, 틱톡에서 @nytimes로 뉴욕 타임스를 팔로우하세요.
-&lt;&lt;&lt;PARA&gt;&gt;
-climateforward@nytimes.com으로 연락해 주세요. 모든 메시지를 읽고 많은 답변을 드립니다!)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/05/climate/oil-and-gas-windfall-tax-climate.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/05/multimedia/05cli-newsletter-WindfallTax-01-wlfg/05cli-newsletter-WindfallTax-01-wlfg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 05 May 2026 10:01:04 +0000</pubDate></item><item><title>Andrew Tate’s Civil Trial Over Assault Claims Is Postponed (앤드류 테이트 폭행 혐의 민사 재판 연기)</title><link>https://www.nytimes.com/2026/05/05/world/europe/andrew-tate-trial-uk-accusations.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/05/multimedia/00xp-tate-hfo-jbhw/00xp-tate-hfo-jbhw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;A British judge on Tuesday paused a civil trial in which four women had accused the online influencer Andrew Tate of abuse, a month after the police in Britain said they were reinvestigating criminal accusations against Mr. Tate by three of the women.&lt;br/&gt;(영국 판사가 화요일 온라인 인플루언서 앤드류 테이트를 네 명의 여성이 학대 혐의로 고소한 민사 재판을 중단시켰다. 이는 영국 경찰이 한 달 전 테이트에 대한 세 명의 여성의 형사 고소를 재수사하겠다고 밝힌 직후다.)&lt;/p&gt;
-&lt;p&gt;The trial, which had been set to begin in June in Britain’s High Court, was expected to be a closely scrutinized legal confrontation between Mr. Tate, the influencer known for his misogynistic views, and several women who had accused Mr. Tate of abusing them.&lt;br/&gt;(6월 영국 고등법원에서 시작될 예정이었던 이 재판은 여성 혐오적 견해로 유명한 인플루언서 테이트와 그를 학대 혐의로 고소한 여러 여성 간의 면밀히 주시되는 법적 대결이 될 것으로 예상되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 민사 소송은 테이트와 그의 형 트리스탄 테이트를 둘러싼 여러 법적 얽힘 중 하나이지만, 형제 중 한 명을 상대로 한 첫 재판 중 하나가 될 예정이었다. 테이트 형제는 루마니아 검찰이 수사하는 동안 2년간 루마니아를 떠나는 것이 금지되었으나, 2025년 2월에 여행 제한이 해제되었다.)&lt;/p&gt;
-&lt;p&gt;The civil suit is among several legal entanglements involving Mr. Tate and his brother, Tristan Tate, but it was set to be one of the first cases against one of the brothers to proceed to trial. The Tates were prohibited from leaving Romania for two years as prosecutors there investigated them, but the travel restrictions were lifted in February 2025.&lt;br/&gt;(화요일 연기된 재판은 2013년에서 2015년 사이에 테이트가 목을 조르며 학대했다고 고소한 네 명의 여성과 관련되며, 이 중 두 명은 테이트가 강간했다고도 주장했다. 테이트는 법원 문서와 변호사를 통해 혐의를 강력히 부인하며 모든 성관계는 합의에 의한 것이라고 주장했다.)&lt;/p&gt;
-&lt;p&gt;The trial postponed on Tuesday involves four women who have accused Mr. Tate of choking them between 2013 and 2015, two of whom also said Mr. Tate had raped them. Mr. Tate, in court filings and through lawyers, has strongly denied the allegations and said that any intercourse was consensual.&lt;br/&gt;(세 명의 여성은 2014년과 2015년에 경찰에 고소했지만, 검찰은 기소를 거부했다. 네 번째 여성이 나중에 학대 혐의를 제기했고, 그룹은 2024년 영국 민사 법원에 테이트를 폭행, 구타 및 의도적 해악 가하기 혐의로 고소했다.)&lt;/p&gt;
-&lt;p&gt;Three of the women reported their allegations to the police in 2014 and 2015, but prosecutors declined to bring charges. A fourth woman later came forward with allegations of abuse, and the group sued Mr. Tate in 2024 in the British civil court alleging assault, battery and infliction of intentional harm.&lt;br/&gt;(그러나 3월, 허트퍼드셔 경찰은 경찰 감독 기관이 사건의 세 명의 경찰관에 대해 우려를 제기한 후, 그 중 한 명이 제대로 수사하지 못했다고 지적하면서 세 명의 여성이 제기한 고소를 재수사 중이라고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;But in March, Hertfordshire Constabulary said it was reinvestigating the accusations brought by the three women after a police watchdog raised concerns about three officers in the case, including one the watchdog said had failed to properly investigate.&lt;br/&gt;(새로운 수사가 발표된 후, 테이트의 변호사는 민사 재판의 중지를 신청했다. 화요일 런던에서 열린 심리에서 그의 변호사들은 경찰로부터 관련 자료를 받는 데 지연이 있었고, 민사 재판이 잠재적인 후속 절차에 편향을 줄 수 있다는 우려를 제기했다.)&lt;/p&gt;
-&lt;p&gt;After the new investigation was announced, Mr. Tate’s lawyers applied for a stay in the civil trial. At the hearing in London on Tuesday, his lawyers cited delays in receiving relevant material from the police and concerns that the civil trial could prejudice any potential subsequent proceedings.&lt;br/&gt;(법원 문서에 따르면 사건의 형사 수사관을 인용해 재수사는 상당할 것으로 예상된다. 경찰은 증거 검토에 최대 1년이 걸릴 수 있다고 법원에 밝혔으며, 여기에는 10개 기기의 데이터와 50만 건 이상의 메시지 및 채팅 기록이 포함된다.)&lt;/p&gt;
-&lt;p&gt;The reinvestigation is expected to be substantial, according to court filings citing a detective superintendent in the case. The police have told the court that it could take up to a year to review the evidence, which includes data from 10 devices and more than half a million records of messages and chat logs.&lt;br/&gt;(민사 재판의 새로운 일정은 아직 정해지지 않았지만, 재판장 크리스티나 램버트 판사는 수년이 걸릴 수 있는 잠재적 형사 재판의 결과를 기다리는 아이디어에 "끌리지 않는다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;No new date has yet been set for the civil trial, but Justice Christina Lambert, the presiding judge, said she was “not attracted” to the idea of waiting for the outcome of a potential criminal trial, which could take years.&lt;br/&gt;(네 여성의 변호사 앤 스터드는 재판 연기에 동의했지만, 테이트가 절차를 지연시켜 "책임을 회피"하려 한다는 우려를 이유로 내년에 재판 일정을 잡아달라고 요청했다.)&lt;/p&gt;
-&lt;p&gt;A lawyer for the four women, Anne Studd, said they had agreed to adjourn the trial, but asked for a trial date to be set for next year, citing concerns that Mr. Tate was seeking to “evade accountability” by delaying the proceedings.&lt;br/&gt;(39세의 테이트는 그의 변호사에 따르면 화요일 미국에 있었으며 곧 루마니아로 돌아올 예정이다. 테이트의 변호사 앤드류 포드는 그의 팀이 민사 재판 연기 결정을 지지한다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;Mr. Tate, 39, was in the United States on Tuesday, according to his lawyers, and was expected to return to Romania soon. Andrew Ford, a lawyer for Mr. Tate, said his team endorsed the judge’s decision to delay the civil trial.&lt;br/&gt;(민사 사건 외에도, 영국 당국은 테이트와 그의 형을 세 명의 다른 여성과 관련된 강간, 인신매매 및 폭행 혐의로 별도의 형사 사건에 기소했다.)&lt;/p&gt;
-&lt;p&gt;In addition to the civil case, the British authorities have charged Mr. Tate and his brother in a separate criminal case on counts of rape, human trafficking and assault relating to three different women.&lt;br/&gt;(루마니아에서 검찰은 형제들이 17세 소녀를 포함한 30명 이상의 여성을 포르노그래피 사업으로 밀매했다고 고소했다. 플로리다 주 법무장관은 작년에 형제들에 대한 형사 사건을 열었고, 국토안보부의 인신매매 방지 요원들이 테이트 형제를 조사해왔다고 기밀 수사에 정통한 소식통이 전했다.)&lt;/p&gt;
-&lt;p&gt;In Romania, prosecutors have accused the brothers of trafficking more than 30 women, including a 17-year-old, into their pornography operation. Florida’s attorney general opened a criminal case against the brothers last year, and anti-trafficking agents at the Department of Homeland Security have been investigating the Tates, according to people familiar with the confidential investigation.&lt;br/&gt;(미국에서는 뉴욕타임스 조사에 따르면, 2023년부터 국토안보부 인신매매 방지 요원과 연방 검사가 그들을 수사해왔다.)&lt;/p&gt;
-&lt;p&gt;In the United States, a New York Times investigation found, they have been under investigation by Homeland Security anti-trafficking agents and federal prosecutors since 2023.&lt;br/&gt;(형제들은 모든 민사 및 형사 고소를 반복적으로 부인했으며, 일부 고소인을 명예훼손으로 고소했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/05/world/europe/andrew-tate-trial-uk-accusations.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/05/multimedia/00xp-tate-hfo-jbhw/00xp-tate-hfo-jbhw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 05 May 2026 10:23:31 +0000</pubDate></item><item><title>Japan’s New Leader Tours Asia, Pitching Stability in Troubled Times (일본 신임 총리, 불안정한 시대에 안정감을 내세우며 아시아 순방)</title><link>https://www.nytimes.com/2026/05/06/world/asia/japan-takaichi-australia-vietnam.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/06/multimedia/06int-japan-diplo-01-wlbz/06int-japan-diplo-01-wlbz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 08 May 2026 05:55:18 +0000</lastBuildDate><item><title>Japan’s New Leader Tours Asia, Pitching Stability in Troubled Times (일본 신임 총리, 불안정한 시대에 안정감을 내세우며 아시아 순방)</title><link>https://www.nytimes.com/2026/05/06/world/asia/japan-takaichi-australia-vietnam.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/06/multimedia/06int-japan-diplo-01-wlbz/06int-japan-diplo-01-wlbz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Prime Minister Sanae Takaichi’s visit to Vietnam and Australia over the past few days had all the trappings of a standard diplomatic tour. She showered her hosts with praise and gifts, including prized Japanese melons. She snapped selfies with students in Canberra and tried her hand at playing traditional drums in Hanoi.&lt;br/&gt;(가까이 사나에 일본 총리가 지난 며칠간 베트남과 호주를 방문한 것은 표준적인 외교 순방의 모든 요소를 갖추고 있었다. 그녀는 귀중한 일본산 멜론을 포함한 칭찬과 선물로 현지 관계자들을 대접했다. 캔버라에서는 학생들과 셀카를 찍고, 하노이에서는 전통 북을 직접 연주해보기도 했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 하지만 화요일 가까이 총리가 호주 수도를 떠날 무렵, 이번 여정이 결코 일상적인 것이 아니었음이 분명해졌다. 이는 중국의 공격적인 행보와 도널드 트럼프 대통령의 변덕스러운 외교 정책으로 점점 더 불안해지는 지역에서 일본이 안정과 강함의 힘으로 자리매김하기 위한 첫 신호탄이었다.
@@ -512,7 +430,7 @@ CDC의 거의 모든 센터장은 최근에 임명되었거나 직무 대행으�
 &lt;p&gt;Have a great weekend! — Katrin&lt;br/&gt;(멋진 주말 보내세요! — 카트린)&lt;/p&gt;
 &lt;p&gt;Here are today’s Spelling Bee, Mini Crossword, Wordle and Sudoku. Find all our games here.&lt;br/&gt;(오늘의 스펠링 비, 미니 크로스워드, 워들, 스도쿠가 있습니다. 모든 게임은 여기에서 찾을 수 있습니다.)&lt;/p&gt;
 &lt;p&gt;We welcome your feedback. Send us your suggestions at theworld@nytimes.com.&lt;br/&gt;(피드백을 환영합니다. theworld@nytimes.com으로 제안을 보내주세요.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/07/world/venice-biennale-art-politics-iran-explosions.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/08/multimedia/08int-theworld-venice-biennale-hcwp/08int-theworld-venice-biennale-hcwp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 07 May 2026 12:01:38 +0000</pubDate></item><item><title>U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise (미국과 이란, 호르무즈 해협 긴장 고조 속 상호 공격)</title><link>https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/07/multimedia/07mideast-centcom-strikes1-hzqk/07mideast-centcom-strikes1-hzqk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/07/world/venice-biennale-art-politics-iran-explosions.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/08/multimedia/08int-theworld-venice-biennale-hcwp/08int-theworld-venice-biennale-hcwp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 07 May 2026 20:16:47 +0000</pubDate></item><item><title>U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise (미국과 이란, 호르무즈 해협 긴장 고조 속 상호 공격)</title><link>https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/07/multimedia/07mideast-centcom-strikes1-hzqk/07mideast-centcom-strikes1-hzqk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The United States and Iran traded missile fire and accusations on Thursday as tensions in the Strait of Hormuz ratcheted up, threatening the cease-fire.&lt;br/&gt;(목요일 미국과 이란이 호르무즈 해협에서 긴장이 고조되는 가운데 미사일 공격과 비난을 주고받으며 휴전에 위협을 가했다.)&lt;/p&gt;
 &lt;p&gt;U.S. Central Command said in a statement that the United States had “intercepted unprovoked Iranian attacks and responded with self-defense strikes” while American guided-missile destroyers were transiting the strait to the Gulf of Oman on Thursday.&lt;br/&gt;(미 중부사령부는 성명에서 목요일 미국 유도미사일 구축함들이 해협을 통과해 오만만으로 이동하던 중 "미국이 도발적인 이란의 공격을 요격하고 자위적 차원에서 타격을 가했다"고 밝혔다.)&lt;/p&gt;
 &lt;p&gt;The statement said that Iranian forces had launched multiple missiles, drones and small boats as three U.S. Navy ships were transiting the strait. None of the naval vessels were hit, Central Command said.&lt;br/&gt;(성명은 미 해군 함정 3척이 해협을 통과하던 중 이란군이 다수의 미사일, 드론 및 소형 선박을 발사했다고 전했다. 중부사령부는 미 해군 함정 중 어느 것도 피격되지 않았다고 밝혔다.)&lt;/p&gt;
@@ -592,7 +510,114 @@ CBS 뉴스는 앞서 국무부가 멕시코 영사관에 대한 검토를 시작
 셰인바움 여사는 또한 지난주 미국 검찰이 멕시코 마약 카르텔을 도왔다고 공개적으로 비난한 멕시코 주지사를 체포하기를 거부했다. 셰인바움 여사는 자신의 정당 소속인 그 주지사를 보호하는 것이 아니라고 말하며, 미국이 체포를 정당화할 충분한 증거를 제시하지 않았다고 주장했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 에드 웡이 워싱턴에서 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/07/us/politics/mexico-consulates-state-department.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/07/multimedia/07dc-mexico-zhpk/07dc-mexico-zhpk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 07 May 2026 18:18:11 +0000</pubDate></item><item><title>Starmer Faces a Major Test in a Set of U.K. Elections: What to Know (영국 선거에서 스타머가 맞는 중대 시험: 알아야 할 사항들)</title><link>https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-starmer.html</link><description>&lt;![CDATA[&lt;p&gt;With millions of voters set to cast ballots in a set of elections across Britain on Thursday, Prime Minister Keir Starmer faces his biggest — and most perilous — electoral test since he led his Labour Party to a general election victory in 2024.&lt;br/&gt;(목요일 영국 전역에서 수백만 유권자들이 일련의 선거에 투표함에 따라, 키어 스타머 총리는 2024년 노동당을 총선 승리로 이끈 이후 가장 크고 위험한 선거 시험대에 오른다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/07/us/politics/mexico-consulates-state-department.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/07/multimedia/07dc-mexico-zhpk/07dc-mexico-zhpk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 07 May 2026 18:18:11 +0000</pubDate></item><item><title>Russia in No Mood for Celebration on Kremlin’s Biggest Day of the Year (러시아, 크렘린의 가장 중요한 날에 축제 분위기 없어)</title><link>https://www.nytimes.com/2026/05/08/world/europe/russia-mood-victory-day.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/08/multimedia/08int-russia-mood-pmvf/08int-russia-mood-pmvf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Russian flags in red, white and blue whip in the wind along Moscow’s wide boulevards. Parks and promenades teem with freshly planted flowers. Orange-and-black-striped Ribbons of St. George, symbols of Russian military valor, festoon nearly every shop window.&lt;br/&gt;(빨간색, 흰색, 파란색 러시아 국기가 모스크바의 넓은 대로를 따라 바람에 휘날린다. 공원과 산책로는 갓 심은 꽃들로 가득하다. 러시아 군인의 용기를 상징하는 주황색과 검은색 줄무늬의 성 조지 리본이 거의 모든 상점 창문을 장식하고 있다.)&lt;/p&gt;
+&lt;p&gt;Since Soviet times, the “May Holidays” — the period from May 1, International Workers’ Day, to May 9, when Russia celebrates the Soviet role in defeating the Nazis in World War II — have heralded the arrival of spring.&lt;br/&gt;(소비에트 시대 이래로, 5월 1일 국제 노동자의 날부터 5월 9일 러시아가 제2차 세계대전에서 나치를 물리치는 데 소련의 역할을 기념하는 날까지의 기간인 '5월 휴일'은 봄의 도래를 알려 왔다.)&lt;/p&gt;
+&lt;p&gt;But this year, the mood is hardly festive.&lt;br/&gt;(하지만 올해는 분위기가 축제와는 거리가 멀다.)&lt;/p&gt;
+&lt;p&gt;Prices and taxes are rising as the economy struggles to bear the cost of the war in Ukraine. A new wave of repressive wartime measures has led to once-unthinkable internet restrictions, including another round of blackouts this week in Moscow and St. Petersburg. Negotiations to end the war have stalled just as polls show that record numbers of war-weary Russians want peace.&lt;br/&gt;(경제가 우크라이나 전쟁 비용을 감당하기 위해 고군분투하면서 물가와 세금이 오르고 있다. 새로운 탄압적 전시 조치로 인해 한때는 상상조차 할 수 없었던 인터넷 제한이 도입되었으며, 이번 주에는 모스크바와 상트페테르부르크에서 또 다른 차단이 이루어졌다. 전쟁 종식을 위한 협상은 교착 상태에 빠졌고, 여론조사는 전쟁에 지친 러시아인들이 기록적인 수준으로 평화를 원한다는 것을 보여준다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이번 퍼레이드 시즌, 전쟁은 수도 모스크바로 돌아오고 있다. 그곳의 공원은 꽃뿐만 아니라 금속 탐지기로도 장식되어 있다. 크렘린 권력의 중심부에서 펼쳐지는 올해 최대 규모의 행사 중 하나인 5월 9일 붉은 광장 행진은 우크라이나의 드론 공격 가능성 때문에 축소되고 있다. 그 위험은 월요일, 드론이 모스크바의 고급 주거용 건물에 충돌하면서 현실화되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+예상치 못한 약점을 드러내며, 러시아 정부는 퍼레이드 당일 우크라이나에 휴전을 호소했지만 실패했고, 블라디미르 V. 푸틴 대통령을 보호하기 위한 "추가 안전 조치"를 인정했다. 크렘린은 "키예프의 테러 위협"을 이유로 거의 모든 기자의 행사 참가를 금지했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+수도와는 거리가 먼 곳에서 우크라이나는 국경에서 930마일 떨어진 페름과 흑해 도시 투압세를 포함한 러시아 석유 시설을 반복적으로 공격했으며, 투압세에서는 공격으로 생태 재앙이 발생했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+투압세에 사는 스베틀라나라는 여성은 러시아인들이 '위대한 조국 전쟁'이라고 부르는 소련의 참전 기간보다도 긴 4년 이상 지속된 우크라이나 전쟁에 대한 피로감이 커지고 있다고 설명했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 주민들이 전쟁이 "사람들에게 혼란과 부정적 결과만을 초래한다"는 것을 깨닫기 시작했다고 말했다. 성을 밝히지 않기를 요청한 스베틀라나는 "어리석은 악순환"에 대해 설명하며 세금이 오르고, 추가 자금이 인터넷을 차단하는 데 사용되며, 사람들이 세금을 내는 데 필요한 일을 더 어렵게 만든다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+5월 9일 승리의 날은 러시아 달력에서 가장 중요한 날이다. 크렘린은 제2차 세계대전에서 소련의 승리를 러시아인을 위한 시민 종교로 만들어 왔다. 전쟁에서 사망한 소련 군인과 민간인은 약 2,700만 명으로 추산되며, 이는 참전국 중 가장 높은 인명 피해다. 소련을 세계 강국으로 만든 영웅적 승리는 러시아의 통합 요소다.
+&lt;&lt;&lt;PARA&gt;&gt;
+또한 현재의 우크라이나 수렁과 뚜렷한 대조를 이룬다.
+&lt;&lt;&lt;PARA&gt;
+러시아는 막대한 사상자에도 불구하고 그곳에서 몇 년 동안 거의 영토를 얻지 못했다. 사망자 공개 보고를 집계하는 독립 언론 매체 메디아조나에 따르면 최소 213,000명의 러시아 군인이 사망했다. 서방 연구자들은 실제 숫자가 300,000명을 훨씬 넘는 것으로 추정한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+크렘린은 먼 전쟁의 환상을 연출하여 러시아인의 마음에서 멀어지게 해 왔다. 그러나 전쟁이 경제에 부담을 주고 인터넷 제한의 구실로 사용되면서, 한 서방 대사는 모스크바에서 러시아인들이 이 모든 것을 참으려는 의지에 변화가 있음을 감지했다고 나에게 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"집단적 불안이 있습니다"라고 대사는 말했다. 왜냐하면 "아무도 이것이 어떻게 끝날지 볼 수 없기 때문입니다." 대사는 이 문제에 대해 공개적으로 발언할 권한이 없었기 때문에 익명을 요구했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+독립 여론조사 기관인 레바다 센터에 따르면, 4월 러시아인의 47%가 자신의 삶에 대해 불안을 표현했으며, 이는 1년 전보다 11%포인트 증가한 수치다.
+&lt;&lt;&lt;PARA&gt;&gt;
+경제와 인터넷 제한에 대한 불만은 푸틴 대통령에 대한 공개 지지율에서 드러나며, 몇 주 동안 하락하여 현재 전쟁 발발 이후 최저 수준이다. 그러나 여론조사자에게 불평하는 것 외에도 러시아인들은 자신의 불만을 알릴 방법이 거의 없으며, 크렘린은 점점 더 공개적인 비판을 국가에 대한 위협으로 간주한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+당국은 인터넷 중단과 텔레그램과 같은 인기 앱의 속도 제한에 항의하는 여러 도시의 시위 시도를 막았다. 공산당이 전통적으로 조직한 5월 1일 집회는 많은 지역에서 허용되지 않았다. 심지어 서부 러시아의 한 마을에서 학교 건물 공사 지연에 항의하는 집회도 차단되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+경제가 전쟁 과잉 지출, 높은 금리, 서방 제재로 인해 침체되면서, 체제와 연결된 러시아인들조차 경고음을 울리고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"저는 진심으로 우리가 곤경에 처해 있다고 믿습니다"라고 러시아 과학 아카데미의 경제학자 로베르트 니그마툴린이 지난달 모스크바 경제 포럼에서 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 소련의 생활 수준이 유럽보다 낮았다고 말했다. "그래도 우리는 나라를 건설하고 있었고, 우주와 원자력을 개발했으며, 앞서 있었고, 물론 이를 위해 희생했습니다." 니그마툴린 씨는 말했다. "이제 우리는 모든 것을 잃었고 여전히 가장 가난합니다. 중국의 가장 가난한 지역에서도 소득이 우리의 가장 가난한 지역보다 높습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 러시아의 암울한 지표를 나열했다: 2015년 이후 77% 상승한 소비자 물가, 중소기업에 너무 큰 압력을 가하는 높은 세금, 심각한 인구 통계학적 문제를 예고하는 낮은 출산율. 일부 존경받는 경제학자들은 그의 암울한 예측에 찬물을 끼얹었지만, 여전히 많은 일반인들이 압박을 느끼고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+비즈니스 컨설팅에 종사하며 역시 성을 밝히지 않기를 요청한 이리나는 "다가오는 폭풍의 느낌"이 있다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"경제 전체가 구조 조정되고 점점 더 어려워지고 있음을 봅니다"라고 그녀는 말했다. 그녀의 고객들은 직원들을 해고하고 있다고 덧붙였으며, 인플레이션이 그녀가 받은 급여 인상을 없애버렸다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+러시아의 막대한 불확실성은 표현의 자유를 위한 공간이 줄어들면서 더욱 심화되며, 러시아인들은 허용되는 것의 끊임없이 변하는 경계를 탐색해야 한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+러시아 최대 출판사 중 하나인 엑스모-AST에 대한 급습은 깊어지는 냉각을 보여준다. 경찰은 최근 금지된 L.G.B.T.Q. 콘텐츠가 담긴 책을 구실로 이 책의 최고 경영자들을 며칠 동안 구금했다. 이 책은 1월에 문을 닫은 엑스모의 자회사에서 출판되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+회사는 애국적이고 전쟁을 지지하는 책을 출판하여 크렘린을 달래려고 노력한 후에도 표적이 되었다. 엑스모의 소유주 올레그 노비코프는 지역 언론 RBK에 러시아 출판의 현재 상태는 "지뢰밭"이며, 금지된 것에 대한 "모호한 기준"을 고려할 때 그렇다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+엑스모 급습 소식이 전해졌을 때, 나는 2022년 전쟁이 시작된 후 폐쇄될 때까지 수도 마지막 독립 라디오 방송국인 에코 모스크비를 운영했던 알렉세이 A. 베네딕토프와 점심 식사를 하고 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+베네딕토프 씨는 한때 크렘린 대변인 드미트리 S. 페스코프와 국영 언론 RT의 편집장 마르가리타 시모니안과 친구였다. 이제 베네딕토프 씨는 "원하지 않는 조직의 활동에 참여"라는 행정 혐의에 직면해 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+혐의의 세부 사항은 그나 그의 변호사에게 제공되지 않았다. 러시아 법무부는 '원하지 않는' 것으로 간주되어 러시아 내에서 활동이 금지된 조직 목록을 유지 관리한다. 베네딕토프 씨는 독립 언론 매체 메두자, 환경 단체 그린피스, 예일 대학교, 엘튼 존 에이즈 재단을 포함한 350개 이상의 조직이 있는 목록을 불러왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"저는 이들 단체 중 단 하나와도 협력한 적이 없습니다"라고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+모든 러시아인이 상황에 불만족하는 것은 아니다. 어떤 이들은 다른 나라의 실패를 집중함으로써 러시아를 더 긍정적으로 본다.
+&lt;&lt;&lt;PARA&gt;&gt;
+극보수 미디어 거물 콘스탄틴 V. 말로페예프는 미국이 이란과 전쟁을 하는 "거대한 실수"를 저질렀고 "종이 호랑이"로 드러났다고 나에게 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+모스크바 중심부 가든 링 도로에 있는 그의 사무실에서 한 대화에서 그는 이스라엘 총리 베냐민 네타냐후가 트럼프 대통령의 이란 공격 결정에 미친 영향에 대해 언급했다. 그는 트럼프 씨가 통제권을 갖고 있는지 의문을 제기하며, 미국 대통령의 인지된 무력함이 워싱턴이 전쟁을 끝낼 기회를 약화시키고 있다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그가 통제하고 있다는 것을 덜 볼수록, 그가 우리와 우크라이나 사이의 협상자, 중재자 역할을 할 가능성은 줄어듭니다"라고 그는 트럼프 씨에 대해 말했다. 실패한 외교에 더해, 전장의 점진적인 로봇화는 전쟁이 더 오래 지속될 수 있음을 의미한다고 말로페예프 씨는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+공산당이 조직한 5월 1일 모스크바 칼 마르크스 동상에서 열린 집회에서 나는 러시아가 미국이나 유럽보다 "더 자유롭고 더 공정하다"고 말한 두 남자와 대화를 나누었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"인터넷은 러시아에서만 제한되는 것이 아닙니다"라고 국제 금융 분야에서 일하는 50세의 안드레이 파블로프스키라는 남자 중 한 명이 말했다. "중국, 아랍에미리트, 심지어 영국도 인터넷 트래픽을 필터링합니다. 아무도 이것에 대해 이야기하지 않지만, 러시아의 어떤 상황은 즉시 전 세계를 흥분시킵니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만, 내가 물었다, 자유로운 인터넷을 빼앗긴 기분은 어떤가?
+&lt;&lt;&lt;PARA&gt;&gt;
+"자유는 무정부 상태가 아닙니다"라고 파블로프스키 씨는 말했다. "자유는 통제입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+알리나 롭지나가 취재에 기여했다.
+&lt;&lt;&lt;END&gt;&gt;)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/08/world/europe/russia-mood-victory-day.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/08/multimedia/08int-russia-mood-pmvf/08int-russia-mood-pmvf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 07 May 2026 19:01:10 +0000</pubDate></item><item><title>China Sees a ‘Giant With a Limp’ as U.S. Drains Weapons on Iran War (중국, 이란 전쟁으로 미국이 무기 고갈되자 '절뚝거리는 거인'으로 본다)</title><link>https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/07/multimedia/00int-china-iran-us-01-tfgz/00int-china-iran-us-01-tfgz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;A grinding war in Iran has so severely drained American firepower that Chinese analysts are openly questioning Washington’s ability to defend Taiwan. That shifting calculus threatens to undercut President Trump’s leverage in his high-stakes summit next week with China’s top leader, Xi Jinping.&lt;br/&gt;(이란에서의 지루한 전쟁이 미국의 화력을 심각하게 고갈시켜, 중국 분석가들은 대만 방어에 대한 워싱턴의 능력을 공개적으로 의문시하고 있다. 이러한 변화된 계산은 다음 주 시진핑 중국 최고 지도자와의 고위험 정상회담에서 도널드 트럼프 대통령의 레버리지를 약화시킬 위협이 있다.)&lt;/p&gt;
+&lt;p&gt;Since the war began in late February, the United States has burned through around half of its long-range stealth cruise missiles and fired off roughly 10 times the number of Tomahawk cruise missiles it currently buys each year, according to internal Defense Department estimates and congressional officials.&lt;br/&gt;(국방부 내부 추산과 의회 관계자들에 따르면, 2월 말 전쟁이 시작된 이후 미국은 장거리 스텔스 순항 미사일의 약 절반을 소모했으며, 현재 연간 구매량의 약 10배에 달하는 토마호크 순항 미사일을 발사했다.)&lt;/p&gt;
+&lt;p&gt;To some Chinese military and geopolitical analysts, the war has done more than deplete U.S. munitions stockpiles, it has also shattered America’s aura of dominance. They argue that it has exposed a major flaw in U.S. war strategy: its inability to make weapons quickly enough to replenish its arsenal in a sustained, intense conflict.&lt;br/&gt;(일부 중국 군사 및 지정학 분석가들에게 이 전쟁은 미국의 탄약 비축량을 고갈시킨 것 이상으로, 미국의 지배력 아우라를 산산조각냈다고 주장한다. 그들은 이 전쟁이 미국 전쟁 전략의 주요 결함, 즉 지속적이고 강렬한 분쟁에서 무기를 신속하게 생산하여 무기고를 보충할 수 없는 능력을 드러냈다고 주장한다.)&lt;/p&gt;
+&lt;p&gt;This depletion “has significantly diminished the U.S. military’s ability to project its combat power, laying bare the shortcomings of its global military hegemony,” said Yue Gang, a retired colonel of the People’s Liberation Army, in an interview.&lt;br/&gt;(은퇴한 중국 인민해방군 대령 웨강은 인터뷰에서 이러한 고갈이 "미국 군대의 전투력 투사 능력을 현저히 감소시켰으며, 세계 군사 패권의 단점을 드러냈다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;Such arguments help fuel a narrative among hawkish Chinese commentators, and potentially in the government, that American forces could no longer effectively defend Taiwan should the United States and China ever go to war over the self-governed island. The logic of Chinese nationalists is that since the United States has been unable to achieve a quick victory against Iran, a regional military power, then it would most likely have even less success against China, which the analysts see as a peer competitor.&lt;br/&gt;(이러한 주장은 매파 중국 논객들 사이에서, 그리고 잠재적으로 정부 내에서, 미국과 중국이 자치 섬을 두고 전쟁을 벌일 경우 미군이 더 이상 대만을 효과적으로 방어할 수 없다는 서사를 부추긴다. 중국 민족주의자들의 논리는 미국이 지역 군사 강국인 이란을 상대로 빠른 승리를 거두지 못했기 때문에, 중국을 동등한 경쟁자로 보는 분석가들이 보기에 중국을 상대로도 성공 가능성이 훨씬 낮을 것이라는 것이다.)&lt;/p&gt;
+&lt;p&gt;From this perspective, the U.S. impasse with Iran weakens Mr. Trump’s position going into talks with Mr. Xi next week.&lt;br/&gt;(이러한 관점에서, 미국의 이란 교착 상태는 다음 주 시진핑과의 회담에 임하는 트럼프의 입지를 약화시킨다.)&lt;/p&gt;
+&lt;p&gt;“Trump originally intended to visit China with the air of a swift victor, leveraging his position to increase pressure on China,” Mr. Yue said. “Now, however, with the conflict deadlocked and the military campaign stalled, he finds himself in a difficult position.”&lt;br/&gt;(웨 씨는 "트럼프는 원래 신속한 승리자의 분위기를 풍기며 중국을 방문하여 자신의 위치를 활용해 중국에 압력을 가하려 했을 것"이라며 "그러나 이제 갈등이 교착 상태에 빠지고 군사 작전이 정체되면서 그는 어려운 위치에 처하게 됐다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;Mr. Trump, he added, “will be unable to project the same arrogance.”&lt;br/&gt;(그는 트럼프가 "같은 오만함을 투사할 수 없을 것"이라고 덧붙였다.)&lt;/p&gt;
+&lt;p&gt;Mr. Trump is expected to seek deals with Mr. Xi to help reduce the U.S. trade deficit with China. That could include pledges by Beijing to buy more American soybeans and Boeing planes. Mr. Trump will also press Mr. Xi about China’s continued purchases of Iranian oil, Jamieson Greer, the U.S. trade representative, told Bloomberg TV on Wednesday.&lt;br/&gt;(트럼프는 시진핑과의 거래를 통해 미국의 대중국 무역 적자를 줄이는 데 도움을 받을 것으로 예상된다. 여기에는 베이징이 더 많은 미국산 대두와 보잉 항공기를 구매하겠다는 약속이 포함될 수 있다. 제이미슨 그리어 미국 무역대표부 대표는 수요일 블룸버그 TV와의 인터뷰에서 트럼프가 시진핑에게 중국의 이란산 석유 지속 구매에 대해 압력을 가할 것이라고 말했다.)&lt;/p&gt;
+&lt;p&gt;China, for its part, wants to stabilize ties with the Trump administration and extend the trade truce in order to focus on revitalizing its economy and developing its own technologies.&lt;br/&gt;(중국은 자국 경제 재활성화와 자체 기술 개발에 집중하기 위해 트럼프 행정부와의 관계를 안정시키고 무역 휴전을 연장하기를 원한다.)&lt;/p&gt;
+&lt;p&gt;Beijing wants the Trump administration to reduce its support for Taiwan. Mr. Xi warned Mr. Trump in February that China would “never allow Taiwan to be separated from China,” as he urged him to handle U.S. arms sales to the island with “prudence.” (The Trump administration has since delayed announcing a package of arms sales to Taiwan to avoid upsetting Mr. Xi.)&lt;br/&gt;(베이징은 트럼프 행정부가 대만에 대한 지지를 줄이기를 원한다. 시진핑은 지난 2월 트럼프에게 중국은 "대만이 중국에서 분리되는 것을 결코 허용하지 않을 것"이라고 경고하며, 섬에 대한 미국의 무기 판매를 "신중하게" 처리할 것을 촉구했다. (트럼프 행정부는 시진핑을 자극하지 않기 위해 이후 대만에 대한 무기 판매 패키지 발표를 연기했다.))&lt;/p&gt;
+&lt;p&gt;China’s top diplomat, Wang Yi, has hinted that Beijing could be seeking some kind of a breakthrough. In a phone call last month with Secretary of State Marco Rubio, Mr. Wang called for China and the United States to “open up new space” on the Taiwan issue, though he did not go into specifics.&lt;br/&gt;(중국의 최고 외교관 왕이는 베이징이 일종의 돌파구를 모색할 수 있다고 암시했다. 지난달 마코 루비오 국무장관과의 전화 통화에서 왕이는 대만 문제에 대해 중국과 미국이 "새로운 공간을 열자"고 촉구했지만, 구체적인 내용은 언급하지 않았다.)&lt;/p&gt;
+&lt;p&gt;Ahead of the summit, both countries have tried to maintain a neutral, if uneasy, calm. China has treaded a careful line in discussing the U.S.-Israeli war on Iran, a conflict it says it opposed from the beginning. The closest Mr. Xi has come to criticizing Mr. Trump, without naming him, was to denounce the flouting of international law as a “return to the law of the jungle.”&lt;br/&gt;(정상회담을 앞두고 양국은 불편하지만 중립적인 평온을 유지하려 노력해 왔다. 중국은 처음부터 반대했다고 밝힌 이란에 대한 미국-이스라엘 전쟁을 논의하는 데 신중한 선을 유지해 왔다. 시진핑이 트럼프를 직접 언급하지 않고 비판한 가장 가까운 표현은 국제법 위반을 "정글의 법칙으로의 회귀"라고 비난한 것이다.)&lt;/p&gt;
+&lt;p&gt;The effort to play nice, for now, could explain why Chinese state news outlets have been guarded in their comments about America’s military vulnerabilities as a result of the war in Iran.&lt;br/&gt;(당분간 좋은 관계를 유지하려는 노력은 중국 국영 뉴스 매체들이 이란 전쟁 결과 미국의 군사적 취약성에 대한 논평을 자제해 온 이유를 설명할 수 있다.)&lt;/p&gt;
+&lt;p&gt;Reports and commentaries note the depletion of missiles and shifting of U.S. resources, but generally stop short of framing the war as strategically beneficial for China, said Manoj Kewalramani, the head of Indo-Pacific studies at the Takshashila Institution in Bangalore, India, who monitors Chinese media.&lt;br/&gt;(중국 미디어를 모니터링하는 인도 방갈로르 타크샤실라 연구소의 인도-태평양 연구 책임자 마노지 케왈라마니는 보고서와 논평이 미사일 고갈과 미국 자원 이동을 언급하지만, 일반적으로 전쟁을 중국에 전략적으로 유리한 것으로 규정하지 않는다고 말했다.)&lt;/p&gt;
+&lt;p&gt;One notable exception was an essay in Qiushi, the Communist Party’s leading theoretical journal, which argued that “the conflict has overdrawn U.S. strategic resources, potentially leaving the country in a precarious position.” Another was an editorial from Global Times, a Communist Party-controlled nationalist newspaper, that said if the U.S. military was unable to deploy weapons around the world, it would be a “giant with a limp.”&lt;br/&gt;(한 가지 주목할 만한 예외는 공산당의 주요 이론지인 구시(求是)에 실린 에세이로, "갈등이 미국의 전략적 자원을 초과 인출하여 국가를 위태로운 위치에 빠뜨릴 가능성이 있다"고 주장했다. 또 다른 예외는 공산당 통제 민족주의 신문인 환구시보(Global Times)의 사설로, 미군이 전 세계에 무기를 배치할 수 없다면 "절뚝거리는 거인"이 될 것이라고 말했다.)&lt;/p&gt;
+&lt;p&gt;Hu Xijin, the influential former editor of Global Times, said the U.S. munitions supply chain challenges that the war had exposed gave Beijing not only a material edge, but also a psychological one in any potential war over Taiwan.&lt;br/&gt;(환구시보의 영향력 있는 전 편집장 후시진은 전쟁이 드러낸 미국의 탄약 공급망 문제가 베이징에 대만을 둘러싼 잠재적 전쟁에서 물질적 우위뿐만 아니라 심리적 우위도 제공한다고 말했다.)&lt;/p&gt;
+&lt;p&gt;“If we view the situation as a strategic game of confidence between China and the U.S. over the Taiwan Strait — a game of chess, so to speak — the United States is on the verge of losing all its pieces,” Mr. Hu said in an interview.&lt;br/&gt;(후 씨는 인터뷰에서 "이 상황을 대만 해협을 둘러싼 중국과 미국 간의 신뢰 게임, 말하자면 체스 게임으로 본다면, 미국은 모든 말을 잃을 위기에 처해 있다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;The White House and American military officials reject the notion that operations in the Middle East have undermined Washington’s posture in Asia. Defense Secretary Pete Hegseth has said that deterring China “through strength” was among the Defense Department’s four top priorities.&lt;br/&gt;(백악관과 미군 관계자들은 중동에서의 작전이 아시아에서 워싱턴의 태세를 약화시켰다는 주장을 부인한다. 피트 헤그세스 국방장관은 "힘을 통한" 중국 억제가 국방부의 4대 최우선 과제 중 하나라고 말했다.)&lt;/p&gt;
+&lt;p&gt;Asked during a Senate hearing last month if resources being diverted to the Middle East was weakening U.S. military readiness in the Pacific, Adm. Samuel J. Paparo Jr., the head of the military’s Indo-Pacific Command, said, “I don’t see any real cost being imposed on our ability to deter China.”&lt;br/&gt;(지난달 상원 청문회에서 중동으로 자원이 전환되는 것이 태평양에서 미군의 전투 준비 태세를 약화시키는지 질문을 받은 미군 인도-태평양 사령관 사무엘 파파로 주니어 제독은 "중국을 억제하는 우리의 능력에 실질적인 비용이 부과되는 것을 보지 못한다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;To be sure, questions abound about China’s own military readiness. Not only has the People’s Liberation Army been untested in major combat for nearly five decades, its top leadership has been thrown into disarray by political purges and a crackdown on corruption.&lt;br/&gt;(물론 중국 자체의 군사 준비 태세에 대한 의문도 많다. 중국 인민해방군은 거의 50년 동안 주요 전투에서 시험되지 않았을 뿐만 아니라, 최고 지도부는 정치적 숙청과 부패 척결로 혼란에 빠졌다.)&lt;/p&gt;
+&lt;p&gt;By comparison, the U.S. military showcased its potency by killing Tehran’s leaders, establishing control of the skies over Iran and sending special forces into enemy territory to rescue a downed pilot.&lt;br/&gt;(이에 비해, 미군은 테헤란 지도자들을 제거하고, 이란 상공의 통제권을 확립하며, 격추된 조종사를 구출하기 위해 적진에 특수 부대를 파견함으로써 그 위력을 과시했다.)&lt;/p&gt;
+&lt;p&gt;“The United States has very successfully demonstrated its wartime capabilities in a way that China should consider credible,” said Drew Thompson, a former Pentagon official who is now a senior fellow at Singapore’s S. Rajaratnam School of International Studies.&lt;br/&gt;(전 펜타곤 관료이자 현재 싱가포르 S. 라자라트남 국제 연구 대학의 선임 연구원인 드류 톰슨은 "미국은 중국이 신뢰할 수 있다고 생각해야 할 방식으로 전시 능력을 매우 성공적으로 입증했다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;Mr. Thompson also cautioned against comparing the conflict in Iran to a war over Taiwan. In a defense of the island, the United States would largely rely on anti-ship missiles, which were used sparingly on Iran, to target a Chinese invasion fleet.&lt;br/&gt;(톰슨은 또한 이란 분쟁을 대만을 둘러싼 전쟁과 비교하는 데 주의를 촉구했다. 섬 방어에서 미국은 주로 이란에서 거의 사용되지 않은 대함 미사일에 의존하여 중국 침공 함대를 목표로 삼을 것이라고 말했다.)&lt;/p&gt;
+&lt;p&gt;Even without going to war, China can point to the complications the Trump administration is facing and argue to U.S. allies in Asia that Washington cannot be relied upon as a security guarantor.&lt;br/&gt;(전쟁을 하지 않더라도, 중국은 트럼프 행정부가 직면한 복잡성을 지적하고 아시아의 미국 동맹국들에게 워싱턴이 안보 보증자로서 신뢰할 수 없다고 주장할 수 있다.)&lt;/p&gt;
+&lt;p&gt;“When allies face uncertainties over deployments and delayed equipment, it inevitably raises questions about the reliability and consistency of U.S. security assurances in the region,” said Wang Dong, executive director of the Institute for Global Cooperation and Understanding at Peking University.&lt;br/&gt;(베이징 대학 글로벌 협력 및 이해 연구소의 집행 이사 왕둥은 "동맹국들이 배치 지연과 장비 지연에 대한 불확실성에 직면할 때, 이는 자연스럽게 지역 내 미국 안보 보장의 신뢰성과 일관성에 대한 의문을 제기한다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;The United States, he added, “is encountering the limits of its global military footprint”&lt;br/&gt;(그는 미국이 "글로벌 군사 발자국의 한계에 직면하고 있다"고 덧붙였다.)&lt;/p&gt;
+&lt;p&gt;China may ultimately be emboldened by the war in Iran to become more assertive in Asia using gray-zone tactics — aggressive moves that fall short of inciting all-out war. Over the last few months, for example, China has been building an island in disputed waters off the coast of Vietnam that will help it gain more control of the South China Sea.&lt;br/&gt;(중국은 궁극적으로 이란 전쟁에 힘입어 아시아에서 그레이존 전술, 즉 전면전을 유발하지 않는 공격적인 움직임을 통해 더욱 적극적으로 나설 수 있다. 예를 들어, 최근 몇 달 동안 중국은 베트남 연안의 분쟁 해역에 섬을 건설하여 남중국해에 대한 통제를 강화하고 있다.)&lt;/p&gt;
+&lt;p&gt;Beijing is unlikely to expedite plans to invade Taiwan, said Brian Hart, a fellow with the China Power Project at the Center for Strategic and International Studies.&lt;br/&gt;(전략 및 국제 연구 센터의 중국 파워 프로젝트 연구원 브라이언 하트는 베이징이 대만 침공 계획을 앞당길 가능성은 낮다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Any such plan would be based primarily on “political factors” like a sudden move by the island territory to declare formal independence, he said.&lt;br/&gt;(그는 그러한 계획은 주로 섬 지역이 갑작스러운 공식 독립 선언과 같은 "정치적 요소"에 기반할 것이라고 말했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/07/multimedia/00int-china-iran-us-01-tfgz/00int-china-iran-us-01-tfgz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 07 May 2026 19:43:38 +0000</pubDate></item><item><title>Starmer Faces a Major Test in a Set of U.K. Elections: What to Know (영국 선거에서 스타머가 맞는 중대 시험: 알아야 할 사항들)</title><link>https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-starmer.html</link><description>&lt;![CDATA[&lt;p&gt;With millions of voters set to cast ballots in a set of elections across Britain on Thursday, Prime Minister Keir Starmer faces his biggest — and most perilous — electoral test since he led his Labour Party to a general election victory in 2024.&lt;br/&gt;(목요일 영국 전역에서 수백만 유권자들이 일련의 선거에 투표함에 따라, 키어 스타머 총리는 2024년 노동당을 총선 승리로 이끈 이후 가장 크고 위험한 선거 시험대에 오른다.)&lt;/p&gt;
 &lt;p&gt;Voters in Scotland and Wales will elect lawmakers to their national parliaments, while voters in many parts of England will vote for representatives in local and municipal government.&lt;br/&gt;(스코틀랜드와 웨일스의 유권자들은 각각 자국 의회 의원을 선출하며, 잉글랜드 여러 지역의 유권자들은 지방 및 시의회 대표를 뽑는다.
 &lt;&lt;&lt;PARA&gt;&gt;
 집권 2년 동안 스타머 총리의 인기는 하락했으며, 유권자들은 투표를 통해 불만을 표출할 것으로 예상된다. 그의 전망이 너무 암울해서, 웨스트민스터에서 스코틀랜드 국민당 대표인 스티븐 플린은 예상되는 선거 결과를 "스타머게돈"이라고 명명했다.
