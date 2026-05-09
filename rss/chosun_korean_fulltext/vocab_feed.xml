@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 May 2026 20:26:24 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 22:30:40 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>온전히 – completely</title><link>urn:urn:vocab:온전히</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>방송에 – on broadcast</title><link>urn:urn:vocab:방송에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1693328394659-e0782c606d25?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMGJyb2FkY2FzdHxlbnwwfHx8fDE3NzgzMzM0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방송에 (on broadcast)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (장동혁 국민의힘 대표는 9일 방송인 김어준씨 방송에 더불어민주당 광역단체장 후보들이 대거 출연한 것을 두고 “김어준이 진짜 민주당 상왕임을 인증했다”고 했다&lt;br/&gt;&lt;em&gt;" (Jang Dong-hyuk, the leader of the People Power Party, said on the 9th regarding the appearance of many Democratic Party of Korea metropolitan government candidates on broadcaster Kim Eo-jun's show, 'Kim Eo-jun has proven that he is the real kingmaker of the Democratic Party.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (오 시장은 또 “지지율 격차가 조금씩 줄어든다는 이야기는 방송에서도 꽤 많이 듣고 있다”면서 “아마 시간이 지날수록 인물 경쟁력에 초점이 맞춰질 수밖에 없을 것”이라고 말했다&lt;br/&gt;&lt;em&gt;" (Mayor Oh also said, 'I hear quite often on broadcasts that the approval rating gap is gradually narrowing,' adding, 'As time goes by, the focus will inevitably shift to the competitiveness of the candidates.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (앞서 박 의원은 지난 6일 라디오 방송에 출연해 “시민들에게 ‘공소취소가 뭐예요&lt;br/&gt;&lt;em&gt;" (Earlier, Rep. Park appeared on a radio broadcast on the 6th and said to citizens, 'What is a withdrawal of indictment?'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;방송에 출연했어요.&lt;br/&gt;&lt;em&gt;I appeared on the broadcast.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;방송에 나오고 싶어요.&lt;br/&gt;&lt;em&gt;I want to appear on the broadcast.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1693328394659-e0782c606d25?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMGJyb2FkY2FzdHxlbnwwfHx8fDE3NzgzMzM0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방송에 (on broadcast)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (장동혁 국민의힘 대표는 9일 방송인 김어준씨 방송에 더불어민주당 광역단체장 후보들이 대거 출연한 것을 두고 “김어준이 진짜 민주당 상왕임을 인증했다”고 했다&lt;br/&gt;&lt;em&gt;" (Jang Dong-hyuk, the leader of the People Power Party, said on the 9th regarding the appearance of many Democratic Party of Korea metropolitan government candidates on broadcaster Kim Eo-jun's show, 'Kim Eo-jun has proven that he is the real kingmaker of the Democratic Party.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (오 시장은 또 “지지율 격차가 조금씩 줄어든다는 이야기는 방송에서도 꽤 많이 듣고 있다”면서 “아마 시간이 지날수록 인물 경쟁력에 초점이 맞춰질 수밖에 없을 것”이라고 말했다&lt;br/&gt;&lt;em&gt;" (Mayor Oh also said, 'I hear quite often on broadcasts that the approval rating gap is gradually narrowing,' adding, 'As time goes by, the focus will inevitably shift to the competitiveness of the candidates.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (앞서 박 의원은 지난 6일 라디오 방송에 출연해 “시민들에게 ‘공소취소가 뭐예요&lt;br/&gt;&lt;em&gt;" (Earlier, Rep. Park appeared on a radio broadcast on the 6th and said to citizens, 'What is a withdrawal of indictment?'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;방송에 출연했어요.&lt;br/&gt;&lt;em&gt;I appeared on the broadcast.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;방송에 나오고 싶어요.&lt;br/&gt;&lt;em&gt;I want to appear on the broadcast.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 09 May 2026 22:30:40 +0900</pubDate><guid isPermaLink="false">vocab-120466a3e58250a9fe541eb36f46116998734ac8</guid><enclosure url="https://images.unsplash.com/photo-1693328394659-e0782c606d25?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMGJyb2FkY2FzdHxlbnwwfHx8fDE3NzgzMzM0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="107905" /><ns2:content url="https://images.unsplash.com/photo-1693328394659-e0782c606d25?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMGJyb2FkY2FzdHxlbnwwfHx8fDE3NzgzMzM0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1693328394659-e0782c606d25?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMGJyb2FkY2FzdHxlbnwwfHx8fDE3NzgzMzM0MzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>방송에</category></item><item><title>온전히 – completely</title><link>urn:urn:vocab:온전히</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1523601086780-b090d3606e63?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wbGV0ZWx5fGVufDB8fHx8MTc3ODMyNTk4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="온전히 (completely)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;President Lee: "The People Saved Me, So My Life is Entirely Theirs" (李 대통령 “국민이 살려주셨으니 제 목숨은 온전히 국민의 것”) &lt;&lt;br/&gt;&lt;em&gt;President Lee: "The People Saved Me, So My Life is Entirely Theirs"&lt;/em&gt;&lt;/p&gt;

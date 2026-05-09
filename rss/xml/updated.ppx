@@ -37,7 +37,7 @@
             </Authentication>
         </Proxy>
         <Proxy id="102" type="SOCKS5">
-            <Address>165.231.222.227</Address>
+            <Address>165.231.222.251</Address>
             <Port>1080</Port>
             <Options>0</Options>
             <Authentication enabled="true">
