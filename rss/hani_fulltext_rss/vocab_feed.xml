@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 May 2026 19:16:36 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 21:24:38 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>매물을 – property (for sale)</title><link>urn:urn:vocab:매물을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>고금리 – high interest rate</title><link>urn:urn:vocab:고금리</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwaW50ZXJlc3QlMjByYXRlfGVufDB8fHx8MTc3ODQxNTg3M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고금리 (high interest rate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(공정거래위원회가 저리의 정책자금을 활용해 가맹점주에게 고금리 대출을 제공한 명륜진사갈비 운영사 명륜당에 대해 제재 절차에 착수했다&lt;br/&gt;&lt;em&gt;The Fair Trade Commission has initiated disciplinary procedures against Myeongnyun Chicken Ribs operator Myeongnyundang for providing high-interest loans to franchisees using low-interest policy funds.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(공정위는 명륜당이 대주주 소유 대부업체를 통해 가맹점주의 재무상황에 대한 고려 없이 일률적인 고금리로 가맹점 개설 관련 자금을 빌려주고, 인테리어 업체도 지정해주면서 거래를 강제한 것으로 보고 있다&lt;br/&gt;&lt;em&gt;The FTC believes that Myeongnyundang lent franchise establishment funds at uniformly high interest rates through a lending company owned by its major shareholder without considering franchisees' financial situations, and also forced transactions by designating interior companies.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (공정위는 이날 금융위원회와 함께 ‘가맹본부의 고금리 부당 대출 대응 방안’도 발표했다&lt;br/&gt;&lt;em&gt;The FTC also announced 'Measures to Respond to Unfair High-Interest Loans by Franchisors' together with the Financial Services Commission on the same day.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;고금리 때문에 돈을 빌리기 어렵다.&lt;br/&gt;&lt;em&gt;It is difficult to borrow money because of high interest rates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고금리 시대에는 저축이 중요하다.&lt;br/&gt;&lt;em&gt;Saving is important in an era of high interest rates.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwaW50ZXJlc3QlMjByYXRlfGVufDB8fHx8MTc3ODQxNTg3M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고금리 (high interest rate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(공정거래위원회가 저리의 정책자금을 활용해 가맹점주에게 고금리 대출을 제공한 명륜진사갈비 운영사 명륜당에 대해 제재 절차에 착수했다&lt;br/&gt;&lt;em&gt;The Fair Trade Commission has initiated disciplinary procedures against Myeongnyun Chicken Ribs operator Myeongnyundang for providing high-interest loans to franchisees using low-interest policy funds.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(공정위는 명륜당이 대주주 소유 대부업체를 통해 가맹점주의 재무상황에 대한 고려 없이 일률적인 고금리로 가맹점 개설 관련 자금을 빌려주고, 인테리어 업체도 지정해주면서 거래를 강제한 것으로 보고 있다&lt;br/&gt;&lt;em&gt;The FTC believes that Myeongnyundang lent franchise establishment funds at uniformly high interest rates through a lending company owned by its major shareholder without considering franchisees' financial situations, and also forced transactions by designating interior companies.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (공정위는 이날 금융위원회와 함께 ‘가맹본부의 고금리 부당 대출 대응 방안’도 발표했다&lt;br/&gt;&lt;em&gt;The FTC also announced 'Measures to Respond to Unfair High-Interest Loans by Franchisors' together with the Financial Services Commission on the same day.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;고금리 때문에 돈을 빌리기 어렵다.&lt;br/&gt;&lt;em&gt;It is difficult to borrow money because of high interest rates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고금리 시대에는 저축이 중요하다.&lt;br/&gt;&lt;em&gt;Saving is important in an era of high interest rates.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 10 May 2026 21:24:38 +0900</pubDate><guid isPermaLink="false">vocab-ddf22276ab78aca9a1a88c1bd4003e5a4d284461</guid><enclosure url="https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwaW50ZXJlc3QlMjByYXRlfGVufDB8fHx8MTc3ODQxNTg3M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="40149" /><ns2:content url="https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwaW50ZXJlc3QlMjByYXRlfGVufDB8fHx8MTc3ODQxNTg3M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwaW50ZXJlc3QlMjByYXRlfGVufDB8fHx8MTc3ODQxNTg3M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>고금리</category></item><item><title>매물을 – property (for sale)</title><link>urn:urn:vocab:매물을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1670100408549-f9c409d429a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wZXJ0eSUyMCUyOGZvciUyMHNhbGUlMjl8ZW58MHx8fHwxNzc4NDA4MTkzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="매물을 (property (for sale))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;집값이 내릴 것으로 판단되면 누가 말려도 매물을 내놓고, 오를 것 같으면 매물을 거둬들이는 것이 자산시장의 기본속성”이라며 일각에서 제기되는 ‘매물 잠김’ 우려에 대해 반박했다&lt;br/&gt;&lt;em&gt;He refuted the 'lock-up' concerns raised by some, stating that 'if it is judged that house prices will fall, no matter who tries to stop you, you put your property on the market, and if they seem to rise, you withdraw the property—this is the basic nature of asset markets.'&lt;/em&gt;&lt;/p&gt;
