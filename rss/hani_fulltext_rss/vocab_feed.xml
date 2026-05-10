@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 02:11:52 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 04:15:50 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>곳곳에서 – here and there</title><link>urn:urn:vocab:곳곳에서</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>원인이 – cause</title><link>urn:urn:vocab:원인이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1669232696081-6f186ac7d4e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXVzZXxlbnwwfHx8fDE3Nzg0NDA1NDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="원인이 (cause)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김수진 교사는 “현재의 성평등 교육은 ‘동의’ ‘존중’ 같은 단어로 채워진, 누구도 불편하지 않은 교육인 경우가 많다”며 “젠더 기반 폭력의 원인이 되는 맥락을 짚는 데까지 나아가지 못한 채, 선언적인 내용에 머무는 교육은 아이들의 생각을 실제로 움직이지 못한다”고 현장에서 살아 숨쉬는 교육의 중요성을 말한다&lt;br/&gt;&lt;em&gt;Teacher Kim Soo-jin says, 'Current gender equality education is often filled with words like "consent" and "respect," making it an education that makes no one uncomfortable,' and emphasizes the importance of education that is alive and breathing in the field, stating that 'education that remains at a declarative level without being able to go as far as pointing out the context that causes gender-based violence cannot actually move children's thoughts.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  정부가 호르무즈 해협에서 정박 중이던 에이치엠엠(HMM) 나무호에서 발생한 화재 원인이 외부 충격 때문이라고 10일 발표했다&lt;br/&gt;&lt;em&gt;The government announced on the 10th that the cause of the fire on the HMM Naju, which was anchored in the Strait of Hormuz, was due to an external impact.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (  나무호 폭발·화재 원인이 외부 충격에 의한 것으로 조사된 만큼, 청와대와 정부는 공격 주체와 경위 등을 추가 확인할 때까지 신중한 태도를 유지할 것으로 보인다&lt;br/&gt;&lt;em&gt;As the cause of the Naju explosion and fire has been investigated to be due to an external impact, the Blue House and the government are expected to maintain a cautious attitude until they further confirm the attacker and the circumstances.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 사고의 원인이 뭐예요?&lt;br/&gt;&lt;em&gt;What is the cause of this accident?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;원인이 무엇인지 모르겠어요.&lt;br/&gt;&lt;em&gt;I don't know what the cause is.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1669232696081-6f186ac7d4e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXVzZXxlbnwwfHx8fDE3Nzg0NDA1NDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="원인이 (cause)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김수진 교사는 “현재의 성평등 교육은 ‘동의’ ‘존중’ 같은 단어로 채워진, 누구도 불편하지 않은 교육인 경우가 많다”며 “젠더 기반 폭력의 원인이 되는 맥락을 짚는 데까지 나아가지 못한 채, 선언적인 내용에 머무는 교육은 아이들의 생각을 실제로 움직이지 못한다”고 현장에서 살아 숨쉬는 교육의 중요성을 말한다&lt;br/&gt;&lt;em&gt;Teacher Kim Soo-jin says, 'Current gender equality education is often filled with words like "consent" and "respect," making it an education that makes no one uncomfortable,' and emphasizes the importance of education that is alive and breathing in the field, stating that 'education that remains at a declarative level without being able to go as far as pointing out the context that causes gender-based violence cannot actually move children's thoughts.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  정부가 호르무즈 해협에서 정박 중이던 에이치엠엠(HMM) 나무호에서 발생한 화재 원인이 외부 충격 때문이라고 10일 발표했다&lt;br/&gt;&lt;em&gt;The government announced on the 10th that the cause of the fire on the HMM Naju, which was anchored in the Strait of Hormuz, was due to an external impact.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (  나무호 폭발·화재 원인이 외부 충격에 의한 것으로 조사된 만큼, 청와대와 정부는 공격 주체와 경위 등을 추가 확인할 때까지 신중한 태도를 유지할 것으로 보인다&lt;br/&gt;&lt;em&gt;As the cause of the Naju explosion and fire has been investigated to be due to an external impact, the Blue House and the government are expected to maintain a cautious attitude until they further confirm the attacker and the circumstances.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 사고의 원인이 뭐예요?&lt;br/&gt;&lt;em&gt;What is the cause of this accident?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;원인이 무엇인지 모르겠어요.&lt;br/&gt;&lt;em&gt;I don't know what the cause is.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 11 May 2026 04:15:49 +0900</pubDate><guid isPermaLink="false">vocab-13cb5051ca6d589a3412d0956a46f790ef68a5fe</guid><enclosure url="https://images.unsplash.com/photo-1669232696081-6f186ac7d4e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXVzZXxlbnwwfHx8fDE3Nzg0NDA1NDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="140764" /><ns2:content url="https://images.unsplash.com/photo-1669232696081-6f186ac7d4e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXVzZXxlbnwwfHx8fDE3Nzg0NDA1NDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1669232696081-6f186ac7d4e4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXVzZXxlbnwwfHx8fDE3Nzg0NDA1NDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>원인이</category></item><item><title>곳곳에서 – here and there</title><link>urn:urn:vocab:곳곳에서</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1537183461722-94dad0fa85b8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZXJlJTIwYW5kJTIwdGhlcmV8ZW58MHx8fHwxNzc4NDMzMTA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="곳곳에서 (here and there)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이를 통해 본교 1000여 명의 학생들은 환경 보호가 우리나라만의 노력이 아니라 세계 곳곳에서 각자의 방식으로 실천되고 있음을 이해하고, 지구 공동체의 일원으로서 지구를 지키는 일에 함께 참여하고 있다는 연대 의식을 느끼는 기회를 가질 수 있었다&lt;br/&gt;&lt;em&gt;Through this, the approximately 1,000 students at our school were able to understand that environmental protection is not just an effort of our country but is being practiced in various ways around the world, and they had the opportunity to feel a sense of solidarity as members of the global community participating in protecting the Earth.&lt;/em&gt;&lt;/p&gt;
