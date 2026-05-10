@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 May 2026 21:24:38 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 23:32:08 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>고금리 – high interest rate</title><link>urn:urn:vocab:고금리</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>한계가 – limit</title><link>urn:urn:vocab:한계가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577784933312-84961dbe18fd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaW1pdHxlbnwwfHx8fDE3Nzg0MjM1MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="한계가 (limit)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기존 구조는 면적을 줄이면 정밀도가 떨어지거나 성능을 높이면 전력 소모가 급증하는 한계가 있었다&lt;br/&gt;&lt;em&gt;The existing structure had limitations: reducing the area decreased precision, or increasing performance led to a sharp rise in power consumption.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 처리 시간이 길어 실시간 서비스 적용이 어렵고, 최신 잡음 제거 기술 적용 시 방어 효과가 저하되는 한계가 있었다&lt;br/&gt;&lt;em&gt;However, the long processing time made it difficult to apply to real-time services, and applying the latest noise removal technology reduced the defense effect.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(기존의 식물용 약물 전달 방식은 식물 조직을 관통하는 마이크로니들 등을 사용해 식물에 물리적 손상을 입히거나, 접착력이 약해 외부 환경에서 쉽게 떨어지는 한계가 있었다&lt;br/&gt;&lt;em&gt;Existing drug delivery methods for plants had limitations: using microneedles that penetrate plant tissue caused physical damage, or weak adhesion made them easily fall off in external environments.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;시간의 한계가 있다.&lt;br/&gt;&lt;em&gt;There is a limit of time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;돈의 한계가 분명하다.&lt;br/&gt;&lt;em&gt;The limit of money is clear.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577784933312-84961dbe18fd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaW1pdHxlbnwwfHx8fDE3Nzg0MjM1MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="한계가 (limit)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기존 구조는 면적을 줄이면 정밀도가 떨어지거나 성능을 높이면 전력 소모가 급증하는 한계가 있었다&lt;br/&gt;&lt;em&gt;The existing structure had limitations: reducing the area decreased precision, or increasing performance led to a sharp rise in power consumption.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 처리 시간이 길어 실시간 서비스 적용이 어렵고, 최신 잡음 제거 기술 적용 시 방어 효과가 저하되는 한계가 있었다&lt;br/&gt;&lt;em&gt;However, the long processing time made it difficult to apply to real-time services, and applying the latest noise removal technology reduced the defense effect.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(기존의 식물용 약물 전달 방식은 식물 조직을 관통하는 마이크로니들 등을 사용해 식물에 물리적 손상을 입히거나, 접착력이 약해 외부 환경에서 쉽게 떨어지는 한계가 있었다&lt;br/&gt;&lt;em&gt;Existing drug delivery methods for plants had limitations: using microneedles that penetrate plant tissue caused physical damage, or weak adhesion made them easily fall off in external environments.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;시간의 한계가 있다.&lt;br/&gt;&lt;em&gt;There is a limit of time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;돈의 한계가 분명하다.&lt;br/&gt;&lt;em&gt;The limit of money is clear.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 10 May 2026 23:32:08 +0900</pubDate><guid isPermaLink="false">vocab-7b1978c4814234d4da156749c970913d23b05189</guid><enclosure url="https://images.unsplash.com/photo-1577784933312-84961dbe18fd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaW1pdHxlbnwwfHx8fDE3Nzg0MjM1MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="71458" /><ns2:content url="https://images.unsplash.com/photo-1577784933312-84961dbe18fd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaW1pdHxlbnwwfHx8fDE3Nzg0MjM1MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1577784933312-84961dbe18fd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsaW1pdHxlbnwwfHx8fDE3Nzg0MjM1MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>한계가</category></item><item><title>고금리 – high interest rate</title><link>urn:urn:vocab:고금리</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwaW50ZXJlc3QlMjByYXRlfGVufDB8fHx8MTc3ODQxNTg3M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고금리 (high interest rate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(공정거래위원회가 저리의 정책자금을 활용해 가맹점주에게 고금리 대출을 제공한 명륜진사갈비 운영사 명륜당에 대해 제재 절차에 착수했다&lt;br/&gt;&lt;em&gt;The Fair Trade Commission has initiated disciplinary procedures against Myeongnyun Chicken Ribs operator Myeongnyundang for providing high-interest loans to franchisees using low-interest policy funds.&lt;/em&gt;&lt;/p&gt;
