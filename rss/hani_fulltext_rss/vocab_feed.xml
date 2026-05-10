@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 06:19:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 08:22:22 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>한양대 – Hanyang University</title><link>urn:urn:vocab:한양대</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>비거주 – non-resident</title><link>urn:urn:vocab:비거주</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633740457972-d78d0255bdf6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tcmVzaWRlbnR8ZW58MHx8fHwxNzc4NDU1MzM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비거주 (non-resident)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정부가 시장에 매물 공급 신호를 얼마나 강하고 지속적으로 주느냐에 따라 고령 1주택자나 비거주 1주택자 등의 매물이 추가로 나올 수 있다는 것이다&lt;br/&gt;&lt;em&gt;Depending on how strongly and consistently the government signals the supply of properties to the market, additional listings may come from elderly single-home owners or non-resident single-home owners.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아울러 비거주 1주택자에 한한 ‘세 낀 거래’ 허용, 비거주 고가 1주택의 장기보유특별공제 혜택 축소 등의 방안도 논의되고 있다&lt;br/&gt;&lt;em&gt;In addition, measures such as allowing 'tax-inclusive transactions' limited to non-resident single-home owners and reducing the long-term holding special deduction benefits for non-resident high-priced single homes are also being discussed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 비거주 1주택자에 대한 토지거래허가 예외 적용과 임대사업자에게 주어진 영구적 양도세 혜택 개편 등을 통해 시장에 추가 매물이 나올 것으로 기대하는 분위기다&lt;br/&gt;&lt;em&gt;In particular, there is an atmosphere of expectation that additional properties will come to the market through exceptions to the land transaction permit for non-resident single-home owners and reforms to the permanent transfer tax benefits given to rental business operators.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 비거주자입니다.&lt;br/&gt;&lt;em&gt;He is a non-resident.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비거주 신고를 하세요.&lt;br/&gt;&lt;em&gt;Please file a non-resident report.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633740457972-d78d0255bdf6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tcmVzaWRlbnR8ZW58MHx8fHwxNzc4NDU1MzM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비거주 (non-resident)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정부가 시장에 매물 공급 신호를 얼마나 강하고 지속적으로 주느냐에 따라 고령 1주택자나 비거주 1주택자 등의 매물이 추가로 나올 수 있다는 것이다&lt;br/&gt;&lt;em&gt;Depending on how strongly and consistently the government signals the supply of properties to the market, additional listings may come from elderly single-home owners or non-resident single-home owners.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아울러 비거주 1주택자에 한한 ‘세 낀 거래’ 허용, 비거주 고가 1주택의 장기보유특별공제 혜택 축소 등의 방안도 논의되고 있다&lt;br/&gt;&lt;em&gt;In addition, measures such as allowing 'tax-inclusive transactions' limited to non-resident single-home owners and reducing the long-term holding special deduction benefits for non-resident high-priced single homes are also being discussed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 비거주 1주택자에 대한 토지거래허가 예외 적용과 임대사업자에게 주어진 영구적 양도세 혜택 개편 등을 통해 시장에 추가 매물이 나올 것으로 기대하는 분위기다&lt;br/&gt;&lt;em&gt;In particular, there is an atmosphere of expectation that additional properties will come to the market through exceptions to the land transaction permit for non-resident single-home owners and reforms to the permanent transfer tax benefits given to rental business operators.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 비거주자입니다.&lt;br/&gt;&lt;em&gt;He is a non-resident.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비거주 신고를 하세요.&lt;br/&gt;&lt;em&gt;Please file a non-resident report.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 11 May 2026 08:22:22 +0900</pubDate><guid isPermaLink="false">vocab-708d9d0c195ed3762c06782f9da008602a23a6f9</guid><enclosure url="https://images.unsplash.com/photo-1633740457972-d78d0255bdf6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tcmVzaWRlbnR8ZW58MHx8fHwxNzc4NDU1MzM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="119920" /><ns2:content url="https://images.unsplash.com/photo-1633740457972-d78d0255bdf6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tcmVzaWRlbnR8ZW58MHx8fHwxNzc4NDU1MzM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1633740457972-d78d0255bdf6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tcmVzaWRlbnR8ZW58MHx8fHwxNzc4NDU1MzM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>비거주</category></item><item><title>한양대 – Hanyang University</title><link>urn:urn:vocab:한양대</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1699456352732-e4e3f2f56688?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIYW55YW5nJTIwVW5pdmVyc2l0eXxlbnwwfHx8fDE3Nzg0NDc5NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="한양대 (Hanyang University)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Hanyang University ERICA Professor Kim Jong-seok's Research Team Develops Core Technology for Ultra-High-Resolution Display Driving for AR/VR (한양대 ERICA 김종석 교수 연구팀, AR·VR용 초고해상도 디스플레이 구동 핵심 기술 개발) &lt;&lt;br/&gt;&lt;em&gt;Hanyang University ERICA Professor Kim Jong-seok's Research Team Develops Core Technology for Ultra-High-Resolution Display Driving for AR/VR&lt;/em&gt;&lt;/p&gt;
