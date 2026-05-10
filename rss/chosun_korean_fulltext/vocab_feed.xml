@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 00:05:24 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 02:11:59 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>통일 – unification</title><link>urn:urn:vocab:통일</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>국가로 – as a country</title><link>urn:urn:vocab:국가로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1596361803154-857df2de0a2c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjb3VudHJ5fGVufDB8fHx8MTc3ODQzMzExNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국가로 (as a country)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (“북한을 남한과 분리시켜 남북을 서로 다른 국가로 각인하려는 것인데, 한반도 전체를 국토로 규정한 대한민국의 헌법을 바꾸려는 목적도 있다&lt;br/&gt;&lt;em&gt;"It is an attempt to separate North Korea from South Korea and imprint the two Koreas as different countries, and it also aims to change the Constitution of the Republic of Korea, which defines the entire Korean Peninsula as its territory.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;북한이 남한을 적대적 국가로 표기하면 국제사회에서 북한의 호전성을 스스로 강조하는 것이 되지 않나&lt;br/&gt;&lt;em&gt;If North Korea designates South Korea as a hostile state, wouldn't that emphasize its own belligerence to the international community?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정상 국가로 인정받기를 원하는 북한 입장에선 유리하지 않다고 판단한 것 같다&lt;br/&gt;&lt;em&gt;It seems that North Korea, which wants to be recognized as a normal state, judged that this would not be advantageous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한국은 국가로 발전했어요.&lt;br/&gt;&lt;em&gt;Korea has developed as a nation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 국가로 봉사해요.&lt;br/&gt;&lt;em&gt;He serves the nation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1596361803154-857df2de0a2c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjb3VudHJ5fGVufDB8fHx8MTc3ODQzMzExNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="국가로 (as a country)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (“북한을 남한과 분리시켜 남북을 서로 다른 국가로 각인하려는 것인데, 한반도 전체를 국토로 규정한 대한민국의 헌법을 바꾸려는 목적도 있다&lt;br/&gt;&lt;em&gt;"It is an attempt to separate North Korea from South Korea and imprint the two Koreas as different countries, and it also aims to change the Constitution of the Republic of Korea, which defines the entire Korean Peninsula as its territory.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;북한이 남한을 적대적 국가로 표기하면 국제사회에서 북한의 호전성을 스스로 강조하는 것이 되지 않나&lt;br/&gt;&lt;em&gt;If North Korea designates South Korea as a hostile state, wouldn't that emphasize its own belligerence to the international community?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정상 국가로 인정받기를 원하는 북한 입장에선 유리하지 않다고 판단한 것 같다&lt;br/&gt;&lt;em&gt;It seems that North Korea, which wants to be recognized as a normal state, judged that this would not be advantageous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한국은 국가로 발전했어요.&lt;br/&gt;&lt;em&gt;Korea has developed as a nation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 국가로 봉사해요.&lt;br/&gt;&lt;em&gt;He serves the nation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 11 May 2026 02:11:59 +0900</pubDate><guid isPermaLink="false">vocab-7b730cc66029f34243fc92a2f2c2aec5c9780e1f</guid><enclosure url="https://images.unsplash.com/photo-1596361803154-857df2de0a2c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjb3VudHJ5fGVufDB8fHx8MTc3ODQzMzExNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="305129" /><ns2:content url="https://images.unsplash.com/photo-1596361803154-857df2de0a2c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjb3VudHJ5fGVufDB8fHx8MTc3ODQzMzExNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1596361803154-857df2de0a2c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBjb3VudHJ5fGVufDB8fHx8MTc3ODQzMzExNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>국가로</category></item><item><title>통일 – unification</title><link>urn:urn:vocab:통일</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1669049971448-85e819598023?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bmlmaWNhdGlvbnxlbnwwfHx8fDE3Nzg0MjU1MTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="통일 (unification)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이와 함께 WHO(세계보건기구) 자문관인 안선하 전 대외경제연구원 정책연구원, 대구 시민이자 외과의사인 금희정 씨, 민주평화통일자문회의 자문위원을 맡고 있는 미얀마 출신 귀화 한국인 이본아씨 등이 이름을 올렸다&lt;br/&gt;&lt;em&gt;(Along with this, former Korea Institute for International Economic Policy researcher Ahn Sun-ha, who is a WHO advisor, Daegu citizen and surgeon Geum Hee-jeong, and Myanmar-born naturalized Korean Lee Bo-na, who serves as an advisor to the Peaceful Unification Advisory Council, have also signed on.)&lt;/em&gt;&lt;/p&gt;
