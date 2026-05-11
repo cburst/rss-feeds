@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 21:01:34 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 01:16:02 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>나무 – tree</title><link>urn:urn:vocab:나무</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>강력히 – strongly</title><link>urn:urn:vocab:강력히</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1615388599690-02c0d4a3dfa7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJvbmdseXxlbnwwfHx8fDE3Nzg1MTYxNTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="강력히 (strongly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주한이란대사관은 지난 6일 “호르무즈해협에서 한국 선박이 입은 피해와 관련된 사건에 이란 공화국의 군이 개입했다는 모든 주장을 단호하게 거부하고 강력히 부인한다”는 내용의 성명을 발표하기도 했다&lt;br/&gt;&lt;em&gt;The Iranian Embassy in Seoul issued a statement on the 6th, saying, 'We strongly reject and firmly deny any claims that the Islamic Republic's military was involved in the incident related to the damage suffered by a Korean ship in the Strait of Hormuz.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (위성락 국가안보실장이 11일 에이치엠엠(HMM) 나무호의 화재가 ‘외부공격’으로 드러난 데 대해 “우리 정부는 나무호 등 민간 선박에 대한 공격은 정당화되거나 용납될 수 없다는 입장으로서 이를 강력히 규탄한다”고 말했다&lt;br/&gt;&lt;em&gt;" (National Security Office Director Suh Hoon said on the 11th regarding the revelation that the fire on the HMM Naju was an 'external attack,' 'Our government strongly condemns attacks on civilian ships such as the Naju, stating that such attacks cannot be justified or tolerated.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(위성락 국가안보실장은 11일 청와대 브리핑에서 “우리 정부는 나무호 등 민간 선박에 대한 공격은 정당화하거나 용납될 수 없다는 입장으로 이를 강력히 규탄한다”고 말했다&lt;br/&gt;&lt;em&gt;(National Security Office Director Suh Hoon said at a briefing at the Blue House on the 11th, 'Our government strongly condemns attacks on civilian ships such as the Naju, stating that such attacks cannot be justified or tolerated.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 강력히 반대합니다.&lt;br/&gt;&lt;em&gt;I strongly oppose.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 강력히 주장했다.&lt;br/&gt;&lt;em&gt;He strongly insisted.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1615388599690-02c0d4a3dfa7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJvbmdseXxlbnwwfHx8fDE3Nzg1MTYxNTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="강력히 (strongly)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주한이란대사관은 지난 6일 “호르무즈해협에서 한국 선박이 입은 피해와 관련된 사건에 이란 공화국의 군이 개입했다는 모든 주장을 단호하게 거부하고 강력히 부인한다”는 내용의 성명을 발표하기도 했다&lt;br/&gt;&lt;em&gt;The Iranian Embassy in Seoul issued a statement on the 6th, saying, 'We strongly reject and firmly deny any claims that the Islamic Republic's military was involved in the incident related to the damage suffered by a Korean ship in the Strait of Hormuz.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (위성락 국가안보실장이 11일 에이치엠엠(HMM) 나무호의 화재가 ‘외부공격’으로 드러난 데 대해 “우리 정부는 나무호 등 민간 선박에 대한 공격은 정당화되거나 용납될 수 없다는 입장으로서 이를 강력히 규탄한다”고 말했다&lt;br/&gt;&lt;em&gt;" (National Security Office Director Suh Hoon said on the 11th regarding the revelation that the fire on the HMM Naju was an 'external attack,' 'Our government strongly condemns attacks on civilian ships such as the Naju, stating that such attacks cannot be justified or tolerated.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(위성락 국가안보실장은 11일 청와대 브리핑에서 “우리 정부는 나무호 등 민간 선박에 대한 공격은 정당화하거나 용납될 수 없다는 입장으로 이를 강력히 규탄한다”고 말했다&lt;br/&gt;&lt;em&gt;(National Security Office Director Suh Hoon said at a briefing at the Blue House on the 11th, 'Our government strongly condemns attacks on civilian ships such as the Naju, stating that such attacks cannot be justified or tolerated.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 강력히 반대합니다.&lt;br/&gt;&lt;em&gt;I strongly oppose.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 강력히 주장했다.&lt;br/&gt;&lt;em&gt;He strongly insisted.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 12 May 2026 01:16:02 +0900</pubDate><guid isPermaLink="false">vocab-9ff2582e4bfeeff78f4f1422c544598bf10a4a82</guid><enclosure url="https://images.unsplash.com/photo-1615388599690-02c0d4a3dfa7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJvbmdseXxlbnwwfHx8fDE3Nzg1MTYxNTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="226870" /><ns2:content url="https://images.unsplash.com/photo-1615388599690-02c0d4a3dfa7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJvbmdseXxlbnwwfHx8fDE3Nzg1MTYxNTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1615388599690-02c0d4a3dfa7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJvbmdseXxlbnwwfHx8fDE3Nzg1MTYxNTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>강력히</category></item><item><title>토론은 – discussion</title><link>urn:urn:vocab:토론은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577563908411-5077b6dc7624?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXNjdXNzaW9ufGVufDB8fHx8MTc3ODUwODQ5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="토론은 (discussion)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;종합토론은 한상범 경기대 교수의 사회로, 박준호 명지대 교수, 안영일 한국엔젤투자협회 창업성장본부장, 이창민 한양대 교수, 임병태 금융투자협회 증권1부장, 정준영 중앙대 교수가 참여한다&lt;br/&gt;&lt;em&gt;The comprehensive discussion will be moderated by Professor Han Sang-beom of Kyonggi University, with participation from Professor Park Jun-ho of Myongji University, Ahn Young-il, head of the Startup Growth Division at the Korea Angel Investment Association, Professor Lee Chang-min of Hanyang University, Lim Byung-tae, head of the Securities Division 1 at the Korea Financial Investment Association, and Professor Jung Joon-young of Chung-Ang University.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;토론은 단순히 말을 잘하는 기술이 아니라 다른 생각과 부딪히고 귀 기울이며 더 나은 답을 함께 찾아가는 과정이다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Discussion is not simply a skill of speaking well, but a process of clashing with different thoughts, listening carefully, and finding better answers together.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;토론은 단순히 말을 잘하는 기술이 아니다&lt;br/&gt;&lt;em&gt;Discussion is not simply a skill of speaking well.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;토론은 재미있어요.&lt;br/&gt;&lt;em&gt;Debate is fun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;토론은 중요해요.&lt;br/&gt;&lt;em&gt;Debate is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577563908411-5077b6dc7624?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXNjdXNzaW9ufGVufDB8fHx8MTc3ODUwODQ5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="토론은 (discussion)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;종합토론은 한상범 경기대 교수의 사회로, 박준호 명지대 교수, 안영일 한국엔젤투자협회 창업성장본부장, 이창민 한양대 교수, 임병태 금융투자협회 증권1부장, 정준영 중앙대 교수가 참여한다&lt;br/&gt;&lt;em&gt;The comprehensive discussion will be moderated by Professor Han Sang-beom of Kyonggi University, with participation from Professor Park Jun-ho of Myongji University, Ahn Young-il, head of the Startup Growth Division at the Korea Angel Investment Association, Professor Lee Chang-min of Hanyang University, Lim Byung-tae, head of the Securities Division 1 at the Korea Financial Investment Association, and Professor Jung Joon-young of Chung-Ang University.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;토론은 단순히 말을 잘하는 기술이 아니라 다른 생각과 부딪히고 귀 기울이며 더 나은 답을 함께 찾아가는 과정이다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Discussion is not simply a skill of speaking well, but a process of clashing with different thoughts, listening carefully, and finding better answers together.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;토론은 단순히 말을 잘하는 기술이 아니다&lt;br/&gt;&lt;em&gt;Discussion is not simply a skill of speaking well.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;토론은 재미있어요.&lt;br/&gt;&lt;em&gt;Debate is fun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;토론은 중요해요.&lt;br/&gt;&lt;em&gt;Debate is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 11 May 2026 23:08:22 +0900</pubDate><guid isPermaLink="false">vocab-ccfd626a3af01ca0d40f8d6a5e7785022ecacb39</guid><enclosure url="https://images.unsplash.com/photo-1577563908411-5077b6dc7624?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXNjdXNzaW9ufGVufDB8fHx8MTc3ODUwODQ5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="87753" /><ns2:content url="https://images.unsplash.com/photo-1577563908411-5077b6dc7624?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXNjdXNzaW9ufGVufDB8fHx8MTc3ODUwODQ5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1577563908411-5077b6dc7624?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkaXNjdXNzaW9ufGVufDB8fHx8MTc3ODUwODQ5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>토론은</category></item><item><title>나무 – tree</title><link>urn:urn:vocab:나무</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmVlfGVufDB8fHx8MTc3ODUwMDg4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="나무 (tree)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;그래서 다른 한 짝을 또 던져보지만 그것마저 나무에 걸려 꼼짝하지 않습니다&lt;br/&gt;&lt;em&gt;So I throw the other pair again, but even that gets stuck in the tree and doesn't budge.&lt;/em&gt;&lt;/p&gt;

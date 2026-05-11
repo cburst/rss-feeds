@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 21:01:40 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 01:16:09 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>마시고 – drink and</title><link>urn:urn:vocab:마시고</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>잔해가 – debris</title><link>urn:urn:vocab:잔해가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570026990292-2df6b1443cde?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWJyaXN8ZW58MHx8fHwxNzc4NTE2MTY0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="잔해가 (debris)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (전문가들은 선내에서 어떤 잔해가 수집됐는지에 따라 분석 기간이나 감식 결과가 달라진다며, 비행체 엔진 잔해가 남아 있다면 공격 주체 파악이 수월해질 것으로 보고 있다&lt;br/&gt;&lt;em&gt;" (Experts say that the analysis period or identification results vary depending on what debris is collected on board, and if engine debris of the aircraft remains, it will be easier to identify the attacker.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(차량에서 쓰는 피스톤식 엔진 잔해가 발견됐다면, 이란의 샤헤드 계열 드론일 가능성에 무게가 실린다&lt;br/&gt;&lt;em&gt;(If piston-type engine debris used in vehicles is found, the possibility of it being an Iranian Shahed series drone gains weight.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이일우 자주국방네트워크 사무국장은 “샤헤드 드론은 엔진 잔해가 많이 보고돼 있어 확인이 어렵지 않을 것”이라며 “최신형 샤헤드 중 제트엔진을 사용한 모델도 있지만 이 경우에도 식별할 수 있다”고 했다&lt;br/&gt;&lt;em&gt;Lee Il-woo, secretary-general of the Independent Defense Network, said, "Shahed drones have a lot of engine debris reported, so identification will not be difficult," adding, "Among the latest Shahed models, there are those using jet engines, but even in that case, they can be identified."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;잔해가 길에 있다.&lt;br/&gt;&lt;em&gt;Debris is on the road.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;잔해가 많이 보인다.&lt;br/&gt;&lt;em&gt;A lot of debris is visible.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570026990292-2df6b1443cde?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWJyaXN8ZW58MHx8fHwxNzc4NTE2MTY0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="잔해가 (debris)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (전문가들은 선내에서 어떤 잔해가 수집됐는지에 따라 분석 기간이나 감식 결과가 달라진다며, 비행체 엔진 잔해가 남아 있다면 공격 주체 파악이 수월해질 것으로 보고 있다&lt;br/&gt;&lt;em&gt;" (Experts say that the analysis period or identification results vary depending on what debris is collected on board, and if engine debris of the aircraft remains, it will be easier to identify the attacker.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(차량에서 쓰는 피스톤식 엔진 잔해가 발견됐다면, 이란의 샤헤드 계열 드론일 가능성에 무게가 실린다&lt;br/&gt;&lt;em&gt;(If piston-type engine debris used in vehicles is found, the possibility of it being an Iranian Shahed series drone gains weight.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이일우 자주국방네트워크 사무국장은 “샤헤드 드론은 엔진 잔해가 많이 보고돼 있어 확인이 어렵지 않을 것”이라며 “최신형 샤헤드 중 제트엔진을 사용한 모델도 있지만 이 경우에도 식별할 수 있다”고 했다&lt;br/&gt;&lt;em&gt;Lee Il-woo, secretary-general of the Independent Defense Network, said, "Shahed drones have a lot of engine debris reported, so identification will not be difficult," adding, "Among the latest Shahed models, there are those using jet engines, but even in that case, they can be identified."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;잔해가 길에 있다.&lt;br/&gt;&lt;em&gt;Debris is on the road.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;잔해가 많이 보인다.&lt;br/&gt;&lt;em&gt;A lot of debris is visible.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 12 May 2026 01:16:09 +0900</pubDate><guid isPermaLink="false">vocab-39d60454c8ca4326a3be11e818ef3419f30a4b8d</guid><enclosure url="https://images.unsplash.com/photo-1570026990292-2df6b1443cde?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWJyaXN8ZW58MHx8fHwxNzc4NTE2MTY0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="310640" /><ns2:content url="https://images.unsplash.com/photo-1570026990292-2df6b1443cde?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWJyaXN8ZW58MHx8fHwxNzc4NTE2MTY0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1570026990292-2df6b1443cde?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWJyaXN8ZW58MHx8fHwxNzc4NTE2MTY0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>잔해가</category></item><item><title>세월호 – Sewol ferry</title><link>urn:urn:vocab:세월호</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506905635675-bb2205492c53?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZXdvbCUyMGZlcnJ5fGVufDB8fHx8MTc3ODUwODUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="세월호 (Sewol ferry)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Kim Yong-nam "Apologizes to Sewol Ferry Victims' Families…Yoon's Spokesperson, a Stain on My Life" (김용남 “세월호 유가족에게 사죄…尹 대변인, 인생의 오점”) &lt;&lt;br/&gt;&lt;em&gt;Kim Yong-nam "Apologizes to Sewol Ferry Victims' Families…Yoon's Spokesperson, a Stain on My Life"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Kim Yong-nam "Apologizes to Sewol Ferry Victims' Families…Yoon's Spokesperson, a Stain on My Life" (김용남 “세월호 유가족에게 사죄…尹 대변인, 인생의 오점”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Kim Yong-nam "Apologizes to Sewol Ferry Victims' Families…Yoon's Spokesperson, a Stain on My Life"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (경기 평택을 재선거에 출마한 더불어민주당 김용남 후보가 11일 세월호 참사 특별조사위원회(특조위)에 대한 과거 발언에 대해 사과했다&lt;br/&gt;&lt;em&gt;" (Kim Yong-nam, the Democratic Party candidate running in the Gyeonggi Pyeongtaek by-election, apologized on the 11th for past remarks about the Sewol Ferry Disaster Special Investigation Committee)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;세월호 사건을 기억합니다.&lt;br/&gt;&lt;em&gt;I remember the Sewol ferry incident.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;세월호는 슬픈 역사입니다.&lt;br/&gt;&lt;em&gt;The Sewol ferry is a sad history.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506905635675-bb2205492c53?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZXdvbCUyMGZlcnJ5fGVufDB8fHx8MTc3ODUwODUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="세월호 (Sewol ferry)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Kim Yong-nam "Apologizes to Sewol Ferry Victims' Families…Yoon's Spokesperson, a Stain on My Life" (김용남 “세월호 유가족에게 사죄…尹 대변인, 인생의 오점”) &lt;&lt;br/&gt;&lt;em&gt;Kim Yong-nam "Apologizes to Sewol Ferry Victims' Families…Yoon's Spokesperson, a Stain on My Life"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Kim Yong-nam "Apologizes to Sewol Ferry Victims' Families…Yoon's Spokesperson, a Stain on My Life" (김용남 “세월호 유가족에게 사죄…尹 대변인, 인생의 오점”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Kim Yong-nam "Apologizes to Sewol Ferry Victims' Families…Yoon's Spokesperson, a Stain on My Life"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (경기 평택을 재선거에 출마한 더불어민주당 김용남 후보가 11일 세월호 참사 특별조사위원회(특조위)에 대한 과거 발언에 대해 사과했다&lt;br/&gt;&lt;em&gt;" (Kim Yong-nam, the Democratic Party candidate running in the Gyeonggi Pyeongtaek by-election, apologized on the 11th for past remarks about the Sewol Ferry Disaster Special Investigation Committee)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;세월호 사건을 기억합니다.&lt;br/&gt;&lt;em&gt;I remember the Sewol ferry incident.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;세월호는 슬픈 역사입니다.&lt;br/&gt;&lt;em&gt;The Sewol ferry is a sad history.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 11 May 2026 23:08:30 +0900</pubDate><guid isPermaLink="false">vocab-ec8a8727388b045a77d04e7f1b5fa1cdbb483af7</guid><enclosure url="https://images.unsplash.com/photo-1506905635675-bb2205492c53?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZXdvbCUyMGZlcnJ5fGVufDB8fHx8MTc3ODUwODUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="241787" /><ns2:content url="https://images.unsplash.com/photo-1506905635675-bb2205492c53?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZXdvbCUyMGZlcnJ5fGVufDB8fHx8MTc3ODUwODUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1506905635675-bb2205492c53?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZXdvbCUyMGZlcnJ5fGVufDB8fHx8MTc3ODUwODUwNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>세월호</category></item><item><title>마시고 – drink and</title><link>urn:urn:vocab:마시고</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1652922664558-03d0f2932e58?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkcmluayUyMGFuZHxlbnwwfHx8fDE3Nzg1MDA4OTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="마시고 (drink and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이어 “2등을 선택해 두지 않으면 본인이 1등으로 선택한 후보가 탈락한 결선투표에는 기권하는 결과가 되는 점을 숙지하시고, 오해하지 마시고 1, 2등 선호를 모두 선택하시기 바란다”고 했다&lt;br/&gt;&lt;em&gt;He added, "Please be aware that if you do not select a second choice, you will end up abstaining in the runoff election if your first-choice candidate is eliminated. Do not misunderstand, and please select both your first and second preferences."&lt;/em&gt;&lt;/p&gt;
