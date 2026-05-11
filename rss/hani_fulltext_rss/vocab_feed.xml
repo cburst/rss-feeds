@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 14:34:13 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 18:50:29 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>인공지능은 – artificial intelligence</title><link>urn:urn:vocab:인공지능은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>내일은 – tomorrow</title><link>urn:urn:vocab:내일은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1608349380900-4bd9cc782770?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0b21vcnJvd3xlbnwwfHx8fDE3Nzg0OTMwMjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="내일은 (tomorrow)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Myongji University Museum Launches 'Tomorrow's Potter' Ceramic Arts Education Program (명지대 박물관, ‘내일은 도예가’ 도자공예 교육과정 개강) &lt;&lt;br/&gt;&lt;em&gt;Myongji University Museum Launches 'Tomorrow's Potter' Ceramic Arts Education Program&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Myongji University Museum Launches 'Tomorrow's Potter' Ceramic Arts Education Program (명지대 박물관, ‘내일은 도예가’ 도자공예 교육과정 개강)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Myongji University Museum Launches 'Tomorrow's Potter' Ceramic Arts Education Program&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(명지대학교(총장 임연수) 박물관(관장 이주현)은 지역주민 대상 도자공예 교육 프로그램 ‘내일은 도예가’를 지난 4월 30일 개강했다고 밝혔다&lt;br/&gt;&lt;em&gt;(Myongji University (President Yim Yeon-soo) Museum (Director Lee Ju-hyun) announced that it launched the ceramic arts education program 'Tomorrow's Potter' for local residents on April 30.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;내일은 학교에 가요.&lt;br/&gt;&lt;em&gt;I go to school tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내일은 친구를 만나요.&lt;br/&gt;&lt;em&gt;I meet a friend tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1608349380900-4bd9cc782770?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0b21vcnJvd3xlbnwwfHx8fDE3Nzg0OTMwMjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="내일은 (tomorrow)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Myongji University Museum Launches 'Tomorrow's Potter' Ceramic Arts Education Program (명지대 박물관, ‘내일은 도예가’ 도자공예 교육과정 개강) &lt;&lt;br/&gt;&lt;em&gt;Myongji University Museum Launches 'Tomorrow's Potter' Ceramic Arts Education Program&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Myongji University Museum Launches 'Tomorrow's Potter' Ceramic Arts Education Program (명지대 박물관, ‘내일은 도예가’ 도자공예 교육과정 개강)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Myongji University Museum Launches 'Tomorrow's Potter' Ceramic Arts Education Program&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(명지대학교(총장 임연수) 박물관(관장 이주현)은 지역주민 대상 도자공예 교육 프로그램 ‘내일은 도예가’를 지난 4월 30일 개강했다고 밝혔다&lt;br/&gt;&lt;em&gt;(Myongji University (President Yim Yeon-soo) Museum (Director Lee Ju-hyun) announced that it launched the ceramic arts education program 'Tomorrow's Potter' for local residents on April 30.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;내일은 학교에 가요.&lt;br/&gt;&lt;em&gt;I go to school tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내일은 친구를 만나요.&lt;br/&gt;&lt;em&gt;I meet a friend tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 11 May 2026 18:50:28 +0900</pubDate><guid isPermaLink="false">vocab-fd5f0880b3d6305739061b722a7cc4c0d50d473e</guid><enclosure url="https://images.unsplash.com/photo-1608349380900-4bd9cc782770?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0b21vcnJvd3xlbnwwfHx8fDE3Nzg0OTMwMjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="103838" /><ns2:content url="https://images.unsplash.com/photo-1608349380900-4bd9cc782770?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0b21vcnJvd3xlbnwwfHx8fDE3Nzg0OTMwMjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1608349380900-4bd9cc782770?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0b21vcnJvd3xlbnwwfHx8fDE3Nzg0OTMwMjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>내일은</category></item><item><title>쪽으로 – toward</title><link>urn:urn:vocab:쪽으로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1681140932087-cfc7397dc8ac?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0b3dhcmR8ZW58MHx8fHwxNzc4NDg1MjY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쪽으로 (toward)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;처음에는 수강생으로 앉아 있던 자리에서 강단 쪽으로 자리를 바꾸는 경험— 이 작은 전환이 더 큰 무대로 나아가는 발판이 됐다&lt;br/&gt;&lt;em&gt;The experience of moving from a seat where I was sitting as a student to the podium—this small change became a stepping stone to a larger stage.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;금리 인상 쪽으로 더 기우나) &lt;&lt;br/&gt;&lt;em&gt;It leans more toward raising interest rates) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(대표적인 금융 완화론자조차 금리 인상 의견을 접은 분위기여서 기준금리 전망 추는 상향 쪽으로 한층 더 기운다&lt;br/&gt;&lt;em&gt;Even typical monetary easing advocates have given up on raising interest rates, so the outlook for the benchmark rate leans further toward an upward adjustment.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교 쪽으로 걸어가요.&lt;br/&gt;&lt;em&gt;Walk toward the school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오른쪽으로 가세요.&lt;br/&gt;&lt;em&gt;Go to the right.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1681140932087-cfc7397dc8ac?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0b3dhcmR8ZW58MHx8fHwxNzc4NDg1MjY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="쪽으로 (toward)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;처음에는 수강생으로 앉아 있던 자리에서 강단 쪽으로 자리를 바꾸는 경험— 이 작은 전환이 더 큰 무대로 나아가는 발판이 됐다&lt;br/&gt;&lt;em&gt;The experience of moving from a seat where I was sitting as a student to the podium—this small change became a stepping stone to a larger stage.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;금리 인상 쪽으로 더 기우나) &lt;&lt;br/&gt;&lt;em&gt;It leans more toward raising interest rates) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(대표적인 금융 완화론자조차 금리 인상 의견을 접은 분위기여서 기준금리 전망 추는 상향 쪽으로 한층 더 기운다&lt;br/&gt;&lt;em&gt;Even typical monetary easing advocates have given up on raising interest rates, so the outlook for the benchmark rate leans further toward an upward adjustment.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교 쪽으로 걸어가요.&lt;br/&gt;&lt;em&gt;Walk toward the school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오른쪽으로 가세요.&lt;br/&gt;&lt;em&gt;Go to the right.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 11 May 2026 16:41:10 +0900</pubDate><guid isPermaLink="false">vocab-feae71db85a511819878628a52c00ab0472703ca</guid><enclosure url="https://images.unsplash.com/photo-1681140932087-cfc7397dc8ac?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0b3dhcmR8ZW58MHx8fHwxNzc4NDg1MjY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="182402" /><ns2:content url="https://images.unsplash.com/photo-1681140932087-cfc7397dc8ac?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0b3dhcmR8ZW58MHx8fHwxNzc4NDg1MjY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1681140932087-cfc7397dc8ac?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0b3dhcmR8ZW58MHx8fHwxNzc4NDg1MjY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>쪽으로</category></item><item><title>인공지능은 – artificial intelligence</title><link>urn:urn:vocab:인공지능은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773332598413-a6d5279d1ae8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDB8fHx8MTc3ODQ3NzY0OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인공지능은 (artificial intelligence)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;물론 대부분의 인공지능은 무료 사용이 가능하고 여전히 다수 사용자가 무료 모델에 의지하고 있다&lt;br/&gt;&lt;em&gt;Of course, most AI is free to use, and many users still rely on free models.&lt;/em&gt;&lt;/p&gt;
