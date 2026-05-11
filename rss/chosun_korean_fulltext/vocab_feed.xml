@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 08:22:27 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 14:34:19 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>주체를 – subject (object particle)</title><link>urn:urn:vocab:주체를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>드론으로 – by drone</title><link>urn:urn:vocab:드론으로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641035855055-d74afe26d88b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMGRyb25lfGVufDB8fHx8MTc3ODQ3NzY1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="드론으로 (by drone)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(전문가들은 드론으로 추정되는 비행체가 1분 간격으로 나무호와 충돌한 것은 ‘계산된 공격’일 가능성이 높다고 본다&lt;br/&gt;&lt;em&gt;Experts believe that the collision of the presumed drone with the tree at one-minute intervals is likely a 'calculated attack'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이런 방식은 러시아·우크라이나 전쟁에서 드론으로 건물이나 대형 유조선을 공격할 때 빈번히 사용된다&lt;br/&gt;&lt;em&gt;This method is frequently used in the Russia-Ukraine war when attacking buildings or large oil tankers with drones.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (장 대표는 “이 정권은 이란에 돈까지 갖다 바쳤다”며 “그 돈이 우리 선박을 공격한 드론으로 돌아왔을지도 모른다”고 했다&lt;br/&gt;&lt;em&gt;"Representative Jang said, 'This regime even gave money to Iran,' adding, 'That money may have come back as the drone that attacked our ship.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;드론으로 사진을 찍었어요.&lt;br/&gt;&lt;em&gt;I took a picture with a drone.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;드론으로 배달을 받았어요.&lt;br/&gt;&lt;em&gt;I received a delivery by drone.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641035855055-d74afe26d88b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMGRyb25lfGVufDB8fHx8MTc3ODQ3NzY1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="드론으로 (by drone)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(전문가들은 드론으로 추정되는 비행체가 1분 간격으로 나무호와 충돌한 것은 ‘계산된 공격’일 가능성이 높다고 본다&lt;br/&gt;&lt;em&gt;Experts believe that the collision of the presumed drone with the tree at one-minute intervals is likely a 'calculated attack'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이런 방식은 러시아·우크라이나 전쟁에서 드론으로 건물이나 대형 유조선을 공격할 때 빈번히 사용된다&lt;br/&gt;&lt;em&gt;This method is frequently used in the Russia-Ukraine war when attacking buildings or large oil tankers with drones.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (장 대표는 “이 정권은 이란에 돈까지 갖다 바쳤다”며 “그 돈이 우리 선박을 공격한 드론으로 돌아왔을지도 모른다”고 했다&lt;br/&gt;&lt;em&gt;"Representative Jang said, 'This regime even gave money to Iran,' adding, 'That money may have come back as the drone that attacked our ship.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;드론으로 사진을 찍었어요.&lt;br/&gt;&lt;em&gt;I took a picture with a drone.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;드론으로 배달을 받았어요.&lt;br/&gt;&lt;em&gt;I received a delivery by drone.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 11 May 2026 14:34:19 +0900</pubDate><guid isPermaLink="false">vocab-d959346ffe7044d113a2490358c5fec106eff6c9</guid><enclosure url="https://images.unsplash.com/photo-1641035855055-d74afe26d88b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMGRyb25lfGVufDB8fHx8MTc3ODQ3NzY1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="134379" /><ns2:content url="https://images.unsplash.com/photo-1641035855055-d74afe26d88b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMGRyb25lfGVufDB8fHx8MTc3ODQ3NzY1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1641035855055-d74afe26d88b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMGRyb25lfGVufDB8fHx8MTc3ODQ3NzY1NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>드론으로</category></item><item><title>남편이 – husband (subject)</title><link>urn:urn:vocab:남편이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1657703156012-ce19a63c8ce6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodXNiYW5kJTIwJTI4c3ViamVjdCUyOXxlbnwwfHx8fDE3Nzg0NzAyNTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="남편이 (husband (subject))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(현인애 한반도미래여성연구소장은 김일성종합대 철학부 출신으로 청진의대에서 철학 교원으로 일하다가 러시아 유학파인 남편이 처형된 뒤 2004년 탈북했다&lt;br/&gt;&lt;em&gt;Hyun In-ae, director of the Korean Peninsula Future Women's Research Institute, is a graduate of the Philosophy Department at Kim Il-sung University and worked as a philosophy instructor at Cheongjin Medical University before defecting from North Korea in 2004 after her husband, who studied in Russia, was executed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (“남편이 정치 사건에 연루돼 처형됐고, 가족들도 정치범 수용소로 끌려갈 위기에 몰렸다&lt;br/&gt;&lt;em&gt;"My husband was executed for being involved in a political incident, and our family was in danger of being taken to a political prison camp.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;러시아 유학파 출신 남편이 정치 사건에 연루돼 처형된 뒤 한국에 정착했다&lt;br/&gt;&lt;em&gt;After her husband, who studied in Russia, was executed for being involved in a political incident, she settled in South Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;남편이 밥을 먹어요.&lt;br/&gt;&lt;em&gt;My husband eats rice.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;남편이 회사에 가요.&lt;br/&gt;&lt;em&gt;My husband goes to the company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1657703156012-ce19a63c8ce6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodXNiYW5kJTIwJTI4c3ViamVjdCUyOXxlbnwwfHx8fDE3Nzg0NzAyNTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="남편이 (husband (subject))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(현인애 한반도미래여성연구소장은 김일성종합대 철학부 출신으로 청진의대에서 철학 교원으로 일하다가 러시아 유학파인 남편이 처형된 뒤 2004년 탈북했다&lt;br/&gt;&lt;em&gt;Hyun In-ae, director of the Korean Peninsula Future Women's Research Institute, is a graduate of the Philosophy Department at Kim Il-sung University and worked as a philosophy instructor at Cheongjin Medical University before defecting from North Korea in 2004 after her husband, who studied in Russia, was executed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (“남편이 정치 사건에 연루돼 처형됐고, 가족들도 정치범 수용소로 끌려갈 위기에 몰렸다&lt;br/&gt;&lt;em&gt;"My husband was executed for being involved in a political incident, and our family was in danger of being taken to a political prison camp.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;러시아 유학파 출신 남편이 정치 사건에 연루돼 처형된 뒤 한국에 정착했다&lt;br/&gt;&lt;em&gt;After her husband, who studied in Russia, was executed for being involved in a political incident, she settled in South Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;남편이 밥을 먹어요.&lt;br/&gt;&lt;em&gt;My husband eats rice.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;남편이 회사에 가요.&lt;br/&gt;&lt;em&gt;My husband goes to the company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 11 May 2026 12:30:57 +0900</pubDate><guid isPermaLink="false">vocab-e81d731986f88709d2826bfbcd98b005204f7a63</guid><enclosure url="https://images.unsplash.com/photo-1657703156012-ce19a63c8ce6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodXNiYW5kJTIwJTI4c3ViamVjdCUyOXxlbnwwfHx8fDE3Nzg0NzAyNTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="53317" /><ns2:content url="https://images.unsplash.com/photo-1657703156012-ce19a63c8ce6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodXNiYW5kJTIwJTI4c3ViamVjdCUyOXxlbnwwfHx8fDE3Nzg0NzAyNTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1657703156012-ce19a63c8ce6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxodXNiYW5kJTIwJTI4c3ViamVjdCUyOXxlbnwwfHx8fDE3Nzg0NzAyNTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>남편이</category></item><item><title>주체를 – subject (object particle)</title><link>urn:urn:vocab:주체를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1663534346049-b8874aae17ba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdWJqZWN0JTIwJTI4b2JqZWN0JTIwcGFydGljbGUlMjl8ZW58MHx8fHwxNzc4NDU1MzQzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주체를 (subject (object particle))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;박일 외교부 대변인은 “공격의 주체를 예단하지 않을 것이며 이번 조사 결과와 관련해 이란과 미국을 비롯한 관련국과 소통하겠다”고 했다&lt;br/&gt;&lt;em&gt;Foreign Ministry spokesman Park Il said, 'We will not prejudge the identity of the attacker, and we will communicate with relevant countries, including Iran and the United States, regarding the results of this investigation.'&lt;/em&gt;&lt;/p&gt;
