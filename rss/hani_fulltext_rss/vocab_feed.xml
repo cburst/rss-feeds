@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 18:50:29 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 21:01:34 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>내일은 – tomorrow</title><link>urn:urn:vocab:내일은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>나무 – tree</title><link>urn:urn:vocab:나무</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmVlfGVufDB8fHx8MTc3ODUwMDg4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="나무 (tree)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그래서 다른 한 짝을 또 던져보지만 그것마저 나무에 걸려 꼼짝하지 않습니다&lt;br/&gt;&lt;em&gt;So I throw the other pair again, but even that gets stuck in the tree and doesn't budge.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;하지만 안타깝게도 던지는 족족 나무에 걸리고 마네요&lt;br/&gt;&lt;em&gt;But unfortunately, every time I throw them, they get caught in the tree.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘온난화 식목일 나무심기’와 ‘해양 플로깅’ ‘무해런’ 실천 경험을 사진과 함께 이야기해주었더니 아이들의 눈은 첫 시간부터 반짝였다&lt;br/&gt;&lt;em&gt;When I shared my experiences of 'Warming Arbor Day Tree Planting', 'Ocean Plogging', and 'Muhae-run' with photos, the children's eyes sparkled from the very first session.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나무가 키가 크다.&lt;br/&gt;&lt;em&gt;The tree is tall.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 나무를 본다.&lt;br/&gt;&lt;em&gt;I see the tree.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmVlfGVufDB8fHx8MTc3ODUwMDg4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="나무 (tree)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그래서 다른 한 짝을 또 던져보지만 그것마저 나무에 걸려 꼼짝하지 않습니다&lt;br/&gt;&lt;em&gt;So I throw the other pair again, but even that gets stuck in the tree and doesn't budge.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;하지만 안타깝게도 던지는 족족 나무에 걸리고 마네요&lt;br/&gt;&lt;em&gt;But unfortunately, every time I throw them, they get caught in the tree.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘온난화 식목일 나무심기’와 ‘해양 플로깅’ ‘무해런’ 실천 경험을 사진과 함께 이야기해주었더니 아이들의 눈은 첫 시간부터 반짝였다&lt;br/&gt;&lt;em&gt;When I shared my experiences of 'Warming Arbor Day Tree Planting', 'Ocean Plogging', and 'Muhae-run' with photos, the children's eyes sparkled from the very first session.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나무가 키가 크다.&lt;br/&gt;&lt;em&gt;The tree is tall.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 나무를 본다.&lt;br/&gt;&lt;em&gt;I see the tree.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 11 May 2026 21:01:34 +0900</pubDate><guid isPermaLink="false">vocab-b2b8df815fdea107f6fbf9821f7e485be4dafc2e</guid><enclosure url="https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmVlfGVufDB8fHx8MTc3ODUwMDg4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="164264" /><ns2:content url="https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmVlfGVufDB8fHx8MTc3ODUwMDg4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmVlfGVufDB8fHx8MTc3ODUwMDg4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>나무</category></item><item><title>내일은 – tomorrow</title><link>urn:urn:vocab:내일은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1608349380900-4bd9cc782770?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0b21vcnJvd3xlbnwwfHx8fDE3Nzg0OTMwMjR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="내일은 (tomorrow)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Myongji University Museum Launches 'Tomorrow's Potter' Ceramic Arts Education Program (명지대 박물관, ‘내일은 도예가’ 도자공예 교육과정 개강) &lt;&lt;br/&gt;&lt;em&gt;Myongji University Museum Launches 'Tomorrow's Potter' Ceramic Arts Education Program&lt;/em&gt;&lt;/p&gt;
