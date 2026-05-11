@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 08:22:22 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 10:26:37 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>비거주 – non-resident</title><link>urn:urn:vocab:비거주</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>대책을 – measures</title><link>urn:urn:vocab:대책을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1587145717032-7d7bdfe0497e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWFzdXJlc3xlbnwwfHx8fDE3Nzg0NjI3OTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대책을 (measures)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국토부는 지난해 9·7 대책과 올해 1·29 대책을 연이어 발표하면서 부족한 주택 물량은 신규 택지를 지속적으로 발굴해 메꾸겠다는 입장이었지만, 대책 발표 3개월이 지난 지금까지 신규 택지 발표는 이뤄지지 않고 있다&lt;br/&gt;&lt;em&gt;The Ministry of Land, Infrastructure and Transport has stated its position that it will continuously discover new housing sites to fill the shortage of housing supply, following the September 7 measures last year and the January 29 measures this year, but no new housing sites have been announced three months after the measures were announced.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박원갑 케이비(KB)국민은행 부동산수석전문위원은 “중과 재개 이후 다주택자 물량이 사라지는 만큼 매물 감소는 불가피하지만, 정부가 7월 세법개정안에서 매물 출하를 유도하기 위한 추가 대책을 내놓을 가능성이 크기 때문에 매물 절벽까지 가진 않을 것”이라며 “일각에서 제기되는 매물 잠김에 따른 집값 급등이 현실화할 가능성은 작아 보인다”고 말했다&lt;br/&gt;&lt;em&gt;Park Won-gap, senior real estate expert at KB Kookmin Bank, said, 'After the resumption of heavy taxation, the disappearance of multi-homeowner supply makes a decrease in listings inevitable, but the government is likely to introduce additional measures in the July tax reform proposal to encourage the release of properties, so it will not lead to a cliff in listings. The possibility of a sharp rise in housing prices due to the locking of listings, as some have suggested, seems low.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부는 실거주를 위한 주택 거래가 원활히 이뤄질 수 있도록 매물 출하를 유도할 추가 대책을 구상하고 있다&lt;br/&gt;&lt;em&gt;The government is considering additional measures to encourage the release of properties so that housing transactions for actual residence can proceed smoothly.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정부가 대책을 세웠다.&lt;br/&gt;&lt;em&gt;The government has come up with measures.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 대책을 찾아야 한다.&lt;br/&gt;&lt;em&gt;We need to find measures.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1587145717032-7d7bdfe0497e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWFzdXJlc3xlbnwwfHx8fDE3Nzg0NjI3OTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대책을 (measures)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;국토부는 지난해 9·7 대책과 올해 1·29 대책을 연이어 발표하면서 부족한 주택 물량은 신규 택지를 지속적으로 발굴해 메꾸겠다는 입장이었지만, 대책 발표 3개월이 지난 지금까지 신규 택지 발표는 이뤄지지 않고 있다&lt;br/&gt;&lt;em&gt;The Ministry of Land, Infrastructure and Transport has stated its position that it will continuously discover new housing sites to fill the shortage of housing supply, following the September 7 measures last year and the January 29 measures this year, but no new housing sites have been announced three months after the measures were announced.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박원갑 케이비(KB)국민은행 부동산수석전문위원은 “중과 재개 이후 다주택자 물량이 사라지는 만큼 매물 감소는 불가피하지만, 정부가 7월 세법개정안에서 매물 출하를 유도하기 위한 추가 대책을 내놓을 가능성이 크기 때문에 매물 절벽까지 가진 않을 것”이라며 “일각에서 제기되는 매물 잠김에 따른 집값 급등이 현실화할 가능성은 작아 보인다”고 말했다&lt;br/&gt;&lt;em&gt;Park Won-gap, senior real estate expert at KB Kookmin Bank, said, 'After the resumption of heavy taxation, the disappearance of multi-homeowner supply makes a decrease in listings inevitable, but the government is likely to introduce additional measures in the July tax reform proposal to encourage the release of properties, so it will not lead to a cliff in listings. The possibility of a sharp rise in housing prices due to the locking of listings, as some have suggested, seems low.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부는 실거주를 위한 주택 거래가 원활히 이뤄질 수 있도록 매물 출하를 유도할 추가 대책을 구상하고 있다&lt;br/&gt;&lt;em&gt;The government is considering additional measures to encourage the release of properties so that housing transactions for actual residence can proceed smoothly.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정부가 대책을 세웠다.&lt;br/&gt;&lt;em&gt;The government has come up with measures.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 대책을 찾아야 한다.&lt;br/&gt;&lt;em&gt;We need to find measures.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 11 May 2026 10:26:37 +0900</pubDate><guid isPermaLink="false">vocab-5f69877d94aa8e5c2e42bec83f3f1c76f2db88f4</guid><enclosure url="https://images.unsplash.com/photo-1587145717032-7d7bdfe0497e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWFzdXJlc3xlbnwwfHx8fDE3Nzg0NjI3OTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="36389" /><ns2:content url="https://images.unsplash.com/photo-1587145717032-7d7bdfe0497e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWFzdXJlc3xlbnwwfHx8fDE3Nzg0NjI3OTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1587145717032-7d7bdfe0497e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWFzdXJlc3xlbnwwfHx8fDE3Nzg0NjI3OTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>대책을</category></item><item><title>비거주 – non-resident</title><link>urn:urn:vocab:비거주</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633740457972-d78d0255bdf6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tcmVzaWRlbnR8ZW58MHx8fHwxNzc4NDU1MzM3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비거주 (non-resident)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;정부가 시장에 매물 공급 신호를 얼마나 강하고 지속적으로 주느냐에 따라 고령 1주택자나 비거주 1주택자 등의 매물이 추가로 나올 수 있다는 것이다&lt;br/&gt;&lt;em&gt;Depending on how strongly and consistently the government signals the supply of properties to the market, additional listings may come from elderly single-home owners or non-resident single-home owners.&lt;/em&gt;&lt;/p&gt;
