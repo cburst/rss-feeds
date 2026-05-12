@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 03:21:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 11:39:14 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>비둘기파 – dove (moderate, peace-seeking faction)</title><link>urn:urn:vocab:비둘기파</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>무료배달 – free delivery</title><link>urn:urn:vocab:무료배달</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1584824388178-1defc3484ce3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTIwZGVsaXZlcnl8ZW58MHx8fHwxNzc4NTUzNTUwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="무료배달 (free delivery)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;[Exclusive] Coupang Eats Considers Expanding Free Delivery to General Members… Industry Consultations Underway ([단독] 쿠팡이츠, 일반회원까지 무료배달 확대 검토…업계 협의 시작) &lt;&lt;br/&gt;&lt;em&gt;[Exclusive] Coupang Eats Considers Expanding Free Delivery to General Members… Industry Consultations Underway&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;[Exclusive] Coupang Eats Considers Expanding Free Delivery to General Members… Industry Consultations Underway ([단독] 쿠팡이츠, 일반회원까지 무료배달 확대 검토…업계 협의 시작)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;[Exclusive] Coupang Eats Considers Expanding Free Delivery to General Members… Industry Consultations Underway&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(쿠팡이츠가 기존 와우멤버십 회원(월 7890원)에게만 제공하던 ‘배달비 0원’(무료배달) 서비스를 일반회원으로 확대하는 방안을 검토하고 있다&lt;br/&gt;&lt;em&gt;Coupang Eats is considering expanding the 'zero delivery fee' (free delivery) service, currently provided only to Wow Membership members (monthly 7,890 won), to general members.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 피자는 무료배달입니다.&lt;br/&gt;&lt;em&gt;This pizza is free delivery.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;무료배달 서비스 좋아요.&lt;br/&gt;&lt;em&gt;Free delivery service is good.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1584824388178-1defc3484ce3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTIwZGVsaXZlcnl8ZW58MHx8fHwxNzc4NTUzNTUwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="무료배달 (free delivery)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;[Exclusive] Coupang Eats Considers Expanding Free Delivery to General Members… Industry Consultations Underway ([단독] 쿠팡이츠, 일반회원까지 무료배달 확대 검토…업계 협의 시작) &lt;&lt;br/&gt;&lt;em&gt;[Exclusive] Coupang Eats Considers Expanding Free Delivery to General Members… Industry Consultations Underway&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;[Exclusive] Coupang Eats Considers Expanding Free Delivery to General Members… Industry Consultations Underway ([단독] 쿠팡이츠, 일반회원까지 무료배달 확대 검토…업계 협의 시작)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;[Exclusive] Coupang Eats Considers Expanding Free Delivery to General Members… Industry Consultations Underway&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(쿠팡이츠가 기존 와우멤버십 회원(월 7890원)에게만 제공하던 ‘배달비 0원’(무료배달) 서비스를 일반회원으로 확대하는 방안을 검토하고 있다&lt;br/&gt;&lt;em&gt;Coupang Eats is considering expanding the 'zero delivery fee' (free delivery) service, currently provided only to Wow Membership members (monthly 7,890 won), to general members.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 피자는 무료배달입니다.&lt;br/&gt;&lt;em&gt;This pizza is free delivery.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;무료배달 서비스 좋아요.&lt;br/&gt;&lt;em&gt;Free delivery service is good.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 12 May 2026 11:39:14 +0900</pubDate><guid isPermaLink="false">vocab-579a5b04400525f5b46a1395226fc1a5209d6742</guid><enclosure url="https://images.unsplash.com/photo-1584824388178-1defc3484ce3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTIwZGVsaXZlcnl8ZW58MHx8fHwxNzc4NTUzNTUwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="181251" /><ns2:content url="https://images.unsplash.com/photo-1584824388178-1defc3484ce3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTIwZGVsaXZlcnl8ZW58MHx8fHwxNzc4NTUzNTUwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1584824388178-1defc3484ce3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmVlJTIwZGVsaXZlcnl8ZW58MHx8fHwxNzc4NTUzNTUwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>무료배달</category></item><item><title>비행체의 – of the aircraft</title><link>urn:urn:vocab:비행체의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1720074670007-ad927fcc432f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGFpcmNyYWZ0fGVufDB8fHx8MTc3ODU0NjAyOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비행체의 (of the aircraft)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정부가 10일 호르무즈해협에서 정박 중이던 에이치엠엠(HMM) 나무호에서 발생한 화재 원인이 외부 비행체의 충격 때문이라고 공식 확인한 뒤, 사이드 쿠제치 주한이란대사를 외교부 청사로 불렀다&lt;br/&gt;&lt;em&gt;After the government officially confirmed that the fire on the HMM NAMUHO, which was anchored in the Strait of Hormuz on the 10th, was caused by an impact from an external aircraft, it summoned Iranian Ambassador to South Korea Saeed Koozechi to the Ministry of Foreign Affairs building.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;외교부가 지난 4일 호르무즈해협에서 일어난 나무호 화재 사건이 미상 비행체의 외부 타격에 의한 것이라고 발표하면서 현장 조사단이 기록한 사진을 공개했다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;The Ministry of Foreign Affairs announced on the 4th that the fire on the NAMUHO in the Strait of Hormuz was caused by an external strike from an unidentified aircraft, and released photos taken by the on-site investigation team.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부가 호르무즈해협에 정박해있던 에이치엠엠(HMM) 나무호의 폭발·화재 원인이 외부 비행체의 타격 탓이라고 공식 확인했다&lt;br/&gt;&lt;em&gt;The government officially confirmed that the explosion and fire on the HMM NAMUHO, anchored in the Strait of Hormuz, were caused by a strike from an external aircraft.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비행체의 날개가 크다.&lt;br/&gt;&lt;em&gt;The wings of the aircraft are large.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비행체의 색깔은 파란색이다.&lt;br/&gt;&lt;em&gt;The color of the aircraft is blue.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1720074670007-ad927fcc432f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGFpcmNyYWZ0fGVufDB8fHx8MTc3ODU0NjAyOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비행체의 (of the aircraft)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정부가 10일 호르무즈해협에서 정박 중이던 에이치엠엠(HMM) 나무호에서 발생한 화재 원인이 외부 비행체의 충격 때문이라고 공식 확인한 뒤, 사이드 쿠제치 주한이란대사를 외교부 청사로 불렀다&lt;br/&gt;&lt;em&gt;After the government officially confirmed that the fire on the HMM NAMUHO, which was anchored in the Strait of Hormuz on the 10th, was caused by an impact from an external aircraft, it summoned Iranian Ambassador to South Korea Saeed Koozechi to the Ministry of Foreign Affairs building.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;외교부가 지난 4일 호르무즈해협에서 일어난 나무호 화재 사건이 미상 비행체의 외부 타격에 의한 것이라고 발표하면서 현장 조사단이 기록한 사진을 공개했다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;The Ministry of Foreign Affairs announced on the 4th that the fire on the NAMUHO in the Strait of Hormuz was caused by an external strike from an unidentified aircraft, and released photos taken by the on-site investigation team.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부가 호르무즈해협에 정박해있던 에이치엠엠(HMM) 나무호의 폭발·화재 원인이 외부 비행체의 타격 탓이라고 공식 확인했다&lt;br/&gt;&lt;em&gt;The government officially confirmed that the explosion and fire on the HMM NAMUHO, anchored in the Strait of Hormuz, were caused by a strike from an external aircraft.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비행체의 날개가 크다.&lt;br/&gt;&lt;em&gt;The wings of the aircraft are large.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비행체의 색깔은 파란색이다.&lt;br/&gt;&lt;em&gt;The color of the aircraft is blue.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 12 May 2026 09:33:51 +0900</pubDate><guid isPermaLink="false">vocab-451b034c2b3978532e8368df9f6196390ade9fe9</guid><enclosure url="https://images.unsplash.com/photo-1720074670007-ad927fcc432f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGFpcmNyYWZ0fGVufDB8fHx8MTc3ODU0NjAyOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="132464" /><ns2:content url="https://images.unsplash.com/photo-1720074670007-ad927fcc432f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGFpcmNyYWZ0fGVufDB8fHx8MTc3ODU0NjAyOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1720074670007-ad927fcc432f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGFpcmNyYWZ0fGVufDB8fHx8MTc3ODU0NjAyOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>비행체의</category></item><item><title>비둘기파 – dove (moderate, peace-seeking faction)</title><link>urn:urn:vocab:비둘기파</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1741274259520-40973387c7c4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3ZlJTIwJTI4bW9kZXJhdGUlMkMlMjBwZWFjZS1zZWVraW5nJTIwZmFjdGlvbiUyOXxlbnwwfHx8fDE3Nzg1MjM2Nzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비둘기파 (dove (moderate, peace-seeking faction))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(금통위 ‘대표적 비둘기파’ 퇴장&lt;br/&gt;&lt;em&gt;Exit of the 'representative dove' from the Monetary Policy Board&lt;/em&gt;&lt;/p&gt;
