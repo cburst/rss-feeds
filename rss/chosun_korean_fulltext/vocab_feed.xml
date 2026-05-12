@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 09:33:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 15:48:20 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,49 @@
 
 
 
-  <item><title>상대방 – the other person</title><link>urn:urn:vocab:상대방</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>선수단 – team (of athletes)</title><link>urn:urn:vocab:선수단</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1626254304247-b2ec54c86cd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwJTI4b2YlMjBhdGhsZXRlcyUyOXxlbnwwfHx8fDE3Nzg1Njg0OTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선수단 (team (of athletes))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Government to Provide 300 Million Won to Domestic Civil Groups Cheering for North Korean Athletes, but Says "Number of Groups Cannot Be Disclosed" (정부, 北 선수단 응원 국내 민간단체에 3억원 지급한다면서 “단체 수는 공개 불가”) &lt;&lt;br/&gt;&lt;em&gt;Government to Provide 300 Million Won to Domestic Civil Groups Cheering for North Korean Athletes, but Says "Number of Groups Cannot Be Disclosed"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Government to Provide 300 Million Won to Domestic Civil Groups Cheering for North Korean Athletes, but Says "Number of Groups Cannot Be Disclosed" ( 정부, 北 선수단 응원 국내 민간단체에 3억원 지급한다면서 “단체 수는 공개 불가” )&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Government to Provide 300 Million Won to Domestic Civil Groups Cheering for North Korean Athletes, but Says "Number of Groups Cannot Be Disclosed"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정부는 대한축구협회를 통해 이번에 방남하는 북측 선수단 방남 승인 신청을 일괄 접수했고 북한 선수단 입국 전에 행정적 절차를 마무리할 예정이다&lt;br/&gt;&lt;em&gt;The government has collectively received applications for approval of the North Korean athletes' visit to the South through the Korea Football Association and plans to complete administrative procedures before the North Korean athletes enter the country.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선수단이 경기장에 도착했습니다.&lt;br/&gt;&lt;em&gt;The team has arrived at the stadium.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 선수단은 열심히 훈련합니다.&lt;br/&gt;&lt;em&gt;Our team trains hard.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1626254304247-b2ec54c86cd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwJTI4b2YlMjBhdGhsZXRlcyUyOXxlbnwwfHx8fDE3Nzg1Njg0OTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선수단 (team (of athletes))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Government to Provide 300 Million Won to Domestic Civil Groups Cheering for North Korean Athletes, but Says "Number of Groups Cannot Be Disclosed" (정부, 北 선수단 응원 국내 민간단체에 3억원 지급한다면서 “단체 수는 공개 불가”) &lt;&lt;br/&gt;&lt;em&gt;Government to Provide 300 Million Won to Domestic Civil Groups Cheering for North Korean Athletes, but Says "Number of Groups Cannot Be Disclosed"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Government to Provide 300 Million Won to Domestic Civil Groups Cheering for North Korean Athletes, but Says "Number of Groups Cannot Be Disclosed" ( 정부, 北 선수단 응원 국내 민간단체에 3억원 지급한다면서 “단체 수는 공개 불가” )&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Government to Provide 300 Million Won to Domestic Civil Groups Cheering for North Korean Athletes, but Says "Number of Groups Cannot Be Disclosed"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정부는 대한축구협회를 통해 이번에 방남하는 북측 선수단 방남 승인 신청을 일괄 접수했고 북한 선수단 입국 전에 행정적 절차를 마무리할 예정이다&lt;br/&gt;&lt;em&gt;The government has collectively received applications for approval of the North Korean athletes' visit to the South through the Korea Football Association and plans to complete administrative procedures before the North Korean athletes enter the country.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선수단이 경기장에 도착했습니다.&lt;br/&gt;&lt;em&gt;The team has arrived at the stadium.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 선수단은 열심히 훈련합니다.&lt;br/&gt;&lt;em&gt;Our team trains hard.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 12 May 2026 15:48:20 +0900</pubDate><guid isPermaLink="false">vocab-fbc09c7450d7b582a27f3844f44b8e4900006b86</guid><enclosure url="https://images.unsplash.com/photo-1626254304247-b2ec54c86cd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwJTI4b2YlMjBhdGhsZXRlcyUyOXxlbnwwfHx8fDE3Nzg1Njg0OTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="325175" /><ns2:content url="https://images.unsplash.com/photo-1626254304247-b2ec54c86cd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwJTI4b2YlMjBhdGhsZXRlcyUyOXxlbnwwfHx8fDE3Nzg1Njg0OTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1626254304247-b2ec54c86cd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwJTI4b2YlMjBhdGhsZXRlcyUyOXxlbnwwfHx8fDE3Nzg1Njg0OTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>선수단</category></item><item><title>지금도 – even now</title><link>urn:urn:vocab:지금도</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1765445773847-4907e98907a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVuJTIwbm93fGVufDB8fHx8MTc3ODU2MTAzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지금도 (even now)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이승만(李承晩) 박사(博士)도 박정희(朴正熙) 씨(氏)도 지금도 다 그러하다&lt;br/&gt;&lt;em&gt;Both Dr. Syngman Rhee and Mr. Park Chung-hee are the same even now.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;카드 사태 때 발생한 부실 채권을 정리한다고 연체 채권을 모아서 관리하는 곳인데 아직도 열심히 추심하고 있나 보다”라면서 “카드 사태 때 카드 회사들은 정부 세금으로 도움받지 않았나”라며 “악착같이 연체 채권을 지금도 추심하고, 연간 수십조 영업이익을 내면서 그것도 배당받고 있는 것 같다”고 했다&lt;br/&gt;&lt;em&gt;It is a place that collects overdue bonds to dispose of bad debts from the credit card crisis, and it seems they are still aggressively collecting. He said, 'Didn't the credit card companies receive help from government taxes during the credit card crisis?' and added, 'They are still tenaciously collecting overdue bonds, making tens of trillions in annual operating profits, and it seems they are also receiving dividends from that.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지금도 학교에 가요.&lt;br/&gt;&lt;em&gt;I still go to school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지금도 비가 와요.&lt;br/&gt;&lt;em&gt;It's still raining.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1765445773847-4907e98907a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVuJTIwbm93fGVufDB8fHx8MTc3ODU2MTAzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지금도 (even now)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이승만(李承晩) 박사(博士)도 박정희(朴正熙) 씨(氏)도 지금도 다 그러하다&lt;br/&gt;&lt;em&gt;Both Dr. Syngman Rhee and Mr. Park Chung-hee are the same even now.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;카드 사태 때 발생한 부실 채권을 정리한다고 연체 채권을 모아서 관리하는 곳인데 아직도 열심히 추심하고 있나 보다”라면서 “카드 사태 때 카드 회사들은 정부 세금으로 도움받지 않았나”라며 “악착같이 연체 채권을 지금도 추심하고, 연간 수십조 영업이익을 내면서 그것도 배당받고 있는 것 같다”고 했다&lt;br/&gt;&lt;em&gt;It is a place that collects overdue bonds to dispose of bad debts from the credit card crisis, and it seems they are still aggressively collecting. He said, 'Didn't the credit card companies receive help from government taxes during the credit card crisis?' and added, 'They are still tenaciously collecting overdue bonds, making tens of trillions in annual operating profits, and it seems they are also receiving dividends from that.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지금도 학교에 가요.&lt;br/&gt;&lt;em&gt;I still go to school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지금도 비가 와요.&lt;br/&gt;&lt;em&gt;It's still raining.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 12 May 2026 13:43:58 +0900</pubDate><guid isPermaLink="false">vocab-9652c3176dcb5bcb9049599718362f266974dedf</guid><enclosure url="https://images.unsplash.com/photo-1765445773847-4907e98907a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVuJTIwbm93fGVufDB8fHx8MTc3ODU2MTAzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="138365" /><ns2:content url="https://images.unsplash.com/photo-1765445773847-4907e98907a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVuJTIwbm93fGVufDB8fHx8MTc3ODU2MTAzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1765445773847-4907e98907a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVuJTIwbm93fGVufDB8fHx8MTc3ODU2MTAzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>지금도</category></item><item><title>상대방 – the other person</title><link>urn:urn:vocab:상대방</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1542995719-e404a05e8beb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBvdGhlciUyMHBlcnNvbnxlbnwwfHx8fDE3Nzg1NDYwMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상대방 (the other person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;혁명(革命)은 총과 칼로 상대방(相對方)을 무찌리기고(*무찌르고&lt;br/&gt;&lt;em&gt;Revolution is about defeating the opponent with guns and swords, but democracy is about competing freely with each other, yet not completely destroying the opponent, giving them another chance.&lt;/em&gt;&lt;/p&gt;
