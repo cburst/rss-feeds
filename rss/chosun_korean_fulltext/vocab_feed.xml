@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 15:48:20 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 17:53:32 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>선수단 – team (of athletes)</title><link>urn:urn:vocab:선수단</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>상록수 – evergreen tree</title><link>urn:urn:vocab:상록수</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1720436974074-6ef763d7b1e5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVyZ3JlZW4lMjB0cmVlfGVufDB8fHx8MTc3ODU3NjAwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상록수 (evergreen tree)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이 대통령이 링크한 기사에는 상환 능력을 상실한 연체자를 돕기 위해 소액 연체 채권을 정리해 주는 정부 정책인 새도약기금에 부실 채권 처리 회사인 민간 배드뱅크 ‘상록수’는 참여하지 않아 관련 채무자들이 빚 탕감 혜택을 보지 못하고 있다는 지적이 담겼다&lt;br/&gt;&lt;em&gt;The article linked by President Lee pointed out that the private bad bank 'Sangnoksu', a distressed debt resolution company, did not participate in the New Leap Fund, a government policy to write off small overdue bonds to help delinquent borrowers who have lost their repayment ability, leaving related debtors without debt relief benefits.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (한편 이 대통령은 지난 2002~2003년 카드 대란 당시 설립된 민간 배드뱅크 ‘상록수’가 “20년 넘은 빚을 악착같이 추심하는 것이 맞느냐”고 비판했다&lt;br/&gt;&lt;em&gt;Meanwhile, President Lee criticized the private bad bank 'Sangnoksu', established during the credit card crisis of 2002-2003, asking, 'Is it right to aggressively collect debts that are over 20 years old?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “민간 배드뱅크 상록수가 있나 보다&lt;br/&gt;&lt;em&gt;President Lee said, 'It seems there is a private bad bank called Sangnoksu.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 상록수는 키가 크다.&lt;br/&gt;&lt;em&gt;This evergreen tree is tall.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;상록수는 겨울에도 푸르다.&lt;br/&gt;&lt;em&gt;Evergreen trees are green even in winter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1720436974074-6ef763d7b1e5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVyZ3JlZW4lMjB0cmVlfGVufDB8fHx8MTc3ODU3NjAwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상록수 (evergreen tree)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이 대통령이 링크한 기사에는 상환 능력을 상실한 연체자를 돕기 위해 소액 연체 채권을 정리해 주는 정부 정책인 새도약기금에 부실 채권 처리 회사인 민간 배드뱅크 ‘상록수’는 참여하지 않아 관련 채무자들이 빚 탕감 혜택을 보지 못하고 있다는 지적이 담겼다&lt;br/&gt;&lt;em&gt;The article linked by President Lee pointed out that the private bad bank 'Sangnoksu', a distressed debt resolution company, did not participate in the New Leap Fund, a government policy to write off small overdue bonds to help delinquent borrowers who have lost their repayment ability, leaving related debtors without debt relief benefits.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (한편 이 대통령은 지난 2002~2003년 카드 대란 당시 설립된 민간 배드뱅크 ‘상록수’가 “20년 넘은 빚을 악착같이 추심하는 것이 맞느냐”고 비판했다&lt;br/&gt;&lt;em&gt;Meanwhile, President Lee criticized the private bad bank 'Sangnoksu', established during the credit card crisis of 2002-2003, asking, 'Is it right to aggressively collect debts that are over 20 years old?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “민간 배드뱅크 상록수가 있나 보다&lt;br/&gt;&lt;em&gt;President Lee said, 'It seems there is a private bad bank called Sangnoksu.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 상록수는 키가 크다.&lt;br/&gt;&lt;em&gt;This evergreen tree is tall.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;상록수는 겨울에도 푸르다.&lt;br/&gt;&lt;em&gt;Evergreen trees are green even in winter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 12 May 2026 17:53:32 +0900</pubDate><guid isPermaLink="false">vocab-9d29e0077fee3de50ac15b218d13aeeade654a20</guid><enclosure url="https://images.unsplash.com/photo-1720436974074-6ef763d7b1e5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVyZ3JlZW4lMjB0cmVlfGVufDB8fHx8MTc3ODU3NjAwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="233236" /><ns2:content url="https://images.unsplash.com/photo-1720436974074-6ef763d7b1e5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVyZ3JlZW4lMjB0cmVlfGVufDB8fHx8MTc3ODU3NjAwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1720436974074-6ef763d7b1e5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxldmVyZ3JlZW4lMjB0cmVlfGVufDB8fHx8MTc3ODU3NjAwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>상록수</category></item><item><title>선수단 – team (of athletes)</title><link>urn:urn:vocab:선수단</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1626254304247-b2ec54c86cd3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwJTI4b2YlMjBhdGhsZXRlcyUyOXxlbnwwfHx8fDE3Nzg1Njg0OTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선수단 (team (of athletes))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Government to Provide 300 Million Won to Domestic Civil Groups Cheering for North Korean Athletes, but Says "Number of Groups Cannot Be Disclosed" (정부, 北 선수단 응원 국내 민간단체에 3억원 지급한다면서 “단체 수는 공개 불가”) &lt;&lt;br/&gt;&lt;em&gt;Government to Provide 300 Million Won to Domestic Civil Groups Cheering for North Korean Athletes, but Says "Number of Groups Cannot Be Disclosed"&lt;/em&gt;&lt;/p&gt;
