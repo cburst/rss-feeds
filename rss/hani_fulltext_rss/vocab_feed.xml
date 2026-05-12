@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 20:03:08 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 00:14:30 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>증시가 – stock market</title><link>urn:urn:vocab:증시가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>관점에서 – from the perspective of</title><link>urn:urn:vocab:관점에서</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1553243737-6a0a16e66a4c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwcGVyc3BlY3RpdmUlMjBvZnxlbnwwfHx8fDE3Nzg1OTg4NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="관점에서 (from the perspective of)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최근 심화된 필수의료 위기와 의료 인력 수급 불균형 문제를 사회경제적 관점에서 분석하고, 지난 27년간 동결된 의대 정원 등 구조적 문제점을 짚어본다&lt;br/&gt;&lt;em&gt;It analyzes the recent deepening crisis in essential medical care and the imbalance in medical workforce supply from a socioeconomic perspective, and points out structural problems such as the freeze on medical school admissions over the past 27 years.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가장 쉬운 방법은 새 대화창을 열어 생년월일시를 입력하고 “전통 명리학 관점에서 운세를 풀어줘”라고 요청해도 겁니다&lt;br/&gt;&lt;em&gt;The easiest way is to open a new chat window, enter your date and time of birth, and ask, 'Please interpret my fortune from the perspective of traditional Myeongrihak.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“전통 명리학 관점에서 보되 너무 단정하지 말고 자기성찰용으로 풀이해줘&lt;br/&gt;&lt;em&gt;'Interpret it from the perspective of traditional Myeongrihak, but do not be too definitive; analyze it for self-reflection.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 관점에서 문제를 봐요.&lt;br/&gt;&lt;em&gt;Look at the problem from his perspective.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학생 관점에서 생각해 보세요.&lt;br/&gt;&lt;em&gt;Think from the student's perspective.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1553243737-6a0a16e66a4c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwcGVyc3BlY3RpdmUlMjBvZnxlbnwwfHx8fDE3Nzg1OTg4NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="관점에서 (from the perspective of)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최근 심화된 필수의료 위기와 의료 인력 수급 불균형 문제를 사회경제적 관점에서 분석하고, 지난 27년간 동결된 의대 정원 등 구조적 문제점을 짚어본다&lt;br/&gt;&lt;em&gt;It analyzes the recent deepening crisis in essential medical care and the imbalance in medical workforce supply from a socioeconomic perspective, and points out structural problems such as the freeze on medical school admissions over the past 27 years.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가장 쉬운 방법은 새 대화창을 열어 생년월일시를 입력하고 “전통 명리학 관점에서 운세를 풀어줘”라고 요청해도 겁니다&lt;br/&gt;&lt;em&gt;The easiest way is to open a new chat window, enter your date and time of birth, and ask, 'Please interpret my fortune from the perspective of traditional Myeongrihak.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“전통 명리학 관점에서 보되 너무 단정하지 말고 자기성찰용으로 풀이해줘&lt;br/&gt;&lt;em&gt;'Interpret it from the perspective of traditional Myeongrihak, but do not be too definitive; analyze it for self-reflection.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 관점에서 문제를 봐요.&lt;br/&gt;&lt;em&gt;Look at the problem from his perspective.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학생 관점에서 생각해 보세요.&lt;br/&gt;&lt;em&gt;Think from the student's perspective.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 13 May 2026 00:14:30 +0900</pubDate><guid isPermaLink="false">vocab-8d2856fe3cf3d7be8cdea3de3cea748a75bdf792</guid><enclosure url="https://images.unsplash.com/photo-1553243737-6a0a16e66a4c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwcGVyc3BlY3RpdmUlMjBvZnxlbnwwfHx8fDE3Nzg1OTg4NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="328817" /><ns2:content url="https://images.unsplash.com/photo-1553243737-6a0a16e66a4c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwcGVyc3BlY3RpdmUlMjBvZnxlbnwwfHx8fDE3Nzg1OTg4NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1553243737-6a0a16e66a4c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwcGVyc3BlY3RpdmUlMjBvZnxlbnwwfHx8fDE3Nzg1OTg4NjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>관점에서</category></item><item><title>시가총액 – market capitalization</title><link>urn:urn:vocab:시가총액</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1672870153692-e34f6b3fa056?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJrZXQlMjBjYXBpdGFsaXphdGlvbnxlbnwwfHx8fDE3Nzg1OTE0MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시가총액 (market capitalization)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;KOSPI's Soaring Rally Drives Market Cap of Top 50 Conglomerates Past Fair Assets for First Time (코스피 고공행진 영향…50대 그룹 시가총액, 공정자산 첫 추월) &lt;&lt;br/&gt;&lt;em&gt;KOSPI's Soaring Rally Drives Market Cap of Top 50 Conglomerates Past Fair Assets for First Time&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;KOSPI's Soaring Rally Drives Market Cap of Top 50 Conglomerates Past Fair Assets for First Time (코스피 고공행진 영향…50대 그룹 시가총액, 공정자산 첫 추월)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;KOSPI's Soaring Rally Drives Market Cap of Top 50 Conglomerates Past Fair Assets for First Time&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(기업분석연구소 리더스인덱스가 12일 내놓은 자료를 보면, 국내 50대 대기업그룹의 시가총액은 2021년 1881조1575억원에서 올해 5403조2961억원으로 3배 가까이 늘었다&lt;br/&gt;&lt;em&gt;According to data released by Leaders Index on the 12th, the market capitalization of the top 50 conglomerates in South Korea nearly tripled from 1,881.1575 trillion won in 2021 to 5,403.2961 trillion won this year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;시가총액이 크다.&lt;br/&gt;&lt;em&gt;The market capitalization is large.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시가총액을 확인하세요.&lt;br/&gt;&lt;em&gt;Check the market capitalization.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1672870153692-e34f6b3fa056?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJrZXQlMjBjYXBpdGFsaXphdGlvbnxlbnwwfHx8fDE3Nzg1OTE0MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시가총액 (market capitalization)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;KOSPI's Soaring Rally Drives Market Cap of Top 50 Conglomerates Past Fair Assets for First Time (코스피 고공행진 영향…50대 그룹 시가총액, 공정자산 첫 추월) &lt;&lt;br/&gt;&lt;em&gt;KOSPI's Soaring Rally Drives Market Cap of Top 50 Conglomerates Past Fair Assets for First Time&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;KOSPI's Soaring Rally Drives Market Cap of Top 50 Conglomerates Past Fair Assets for First Time (코스피 고공행진 영향…50대 그룹 시가총액, 공정자산 첫 추월)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;KOSPI's Soaring Rally Drives Market Cap of Top 50 Conglomerates Past Fair Assets for First Time&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(기업분석연구소 리더스인덱스가 12일 내놓은 자료를 보면, 국내 50대 대기업그룹의 시가총액은 2021년 1881조1575억원에서 올해 5403조2961억원으로 3배 가까이 늘었다&lt;br/&gt;&lt;em&gt;According to data released by Leaders Index on the 12th, the market capitalization of the top 50 conglomerates in South Korea nearly tripled from 1,881.1575 trillion won in 2021 to 5,403.2961 trillion won this year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;시가총액이 크다.&lt;br/&gt;&lt;em&gt;The market capitalization is large.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시가총액을 확인하세요.&lt;br/&gt;&lt;em&gt;Check the market capitalization.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 12 May 2026 22:10:16 +0900</pubDate><guid isPermaLink="false">vocab-63aa53db1c1daeb95f59d0cc2fbccf7202e2002e</guid><enclosure url="https://images.unsplash.com/photo-1672870153692-e34f6b3fa056?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJrZXQlMjBjYXBpdGFsaXphdGlvbnxlbnwwfHx8fDE3Nzg1OTE0MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="122967" /><ns2:content url="https://images.unsplash.com/photo-1672870153692-e34f6b3fa056?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJrZXQlMjBjYXBpdGFsaXphdGlvbnxlbnwwfHx8fDE3Nzg1OTE0MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1672870153692-e34f6b3fa056?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJrZXQlMjBjYXBpdGFsaXphdGlvbnxlbnwwfHx8fDE3Nzg1OTE0MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>시가총액</category></item><item><title>증시가 – stock market</title><link>urn:urn:vocab:증시가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE3Nzg1ODM3ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="증시가 (stock market)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(미국·이스라엘-이란 전쟁 소식이 나올 때마다 흔들리던 글로벌 증시가 4월 들어 빠르게 반등했고, 4월 말부터는 미국과 일본, 한국 증시가 나란히 최고치를 경신하고 있다&lt;br/&gt;&lt;em&gt;The global stock market, which had been fluctuating whenever news of the US-Israel-Iran war broke, rebounded rapidly in April, and from late April, the US, Japanese, and Korean stock markets have been hitting record highs in tandem.&lt;/em&gt;&lt;/p&gt;
