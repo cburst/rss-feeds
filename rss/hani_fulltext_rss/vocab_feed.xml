@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 06:30:32 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:35:54 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>클립아트코리아 – Clip Art Korea</title><link>urn:urn:vocab:클립아트코리아</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>실거주 – actual residence</title><link>urn:urn:vocab:실거주</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1691749457417-74193b07ca1b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3R1YWwlMjByZXNpZGVuY2V8ZW58MHx8fHwxNzc4NjI4OTUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실거주 (actual residence)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;For All Houses with Tenants in Land Transaction Permit Zones: Temporary Suspension of Actual Residency Requirement (토허구역 세입자 있는 모든 주택, 실거주 의무 한시 유예된다) &lt;&lt;br/&gt;&lt;em&gt;For All Houses with Tenants in Land Transaction Permit Zones: Temporary Suspension of Actual Residency Requirement&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;For All Houses with Tenants in Land Transaction Permit Zones: Temporary Suspension of Actual Residency Requirement (토허구역 세입자 있는 모든 주택, 실거주 의무 한시 유예된다)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;For All Houses with Tenants in Land Transaction Permit Zones: Temporary Suspension of Actual Residency Requirement&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;kr&lt;/a&gt; (1주택자나 다주택자가 규제지역 내 세입자 있는 집을 올해 연말까지 팔 때는 무주택자인 매수자의 실거주 의무가 세입자의 임대차 기간 만료일까지 유예된다&lt;br/&gt;&lt;em&gt;kr&lt;/a&gt; (When a single-home owner or multi-home owner sells a house with tenants in a regulated area by the end of this year, the actual residency requirement for the buyer, who is a non-homeowner, is suspended until the expiration date of the tenant's lease period.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 집은 실거주용입니다.&lt;br/&gt;&lt;em&gt;This house is for actual residence.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;실거주 조건이 있어요.&lt;br/&gt;&lt;em&gt;There is a condition for actual residence.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1691749457417-74193b07ca1b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3R1YWwlMjByZXNpZGVuY2V8ZW58MHx8fHwxNzc4NjI4OTUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실거주 (actual residence)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;For All Houses with Tenants in Land Transaction Permit Zones: Temporary Suspension of Actual Residency Requirement (토허구역 세입자 있는 모든 주택, 실거주 의무 한시 유예된다) &lt;&lt;br/&gt;&lt;em&gt;For All Houses with Tenants in Land Transaction Permit Zones: Temporary Suspension of Actual Residency Requirement&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;For All Houses with Tenants in Land Transaction Permit Zones: Temporary Suspension of Actual Residency Requirement (토허구역 세입자 있는 모든 주택, 실거주 의무 한시 유예된다)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;For All Houses with Tenants in Land Transaction Permit Zones: Temporary Suspension of Actual Residency Requirement&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;kr&lt;/a&gt; (1주택자나 다주택자가 규제지역 내 세입자 있는 집을 올해 연말까지 팔 때는 무주택자인 매수자의 실거주 의무가 세입자의 임대차 기간 만료일까지 유예된다&lt;br/&gt;&lt;em&gt;kr&lt;/a&gt; (When a single-home owner or multi-home owner sells a house with tenants in a regulated area by the end of this year, the actual residency requirement for the buyer, who is a non-homeowner, is suspended until the expiration date of the tenant's lease period.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 집은 실거주용입니다.&lt;br/&gt;&lt;em&gt;This house is for actual residence.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;실거주 조건이 있어요.&lt;br/&gt;&lt;em&gt;There is a condition for actual residence.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 13 May 2026 08:35:54 +0900</pubDate><guid isPermaLink="false">vocab-c7701b7ad217beeb038a5e373aaad8fc8b3e34a5</guid><enclosure url="https://images.unsplash.com/photo-1691749457417-74193b07ca1b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3R1YWwlMjByZXNpZGVuY2V8ZW58MHx8fHwxNzc4NjI4OTUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="318099" /><ns2:content url="https://images.unsplash.com/photo-1691749457417-74193b07ca1b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3R1YWwlMjByZXNpZGVuY2V8ZW58MHx8fHwxNzc4NjI4OTUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1691749457417-74193b07ca1b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3R1YWwlMjByZXNpZGVuY2V8ZW58MHx8fHwxNzc4NjI4OTUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>실거주</category></item><item><title>클립아트코리아 – Clip Art Korea</title><link>urn:urn:vocab:클립아트코리아</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1628308868241-29539fb51fa9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDbGlwJTIwQXJ0JTIwS29yZWF8ZW58MHx8fHwxNzc4NjIxNDI4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="클립아트코리아 (Clip Art Korea)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;클립아트코리아&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Kim Hyun-soo | Clinical Professor, Department of Psychiatry, Myongji Hospital&lt;/strong&gt;&lt;br/&gt;&lt;strong&gt;·Principal of ‘Star’ Growth School&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;The 2026 new semester is about to begin&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Clip Art Korea&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Kim Hyun-soo | Clinical Professor, Department of Psychiatry, Myongji Hospital&lt;/strong&gt;&lt;br/&gt;&lt;strong&gt;·Principal of ‘Star’ Growth School&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;The 2026 new semester is about to begin&lt;/em&gt;&lt;/p&gt;
