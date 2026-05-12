@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 17:53:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 20:03:08 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>첫번째 – first</title><link>urn:urn:vocab:첫번째</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>증시가 – stock market</title><link>urn:urn:vocab:증시가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE3Nzg1ODM3ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="증시가 (stock market)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(미국·이스라엘-이란 전쟁 소식이 나올 때마다 흔들리던 글로벌 증시가 4월 들어 빠르게 반등했고, 4월 말부터는 미국과 일본, 한국 증시가 나란히 최고치를 경신하고 있다&lt;br/&gt;&lt;em&gt;The global stock market, which had been fluctuating whenever news of the US-Israel-Iran war broke, rebounded rapidly in April, and from late April, the US, Japanese, and Korean stock markets have been hitting record highs in tandem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(하지만 전쟁 위험이 줄었다는 이유만으로 우리 증시가 사상 최고치를 경신했다고 보긴 어렵다&lt;br/&gt;&lt;em&gt;However, it is difficult to say that our stock market hit an all-time high solely because the risk of war has diminished.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 증시가 주요국 증시 중 가장 빠른 상승세를 보이는 것도, 관련 소재·부품·장비에 특화된 일본 증시가 사상 최고치를 경신한 것도 이 때문이다&lt;br/&gt;&lt;em&gt;This is also why our stock market is showing the fastest rise among major countries' stock markets, and why the Japanese stock market, which specializes in related materials, components, and equipment, has hit an all-time high.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;증시가 올랐습니다.&lt;br/&gt;&lt;em&gt;The stock market rose.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;증시가 떨어졌어요.&lt;br/&gt;&lt;em&gt;The stock market fell.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE3Nzg1ODM3ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="증시가 (stock market)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(미국·이스라엘-이란 전쟁 소식이 나올 때마다 흔들리던 글로벌 증시가 4월 들어 빠르게 반등했고, 4월 말부터는 미국과 일본, 한국 증시가 나란히 최고치를 경신하고 있다&lt;br/&gt;&lt;em&gt;The global stock market, which had been fluctuating whenever news of the US-Israel-Iran war broke, rebounded rapidly in April, and from late April, the US, Japanese, and Korean stock markets have been hitting record highs in tandem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(하지만 전쟁 위험이 줄었다는 이유만으로 우리 증시가 사상 최고치를 경신했다고 보긴 어렵다&lt;br/&gt;&lt;em&gt;However, it is difficult to say that our stock market hit an all-time high solely because the risk of war has diminished.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 증시가 주요국 증시 중 가장 빠른 상승세를 보이는 것도, 관련 소재·부품·장비에 특화된 일본 증시가 사상 최고치를 경신한 것도 이 때문이다&lt;br/&gt;&lt;em&gt;This is also why our stock market is showing the fastest rise among major countries' stock markets, and why the Japanese stock market, which specializes in related materials, components, and equipment, has hit an all-time high.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;증시가 올랐습니다.&lt;br/&gt;&lt;em&gt;The stock market rose.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;증시가 떨어졌어요.&lt;br/&gt;&lt;em&gt;The stock market fell.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 12 May 2026 20:03:08 +0900</pubDate><guid isPermaLink="false">vocab-fa78ab736dc2a6790c6d2abf879a90901eb3a832</guid><enclosure url="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE3Nzg1ODM3ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="62019" /><ns2:content url="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE3Nzg1ODM3ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE3Nzg1ODM3ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>증시가</category></item><item><title>첫번째 – first</title><link>urn:urn:vocab:첫번째</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1615778371164-a4f2af49b44c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaXJzdHxlbnwwfHx8fDE3Nzg1NzYwMDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="첫번째 (first)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(투자자들이 전쟁 위험에 둔감해진 것이 증시 상승 전환의 첫번째 이유일 것이다&lt;br/&gt;&lt;em&gt;The first reason for the stock market's rebound may be that investors have become insensitive to war risks.&lt;/em&gt;&lt;/p&gt;
