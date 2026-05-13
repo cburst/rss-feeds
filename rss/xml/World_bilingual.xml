@@ -1,25 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 13 May 2026 08:00:56 +0000</lastBuildDate><item><title>Starmer Promises Urgent Change as He Battles to Save Premiership (스타머, 총리직 사수 위한 긴급 변화 약속)</title><link>https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/11int-uk-starmer-qjkl/11int-uk-starmer-qjkl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Prime Minister Keir Starmer of Britain tried on Monday to quell a mutiny in the governing Labour Party, responding to growing demands from lawmakers that he resign by promising to take urgent action to lower the cost of living and to move Britain closer to Europe.&lt;br/&gt;(영국의 키어 스타머 총리는 월요일 여당인 노동당 내 반란을 진압하고, 사임을 요구하는 의원들의 요구가 커지는 가운데 생활비 인하와 영국을 유럽에 더 가깝게 만들기 위한 긴급 조치를 약속했다.)&lt;/p&gt;
-&lt;p&gt;In a speech in London, Mr. Starmer acknowledged the anger expressed by voters last week when they overwhelmingly rejected Labour Party candidates for municipal council seats across England and in elections for the Scottish and Welsh parliaments.&lt;br/&gt;(런던 연설에서 스타머는 유권자들이 지난주 잉글랜드 전역의 시의회 의석과 스코틀랜드 및 웨일스 의회 선거에서 노동당 후보를 압도적으로 거부하며 표출한 분노를 인정했다.)&lt;/p&gt;
-&lt;p&gt;“That hurts and it should hurt,” he said. “I get it. I feel it. And I take responsibility.”&lt;br/&gt;(그는 "그것은 아프고, 그래야만 한다"고 말했다. "이해합니다. 느낍니다. 그리고 책임을 지겠습니다.")&lt;/p&gt;
-&lt;p&gt;But he also vowed to fight to stay in his job, saying a change in leadership would be chaos for the country, referencing the succession of prime ministers from the Conservative Party, or the Tories, in the years before Labour won the general election in 2024.&lt;br/&gt;(그러나 그는 또한 직책을 지키기 위해 싸우겠다고 다짐하며, 지도부 교체는 국가에 혼란을 초래할 것이라고 주장했다. 이는 노동당이 2024년 총선에서 승리하기 전 몇 년간 보수당(토리당) 출신 총리들의 연속을 언급한 것이다.)&lt;/p&gt;
-&lt;p&gt;“I take responsibility for not walking away,” he vowed. “Not plunging our country into chaos, as the Tories did time and again. Chaos that did lasting damage to this country. A Labour government would never be forgiven for inflicting that on our country again.”&lt;br/&gt;(그는 "물러서지 않는 책임을 지겠다"고 다짐했다. "토리당이 거듭 그랬던 것처럼 우리나라를 혼란에 빠뜨리지 않겠습니다. 그 혼란은 이 나라에 지속적인 피해를 입혔습니다. 노동당 정부가 우리나라에 다시 그런 피해를 입힌다면 결코 용서받지 못할 것입니다.")&lt;/p&gt;
-&lt;p&gt;Some of Mr. Starmer’s critics said shortly after the speech that the prime minister did not do enough to reassure them that he was the best person to lead the country. But Catherine West, a Labour lawmaker who over the weekend had said she would attempt to trigger an immediate leadership challenge, retreated a little from her initial threat and asked for support from colleagues for Mr. Starmer to set a timetable for his departure in a few months’ time.&lt;br/&gt;(스타머의 비판자 중 일부는 연설 직후 총리가 자신이 국가를 이끌 최고의 인물이라는 확신을 주기에 충분하지 않았다고 말했다. 그러나 주말 동안 즉각적인 지도부 도전을 촉발하겠다고 밝혔던 노동당 의원 캐서린 웨스트는 초기 위협에서 다소 물러서며 동료들에게 스타머가 몇 달 후 퇴진 일정을 설정하도록 지지해 달라고 요청했다.)&lt;/p&gt;
-&lt;p&gt;“I have reluctantly concluded that this morning’s speech was too little, too late,” she said in a statement. “The results last Thursday show that the prime minister has failed to inspire hope. What is best for the party and country now is for an orderly transition.”&lt;br/&gt;(그녀는 성명에서 "오늘 아침 연설은 너무 늦고 부족했다는 결론을 내리게 되어 유감"이라며 "지난주 목요일 결과는 총리가 희망을 고취하는 데 실패했음을 보여준다. 당과 국가를 위한 최선은 질서 있는 이행이다"라고 말했다.)&lt;/p&gt;
-&lt;p&gt;Ms. West said she would begin circulating a letter to her colleagues urging them to join her in demanding that Mr. Starmer cleared the way for a party leadership election in September. The party retains a large majority in the British national Parliament, and a replacement for Mr. Starmer as its leader would also replace him as prime minister.&lt;br/&gt;(웨스트는 동료들에게 스타머가 9월 당 지도부 선거를 위한 길을 열어줄 것을 요구하는 편지를 돌리기 시작할 것이라고 밝혔다. 당은 영국 국회에서 여전히 큰 과반수를 차지하고 있으며, 지도자로서 스타머를 대체하는 사람이 그를 총리로도 대체할 것이다.)&lt;/p&gt;
-&lt;p&gt;Mr. Starmer’s position has been eroding for months as he has struggled to confront a sagging economy, anger about illegal immigration and the perception that he is weak and indecisive. His decision to appoint Peter Mandelson as ambassador to the United States became a scandal when documents revealed the extent of Mr. Mandelson’s friendship with Jeffrey Epstein, the convicted sex offender.&lt;br/&gt;(스타머의 입지는 몇 달 동안 약화되어 왔으며, 그는 침체된 경제, 불법 이민에 대한 분노, 그리고 그가 약하고 우유부단하다는 인식에 직면해 어려움을 겪었다. 피터 맨들슨을 미국 대사로 임명한 결정은 문서가 유죄 판결을 받은 성범죄자 제프리 엡스타인과 맨들슨의 우정 정도를 드러내면서 스캔들이 되었다.)&lt;/p&gt;
-&lt;p&gt;But the disastrous elections for Labour last week were the final straw for many of his critics. Labour lost more than 1,400 seats on the local councils and was heavily defeated in Wales after decades in power there. Reform U.K., the right-wing populist party led by Nigel Farage, posted victories across Britain, despite winning under 30 percent of the vote in a fractured field of several political parties.&lt;br/&gt;(그러나 지난주 노동당의 비참한 선거 결과는 많은 비판자들에게 마지막 결정타였다. 노동당은 지역 의회에서 1,400석 이상을 잃었고, 수십 년간 집권했던 웨일스에서 큰 패배를 당했다. 나이절 파라지가 이끄는 우익 포퓰리스트 정당 개혁영국당(Reform U.K.)은 여러 정당이 분열된 상황에서 30% 미만의 득표율에도 불구하고 영국 전역에서 승리를 거두었다.)&lt;/p&gt;
-&lt;p&gt;Over the weekend, dozens of Labour lawmakers demanded that Mr. Starmer step down as prime minister. Angela Rayner, a former member of Mr. Starmer’s cabinet who is considered one of the lawmakers who might challenge him, said in a statement on Sunday that the party’s agenda must change.&lt;br/&gt;(주말 동안 수십 명의 노동당 의원들이 스타머에게 총리직에서 물러날 것을 요구했다. 스타머 내각의 전 구성원이자 그에게 도전할 의원 중 한 명으로 여겨지는 앤젤라 레이너는 일요일 성명에서 당의 의제가 바뀌어야 한다고 말했다.)&lt;/p&gt;
-&lt;p&gt;“The prime minister must now meet the moment and set out the change our country needs,” she wrote. “Labour exists to make working people better off. That is not happening fast enough, and it needs to change — now.”&lt;br/&gt;(그녀는 "총리가 지금 상황에 맞서 우리나라가 필요한 변화를 제시해야 한다"며 "노동당은 노동자들의 생활을 개선하기 위해 존재합니다. 그 변화가 충분히 빠르게 일어나지 않고 있으며, 지금 바뀌어야 합니다"라고 썼다.)&lt;/p&gt;
-&lt;p&gt;Ms. Rayner did not formally launch a challenge to the prime minister, a process which requires gathering the signatures of 80 other lawmakers to trigger a party election.&lt;br/&gt;(레이너는 공식적으로 총리에게 도전장을 내밀지는 않았으며, 이 과정은 당 선거를 촉발하기 위해 다른 의원 80명의 서명을 모아야 한다.)&lt;/p&gt;
-&lt;p&gt;Mr. Starmer, who is just two years into a five-year term, has repeatedly blamed the country’s troubles on the Conservative Party, which ruled the country for 14 years before Labour’s 2024 victory. In his speech, Mr. Starmer acknowledged that his efforts to change direction have not convinced Britain’s voters.&lt;br/&gt;(5년 임기 중 2년을 막 넘긴 스타머는 국가의 문제를 반복적으로 2024년 노동당 승리 전 14년간 영국을 통치했던 보수당 탓으로 돌리고 있다. 연설에서 스타머는 방향 전환 노력이 영국 유권자들을 설득하지 못했다고 인정했다.)&lt;/p&gt;
-&lt;p&gt;“I’ve spent too much time talking about what I’m doing for working people,” he conceded, “and not enough time talking about why or who I stand for.” He said that he needed to make his case to “millions of people who don’t get the dignity, the respect, the chance that they deserve to go as far as their talent and effort should take them.”&lt;br/&gt;(그는 "저는 노동자를 위해 무엇을 하고 있는지에 대해 너무 많은 시간을 보냈습니다"라며 "왜 그리고 누구를 위해 서 있는지에 대해서는 충분히 이야기하지 않았습니다"라고 시인했다. 그는 "존엄성, 존중, 자신의 재능과 노력이 가야 할 만큼 나아갈 기회를 얻지 못하는 수백만 명의 사람들"에게 자신의 주장을 펼쳐야 한다고 말했다.)&lt;/p&gt;
-&lt;p&gt;“I am fighting for them,” he said. “We are fighting for them. I am their prime minister, and this is their government.”&lt;br/&gt;(그는 "저는 그들을 위해 싸우고 있습니다"라며 "우리는 그들을 위해 싸우고 있습니다. 저는 그들의 총리이고, 이것은 그들의 정부입니다"라고 말했다.)&lt;/p&gt;
-&lt;p&gt;But it is unclear whether Labour Party lawmakers, already impatient with Mr. Starmer, are prepared to give him more time to address the concerns of their constituents. Many Britons are frustrated by long waiting lists for health care services, rising taxes and fuel prices, and the cost of housing.&lt;br/&gt;(그러나 이미 스타머에게 인내심을 잃은 노동당 의원들이 그들의 유권자들의 우려를 해결할 시간을 더 줄 준비가 되어 있는지는 불분명하다. 많은 영국인들은 의료 서비스에 대한 긴 대기 명단, 세금 및 연료 가격 상승, 주택 비용에 좌절하고 있다.)&lt;/p&gt;
-&lt;p&gt;Mr. Starmer helped Labour win in 2024 in part by promising not to seek a complete reversal of the Brexit vote that severed Britain from the European Union. In his speech on Monday, Mr. Starmer said that promise still stood, but argued that Britain must get closer to the rest of the continent for the country’s economy to improve.&lt;br/&gt;(스타머는 부분적으로 영국을 유럽연합(EU)에서 분리시킨 브렉시트 투표의 완전한 철회를 추구하지 않겠다고 약속함으로써 2024년 노동당 승리를 도왔다. 월요일 연설에서 스타머는 그 약속이 여전히 유효하다고 말했지만, 국가 경제가 개선되기 위해서는 영국이 유럽 본토와 더 가까워져야 한다고 주장했다.)&lt;/p&gt;
-&lt;p&gt;“This Labour government will be defined by rebuilding our relationship and by putting Britain at the heart of Europe,” he said. “So that we are stronger on the economy, on trade, on defense, you name it.”&lt;br/&gt;(그는 "이 노동당 정부는 우리의 관계를 재건하고 영국을 유럽의 중심에 두는 것으로 정의될 것입니다"라며 "경제, 무역, 국방 등 모든 분야에서 더 강해지기 위해서입니다"라고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/11/multimedia/11int-uk-starmer-qjkl/11int-uk-starmer-qjkl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 17:26:06 +0000</pubDate></item><item><title>A Single Infusion Could Suppress H.I.V. for Years, Study Suggests (단일 주입으로 수년간 HIV 억제 가능, 연구 시사)</title><link>https://www.nytimes.com/2026/05/11/health/hiv-infusion-immunotherapy.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/11dc-hiv-ucsf-fqlv/11dc-hiv-ucsf-fqlv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 13 May 2026 10:05:29 +0000</lastBuildDate><item><title>A Single Infusion Could Suppress H.I.V. for Years, Study Suggests (단일 주입으로 수년간 HIV 억제 가능, 연구 시사)</title><link>https://www.nytimes.com/2026/05/11/health/hiv-infusion-immunotherapy.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/11dc-hiv-ucsf-fqlv/11dc-hiv-ucsf-fqlv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;For about a decade, scientists have had remarkable success curing some blood cancers by modifying a patient’s own immune cells to recognize and kill the malignant cells.&lt;br/&gt;(약 10년 동안 과학자들은 환자 자신의 면역 세포를 변형해 악성 세포를 인식하고 죽이도록 함으로써 일부 혈액암을 치료하는 데 놀라운 성공을 거두어 왔습니다.)&lt;/p&gt;
 &lt;p&gt;That same approach may help control H.I.V., among the wiliest of viruses, scientists will report on Tuesday. After a single infusion of immune cells engineered to recognize the virus, two people in a new study have suppressed their H.I.V. to undetectable levels, one of them for nearly two years.&lt;br/&gt;(같은 접근법이 가장 교활한 바이러스 중 하나인 HIV를 통제하는 데 도움이 될 수 있다고 과학자들이 화요일 발표할 예정입니다. 바이러스를 인식하도록 설계된 면역 세포를 한 번 주입한 후, 새 연구에서 두 명의 참가자가 HIV를 검출 불가능한 수준으로 억제했으며, 그중 한 명은 거의 2년 동안 유지했습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -265,7 +245,29 @@ HIV는 바이러스가 몸속 깊은 곳에 숨어 있다가 기회를 보면 �
 &lt;p&gt;That trip was expected to take around five days. The ship will be disinfected there, according to Spain’s interior minister, Fernando Grande-Marlaska.&lt;br/&gt;(그 항해는 약 5일이 걸릴 것으로 예상됩니다. 스페인 내무부 장관 페르난도 그란데-마를라스카에 따르면, 배는 그곳에서 소독될 예정입니다.)&lt;/p&gt;
 &lt;p&gt;On Monday evening, Spain’s health minister, Mónica García, said a Spanish passenger who tested positive for hantavirus is being isolated at a hospital in Madrid.&lt;br/&gt;(월요일 저녁, 스페인 보건부 장관 모니카 가르시아는 한타바이러스 양성 판정을 받은 스페인 승객 한 명이 마드리드의 한 병원에서 격리 치료를 받고 있다고 밝혔습니다.)&lt;/p&gt;
 &lt;p&gt;Carlos Barragán contributed reporting.&lt;br/&gt;(카를로스 바라간이 취재에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/11/world/europe/hantavirus-cruise-ship-canary-islands.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/11/multimedia/11xp-hantavirus-ship-jqfw/11xp-hantavirus-ship-jqfw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 10:54:49 +0000</pubDate></item><item><title>Israel Prepares to Prosecute First Suspects in Oct. 7 Attack Led by Hamas (이스라엘, 10월 7일 하마스 주도 공격 첫 피의자 기소 준비)</title><link>https://www.nytimes.com/2026/05/11/world/middleeast/israel-oct-7-prosecutions-palestinians-trial.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/00int-israel-trials-zgtl/00int-israel-trials-zgtl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/11/world/europe/hantavirus-cruise-ship-canary-islands.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/11/multimedia/11xp-hantavirus-ship-jqfw/11xp-hantavirus-ship-jqfw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 10:54:49 +0000</pubDate></item><item><title>Putin Said the War ‘Is Coming to a Close,’ but That’s Not All He Said (푸틴 "전쟁이 끝나가고 있다" 말했지만, 그게 전부는 아니다)</title><link>https://www.nytimes.com/2026/05/11/world/europe/putin-russia-ukraine-war.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/00int-russia-putin01-photo-mblj/00int-russia-putin01-photo-mblj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;One thing seemed apparent after Moscow’s muted commemoration this weekend of the Soviet victory over Nazi Germany during World War II: President Vladimir V. Putin is feeling the pressure.&lt;br/&gt;(이번 주말 모스크바의 제2차 세계대전 소련 승전 기념일 행사가 조용히 치러진 후 한 가지는 분명해 보였다: 블라디미르 V. 푸틴 대통령이 압박을 받고 있다는 점이다.)&lt;/p&gt;
+&lt;p&gt;Some of it is coming directly from Ukraine, as Kyiv increases its strikes deep into Russian territory and holds Mr. Putin’s forces in a virtual stalemate on the front lines. But some of it is also coming from the home front, with rising discontent among Russians over internet restrictions and economic challenges.&lt;br/&gt;(그 압박 중 일부는 우크라이나에서 직접 오고 있다. 키예프는 러시아 영토 깊숙한 곳으로의 공격을 강화하고 있으며, 전선에서 푸틴의 군대를 사실상 교착 상태로 몰아넣고 있다. 하지만 일부는 국내에서도 비롯되고 있는데, 러시아인들 사이에서 인터넷 제한과 경제적 어려움에 대한 불만이 커지고 있기 때문이다.)&lt;/p&gt;
+&lt;p&gt;So when Mr. Putin took the rostrum in front of a group of journalists after Saturday’s festivities ended, the Russian leader seemed to feel the need to send a message that he was not waging a forever war.&lt;br/&gt;(그래서 토요일 축제가 끝난 후 기자들 앞에 연단에 섰을 때, 푸틴은 자신이 영원한 전쟁을 벌이고 있지 않다는 메시지를 보낼 필요성을 느낀 듯 보였다.)&lt;/p&gt;
+&lt;p&gt;“I believe the matter is coming to a close,” Mr. Putin said.&lt;br/&gt;("나는 문제가 끝나가고 있다고 믿습니다." 푸틴이 말했다.)&lt;/p&gt;
+&lt;p&gt;That comment was the one that generated headlines. But other remarks by Mr. Putin were far from a capitulation, and showed the needle he is trying to thread as he continues to pursue a war in which many of his major objectives remain unmet.&lt;br/&gt;(그 발언이 헤드라인을 장식했다. 하지만 푸틴의 다른 발언은 항복과는 거리가 멀었고, 주요 목표 중 상당수가 아직 달성되지 않은 전쟁을 계속 추진하면서 그가 얼마나 어려운 줄타기를 하고 있는지 보여주었다.)&lt;/p&gt;
+&lt;p&gt;Russian military hardware was kept away from Red Square on Saturday not only for security reasons but also because the Russian force “must focus its attention on the final defeat of the enemy,” Mr. Putin said during the news conference. He also railed against Western elites for disregarding Moscow’s interests, for what he called provoking the conflict in the first place and for mistakenly expecting Russia’s collapse. He gave no indication that he would modify his demands with a view toward ending the war.&lt;br/&gt;(토요일 푸틴은 기자회견에서 러시아 군용 장비를 붉은 광장에서 멀리 두기로 한 것은 보안상의 이유뿐만 아니라, 러시아 군대가 "적의 최종 패배에 집중해야 하기 때문"이라고 말했다. 그는 또한 서방 엘리트들이 모스크바의 이익을 무시하고, 처음부터 갈등을 도발했으며, 러시아의 붕괴를 잘못 예상했다고 비난했다. 그는 전쟁을 끝내기 위해 자신의 요구를 수정할 의사를 전혀 보이지 않았다.)&lt;/p&gt;
+&lt;p&gt;“He wants to send a message: ‘I understand this war needs to end soon, but it needs to end on my conditions,’” said Stefan Meister, a Russia analyst at the German Council on Foreign Relations.&lt;br/&gt;(독일 외교협회의 러시아 분석가 슈테판 마이스터는 "그는 '이 전쟁이 곧 끝나야 한다는 것을 이해하지만, 내 조건대로 끝나야 한다'는 메시지를 보내고 싶어 한다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;Though Mr. Putin’s approval ratings have fallen recently, they remain significantly higher than they were in the years before he launched his full-scale invasion of Ukraine in 2022, according to the Levada Center, an independent pollster. (Approval polls have obvious limitations in an authoritarian system.)&lt;br/&gt;(푸틴의 지지율은 최근 하락했지만, 독립 여론조사 기관인 레바다 센터에 따르면 2022년 우크라이나 전면 침공을 시작하기 전보다 여전히 크게 높은 수준이다. (권위주의 체제에서 지지율 여론조사는 명백한 한계가 있다.))&lt;/p&gt;
+&lt;p&gt;“It’s not that this regime is now suddenly breaking down and there is no support anymore,” Mr. Meister said. “I think what we understand now is, he is under pressure. And pressure works. He has to react somehow to it.”&lt;br/&gt;(마이스터는 "이 정권이 갑자기 무너지고 더 이상 지지가 없는 것은 아니다"라며 "우리가 지금 이해하는 것은 그가 압박을 받고 있다는 점이다. 압박은 효과가 있다. 그는 그에 대해 어떻게든 반응해야 한다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;For many Russians, the year has brought tax increases and inconvenient internet restrictions, both clear byproducts of the war, as well as frustrations from a sputtering economy that has caused businesses to close and prices to go up on groceries and household bills. While the conflict in Iran has driven up the price of oil, Russia has not yet fully felt the windfall.&lt;br/&gt;(많은 러시아인들에게 올해는 세금 인상과 불편한 인터넷 제한, 그리고 사업체를 폐업시키고 식료품과 가계비를 올린 경제 침체로 인한 좌절감을 가져왔다. 이란의 분쟁이 유가를 끌어올렸지만, 러시아는 아직 그 수혜를 완전히 누리지 못하고 있다.)&lt;/p&gt;
+&lt;p&gt;Peace talks once channeled public hopes for an end to the war. But they have disappeared from the news as the Trump administration has turned its attention to the Middle East.&lt;br/&gt;(평화 협상은 한때 전쟁 종식에 대한 대중의 희망을 모았다. 그러나 트럼프 행정부가 중동으로 관심을 돌리면서 뉴스에서 사라졌다.)&lt;/p&gt;
+&lt;p&gt;Boris B. Nadezhdin, an opposition politician who tried to run for president against Mr. Putin in 2024 on an antiwar platform but was barred from the race, has been gearing up to run in parliamentary elections scheduled for the fall. As part of the process, he has been conducting focus groups. He said he had not seen Russians so angry about the government since the 1990s.&lt;br/&gt;(2024년 반전 기조로 푸틴에 맞서 대선 출마를 시도했으나 출마가 금지된 야권 정치인 보리스 B. 나데즈딘은 가을로 예정된 의회 선거에 출마할 준비를 하고 있다. 그 과정의 일환으로 그는 포커스 그룹을 운영해 왔다. 그는 1990년대 이후 러시아인들이 정부에 대해 이렇게 화난 적이 없었다고 말했다.)&lt;/p&gt;
+&lt;p&gt;“Somehow, things have taken a sharp turn for the worse since the beginning of this year,” Mr. Nadezhdin said in a phone interview.&lt;br/&gt;(나데즈딘은 전화 인터뷰에서 "어쨌든 올해 초부터 상황이 급격히 나빠졌다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;The discontent, he said, is split into three main camps: older people who are upset about their low incomes and increased living costs; younger people who are unhappy about the new internet outages and app throttling; and a broad section of society that is frustrated by a war in its fifth year.&lt;br/&gt;(그는 불만이 세 가지 주요 집단으로 나뉜다고 말했다: 낮은 소득과 증가한 생활비에 불만인 노년층, 새로운 인터넷 차단과 앱 속도 제한에 불만인 젊은 층, 그리고 5년째 접어든 전쟁에 좌절한 광범위한 사회 계층이다.)&lt;/p&gt;
+&lt;p&gt;People tend to blame the government broadly or the local authorities, rather than the Russian leader himself, for the range of problems, Mr. Nadezhdin said.&lt;br/&gt;(나데즈딘은 사람들이 다양한 문제에 대해 러시아 지도자보다는 정부 전반이나 지방 당국을 비난하는 경향이 있다고 말했다.)&lt;/p&gt;
+&lt;p&gt;“For the time being, the prevailing view is ‘the tsar is good, the boyars are bad,’” Mr. Nadezhdin said, repeating a common saying in Russia that refers to supposedly benevolent leaders misled by their advisers.&lt;br/&gt;(나데즈딘은 "'차르는 좋고 보야르는 나쁘다'는 견해가 현재 지배적이다"라며, 러시아에서 흔히 인용되는, 자신의 고문들에게 속은 선한 지도자를 가리키는 속담을 인용했다.)&lt;/p&gt;
+&lt;p&gt;While Mr. Putin faces no threat from elections, Mr. Nadezhdin said that the Russian people were in the “first stage of awakening.”&lt;br/&gt;(푸틴은 선거에서 위협을 받지 않지만, 나데즈딘은 러시아 국민이 "각성의 첫 단계"에 있다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Mr. Putin has appeared uncommonly vulnerable recently. The killings of Iran’s top leaders by the United States and Israel stoked the Russian leader’s fears about his own security, analysts say, and provided a rationale to disrupt the public more boldly with internet restrictions. At the same time, Kyiv has stepped up long-range strikes on Russia with new cruise missiles and drones produced domestically.&lt;br/&gt;(푸틴은 최근 유난히 취약해 보였다. 분석가들은 미국과 이스라엘에 의한 이란 최고 지도자들의 살해가 러시아 지도자의 자체 안보에 대한 두려움을 자극했으며, 인터넷 제한을 통해 더 대담하게 대중을 교란할 근거를 제공했다고 말한다. 동시에 키예프는 국내에서 생산된 새로운 순항 미사일과 드론으로 러시아에 대한 장거리 공격을 강화했다.)&lt;/p&gt;
+&lt;p&gt;The run-up to Saturday’s Victory Day parade was dominated by a frenzy of speculation that Ukraine could attack the festivities, perhaps with drones guided by the mobile internet. That led to intense security measures and stark threats from Russia about launching a devastating counterattack.&lt;br/&gt;(토요일 승전기념일 퍼레이드 준비 기간은 우크라이나가 축제를 공격할 수 있다는, 아마도 모바일 인터넷으로 유도되는 드론을 사용할 수 있다는 추측의 광란에 휩싸였다. 이는 강력한 보안 조치와 러시아의 파괴적인 반격에 대한 엄중한 위협으로 이어졌다.)&lt;/p&gt;
+&lt;p&gt;Ahead of the events, an emboldened President Volodymyr Zelensky of Ukraine issued a tongue-in-cheek proclamation “permitting” the parade and vowing not to strike Red Square. The Kremlin said it did not need anyone’s permission to hold the event.&lt;br/&gt;(행사에 앞서 자신감을 얻은 우크라이나의 볼로디미르 젤렌스키 대통령은 퍼레이드를 "허용"하고 붉은 광장을 공격하지 않겠다고 약속하는 빈정대는 선언을 발표했다. 크렘린은 행사 개최에 누구의 허락도 필요하지 않다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Alina Lobzina contributed reporting from London.&lt;br/&gt;(알리나 롭지나가 런던에서 보도에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/11/world/europe/putin-russia-ukraine-war.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/11/multimedia/00int-russia-putin01-photo-mblj/00int-russia-putin01-photo-mblj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 12:53:26 +0000</pubDate></item><item><title>Israel Prepares to Prosecute First Suspects in Oct. 7 Attack Led by Hamas (이스라엘, 10월 7일 하마스 주도 공격 첫 피의자 기소 준비)</title><link>https://www.nytimes.com/2026/05/11/world/middleeast/israel-oct-7-prosecutions-palestinians-trial.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/00int-israel-trials-zgtl/00int-israel-trials-zgtl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Nearly three years after Hamas led the Oct. 7, 2023, attack on Israel, the country is preparing to prosecute hundreds of Palestinians suspected of crimes committed on the deadliest day in Israeli history.&lt;br/&gt;(하마스가 2023년 10월 7일 이스라엘을 공격한 지 약 3년 만에, 이스라엘은 역사상 최악의 하루를 초래한 이 공격과 관련된 범죄 혐의를 받는 수백 명의 팔레스타인인을 기소할 준비를 하고 있다.)&lt;/p&gt;
 &lt;p&gt;On Monday, Israel’s Parliament enacted a law paving the way to begin military trials for the suspects, who have been held without charge since their capture. Some could be charged with genocide, which is punishable by a death sentence in Israel.&lt;br/&gt;(월요일, 이스라엘 의회는 체포된 이후 기소 없이 구금되어 온 용의자들에 대한 군사 재판을 시작할 수 있는 법안을 통과시켰다. 이들 중 일부는 이스라엘에서 사형에 처해질 수 있는 집단 학살 혐의로 기소될 수 있다.)&lt;/p&gt;
 &lt;p&gt;Prosecutors have yet to finalize the indictments, and in some cases, investigations are still continuing, according to two senior Israeli law enforcement officials who requested anonymity to discuss ongoing legal proceedings. It may take a year before trials begin, one of the officials said.&lt;br/&gt;(진행 중인 법적 절차에 대해 논의하기 위해 익명을 요구한 두 명의 이스라엘 고위 법률 관계자에 따르면, 검찰은 아직 기소 내용을 확정하지 않았으며, 일부 사건의 경우 조사가 계속 진행 중이다. 한 관계자는 재판이 시작되기까지 1년이 걸릴 수도 있다고 말했다.)&lt;/p&gt;
@@ -433,7 +435,180 @@ HIV는 바이러스가 몸속 깊은 곳에 숨어 있다가 기회를 보면 �
 라피드는 월요일 국회 연설에서 정부의 즉각적인 해산을 촉구하며 "새로운 것을 시작할 때입니다"라고 말했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 이사벨 커슈너가 기사에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/11/world/middleeast/israel-hostage-demands-government-resign.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/11/multimedia/11int-israel-hostage-1-lgzk/11int-israel-hostage-1-lgzk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 15:22:09 +0000</pubDate></item><item><title>China Sought Access to Anthropic’s Newest A.I. The Answer Was No. (중국, 앤트로픽의 최신 AI 접근 요구… 거절당해)</title><link>https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/dc-ai-china-lfmc/dc-ai-china-lfmc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/11/world/middleeast/israel-hostage-demands-government-resign.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/11/multimedia/11int-israel-hostage-1-lgzk/11int-israel-hostage-1-lgzk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 15:22:09 +0000</pubDate></item><item><title>The Altar Boy Who Refused to Hush Up (침묵을 거부한 제단 소년)</title><link>https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/08/multimedia/00int-philipines-lawyer-profile-01-cfwk/00int-philipines-lawyer-profile-01-cfwk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;As an altar boy in the late 1990s, Michal Gatchalian spent almost every Sunday at a centuries-old Roman Catholic basilica in Cebu City, the Philippines. There he met a fun-loving priest who gave the boys rides on his motorcycle.&lt;br/&gt;(1990년대 후반 제단 소년이었던 미샬 가찰리안은 거의 매주 일요일을 필리핀 세부 시티에 있는 수백 년 된 로마 가톨릭 대성당에서 보냈다. 그곳에서 그는 재미를 좋아하는 신부를 만났고, 그 신부는 소년들을 오토바이에 태워 주곤 했다.)&lt;/p&gt;
+&lt;p&gt;On Jan. 11, 1998, the priest, Apolinario “Jing” Mejorada, invited the then 17-year-old Mr. Gatchalian and another altar boy to the movies. At the theater, the teenagers said, he molested them. About 20 months later, Mr. Gatchalian said Father Mejorada sexually abused him again. That episode, he said, occurred at the home of the priest, who demanded oral sex from him. Mr. Gatchalian said he refused.&lt;br/&gt;(1998년 1월 11일, 아폴리나리오 "징" 메호라다 신부는 당시 17세였던 가찰리안과 다른 제단 소년을 영화관에 초대했다. 십대들은 극장에서 그가 자신들을 성추행했다고 말했다. 약 20개월 후, 가찰리안은 메호라다 신부가 자신을 또 다시 성폭행했다고 말했다. 그 사건은 신부의 집에서 발생했으며, 신부는 그에게 구강 성교를 요구했다고 한다. 가찰리안은 거절했다고 말했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+한 달 후, 가찰리안은 교회 지도자들에게 불만을 제기했다. 그의 노력은 아무 성과를 거두지 못했고, 그는 당시로서는 놀라운 행동으로 법정에 사건을 제기하기로 결정했다. 그는 로마 가톨릭 교회의 성직자 성추행 스캔들이 전 세계로 퍼져나가기 전에 독실한 가톨릭 국가인 필리핀에서 공개적으로 책임을 요구한 보기 드문 피해자였다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 메호라다 신부가 법정 절차에서 소년들의 허벅지를 "만지고 건드렸다"고 인정한 후에도 정의는 요원했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+현재 45세인 가찰리안은 변호사가 되었고, 법적 조언과 정신적 지지를 통해 다른 성직자 학대 생존자들을 돕는 단체를 설립하여 필리핀에서 거의 목소리를 내지 못하는 피해자들의 공개적인 얼굴이 되었다. 비평가들은 이 나라의 교회가 여전히 자체 보호를 위해 결속을 강화하고 있다고 말한다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+"바티칸의 개혁에도 불구하고, 여기 교회는 학대 사건을 처리하는 데 여전히 동일한 방법을 사용합니다."라고 그는 인터뷰에서 말했다. "그들은 불평하는 피해자보다 신부를 보호하는 데 더 집중합니다."
+
+&lt;&lt;&lt;PARA&gt;&gt;
+가찰리안이 고발한 메호라다 신부는 1500년대부터 필리핀에 기독교를 전파하는 데 도움을 준 성 아우구스티누스 수도회 소속이었다. 더 최근에는 2001년부터 2013년까지 이 수도회는 현재 교황 레오인 로버트 프랜시스 프레보스트가 이끌었다. 아우구스티누스회의 수장으로서 그는 필리핀을 최소 아홉 번 방문했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+메호라다 신부는 이제 파문되었으며, 이는 이전에 보도된 바 없다. 아우구스티누스회는 논평을 거부했지만, 이 조치는 신부가 한때 주임 사제로, 가찰리안이 제단 소년으로 봉사했던 세부의 산토 니뇨 소성당 직원 두 명과 필리핀 가톨릭 주교회의 관계자에 의해 확인되었다. 이 조치는 레오가 교황이 되기 전에 취해진 것으로 보인다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 기반 감시 단체 BishopAccountability.org에 따르면, 필리핀에서 파문된 것으로 알려진 신부는 소수에 불과하다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+바티칸은 메호라다에 대한 학대 혐의에 대해 아무런 언급도 하지 않았으며, 교황이 가찰리안의 사건을 알고 있었는지는 불분명하다. 바티칸은 논평 요청에 응답하지 않았다. 메호라다에게 연락할 수 없었다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+가찰리안의 사례는 필리핀에서 교회가 가진 힘을 보여준다. 인구의 약 80%가 가톨릭 신자이며, 교회는 정부 정책부터 사법 임명까지 모든 것에 영향을 미친다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+1999년 10월, 가찰리안은 자신의 영적 지도자에게 메호라다 신부의 행동을 알렸지만, 교회는 아무것도 하지 않았다고 말했다. 법원 문서에 따르면 메호라다 신부는 그에게 80,000 필리핀 페소(당시 약 2,000달러)를 제공하고 소송을 제기하지 않겠다는 약속을 받았다. 그는 그 돈을 받았다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+이후 메호라다 신부의 동생인 마르 메호라다 신부는 가찰리안과 다른 두 제단 소년(역시 형 신부를 성추행했다고 고발했던)에게 신부가 "아프리카에서 사역을 계속하기 위해 자원했다"고 말했다. 가찰리안이 제출한 진술서에 따르면, 마르 메호라다 신부는 가찰리안과 다른 두 소년에게 추가로 120,000 필리핀 페소를 제안했고, 그들은 받았다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 얼마 지나지 않아 가찰리안은 자신을 학대했다고 주장하는 신부를 세부에 있는 교회에서 보았다. 분노한 그는 당시 세부 대주교와 지역 신문 및 라디오 방송국에 편지를 썼다. 가찰리안에 따르면 대주교는 조사를 명령했지만, 그 당시 메호라다 신부가 징계를 받았는지는 불분명하다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+2003년 진술서에서 메호라다 신부는 영화관에서 가찰리안의 허벅지를 "만지고 건드렸다"고 인정하면서, 그것이 "잘못되고 부끄러운 행동"이지만 범죄는 아니라고 말했다. 그는 자신의 집에서 가찰리안을 뒤에서 껴안고, 두 팔로 그의 복부를 감싸고, 그의 목덜미에 키스하고, 손을 가찰리안의 팬티 안쪽으로 움직이기 시작했다고 인정했다. 그 지점에서 가찰리안이 그의 손을 잡아 빼냈다고 한다. 진술서는 구강 성교를 요구했다는 고발에 대해서는 다루지 않았다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+검사들은 가찰리안이 "거액의 합의금"을 받아 법적 지위를 훼손했다며 그의 고발에 대한 후속 조치를 거부했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+가찰리안은 법무부와 법원에 항소했지만 계속해서 패소했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+라디오에서 가찰리안은 사람들이 자신이 학대를 즐겼는지에 대해 토론하는 것을 들었다. 가찰리안은 주유소에서 자신의 고용주가 이 사건을 듣고 그를 해고했으며, 그 후 자살을 생각했다고 말했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+가톨릭 수도회의 평신도 선교사였던 그의 아버지 파로는 누군가가 그와 그의 가족이 "교회를 공격하는 악마의 종"이라고 소리쳤다고 말했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+"그것은 사람이 경험할 수 있는 최고 형태의 불의였습니다."라고 가찰리안은 말했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+작년에 BishopAccountability.org는 교회가 필리핀에서 면책 문화를 가지고 있다고 비난하는 보고서를 발표했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+"필리핀을 처음 훑어봤을 때, '이 사람은 누구이며 왜 이렇게 대담한가?'라고 말했습니다."라고 감시 단체의 공동 설립자 앤 배럿 도일이 가찰리안에 대해 말했다. "그가 본명으로 나섰기 때문입니다."
+
+&lt;&lt;&lt;PARA&gt;&gt;
+가찰리안은 세부에서 평범한 어린 시절을 보냈고 텔레비전조차 없었다. 그는 형과 함께 신부 놀이를 좋아했는데, 골판지 상자를 성체龕으로, 바나나 조각을 영성체 빵으로 사용했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+그의 아버지는 선생님들이 그가 질문으로 도전하는 것에 대해 자주 불평했다고 말했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+"그는 보통 사람들이 반항적인 성향이라고 부르는 것을 가지고 있습니다."라고 가찰리안 신부는 말했다. "저는 그것을 열정적인 성향이라고 부르며, 사람들은 그것을 이해하지 못합니다."
+
+&lt;&lt;&lt;PARA&gt;&gt;
+메호라다 신부에 대한 법적 싸움 후, 가찰리안은 로스쿨에 가기로 결정했다. 그곳에서 그는 후에 아내가 될 크리스틴 나란호를 만났다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+2007년 마닐라에서 변호사 시험을 준비하던 중, 가찰리안은 메호라다 신부가 그 지역의 한 본당에서 사역하고 있다는 것을 알게 되었다. 그는 시험 공부가 자신을 "기도하고 명상하는 마음가짐"으로 만들어, 메호라다 신부도 인간임을 인식하게 했다고 말했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 나란호를 데리고 신부를 만나러 가서 그를 용서했다고 말했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+"그것은 제가 할 수 있다고 생각하지 않는 일이었습니다."라고 현재 공개 검사인 나란호는 말했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+그들은 11살과 6살인 두 아들을 가톨릭 신자로 키우며 매주 미사에 참석한다. 가찰리안은 큰아들에게 자신이 신부에게 성추행을 당했다고 말했다고 한다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+2017년, 알 자지라가 가찰리안이 메호라다 신부에 대한 고발을 재차 확인하는 다큐멘터리를 방영한 후 그의 사건에 대한 관심이 다시 생겼다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+당시 메호라다 신부는 시골 마을 구바트에서 사역하고 있었다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 얼마 후 아우구스티누스 수도회에서 추방되었다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+2020년, 가찰리안은 가톨릭 독립 보호 기구(Catholic Independent Safeguarding Unit)라는 단체를 공동 설립하고 성직자 학대 피해자들에게 법적 조언을 제공하기 시작했다. 지금까지 6명이 그의 도움을 구했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+자메이카 셰인 아바르케즈 아파스는 2023년 본당 신부가 자신을 성추행했을 때 16세였다고 말했다. 법정에서, 그녀는 같은 본당 신자들이 비꼬는 말을 했다고 회상했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 가찰리안이 그녀와 함께 있었다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+"이 모든 과정 내내 제가 당신 곁에 앉아 있겠습니다."라고 아파스 씨는 그가 말했다고 전했다. "고개를 높이 들어요. 사람들이 당신을 비판하려고 할 때마다 눈을 마주쳐요."
+
+&lt;&lt;&lt;PARA&gt;&gt;
+(2024년 2월, 아파스 씨가 고발한 신부는 4년 2개월 1일의 징역형을 선고받았지만, 플리 바겐으로 인해 집행유예로 석방되었다. 가찰리안에 따르면 그는 하루도 감옥에 가지 않았다.)
+
+&lt;&lt;&lt;PARA&gt;&gt;
+2025년 초, 글로벌 비영리 단체 Ending Clergy Abuse의 전 이사였던 뉴질랜드인 머레이 히즐리가 가찰리안에게 접근하여 필리핀에서 생존자 주도 단체를 설립하는 것에 대해 논의했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+"저는 항상 미샬 가찰리안에 관심이 있었습니다. 그 이름이 마치 경고음과 같았기 때문입니다. 1억 명의 가톨릭 신자가 있는 나라에서 일어선 단 한 사람이었습니다."라고 히즐리는 말했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+지난 9월, 가찰리안은 기자를 데리고 자신이 제단 소년으로 봉사했던 산토 니뇨 소성당으로 갔다. 그는 종탑을 가리키며 신나게 자신이 산툴로그 축제(세부의 산토 니뇨, 즉 왕관을 쓴 아기 예수를 기리는 축제)를 위해 종을 울리도록 초대받았던 일을 회상했다. 어린 제단 소년이 다가와 인사했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 20년 전 성당 경내에서 경비원들이 자신을 따라다니던 때와는 극명한 대조라고 말했다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+가찰리안은 때때로 학대를 당했음에도 어떻게 가톨릭 신자로 남았는지 질문을 받는다.
+
+&lt;&lt;&lt;PARA&gt;&gt;
+"저는 하느님과 연결되는 수단이기 때문에 남아 있습니다."라고 그는 말하며, 교회가 원한다면 자신을 버릴 수도 있다고 덧붙였다. "하지만 당신은 제가 떠날 것이라고 기대하지 않을 것입니다."
+
+&lt;&lt;&lt;PARA&gt;&gt;
+엘리자베타 포볼레도가 로마에서, 제이슨 구티에레즈가 마닐라에서 취재에 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/08/multimedia/00int-philipines-lawyer-profile-01-cfwk/00int-philipines-lawyer-profile-01-cfwk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 21:08:04 +0000</pubDate></item><item><title>Xi Is Poised to Press Trump on Arms Sales to Taiwan (시진핑 주석, 대만 무기 판매 관련 트럼프 압박 예상)</title><link>https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The United States’ stance on Taiwan has rested for decades on a complex latticework of policies designed to support the island democracy while avoiding treating it officially as an independent country, a step that would enrage Beijing.&lt;br/&gt;(미국의 대만에 대한 입장은 수십 년 동안 섬나라 민주주의를 지원하면서도 공식적으로 독립국으로 취급하지 않는 복잡한 정책 체계에 기반을 두고 있으며, 이는 베이징을 자극할 수 있는 조치입니다.)&lt;/p&gt;
+&lt;p&gt;Many in Taiwan are holding their breath for what may happen to that delicate structure when President Trump, with his off-the-cuff, transactional ways, meets China’s leader, Xi Jinping, in Beijing for a two-day summit starting Thursday. Mr. Xi appears poised to lecture Mr. Trump on U.S. support for Taiwan, especially weapons sales.&lt;br/&gt;(많은 대만인들은 즉흥적이고 거래 중심적인 방식의 트럼프 대통령이 시진핑 중국 국가주석과 목요일부터 이틀간 베이징에서 정상회담을 가질 때 이 섬세한 구조에 어떤 일이 일어날지 숨죽여 지켜보고 있습니다. 시 주석은 트럼프 대통령에게 미국의 대만 지원, 특히 무기 판매에 대해 훈계할 태세를 갖춘 것으로 보입니다.)&lt;/p&gt;
+&lt;p&gt;Mr. Trump and his officials have said that his trip to Beijing will be focused on trade and investment. But China’s foreign minister, Wang Yi, and other officials have indicated that they also expect the two presidents to discuss Taiwan, the issue that could most likely ignite a war between their countries. China claims Taiwan is its territory, and could use armed force to take it, while the United States says it could intervene to defend Taiwan, a longtime partner.&lt;br/&gt;(트럼프 대통령과 그의 관계자들은 그의 베이징 방문이 무역과 투자에 초점을 맞출 것이라고 밝혔습니다. 그러나 왕이 중국 외교부장과 다른 관리들은 양국 정상이 양국 간 전쟁을 촉발할 가능성이 가장 큰 현안인 대만 문제도 논의할 것으로 예상한다고 밝혔습니다. 중국은 대만이 자국의 영토라고 주장하며 무력을 사용해 이를 탈환할 수 있다고 하고, 미국은 오랜 파트너인 대만을 방어하기 위해 개입할 수 있다고 밝히고 있습니다.)&lt;/p&gt;
+&lt;p&gt;“The Taiwan question is at the very core of China’s core interests,” Lin Jian, a spokesman for China’s Foreign Ministry said last week when asked if the issue would be a priority for Mr. Xi at the summit.&lt;br/&gt;("대만 문제는 중국 핵심 이익의 최우선 과제입니다," 린젠 중국 외교부 대변인이 지난주 이 문제가 정상회담에서 시 주석의 우선순위가 될 것인지 묻는 질문에 이렇게 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Taiwan often comes up in talks between Chinese and U.S. leaders. But the summit’s setting in Beijing will give Mr. Xi more opportunity and time to make his case, said Ryan Hass, a former director for China at the National Security Council.&lt;br/&gt;(대만 문제는 중국과 미국 지도자 간의 회담에서 자주 거론됩니다. 그러나 베이징에서 열리는 정상회담의 환경은 시 주석에게 자신의 입장을 펼칠 더 많은 기회와 시간을 제공할 것이라고 라이언 해스 전 국가안보회의 중국 담당 국장이 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. Xi may try to persuade Mr. Trump to say that he opposes Taiwanese independence. That could be a setback for Taiwan’s president, Lai Ching-te, though he has said he has no plans to declare independence. Successive U.S. presidents have said they “do not support” independence for Taiwan. Declaring “opposition” may suggest greater sympathy with Beijing’s view that Mr. Lai’s government is the side stirring up trouble, experts said.&lt;br/&gt;(시 주석은 트럼프 대통령에게 대만 독립에 반대한다고 말하도록 설득할 수 있습니다. 이는 대만의 라이칭더 총통에게는 좌절이 될 수 있지만, 그는 독립 선언 계획이 없다고 밝혔습니다. 역대 미국 대통령들은 대만의 독립을 "지지하지 않는다"고 밝혀 왔습니다. 전문가들은 "반대"를 선언하는 것은 라이 총리 정부가 문제를 일으키는 쪽이라는 베이징의 시각에 더 동조하는 것을 암시할 수 있다고 말했습니다.)&lt;/p&gt;
+&lt;p&gt;“It could be easily used by China to claim that the U.S. is taking Beijing’s side, and even create new diplomatic pressure on Taiwan,” said Chen Kuan-ting, a lawmaker from Mr. Lai’s Democratic Progressive Party.&lt;br/&gt;("이는 중국이 미국이 베이징 편을 든다고 주장하고 대만에 새로운 외교적 압력을 가하는 데 쉽게 사용될 수 있습니다," 라이 총리의 민주진보당 소속 천관팅 의원이 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. Xi’s main focus in raising Taiwan will probably be to persuade Mr. Trump to slow, or ultimately reduce, U.S. arms sales to the island, experts from China and Washington have said. In a phone call in February, Mr. Xi urged Mr. Trump to handle the issue of arms sales with “extreme caution.”&lt;br/&gt;(중국과 워싱턴의 전문가들은 시 주석이 대만 문제를 제기하는 주요 목적은 트럼프 대통령이 섬나라에 대한 미국의 무기 판매를 늦추거나 궁극적으로 줄이도록 설득하는 것일 것이라고 말했습니다. 시 주석은 2월 전화 통화에서 트럼프 대통령에게 무기 판매 문제를 "극도로 신중하게" 처리할 것을 촉구했습니다.)&lt;/p&gt;
+&lt;p&gt;The Trump administration approved $11 billion in arms sales to Taiwan late last year, drawing condemnation from Beijing, which quickly held a two-day military exercise near Taiwan. Another arms sale package worth around $14 billion is awaiting final approval from Mr. Trump, who has held off making a decision for months already.&lt;br/&gt;(트럼프 행정부는 작년 말 대만에 110억 달러 규모의 무기 판매를 승인했으며, 이에 베이징은 비난을 퍼부으며 대만 인근에서 이틀간의 군사 훈련을 빠르게 실시했습니다. 약 140억 달러 규모의 또 다른 무기 판매 패키지는 트럼프 대통령의 최종 승인을 기다리고 있으며, 그는 이미 몇 달 동안 결정을 보류해 왔습니다.)&lt;/p&gt;
+&lt;p&gt;China wants Mr. Trump to delay approval, and ultimately to persuade him and his successors to roll back broader military support to Taiwan, said Xin Qiang, the director of the Center for Taiwan Studies at Fudan University in Shanghai.&lt;br/&gt;(중국은 트럼프 대통령이 승인을 지연시키고, 궁극적으로 그와 후임자들이 대만에 대한 더 광범위한 군사 지원을 축소하도록 설득하기를 원한다고 상하이 푸단대학교 대만연구센터 소장 신창이 말했습니다.)&lt;/p&gt;
+&lt;p&gt;“But China also knows that’s difficult right now,” he said, “so they hope at least for delays and then a reduction — a reduction in the monetary value of the arms, in the scale, in the quality of the weapons sold.”&lt;br/&gt;("하지만 중국은 현재로서는 그것이 어렵다는 것을 알고 있습니다," 그는 말했습니다. "그래서 최소한 지연과 그 다음에는 축소를 희망합니다. 즉, 판매되는 무기의 금전적 가치, 규모, 질에서의 축소입니다.")&lt;/p&gt;
+&lt;p&gt;Professor Xin acknowledged that coaxing Mr. Trump to significantly curtail U.S. arms sales would be a long shot. But if the U.S. sells more weapons to Taiwan, he added, “China certainly won’t be as enthusiastic about purchasing goods from the United States like agricultural products or Boeing aircraft.”&lt;br/&gt;(신 교수는 트럼프 대통령을 설득해 미국의 무기 판매를 상당히 줄이는 것은 가능성이 낮다는 점을 인정했습니다. 그러나 미국이 대만에 더 많은 무기를 판매한다면, 그는 "중국은 분명히 농산물이나 보잉 항공기와 같은 미국 제품을 구매하는 데 열의를 보이지 않을 것입니다"라고 덧붙였습니다.)&lt;/p&gt;
+&lt;p&gt;Many in Washington, including from both parties in Congress, support weapons sales to Taiwan. Taiwanese lawmakers last week approved a $25 billion special budget to cover the two big weapons packages, including the one waiting in the wings, adding to pressure on Mr. Trump. In a letter sent on Friday, a bipartisan group of eight U.S. senators urged Mr. Trump to move ahead on it.&lt;br/&gt;(워싱턴에서는 의회 양당을 포함한 많은 사람들이 대만에 대한 무기 판매를 지지하고 있습니다. 대만 의원들은 지난주 250억 달러 규모의 특별 예산을 승인하여 대기 중인 무기 패키지를 포함한 두 개의 대형 무기 패키지를 충당했으며, 이는 트럼프 대통령에게 압박을 가중시키고 있습니다. 금요일 발송된 서한에서 초당파 8명의 미 상원의원은 트럼프 대통령에게 이를 추진할 것을 촉구했습니다.)&lt;/p&gt;
+&lt;p&gt;Secretary of State Marco Rubio, who will accompany Mr. Trump to Beijing, last week brushed off speculation that the summit could produce a shift in U.S. policy toward Taiwan. “The Chinese understand our position on that topic. We understand theirs,” Mr. Rubio told a news conference at the White House.&lt;br/&gt;(트럼프 대통령과 함께 베이징에 동행할 마코 루비오 국무장관은 지난주 정상회담이 대만에 대한 미국 정책에 변화를 가져올 수 있다는 추측을 일축했습니다. "중국은 그 주제에 대한 우리의 입장을 이해합니다. 우리도 그들의 입장을 이해합니다," 루비오 장관은 백악관에서 열린 기자회견에서 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Taiwanese officials have taken reassurance from such comments.&lt;br/&gt;(대만 관리들은 그러한 발언에서 위안을 얻었습니다.)&lt;/p&gt;
+&lt;p&gt;“The U.S. continues to reiterate in both public and private settings that its policy toward Taiwan has not changed,” Tsai Ming-yen, the director-general of Taiwan’s National Security Bureau, told lawmakers in Taipei last week.&lt;br/&gt;("미국은 공개 및 비공개 자리에서 대만에 대한 정책이 변하지 않았다고 계속해서 재확인하고 있습니다," 차이밍옌 대만 국가안전국장이 지난주 타이베이에서 의원들에게 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Still, Mr. Xi could hold out the lure of economic deals and more summits later this year, including in Washington, to try to get Mr. Trump to hold back on the latest proposed arms package, said Mr. Hass, the former National Security Council official, now a China expert at the Brookings Institution.&lt;br/&gt;(그럼에도 불구하고, 시 주석은 올해 후반 워싱턴에서의 추가 정상회담을 포함한 경제적 거래의 유혹을 내세워 트럼프 대통령이 최신 제안된 무기 패키지를 보류하도록 설득할 수 있다고 현재 브루킹스 연구소의 중국 전문가인 해스 전 국가안보회의 관리가 말했습니다.)&lt;/p&gt;
+&lt;p&gt;“As a result, I have low expectations that Trump will approve another tranche of arms sales to Taiwan between now and this fall,” he said.&lt;br/&gt;("결과적으로, 올해 가을까지 트럼프가 또 다른 대만 무기 판매를 승인할 것이라는 기대는 낮습니다," 그는 말했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 21:21:56 +0000</pubDate></item><item><title>Is France’s Centrist Leader Trying to Weatherproof It From the Far Right? (프랑스 중도 성향 지도자, 극우로부터 국가를 지키려 하나?)</title><link>https://www.nytimes.com/2026/05/12/world/europe/france-macron-weatherproof-bureaucracy.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/10/multimedia/00int-france-macron-01-pbtv/00int-france-macron-01-pbtv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Barred from re-election and increasingly a lame duck, President Emmanuel Macron has few obvious levers to prevent a far-right, would-be successor from reshaping France after presidential elections next year. But he does have one, which he is using to striking effect: patronage.&lt;br/&gt;(재선이 금지되어 점차 레임덕(lame duck) 상태에 빠진 에마뉘엘 마크롱 대통령은 내년 대선 이후 극우 성향 차기 대통령이 프랑스를 재편하는 것을 막을 뚜렷한 수단이 거의 없다. 하지만 그에게는 한 가지 수단이 있는데, 그것은 바로 충성심에 기반한 인사 배치, 즉 '관리직 추천권'이다.)&lt;/p&gt;
+&lt;p&gt;In recent months, Mr. Macron has moved to appoint close allies to head several of France’s most powerful state institutions, including the central bank, the national auditing authority and the Constitutional Council, the closest French equivalent to the Supreme Court.&lt;br/&gt;(최근 몇 달간 마크롱 대통령은 프랑스에서 가장 강력한 국가 기관들, 즉 중앙은행, 국가회계감사원, 그리고 프랑스의 대법원에 해당하는 헌법위원회(Constitutional Council)의 수장에 자신의 측근들을 임명해 왔다.)&lt;/p&gt;
+&lt;p&gt;Taken together, political analysts say, Mr. Macron’s personnel moves could help weatherproof France against the effects of a far-right presidency, should either of the two likeliest far-right candidates, Marine Le Pen or Jordan Bardella, win. Both are comfortably ahead of all rivals in opinion polls.&lt;br/&gt;(정치 분석가들은 마크롱 대통령의 이러한 인사 조치가, 가장 유력한 극우 성향 후보인 마린 르 펜(Marine Le Pen)이나 조르당 바르델라(Jordan Bardella) 중 한 명이 대선에서 승리할 경우, 프랑스가 극우 정권 아래에서 겪을 충격을 완화하는 데 도움이 될 수 있다고 말한다. 여론조사에서 두 사람 모두 모든 경쟁자를 여유 있게 앞서고 있다.)&lt;/p&gt;
+&lt;p&gt;“We’re talking about the country’s most important independent institutions,” said Benjamin Morel, a constitutional scholar at Panthéon-Assas University in Paris. “They are the ones that can largely limit the scope of certain political decisions.”&lt;br/&gt;(파리 팡테옹-아스 대학(Panthéon-Assas University)의 헌법학자 벤자민 모렐(Benjamin Morel)은 "우리는 국가에서 가장 중요한 독립 기관들에 대해 이야기하고 있습니다."라며 "이 기관들은 특정 정치적 결정의 범위를 크게 제한할 수 있는 곳입니다."라고 말했다.)&lt;/p&gt;
+&lt;p&gt;“There are clearly limits and boundaries being set here,” Mr. Morel said. “These appointments are far, far from neutral.”&lt;br/&gt;(모렐 교수는 "여기에는 명백한 한계와 경계가 설정되고 있습니다."라며 "이러한 임명들은 결코 중립적이지 않습니다."라고 덧붙였다.)&lt;/p&gt;
+&lt;p&gt;The president, Mr. Morel was quick to say, was not overstepping his authority. It is hardly unknown for French presidents to appoint politically friendly people to influential positions, even if the practice is less prevalent than in the United States.&lt;br/&gt;(모렐 교수는 마크롱 대통령이 권한을 남용하고 있는 것은 아니라고 재빨리 말했다. 프랑스 대통령이 영향력 있는 자리에 정치적으로 친분이 있는 사람을 임명하는 것은, 미국보다 그 관행이 덜 만연하지만, 전혀 드문 일은 아니다.)&lt;/p&gt;
+&lt;p&gt;To some extent, Mr. Macron is simply the beneficiary of a string of convenient vacancies, most recently at the central bank, the Banque de France, where last week he proposed his chief of staff, Emmanuel Moulin, as the new president. That nomination will need to be confirmed by France’s Parliament, as was the head of the Constitutional Council, though not the president of the auditing authority.&lt;br/&gt;(어느 정도 마크롱 대통령은 단지 우연히 발생한 일련의 공석(空缺) 혜택을 보고 있는 것이다. 가장 최근에는 프랑스 중앙은행(Banque de France) 총재직이 공석이었는데, 그는 지난주 자신의 비서실장인 에마뉘엘 물랭(Emmanuel Moulin)을 새 총재로 지명했다. 이 지명은 프랑스 의회의 승인을 받아야 한다. 헌법위원회 위원장의 경우도 마찬가지였지만, 회계감사원장은 의회 승인이 필요하지 않았다.)&lt;/p&gt;
+&lt;p&gt;Asked for comment, a presidential spokesman said Mr. Macron appointed competent and committed people. The spokesman, who spoke on the condition of anonymity in keeping with French political practice, said Mr. Macron would not have chosen differently, regardless of the possible rise of the far right in 2027.&lt;br/&gt;(논평 요청에 대해 대통령 대변인은 마크롱 대통령이 유능하고 헌신적인 사람들을 임명한다고 말했다. 프랑스 정치 관행에 따라 익명을 요구한 이 대변인은 2027년 극우 정권의 부상 가능성과 관계없이 마크롱 대통령은 다른 선택을 하지 않았을 것이라고 말했다.)&lt;/p&gt;
+&lt;p&gt;Yet the appointments to posts with multiyear terms, coming as France approaches a potentially transformative election, have drawn criticism, not least from the leaders of the largest far-right party, the National Rally.&lt;br/&gt;(그러나 잠재적으로 변혁적인 선거를 앞두고 다년 임기의 요직에 대한 이러한 임명은 가장 큰 극우 정당인 국민연합(National Rally)의 지도자들로부터 특히 비판을 받고 있다.)&lt;/p&gt;
+&lt;p&gt;In a video last February, Mr. Bardella, the party’s president, accused Mr. Macron of “seeking to lock down our institutions in the hope of maintaining control and extending his influence.”&lt;br/&gt;(지난 2월 영상에서 바르델라 당 대표는 마크롱 대통령이 "통제력을 유지하고 영향력을 확장하기 위해 우리의 제도를 봉쇄하려 한다"고 비난했다.)&lt;/p&gt;
+&lt;p&gt;Ms. Le Pen, the party’s parliamentary leader, whose future is clouded by an embezzlement conviction that she is appealing, said Mr. Macron’s “regime” was “ready to commit all manner of ethical transgressions to place its loyalists and disrupt the future political alternation.”&lt;br/&gt;(당의 원내대표인 르 펜(Le Pen)은 현재 항소 중인 횡령 유죄 판결로 인해 미래가 불투명한데, 마크롱 대통령의 "정권"은 "충성파를 배치하고 미래의 정권 교체를 방해하기 위해 모든 종류의 윤리적 위반을 저지를 준비가 되어 있다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;People who know Mr. Macron suggest that putting allies in influential posts could pave the way for his own comeback six years from now. Although under French law, Mr. Macron cannot run for a third consecutive term in 2027, nothing would prevent him from running again in 2032, when he would be 54.&lt;br/&gt;(마크롱 대통령을 아는 사람들은 영향력 있는 요직에 측근을 배치하는 것이 6년 후 자신의 복귀를 위한 길을 닦을 수 있다고 제안한다. 프랑스 법에 따라 마크롱 대통령은 2027년에 3회 연속 출마할 수 없지만, 2032년(당시 만 54세)에 다시 출마하는 것을 막을 수는 없다.)&lt;/p&gt;
+&lt;p&gt;Some analysts play down the importance of the appointments, attributing them less to a calculated political strategy than to a time-honored practice by leaders of rewarding allies with plum jobs.&lt;br/&gt;(일부 분석가들은 이러한 인사의 중요성을 축소하며, 계산된 정치적 전략보다는 지도자들이 측근에게 좋은 자리를 보상으로 주는 오랜 관행에 기인한다고 본다.)&lt;/p&gt;
+&lt;p&gt;“Frankly, I do not think those appointments are going to be politically decisive,” said Philippe Marlière, a professor of French and European politics at University College London. “They were close collaborators of Macron and none of them is known by the public at large. They are not politically material in the strict sense of the term.”&lt;br/&gt;(유니버시티 칼리지 런던(University College London)의 프랑스 및 유럽 정치학 교수인 필리프 마를리에르(Philippe Marlière)는 "솔직히 말해, 이러한 임명들이 정치적으로 결정적일 것이라고 생각하지 않습니다."라며 "그들은 마크롱의 가까운 협력자들이었고, 대중에게 널리 알려진 사람은 아무도 없습니다. 엄밀한 의미에서 정치적으로 중요한 인물들이 아닙니다."라고 말했다.)&lt;/p&gt;
+&lt;p&gt;On one level, Mr. Macron’s choice of Mr. Moulin for the central bank was conventional. A former Treasury director, he has the right pedigree to run the institution. But Mr. Moulin, 57, is best known for ties with Mr. Macron, advising senior ministers in his government before taking over management of the president’s office last year.&lt;br/&gt;(한편으로, 마크롱 대통령이 물랭을 중앙은행 총재로 선택한 것은 전통적인 선택이었다. 전직 재무부 국장인 그는 기관을 운영할 적절한 배경을 가지고 있다. 그러나 57세의 물랭은 마크롱 대통령과의 인연으로 가장 잘 알려져 있으며, 지난해 대통령실 관리를 맡기 전까지는 정부의 고위 각료들을 보좌했다.)&lt;/p&gt;
+&lt;p&gt;In February, Mr. Macron named Amélie de Montchalin, a former budget minister, as president of the auditing authority, which examines public spending. Critics objected to the appointment of a former government official as head of an agency meant to be an impartial watchdog of good governance.&lt;br/&gt;(2월, 마크롱 대통령은 전직 예산 장관인 아멜리 드 몽샬랭(Amélie de Montchalin)을 회계감사원장으로 지명했다. 회계감사원은 공공 지출을 조사하는 기관이다. 비평가들은 좋은 통치를 위한 공정한 감시 기관이어야 할 기관의 수장에 전직 정부 관료를 임명한 것에 반대했다.)&lt;/p&gt;
+&lt;p&gt;Among other things, the authority published a damning audit of the Louvre after a brazen daytime jewel heist in October. The audit concluded that the museum’s security systems were outdated and faulted the Louvre’s leaders for ignoring basic upkeep.&lt;br/&gt;(특히 이 기관은 지난 10월 대낮에 벌어진 뻔뻔스러운 보석 강도 사건 이후 루브르 박물관에 대한 강력 비판적인 감사 보고서를 발표했다. 감사 보고서는 박물관의 보안 시스템이 구식이며 루브르 박물관 지도부가 기본적인 유지 관리를 무시했다고 결론지었다.)&lt;/p&gt;
+&lt;p&gt;Perhaps the most politically divisive appointment came last year when Mr. Macron named Richard Ferrand, one of his early supporters and the first leader of his party, as head of the Constitutional Council. Mr. Ferrand’s closeness to Mr. Macron and lack of legal training provoked a storm of criticism, and his appointment was approved by a one-vote margin in the Parliament.&lt;br/&gt;(아마도 가장 정치적으로 논란이 된 임명은 작년에 마크롱 대통령이 자신의 초기 지지자 중 한 명이자 자신의 당 창당 대표인 리샤르 페랑(Richard Ferrand)을 헌법위원회 위원장으로 임명했을 때였다. 페랑이 마크롱과 가깝고 법조계 경력이 부족하다는 점은 비판의 폭풍을 불러일으켰으며, 그의 임명은 의회에서 단 1표 차이로 승인되었다.)&lt;/p&gt;
+&lt;p&gt;The court, which judges the constitutionality of laws and supervises elections, also rules on the long-debated question of whether the president has the right to call a referendum to amend the constitution without Parliament’s approval.&lt;br/&gt;(법률의 합헌성을 심사하고 선거를 감독하는 헌법위원회는 또한 대통령이 의회의 승인 없이 국민투표를 통해 헌법을 개정할 권리가 있는지에 대한 오랜 논쟁이 되어온 문제에 대해서도 판결한다.)&lt;/p&gt;
+&lt;p&gt;The National Rally, Professor Morel said, “would like to take a shot at this issue, despite everything. And so here, you have a Constitutional Council that may find itself on the front lines.”&lt;br/&gt;(모렐 교수는 "국민연합은 그럼에도 불구하고 이 문제에 도전하려 할 것입니다. 그렇게 되면 헌법위원회가 최전선에 설 수도 있습니다."라고 말했다.)&lt;/p&gt;
+&lt;p&gt;Ségolène Le Stradic contributed reporting.&lt;br/&gt;(세골렌 르 스트라딕(Ségolène Le Stradic)이 취재에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/europe/france-macron-weatherproof-bureaucracy.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/10/multimedia/00int-france-macron-01-pbtv/00int-france-macron-01-pbtv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 19:01:06 +0000</pubDate></item><item><title>China Sought Access to Anthropic’s Newest A.I. The Answer Was No. (중국, 앤트로픽의 최신 AI 접근 요구… 거절당해)</title><link>https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/dc-ai-china-lfmc/dc-ai-china-lfmc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;A representative from a Chinese think tank approached officials from Anthropic at a meeting in Singapore last month to insist that the company change its stance and give Beijing access to its powerful new artificial intelligence model, according to people briefed on the discussions.&lt;br/&gt;(지난달 싱가포르에서 열린 회의에서 중국 싱크탱크 대표가 앤트로픽 관계자들에게 접근해 회사의 입장을 바꾸고 베이징에 강력한 새로운 인공지능 모델에 대한 접근 권한을 제공해야 한다고 주장했다고 회의 내용을 전해들은 소식통들이 전했습니다.)&lt;/p&gt;
 &lt;p&gt;Anthropic refused.&lt;br/&gt;(앤트로픽은 이를 거절했습니다.)&lt;/p&gt;
 &lt;p&gt;The request was not an official demand from the Chinese government. But the talks in Singapore were a form of exchange that is often meant to pave the way for formal, direct diplomacy.&lt;br/&gt;(이 요청은 중국 정부의 공식적인 요구는 아니었습니다. 그러나 싱가포르에서의 회담은 공식적인 직접 외교를 위한 토대를 마련하는 의미를 지닌 교류 형태였습니다.)&lt;/p&gt;
@@ -509,7 +684,65 @@ HIV는 바이러스가 몸속 깊은 곳에 숨어 있다가 기회를 보면 �
 &lt;p&gt;Such a move could encourage supporters of Mr. Burnham — who polls suggest is currently the most popular Labour Party politician in Britain — to support Mr. Starmer for a few more months, and might therefore win the prime minister some time.&lt;br/&gt;(여론조사에서 현재 영국에서 가장 인기 있는 노동당 정치인으로 나타난 버넘의 지지자들이 몇 달 더 스타머를 지지하도록 장려할 수 있으며, 따라서 총리에게 시간을 벌어줄 수 있다.)&lt;/p&gt;
 &lt;p&gt;For now, it appears that Mr. Starmer is defying calls to step down. “The Labour Party has a process for challenging a leader and that has not been triggered,” Mr. Starmer said on Tuesday, according to a statement from his office. “The country expects us to get on with governing. That is what I am doing and what we must do as a cabinet.”&lt;br/&gt;(현재로서는 스타머 총리가 사퇴 요구를 거부하는 것으로 보인다. "노동당에는 지도자에 도전하는 절차가 있으며, 그 절차가 발동되지 않았습니다,"라고 스타머 총리는 화요일 그의 사무실 성명을 통해 말했다. "국민은 우리가 통치를 계속하기를 기대합니다. 그것이 제가 하고 있는 일이며, 각료로서 우리가 해야 할 일입니다.")&lt;/p&gt;
 &lt;p&gt;There is always a possibility that he might change his mind, announce his resignation, and let the process for choosing his successor unfold as soon as possible. But even then, he would likely remain in Downing Street until that had taken place.&lt;br/&gt;(그가 마음을 바꿔 사임을 발표하고 가능한 한 빨리 후임자 선출 절차를 진행할 가능성은 항상 존재한다. 하지만 그 경우에도 그는 그 절차가 완료될 때까지 다우닝가에 머물 가능성이 높다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/europe/uk-starmer-resign-prime-minister-what-options.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/12/multimedia/12uk-starmer-options-tjzq/12uk-starmer-options-tjzq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 01:29:26 +0000</pubDate></item><item><title>Kuwait Accuses Iran of Trying to Infiltrate Its Territory (쿠웨이트, 이란이 자국 영토 침투 시도했다고 비난)</title><link>https://www.nytimes.com/2026/05/12/world/middleeast/kuwait-iran-bubiyan-island.html</link><description>&lt;![CDATA[&lt;p&gt;Kuwait on Tuesday accused Iran of sending several members of its Islamic Revolutionary Guards Corps to infiltrate a strategically important Kuwaiti island.&lt;br/&gt;(쿠웨이트는 화요일 이란 이슬람혁명수비대(IRGC) 대원 여러 명이 전략적으로 중요한 쿠웨이트 섬에 침투하려 시도했다고 비난했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/europe/uk-starmer-resign-prime-minister-what-options.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/12/multimedia/12uk-starmer-options-tjzq/12uk-starmer-options-tjzq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 01:29:26 +0000</pubDate></item><item><title>The Iran War Is Taking the Color Out of Japan’s Best-Known Snack Bags (이란 전쟁, 일본 최고 인기 과자 봉지에서 색을 빼앗다)</title><link>https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/12/multimedia/12int-japan-packaging-zkvg/12int-japan-packaging-zkvg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The Iran war has wreaked havoc on global supply chains, caused a spike in oil prices and scrambled international trade.&lt;br/&gt;(이란 전쟁이 글로벌 공급망에 큰 혼란을 일으키고, 유가 폭등을 초래하며, 국제 무역을 뒤엎고 있다.)&lt;/p&gt;
+&lt;p&gt;Now it is coming for potato chips.&lt;br/&gt;(이제는 감자칩이 그 표적이 되고 있다.)&lt;/p&gt;
+&lt;p&gt;The Japanese food giant Calbee said on Tuesday that it would temporarily abandon its brightly colored plastic snack bags in favor of black-and-white wrapping because of “instability affecting certain raw materials amid ongoing tensions in the Middle East.”&lt;br/&gt;(일본 식품 대기업 칼비는 화요일, "중동 지역의 계속되는 긴장으로 인한 특정 원자재 불안정" 때문에 밝은 색상의 플라스틱 과자 봉지를 일시적으로 포기하고 흑백 포장으로 전환하겠다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;The company said in a statement that the measure was meant to “help maintain a stable supply of products,” adding that it would not affect the quality of the snacks.&lt;br/&gt;(회사는 성명을 통해 이 조치가 "제품의 안정적인 공급을 유지하는 데 도움을 주기 위한 것"이라고 말하며, 과자 품질에는 영향을 미치지 않을 것이라고 덧붙였다.)&lt;/p&gt;
+&lt;p&gt;Calbee is making the change because it is having trouble securing naphtha, a crude-oil derivative used in printing inks, a spokeswoman for the company confirmed by telephone.&lt;br/&gt;(칼비 대변인은 전화 통화로, 이 변경이 인쇄 잉크에 사용되는 원유 유도체인 나프타 확보에 어려움을 겪고 있기 때문이라고 확인했다.)&lt;/p&gt;
+&lt;p&gt;Japan, along with much of Asia, is already feeling the effects of the war. Japan imports more than 90 percent of its oil — and 40 percent of its naphtha — from the Middle East.&lt;br/&gt;(일본은 아시아 대부분 지역과 함께 이미 전쟁의 영향을 받고 있다. 일본은 석유의 90% 이상과 나프타의 40%를 중동에서 수입한다.)&lt;/p&gt;
+&lt;p&gt;Naphtha is a key ingredient in plastic, and food manufacturers have complained in recent weeks that shortages are hurting their ability to package products like tofu and tea leaves. Manufacturers of cars, bathrooms and paint have also reported problems securing naphtha.&lt;br/&gt;(나프타는 플라스틱의 핵심 성분이며, 식품 제조업체들은 최근 몇 주 동안 부족 현상이 두부나 찻잎 같은 제품을 포장하는 능력을 저해하고 있다고 불평해 왔다. 자동차, 욕실, 페인트 제조업체들도 나프타 확보에 문제가 있다고 보고했다.)&lt;/p&gt;
+&lt;p&gt;Kei Sato, a Japanese cabinet official, sought to reassure the public when asked on Tuesday about Calbee’s decision to change its packaging.&lt;br/&gt;(일본 내각 관료인 사토 케이는 화요일 칼비의 포장 변경 결정에 대해 질문을 받고 대중을 안심시키려고 노력했다.)&lt;/p&gt;
+&lt;p&gt;“We have not received any reports of immediate supply problems for printing inks or naphtha,” he said at a news conference in Tokyo. “We believe that the necessary quantities for Japan as a whole are secured.”&lt;br/&gt;(그는 도쿄에서 열린 기자회견에서 "인쇄 잉크나 나프타에 대한 즉각적인 공급 문제에 대한 보고는 받지 못했다"며 "일본 전체에 필요한 물량은 확보되어 있다고 믿는다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;He added that government ministries were communicating with the companies involved “to understand the situation.”&lt;br/&gt;(또한, "상황을 파악하기 위해" 관련 기업들과 정부 부처가 소통하고 있다고 덧붙였다.)&lt;/p&gt;
+&lt;p&gt;Calbee said that 14 products would go grayscale starting this month. The list includes various flavors of potato chips, including lightly salted, consommé punch and seaweed. The change also affects its Kappa Ebisen, or shrimp-flavored sticks, and granola.&lt;br/&gt;(칼비는 이번 달부터 14개 제품이 흑백 포장으로 전환될 것이라고 밝혔다. 이 목록에는 가볍게 소금을 친 맛, 콘소메 펀치 맛, 해초 맛 등 다양한 감자칩이 포함된다. 이 변경은 새우 맛 스낵인 갓파 에비센과 그래놀라에도 영향을 미친다.)&lt;/p&gt;
+&lt;p&gt;Calbee, founded in 1949, dominates Japan’s snack-food shelves with about half of the overall market and 70 percent of the potato chip market.&lt;br/&gt;(1949년에 설립된 칼비는 전체 스낵 시장의 약 절반과 감자칩 시장의 70%를 차지하며 일본 스낵 시장을 지배하고 있다.)&lt;/p&gt;
+&lt;p&gt;River Akira Davis contributed reporting from Tokyo.&lt;br/&gt;(리버 아키라 데이비스가 도쿄에서 보도에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/12/multimedia/12int-japan-packaging-zkvg/12int-japan-packaging-zkvg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 01:48:52 +0000</pubDate></item><item><title>Macron Makes a Bid for New Partners in Africa (마크롱, 아프리카에서 새로운 파트너 찾기 나서)</title><link>https://www.nytimes.com/2026/05/12/world/africa/macron-africa-summit-kenya.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/12/multimedia/12int-africa-france-mfcp/12int-africa-france-mfcp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;President Emmanuel Macron of France opened an Africa summit this week in Nairobi, a city where almost no one speaks French.&lt;br/&gt;(에마뉘엘 마크롱 프랑스 대통령은 이번 주 나이로비에서 아프리카 정상회담을 열었다. 이 도시에서는 프랑스어를 구사하는 사람이 거의 없다.)&lt;/p&gt;
+&lt;p&gt;The decision to hold the decades-old summit outside of France or Francophone Africa for the first time reflected what analysts say is a reconfiguration of French diplomacy on the continent at a time when relations with some of France’s former colonies are in tatters.&lt;br/&gt;(수십 년 역사의 이 회담을 프랑스나 프랑스어권 아프리카 밖에서 처음으로 개최하기로 한 결정은, 분석가들이 말하는 프랑스의 대(對)아프리카 외교 재편을 반영한다. 이는 프랑스의 일부 옛 식민지와의 관계가 파탄난 상황에서 나온 것이다.)&lt;/p&gt;
+&lt;p&gt;It also showed the ways in which African nations are benefiting from new opportunities to diversify diplomatic partnerships, analysts said.&lt;br/&gt;(분석가들은 또한 이번 결정이 아프리카 국가들이 외교적 파트너십을 다각화할 새로운 기회를 누리는 방식을 보여준다고 말했다.)&lt;/p&gt;
+&lt;p&gt;On Monday, Mr. Macron talked up the possibilities of new collaboration at the two-day summit, which is being attended by roughly 30 African heads of state and government. Business leaders, including Aliko Dangote, a Nigerian who is the continent’s richest investor, were among the attendees.&lt;br/&gt;(월요일, 마크롱은 이틀간의 회담에서 새로운 협력 가능성을 강조했다. 이 회담에는 약 30명의 아프리카 국가 및 정부 수반이 참석했다. 아프리카 최대 투자자인 나이지리아 출신 알리코 댕고테를 포함한 기업인들도 참석자 명단에 올랐다.)&lt;/p&gt;
+&lt;p&gt;“A lot of solutions are made in the U.S. ⁠or made in China,” Mr. Macron said as he opened the Africa Forward summit alongside President William Ruto of Kenya. “I think we have a common fight,” he added, “which is to build our strategic autonomy for Europe and ​Africa. And if we build it together, we will be much stronger.”&lt;br/&gt;("많은 해결책이 미국이나 중국에서 만들어집니다." 마크롱은 윌리엄 루토 케냐 대통령과 함께 '아프리카 포워드' 정상회담을 개최하며 이렇게 말했다. 그는 "우리에게는 유럽과 아프리카의 전략적 자주권을 구축해야 한다는 공동의 싸움이 있다고 생각합니다."라며 "우리가 함께 구축한다면 훨씬 더 강력해질 것입니다."라고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 약속의 증거로 마크롱은 아프리카에 약 270억 달러의 투자를 발표하고 아프리카 기업인들에게 프랑스에 투자할 것을 초청했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 이번 세기의 약탈자가 아닙니다." 마크롱은 회담 전 파리 주간지 '아프리카 리포트'와의 인터뷰에서 프랑스의 잔혹한 아프리카 식민지 역사를 언급하며 이렇게 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+월요일 회담 중 한 젊은이 포럼에서 화제를 모은 순간, 마크롱은 자리에서 일어나 발표를 중단시키며 청중에게 수다를 멈추고 발언자를 조용히 듣거나 자리를 떠나라고 요구했다. "이는 완전한 무례입니다."라고 그는 말했다. 일부는 그의 개입에 박수를 보냈지만, 소셜미디어에서는 일부 사용자들이 대통령이 거만한 어조를 사용했다고 비난했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마크롱은 자신이 식민지 시대 이후에 태어난 첫 프랑스 대통령임을 강조하며 전임자들과 차별화를 꾀해왔다. 그는 프랑스 통치 기간에 약탈된 아프리카 문화재를 반환하겠다고 약속했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 관계 재설정과 영어권 국가로의 접근에 대한 논의는 프랑스어권 아프리카 국가들에서 프랑스의 영향력이 급격히 약화되는 배경에서 이루어지고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+프랑스의 동맹국인 코트디부아르는 지난해 서아프리카 일련의 국가들 중 최근 프랑스군 철수를 요구한 국가가 되었다. 사헬 지역에서 이슬람 극단주의 무력과 싸우기 위한 프랑스의 9년 작전 역시 파리 정부가 말리 군사 정권과 갈등을 빚은 후 2022년에 종료되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"마크롱의 노력에 대한 제 해석은, 그가 서아프리카의 전통적 친구들을 잃은 후 체면을 세우려고 한다는 것입니다."라고 탄자니아 도도마 대학교에서 가르친 케냐의 정치학자 아무코와 아낭웨는 말했다. "그는 다른 아프리카 국가들에서 대안을 찾고 있습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+프랑스-아프리카 정상회담은 아프리카 지도자들과 비(非)아프리카 국가 수반들 간에 열리는 여러 회담 중 하나이다. 러시아, 중국, 일본은 각각 정기적인 아프리카 정상회담을 개최한다. 올해 초, 이탈리아의 조르자 멜로니 총리는 에티오피아 수도 아디스아바바에서 두 번째 이탈리아-아프리카 정상회담을 열었다. 이후 그녀는 아프리카의 주요 정부간 기구인 아프리카 연합의 연례 정상회담에 참석했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난해 아프리카에 대한 미국의 인도적 지원을 대폭 축소한 도널드 트럼프 대통령은 지난 7월 다섯 명의 서아프리카 지도자를 백악관에 초청해 경제 협력을 논의했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+분석가들은 이러한 회담이 아프리카 지도자들에게 특히 관심을 끄는데, 이는 글로벌 동맹이 변화하는 시기에 투자처를 확대할 기회를 제공하기 때문이라고 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"대륙에 대한 관심을 감안할 때, 아프리카 국가들은 더 나은 조건을 협상할 기회를 갖습니다."라고 나이로비의 미국 국제 대학교에서 국제 관계를 가르치는 마차리아 무네네는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이번 정상회담 개최는 또한 케냐의 루토 대통령에게 내년에 치러질 것으로 예상되는 힘든 재선 캠페인을 앞두고 자신의 외교적 신임을 강조할 기회를 제공했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+케냐의 일간지 '데일리 네이션'은 월요일, 루토가 마크롱과 대화하는 사진과 함께 "힘의 과시"라는 제목을 실었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+브라이언 O. 오티에노가 기사에 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/africa/macron-africa-summit-kenya.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/12/multimedia/12int-africa-france-mfcp/12int-africa-france-mfcp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 03:52:04 +0000</pubDate></item><item><title>Amnesty Accuses Nigerian Military of Bombing Another Market (앰네스티, 나이지리아 군의 또 다른 시장 폭격 비난)</title><link>https://www.nytimes.com/2026/05/12/world/africa/nigeria-tumfa-market-strikes.html</link><description>&lt;![CDATA[&lt;p&gt;Nigeria’s military killed more than 100 people on Sunday in airstrikes on a crowded village market in the country’s northwest, Amnesty International said on Tuesday.&lt;br/&gt;(앰네스티 인터내셔널은 화요일, 나이지리아 군이 주말에 북서부의 북적이는 마을 시장을 공습해 100명 이상을 사살했다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;The strikes at Tumfa market in the state of Zamfara, which the rights group said had also wounded dozens of villagers, appeared to be the latest in a series of attacks carried out by the military on markets and villages in northern and central Nigeria. The region has been plagued by violence in recent months, much of it involving clashes between the military and terrorist groups.&lt;br/&gt;(잠파라 주의 툼파 시장에서 발생한 이 공습은, 인권단체에 따르면 수십 명의 주민이 부상당했으며, 나이지리아 북부와 중부의 시장과 마을을 대상으로 군이 저지른 일련의 공격 중 최근 사례인 것으로 보인다. 이 지역은 최근 몇 달간 군과 테러 단체 간 충돌로 인한 폭력에 시달려 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난달에는 북동부의 질리 마을 공습에서 수십 명이 사망했다. 군 대변인은 목표가 버려진 마을에 있는 테러 조직의 물류 허브였다고 밝혔지만, 주민들은 많은 민간인이 이용하는 번성한 시장이었다고 증언했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+주말 동안 나이지리아 군은 니제르 주 시로로 지역의 마을들에 대한 공습을 실시했다고 인정했다. 군은 약 70명을 사살했으며 이들은 도적들이라고 밝혔다. 그러나 앰네스티는 사망자 중 최소 6명은 민간인이며, 엑스(X)에 부상당한 어린이들의 사진을 게시했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+군 대변인은 앰네스티가 언급한 툼파 시장 공습에 대한 논평 요청에 즉각 응답하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+인권단체의 나이지리아 사무소는 성명에서 군용기가 "경고 없이 사람들로 가득 찬" 시장을 폭격했다고 밝혔다. 이어 "현장은 혼란에 빠졌다. 비명, 피, 그리고 땅에 널려 있는 시신들로 가득했다"고 전했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/africa/nigeria-tumfa-market-strikes.html</guid><pubDate>Tue, 12 May 2026 12:47:20 +0000</pubDate></item><item><title>Kuwait Accuses Iran of Trying to Infiltrate Its Territory (쿠웨이트, 이란이 자국 영토 침투 시도했다고 비난)</title><link>https://www.nytimes.com/2026/05/12/world/middleeast/kuwait-iran-bubiyan-island.html</link><description>&lt;![CDATA[&lt;p&gt;Kuwait on Tuesday accused Iran of sending several members of its Islamic Revolutionary Guards Corps to infiltrate a strategically important Kuwaiti island.&lt;br/&gt;(쿠웨이트는 화요일 이란 이슬람혁명수비대(IRGC) 대원 여러 명이 전략적으로 중요한 쿠웨이트 섬에 침투하려 시도했다고 비난했다.)&lt;/p&gt;
 &lt;p&gt;On May 1, a group of armed members of the Revolutionary Guards arrived at Bubiyan Island in the Persian Gulf aboard a rented fishing boat and exchanged fire with Kuwaiti soldiers, injuring one of them, Kuwait’s interior ministry said in a statement. It said four members of the Revolutionary Guards were arrested while two others fled.&lt;br/&gt;(쿠웨이트 내무부는 성명을 통해 지난 5월 1일 혁명수비대 무장 대원 일당이 임대한 낚싯배를 타고 페르시아만의 부비얀 섬에 도착해 쿠웨이트 군인들과 교전을 벌였으며, 이 과정에서 군인 한 명이 부상을 입었다고 밝혔다. 또한 혁명수비대원 4명이 체포되었고 2명은 도주했다고 전했다.)&lt;/p&gt;
 &lt;p&gt;Iran’s Ministry of Foreign Affairs rejected Kuwait’s claims as “baseless,” according a letter distributed by Iranian state news outlets. The letter said that four Iranian nationals who had been “engaged in routine maritime patrol duties and, due to a disruption in their navigation system, reportedly entered Kuwaiti territorial waters,” had been wrongfully detained by Kuwait.&lt;br/&gt;(이란 외무부는 이란 국영 언론이 배포한 서한에서 쿠웨이트의 주장을 "근거 없다"며 일축했다. 서한은 "일상적인 해상 초계 임무 중 항법 시스템 장애로 쿠웨이트 영해에 진입하게 된" 이란 국민 4명이 쿠웨이트에 의해 부당하게 억류되었다고 밝혔다.)&lt;/p&gt;
 &lt;p&gt;Kuwait’s foreign ministry identified all six of the attackers and said they included officers in the Iranian navy and army. Kuwaiti authorities, much like their counterparts in neighboring Bahrain and the United Arab Emirates, have cracked down on individuals and groups they say have links with Iran’s Revolutionary Guards.&lt;br/&gt;(쿠웨이트 외무부는 공격자 6명 전원의 신원을 확인했으며, 이들 중에는 이란 해군과 육군 장교들이 포함되어 있다고 밝혔다. 쿠웨이트 당국은 인근 바레인 및 아랍에미리트(UAE) 당국과 마찬가지로 이란 혁명수비대와 연계된 개인 및 단체를 단속해 왔다.)&lt;/p&gt;
@@ -788,339 +1021,7 @@ HIV는 바이러스가 몸속 깊은 곳에 숨어 있다가 기회를 보면 �
 &lt;p&gt;Dr. Elkayam-Levy said the Civil Commission’s report can now be used by prosecutors. The report examines mechanisms that could be established for international cooperation, given that overall, victims of the Oct. 7 attack included multiple nationalities. It also recommends that Israel establish a specialized chamber or panel of judges dedicated to prosecuting sexual and gender-based crimes.&lt;br/&gt;(엘카얌-레비 박사는 민간 위원회의 보고서가 이제 검사들에 의해 사용될 수 있다고 말했다. 보고서는 10월 7일 공격 피해자들이 전반적으로 여러 국적을 포함한다는 점을 고려하여 국제 협력을 위해 설립될 수 있는 메커니즘을 검토한다. 또한 이스라엘이 성적 및 젠더 기반 범죄를 기소하는 데 전념하는 전문 재판부나 판사 패널을 설립할 것을 권장한다.)&lt;/p&gt;
 &lt;p&gt;Dr. Elkayam-Levy said that the commission could join both domestic and international efforts at prosecution as expert witnesses.&lt;br/&gt;(엘카얌-레비 박사는 위원회가 전문 증인으로서 국내 및 국제 기소 노력에 모두 참여할 수 있다고 말했다.)&lt;/p&gt;
 &lt;p&gt;“Sexual crimes are the easiest crimes to deny,” said Merav Israeli-Amarant, a lawyer and the C.E.O. of the Civil Commission. She added that was especially true of the Oct. 7 attack “because most of the victims were murdered and are unable to testify.”&lt;br/&gt;(변호사이자 민간 위원회의 CEO인 메라브 이스라엘리-아마란트는 "성범죄는 부인하기 가장 쉬운 범죄입니다"라고 말했다. 그녀는 특히 10월 7일 공격의 경우 "대부분의 피해자가 살해당했고 증언할 수 없기 때문"이라고 덧붙였다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-israel-sexual-violence-1-qlgz/13int-israel-sexual-violence-1-qlgz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 13:29:05 +0000</pubDate></item><item><title>Battle Over the Strait of Hormuz Leaves Safe Passage a Gamble (호르무즈 해협을 둘러싼 전투, 안전 통과를 도박으로 만든다)</title><link>https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/08/multimedia/12mideast-ships-Hormuz1/08Biz-Iran-Ship-2-zckl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;With both Iran and the United States exerting control in and around parts of the Strait of Hormuz, securing safe passage for commercial ships — even those without Iranian links — remains opaque and difficult.&lt;br/&gt;(이란과 미국이 호르무즈 해협 일부 및 주변 지역에서 통제권을 행사하면서, 상업 선박(이란과 관련이 없는 선박까지도)의 안전한 통과를 보장하는 것은 여전히 불투명하고 어려운 상황이다.)&lt;/p&gt;
-&lt;p&gt;The United States Central Command said on Tuesday that its forces had redirected 65 commercial vessels and disabled four ships amid an American blockade on Iranian ports imposed last month — three vessels had been redirected since it reported on Monday. Not all were Iranian or linked to Iran.&lt;br/&gt;(미국 중부사령부는 화요일, 지난달 시행된 이란 항구에 대한 미국의 봉쇄 속에서 자국 군이 상업 선박 65척의 항로를 변경하고 4척의 선박을 무력화했다고 밝혔다—그중 3척은 월요일 보고 이후 항로가 변경되었다. 이들 모두가 이란 선박이거나 이란과 관련된 것은 아니었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란은 화요일, TV 인터뷰에서 이슬람 혁명수비대 해군 정치 부국장 모하마드 아크바르자데에 따르면 "호르무즈 해협의 범위가 상당히 확장되었으며" "광범위한 작전 지역으로 변모했다"고 주장했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란은 이제 해협을 "자스크 해안과 시리크에서 그레이터 툰브 섬 너머까지의 지역"으로 정의한다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이전
-&lt;&lt;&lt;PARA&gt;&gt;
-지역
-&lt;&lt;&lt;PARA&gt;&gt;
-이란
-&lt;&lt;&lt;PARA&gt;&gt;
-호르무즈 섬
-&lt;&lt;&lt;PARA&gt;&gt;
-케슘
-&lt;&lt;&lt;PARA&gt;&gt;
-헹감
-&lt;&lt;&lt;PARA&gt;&gt;
-시리크
-&lt;&lt;&lt;PARA&gt;&gt;
-확장된
-&lt;&lt;&lt;PARA&gt;&gt;
-지역
-&lt;&lt;&lt;PARA&gt;&gt;
-그레이터
-&lt;&lt;&lt;PARA&gt;&gt;
-툰브
-&lt;&lt;&lt;PARA&gt;&gt;
-오만
-&lt;&lt;&lt;PARA&gt;&gt;
-자스크
-&lt;&lt;&lt;PARA&gt;&gt;
-두바이
-&lt;&lt;&lt;PARA&gt;&gt;
-아랍에미리트
-&lt;&lt;&lt;PARA&gt;&gt;
-오만
-&lt;&lt;&lt;PARA&gt;&gt;
-50마일
-&lt;&lt;&lt;PARA&gt;&gt;
-이전
-&lt;&lt;&lt;PARA&gt;&gt;
-지역
-&lt;&lt;&lt;PARA&gt;&gt;
-이란
-&lt;&lt;&lt;PARA&gt;&gt;
-호르무즈 섬
-&lt;&lt;&lt;PARA&gt;&gt;
-케슘
-&lt;&lt;&lt;PARA&gt;&gt;
-헹감
-&lt;&lt;&lt;PARA&gt;&gt;
-시리크
-&lt;&lt;&lt;PARA&gt;&gt;
-확장된
-&lt;&lt;&lt;PARA&gt;&gt;
-지역
-&lt;&lt;&lt;PARA&gt;&gt;
-그레이터
-&lt;&lt;&lt;PARA&gt;&gt;
-툰브
-&lt;&lt;&lt;PARA&gt;&gt;
-오만
-&lt;&lt;&lt;PARA&gt;&gt;
-자스크
-&lt;&lt;&lt;PARA&gt;&gt;
-두바이
-&lt;&lt;&lt;PARA&gt;&gt;
-오만
-&lt;&lt;&lt;PARA&gt;&gt;
-아랍에미리트
-&lt;&lt;&lt;PARA&gt;&gt;
-50마일
-&lt;&lt;&lt;PARA&gt;&gt;
-출처: 이란 혁명수비대 (이전 및 확장된 지역).
-&lt;&lt;&lt;PARA&gt;&gt;
-잭 레빗/뉴욕타임스
-&lt;&lt;&lt;PARA&gt;&gt;
-그 결과, 해상 정보 전문가들은 이 지역의 선박들이 정상 조건에서 해상 안전을 유지하기 위해 필수적인 정보를 전송하지 않고 점점 더 많이 항해하고 있다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-해상 정보 회사 윈드워드의 CEO 아미 다니엘은 "어둠 활동이 600% 증가했습니다"라고 말했다. 그는 많은 선박이 자신의 위치를 전송하는 트랜스폰더뿐만 아니라 다른 선박을 감지하는 레이다도 끄고 있다고 전했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다니엘 씨는 자신과 연구팀이 수백 척의 이란 혁명수비대 선박이 해역을 순찰하는 것을 목격하고 있으며, 이는 선원들이 "주로 안전 목적으로" 어둠 속으로 들어가고 있음을 시사한다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2월 말 미국-이스라엘의 이란 전쟁이 시작된 이후 이란의 상업 선박에 대한 보복 공격이 30건 이상 발생했다. 공격을 피하기 위해 일부 선박은 이란과 안전 통과를 협상하려고 시도하며, 이란 해역을 통과하고 해안을 지나는 항로를 이용하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 이것 역시 상당한 위험을 수반한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국이 항로를 변경한 선박 중에는 그리스 회사 이스턴 지중해 해운이 관리하는 아기오스 파누리스 1호가 포함되었다. 해상 정보 데이터에 따르면 이 선박은 월요일 이라크 원유를 싣고 베트남으로 향하던 중 호르무즈 해협을 통과한 후 오만 만 근처에서 방향을 전환했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-작전 문제를 논의하기 위해 익명을 요구한 미국 국방부 관리는 미군이 해당 선박을 항로 변경했음을 확인하며, 이는 선박이 미국 봉쇄를 위반하는 것을 막기 위한 조치라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란 언론에 따르면 이 선박은 이란의 허가를 받아 해협을 통과했다. 이는 선박이 이란 해역과 해안을 따라 항해했으며, 전쟁 중 도입된 새로운 이란 시스템에 따라 통행료를 지불했거나 대체 협정을 맺었을 가능성을 시사한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난달, 미국 봉쇄를 발표하면서 중부사령부는 "비이란 항구를 오가는 호르무즈 해협 통과 선박의 항행 자유를 방해하지 않을 것"이라고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 이란의 항로 및 통행료 시스템에 참여하는 것은 미국의 지역 통제권 주장과 충돌한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이달 초, 재무부 해외자산통제국은 "이란의 선박 위협과 안전 통과를 위한 '통행료' 지불 요구를 인지하고 있으며" 참여자들은 "이란과의 거래에 관여할 경우 제재 노출 위험이 있다"고 경고하며 "모든 국가의 선박이 이란 항구 및 해안선에 출입할 경우 미 중부사령부의 공정한 해군 봉쇄의 대상이 된다"고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스턴 지중해 해운은 논평 요청에 응하지 않았다. 블룸버그 뉴스가 중부사령부에 통과 허가를 요청했다고 보도한 베트남 국영 에너지 회사의 자회사 페트로베트남 오일 코퍼레이션도 응답하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 대형 원유 운반선의 곤경은 이란과 미국이 전쟁 시작 전 세계 석유 및 액화천연가스의 약 5분의 1이 통과하던 항로의 통제권을 두고 싸우는 가운데, 선박들이 위험한 수로를 탐색하는 데 직면한 장애물을 강조한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아크바르자데 씨는 이란이 호르무즈 해협을 이전에 "약 20~30마일"에서 이제 "200~300마일 이상을 포함하는" 확장된 지역으로 정의한다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이는 일부 적들이 이란 이슬람 공화국의 해군이 약화되었거나 더 이상 존재하지 않는다고 주장하는 가운데 나온 것입니다"라고 아크바르자데 씨는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 "이러한 조치는 이란 이슬람 공화국이 지역 움직임을 주의 깊고 강력하게 감시하고 있으며, 자국의 해역과 이익에 대한 어떤 침범도 허용하지 않을 것임을 보여줍니다"라고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 최근 선박 활동을 바탕으로 볼 때, 이란 역시 미국의 봉쇄 아래 어려움을 겪고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-윈드워드의 다니엘 씨는 최근 며칠간 해협에서 교통량이 증가했으며, 대부분 수출이 차단된 상황에서 석유 저장 공간을 제공하기 위해 빈 이란 유조선이 들어오는 활동이 포함된다고 말했다. 미국 관계자들은 이란이 석유를 저장할 수 없게 되면 유정을 폐쇄해야 하며, 이는 국가의 침체된 경제에 더 큰 압력을 가할 것이라고 주장해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그들은 선박을 급히 들여보내려 하고 있다고 생각합니다"라고 그는 말했다. 이러한 활동은 미국의 압박 전술이 효과를 내고 있음을 시사한다. 미국의 봉쇄에 대해 그는 "효과를 발휘하기 시작한 것 같습니다"라고 덧붙였다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/08/multimedia/12mideast-ships-Hormuz1/08Biz-Iran-Ship-2-zckl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 15:50:39 +0000</pubDate></item><item><title>Putin Said the War ‘Is Coming to a Close,’ but That’s Not All He Said (푸틴 "전쟁이 끝나가고 있다" 말했지만, 그게 전부는 아니다)</title><link>https://www.nytimes.com/2026/05/11/world/europe/putin-russia-ukraine-war.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/00int-russia-putin01-photo-mblj/00int-russia-putin01-photo-mblj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;One thing seemed apparent after Moscow’s muted commemoration this weekend of the Soviet victory over Nazi Germany during World War II: President Vladimir V. Putin is feeling the pressure.&lt;br/&gt;(이번 주말 모스크바의 제2차 세계대전 소련 승전 기념일 행사가 조용히 치러진 후 한 가지는 분명해 보였다: 블라디미르 V. 푸틴 대통령이 압박을 받고 있다는 점이다.)&lt;/p&gt;
-&lt;p&gt;Some of it is coming directly from Ukraine, as Kyiv increases its strikes deep into Russian territory and holds Mr. Putin’s forces in a virtual stalemate on the front lines. But some of it is also coming from the home front, with rising discontent among Russians over internet restrictions and economic challenges.&lt;br/&gt;(그 압박 중 일부는 우크라이나에서 직접 오고 있다. 키예프는 러시아 영토 깊숙한 곳으로의 공격을 강화하고 있으며, 전선에서 푸틴의 군대를 사실상 교착 상태로 몰아넣고 있다. 하지만 일부는 국내에서도 비롯되고 있는데, 러시아인들 사이에서 인터넷 제한과 경제적 어려움에 대한 불만이 커지고 있기 때문이다.)&lt;/p&gt;
-&lt;p&gt;So when Mr. Putin took the rostrum in front of a group of journalists after Saturday’s festivities ended, the Russian leader seemed to feel the need to send a message that he was not waging a forever war.&lt;br/&gt;(그래서 토요일 축제가 끝난 후 기자들 앞에 연단에 섰을 때, 푸틴은 자신이 영원한 전쟁을 벌이고 있지 않다는 메시지를 보낼 필요성을 느낀 듯 보였다.)&lt;/p&gt;
-&lt;p&gt;“I believe the matter is coming to a close,” Mr. Putin said.&lt;br/&gt;("나는 문제가 끝나가고 있다고 믿습니다." 푸틴이 말했다.)&lt;/p&gt;
-&lt;p&gt;That comment was the one that generated headlines. But other remarks by Mr. Putin were far from a capitulation, and showed the needle he is trying to thread as he continues to pursue a war in which many of his major objectives remain unmet.&lt;br/&gt;(그 발언이 헤드라인을 장식했다. 하지만 푸틴의 다른 발언은 항복과는 거리가 멀었고, 주요 목표 중 상당수가 아직 달성되지 않은 전쟁을 계속 추진하면서 그가 얼마나 어려운 줄타기를 하고 있는지 보여주었다.)&lt;/p&gt;
-&lt;p&gt;Russian military hardware was kept away from Red Square on Saturday not only for security reasons but also because the Russian force “must focus its attention on the final defeat of the enemy,” Mr. Putin said during the news conference. He also railed against Western elites for disregarding Moscow’s interests, for what he called provoking the conflict in the first place and for mistakenly expecting Russia’s collapse. He gave no indication that he would modify his demands with a view toward ending the war.&lt;br/&gt;(토요일 푸틴은 기자회견에서 러시아 군용 장비를 붉은 광장에서 멀리 두기로 한 것은 보안상의 이유뿐만 아니라, 러시아 군대가 "적의 최종 패배에 집중해야 하기 때문"이라고 말했다. 그는 또한 서방 엘리트들이 모스크바의 이익을 무시하고, 처음부터 갈등을 도발했으며, 러시아의 붕괴를 잘못 예상했다고 비난했다. 그는 전쟁을 끝내기 위해 자신의 요구를 수정할 의사를 전혀 보이지 않았다.)&lt;/p&gt;
-&lt;p&gt;“He wants to send a message: ‘I understand this war needs to end soon, but it needs to end on my conditions,’” said Stefan Meister, a Russia analyst at the German Council on Foreign Relations.&lt;br/&gt;(독일 외교협회의 러시아 분석가 슈테판 마이스터는 "그는 '이 전쟁이 곧 끝나야 한다는 것을 이해하지만, 내 조건대로 끝나야 한다'는 메시지를 보내고 싶어 한다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;Though Mr. Putin’s approval ratings have fallen recently, they remain significantly higher than they were in the years before he launched his full-scale invasion of Ukraine in 2022, according to the Levada Center, an independent pollster. (Approval polls have obvious limitations in an authoritarian system.)&lt;br/&gt;(푸틴의 지지율은 최근 하락했지만, 독립 여론조사 기관인 레바다 센터에 따르면 2022년 우크라이나 전면 침공을 시작하기 전보다 여전히 크게 높은 수준이다. (권위주의 체제에서 지지율 여론조사는 명백한 한계가 있다.))&lt;/p&gt;
-&lt;p&gt;“It’s not that this regime is now suddenly breaking down and there is no support anymore,” Mr. Meister said. “I think what we understand now is, he is under pressure. And pressure works. He has to react somehow to it.”&lt;br/&gt;(마이스터는 "이 정권이 갑자기 무너지고 더 이상 지지가 없는 것은 아니다"라며 "우리가 지금 이해하는 것은 그가 압박을 받고 있다는 점이다. 압박은 효과가 있다. 그는 그에 대해 어떻게든 반응해야 한다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;For many Russians, the year has brought tax increases and inconvenient internet restrictions, both clear byproducts of the war, as well as frustrations from a sputtering economy that has caused businesses to close and prices to go up on groceries and household bills. While the conflict in Iran has driven up the price of oil, Russia has not yet fully felt the windfall.&lt;br/&gt;(많은 러시아인들에게 올해는 세금 인상과 불편한 인터넷 제한, 그리고 사업체를 폐업시키고 식료품과 가계비를 올린 경제 침체로 인한 좌절감을 가져왔다. 이란의 분쟁이 유가를 끌어올렸지만, 러시아는 아직 그 수혜를 완전히 누리지 못하고 있다.)&lt;/p&gt;
-&lt;p&gt;Peace talks once channeled public hopes for an end to the war. But they have disappeared from the news as the Trump administration has turned its attention to the Middle East.&lt;br/&gt;(평화 협상은 한때 전쟁 종식에 대한 대중의 희망을 모았다. 그러나 트럼프 행정부가 중동으로 관심을 돌리면서 뉴스에서 사라졌다.)&lt;/p&gt;
-&lt;p&gt;Boris B. Nadezhdin, an opposition politician who tried to run for president against Mr. Putin in 2024 on an antiwar platform but was barred from the race, has been gearing up to run in parliamentary elections scheduled for the fall. As part of the process, he has been conducting focus groups. He said he had not seen Russians so angry about the government since the 1990s.&lt;br/&gt;(2024년 반전 기조로 푸틴에 맞서 대선 출마를 시도했으나 출마가 금지된 야권 정치인 보리스 B. 나데즈딘은 가을로 예정된 의회 선거에 출마할 준비를 하고 있다. 그 과정의 일환으로 그는 포커스 그룹을 운영해 왔다. 그는 1990년대 이후 러시아인들이 정부에 대해 이렇게 화난 적이 없었다고 말했다.)&lt;/p&gt;
-&lt;p&gt;“Somehow, things have taken a sharp turn for the worse since the beginning of this year,” Mr. Nadezhdin said in a phone interview.&lt;br/&gt;(나데즈딘은 전화 인터뷰에서 "어쨌든 올해 초부터 상황이 급격히 나빠졌다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;The discontent, he said, is split into three main camps: older people who are upset about their low incomes and increased living costs; younger people who are unhappy about the new internet outages and app throttling; and a broad section of society that is frustrated by a war in its fifth year.&lt;br/&gt;(그는 불만이 세 가지 주요 집단으로 나뉜다고 말했다: 낮은 소득과 증가한 생활비에 불만인 노년층, 새로운 인터넷 차단과 앱 속도 제한에 불만인 젊은 층, 그리고 5년째 접어든 전쟁에 좌절한 광범위한 사회 계층이다.)&lt;/p&gt;
-&lt;p&gt;People tend to blame the government broadly or the local authorities, rather than the Russian leader himself, for the range of problems, Mr. Nadezhdin said.&lt;br/&gt;(나데즈딘은 사람들이 다양한 문제에 대해 러시아 지도자보다는 정부 전반이나 지방 당국을 비난하는 경향이 있다고 말했다.)&lt;/p&gt;
-&lt;p&gt;“For the time being, the prevailing view is ‘the tsar is good, the boyars are bad,’” Mr. Nadezhdin said, repeating a common saying in Russia that refers to supposedly benevolent leaders misled by their advisers.&lt;br/&gt;(나데즈딘은 "'차르는 좋고 보야르는 나쁘다'는 견해가 현재 지배적이다"라며, 러시아에서 흔히 인용되는, 자신의 고문들에게 속은 선한 지도자를 가리키는 속담을 인용했다.)&lt;/p&gt;
-&lt;p&gt;While Mr. Putin faces no threat from elections, Mr. Nadezhdin said that the Russian people were in the “first stage of awakening.”&lt;br/&gt;(푸틴은 선거에서 위협을 받지 않지만, 나데즈딘은 러시아 국민이 "각성의 첫 단계"에 있다고 말했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Putin has appeared uncommonly vulnerable recently. The killings of Iran’s top leaders by the United States and Israel stoked the Russian leader’s fears about his own security, analysts say, and provided a rationale to disrupt the public more boldly with internet restrictions. At the same time, Kyiv has stepped up long-range strikes on Russia with new cruise missiles and drones produced domestically.&lt;br/&gt;(푸틴은 최근 유난히 취약해 보였다. 분석가들은 미국과 이스라엘에 의한 이란 최고 지도자들의 살해가 러시아 지도자의 자체 안보에 대한 두려움을 자극했으며, 인터넷 제한을 통해 더 대담하게 대중을 교란할 근거를 제공했다고 말한다. 동시에 키예프는 국내에서 생산된 새로운 순항 미사일과 드론으로 러시아에 대한 장거리 공격을 강화했다.)&lt;/p&gt;
-&lt;p&gt;The run-up to Saturday’s Victory Day parade was dominated by a frenzy of speculation that Ukraine could attack the festivities, perhaps with drones guided by the mobile internet. That led to intense security measures and stark threats from Russia about launching a devastating counterattack.&lt;br/&gt;(토요일 승전기념일 퍼레이드 준비 기간은 우크라이나가 축제를 공격할 수 있다는, 아마도 모바일 인터넷으로 유도되는 드론을 사용할 수 있다는 추측의 광란에 휩싸였다. 이는 강력한 보안 조치와 러시아의 파괴적인 반격에 대한 엄중한 위협으로 이어졌다.)&lt;/p&gt;
-&lt;p&gt;Ahead of the events, an emboldened President Volodymyr Zelensky of Ukraine issued a tongue-in-cheek proclamation “permitting” the parade and vowing not to strike Red Square. The Kremlin said it did not need anyone’s permission to hold the event.&lt;br/&gt;(행사에 앞서 자신감을 얻은 우크라이나의 볼로디미르 젤렌스키 대통령은 퍼레이드를 "허용"하고 붉은 광장을 공격하지 않겠다고 약속하는 빈정대는 선언을 발표했다. 크렘린은 행사 개최에 누구의 허락도 필요하지 않다고 말했다.)&lt;/p&gt;
-&lt;p&gt;Alina Lobzina contributed reporting from London.&lt;br/&gt;(알리나 롭지나가 런던에서 보도에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/11/world/europe/putin-russia-ukraine-war.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/11/multimedia/00int-russia-putin01-photo-mblj/00int-russia-putin01-photo-mblj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 12:53:26 +0000</pubDate></item><item><title>How Israel Turned Eurovision’s Stage Into a Soft Power Tool (이스라엘이 유로비전 무대를 소프트파워 도구로 활용한 방법)</title><link>https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/11int-eurovision-01-hzpq/11int-eurovision-01-hzpq-articleLarge-v2.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Last fall and winter, senior Israeli diplomats urgently contacted officials and television broadcasters across Europe to address a delicate, if unexpected topic: the high camp Eurovision Song Contest.&lt;br/&gt;(지난 가을과 겨울, 이스라엘 고위 외교관들은 유럽 전역의 관계자들과 텔레비전 방송사들에 긴급히 연락하여 섬세하면서도 예상치 못한 주제, 즉 화려한 유로비전 송 콘테스트를 논의했습니다.)&lt;/p&gt;
-&lt;p&gt;Broadcasters wanted to ban Israel from Eurovision and threatened to boycott the contest over the war in Gaza. Some even accused the Israeli government of unfairly influencing the results through a mass voting campaign.&lt;br/&gt;(방송사들은 이스라엘을 유로비전에서 금지시키고 가자 전쟁을 이유로 콘테스트를 보이콧하겠다고 위협했습니다. 일부는 이스라엘 정부가 대규모 투표 캠페인을 통해 결과에 부당한 영향을 미쳤다고 비난하기도 했습니다.)&lt;/p&gt;
-&lt;p&gt;Israel arguably had bigger diplomatic concerns than a pop music competition, even one that reaches 166 million viewers around the world. A United Nations commission had recently accused Israel of committing genocide, which it vigorously denied. And world leaders were recognizing Palestinian statehood, which it had long opposed.&lt;br/&gt;(이스라엘에게는 전 세계 1억 6600만 시청자에게 도달하는 팝 음악 경연 대회보다 더 큰 외교적 문제가 있었습니다. 유엔 위원회는 최근 이스라엘이 대량 학살을 저질렀다고 비난했고, 이스라엘은 이를 강력히 부인했습니다. 그리고 세계 지도자들은 이스라엘이 오랫동안 반대해 온 팔레스타인 국가 수립을 인정하고 있었습니다.)&lt;/p&gt;
-&lt;p&gt;“I am a little bit surprised why this is a matter that the embassy is looking into,” Stefan Eiriksson, the head of Iceland’s national broadcaster, wrote to an Israeli diplomat who wanted to discuss Eurovision last December.&lt;br/&gt;(지난 12월 이스라엘 외교관이 유로비전에 대해 논의하고자 하자 아이슬란드 국영방송사 대표 스테판 에이릭손은 "대사관이 왜 이 문제를 조사하는지 조금 놀랍습니다"라고 답했습니다.)&lt;/p&gt;
-&lt;p&gt;This previously undisclosed diplomatic push to keep Israel in Eurovision was just one aspect of a drama that unfolded over the past year around the world’s most watched cultural event. To the Israeli government, Eurovision became more than just a celebration of glittery outfits, gay pride and pyrotechnic staging. It became a chance, through strong showings by its singers, to burnish the country’s flagging reputation and rally international support.&lt;br/&gt;(이스라엘을 유로비전에 잔류시키려는 이 사전에 공개되지 않은 외교적 노력은 세계에서 가장 많이 시청되는 문화 행사를 둘러싼 지난 한 해 동안 펼쳐진 드라마의 한 부분에 불과했습니다. 이스라엘 정부에게 유로비전은 반짝이는 의상, 게이 프라이드, 불꽃놀이 무대 장치의 축제 그 이상이 되었습니다. 가수들의 좋은 성적을 통해 국가의 하락하는 평판을 높이고 국제적 지지를 결집할 기회가 된 것입니다.)&lt;/p&gt;
-&lt;p&gt;This year’s competition starts on Tuesday, following the biggest crisis in Eurovision’s 70-year history. Iceland and four other countries are boycotting to protest Israel’s participation. The nonprofit European Broadcasting Union, which runs the contest, faces financial challenges.&lt;br/&gt;(올해 대회는 유로비전 70년 역사상 가장 큰 위기 이후인 화요일에 시작됩니다. 아이슬란드와 다른 네 개국이 이스라엘의 참가에 항의하여 보이콧하고 있습니다. 대회를 운영하는 비영리 유럽 방송 연맹은 재정적 어려움에 직면해 있습니다.)&lt;/p&gt;
-&lt;p&gt;A New York Times investigation found a well-organized campaign by Prime Minister Benjamin Netanyahu’s government that embraced Eurovision as a soft power tool, and a secretive contest organizer that was ill-equipped to respond.&lt;br/&gt;(뉴욕타임스의 조사에 따르면 베냐민 네타냐후 총리 정부가 유로비전을 소프트파워 도구로 포용한 잘 조직된 캠페인과 이에 대응할 준비가 부족했던 비밀스러운 대회 주최 측이 있었습니다.)&lt;/p&gt;
-&lt;p&gt;As the normally lighthearted contest became a proxy fight over Middle Eastern affairs and human rights, Eurovision struggled to defend a core tenet: Politics play no role in the event.&lt;br/&gt;(평소 가벼운 분위기의 대회가 중동 문제와 인권을 둘러싼 대리전이 되면서 유로비전은 핵심 원칙인 "정치가 행사에 역할을 해서는 안 된다"는 것을 지키기 위해 고군분투했습니다.)&lt;/p&gt;
-&lt;p&gt;Israel’s efforts to influence Eurovision’s vote were broader and started years earlier than previously known. Even before the voting controversy burst into view, financial records show, Israel spent at least $1 million on Eurovision marketing. Some of that money came from Mr. Netanyahu’s “hasbara” office, a euphemism for overseas propaganda, to promote Israel’s singer.&lt;br/&gt;(이스라엘이 유로비전 투표에 영향을 미치려는 노력은 이전에 알려진 것보다 더 광범위하고 훨씬 일찍 시작되었습니다. 투표 논란이 불거지기 전에도 재정 기록에 따르면 이스라엘은 유로비전 마케팅에 최소 100만 달러를 지출했습니다. 이 자금 중 일부는 이스라엘 가수를 홍보하기 위해 해외 선전을 뜻하는 완곡어법인 네타냐후의 "하스바라" 사무소에서 나왔습니다.)&lt;/p&gt;
-&lt;p&gt;Governments are not supposed to intervene in the voting. Eurovision is a contest for public broadcasters and singers, not governments.&lt;br/&gt;(정부는 투표에 개입해서는 안 됩니다. 유로비전은 가수와 공영 방송사를 위한 대회이지 정부를 위한 것이 아닙니다.)&lt;/p&gt;
-&lt;p&gt;The Israeli foreign ministry did not respond to detailed requests to comment. A spokesman for Mr. Netanyahu’s office said he would review the questions and consider responding. He did not respond.&lt;br/&gt;(이스라엘 외무부는 상세한 질의에 응답하지 않았습니다. 네타냐후 사무소 대변인은 질문을 검토하고 응답을 고려하겠다고 밝혔으나 응답하지 않았습니다.)&lt;/p&gt;
-&lt;p&gt;Eurovision’s director, Martin Green, said in an interview that Israel’s actions last year were excessive but did not contribute to Israel’s unexpected second-place finish.&lt;br/&gt;(유로비전 디렉터 마틴 그린은 인터뷰에서 이스라엘의 작년 행동이 과도했지만 이스라엘의 예상치 못한 2위 달성에 기여하지는 않았다고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;A Times investigation based on previously undisclosed voting data, Eurovision documents and interviews with more than 50 people, however, found that the campaign could have easily changed the contest outcome.&lt;br/&gt;(그러나 이전에 공개되지 않은 투표 데이터, 유로비전 문서 및 50명 이상과의 인터뷰를 기반으로 한 타임스의 조사에 따르면 이 캠페인이 대회 결과를 쉽게 바꿀 수 있었던 것으로 나타났습니다.)&lt;/p&gt;
-&lt;p&gt;Israel’s singer won the popular votes in countries where polls show that Israel is deeply unpopular. A vote analysis shows that, in some countries, it would have only taken a few hundred people to tip the popular vote, which in turn can shape the final outcome because of the contest’s voting system.&lt;br/&gt;(이스라엘 가수는 여론 조사에서 이스라엘이 매우 인기가 없는 국가들에서 대중 투표에서 승리했습니다. 투표 분석에 따르면 일부 국가에서는 불과 수백 명만이 대중 투표의 판도를 바꿀 수 있었으며, 이는 대회의 투표 시스템 때문에 최종 결과를 좌우할 수 있습니다.)&lt;/p&gt;
-&lt;p&gt;There is no evidence that Israel, as some Eurovision fans speculated, used bots or other covert tactics to manipulate the vote.&lt;br/&gt;(일부 유로비전 팬들이 추측한 것처럼 이스라엘이 봇이나 기타 은밀한 전술을 사용하여 투표를 조작했다는 증거는 없습니다.)&lt;/p&gt;
-&lt;p&gt;Organizers have kept full vote data a closely guarded secret, even from their own broadcasters. Faced with an internal revolt and threats from Israeli allies to leave the contest, they publicly downplayed Israel’s vote campaign and never thoroughly investigated it.&lt;br/&gt;(주최 측은 자체 방송사로부터도 완전한 투표 데이터를 철저히 비밀로 유지해 왔습니다. 내부 반란과 이스라엘 동맹국들의 대회 탈퇴 위협에 직면하여, 그들은 이스라엘의 투표 캠페인을 공개적으로 축소했고 완전히 조사하지 않았습니다.)&lt;/p&gt;
-&lt;p&gt;Contest organizers commissioned a review of broadcasters’ feelings on Israel but kept the full report secret. They called a vote on keeping Israel in the contest, then abruptly canceled it. They discouraged broadcasters from talking to journalists.&lt;br/&gt;(대회 주최 측은 이스라엘에 대한 방송사들의 감정을 검토하는 보고서를 의뢰했지만 전체 보고서는 비밀로 유지했습니다. 그들은 이스라엘을 대회에 잔류시키는 것에 대한 투표를 소집했다가 갑자기 취소했습니다. 그들은 방송사들이 기자들과 이야기하는 것을 막았습니다.)&lt;/p&gt;
-&lt;p&gt;“The Israeli government has co-opted Eurovision,” said Stefan Jon Hafstein, the chairman of the board for Iceland’s public broadcaster.&lt;br/&gt;("이스라엘 정부가 유로비전을 장악했습니다." 아이슬란드 공영 방송사 이사회 의장 스테판 욘 하프스테인이 말했습니다.)&lt;/p&gt;
-&lt;p&gt;Buying advertisements and coordinating social media messaging is not illegal. Eurovision is, after all, just a singing contest — albeit the world’s largest. But while governments often try to capitalize on the publicity their singers provide, no government-led promotional effort has been as extensive and controversial as Israel’s.&lt;br/&gt;(광고를 구매하고 소셜 미디어 메시지를 조정하는 것은 불법이 아닙니다. 유로비전은 결국 세계 최대의 노래 대회일 뿐입니다. 그러나 정부가 자국 가수가 제공하는 홍보 효과를 활용하려는 경우가 종종 있지만, 이스라엘만큼 광범위하고 논란의 여지가 있는 정부 주도 홍보 노력은 없었습니다.)&lt;/p&gt;
-&lt;p&gt;“Israel’s voice should be heard everywhere,” said Israel’s largely ceremonial president, Isaac Herzog, who raised the boycott issue in meetings with world leaders last year. “We should participate, we should raise our flag high, and we should bring the best performers to Eurovision.”&lt;br/&gt;("이스라엘의 목소리는 어디서나 들려야 합니다." 지난해 세계 지도자들과의 회담에서 보이콧 문제를 제기한 이스라엘의 의례적인 대통령 아이작 헤어초그가 말했습니다. "우리는 참여해야 하고, 우리의 깃발을 높이 올려야 하며, 최고의 공연자들을 유로비전에 내보내야 합니다.")&lt;/p&gt;
-&lt;p&gt;Eurovision, which once launched the international careers of ABBA and Celine Dion, faces an uncertain future. Financial projections reviewed by The Times estimated last year that the boycotts would cost the nonprofit broadcasting group hundreds of thousands of dollars in participation fees. Mr. Green said Eurovision’s finances were robust, but acknowledged struggling to find sponsors.&lt;br/&gt;(한때 ABBA와 셀린 디온의 국제적 경력을 시작한 유로비전은 불확실한 미래에 직면해 있습니다. 타임스가 검토한 재정 전망에 따르면 작년 보이콧으로 인해 비영리 방송 그룹이 참가비로 수십만 달러의 손실을 볼 것으로 추정되었습니다. 그린 씨는 유로비전의 재정이 탄탄하다고 말했지만 스폰서를 찾는 데 어려움을 겪고 있다고 인정했습니다.)&lt;/p&gt;
-&lt;p&gt;“It’s certainly one of the biggest challenges we’ve faced,” Mr. Green said of the Israel controversy. But Eurovision, he added, exists to demonstrate global harmony — “to show the world as it could be.”&lt;br/&gt;("이는 우리가 직면한 가장 큰 도전 중 하나입니다." 그린 씨가 이스라엘 논란에 대해 말했습니다. 그러나 유로비전은 지구적 조화를 보여주기 위해 존재한다고 그는 덧붙였습니다. "세상이 어떻게 될 수 있는지를 보여주기 위해서입니다.")&lt;/p&gt;
-&lt;p&gt;This is the inside story of the controversy that almost broke Eurovision.&lt;br/&gt;(이것이 유로비전을 거의 무너뜨릴 뻔한 논란의 내부 이야기입니다.)&lt;/p&gt;
-&lt;p&gt;In May 2024, fans gathered in the coastal Swedish city of Malmo for the first Eurovision contest of the Gaza war.&lt;br/&gt;(2024년 5월, 팬들은 가자 전쟁 이후 첫 번째 유로비전 대회를 위해 스웨덴 해안 도시 말뫼에 모였습니다.)&lt;/p&gt;
-&lt;p&gt;Despite the name, Eurovision brings together singers and broadcasters from around the world. Israel debuted in 1973. Musicians compete under national flags, but the acts are funded by broadcasters.&lt;br/&gt;(이름과 달리 유로비전은 전 세계의 가수와 방송사를 한데 모읍니다. 이스라엘은 1973년에 처음 참가했습니다. 음악가들은 국기 아래에서 경쟁하지만, 공연은 방송사가 자금을 지원합니다.)&lt;/p&gt;
-&lt;p&gt;At the time, no bright-line rule prohibited government promotion, but independence is a core Eurovision tenet.&lt;br/&gt;(당시 정부의 홍보를 명확히 금지하는 명확한 규칙은 없었지만, 독립성은 유로비전의 핵심 원칙입니다.)&lt;/p&gt;
-&lt;p&gt;The Israeli government, though, had quietly been promoting its broadcaster’s acts since at least 2018, according to Doron Medalie, a former Eurovision songwriter for Israel. The government spent more than $100,000 on social media promotion that year, he said. Israel won.&lt;br/&gt;(그러나 이스라엘 정부는 적어도 2018년부터 조용히 자국 방송사의 공연을 홍보해 왔다고 이스라엘의 전 유로비전 작곡가 도론 메달리에가 말했습니다. 그해 정부는 소셜 미디어 홍보에 10만 달러 이상을 지출했다고 그는 말했습니다. 이스라엘이 우승했습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Medalie said the victory convinced Israeli leaders that Eurovision, which is hugely popular in Israel, was a good investment.&lt;br/&gt;(메달리에는 이 승리가 이스라엘 지도자들에게 이스라엘에서 엄청난 인기를 누리는 유로비전이 좋은 투자라고 확신시켰다고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;The Netanyahu government increased spending ahead of the Malmo contest, records show.&lt;br/&gt;(기록에 따르면 네타냐후 정부는 말뫼 대회를 앞두고 지출을 늘렸습니다.)&lt;/p&gt;
-&lt;p&gt;European public opinion opposed the war, and some music industry groups were already calling for Israel to be kicked out of Eurovision. A strong Israeli performance would show that Israel was loved by the European public, according to Israeli officials. They, along with some people close to Eurovision, spoke on condition of anonymity, either because they were not authorized to speak publicly or because they feared retribution from contest organizers.&lt;br/&gt;(유럽 여론은 전쟁에 반대했고, 일부 음악 산업 단체들은 이미 이스라엘을 유로비전에서 추방해야 한다고 요구하고 있었습니다. 이스라엘 관리들에 따르면 강력한 이스라엘의 공연은 이스라엘이 유럽 대중에게 사랑받고 있다는 것을 보여줄 것입니다. 그들과 유로비전에 가까운 일부 사람들은 공개적으로 발언할 권한이 없거나 대회 주최 측의 보복을 두려워하여 익명을 요구하며 말했습니다.)&lt;/p&gt;
-&lt;p&gt;In Malmo, the Israeli government spent more than $800,000 in Eurovision-related advertising, according to data from the Israeli Government Advertising Agency. The data, which was obtained by the Israeli media watchdog The Seventh Eye and provided to The Times, reveals that the bulk of the money came from the foreign ministry. A line item from the prime minister’s hasbara office showed that it had also allocated money for “vote promotion.”&lt;br/&gt;(말뫼에서 이스라엘 정부는 유로비전 관련 광고에 80만 달러 이상을 지출했다고 이스라엘 정부 광고청의 데이터가 밝혔습니다. 이스라엘 미디어 감시 단체 '세븐스 아이'가 입수하여 타임스에 제공한 이 데이터는 자금의 대부분이 외무부에서 나왔음을 보여줍니다. 총리 하스바라 사무소의 항목은 '투표 촉진'을 위한 자금도 할당되었음을 보여주었습니다.)&lt;/p&gt;
-&lt;p&gt;Israel’s public broadcaster, Kan, told The Times that it had no prior knowledge of government ad campaigns and that, to its knowledge, “the competition rules weren’t violated.”&lt;br/&gt;(이스라엘 공영 방송사 칸은 타임스에 정부 광고 캠페인에 대해 사전에 알지 못했으며, 알려진 바로는 "대회 규칙을 위반하지 않았다"고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;In 2024, Israel’s singer, Eden Golan, came second in the popular vote and topped the voting in many nations where pro-Palestinian sentiment is strong. “The world, it seems, is not against us,” the Israeli news site Ynet wrote.&lt;br/&gt;(2024년, 이스라엘 가수 에덴 골란은 대중 투표에서 2위를 차지했고 친팔레스타인 정서가 강한 많은 국가에서 투표 1위를 기록했습니다. "세상은 우리를 반대하지 않는 것 같습니다." 이스라엘 뉴스 사이트 와이넷이 썼습니다.)&lt;/p&gt;
-&lt;p&gt;Ynet noted that the foreign office had advertised on YouTube during Eurovision. But the story, and the unusual voting patterns, otherwise received little attention.&lt;br/&gt;(와이넷은 외무부가 유로비전 기간 동안 유튜브에서 광고를 게재했다고 언급했습니다. 그러나 이 이야기와 특이한 투표 패턴은 다른 주목을 거의 받지 못했습니다.)&lt;/p&gt;
-&lt;p&gt;Eurovision broadcasters were preoccupied. The activist Greta Thunberg and thousands of others crowded Malmo, protesting Israel’s involvement. Onstage, several singers wore Palestinian symbols. The Dutch rapper Joost Klein was expelled for an unrelated altercation with a camerawoman.&lt;br/&gt;(유로비전 방송사들은 정신이 없었습니다. 활동가 그레타 툰베리와 수천 명의 다른 사람들이 말뫼에 모여 이스라엘의 참가에 항의했습니다. 무대 위에서는 여러 가수가 팔레스타인 상징물을 착용했습니다. 네덜란드 래퍼 요스트 클라인은 여성 카메라 기자와의 관련 없는 충돌로 퇴출되었습니다.)&lt;/p&gt;
-&lt;p&gt;But one broadcaster, from Slovenia, noted the peculiar vote outcome and asked Eurovision to release more data. Organizers never responded, the broadcaster said.&lt;br/&gt;(그러나 슬로베니아의 한 방송사는 특이한 투표 결과를 주목하고 유로비전에 더 많은 데이터를 공개할 것을 요청했습니다. 주최 측은 응답하지 않았다고 그 방송사는 말했습니다.)&lt;/p&gt;
-&lt;p&gt;Eurovision said last week that it had not deemed any Israeli promotions from 2024 to be excessive.&lt;br/&gt;(유로비전은 지난주 2024년 이스라엘의 어떤 홍보도 과도하다고 간주하지 않았다고 밝혔습니다.)&lt;/p&gt;
-&lt;p&gt;Eurovision had put Malmo behind it, but its problems were only beginning.&lt;br/&gt;(유로비전은 말뫼를 뒤로했지만, 문제는 이제 시작에 불과했습니다.)&lt;/p&gt;
-&lt;p&gt;At the 2025 Eurovision contest, in Basel, Switzerland, Israel finished second overall and won the popular vote — once again carrying countries where people have been outspoken against Israel’s policies.&lt;br/&gt;(스위스 바젤에서 열린 2025년 유로비전 대회에서 이스라엘은 종합 2위를 차지하고 대중 투표에서 승리했습니다. 다시 한 번 이스라엘 정책에 공개적으로 반대하는 목소리가 있는 국가들을 휩쓸었습니다.)&lt;/p&gt;
-&lt;p&gt;This time, the unexpected results were noticed.&lt;br/&gt;(이번에는 예상치 못한 결과가 주목을 받았습니다.)&lt;/p&gt;
-&lt;p&gt;Using Google’s ad library, journalists at the Finnish broadcaster Yle revealed that the Israeli government had bought online advertisements in multiple languages, calling on people to vote for the Israeli contestant, Yuval Raphael, up to the maximum 20 times.&lt;br/&gt;(핀란드 방송사 YLE의 기자들은 구글의 광고 라이브러리를 사용하여 이스라엘 정부가 여러 언어로 온라인 광고를 구매하여 이스라엘 참가자 유발 라파엘에게 최대 20번까지 투표할 것을 촉구했다는 사실을 밝혀냈습니다.)&lt;/p&gt;
-&lt;p&gt;Spending figures for that contest are not available, but Israel’s campaign was broader and more coordinated than in Malmo.&lt;br/&gt;(그 대회의 지출 수치는 확인할 수 없지만, 이스라엘의 캠페인은 말뫼 때보다 더 광범위하고 조직적이었습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Netanyahu himself posted a graphic to social media encouraging people to vote 20 times for Ms. Raphael. Pro-Israel groups across Europe posted the same and related graphics. Israel’s deputy ambassador to Austria, Ilay Levi Judkovsky, told The Times that he had contacted a diaspora group to rally support for Ms. Raphael.&lt;br/&gt;(네타냐후 총리本人은 라파엘에게 20번 투표할 것을 장려하는 그래픽을 소셜 미디어에 직접 게시했습니다. 유럽 전역의 친이스라엘 단체들은 동일하고 관련된 그래픽을 게시했습니다. 이스라엘 오스트리아 부대사 일라이 레비 유드코프스키는 타임스에 라파엘을 위한 지지를 결집하기 위해 디아스포라 단체에 연락했다고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Medalie, the Israeli songwriter, defended the strategy. Israel spends so much on security, he said, that it was only fair that the government fund promotion.&lt;br/&gt;(이스라엘 작곡가 메달리에는 이 전략을 옹호했습니다. 이스라엘은 안보에 너무 많은 돈을 쓰기 때문에 정부가 홍보 자금을 지원하는 것이 공정하다고 그는 말했습니다.)&lt;/p&gt;
-&lt;p&gt;“Everybody is jealous and triggered because Israel is achieving great results,” he said.&lt;br/&gt;("이스라엘이 훌륭한 결과를 얻고 있기 때문에 모두가 질투하고 자극받고 있습니다." 그가 말했습니다.)&lt;/p&gt;
-&lt;p&gt;Israel’s promotion efforts could have easily affected the popular vote, an analysis of vote data found. That’s because, in some countries, records show, so few people vote that only several hundred voting repeatedly could change the outcome.&lt;br/&gt;(투표 데이터 분석에 따르면 이스라엘의 홍보 노력은 대중 투표에 쉽게 영향을 미칠 수 있었던 것으로 나타났습니다. 기록에 따르면 일부 국가에서는 투표하는 사람이 너무 적어서 수백 명만 반복적으로 투표해도 결과가 바뀔 수 있기 때문입니다.)&lt;/p&gt;
-&lt;p&gt;After the contest, Slovenia’s broadcaster again demanded voting data and threatened to withdraw. Others privately called for an outside investigation.&lt;br/&gt;(대회 후 슬로베니아 방송사는 다시 한 번 투표 데이터를 요구하고 탈퇴를 위협했습니다. 다른 방송사들은 비공개 조사를 요구했습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Green, the director, promised that Eurovision’s governing body would review the vote. But that group never received a full vote analysis, just “top-line” data, Mr. Green acknowledged.&lt;br/&gt;(디렉터 그린 씨는 유로비전의 운영 기구가 투표를 검토할 것이라고 약속했습니다. 그러나 그린 씨는 그 기구가 완전한 투표 분석을 받은 적이 없고 '요약' 데이터만 받았다고 인정했습니다.)&lt;/p&gt;
-&lt;p&gt;Neither he nor the broadcasting union commissioned an external investigation.&lt;br/&gt;(그와 방송 연맹 모두 외부 조사를 의뢰하지 않았습니다.)&lt;/p&gt;
-&lt;p&gt;“We are very, very happy that the result is true and fair and analyzed,” Mr. Green said.&lt;br/&gt;("우리는 결과가 진실하고 공정하며 분석되었다는 것에 매우 만족합니다." 그린 씨가 말했습니다.)&lt;/p&gt;
-&lt;p&gt;In July, at a broadcaster meeting in London, dissent mounted. Spain called for a debate over Israel’s participation, and for changing a voting system that it saw as susceptible to manipulation.&lt;br/&gt;(7월 런던에서 열린 방송사 회의에서 반대 의견이 고조되었습니다. 스페인은 이스라엘의 참가에 대한 토론과 조작에 취약한 투표 시스템 변경을 요구했습니다.)&lt;/p&gt;
-&lt;p&gt;Rather than investigate, Eurovision hired a consultant, the Czech broadcasting veteran Petr Dvorak, to interview members about Israel’s participation.&lt;br/&gt;(조사 대신 유로비전은 컨설턴트, 체코 방송 베테랑 페트르 드보르자크를 고용하여 이스라엘 참가에 대한 회원들의 의견을 인터뷰했습니다.)&lt;/p&gt;
-&lt;p&gt;Opinions varied widely. “Sometimes, they just felt that Israel as a state is sometimes using this event as some sort of promotional tool,” Mr. Dvorak recalled in an interview. Others wanted Eurovision to skip or postpone the 2026 contest. Some felt that Kan, the Israeli broadcaster, should not be held accountable for the actions of its government.&lt;br/&gt;(의견은 매우 다양했습니다. "때로는 그들은 이스라엘이라는 국가가 이 행사를 일종의 홍보 도구로 사용하고 있다고 느꼈습니다." 드보르자크가 인터뷰에서 회상했습니다. 다른 이들은 유로비전이 2026년 대회를 건너뛰거나 연기하기를 원했습니다. 일부는 이스라엘 방송사 칸이 정부의 행동에 대해 책임을 져서는 안 된다고 느꼈습니다.)&lt;/p&gt;
-&lt;p&gt;Broadcasters would later receive only a summary of Mr. Dvorak’s findings, not his report, reinforcing some views that the effort was a waste of time.&lt;br/&gt;(방송사들은 나중에 드보르자크의 보고서가 아닌 요약본만 받았으며, 이는 노력이 시간 낭비라는 일부 견해를 강화했습니다.)&lt;/p&gt;
-&lt;p&gt;By the end of September, five broadcasters — Iceland, Ireland, the Netherlands, Spain and Slovenia — were openly discussing a boycott.&lt;br/&gt;(9월 말까지 다섯 개의 방송사(아이슬란드, 아일랜드, 네덜란드, 스페인, 슬로베니아)가 공개적으로 보이콧을 논의하고 있었습니다.)&lt;/p&gt;
-&lt;p&gt;A Eurovision meeting in Croatia that month did not allay concerns. Instead, Mr. Green’s team gave two seemingly contradictory presentations, according to two attendees.&lt;br/&gt;(그 달 크로아티아에서 열린 유로비전 회의는 우려를 잠재우지 못했습니다. 대신 그린 씨의 팀은 두 명의 참석자에 따르면 모순되는 두 개의 프레젠테이션을 했습니다.)&lt;/p&gt;
-&lt;p&gt;The first presentation claimed that Israel had not affected the 2025 outcome. No detailed data was offered. The second presentation coached broadcasters on using social media to secure more votes.&lt;br/&gt;(첫 번째 프레젠테이션은 이스라엘이 2025년 결과에 영향을 미치지 않았다고 주장했습니다. 상세한 데이터는 제공되지 않았습니다. 두 번째 프레젠테이션은 방송사들에게 더 많은 표를 확보하기 위해 소셜 미디어를 사용하는 방법을 교육했습니다.)&lt;/p&gt;
-&lt;p&gt;To some in the room, organizers seemed to be saying that online campaigns could influence the vote, but that Israel’s had not.&lt;br/&gt;(회의장의 일부에게 주최 측은 온라인 캠페인이 투표에 영향을 미칠 수 있지만 이스라엘의 캠페인은 그렇지 않았다고 말하는 것처럼 보였습니다.)&lt;/p&gt;
-&lt;p&gt;Organizers were stuck between competing factions. Rumors swirled that Norway and Portugal might join the dissenting five countries if Israel remained onstage. Documents show that Israeli allies like Germany and Estonia opposed a ban.&lt;br/&gt;(주최 측은 경쟁 파벌들 사이에 끼어 있었습니다. 노르웨이와 포르투갈이 이스라엘이 무대에 남는다면 반대하는 다섯 개국에 합류할 수 있다는 소문이 돌았습니다. 문서에 따르면 독일과 에스토니아 같은 이스라엘 동맹국들은 금지를 반대했습니다.)&lt;/p&gt;
-&lt;p&gt;Organizers calculated the financial effects of both scenarios: losing Israel’s critics, or losing Israel and its defenders. Neither outcome was good, records show. By some estimates, Eurovision stood to lose more than $600,000 in fees.&lt;br/&gt;(주최 측은 두 시나리오의 재정적 영향을 계산했습니다: 이스라엘 비판자들을 잃는 것, 또는 이스라엘과 그 옹호자들을 잃는 것. 기록에 따르면 두 결과 모두 좋지 않았습니다. 일부 추정에 따르면 유로비전은 수수료로 60만 달러 이상을 잃을 위기에 처했습니다.)&lt;/p&gt;
-&lt;p&gt;Things had gotten so bad that even Austria’s national broadcasting chief floated in one internal conversation the possibility of his country withdrawing in support of Israel, according to someone directly familiar with the discussion. That would have left the 2026 contest, set to take place in Vienna, without a host.&lt;br/&gt;(상황이 너무 나빠져서 오스트리아 국영방송 총책임자도 내부 대화에서 자국이 이스라엘을 지지하며 탈퇴할 가능성을 언급했다고 해당 논의를 직접 아는 사람이 전했습니다. 이렇게 되면 비엔나에서 열릴 예정이었던 2026년 대회가 개최지를 잃게 됩니다.)&lt;/p&gt;
-&lt;p&gt;(A spokesman for the Austrian broadcaster said “it has always been clear” that Vienna would host. The broadcasting chief has since resigned.)&lt;br/&gt;((오스트리아 방송사 대변인은 "비엔나가 개최할 것이라는 점은 항상 명확했다"고 말했습니다. 방송 총책임자는 이후 사임했습니다.))&lt;/p&gt;
-&lt;p&gt;In a late September letter to members, Eurovision acknowledged that it had “never faced a divisive situation like this before” and announced an emergency vote on Israel’s participation.&lt;br/&gt;(9월 말 회원들에게 보낸 서한에서 유로비전은 "이처럼 분열적인 상황을 전혀 겪어본 적이 없다"고 인정하고 이스라엘 참가에 대한 긴급 투표를 발표했습니다.)&lt;/p&gt;
-&lt;p&gt;Privately, Eurovision’s lawyers delivered an extraordinary piece of advice: Organizers could legally exclude Israel if they wanted to.&lt;br/&gt;(비공개적으로 유로비전의 변호사들은 특별한 조언을 했습니다: 주최 측은 원한다면 법적으로 이스라엘을 배제할 수 있다는 것입니다.)&lt;/p&gt;
-&lt;p&gt;A few weeks later, Eurovision canceled the emergency vote, citing the new cease-fire in Gaza. It pushed the issue into December.&lt;br/&gt;(몇 주 후 유로비전은 가자 지구의 새로운 휴전을 이유로 긴급 투표를 취소했습니다. 문제를 12월로 미뤘습니다.)&lt;/p&gt;
-&lt;p&gt;Broadcasters still had questions about human rights and Israel’s marketing campaign. But Eurovision seemingly wanted the controversy to go away. Its communications team had circulated an email discouraging broadcasters from speaking with journalists.&lt;br/&gt;(방송사들은 여전히 인권과 이스라엘의 마케팅 캠페인에 대한 질문을 가지고 있었습니다. 그러나 유로비전은 논란이 사라지기를 바라는 듯했습니다. 커뮤니케이션 팀은 방송사들이 기자들과 이야기하지 말라는 이메일을 회람했습니다.)&lt;/p&gt;
-&lt;p&gt;The delay gave Israel’s government time to make a diplomatic push.&lt;br/&gt;(지연은 이스라엘 정부가 외교적 노력을 기울일 시간을 주었습니다.)&lt;/p&gt;
-&lt;p&gt;Israeli embassies contacted broadcasters in at least three countries, according to documents and interviews with people involved. In a fourth country, the Israeli government contacted the foreign ministry to discuss Eurovision.&lt;br/&gt;(문서와 관련자들과의 인터뷰에 따르면 이스라엘 대사관은 최소 세 국가의 방송사에 연락했습니다. 네 번째 국가에서는 이스라엘 정부가 유로비전을 논의하기 위해 외무부에 연락했습니다.)&lt;/p&gt;
-&lt;p&gt;Finally, in December, after months of debate and delay, broadcasters gathered in Geneva to address Israel’s participation.&lt;br/&gt;(마침내 12월, 수개월 간의 논쟁과 지연 끝에 방송사들은 제네바에 모여 이스라엘의 참가 문제를 논의했습니다.)&lt;/p&gt;
-&lt;p&gt;Once again, Eurovision sidestepped the question.&lt;br/&gt;(다시 한 번 유로비전은 문제를 회피했습니다.)&lt;/p&gt;
-&lt;p&gt;The broadcasting union arranged a vote on whether to limit each viewer to 10 votes and “discourage disproportionate promotion campaigns.”&lt;br/&gt;(방송 연맹은 각 시청자를 10표로 제한하고 "과도한 홍보 캠페인을 억제"하는 것에 대한 투표를 준비했습니다.)&lt;/p&gt;
-&lt;p&gt;There was a twist: If members approved the changes, they would be agreeing to keep Israel in Eurovision — without ever explicitly voting on the question. (Some members had told Mr. Dvorak that they did not want to be held accountable in their home countries for such a vote.)&lt;br/&gt;(반전이 있었습니다: 회원들이 변경 사항을 승인한다면, 그들은 이 문제에 대해 명시적으로 투표하지 않고 이스라엘을 유로비전에 잔류시키는 데 동의하는 것이었습니다. (일부 회원들은 드보르자크에게 자국에서 그러한 투표에 대한 책임을 지고 싶지 않다고 말했습니다.))&lt;/p&gt;
-&lt;p&gt;The broadcasting union’s president, Delphine Ernotte Cunci, acknowledged that the arrangement “might appear to be rather bizarre.” But, she explained, not voting was “the most democratic solution possible,” according to meeting minutes.&lt;br/&gt;(방송 연맹 회장 델핀 에르노트 쿤시는 이 합의가 "다소 기이해 보일 수 있다"고 인정했습니다. 그러나 그녀는 회의 기록에 따르면 투표를 하지 않는 것이 "가장 민주적인 해결책"이라고 설명했습니다.)&lt;/p&gt;
-&lt;p&gt;Frederik Delaplace, of the Belgian broadcaster VRT, was unconvinced. Eurovision, he said in the meeting, was “hiding behind guidelines” rather than discussing human rights.&lt;br/&gt;(벨기에 방송사 VRT의 프레데릭 들라플라스는 확신하지 못했습니다. 그는 회의에서 유로비전이 인권에 대해 논의하기보다는 "지침 뒤에 숨고 있다"고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;By secret ballot, broadcasters approved the rule changes. Israel would remain in Eurovision, without anyone having to vote on the matter.&lt;br/&gt;(비밀 투표로 방송사들은 규칙 변경을 승인했습니다. 이스라엘은 아무도 그 문제에 대해 투표할 필요 없이 유로비전에 남게 되었습니다.)&lt;/p&gt;
-&lt;p&gt;The dissenting five broadcasters quickly boycotted.&lt;br/&gt;(반대하는 다섯 개 방송사는 곧바로 보이콧했습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Green said the new rules addressed “a perception issue,” not actual problems.&lt;br/&gt;(그린 씨는 새로운 규칙이 실제 문제가 아닌 "인식 문제"를 다룬다고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;At this year’s Eurovision in Vienna, other countries are testing the new rules, mobilizing their diasporas to vote.&lt;br/&gt;(올해 비엔나에서 열리는 유로비전에서 다른 국가들은 새로운 규칙을 시험하며 자국의 디아스포라를 동원하여 투표하고 있습니다.)&lt;/p&gt;
-&lt;p&gt;And an Israeli advertisement is once again generating controversy. A team behind Israel’s entrant, Noam Bettan, circulated social media promotions calling for people to vote for him 10 times.&lt;br/&gt;(그리고 이스라엘 광고가 다시 한 번 논란을 일으키고 있습니다. 이스라엘 참가자 노암 베탄을 지원하는 팀은 사람들이 그에게 10번 투표할 것을 요청하는 소셜 미디어 홍보물을 유포했습니다.)&lt;/p&gt;
-&lt;p&gt;Eurovision organizers, racing to avoid a repeat of last year, formally warned the broadcaster and asked that the posts be removed. “Employing a direct call to action to vote 10 times for one artist or song is also not in line with our rules, nor the spirit of the competition,” Mr. Green said.&lt;br/&gt;(유로비전 주최 측은 작년의 재발을 막기 위해 서둘러 방송사에 공식적으로 경고하고 게시물을 삭제하도록 요청했습니다. "한 아티스트나 노래에 대해 10번 투표하라는 직접적인 행동 촉구를 사용하는 것은 우리의 규칙이나 대회의 정신에도 부합하지 않습니다." 그린 씨가 말했습니다.)&lt;/p&gt;
-&lt;p&gt;He again reassured the public that such campaigns cannot affect the outcome.&lt;br/&gt;(그는 다시 한 번 대중에게 그러한 캠페인이 결과에 영향을 미칠 수 없다고 안심시켰습니다.)&lt;/p&gt;
-&lt;p&gt;Kirsten Noyes contributed research. Elisabetta Provoledo, Natan Odenheimer and Gabby Sobelman contributed reporting.&lt;br/&gt;(커스틴 노이스가 연구에 기여했습니다. 엘리자베타 프로볼레도, 나탄 오덴하이머, 개비 소벨만이 보도에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/11/multimedia/11int-eurovision-01-hzpq/11int-eurovision-01-hzpq-articleLarge-v2.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 06:23:28 +0000</pubDate></item><item><title>What Middle Powers Fear About the Trump-Xi Summit (중견국들이 트럼프-시진핑 정상회담을 두려워하는 이유)</title><link>https://www.nytimes.com/2026/05/11/world/asia/trump-xi-china-summit-iran.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/11trump-xi-asia-01-vkcf/11trump-xi-asia-01-vkcf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Poland will soon host production lines for South Korean tanks. Australia is buying warships from Japan. Canada will send uranium to India, while India offers cruise missiles to Vietnam, and Brazil builds military transport planes for the United Arab Emirates.&lt;br/&gt;(폴란드는 곧 한국산 전차 생산라인을 유치할 예정이다. 호주는 일본에서 전함을 구매 중이다. 캐나다는 인도에 우라늄을 보낼 것이고, 인도는 베트남에 순항미사일을 제공하며, 브라질은 아랍에미리트를 위해 군용 수송기를 제작한다.)&lt;/p&gt;
-&lt;p&gt;All of these deals were sealed in the past few weeks. Each one represents an attempt by middle powers to protect themselves as the conflict in Iran throttles global energy supplies, and as a high-stakes summit between President Trump and Xi Jinping of China looms.&lt;br/&gt;(이 모든 거래는 지난 몇 주 사이에 성사되었다. 각각은 이란 분쟁이 글로벌 에너지 공급을 조이고 있고, 트럼프 대통령과 중국의 시진핑 주석 간의 고위험 정상회담이 임박한 상황에서 중견국들이 스스로를 보호하려는 시도를 의미한다.)&lt;/p&gt;
-&lt;p&gt;Global polls show the world has little trust in the United States and China. Mr. Trump and Mr. Xi have both used their enormous leverage over trade and security to coerce or punish. And in response, smaller nations are behaving as if they are stuck in “Godzilla” or “Dune” — moving quietly in small groups, trying not to provoke the wrath of petulant giants.&lt;br/&gt;(글로벌 여론조사에 따르면 세계는 미국과 중국에 대한 신뢰가 거의 없다. 트럼프와 시진핑은 모두 무역과 안보에 대한 막대한 영향력을 이용해 강압하거나 처벌해 왔다. 이에 대한 대응으로, 작은 국가들은 마치 '고질라'나 '듄'에 갇힌 것처럼 행동하며, 조용히 소규모로 움직여 변덕스러운 거인들의 분노를 자극하지 않으려 애쓰고 있다.)&lt;/p&gt;
-&lt;p&gt;“It’s fifty shades of hedging,” said Richard Heydarian, a Filipino political scientist at Oxford University. Or, as Ja Ian Chong, a security analyst in Singapore put it, “No party wants to cross Beijing and now Washington, too.”&lt;br/&gt;("이는 오십 가지 회색의 헤징(hedging)입니다,"라고 옥스퍼드 대학의 필리핀 출신 정치학자 리차드 헤이다리안이 말했다. 또는 싱가포르의 안보 분석가 자 이안 총이 표현하자면, "어느 쪽도 베이징을, 이제는 워싱턴도 건드리고 싶지 않아 합니다.")&lt;/p&gt;
-&lt;p&gt;For countries watching from afar, dread and hope hover over the Trump-Xi meeting in Beijing, which is scheduled for this week. In Asia, which has been hit hardest and fastest by oil shortages caused by the war and China’s tight control of oil-product exports, the mood is particularly grim. Interviews with officials, and statements from leaders traveling the globe to secure trade and defense deals, suggest that most middle powers feel overwhelmed by the deteriorating world order.&lt;br/&gt;(먼 곳에서 지켜보는 국가들에게, 이번 주 베이징에서 예정된 트럼프-시진핑 회담에는 공포와 희망이 공존한다. 전쟁으로 인한 석유 부족과 중국의 석유 제품 수출 통제로 가장 심각하고 빠르게 타격을 입은 아시아에서는 특히 분위기가 암울하다. 공무원들과의 인터뷰, 그리고 무역 및 방위 계약을 확보하기 위해 세계를 누비는 지도자들의 성명은 대부분의 중견국들이 악화되는 세계 질서에 압도당하고 있음을 시사한다.)&lt;/p&gt;
-&lt;p&gt;Many believe the summit carries more potential for harm than help. And Mr. Trump’s gut-driven approach to complex issues is the main source of anxiety.&lt;br/&gt;(많은 이들은 이번 정상회담이 도움보다 해악을 끼칠 가능성이 더 크다고 믿는다. 그리고 복잡한 문제에 대한 트럼프의 직감적 접근 방식이 주요 불안 요인이다.)&lt;/p&gt;
-&lt;p&gt;For months, officials in Asia have worried that the president might be too eager to make a deal with Mr. Xi, ending weapons sales to Taiwan or agreeing to softened policy language that could make it easier for China to undermine the democratic island.&lt;br/&gt;(몇 달 동안 아시아 관리들은 대통령이 시 주석과의 거래에 지나치게 열성적이어서 대만에 대한 무기 판매를 중단하거나, 중국이 민주주의 섬을 훼손하기 쉽게 만드는 완화된 정책 언어에 동의할까 봐 우려해 왔다.)&lt;/p&gt;
-&lt;p&gt;“That would be the biggest nightmare,” said one Taiwanese official who spoke on condition of anonymity to discuss internal government matters. He insisted that reduced support from the U.S. was unlikely.&lt;br/&gt;("그것이 가장 큰 악몽이 될 것입니다,"라고 내부 정부 문제를 논의하기 위해 익명을 요구한 한 대만 관리가 말했다. 그는 미국의 지원 축소는 있을 법하지 않다고 주장했다.)&lt;/p&gt;
-&lt;p&gt;But any concession on Taiwan could lead other American partners to fear abandonment. Beijing’s push for compliance on contested territory elsewhere would be bolstered, from the border with India to the South China Sea.&lt;br/&gt;(그러나 대만에 대한 어떤 양보도 다른 미국 동맹국들에게 버림받음에 대한 두려움을 불러일으킬 수 있다. 인도 국경에서 남중국해에 이르기까지 분쟁 지역에서 중국의 준수 요구가 강화될 것이다.)&lt;/p&gt;
-&lt;p&gt;Vietnamese officials said that if President Trump makes a conciliatory gesture or flatters Xi, even without bigger compromises, China will gain leeway to press harder on smaller countries.&lt;br/&gt;(베트남 관리들은 트럼프 대통령이 더 큰 타협 없이도 화해 제스처를 취하거나 시 주석을 칭찬한다면, 중국은 더 작은 국가들에 대해 더 강하게 압박할 여지를 얻을 것이라고 말했다.)&lt;/p&gt;
-&lt;p&gt;Another concern being discussed across the region: that Mr. Trump might alter long-term security plans in exchange for better economic terms with China.&lt;br/&gt;(지역 전체에서 논의되는 또 다른 우려는 트럼프가 중국과의 더 나은 경제 조건과 교환하여 장기 안보 계획을 변경할 수 있다는 점이다.)&lt;/p&gt;
-&lt;p&gt;Mr. Trump’s decision to redirect a carrier strike group from the Pacific and munitions from South Korea for the war in Iran may have created momentum for broader redeployments. When the Pentagon announced it would pull at least 5,000 troops from Germany after Mr. Trump expressed annoyance with the German chancellor, allies in Asia were again reminded how quickly collective deterrence can be weakened.&lt;br/&gt;(트럼프가 이란 전쟁을 위해 태평양에서 항모 타격단과 한국의 탄약을 재배치하기로 한 결정은 더 광범위한 재배치를 위한 추진력을 만들었을 수 있다. 미 국방부가 독일에서 최소 5,000명의 병력을 철수할 것이라고 발표했을 때(트럼프가 독일 총리에 대한 불만을 표출한 후), 아시아 동맹국들은 집단 억지력이 얼마나 빠르게 약화될 수 있는지를 다시 한 번 상기했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Trump has threatened in the past to make troop withdrawals from Japan, which hosts around 53,000 American military personnel — more than any other country — and South Korea, where another 24,000 Americans are stationed. If he could get something big from Mr. Xi for a drawdown, would he turn down the deal?&lt;br/&gt;(트럼프는 과거에 약 53,000명의 미군(어느 나라보다 많음)이 주둔하는 일본과 추가로 24,000명의 미군이 주둔하는 한국에서 병력 철수를 위협한 바 있다. 만약 철수를 대가로 시 주석으로부터 큰 것을 얻을 수 있다면, 그는 그 거래를 거절할까?)&lt;/p&gt;
-&lt;p&gt;Analysts noted that plans opposed by China, such as AUKUS, a pact between Australia, England and the U.S. designed to counter Beijing’s influence by equipping Australia with nuclear-powered submarines and advanced technology, could also be suddenly canceled.&lt;br/&gt;(분석가들은 AUKUS(호주에 핵추진 잠수함과 첨단 기술을 제공해 베이징의 영향력에 대응하기 위해 고안된 호주, 영국, 미국 간의 협정)와 같이 중국이 반대하는 계획이 갑자기 취소될 수도 있다고 지적했다.)&lt;/p&gt;
-&lt;p&gt;“The sense that U.S. allies have to look to one another because they can no longer look to America is very real,” said Hugh White, a former Australian intelligence official who teaches strategic studies at the Australia National University.&lt;br/&gt;("미국 동맹국들이 더 이상 미국을 바라볼 수 없기 때문에 서로를 의지해야 한다는 인식은 매우 현실적입니다,"라고 전 호주 정보관이자 호주국립대학에서 전략 연구를 가르치는 휴 화이트가 말했다.)&lt;/p&gt;
-&lt;p&gt;That sentiment is much stronger than “the cautious public language” of national leaders might suggest, he added.&lt;br/&gt;(그는 이러한 정서가 국가 지도자들의 "조심스러운 공개적 언어"가 암시하는 것보다 훨씬 더 강하다고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;European and Asian officials often talk privately in frank terms about giving up their faith in America, prompting a no-turning-back effort to diversify away from the United States. In casual discussions with reporters, they can sound a lot like Prime Minister Mark Carney of Canada, who received a standing ovation in Davos this year for a speech that declared, “We are in the midst of a rupture, not a transition.”&lt;br/&gt;(유럽과 아시아 관리들은 종종 사적으로 미국에 대한 신뢰를 포기하는 것에 대해 솔직하게 이야기하며, 미국으로부터의 다각화라는 돌이킬 수 없는 노력을 촉발한다. 기자들과의 비공식 대화에서 그들은 올해 다보스에서 "우리는 전환기가 아닌 단절의 한가운데에 있습니다"라고 선언한 연설로 기립 박수를 받은 마크 카니 캐나다 총리처럼 들릴 수 있다.)&lt;/p&gt;
-&lt;p&gt;But in public, they’re more circumspect. Some officials admit their countries are trying to buy time and evade Mr. Trump’s fits of pique, while continuing the performance of imperial fealty.&lt;br/&gt;(그러나 공개적으로는 좀 더 신중하다. 일부 관리들은 자국이 시간을 벌고 트럼프의 분노 폭발을 피하면서 제국에 대한 충성 공연을 계속하려 한다고 인정한다.)&lt;/p&gt;
-&lt;p&gt;South Korean officials have simply expressed resignation over American military diversions, after making clear they felt betrayed in 2004, when President George W. Bush announced plans to move troops from Asia to the war in Iraq. Australia, Taiwan and Japan publicly and repeatedly stress the value of American leadership without caveats — even as U.S. tariffs and the war Mr. Trump started with Iran kneecap their economies.&lt;br/&gt;(한국 관리들은 2004년 조지 W. 부시 대통령이 아시아에서 이라크 전쟁으로 병력을 이동시키겠다는 계획을 발표했을 때 배신감을 느꼈다고 분명히 밝힌 후, 미국의 군사 전환에 대해 단순히 체념을 표명했다. 호주, 대만, 일본은 미국의 관세와 트럼프가 이란과 시작한 전쟁이 자국 경제를 무력화하는 상황에서도 조건 없이 미국 리더십의 가치를 공개적이고 반복해서 강조한다.)&lt;/p&gt;
-&lt;p&gt;No one wants to be seen stepping out of line.&lt;br/&gt;(아무도 줄을 서는 것을 벗어나는 것으로 보이길 원하지 않는다.)&lt;/p&gt;
-&lt;p&gt;Japan’s new prime minister, Sanae Takaichi, has been bolder than most in trying to foster stronger relationships with other countries. Yet even as she crisscrossed the region promoting military cooperation, officials in Tokyo worried about how Washington would view her efforts.&lt;br/&gt;(일본의 새 총리 다카이치 사나에는 다른 국가들과 더 강력한 관계를 구축하려는 시도에 있어 대부분보다 더 대담했다. 그러나 그녀가 군사 협력을 촉진하며 지역을 누비는 동안 도쿄의 관리들은 워싱턴이 그녀의 노력을 어떻게 볼지 걱정했다.)&lt;/p&gt;
-&lt;p&gt;“The Japanese don’t want Takaichi’s security cooperation and tour, especially to Australia, to be seen as a version of Mark Carney,” said Michael J. Green, the author of several books on Japan, and chief executive of the United States Study Centre at the University of Sydney.&lt;br/&gt;("일본인들은 다카이치의 안보 협력과 순방, 특히 호주 방문이 마크 카니의 버전으로 보이길 원하지 않습니다,"라고 일본 관련 여러 책의 저자이자 시드니 대학 내 미국 연구 센터의 최고경영자인 마이클 J. 그린이 말했다.)&lt;/p&gt;
-&lt;p&gt;Others have apparently reached the same conclusion. Mr. Carney’s recent visits to India and Australia did not yield strong statements from their leaders echoing his criticism of great power rivalry or his warning that if middle powers are “not at the table, we’re on the menu.”&lt;br/&gt;(다른 이들도 분명히 같은 결론에 도달했다. 카니의 최근 인도와 호주 방문은 그들의 지도자들로부터 강대국 경쟁에 대한 그의 비판이나 중견국들이 "테이블에 없으면 메뉴에 오른다"는 그의 경고를 반영하는 강력한 성명을 이끌어내지 못했다.)&lt;/p&gt;
-&lt;p&gt;At the same time, many countries — including some that are benefiting from the thickening of middle-power bonds — have been careful not to anger the world’s other hegemon, China.&lt;br/&gt;(동시에, 많은 국가들(중견국 간 유대 강화의 혜택을 받는 일부 국가 포함)은 세계의 또 다른 패권국인 중국을 화나게 하지 않도록 조심해 왔다.)&lt;/p&gt;
-&lt;p&gt;Nations managing their own disputes with Beijing, such as Indonesia, have done less to rally around Japan than some in Tokyo would have liked, since Ms. Takaichi became embroiled in a diplomatic crisis after telling her Parliament that if China attacked Taiwan, Japan could respond militarily.&lt;br/&gt;(인도네시아와 같이 베이징과 자체 분쟁을 관리하는 국가들은 다카이치가 의회에서 중국이 대만을 공격하면 일본이 군사적으로 대응할 수 있다고 말한 후 외교 위기에 휘말리면서, 도쿄의 일부가 원했던 만큼 일본을 중심으로 뭉치는 데 덜 적극적이었다.)&lt;/p&gt;
-&lt;p&gt;Vietnamese officials even pressed Ms. Takaichi to avoid directly criticizing China in her speech at a university on May 2 in Hanoi, according to diplomats who spoke on condition of anonymity to describe sensitive discussions. It is not clear if adjustments were made. Chinese officials later condemned her diplomatic efforts as “war preparation.”&lt;br/&gt;(베트남 관리들은 심지어 다카이치에게 5월 2일 하노이 한 대학에서의 연설에서 중국을 직접 비판하는 것을 피하라고 촉구했다고, 민감한 논의를 설명하기 위해 익명을 요구한 외교관들이 전했다. 조정이 있었는지는 분명하지 않다. 중국 관리들은 이후 그녀의 외교적 노력을 "전쟁 준비"라고 비난했다.)&lt;/p&gt;
-&lt;p&gt;And yet, in a sign of how middle powers are still doing more while saying less, the two countries signed six cooperation agreements, including one on satellite data sharing and another to secure deliveries for Vietnam’s largest oil refinery, potentially easing shortages.&lt;br/&gt;(그러나 중견국들이 말을 적게 하면서도 더 많이 행동하고 있음을 보여주는 징후로, 두 나라는 위성 데이터 공유 협정과 베트남 최대 정유소에 대한 공급을 확보해 잠재적으로 부족을 완화하는 협정을 포함해 6개의 협력 협정에 서명했다.)&lt;/p&gt;
-&lt;p&gt;“The U.S. has become more unreliable, so it makes sense to try to develop alternatives,” said Robert O. Keohane, an international relations professor at Princeton University. Even if what’s been formed so far is insufficient, he added, “having a weak alternative is better than having no alternative at all.”&lt;br/&gt;("미국이 더 신뢰할 수 없게 되었으므로, 대안을 개발하려는 것은 이치에 맞습니다,"라고 프린스턴 대학의 국제 관계 교수 로버트 O. 코헤인이 말했다. 지금까지 형성된 것이 충분하지 않더라도, 그는 "약한 대안이라도 전혀 대안이 없는 것보다 낫다"고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;Reporting was contributed by Tung Ngo from Hanoi, Vietnam; Javier C. Hernández from Tokyo; Amy Chang Chien from Taipei, Taiwan; Jim Tankersley from Berlin; Ian Austen from Ottawa; and Matina Stevis-Gridneff from Toronto.&lt;br/&gt;(보도에 기여한 이: 베트남 하노이의 텅 응오, 도쿄의 하비에르 C. 에르난데스, 대만 타이베이의 에이미 장 치엔, 베를린의 짐 탱커슬리, 오타와의 이안 오스틴, 토론토의 마티나 스테비스-그리드네프.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/11/world/asia/trump-xi-china-summit-iran.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/11/multimedia/11trump-xi-asia-01-vkcf/11trump-xi-asia-01-vkcf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 10 May 2026 19:01:08 +0000</pubDate></item><item><title>Is France’s Centrist Leader Trying to Weatherproof It From the Far Right? (프랑스 중도 성향 지도자, 극우로부터 국가를 지키려 하나?)</title><link>https://www.nytimes.com/2026/05/12/world/europe/france-macron-weatherproof-bureaucracy.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/10/multimedia/00int-france-macron-01-pbtv/00int-france-macron-01-pbtv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Barred from re-election and increasingly a lame duck, President Emmanuel Macron has few obvious levers to prevent a far-right, would-be successor from reshaping France after presidential elections next year. But he does have one, which he is using to striking effect: patronage.&lt;br/&gt;(재선이 금지되어 점차 레임덕(lame duck) 상태에 빠진 에마뉘엘 마크롱 대통령은 내년 대선 이후 극우 성향 차기 대통령이 프랑스를 재편하는 것을 막을 뚜렷한 수단이 거의 없다. 하지만 그에게는 한 가지 수단이 있는데, 그것은 바로 충성심에 기반한 인사 배치, 즉 '관리직 추천권'이다.)&lt;/p&gt;
-&lt;p&gt;In recent months, Mr. Macron has moved to appoint close allies to head several of France’s most powerful state institutions, including the central bank, the national auditing authority and the Constitutional Council, the closest French equivalent to the Supreme Court.&lt;br/&gt;(최근 몇 달간 마크롱 대통령은 프랑스에서 가장 강력한 국가 기관들, 즉 중앙은행, 국가회계감사원, 그리고 프랑스의 대법원에 해당하는 헌법위원회(Constitutional Council)의 수장에 자신의 측근들을 임명해 왔다.)&lt;/p&gt;
-&lt;p&gt;Taken together, political analysts say, Mr. Macron’s personnel moves could help weatherproof France against the effects of a far-right presidency, should either of the two likeliest far-right candidates, Marine Le Pen or Jordan Bardella, win. Both are comfortably ahead of all rivals in opinion polls.&lt;br/&gt;(정치 분석가들은 마크롱 대통령의 이러한 인사 조치가, 가장 유력한 극우 성향 후보인 마린 르 펜(Marine Le Pen)이나 조르당 바르델라(Jordan Bardella) 중 한 명이 대선에서 승리할 경우, 프랑스가 극우 정권 아래에서 겪을 충격을 완화하는 데 도움이 될 수 있다고 말한다. 여론조사에서 두 사람 모두 모든 경쟁자를 여유 있게 앞서고 있다.)&lt;/p&gt;
-&lt;p&gt;“We’re talking about the country’s most important independent institutions,” said Benjamin Morel, a constitutional scholar at Panthéon-Assas University in Paris. “They are the ones that can largely limit the scope of certain political decisions.”&lt;br/&gt;(파리 팡테옹-아스 대학(Panthéon-Assas University)의 헌법학자 벤자민 모렐(Benjamin Morel)은 "우리는 국가에서 가장 중요한 독립 기관들에 대해 이야기하고 있습니다."라며 "이 기관들은 특정 정치적 결정의 범위를 크게 제한할 수 있는 곳입니다."라고 말했다.)&lt;/p&gt;
-&lt;p&gt;“There are clearly limits and boundaries being set here,” Mr. Morel said. “These appointments are far, far from neutral.”&lt;br/&gt;(모렐 교수는 "여기에는 명백한 한계와 경계가 설정되고 있습니다."라며 "이러한 임명들은 결코 중립적이지 않습니다."라고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;The president, Mr. Morel was quick to say, was not overstepping his authority. It is hardly unknown for French presidents to appoint politically friendly people to influential positions, even if the practice is less prevalent than in the United States.&lt;br/&gt;(모렐 교수는 마크롱 대통령이 권한을 남용하고 있는 것은 아니라고 재빨리 말했다. 프랑스 대통령이 영향력 있는 자리에 정치적으로 친분이 있는 사람을 임명하는 것은, 미국보다 그 관행이 덜 만연하지만, 전혀 드문 일은 아니다.)&lt;/p&gt;
-&lt;p&gt;To some extent, Mr. Macron is simply the beneficiary of a string of convenient vacancies, most recently at the central bank, the Banque de France, where last week he proposed his chief of staff, Emmanuel Moulin, as the new president. That nomination will need to be confirmed by France’s Parliament, as was the head of the Constitutional Council, though not the president of the auditing authority.&lt;br/&gt;(어느 정도 마크롱 대통령은 단지 우연히 발생한 일련의 공석(空缺) 혜택을 보고 있는 것이다. 가장 최근에는 프랑스 중앙은행(Banque de France) 총재직이 공석이었는데, 그는 지난주 자신의 비서실장인 에마뉘엘 물랭(Emmanuel Moulin)을 새 총재로 지명했다. 이 지명은 프랑스 의회의 승인을 받아야 한다. 헌법위원회 위원장의 경우도 마찬가지였지만, 회계감사원장은 의회 승인이 필요하지 않았다.)&lt;/p&gt;
-&lt;p&gt;Asked for comment, a presidential spokesman said Mr. Macron appointed competent and committed people. The spokesman, who spoke on the condition of anonymity in keeping with French political practice, said Mr. Macron would not have chosen differently, regardless of the possible rise of the far right in 2027.&lt;br/&gt;(논평 요청에 대해 대통령 대변인은 마크롱 대통령이 유능하고 헌신적인 사람들을 임명한다고 말했다. 프랑스 정치 관행에 따라 익명을 요구한 이 대변인은 2027년 극우 정권의 부상 가능성과 관계없이 마크롱 대통령은 다른 선택을 하지 않았을 것이라고 말했다.)&lt;/p&gt;
-&lt;p&gt;Yet the appointments to posts with multiyear terms, coming as France approaches a potentially transformative election, have drawn criticism, not least from the leaders of the largest far-right party, the National Rally.&lt;br/&gt;(그러나 잠재적으로 변혁적인 선거를 앞두고 다년 임기의 요직에 대한 이러한 임명은 가장 큰 극우 정당인 국민연합(National Rally)의 지도자들로부터 특히 비판을 받고 있다.)&lt;/p&gt;
-&lt;p&gt;In a video last February, Mr. Bardella, the party’s president, accused Mr. Macron of “seeking to lock down our institutions in the hope of maintaining control and extending his influence.”&lt;br/&gt;(지난 2월 영상에서 바르델라 당 대표는 마크롱 대통령이 "통제력을 유지하고 영향력을 확장하기 위해 우리의 제도를 봉쇄하려 한다"고 비난했다.)&lt;/p&gt;
-&lt;p&gt;Ms. Le Pen, the party’s parliamentary leader, whose future is clouded by an embezzlement conviction that she is appealing, said Mr. Macron’s “regime” was “ready to commit all manner of ethical transgressions to place its loyalists and disrupt the future political alternation.”&lt;br/&gt;(당의 원내대표인 르 펜(Le Pen)은 현재 항소 중인 횡령 유죄 판결로 인해 미래가 불투명한데, 마크롱 대통령의 "정권"은 "충성파를 배치하고 미래의 정권 교체를 방해하기 위해 모든 종류의 윤리적 위반을 저지를 준비가 되어 있다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;People who know Mr. Macron suggest that putting allies in influential posts could pave the way for his own comeback six years from now. Although under French law, Mr. Macron cannot run for a third consecutive term in 2027, nothing would prevent him from running again in 2032, when he would be 54.&lt;br/&gt;(마크롱 대통령을 아는 사람들은 영향력 있는 요직에 측근을 배치하는 것이 6년 후 자신의 복귀를 위한 길을 닦을 수 있다고 제안한다. 프랑스 법에 따라 마크롱 대통령은 2027년에 3회 연속 출마할 수 없지만, 2032년(당시 만 54세)에 다시 출마하는 것을 막을 수는 없다.)&lt;/p&gt;
-&lt;p&gt;Some analysts play down the importance of the appointments, attributing them less to a calculated political strategy than to a time-honored practice by leaders of rewarding allies with plum jobs.&lt;br/&gt;(일부 분석가들은 이러한 인사의 중요성을 축소하며, 계산된 정치적 전략보다는 지도자들이 측근에게 좋은 자리를 보상으로 주는 오랜 관행에 기인한다고 본다.)&lt;/p&gt;
-&lt;p&gt;“Frankly, I do not think those appointments are going to be politically decisive,” said Philippe Marlière, a professor of French and European politics at University College London. “They were close collaborators of Macron and none of them is known by the public at large. They are not politically material in the strict sense of the term.”&lt;br/&gt;(유니버시티 칼리지 런던(University College London)의 프랑스 및 유럽 정치학 교수인 필리프 마를리에르(Philippe Marlière)는 "솔직히 말해, 이러한 임명들이 정치적으로 결정적일 것이라고 생각하지 않습니다."라며 "그들은 마크롱의 가까운 협력자들이었고, 대중에게 널리 알려진 사람은 아무도 없습니다. 엄밀한 의미에서 정치적으로 중요한 인물들이 아닙니다."라고 말했다.)&lt;/p&gt;
-&lt;p&gt;On one level, Mr. Macron’s choice of Mr. Moulin for the central bank was conventional. A former Treasury director, he has the right pedigree to run the institution. But Mr. Moulin, 57, is best known for ties with Mr. Macron, advising senior ministers in his government before taking over management of the president’s office last year.&lt;br/&gt;(한편으로, 마크롱 대통령이 물랭을 중앙은행 총재로 선택한 것은 전통적인 선택이었다. 전직 재무부 국장인 그는 기관을 운영할 적절한 배경을 가지고 있다. 그러나 57세의 물랭은 마크롱 대통령과의 인연으로 가장 잘 알려져 있으며, 지난해 대통령실 관리를 맡기 전까지는 정부의 고위 각료들을 보좌했다.)&lt;/p&gt;
-&lt;p&gt;In February, Mr. Macron named Amélie de Montchalin, a former budget minister, as president of the auditing authority, which examines public spending. Critics objected to the appointment of a former government official as head of an agency meant to be an impartial watchdog of good governance.&lt;br/&gt;(2월, 마크롱 대통령은 전직 예산 장관인 아멜리 드 몽샬랭(Amélie de Montchalin)을 회계감사원장으로 지명했다. 회계감사원은 공공 지출을 조사하는 기관이다. 비평가들은 좋은 통치를 위한 공정한 감시 기관이어야 할 기관의 수장에 전직 정부 관료를 임명한 것에 반대했다.)&lt;/p&gt;
-&lt;p&gt;Among other things, the authority published a damning audit of the Louvre after a brazen daytime jewel heist in October. The audit concluded that the museum’s security systems were outdated and faulted the Louvre’s leaders for ignoring basic upkeep.&lt;br/&gt;(특히 이 기관은 지난 10월 대낮에 벌어진 뻔뻔스러운 보석 강도 사건 이후 루브르 박물관에 대한 강력 비판적인 감사 보고서를 발표했다. 감사 보고서는 박물관의 보안 시스템이 구식이며 루브르 박물관 지도부가 기본적인 유지 관리를 무시했다고 결론지었다.)&lt;/p&gt;
-&lt;p&gt;Perhaps the most politically divisive appointment came last year when Mr. Macron named Richard Ferrand, one of his early supporters and the first leader of his party, as head of the Constitutional Council. Mr. Ferrand’s closeness to Mr. Macron and lack of legal training provoked a storm of criticism, and his appointment was approved by a one-vote margin in the Parliament.&lt;br/&gt;(아마도 가장 정치적으로 논란이 된 임명은 작년에 마크롱 대통령이 자신의 초기 지지자 중 한 명이자 자신의 당 창당 대표인 리샤르 페랑(Richard Ferrand)을 헌법위원회 위원장으로 임명했을 때였다. 페랑이 마크롱과 가깝고 법조계 경력이 부족하다는 점은 비판의 폭풍을 불러일으켰으며, 그의 임명은 의회에서 단 1표 차이로 승인되었다.)&lt;/p&gt;
-&lt;p&gt;The court, which judges the constitutionality of laws and supervises elections, also rules on the long-debated question of whether the president has the right to call a referendum to amend the constitution without Parliament’s approval.&lt;br/&gt;(법률의 합헌성을 심사하고 선거를 감독하는 헌법위원회는 또한 대통령이 의회의 승인 없이 국민투표를 통해 헌법을 개정할 권리가 있는지에 대한 오랜 논쟁이 되어온 문제에 대해서도 판결한다.)&lt;/p&gt;
-&lt;p&gt;The National Rally, Professor Morel said, “would like to take a shot at this issue, despite everything. And so here, you have a Constitutional Council that may find itself on the front lines.”&lt;br/&gt;(모렐 교수는 "국민연합은 그럼에도 불구하고 이 문제에 도전하려 할 것입니다. 그렇게 되면 헌법위원회가 최전선에 설 수도 있습니다."라고 말했다.)&lt;/p&gt;
-&lt;p&gt;Ségolène Le Stradic contributed reporting.&lt;br/&gt;(세골렌 르 스트라딕(Ségolène Le Stradic)이 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/europe/france-macron-weatherproof-bureaucracy.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/10/multimedia/00int-france-macron-01-pbtv/00int-france-macron-01-pbtv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 19:01:06 +0000</pubDate></item><item><title>Macron Makes a Bid for New Partners in Africa (마크롱, 아프리카에서 새로운 파트너 찾기 나서)</title><link>https://www.nytimes.com/2026/05/12/world/africa/macron-africa-summit-kenya.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/12/multimedia/12int-africa-france-mfcp/12int-africa-france-mfcp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;President Emmanuel Macron of France opened an Africa summit this week in Nairobi, a city where almost no one speaks French.&lt;br/&gt;(에마뉘엘 마크롱 프랑스 대통령은 이번 주 나이로비에서 아프리카 정상회담을 열었다. 이 도시에서는 프랑스어를 구사하는 사람이 거의 없다.)&lt;/p&gt;
-&lt;p&gt;The decision to hold the decades-old summit outside of France or Francophone Africa for the first time reflected what analysts say is a reconfiguration of French diplomacy on the continent at a time when relations with some of France’s former colonies are in tatters.&lt;br/&gt;(수십 년 역사의 이 회담을 프랑스나 프랑스어권 아프리카 밖에서 처음으로 개최하기로 한 결정은, 분석가들이 말하는 프랑스의 대(對)아프리카 외교 재편을 반영한다. 이는 프랑스의 일부 옛 식민지와의 관계가 파탄난 상황에서 나온 것이다.)&lt;/p&gt;
-&lt;p&gt;It also showed the ways in which African nations are benefiting from new opportunities to diversify diplomatic partnerships, analysts said.&lt;br/&gt;(분석가들은 또한 이번 결정이 아프리카 국가들이 외교적 파트너십을 다각화할 새로운 기회를 누리는 방식을 보여준다고 말했다.)&lt;/p&gt;
-&lt;p&gt;On Monday, Mr. Macron talked up the possibilities of new collaboration at the two-day summit, which is being attended by roughly 30 African heads of state and government. Business leaders, including Aliko Dangote, a Nigerian who is the continent’s richest investor, were among the attendees.&lt;br/&gt;(월요일, 마크롱은 이틀간의 회담에서 새로운 협력 가능성을 강조했다. 이 회담에는 약 30명의 아프리카 국가 및 정부 수반이 참석했다. 아프리카 최대 투자자인 나이지리아 출신 알리코 댕고테를 포함한 기업인들도 참석자 명단에 올랐다.)&lt;/p&gt;
-&lt;p&gt;“A lot of solutions are made in the U.S. ⁠or made in China,” Mr. Macron said as he opened the Africa Forward summit alongside President William Ruto of Kenya. “I think we have a common fight,” he added, “which is to build our strategic autonomy for Europe and ​Africa. And if we build it together, we will be much stronger.”&lt;br/&gt;("많은 해결책이 미국이나 중국에서 만들어집니다." 마크롱은 윌리엄 루토 케냐 대통령과 함께 '아프리카 포워드' 정상회담을 개최하며 이렇게 말했다. 그는 "우리에게는 유럽과 아프리카의 전략적 자주권을 구축해야 한다는 공동의 싸움이 있다고 생각합니다."라며 "우리가 함께 구축한다면 훨씬 더 강력해질 것입니다."라고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 약속의 증거로 마크롱은 아프리카에 약 270억 달러의 투자를 발표하고 아프리카 기업인들에게 프랑스에 투자할 것을 초청했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 이번 세기의 약탈자가 아닙니다." 마크롱은 회담 전 파리 주간지 '아프리카 리포트'와의 인터뷰에서 프랑스의 잔혹한 아프리카 식민지 역사를 언급하며 이렇게 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-월요일 회담 중 한 젊은이 포럼에서 화제를 모은 순간, 마크롱은 자리에서 일어나 발표를 중단시키며 청중에게 수다를 멈추고 발언자를 조용히 듣거나 자리를 떠나라고 요구했다. "이는 완전한 무례입니다."라고 그는 말했다. 일부는 그의 개입에 박수를 보냈지만, 소셜미디어에서는 일부 사용자들이 대통령이 거만한 어조를 사용했다고 비난했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-마크롱은 자신이 식민지 시대 이후에 태어난 첫 프랑스 대통령임을 강조하며 전임자들과 차별화를 꾀해왔다. 그는 프랑스 통치 기간에 약탈된 아프리카 문화재를 반환하겠다고 약속했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 관계 재설정과 영어권 국가로의 접근에 대한 논의는 프랑스어권 아프리카 국가들에서 프랑스의 영향력이 급격히 약화되는 배경에서 이루어지고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑스의 동맹국인 코트디부아르는 지난해 서아프리카 일련의 국가들 중 최근 프랑스군 철수를 요구한 국가가 되었다. 사헬 지역에서 이슬람 극단주의 무력과 싸우기 위한 프랑스의 9년 작전 역시 파리 정부가 말리 군사 정권과 갈등을 빚은 후 2022년에 종료되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"마크롱의 노력에 대한 제 해석은, 그가 서아프리카의 전통적 친구들을 잃은 후 체면을 세우려고 한다는 것입니다."라고 탄자니아 도도마 대학교에서 가르친 케냐의 정치학자 아무코와 아낭웨는 말했다. "그는 다른 아프리카 국가들에서 대안을 찾고 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑스-아프리카 정상회담은 아프리카 지도자들과 비(非)아프리카 국가 수반들 간에 열리는 여러 회담 중 하나이다. 러시아, 중국, 일본은 각각 정기적인 아프리카 정상회담을 개최한다. 올해 초, 이탈리아의 조르자 멜로니 총리는 에티오피아 수도 아디스아바바에서 두 번째 이탈리아-아프리카 정상회담을 열었다. 이후 그녀는 아프리카의 주요 정부간 기구인 아프리카 연합의 연례 정상회담에 참석했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난해 아프리카에 대한 미국의 인도적 지원을 대폭 축소한 도널드 트럼프 대통령은 지난 7월 다섯 명의 서아프리카 지도자를 백악관에 초청해 경제 협력을 논의했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-분석가들은 이러한 회담이 아프리카 지도자들에게 특히 관심을 끄는데, 이는 글로벌 동맹이 변화하는 시기에 투자처를 확대할 기회를 제공하기 때문이라고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"대륙에 대한 관심을 감안할 때, 아프리카 국가들은 더 나은 조건을 협상할 기회를 갖습니다."라고 나이로비의 미국 국제 대학교에서 국제 관계를 가르치는 마차리아 무네네는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 정상회담 개최는 또한 케냐의 루토 대통령에게 내년에 치러질 것으로 예상되는 힘든 재선 캠페인을 앞두고 자신의 외교적 신임을 강조할 기회를 제공했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-케냐의 일간지 '데일리 네이션'은 월요일, 루토가 마크롱과 대화하는 사진과 함께 "힘의 과시"라는 제목을 실었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-브라이언 O. 오티에노가 기사에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/africa/macron-africa-summit-kenya.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/12/multimedia/12int-africa-france-mfcp/12int-africa-france-mfcp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 03:52:04 +0000</pubDate></item><item><title>Amnesty Accuses Nigerian Military of Bombing Another Market (앰네스티, 나이지리아 군의 또 다른 시장 폭격 비난)</title><link>https://www.nytimes.com/2026/05/12/world/africa/nigeria-tumfa-market-strikes.html</link><description>&lt;![CDATA[&lt;p&gt;Nigeria’s military killed more than 100 people on Sunday in airstrikes on a crowded village market in the country’s northwest, Amnesty International said on Tuesday.&lt;br/&gt;(앰네스티 인터내셔널은 화요일, 나이지리아 군이 주말에 북서부의 북적이는 마을 시장을 공습해 100명 이상을 사살했다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;The strikes at Tumfa market in the state of Zamfara, which the rights group said had also wounded dozens of villagers, appeared to be the latest in a series of attacks carried out by the military on markets and villages in northern and central Nigeria. The region has been plagued by violence in recent months, much of it involving clashes between the military and terrorist groups.&lt;br/&gt;(잠파라 주의 툼파 시장에서 발생한 이 공습은, 인권단체에 따르면 수십 명의 주민이 부상당했으며, 나이지리아 북부와 중부의 시장과 마을을 대상으로 군이 저지른 일련의 공격 중 최근 사례인 것으로 보인다. 이 지역은 최근 몇 달간 군과 테러 단체 간 충돌로 인한 폭력에 시달려 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난달에는 북동부의 질리 마을 공습에서 수십 명이 사망했다. 군 대변인은 목표가 버려진 마을에 있는 테러 조직의 물류 허브였다고 밝혔지만, 주민들은 많은 민간인이 이용하는 번성한 시장이었다고 증언했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-주말 동안 나이지리아 군은 니제르 주 시로로 지역의 마을들에 대한 공습을 실시했다고 인정했다. 군은 약 70명을 사살했으며 이들은 도적들이라고 밝혔다. 그러나 앰네스티는 사망자 중 최소 6명은 민간인이며, 엑스(X)에 부상당한 어린이들의 사진을 게시했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-군 대변인은 앰네스티가 언급한 툼파 시장 공습에 대한 논평 요청에 즉각 응답하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-인권단체의 나이지리아 사무소는 성명에서 군용기가 "경고 없이 사람들로 가득 찬" 시장을 폭격했다고 밝혔다. 이어 "현장은 혼란에 빠졌다. 비명, 피, 그리고 땅에 널려 있는 시신들로 가득했다"고 전했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/africa/nigeria-tumfa-market-strikes.html</guid><pubDate>Tue, 12 May 2026 12:47:20 +0000</pubDate></item><item><title>The Iran War Is Taking the Color Out of Japan’s Best-Known Snack Bags (이란 전쟁, 일본 최고 인기 과자 봉지에서 색을 빼앗다)</title><link>https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/12/multimedia/12int-japan-packaging-zkvg/12int-japan-packaging-zkvg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The Iran war has wreaked havoc on global supply chains, caused a spike in oil prices and scrambled international trade.&lt;br/&gt;(이란 전쟁이 글로벌 공급망에 큰 혼란을 일으키고, 유가 폭등을 초래하며, 국제 무역을 뒤엎고 있다.)&lt;/p&gt;
-&lt;p&gt;Now it is coming for potato chips.&lt;br/&gt;(이제는 감자칩이 그 표적이 되고 있다.)&lt;/p&gt;
-&lt;p&gt;The Japanese food giant Calbee said on Tuesday that it would temporarily abandon its brightly colored plastic snack bags in favor of black-and-white wrapping because of “instability affecting certain raw materials amid ongoing tensions in the Middle East.”&lt;br/&gt;(일본 식품 대기업 칼비는 화요일, "중동 지역의 계속되는 긴장으로 인한 특정 원자재 불안정" 때문에 밝은 색상의 플라스틱 과자 봉지를 일시적으로 포기하고 흑백 포장으로 전환하겠다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;The company said in a statement that the measure was meant to “help maintain a stable supply of products,” adding that it would not affect the quality of the snacks.&lt;br/&gt;(회사는 성명을 통해 이 조치가 "제품의 안정적인 공급을 유지하는 데 도움을 주기 위한 것"이라고 말하며, 과자 품질에는 영향을 미치지 않을 것이라고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;Calbee is making the change because it is having trouble securing naphtha, a crude-oil derivative used in printing inks, a spokeswoman for the company confirmed by telephone.&lt;br/&gt;(칼비 대변인은 전화 통화로, 이 변경이 인쇄 잉크에 사용되는 원유 유도체인 나프타 확보에 어려움을 겪고 있기 때문이라고 확인했다.)&lt;/p&gt;
-&lt;p&gt;Japan, along with much of Asia, is already feeling the effects of the war. Japan imports more than 90 percent of its oil — and 40 percent of its naphtha — from the Middle East.&lt;br/&gt;(일본은 아시아 대부분 지역과 함께 이미 전쟁의 영향을 받고 있다. 일본은 석유의 90% 이상과 나프타의 40%를 중동에서 수입한다.)&lt;/p&gt;
-&lt;p&gt;Naphtha is a key ingredient in plastic, and food manufacturers have complained in recent weeks that shortages are hurting their ability to package products like tofu and tea leaves. Manufacturers of cars, bathrooms and paint have also reported problems securing naphtha.&lt;br/&gt;(나프타는 플라스틱의 핵심 성분이며, 식품 제조업체들은 최근 몇 주 동안 부족 현상이 두부나 찻잎 같은 제품을 포장하는 능력을 저해하고 있다고 불평해 왔다. 자동차, 욕실, 페인트 제조업체들도 나프타 확보에 문제가 있다고 보고했다.)&lt;/p&gt;
-&lt;p&gt;Kei Sato, a Japanese cabinet official, sought to reassure the public when asked on Tuesday about Calbee’s decision to change its packaging.&lt;br/&gt;(일본 내각 관료인 사토 케이는 화요일 칼비의 포장 변경 결정에 대해 질문을 받고 대중을 안심시키려고 노력했다.)&lt;/p&gt;
-&lt;p&gt;“We have not received any reports of immediate supply problems for printing inks or naphtha,” he said at a news conference in Tokyo. “We believe that the necessary quantities for Japan as a whole are secured.”&lt;br/&gt;(그는 도쿄에서 열린 기자회견에서 "인쇄 잉크나 나프타에 대한 즉각적인 공급 문제에 대한 보고는 받지 못했다"며 "일본 전체에 필요한 물량은 확보되어 있다고 믿는다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;He added that government ministries were communicating with the companies involved “to understand the situation.”&lt;br/&gt;(또한, "상황을 파악하기 위해" 관련 기업들과 정부 부처가 소통하고 있다고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;Calbee said that 14 products would go grayscale starting this month. The list includes various flavors of potato chips, including lightly salted, consommé punch and seaweed. The change also affects its Kappa Ebisen, or shrimp-flavored sticks, and granola.&lt;br/&gt;(칼비는 이번 달부터 14개 제품이 흑백 포장으로 전환될 것이라고 밝혔다. 이 목록에는 가볍게 소금을 친 맛, 콘소메 펀치 맛, 해초 맛 등 다양한 감자칩이 포함된다. 이 변경은 새우 맛 스낵인 갓파 에비센과 그래놀라에도 영향을 미친다.)&lt;/p&gt;
-&lt;p&gt;Calbee, founded in 1949, dominates Japan’s snack-food shelves with about half of the overall market and 70 percent of the potato chip market.&lt;br/&gt;(1949년에 설립된 칼비는 전체 스낵 시장의 약 절반과 감자칩 시장의 70%를 차지하며 일본 스낵 시장을 지배하고 있다.)&lt;/p&gt;
-&lt;p&gt;River Akira Davis contributed reporting from Tokyo.&lt;br/&gt;(리버 아키라 데이비스가 도쿄에서 보도에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/12/multimedia/12int-japan-packaging-zkvg/12int-japan-packaging-zkvg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 01:48:52 +0000</pubDate></item><item><title>Philippine Senator Outruns Government Agents in Dramatic Chase (필리핀 상원의원, 정부 요원과의 극적인 추격전에서 탈출)</title><link>https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/12/multimedia/12int-philippines-standoff-czgw/12int-philippines-standoff-czgw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-israel-sexual-violence-1-qlgz/13int-israel-sexual-violence-1-qlgz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 13:29:05 +0000</pubDate></item><item><title>Philippine Senator Outruns Government Agents in Dramatic Chase (필리핀 상원의원, 정부 요원과의 극적인 추격전에서 탈출)</title><link>https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/12/multimedia/12int-philippines-standoff-czgw/12int-philippines-standoff-czgw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The federal agents were waiting at the Philippine Senate to serve an arrest warrant. Their target was a lawmaker.&lt;br/&gt;(연방 요원들이 필리핀 상원에서 체포 영장을 집행하기 위해 기다리고 있었다. 그들의 표적은 한 의원이었다.)&lt;/p&gt;
 &lt;p&gt;But the lawmaker ran, and the agents gave chase. He dashed up flights of stairs and through doors, stumbling at one point. A couple of minutes later, he was in the safety of the Senate chamber, where the would-be arresting officers had no authority.&lt;br/&gt;(그러나 그 의원은 도주했고, 요원들은 추격에 나섰다. 그는 계단을 여러 층 뛰어올라 문을 통과했고, 한 지점에서는 넘어지기도 했다. 몇 분 후, 그는 체포하려던 요원들에게 권한이 없는 안전한 상원 본회의장에 도착했다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -1143,139 +1044,7 @@ HIV는 바이러스가 몸속 깊은 곳에 숨어 있다가 기회를 보면 �
 그럼에도 불구하고, 델라 로사는 공개적으로 체포되어 두테르테 전 대통령과 함께 감옥에 들어갈 의향이 있다고 말해왔다. 월요일, 그는 상원에 보호 구금을 요청했고 상원은 이를 승인했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 "바토 상원의원은 우리의 규칙과 필리핀 법률에 따라 법의 보호와 상원의 보호를 받을 것입니다,"라고 새로운 상원 의장인 앨런 케예타노가 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/12/multimedia/12int-philippines-standoff-czgw/12int-philippines-standoff-czgw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 05:33:28 +0000</pubDate></item><item><title>The Altar Boy Who Refused to Hush Up (침묵을 거부한 제단 소년)</title><link>https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/08/multimedia/00int-philipines-lawyer-profile-01-cfwk/00int-philipines-lawyer-profile-01-cfwk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;As an altar boy in the late 1990s, Michal Gatchalian spent almost every Sunday at a centuries-old Roman Catholic basilica in Cebu City, the Philippines. There he met a fun-loving priest who gave the boys rides on his motorcycle.&lt;br/&gt;(1990년대 후반 제단 소년이었던 미샬 가찰리안은 거의 매주 일요일을 필리핀 세부 시티에 있는 수백 년 된 로마 가톨릭 대성당에서 보냈다. 그곳에서 그는 재미를 좋아하는 신부를 만났고, 그 신부는 소년들을 오토바이에 태워 주곤 했다.)&lt;/p&gt;
-&lt;p&gt;On Jan. 11, 1998, the priest, Apolinario “Jing” Mejorada, invited the then 17-year-old Mr. Gatchalian and another altar boy to the movies. At the theater, the teenagers said, he molested them. About 20 months later, Mr. Gatchalian said Father Mejorada sexually abused him again. That episode, he said, occurred at the home of the priest, who demanded oral sex from him. Mr. Gatchalian said he refused.&lt;br/&gt;(1998년 1월 11일, 아폴리나리오 "징" 메호라다 신부는 당시 17세였던 가찰리안과 다른 제단 소년을 영화관에 초대했다. 십대들은 극장에서 그가 자신들을 성추행했다고 말했다. 약 20개월 후, 가찰리안은 메호라다 신부가 자신을 또 다시 성폭행했다고 말했다. 그 사건은 신부의 집에서 발생했으며, 신부는 그에게 구강 성교를 요구했다고 한다. 가찰리안은 거절했다고 말했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-한 달 후, 가찰리안은 교회 지도자들에게 불만을 제기했다. 그의 노력은 아무 성과를 거두지 못했고, 그는 당시로서는 놀라운 행동으로 법정에 사건을 제기하기로 결정했다. 그는 로마 가톨릭 교회의 성직자 성추행 스캔들이 전 세계로 퍼져나가기 전에 독실한 가톨릭 국가인 필리핀에서 공개적으로 책임을 요구한 보기 드문 피해자였다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 메호라다 신부가 법정 절차에서 소년들의 허벅지를 "만지고 건드렸다"고 인정한 후에도 정의는 요원했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-현재 45세인 가찰리안은 변호사가 되었고, 법적 조언과 정신적 지지를 통해 다른 성직자 학대 생존자들을 돕는 단체를 설립하여 필리핀에서 거의 목소리를 내지 못하는 피해자들의 공개적인 얼굴이 되었다. 비평가들은 이 나라의 교회가 여전히 자체 보호를 위해 결속을 강화하고 있다고 말한다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-"바티칸의 개혁에도 불구하고, 여기 교회는 학대 사건을 처리하는 데 여전히 동일한 방법을 사용합니다."라고 그는 인터뷰에서 말했다. "그들은 불평하는 피해자보다 신부를 보호하는 데 더 집중합니다."
-
-&lt;&lt;&lt;PARA&gt;&gt;
-가찰리안이 고발한 메호라다 신부는 1500년대부터 필리핀에 기독교를 전파하는 데 도움을 준 성 아우구스티누스 수도회 소속이었다. 더 최근에는 2001년부터 2013년까지 이 수도회는 현재 교황 레오인 로버트 프랜시스 프레보스트가 이끌었다. 아우구스티누스회의 수장으로서 그는 필리핀을 최소 아홉 번 방문했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-메호라다 신부는 이제 파문되었으며, 이는 이전에 보도된 바 없다. 아우구스티누스회는 논평을 거부했지만, 이 조치는 신부가 한때 주임 사제로, 가찰리안이 제단 소년으로 봉사했던 세부의 산토 니뇨 소성당 직원 두 명과 필리핀 가톨릭 주교회의 관계자에 의해 확인되었다. 이 조치는 레오가 교황이 되기 전에 취해진 것으로 보인다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-미국 기반 감시 단체 BishopAccountability.org에 따르면, 필리핀에서 파문된 것으로 알려진 신부는 소수에 불과하다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-바티칸은 메호라다에 대한 학대 혐의에 대해 아무런 언급도 하지 않았으며, 교황이 가찰리안의 사건을 알고 있었는지는 불분명하다. 바티칸은 논평 요청에 응답하지 않았다. 메호라다에게 연락할 수 없었다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-가찰리안의 사례는 필리핀에서 교회가 가진 힘을 보여준다. 인구의 약 80%가 가톨릭 신자이며, 교회는 정부 정책부터 사법 임명까지 모든 것에 영향을 미친다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-1999년 10월, 가찰리안은 자신의 영적 지도자에게 메호라다 신부의 행동을 알렸지만, 교회는 아무것도 하지 않았다고 말했다. 법원 문서에 따르면 메호라다 신부는 그에게 80,000 필리핀 페소(당시 약 2,000달러)를 제공하고 소송을 제기하지 않겠다는 약속을 받았다. 그는 그 돈을 받았다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-이후 메호라다 신부의 동생인 마르 메호라다 신부는 가찰리안과 다른 두 제단 소년(역시 형 신부를 성추행했다고 고발했던)에게 신부가 "아프리카에서 사역을 계속하기 위해 자원했다"고 말했다. 가찰리안이 제출한 진술서에 따르면, 마르 메호라다 신부는 가찰리안과 다른 두 소년에게 추가로 120,000 필리핀 페소를 제안했고, 그들은 받았다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 얼마 지나지 않아 가찰리안은 자신을 학대했다고 주장하는 신부를 세부에 있는 교회에서 보았다. 분노한 그는 당시 세부 대주교와 지역 신문 및 라디오 방송국에 편지를 썼다. 가찰리안에 따르면 대주교는 조사를 명령했지만, 그 당시 메호라다 신부가 징계를 받았는지는 불분명하다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-2003년 진술서에서 메호라다 신부는 영화관에서 가찰리안의 허벅지를 "만지고 건드렸다"고 인정하면서, 그것이 "잘못되고 부끄러운 행동"이지만 범죄는 아니라고 말했다. 그는 자신의 집에서 가찰리안을 뒤에서 껴안고, 두 팔로 그의 복부를 감싸고, 그의 목덜미에 키스하고, 손을 가찰리안의 팬티 안쪽으로 움직이기 시작했다고 인정했다. 그 지점에서 가찰리안이 그의 손을 잡아 빼냈다고 한다. 진술서는 구강 성교를 요구했다는 고발에 대해서는 다루지 않았다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-검사들은 가찰리안이 "거액의 합의금"을 받아 법적 지위를 훼손했다며 그의 고발에 대한 후속 조치를 거부했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-가찰리안은 법무부와 법원에 항소했지만 계속해서 패소했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-라디오에서 가찰리안은 사람들이 자신이 학대를 즐겼는지에 대해 토론하는 것을 들었다. 가찰리안은 주유소에서 자신의 고용주가 이 사건을 듣고 그를 해고했으며, 그 후 자살을 생각했다고 말했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-가톨릭 수도회의 평신도 선교사였던 그의 아버지 파로는 누군가가 그와 그의 가족이 "교회를 공격하는 악마의 종"이라고 소리쳤다고 말했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-"그것은 사람이 경험할 수 있는 최고 형태의 불의였습니다."라고 가찰리안은 말했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-작년에 BishopAccountability.org는 교회가 필리핀에서 면책 문화를 가지고 있다고 비난하는 보고서를 발표했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-"필리핀을 처음 훑어봤을 때, '이 사람은 누구이며 왜 이렇게 대담한가?'라고 말했습니다."라고 감시 단체의 공동 설립자 앤 배럿 도일이 가찰리안에 대해 말했다. "그가 본명으로 나섰기 때문입니다."
-
-&lt;&lt;&lt;PARA&gt;&gt;
-가찰리안은 세부에서 평범한 어린 시절을 보냈고 텔레비전조차 없었다. 그는 형과 함께 신부 놀이를 좋아했는데, 골판지 상자를 성체龕으로, 바나나 조각을 영성체 빵으로 사용했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-그의 아버지는 선생님들이 그가 질문으로 도전하는 것에 대해 자주 불평했다고 말했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-"그는 보통 사람들이 반항적인 성향이라고 부르는 것을 가지고 있습니다."라고 가찰리안 신부는 말했다. "저는 그것을 열정적인 성향이라고 부르며, 사람들은 그것을 이해하지 못합니다."
-
-&lt;&lt;&lt;PARA&gt;&gt;
-메호라다 신부에 대한 법적 싸움 후, 가찰리안은 로스쿨에 가기로 결정했다. 그곳에서 그는 후에 아내가 될 크리스틴 나란호를 만났다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-2007년 마닐라에서 변호사 시험을 준비하던 중, 가찰리안은 메호라다 신부가 그 지역의 한 본당에서 사역하고 있다는 것을 알게 되었다. 그는 시험 공부가 자신을 "기도하고 명상하는 마음가짐"으로 만들어, 메호라다 신부도 인간임을 인식하게 했다고 말했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 나란호를 데리고 신부를 만나러 가서 그를 용서했다고 말했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-"그것은 제가 할 수 있다고 생각하지 않는 일이었습니다."라고 현재 공개 검사인 나란호는 말했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-그들은 11살과 6살인 두 아들을 가톨릭 신자로 키우며 매주 미사에 참석한다. 가찰리안은 큰아들에게 자신이 신부에게 성추행을 당했다고 말했다고 한다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-2017년, 알 자지라가 가찰리안이 메호라다 신부에 대한 고발을 재차 확인하는 다큐멘터리를 방영한 후 그의 사건에 대한 관심이 다시 생겼다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-당시 메호라다 신부는 시골 마을 구바트에서 사역하고 있었다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 얼마 후 아우구스티누스 수도회에서 추방되었다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-2020년, 가찰리안은 가톨릭 독립 보호 기구(Catholic Independent Safeguarding Unit)라는 단체를 공동 설립하고 성직자 학대 피해자들에게 법적 조언을 제공하기 시작했다. 지금까지 6명이 그의 도움을 구했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-자메이카 셰인 아바르케즈 아파스는 2023년 본당 신부가 자신을 성추행했을 때 16세였다고 말했다. 법정에서, 그녀는 같은 본당 신자들이 비꼬는 말을 했다고 회상했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 가찰리안이 그녀와 함께 있었다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-"이 모든 과정 내내 제가 당신 곁에 앉아 있겠습니다."라고 아파스 씨는 그가 말했다고 전했다. "고개를 높이 들어요. 사람들이 당신을 비판하려고 할 때마다 눈을 마주쳐요."
-
-&lt;&lt;&lt;PARA&gt;&gt;
-(2024년 2월, 아파스 씨가 고발한 신부는 4년 2개월 1일의 징역형을 선고받았지만, 플리 바겐으로 인해 집행유예로 석방되었다. 가찰리안에 따르면 그는 하루도 감옥에 가지 않았다.)
-
-&lt;&lt;&lt;PARA&gt;&gt;
-2025년 초, 글로벌 비영리 단체 Ending Clergy Abuse의 전 이사였던 뉴질랜드인 머레이 히즐리가 가찰리안에게 접근하여 필리핀에서 생존자 주도 단체를 설립하는 것에 대해 논의했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-"저는 항상 미샬 가찰리안에 관심이 있었습니다. 그 이름이 마치 경고음과 같았기 때문입니다. 1억 명의 가톨릭 신자가 있는 나라에서 일어선 단 한 사람이었습니다."라고 히즐리는 말했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-지난 9월, 가찰리안은 기자를 데리고 자신이 제단 소년으로 봉사했던 산토 니뇨 소성당으로 갔다. 그는 종탑을 가리키며 신나게 자신이 산툴로그 축제(세부의 산토 니뇨, 즉 왕관을 쓴 아기 예수를 기리는 축제)를 위해 종을 울리도록 초대받았던 일을 회상했다. 어린 제단 소년이 다가와 인사했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 20년 전 성당 경내에서 경비원들이 자신을 따라다니던 때와는 극명한 대조라고 말했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-가찰리안은 때때로 학대를 당했음에도 어떻게 가톨릭 신자로 남았는지 질문을 받는다.
-
-&lt;&lt;&lt;PARA&gt;&gt;
-"저는 하느님과 연결되는 수단이기 때문에 남아 있습니다."라고 그는 말하며, 교회가 원한다면 자신을 버릴 수도 있다고 덧붙였다. "하지만 당신은 제가 떠날 것이라고 기대하지 않을 것입니다."
-
-&lt;&lt;&lt;PARA&gt;&gt;
-엘리자베타 포볼레도가 로마에서, 제이슨 구티에레즈가 마닐라에서 취재에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/08/multimedia/00int-philipines-lawyer-profile-01-cfwk/00int-philipines-lawyer-profile-01-cfwk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 21:08:04 +0000</pubDate></item><item><title>The War in Iran Is Another Blow to Russia’s Credibility. Or Is It? (이란 전쟁, 러시아 신뢰도에 또 다른 타격인가, 아니면?)</title><link>https://www.nytimes.com/2026/05/12/world/europe/russia-europe-ukraine-syria-iran.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/12/multimedia/12int-russia-assess-jqbz/12int-russia-assess-jqbz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/12/multimedia/12int-philippines-standoff-czgw/12int-philippines-standoff-czgw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 05:33:28 +0000</pubDate></item><item><title>The War in Iran Is Another Blow to Russia’s Credibility. Or Is It? (이란 전쟁, 러시아 신뢰도에 또 다른 타격인가, 아니면?)</title><link>https://www.nytimes.com/2026/05/12/world/europe/russia-europe-ukraine-syria-iran.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/12/multimedia/12int-russia-assess-jqbz/12int-russia-assess-jqbz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The American and Israeli attack on Iran, a Russian ally, would appear to be another blow to Moscow’s foreign policy and global reach.&lt;br/&gt;(러시아의 동맹국인 이란에 대한 미국과 이스라엘의 공격은 모스크바의 외교 정책과 글로벌 영향력에 또 다른 타격으로 보일 수 있다.)&lt;/p&gt;
 &lt;p&gt;Russia is already bogged down in Ukraine, with only modest gains in the fifth year of that war. The war in Iran comes on top of a revolution in Syria that overthrew the Russian ally Bashar al-Assad and the American raid to arrest another Russian ally, Nicolás Maduro, in Venezuela.&lt;br/&gt;(러시아는 이미 우크라이나 전쟁에 발이 묶여 5년 차에 접어든 이 전쟁에서 소폭의 성과만을 거두고 있다. 이란 전쟁은 러시아의 동맹국인 바샤르 알아사드를 전복시킨 시리아 혁명과 베네수엘라에서 또 다른 러시아 동맹국인 니콜라스 마두로를 체포하기 위한 미국의 습격에 더해 발생했다.)&lt;/p&gt;
 &lt;p&gt;Then there is increased American economic pressure on Russia’s ally Cuba and the electoral defeat of Russia’s ally Viktor Orban in Hungary.&lt;br/&gt;(또한 러시아의 동맹국인 쿠바에 대한 미국의 경제적 압박이 강화되었고, 헝가리에서는 러시아의 동맹국인 빅토르 오르반이 선거에서 패배했다.)&lt;/p&gt;
@@ -1408,26 +1177,7 @@ HIV는 바이러스가 몸속 깊은 곳에 숨어 있다가 기회를 보면 �
 워싱턴이 미국 기업이 보호될 것이라는 신뢰할 수 있는 신호를 보내거나, "다른 권위주의 정권들이 매우 신중히 연구할 선례, 즉 해외에 있는 미국 관련 기업을 공격해도 구두상의 우려만 직면하면 된다는 것을 조용히 받아들이는 것"이라고 그는 말했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 아담 엔터스(Adam Entous)와 올하 코노발로바(Olha Konovalova)가 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/10/multimedia/00int-ukraine-us-businesses-01-pvkl/00int-ukraine-us-businesses-01-pvkl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 01:46:19 +0000</pubDate></item><item><title>Xi Is Poised to Press Trump on Arms Sales to Taiwan (시진핑 주석, 대만 무기 판매 관련 트럼프 압박 예상)</title><link>https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The United States’ stance on Taiwan has rested for decades on a complex latticework of policies designed to support the island democracy while avoiding treating it officially as an independent country, a step that would enrage Beijing.&lt;br/&gt;(미국의 대만에 대한 입장은 수십 년 동안 섬나라 민주주의를 지원하면서도 공식적으로 독립국으로 취급하지 않는 복잡한 정책 체계에 기반을 두고 있으며, 이는 베이징을 자극할 수 있는 조치입니다.)&lt;/p&gt;
-&lt;p&gt;Many in Taiwan are holding their breath for what may happen to that delicate structure when President Trump, with his off-the-cuff, transactional ways, meets China’s leader, Xi Jinping, in Beijing for a two-day summit starting Thursday. Mr. Xi appears poised to lecture Mr. Trump on U.S. support for Taiwan, especially weapons sales.&lt;br/&gt;(많은 대만인들은 즉흥적이고 거래 중심적인 방식의 트럼프 대통령이 시진핑 중국 국가주석과 목요일부터 이틀간 베이징에서 정상회담을 가질 때 이 섬세한 구조에 어떤 일이 일어날지 숨죽여 지켜보고 있습니다. 시 주석은 트럼프 대통령에게 미국의 대만 지원, 특히 무기 판매에 대해 훈계할 태세를 갖춘 것으로 보입니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Trump and his officials have said that his trip to Beijing will be focused on trade and investment. But China’s foreign minister, Wang Yi, and other officials have indicated that they also expect the two presidents to discuss Taiwan, the issue that could most likely ignite a war between their countries. China claims Taiwan is its territory, and could use armed force to take it, while the United States says it could intervene to defend Taiwan, a longtime partner.&lt;br/&gt;(트럼프 대통령과 그의 관계자들은 그의 베이징 방문이 무역과 투자에 초점을 맞출 것이라고 밝혔습니다. 그러나 왕이 중국 외교부장과 다른 관리들은 양국 정상이 양국 간 전쟁을 촉발할 가능성이 가장 큰 현안인 대만 문제도 논의할 것으로 예상한다고 밝혔습니다. 중국은 대만이 자국의 영토라고 주장하며 무력을 사용해 이를 탈환할 수 있다고 하고, 미국은 오랜 파트너인 대만을 방어하기 위해 개입할 수 있다고 밝히고 있습니다.)&lt;/p&gt;
-&lt;p&gt;“The Taiwan question is at the very core of China’s core interests,” Lin Jian, a spokesman for China’s Foreign Ministry said last week when asked if the issue would be a priority for Mr. Xi at the summit.&lt;br/&gt;("대만 문제는 중국 핵심 이익의 최우선 과제입니다," 린젠 중국 외교부 대변인이 지난주 이 문제가 정상회담에서 시 주석의 우선순위가 될 것인지 묻는 질문에 이렇게 말했습니다.)&lt;/p&gt;
-&lt;p&gt;Taiwan often comes up in talks between Chinese and U.S. leaders. But the summit’s setting in Beijing will give Mr. Xi more opportunity and time to make his case, said Ryan Hass, a former director for China at the National Security Council.&lt;br/&gt;(대만 문제는 중국과 미국 지도자 간의 회담에서 자주 거론됩니다. 그러나 베이징에서 열리는 정상회담의 환경은 시 주석에게 자신의 입장을 펼칠 더 많은 기회와 시간을 제공할 것이라고 라이언 해스 전 국가안보회의 중국 담당 국장이 말했습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Xi may try to persuade Mr. Trump to say that he opposes Taiwanese independence. That could be a setback for Taiwan’s president, Lai Ching-te, though he has said he has no plans to declare independence. Successive U.S. presidents have said they “do not support” independence for Taiwan. Declaring “opposition” may suggest greater sympathy with Beijing’s view that Mr. Lai’s government is the side stirring up trouble, experts said.&lt;br/&gt;(시 주석은 트럼프 대통령에게 대만 독립에 반대한다고 말하도록 설득할 수 있습니다. 이는 대만의 라이칭더 총통에게는 좌절이 될 수 있지만, 그는 독립 선언 계획이 없다고 밝혔습니다. 역대 미국 대통령들은 대만의 독립을 "지지하지 않는다"고 밝혀 왔습니다. 전문가들은 "반대"를 선언하는 것은 라이 총리 정부가 문제를 일으키는 쪽이라는 베이징의 시각에 더 동조하는 것을 암시할 수 있다고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;“It could be easily used by China to claim that the U.S. is taking Beijing’s side, and even create new diplomatic pressure on Taiwan,” said Chen Kuan-ting, a lawmaker from Mr. Lai’s Democratic Progressive Party.&lt;br/&gt;("이는 중국이 미국이 베이징 편을 든다고 주장하고 대만에 새로운 외교적 압력을 가하는 데 쉽게 사용될 수 있습니다," 라이 총리의 민주진보당 소속 천관팅 의원이 말했습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Xi’s main focus in raising Taiwan will probably be to persuade Mr. Trump to slow, or ultimately reduce, U.S. arms sales to the island, experts from China and Washington have said. In a phone call in February, Mr. Xi urged Mr. Trump to handle the issue of arms sales with “extreme caution.”&lt;br/&gt;(중국과 워싱턴의 전문가들은 시 주석이 대만 문제를 제기하는 주요 목적은 트럼프 대통령이 섬나라에 대한 미국의 무기 판매를 늦추거나 궁극적으로 줄이도록 설득하는 것일 것이라고 말했습니다. 시 주석은 2월 전화 통화에서 트럼프 대통령에게 무기 판매 문제를 "극도로 신중하게" 처리할 것을 촉구했습니다.)&lt;/p&gt;
-&lt;p&gt;The Trump administration approved $11 billion in arms sales to Taiwan late last year, drawing condemnation from Beijing, which quickly held a two-day military exercise near Taiwan. Another arms sale package worth around $14 billion is awaiting final approval from Mr. Trump, who has held off making a decision for months already.&lt;br/&gt;(트럼프 행정부는 작년 말 대만에 110억 달러 규모의 무기 판매를 승인했으며, 이에 베이징은 비난을 퍼부으며 대만 인근에서 이틀간의 군사 훈련을 빠르게 실시했습니다. 약 140억 달러 규모의 또 다른 무기 판매 패키지는 트럼프 대통령의 최종 승인을 기다리고 있으며, 그는 이미 몇 달 동안 결정을 보류해 왔습니다.)&lt;/p&gt;
-&lt;p&gt;China wants Mr. Trump to delay approval, and ultimately to persuade him and his successors to roll back broader military support to Taiwan, said Xin Qiang, the director of the Center for Taiwan Studies at Fudan University in Shanghai.&lt;br/&gt;(중국은 트럼프 대통령이 승인을 지연시키고, 궁극적으로 그와 후임자들이 대만에 대한 더 광범위한 군사 지원을 축소하도록 설득하기를 원한다고 상하이 푸단대학교 대만연구센터 소장 신창이 말했습니다.)&lt;/p&gt;
-&lt;p&gt;“But China also knows that’s difficult right now,” he said, “so they hope at least for delays and then a reduction — a reduction in the monetary value of the arms, in the scale, in the quality of the weapons sold.”&lt;br/&gt;("하지만 중국은 현재로서는 그것이 어렵다는 것을 알고 있습니다," 그는 말했습니다. "그래서 최소한 지연과 그 다음에는 축소를 희망합니다. 즉, 판매되는 무기의 금전적 가치, 규모, 질에서의 축소입니다.")&lt;/p&gt;
-&lt;p&gt;Professor Xin acknowledged that coaxing Mr. Trump to significantly curtail U.S. arms sales would be a long shot. But if the U.S. sells more weapons to Taiwan, he added, “China certainly won’t be as enthusiastic about purchasing goods from the United States like agricultural products or Boeing aircraft.”&lt;br/&gt;(신 교수는 트럼프 대통령을 설득해 미국의 무기 판매를 상당히 줄이는 것은 가능성이 낮다는 점을 인정했습니다. 그러나 미국이 대만에 더 많은 무기를 판매한다면, 그는 "중국은 분명히 농산물이나 보잉 항공기와 같은 미국 제품을 구매하는 데 열의를 보이지 않을 것입니다"라고 덧붙였습니다.)&lt;/p&gt;
-&lt;p&gt;Many in Washington, including from both parties in Congress, support weapons sales to Taiwan. Taiwanese lawmakers last week approved a $25 billion special budget to cover the two big weapons packages, including the one waiting in the wings, adding to pressure on Mr. Trump. In a letter sent on Friday, a bipartisan group of eight U.S. senators urged Mr. Trump to move ahead on it.&lt;br/&gt;(워싱턴에서는 의회 양당을 포함한 많은 사람들이 대만에 대한 무기 판매를 지지하고 있습니다. 대만 의원들은 지난주 250억 달러 규모의 특별 예산을 승인하여 대기 중인 무기 패키지를 포함한 두 개의 대형 무기 패키지를 충당했으며, 이는 트럼프 대통령에게 압박을 가중시키고 있습니다. 금요일 발송된 서한에서 초당파 8명의 미 상원의원은 트럼프 대통령에게 이를 추진할 것을 촉구했습니다.)&lt;/p&gt;
-&lt;p&gt;Secretary of State Marco Rubio, who will accompany Mr. Trump to Beijing, last week brushed off speculation that the summit could produce a shift in U.S. policy toward Taiwan. “The Chinese understand our position on that topic. We understand theirs,” Mr. Rubio told a news conference at the White House.&lt;br/&gt;(트럼프 대통령과 함께 베이징에 동행할 마코 루비오 국무장관은 지난주 정상회담이 대만에 대한 미국 정책에 변화를 가져올 수 있다는 추측을 일축했습니다. "중국은 그 주제에 대한 우리의 입장을 이해합니다. 우리도 그들의 입장을 이해합니다," 루비오 장관은 백악관에서 열린 기자회견에서 말했습니다.)&lt;/p&gt;
-&lt;p&gt;Taiwanese officials have taken reassurance from such comments.&lt;br/&gt;(대만 관리들은 그러한 발언에서 위안을 얻었습니다.)&lt;/p&gt;
-&lt;p&gt;“The U.S. continues to reiterate in both public and private settings that its policy toward Taiwan has not changed,” Tsai Ming-yen, the director-general of Taiwan’s National Security Bureau, told lawmakers in Taipei last week.&lt;br/&gt;("미국은 공개 및 비공개 자리에서 대만에 대한 정책이 변하지 않았다고 계속해서 재확인하고 있습니다," 차이밍옌 대만 국가안전국장이 지난주 타이베이에서 의원들에게 말했습니다.)&lt;/p&gt;
-&lt;p&gt;Still, Mr. Xi could hold out the lure of economic deals and more summits later this year, including in Washington, to try to get Mr. Trump to hold back on the latest proposed arms package, said Mr. Hass, the former National Security Council official, now a China expert at the Brookings Institution.&lt;br/&gt;(그럼에도 불구하고, 시 주석은 올해 후반 워싱턴에서의 추가 정상회담을 포함한 경제적 거래의 유혹을 내세워 트럼프 대통령이 최신 제안된 무기 패키지를 보류하도록 설득할 수 있다고 현재 브루킹스 연구소의 중국 전문가인 해스 전 국가안보회의 관리가 말했습니다.)&lt;/p&gt;
-&lt;p&gt;“As a result, I have low expectations that Trump will approve another tranche of arms sales to Taiwan between now and this fall,” he said.&lt;br/&gt;("결과적으로, 올해 가을까지 트럼프가 또 다른 대만 무기 판매를 승인할 것이라는 기대는 낮습니다," 그는 말했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 11 May 2026 21:21:56 +0000</pubDate></item><item><title>Why the British Prime Minister Remains in Deep Trouble (영국 총리가 여전히 깊은 위기에 빠진 이유)</title><link>https://www.nytimes.com/2026/05/12/world/europe/kier-starmer-uk-prime-minister.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/12/multimedia/12uk-starmer01-photo-fwjb/12uk-starmer01-photo-fwjb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/10/multimedia/00int-ukraine-us-businesses-01-pvkl/00int-ukraine-us-businesses-01-pvkl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 01:46:19 +0000</pubDate></item><item><title>Why the British Prime Minister Remains in Deep Trouble (영국 총리가 여전히 깊은 위기에 빠진 이유)</title><link>https://www.nytimes.com/2026/05/12/world/europe/kier-starmer-uk-prime-minister.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/12/multimedia/12uk-starmer01-photo-fwjb/12uk-starmer01-photo-fwjb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Prime Minister Keir Starmer of Britain staved off calls for his resignation on Tuesday, but he remains in deep political peril as he waits to see whether his Labour Party rivals will formally launch a challenge to his leadership.&lt;br/&gt;(영국의 키어 스타머 총리는 화요일 사임 요구를 일단 피해갔지만, 그의 노동당 내 경쟁자들이 공식적으로 지도력에 도전할지 여부를 기다리는 동안 여전히 심각한 정치적 위험에 처해 있습니다.)&lt;/p&gt;
 &lt;p&gt;His two most likely opponents — Wes Streeting, the health secretary, and Andy Burnham, the mayor of Manchester — both remained silent about their plans after Mr. Starmer effectively dared them in a Tuesday morning cabinet meeting to mount a bid to oust him.&lt;br/&gt;(가장 유력한 반대자 두 명인 웨스 스트리팅 보건장관과 앤디 버넘 맨체스터 시장은 스타머 총리가 화요일 아침 내각 회의에서 사실상 그를 축출하려는 시도를 하라고 도발한 후에도 자신들의 계획에 대해 침묵을 지켰습니다.)&lt;/p&gt;
 &lt;p&gt;The prime minister has remained defiant in the face of an increasing number of Labour lawmakers who are calling for him to step aside. That number grew to beyond 80 by Tuesday evening, even as 100 supporters of the prime minister issued a letter saying they opposed a messy leadership fight.&lt;br/&gt;(총리는 사퇴를 요구하는 노동당 의원들의 수가 증가하는 상황에서도 여전히 반항적인 태도를 유지하고 있습니다. 화요일 저녁까지 그 수는 80명을 넘어섰으며, 한편으로는 총리를 지지하는 100명의 의원들이 혼란스러운 지도력 싸움에 반대한다는 서한을 발표했습니다.
@@ -1473,4 +1223,121 @@ HIV는 바이러스가 몸속 깊은 곳에 숨어 있다가 기회를 보면 �
 "새 지도력이 중기 경제 성장을 촉진하는 데 더 성공적일 것 같지는 않습니다."라고 그들은 썼으며, "특히 현재의 재정 제약이 그대로 남아 있기 때문입니다."라고 덧붙였습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
 스티븐 캐슬과 메건 스페시아가 런던에서, 에셰 넬슨이 파리에서 보도에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/europe/kier-starmer-uk-prime-minister.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/12/multimedia/12uk-starmer01-photo-fwjb/12uk-starmer01-photo-fwjb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 12:14:08 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/europe/kier-starmer-uk-prime-minister.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/12/multimedia/12uk-starmer01-photo-fwjb/12uk-starmer01-photo-fwjb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 12:14:08 +0000</pubDate></item><item><title>Battle Over the Strait of Hormuz Leaves Safe Passage a Gamble (호르무즈 해협을 둘러싼 전투, 안전 통과를 도박으로 만든다)</title><link>https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/08/multimedia/12mideast-ships-Hormuz1/08Biz-Iran-Ship-2-zckl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;With both Iran and the United States exerting control in and around parts of the Strait of Hormuz, securing safe passage for commercial ships — even those without Iranian links — remains opaque and difficult.&lt;br/&gt;(이란과 미국이 호르무즈 해협 일부 및 주변 지역에서 통제권을 행사하면서, 상업 선박(이란과 관련이 없는 선박까지도)의 안전한 통과를 보장하는 것은 여전히 불투명하고 어려운 상황이다.)&lt;/p&gt;
+&lt;p&gt;The United States Central Command said on Tuesday that its forces had redirected 65 commercial vessels and disabled four ships amid an American blockade on Iranian ports imposed last month — three vessels had been redirected since it reported on Monday. Not all were Iranian or linked to Iran.&lt;br/&gt;(미국 중부사령부는 화요일, 지난달 시행된 이란 항구에 대한 미국의 봉쇄 속에서 자국 군이 상업 선박 65척의 항로를 변경하고 4척의 선박을 무력화했다고 밝혔다—그중 3척은 월요일 보고 이후 항로가 변경되었다. 이들 모두가 이란 선박이거나 이란과 관련된 것은 아니었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이란은 화요일, TV 인터뷰에서 이슬람 혁명수비대 해군 정치 부국장 모하마드 아크바르자데에 따르면 "호르무즈 해협의 범위가 상당히 확장되었으며" "광범위한 작전 지역으로 변모했다"고 주장했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이란은 이제 해협을 "자스크 해안과 시리크에서 그레이터 툰브 섬 너머까지의 지역"으로 정의한다고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이전
+&lt;&lt;&lt;PARA&gt;&gt;
+지역
+&lt;&lt;&lt;PARA&gt;&gt;
+이란
+&lt;&lt;&lt;PARA&gt;&gt;
+호르무즈 섬
+&lt;&lt;&lt;PARA&gt;&gt;
+케슘
+&lt;&lt;&lt;PARA&gt;&gt;
+헹감
+&lt;&lt;&lt;PARA&gt;&gt;
+시리크
+&lt;&lt;&lt;PARA&gt;&gt;
+확장된
+&lt;&lt;&lt;PARA&gt;&gt;
+지역
+&lt;&lt;&lt;PARA&gt;&gt;
+그레이터
+&lt;&lt;&lt;PARA&gt;&gt;
+툰브
+&lt;&lt;&lt;PARA&gt;&gt;
+오만
+&lt;&lt;&lt;PARA&gt;&gt;
+자스크
+&lt;&lt;&lt;PARA&gt;&gt;
+두바이
+&lt;&lt;&lt;PARA&gt;&gt;
+아랍에미리트
+&lt;&lt;&lt;PARA&gt;&gt;
+오만
+&lt;&lt;&lt;PARA&gt;&gt;
+50마일
+&lt;&lt;&lt;PARA&gt;&gt;
+이전
+&lt;&lt;&lt;PARA&gt;&gt;
+지역
+&lt;&lt;&lt;PARA&gt;&gt;
+이란
+&lt;&lt;&lt;PARA&gt;&gt;
+호르무즈 섬
+&lt;&lt;&lt;PARA&gt;&gt;
+케슘
+&lt;&lt;&lt;PARA&gt;&gt;
+헹감
+&lt;&lt;&lt;PARA&gt;&gt;
+시리크
+&lt;&lt;&lt;PARA&gt;&gt;
+확장된
+&lt;&lt;&lt;PARA&gt;&gt;
+지역
+&lt;&lt;&lt;PARA&gt;&gt;
+그레이터
+&lt;&lt;&lt;PARA&gt;&gt;
+툰브
+&lt;&lt;&lt;PARA&gt;&gt;
+오만
+&lt;&lt;&lt;PARA&gt;&gt;
+자스크
+&lt;&lt;&lt;PARA&gt;&gt;
+두바이
+&lt;&lt;&lt;PARA&gt;&gt;
+오만
+&lt;&lt;&lt;PARA&gt;&gt;
+아랍에미리트
+&lt;&lt;&lt;PARA&gt;&gt;
+50마일
+&lt;&lt;&lt;PARA&gt;&gt;
+출처: 이란 혁명수비대 (이전 및 확장된 지역).
+&lt;&lt;&lt;PARA&gt;&gt;
+잭 레빗/뉴욕타임스
+&lt;&lt;&lt;PARA&gt;&gt;
+그 결과, 해상 정보 전문가들은 이 지역의 선박들이 정상 조건에서 해상 안전을 유지하기 위해 필수적인 정보를 전송하지 않고 점점 더 많이 항해하고 있다고 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+해상 정보 회사 윈드워드의 CEO 아미 다니엘은 "어둠 활동이 600% 증가했습니다"라고 말했다. 그는 많은 선박이 자신의 위치를 전송하는 트랜스폰더뿐만 아니라 다른 선박을 감지하는 레이다도 끄고 있다고 전했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다니엘 씨는 자신과 연구팀이 수백 척의 이란 혁명수비대 선박이 해역을 순찰하는 것을 목격하고 있으며, 이는 선원들이 "주로 안전 목적으로" 어둠 속으로 들어가고 있음을 시사한다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2월 말 미국-이스라엘의 이란 전쟁이 시작된 이후 이란의 상업 선박에 대한 보복 공격이 30건 이상 발생했다. 공격을 피하기 위해 일부 선박은 이란과 안전 통과를 협상하려고 시도하며, 이란 해역을 통과하고 해안을 지나는 항로를 이용하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 이것 역시 상당한 위험을 수반한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국이 항로를 변경한 선박 중에는 그리스 회사 이스턴 지중해 해운이 관리하는 아기오스 파누리스 1호가 포함되었다. 해상 정보 데이터에 따르면 이 선박은 월요일 이라크 원유를 싣고 베트남으로 향하던 중 호르무즈 해협을 통과한 후 오만 만 근처에서 방향을 전환했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+작전 문제를 논의하기 위해 익명을 요구한 미국 국방부 관리는 미군이 해당 선박을 항로 변경했음을 확인하며, 이는 선박이 미국 봉쇄를 위반하는 것을 막기 위한 조치라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이란 언론에 따르면 이 선박은 이란의 허가를 받아 해협을 통과했다. 이는 선박이 이란 해역과 해안을 따라 항해했으며, 전쟁 중 도입된 새로운 이란 시스템에 따라 통행료를 지불했거나 대체 협정을 맺었을 가능성을 시사한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난달, 미국 봉쇄를 발표하면서 중부사령부는 "비이란 항구를 오가는 호르무즈 해협 통과 선박의 항행 자유를 방해하지 않을 것"이라고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 이란의 항로 및 통행료 시스템에 참여하는 것은 미국의 지역 통제권 주장과 충돌한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이달 초, 재무부 해외자산통제국은 "이란의 선박 위협과 안전 통과를 위한 '통행료' 지불 요구를 인지하고 있으며" 참여자들은 "이란과의 거래에 관여할 경우 제재 노출 위험이 있다"고 경고하며 "모든 국가의 선박이 이란 항구 및 해안선에 출입할 경우 미 중부사령부의 공정한 해군 봉쇄의 대상이 된다"고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이스턴 지중해 해운은 논평 요청에 응하지 않았다. 블룸버그 뉴스가 중부사령부에 통과 허가를 요청했다고 보도한 베트남 국영 에너지 회사의 자회사 페트로베트남 오일 코퍼레이션도 응답하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 대형 원유 운반선의 곤경은 이란과 미국이 전쟁 시작 전 세계 석유 및 액화천연가스의 약 5분의 1이 통과하던 항로의 통제권을 두고 싸우는 가운데, 선박들이 위험한 수로를 탐색하는 데 직면한 장애물을 강조한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아크바르자데 씨는 이란이 호르무즈 해협을 이전에 "약 20~30마일"에서 이제 "200~300마일 이상을 포함하는" 확장된 지역으로 정의한다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"이는 일부 적들이 이란 이슬람 공화국의 해군이 약화되었거나 더 이상 존재하지 않는다고 주장하는 가운데 나온 것입니다"라고 아크바르자데 씨는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "이러한 조치는 이란 이슬람 공화국이 지역 움직임을 주의 깊고 강력하게 감시하고 있으며, 자국의 해역과 이익에 대한 어떤 침범도 허용하지 않을 것임을 보여줍니다"라고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 최근 선박 활동을 바탕으로 볼 때, 이란 역시 미국의 봉쇄 아래 어려움을 겪고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+윈드워드의 다니엘 씨는 최근 며칠간 해협에서 교통량이 증가했으며, 대부분 수출이 차단된 상황에서 석유 저장 공간을 제공하기 위해 빈 이란 유조선이 들어오는 활동이 포함된다고 말했다. 미국 관계자들은 이란이 석유를 저장할 수 없게 되면 유정을 폐쇄해야 하며, 이는 국가의 침체된 경제에 더 큰 압력을 가할 것이라고 주장해 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그들은 선박을 급히 들여보내려 하고 있다고 생각합니다"라고 그는 말했다. 이러한 활동은 미국의 압박 전술이 효과를 내고 있음을 시사한다. 미국의 봉쇄에 대해 그는 "효과를 발휘하기 시작한 것 같습니다"라고 덧붙였다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/08/multimedia/12mideast-ships-Hormuz1/08Biz-Iran-Ship-2-zckl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 12 May 2026 15:50:39 +0000</pubDate></item></channel></rss>
