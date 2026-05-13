@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 19:05:41 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 21:09:17 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>주장은 – claim</title><link>urn:urn:vocab:주장은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>비슷했다 – was similar</title><link>urn:urn:vocab:비슷했다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1665545910976-9d54db85c362?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBzaW1pbGFyfGVufDB8fHx8MTc3ODY3NDE1N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비슷했다 (was similar)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;10·20대에서는 29%대35%, 30대에서는 42%대35%로 비슷했다&lt;br/&gt;&lt;em&gt;In the 10s and 20s age groups, it was similar at 29% to 35%, and in the 30s age group, it was similar at 42% to 35%.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지방선거에서 여당에 힘을 실어줘야 한다는 응답자는 43%, 야당에 힘을 실어줘야 한다는 응답자는 41%로 비슷했다&lt;br/&gt;&lt;em&gt;(In the local elections, 43% of respondents said they should support the ruling party, and 41% said they should support the opposition party, which were similar.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지방선거에서 야당에 힘을 실어줘야 한다는 응답자는 42%, 여당에 힘을 실어줘야 한다는 응답자는 40%로 비슷했다&lt;br/&gt;&lt;em&gt;(In the local elections, 42% of respondents said they should support the opposition party, and 40% said they should support the ruling party, which were similar.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 옷은 내 옷과 비슷했다.&lt;br/&gt;&lt;em&gt;That clothes was similar to mine.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;두 그림의 색깔이 비슷했다.&lt;br/&gt;&lt;em&gt;The colors of the two pictures were similar.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1665545910976-9d54db85c362?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBzaW1pbGFyfGVufDB8fHx8MTc3ODY3NDE1N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비슷했다 (was similar)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;10·20대에서는 29%대35%, 30대에서는 42%대35%로 비슷했다&lt;br/&gt;&lt;em&gt;In the 10s and 20s age groups, it was similar at 29% to 35%, and in the 30s age group, it was similar at 42% to 35%.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지방선거에서 여당에 힘을 실어줘야 한다는 응답자는 43%, 야당에 힘을 실어줘야 한다는 응답자는 41%로 비슷했다&lt;br/&gt;&lt;em&gt;(In the local elections, 43% of respondents said they should support the ruling party, and 41% said they should support the opposition party, which were similar.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지방선거에서 야당에 힘을 실어줘야 한다는 응답자는 42%, 여당에 힘을 실어줘야 한다는 응답자는 40%로 비슷했다&lt;br/&gt;&lt;em&gt;(In the local elections, 42% of respondents said they should support the opposition party, and 40% said they should support the ruling party, which were similar.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 옷은 내 옷과 비슷했다.&lt;br/&gt;&lt;em&gt;That clothes was similar to mine.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;두 그림의 색깔이 비슷했다.&lt;br/&gt;&lt;em&gt;The colors of the two pictures were similar.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 13 May 2026 21:09:17 +0900</pubDate><guid isPermaLink="false">vocab-97ab8742b35db0216f80a42f995b0db674df4c93</guid><enclosure url="https://images.unsplash.com/photo-1665545910976-9d54db85c362?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBzaW1pbGFyfGVufDB8fHx8MTc3ODY3NDE1N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="130048" /><ns2:content url="https://images.unsplash.com/photo-1665545910976-9d54db85c362?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBzaW1pbGFyfGVufDB8fHx8MTc3ODY3NDE1N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1665545910976-9d54db85c362?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBzaW1pbGFyfGVufDB8fHx8MTc3ODY3NDE1N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>비슷했다</category></item><item><title>주장은 – claim</title><link>urn:urn:vocab:주장은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFpbXxlbnwwfHx8fDE3Nzg2NjY3MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주장은 (claim)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;정 후보 선대위는 이날 입장문을 내고 “김재섭 의원의 주장은 사실이 아니며, 일방적 주장에 불과하다”며 “당시 사건의 판결문에는 ‘민주자유당 소속 국회의원 박모씨 비서관인 피해자 이모씨와 함께 합석해 정치 관계 이야기 등을 나누다가 서로 정파가 다른 관계로 언성이 높아지면서 다툼이 되자 각 주먹과 발로 위 피해자의 얼굴 등을 수회 때리고’라고 판시하고 있다”고 했다&lt;br/&gt;&lt;em&gt;Candidate Jeong's election committee issued a statement on this day, saying, 'Rep. Kim Jae-seop's claim is not true and is merely a one-sided assertion,' and added, 'The ruling of the case at that time stated, "While sitting together with the victim, Mr. Lee, an aide to a Democratic Liberal Party lawmaker named Park, and discussing political matters, they raised their voices due to differing political factions, leading to a fight, and repeatedly struck the victim's face with fists and feet." '&lt;/em&gt;&lt;/p&gt;
