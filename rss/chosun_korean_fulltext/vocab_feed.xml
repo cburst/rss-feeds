@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 14:55:23 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 17:01:12 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>시민을 – citizen (object)</title><link>urn:urn:vocab:시민을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>주인을 – owner (object)</title><link>urn:urn:vocab:주인을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1581885230853-e6973b8b7210?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvd25lciUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3Nzg2NTkyNjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주인을 (owner (object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (김재섭 국민의힘 의원이 13일 더불어민주당 정원오 서울시장 후보의 과거 폭행 사건과 관련해 “술자리에서 카페 주인에게 여종업원과의 외박을 강요하고 이를 거절하는 주인을 협박하다 이를 제지하는 시민과 출동한 경찰관을 폭행한 것”이라고 주장했다&lt;br/&gt;&lt;em&gt;" (Kim Jae-seop, a lawmaker from the People Power Party, claimed on the 13th regarding the past assault case of Jeong Won-oh, the Democratic Party's candidate for Seoul mayor, that 'he forced the cafe owner to let a female employee stay out overnight during a drinking session, threatened the owner who refused, and then assaulted a citizen who intervened and a police officer who arrived at the scene.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (한편, 이날 국민의힘 김재섭 의원은 정 후보의 과거 폭행 전과와 관련해 5·18 민주화운동과는 전혀 무관했다”며 “술자리에서 카페 주인에게 여종업원과의 외박을 강요하고 이를 거절하는 주인을 협박한 사건”이라고 주장했다&lt;br/&gt;&lt;em&gt;" (Meanwhile, on the same day, Kim Jae-seop of the People Power Party claimed that the candidate Jeong's past assault record had nothing to do with the May 18 Democratic Uprising, and that it was 'an incident where he forced the cafe owner to let a female employee stay out overnight during a drinking session and threatened the owner who refused.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 주인을 만났어요.&lt;br/&gt;&lt;em&gt;I met the owner.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주인을 찾고 있어요.&lt;br/&gt;&lt;em&gt;I am looking for the owner.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1581885230853-e6973b8b7210?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvd25lciUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3Nzg2NTkyNjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주인을 (owner (object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (김재섭 국민의힘 의원이 13일 더불어민주당 정원오 서울시장 후보의 과거 폭행 사건과 관련해 “술자리에서 카페 주인에게 여종업원과의 외박을 강요하고 이를 거절하는 주인을 협박하다 이를 제지하는 시민과 출동한 경찰관을 폭행한 것”이라고 주장했다&lt;br/&gt;&lt;em&gt;" (Kim Jae-seop, a lawmaker from the People Power Party, claimed on the 13th regarding the past assault case of Jeong Won-oh, the Democratic Party's candidate for Seoul mayor, that 'he forced the cafe owner to let a female employee stay out overnight during a drinking session, threatened the owner who refused, and then assaulted a citizen who intervened and a police officer who arrived at the scene.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (한편, 이날 국민의힘 김재섭 의원은 정 후보의 과거 폭행 전과와 관련해 5·18 민주화운동과는 전혀 무관했다”며 “술자리에서 카페 주인에게 여종업원과의 외박을 강요하고 이를 거절하는 주인을 협박한 사건”이라고 주장했다&lt;br/&gt;&lt;em&gt;" (Meanwhile, on the same day, Kim Jae-seop of the People Power Party claimed that the candidate Jeong's past assault record had nothing to do with the May 18 Democratic Uprising, and that it was 'an incident where he forced the cafe owner to let a female employee stay out overnight during a drinking session and threatened the owner who refused.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 주인을 만났어요.&lt;br/&gt;&lt;em&gt;I met the owner.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주인을 찾고 있어요.&lt;br/&gt;&lt;em&gt;I am looking for the owner.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 13 May 2026 17:01:12 +0900</pubDate><guid isPermaLink="false">vocab-5bdda3ba589685a55ef57796eaad7d514ad3d59d</guid><enclosure url="https://images.unsplash.com/photo-1581885230853-e6973b8b7210?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvd25lciUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3Nzg2NTkyNjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="48036" /><ns2:content url="https://images.unsplash.com/photo-1581885230853-e6973b8b7210?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvd25lciUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3Nzg2NTkyNjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1581885230853-e6973b8b7210?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvd25lciUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3Nzg2NTkyNjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>주인을</category></item><item><title>시민을 – citizen (object)</title><link>urn:urn:vocab:시민을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580938642979-4c82ee48d612?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaXRpemVuJTIwJTI4b2JqZWN0JTI5fGVufDB8fHx8MTc3ODY1MTcxN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시민을 (citizen (object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;정희용 사무총장은 12일 “오 후보와의 일대일 토론이 그렇게 두렵나”라며 “시간을 끌면서 침대 축구 하듯이 버텨보겠다는 태도는 시민을 무시하는 오만함”이라고 했다&lt;br/&gt;&lt;em&gt;Secretary-General Jeong Hee-yong said on the 12th, 'Are you so afraid of a one-on-one debate with candidate Oh?' and added, 'The attitude of stalling and holding out like playing bed soccer is an arrogance that ignores the citizens.'&lt;/em&gt;&lt;/p&gt;
