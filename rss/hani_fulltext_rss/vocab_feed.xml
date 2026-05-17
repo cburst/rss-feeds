@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 21:09:11 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 01:52:13 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>응답은 – response</title><link>urn:urn:vocab:응답은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>식으로 – in a way</title><link>urn:urn:vocab:식으로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1666389785855-a963e0519f18?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGElMjB3YXl8ZW58MHx8fHwxNzc5MDM2NzI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="식으로 (in a way)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;중련 운행은 서로 다른 운영기관의 열차(SRT·KTX)를 하나로 연결해 운행하는 방식으로, 지난 15일부터 시범 운행이 시작됐다&lt;br/&gt;&lt;em&gt;The coupled operation is a method of connecting trains from different operators (SRT and KTX) into one, and a trial operation began on the 15th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 후보지 공모는 주민들이 직접 제안하는 방식으로 진행됐다&lt;br/&gt;&lt;em&gt;This call for candidate sites was conducted in a way that residents directly propose.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;용선생이라는 캐릭터가 아이들과 함께 역사 현장을 누비는 스토리텔링 방식으로, 선사시대부터 근현대까지 긴 흐름을 이야기처럼 자연스럽게 따라갈 수 있다&lt;br/&gt;&lt;em&gt;It is a storytelling method where a character named Yongseonsaeng roams historical sites with children, allowing them to naturally follow the long flow from prehistoric times to modern times like a story.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 새로운 식으로 해요.&lt;br/&gt;&lt;em&gt;This is done in a new way.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 친절한 식으로 말해요.&lt;br/&gt;&lt;em&gt;He speaks in a kind way.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1666389785855-a963e0519f18?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGElMjB3YXl8ZW58MHx8fHwxNzc5MDM2NzI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="식으로 (in a way)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;중련 운행은 서로 다른 운영기관의 열차(SRT·KTX)를 하나로 연결해 운행하는 방식으로, 지난 15일부터 시범 운행이 시작됐다&lt;br/&gt;&lt;em&gt;The coupled operation is a method of connecting trains from different operators (SRT and KTX) into one, and a trial operation began on the 15th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 후보지 공모는 주민들이 직접 제안하는 방식으로 진행됐다&lt;br/&gt;&lt;em&gt;This call for candidate sites was conducted in a way that residents directly propose.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;용선생이라는 캐릭터가 아이들과 함께 역사 현장을 누비는 스토리텔링 방식으로, 선사시대부터 근현대까지 긴 흐름을 이야기처럼 자연스럽게 따라갈 수 있다&lt;br/&gt;&lt;em&gt;It is a storytelling method where a character named Yongseonsaeng roams historical sites with children, allowing them to naturally follow the long flow from prehistoric times to modern times like a story.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 새로운 식으로 해요.&lt;br/&gt;&lt;em&gt;This is done in a new way.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 친절한 식으로 말해요.&lt;br/&gt;&lt;em&gt;He speaks in a kind way.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 18 May 2026 01:52:13 +0900</pubDate><guid isPermaLink="false">vocab-80da357aad163a810963cab99cdb7655f26af00f</guid><enclosure url="https://images.unsplash.com/photo-1666389785855-a963e0519f18?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGElMjB3YXl8ZW58MHx8fHwxNzc5MDM2NzI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="264895" /><ns2:content url="https://images.unsplash.com/photo-1666389785855-a963e0519f18?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGElMjB3YXl8ZW58MHx8fHwxNzc5MDM2NzI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1666389785855-a963e0519f18?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGElMjB3YXl8ZW58MHx8fHwxNzc5MDM2NzI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>식으로</category></item><item><title>응답은 – response</title><link>urn:urn:vocab:응답은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1630769989573-d7f20f0193b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNwb25zZXxlbnwwfHx8fDE3Nzg2NzQxNTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="응답은 (response)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(13일 4차 유권자 패널 조사 결과를 보면, 미국으로부터 2028년까지 전작권 전환을 추진하는 정부 목표를 긍정적으로 보는 응답은 59&lt;br/&gt;&lt;em&gt;According to the results of the 4th voter panel survey on the 13th, 59.5% of respondents viewed positively the government's goal of pushing for the transfer of wartime operational control from the U.S. by 2028, while 30% responded negatively.&lt;/em&gt;&lt;/p&gt;
