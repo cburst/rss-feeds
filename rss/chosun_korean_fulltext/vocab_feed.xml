@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 May 2026 10:10:41 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 18:26:48 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>노조가 – union (as subject)</title><link>urn:urn:vocab:노조가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>서류를 – document</title><link>urn:urn:vocab:서류를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb2N1bWVudHxlbnwwfHx8fDE3NzkwOTY0MDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서류를 (document)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(선거관리위원회에 제출한 자신의 후보 등록 서류를 빼앗아 달아난 경북 지역 기초단체장 예비후보자가 경찰에 고발됐다&lt;br/&gt;&lt;em&gt;A preliminary candidate for a local government head in Gyeongbuk region, who snatched and fled with his candidate registration documents submitted to the Election Commission, has been reported to the police.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(포항시남구선거관리위원회는 자신의 후보자 등록 신청 서류를 빼앗아 달아난 포항시장 선거 예비후보자 A씨를 포항남부경찰서에 고발했다고 18일 밝혔다&lt;br/&gt;&lt;em&gt;The Pohang Namsu Election Commission announced on the 18th that it reported Mr. A, a preliminary candidate for the Pohang mayoral election who snatched and fled with his candidate registration documents, to the Pohang Nambu Police Station.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(앞서 이날 오후 4시쯤 A씨는 포항 남구 선관위에 자신의 후보자 등록 서류를 제출하면서 “선거권자 추천서를 받는 과정이 어렵다”며 선관위 직원에게 욕설을 하는 등의 소란을 피워 경찰이 출동하기도 했다&lt;br/&gt;&lt;em&gt;Earlier, around 4 p.m. that day, Mr. A submitted his candidate registration documents to the Pohang Namsu Election Commission, but caused a disturbance by swearing at election officials, saying 'the process of obtaining voter recommendations is difficult,' leading to police being dispatched.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서류를 제출하세요.&lt;br/&gt;&lt;em&gt;Please submit the documents.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서류를 확인했어요.&lt;br/&gt;&lt;em&gt;I checked the documents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb2N1bWVudHxlbnwwfHx8fDE3NzkwOTY0MDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서류를 (document)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(선거관리위원회에 제출한 자신의 후보 등록 서류를 빼앗아 달아난 경북 지역 기초단체장 예비후보자가 경찰에 고발됐다&lt;br/&gt;&lt;em&gt;A preliminary candidate for a local government head in Gyeongbuk region, who snatched and fled with his candidate registration documents submitted to the Election Commission, has been reported to the police.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(포항시남구선거관리위원회는 자신의 후보자 등록 신청 서류를 빼앗아 달아난 포항시장 선거 예비후보자 A씨를 포항남부경찰서에 고발했다고 18일 밝혔다&lt;br/&gt;&lt;em&gt;The Pohang Namsu Election Commission announced on the 18th that it reported Mr. A, a preliminary candidate for the Pohang mayoral election who snatched and fled with his candidate registration documents, to the Pohang Nambu Police Station.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(앞서 이날 오후 4시쯤 A씨는 포항 남구 선관위에 자신의 후보자 등록 서류를 제출하면서 “선거권자 추천서를 받는 과정이 어렵다”며 선관위 직원에게 욕설을 하는 등의 소란을 피워 경찰이 출동하기도 했다&lt;br/&gt;&lt;em&gt;Earlier, around 4 p.m. that day, Mr. A submitted his candidate registration documents to the Pohang Namsu Election Commission, but caused a disturbance by swearing at election officials, saying 'the process of obtaining voter recommendations is difficult,' leading to police being dispatched.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서류를 제출하세요.&lt;br/&gt;&lt;em&gt;Please submit the documents.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서류를 확인했어요.&lt;br/&gt;&lt;em&gt;I checked the documents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 18 May 2026 18:26:48 +0900</pubDate><guid isPermaLink="false">vocab-30d70b6d9a45c43d160909a27c91427bd8ead3ba</guid><enclosure url="https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb2N1bWVudHxlbnwwfHx8fDE3NzkwOTY0MDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="46516" /><ns2:content url="https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb2N1bWVudHxlbnwwfHx8fDE3NzkwOTY0MDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb2N1bWVudHxlbnwwfHx8fDE3NzkwOTY0MDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>서류를</category></item><item><title>파업을 – strike (as object)</title><link>urn:urn:vocab:파업을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598539632840-9eca55c4e270?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJpa2UlMjAlMjhhcyUyMG9iamVjdCUyOXxlbnwwfHx8fDE3NzkwODE1MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="파업을 (strike (as object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;성과급 산정 기준의 투명화와 초과이익성과급(OPI) 상한제 개편을 요구하며 5월 21일부터 파업을 강행하겠다는 노조와 사측의 평행선은 빅데이터 상에서 심각한 심리적 공포로 투영되고 있다&lt;br/&gt;&lt;em&gt;The parallel lines between the union, which has threatened to go on strike from May 21 demanding transparency in performance bonus calculation standards and reform of the OPI cap, and the management are being projected as severe psychological fear in big data.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;삼성전자 노조는 회사와 합의가 되지 않을 경우 21일부터 파업을 시작하겠다는 입장이다&lt;br/&gt;&lt;em&gt;Samsung Electronics union has stated that it will go on strike from the 21st if an agreement with the company is not reached.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;노동계 반발이 예상되지만 파업을 강행할 경우 긴급 조정권을 발동할 수 있다는 것이다&lt;br/&gt;&lt;em&gt;Although labor opposition is expected, if the strike goes ahead, the emergency mediation power can be invoked.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;노동자들이 파업을 시작했다.&lt;br/&gt;&lt;em&gt;The workers have started a strike.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;회사는 파업을 반대한다.&lt;br/&gt;&lt;em&gt;The company opposes the strike.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1598539632840-9eca55c4e270?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJpa2UlMjAlMjhhcyUyMG9iamVjdCUyOXxlbnwwfHx8fDE3NzkwODE1MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="파업을 (strike (as object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;성과급 산정 기준의 투명화와 초과이익성과급(OPI) 상한제 개편을 요구하며 5월 21일부터 파업을 강행하겠다는 노조와 사측의 평행선은 빅데이터 상에서 심각한 심리적 공포로 투영되고 있다&lt;br/&gt;&lt;em&gt;The parallel lines between the union, which has threatened to go on strike from May 21 demanding transparency in performance bonus calculation standards and reform of the OPI cap, and the management are being projected as severe psychological fear in big data.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;삼성전자 노조는 회사와 합의가 되지 않을 경우 21일부터 파업을 시작하겠다는 입장이다&lt;br/&gt;&lt;em&gt;Samsung Electronics union has stated that it will go on strike from the 21st if an agreement with the company is not reached.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;노동계 반발이 예상되지만 파업을 강행할 경우 긴급 조정권을 발동할 수 있다는 것이다&lt;br/&gt;&lt;em&gt;Although labor opposition is expected, if the strike goes ahead, the emergency mediation power can be invoked.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;노동자들이 파업을 시작했다.&lt;br/&gt;&lt;em&gt;The workers have started a strike.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;회사는 파업을 반대한다.&lt;br/&gt;&lt;em&gt;The company opposes the strike.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 18 May 2026 16:22:48 +0900</pubDate><guid isPermaLink="false">vocab-9ba3b4b61c1769940afcb07c44581e8475ed2eef</guid><enclosure url="https://images.unsplash.com/photo-1598539632840-9eca55c4e270?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJpa2UlMjAlMjhhcyUyMG9iamVjdCUyOXxlbnwwfHx8fDE3NzkwODE1MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="320963" /><ns2:content url="https://images.unsplash.com/photo-1598539632840-9eca55c4e270?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJpa2UlMjAlMjhhcyUyMG9iamVjdCUyOXxlbnwwfHx8fDE3NzkwODE1MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1598539632840-9eca55c4e270?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdHJpa2UlMjAlMjhhcyUyMG9iamVjdCUyOXxlbnwwfHx8fDE3NzkwODE1MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>파업을</category></item><item><title>노조가 – union (as subject)</title><link>urn:urn:vocab:노조가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1587567550498-bf53162caa34?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bmlvbiUyMCUyOGFzJTIwc3ViamVjdCUyOXxlbnwwfHx8fDE3NzkwNjY2Mzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="노조가 (union (as subject))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;'" (삼성전자 노사가 21일로 예고된 파업을 앞두고 18일 사실상 마지막 대화에 나선 가운데, 더불어민주당 박지원 의원은 “삼성전자 노조가 파업하면 국민들이 분노한다”며 “파업을 절대 안 해야 한다”고 말했다&lt;br/&gt;&lt;em&gt;As Samsung Electronics' labor and management held what was effectively their final talks on the 18th ahead of a strike scheduled for the 21st, Democratic Party lawmaker Park Ji-won said, "If the Samsung Electronics union goes on strike, the public will be angry," adding, "They must absolutely not go on strike."&lt;/em&gt;&lt;/p&gt;

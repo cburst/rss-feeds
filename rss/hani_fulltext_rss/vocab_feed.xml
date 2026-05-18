@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 May 2026 14:18:34 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 18:26:42 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>소개한다 – introduces</title><link>urn:urn:vocab:소개한다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>우리말 – our language (Korean)</title><link>urn:urn:vocab:우리말</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554296759-ec7c058ecf9c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvdXIlMjBsYW5ndWFnZSUyMCUyOEtvcmVhbiUyOXxlbnwwfHx8fDE3NzkwOTYzOTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="우리말 (our language (Korean))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Yonsei University Hosts Special Exhibition for the 100th Anniversary of Hangeul Day: "Our Language, Hangeul, Yonsei Spirit" (연세대학교, 한글날 제정 100주년 특별전 《우리말, 한글, 연세얼》 개최) &lt;&lt;br/&gt;&lt;em&gt;Yonsei University Hosts Special Exhibition for the 100th Anniversary of Hangeul Day: "Our Language, Hangeul, Yonsei Spirit"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Yonsei University Hosts Special Exhibition for the 100th Anniversary of Hangeul Day: "Our Language, Hangeul, Yonsei Spirit" (연세대학교, 한글날 제정 100주년 특별전 《우리말, 한글, 연세얼》 개최)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Yonsei University Hosts Special Exhibition for the 100th Anniversary of Hangeul Day: "Our Language, Hangeul, Yonsei Spirit"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;《우리말, 한글, 연세얼》 포스터&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Yonsei University (President Yoon Dong-sup) is holding a special exhibition titled "Our Language, Hangeul, Yonsei Spirit" to commemorate the 100th anniversary of Hangeul Day, coinciding with its 141st founding anniversary&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Poster for "Our Language, Hangeul, Yonsei Spirit"&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Yonsei University (President Yoon Dong-sup) is holding a special exhibition titled "Our Language, Hangeul, Yonsei Spirit" to commemorate the 100th anniversary of Hangeul Day, coinciding with its 141st founding anniversary&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리말은 아름다워요.&lt;br/&gt;&lt;em&gt;Our language is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리말을 배워요.&lt;br/&gt;&lt;em&gt;We learn our language.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554296759-ec7c058ecf9c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvdXIlMjBsYW5ndWFnZSUyMCUyOEtvcmVhbiUyOXxlbnwwfHx8fDE3NzkwOTYzOTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="우리말 (our language (Korean))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Yonsei University Hosts Special Exhibition for the 100th Anniversary of Hangeul Day: "Our Language, Hangeul, Yonsei Spirit" (연세대학교, 한글날 제정 100주년 특별전 《우리말, 한글, 연세얼》 개최) &lt;&lt;br/&gt;&lt;em&gt;Yonsei University Hosts Special Exhibition for the 100th Anniversary of Hangeul Day: "Our Language, Hangeul, Yonsei Spirit"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Yonsei University Hosts Special Exhibition for the 100th Anniversary of Hangeul Day: "Our Language, Hangeul, Yonsei Spirit" (연세대학교, 한글날 제정 100주년 특별전 《우리말, 한글, 연세얼》 개최)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Yonsei University Hosts Special Exhibition for the 100th Anniversary of Hangeul Day: "Our Language, Hangeul, Yonsei Spirit"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;《우리말, 한글, 연세얼》 포스터&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Yonsei University (President Yoon Dong-sup) is holding a special exhibition titled "Our Language, Hangeul, Yonsei Spirit" to commemorate the 100th anniversary of Hangeul Day, coinciding with its 141st founding anniversary&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Poster for "Our Language, Hangeul, Yonsei Spirit"&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Yonsei University (President Yoon Dong-sup) is holding a special exhibition titled "Our Language, Hangeul, Yonsei Spirit" to commemorate the 100th anniversary of Hangeul Day, coinciding with its 141st founding anniversary&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리말은 아름다워요.&lt;br/&gt;&lt;em&gt;Our language is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리말을 배워요.&lt;br/&gt;&lt;em&gt;We learn our language.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 18 May 2026 18:26:42 +0900</pubDate><guid isPermaLink="false">vocab-988b68373ff4e211552947c63cf831cf32850b71</guid><enclosure url="https://images.unsplash.com/photo-1554296759-ec7c058ecf9c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvdXIlMjBsYW5ndWFnZSUyMCUyOEtvcmVhbiUyOXxlbnwwfHx8fDE3NzkwOTYzOTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="103112" /><ns2:content url="https://images.unsplash.com/photo-1554296759-ec7c058ecf9c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvdXIlMjBsYW5ndWFnZSUyMCUyOEtvcmVhbiUyOXxlbnwwfHx8fDE3NzkwOTYzOTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1554296759-ec7c058ecf9c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvdXIlMjBsYW5ndWFnZSUyMCUyOEtvcmVhbiUyOXxlbnwwfHx8fDE3NzkwOTYzOTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>우리말</category></item><item><title>소개한다 – introduces</title><link>urn:urn:vocab:소개한다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530319067432-f2a729c03db5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRyb2R1Y2VzfGVufDB8fHx8MTc3OTA4MTUwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소개한다 (introduces)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전시는 ‘겨레’, ‘반갑습니다, 반가’, ‘파른’, ‘우리’라는 순우리말로 구성된 네 개의 주제를 통해 각 주체와 시기에 따라 한글 사랑을 지속해 온 연세 얼의 가치를 소개한다&lt;br/&gt;&lt;em&gt;The exhibition introduces the value of Yonsei spirit that has sustained love for Hangeul according to each subject and period through four themes composed of pure Korean words: 'gyeore', 'bangapseumnida, banga', 'pareun', and 'uri'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(두 번째 주제인 ‘반갑습니다, 반가’는 연세와 인연을 맺은 선교사들의 한글 인식을 살펴보고, 당시 기독교와 한글이 서로에게 끼친 영향과 한글 사용 확대 과정을 소개한다&lt;br/&gt;&lt;em&gt;The second theme, 'Bangapseumnida, Banga', examines the missionaries' perception of Hangeul who formed ties with Yonsei, and introduces the mutual influence between Christianity and Hangeul at the time and the process of expanding Hangeul usage.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;유아부터 청소년까지, 아이들을 위한 책을 만날 수 있는 전국의 어린이·청소년 책방을 소개한다&lt;br/&gt;&lt;em&gt;It introduces children's and youth bookstores nationwide where you can find books for children, from infants to adolescents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;친구를 소개한다.&lt;br/&gt;&lt;em&gt;Introduce a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선생님이 학생을 소개한다.&lt;br/&gt;&lt;em&gt;The teacher introduces the student.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530319067432-f2a729c03db5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRyb2R1Y2VzfGVufDB8fHx8MTc3OTA4MTUwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소개한다 (introduces)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전시는 ‘겨레’, ‘반갑습니다, 반가’, ‘파른’, ‘우리’라는 순우리말로 구성된 네 개의 주제를 통해 각 주체와 시기에 따라 한글 사랑을 지속해 온 연세 얼의 가치를 소개한다&lt;br/&gt;&lt;em&gt;The exhibition introduces the value of Yonsei spirit that has sustained love for Hangeul according to each subject and period through four themes composed of pure Korean words: 'gyeore', 'bangapseumnida, banga', 'pareun', and 'uri'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(두 번째 주제인 ‘반갑습니다, 반가’는 연세와 인연을 맺은 선교사들의 한글 인식을 살펴보고, 당시 기독교와 한글이 서로에게 끼친 영향과 한글 사용 확대 과정을 소개한다&lt;br/&gt;&lt;em&gt;The second theme, 'Bangapseumnida, Banga', examines the missionaries' perception of Hangeul who formed ties with Yonsei, and introduces the mutual influence between Christianity and Hangeul at the time and the process of expanding Hangeul usage.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;유아부터 청소년까지, 아이들을 위한 책을 만날 수 있는 전국의 어린이·청소년 책방을 소개한다&lt;br/&gt;&lt;em&gt;It introduces children's and youth bookstores nationwide where you can find books for children, from infants to adolescents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;친구를 소개한다.&lt;br/&gt;&lt;em&gt;Introduce a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선생님이 학생을 소개한다.&lt;br/&gt;&lt;em&gt;The teacher introduces the student.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 18 May 2026 16:22:42 +0900</pubDate><guid isPermaLink="false">vocab-2e2f1feb836ca5bb46a4e7c299beb6a81953804f</guid><enclosure url="https://images.unsplash.com/photo-1530319067432-f2a729c03db5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRyb2R1Y2VzfGVufDB8fHx8MTc3OTA4MTUwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="141988" /><ns2:content url="https://images.unsplash.com/photo-1530319067432-f2a729c03db5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRyb2R1Y2VzfGVufDB8fHx8MTc3OTA4MTUwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1530319067432-f2a729c03db5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRyb2R1Y2VzfGVufDB8fHx8MTc3OTA4MTUwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>소개한다</category></item><item><title>소개한다 – introduces</title><link>urn:urn:vocab:소개한다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530319067432-f2a729c03db5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRyb2R1Y2VzfGVufDB8fHx8MTc3OTA4MTUwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소개한다 (introduces)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;전시는 ‘겨레’, ‘반갑습니다, 반가’, ‘파른’, ‘우리’라는 순우리말로 구성된 네 개의 주제를 통해 각 주체와 시기에 따라 한글 사랑을 지속해 온 연세 얼의 가치를 소개한다&lt;br/&gt;&lt;em&gt;The exhibition introduces the value of Yonsei spirit that has sustained love for Hangeul according to each subject and period through four themes composed of pure Korean words: 'gyeore', 'bangapseumnida, banga', 'pareun', and 'uri'.&lt;/em&gt;&lt;/p&gt;
