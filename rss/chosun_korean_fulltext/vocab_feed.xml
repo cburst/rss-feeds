@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 02:46:55 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 04:53:01 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>앞섰다 – was ahead</title><link>urn:urn:vocab:앞섰다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>의뢰해 – request</title><link>urn:urn:vocab:의뢰해</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1514987256025-711f02a8d552?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXF1ZXN0fGVufDB8fHx8MTc3OTEzMzk3N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="의뢰해 (request)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;&lt;&lt;PARA&gt;&gt;&gt; (조선일보가 메트릭스에 의뢰해 실시한 서울시장 여론조사는 5월 16~17일 서울 지역에 거주하는 만 18세 이상 남녀 800명을 대상으로 실시했다&lt;br/&gt;&lt;em&gt;&lt;&lt;&lt;PARA&gt;&gt;&gt; (The Chosun Ilbo commissioned Matrix to conduct a survey of Seoul mayoral election, targeting 800 men and women aged 18 or older residing in Seoul on May 16-17.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(조선일보가 메트릭스에 의뢰해 지난 16~17일 부산 지역 유권자 800명(응답률 13%)을 대상으로 실시한 무선 전화 면접 방식의 조사 결과, 부산시장 선거에서는 전재수 민주당 후보가 44%, 박형준 국민의힘 후보가 35%를 기록했다&lt;br/&gt;&lt;em&gt;(According to the results of a wireless telephone interview survey conducted by the Chosun Ilbo commissioned to Matrix on the 16th-17th targeting 800 voters in Busan (response rate 13%), in the Busan mayoral election, Democratic Party candidate Jae-soo Jeon recorded 44%, and People Power Party candidate Hyung-joon Park recorded 35%.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(조선일보가 여론조사 업체 메트릭스에 의뢰해 16~17일 대구 시민 800명을 대상으로 실시해 18일 공개한 여론조사(전화 면접 조사) 결과에 따르면, 민주당 김부겸 후보 40%, 국민의힘 추경호 후보 38%로 오차 범위(±3&lt;br/&gt;&lt;em&gt;(According to the results of a survey (telephone interview survey) conducted by the Chosun Ilbo commissioned to polling agency Matrix on the 16th-17th targeting 800 citizens of Daegu and released on the 18th, Democratic Party candidate Kim Boo-kyum 40%, People Power Party candidate Choo Kyung-ho 38%, within the margin of error (±3)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 일을 의뢰해 주세요.&lt;br/&gt;&lt;em&gt;Please commission that task.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;의뢰해 주셔서 감사합니다.&lt;br/&gt;&lt;em&gt;Thank you for commissioning.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1514987256025-711f02a8d552?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXF1ZXN0fGVufDB8fHx8MTc3OTEzMzk3N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="의뢰해 (request)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;&lt;&lt;PARA&gt;&gt;&gt; (조선일보가 메트릭스에 의뢰해 실시한 서울시장 여론조사는 5월 16~17일 서울 지역에 거주하는 만 18세 이상 남녀 800명을 대상으로 실시했다&lt;br/&gt;&lt;em&gt;&lt;&lt;&lt;PARA&gt;&gt;&gt; (The Chosun Ilbo commissioned Matrix to conduct a survey of Seoul mayoral election, targeting 800 men and women aged 18 or older residing in Seoul on May 16-17.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(조선일보가 메트릭스에 의뢰해 지난 16~17일 부산 지역 유권자 800명(응답률 13%)을 대상으로 실시한 무선 전화 면접 방식의 조사 결과, 부산시장 선거에서는 전재수 민주당 후보가 44%, 박형준 국민의힘 후보가 35%를 기록했다&lt;br/&gt;&lt;em&gt;(According to the results of a wireless telephone interview survey conducted by the Chosun Ilbo commissioned to Matrix on the 16th-17th targeting 800 voters in Busan (response rate 13%), in the Busan mayoral election, Democratic Party candidate Jae-soo Jeon recorded 44%, and People Power Party candidate Hyung-joon Park recorded 35%.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(조선일보가 여론조사 업체 메트릭스에 의뢰해 16~17일 대구 시민 800명을 대상으로 실시해 18일 공개한 여론조사(전화 면접 조사) 결과에 따르면, 민주당 김부겸 후보 40%, 국민의힘 추경호 후보 38%로 오차 범위(±3&lt;br/&gt;&lt;em&gt;(According to the results of a survey (telephone interview survey) conducted by the Chosun Ilbo commissioned to polling agency Matrix on the 16th-17th targeting 800 citizens of Daegu and released on the 18th, Democratic Party candidate Kim Boo-kyum 40%, People Power Party candidate Choo Kyung-ho 38%, within the margin of error (±3)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 일을 의뢰해 주세요.&lt;br/&gt;&lt;em&gt;Please commission that task.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;의뢰해 주셔서 감사합니다.&lt;br/&gt;&lt;em&gt;Thank you for commissioning.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 04:53:01 +0900</pubDate><guid isPermaLink="false">vocab-9f9650be048d386f4e57b9183a3b2f523d2c5819</guid><enclosure url="https://images.unsplash.com/photo-1514987256025-711f02a8d552?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXF1ZXN0fGVufDB8fHx8MTc3OTEzMzk3N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="44534" /><ns2:content url="https://images.unsplash.com/photo-1514987256025-711f02a8d552?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXF1ZXN0fGVufDB8fHx8MTc3OTEzMzk3N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1514987256025-711f02a8d552?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXF1ZXN0fGVufDB8fHx8MTc3OTEzMzk3N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>의뢰해</category></item><item><title>앞섰다 – was ahead</title><link>urn:urn:vocab:앞섰다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633602425131-dbc2d9e2113f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBhaGVhZHxlbnwwfHx8fDE3NzkxMjY0MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="앞섰다 (was ahead)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(권역별로는 추 후보의 지역구가 포함된 대구 달서·달성군을 제외하고 남·서·수성·중구 등 중부 권역, 군위군·동·북구 등 북부 권역 모두 김 후보가 추 후보를 앞섰다&lt;br/&gt;&lt;em&gt;By region, excluding Daegu Dalseo and Dalseong-gun, which include candidate Chu's district, candidate Kim led candidate Chu in both the central region, including Nam, Seo, Suseong, and Jung-gu, and the northern region, including Gunwi-gun, Dong, and Buk-gu.&lt;/em&gt;&lt;/p&gt;

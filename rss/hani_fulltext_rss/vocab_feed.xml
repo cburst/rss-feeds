@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 02:46:50 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 04:52:55 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>한글날 – Hangeul Day</title><link>urn:urn:vocab:한글날</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기념일에 – on the anniversary</title><link>urn:urn:vocab:기념일에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMGFubml2ZXJzYXJ5fGVufDB8fHx8MTc3OTEzMzk3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기념일에 (on the anniversary)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(5·18민주화운동 46주년 기념일에 스타벅스가 ‘탱크데이’라는 행사를 진행해 논란이 일고 있다&lt;br/&gt;&lt;em&gt;Controversy has arisen over Starbucks holding an event called 'Tank Day' on the 46th anniversary of the May 18 Democratic Uprising.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(스타벅스가 5·18민주화운동 기념일에 진행한 ‘탱크데이’ 마케팅 논란과 관련해 대표이사 명의의 공식 사과문을 발표했다&lt;br/&gt;&lt;em&gt;Starbucks issued an official apology letter in the name of its CEO regarding the controversy over its 'Tank Day' marketing held on the anniversary of the May 18 Democratic Uprising.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “행사를 시작하기에 앞서 해당 콘텐츠가 내부에서 철저하게 검수 되지 못해 5·18민주화운동의 숭고한 정신과 5월 영령의 헌신을 기리는 기념일에 이러한 물의를 일으킨 점 다시 한번 사죄드린다”고 덧붙였다&lt;br/&gt;&lt;em&gt;It added, 'We once again apologize for causing such a disturbance on a day commemorating the noble spirit of the May 18 Democratic Uprising and the sacrifices of the May martyrs, as the relevant content was not thoroughly reviewed internally before the event.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기념일에 꽃을 샀어요.&lt;br/&gt;&lt;em&gt;I bought flowers for the anniversary.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기념일에 식당에 갔어요.&lt;br/&gt;&lt;em&gt;I went to a restaurant for the anniversary.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMGFubml2ZXJzYXJ5fGVufDB8fHx8MTc3OTEzMzk3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기념일에 (on the anniversary)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(5·18민주화운동 46주년 기념일에 스타벅스가 ‘탱크데이’라는 행사를 진행해 논란이 일고 있다&lt;br/&gt;&lt;em&gt;Controversy has arisen over Starbucks holding an event called 'Tank Day' on the 46th anniversary of the May 18 Democratic Uprising.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(스타벅스가 5·18민주화운동 기념일에 진행한 ‘탱크데이’ 마케팅 논란과 관련해 대표이사 명의의 공식 사과문을 발표했다&lt;br/&gt;&lt;em&gt;Starbucks issued an official apology letter in the name of its CEO regarding the controversy over its 'Tank Day' marketing held on the anniversary of the May 18 Democratic Uprising.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “행사를 시작하기에 앞서 해당 콘텐츠가 내부에서 철저하게 검수 되지 못해 5·18민주화운동의 숭고한 정신과 5월 영령의 헌신을 기리는 기념일에 이러한 물의를 일으킨 점 다시 한번 사죄드린다”고 덧붙였다&lt;br/&gt;&lt;em&gt;It added, 'We once again apologize for causing such a disturbance on a day commemorating the noble spirit of the May 18 Democratic Uprising and the sacrifices of the May martyrs, as the relevant content was not thoroughly reviewed internally before the event.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기념일에 꽃을 샀어요.&lt;br/&gt;&lt;em&gt;I bought flowers for the anniversary.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기념일에 식당에 갔어요.&lt;br/&gt;&lt;em&gt;I went to a restaurant for the anniversary.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 04:52:55 +0900</pubDate><guid isPermaLink="false">vocab-733df2ed8c4649b8a25a0711dfe462bac53ab0f4</guid><enclosure url="https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMGFubml2ZXJzYXJ5fGVufDB8fHx8MTc3OTEzMzk3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="99383" /><ns2:content url="https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMGFubml2ZXJzYXJ5fGVufDB8fHx8MTc3OTEzMzk3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMGFubml2ZXJzYXJ5fGVufDB8fHx8MTc3OTEzMzk3Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기념일에</category></item><item><title>한글날 – Hangeul Day</title><link>urn:urn:vocab:한글날</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1642428272104-0eb971cfe559?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIYW5nZXVsJTIwRGF5fGVufDB8fHx8MTc3OTEyNjQwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="한글날 (Hangeul Day)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Yonsei University Hosts Special Exhibition for the 100th Anniversary of Hangeul Day: "Our Language, Hangeul, Yonsei Spirit" (연세대학교, 한글날 제정 100주년 특별전 《우리말, 한글, 연세얼》 개최) &lt;&lt;br/&gt;&lt;em&gt;Yonsei University Hosts Special Exhibition for the 100th Anniversary of Hangeul Day: "Our Language, Hangeul, Yonsei Spirit"&lt;/em&gt;&lt;/p&gt;
