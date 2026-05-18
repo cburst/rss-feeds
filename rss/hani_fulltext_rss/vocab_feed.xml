@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 May 2026 18:26:42 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 22:34:39 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>우리말 – our language (Korean)</title><link>urn:urn:vocab:우리말</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>스타벅스는 – Starbucks is</title><link>urn:urn:vocab:스타벅스는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3MlMjBpc3xlbnwwfHx8fDE3NzkxMTEyNzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스타벅스는 (Starbucks is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;' (스타벅스는 18일 오전 10시에 ‘탱크 시리즈’ 텀블러 판매를 시작했다&lt;br/&gt;&lt;em&gt;Starbucks began selling 'Tank Series' tumblers at 10 a.m. on the 18th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스는 이를 홍보하기 위해 누리집에 ‘탱크데이’라는 슬로건을 달고 홍보 게시물을 올렸다&lt;br/&gt;&lt;em&gt;To promote this, Starbucks posted a promotional message on its website with the slogan 'Tank Day'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스는 2025년 열린 빌드업코리아 행사장엔 커피를 무료로 제공하기도 했다&lt;br/&gt;&lt;em&gt;Starbucks also provided free coffee at the 2025 Build Up Korea event venue.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;스타벅스는 커피가 맛있어요.&lt;br/&gt;&lt;em&gt;Starbucks coffee is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스는 사람이 많아요.&lt;br/&gt;&lt;em&gt;Starbucks is crowded.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3MlMjBpc3xlbnwwfHx8fDE3NzkxMTEyNzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스타벅스는 (Starbucks is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;' (스타벅스는 18일 오전 10시에 ‘탱크 시리즈’ 텀블러 판매를 시작했다&lt;br/&gt;&lt;em&gt;Starbucks began selling 'Tank Series' tumblers at 10 a.m. on the 18th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스는 이를 홍보하기 위해 누리집에 ‘탱크데이’라는 슬로건을 달고 홍보 게시물을 올렸다&lt;br/&gt;&lt;em&gt;To promote this, Starbucks posted a promotional message on its website with the slogan 'Tank Day'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스는 2025년 열린 빌드업코리아 행사장엔 커피를 무료로 제공하기도 했다&lt;br/&gt;&lt;em&gt;Starbucks also provided free coffee at the 2025 Build Up Korea event venue.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;스타벅스는 커피가 맛있어요.&lt;br/&gt;&lt;em&gt;Starbucks coffee is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스는 사람이 많아요.&lt;br/&gt;&lt;em&gt;Starbucks is crowded.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 18 May 2026 22:34:39 +0900</pubDate><guid isPermaLink="false">vocab-dfa8062ee5ea2eb9a1b03be0fd4b862f93a07c2e</guid><enclosure url="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3MlMjBpc3xlbnwwfHx8fDE3NzkxMTEyNzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="128906" /><ns2:content url="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3MlMjBpc3xlbnwwfHx8fDE3NzkxMTEyNzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3MlMjBpc3xlbnwwfHx8fDE3NzkxMTEyNzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>스타벅스는</category></item><item><title>책상에 – on the desk</title><link>urn:urn:vocab:책상에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMGRlc2t8ZW58MHx8fHwxNzc5MTAzODQ0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="책상에 (on the desk)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (5·18에 ‘탱크 데이’ ‘책상에 탁&lt;br/&gt;&lt;em&gt;" (On May 18, 'Tank Day' 'Tap on the desk&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (5·18에 ‘탱크 데이’ ‘책상에 탁&lt;br/&gt;&lt;em&gt;" (On May 18, 'Tank Day' 'Tap on the desk&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘탱크데이’라는 문구 위·아래로 ‘5/18’이라는 날짜가 달렸고 ‘책상에 탁&lt;br/&gt;&lt;em&gt;The date '5/18' is written above and below the phrase 'Tank Day', and 'Tap on the desk'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;책상에 책이 있어요.&lt;br/&gt;&lt;em&gt;There is a book on the desk.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;책상에 연필이 없어요.&lt;br/&gt;&lt;em&gt;There is no pencil on the desk.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMGRlc2t8ZW58MHx8fHwxNzc5MTAzODQ0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="책상에 (on the desk)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (5·18에 ‘탱크 데이’ ‘책상에 탁&lt;br/&gt;&lt;em&gt;" (On May 18, 'Tank Day' 'Tap on the desk&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (5·18에 ‘탱크 데이’ ‘책상에 탁&lt;br/&gt;&lt;em&gt;" (On May 18, 'Tank Day' 'Tap on the desk&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘탱크데이’라는 문구 위·아래로 ‘5/18’이라는 날짜가 달렸고 ‘책상에 탁&lt;br/&gt;&lt;em&gt;The date '5/18' is written above and below the phrase 'Tank Day', and 'Tap on the desk'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;책상에 책이 있어요.&lt;br/&gt;&lt;em&gt;There is a book on the desk.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;책상에 연필이 없어요.&lt;br/&gt;&lt;em&gt;There is no pencil on the desk.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 18 May 2026 20:30:47 +0900</pubDate><guid isPermaLink="false">vocab-f90756a46378c4d55668c27da9a614b93ffe473a</guid><enclosure url="https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMGRlc2t8ZW58MHx8fHwxNzc5MTAzODQ0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="182434" /><ns2:content url="https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMGRlc2t8ZW58MHx8fHwxNzc5MTAzODQ0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHRoZSUyMGRlc2t8ZW58MHx8fHwxNzc5MTAzODQ0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>책상에</category></item><item><title>우리말 – our language (Korean)</title><link>urn:urn:vocab:우리말</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554296759-ec7c058ecf9c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvdXIlMjBsYW5ndWFnZSUyMCUyOEtvcmVhbiUyOXxlbnwwfHx8fDE3NzkwOTYzOTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="우리말 (our language (Korean))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Yonsei University Hosts Special Exhibition for the 100th Anniversary of Hangeul Day: "Our Language, Hangeul, Yonsei Spirit" (연세대학교, 한글날 제정 100주년 특별전 《우리말, 한글, 연세얼》 개최) &lt;&lt;br/&gt;&lt;em&gt;Yonsei University Hosts Special Exhibition for the 100th Anniversary of Hangeul Day: "Our Language, Hangeul, Yonsei Spirit"&lt;/em&gt;&lt;/p&gt;
