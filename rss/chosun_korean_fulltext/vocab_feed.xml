@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 21:45:33 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 23:49:45 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>선거운동 – election campaign</title><link>urn:urn:vocab:선거운동</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>고향인 – hometown</title><link>urn:urn:vocab:고향인</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1709562193086-9a235357eae4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21ldG93bnxlbnwwfHx8fDE3NzkyMDIxODB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고향인 (hometown)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령은 19일 한일정상회담을 위해 자신의 고향인 경북 안동을 찾는 다카이치 사나에 일본 총리에게 안동 하회탈을 선물한다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung will gift an Andong Hahoe mask to Japanese Prime Minister Sanae Takaichi, who visits his hometown of Andong, Gyeongsangbuk-do, for the Korea-Japan summit on the 19th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번 회담은 지난 1월 이 대통령이 다카이치 총리의 고향인 나라현을 방문한 데 이어, 다카이치 총리가 이 대통령의 고향인 안동을 찾으며 성사됐다&lt;br/&gt;&lt;em&gt;This summit was realized following President Lee's visit to Prime Minister Takaichi's hometown of Nara Prefecture in January, and now Prime Minister Takaichi visits President Lee's hometown of Andong.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 모두 발언을 통해 “먼저 제 고향인 안동을 찾아주신 존경하는 다카이치 총리님과 대표단 여러분을 진심으로 환영한다”며 “지난 1월에 총리님의 고향인 나라에 방문해서 참으로 각별한 환대를 받았는데, 오늘은 제가 나고 자란 이곳 안동에서 우리 총리님을 모시게 돼서 참으로 뜻깊고 영광스럽게 생각한다”고 인사를 건넸다&lt;br/&gt;&lt;em&gt;In his opening remarks, President Lee said, 'First, I sincerely welcome the esteemed Prime Minister Takaichi and the delegation to my hometown of Andong. When I visited your hometown of Nara in January, I received truly special hospitality, and today I am deeply honored and privileged to host you here in Andong, where I was born and raised.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;제 고향인 부산은 바다가 아름다워요.&lt;br/&gt;&lt;em&gt;My hometown Busan has a beautiful sea.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고향인 서울에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to my hometown Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1709562193086-9a235357eae4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21ldG93bnxlbnwwfHx8fDE3NzkyMDIxODB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고향인 (hometown)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령은 19일 한일정상회담을 위해 자신의 고향인 경북 안동을 찾는 다카이치 사나에 일본 총리에게 안동 하회탈을 선물한다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung will gift an Andong Hahoe mask to Japanese Prime Minister Sanae Takaichi, who visits his hometown of Andong, Gyeongsangbuk-do, for the Korea-Japan summit on the 19th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번 회담은 지난 1월 이 대통령이 다카이치 총리의 고향인 나라현을 방문한 데 이어, 다카이치 총리가 이 대통령의 고향인 안동을 찾으며 성사됐다&lt;br/&gt;&lt;em&gt;This summit was realized following President Lee's visit to Prime Minister Takaichi's hometown of Nara Prefecture in January, and now Prime Minister Takaichi visits President Lee's hometown of Andong.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 모두 발언을 통해 “먼저 제 고향인 안동을 찾아주신 존경하는 다카이치 총리님과 대표단 여러분을 진심으로 환영한다”며 “지난 1월에 총리님의 고향인 나라에 방문해서 참으로 각별한 환대를 받았는데, 오늘은 제가 나고 자란 이곳 안동에서 우리 총리님을 모시게 돼서 참으로 뜻깊고 영광스럽게 생각한다”고 인사를 건넸다&lt;br/&gt;&lt;em&gt;In his opening remarks, President Lee said, 'First, I sincerely welcome the esteemed Prime Minister Takaichi and the delegation to my hometown of Andong. When I visited your hometown of Nara in January, I received truly special hospitality, and today I am deeply honored and privileged to host you here in Andong, where I was born and raised.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;제 고향인 부산은 바다가 아름다워요.&lt;br/&gt;&lt;em&gt;My hometown Busan has a beautiful sea.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고향인 서울에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to my hometown Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 23:49:45 +0900</pubDate><guid isPermaLink="false">vocab-b7cd1caf46f22a16b16f6c28a4e828806901c6db</guid><enclosure url="https://images.unsplash.com/photo-1709562193086-9a235357eae4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21ldG93bnxlbnwwfHx8fDE3NzkyMDIxODB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="96912" /><ns2:content url="https://images.unsplash.com/photo-1709562193086-9a235357eae4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21ldG93bnxlbnwwfHx8fDE3NzkyMDIxODB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1709562193086-9a235357eae4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21ldG93bnxlbnwwfHx8fDE3NzkyMDIxODB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>고향인</category></item><item><title>선거운동 – election campaign</title><link>urn:urn:vocab:선거운동</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGNhbXBhaWdufGVufDB8fHx8MTc3OTE5NDcyOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거운동 (election campaign)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Actor Lee Won-jong, Campaigning for the Ruling Party: "We'll Put an End to the Insurrection and Return to Our Main Job" (‘與 선거운동’ 배우 이원종 “내란 마침표 찍고 본업 돌아갈 것”) &lt;&lt;br/&gt;&lt;em&gt;Actor Lee Won-jong, Campaigning for the Ruling Party: "We'll Put an End to the Insurrection and Return to Our Main Job"&lt;/em&gt;&lt;/p&gt;
