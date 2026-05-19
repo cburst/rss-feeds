@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 07:00:51 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:15:45 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>저탄소 – low-carbon</title><link>urn:urn:vocab:저탄소</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>엄마는 – mom</title><link>urn:urn:vocab:엄마는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1581998392741-67879e0ef04a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb218ZW58MHx8fHwxNzc5MDc0MTAxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="엄마는 (mom)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;레오의 엄마는 대체 무엇을 알고 있었던 것일까요&lt;br/&gt;&lt;em&gt;What on earth did Leo's mother know?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(“엄마는 네가 정말 필요한 일은 스스로 할 수 있다고 믿어&lt;br/&gt;&lt;em&gt;("Mom believes you can do what you really need to do on your own."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (“엄마는 알 것 없어요&lt;br/&gt;&lt;em&gt;" ("Mom doesn't know anything."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;엄마는 밥을 먹어요.&lt;br/&gt;&lt;em&gt;Mom eats rice.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;엄마는 집에 있어요.&lt;br/&gt;&lt;em&gt;Mom is at home.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1581998392741-67879e0ef04a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb218ZW58MHx8fHwxNzc5MDc0MTAxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="엄마는 (mom)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;레오의 엄마는 대체 무엇을 알고 있었던 것일까요&lt;br/&gt;&lt;em&gt;What on earth did Leo's mother know?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(“엄마는 네가 정말 필요한 일은 스스로 할 수 있다고 믿어&lt;br/&gt;&lt;em&gt;("Mom believes you can do what you really need to do on your own."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (“엄마는 알 것 없어요&lt;br/&gt;&lt;em&gt;" ("Mom doesn't know anything."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;엄마는 밥을 먹어요.&lt;br/&gt;&lt;em&gt;Mom eats rice.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;엄마는 집에 있어요.&lt;br/&gt;&lt;em&gt;Mom is at home.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 11:15:45 +0900</pubDate><guid isPermaLink="false">vocab-75b0dda07909d8804878aab0c7795438a4a2e915</guid><enclosure url="https://images.unsplash.com/photo-1581998392741-67879e0ef04a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb218ZW58MHx8fHwxNzc5MDc0MTAxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="76526" /><ns2:content url="https://images.unsplash.com/photo-1581998392741-67879e0ef04a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb218ZW58MHx8fHwxNzc5MDc0MTAxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1581998392741-67879e0ef04a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb218ZW58MHx8fHwxNzc5MDc0MTAxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>엄마는</category></item><item><title>그린카드 – green card</title><link>urn:urn:vocab:그린카드</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1531918283563-e6e872ea9dd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGNhcmR8ZW58MHx8fHwxNzc5MTQ5MzEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="그린카드 (green card)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;From Hotel Stays to Low-Carbon Livestock…Take Advantage of the ‘Green Card’ (호텔 숙박부터 저탄소 축산물까지…‘그린카드’로 챙기세요) &lt;&lt;br/&gt;&lt;em&gt;From Hotel Stays to Low-Carbon Livestock…Take Advantage of the ‘Green Card’&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;From Hotel Stays to Low-Carbon Livestock…Take Advantage of the ‘Green Card’ (호텔 숙박부터 저탄소 축산물까지…‘그린카드’로 챙기세요)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;From Hotel Stays to Low-Carbon Livestock…Take Advantage of the ‘Green Card’&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(가족 모임과 나들이가 잦은 5월 가정의 달을 맞아 환경부와 한국환경산업기술원의 ‘그린카드’가 실속 있는 혜택으로 주목받고 있다&lt;br/&gt;&lt;em&gt;As May, a month of frequent family gatherings and outings, approaches, the ‘Green Card’ from the Ministry of Environment and the Korea Environmental Industry &amp; Technology Institute is drawing attention for its practical benefits.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 그린카드가 있어요.&lt;br/&gt;&lt;em&gt;I have a Green Card.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그린카드는 중요해요.&lt;br/&gt;&lt;em&gt;The Green Card is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1531918283563-e6e872ea9dd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGNhcmR8ZW58MHx8fHwxNzc5MTQ5MzEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="그린카드 (green card)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;From Hotel Stays to Low-Carbon Livestock…Take Advantage of the ‘Green Card’ (호텔 숙박부터 저탄소 축산물까지…‘그린카드’로 챙기세요) &lt;&lt;br/&gt;&lt;em&gt;From Hotel Stays to Low-Carbon Livestock…Take Advantage of the ‘Green Card’&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;From Hotel Stays to Low-Carbon Livestock…Take Advantage of the ‘Green Card’ (호텔 숙박부터 저탄소 축산물까지…‘그린카드’로 챙기세요)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;From Hotel Stays to Low-Carbon Livestock…Take Advantage of the ‘Green Card’&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(가족 모임과 나들이가 잦은 5월 가정의 달을 맞아 환경부와 한국환경산업기술원의 ‘그린카드’가 실속 있는 혜택으로 주목받고 있다&lt;br/&gt;&lt;em&gt;As May, a month of frequent family gatherings and outings, approaches, the ‘Green Card’ from the Ministry of Environment and the Korea Environmental Industry &amp; Technology Institute is drawing attention for its practical benefits.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 그린카드가 있어요.&lt;br/&gt;&lt;em&gt;I have a Green Card.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그린카드는 중요해요.&lt;br/&gt;&lt;em&gt;The Green Card is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 09:08:36 +0900</pubDate><guid isPermaLink="false">vocab-5cd02e1781d4a9055841d714eaf125e1af6fac03</guid><enclosure url="https://images.unsplash.com/photo-1531918283563-e6e872ea9dd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGNhcmR8ZW58MHx8fHwxNzc5MTQ5MzEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="74334" /><ns2:content url="https://images.unsplash.com/photo-1531918283563-e6e872ea9dd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGNhcmR8ZW58MHx8fHwxNzc5MTQ5MzEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1531918283563-e6e872ea9dd2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGNhcmR8ZW58MHx8fHwxNzc5MTQ5MzEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>그린카드</category></item><item><title>저탄소 – low-carbon</title><link>urn:urn:vocab:저탄소</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560713269-4e9527797b8f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb3ctY2FyYm9ufGVufDB8fHx8MTc3OTE0MTY0OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="저탄소 (low-carbon)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;From Hotel Stays to Low-Carbon Livestock…Take Advantage of the ‘Green Card’ (호텔 숙박부터 저탄소 축산물까지…‘그린카드’로 챙기세요) &lt;&lt;br/&gt;&lt;em&gt;From Hotel Stays to Low-Carbon Livestock…Take Advantage of the ‘Green Card’&lt;/em&gt;&lt;/p&gt;
