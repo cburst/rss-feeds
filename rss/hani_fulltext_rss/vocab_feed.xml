@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 04:03:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:11:09 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>판단하고 – judge and</title><link>urn:urn:vocab:판단하고</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>연구개발 – research and development</title><link>urn:urn:vocab:연구개발</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNlYXJjaCUyMGFuZCUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc3OTIyNTA2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연구개발 (research and development)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;권 교수는 연세대학교에서 전자공학 학사·석사·박사를 취득했으며, 삼성전자 책임연구원으로 근무하며 멀티미디어와 정보통신 분야 연구개발을 수행했다&lt;br/&gt;&lt;em&gt;Professor Kwon earned his bachelor's, master's, and doctoral degrees in electronic engineering from Yonsei University, and worked as a principal researcher at Samsung Electronics, conducting research and development in multimedia and information and communication technology.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;연세대학교 전자공학과에서 학사, 석사, 박사 학위를 취득한 후 삼성전자에서 약 5년간 멀티미디어 및 정보통신 연구개발을 수행했습니다&lt;br/&gt;&lt;em&gt;After earning bachelor's, master's, and doctoral degrees in electronic engineering from Yonsei University, he conducted research and development in multimedia and information and communication technology at Samsung Electronics for about five years.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우선 제조업의 연구개발 기능은 이전하거나 새로 구축하기가 쉽지 않다&lt;br/&gt;&lt;em&gt;First of all, it is not easy to relocate or newly establish the research and development function of the manufacturing industry.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회사는 연구개발을 중요시합니다.&lt;br/&gt;&lt;em&gt;The company values research and development.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;연구개발에 투자하고 있습니다.&lt;br/&gt;&lt;em&gt;It is investing in research and development.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNlYXJjaCUyMGFuZCUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc3OTIyNTA2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연구개발 (research and development)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;권 교수는 연세대학교에서 전자공학 학사·석사·박사를 취득했으며, 삼성전자 책임연구원으로 근무하며 멀티미디어와 정보통신 분야 연구개발을 수행했다&lt;br/&gt;&lt;em&gt;Professor Kwon earned his bachelor's, master's, and doctoral degrees in electronic engineering from Yonsei University, and worked as a principal researcher at Samsung Electronics, conducting research and development in multimedia and information and communication technology.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;연세대학교 전자공학과에서 학사, 석사, 박사 학위를 취득한 후 삼성전자에서 약 5년간 멀티미디어 및 정보통신 연구개발을 수행했습니다&lt;br/&gt;&lt;em&gt;After earning bachelor's, master's, and doctoral degrees in electronic engineering from Yonsei University, he conducted research and development in multimedia and information and communication technology at Samsung Electronics for about five years.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우선 제조업의 연구개발 기능은 이전하거나 새로 구축하기가 쉽지 않다&lt;br/&gt;&lt;em&gt;First of all, it is not easy to relocate or newly establish the research and development function of the manufacturing industry.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회사는 연구개발을 중요시합니다.&lt;br/&gt;&lt;em&gt;The company values research and development.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;연구개발에 투자하고 있습니다.&lt;br/&gt;&lt;em&gt;It is investing in research and development.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 20 May 2026 06:11:09 +0900</pubDate><guid isPermaLink="false">vocab-9edd4ea5c283133750708b2212d4f2d0154195eb</guid><enclosure url="https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNlYXJjaCUyMGFuZCUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc3OTIyNTA2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="99690" /><ns2:content url="https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNlYXJjaCUyMGFuZCUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc3OTIyNTA2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXNlYXJjaCUyMGFuZCUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc3OTIyNTA2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>연구개발</category></item><item><title>판단하고 – judge and</title><link>urn:urn:vocab:판단하고</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1778346612273-93520f4b7918?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqdWRnZSUyMGFuZHxlbnwwfHx8fDE3NzkyMTc0MDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="판단하고 (judge and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;오는 11월19일 치러질 대학수학능력시험이 300일 남은 지금은 자신의 성적을 다각도로 분석해 적합한 전형을 미리 판단하고 준비하는 대입 전략을 수립할 시기다&lt;br/&gt;&lt;em&gt;With 300 days left until the College Scholastic Ability Test (CSAT) scheduled for November 19, it is time to analyze one's grades from various angles and establish a college admission strategy that judges and prepares for suitable admission types in advance.&lt;/em&gt;&lt;/p&gt;
