@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 11:15:52 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 15:32:06 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>지지도는 – approval rating</title><link>urn:urn:vocab:지지도는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>선거 – election</title><link>urn:urn:vocab:선거</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbnxlbnwwfHx8fDE3NzkwNTkyMTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거 (election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Ruling Party Backs Jung Won-oh in National Assembly’s Public Administration and Security Committee… Oh Se-hoon Claims “Election Interference by the Government” (與, 국회 행안위서 정원오 지원 사격… 오세훈 “관권 선거”) &lt;&lt;br/&gt;&lt;em&gt;Ruling Party Backs Jung Won-oh in National Assembly’s Public Administration and Security Committee… Oh Se-hoon Claims “Election Interference by the Government”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Ruling Party Backs Jung Won-oh in National Assembly’s Public Administration and Security Committee… Oh Se-hoon Claims “Election Interference by the Government” (與, 국회 행안위서 정원오 지원 사격… 오세훈 “관권 선거”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;[CDATA[&lt;h1&gt;Ruling Party Backs Jung Won-oh in National Assembly’s Public Administration and Security Committee… Oh Se-hoon Claims “Election Interference by the Government”&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(서울시장 선거가 접전으로 흐르자 여야가 당력을 총동원해 상대 후보를 겨냥한 공세에 나서고 있다&lt;br/&gt;&lt;em&gt;As the Seoul mayoral election becomes a close race, both ruling and opposition parties are mobilizing all party resources to launch attacks targeting the opposing candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선거에서 투표했어요.&lt;br/&gt;&lt;em&gt;I voted in the election.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내일 선거가 있어요.&lt;br/&gt;&lt;em&gt;There is an election tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbnxlbnwwfHx8fDE3NzkwNTkyMTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거 (election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Ruling Party Backs Jung Won-oh in National Assembly’s Public Administration and Security Committee… Oh Se-hoon Claims “Election Interference by the Government” (與, 국회 행안위서 정원오 지원 사격… 오세훈 “관권 선거”) &lt;&lt;br/&gt;&lt;em&gt;Ruling Party Backs Jung Won-oh in National Assembly’s Public Administration and Security Committee… Oh Se-hoon Claims “Election Interference by the Government”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Ruling Party Backs Jung Won-oh in National Assembly’s Public Administration and Security Committee… Oh Se-hoon Claims “Election Interference by the Government” (與, 국회 행안위서 정원오 지원 사격… 오세훈 “관권 선거”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;[CDATA[&lt;h1&gt;Ruling Party Backs Jung Won-oh in National Assembly’s Public Administration and Security Committee… Oh Se-hoon Claims “Election Interference by the Government”&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(서울시장 선거가 접전으로 흐르자 여야가 당력을 총동원해 상대 후보를 겨냥한 공세에 나서고 있다&lt;br/&gt;&lt;em&gt;As the Seoul mayoral election becomes a close race, both ruling and opposition parties are mobilizing all party resources to launch attacks targeting the opposing candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선거에서 투표했어요.&lt;br/&gt;&lt;em&gt;I voted in the election.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내일 선거가 있어요.&lt;br/&gt;&lt;em&gt;There is an election tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 15:32:06 +0900</pubDate><guid isPermaLink="false">vocab-b37c9618ea5fa39f8e97092719f5e1fff3899ba3</guid><enclosure url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbnxlbnwwfHx8fDE3NzkwNTkyMTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="23498" /><ns2:content url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbnxlbnwwfHx8fDE3NzkwNTkyMTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbnxlbnwwfHx8fDE3NzkwNTkyMTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>선거</category></item><item><title>오차범위 – margin of error</title><link>urn:urn:vocab:오차범위</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612342222980-e549ae573834?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJnaW4lMjBvZiUyMGVycm9yfGVufDB8fHx8MTc3OTE2NDg3M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="오차범위 (margin of error)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Gap Widens Beyond Margin of Error (청년·중년층서 앞선 전재수… 오차범위 밖으로 격차 벌려) &lt;&lt;br/&gt;&lt;em&gt;Gap Widens Beyond Margin of Error (Jeon Jae-soo leads among youth and middle-aged... gap widens beyond margin of error) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Gap Widens Beyond Margin of Error (청년·중년층서 앞선 전재수… 오차범위 밖으로 격차 벌려)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Gap Widens Beyond Margin of Error (Jeon Jae-soo leads among youth and middle-aged... gap widens beyond margin of error)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(부산시장과 경남지사 선거에서 더불어민주당 후보가 국민의힘 후보를 오차범위 밖에서 앞서는 것으로 나타났다&lt;br/&gt;&lt;em&gt;In the Busan mayoral and South Gyeongsang gubernatorial elections, the Democratic Party candidate is leading the People Power Party candidate outside the margin of error.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오차범위가 작습니다.&lt;br/&gt;&lt;em&gt;The margin of error is small.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 결과는 오차범위 안입니다.&lt;br/&gt;&lt;em&gt;This result is within the margin of error.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612342222980-e549ae573834?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJnaW4lMjBvZiUyMGVycm9yfGVufDB8fHx8MTc3OTE2NDg3M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="오차범위 (margin of error)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Gap Widens Beyond Margin of Error (청년·중년층서 앞선 전재수… 오차범위 밖으로 격차 벌려) &lt;&lt;br/&gt;&lt;em&gt;Gap Widens Beyond Margin of Error (Jeon Jae-soo leads among youth and middle-aged... gap widens beyond margin of error) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Gap Widens Beyond Margin of Error (청년·중년층서 앞선 전재수… 오차범위 밖으로 격차 벌려)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Gap Widens Beyond Margin of Error (Jeon Jae-soo leads among youth and middle-aged... gap widens beyond margin of error)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(부산시장과 경남지사 선거에서 더불어민주당 후보가 국민의힘 후보를 오차범위 밖에서 앞서는 것으로 나타났다&lt;br/&gt;&lt;em&gt;In the Busan mayoral and South Gyeongsang gubernatorial elections, the Democratic Party candidate is leading the People Power Party candidate outside the margin of error.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오차범위가 작습니다.&lt;br/&gt;&lt;em&gt;The margin of error is small.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 결과는 오차범위 안입니다.&lt;br/&gt;&lt;em&gt;This result is within the margin of error.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 13:27:57 +0900</pubDate><guid isPermaLink="false">vocab-a5e0762e7efefa749ed4e989d9854b737a046378</guid><enclosure url="https://images.unsplash.com/photo-1612342222980-e549ae573834?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJnaW4lMjBvZiUyMGVycm9yfGVufDB8fHx8MTc3OTE2NDg3M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="86048" /><ns2:content url="https://images.unsplash.com/photo-1612342222980-e549ae573834?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJnaW4lMjBvZiUyMGVycm9yfGVufDB8fHx8MTc3OTE2NDg3M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1612342222980-e549ae573834?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJnaW4lMjBvZiUyMGVycm9yfGVufDB8fHx8MTc3OTE2NDg3M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>오차범위</category></item><item><title>지지도는 – approval rating</title><link>urn:urn:vocab:지지도는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633613286991-611fe299c4be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHByb3ZhbCUyMHJhdGluZ3xlbnwwfHx8fDE3NzkxNTY5NDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지지도는 (approval rating)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(연령별로 하정우·박민식·한동훈 후보에 대한 지지도는 20대(46% 대 19% 대 23%), 30대(42% 대 19% 대 31%), 40대(54% 대 9% 대 30%), 50대(42% 대 16% 대 37%) 등으로 대부분 연령층에서 하 후보가 앞섰다&lt;br/&gt;&lt;em&gt;By age group, support for candidates Ha Jung-woo, Park Min-sik, and Han Dong-hoon was as follows: 20s (46% vs 19% vs 23%), 30s (42% vs 19% vs 31%), 40s (54% vs 9% vs 30%), 50s (42% vs 16% vs 37%), with Ha leading in most age groups.&lt;/em&gt;&lt;/p&gt;

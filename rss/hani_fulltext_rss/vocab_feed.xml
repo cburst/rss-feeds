@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 11:15:45 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 15:32:00 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>엄마는 – mom</title><link>urn:urn:vocab:엄마는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>마찬가지다 – be the same</title><link>urn:urn:vocab:마찬가지다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZSUyMHRoZSUyMHNhbWV8ZW58MHx8fHwxNzc5MTcyMzE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="마찬가지다 (be the same)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(  이 같은 흐름은 다른 주류기업도 마찬가지다&lt;br/&gt;&lt;em&gt;This same trend applies to other major companies as well.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;생활습관도 마찬가지다&lt;br/&gt;&lt;em&gt;The same goes for lifestyle habits.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;침묵은 폭력적인 구조를 그대로 승인하는 것과 마찬가지다&lt;br/&gt;&lt;em&gt;Silence is tantamount to approving the violent structure as it is.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그것도 마찬가지다.&lt;br/&gt;&lt;em&gt;It's the same.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 생각이 마찬가지다.&lt;br/&gt;&lt;em&gt;We have the same thought.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZSUyMHRoZSUyMHNhbWV8ZW58MHx8fHwxNzc5MTcyMzE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="마찬가지다 (be the same)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(  이 같은 흐름은 다른 주류기업도 마찬가지다&lt;br/&gt;&lt;em&gt;This same trend applies to other major companies as well.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;생활습관도 마찬가지다&lt;br/&gt;&lt;em&gt;The same goes for lifestyle habits.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;침묵은 폭력적인 구조를 그대로 승인하는 것과 마찬가지다&lt;br/&gt;&lt;em&gt;Silence is tantamount to approving the violent structure as it is.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그것도 마찬가지다.&lt;br/&gt;&lt;em&gt;It's the same.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 생각이 마찬가지다.&lt;br/&gt;&lt;em&gt;We have the same thought.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 15:32:00 +0900</pubDate><guid isPermaLink="false">vocab-bfe9c94864de7e37aa5fa29c0e451d5cc5485b9a</guid><enclosure url="https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZSUyMHRoZSUyMHNhbWV8ZW58MHx8fHwxNzc5MTcyMzE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="59638" /><ns2:content url="https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZSUyMHRoZSUyMHNhbWV8ZW58MHx8fHwxNzc5MTcyMzE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZSUyMHRoZSUyMHNhbWV8ZW58MHx8fHwxNzc5MTcyMzE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>마찬가지다</category></item><item><title>표현이 – expression</title><link>urn:urn:vocab:표현이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619431843665-54babc76ac8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHByZXNzaW9ufGVufDB8fHx8MTc3OTE2NDg2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="표현이 (expression)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (손정현 스타벅스 대표이사는 18일 오후 “5·18민주화운동에 대한 잘못된 표현이 담긴 마케팅으로 인해 깊은 상처를 입으신 5·18 영령과 오월 단체, 광주 시민분들, 그리고 박종철 열사 유가족분들을 비롯해 대한민국 민주화에 앞장섰던 모든 분들께 머리 숙여 깊은 사죄의 말씀을 드린다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (Son Jeong-hyun, CEO of Starbucks, said on the afternoon of the 18th, 'We bow our heads and offer our deepest apologies to the spirits of May 18, the May groups, the citizens of Gwangju, the bereaved families of martyr Park Jong-cheol, and all those who led the democratization of South Korea, who have been deeply wounded by marketing containing incorrect expressions about the May 18 Democratization Movement.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스는 손정현 대표이사 명의의 공식 사과문을 내어 “5·18민주화운동에 대한 잘못된 표현이 담긴 마케팅으로 인해 깊은 상처를 입으신 5·18 영령과 오월 단체, 광주 시민분들, 그리고 박종철 열사 유가족분들을 비롯해 대한민국 민주화에 앞장섰던 모든 분들께 머리 숙여 깊은 사죄의 말씀을 드린다”고 밝혔다&lt;br/&gt;&lt;em&gt;Starbucks issued an official apology under the name of CEO Son Jeong-hyun, stating, "We bow our heads and offer our deepest apologies to the spirits of May 18, the May groups, the citizens of Gwangju, the bereaved families of martyr Park Jong-cheol, and all those who led the democratization of South Korea, who have been deeply wounded by marketing containing incorrect expressions about the May 18 Democratization Movement."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 과정에서 생략되거나 표현이 부족한 부분들을 함께 짚으면서 표현력을 풍부하게 다듬을 수 있다&lt;br/&gt;&lt;em&gt;In that process, we can enrich our expressiveness by pointing out parts that were omitted or lacked expression.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 표정은 표현이 좋다.&lt;br/&gt;&lt;em&gt;His expression is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 그림은 표현이 아름답다.&lt;br/&gt;&lt;em&gt;This painting's expression is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619431843665-54babc76ac8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHByZXNzaW9ufGVufDB8fHx8MTc3OTE2NDg2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="표현이 (expression)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (손정현 스타벅스 대표이사는 18일 오후 “5·18민주화운동에 대한 잘못된 표현이 담긴 마케팅으로 인해 깊은 상처를 입으신 5·18 영령과 오월 단체, 광주 시민분들, 그리고 박종철 열사 유가족분들을 비롯해 대한민국 민주화에 앞장섰던 모든 분들께 머리 숙여 깊은 사죄의 말씀을 드린다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (Son Jeong-hyun, CEO of Starbucks, said on the afternoon of the 18th, 'We bow our heads and offer our deepest apologies to the spirits of May 18, the May groups, the citizens of Gwangju, the bereaved families of martyr Park Jong-cheol, and all those who led the democratization of South Korea, who have been deeply wounded by marketing containing incorrect expressions about the May 18 Democratization Movement.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스는 손정현 대표이사 명의의 공식 사과문을 내어 “5·18민주화운동에 대한 잘못된 표현이 담긴 마케팅으로 인해 깊은 상처를 입으신 5·18 영령과 오월 단체, 광주 시민분들, 그리고 박종철 열사 유가족분들을 비롯해 대한민국 민주화에 앞장섰던 모든 분들께 머리 숙여 깊은 사죄의 말씀을 드린다”고 밝혔다&lt;br/&gt;&lt;em&gt;Starbucks issued an official apology under the name of CEO Son Jeong-hyun, stating, "We bow our heads and offer our deepest apologies to the spirits of May 18, the May groups, the citizens of Gwangju, the bereaved families of martyr Park Jong-cheol, and all those who led the democratization of South Korea, who have been deeply wounded by marketing containing incorrect expressions about the May 18 Democratization Movement."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 과정에서 생략되거나 표현이 부족한 부분들을 함께 짚으면서 표현력을 풍부하게 다듬을 수 있다&lt;br/&gt;&lt;em&gt;In that process, we can enrich our expressiveness by pointing out parts that were omitted or lacked expression.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 표정은 표현이 좋다.&lt;br/&gt;&lt;em&gt;His expression is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 그림은 표현이 아름답다.&lt;br/&gt;&lt;em&gt;This painting's expression is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 13:27:52 +0900</pubDate><guid isPermaLink="false">vocab-9a75f105fa607b20175b712a817ab07c18ebc411</guid><enclosure url="https://images.unsplash.com/photo-1619431843665-54babc76ac8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHByZXNzaW9ufGVufDB8fHx8MTc3OTE2NDg2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="24301" /><ns2:content url="https://images.unsplash.com/photo-1619431843665-54babc76ac8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHByZXNzaW9ufGVufDB8fHx8MTc3OTE2NDg2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1619431843665-54babc76ac8c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHByZXNzaW9ufGVufDB8fHx8MTc3OTE2NDg2N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>표현이</category></item><item><title>엄마는 – mom</title><link>urn:urn:vocab:엄마는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1581998392741-67879e0ef04a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb218ZW58MHx8fHwxNzc5MDc0MTAxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="엄마는 (mom)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;레오의 엄마는 대체 무엇을 알고 있었던 것일까요&lt;br/&gt;&lt;em&gt;What on earth did Leo's mother know?&lt;/em&gt;&lt;/p&gt;
