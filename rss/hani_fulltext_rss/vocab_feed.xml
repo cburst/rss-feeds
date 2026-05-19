@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 15:32:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 19:41:29 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>마찬가지다 – be the same</title><link>urn:urn:vocab:마찬가지다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>관계로 – because of relationship</title><link>urn:urn:vocab:관계로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1474552226712-ac0f0961a954?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWNhdXNlJTIwb2YlMjByZWxhdGlvbnNoaXB8ZW58MHx8fHwxNzc5MTg3Mjg1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="관계로 (because of relationship)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이는 현실 인간관계보다 통제 가능하고 편안한 관계로 인식돼, 사회적 고립이나 왜곡된 관계 인식을 강화할 가능성이 있다&lt;br/&gt;&lt;em&gt;This is perceived as a more controllable and comfortable relationship than real human relationships, potentially reinforcing social isolation or distorted relationship perceptions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;북한이 최근 남북을 사실상의 적대적 두 국가 관계로 기정사실화한 것을 현실로 인정하고, 그 바탕에서 상호 존중과 대화를 이어가겠다는 뜻을 담은 것으로 풀이된다&lt;br/&gt;&lt;em&gt;It is interpreted as acknowledging the reality that North Korea has recently de facto established inter-Korean relations as hostile two-state relations, and expressing the intention to continue mutual respect and dialogue on that basis.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사실상 남북이 ‘두 국가’로 존재하는 현실을 고려해 남북을 통일을 지향하면서 평화롭게 공존하는 관계로 만들겠다는 것이다&lt;br/&gt;&lt;em&gt;In effect, considering the reality that the two Koreas exist as 'two states,' it aims to create a relationship of peaceful coexistence while pursuing unification.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 가족 관계로 슬퍼요.&lt;br/&gt;&lt;em&gt;He is sad about family relationships.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 친구 관계로 만나요.&lt;br/&gt;&lt;em&gt;We meet as friends.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1474552226712-ac0f0961a954?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWNhdXNlJTIwb2YlMjByZWxhdGlvbnNoaXB8ZW58MHx8fHwxNzc5MTg3Mjg1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="관계로 (because of relationship)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이는 현실 인간관계보다 통제 가능하고 편안한 관계로 인식돼, 사회적 고립이나 왜곡된 관계 인식을 강화할 가능성이 있다&lt;br/&gt;&lt;em&gt;This is perceived as a more controllable and comfortable relationship than real human relationships, potentially reinforcing social isolation or distorted relationship perceptions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;북한이 최근 남북을 사실상의 적대적 두 국가 관계로 기정사실화한 것을 현실로 인정하고, 그 바탕에서 상호 존중과 대화를 이어가겠다는 뜻을 담은 것으로 풀이된다&lt;br/&gt;&lt;em&gt;It is interpreted as acknowledging the reality that North Korea has recently de facto established inter-Korean relations as hostile two-state relations, and expressing the intention to continue mutual respect and dialogue on that basis.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사실상 남북이 ‘두 국가’로 존재하는 현실을 고려해 남북을 통일을 지향하면서 평화롭게 공존하는 관계로 만들겠다는 것이다&lt;br/&gt;&lt;em&gt;In effect, considering the reality that the two Koreas exist as 'two states,' it aims to create a relationship of peaceful coexistence while pursuing unification.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 가족 관계로 슬퍼요.&lt;br/&gt;&lt;em&gt;He is sad about family relationships.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 친구 관계로 만나요.&lt;br/&gt;&lt;em&gt;We meet as friends.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 19:41:29 +0900</pubDate><guid isPermaLink="false">vocab-4ccb9bec532a1038cf3c4db127eb74f9de75220f</guid><enclosure url="https://images.unsplash.com/photo-1474552226712-ac0f0961a954?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWNhdXNlJTIwb2YlMjByZWxhdGlvbnNoaXB8ZW58MHx8fHwxNzc5MTg3Mjg1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="77061" /><ns2:content url="https://images.unsplash.com/photo-1474552226712-ac0f0961a954?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWNhdXNlJTIwb2YlMjByZWxhdGlvbnNoaXB8ZW58MHx8fHwxNzc5MTg3Mjg1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1474552226712-ac0f0961a954?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWNhdXNlJTIwb2YlMjByZWxhdGlvbnNoaXB8ZW58MHx8fHwxNzc5MTg3Mjg1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>관계로</category></item><item><title>다루는 – dealing with</title><link>urn:urn:vocab:다루는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1601162937667-08f083516d57?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWFsaW5nJTIwd2l0aHxlbnwwfHx8fDE3NzkxNzk4MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="다루는 (dealing with)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현대차는 19일 “아틀라스의 현대차그룹 생산 현장 투입을 앞두고, 현실 작업 현장에서 요구되는 전신 제어 능력은 물론 외부 물체를 다루는 능력까지 보여준다는 점에서 의미가 크다”고 평가했다&lt;br/&gt;&lt;em&gt;Hyundai Motor said on the 19th, 'It is significant that the Atlas demonstrates not only the whole-body control required in real work sites but also the ability to handle external objects, ahead of its deployment to Hyundai Motor Group's production sites.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“당시 경제학 학부수업은 거의 이론과 방법만 공부하고, 실제로 그게 어떻게 적용 되고 어떤 문제를 푸는지를 다루는 내용은 거의 없었다&lt;br/&gt;&lt;em&gt;'At that time, undergraduate economics classes mostly studied only theories and methods, and there was almost no content dealing with how they are actually applied and what problems they solve.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;유아기 언어 습득부터 노화에 따른 인지 변화까지 말소리의 신경·인지적 기제를 폭넓게 다루는 이번 논의는, 최근 급성장하는 대화형 AI 분야에서 인간과 AI 간의 보다 자연스러운 상호작용 시스템을 설계하는 데 중요한 학문적 시사점을 제공할 것으로 기대된다&lt;br/&gt;&lt;em&gt;This discussion, which broadly covers the neural and cognitive mechanisms of speech sounds from early language acquisition to cognitive changes due to aging, is expected to provide important academic implications for designing more natural interaction systems between humans and AI in the rapidly growing field of conversational AI.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 책은 문제를 다루는 책이다.&lt;br/&gt;&lt;em&gt;That book deals with the problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선생님이 그 주제를 다루는 중이다.&lt;br/&gt;&lt;em&gt;The teacher is dealing with that topic.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1601162937667-08f083516d57?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWFsaW5nJTIwd2l0aHxlbnwwfHx8fDE3NzkxNzk4MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="다루는 (dealing with)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현대차는 19일 “아틀라스의 현대차그룹 생산 현장 투입을 앞두고, 현실 작업 현장에서 요구되는 전신 제어 능력은 물론 외부 물체를 다루는 능력까지 보여준다는 점에서 의미가 크다”고 평가했다&lt;br/&gt;&lt;em&gt;Hyundai Motor said on the 19th, 'It is significant that the Atlas demonstrates not only the whole-body control required in real work sites but also the ability to handle external objects, ahead of its deployment to Hyundai Motor Group's production sites.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“당시 경제학 학부수업은 거의 이론과 방법만 공부하고, 실제로 그게 어떻게 적용 되고 어떤 문제를 푸는지를 다루는 내용은 거의 없었다&lt;br/&gt;&lt;em&gt;'At that time, undergraduate economics classes mostly studied only theories and methods, and there was almost no content dealing with how they are actually applied and what problems they solve.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;유아기 언어 습득부터 노화에 따른 인지 변화까지 말소리의 신경·인지적 기제를 폭넓게 다루는 이번 논의는, 최근 급성장하는 대화형 AI 분야에서 인간과 AI 간의 보다 자연스러운 상호작용 시스템을 설계하는 데 중요한 학문적 시사점을 제공할 것으로 기대된다&lt;br/&gt;&lt;em&gt;This discussion, which broadly covers the neural and cognitive mechanisms of speech sounds from early language acquisition to cognitive changes due to aging, is expected to provide important academic implications for designing more natural interaction systems between humans and AI in the rapidly growing field of conversational AI.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 책은 문제를 다루는 책이다.&lt;br/&gt;&lt;em&gt;That book deals with the problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선생님이 그 주제를 다루는 중이다.&lt;br/&gt;&lt;em&gt;The teacher is dealing with that topic.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 17:36:57 +0900</pubDate><guid isPermaLink="false">vocab-b924d9ee2f1bca1c25f31da293ca1dcc00d0b171</guid><enclosure url="https://images.unsplash.com/photo-1601162937667-08f083516d57?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWFsaW5nJTIwd2l0aHxlbnwwfHx8fDE3NzkxNzk4MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="65759" /><ns2:content url="https://images.unsplash.com/photo-1601162937667-08f083516d57?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWFsaW5nJTIwd2l0aHxlbnwwfHx8fDE3NzkxNzk4MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1601162937667-08f083516d57?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWFsaW5nJTIwd2l0aHxlbnwwfHx8fDE3NzkxNzk4MTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>다루는</category></item><item><title>마찬가지다 – be the same</title><link>urn:urn:vocab:마찬가지다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1607074245269-848539fe3335?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZSUyMHRoZSUyMHNhbWV8ZW58MHx8fHwxNzc5MTcyMzE2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="마찬가지다 (be the same)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(  이 같은 흐름은 다른 주류기업도 마찬가지다&lt;br/&gt;&lt;em&gt;This same trend applies to other major companies as well.&lt;/em&gt;&lt;/p&gt;

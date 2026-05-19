@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 15:32:06 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 19:41:35 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>선거 – election</title><link>urn:urn:vocab:선거</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>실수로 – by mistake</title><link>urn:urn:vocab:실수로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600787449405-cfed74773992?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMG1pc3Rha2V8ZW58MHx8fHwxNzc5MTg3MjkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실수로 (by mistake)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Anti-Corruption and Civil Rights Commission: "Do Not Charge Additional Fees for Mistakenly Exiting and Re-entering Highways" (권익위 “실수로 고속도로 나갔다 들어왔다면 추가 요금 면제하라”) &lt;&lt;br/&gt;&lt;em&gt;Anti-Corruption and Civil Rights Commission: "Do Not Charge Additional Fees for Mistakenly Exiting and Re-entering Highways"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(고속도로를 실수로 빠져나갔다가 곧바로 다시 들어왔다면 통행료 기본요금을 다시 받지 않도록 하라고 국민권익위원회가 국토교통부와 한국도로공사에 권고했다&lt;br/&gt;&lt;em&gt;The Anti-Corruption and Civil Rights Commission recommended to the Ministry of Land, Infrastructure and Transport and the Korea Expressway Corporation that if you mistakenly exit the highway and immediately re-enter, the basic toll should not be charged again.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또 단순 실수로 통행료를 내지 않고 고속도로에 들어왔어도, 고의로 통행료를 내지 않은 사람과 똑같이 미납액의 10배까지 부가 통행료로 내야 한다&lt;br/&gt;&lt;em&gt;Also, even if you enter the highway without paying the toll due to a simple mistake, you must pay up to 10 times the unpaid amount as an additional toll, just like those who intentionally did not pay the toll.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;실수로 문을 닫았어요.&lt;br/&gt;&lt;em&gt;I accidentally closed the door.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;실수로 전화를 끊었어요.&lt;br/&gt;&lt;em&gt;I accidentally hung up the phone.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600787449405-cfed74773992?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMG1pc3Rha2V8ZW58MHx8fHwxNzc5MTg3MjkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="실수로 (by mistake)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Anti-Corruption and Civil Rights Commission: "Do Not Charge Additional Fees for Mistakenly Exiting and Re-entering Highways" (권익위 “실수로 고속도로 나갔다 들어왔다면 추가 요금 면제하라”) &lt;&lt;br/&gt;&lt;em&gt;Anti-Corruption and Civil Rights Commission: "Do Not Charge Additional Fees for Mistakenly Exiting and Re-entering Highways"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(고속도로를 실수로 빠져나갔다가 곧바로 다시 들어왔다면 통행료 기본요금을 다시 받지 않도록 하라고 국민권익위원회가 국토교통부와 한국도로공사에 권고했다&lt;br/&gt;&lt;em&gt;The Anti-Corruption and Civil Rights Commission recommended to the Ministry of Land, Infrastructure and Transport and the Korea Expressway Corporation that if you mistakenly exit the highway and immediately re-enter, the basic toll should not be charged again.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또 단순 실수로 통행료를 내지 않고 고속도로에 들어왔어도, 고의로 통행료를 내지 않은 사람과 똑같이 미납액의 10배까지 부가 통행료로 내야 한다&lt;br/&gt;&lt;em&gt;Also, even if you enter the highway without paying the toll due to a simple mistake, you must pay up to 10 times the unpaid amount as an additional toll, just like those who intentionally did not pay the toll.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;실수로 문을 닫았어요.&lt;br/&gt;&lt;em&gt;I accidentally closed the door.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;실수로 전화를 끊었어요.&lt;br/&gt;&lt;em&gt;I accidentally hung up the phone.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 19:41:34 +0900</pubDate><guid isPermaLink="false">vocab-769ea79c5401f0b72c6086d9ba4690e2147b154c</guid><enclosure url="https://images.unsplash.com/photo-1600787449405-cfed74773992?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMG1pc3Rha2V8ZW58MHx8fHwxNzc5MTg3MjkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="78410" /><ns2:content url="https://images.unsplash.com/photo-1600787449405-cfed74773992?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMG1pc3Rha2V8ZW58MHx8fHwxNzc5MTg3MjkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1600787449405-cfed74773992?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMG1pc3Rha2V8ZW58MHx8fHwxNzc5MTg3MjkxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>실수로</category></item><item><title>부적절 – inappropriate</title><link>urn:urn:vocab:부적절</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1594134267982-06340fa19b73?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmFwcHJvcHJpYXRlfGVufDB8fHx8MTc3OTE3OTgxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부적절 (inappropriate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;반면, ‘조작 기소 특검법’에 대해 ‘부적절’ 의견이 서울 45%, 대구 49%, 부산 46%, 경남 41%로 나타났고, ‘이 대통령 사건의 공소 취소’에 대한 ‘부적절’ 의견은 서울 51%, 대구 54%, 부산 48%, 경남 45%였다&lt;br/&gt;&lt;em&gt;On the other hand, regarding the 'Manipulated Indictment Special Counsel Act', the opinion that it is 'inappropriate' was 45% in Seoul, 49% in Daegu, 46% in Busan, and 41% in South Gyeongsang, while the opinion that 'the withdrawal of the indictment in the President Lee case is inappropriate' was 51% in Seoul, 54% in Daegu, 48% in Busan, and 45% in South Gyeongsang.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Public opinion that "the withdrawal of the indictment in the 'Lee' case is inappropriate" is significantly higher in Seoul, Busan, Daegu, and South Gyeongsang (“李 사건 공소취소는 부적절” 여론, 서울·부산·대구·경남서 크게 높아) &lt;&lt;br/&gt;&lt;em&gt;Public opinion that "the withdrawal of the indictment in the 'Lee' case is inappropriate" is significantly higher in Seoul, Busan, Daegu, and South Gyeongsang.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Public opinion that "the withdrawal of the indictment in the 'Lee' case is inappropriate" is significantly higher in Seoul, Busan, Daegu, and South Gyeongsang (“李 사건 공소취소는 부적절” 여론, 서울·부산·대구·경남서 크게 높아)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;h1&gt;Public opinion that "the withdrawal of the indictment in the 'Lee' case is inappropriate" is significantly higher in Seoul, Busan, Daegu, and South Gyeongsang&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 행동은 부적절해요.&lt;br/&gt;&lt;em&gt;That behavior is inappropriate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부적절한 말을 하지 마세요.&lt;br/&gt;&lt;em&gt;Don't say inappropriate things.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1594134267982-06340fa19b73?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmFwcHJvcHJpYXRlfGVufDB8fHx8MTc3OTE3OTgxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부적절 (inappropriate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;반면, ‘조작 기소 특검법’에 대해 ‘부적절’ 의견이 서울 45%, 대구 49%, 부산 46%, 경남 41%로 나타났고, ‘이 대통령 사건의 공소 취소’에 대한 ‘부적절’ 의견은 서울 51%, 대구 54%, 부산 48%, 경남 45%였다&lt;br/&gt;&lt;em&gt;On the other hand, regarding the 'Manipulated Indictment Special Counsel Act', the opinion that it is 'inappropriate' was 45% in Seoul, 49% in Daegu, 46% in Busan, and 41% in South Gyeongsang, while the opinion that 'the withdrawal of the indictment in the President Lee case is inappropriate' was 51% in Seoul, 54% in Daegu, 48% in Busan, and 45% in South Gyeongsang.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Public opinion that "the withdrawal of the indictment in the 'Lee' case is inappropriate" is significantly higher in Seoul, Busan, Daegu, and South Gyeongsang (“李 사건 공소취소는 부적절” 여론, 서울·부산·대구·경남서 크게 높아) &lt;&lt;br/&gt;&lt;em&gt;Public opinion that "the withdrawal of the indictment in the 'Lee' case is inappropriate" is significantly higher in Seoul, Busan, Daegu, and South Gyeongsang.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Public opinion that "the withdrawal of the indictment in the 'Lee' case is inappropriate" is significantly higher in Seoul, Busan, Daegu, and South Gyeongsang (“李 사건 공소취소는 부적절” 여론, 서울·부산·대구·경남서 크게 높아)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;h1&gt;Public opinion that "the withdrawal of the indictment in the 'Lee' case is inappropriate" is significantly higher in Seoul, Busan, Daegu, and South Gyeongsang&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 행동은 부적절해요.&lt;br/&gt;&lt;em&gt;That behavior is inappropriate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부적절한 말을 하지 마세요.&lt;br/&gt;&lt;em&gt;Don't say inappropriate things.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 19 May 2026 17:37:04 +0900</pubDate><guid isPermaLink="false">vocab-211403bf87a624dadeff3ff62e1b980d733ed93e</guid><enclosure url="https://images.unsplash.com/photo-1594134267982-06340fa19b73?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmFwcHJvcHJpYXRlfGVufDB8fHx8MTc3OTE3OTgxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="85187" /><ns2:content url="https://images.unsplash.com/photo-1594134267982-06340fa19b73?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmFwcHJvcHJpYXRlfGVufDB8fHx8MTc3OTE3OTgxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1594134267982-06340fa19b73?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmFwcHJvcHJpYXRlfGVufDB8fHx8MTc3OTE3OTgxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>부적절</category></item><item><title>선거 – election</title><link>urn:urn:vocab:선거</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbnxlbnwwfHx8fDE3NzkwNTkyMTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거 (election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Ruling Party Backs Jung Won-oh in National Assembly’s Public Administration and Security Committee… Oh Se-hoon Claims “Election Interference by the Government” (與, 국회 행안위서 정원오 지원 사격… 오세훈 “관권 선거”) &lt;&lt;br/&gt;&lt;em&gt;Ruling Party Backs Jung Won-oh in National Assembly’s Public Administration and Security Committee… Oh Se-hoon Claims “Election Interference by the Government”&lt;/em&gt;&lt;/p&gt;
