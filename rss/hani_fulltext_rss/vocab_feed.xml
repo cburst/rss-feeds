@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 May 2026 05:15:44 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:24:53 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>임차인 – tenant</title><link>urn:urn:vocab:임차인</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사례는 – case</title><link>urn:urn:vocab:사례는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1563820510191-3b4a20c78568?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXNlfGVufDB8fHx8MTc3OTMxNTg5MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사례는 (case)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;첫 금통위에서 인상한 사례는 신 총재 전임인 이창용 전 총재 때뿐이었다&lt;br/&gt;&lt;em&gt;The only case of a rate hike at the first Monetary Policy Committee meeting was under former Governor Lee Chang-yong, the predecessor of Governor Shin.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;세계 3대 디자인 어워드는 삼성전자, 애플 등 글로벌 기업들이 참가하는 최고 권위의 국제 디자인 어워드로, 학생 개인이 주도한 프로젝트로 세계 3대 디자인 어워드를 모두 수상한 사례는 매우 이례적이라는 평가를 받고 있다&lt;br/&gt;&lt;em&gt;The world's top three design awards are the most prestigious international design awards, with global companies like Samsung Electronics and Apple participating. It is considered very unusual for a student-led individual project to win all three of the world's top design awards.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현장을 시찰한 최병오 회장은 “이러한 성공 사례는 섬유업계가 공유하고 벤치마킹할 필요가 있다”고 격려했다&lt;br/&gt;&lt;em&gt;Chairman Choi Byung-oh, who inspected the site, encouraged by saying, 'Such success stories need to be shared and benchmarked by the textile industry.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 사례는 중요합니다.&lt;br/&gt;&lt;em&gt;This case is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 사례는 복잡합니다.&lt;br/&gt;&lt;em&gt;That case is complex.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1563820510191-3b4a20c78568?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXNlfGVufDB8fHx8MTc3OTMxNTg5MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사례는 (case)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;첫 금통위에서 인상한 사례는 신 총재 전임인 이창용 전 총재 때뿐이었다&lt;br/&gt;&lt;em&gt;The only case of a rate hike at the first Monetary Policy Committee meeting was under former Governor Lee Chang-yong, the predecessor of Governor Shin.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;세계 3대 디자인 어워드는 삼성전자, 애플 등 글로벌 기업들이 참가하는 최고 권위의 국제 디자인 어워드로, 학생 개인이 주도한 프로젝트로 세계 3대 디자인 어워드를 모두 수상한 사례는 매우 이례적이라는 평가를 받고 있다&lt;br/&gt;&lt;em&gt;The world's top three design awards are the most prestigious international design awards, with global companies like Samsung Electronics and Apple participating. It is considered very unusual for a student-led individual project to win all three of the world's top design awards.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현장을 시찰한 최병오 회장은 “이러한 성공 사례는 섬유업계가 공유하고 벤치마킹할 필요가 있다”고 격려했다&lt;br/&gt;&lt;em&gt;Chairman Choi Byung-oh, who inspected the site, encouraged by saying, 'Such success stories need to be shared and benchmarked by the textile industry.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 사례는 중요합니다.&lt;br/&gt;&lt;em&gt;This case is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 사례는 복잡합니다.&lt;br/&gt;&lt;em&gt;That case is complex.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 21 May 2026 07:24:53 +0900</pubDate><guid isPermaLink="false">vocab-61252306fd4c967a060c89859e591a27457fd1fe</guid><enclosure url="https://images.unsplash.com/photo-1563820510191-3b4a20c78568?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXNlfGVufDB8fHx8MTc3OTMxNTg5MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="222559" /><ns2:content url="https://images.unsplash.com/photo-1563820510191-3b4a20c78568?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXNlfGVufDB8fHx8MTc3OTMxNTg5MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1563820510191-3b4a20c78568?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXNlfGVufDB8fHx8MTc3OTMxNTg5MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사례는</category></item><item><title>임차인 – tenant</title><link>urn:urn:vocab:임차인</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1590986201364-ce95ab280ca2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZW5hbnR8ZW58MHx8fHwxNzc5MzA4MTQwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="임차인 (tenant)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;” (국토부는 이날 보도 해명자료를 내어 “매수인이 실거주할 목적으로 임차인이 있는 주택을 매입하는 경우에는 주택임대차보호법 관련 규정에 따라 임차인의 계약갱신청구권이 거절될 수 있으나, 이는 이번 실거주 유예 조치와는 무관하다”고 강조했다&lt;br/&gt;&lt;em&gt;" (The Ministry of Land, Infrastructure and Transport issued a press release on the same day, emphasizing that 'if a buyer purchases a house with a tenant for the purpose of actual residence, the tenant's right to request contract renewal may be rejected according to the relevant provisions of the Housing Lease Protection Act, but this is unrelated to the current actual residence grace measure.'"&lt;/em&gt;&lt;/p&gt;
