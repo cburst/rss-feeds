@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 08:23:20 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:30:35 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>지자체 – local government</title><link>urn:urn:vocab:지자체</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>스와프 – swap</title><link>urn:urn:vocab:스와프</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1542323073-dc63913f3262?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzd2FwfGVufDB8fHx8MTc3OTI0MDYzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스와프 (swap)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Lee·Takaichi "Korea-Japan Energy Cooperation, Pursue Oil Swap" (李·다카이치 “한일 에너지 협력, 원유 스와프 추진”) &lt;&lt;br/&gt;&lt;em&gt;Lee·Takaichi "Korea-Japan Energy Cooperation, Pursue Oil Swap"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Lee·Takaichi "Korea-Japan Energy Cooperation, Pursue Oil Swap" (李·다카이치 “한일 에너지 협력, 원유 스와프 추진”)&lt;/h1&gt;&lt;p&gt;President Lee Jae-myung held a summit meeting with Japanese Prime Minister Takaichi Sanae, who visited his hometown of Andong, North Gyeongsang Province, on the 19th, lasting approximately 105 minutes&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Lee·Takaichi "Korea-Japan Energy Cooperation, Pursue Oil Swap"&lt;/h1&gt;&lt;p&gt;President Lee Jae-myung held a summit meeting with Japanese Prime Minister Takaichi Sanae, who visited his hometown of Andong, North Gyeongsang Province, on the 19th, lasting approximately 105 minutes&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;다카이치 총리도 “핵심 광물을 포함한 공급망 협력은 중요하다”며 “상호 융통, 스와프 거래를 포함한 양국의 에너지 안보 강화를 위한 협력을 시작하기로 했다”고 했다&lt;br/&gt;&lt;em&gt;Prime Minister Takaichi also said, "Supply chain cooperation including core minerals is important," and added, "We have decided to start cooperation to strengthen energy security between the two countries, including mutual flexibility and swap transactions."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리는 스와프를 했어요.&lt;br/&gt;&lt;em&gt;We swapped.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그들은 스와프를 원해요.&lt;br/&gt;&lt;em&gt;They want to swap.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1542323073-dc63913f3262?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzd2FwfGVufDB8fHx8MTc3OTI0MDYzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스와프 (swap)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Lee·Takaichi "Korea-Japan Energy Cooperation, Pursue Oil Swap" (李·다카이치 “한일 에너지 협력, 원유 스와프 추진”) &lt;&lt;br/&gt;&lt;em&gt;Lee·Takaichi "Korea-Japan Energy Cooperation, Pursue Oil Swap"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Lee·Takaichi "Korea-Japan Energy Cooperation, Pursue Oil Swap" (李·다카이치 “한일 에너지 협력, 원유 스와프 추진”)&lt;/h1&gt;&lt;p&gt;President Lee Jae-myung held a summit meeting with Japanese Prime Minister Takaichi Sanae, who visited his hometown of Andong, North Gyeongsang Province, on the 19th, lasting approximately 105 minutes&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Lee·Takaichi "Korea-Japan Energy Cooperation, Pursue Oil Swap"&lt;/h1&gt;&lt;p&gt;President Lee Jae-myung held a summit meeting with Japanese Prime Minister Takaichi Sanae, who visited his hometown of Andong, North Gyeongsang Province, on the 19th, lasting approximately 105 minutes&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;다카이치 총리도 “핵심 광물을 포함한 공급망 협력은 중요하다”며 “상호 융통, 스와프 거래를 포함한 양국의 에너지 안보 강화를 위한 협력을 시작하기로 했다”고 했다&lt;br/&gt;&lt;em&gt;Prime Minister Takaichi also said, "Supply chain cooperation including core minerals is important," and added, "We have decided to start cooperation to strengthen energy security between the two countries, including mutual flexibility and swap transactions."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리는 스와프를 했어요.&lt;br/&gt;&lt;em&gt;We swapped.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그들은 스와프를 원해요.&lt;br/&gt;&lt;em&gt;They want to swap.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 20 May 2026 10:30:35 +0900</pubDate><guid isPermaLink="false">vocab-425475fd01a9f6f9493596cb5ba6d43f783fc5dd</guid><enclosure url="https://images.unsplash.com/photo-1542323073-dc63913f3262?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzd2FwfGVufDB8fHx8MTc3OTI0MDYzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="270521" /><ns2:content url="https://images.unsplash.com/photo-1542323073-dc63913f3262?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzd2FwfGVufDB8fHx8MTc3OTI0MDYzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1542323073-dc63913f3262?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzd2FwfGVufDB8fHx8MTc3OTI0MDYzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>스와프</category></item><item><title>지자체 – local government</title><link>urn:urn:vocab:지자체</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1615644256225-19c8af1b90d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb2NhbCUyMGdvdmVybm1lbnR8ZW58MHx8fHwxNzc5MjMyOTk3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지자체 (local government)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(지방자치단체로부터 출산 지원금 신청 기한을 명확히 안내받지 못했다면, 해당 지자체 조례상 신청 기한을 넘겼더라도 출산 지원금을 지급하라고 국민권익위원회가 권고했다&lt;br/&gt;&lt;em&gt;The Anti-Corruption and Civil Rights Commission recommended that if local governments did not clearly inform the application deadline for childbirth subsidies, the subsidies should be paid even if the application deadline under the local government's ordinance has passed.&lt;/em&gt;&lt;/p&gt;

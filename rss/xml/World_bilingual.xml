@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 19 May 2026 23:23:11 +0000</lastBuildDate><item><title>Train Crashes Into Bangkok Traffic, Killing at Least 8 (기차가 방콕 교통에 충돌해 최소 8명 사망)</title><link>https://www.nytimes.com/2026/05/16/world/asia/bangkok-bus-train-crash.html</link><description>&lt;![CDATA[&lt;p&gt;A freight train plowed into heavy traffic that was crossing train tracks in Bangkok on Saturday, killing at least eight people and injuring dozens of others, according to Thai officials.&lt;br/&gt;(토요일, 태국 방콕에서 화물 열차가 철로를 건너던 혼잡한 교통에 돌진해 최소 8명이 숨지고 수십 명이 부상했다고 태국 당국이 밝혔다.)&lt;/p&gt;
-&lt;p&gt;The train hit a bus just before 4 p.m. local time, setting off a crash with cars and motorcycles and sparking a fire that engulfed some of the vehicles. All eight of those who died were on the bus, according to the authorities, who said that 32 other people were injured.&lt;br/&gt;(열차는 현지 시간 오후 4시 직전에 버스를 들이받으면서 자동차와 오토바이와의 연쇄 충돌을 일으켰고, 일부 차량을 집어삼킨 화재가 발생했다. 당국에 따르면 사망자 8명 모두 버스에 타고 있었으며, 다른 32명이 부상을 입었다.)&lt;/p&gt;
-&lt;p&gt;It was not immediately clear what caused the crash, which took place on one of the busiest roads in the Thai capital, near a train station linking the city to an international airport. The traffic, which is typically heavy even on weekends, crosses the train tracks.&lt;br/&gt;(사고의 정확한 원인은 즉시 밝혀지지 않았으며, 이 사고는 태국 수도에서 가장 번화한 도로 중 하나인, 국제공항과 연결되는 기차역 근처에서 발생했다. 주말에도 일반적으로 혼잡한 교통 상황이 철로를 가로질러 움직이고 있었다.)&lt;/p&gt;
-&lt;p&gt;The train conductor and the bus driver were in police custody pending an investigation, said Police General Kitrat Phanphet of the Royal Thai Police. Emergency personnel at the scene had previously said that the bus driver had died in the crash.&lt;br/&gt;(태국 경찰청의 킷랏 판펫 총경은 열차 기관사와 버스 운전사가 조사가 진행 중인 상태에서 경찰 구금 중이라고 말했다. 현장 응급 요원들은 이전에 버스 운전사가 사고로 사망했다고 밝힌 바 있다.)&lt;/p&gt;
-&lt;p&gt;“I heard the alarm on the incoming train, but usually the train that passes this road waits until the traffic is cleared,” Artit, a survivor of the crash who fled his car when the fire broke out, told local media, which gave only his first name. “It took about 10 minutes for my car to completely burn down.”&lt;br/&gt;(“기차가 오는 경보를 들었지만, 보통 이 도로를 지나는 기차는 교통이 정리될 때까지 기다렸습니다.” 화재가 발생했을 때 자신의 차에서 도망친 사고 생존자 아티트(이름만 공개)가 지역 언론에 말했다. “내 차가 완전히 타버리는 데 약 10분이 걸렸습니다.”)&lt;/p&gt;
-&lt;p&gt;The train’s driver was injured and was in a hospital, rescuers on the scene told local media. Transport officials said that they would conduct an investigation into the cause and recover the train’s data recorder to see how fast it was moving.&lt;br/&gt;(현장 구조대원들은 지역 언론에 열차 기관사가 부상을 입어 병원에 있다고 말했다. 교통 당국은 사고 원인을 조사하고 열차 데이터 기록계를 회수해 열차의 속도를 확인할 것이라고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;Though they said it was too early to draw conclusions, they said that a barrier meant to separate the train from the traffic had not descended.&lt;br/&gt;(당국은 결론을 내리기에는 너무 이르다고 말하면서도, 기차와 교통을 분리하기 위한 차단기가 내려오지 않았다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;“Usually the barrier is the first thing to come down before other signals are given,” said Siripong Angkasakulkiat, the Thai deputy minister of transport, adding that the authorities were investigating. “Someone has to answer for this, but we will wait for scientific evidence.”&lt;br/&gt;(“보통 차단기는 다른 신호가 주어지기 전에 가장 먼저 내려옵니다.” 시리퐁 앙카사쿨키앗 태국 부교통부 장관이 말하며, 당국이 조사 중이라고 덧붙였다. “누군가는 이에 대해 책임을 져야 하지만, 과학적 증거를 기다리겠습니다.”)&lt;/p&gt;
-&lt;p&gt;Anan Phonimdang, an official for Thailand’s state-owned rail operator, said in a news conference on Saturday that a barrier, which is typically operated by an officer, could not be brought down because there were vehicles parked on the tracks. “Usually, you’re not allowed to park within five meters near the track, and the train couldn’t stop in time,” he said.&lt;br/&gt;(태국 국영 철도 운영사의 관계자 아난 포님당은 토요일 기자회견에서, 보통 직원이 조작하는 차단기가 철로 위에 주차된 차량 때문에 내려오지 못했다고 말했다. “일반적으로 철로에서 5미터 이내에는 주차가 허용되지 않으며, 기차가 제때 멈출 수 없었습니다.”라고 그는 말했다.)&lt;/p&gt;
-&lt;p&gt;Surachit Intha, a motorcycle taxi driver, said he had been parked near the train tracks when the crash happened. “I heard the train and wondered why the barrier didn’t come down, and the next thing I saw was the train was dragging those vehicles,” he said.&lt;br/&gt;(오토바이 택시 기사 수라칫 인타는 사고 당시 철로 근처에 주차해 있었다고 말했다. “기차 소리를 듣고 왜 차단기가 내려오지 않았는지 궁금했는데, 다음 순간 기차가 그 차량들을 끌고 가는 것을 보았습니다.”라고 그는 말했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Intha said that he and others rushed to help the injured and get people out of their vehicles and that he was saddened by the news that people had died. “This incident shouldn’t have happened,” he said.&lt;br/&gt;(인타 씨는 자신과 다른 사람들이 부상자들을 돕고 차량에서 사람들을 구출하기 위해 달려갔으며, 사람들이 사망했다는 소식에 슬프다고 말했다. “이런 사고는 일어나서는 안 됐습니다.”라고 그는 말했다.)&lt;/p&gt;
-&lt;p&gt;On Saturday evening, at least 100 police officers and other emergency workers remained at the intersection. Much of the scene was blocked off, with green material keeping the burned bus out of sight. Emergency workers could be seen removing a body wrapped in a white sheet. A part of a train remained on the rails, and a gray car sat on the road, its sides and front crushed.&lt;br/&gt;(토요일 저녁, 최소 100명의 경찰관과 다른 응급 요원들이 교차로에 남아 있었다. 현장의 대부분은 차단되어 초록색 천으로 불에 탄 버스가 보이지 않게 가려져 있었다. 응급 요원들이 흰 시트로 감싼 시신을 옮기는 모습이 목격되었다. 열차의 일부가 철로 위에 남아 있었고, 회색 승용차가 도로 위에 서 있었으며 측면과 앞부분이 찌그러져 있었다.)&lt;/p&gt;
-&lt;p&gt;The bodies of the victims had been badly burned, said Piyarat Tinkaew, an official with the Ruamkatanyu Foundation, a volunteer rescue group in Bangkok that was responding to the crash. “We will do our best to bring those bodies back to their families.”&lt;br/&gt;(희생자들의 시신은 심하게 불에 탔다고, 사고에 대응 중인 방콕의 자원봉사 구조 단체 루암카타뉴 재단의 관계자 피야랏 팅카우가 말했다. “우리는 그 시신들을 가족에게 돌려주기 위해 최선을 다할 것입니다.”)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/16/world/asia/bangkok-bus-train-crash.html</guid><pubDate>Mon, 18 May 2026 01:56:21 +0000</pubDate></item><item><title>Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8 (이탈리아 북부 도시에서 차량이 보행자 덮쳐 최소 8명 부상)</title><link>https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html</link><description>&lt;![CDATA[&lt;p&gt;A car plowed into a group of pedestrians and injured at least eight people on the main shopping street of a northern Italian city on Saturday afternoon, the mayor said.&lt;br/&gt;(토요일 오후, 이탈리아 북부 도시의 주요 쇼핑 거리에서 차량이 보행자 무리를 덮쳐 최소 8명이 부상했다고 시장이 밝혔다.)&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 20 May 2026 01:30:26 +0000</lastBuildDate><item><title>Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8 (이탈리아 북부 도시에서 차량이 보행자 덮쳐 최소 8명 부상)</title><link>https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html</link><description>&lt;![CDATA[&lt;p&gt;A car plowed into a group of pedestrians and injured at least eight people on the main shopping street of a northern Italian city on Saturday afternoon, the mayor said.&lt;br/&gt;(토요일 오후, 이탈리아 북부 도시의 주요 쇼핑 거리에서 차량이 보행자 무리를 덮쳐 최소 8명이 부상했다고 시장이 밝혔다.)&lt;/p&gt;
 &lt;p&gt;Four of the injured were in serious condition, the mayor, Massimo Mezzetti, said on Facebook, calling the crash in his city, Modena, a “crazy act.”&lt;br/&gt;(부상자 중 4명은 중태라고 마시모 메체티 시장은 페이스북에 밝히며, 자신의 도시 모데나에서 발생한 이 충돌 사고를 "미친 짓"이라고 표현했다.)&lt;/p&gt;
 &lt;p&gt;Two people were taken by helicopter to a hospital in Bologna, the regional capital, about 30 miles away. The mayor later said a woman’s legs had been crushed, and that among the injured were a German woman and a Polish woman.&lt;br/&gt;(두 명은 약 30마일 떨어진 지역 수도 볼로냐의 병원으로 헬리콥터에 실려 이송됐다. 시장은 이후 한 여성의 다리가 짓눌렸으며, 부상자 중에는 독일인 여성과 폴란드인 여성도 포함되어 있다고 전했다.)&lt;/p&gt;
 &lt;p&gt;Some of the people who had been struck by the car were “in very difficult situations,” Michele De Pascale, president of the Reggio Emilia Region, where Modena is based, told reporters late Saturday.&lt;br/&gt;(차량에 치인 사람들 중 일부는 "매우 어려운 상황"에 처해 있다고, 모데나가 속한 레조 에밀리아 지역의 미켈레 데 파스칼레 주지사가 토요일 늦게 기자들에게 밝혔다.)&lt;/p&gt;
@@ -909,7 +896,7 @@ FIFA는 연간 요약 보고서를 발행하여 접수된 윤리 고발과 취�
 &lt;p&gt;Jean Kaseya, the head of Africa’s Centers for Disease Control and Prevention, said he was in “panic mode” over the outbreak. “People are dying. I don’t have medicines, I don’t have vaccines,” he told The Associated Press.&lt;br/&gt;(아프리카 질병통제예방센터 소장 장 카세야는 이번 발병에 대해 "공황 상태"에 있다고 말했다. "사람들이 죽어가고 있습니다. 약도 없고, 백신도 없습니다."라고 그는 AP 통신에 말했다.)&lt;/p&gt;
 &lt;p&gt;Ebola Bundibugyo has a mortality rate of up to 50 percent, Congo’s health minister told journalists on Sunday, urging the sick to seek treatment. There have been only two other outbreaks of it. The first killed 42 people in western Uganda in 2007, and the second, in Congo in 2012, killed 29.&lt;br/&gt;(에볼라 분디부교의 사망률은 최대 50%라고 콩고 보건장관이 일요일 기자들에게 말하며 환자들에게 치료를 받도록 촉구했다. 이 바이러스의 발병은 이전에 두 번만 있었다. 첫 번째는 2007년 서부 우간다에서 42명이 사망했고, 두 번째는 2012년 콩고에서 29명이 사망했다.)&lt;/p&gt;
 &lt;p&gt;Matthew Mpoke Bigg contributed reporting from Juba, South Sudan and Caleb Kabanda from Goma, Democratic Republic of Congo, and Apoorva Mandavilli from New York.&lt;br/&gt;(매튜 음포케 비그가 남수단 주바에서, 칼렙 카반다가 콩고민주공화국 고마에서, 아푸르바 만다빌리가 뉴욕에서 취재에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/18/multimedia/18int-congo-ebola-1-kgbm/18int-congo-ebola-1-kgbm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 19 May 2026 04:23:02 +0000</pubDate></item><item><title>Scientists Tweaked the Global Warming Outlook. So Trump Weighed In. (과학자들이 지구 온난화 전망을 수정하자, 트럼프가 개입했다.)</title><link>https://www.nytimes.com/2026/05/18/climate/trump-global-warming-truth-social.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/18/multimedia/18cli-trump-warming-htlz/18cli-trump-warming-htlz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/18/multimedia/18int-congo-ebola-1-kgbm/18int-congo-ebola-1-kgbm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 19 May 2026 04:23:03 +0000</pubDate></item><item><title>Scientists Tweaked the Global Warming Outlook. So Trump Weighed In. (과학자들이 지구 온난화 전망을 수정하자, 트럼프가 개입했다.)</title><link>https://www.nytimes.com/2026/05/18/climate/trump-global-warming-truth-social.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/18/multimedia/18cli-trump-warming-htlz/18cli-trump-warming-htlz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Scientists are dialing back their worst-case scenario for how hot the world might get from climate change. That’s a small bit of good news. But over the weekend, President Trump falsely claimed it was evidence that scientists had been wrong.&lt;br/&gt;(과학자들이 기후 변화로 인해 지구가 얼마나 뜨거워질 수 있는지에 대한 최악의 시나리오를 완화하고 있다. 이는 소소한 좋은 소식이다. 그러나 주말 동안 트럼프 대통령은 이것이 과학자들이 틀렸다는 증거라고 거짓 주장했다.)&lt;/p&gt;
 &lt;p&gt;Here’s a look at what’s changing, what it means and what the president said.&lt;br/&gt;(무엇이 바뀌고 있는지, 그것이 무엇을 의미하는지, 그리고 대통령이 무슨 말을 했는지 살펴보자.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -1379,7 +1366,90 @@ FIFA: 남미 축구 수장이 이전 스캔들 이후 회수된 수백만 달러
 &lt;p&gt;That’s it for today. See you tomorrow! — Katrin&lt;br/&gt;(오늘은 여기까지입니다. 내일 뵙겠습니다! — 카트린)&lt;/p&gt;
 &lt;p&gt;Peter S. Goodman was our guest writer today.&lt;br/&gt;(오늘은 피터 S. 굿맨이 게스트 작가였습니다.)&lt;/p&gt;
 &lt;p&gt;We welcome your feedback. Send us your suggestions at theworld@nytimes.com.&lt;br/&gt;(여러분의 피드백을 환영합니다. theworld@nytimes.com으로 제안을 보내주세요.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/19/world/aid-cuts-somalia-putin-china.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/20/multimedia/20int-theworld-somalia-01-kgth/20int-theworld-somalia-01-kgth-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 19 May 2026 12:01:32 +0000</pubDate></item><item><title>Son of Mango Fashion Chain’s Founder Is Arrested as Suspect in His Death (망고 패션 체인 창업자의 아들, 아버지 사망 사건 용의자로 체포)</title><link>https://www.nytimes.com/2026/05/19/world/europe/mango-son-arrest-andic.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/19/multimedia/19INT-SPAIN-MANGO-ARREST-zljk/19INT-SPAIN-MANGO-ARREST-zljk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/19/world/aid-cuts-somalia-putin-china.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/20/multimedia/20int-theworld-somalia-01-kgth/20int-theworld-somalia-01-kgth-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 19 May 2026 12:01:32 +0000</pubDate></item><item><title>Early War Goal Was to Install Hard Line Former President as Iran’s Leader (초기 전쟁 목표는 강경파 전직 대통령을 이란 지도자로 앉히는 것이었다)</title><link>https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/19/multimedia/19dc-iran-ahmadinejad-top-hfjq/19dc-iran-ahmadinejad-top-hfjq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Days after Israeli strikes killed Iran’s supreme leader and other top officials in the opening salvos of the war, President Trump mused publicly that it would be best if “someone from within” Iran took over the country.&lt;br/&gt;(전쟁 개시 공격으로 이스라엘의 공습이 이란 최고지도자와 다른 고위 관료들을 사살한 지 며칠 후, 트럼프 대통령은 "이란 내부의 누군가"가 국가를 장악하는 것이 최선일 것이라고 공개적으로 말했다.)&lt;/p&gt;
+&lt;p&gt;It turns out that the United States and Israel went into the conflict with a particular and very surprising someone in mind: Mahmoud Ahmadinejad, the former Iranian president known for his hard-line, anti-Israel and anti-American views.&lt;br/&gt;(알고 보니, 미국과 이스라엘은 그들의 충돌에 특별하고 매우 놀라운 인물을 염두에 두고 있었습니다: 강경한 반이스라엘 및 반미 성향으로 알려진 전 이란 대통령 마무드 아마디네자드였습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 이스라엘이 개발하고 아마디네자드가 사전에 협의를 받은 이 대담한 계획은 빠르게 엉망이 되었다고, 이에 대해 브리핑을 받은 미국 관리들이 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 관리들과 아마디네자드의 측근에 따르면, 아마디네자드는 전쟁 첫날 이스라엘이 테헤란 자택을 공습하여 가택연금에서 풀어주려 했을 때 부상을 입었습니다. 그들은 그가 공격에서 살아남았지만, 아슬아슬하게 피한 후 정권 교체 계획에 대해 환멸을 느꼈다고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 이후로 그는 공개적으로 모습을 드러내지 않았으며 현재 행방과 상태는 알려지지 않았습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아마디네자드가 특이한 선택이었다고 말하는 것은 크게 과소평가하는 것입니다. 그는 정권 지도자들과 점점 충돌하고 이란 당국에 의해 밀착 감시를 받았지만, 2005년부터 2013년까지 대통령 재임 기간 동안 "이스라엘을 지도에서 지워버리자"는 발언으로 유명했습니다. 그는 이란의 핵 프로그램을 강력히 지지했고, 미국을 맹렬히 비판했으며, 내부 반대 세력을 폭력적으로 진압한 것으로 알려졌습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아마디네자드가 어떻게 이 계획에 참여하게 되었는지는 아직 알려지지 않았습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이전에 보도된 적 없는 이 노력의 존재는 이스라엘이 이란의 신정 정권을 전복시키기 위해 개발한 다단계 계획의 일부였습니다. 이는 트럼프와 이스라엘의 베냐민 네타냐후 총리가 전쟁에 임하면서 목표를 얼마나 빨리 달성할 수 있을지 잘못 판단했을 뿐만 아니라, 일부 트럼프 측근조차도 믿기 어려워한 이란 지도부 교체에 대한 위험한 계획에 어느 정도 도박을 걸었음을 강조합니다. 특히 일부 미국 관리들은 아마디네자드를 다시 권좌에 앉히는 것의 실현 가능성에 대해 회의적이었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"처음부터 트럼프 대통령은 작전 '에픽 퓨리'의 목표가 이란의 탄도 미사일을 파괴하고, 생산 시설을 해체하며, 해군을 침몰시키고, 대리 세력을 약화시키는 것임을 분명히 했습니다,"라고 백악관 대변인 안나 켈리는 정권 교체 계획과 아마디네자드에 관한 논평 요청에 응답하며 말했습니다. "미국 군대는 모든 목표를 달성하거나 초과 달성했으며, 이제 우리 협상가들은 이란의 핵 능력을 영구히 종식시킬 협상을 진행 중입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+이스라엘 대외 정보국 모사드의 대변인은 논평을 거부했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 관리들은 전쟁 초기에 이스라엘과 함께 국가를 장악할 실용주의자를 식별하기 위한 계획을 개발했다고 말했습니다. 관리들은 이란 정권 내 일부 인사들이 '온건파'라고 설명할 수는 없어도 미국과 기꺼이 협력할 것이라는 정보가 있었다고 주장했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프는 베네수엘라 지도자 니콜라스 마두로를 체포하기 위한 미군의 급습 성공과 임시 후계자가 백악관과 협력하려는 의지를 즐기고 있었습니다. 이는 트럼프가 다른 곳에서도 복제할 수 있을 것이라고 생각한 모델이었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+최근 몇 년 동안 아마디네자드는 정권 지도자들과 충돌하며 그들을 부패 혐의로 비난했고, 그의 충성심에 대한 소문이 무성했습니다. 그는 여러 차례 대통령 선거에서 자격이 박탈되었고, 측근들은 체포되었으며, 아마디네자드의 활동은 점차 테헤란 동부 나르마크 지역에 있는 자택으로 제한되었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국과 이스라엘 관리들이 아마디네자드를 이란의 새 정부 지도자 후보로 보았다는 사실은 2월 전쟁이 테헤란에 더 유순한 지도부를 설치하려는 희망으로 시작되었음을 추가로 입증합니다. 트럼프와 그의 내각 구성원들은 전쟁의 목표가 이란의 핵, 미사일 및 군사 능력을 파괴하는 데 협소하게 초점을 맞추었다고 말해왔습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이스라엘과 미국이 어떻게 아마디네자드를 권좌에 앉힐 계획이었는지, 그리고 그를 다치게 한 공습의 정황에 대해서는 많은 의문이 남아 있습니다. 미국 관리들은 이스라엘 공군이 수행한 이 공격이 가택연금에서 풀어주기 위한 계획의 일환으로 아마디네자드를 감시하던 경비병들을 살해하기 위한 것이었다고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+전쟁 첫날, 이스라엘의 공습으로 이란 최고지도자 아야톨라 알리 하메네이가 사망했습니다. 테헤란 중심부에 있는 아야톨라 하메네이의 관저에 대한 공습은 이란 관리들의 회의를 폭파하여, 백악관이 상사들보다 정권 교체 협상에 더 의향이 있다고 식별한 일부 관리들도 사살했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+당시 이란 언론에는 아마디네자드가 자택 공습으로 사망했다는 초기 보도도 있었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 공습은 막다른 길 끝에 있는 아마디네자드의 집에 큰 피해를 주지 않았습니다. 그러나 길 입구의 경비 초소가 타격을 입었습니다. 위성 이미지는 그 건물이 파괴되었음을 보여줍니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 후 며칠 동안, 공식 뉴스 통신사들은 그가 살아남았지만 그의 "경호원들" – 실제로는 그를 감시하고 가택연금 상태로 둔 이슬람 혁명수비대 대원들 –이 사망했다고 명확히 밝혔습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+3월 &lt;애틀랜틱&gt;의 한 기사는 익명의 아마디네자드 측근을 인용하여, 전 대통령이 자택 공격 이후 정부 구금에서 풀려났으며, 이 기사는 그 공격을 "사실상의 탈옥 작전"이라고 묘사했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 기사 이후, 아마디네자드의 측근은 &lt;뉴욕 타임스&gt;에 아마디네자드가 그 공격을 자신을 풀어주려는 시도로 보았다고 확인했습니다. 측근은 미국인들이 아마디네자드를 이란을 이끌 수 있고 "이란의 정치적, 사회적, 군사적 상황"을 관리할 능력을 가진 인물로 보았다고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+측근은 아마디네자드가 가까운 미래에 이란에서 "매우 중요한 역할"을 할 수 있었을 것이라며, 미국이 그를 미군이 마두로를 체포한 후 권력을 잡고 이후 트럼프 행정부와 긴밀히 협력해 온 델시 로드리게스와 유사하게 보았다고 시사했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+대통령 재임 기간 동안 아마디네자드는 강경 정책뿐만 아니라 이란에는 동성애자가 한 명도 없다는 선언이나 홀로코스트 부인과 같은 종종 터무니없는 근본주의적 발언으로 유명했습니다. 그는 테헤란에서 열린 "시오니즘이 없는 세계"라는 회의에서 연설했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+서방 풍자 작가들은 이러한 견해를 조롱했고, 아마디네자드는 어쩌다 보니 대중문화의 호기심 대상이 되어 &lt;새터데이 나이트 라이브&gt; 패러디의 소재가 되기도 했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 또한 이란이 핵무기 프로그램을 무기화하기로 결정할 경우 언젠가 핵폭탄 제조에 사용할 수 있는 우라늄 농축을 가속화하던 시기에 국가를 통치했습니다. 2007년의 미국 정보 평가는 이란이 수년 전에 핵 장치 제조 작업을 중단했지만, 마음을 바꾸면 핵무기에 사용할 수 있는 핵연료 농축을 계속하고 있다고 결론지었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아마디네자드는 퇴임 후 점차 신정 정부에 대한 공개 비판자가 되었거나, 적어도 아야톨라 하메네이와 대립하게 되었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+세 차례(2017년, 2021년, 2024년) 아마디네자드는 전직 직위에 출마하려 했지만, 매번 민간인과 이슬람 법학자들로 구성된 이란 수호자 평의회가 그의 대통령 선거 운동을 차단했습니다. 아마디네자드는 이란 고위 관리들을 부패 또는 잘못된 통치로 비난하며 테헤란 정부의 비판자가 되었습니다. 그는 공개적으로 반체제 인사가 된 적은 없지만, 정권은 그를 잠재적으로 불안정을 초래할 요소로 취급하기 시작했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아마디네자드의 서방과의 관계는 훨씬 더 불분명합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2019년 &lt;뉴욕 타임스&gt;와의 인터뷰에서 아마디네자드는 트럼프 대통령을 칭찬하고 이란과 미국 간의 화해를 주장했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"트럼프 씨는 행동하는 사람입니다,"라고 아마디네자드는 말했습니다. "그는 사업가이므로 비용-편익을 계산하고 결정을 내릴 능력이 있습니다. 우리는 그에게 말합니다, 우리 두 국가의 장기적 비용-편익을 계산하고 근시안적이지 맙시다."
+&lt;&lt;&lt;PARA&gt;&gt;
+아마디네자드와 가까운 사람들은 서방과의 관계가 너무 가깝거나 이스라엘을 위해 스파이 활동을 한 혐의를 받아왔습니다. 아마디네자드의 전 비서실장인 에스판디아르 라힘 마샤이는 2018년에 재판에 회부되었고, 해당 사건의 판사는 공개적으로 그의 영국 및 이스라엘 정보 기관과의 연계에 대해 질문했으며, 이는 국영 언론을 통해 알려진 혐의였습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난 몇 년 동안 아마디네자드는 이란 밖으로 여행을 떠나 추측을 더욱 부채질했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2023년에는 과테말라를 방문했고, 2024년과 2025년에는 헝가리를 방문했으며, 이는 &lt;뉴 라인즈&gt; 잡지가 상세히 보도했습니다. 두 국가 모두 이스라엘과 긴밀한 관계를 맺고 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+당시 헝가리 총리 빅토르 오르반은 네타냐후와 가까운 관계를 유지하고 있습니다. 헝가리 방문 기간 동안 아마디네자드는 오르반과 관련된 대학에서 연설했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 지난 6월 이스라엘이 이란을 공격하기 시작하기 불과 며칠 전 부다페스트에서 돌아왔습니다. 그 전쟁이 발발했을 때, 그는 공개적으로 낮은 자세를 유지하고 소셜 미디어에 몇 개의 성명만 게시했습니다. 아마디네자드가 오랫동안 이란의 주요 적으로 여겨온 국가와의 전쟁에 대한 상대적인 침묵은 많은 이란 소셜 미디어 사용자들 사이에서 주목받았습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+필터랩스라는 여론 추적 회사의 분석에 따르면, 그의 사망 보도 이후 이란 소셜 미디어에서 아마디네자드에 대한 논의가 증가했습니다. 그러나 그 후 몇 주 동안 논의는 줄어들었으며, 주로 그의 행방에 대한 혼란으로 이어졌습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+작전 계획을 잘 알고 있는 두 이스라엘 국방 관리에 따르면, 처음에 이스라엘은 전쟁이 여러 단계로 전개될 것으로 구상했습니다: 미국과 이스라엘의 공중 공격과 이란 최고지도자 암살, 그리고 이란 군대와 싸우기 위한 쿠르드족의 동원으로 시작됩니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그런 다음, 이스라엘의 계획은 이스라엘의 영향력 캠페인과 쿠르드족의 침공이 결합되어 이란에 정치적 불안정을 조성하고 정권이 통제력을 잃고 있다는 인식을 심어주는 것을 예상했습니다. 세 번째 단계에서는 심각한 정치적 압력과 전기와 같은 주요 기반 시설의 손상이라는 부담 속에서 정권이 붕괴되어 이스라엘이 "대체 정부"라고 부르는 정부가 수립될 수 있게 됩니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+공중 작전과 최고지도자 암살 외에는 이 계획 중 거의 이스라엘이 바란 대로 진행되지 않았으며, 많은 부분이 이란의 회복력과 미국 및 이스라엘이 자신들의 의지를 관철할 능력을 크게 잘못 판단한 것으로 보입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 이란의 신정 정부가 전쟁 첫 달을 생존했다는 것이 명백해진 후에도, 일부 이스라엘 관리들은 테헤란에 정권 교체를 강요한다는 그들의 비전에 대한 믿음을 계속 표명했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+모사드 국장 다비드 바르네아는 여러 논의에서 측근들에게 자신의 기관의 계획이, 이란에서 수십 년간의 정보 수집과 작전 활동에 기반을 두고 있으며, 승인을 받아 진행되었다면 성공 가능성이 매우 높았다고 여전히 생각한다고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+크리스티안 트리베르트가 이 기사의 연구에 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/19/multimedia/19dc-iran-ahmadinejad-top-hfjq/19dc-iran-ahmadinejad-top-hfjq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 19 May 2026 14:56:08 +0000</pubDate></item><item><title>Son of Mango Fashion Chain’s Founder Is Arrested as Suspect in His Death (망고 패션 체인 창업자의 아들, 아버지 사망 사건 용의자로 체포)</title><link>https://www.nytimes.com/2026/05/19/world/europe/mango-son-arrest-andic.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/19/multimedia/19INT-SPAIN-MANGO-ARREST-zljk/19INT-SPAIN-MANGO-ARREST-zljk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The police in Spain said on Tuesday that they had arrested the son of Isak Andic, the founder of the international fashion chain Mango, as a homicide suspect in his father’s 2024 death.&lt;br/&gt;(스페인 경찰은 28일(현지시간) 국제 패션 체인 망고의 창업자 이사크 안디크의 2024년 사망 사건과 관련해 그의 아들을 살인 용의자로 체포했다고 밝혔다.)&lt;/p&gt;
 &lt;p&gt;Mr. Andic's son, Jonathan Andic, was arrested on Tuesday at his home in the Barcelona area and was taken to a courthouse to appear before a judge, said the police in Catalonia, the region of Spain that includes that city. Catalonia’s highest court said he was released after posting bail of 1 million euros, or $1.15 million.&lt;br/&gt;(카탈루냐 경찰에 따르면 안디크의 아들 조나단 안디크는 이날 바르셀로나 지역 자택에서 체포돼 법원으로 이송돼 판사 앞에 출석했다. 카탈루냐 고등법원은 그가 100만 유로(약 115만 달러)의 보석금을 내고 석방됐다고 전했다.)&lt;/p&gt;
 &lt;p&gt;The police said he had not been charged with a crime. His lawyer, Cristóbal Martell, did not immediately respond to a request for comment on Tuesday. Neither did Mango, which identifies Mr. Andic as the vice chairman of the board.&lt;br/&gt;(경찰은 그가 아직 기소되지는 않았다고 밝혔다. 그의 변호인 크리스토발 마르텔은 이날 논평 요청에 즉각 응답하지 않았다. 망고 측도 응답하지 않았다. 망고는 안디크를 이사회 부회장으로 명시하고 있다.)&lt;/p&gt;
