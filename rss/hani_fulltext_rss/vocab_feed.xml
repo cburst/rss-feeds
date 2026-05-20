@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 14:38:48 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 18:46:47 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>임베딩 – embedding</title><link>urn:urn:vocab:임베딩</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사과문을 – apology letter</title><link>urn:urn:vocab:사과문을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586691853971-f6395ac36928?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcG9sb2d5JTIwbGV0dGVyfGVufDB8fHx8MTc3OTI3MDQwM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사과문을 (apology letter)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(5·18민주화운동 기념일에 열린 텀블러 판매 이벤트에 민주화운동을 폄훼하거나 조롱하는 듯한 문구를 사용한 스타벅스의 ‘5·18 탱크데이’ 마케팅 논란에 대해 정용진 신세계그룹 회장이 19일 대국민 사과문을 발표했다&lt;br/&gt;&lt;em&gt;Regarding the controversy over Starbucks' '5·18 Tank Day' marketing, which used phrases that seemed to disparage or mock the democratization movement at a tumbler sales event held on the anniversary of the May 18 Democratic Uprising, Shinsegae Group Chairman Jeong Yong-jin issued a public apology on the 19th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정 회장은 “5·18민주화운동 영령과 유가족, 그리고 국민 여러분께 깊은 상처를 드려 그룹을 대표해 머리 숙여 사죄드린다”고 사과문을 발표했다&lt;br/&gt;&lt;em&gt;Chairman Jeong said in his apology, 'I deeply apologize on behalf of the group for causing deep wounds to the spirits of the May 18 Democratic Uprising, their bereaved families, and the people of the nation, and I bow my head in apology.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (무신사는 이날 사과문을 내어 “2019년 저지른 잘못에 대해서 다시 한번 깊이 사과드린다”고 밝혔다&lt;br/&gt;&lt;em&gt;Musinsa issued an apology on the same day, stating, 'We once again deeply apologize for the wrongdoing committed in 2019.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 사과문을 썼습니다.&lt;br/&gt;&lt;em&gt;I wrote an apology letter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사과문을 읽어 주세요.&lt;br/&gt;&lt;em&gt;Please read the apology letter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586691853971-f6395ac36928?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcG9sb2d5JTIwbGV0dGVyfGVufDB8fHx8MTc3OTI3MDQwM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사과문을 (apology letter)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(5·18민주화운동 기념일에 열린 텀블러 판매 이벤트에 민주화운동을 폄훼하거나 조롱하는 듯한 문구를 사용한 스타벅스의 ‘5·18 탱크데이’ 마케팅 논란에 대해 정용진 신세계그룹 회장이 19일 대국민 사과문을 발표했다&lt;br/&gt;&lt;em&gt;Regarding the controversy over Starbucks' '5·18 Tank Day' marketing, which used phrases that seemed to disparage or mock the democratization movement at a tumbler sales event held on the anniversary of the May 18 Democratic Uprising, Shinsegae Group Chairman Jeong Yong-jin issued a public apology on the 19th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정 회장은 “5·18민주화운동 영령과 유가족, 그리고 국민 여러분께 깊은 상처를 드려 그룹을 대표해 머리 숙여 사죄드린다”고 사과문을 발표했다&lt;br/&gt;&lt;em&gt;Chairman Jeong said in his apology, 'I deeply apologize on behalf of the group for causing deep wounds to the spirits of the May 18 Democratic Uprising, their bereaved families, and the people of the nation, and I bow my head in apology.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (무신사는 이날 사과문을 내어 “2019년 저지른 잘못에 대해서 다시 한번 깊이 사과드린다”고 밝혔다&lt;br/&gt;&lt;em&gt;Musinsa issued an apology on the same day, stating, 'We once again deeply apologize for the wrongdoing committed in 2019.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 사과문을 썼습니다.&lt;br/&gt;&lt;em&gt;I wrote an apology letter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사과문을 읽어 주세요.&lt;br/&gt;&lt;em&gt;Please read the apology letter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 20 May 2026 18:46:47 +0900</pubDate><guid isPermaLink="false">vocab-10780ff4e0de06efb89087b2468b120a5274ed81</guid><enclosure url="https://images.unsplash.com/photo-1586691853971-f6395ac36928?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcG9sb2d5JTIwbGV0dGVyfGVufDB8fHx8MTc3OTI3MDQwM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="91709" /><ns2:content url="https://images.unsplash.com/photo-1586691853971-f6395ac36928?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcG9sb2d5JTIwbGV0dGVyfGVufDB8fHx8MTc3OTI3MDQwM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1586691853971-f6395ac36928?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcG9sb2d5JTIwbGV0dGVyfGVufDB8fHx8MTc3OTI3MDQwM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사과문을</category></item><item><title>방식의 – of method</title><link>urn:urn:vocab:방식의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1766232272162-221a7a3dc874?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMG1ldGhvZHxlbnwwfHx8fDE3NzkyNjI5Nzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방식의 (of method)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(본 연구에서 허동재 학생은 텍스트 기반 설명에 의존하던 기존 방식의 한계를 극복하기 위해, 참조 이미지의 시각 임베딩을 활용하는 시각-언어 모델(VLM) 기반 제로샷 탐지 기법을 제안하였다&lt;br/&gt;&lt;em&gt;(In this study, student Heo Dong-jae proposed a zero-shot detection technique based on a vision-language model (VLM) that utilizes visual embeddings of reference images to overcome the limitations of existing methods that relied on text-based explanations.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김수진 교사는 이러한 ‘접근 방식의 언어’가 중요하다고 강조한다&lt;br/&gt;&lt;em&gt;Teacher Kim Su-jin emphasizes that this 'language of approach' is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;그림책을 활용해 다양한 방식의 연극 활동을 시도해보는 아이들&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Children trying various types of theater activities using picture books&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 방식의 문제가 있어요.&lt;br/&gt;&lt;em&gt;There is a problem with this method.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 방식의 장점이 뭐예요?&lt;br/&gt;&lt;em&gt;What are the advantages of that method?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1766232272162-221a7a3dc874?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMG1ldGhvZHxlbnwwfHx8fDE3NzkyNjI5Nzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="방식의 (of method)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(본 연구에서 허동재 학생은 텍스트 기반 설명에 의존하던 기존 방식의 한계를 극복하기 위해, 참조 이미지의 시각 임베딩을 활용하는 시각-언어 모델(VLM) 기반 제로샷 탐지 기법을 제안하였다&lt;br/&gt;&lt;em&gt;(In this study, student Heo Dong-jae proposed a zero-shot detection technique based on a vision-language model (VLM) that utilizes visual embeddings of reference images to overcome the limitations of existing methods that relied on text-based explanations.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;김수진 교사는 이러한 ‘접근 방식의 언어’가 중요하다고 강조한다&lt;br/&gt;&lt;em&gt;Teacher Kim Su-jin emphasizes that this 'language of approach' is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;그림책을 활용해 다양한 방식의 연극 활동을 시도해보는 아이들&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Children trying various types of theater activities using picture books&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 방식의 문제가 있어요.&lt;br/&gt;&lt;em&gt;There is a problem with this method.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 방식의 장점이 뭐예요?&lt;br/&gt;&lt;em&gt;What are the advantages of that method?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 20 May 2026 16:43:03 +0900</pubDate><guid isPermaLink="false">vocab-41b70cb7a11eaf4a12f74ff5336b74891dc814fb</guid><enclosure url="https://images.unsplash.com/photo-1766232272162-221a7a3dc874?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMG1ldGhvZHxlbnwwfHx8fDE3NzkyNjI5Nzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="116895" /><ns2:content url="https://images.unsplash.com/photo-1766232272162-221a7a3dc874?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMG1ldGhvZHxlbnwwfHx8fDE3NzkyNjI5Nzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1766232272162-221a7a3dc874?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMG1ldGhvZHxlbnwwfHx8fDE3NzkyNjI5Nzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>방식의</category></item><item><title>임베딩 – embedding</title><link>urn:urn:vocab:임베딩</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632961966559-71b8f2496679?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbWJlZGRpbmd8ZW58MHx8fHwxNzc5MjU1NTI0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="임베딩 (embedding)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(본 연구에서 허동재 학생은 텍스트 기반 설명에 의존하던 기존 방식의 한계를 극복하기 위해, 참조 이미지의 시각 임베딩을 활용하는 시각-언어 모델(VLM) 기반 제로샷 탐지 기법을 제안하였다&lt;br/&gt;&lt;em&gt;In this study, student Heo Dongjae proposed a zero-shot detection method based on a vision-language model (VLM) that utilizes visual embeddings of reference images to overcome the limitations of existing methods that relied on text-based descriptions.&lt;/em&gt;&lt;/p&gt;
