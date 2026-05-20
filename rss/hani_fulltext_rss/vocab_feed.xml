@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 18:46:47 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 20:50:46 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>사과문을 – apology letter</title><link>urn:urn:vocab:사과문을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>이사장 – chairperson</title><link>urn:urn:vocab:이사장</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641225354725-e98977ca2462?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFpcnBlcnNvbnxlbnwwfHx8fDE3NzkyNzc4NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이사장 (chairperson)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(포천양문패션칼라사업협동조합 이사장을 역임중인 성신섬유 정명효 대표는 염색 업계의 디지털 자동화 대응 현황을 선보이는 한편, 경기 침체에 따른 현장의 애로사항을 피력했다&lt;br/&gt;&lt;em&gt;Jeong Myung-hyo, CEO of Seongshin Textile, who is currently serving as the chairman of the Pocheon Yangmun Fashion Color Business Cooperative, presented the current status of digital automation response in the dyeing industry while also expressing the difficulties faced in the field due to the economic downturn.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또한, 이날 오찬 간담회에 참석한 경기북부환편공업협동조합(최춘기 이사장), 포천신평패션칼라사업협동조합(김홍철 이사장) 등 경기지역 주요 대표들은 업계 간 화합과 결속을 다지며, 지역 제조기반 활성화를 위한 다양한 발전 방안을 논의하였다&lt;br/&gt;&lt;em&gt;In addition, major representatives from the Gyeonggi region, including the Gyeonggi Northern Knitting Industry Cooperative (Chairman Choi Chun-ki) and the Pocheon Sinpyeong Fashion Color Business Cooperative (Chairman Kim Hong-cheol), who attended the luncheon meeting, strengthened unity and solidarity among industries and discussed various development plans to revitalize the local manufacturing base.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘Invited Gordon Chang to Defend Insurrection’: Sejong Institute Chairman Lee Yong-jun Attempts Unprecedented Reappointment (‘고든 창 불러 내란 옹호’ 이용준 세종연구소 이사장, 연임 시도) &lt;&lt;br/&gt;&lt;em&gt;'Invited Gordon Chang to Defend Insurrection': Sejong Institute Chairman Lee Yong-jun Attempts Unprecedented Reappointment&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이사장님이 회의를 시작했습니다.&lt;br/&gt;&lt;em&gt;The chairman started the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 이사장을 만났습니다.&lt;br/&gt;&lt;em&gt;I met the chairman.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641225354725-e98977ca2462?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFpcnBlcnNvbnxlbnwwfHx8fDE3NzkyNzc4NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이사장 (chairperson)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(포천양문패션칼라사업협동조합 이사장을 역임중인 성신섬유 정명효 대표는 염색 업계의 디지털 자동화 대응 현황을 선보이는 한편, 경기 침체에 따른 현장의 애로사항을 피력했다&lt;br/&gt;&lt;em&gt;Jeong Myung-hyo, CEO of Seongshin Textile, who is currently serving as the chairman of the Pocheon Yangmun Fashion Color Business Cooperative, presented the current status of digital automation response in the dyeing industry while also expressing the difficulties faced in the field due to the economic downturn.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또한, 이날 오찬 간담회에 참석한 경기북부환편공업협동조합(최춘기 이사장), 포천신평패션칼라사업협동조합(김홍철 이사장) 등 경기지역 주요 대표들은 업계 간 화합과 결속을 다지며, 지역 제조기반 활성화를 위한 다양한 발전 방안을 논의하였다&lt;br/&gt;&lt;em&gt;In addition, major representatives from the Gyeonggi region, including the Gyeonggi Northern Knitting Industry Cooperative (Chairman Choi Chun-ki) and the Pocheon Sinpyeong Fashion Color Business Cooperative (Chairman Kim Hong-cheol), who attended the luncheon meeting, strengthened unity and solidarity among industries and discussed various development plans to revitalize the local manufacturing base.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘Invited Gordon Chang to Defend Insurrection’: Sejong Institute Chairman Lee Yong-jun Attempts Unprecedented Reappointment (‘고든 창 불러 내란 옹호’ 이용준 세종연구소 이사장, 연임 시도) &lt;&lt;br/&gt;&lt;em&gt;'Invited Gordon Chang to Defend Insurrection': Sejong Institute Chairman Lee Yong-jun Attempts Unprecedented Reappointment&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이사장님이 회의를 시작했습니다.&lt;br/&gt;&lt;em&gt;The chairman started the meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 이사장을 만났습니다.&lt;br/&gt;&lt;em&gt;I met the chairman.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 20 May 2026 20:50:46 +0900</pubDate><guid isPermaLink="false">vocab-397727f74181c55c304da8de865eeb94a38f952d</guid><enclosure url="https://images.unsplash.com/photo-1641225354725-e98977ca2462?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFpcnBlcnNvbnxlbnwwfHx8fDE3NzkyNzc4NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="160760" /><ns2:content url="https://images.unsplash.com/photo-1641225354725-e98977ca2462?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFpcnBlcnNvbnxlbnwwfHx8fDE3NzkyNzc4NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1641225354725-e98977ca2462?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFpcnBlcnNvbnxlbnwwfHx8fDE3NzkyNzc4NDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>이사장</category></item><item><title>사과문을 – apology letter</title><link>urn:urn:vocab:사과문을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586691853971-f6395ac36928?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcG9sb2d5JTIwbGV0dGVyfGVufDB8fHx8MTc3OTI3MDQwM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사과문을 (apology letter)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(5·18민주화운동 기념일에 열린 텀블러 판매 이벤트에 민주화운동을 폄훼하거나 조롱하는 듯한 문구를 사용한 스타벅스의 ‘5·18 탱크데이’ 마케팅 논란에 대해 정용진 신세계그룹 회장이 19일 대국민 사과문을 발표했다&lt;br/&gt;&lt;em&gt;Regarding the controversy over Starbucks' '5·18 Tank Day' marketing, which used phrases that seemed to disparage or mock the democratization movement at a tumbler sales event held on the anniversary of the May 18 Democratic Uprising, Shinsegae Group Chairman Jeong Yong-jin issued a public apology on the 19th.&lt;/em&gt;&lt;/p&gt;
