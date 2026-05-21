@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 May 2026 15:43:47 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:48:32 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>이번엔 – this time</title><link>urn:urn:vocab:이번엔</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>선교사 – missionary</title><link>urn:urn:vocab:선교사</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1687563100680-6b763a90da45?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaXNzaW9uYXJ5fGVufDB8fHx8MTc3OTM1MzMwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선교사 (missionary)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Missionary Kim Hak-song, Once Detained in North Korea, Says "I Always Feel Sorry for Surviving Alone… Call for Release of Long-Term Detained Korean Missionaries" (北 억류됐던 김학송 선교사 “혼자 살아 나와 늘 미안함 마음…장기억류  韓 선교사 석방을”) &lt;&lt;br/&gt;&lt;em&gt;Missionary Kim Hak-song, Once Detained in North Korea, Says "I Always Feel Sorry for Surviving Alone… Call for Release of Long-Term Detained Korean Missionaries"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (북한에 2017년 5월부터 1년간 억류됐다 석방된 김학송 선교사는 21일 “김정욱·김국기·최춘길 한국인 선교사 세 분이 10년 넘게 아직도 북한에 억류중”이라며 “혼자 살아 나왔다는 미안함에 아직도 잠이 안올 때가 있다”고 했다&lt;br/&gt;&lt;em&gt;"Missionary Kim Hak-song, who was detained in North Korea for a year from May 2017 and released, said on the 21st, 'Three Korean missionaries—Kim Jeong-wook, Kim Guk-gi, and Choi Chun-gil—have been detained in North Korea for over 10 years,' adding, 'I still sometimes can't sleep because I feel sorry for having survived alone.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김 선교사는 이날 연세대에서 열린 ‘북한억류 한국 선교사 3인을 집으로’라는 주제로 열린 국제회의에서 자신의 북한 억류 경험을 소개하며 이렇게 말했다&lt;br/&gt;&lt;em&gt;(Missionary Kim shared his experience of being detained in North Korea at an international conference held at Yonsei University under the theme 'Bringing the Three Korean Missionaries Detained in North Korea Home.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선교사가 교회에 갑니다.&lt;br/&gt;&lt;em&gt;The missionary goes to church.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 선교사를 만났습니다.&lt;br/&gt;&lt;em&gt;I met the missionary.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1687563100680-6b763a90da45?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaXNzaW9uYXJ5fGVufDB8fHx8MTc3OTM1MzMwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선교사 (missionary)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Missionary Kim Hak-song, Once Detained in North Korea, Says "I Always Feel Sorry for Surviving Alone… Call for Release of Long-Term Detained Korean Missionaries" (北 억류됐던 김학송 선교사 “혼자 살아 나와 늘 미안함 마음…장기억류  韓 선교사 석방을”) &lt;&lt;br/&gt;&lt;em&gt;Missionary Kim Hak-song, Once Detained in North Korea, Says "I Always Feel Sorry for Surviving Alone… Call for Release of Long-Term Detained Korean Missionaries"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (북한에 2017년 5월부터 1년간 억류됐다 석방된 김학송 선교사는 21일 “김정욱·김국기·최춘길 한국인 선교사 세 분이 10년 넘게 아직도 북한에 억류중”이라며 “혼자 살아 나왔다는 미안함에 아직도 잠이 안올 때가 있다”고 했다&lt;br/&gt;&lt;em&gt;"Missionary Kim Hak-song, who was detained in North Korea for a year from May 2017 and released, said on the 21st, 'Three Korean missionaries—Kim Jeong-wook, Kim Guk-gi, and Choi Chun-gil—have been detained in North Korea for over 10 years,' adding, 'I still sometimes can't sleep because I feel sorry for having survived alone.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김 선교사는 이날 연세대에서 열린 ‘북한억류 한국 선교사 3인을 집으로’라는 주제로 열린 국제회의에서 자신의 북한 억류 경험을 소개하며 이렇게 말했다&lt;br/&gt;&lt;em&gt;(Missionary Kim shared his experience of being detained in North Korea at an international conference held at Yonsei University under the theme 'Bringing the Three Korean Missionaries Detained in North Korea Home.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선교사가 교회에 갑니다.&lt;br/&gt;&lt;em&gt;The missionary goes to church.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 선교사를 만났습니다.&lt;br/&gt;&lt;em&gt;I met the missionary.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 21 May 2026 17:48:32 +0900</pubDate><guid isPermaLink="false">vocab-43ba2113e4dc9ea1f2f135016370b765163cd045</guid><enclosure url="https://images.unsplash.com/photo-1687563100680-6b763a90da45?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaXNzaW9uYXJ5fGVufDB8fHx8MTc3OTM1MzMwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="144207" /><ns2:content url="https://images.unsplash.com/photo-1687563100680-6b763a90da45?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaXNzaW9uYXJ5fGVufDB8fHx8MTc3OTM1MzMwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1687563100680-6b763a90da45?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtaXNzaW9uYXJ5fGVufDB8fHx8MTc3OTM1MzMwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>선교사</category></item><item><title>이번엔 – this time</title><link>urn:urn:vocab:이번엔</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742035883702-f7d2bbeab72c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwdGltZXxlbnwwfHx8fDE3NzkzNDU4MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이번엔 (this time)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;” (“이번엔 진짜야&lt;br/&gt;&lt;em&gt;"This time it's real"&lt;/em&gt;&lt;/p&gt;
