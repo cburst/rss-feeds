@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 May 2026 07:24:53 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:35:59 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>사례는 – case</title><link>urn:urn:vocab:사례는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>감수성 – sensitivity</title><link>urn:urn:vocab:감수성</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1623787396705-c02e8fc53507?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW5zaXRpdml0eXxlbnwwfHx8fDE3NzkzMzA5NTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="감수성 (sensitivity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;△7년 전 당시 임직원의 윤리의식과 사회적 감수성 개선을 위해 전 직원을 대상으로 최태성 한국사 강사를 초빙해 역사 교육을 진행했고 △홍보물 제작 과정 전반에서 역사적·사회적 맥락을 더욱 엄격히 검토할 수 있게 다중 검수 체계를 운영하고 있다고 무신사는 이날 밝혔다&lt;br/&gt;&lt;em&gt;△Musinsa announced that seven years ago, to improve the ethical awareness and social sensitivity of employees at the time, they invited Korean history lecturer Choi Tae-sung to conduct history education for all employees, and △they operate a multi-level review system to more strictly examine the historical and social context throughout the entire process of producing promotional materials.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;5분 환경교육은 학기 말 ‘주니어 기후프레스크’ 활동으로 마무리됐는데, 당시 교육 봉사로 함께한 코퍼실리테이터들은 아이들이 보여준 환경에 대한 깊은 이해와 감수성에 감탄했다&lt;br/&gt;&lt;em&gt;The 5-minute environmental education concluded with a 'Junior Climate Fresk' activity at the end of the semester, and the co-facilitators who participated in the educational volunteering were amazed by the children's deep understanding and sensitivity toward the environment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;성평등 교사모임 ‘아웃박스’와 함께 일상에서 성인지 감수성을 키우는 방법을 짚어봤다&lt;br/&gt;&lt;em&gt;Together with the gender equality teacher group 'Outbox,' we explored ways to develop gender sensitivity in daily life.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 감수성이 풍부해요.&lt;br/&gt;&lt;em&gt;He is sensitive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;감수성이 예술에 중요해요.&lt;br/&gt;&lt;em&gt;Sensitivity is important in art.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1623787396705-c02e8fc53507?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW5zaXRpdml0eXxlbnwwfHx8fDE3NzkzMzA5NTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="감수성 (sensitivity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;△7년 전 당시 임직원의 윤리의식과 사회적 감수성 개선을 위해 전 직원을 대상으로 최태성 한국사 강사를 초빙해 역사 교육을 진행했고 △홍보물 제작 과정 전반에서 역사적·사회적 맥락을 더욱 엄격히 검토할 수 있게 다중 검수 체계를 운영하고 있다고 무신사는 이날 밝혔다&lt;br/&gt;&lt;em&gt;△Musinsa announced that seven years ago, to improve the ethical awareness and social sensitivity of employees at the time, they invited Korean history lecturer Choi Tae-sung to conduct history education for all employees, and △they operate a multi-level review system to more strictly examine the historical and social context throughout the entire process of producing promotional materials.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;5분 환경교육은 학기 말 ‘주니어 기후프레스크’ 활동으로 마무리됐는데, 당시 교육 봉사로 함께한 코퍼실리테이터들은 아이들이 보여준 환경에 대한 깊은 이해와 감수성에 감탄했다&lt;br/&gt;&lt;em&gt;The 5-minute environmental education concluded with a 'Junior Climate Fresk' activity at the end of the semester, and the co-facilitators who participated in the educational volunteering were amazed by the children's deep understanding and sensitivity toward the environment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;성평등 교사모임 ‘아웃박스’와 함께 일상에서 성인지 감수성을 키우는 방법을 짚어봤다&lt;br/&gt;&lt;em&gt;Together with the gender equality teacher group 'Outbox,' we explored ways to develop gender sensitivity in daily life.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 감수성이 풍부해요.&lt;br/&gt;&lt;em&gt;He is sensitive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;감수성이 예술에 중요해요.&lt;br/&gt;&lt;em&gt;Sensitivity is important in art.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 21 May 2026 11:35:59 +0900</pubDate><guid isPermaLink="false">vocab-1be40abc64f3ce14ab126df36fa3794f239b287d</guid><enclosure url="https://images.unsplash.com/photo-1623787396705-c02e8fc53507?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW5zaXRpdml0eXxlbnwwfHx8fDE3NzkzMzA5NTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="136570" /><ns2:content url="https://images.unsplash.com/photo-1623787396705-c02e8fc53507?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW5zaXRpdml0eXxlbnwwfHx8fDE3NzkzMzA5NTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1623787396705-c02e8fc53507?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW5zaXRpdml0eXxlbnwwfHx8fDE3NzkzMzA5NTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>감수성</category></item><item><title>체포영장 – arrest warrant</title><link>urn:urn:vocab:체포영장</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1732294672342-d68b8188a8da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnJlc3QlMjB3YXJyYW50fGVufDB8fHx8MTc3OTMyMzQ5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="체포영장 (arrest warrant)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Strong Remarks on Korean Nationals' Capture (이 대통령 “네타냐후 체포영장 검토”…한국인 나포에 강경 발언) &lt;&lt;br/&gt;&lt;em&gt;Strong Remarks on Korean Nationals' Capture (President Lee "Reviewing Netanyahu's Arrest Warrant"...Strong Remarks on Korean Nationals' Capture) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Strong Remarks on Korean Nationals' Capture (이 대통령 “네타냐후 체포영장 검토”…한국인 나포에 강경 발언)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Strong Remarks on Korean Nationals' Capture (President Lee "Reviewing Netanyahu's Arrest Warrant"...Strong Remarks on Korean Nationals' Capture)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령이 20일 이스라엘의 국제 구호선 나포에 대한 대응 차원에서, 국제형사재판소(ICC)가 체포영장을 발부한 베냐민 네타냐후 이스라엘 총리에 대한 체포영장 집행 여부를 포함한 대응 방안을 판단해보라고 지시했다&lt;br/&gt;&lt;em&gt;(President Lee Jae-myung on the 20th, in response to Israel's seizure of an international aid ship, ordered a review of countermeasures including whether to execute the arrest warrant issued by the International Criminal Court (ICC) for Israeli Prime Minister Benjamin Netanyahu.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경찰이 체포영장을 받았다.&lt;br/&gt;&lt;em&gt;The police obtained an arrest warrant.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;체포영장이 발부되었습니다.&lt;br/&gt;&lt;em&gt;An arrest warrant has been issued.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1732294672342-d68b8188a8da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnJlc3QlMjB3YXJyYW50fGVufDB8fHx8MTc3OTMyMzQ5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="체포영장 (arrest warrant)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Strong Remarks on Korean Nationals' Capture (이 대통령 “네타냐후 체포영장 검토”…한국인 나포에 강경 발언) &lt;&lt;br/&gt;&lt;em&gt;Strong Remarks on Korean Nationals' Capture (President Lee "Reviewing Netanyahu's Arrest Warrant"...Strong Remarks on Korean Nationals' Capture) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Strong Remarks on Korean Nationals' Capture (이 대통령 “네타냐후 체포영장 검토”…한국인 나포에 강경 발언)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Strong Remarks on Korean Nationals' Capture (President Lee "Reviewing Netanyahu's Arrest Warrant"...Strong Remarks on Korean Nationals' Capture)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령이 20일 이스라엘의 국제 구호선 나포에 대한 대응 차원에서, 국제형사재판소(ICC)가 체포영장을 발부한 베냐민 네타냐후 이스라엘 총리에 대한 체포영장 집행 여부를 포함한 대응 방안을 판단해보라고 지시했다&lt;br/&gt;&lt;em&gt;(President Lee Jae-myung on the 20th, in response to Israel's seizure of an international aid ship, ordered a review of countermeasures including whether to execute the arrest warrant issued by the International Criminal Court (ICC) for Israeli Prime Minister Benjamin Netanyahu.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경찰이 체포영장을 받았다.&lt;br/&gt;&lt;em&gt;The police obtained an arrest warrant.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;체포영장이 발부되었습니다.&lt;br/&gt;&lt;em&gt;An arrest warrant has been issued.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 21 May 2026 09:31:37 +0900</pubDate><guid isPermaLink="false">vocab-6de75cdbbaea9fa80d698f84d9f0d6cb97cd5dcf</guid><enclosure url="https://images.unsplash.com/photo-1732294672342-d68b8188a8da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnJlc3QlMjB3YXJyYW50fGVufDB8fHx8MTc3OTMyMzQ5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="199658" /><ns2:content url="https://images.unsplash.com/photo-1732294672342-d68b8188a8da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnJlc3QlMjB3YXJyYW50fGVufDB8fHx8MTc3OTMyMzQ5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1732294672342-d68b8188a8da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnJlc3QlMjB3YXJyYW50fGVufDB8fHx8MTc3OTMyMzQ5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>체포영장</category></item><item><title>사례는 – case</title><link>urn:urn:vocab:사례는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1563820510191-3b4a20c78568?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYXNlfGVufDB8fHx8MTc3OTMxNTg5MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사례는 (case)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;첫 금통위에서 인상한 사례는 신 총재 전임인 이창용 전 총재 때뿐이었다&lt;br/&gt;&lt;em&gt;The only case of a rate hike at the first Monetary Policy Committee meeting was under former Governor Lee Chang-yong, the predecessor of Governor Shin.&lt;/em&gt;&lt;/p&gt;
