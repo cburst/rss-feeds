@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 04:12:09 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 06:18:10 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>전문적인 – professional</title><link>urn:urn:vocab:전문적인</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>공모전 – contest</title><link>urn:urn:vocab:공모전</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1578269174936-2709b6aeb913?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250ZXN0fGVufDB8fHx8MTc3OTM5ODI4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공모전 (contest)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Seungchan Moon, Student at Kookmin University's AI Design Department, Wins Triple Crown at Prestigious Global Advertising and Design Competition 'Young Ones Student Awards' (국민대 AI디자인학과 문승찬 학생, 세계적 광고·디자인 공모전 ‘Young Ones Student Awards’서 3관왕) &lt;&lt;br/&gt;&lt;em&gt;Seungchan Moon, Student at Kookmin University's AI Design Department, Wins Triple Crown at Prestigious Global Advertising and Design Competition 'Young Ones Student Awards'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Seungchan Moon, Student at Kookmin University's AI Design Department, Wins Triple Crown at Prestigious Global Advertising and Design Competition 'Young Ones Student Awards' (국민대 AI디자인학과 문승찬 학생, 세계적 광고·디자인 공모전 ‘Young Ones Student Awards’서 3관왕)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Seungchan Moon, Student at Kookmin University's AI Design Department, Wins Triple Crown at Prestigious Global Advertising and Design Competition 'Young Ones Student Awards'&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민대학교(총장 정승렬) 조형대학 AI디자인학과 문승찬 학생이 세계적 권위의 국제 광고·디자인 공모전 ‘2026 Young Ones Student Awards’에서 총 3개 프로젝트로 은상·동상·Merit을 석권하며 3관왕에 올랐다&lt;br/&gt;&lt;em&gt;(Seungchan Moon, a student in the AI Design Department of the College of Arts and Design at Kookmin University (President Seungryeol Jeong), won a triple crown at the prestigious international advertising and design competition '2026 Young Ones Student Awards' by sweeping Silver, Bronze, and Merit awards with a total of three projects)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;공모전에 참가했어요.&lt;br/&gt;&lt;em&gt;I participated in a contest.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공모전에서 상을 받았어요.&lt;br/&gt;&lt;em&gt;I won an award at the contest.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1578269174936-2709b6aeb913?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250ZXN0fGVufDB8fHx8MTc3OTM5ODI4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공모전 (contest)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Seungchan Moon, Student at Kookmin University's AI Design Department, Wins Triple Crown at Prestigious Global Advertising and Design Competition 'Young Ones Student Awards' (국민대 AI디자인학과 문승찬 학생, 세계적 광고·디자인 공모전 ‘Young Ones Student Awards’서 3관왕) &lt;&lt;br/&gt;&lt;em&gt;Seungchan Moon, Student at Kookmin University's AI Design Department, Wins Triple Crown at Prestigious Global Advertising and Design Competition 'Young Ones Student Awards'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Seungchan Moon, Student at Kookmin University's AI Design Department, Wins Triple Crown at Prestigious Global Advertising and Design Competition 'Young Ones Student Awards' (국민대 AI디자인학과 문승찬 학생, 세계적 광고·디자인 공모전 ‘Young Ones Student Awards’서 3관왕)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Seungchan Moon, Student at Kookmin University's AI Design Department, Wins Triple Crown at Prestigious Global Advertising and Design Competition 'Young Ones Student Awards'&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민대학교(총장 정승렬) 조형대학 AI디자인학과 문승찬 학생이 세계적 권위의 국제 광고·디자인 공모전 ‘2026 Young Ones Student Awards’에서 총 3개 프로젝트로 은상·동상·Merit을 석권하며 3관왕에 올랐다&lt;br/&gt;&lt;em&gt;(Seungchan Moon, a student in the AI Design Department of the College of Arts and Design at Kookmin University (President Seungryeol Jeong), won a triple crown at the prestigious international advertising and design competition '2026 Young Ones Student Awards' by sweeping Silver, Bronze, and Merit awards with a total of three projects)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;공모전에 참가했어요.&lt;br/&gt;&lt;em&gt;I participated in a contest.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공모전에서 상을 받았어요.&lt;br/&gt;&lt;em&gt;I won an award at the contest.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 22 May 2026 06:18:10 +0900</pubDate><guid isPermaLink="false">vocab-60414c38b9be4b7b38489f93078e988b60e7c809</guid><enclosure url="https://images.unsplash.com/photo-1578269174936-2709b6aeb913?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250ZXN0fGVufDB8fHx8MTc3OTM5ODI4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="41516" /><ns2:content url="https://images.unsplash.com/photo-1578269174936-2709b6aeb913?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250ZXN0fGVufDB8fHx8MTc3OTM5ODI4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1578269174936-2709b6aeb913?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250ZXN0fGVufDB8fHx8MTc3OTM5ODI4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>공모전</category></item><item><title>전문적인 – professional</title><link>urn:urn:vocab:전문적인</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWx8ZW58MHx8fHwxNzc5MzkwNzI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전문적인 (professional)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;특히 만성질환 증가와 고령화로 인해 전문적인 돌봄 서비스와 이를 지원하는 체계가 중요해지고 있습니다&lt;br/&gt;&lt;em&gt;In particular, due to the increase in chronic diseases and aging, professional care services and systems to support them are becoming important.&lt;/em&gt;&lt;/p&gt;
