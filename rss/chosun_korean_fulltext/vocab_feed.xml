@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 May 2026 11:36:05 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:43:47 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>진지하게 – seriously</title><link>urn:urn:vocab:진지하게</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>이번엔 – this time</title><link>urn:urn:vocab:이번엔</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742035883702-f7d2bbeab72c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwdGltZXxlbnwwfHx8fDE3NzkzNDU4MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이번엔 (this time)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (“이번엔 진짜야&lt;br/&gt;&lt;em&gt;"This time it's real"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (“이번엔 힘들 것 같아&lt;br/&gt;&lt;em&gt;"I think this time will be tough"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;근데 이번엔 내가 당신 챙겨줄 여유가 없을 것 같아서&lt;br/&gt;&lt;em&gt;But I don't think I'll have the leeway to take care of you this time&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번엔 제가 할게요.&lt;br/&gt;&lt;em&gt;I'll do it this time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번엔 어디에 갈까요?&lt;br/&gt;&lt;em&gt;Where shall we go this time?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742035883702-f7d2bbeab72c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwdGltZXxlbnwwfHx8fDE3NzkzNDU4MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이번엔 (this time)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (“이번엔 진짜야&lt;br/&gt;&lt;em&gt;"This time it's real"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (“이번엔 힘들 것 같아&lt;br/&gt;&lt;em&gt;"I think this time will be tough"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;근데 이번엔 내가 당신 챙겨줄 여유가 없을 것 같아서&lt;br/&gt;&lt;em&gt;But I don't think I'll have the leeway to take care of you this time&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번엔 제가 할게요.&lt;br/&gt;&lt;em&gt;I'll do it this time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번엔 어디에 갈까요?&lt;br/&gt;&lt;em&gt;Where shall we go this time?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 21 May 2026 15:43:47 +0900</pubDate><guid isPermaLink="false">vocab-5bd5ce8f307e2ce3b0a2d703ef85468cac1c3261</guid><enclosure url="https://images.unsplash.com/photo-1742035883702-f7d2bbeab72c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwdGltZXxlbnwwfHx8fDE3NzkzNDU4MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="183433" /><ns2:content url="https://images.unsplash.com/photo-1742035883702-f7d2bbeab72c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwdGltZXxlbnwwfHx8fDE3NzkzNDU4MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1742035883702-f7d2bbeab72c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwdGltZXxlbnwwfHx8fDE3NzkzNDU4MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>이번엔</category></item><item><title>킥오프 – kickoff</title><link>urn:urn:vocab:킥오프</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1678806812973-206a520919a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxraWNrb2ZmfGVufDB8fHx8MTc3OTMzODMzOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="킥오프 (kickoff)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Hold ‘Kickoff’ Meeting Half a Year After Security Agreement… Self-Praised as “Biggest Diplomatic Achievement” (안보 합의 반년 만에 ‘킥오프’ 회의 한다는 韓美… “가장 큰 외교 성과” 자평) &lt;&lt;br/&gt;&lt;em&gt;Hold ‘Kickoff’ Meeting Half a Year After Security Agreement… Self-Praised as “Biggest Diplomatic Achievement”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hold ‘Kickoff’ Meeting Half a Year After Security Agreement… Self-Praised as “Biggest Diplomatic Achievement” (안보 합의 반년 만에 ‘킥오프’ 회의 한다는 韓美… “가장 큰 외교 성과” 자평)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Hold ‘Kickoff’ Meeting Half a Year After Security Agreement… Self-Praised as “Biggest Diplomatic Achievement”&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박 차관은 전날에도 카운터 파트인 앨리슨 후커 정무 담당 차관과 만나 팩트시트 안보 분야 합의 이행을 위한 실무 협의를 논의했고, 이르면 다음 달 서울에서 ‘킥오프’ 회의를 갖는다고 외교부가 전했다&lt;br/&gt;&lt;em&gt;Deputy Minister Park met with his counterpart, Deputy Minister for Political Affairs Allison Hooker, the previous day to discuss working-level consultations for implementing the security agreement in the fact sheet, and the Ministry of Foreign Affairs reported that a ‘kickoff’ meeting will be held in Seoul as early as next month.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;킥오프가 곧 시작됩니다.&lt;br/&gt;&lt;em&gt;The kickoff is about to start.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;킥오프 시간을 확인하세요.&lt;br/&gt;&lt;em&gt;Check the kickoff time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1678806812973-206a520919a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxraWNrb2ZmfGVufDB8fHx8MTc3OTMzODMzOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="킥오프 (kickoff)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Hold ‘Kickoff’ Meeting Half a Year After Security Agreement… Self-Praised as “Biggest Diplomatic Achievement” (안보 합의 반년 만에 ‘킥오프’ 회의 한다는 韓美… “가장 큰 외교 성과” 자평) &lt;&lt;br/&gt;&lt;em&gt;Hold ‘Kickoff’ Meeting Half a Year After Security Agreement… Self-Praised as “Biggest Diplomatic Achievement”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hold ‘Kickoff’ Meeting Half a Year After Security Agreement… Self-Praised as “Biggest Diplomatic Achievement” (안보 합의 반년 만에 ‘킥오프’ 회의 한다는 韓美… “가장 큰 외교 성과” 자평)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Hold ‘Kickoff’ Meeting Half a Year After Security Agreement… Self-Praised as “Biggest Diplomatic Achievement”&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박 차관은 전날에도 카운터 파트인 앨리슨 후커 정무 담당 차관과 만나 팩트시트 안보 분야 합의 이행을 위한 실무 협의를 논의했고, 이르면 다음 달 서울에서 ‘킥오프’ 회의를 갖는다고 외교부가 전했다&lt;br/&gt;&lt;em&gt;Deputy Minister Park met with his counterpart, Deputy Minister for Political Affairs Allison Hooker, the previous day to discuss working-level consultations for implementing the security agreement in the fact sheet, and the Ministry of Foreign Affairs reported that a ‘kickoff’ meeting will be held in Seoul as early as next month.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;킥오프가 곧 시작됩니다.&lt;br/&gt;&lt;em&gt;The kickoff is about to start.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;킥오프 시간을 확인하세요.&lt;br/&gt;&lt;em&gt;Check the kickoff time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 21 May 2026 13:39:00 +0900</pubDate><guid isPermaLink="false">vocab-d9dbba9edc4cc7e376186d5e90bf3db1a784326f</guid><enclosure url="https://images.unsplash.com/photo-1678806812973-206a520919a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxraWNrb2ZmfGVufDB8fHx8MTc3OTMzODMzOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="139824" /><ns2:content url="https://images.unsplash.com/photo-1678806812973-206a520919a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxraWNrb2ZmfGVufDB8fHx8MTc3OTMzODMzOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1678806812973-206a520919a2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxraWNrb2ZmfGVufDB8fHx8MTc3OTMzODMzOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>킥오프</category></item><item><title>진지하게 – seriously</title><link>urn:urn:vocab:진지하게</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1602109623441-231e098742f5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZXJpb3VzbHl8ZW58MHx8fHwxNzc5MzMwOTYwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="진지하게 (seriously)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;” (경기 평택을 국회의원 재선거에 출마한 국민의힘 유의동 후보가 20일 보수진영 단일화와 관련해서 “진지하게 고민하고 있다”고 말했다&lt;br/&gt;&lt;em&gt;" (Yoo Ui-dong, the People Power Party candidate running in the by-election for Gyeonggi Pyeongtaek's National Assembly seat, said on the 20th regarding the conservative camp's unification, 'I am seriously considering it.'&lt;/em&gt;&lt;/p&gt;
