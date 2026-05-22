@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 01:15:51 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 03:20:12 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>환경의 – environmental</title><link>urn:urn:vocab:환경의</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>발전에 – to development</title><link>urn:urn:vocab:발전에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc3OTQ3NDAwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="발전에 (to development)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(게이오대는 윤동섭 총장이 세계적 외과의로서 의학 및 첨단 외과학 발전에 기여하고, 연세의료원장과 연세대학교 총장으로 재임하며 한국 및 글로벌 학문 분야에서 탁월한 리더십을 발휘한 공로를 높이 평가해 명예의학박사 학위를 수여했다고 밝혔다&lt;br/&gt;&lt;em&gt;Keio University announced that it awarded an honorary doctorate in medical science to President Yoon Dong-sup, highly recognizing his contributions to the advancement of medicine and cutting-edge surgery as a world-renowned surgeon, and his outstanding leadership in Korean and global academic fields while serving as the director of Yonsei Medical Center and president of Yonsei University.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(또한 한국간담췌외과학회, 대한외과학회, 대한병원협회 등 국내 주요 의료기관 및 학술단체의 핵심 보직을 맡으며 한국 의료계와 의학 발전에 크게 기여해 왔다&lt;br/&gt;&lt;em&gt;In addition, he has made significant contributions to the development of Korean medicine and the medical community by holding key positions in major domestic medical institutions and academic organizations such as the Korean Association of Hepato-Biliary-Pancreatic Surgery, the Korean Surgical Society, and the Korean Hospital Association.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘Outstanding Reviewer Award’는 학술지 논문 심사 과정에서 전문성과 성실성을 바탕으로 학문 발전에 기여한 심사위원에게 수여되는 상이다&lt;br/&gt;&lt;em&gt;The 'Outstanding Reviewer Award' is given to reviewers who contribute to academic development based on their expertise and diligence in the journal's peer review process.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;발전에 도움이 됩니다.&lt;br/&gt;&lt;em&gt;It helps with development.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;발전에 기여하고 싶어요.&lt;br/&gt;&lt;em&gt;I want to contribute to development.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc3OTQ3NDAwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="발전에 (to development)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(게이오대는 윤동섭 총장이 세계적 외과의로서 의학 및 첨단 외과학 발전에 기여하고, 연세의료원장과 연세대학교 총장으로 재임하며 한국 및 글로벌 학문 분야에서 탁월한 리더십을 발휘한 공로를 높이 평가해 명예의학박사 학위를 수여했다고 밝혔다&lt;br/&gt;&lt;em&gt;Keio University announced that it awarded an honorary doctorate in medical science to President Yoon Dong-sup, highly recognizing his contributions to the advancement of medicine and cutting-edge surgery as a world-renowned surgeon, and his outstanding leadership in Korean and global academic fields while serving as the director of Yonsei Medical Center and president of Yonsei University.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(또한 한국간담췌외과학회, 대한외과학회, 대한병원협회 등 국내 주요 의료기관 및 학술단체의 핵심 보직을 맡으며 한국 의료계와 의학 발전에 크게 기여해 왔다&lt;br/&gt;&lt;em&gt;In addition, he has made significant contributions to the development of Korean medicine and the medical community by holding key positions in major domestic medical institutions and academic organizations such as the Korean Association of Hepato-Biliary-Pancreatic Surgery, the Korean Surgical Society, and the Korean Hospital Association.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘Outstanding Reviewer Award’는 학술지 논문 심사 과정에서 전문성과 성실성을 바탕으로 학문 발전에 기여한 심사위원에게 수여되는 상이다&lt;br/&gt;&lt;em&gt;The 'Outstanding Reviewer Award' is given to reviewers who contribute to academic development based on their expertise and diligence in the journal's peer review process.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;발전에 도움이 됩니다.&lt;br/&gt;&lt;em&gt;It helps with development.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;발전에 기여하고 싶어요.&lt;br/&gt;&lt;em&gt;I want to contribute to development.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 23 May 2026 03:20:12 +0900</pubDate><guid isPermaLink="false">vocab-55d313acee05292ea89f0a0d9d52bc9ea05e741a</guid><enclosure url="https://images.unsplash.com/photo-1605379399642-870262d3d051?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc3OTQ3NDAwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="94206" /><ns2:content url="https://images.unsplash.com/photo-1605379399642-870262d3d051?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc3OTQ3NDAwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1605379399642-870262d3d051?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc3OTQ3NDAwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>발전에</category></item><item><title>환경의 – environmental</title><link>urn:urn:vocab:환경의</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudGFsfGVufDB8fHx8MTc3OTQ2NjU0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="환경의 (environmental)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이런 세수 환경의 변화와 관련해 김용범 청와대 정책실장은 앞서 ‘국민배당금’이라는 화두를 제시한 바 있다&lt;br/&gt;&lt;em&gt;" In relation to such changes in the tax environment, Kim Yong-beom, head of the policy office at the Blue House, previously suggested the topic of 'national dividend'.&lt;/em&gt;&lt;/p&gt;
