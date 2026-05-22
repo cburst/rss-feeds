@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 06:18:10 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 08:25:10 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>공모전 – contest</title><link>urn:urn:vocab:공모전</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>첫날인 – being the first day</title><link>urn:urn:vocab:첫날인</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1646207747431-58efc751eca4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWluZyUyMHRoZSUyMGZpcnN0JTIwZGF5fGVufDB8fHx8MTc3OTQwNTkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="첫날인 (being the first day)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;첫날인 21일 저녁에는 학우들의 자발적인 참여문화제인 ‘학우참여문화제’가 열린다&lt;br/&gt;&lt;em&gt;On the evening of the first day, the 21st, a voluntary student participation cultural festival called 'Student Participation Cultural Festival' will be held.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;공식선거운동 첫날인 21일 국민의힘 박민식, 더불어민주당 하정우, 무소속 한동훈 부산 북갑 국회의원 보궐선거 후보가 부산 북구 남산정종합사회복지관에서 열린 콩국수 나눔 행사에 참석해 콩국수 배식 봉사를 하고 있다&lt;br/&gt;&lt;em&gt;On the first day of official election campaigning, the 21st, People Power Party candidate Park Min-sik, Democratic Party candidate Ha Jung-woo, and independent candidate Han Dong-hoon for the Busan North Gap by-election attended a soybean noodle sharing event held at Busan Buk-gu Namsanjeong General Social Welfare Center and served soybean noodles.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;6·3 지방선거 및 재보선 공식 선거운동 첫날인 21일 장동혁 국민의힘 상임선거대책위원장이 대전 동구 대전역 서광장에서 이장우 대전시장 후보 지지 발언을 하고 있다&lt;br/&gt;&lt;em&gt;On the first day of official election campaigning for the June 3 local elections and by-elections, the 21st, People Power Party Senior Election Strategy Committee Chairman Jang Dong-hyuk made a supportive speech for Daejeon Mayor candidate Lee Jang-woo at Daejeon Dong-gu Daejeon Station West Plaza.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오늘은 첫날인가요?&lt;br/&gt;&lt;em&gt;Is today the first day?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이곳이 첫날인 곳이에요.&lt;br/&gt;&lt;em&gt;This is the place where it's the first day.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1646207747431-58efc751eca4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWluZyUyMHRoZSUyMGZpcnN0JTIwZGF5fGVufDB8fHx8MTc3OTQwNTkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="첫날인 (being the first day)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;첫날인 21일 저녁에는 학우들의 자발적인 참여문화제인 ‘학우참여문화제’가 열린다&lt;br/&gt;&lt;em&gt;On the evening of the first day, the 21st, a voluntary student participation cultural festival called 'Student Participation Cultural Festival' will be held.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;공식선거운동 첫날인 21일 국민의힘 박민식, 더불어민주당 하정우, 무소속 한동훈 부산 북갑 국회의원 보궐선거 후보가 부산 북구 남산정종합사회복지관에서 열린 콩국수 나눔 행사에 참석해 콩국수 배식 봉사를 하고 있다&lt;br/&gt;&lt;em&gt;On the first day of official election campaigning, the 21st, People Power Party candidate Park Min-sik, Democratic Party candidate Ha Jung-woo, and independent candidate Han Dong-hoon for the Busan North Gap by-election attended a soybean noodle sharing event held at Busan Buk-gu Namsanjeong General Social Welfare Center and served soybean noodles.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;6·3 지방선거 및 재보선 공식 선거운동 첫날인 21일 장동혁 국민의힘 상임선거대책위원장이 대전 동구 대전역 서광장에서 이장우 대전시장 후보 지지 발언을 하고 있다&lt;br/&gt;&lt;em&gt;On the first day of official election campaigning for the June 3 local elections and by-elections, the 21st, People Power Party Senior Election Strategy Committee Chairman Jang Dong-hyuk made a supportive speech for Daejeon Mayor candidate Lee Jang-woo at Daejeon Dong-gu Daejeon Station West Plaza.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오늘은 첫날인가요?&lt;br/&gt;&lt;em&gt;Is today the first day?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이곳이 첫날인 곳이에요.&lt;br/&gt;&lt;em&gt;This is the place where it's the first day.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 22 May 2026 08:25:09 +0900</pubDate><guid isPermaLink="false">vocab-fae36fd711674ee026c85298b9ddba6fd22ca0d2</guid><enclosure url="https://images.unsplash.com/photo-1646207747431-58efc751eca4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWluZyUyMHRoZSUyMGZpcnN0JTIwZGF5fGVufDB8fHx8MTc3OTQwNTkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="54243" /><ns2:content url="https://images.unsplash.com/photo-1646207747431-58efc751eca4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWluZyUyMHRoZSUyMGZpcnN0JTIwZGF5fGVufDB8fHx8MTc3OTQwNTkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1646207747431-58efc751eca4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiZWluZyUyMHRoZSUyMGZpcnN0JTIwZGF5fGVufDB8fHx8MTc3OTQwNTkwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>첫날인</category></item><item><title>공모전 – contest</title><link>urn:urn:vocab:공모전</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1578269174936-2709b6aeb913?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250ZXN0fGVufDB8fHx8MTc3OTM5ODI4N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공모전 (contest)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Seungchan Moon, Student at Kookmin University's AI Design Department, Wins Triple Crown at Prestigious Global Advertising and Design Competition 'Young Ones Student Awards' (국민대 AI디자인학과 문승찬 학생, 세계적 광고·디자인 공모전 ‘Young Ones Student Awards’서 3관왕) &lt;&lt;br/&gt;&lt;em&gt;Seungchan Moon, Student at Kookmin University's AI Design Department, Wins Triple Crown at Prestigious Global Advertising and Design Competition 'Young Ones Student Awards'&lt;/em&gt;&lt;/p&gt;
