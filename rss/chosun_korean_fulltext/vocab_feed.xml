@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 03:20:17 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 05:26:45 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>사전투표 – early voting</title><link>urn:urn:vocab:사전투표</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>투표함 – ballot box</title><link>urn:urn:vocab:투표함</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBib3h8ZW58MHx8fHwxNzc5NDY2NTUyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표함 (ballot box)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;To End ‘Switch-Up’ Controversy… Advance Voting Ballot Box Stands to Become Transparent (바꿔치기 논란 더는 안 나오게… 사전투표함 받침대 투명해진다) &lt;&lt;br/&gt;&lt;em&gt;To End ‘Switch-Up’ Controversy… Advance Voting Ballot Box Stands to Become Transparent&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;To End ‘Switch-Up’ Controversy… Advance Voting Ballot Box Stands to Become Transparent (바꿔치기 논란 더는 안 나오게… 사전투표함 받침대 투명해진다)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;To End ‘Switch-Up’ Controversy… Advance Voting Ballot Box Stands to Become Transparent&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 6·3 지방선거부터 사전투표함 외부 받침대가 투명한 재질로 바뀐다&lt;br/&gt;&lt;em&gt;Starting from the June 3 local elections, the external stands of advance voting ballot boxes will be made of transparent material&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표함이 교실에 있습니다.&lt;br/&gt;&lt;em&gt;The ballot box is in the classroom.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 투표함을 봤습니다.&lt;br/&gt;&lt;em&gt;I saw the ballot box.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBib3h8ZW58MHx8fHwxNzc5NDY2NTUyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표함 (ballot box)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;To End ‘Switch-Up’ Controversy… Advance Voting Ballot Box Stands to Become Transparent (바꿔치기 논란 더는 안 나오게… 사전투표함 받침대 투명해진다) &lt;&lt;br/&gt;&lt;em&gt;To End ‘Switch-Up’ Controversy… Advance Voting Ballot Box Stands to Become Transparent&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;To End ‘Switch-Up’ Controversy… Advance Voting Ballot Box Stands to Become Transparent (바꿔치기 논란 더는 안 나오게… 사전투표함 받침대 투명해진다)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;To End ‘Switch-Up’ Controversy… Advance Voting Ballot Box Stands to Become Transparent&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 6·3 지방선거부터 사전투표함 외부 받침대가 투명한 재질로 바뀐다&lt;br/&gt;&lt;em&gt;Starting from the June 3 local elections, the external stands of advance voting ballot boxes will be made of transparent material&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표함이 교실에 있습니다.&lt;br/&gt;&lt;em&gt;The ballot box is in the classroom.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 투표함을 봤습니다.&lt;br/&gt;&lt;em&gt;I saw the ballot box.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 23 May 2026 05:26:45 +0900</pubDate><guid isPermaLink="false">vocab-c690c30fb435ff64fd7d4487275224867f3f07cb</guid><enclosure url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBib3h8ZW58MHx8fHwxNzc5NDY2NTUyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="23486" /><ns2:content url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBib3h8ZW58MHx8fHwxNzc5NDY2NTUyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBib3h8ZW58MHx8fHwxNzc5NDY2NTUyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>투표함</category></item><item><title>사전투표 – early voting</title><link>urn:urn:vocab:사전투표</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1494172961521-33799ddd43a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlYXJseSUyMHZvdGluZ3xlbnwwfHx8fDE3Nzk0NzQwMTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사전투표 (early voting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;To End ‘Switch-Up’ Controversy… Advance Voting Ballot Box Stands to Become Transparent (바꿔치기 논란 더는 안 나오게… 사전투표함 받침대 투명해진다) &lt;&lt;br/&gt;&lt;em&gt;To End ‘Switch-Up’ Controversy… Advance Voting Ballot Box Stands to Become Transparent&lt;/em&gt;&lt;/p&gt;
