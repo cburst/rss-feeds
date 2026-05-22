@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 12:40:48 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 16:54:20 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,49 @@
 
 
 
-  <item><title>급식 – meal (especially school meal)</title><link>urn:urn:vocab:급식</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>아기씨 – baby (honorific)</title><link>urn:urn:vocab:아기씨</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘鄭 아기씨 굿당 의혹’ 현장 방문) &lt;&lt;br/&gt;&lt;em&gt;Visit to the site of the 'Jeong Baby's Shrine' controversy) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (또 오 후보는 이날 오후 서울 성동구 행당7구역에서 열린 ‘아기씨 굿당 피해주민 현장 간담회’에도 참석했다&lt;br/&gt;&lt;em&gt;" (Candidate O also attended the 'Baby's Shrine Resident Site Meeting' held in Haengdang 7 District, Seongdong-gu, Seoul on the afternoon of this day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘아기씨 굿당 의혹’은 정 후보가 성동구청장 재임 시절 행당 7구역 재개발 사업 추진 과정에서 48억원 규모의 굿당 건물을 새로 지을 경우 이 신축 건물의 소유권을 기부채납 받기로 해놓고, 이후 굿당이 완공되자 소유권을 넘겨받지 않고 현금으로 기부채납을 요구해 재개발 조합 측에 피해를 줬다는 의혹이다&lt;br/&gt;&lt;em&gt;The 'Baby's Shrine controversy' is an allegation that during Candidate Jeong's tenure as the head of Seongdong-gu, in the process of promoting the redevelopment project in Haengdang 7 District, he agreed to receive ownership of a new shrine building worth 4.8 billion won through donation in kind, but after the shrine was completed, he demanded a cash donation instead of taking ownership, causing damage to the redevelopment association.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아기씨가 예뻐요.&lt;br/&gt;&lt;em&gt;The baby is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아기씨를 봐요.&lt;br/&gt;&lt;em&gt;Look at the baby.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘鄭 아기씨 굿당 의혹’ 현장 방문) &lt;&lt;br/&gt;&lt;em&gt;Visit to the site of the 'Jeong Baby's Shrine' controversy) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (또 오 후보는 이날 오후 서울 성동구 행당7구역에서 열린 ‘아기씨 굿당 피해주민 현장 간담회’에도 참석했다&lt;br/&gt;&lt;em&gt;" (Candidate O also attended the 'Baby's Shrine Resident Site Meeting' held in Haengdang 7 District, Seongdong-gu, Seoul on the afternoon of this day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘아기씨 굿당 의혹’은 정 후보가 성동구청장 재임 시절 행당 7구역 재개발 사업 추진 과정에서 48억원 규모의 굿당 건물을 새로 지을 경우 이 신축 건물의 소유권을 기부채납 받기로 해놓고, 이후 굿당이 완공되자 소유권을 넘겨받지 않고 현금으로 기부채납을 요구해 재개발 조합 측에 피해를 줬다는 의혹이다&lt;br/&gt;&lt;em&gt;The 'Baby's Shrine controversy' is an allegation that during Candidate Jeong's tenure as the head of Seongdong-gu, in the process of promoting the redevelopment project in Haengdang 7 District, he agreed to receive ownership of a new shrine building worth 4.8 billion won through donation in kind, but after the shrine was completed, he demanded a cash donation instead of taking ownership, causing damage to the redevelopment association.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아기씨가 예뻐요.&lt;br/&gt;&lt;em&gt;The baby is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아기씨를 봐요.&lt;br/&gt;&lt;em&gt;Look at the baby.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 22 May 2026 16:54:20 +0900</pubDate><guid isPermaLink="false">vocab-8fa4d09f20094992f1e4eb543741c18c4c00ddac</guid><category>아기씨</category></item><item><title>포로 – prisoner</title><link>urn:urn:vocab:포로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1516024693578-e0623769b752?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmlzb25lcnxlbnwwfHx8fDE3Nzk0Mjg5ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="포로 (prisoner)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Why Paik Sun-yup Moved Foreign Media: South Korean Soldiers Fed Worse Than Communist POWs (공산군 포로보다 못한 한국군 급식… 백선엽이 외신을 움직인 이유) &lt;&lt;br/&gt;&lt;em&gt;Why Paik Sun-yup Moved Foreign Media: South Korean Soldiers Fed Worse Than Communist POWs&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Why Paik Sun-yup Moved Foreign Media: South Korean Soldiers Fed Worse Than Communist POWs (공산군 포로보다 못한 한국군 급식… 백선엽이 외신을 움직인 이유)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Why Paik Sun-yup Moved Foreign Media: South Korean Soldiers Fed Worse Than Communist POWs&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오히려 전쟁터에서 붙잡혀 온 공산군 포로가 얻어먹는 급식에 견줘 더 열악했다&lt;br/&gt;&lt;em&gt;Rather, it was worse than the meals given to communist prisoners of war captured on the battlefield.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;포로가 도망쳤다.&lt;br/&gt;&lt;em&gt;The prisoner escaped.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 포로였다.&lt;br/&gt;&lt;em&gt;He was a prisoner.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1516024693578-e0623769b752?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmlzb25lcnxlbnwwfHx8fDE3Nzk0Mjg5ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="포로 (prisoner)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Why Paik Sun-yup Moved Foreign Media: South Korean Soldiers Fed Worse Than Communist POWs (공산군 포로보다 못한 한국군 급식… 백선엽이 외신을 움직인 이유) &lt;&lt;br/&gt;&lt;em&gt;Why Paik Sun-yup Moved Foreign Media: South Korean Soldiers Fed Worse Than Communist POWs&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Why Paik Sun-yup Moved Foreign Media: South Korean Soldiers Fed Worse Than Communist POWs (공산군 포로보다 못한 한국군 급식… 백선엽이 외신을 움직인 이유)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Why Paik Sun-yup Moved Foreign Media: South Korean Soldiers Fed Worse Than Communist POWs&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오히려 전쟁터에서 붙잡혀 온 공산군 포로가 얻어먹는 급식에 견줘 더 열악했다&lt;br/&gt;&lt;em&gt;Rather, it was worse than the meals given to communist prisoners of war captured on the battlefield.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;포로가 도망쳤다.&lt;br/&gt;&lt;em&gt;The prisoner escaped.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 포로였다.&lt;br/&gt;&lt;em&gt;He was a prisoner.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 22 May 2026 14:49:46 +0900</pubDate><guid isPermaLink="false">vocab-5288e43698ffa94ef1014dce233fb57eb575de2d</guid><enclosure url="https://images.unsplash.com/photo-1516024693578-e0623769b752?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmlzb25lcnxlbnwwfHx8fDE3Nzk0Mjg5ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="160761" /><ns2:content url="https://images.unsplash.com/photo-1516024693578-e0623769b752?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmlzb25lcnxlbnwwfHx8fDE3Nzk0Mjg5ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1516024693578-e0623769b752?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmlzb25lcnxlbnwwfHx8fDE3Nzk0Mjg5ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>포로</category></item><item><title>급식 – meal (especially school meal)</title><link>urn:urn:vocab:급식</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620608929452-ccc05381b0f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWFsJTIwJTI4ZXNwZWNpYWxseSUyMHNjaG9vbCUyMG1lYWwlMjl8ZW58MHx8fHwxNzc5NDIxMjQ1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="급식 (meal (especially school meal))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Why Paik Sun-yup Moved Foreign Media: South Korean Soldiers Fed Worse Than Communist POWs (공산군 포로보다 못한 한국군 급식… 백선엽이 외신을 움직인 이유) &lt;&lt;br/&gt;&lt;em&gt;Why Paik Sun-yup Moved Foreign Media: South Korean Soldiers Fed Worse Than Communist POWs&lt;/em&gt;&lt;/p&gt;
