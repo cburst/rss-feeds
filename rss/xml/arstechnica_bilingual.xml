@@ -1,40 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 21 May 2026 23:25:38 +0000</lastBuildDate><item><title>Chickens without eggs? De-extinction company creates artificial egg. (달걀 없는 닭? 멸종 동물 복원 기업이 인공 달걀을 만들다)</title><link>https://arstechnica.com/science/2026/05/chickens-without-eggs-de-extinction-company-creates-artificial-egg/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/EmbryoDevelopment-1152x648.jpeg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;In the process, Colossal may have handed a useful tool to developmental biology.&lt;br/&gt;(이 과정에서 콜로설은 발생생물학에 유용한 도구를 제공했을지도 모른다.)&lt;/p&gt;
-&lt;p&gt;On Tuesday, biotech startup Colossal announced its newest development on the road to its announced goal: reversing the extinction of species, in this case, avian species. The development itself is essentially an artificial eggshell, one that allows almost the entire developmental process to occur without the shell. The company transferred the contents of eggs to their specially designed container within a day or two of laying and were able to have normal chicks walk away from it.&lt;br/&gt;(화요일, 바이오 스타트업 콜로설은 자사가 표방한 목표인 조류 종의 멸종 복원을 향한 최신 개발 성과를 발표했다. 이번 개발은 기본적으로 인공 달걀 껍데기로, 껍데기 없이도 거의 모든 발생 과정이 이루어지도록 한다. 이 회사는 산란 후 하루 이틀 내에 달걀 내용물을 특수 설계된 용기로 옮겨 정상적인 병아리가 부화하여 걸어 나오도록 하는 데 성공했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-콜로설의 의도된 노력에 대한 잠재적 유용성 외에도, 이 연구는 제가 연구하던 시절에 직면했던 문제를 해결할 수도 있기 때문에 개인적으로 흥미롭습니다. 콜로설이 무엇을 해결했을지에 대한 연구 문제를 먼저 설명하고, 이후 이 기술을 사용해 무엇을 하려는지, 그리고 회사가 여전히 극복해야 할 몇 가지 주요 장애물이 무엇인지 설명하겠습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-제 경력 중 일부는 닭을 이용한 척추동물 발생 연구였습니다. 닭은 생쥐처럼 우리와 가까운 관계는 아니지만, 발생의 기본 원리는 대체로 동일합니다. 그리고 생쥐와 달리 닭은 어미 몸 밖에서 발생합니다. 조심스럽게 달걀에 구멍을 뚫고 발생 중인 배아를 조작한 후 테이프로 다시 밀봉할 수 있습니다. 그러면 닭 배아는 계속 발생하여, 정상 발생에 대한 조작의 영향을 관찰할 수 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-조작에는 주요 조직의 외과적 제거부터 신호 분자를 적신 구슬 이식, 세포에 다른 단백질을 만들도록 지시하는 DNA 주입까지 모든 것이 포함됩니다. 이러한 조작은 배아의 발생을 변경하여 정상적으로 필요한 요소에 대해 알려줍니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 방법은 매우 강력하지만, 주요 사건에 대한 제한된 시각만을 제공합니다. 왜냐하면 조작을 수행하는 순간과 실험을 중단하는 순간이라는 두 시점만 허용되기 때문입니다. 두 시점 사이에 일어나는 변화에 대한 완전한 그림을 얻을 수 없습니다. 실험을 반복하고 다른 시점에서 중단할 수는 있지만, 역동적인 과정에 대한 완전한 그림을 얻을 수는 없습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 발생에 많은 움직임이 포함되기 때문에 특히 그렇습니다. 세포가 이동하고, 조직이 재배열되며 서로 미끄러져 지나갑니다. 예를 들어, 척수는 처음에는 신경 조직의 평평한 판으로 시작하지만, 그 후 관으로 말려 올라갑니다. 세포가 뉴런으로 성숙함에 따라 관의 내부 표면에서 떨어져 새로운 위치로 이동하고, 다른 뉴런과 연결되도록 축삭을 내보내기 시작합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-여기에는 잠재적인 해결책이 있었습니다. 복도 건너편 연구원(캣 하지안토나키스)은 배아의 반복 노출을 자동으로 촬영하여 주요 발생 과정 동안 세포가 어떻게 이동하는지 추적할 수 있는 현미경 시스템을 개발했습니다. 이 방법은 효과적이었지만, 배아를 배양 상태에서 생존시키는 것이 전제였습니다. 생쥐 배아의 경우 하루 이틀 정도는 가능했지만, 닭은 매우 까다로웠습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-두 가지 큰 문제가 있었습니다. 닭 배아는 노른자를 감싸는 막에 박혀 있으며, 배아가 정상적으로 발생하려면 노른자가 제공하는 막의 장력이 필요합니다. 노른자가 새어 나오면 막이 처져 배아가 구겨지고 무질서한 상태가 됩니다. (콜로설은 아르스 테크니카에 개발한 용기의 곡률을 조정하여 달걀 막 내의 적절한 장력을 유지해야 했다고 말했습니다.)
-&lt;&lt;&lt;PARA&gt;&gt;
-또 다른 문제는 배아의 발생 중인 순환계가 노른자 속 깊이 확장된다는 점입니다. 제가 이미징하려고 시도한 대부분의 배아는 혈액이 없는 무질서한 상태로 끝났습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-콜로설은 기본적으로 이 문제를 해결했습니다. 달걀 전체 내용물을 지지하는 구조적 지지체를 만들어 모든 것이 온전하게 유지되도록 하여 배아가 정상적으로 발생하도록 했습니다. 막 장력 부족이나 혈액 손실 문제가 없습니다. 실제로 달걀 내용물을 콜로설의 새 장치로 옮기는 것은 순환계가 형성되기 전에도 가능합니다. (그들이 설명하는 연구에서는 발생 첫날, 배아가 대부분 노른자 표면의 세포 덩어리일 때 옮깁니다.)
-&lt;&lt;&lt;PARA&gt;&gt;
-지지 시스템은 3D 프린팅되었으며, 환경과 산소 교환이 가능한 특수 막이 안감으로 처리되었습니다. 이전에 이를 실현하려는 시도에서는 배아를 고산소 환경에 두어야 했는데, 이는 세포 내 활성 산소로 인한 DNA 손상 가능성을 높입니다. 이 막은 충분히 효율적이어서 배아가 정상 대기에서 발생할 수 있지만, 습도는 조절되어야 합니다. 콜로설의 벤 램은 아르스 테크니카에 칼슘만 추가하면 된다고 말했는데, 배아가 정상적으로 달걀 껍데기 내부에서 약간의 칼슘을 추출하기 때문입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-콜로설은 또한 밀도 차이로 인해 노른자가 자연스럽게 용기 상단으로 떠오르고, 배아가 그 위로 회전한다는 것을 확인했습니다. 따라서 달걀이 이 장치에 놓이면 생물학자들이 일반적으로 수행하는 모든 조작이 가능해야 합니다. 그리고 가습 챔버만 필요하기 때문에 발생하는 배아를 이후에 촬영하고 세포 이동 및 재배열의 변화를 추적할 수 있어야 합니다. 회사는 현미경 관찰을 위해 아래에서 빛이 확산될 수 있도록 용기를 설계하기도 했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-즉, 콜로설은 제가 더 이상 가지고 있지 않은 문제(지금은 기자이므로)를 해결한 것으로 보이지만, 아마도 생물학자들에게는 여전히 문제일 것입니다. 그러나 회사는 이 작업을 멸종 복원 프로젝트 중 하나를 위한 필수 단계로 순수하게 수행했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-왜 달걀 내용물을 외부로 꺼내야 할까요? 이는 계획된 두 가지 멸종 복원 대상인 도도새와 모아새로 거슬러 올라갑니다. 이 두 종은 모두 가장 가까운 현존 종보다 훨씬, 훨씬 큽니다. 모아새의 경우 현존하는 어떤 새보다도 훨씬 큽니다. 그렇게 큰 것을 만들고자 한다면, 현존 종의 달걀을 가져다가 모아새 배아를 넣는 방법은 전혀 없습니다. 따라서 콜로설의 다음 단계 중 하나는 달걀을 보충할 수 있는지 확인하는 것입니다. 예를 들어, 더 큰 배아의 성장을 지원하기 위해 노른자에 충분한 영양분을 추가하는 것입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 배아가 자리 잡기 전에는 수행하기 어려울 수 있습니다. 단순히 노른자에 더 많은 물질을 주입하면 노른자를 감싸는 막이 터질 가능성이 높기 때문입니다. 대신, 배아가 발생함에 따라 물질을 추가하거나 교체해야 할 것입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그들이 대처해야 할 또 다른 문제는 배아 발생이 달걀이 여전히 부모 새의 몸 안에 있는 동안 시작된다는 사실입니다. 따라서 연구팀은 두 가지 선택지를 가질 것입니다. 하나는 발생 초기 약 반나절 정도를 달걀 없이 진행한 다음, 그 성장하는 배아를 달걀로 옮기는 방법을 알아내는 것입니다. 다른 대안은 달걀 내용물이 이 장치로 옮겨진 후에 수정시키는 방법을 알아내는 것입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 이러한 문제 중 일부는 멸종 복원에 특화된 과제입니다. 이 기술이 자신의 연구에 도움이 될 것이라고 생각하는 연구자는 언제든지 회사에 연락할 수 있습니다. “이것을 연구 목적으로만 사용하려는 연구실이 있을 것이라고 믿습니다. 그것은 굉장한 일입니다.”라고 램이 아르스 테크니카에 말했습니다. “그리고 그런 경우, 우리는 비용을 청구하지 않을 것입니다. 그냥 무료로 제공할 것입니다.”)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/05/chickens-without-eggs-de-extinction-company-creates-artificial-egg/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/EmbryoDevelopment-1152x648.jpeg" length="0" type="image/jpeg"/><pubDate>Wed, 20 May 2026 09:38:05 +0000</pubDate></item><item><title>Hulu set to keep existing as standalone streaming service and app (for now) (훌루, 독립형 스트리밍 서비스 및 앱 유지 결정 (당분간))</title><link>https://arstechnica.com/gadgets/2026/05/hulu-set-to-keep-existing-as-standalone-streaming-service-and-app-for-now/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/fc3d1e70-19cf-4cfa-bb07-bd6439b3df66_1761249301-1152x648-1761844035.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 22 May 2026 03:46:21 +0000</lastBuildDate><item><title>Hulu set to keep existing as standalone streaming service and app (for now) (훌루, 독립형 스트리밍 서비스 및 앱 유지 결정 (당분간))</title><link>https://arstechnica.com/gadgets/2026/05/hulu-set-to-keep-existing-as-standalone-streaming-service-and-app-for-now/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/fc3d1e70-19cf-4cfa-bb07-bd6439b3df66_1761249301-1152x648-1761844035.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Disney still has a lot of tech to unite and bundles to push.&lt;br/&gt;(디즈니는 여전히 통합해야 할 많은 기술과 밀어붙여야 할 번들 상품들을 안고 있다.)&lt;/p&gt;
 &lt;p&gt;Disney currently has no plans to shutter Hulu as a standalone streaming service or app, according to a company representative.&lt;br/&gt;(디즈니는 현재 훌루를 독립형 스트리밍 서비스나 앱으로 폐쇄할 계획이 없다고 회사 관계자가 밝혔다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -524,4 +489,35 @@ AcuRite의 새 앱은 스마트 기기 제조사와 얼리 어답터를 기다�
 수년간 아무 걱정 없이 사용한 후에는 스마트 기기 제조사가 재산 사용 방식을 얼마나 빨리 바꿀 수 있는지 간과하기 쉽다. 그러나 규칙이 갑작스럽고 참을 수 없는 방식으로 바뀌면, 시장에 다른 옵션이 무엇인지 살펴볼 좋은 시기가 될 수도 있다.
 &lt;&lt;&lt;PARA&gt;&gt;
 나는 스마트 기기 제조사가 정체되기를 기대하지 않지만, 발전이 오랜 고객을 뒤에 남겨두는 것을 의미해서는 안 된다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/AcuRite-1152x648-1779398451.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 21 May 2026 13:26:34 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/AcuRite-1152x648-1779398451.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 21 May 2026 13:26:34 +0000</pubDate></item><item><title>Ground system issue scrubs first launch of SpaceX’s Starship V3 rocket (지상 시스템 문제로 스페이스X 스타십 V3 로켓의 첫 발사가 연기되다)</title><link>https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/starshipflight12_attempt1-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Engineers could make another attempt to launch Starship as soon as Friday evening.&lt;br/&gt;(엔지니어들은 금요일 저녁에 스타십 발사를 다시 시도할 수 있을 것으로 보인다.)&lt;/p&gt;
+&lt;p&gt;SpaceX got within 40 seconds of launching the first flight of a taller, more powerful version of its Starship rocket Thursday, but a pesky problem with the launch tower kept the vehicle bound to Earth for at least one more day.&lt;br/&gt;(스페이스X는 목요일, 더 크고 강력해진 스타십 로켓의 첫 비행 발사 40초 전까지 도달했지만, 발사탑의 성가신 문제로 인해 최소 하루 동안 로켓이 지구에 묶여 있었다.)&lt;/p&gt;
+&lt;p&gt;Clouds and rain showers cleared the area around SpaceX’s launch site in South Texas, leaving mostly sunny skies over the Starship launch pad Thursday afternoon. SpaceX pushed back the launch time by one hour, but the countdown appeared to proceed smoothly once propellants began loading into the rocket.&lt;br/&gt;(구름과 소나기가 텍사스 남부에 있는 스페이스X 발사장 주변을 걸어가면서, 목요일 오후 스타십 발사대 위로 대체로 맑은 하늘이 드러났다. 스페이스X는 발사 시간을 한 시간 늦췄지만, 추진제가 로켓에 주입되기 시작하자 카운트다운은 순조롭게 진행되는 듯 보였다.)&lt;/p&gt;
+&lt;p&gt;That was true, at least, until the countdown clock paused 40 seconds before liftoff. The launch team repeatedly attempted to resume the countdown, only for the computer controlling the launch sequence to stop the clock again. There were five holds in all before SpaceX called off the launch attempt.&lt;br/&gt;(적어도 이륙 40초 전에 카운트다운 시계가 멈출 때까지는 그랬다. 발사 팀은 반복적으로 카운트다운을 재개하려 했지만, 발사 시퀀스를 제어하는 컴퓨터가 시계를 다시 멈추게 했다. 스페이스X가 발사 시도를 취소하기 전까지 총 다섯 번의 홀드가 있었다.)&lt;/p&gt;
+&lt;p&gt;“It is sounding like we are not going to be able to clear this issue in time today, so we are going to be standing down from a launch,” said Dan Huot, a SpaceX official hosting the company’s live broadcast Thursday. “We got the vehicle totally loaded. We hit a couple of different holds as we worked through that count.”&lt;br/&gt;("오늘 이 문제를 제때 해결할 수 없을 것 같아서, 발사를 중단하기로 결정했습니다,"라고 목요일 생방송을 진행한 스페이스X 관계자 댄 휴트가 말했다. "로켓은 완전히 적재했습니다. 카운트다운을 진행하면서 여러 차례 홀드를 겪었습니다.")&lt;/p&gt;
+&lt;p&gt;Elon Musk, SpaceX’s founder and CEO, attributed the scrub to a hydraulic pin that failed to retract on an umbilical arm connecting the launch tower to the rocket. “If that can be fixed tonight, there will be another launch attempt tomorrow,” Musk wrote on X. The 90-minute launch window Friday would open at 5:30 pm CDT (22:30 UTC).&lt;br/&gt;(스페이스X의 창립자이자 CEO인 일론 머스크는 발사 중단 원인이 발사탑과 로켓을 연결하는 배꼽 팔(umbilical arm)의 유압 핀이 수축되지 않은 것 때문이라고 설명했다. "만약 오늘 밤에 고칠 수 있다면, 내일 또 다른 발사 시도가 있을 것입니다,"라고 머스크는 X에 썼다. 금요일의 90분 발사 기회는 CDT 오후 5시 30분(UTC 22시 30분)에 열릴 예정이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다가오는 스타십 시험 비행은 텍사스주 스타베이스의 새로운 발사대에서 첫 이륙을 기록할 것이며, 이곳은 미국-멕시코 국경 근처 스페이스X의 남부 텍사스 시험장을 둘러싼 1년 된 도시이다. 이는 현재까지 스타십과 슈퍼 헤비 부스터의 12번째 본격 시험 비행이 될 것이며, 스페이스X가 스타십 버전 3이라고 부르는 개량된 설계를 처음 사용하는 비행이다. 스타십 V3는 39개의 더 효율적이고 추력이 높은 랩터 엔진, 재설계된 추진 시스템, 4개의 작은 그리드 핀을 대체하는 3개의 더 큰 그리드 핀, 그리고 슈퍼 헤비 부스터 상단에 영구적으로 부착된 재사용 가능한 핫 스테이징 링 등 수많은 변화를 도입한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+스타십 V3에는 많은 것이 걸려 있다: 중국보다 먼저 달에 우주비행사를 착륙시키려는 NASA의 목표, 스페이스X의 차세대 스타링크 인터넷 위성 및 궤도 데이터 센터 배치 계획, 그리고 저비용 우주 접근에 대한 광범위한 우주 기업의 꿈이 그것이다. 또한 스페이스X의 매우 기대되는 기업공개 직전에 이루어진다. 스타십과 슈퍼 헤비는 완전 재사용을 위해 설계되었지만, 스페이스X는 현재까지 부스터 단계만 재사용했다. 회사는 이번 비행에서 로켓의 어느 단계도 회수할 계획이 없다.
+&lt;&lt;&lt;PARA&gt;&gt;
+스페이스X는 목요일에 카운트다운의 대부분을 통과했으며, 이는 최근 드레스 리허설에서 발사 팀이 달성한 것을 사실상 반복한 것이다. 엔지니어들은 40분도 안 되어 1,100만 파운드가 넘는 메탄과 액체 산소를 로켓에 주입하여, 이전 버전의 스타십보다 더 빠른 적재 절차를 입증했다. 비교를 하자면, 스페이스X가 더 작은 팰컨 9 로켓에 100만 파운드의 추진제를 적재하는 데 비슷한 시간이 걸린다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이륙할 때, 스타십의 12번째 비행은 이전과 유사한 프로필을 따를 것이다. 하지만 비행 계획에는 몇 가지 조정이 있다. 로켓은 멕시코만 상공을 약간 더 남쪽으로 향해 플로리다 키스를 비행하는 대신 유카탄 반도와 쿠바 서쪽 끝 사이의 간격을 통과할 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 자체로 20층 이상 높이인 슈퍼 헤비 부스터는 비행 시작 약 2분 30초 후에 스타십 상단 단계에서 분리된 후, 텍사스 해안에서 통제된 해상 추락을 향해 스스로를 유도할 것이다. 상단 단계의 6개 엔진은 스타십이 지구 반 바퀴를 비행할 충분한 속도를 제공하지만, 저궤도에 도달할 만큼의 속도는 아니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+우주에 도달하면, 우주선은 스페이스X의 차세대 스타링크 위성 모형 20기와 로켓 상단 단계를 비행 중 촬영할 카메라가 장착된 배치 가능한 스타링크 2기를 방출할 것이다. 스타십 V3는 스타십 V2보다 더 빠른 속도로 스타링크를 방출하기 위해 수정된 탑재체 배치 메커니즘을 특징으로 한다. 이 시연은 스페이스X에 따르면, 늦어도 올해 안에 스타십이 운영용 위성을 발사할 수 있는 길을 닦는 데 도움이 될 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그런 다음, 이륙 후 약 48분 후에 지구 중력이 스타십을 인도양 상공의 대기권으로 다시 끌어당길 것이다. 엔지니어들은 재진입 중 열 차폐 성능을 추적한 후, 우주선이 엔진을 재점화하여 최종 착륙 연소를 수행하고 호주 북서쪽 지점에 정밀하게 추락하도록 할 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+스타십 시험 비행을 전에 본 적이 있다면 이 대부분이 익숙하게 느껴질 것이다. 이번 발사의 새로운 점은 스타십이 어디로 갈지나 무엇을 할지가 아니라, 어떻게 비행할지에 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"비행 시험의 주요 목표는 각각의 새로운 구성 요소를 비행 환경에서 처음으로 입증하는 것이며, 스타십 아키텍처의 모든 요소는 수년간의 개발 및 시험에서 얻은 교훈을 통합하여 완전하고 신속한 재사용을 가능하게 하는 상당한 재설계를 특징으로 합니다,"라고 스페이스X는 웹사이트에 썼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+만약 이번 비행이 잘 진행되지 않는다면, 스페이스X는 "공장에 V3 우주선과 부스터의 대규모 파이프라인"을 보유하고 있다고 머스크는 X에 썼다. 마지막 스타십 발사 이후 7개월 간격은 "V2에서 기본 구조, 엔진, 전자 장치 및 발사탑의 거의 완전한 재설계 때문이었다"고 그는 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+로켓 개발에 대한 스페이스X의 하드웨어 풍부 접근 방식은 회사가 좌절에서 비교적 빠르게 회복할 수 있음을 의미한다. 작년에 스타십 V2의 다섯 번 비행 중 세 번이 실패했지만, 스페이스X는 장기간의 운항 중단을 피하고 9개월 동안 다섯 번의 발사를 모두 성공적으로 처리했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+머스크는 다음 비행에서 유사한 실패가 발생하더라도 스타십 일정에 미치는 영향이 비슷하게 미미할 것이라고 예측했다. 하지만 달을 향한 미국 우주 프로그램의 경쟁에서 매주와 매월이 중요하며, 곧 상장 기업이 될 스페이스X의 위치는 12차 비행의 결과에 추가적인 중요성을 부여한다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/starshipflight12_attempt1-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 21 May 2026 17:05:37 +0000</pubDate></item></channel></rss>
