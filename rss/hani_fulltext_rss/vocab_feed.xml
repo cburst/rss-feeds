@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 18:57:58 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 23:11:08 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,49 @@
 
 
 
-  <item><title>보다는 – rather than</title><link>urn:urn:vocab:보다는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>비아파트 – non-apartment</title><link>urn:urn:vocab:비아파트</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tYXBhcnRtZW50fGVufDB8fHx8MTc3OTQ1OTA2M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비아파트 (non-apartment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (구윤철 부총리 겸 재정경제부 장관이 “청년층 주거 애로 완화를 위해 2027년까지 수도권에 비아파트를 9만호 공급한다”고 말했다&lt;br/&gt;&lt;em&gt;"Deputy Prime Minister and Minister of Economy and Finance Koo Yun-cheol said, 'To alleviate housing difficulties for young people, we will supply 90,000 non-apartment units in the metropolitan area by 2027.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (구 부총리는 22일 정부서울청사에서 부동산관계장관회의를 주재하고 “오피스텔과 같은 비아파트는 상대적으로 공급속도가 빨라, 1~2년 안에 가시적인 공급 효과를 기대할 수 있다”며 “이를 통해 청년층의 주거 애로를 완화시키고자 한다”고 했다&lt;br/&gt;&lt;em&gt;"Deputy Prime Minister Koo presided over a real estate-related ministers' meeting at the Seoul Government Complex on the 22nd and said, 'Non-apartments such as officetels have a relatively fast supply speed, so we can expect visible supply effects within one to two years. Through this, we aim to alleviate housing difficulties for young people.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (구체적으로는 공공이 오피스텔 등 비아파트 공급을 촉진할 수 있도록 매입임대 물량을 확대해, 2027년까지 2년간 수도권에 총 9만호를 공급한다는 방침이다&lt;br/&gt;&lt;em&gt;"Specifically, the plan is to expand the volume of purchased rental housing so that the public sector can promote the supply of non-apartments such as officetels, supplying a total of 90,000 units in the metropolitan area over two years by 2027."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 건물은 비아파트입니다.&lt;br/&gt;&lt;em&gt;This building is a non-apartment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비아파트에 살고 싶어요.&lt;br/&gt;&lt;em&gt;I want to live in a non-apartment.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tYXBhcnRtZW50fGVufDB8fHx8MTc3OTQ1OTA2M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비아파트 (non-apartment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (구윤철 부총리 겸 재정경제부 장관이 “청년층 주거 애로 완화를 위해 2027년까지 수도권에 비아파트를 9만호 공급한다”고 말했다&lt;br/&gt;&lt;em&gt;"Deputy Prime Minister and Minister of Economy and Finance Koo Yun-cheol said, 'To alleviate housing difficulties for young people, we will supply 90,000 non-apartment units in the metropolitan area by 2027.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (구 부총리는 22일 정부서울청사에서 부동산관계장관회의를 주재하고 “오피스텔과 같은 비아파트는 상대적으로 공급속도가 빨라, 1~2년 안에 가시적인 공급 효과를 기대할 수 있다”며 “이를 통해 청년층의 주거 애로를 완화시키고자 한다”고 했다&lt;br/&gt;&lt;em&gt;"Deputy Prime Minister Koo presided over a real estate-related ministers' meeting at the Seoul Government Complex on the 22nd and said, 'Non-apartments such as officetels have a relatively fast supply speed, so we can expect visible supply effects within one to two years. Through this, we aim to alleviate housing difficulties for young people.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (구체적으로는 공공이 오피스텔 등 비아파트 공급을 촉진할 수 있도록 매입임대 물량을 확대해, 2027년까지 2년간 수도권에 총 9만호를 공급한다는 방침이다&lt;br/&gt;&lt;em&gt;"Specifically, the plan is to expand the volume of purchased rental housing so that the public sector can promote the supply of non-apartments such as officetels, supplying a total of 90,000 units in the metropolitan area over two years by 2027."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 건물은 비아파트입니다.&lt;br/&gt;&lt;em&gt;This building is a non-apartment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비아파트에 살고 싶어요.&lt;br/&gt;&lt;em&gt;I want to live in a non-apartment.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 22 May 2026 23:11:08 +0900</pubDate><guid isPermaLink="false">vocab-c1e5a1b3ceb595e1ca3884efa5b879e48d0ade71</guid><enclosure url="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tYXBhcnRtZW50fGVufDB8fHx8MTc3OTQ1OTA2M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="114061" /><ns2:content url="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tYXBhcnRtZW50fGVufDB8fHx8MTc3OTQ1OTA2M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tYXBhcnRtZW50fGVufDB8fHx8MTc3OTQ1OTA2M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>비아파트</category></item><item><title>뉴스타파 – News Tapa (a Korean investigative journalism organization)</title><link>urn:urn:vocab:뉴스타파</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;21일 김두겸 국민의힘 울산시장 후보가 뉴스타파 취재진의 턱에 손을 대는 모습&lt;br/&gt;&lt;em&gt;On the 21st, Kim Doo-gyeom, the People Power Party candidate for Ulsan mayor, touches the chin of a Newstapa reporter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;뉴스타파 유튜브 갈무리&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Newstapa has demanded an apology from Kim Doo-gyeom, the People Power Party candidate for Ulsan mayor, accusing him of assaulting their reporters&lt;br/&gt;&lt;em&gt;Newstapa YouTube capture&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Newstapa has demanded an apology from Kim Doo-gyeom, the People Power Party candidate for Ulsan mayor, accusing him of assaulting their reporters.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김두겸 국민의힘 울산시장 후보가 취재진을 폭행했다며 뉴스타파가 김 후보에게 사과를 요구했다&lt;br/&gt;&lt;em&gt;Newstapa demanded an apology from candidate Kim, claiming that Kim Doo-gyeom, the People Power Party candidate for Ulsan mayor, assaulted the press.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;뉴스타파는 탐사 보도를 합니다.&lt;br/&gt;&lt;em&gt;Newstapa does investigative reporting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 뉴스타파를 봅니다.&lt;br/&gt;&lt;em&gt;I watch Newstapa.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;21일 김두겸 국민의힘 울산시장 후보가 뉴스타파 취재진의 턱에 손을 대는 모습&lt;br/&gt;&lt;em&gt;On the 21st, Kim Doo-gyeom, the People Power Party candidate for Ulsan mayor, touches the chin of a Newstapa reporter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;뉴스타파 유튜브 갈무리&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Newstapa has demanded an apology from Kim Doo-gyeom, the People Power Party candidate for Ulsan mayor, accusing him of assaulting their reporters&lt;br/&gt;&lt;em&gt;Newstapa YouTube capture&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Newstapa has demanded an apology from Kim Doo-gyeom, the People Power Party candidate for Ulsan mayor, accusing him of assaulting their reporters.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김두겸 국민의힘 울산시장 후보가 취재진을 폭행했다며 뉴스타파가 김 후보에게 사과를 요구했다&lt;br/&gt;&lt;em&gt;Newstapa demanded an apology from candidate Kim, claiming that Kim Doo-gyeom, the People Power Party candidate for Ulsan mayor, assaulted the press.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;뉴스타파는 탐사 보도를 합니다.&lt;br/&gt;&lt;em&gt;Newstapa does investigative reporting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 뉴스타파를 봅니다.&lt;br/&gt;&lt;em&gt;I watch Newstapa.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 22 May 2026 21:04:21 +0900</pubDate><guid isPermaLink="false">vocab-c6d9cd0d6e99397580421b8a0bb43b622c66847a</guid><category>뉴스타파</category></item><item><title>보다는 – rather than</title><link>urn:urn:vocab:보다는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1618438051541-1cbea772f1d0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXRoZXIlMjB0aGFufGVufDB8fHx8MTc3OTQ0Mzg3N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="보다는 (rather than)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;금리전망지수는 114로 장기평균(111)을 웃돌았지만, 지난달보다는 1포인트 하락했다&lt;br/&gt;&lt;em&gt;The interest rate outlook index stood at 114, exceeding the long-term average (111), but fell 1 point from the previous month.&lt;/em&gt;&lt;/p&gt;
