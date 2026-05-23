@@ -1,80 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 22 May 2026 22:32:51 +0000</lastBuildDate><item><title>IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app (IoT 기기 제조사 AcuRite, 고객들이 가장 좋아했던 앱을 중단한 이유 설명)</title><link>https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/AcuRite-1152x648-1779398451.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;“The move to AcuRite NOW has not been as smooth as some customers expected …”&lt;br/&gt;(“AcuRite NOW로의 전환이 일부 고객이 기대했던 것만큼 순조롭지 않았습니다…”)&lt;/p&gt;
-&lt;p&gt;AcuRite must kill its customers’ favorite companion app due to “obsolete technology,” VP of product development Jeff Bovee tells Ars Technica.&lt;br/&gt;(AcuRite는 ‘구식 기술’ 때문에 고객들이 가장 좋아했던 동반 앱을 중단해야 한다고 제품 개발 부사장 Jeff Bovee가 Ars Technica에 밝혔다.)&lt;/p&gt;
-&lt;p&gt;AcuRite, which makes smart weather-monitoring devices, announced this month that the My AcuRite iOS and Android app that has been around since 2016 won’t be available after May 30. After that date, device owners must use AcuRite NOW, which AcuRite released in June 2025, to control their gadgets.&lt;br/&gt;(스마트 기상 관측 기기를 제조하는 AcuRite는 이번 달, 2016년부터 사용되어 온 iOS 및 Android 앱 ‘My AcuRite’가 5월 30일 이후에는 더 이상 사용할 수 없다고 발표했다. 해당 날짜 이후에는 기기 소유자가 AcuRite가 2025년 6월에 출시한 AcuRite NOW를 사용하여 기기를 제어해야 한다.)&lt;/p&gt;
-&lt;p&gt;The announcement has frustrated long-time AcuRite users , largely because the new app lacks some of its predecessors’ capabilities. For example, AcuRite NOW doesn’t allow renaming multiple temperature sensors, organizing on-screen sensors, or reporting temperatures as anything other than whole numbers (AcuRite says it’s working on adding some of these features).&lt;br/&gt;(이 발표는 오랜 AcuRite 사용자들을 좌절시켰는데, 주된 이유는 새 앱이 이전 앱의 일부 기능을 갖추고 있지 않기 때문이다. 예를 들어, AcuRite NOW는 여러 온도 센서의 이름을 바꾸거나, 화면에서 센서를 정리하거나, 온도를 정수 외의 다른 형태로 보고하는 기능을 지원하지 않는다(AcuRite는 이러한 기능 중 일부를 추가하기 위해 작업 중이라고 밝혔다).)&lt;/p&gt;
-&lt;p&gt;Speaking with Ars, Bovee provided insight into AcuRite’s decision. He pointed to AcuRite NOW being built on a “newer cloud-connected platform” that enables more flexibility. My AcuRite was “primarily a weather-station cloud dashboard,” compared to AcuRite NOW, which ” is intended to be a broader, connected-device platform,” per the executive.&lt;br/&gt;(Ars와의 인터뷰에서 Bovee는 AcuRite의 결정에 대한 통찰을 제공했다. 그는 AcuRite NOW가 “더 유연성을 제공하는 새로운 클라우드 연결 플랫폼” 위에 구축되었다고 지적했다. My AcuRite는 “주로 기상 관측소 클라우드 대시보드”였던 반면, AcuRite NOW는 “더 광범위한 연결 기기 플랫폼”이 되기 위한 것이라고 임원은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 이렇게 설명을 덧붙였다:
-&lt;&lt;&lt;PARA&gt;&gt;
-“[My AcuRite]는 기상 데이터에 대한 앱 및 웹 접근을 제공했지만, 장기적인 앱 개발, 현대적인 클라우드 서비스, 스마트 홈 통합, 그리고 새로운 연결 기기 지원 측면에서는 기반 기술이 더 제한적이었습니다.”
-&lt;&lt;&lt;PARA&gt;&gt;
-더 현대적인 연결 기기 아키텍처 위에 구축되었다고 알려진 AcuRite NOW는 기능 개선을 위한 “더 강력한 기반”을 제공한다고 Bovee는 말했다. 임원은 새 플랫폼이 모바일 우선 앱 개발, 클라우드 기반 기능 업데이트 및 서비스(예: “더 긴 기상 데이터 기록”), 사용자 계정 관리, 기기 페어링, 알림에 더 적합하다고 주장했다. 추가적인 타사 스마트 기기를 사용하는 사람들을 위해 AcuRite NOW는 Tuya의 SmartLife IoT 생태계와도 호환된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-새 앱은 또한 AcuRite 기기의 데이터를 실시간 기상 서비스 Weather Underground와 공유하기 위해 구독료를 청구하는데, My AcuRite는 이를 무료로 지원했다. Bovee는 AcuRite NOW가 Weather Underground와 데이터를 공유하는 데 더 나은 지원을 제공한다고 주장했다. 비록 AcuRite의 재정적 이익이 가장 명백하지만 말이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-온라인 불만 사항은 AcuRite에 My AcuRite의 기능에 만족하는 고객이 있음을 시사한다. 그러나 앱을 장기적으로 유지하는 것은 AcuRite에게 지속 가능하지 않다고 Bovee는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“My AcuRite의 뒤에 있는 기술은 구식이며 더 이상 유지 관리할 수 없습니다.”라고 그는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-AcuRite는 비용을 절약하기 위해 두 앱을 유지하는 것을 거부하고 있지만, “장기적인 지원 가능성” 때문이기도 하다고 임원은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“비록 [My AcuRite]가 많은 사용자에게 계속 작동하더라도, 기반 시스템은 지속적인 유지보수, 업데이트, 호스팅, 모니터링, 보안 지원, 그리고 휴대폰, 운영 체제, 클라우드 서비스 및 타사 통합이 계속 변화함에 따른 호환성 작업이 필요합니다.”라고 Bovee는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-AcuRite가 첫 번째 앱의 종료를 발표하면서, 사용자가 웹 브라우저를 통해 기기를 관리할 수 있게 해주던 온라인 대시보드도 제거했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“웹 대시보드, 모바일 앱, 클라우드 서비스 및 기기 연결이 모두 동일한 구형 시스템에 연결되어 있었기 때문에, 플랫폼이 폐기되면 브라우저 접근을 별도로 유지할 수 없습니다.”라고 Bovee는 설명했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 AcuRite가 AcuRite NOW를 위한 새로운 웹 기반 대시보드를 계획 중이지만, 출시 날짜는 확인할 수 없다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-고객의 불만에도 불구하고, Bovee는 새 앱이 오랜 사용자들이 기기를 포기하게 만들지 않기를 바란다. AcuRite가 새 플랫폼으로 “그 구형 기상 관측소를 가져오기 위해 막대한 비용을 들였기” 때문이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“우리는 AcuRite NOW로의 전환이 일부 고객이 기대했던 것만큼 순조롭지 않았다는 것을 알고 있으며, 그로 인한 불만을 이해합니다. 우리는 그 피드백을 무시하지 않습니다.”라고 Bovee는 말했다. “우리는 팀이 문제를 해결하고, 사용성을 개선하며, 새 플랫폼을 구축해 나가는 동안 인내심을 부탁드립니다. 우리의 목표는 AcuRite NOW를 홈 기상 관측소에서 최고의 사용자 경험으로 만들어 신뢰를 되찾는 것입니다.”
-&lt;&lt;&lt;PARA&gt;&gt;
-Bovee의 발언에는 재정적, 기술적 이유가 있지만, 많은 고객이 원하지 않을 수도 있는 새로운 사업을 지원하기 위해 새 앱을 출시하는 것은 의문스럽다. 특정 소프트웨어와 함께 판매된 기기에 이미 비용을 지불한 고객이 갑자기 AcuRite가 고객이 이전에 필요로 하지 않았던 새로운 기능을 도입하기 위해 Weather Underground와 데이터를 공유하는 데 비용을 지불해야 하는 것은 불공평하다.
-&lt;&lt;&lt;PARA&gt;&gt;
-또한 문제가 되는 것은 AcuRite가 AcuRite NOW가 My AcuRite와 동등해지기 전에 새 앱을 강제로 사용하도록 하기 시작한 결정(온라인 담론에 따르면, AcuRite는 원래 고객에게 5월 15일에 My AcuRite를 종료할 것이라고 알렸다)이다. 새 앱으로 강제 전환되는 것은, 그 앱이 수년간 작동해 온 앱과 동등하거나, 감히 말하자면 명백한 개선이 있을 때 더 관리하기 쉽다.
-&lt;&lt;&lt;PARA&gt;&gt;
-반면, 연결 기기 제조사들도 사람들이 한 번 이상 돈을 쓰게 할 방법을 찾는 데 어려움을 겪고 있다. 종종 이는 더 진보된 앱을 필요로 할 수 있는 더 뛰어난 제품을 출시하고, 구독 모델을 강제하는 것을 의미한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-AcuRite의 새 앱은 스마트 기기 제조사와 얼리 어답터를 기다리고 있는 도전의 산물이다. 이들 회사 중 다수는 여전히 장기적으로 사업을 유지하는 방법을 고민하고 있다. 그리고 이러한 기기의 스마트 기능은 판매자가 사업 방식을 바꾸기로 결정할 때(예: 제품에 광고를 강제하거나, 구형 기기를 작동 불능 상태로 만들거나, 갑자기 구독료를 청구하거나, 오프라인 기능을 없애거나, 악평을 받는 무능력한 앱을 출시하는 등) 사용자가 난처한 상황에 처하게 만든다.
-&lt;&lt;&lt;PARA&gt;&gt;
-수년간 아무 걱정 없이 사용한 후에는 스마트 기기 제조사가 재산 사용 방식을 얼마나 빨리 바꿀 수 있는지 간과하기 쉽다. 그러나 규칙이 갑작스럽고 참을 수 없는 방식으로 바뀌면, 시장에 다른 옵션이 무엇인지 살펴볼 좋은 시기가 될 수도 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-나는 스마트 기기 제조사가 정체되기를 기대하지 않지만, 발전이 오랜 고객을 뒤에 남겨두는 것을 의미해서는 안 된다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/AcuRite-1152x648-1779398451.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 21 May 2026 13:26:34 +0000</pubDate></item><item><title>Ground system issue scrubs first launch of SpaceX’s Starship V3 rocket (지상 시스템 문제로 스페이스X 스타십 V3 로켓의 첫 발사가 연기되다)</title><link>https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/starshipflight12_attempt1-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Engineers could make another attempt to launch Starship as soon as Friday evening.&lt;br/&gt;(엔지니어들은 금요일 저녁에 스타십 발사를 다시 시도할 수 있을 것으로 보인다.)&lt;/p&gt;
-&lt;p&gt;SpaceX got within 40 seconds of launching the first flight of a taller, more powerful version of its Starship rocket Thursday, but a pesky problem with the launch tower kept the vehicle bound to Earth for at least one more day.&lt;br/&gt;(스페이스X는 목요일, 더 크고 강력해진 스타십 로켓의 첫 비행 발사 40초 전까지 도달했지만, 발사탑의 성가신 문제로 인해 최소 하루 동안 로켓이 지구에 묶여 있었다.)&lt;/p&gt;
-&lt;p&gt;Clouds and rain showers cleared the area around SpaceX’s launch site in South Texas, leaving mostly sunny skies over the Starship launch pad Thursday afternoon. SpaceX pushed back the launch time by one hour, but the countdown appeared to proceed smoothly once propellants began loading into the rocket.&lt;br/&gt;(구름과 소나기가 텍사스 남부에 있는 스페이스X 발사장 주변을 걸어가면서, 목요일 오후 스타십 발사대 위로 대체로 맑은 하늘이 드러났다. 스페이스X는 발사 시간을 한 시간 늦췄지만, 추진제가 로켓에 주입되기 시작하자 카운트다운은 순조롭게 진행되는 듯 보였다.)&lt;/p&gt;
-&lt;p&gt;That was true, at least, until the countdown clock paused 40 seconds before liftoff. The launch team repeatedly attempted to resume the countdown, only for the computer controlling the launch sequence to stop the clock again. There were five holds in all before SpaceX called off the launch attempt.&lt;br/&gt;(적어도 이륙 40초 전에 카운트다운 시계가 멈출 때까지는 그랬다. 발사 팀은 반복적으로 카운트다운을 재개하려 했지만, 발사 시퀀스를 제어하는 컴퓨터가 시계를 다시 멈추게 했다. 스페이스X가 발사 시도를 취소하기 전까지 총 다섯 번의 홀드가 있었다.)&lt;/p&gt;
-&lt;p&gt;“It is sounding like we are not going to be able to clear this issue in time today, so we are going to be standing down from a launch,” said Dan Huot, a SpaceX official hosting the company’s live broadcast Thursday. “We got the vehicle totally loaded. We hit a couple of different holds as we worked through that count.”&lt;br/&gt;("오늘 이 문제를 제때 해결할 수 없을 것 같아서, 발사를 중단하기로 결정했습니다,"라고 목요일 생방송을 진행한 스페이스X 관계자 댄 휴트가 말했다. "로켓은 완전히 적재했습니다. 카운트다운을 진행하면서 여러 차례 홀드를 겪었습니다.")&lt;/p&gt;
-&lt;p&gt;Elon Musk, SpaceX’s founder and CEO, attributed the scrub to a hydraulic pin that failed to retract on an umbilical arm connecting the launch tower to the rocket. “If that can be fixed tonight, there will be another launch attempt tomorrow,” Musk wrote on X. The 90-minute launch window Friday would open at 5:30 pm CDT (22:30 UTC).&lt;br/&gt;(스페이스X의 창립자이자 CEO인 일론 머스크는 발사 중단 원인이 발사탑과 로켓을 연결하는 배꼽 팔(umbilical arm)의 유압 핀이 수축되지 않은 것 때문이라고 설명했다. "만약 오늘 밤에 고칠 수 있다면, 내일 또 다른 발사 시도가 있을 것입니다,"라고 머스크는 X에 썼다. 금요일의 90분 발사 기회는 CDT 오후 5시 30분(UTC 22시 30분)에 열릴 예정이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다가오는 스타십 시험 비행은 텍사스주 스타베이스의 새로운 발사대에서 첫 이륙을 기록할 것이며, 이곳은 미국-멕시코 국경 근처 스페이스X의 남부 텍사스 시험장을 둘러싼 1년 된 도시이다. 이는 현재까지 스타십과 슈퍼 헤비 부스터의 12번째 본격 시험 비행이 될 것이며, 스페이스X가 스타십 버전 3이라고 부르는 개량된 설계를 처음 사용하는 비행이다. 스타십 V3는 39개의 더 효율적이고 추력이 높은 랩터 엔진, 재설계된 추진 시스템, 4개의 작은 그리드 핀을 대체하는 3개의 더 큰 그리드 핀, 그리고 슈퍼 헤비 부스터 상단에 영구적으로 부착된 재사용 가능한 핫 스테이징 링 등 수많은 변화를 도입한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스타십 V3에는 많은 것이 걸려 있다: 중국보다 먼저 달에 우주비행사를 착륙시키려는 NASA의 목표, 스페이스X의 차세대 스타링크 인터넷 위성 및 궤도 데이터 센터 배치 계획, 그리고 저비용 우주 접근에 대한 광범위한 우주 기업의 꿈이 그것이다. 또한 스페이스X의 매우 기대되는 기업공개 직전에 이루어진다. 스타십과 슈퍼 헤비는 완전 재사용을 위해 설계되었지만, 스페이스X는 현재까지 부스터 단계만 재사용했다. 회사는 이번 비행에서 로켓의 어느 단계도 회수할 계획이 없다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스페이스X는 목요일에 카운트다운의 대부분을 통과했으며, 이는 최근 드레스 리허설에서 발사 팀이 달성한 것을 사실상 반복한 것이다. 엔지니어들은 40분도 안 되어 1,100만 파운드가 넘는 메탄과 액체 산소를 로켓에 주입하여, 이전 버전의 스타십보다 더 빠른 적재 절차를 입증했다. 비교를 하자면, 스페이스X가 더 작은 팰컨 9 로켓에 100만 파운드의 추진제를 적재하는 데 비슷한 시간이 걸린다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이륙할 때, 스타십의 12번째 비행은 이전과 유사한 프로필을 따를 것이다. 하지만 비행 계획에는 몇 가지 조정이 있다. 로켓은 멕시코만 상공을 약간 더 남쪽으로 향해 플로리다 키스를 비행하는 대신 유카탄 반도와 쿠바 서쪽 끝 사이의 간격을 통과할 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 자체로 20층 이상 높이인 슈퍼 헤비 부스터는 비행 시작 약 2분 30초 후에 스타십 상단 단계에서 분리된 후, 텍사스 해안에서 통제된 해상 추락을 향해 스스로를 유도할 것이다. 상단 단계의 6개 엔진은 스타십이 지구 반 바퀴를 비행할 충분한 속도를 제공하지만, 저궤도에 도달할 만큼의 속도는 아니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-우주에 도달하면, 우주선은 스페이스X의 차세대 스타링크 위성 모형 20기와 로켓 상단 단계를 비행 중 촬영할 카메라가 장착된 배치 가능한 스타링크 2기를 방출할 것이다. 스타십 V3는 스타십 V2보다 더 빠른 속도로 스타링크를 방출하기 위해 수정된 탑재체 배치 메커니즘을 특징으로 한다. 이 시연은 스페이스X에 따르면, 늦어도 올해 안에 스타십이 운영용 위성을 발사할 수 있는 길을 닦는 데 도움이 될 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그런 다음, 이륙 후 약 48분 후에 지구 중력이 스타십을 인도양 상공의 대기권으로 다시 끌어당길 것이다. 엔지니어들은 재진입 중 열 차폐 성능을 추적한 후, 우주선이 엔진을 재점화하여 최종 착륙 연소를 수행하고 호주 북서쪽 지점에 정밀하게 추락하도록 할 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스타십 시험 비행을 전에 본 적이 있다면 이 대부분이 익숙하게 느껴질 것이다. 이번 발사의 새로운 점은 스타십이 어디로 갈지나 무엇을 할지가 아니라, 어떻게 비행할지에 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"비행 시험의 주요 목표는 각각의 새로운 구성 요소를 비행 환경에서 처음으로 입증하는 것이며, 스타십 아키텍처의 모든 요소는 수년간의 개발 및 시험에서 얻은 교훈을 통합하여 완전하고 신속한 재사용을 가능하게 하는 상당한 재설계를 특징으로 합니다,"라고 스페이스X는 웹사이트에 썼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-만약 이번 비행이 잘 진행되지 않는다면, 스페이스X는 "공장에 V3 우주선과 부스터의 대규모 파이프라인"을 보유하고 있다고 머스크는 X에 썼다. 마지막 스타십 발사 이후 7개월 간격은 "V2에서 기본 구조, 엔진, 전자 장치 및 발사탑의 거의 완전한 재설계 때문이었다"고 그는 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-로켓 개발에 대한 스페이스X의 하드웨어 풍부 접근 방식은 회사가 좌절에서 비교적 빠르게 회복할 수 있음을 의미한다. 작년에 스타십 V2의 다섯 번 비행 중 세 번이 실패했지만, 스페이스X는 장기간의 운항 중단을 피하고 9개월 동안 다섯 번의 발사를 모두 성공적으로 처리했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-머스크는 다음 비행에서 유사한 실패가 발생하더라도 스타십 일정에 미치는 영향이 비슷하게 미미할 것이라고 예측했다. 하지만 달을 향한 미국 우주 프로그램의 경쟁에서 매주와 매월이 중요하며, 곧 상장 기업이 될 스페이스X의 위치는 12차 비행의 결과에 추가적인 중요성을 부여한다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/starshipflight12_attempt1-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 21 May 2026 17:05:37 +0000</pubDate></item><item><title>A hacker group is poisoning open source code at an unprecedented scale (해커 그룹, 전례 없는 규모로 오픈소스 코드를 독살하다)</title><link>https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-2560x1440.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 23 May 2026 02:40:29 +0000</lastBuildDate><item><title>A hacker group is poisoning open source code at an unprecedented scale (해커 그룹, 전례 없는 규모로 오픈소스 코드를 독살하다)</title><link>https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-2560x1440.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.&lt;br/&gt;(깃허브(GitHub)는 소프트웨어 공급망 공격을 연속적으로 감행해온 갱단 팀PCP(TeamPCP)의 최신 피해자일 뿐이다.)&lt;/p&gt;
 &lt;p&gt;A so-called software supply chain attack , in which hackers corrupt a legitimate piece of software to hide their own malicious code, was once a relatively rare event but one that haunted the cybersecurity world with its insidious threat of turning any innocent application into a dangerous foothold in a victim’s network. Now one group of cybercriminals has turned that occasional nightmare into a near-weekly episode, corrupting hundreds of open source tools, extorting victims for profit, and sowing a new level of distrust in an entire ecosystem used to create the world’s software.&lt;br/&gt;(소위 소프트웨어 공급망 공격(해커가 합법적인 소프트웨어를 변조해 자신의 악성 코드를 숨기는 방식)은 한때 비교적 드문 사건이었지만, 무고한 애플리케이션을 피해자 네트워크에 위험한 발판으로 만드는 교활한 위협으로 사이버 보안 세계를 괴롭혀왔다. 이제 한 사이버 범죄 그룹이 그 간헐적인 악몽을 거의 매주 발생하는 사건으로 바꿔놓았으며, 수백 개의 오픈소스 도구를 오염시키고 이익을 위해 피해자를 협박하며, 세상의 소프트웨어를 만드는 데 사용되는 전체 생태계에 새로운 수준의 불신을 심고 있다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -722,4 +647,73 @@ UPS 2976편의 경우 재현된 오디오의 확산을 늦추기에는 너무 �
 &lt;p&gt;All of the devices should be working now, per Mysore. As of last night, some people online have reported that their Chromecasts are working again.&lt;br/&gt;(마이소어에 따르면 모든 기기는 이제 정상 작동해야 합니다. 어젯밤 기준으로 일부 사용자는 온라인에서 자신의 크롬캐스트가 다시 작동하고 있다고 보고했습니다.)&lt;/p&gt;
 &lt;p&gt;Ars asked what exactly the technical issue was and will update this article if we learn more.&lt;br/&gt;(Ars는 정확히 어떤 기술적 문제였는지 물었으며, 추가 정보를 알게 되면 이 기사를 업데이트할 예정입니다.)&lt;/p&gt;
 &lt;p&gt;Another point of stress for owners of older Chromecasts this week is a report today that Google has ended support for every Chromecast except for the Chromecast with Google TV (HD) from 2022. However, as of this writing, the support page still lists all Chromecasts except the first-gen Chromecast as “currently receiving critical security updates.”&lt;br/&gt;(이번 주 오래된 크롬캐스트 소유자들에게 또 다른 스트레스 요인은 구글이 2022년 출시된 Chromecast with Google TV (HD)를 제외한 모든 크롬캐스트에 대한 지원을 종료했다는 오늘의 보고입니다. 하지만 이 글을 쓰는 시점에서 지원 페이지에는 1세대 크롬캐스트를 제외한 모든 크롬캐스트가 '현재 중요한 보안 업데이트를 받고 있다'고 나열되어 있습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-1152x648-1779483037.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 22 May 2026 12:42:59 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-1152x648-1779483037.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 22 May 2026 12:42:59 +0000</pubDate></item><item><title>Ebola outbreak now third largest recorded and “spreading rapidly” (에볼라 발병, 기록상 세 번째로 큰 규모로 "급속 확산")</title><link>https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277132506-2560x1440.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Ebola outbreak risk level increased as deaths reach 177 with nearly 750 cases.&lt;br/&gt;(사망자 177명, 환자 약 750명에 달하며 에볼라 발병 위험 수준 상향 조정.)&lt;/p&gt;
+&lt;p&gt;The Ebola outbreak erupting from the Ituri province of the Democratic Republic of the Congo continues to escalate wildly, with cases nearing 750, deaths reported at 177, and around 1,400 contacts now being traced, the World Health Organization reported in a press briefing Friday. The latest numbers already place the outbreak as the third largest on record, though it was only first reported a week ago, on May 15. And WHO Director-General Tedros Adhanom Ghebreyesus said the outbreak is still “spreading rapidly.”&lt;br/&gt;(민주콩고공화국(DRC) 이투리주에서 발발한 에볼라 발병이 계속해서 급격히 확대되고 있다고 세계보건기구(WHO)가 금요일 기자회견을 통해 밝혔다. 환자 수는 약 750명에 육박하고, 사망자는 177명, 추적 중인 접촉자는 약 1,400명에 이른다. 이번 수치는 이미 이번 발병을 기록상 세 번째로 큰 규모로 만들었으며, 불과 지난 5월 15일에 처음 보고되었다. 테워드로스 아드하놈 거브러여수스 WHO 사무총장은 발병이 여전히 "급속히 확산 중"이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+테워드로스 총장은 WHO의 개정된 평가에 따라 국가적 위험 수준이 '높음'에서 '매우 높음'으로 상향 조정되었으며, 지역적 위험은 '높음', 전 세계적 위험은 '낮음'을 유지한다고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+WHO 관계자들은 발병 탐지와 대응이 지연되면서 상황이 악화되었으며, 현재 바이러스를 앞서기 위해 총력전을 펼치고 있다고 인정했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+오늘 회의에서 DRC 현지에서 발언한 WHO 대표 안 앤시아 박사는 관계자들이 해당 지역에 도착했을 때 바이러스가 "이미 만연해 있었고, 수 주 동안 조용히 퍼져나가고 있었다"고 말했다. 지금까지의 발병 조사에서 가장 이른 것으로 알려진 의심 사례는 보건 종사자로, 그/그녀는 4월 24일 이투리주 수도 부니아에서 증상을 보였다. WHO는 4명의 보건 종사자를 사망에 이르게 한 치명적이고 미확인된 감염 집단 소식과 함께 잠재적 발병 가능성을 5월 5일에야 알게 되었다. WHO 팀이 도착했을 때는 이미 80건의 사례가 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 "우리는 지금 [바이러스]를 뒤쫓으며 이 발병을 실제로 통제하려고 노력하고 있으며, 현재까지도 전파가 계속되고 있기 때문에 모든 대응 작업을 실제로 가동할 수 있을 때까지 당분간 사례 수는 계속 증가할 것"이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이들의 작업은 다양한 난관으로 인해 더욱 어려워지고 있다. 이번 에볼라 발병의 원인 바이러스는 흔하지 않은 분디부교 바이러스로, 확립된 백신이나 치료제가 없다. 따라서 확산을 막기 위한 주요 수단은 적극적인 환자 찾기, 격리, 접촉자 추적이다. 게다가 바이러스는 무력 충돌이 일어나고, 인구 이동이 활발하며, 보건 체계가 취약한 지역에서 확산되고 있으며, 수백만 명이 심각한 기아에 시달리며 인도적 지원을 필요로 하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+WHO와 다른 파트너들이 더 많은 치명적 감염을 막기 위해 분주히 움직이는 가운데, 미국의 공중보건 전문가들은 트럼프 행정부의 역할을 비판하고 있다. 미국은 오랫동안 이 지역 에볼라 대응에서 세계적인 리더였다. 그러나 트럼프 행정부가 미국 국제개발처(USAID)를 해체하고, 질병통제예방센터(CDC)에 대한 심각한 예산 삭감을 단행했으며, 수많은 공중보건 리더십 직위를 공석으로 두고, WHO에서 완전히 탈퇴하면서 상황이 달라졌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+목요일 뉴욕타임스 사설에서 응급의학 의사이자 브라운대 교수이며 2014년 국경없는의사회와 함께 기니에서 환자를 치료하다 에볼라에 감염됐던 크레이그 스펜서는 미국이 "세계 보건 및 인도적 대응에서 오랜 리더 역할을 포기했다"고 썼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "나는 이 질병이 얼마나 파괴적인지, 그리고 우리가 그 재발에 얼마나 준비가 안 되어 있는지 잘 알고 있다"고 썼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 타임스의 보도를 인용해 발병 탐지 지연이 부분적으로 감염 환자 샘플이 콩고 킨샤사에 있는 국립 실험실로 부적절한 온도에서 운송되었기 때문이라고 지적했다. 이 작업은 이전에 USAID가 관리했다. 타임스는 또한 미국이 이전에 물류와 물품 전달, 특히 안면 보호대, 호흡기, 방수복, 수술용 후드와 같은 개인 보호 장비 공급에 결정적인 역할을 했다고 보도했다. 이러한 장비는 발병 초기 DRC의 보건 종사자들이 수 주 동안 부족했던 물품이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"저는 그 직원들 때문에 가슴이 찢어집니다." 2018년에서 2020년 사이 이투리주 에볼라 발병 당시를 포함해 USAID 전염병 부국장을 지낸 메건 포더링엄이 말했다. "그들은 보호받지 못하고 있으며, 목숨을 걸고 일하고 있습니다." 그녀는 타임스에 USAID가 업무를 계속할 수 있었다면 몇 시간 내에 개인 보호 장비 비축분을 이동시킬 수 있었을 것이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+스펜서는 자신과 다른 사람들이 에볼라를 종종 연민의 질병이라고 부르는데, 이는 체액을 통해 피해자와 밀접하게 접촉하는 사람들에게 퍼지기 때문이라고 언급했다. 그는 "이는 아픈 아이를 돌보는 부모, 죽은 친척의 시신을 씻기는 가족 구성원, 환자의 가장 전염성이 강한 단계에서 환자를 돌보는 의료 제공자를 의미합니다."라고 썼다. 그는 한 가족 7명이 감염되어 부모가 스스로 병과 싸우면서 아이들을 돌본 사례를 회상했으며, 결국 부모만 살아남았다고 전했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+역학자 케이틀린 제텔리나와 에밀리 스미스는 금요일에 이 질병이 연민으로 퍼지는 것이지만, 이번 발병은 "전 세계적인 연민의 철수"로 인해 확산되는 것으로 보인다고 지적했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+금요일 오전 CDC 기자회견에서 CDC 에볼라 대응 상황 관리자 사티시 필라이는 미국이 자원을 늘리고 더 많은 현장 직원을 발병 지역에 파견하고 있다고 밝혔다. 트럼프 행정부는 또한 DRC와 우간다의 에볼라 영향 지역에 최대 50개의 치료 클리닉 설립을 지원한다고 밝혔다. 그러나 DRC에서 유입된 사례가 2건만 보고된 우간다는 그러한 계획에 대해 "알지 못한다"고 반응했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+필라이는 발병에서 감염된 미국 의사와 노출된 다른 사람이 각각 독일과 체코로 보내지고 미국으로 이송되지 않은 이유에 대한 질문을 다시 회피했다. 그는 또한 공중보건 전문가들로부터 비판을 받아온 미국의 여행 제한에 대한 질문도 피해갔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국의 글로벌 보건 철수로 WHO는 자금과 지원 부족을 메우기 위해 애쓰고 있다. 기자회견 말미에 WHO 관계자들은 에볼라 발병 대응에 드는 예상 비용과 기관이 이를 충당할 충분한 자금이 있을지 질문을 받았다. 전염병 및 팬데믹 관리 책임자 마리아 반 케르코베는 기관이 아직 추산을 진행 중이라고 밝혔지만, 현재 자금 조달이 어려운 것은 사실이나 대응 비용에 초점을 맞춰서는 안 된다고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+반 케르코베는 "매일 전쟁에 수십억 달러가 지출되고 있습니다."라며 "따라서 이를 처리할 수 있는 충분한 돈이 있습니다. 그리고 극도로 좌절스러운 점은 대응을 위해 돈이 나올 것이라는 점입니다. 하지만 우리가 실제로 자금이 필요한 것은... 예방입니다. 감시, 탐지, 연구, 감염 예방, 통제, 인력, 지역사회 신뢰 구축 등 국가 정부의 역량을 지원하기 위한 지속적이고 꾸준한 자금 지원이 필요합니다. 공황과 방치의 악순환에 빠지는 대신 정기적으로 말입니다."라고 말했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277132506-2560x1440.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 22 May 2026 13:24:03 +0000</pubDate></item><item><title>Four Russian satellites are now within striking distance of an ICEYE radarsat (러시아 위성 4기, 이스라엘 ICEYE 레이더 위성에 근접 거리 진입)</title><link>https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ICEYE_anechoic_chamber_01_5x4-2560x1440.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;“This capability is not common for satellites conducting typical missions.”&lt;br/&gt;("이런 능력은 일반적인 임무를 수행하는 위성에게는 흔치 않은 것입니다.")&lt;/p&gt;
+&lt;p&gt;At least four Russian military satellites changed their orbits to match that of a Finnish-American radar surveillance satellite in the last week, raising questions about Russia’s intentions amid an ever-expanding standoff high above Earth.&lt;br/&gt;(지난주 러시아 군사위성 최소 4기가 핀란드-미국 합작 회사인 ICEYE의 레이더 감시위성과 궤도를 일치시키기 위해 경로를 변경했습니다. 이는 지구 상공에서 확대되는 대치 국면 속에서 러시아의 의도에 의문을 제기하고 있습니다.)&lt;/p&gt;
+&lt;p&gt;The maneuvers were identified through open source orbital tracking data. Greg Gillinger, a retired Air Force space intelligence officer, revealed the orbit changes Friday in a special edition of his Integrity Flash newsletter , published by Integrity ISR, a private business that provides “combat-proven operational support and elite training that enhances mission success across ISR (Intelligence, Surveillance, and Reconnaissance), cyber, space, and targeting domains.”&lt;br/&gt;(이 기동은 공개 궤도 추적 데이터를 통해 확인되었습니다. 은퇴한 미 공군 우주정보 장교인 그레그 길린저는 금요일 자신의 뉴스레터 '인티그리티 플래시'의 특별호에서 이 궤도 변경을 공개했습니다. 이 뉴스레터는 군사 정보, 감시, 정찰(ISR), 사이버, 우주 및 표적 영역에서 임무 성공을 향상시키는 '전투 검증된 작전 지원 및 정예 훈련'을 제공하는 민간 기업인 Integrity ISR이 발행합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+문제의 러시아 위성은 코스모스 2610~2613으로 지정되었으며, 지난 4월 16일 러시아 북부 플레세츠크 우주기지에서 소유즈-2.1b 로켓에 실려 함께 발사되었습니다. 지난주 동안 이 네 위성은 적도에 대한 궤도 각도인 경사각을 1도 미만으로 조정했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이는 사소해 보일 수 있지만, 이러한 '궤도면 변경' 기동은 많은 연료를 소모합니다. 이 정도 규모의 궤도면 변경에 필요한 델타-v(속도 변화)는 고도를 100마일 이상 높이는 데 필요한 충격량과 맞먹습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+결과적으로 이 러시아 위성 4기는 이제 핀란드-미국 합작 회사 ICEYE가 운영하는 상용 레이더 감시위성 근처를 정기적으로 통과할 수 있게 되었습니다. ICEYE-X36이라는 이 영상 플랫폼은 미국 군대와 유럽 정부에 전천후 고공 레이더 이미지를 제공하는 위성 군집의 일부입니다. ICEYE는 또한 우크라이나 군대의 러시아와의 전쟁을 지원하기 위해 이미지를 제공합니다. ICEYE의 공동 창업자이자 CEO인 라팔 모제프스키는 지난해 볼로디미르 젤렌스키 우크라이나 대통령을 만났습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+길린저에 따르면, 러시아 위성 4기와 ICEYE-X36 사이의 횡방향 거리는 이제 약 500미터(1,640피트)에서 22킬로미터(13.7마일) 사이입니다. 이 모든 것은 고도 약 340마일(547킬로미터)의 극궤도에서 이루어지고 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+길린저는 자신의 뉴스레터에서 러시아 위성 운영자들이 이제 '위성 이심률과 평균 고도'에 대한 '소소한 조정'을 통해 ICEYE 위성에 접근할 수 있는 위치에 있다고 썼습니다. 지난달 같은 러시아 발사체에서 나온 다섯 번째 위성도 ICEYE-X36에 더 가까이 이동하기 위해 유사한 기동을 수행하는 것으로 보입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 특정 코스모스 위성들이 무엇을 할 수 있는지에 대해서는 알려진 바가 거의 없습니다. 아마도 한 은퇴한 미군 우주 관계자가 최근 Ars에 말했듯이, 이는 러시아가 둔한 칼날을 휘두르는 또 다른 사례일 수 있습니다. 러시아 군 관리들은 종종 미국 및 유럽 영공 근처로 전략 폭격기를 보내는 등 미국 및 동맹군을 시험하는 것을 즐기는 것 같습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이와 같은 행동이 이제 우주로 확장된 것으로 보이며, 러시아는 지구 상공 수백 마일의 저궤도에서 미국 정부의 가장 정교한 정찰위성들을 그림자처럼 따라다니는 여러 군사 우주선을 발사했습니다. 미국 관리들은 이 러시아 위성들 중 적어도 일부가 대위성 무기 프로그램의 일부라고 믿고 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+더 최근에는, 수수께끼의 러시아 군사위성 하나가 적도 상공 22,000마일 이상의 정지궤도에 도착했습니다. 정황 증거에 따르면 이것 역시 러시아의 대위성 시스템의 일부일 수 있습니다. 미 우주군은 자체 정찰위성 한 대를 정지궤도로 보내 더 가까이 살펴보도록 했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+유사한 영상 위성 군집 중 단일 우주선(예: ICEYE-X36)을 표적으로 삼는 것은 우크라이나나 다른 서방 국가들의 레이더 감시 영상 접근을 거의 차단하지 못할 것입니다. ICEYE 자체도 수십 대의 레이더 영상 위성을 운영하고 있습니다. 광학 정찰위성과 달리, 레이더는 구름 덮개와 관계없이 주야간 이미지를 제공합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 ICEYE-X36의 궤도면과 일치시키려는 러시아의 기동은 의도적인 것으로 보입니다. 러시아 군사위성은 국가정찰국(NRO) 소유의 키홀급 정찰위성과 '동일 궤도면'으로 이동하기 위해 유사한 작업을 수행한 바 있습니다. 최근 코스모스 2610과 그 동료들의 기동은 러시아가 NRO 위성에 근접 거리로 이동하기 위해 했던 것과 유사해 보입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+길린저는 "우리는 러시아의 의도나 이 특정 위성들의 능력을 알지 못합니다. 그러나 동일 궤도면으로 기동하는 것은 우려스러운 일입니다. 궤도면 일치는 랑데부 근접 작전(RPO)을 수행하기 위한 첫 번째이자 가장 연료 소모가 많은 단계이며, 이는 러시아 위성들이 ICEYE-X36을 (물리적 또는 비물리적으로) 표적화하는 데 필요할 가능성이 높습니다."라고 썼습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+길린저는 계속해서 "또한 우리는 위성들의 총 연료 용량을 알지 못하지만, 이러한 기동 중 소모량은 위성들이 고에너지 기동을 수행할 수 있음을 증명합니다. 이런 능력은 일반적인 지구 관측, 신호 수집 또는 통신 임무를 수행하는 위성에게는 흔치 않은 것입니다."라고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+ICEYE는 금요일 Ars의 질문에 응답하지 않았습니다. 회사는 1월에 우크라이나 군대와의 파트너십을 확장한다고 발표했습니다. ICEYE의 최신 위성은 자몽 크기 정도인 최대 16센티미터 해상도의 이미지를 포착합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+ICEYE의 데이터 제품 수석 부사장인 존 카트라이트는 "ICEYE는 침공 초기부터 우크라이나 방어팀이 신뢰할 수 있는 거의 실시간 우주 기반 정보를 얻을 수 있도록 지원한 것에 자부심을 느끼며 겸허히 생각합니다."라고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+카트라이트는 "이번 계약은 고해상도 SAR 이미지에 대한 확실한 접근을 강화하여 우크라이나가 더 빠르고 더 확신을 가지고 결정을 내릴 수 있도록 돕습니다. ICEYE는 이러한 적대 행위에 직면한 우크라이나를 확고히 지지하며, 동맹국들이 가장 필요할 때 최상의 결정 지원 데이터를 확보할 수 있도록 함으로써 유럽의 안보를 더 폭넓게 강화하는 데 깊이 헌신하고 있습니다."라고 말했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ICEYE_anechoic_chamber_01_5x4-2560x1440.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 22 May 2026 13:50:23 +0000</pubDate></item></channel></rss>

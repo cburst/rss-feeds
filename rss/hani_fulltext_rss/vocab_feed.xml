@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 07:32:28 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 11:40:23 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>환경의 – environmental</title><link>urn:urn:vocab:환경의</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>제도를 – system</title><link>urn:urn:vocab:제도를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1617228679684-890412dc57a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXN0ZW18ZW58MHx8fHwxNzc5NTA0MDE5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="제도를 (system)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김우찬 고려대 교수(경제개혁연대 소장)는 “주식 보상은 기업의 장기 성과와 연동하는 성과급 제도를 설계해야 한다는 취지에 부합하는 방안으로 보인다”며 “향후 하도급 기업들과 성과를 공유하는 방안도 주요한 문제가 될 것”으로 내다봤다&lt;br/&gt;&lt;em&gt;Kim Woo-chan, a professor at Korea University (and director of the Economic Reform Solidarity), said, 'Stock compensation appears to be a measure that aligns with the purpose of designing a performance-based pay system linked to a company's long-term performance,' and predicted that 'sharing performance with subcontractors will also become a major issue.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (협의회는 불합리한 환급 제도를 개선하기 위해 관련 법령 개정과 함께 기업 차원의 조건 없는 환급 조치가 이루어져야 한다고 주장했다&lt;br/&gt;&lt;em&gt;" (The council argued that to improve the unreasonable refund system, relevant laws and regulations should be revised, and unconditional refund measures at the corporate level should be implemented.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;다만, 정부의 이번 공급 대책은 비아파트 시장이 정상화될 때까지 시행하는 일종의 비상 조처인 만큼, 민간 사업자 스스로 비아파트 공급 생태계를 회복할 수 있도록 금융·세제·임대사업 제도를 정상화하기 위한 중장기적 고민이 필요하다는 지적도 나온다&lt;br/&gt;&lt;em&gt;However, since the government's latest supply measures are a kind of emergency action implemented until the non-apartment market normalizes, there are also criticisms that mid- to long-term considerations are needed to normalize the financial, tax, and rental business systems so that private operators can restore the non-apartment supply ecosystem on their own.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 제도를 배웠어요.&lt;br/&gt;&lt;em&gt;I learned this system.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;새 제도를 도입했어요.&lt;br/&gt;&lt;em&gt;We introduced a new system.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1617228679684-890412dc57a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXN0ZW18ZW58MHx8fHwxNzc5NTA0MDE5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="제도를 (system)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김우찬 고려대 교수(경제개혁연대 소장)는 “주식 보상은 기업의 장기 성과와 연동하는 성과급 제도를 설계해야 한다는 취지에 부합하는 방안으로 보인다”며 “향후 하도급 기업들과 성과를 공유하는 방안도 주요한 문제가 될 것”으로 내다봤다&lt;br/&gt;&lt;em&gt;Kim Woo-chan, a professor at Korea University (and director of the Economic Reform Solidarity), said, 'Stock compensation appears to be a measure that aligns with the purpose of designing a performance-based pay system linked to a company's long-term performance,' and predicted that 'sharing performance with subcontractors will also become a major issue.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (협의회는 불합리한 환급 제도를 개선하기 위해 관련 법령 개정과 함께 기업 차원의 조건 없는 환급 조치가 이루어져야 한다고 주장했다&lt;br/&gt;&lt;em&gt;" (The council argued that to improve the unreasonable refund system, relevant laws and regulations should be revised, and unconditional refund measures at the corporate level should be implemented.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;다만, 정부의 이번 공급 대책은 비아파트 시장이 정상화될 때까지 시행하는 일종의 비상 조처인 만큼, 민간 사업자 스스로 비아파트 공급 생태계를 회복할 수 있도록 금융·세제·임대사업 제도를 정상화하기 위한 중장기적 고민이 필요하다는 지적도 나온다&lt;br/&gt;&lt;em&gt;However, since the government's latest supply measures are a kind of emergency action implemented until the non-apartment market normalizes, there are also criticisms that mid- to long-term considerations are needed to normalize the financial, tax, and rental business systems so that private operators can restore the non-apartment supply ecosystem on their own.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 제도를 배웠어요.&lt;br/&gt;&lt;em&gt;I learned this system.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;새 제도를 도입했어요.&lt;br/&gt;&lt;em&gt;We introduced a new system.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 23 May 2026 11:40:23 +0900</pubDate><guid isPermaLink="false">vocab-5b472aee25e4565adfe911a97d4ff47a07d634a7</guid><enclosure url="https://images.unsplash.com/photo-1617228679684-890412dc57a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXN0ZW18ZW58MHx8fHwxNzc5NTA0MDE5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="56828" /><ns2:content url="https://images.unsplash.com/photo-1617228679684-890412dc57a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXN0ZW18ZW58MHx8fHwxNzc5NTA0MDE5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1617228679684-890412dc57a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzeXN0ZW18ZW58MHx8fHwxNzc5NTA0MDE5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>제도를</category></item><item><title>스타벅스 – Starbucks</title><link>urn:urn:vocab:스타벅스</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3N8ZW58MHx8fHwxNzc5NDgxNTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스타벅스 (Starbucks)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;지난 19일 서울 시내의 한 스타벅스 매장 모습&lt;br/&gt;&lt;em&gt;A Starbucks store in Seoul on the 19th&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(스타벅스코리아의 ‘5·18 탱크데이’ 마케팅으로 불매 움직임이 일고 있는 가운데, 스타벅스 충전식 선불카드의 환불 규정을 두고도 소비자 불만이 이어지고 있다&lt;br/&gt;&lt;em&gt;Amid a boycott movement over Starbucks Korea's '5·18 Tank Day' marketing, consumer complaints are also continuing over the refund policy of Starbucks rechargeable prepaid cards.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(스타벅스는 매장에서 음료 등을 주문할 때 사용할 수 있는 충전식 선불카드를 발급하고 있다&lt;br/&gt;&lt;em&gt;Starbucks issues rechargeable prepaid cards that can be used to order drinks and other items at stores.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;스타벅스에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to Starbucks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스 커피가 맛있어요.&lt;br/&gt;&lt;em&gt;Starbucks coffee is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3N8ZW58MHx8fHwxNzc5NDgxNTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스타벅스 (Starbucks)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;지난 19일 서울 시내의 한 스타벅스 매장 모습&lt;br/&gt;&lt;em&gt;A Starbucks store in Seoul on the 19th&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(스타벅스코리아의 ‘5·18 탱크데이’ 마케팅으로 불매 움직임이 일고 있는 가운데, 스타벅스 충전식 선불카드의 환불 규정을 두고도 소비자 불만이 이어지고 있다&lt;br/&gt;&lt;em&gt;Amid a boycott movement over Starbucks Korea's '5·18 Tank Day' marketing, consumer complaints are also continuing over the refund policy of Starbucks rechargeable prepaid cards.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(스타벅스는 매장에서 음료 등을 주문할 때 사용할 수 있는 충전식 선불카드를 발급하고 있다&lt;br/&gt;&lt;em&gt;Starbucks issues rechargeable prepaid cards that can be used to order drinks and other items at stores.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;스타벅스에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to Starbucks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스 커피가 맛있어요.&lt;br/&gt;&lt;em&gt;Starbucks coffee is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 23 May 2026 09:36:17 +0900</pubDate><guid isPermaLink="false">vocab-0b061ddc6fc3b688d9aa2a0e58d0885d042e6750</guid><enclosure url="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3N8ZW58MHx8fHwxNzc5NDgxNTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="128894" /><ns2:content url="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3N8ZW58MHx8fHwxNzc5NDgxNTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3N8ZW58MHx8fHwxNzc5NDgxNTk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>스타벅스</category></item><item><title>환경의 – environmental</title><link>urn:urn:vocab:환경의</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbnZpcm9ubWVudGFsfGVufDB8fHx8MTc3OTQ2NjU0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="환경의 (environmental)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이런 세수 환경의 변화와 관련해 김용범 청와대 정책실장은 앞서 ‘국민배당금’이라는 화두를 제시한 바 있다&lt;br/&gt;&lt;em&gt;" In relation to such changes in the tax environment, Kim Yong-beom, head of the policy office at the Blue House, previously suggested the topic of 'national dividend'.&lt;/em&gt;&lt;/p&gt;
