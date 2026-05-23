@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 17:52:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 19:57:00 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>기숙사 – dormitory</title><link>urn:urn:vocab:기숙사</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>최근에는 – recently</title><link>urn:urn:vocab:최근에는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506704810770-7e9bbab1094b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3Nzk1MzM4MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="최근에는 (recently)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(  양기욱 산업자원안보실장은 이날 중동 상황 및 석유 최고가격 6차 지정 통합브리핑에서 “미국과 이란 간 종전 협상에 특별한 진전이 없고, 국제유가는 100달러 위에서 횡보하는 상황”이라며 “전쟁 초기에는 등락이 심했지만, 최근에는 교착 상태에 접어들면서 큰 변화가 없다는 점을 고려했다”고 설명했다&lt;br/&gt;&lt;em&gt;At the integrated briefing on the Middle East situation and the sixth designation of the oil price cap, Yang Ki-wook, head of the Office of Industrial and Energy Security, explained, 'There has been no significant progress in the US-Iran negotiations to end the war, and international oil prices are moving sideways above $100. While there were sharp fluctuations early in the war, we considered that there have been no major changes recently as the situation has entered a stalemate.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최고가격제 시행 초기에는 시장 상황 변화에 빠르게 대응하기 위해 2주 단위로 가격을 조정해왔지만, 최근에는 국제 유가 변동성이 전쟁 초기보다 제한적이고 국내 주유소 가격도 안정세를 보이고 있다는 게 정부 설명이다&lt;br/&gt;&lt;em&gt;The government explained that in the early stages of the price cap system, prices were adjusted every two weeks to respond quickly to changes in market conditions, but recently, international oil price volatility has been more limited than in the early stages of the war, and domestic gas station prices have also shown a stable trend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 최근에는 스마트폰, SNS, AI 등 디지털 환경의 급격한 변화가 청소년의 삶에 큰 영향을 미치고 있습니다&lt;br/&gt;&lt;em&gt;In particular, recent rapid changes in the digital environment, such as smartphones, social media, and AI, are having a significant impact on the lives of adolescents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최근에는 날씨가 좋아요.&lt;br/&gt;&lt;em&gt;The weather has been nice recently.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최근에는 운동을 해요.&lt;br/&gt;&lt;em&gt;I exercise recently.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506704810770-7e9bbab1094b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3Nzk1MzM4MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="최근에는 (recently)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(  양기욱 산업자원안보실장은 이날 중동 상황 및 석유 최고가격 6차 지정 통합브리핑에서 “미국과 이란 간 종전 협상에 특별한 진전이 없고, 국제유가는 100달러 위에서 횡보하는 상황”이라며 “전쟁 초기에는 등락이 심했지만, 최근에는 교착 상태에 접어들면서 큰 변화가 없다는 점을 고려했다”고 설명했다&lt;br/&gt;&lt;em&gt;At the integrated briefing on the Middle East situation and the sixth designation of the oil price cap, Yang Ki-wook, head of the Office of Industrial and Energy Security, explained, 'There has been no significant progress in the US-Iran negotiations to end the war, and international oil prices are moving sideways above $100. While there were sharp fluctuations early in the war, we considered that there have been no major changes recently as the situation has entered a stalemate.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최고가격제 시행 초기에는 시장 상황 변화에 빠르게 대응하기 위해 2주 단위로 가격을 조정해왔지만, 최근에는 국제 유가 변동성이 전쟁 초기보다 제한적이고 국내 주유소 가격도 안정세를 보이고 있다는 게 정부 설명이다&lt;br/&gt;&lt;em&gt;The government explained that in the early stages of the price cap system, prices were adjusted every two weeks to respond quickly to changes in market conditions, but recently, international oil price volatility has been more limited than in the early stages of the war, and domestic gas station prices have also shown a stable trend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;특히 최근에는 스마트폰, SNS, AI 등 디지털 환경의 급격한 변화가 청소년의 삶에 큰 영향을 미치고 있습니다&lt;br/&gt;&lt;em&gt;In particular, recent rapid changes in the digital environment, such as smartphones, social media, and AI, are having a significant impact on the lives of adolescents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;최근에는 날씨가 좋아요.&lt;br/&gt;&lt;em&gt;The weather has been nice recently.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;최근에는 운동을 해요.&lt;br/&gt;&lt;em&gt;I exercise recently.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 23 May 2026 19:57:00 +0900</pubDate><guid isPermaLink="false">vocab-78e448bc23a0275613f44d5b405957192088680a</guid><enclosure url="https://images.unsplash.com/photo-1506704810770-7e9bbab1094b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3Nzk1MzM4MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="116079" /><ns2:content url="https://images.unsplash.com/photo-1506704810770-7e9bbab1094b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3Nzk1MzM4MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1506704810770-7e9bbab1094b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlbnRseXxlbnwwfHx8fDE3Nzk1MzM4MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>최근에는</category></item><item><title>기숙사 – dormitory</title><link>urn:urn:vocab:기숙사</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1571474039046-42bc4e7f4b98?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3JtaXRvcnl8ZW58MHx8fHwxNzc5NTI2MzIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기숙사 (dormitory)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Full-Scale Pursuit of Educational Environment Innovation (성결대학교, 기숙사·영암채플관 착공 감사예배 마쳐&lt;br/&gt;&lt;em&gt;Full-Scale Pursuit of Educational Environment Innovation (Sungkyul University Holds Groundbreaking Thanksgiving Service for Dormitory and Yeongam Chapel)&lt;/em&gt;&lt;/p&gt;
