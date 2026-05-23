@@ -1,187 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 23 May 2026 10:57:06 +0000</lastBuildDate><item><title>A hacker group is poisoning open source code at an unprecedented scale (해커 그룹, 전례 없는 규모로 오픈소스 코드를 독살하다)</title><link>https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-2560x1440.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.&lt;br/&gt;(깃허브(GitHub)는 소프트웨어 공급망 공격을 연속적으로 감행해온 갱단 팀PCP(TeamPCP)의 최신 피해자일 뿐이다.)&lt;/p&gt;
-&lt;p&gt;A so-called software supply chain attack , in which hackers corrupt a legitimate piece of software to hide their own malicious code, was once a relatively rare event but one that haunted the cybersecurity world with its insidious threat of turning any innocent application into a dangerous foothold in a victim’s network. Now one group of cybercriminals has turned that occasional nightmare into a near-weekly episode, corrupting hundreds of open source tools, extorting victims for profit, and sowing a new level of distrust in an entire ecosystem used to create the world’s software.&lt;br/&gt;(소위 소프트웨어 공급망 공격(해커가 합법적인 소프트웨어를 변조해 자신의 악성 코드를 숨기는 방식)은 한때 비교적 드문 사건이었지만, 무고한 애플리케이션을 피해자 네트워크에 위험한 발판으로 만드는 교활한 위협으로 사이버 보안 세계를 괴롭혀왔다. 이제 한 사이버 범죄 그룹이 그 간헐적인 악몽을 거의 매주 발생하는 사건으로 바꿔놓았으며, 수백 개의 오픈소스 도구를 오염시키고 이익을 위해 피해자를 협박하며, 세상의 소프트웨어를 만드는 데 사용되는 전체 생태계에 새로운 수준의 불신을 심고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-화요일 밤, 오픈소스 코드 플랫폼 깃허브는 그러한 소프트웨어 공급망 공격 중 하나로 해커에게 침해당했다고 발표했다. 깃허브 개발자가 VSCode(깃허브와 마찬가지로 마이크로소프트가 소유한 널리 사용되는 코드 편집기용 플러그인)의 '감염된' 확장 프로그램을 설치한 것이다. 그 결과, 점점 더 악명 높아지고 있는 팀PCP라는 그룹의 배후 해커들은 깃허브의 약 4,000개 코드 저장소에 접근했다고 주장한다. 깃허브의 성명은 최소 3,800개의 손상된 저장소를 발견했으며, 지금까지의 조사 결과에 따르면 이들 모두 고객의 코드가 아닌 깃허브 자체 코드를 포함하고 있다고 확인했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 오늘 깃허브의 소스 코드와 내부 조직을 판매한다고 광고하기 위해 여기에 있다"고 팀PCP는 사이버 범죄자 포럼이자 시장인 브리치포럼즈(BreachForums)에 썼다. "주요 플랫폼의 모든 것이 있으며, 구매 희망자에게 샘플을 보내 절대적인 진위를 확인시켜 줄 의향이 있다."
-&lt;&lt;&lt;PARA&gt;&gt;
-깃허브 침해는 현재까지 가장 오래 지속된 소프트웨어 공급망 공격 행진의 최신 사건일 뿐이며, 끝이 보이지 않는다. 소프트웨어 공급망에 특화된 사이버 보안 회사 소켓(Socket)에 따르면, 팀PCP는 지난 몇 달 동안에만 20번의 공급망 공격 '물결'을 수행하여 500개 이상의 개별 소프트웨어에 악성 코드를 숨겼으며, 팀PCP가 탈취한 다양한 버전의 코드까지 모두 세면 1,000개가 훨씬 넘는다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이러한 오염된 코드 덕분에 팀PCP 해커들은 해당 소프트웨어를 설치한 수백 개의 회사를 침해할 수 있었다고 클라우드 보안 회사 위즈(Wiz)의 전략적 위협 인텔리전스를 이끄는 벤 리드(Ben Read)는 말한다. 깃허브는 그룹의 긴 피해자 목록 중 최신일 뿐이며, 이 목록에는 AI 기업 오픈AI(OpenAI)와 데이터 계약 회사 메르코르(Mercor)도 포함되어 있다. "깃허브 침해가 가장 큰 사건일 수도 있지만, 각각의 침해는 해당 회사에게는 큰 사건입니다. 지난주에 발생한 14건의 침해와 질적으로 다르지 않습니다"라고 리드는 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-팀PCP의 핵심 전술은 소프트웨어 개발자에 대한 일종의 순환적 착취가 되었다. 해커들은 코더들이 흔히 사용하는 오픈소스 도구가 개발 중인 네트워크(예: 깃허브 침해로 이어진 VSCode 확장 프로그램이나 이번 주 초 팀PCP가 탈취한 데이터 시각화 소프트웨어 AntV)에 접근한다. 해커들은 그 도구에 악성 코드를 심어 다른 소프트웨어 개발자의 기계에 도달하게 하며, 여기에는 코더들이 사용하도록 의도된 다른 도구를 작성하는 개발자도 포함된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-악성 코드는 팀PCP 해커들이 자격 증명을 훔쳐 해당 소프트웨어 개발 도구의 악성 버전도 게시할 수 있게 한다. 이 순환은 반복되며 팀PCP의 침해 네트워크 수집은 증가한다. "이는 공급망 손상의 관성 바퀴와 같습니다"라고 리드는 말한다. "스스로 지속되며 네트워크에 접근해 물건을 훔치는 엄청나게 성공적인 방법이었습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-최근에는 그룹이 미니 샤이훌루드(Mini Shai-Hulud)로 알려지게 된 자가 확산 웜을 사용하여 많은 소프트웨어 공급망 공격을 자동화한 것으로 보인다. 이 이름은 웜이 생성하는 깃허브 저장소에서 유래했으며, 여기에는 피해자로부터 훔친 암호화된 자격 증명이 포함되어 있고 각각 '미니 샤이훌루드가 나타났다(A Mini Shai-Hulud Has Appeared)'라는 문구와 SF 소설 듄(Dune)에 대한 몇 가지 다른 언급이 포함되어 있다. 이 메시지는 듄의 모래벌레뿐만 아니라 9월에 등장한 샤이훌루드(Shai-Hulud)로 알려진 유사한 공급망 손상 웜을 언급하는 것으로 보이지만, 이전의 자가 확산 악성 코드 뒤에 팀PCP가 있었다는 증거는 없다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그들은 분명히 큰 노출을 노리고 있습니다. 그들은 큰 주목을 받는 데 진심으로 신경 쓰고 있습니다"라고 소켓의 연구를 이끌며 수개월 동안 팀PCP를 추적해온 필립 부르크하르트(Philipp Burckhardt)는 말한다. "그들은 자신의 공을 자랑하는 것을 좋아합니다." 그룹의 다크웹 사이트에는 '비즈니스 연락처'에 대한 링크가 있으며(아마도 협상에 사용됨), 매트릭스 스타일의 연속적인 1과 0, 레게 퓨전 사운드트랙, 그리고 "TEAMPCP: 당신의 공급망을 납치하는 고양이들"이라는 문구가 특징이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-현재의 공급망 공격 전략을 정착시키기 전, 팀PCP는 2025년 후반에 클라우드 설정 오류와 웹 앱 개발 도구 넥스트제이에스(Next.js)의 취약점을 이용해 자격 증명 도난 및 암호화폐 채굴과 같은 공격을 위한 봇넷을 배포하면서 등장했다. 이 기간 동안 웜에 대한 그룹의 의존도가 증가했으며, 정적 자격 증명과 인증 토큰을 훨씬 더 성공적으로 확보해 피해자 시스템 내부로 더 깊이 파고들었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"마치 산불처럼 매우 빠르게 퍼졌습니다"라고 팔로알토 네트웍스(Palo Alto Networks)의 코텍스 클라우드(Cortex Cloud) 인텔리전스 팀 관리자 나다니엘 퀴스트(Nathaniel Quist)는 말한다. "그들은 자격 증명, 개인 액세스 토큰을 찾아내고, 그다음에는 하나의 자격 증명이 얼마나 멀리 갈 수 있는지가 문제입니다. 우리는 이러한 기술이 계속될 것이라고 생각합니다. 위협 행위자들은 이것이 효과가 있다는 것을 알고 있으며, 그것을 실행하고 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-팀PCP는 재정적 동기를 가진 것으로 보이며, 종종 대상에 대해 랜섬웨어나 데이터 갈취 캠페인을 전개하지만, 피해자의 데이터를 구매자에게 판매하려는 의지도 있는 것으로 보인다. 예를 들어, 최근 깃허브 사건에서 브리치포럼즈 사이트에 "이것은 협박이 아닙니다. 우리는 깃허브를 갈취하는 데 관심이 없습니다. 구매자 1명이 발견되면 우리 쪽에서 데이터를 삭제할 것입니다"라고 썼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-또한 깃허브에 대한 은근한 위협으로 보이는 내용을 추가했다(아마도 회사가 지불하도록 강요하려는 의도로): "우리의 은퇴가 곧 다가온 것 같으니 구매자가 없으면 무료로 유출하겠습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-퀴스트에 따르면 팀PCP가 4월에 사이버 범죄 플랫폼 브리치포럼즈와 드래곤포스(DragonForce)와의 파트너십을 구축하며 랜섬웨어 서비스(Ransomware-as-a-Service) 모델로 이동하기 시작하면서 상황은 점점 더 복잡해졌다. 또한 그룹은 때때로 지정학에 뛰어드는 것으로 보였으며, 모든 쿠버네티스 클라우드 인프라를 대상으로 악성 코드를 배포했지만 이란 대상에만 파괴적인 와이퍼(연구자들이 캐니스터웜(CanisterWorm)이라고 명명)를 배포하는 지리적 타겟팅 와이퍼를 배치했다. 이번 주에는 팀PCP라고 주장하는 주체가 원래 샤이훌루드 웜 소스 코드와 상세 문서도 유출했지만, 그 유출 동기는 명확하지 않다.
-&lt;&lt;&lt;PARA&gt;&gt;
-팀PCP의 표적 규모는 3월에 더 많은 소프트웨어 유틸리티를 해킹하면서 극적으로 확대되었으며, 이는 더 최근의 공급망 공격의 연쇄 효과로 이어졌다. 그룹은 오픈소스 보안 스캐너 트리비(Trivy)에 정보 탈취형 악성 코드(infostealer)를 삽입한 후, 이 공격에서 훔친 자격 증명을 사용해 인기 있는 파이썬 소프트웨어 저장소 PyPI에 호스팅된 AI 애플리케이션 프로그래밍 인터페이스 도구 라이트엘엘엠(LiteLLM)의 특정 버전을 손상시켰다. 또한 그룹은 웹 애플리케이션 보안 회사 체크마크스(Checkmarx)의 인프라를 오염시키고, 개발 서버 pgserve를 공격했으며, 웹 앱 라이브러리 탄스택(TanStack)과 엔터프라이즈 AI 플랫폼 미스트랄 AI(Mistral AI)를 손상시켰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 여파는 심각했다. 깃허브 외에도 소프트웨어 서비스 제공업체에 대한 팀PCP의 공격은 유럽 위원회의 공개 웹사이트와 데이터 계약 회사 메르코르의 침해, 오픈AI 직원 두 명의 장치 손상 및 기타 많은 사건으로 이어졌다. 그러나 팔로알토의 퀴스트는 조직이 인증 토큰을 신중하게 관리하고 가능한 모든 곳에서 접근 제한을 부과하는 보안 '위생' 관행을 통해 어느 정도 스스로를 보호할 수 있다고 강조한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이 작전을 성공적으로 만드는 가장 큰 기회주의적 요소는 이러한 환경에서 장기간 유효한 자격 증명입니다"라고 그는 말한다. "라이트엘엘엠이나 손상된 패키지를 사용하지 않더라도 토큰을 변경하는 것이 매우 중요합니다. Gitlab과 GitHub 개인 액세스 토큰이 있으면 교체하세요. 그리고 AWS, Azure, GCP, Alibaba, Oracle 등 이러한 모든 자격 증명이 탈취되고 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-팀PCP의 오염된 코드의 파도는 또한 공급망 공격이 증가하는 시대에 오픈소스 소프트웨어를 안전하게 사용하는 방법에 대한 어려운 질문을 제기한다. 위즈의 리드는 오픈소스 도구 업데이트에 대한 '연령 제한(age-gating)'과 같은 안전장치를 권장한다. 즉, 보안 업데이트를 검토하고 설치하되, 새로 게시되어 악성일 수 있는 코드에 대한 즉각적인 업데이트는 보류하는 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-최근 팀PCP의 악성 업데이트 한 건의 경우, 리드는 위즈가 공급망 손상을 감지하고 몇 분 안에 고객에게 경고했지만, 해당 소프트웨어의 많은 사용자가 자동 업데이트를 활성화해 이미 다운로드했다고 말한다. "당신은 항상 최신 버전을 설치하고 싶지 않을 것입니다"라고 리드는 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-팀PCP가 촉발한 것과 같은 공급망 공격이 유행하는 가운데, 소켓의 부르크하르트는 오픈소스 사용자들이 네트워크 전반에 배포하기 전에 업데이트에서 악성 코드를 분석하는 것과 같은 '신뢰하되 확인' 조치와 리드가 코드를 다운로드하고 실행하기 전에 권장하는 '냉각 기간'을 채택해야 할 것이라고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"코드가 기계에 도달하는 순간, 이미 너무 늦은 겁니다"라고 부르크하르트는 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 이야기는 원래 WIRED.com에 게재되었습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-2560x1440.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 22 May 2026 01:30:14 +0000</pubDate></item><item><title>The $58,000 TV bill: When DirecTV sued O.J. Simpson for piracy (58,000달러짜리 TV 청구서: 다이렉TV가 O.J. 심슨을 해적 혐의로 고소했을 때)</title><link>https://arstechnica.com/tech-policy/2026/05/the-58000-tv-bill-when-directv-sued-o-j-simpson-for-piracy/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-51985137-1152x648-1779298700.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;In 2001, the FBI raided O.J.’s house and found smartcards, bootloaders.&lt;br/&gt;(2001년, FBI는 O.J.의 집을 급습해 스마트카드와 부트로더를 발견했습니다.)&lt;/p&gt;
-&lt;p&gt;Imagine the life of a federal judge in the Southern District of Florida back in 2005. On Monday, you hold a hearing on contested legislation. On Tuesday, you rule in a national security case. But on Wednesday—bah, there’s just something about Wednesday—you have to spend a sunny day indoors, reading technical affidavits on satellite TV bootloaders, electronic countermeasures, and smartcard voltage dips that take place 522 clock ticks after startup.&lt;br/&gt;(2005년 플로리다 남부지방법원 연방판사의 삶을 상상해보세요. 월요일에는 쟁점 법안에 대한 심리를 진행합니다. 화요일에는 국가안보 사건에 대한 판결을 내립니다. 하지만 수요일이 되면—아, 수요일만 되면 왠지—햇살 좋은 날을 실내에서 보내며 위성 TV 부트로더, 전자식 대응 수단, 그리고 시동 후 522 클록 틱 후에 발생하는 스마트카드 전압 강하에 관한 기술 진술서를 읽어야 합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-참 지루한 일이죠. 연방 판사직을 원하면서 바라는 종류의 일이 아닙니다. 위성 TV 해적 사건입니다. 마이애미의 어떤 평범한 남자를 상대로요.
-&lt;&lt;&lt;PARA&gt;&gt;
-당신은 한숨을 쉬며 책상 위 서류를 넘기다가 사건 제목에서 멈춥니다. 다이렉TV가 마이애미의 어떤 평범한 남자를 고소하는 게 아닙니다. 유명 인사를 고소하고 있는 겁니다. 아마도 그 살인 혐의 덕분에 현재 세계에서 가장 유명한 사람 중 한 명일지도 모르죠. 물론 그는 무죄를 입증했지만요. 그럼에도, 그의 명성에 걸맞은 유명 인사가 위성 TV 요금을 낼 돈이 없을 리가 없지 않습니까?
-&lt;&lt;&lt;PARA&gt;&gt;
-수요일은 평소보다 더 흥미로울 것을 약속합니다. 당신은 가죽 의자에 앉아 '다이렉TV 대 O.J. 심슨' 사건의 서류를 읽기 시작합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-전직 미식축구 스타 O.J. 심슨은 생애 마지막 수십 년 동안 정말 다양한 어려움에 휘말렸습니다. 전처와 그녀의 친구가 살해된 후, "주스"는 악명 높은 하얀 브롱코 고속도로 추격전(1994)을 벌였고, 살인 혐의로 기소되었으며(1994), 살인 혐의에 대해 무죄를 선고받았고(1995), "위법 사망"으로 고소당했으며(1996), "위법 사망"에 대해 책임이 있다고 판결받았고(1997), 캘리포니아 주택 융자를 채무 불이행했으며(1997), 하이즈먼 트로피가 경매에 나갔고(1999), 결국 플로리다로 이사했습니다(2000). 플로리다는 채권자와 법원 판결로부터 주택과 연금을 보호하는 강력한 법률을 가지고 있었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그리고 비교적 평온한 시기가 찾아왔습니다. 심슨은 큰 법적 드라마를 피했지만, 여전히 폭행 혐의로 기소되고(2001—이후 무죄 석방), 매너티 보호 구역에서 보트 과속으로 기소되는(2002—체포 영장 발부, 이후 130달러 벌금으로 감경) 등 사건을 겪었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 결국 그는 다시 폭풍 속으로 향했습니다. 라스베이거스에서 자신에게서 도난당했다고 주장하는 스포츠 기념품을 압수하려다가, 심슨은 강도, 납치, 폭행 혐의로 기소되어(2007) 유죄 판결을 받고(2008) 가석방(2017)될 때까지 네바다 교도소에서 복역했습니다. 그는 2024년 암으로 사망했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-물론 저는 수년간의 국가적 뉴스 보도를 통해 심슨 삶의 기본적인 윤곽을 알고 있었습니다. 하지만 이번 달에야 몰랐던 심슨 논란을 우연히 발견했습니다: 그는 연방 법원에서 고소당한 위성 TV 해적 혐의자였으며, 이는 2000년대에 제가 자주 다루었던 각종 음악 파일 공유 피고인들과 매우 유사했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-차이점은 심슨의 경우 그의 집 전체가 연방 요원들에 의해 수색되었고—나중에 민사 소송을 제기한 민간 회사의 도움을 받았다는 점입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-급습 자체는 심슨이 마이애미 112번가에 살던 비교적 평온한 시기에 이루어졌습니다. 2001년 12월 4일, 심슨의 집은 2년간의 마약 및 TV 해적 수사 끝에 FBI가 수색한 13개 장소 중 하나였습니다. LA 타임스에 따르면, 심슨은 "하얀 목욕 가운을 입고 경찰관들을 맞이했으며" 수색 중 "체포되지 않았습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-마약은 발견되지 않았지만, 심슨의 집 주소는 수사 중 위성 TV 해적 장비 구매와 잠재적으로 연계된 것으로 나타났습니다. 그래서 법 집행 기관이 그의 집에 들이닥쳤을 때, 그들은 혼자 온 것이 아니었습니다. 그들은 다이렉TV 신호 무결성 사무국의 전 선임 이사였던 제임스 웨일런을 데리고 왔습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-웨일런은 나중에 자신이 "FBI로부터 법 집행에 동행해 달라는 요청을 받았고" "통신 서비스 도난과 관련된 위조 또는 불법 물질 식별을 지원"할 수 있었기 때문에 그곳에 있었다고 말했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그리고 그는 몇 가지를 발견했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다이렉TV 기록에 따르면 심슨은 1995년부터 1998년까지 구독을 유지했습니다. 하지만 급습 당시 그는 "플로리다 거주지에 합법적인 다이렉TV 계정이 없었다"고 다이렉TV는 밝혔습니다. 그러나 웨일런이 그날 심슨의 집을 둘러보았을 때, 그는 텔레비전에 연결된 두 대의 다이렉TV 수신기/디스크램블러 장치(업계에서는 "IRD"라고도 함)를 발견했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 디스크램블러가 작동하려면 각각 액세스 카드—디스크램블러에 어떤 채널을 잠금 해제할지 지시하는 스마트카드—가 필요했습니다. 기발한 해커들은 자신만의 액세스 카드를 생산하는 방법을 찾아냈습니다. 이 카드들은 특정 채널 세트에 접근할 수 있게 해주었으며, 단, 디스크램블러의 모뎀을 전화 잭에 꽂지 않는 한 말이죠. (이렇게 하면 구독이 없는 위치에 승인되지 않은 장치가 설치되었음을 다이렉TV에 알릴 수 있었습니다.)
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 디스크램블러가 본사에 연락하지 못하게 막더라도, 다이렉TV는 불법 액세스 카드를 무력화시키는 방법을 가지고 있었습니다. 전자식 대응 수단(ECM)을 사용하여 전자적으로 "차단"할 수 있었습니다. 이는 주 공중파 위성 신호에 내장된 코드 조각으로, 수신기/디스크램블러 하드웨어에 의해 자동으로 실행되었습니다. 이 코드는 일반적으로 불법 액세스 카드에 데이터를 기록하여 카드가 보안 검사를 통과하지 못하고 해적 행위에 쓸모없게 만드는 방식으로 작동했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2001년 슈퍼볼 며칠 전, 다이렉TV는 매우 강력한 ECM을 출시했습니다. 이는 2001년 1월 21일이 해커 커뮤니티에서 "검은 일요일"로 알려질 정도로 성공적이었습니다. 엄청난 수의 불법 액세스 카드가 차단되었습니다. 당시 슬래시닷 기사는 피해 상황을 다음과 같이 기록했습니다:
-&lt;&lt;&lt;PARA&gt;&gt;
-슈퍼볼 일주일 전, 다이렉TV는 제품 해커들에 대한 일련의 공격을 시작했습니다. 다이렉TV는 스트림에 프로그램 코드를 보내 해킹된 스마트카드를 추적하여 파괴했습니다. IRC 다이렉TV 채널은 도난당한 TV를 시청할 수 없게 된 수천 명의 사람들로 넘쳐났습니다. 해킹 커뮤니티는 대체로 TV 시청 능력뿐만 아니라 카드 자체도 영구적으로 파괴되었을 가능성이 높습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일부 추정에 따르면, 단 하룻밤 사이에 10만 개의 스마트카드가 파괴되어 해킹 커뮤니티가 신호를 도용할 수 있는 능력의 98%가 제거되었습니다. 작전에 약간의 재미를 더하기 위해, 다이렉TV는 해커 방지 공격에 직접 "서명"했습니다. 해킹된 모든 카드의 처음 8바이트는 "GAME OVER"로 다시 쓰여졌습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-몇 년 후, 와이어드는 검은 일요일 ECM 개발을 도왔던 남자를 추적했습니다. 그는 해커들이 자신들에게 무슨 일이 일어날지 너무 늦기 전까지 알지 못하도록 교활한 코드를 설계했습니다. 기사는 "다른 조치들처럼 한 번에 전달되는 대신, 검은 일요일 공격 코드는 두 달에 걸쳐 약 60개 부분으로 해커 카드에 전송되었습니다. 마치 전차가 조립되기 위해 전장에 조각조각 운반되는 것처럼요."라고 언급했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 해커들은 교활한 사람들입니다. "죽은" 액세스 카드를 되살리기 위해, 그들은 부트로더를 발명했습니다. 이는 디스크램블러 하드웨어와 액세스 카드 사이에 위치할 수 있는 작은 하드웨어 장치입니다. 부트로더는 전기적 마법을 작동시켜 "죽은" 액세스 카드가 결국 작동할 수 있게 해주었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-심슨의 집을 둘러보는 동안, 웨일런은 "두 개의 부트로더가 작동 중인 것을 직접 목격했다"고 말했습니다. 부트로더는 두 대의 다이렉TV 디스크램블러에 연결되어 있었고, 웨일런은 "각 텔레비전이 수신하는 채널을 직접 확인했으며" 진술서에서 "심슨이 수신 권한이 없는 다이렉TV 유료 시청 프로그램 및 기타 채널을 볼 수 있었다"고 말했습니다. 그런 다음 웨일런은 부트로더를 FBI 요원들에게 넘겼습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-부트로더 자체는 흥미로운 기술이며, 다이렉TV는 그것들이 어떻게 작동하는지 알아내기 위해 전자 전문가들을 고용했습니다. 심슨의 경우, 회사는 엔지니어 데이비드 사이먼의 진술서를 제출했는데, 그는 "원자 부트로더"로 알려진 장치를 설명했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 장치에는 다이렉TV 수신기/디스크램블러의 액세스 카드 슬롯에 맞는 핀이 있었고; 회로 기판에는 Atmel AT90S1200 마이크로컨트롤러와 몇 개의 저항기가 있었으며; ISO 7816 스마트카드를 삽입할 수 있는 자체 단자가 있었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그가 부트로더를 오실로스코프와 로직 분석기에 연결했을 때, 사이먼은 이상한 점을 발견했습니다. 부트로더는 한 가지를 제외하고 모든 면에서 ISO 7816 사양을 따랐습니다:
-&lt;&lt;&lt;PARA&gt;&gt;
-스마트카드가 삽입되고 ISO 7816 RST(리셋) 신호가 하이로 설정된 후 ISO 7816 CLK(클록) 신호에서 정확히 522 펄스가 발생했을 때, 원자 부트로더는 삽입된 스마트카드에 전력을 공급하는 전압을 표준 5볼트에서 약 2볼트로 잠시 낮췄습니다. 이러한 "브라운아웃" 상황에서 스마트카드의 예상되는 동작은 없었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 해커들은 예상치 못한 동작을 사용하여 전압 결함을 만들어냈습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-마이크로칩은 회로의 모든 것을 동기화하기 위해 클록 펄스에 의존합니다. 부트로더의 Atmel 마이크로컨트롤러는 한 가지 임무를 수행했습니다: 스마트카드 부트 사이클의 522 클록 사이클에서 여러 저항기를 회로에 연결하는 것이었습니다. 이것이 발생하면, 디스크램블러에서 스마트카드로 흐르는 전압이 500나노초 동안 5볼트에서 2.1볼트로 떨어졌다가 표준으로 돌아왔습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 예상치 못한 낮은 전력 수준에서 스마트카드는 리셋되지 않았지만, 마이크로칩에 오류가 발생하여 해당 사이클의 명령을 완전히 실행할 수 없었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-해커들은 부트 과정의 이 시점에서 중요한 스카트카드 보안 검사가 항상 호출된다는 사실을 알아냈습니다. 이 명령을 강제로 건너뛰게 함으로써, 스마트카드는 다시 부팅되었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-사이먼은 "검은 일요일에 비활성화된 여러 P2/H 카드"를 받았고, 그는 그중 하나를 원자 부트로더에서 테스트했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 카드를 표준 스마트카드 리더기에 꽂았습니다. 부팅에 실패했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그런 다음 그는 같은 카드를 원자 부트로더에 넣었습니다; 바로 시작되었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2001년, 다이렉TV는 해적 행위에 대해 더욱 공격적으로 변하여 심슨과 같은 개인들을 상대로 100건 이상의 소송을 제기했습니다. 이 사건들의 많은 대상은 액세스 카드와 부트로더를 판매한 유통업체에 대한 급습에서 비롯되었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-당시 다이렉TV의 신호 무결성 사무국은 전 FBI 요원 래리 리슬러가 운영했습니다. 웨일런이 마이애미에서 O.J.의 집을 둘러보던 같은 달에, 리슬러는 로스앤젤레스 비즈니스 저널과의 인터뷰에서 사무국의 업무를 설명했습니다:
-&lt;&lt;&lt;PARA&gt;&gt;
-리슬러는 자신의 예산을 공개하지 않았지만, 사무실의 10명, 전국에 걸친 사설 조사관 네트워크, 리테이너를 둔 세 곳의 로펌, 그리고 다이렉TV의 엔지니어링 및 법무 부서 인력을 해적 행위 통제에 대한 회사의 헌신 증거로 지적했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-리슬러는 다이렉TV가 해커들을 쫓는 데 진지하다는 점을 분명히 하고 싶어 했습니다. 이후 녹음 및 포르노 산업도 이 모델을 따라 중간상뿐만 아니라 개인을 상대로 소송을 제기하며 동일한 진지함을 보여주려 했지만, 모두 같은 교훈을 배웠습니다: 연방 소송은 길고 복잡하며 비용이 많이 들고, 결국 많이 회수하지 못할 때가 많다는 것입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 사건에서, 급습 후 다이렉TV가 심슨을 상대로 소송을 제기하는 데 2년 이상이 걸렸고, 판결을 받는 데 또 1년 반이 걸렸습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-심슨은 적극적인 방어를 한 것으로 보이지 않습니다. 다이렉TV는 서류가 늦게 제출되거나 전혀 제출되지 않은 것에 대해 불평했습니다. 심슨은 급습 당시 자신의 집에 있는 TV가 "켜져 있지 않았다"고 주장했지만, 이것이 불법 복호화 장치를 소유하고 운영하는 문제와 무슨 관련이 있는지는 명확하지 않았습니다. 한 지점에서 그는 다이렉TV와 조정을 시도했지만, 조정자는 양측이 "교착 상태"에 도달했다고 언급했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-조안 레나드 판사는 결국 약식 판결을 통해 다이렉TV의 손을 들어주며, 배심원이 결정할 실제 사실 논쟁이 없다고 말했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-판사는 다이렉TV의 웨일런이 "각 텔레비전이 수신하는 채널을 직접 확인했으며 DTV 유료 시청 프로그램 및 기타 채널을 볼 수 있었다"고 언급했습니다. 동시에, "심슨은 플로리다 거주지에 합법적인 DTV 계정이 없었습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-심슨이 "제임스 웨일런의 진술서에 의문을 제기하는 진술서나 기타 선서 증언을 제공하지 않았고" 부트로더가 자신의 집에서 발견된 것을 인정했기 때문에, 판사는 이 문제가 매우 명확하다고 판단했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"유일한 합리적인 추론은 부트로더가 불법적으로 DTV 프로그래밍을 수신하기 위해 텔레비전에 연결되었다는 것입니다."라고 그녀는 썼습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-심슨의 변호사는 판결 후 언론에 판사가 "기본적으로 배심원 재판을 받을 우리의 권리를 부인했다… 그들은 그가 했다고 말하고, 우리는 그가 하지 않았다고 말합니다. 배심원이 그 결정을 내릴 수 있어야 합니다."라고 말했습니다. 하지만 이 불만은 거의 결과를 가져오지 못한 것 같습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-심슨의 사건이 2005년에 끝날 무렵, 다이렉TV의 대규모 소송 캠페인은 이미 줄어들고 있었습니다. 불과 몇 년 만에, 회사는 최종 사용자에게 17만 통의 요구 서한을 보내고 개인을 상대로 2만 4천 건 이상의 연방 소송을 제기했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-수사와 소송의 막대한 비용을 고려할 때, 그러한 캠페인의 가치는 종종 제공할 수 있는 억지 효과에 있다고 여겨졌습니다. 하지만 콘텐츠 산업이 법적 과잉에 빠지거나, 중립적인 기술을 표적으로 삼거나, 필연적으로 무고한 할머니를 고소하면서 엄청난 부정적인 홍보 물결도 흔한 결과였습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다이렉TV는 이미 2003년까지 이런 종류의 나쁜 평판에 직면해 있었으며, 전자 프런티어 재단으로부터 심한 비판을 받고 있었습니다. EFF에 따르면, "다이렉TV는 스마트카드 기술의 합법적 사용과 불법 사용을 구별하는 데 거의 노력을 기울이지 않았기 때문에" EFF는 "당황한 장치 구매자들로부터 수백 통의 전화와 이메일을 받았습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-이 "당황한 장치 구매자들" 중 일부는 돈을 지불했지만 나중에 후회했습니다. 함께, 그들은 다이렉TV를 상대로 연방 집단 소송을 제기하며, 회사가 사람들이 구입한 스마트카드나 부트로더로 무엇을 하고 있는지 전혀 모르면서도 요구 서한을 우편으로 보냄으로써 공갈·부패 조직법을 위반했다고 주장했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-요구 서한은 일반적으로 수취인이 다음 사항에 동의하는 한 소송이 제기되지 않을 것이라고 명시했습니다:
-&lt;&lt;&lt;PARA&gt;&gt;
-(1) 귀하가 소유, 점유 또는 통제하는 모든 불법 개조된 액세스 카드 또는 기타 위성 신호 도난 장치를 포기할 것;
-&lt;&lt;&lt;PARA&gt;&gt;
-(2) 향후 위성 프로그래밍을 얻기 위해 불법 신호 도난 장치를 구매하거나 사용하지 않을 것이며, 다이렉TV의 위성 TV 프로그래밍에 대한 무단 수신 및 사용에 관여하지 않을 것이라는 내용의 서면 진술서를 작성할 것;
-&lt;&lt;&lt;PARA&gt;&gt;
-(3) 과거의 위법 행위와 그로 인해 회사가 입은 손해에 대해 다이렉TV에 금전적 금액을 지불할 것.
-&lt;&lt;&lt;PARA&gt;&gt;
-공갈·부패 조직법 사건은 제9순회 항소법원까지 갔으며, 결국 다이렉TV가 그러한 서한을 보낼 권리가 있으며 그것이 우편 사기에 해당하지 않는다고 판결했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 다른 법원 사건들은 다이렉TV의 법적 전략에 타격을 입혔습니다. 가장 중요한 사건 중 하나는 마이크 트레워기라는 개인을 상대로 한 사건이었습니다. 그는 트레워기가 무료 다이렉TV를 시청하는 데 사용될 수 있었던 "PT2 포켓 팔 프로그래머"와 "PT2 포켓 팔 업그레이드 칩"을 구입했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-O.J. 심슨 사건에서, 초기 소송 노력 중 하나로, 다이렉TV는 수사관을 현장에 배치하여 심슨의 TV를 물리적으로 켜고 복호화된 다이렉TV 프로그래밍을 보았습니다. 하지만 이런 종류의 증거는 수집하는 데 엄청난 비용이 들었고 법 집행 기관의 도움이 필요했습니다. 대부분의 후기 다이렉TV 사건은 단순히 장치 구매 목록에 기반했습니다; 다이렉TV는 트레워기 같은 사람들이 집 안에서 실제로 무엇을 하고 있는지 전혀 몰랐습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트레워기 사건에서, 지방 법원과 제11순회 항소법원은 단순 소유가 "섹션 2512(1)(b)를 위반하여 액세스 장치를 소지한 사람에 대한 개인적 소송 권리를 창출하지 않는다"고 판결했습니다. 즉, 다이렉TV는 사람들이 카드나 부트로더를 구입했다는 이유만으로 고소할 수 없었고, 실제 불법 활동을 입증해야 했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이러한 소송 비용, 증가하는 소비자 반발, 그리고 좁아진 법적 환경 사이에서, 다이렉TV와 EFF는 2004년에 소송 캠페인을 수정하기 위한 공동 합의에 도달했습니다. EFF에 따르면:
-&lt;&lt;&lt;PARA&gt;&gt;
-회사(다이렉TV)는 더 이상 스마트카드 리더기, 라이터, 범용 프로그래머, 범용 에뮬레이터 구매만으로 사람들을 추적하지 않을 것입니다. 이 정책을 가까운 미래까지 유지하고, 실제로 위성 신호를 해적질하고 있다고 의심되는 사람들에 대해서만 소송을 제기할 것입니다. 그러나 다이렉TV는 "부트로더"와 "언루퍼"라는 별명을 가진, 주로 위성 신호 차단을 위해 설계된 장치 구매자들에 대한 조사는 계속할 것입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다이렉TV는 또한 소송 전 요구 서한을 수정하여 무고한 수신자가 어떻게 다이렉TV가 자신의 사건을 취하하도록 할 수 있는지 자세히 설명하기로 동의했습니다. 또한 회사는 접수되는 모든 실질적인 무죄 주장을 조사할 것을 약속했습니다. 구매자가 자신의 장치를 신호 도난에 사용하지 않았다는 충분한 증거를 제공하면, 다이렉TV는 그들의 사건을 기각할 것입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-결국, 기술이 다이렉TV의 접근 방식을 가장 크게 변화시켰습니다. 초기 세대의 스마트카드는 단순한 장치였고 쉽게 해킹할 수 있었지만, 2002년 4세대 P4 카드부터는 쉬운 해킹이 종말을 맞았습니다. 이 시점부터의 스마트카드는 훨씬 더 강력한 암호화 방식을 실행하는 훨씬 더 강력한 칩을 탑재했습니다. 해적률이 감소함에 따라, 다이렉TV는 최종 사용자에 대한 대규모 소송에서 멀어졌고, 기존 사건들은 종결되거나 기각되었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-개인을 상대로 한 대부분의 캠페인처럼, 이 캠페인도 큰 굉음이 아닌 작은 신음으로 끝났습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-판사가 심슨에게 불리한 판결을 내린 후, 남은 유일한 문제는 그가 얼마나 많은 손해 배상을 해야 하는지였습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다이렉TV는 두 개의 별도 법률에 따라 각각 2만 달러씩, 총 4만 달러를 요청했습니다. 판사는 심슨이 "장치를 상업적으로 또는 재판매 목적으로 사용하지 않았다"고 언급하며 전체 요청을 승인하지 않았습니다. 대신, 다이렉TV는 첫 번째 법령에 따라 1만 5천 달러의 손해 배상과 두 번째 법령에 따라 1만 달러를 받아 총 2만 5천 달러를 받았습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 더 큰 비용은 법률 비용에서 발생했습니다. 다이렉TV는 패소 후 심슨이 변호사 비용을 부담하도록 하는 신청을 제출했고, 판사는 3만 3,678달러의 법률 청구서에 동의했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-법원은 2005년 11월 29일에 최종 판결을 내리며, "주스"가 다이렉TV에 총 5만 8,678달러를 지불해야 한다고 판결했습니다. 비싸긴 했지만, 어떤 면에서 심슨은 싸게 넘어간 셈입니다. 녹음 산업이 자체 대규모 소송 캠페인을 시작했을 때, 대학생들과 미혼모들은 결국 67만 5천 달러 또는 심지어 192만 달러의 평결을 받았습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 최종 판결로, 심슨의 후기 인생을 규정했던 긴 법정 사건 행진 중 하나가 끝났습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 심슨은 곧 TV 해적 행위보다 더 큰 문제에 직면했습니다; 2년 후인 2007년 9월, 그와 무장한 남자 몇 명이 라스베이거스 팰리스 스테이션의 호텔 방에 침입하여 단 6분 만에 마침내 그를 감옥에 보낸 행위를 저질렀습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-위성 TV 해커로 낙인찍히는 것이 O.J.의 유산을 규정하지는 않을 것입니다. 기껏해야 이 이야기는 사소한 각주에 불과합니다. 하지만 반해적, 대규모 소송 캠페인이 "주스"와 같은 유명 인사를 휩쓸어 5만 8,678달러를 짜내는 경우에 무슨 일이 일어나는지 보여주는 흥미로운 예로 남아 있습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/05/the-58000-tv-bill-when-directv-sued-o-j-simpson-for-piracy/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-51985137-1152x648-1779298700.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 22 May 2026 02:00:43 +0000</pubDate></item><item><title>Rocket Report: Starship launch delayed, German launch company may aid Canada (로켓 리포트: 스타십 발사 연기, 독일 발사 회사가 캐나다를 도울 수도)</title><link>https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 23 May 2026 13:01:36 +0000</lastBuildDate><item><title>Rocket Report: Starship launch delayed, German launch company may aid Canada (로켓 리포트: 스타십 발사 연기, 독일 발사 회사가 캐나다를 도울 수도)</title><link>https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;All eyes on South Texas for the latest Starship test flight.&lt;br/&gt;(남부 텍사스에 모든 시선이 집중된 최신 스타십 시험 비행.)&lt;/p&gt;
 &lt;p&gt;Welcome to Edition 8.42 of the Rocket Report! SpaceX nearly launched its Starship rocket on Thursday amid much pomp and circumstance in South Texas, only to be foiled by a ground system issue. Such delays are to be expected, with almost entirely new hardware on both the rocket and the ground side of things. The company will try again as soon as Friday evening, and as we discuss in this week’s report, the stakes are quite high for SpaceX and much of the rest of the US spaceflight enterprise.&lt;br/&gt;(로켓 리포트 8.42호에 오신 것을 환영합니다! 스페이스X는 목요일, 남부 텍사스에서 많은 화려함과 기대 속에 스타십 로켓을 거의 발사할 뻔했지만, 지상 시스템 문제로 인해 무산되었습니다. 로켓과 지상 측면 모두 거의 완전히 새로운 하드웨어를 사용하는 상황에서 이러한 지연은 예상되는 바입니다. 스페이스X는 가능한 한 빠르면 금요일 저녁에 재시도할 예정이며, 이번 주 리포트에서 논의하듯이, 스페이스X와 미국 우주 비행 산업 전반에 걸쳐 그 stakes는 상당히 높습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -716,4 +534,88 @@ ICEYE는 금요일 Ars의 질문에 응답하지 않았습니다. 회사는 1월
 ICEYE의 데이터 제품 수석 부사장인 존 카트라이트는 "ICEYE는 침공 초기부터 우크라이나 방어팀이 신뢰할 수 있는 거의 실시간 우주 기반 정보를 얻을 수 있도록 지원한 것에 자부심을 느끼며 겸허히 생각합니다."라고 말했습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
 카트라이트는 "이번 계약은 고해상도 SAR 이미지에 대한 확실한 접근을 강화하여 우크라이나가 더 빠르고 더 확신을 가지고 결정을 내릴 수 있도록 돕습니다. ICEYE는 이러한 적대 행위에 직면한 우크라이나를 확고히 지지하며, 동맹국들이 가장 필요할 때 최상의 결정 지원 데이터를 확보할 수 있도록 함으로써 유럽의 안보를 더 폭넓게 강화하는 데 깊이 헌신하고 있습니다."라고 말했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ICEYE_anechoic_chamber_01_5x4-2560x1440.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 22 May 2026 13:50:23 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ICEYE_anechoic_chamber_01_5x4-2560x1440.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 22 May 2026 13:50:23 +0000</pubDate></item><item><title>China’s shark finning could lead to US seafood sanctions (중국 상어 지느러미 절단, 미국 해산물 제재로 이어질 가능성)</title><link>https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240037962-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;A formal petition to the US government calls for sanctions on Chinese seafood imports.&lt;br/&gt;(미국 정부에 대한 공식 청원이 중국산 해산물 수입에 대한 제재를 요구하고 나섰다.
+&lt;&lt;&lt;PARA&gt;&gt;
+중국 원양 어선에 갇힌 이주 노동자들에게, 인도양의 녹슨 갑판 위에서 격렬하게 몸부림치는 상어의 지느러미를 자르는 일은 우연이 아니다. 이는 베이징이 묵묵히 지원하면서도 전 세계 항구 검사관들로부터 은밀히 숨겨진, 피비린내 나는 5억 달러 규모의 해상 공급망의 시작을 알리는 의도적이고 수익성 높은 행위다.
+&lt;&lt;&lt;PARA&gt;&gt;
+멸종 위기 종 보호에 중점을 둔 비영리 단체인 생물다양성센터(Center for Biological Diversity)는 이달 초 공식 청원서를 제출해 미국 정부가 상어 보존 기준을 충족하지 못한 중국에 대해 잠재적으로 제재를 가할 것을 요청했다. 1970년 이후 상어 개체 수는 70% 이상 감소했으며, 모든 상어와 가오리 종의 3분의 1 이상이 현재 멸종 위기에 처해 있다. 그러나 매년 중국 국적 선박들이 수천 마리를 잡아 잔혹하게 지느러미를 자르고 버리고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 해양수산국(National Marine Fisheries Service)이 중국이 미국의 모라토리엄 보호법(Moratorium Protection Act)을 위반했다고 판단할 경우, 트럼프 대통령이 15억 달러에 달하는 모든 중국산 해산물 수입을 금지할 것으로 예상된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“상어를 잃는 것은 생태적 재앙일 뿐만 아니라 심각한 도덕적 실패일 것입니다.”라고 생물다양성센터의 선임 과학자인 알렉스 올리베라(Alex Olivera)는 이메일에서 말했다. “상어는 수억 년 동안 생존해 왔으며, 정부가 기본적인 보존 규칙을 시행하지 못해 수십 년 만에 사라진다면 비극이 될 것입니다.”
+&lt;&lt;&lt;PARA&gt;&gt;
+상어는 성장이 느리고 성숙이 늦으며 새끼를 적게 낳기 때문에 남획에 취약하다. 그러나 매년 약 8천만 마리가 의도적으로 또는 혼획(bycatch)으로 잡혀 죽임을 당하는 것으로 추정된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2000년 이후 미국에서 불법화된 지느러미 절단(finning)은 지느러미가 없는 상태로 상어를 바다에 다시 버리는 행위로, 청원서에 따르면 “느리고 고통스러운 죽음”을 초래한다. 절단된 상어들이 천천히 바다 밑으로 가라앉아 죽어가는 동안, 지느러미 절단 비율은 최근 수십 년간 증가해 왔다. 수요는 주로 동아시아와 동남아시아에서 상어 지느러미 수프와 전통 의약품에 대한 수요 증가에 의해 주도되고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+중국 공식 데이터에 따르면, 2023년에 서부 및 중앙 태평양 지역에서만 10,000마리 이상의 청상아리(blue shark)와 거의 1,700마리의 단수명마코상어(shortfin mako shark)가 선원들에 의해 버려졌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국과 90개 이상의 다른 관할 구역에서는 어부들이 지느러미가 자연적으로 붙어 있는 상태로 상어 전체를 항구에 반입하도록 요구하는 반면(지느러미 절단을 막는 유일한 방법으로 널리 인정됨), 중국은 그렇지 않다. 중국은 기술적으로 이 관행을 금지했지만, 여전히 많은 어업에서 항구 반입 시 상어 전체 체중의 일정 비율(보통 5%)을 초과하지 않는 한 지느러미를 제거하는 것을 허용한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+환경 보호론자들은 이러한 비율 기반 규정이 비효율적이며, 종 간의 생물학적 차이를 무시하고, 정확하게 시행하기 어렵다고 강조한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“지느러미가 몸통에서 분리되면, 검사관들은 어떤 지느러미가 어떤 상어에 속하는지, 보호 종이 섞여 있는지, 아니면 몸통이 그냥 바다에 버려졌는지 파악하는 데 엄청난 어려움을 겪습니다.”라고 올리베라는 말했다. “이는 실제 단속을 안전한 관리 체인이 아닌 수학 게임으로 만들어 버립니다.”
+&lt;&lt;&lt;PARA&gt;&gt;
+청원서는 “지느러미가 자연적으로 붙어 있는” 반입 정책 없이는 세계 최대 규모의 중국 어선단이 미국의 보존 기준을 충족하지 못하며, 따라서 모라토리엄 보호법의 요구 사항을 충족하지 못한다고 주장한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+논평 요청에 대해 주미 중국 대사관 대변인은 인사이드 클라이밋 뉴스(Inside Climate News)에 “중국은 과학에 기반한 국제 수산 자원의 보존과 지속 가능한 이용에 깊이 헌신하고 있다”고 말했다. 대변인은 중국이 국제법, 엄격한 선박 모니터링, 그리고 지역 수산 관리 기구의 회원 자격 요건을 따르고 있다고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 대변인은 생물다양성센터의 청원과 관련된 “구체적인 상황에 대해 잘 알지 못한다”고 말했으며, 상어, 지느러미 절단 또는 해산물 제재 위협에 대해서는 언급하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+상어 과학자이자 과학 커뮤니케이터인 헤이디 마르티네즈(Heidy Martínez)는 상어 지느러미 절단은 “이 고대의 장엄한 동물들을 우리에게 이익을 주기 위해 존재하는 상품으로 얼마나 보고 있는지를 정말로 보여준다”고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“이는 어업 내의 많은 잔혹하고 지속 불가능하며 낭비적인 관행을 부각시킵니다.”라고 그녀는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마르티네즈는 상어 지느러미 절단이 충격적인 요소로 인해 가장 큰 주목을 받는 경우가 많지만, 상어가 직면한 가장 큰 위협은 남획과 혼획이라는 점에 주목하는 것이 중요하다고 말했다. 샤크 트러스트(Shark Trust)에 따르면, 상어 종의 100%가 남획의 영향을 받고 있으며, 상어와 가오리 종의 67%에게는 남획이 유일하게 기록된 위협이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+혼획(bycatch)은 어부들이 거대한 그물이나 수천 개의 미끼가 달린 긴 줄을 사용할 때 실수로 걸려드는 물고기와 기타 해양 동물을 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 환경정의재단(Environmental Justice Foundation, EJF)의 2024년과 2026년 인터뷰는 중국 상어 지느러미 절단 산업의 광범위하고 파괴적인 실태를 드러냈다. 남서 인도양에서 중국 원양 선박에서 일하는 선원들 중, 인터뷰에 응한 80%가 상어 지느러미 절단에 참여했다고 보고했다. 동남 태평양에서 중국 오징어 채낚기 어선에 승선한 선원의 60%는 상어가 생존에 필수적인 수단 없이 바다로 되돌려지는 것을 목격했다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+선원들은 청상아리, 호랑이상어, 큰눈망치상어(pelagic thresher) 및 최소 6종 이상의 의도적으로 표적이 된 종들을 확인했다. 2022년 7월 중국 오징어 잡이 배에서 일하던 한 인도네시아 어부는 “상어가 걸리면 들어 올린 다음 지느러미를 잘랐다”고 말했다. “대부분의 [중국인]들은 즉시 골수를 삼켰고, 지느러미는 햇볕에 말렸습니다.”
+&lt;&lt;&lt;PARA&gt;&gt;
+또 다른 선원은 피가 흐르지만 살아있는 상어를 바다에 다시 던지는 행위를 “가학적”이라고 묘사했으며, 다른 이들은 특별 격실이나 숨겨진 지느러미 냉동고를 이용해 국제 당국의 단속을 피하는 숨바꼭질 게임에 대해 언급했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+인간의 고통 또한 마찬가지로 끔찍하다. EJF에 따르면 지느러미 절단을 자행하는 중국 원양 어선에는 인권 침해가 만연한 경우가 많다. 강제 노동, 선원 구타, 열악한 생활 환경, 치명적인 사고도 드물지 않다. 바다에 몇 달 또는 몇 년 동안 갇힌 선원들은 불법적으로 상어 지느러미를 자르고, 물개를 작살로 잡아 검은 시장에 털과 송곳니를 팔거나, 거짓 범고래(false killer whales)를 잡아 기념품으로 판매하도록 강요받는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+근로자 학대 혐의와 관련해 중국 대사관은 베이징이 “근로자의 합법적 권리와 이익을 보호하는 것을 매우 중요하게 생각하며 항상 중국 기업이 법규를 준수하도록 요구한다”고 주장했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마르티네즈는 일반 대중이 이러한 선사시대 동물을 더 잘 이해했으면 좋겠다고 말했다. “상어는 어류에 속하기 때문에, 포유류와는 다르게 우리에게 자신의 경험을 전달합니다.” 돌고래나 바다사자의 사람과 같은 눈과 행동은 사람들이 그들에게 자신을 투영하기 쉽게 만들지만, 사람들이 상어에게 자연스럽게 공감하기는 더 어렵다고 마르티네즈는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+수확된 지느러미는 세계 최대의 상어 지느러미 거래 허브 역할을 하는 중국의 특별행정구인 홍콩으로 자주 운송된다. 2014년부터 2021년까지 홍콩으로 수입된 지느러미의 DNA 분석 결과, 멸종위기종 국제거래협약(CITES) 목록에 등재된 최소 4종(귀상어, 홍살귀상어, 큰귀상어, 긴수염상어)의 존재가 확인되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+생물다양성센터에 따르면, 중국이 상어 지느러미 제품의 소유, 운송 및 판매를 금지하지 않는 것은 미국 모라토리엄 보호법에 대한 추가적인 위반이다. 중국 공식 행사에서 상어 지느러미 요리를 제공하는 것에 대한 제한이 있지만, 이는 전국적인 금지를 구성하지 않는다고 보고서는 결론지었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“중국이 상응하는 보호 조치를 채택하기를 거부한다면, 미국은 의회가 제공한 수입 제한을 포함한 도구를 사용해야 합니다.”라고 올리베라는 말했으며, 이상적인 결과는 중국이 미국 법률과 유사한 상어 보존 조치를 채택하는 것이라고 강조했다. “청원서의 요점은 상어 보존 기준을 선택 사항이 아닌 현실로 만드는 것입니다.”
+&lt;&lt;&lt;PARA&gt;&gt;
+“우리가 바다에 가하는 수요 수준은 단순히 계속될 수 없습니다.”라고, 남아프리카에서 처음으로 백상아리를 직접 만난 경험이 있는 마르티네즈는 말했다. “상어 지느러미 절단은 그 더 큰 이야기의 일부이며, 우리가 얼마나 깊이 바다를 착취해 왔는지를 반영합니다.”
+&lt;&lt;&lt;PARA&gt;&gt;
+이 기사는 원래 기후, 에너지 및 환경을 다루는 비영리, 초당파 뉴스 조직인 인사이드 클라이밋 뉴스(Inside Climate News)에 게재되었습니다. 뉴스레터를 구독하려면 여기를 클릭하세요.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240037962-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Sat, 23 May 2026 02:00:25 +0000</pubDate></item><item><title>Two space shuttle-era spacewalkers enter Astronaut Hall of Fame (우주 왕복선 시대의 두 우주 유영 우주비행사, 우주인 명예의 전당에 헌액되다)</title><link>https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/news-051626b-lg-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;“Two astronauts whose careers embody excellence, leadership, and service.”&lt;br/&gt;("우수성, 리더십, 그리고 봉사를 구현한 경력을 가진 두 우주비행사.")&lt;/p&gt;
+&lt;p&gt;Tom Akers and Joe Tanner are finally in the same class.&lt;br/&gt;(톰 에이커스와 조 태너가 드디어 같은 반에 들었다.)&lt;/p&gt;
+&lt;p&gt;The two veteran space shuttle crew members were inducted into the US Astronaut Hall of Fame together on May 16. They could also have been in the same NASA astronaut selection group, too, had history played out a little differently.&lt;br/&gt;(베테랑 우주 왕복선 승무원 두 명이 5월 16일 함께 미국 우주인 명예의 전당에 헌액되었다. 역사가 조금만 달랐더라면 그들은 같은 NASA 우주비행사 선발 그룹에 속할 수도 있었다.)&lt;/p&gt;
+&lt;p&gt;In 1984, Tanner reported to the Johnson Space Center (JSC) to fly as an instructor pilot and then applied for the next class of astronaut candidates.&lt;br/&gt;(1984년, 태너는 존슨 우주 센터(JSC)에 교관 파일럿으로 비행하기 위해 보고한 후, 다음 우주비행사 후보자 선발에 지원했다.)&lt;/p&gt;
+&lt;p&gt;“Tom came in with the class of 1987, which, interestingly enough, I interviewed for. He made it, and I didn’t,” said Tanner.&lt;br/&gt;("톰은 1987년 기수로 들어왔는데, 흥미롭게도 제가 면접을 봤던 기수였죠. 그는 합격했고, 저는 떨어졌습니다."라고 태너가 말했다.)&lt;/p&gt;
+&lt;p&gt;“And I’ve been leading the way ever since,” said Akers, interrupting Tanner while both laughed in a joint interview with collectSPACE.com. “I have never understood why it took NASA so long to pick him.” (Tanner became an astronaut in 1992.)&lt;br/&gt;("그리고 그 이후로 제가 계속 선두를 달리고 있죠." collectSPACE.com과의 공동 인터뷰에서 웃으며 태너의 말을 가로막은 에이커스가 말했다. "왜 NASA가 그를 뽑는 데 그렇게 오래 걸렸는지 한 번도 이해한 적이 없습니다." (태너는 1992년에 우주비행사가 되었다.))&lt;/p&gt;
+&lt;p&gt;Akers’ and Tanner’s spaceflight careers overlapped by five years and included four missions each. Although they never launched into Earth orbit together, they flew numerous T-38 jet training flights and knew each other well.&lt;br/&gt;(에이커스와 태너의 우주 비행 경력은 5년 동안 겹쳤으며 각각 4번의 임무를 수행했다. 그들은 함께 지구 궤도로 발사된 적은 없었지만, 수많은 T-38 제트 훈련 비행을 함께했고 서로를 잘 알고 있었다.)&lt;/p&gt;
+&lt;p&gt;“Our families were friends,” said Akers. “We went to the same church, so we were more social friends than work friends at JSC.”&lt;br/&gt;("우리 가족들은 친구 사이였어요."라고 에이커스가 말했다. "같은 교회에 다녔기 때문에, JSC에서는 업무 친구라기보다 사교적인 친구에 가까웠죠.")&lt;/p&gt;
+&lt;p&gt;Twenty years after the last of their flights returned from space, Akers and Tanner were finally side by side under the Kennedy Space Center Visitor Complex’s display of the retired space shuttle Atlantis —a vehicle on which both rode—to be inducted into the Astronaut Hall of Fame as the class of 2026.&lt;br/&gt;(마지막 비행이 우주에서 귀환한 지 20년 후, 에이커스와 태너는 마침내 케네디 우주 센터 방문자 단지에 전시된 퇴역 우주 왕복선 아틀란티스(둘 다 탑승했던) 아래 나란히 서서 2026년 기수로 우주인 명예의 전당에 헌액되었다.)&lt;/p&gt;
+&lt;p&gt;“It was something I was aware of as a possibility, but had never really given thought I would get inducted, said Akers. “So it was a pleasant surprise for sure.”&lt;br/&gt;("가능성으로 인지하고 있었지만, 제가 헌액될 거라고는 전혀 생각하지 못했어요."라고 에이커스가 말했다. "그래서 정말 기분 좋은 놀라움이었죠.")&lt;/p&gt;
+&lt;p&gt;“We both knew we were on the ballot,” said Tanner. “I had been on the [nominee] ballot with Tom for 10 years.”&lt;br/&gt;("우리 둘 다 후보 명단에 올랐다는 걸 알고 있었어요."라고 태너가 말했다. "저는 톰과 함께 [후보] 명단에 10년 동안 있었거든요.")&lt;/p&gt;
+&lt;p&gt;The induction ceremony coincided with the 34th anniversary of Akers’ landing from what may have been his most famous mission. On May 16, 1992, he touched down on the space shuttle Endeavour after becoming one-third of the only three-person spacewalk in history.&lt;br/&gt;(헌액식은 아마도 그의 가장 유명한 임무였을 에이커스의 착륙 34주년과 같은 날이었다. 1992년 5월 16일, 그는 역사상 유일한 세 명의 우주 유영 중 한 명이 된 후 우주 왕복선 엔데버에서 착륙했다.)&lt;/p&gt;
+&lt;p&gt;Akers, together with his STS-49 crewmates Rick Hieb and Pierre Thuot, reached up with their gloved hands to grab hold of and secure a communications satellite in the orbiter’s payload bay.&lt;br/&gt;(에이커스는 STS-49 승무원인 릭 하이브, 피에르 투오트와 함께 장갑 낀 손을 뻗어 궤도선의 화물칸에 있는 통신 위성을 붙잡아 고정시켰다.)&lt;/p&gt;
+&lt;p&gt;“All of our spacewalks are designed really for two people; the system really isn’t made where it’s easy for three people,” Akers told collectSPACE. “That was a unique situation where we couldn’t get the capture bar on the Intelsat VI, and the ground [controllers] and our crew came up with the idea of three people going out. With the teamwork and great ground team support, it worked slick.”&lt;br/&gt;("우리의 모든 우주 유영은 기본적으로 두 명을 위해 설계되었습니다. 시스템이 세 명이 쉽게 활동할 수 있도록 만들어진 게 아니거든요." 에이커스가 collectSPACE에 말했다. "인텔샛 VI에 포획 바를 장착할 수 없어서 지상 [관제사]과 우리 승무원이 세 명이 나가자는 아이디어를 냈던 독특한 상황이었습니다. 팀워크와 훌륭한 지상 팀의 지원 덕분에 아주 매끄럽게 진행됐어요.")&lt;/p&gt;
+&lt;p&gt;Akers and Tanner both conducted spacewalks to repair and upgrade the Hubble Space Telescope (HST), carefully manipulating delicate optical instruments in a closely confined area. Tanner also helped assemble the large backbone truss and solar arrays wings for the International Space Station (ISS).&lt;br/&gt;(에이커스와 태너는 모두 허블 우주 망원경(HST)을 수리하고 업그레이드하기 위해 우주 유영을 수행했으며, 좁은 공간에서 섬세한 광학 기기들을 조심스럽게 다루었다. 태너는 또한 국제 우주 정거장(ISS)의 큰 백본 트러스와 태양 전지판 날개 조립을 도왔다.)&lt;/p&gt;
+&lt;p&gt;“I have often been asked what is the difference between ISS and an HST EVA [extravehicular activity], and I think it’s hands and overall physical effort,” said Tanner. “Manual dexterity in your hands was more important for HST, and for ISS, you’re hauling around some pretty big, heavy objects and maneuvering a long way. That’s the biggest difference.”&lt;br/&gt;("저는 ISS와 HST EVA(선외 활동)의 차이점이 무엇이냐는 질문을 자주 받는데, 제 생각엔 손과 전반적인 신체적 노력의 차이인 것 같아요."라고 태너가 말했다. "HST는 손의 손재주가 더 중요했고, ISS는 꽤 크고 무거운 물체를 운반하고 먼 거리를 이동해야 했습니다. 그것이 가장 큰 차이점이죠.")&lt;/p&gt;
+&lt;p&gt;In total, Akers spent almost 30 hours of his nearly 34 days in space conducting spacewalks. Tanner logged 43 days, including 46 and a half hours on EVAs.&lt;br/&gt;(총 34일에 가까운 우주 체류 기간 중 에이커스는 거의 30시간을 우주 유영에 보냈다. 태너는 43일을 기록했으며, 그중 46시간 30분은 EVA에 사용했다.)&lt;/p&gt;
+&lt;p&gt;Saturday’s ceremony was led by news correspondent John Zarella and included remarks by Curt Brown, board chairman of the Astronaut Scholarship Foundation, which manages the nominee and selection process each year; Therrin Protze, chief operating officer of the visitor complex; and Kelvin Manning, deputy director for NASA’s Kennedy Space Center.&lt;br/&gt;(토요일의 헌액식은 뉴스 특파원 존 자렐라가 진행했으며, 매년 후보 지명 및 선발 과정을 관리하는 우주비행사 장학 재단의 이사회 의장 커트 브라운, 방문자 단지의 최고 운영 책임자 테린 프로체, NASA 케네디 우주 센터 부국장 켈빈 매닝의 축사가 포함되었다.)&lt;/p&gt;
+&lt;p&gt;“Today’s induction of Tom Akers and Joe Tanner honors two astronauts whose careers embody excellence, leadership, and service,” said Brown, who became a NASA astronaut in the same class as Akers and flew with Tanner on Atlantis. “Their lasting contributions to NASA, and their ongoing work as educators and mentors, reflect the very best of the US space program.”&lt;br/&gt;("오늘 톰 에이커스와 조 태너의 헌액은 우수성, 리더십, 그리고 봉사를 구현한 경력을 가진 두 우주비행사를 기리는 것입니다."라고 에이커스와 같은 기수에 NASA 우주비행사가 되었고 아틀란티스에서 태너와 함께 비행한 브라운이 말했다. "그들의 NASA에 대한 지속적인 기여와 교육자 및 멘토로서의 현재 활동은 미국 우주 프로그램의 최고를 반영합니다.")&lt;/p&gt;
+&lt;p&gt;“We’re proud to welcome them into the US Astronaut Hall of Fame,” said Brown, who is a member of the 2013 class .&lt;br/&gt;("그들을 미국 우주인 명예의 전당에 환영하게 되어 자랑스럽습니다."라고 2013년 기수인 브라운이 말했다.)&lt;/p&gt;
+&lt;p&gt;Brian Duffy, class of 2016 , formally inducted Akers, presenting him with his Hall of Fame medal. Chris Ferguson, who flew as the pilot of Tanner’s last mission, STS-115 , and who was inducted in 2022 , honored his former crewmate similarly. Some 20 veteran NASA astronauts, including 15 other Hall of Fame members, attended the event.&lt;br/&gt;(2016년 기수인 브라이언 더피가 에이커스를 정식으로 헌액하며 명예의 전당 메달을 수여했다. 태너의 마지막 임무인 STS-115의 조종사로 비행했으며 2022년에 헌액된 크리스 퍼거슨도 이전 동료에게 비슷한 영예를 안겼다. 15명의 다른 명예의 전당 회원을 포함한 약 20명의 베테랑 NASA 우주비행사들이 행사에 참석했다.)&lt;/p&gt;
+&lt;p&gt;The ceremony also included the unveiling of the etched-glass portraits and mission patch displays, which will next hang alongside the 111 other similar plaques representing the inductees. Founded in 1990, the US Astronaut Hall of Fame has been a feature of the Heroes &amp; Legends attraction at the Kennedy Space Center Visitor Complex since 2016.&lt;br/&gt;(헌액식에는 에칭 유리 초상화와 임무 패치 전시물의 공개도 포함되었으며, 이는 기존의 111개의 다른 명판들과 함께 전시될 예정이다. 1990년에 설립된 미국 우주인 명예의 전당은 2016년부터 케네디 우주 센터 방문자 단지의 '영웅과 전설' 어트랙션의 일부가 되었다.)&lt;/p&gt;
+&lt;p&gt;Listing image:
+    Kennedy Space Center Visitor Complex&lt;br/&gt;(출처 이미지:
+    케네디 우주 센터 방문자 단지)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/news-051626b-lg-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Sat, 23 May 2026 02:30:35 +0000</pubDate></item></channel></rss>
