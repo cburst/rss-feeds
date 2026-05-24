@@ -1,33 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 24 May 2026 11:48:32 +0000</lastBuildDate><item><title>First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged. (처음엔 백신, 이번엔 유방조영술? RFK 주니어의 최근 해고에 의사들 분노.)</title><link>https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-2048x1366.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Doctors are angry and alarmed that preventive care could go the way of vaccines.&lt;br/&gt;(의사들은 예방 의료 서비스가 백신과 같은 운명을 맞을 수 있다는 사실에 분노하고 우려하고 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-유명 의료 단체들은 백신 반대론자인 로버트 F. 케네디 주니어 보건부 장관이 유방조영술, 대장내시경, 스타틴 사용, 우울증 검진 등 예방 의료에 대한 권고안을 마련하고 보험 적용 범위를 결정하는 영향력 있는 위원회의 지도자 두 명을 해고한 데 대해 분노하고 우려하고 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-수요일, 케네디가 미국 예방 서비스 태스크포스(USPSTF)의 부위원장 두 명을 해고했다는 소식이 전해졌고, 이로 인해 초당파적인 이 중요 위원회는 절반이 공석이 되었습니다. 일반적으로 태스크포스는 16명의 독립적인 자원봉사 예방 의학 전문가로 구성되며, 이들은 4년 임기로 활동하되 임기가 서로 엇갈리게 구성됩니다. 그러나 이번 해고로 USPSTF에는 위원장과 부위원장 직위를 포함해 8개의 공석이 생겼습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-케네디는 이미 연초에 임기가 만료된 위원들을 교체하지 않아 태스크포스의 활동을 저해했으며, 지난 1년간 태스포크스 회의를 열지 못하게 하고, 자궁경부암 검진을 위한 자가 채취 검체에 대한 최종 권고안 발표를 막는 등 USPSTF의 업무를 훼손해 왔습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 해고로 의사들은 USPSTF가 질병통제예방센터(CDC)를 위한 백신 권고를 담당하는 예방접종 자문위원회(ACIP)와 같은 길을 걸을까 두려워하고 있습니다. 즉, 케네디가 전문가 위원들을 제거하고 자격 없는 측근들로 대체하며 비주류적이거나 정치화된 권고안을 밀어붙일 것이라는 우려입니다. 태스크포스에 대한 이러한 손상은 수백만 미국인의 생명을 구하는 예방 서비스 이용을 위태롭게 할 수 있습니다. '환자 보호 및 합리적 의료비 부담에 관한 법률(Affordable Care Act)'에 따라 대부분의 건강보험 플랜은 USPSTF가 'A' 또는 'B' 등급(혜택에 대한 증거 기반의 확실성을 반영)을 매긴 권장 예방 서비스를 보장해야 합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-수요일 성명에서 미국의사협회(AMA) 회장 바비 무카말라는 해당 조직이 이번 해고에 대해 "매우 우려하고 있다"고 밝혔습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-무카말라는 "오늘의 변화는 앞서 예방접종 자문위원회(ACIP)가 해체되면서 예고된 바 있습니다. 우리는 보건복지부(HHS)에 USPSTF의 오랜 투명한 위원 선출 과정, 특히 예방 의학 및 일차 진료 분야의 전문 지식을 갖춘 임상의를 선출하는 방식을 복원할 것을 강력히 촉구합니다. 또한 HHS에 정기적인 태스크포스 회의를 다시 개최하여 중요한 업무가 더 이상 지체 없이 계속될 수 있도록 할 것을 간청합니다. 우리 환자들의 생명이 이에 달려 있습니다."라고 말했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-마찬가지로, 미국내과학회(ACP) 회장 잔 카니는 두 명의 의사가 태스크포스에서 해고된 것에 대해 분노하면서 해당 단체가 "경악했다"고 밝혔습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-카니는 "두 의사 모두 고도로 자격을 갖춘 전문가이며, 케네디 장관이 태스크포스 위원들에 대해 실시했다는 어떤 검토 과정에서 투명성이 결여된 점에 대해 문제를 제기합니다. 이번 해고는 태스크포스가 지난 1년 동안 한 번도 회의를 갖지 못했고, 미국 대중이 예방 의료 서비스에 대해 이용 가능한 최고의 증거에 기반한 최신 지침을 확보할 수 있도록 하는 업무를 수행하지 못하도록 막혀 있던 상황에서 이루어졌습니다. USPSTF의 지침은 건강한 미국을 위해 매우 중요하며, 그 위원 구성이나 절차가 정치화되는 것을 용납해서는 안 됩니다."라고 말했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-해고된 두 USPSTF 위원은 터프츠 대학교 의과대학 교수인 존 웡과 메릴랜드 대학교 의과대학 교수인 에사 데이비스입니다. 보도에 따르면, 그들은 케네디가 5월 11일자로 보낸 편지를 받았으며, 편지에는 "즉시 효력이 발생한다"는 해고 통보가 포함되어 있었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-해고 사유에 대해 편지는 "이 조치는 행정적 성격을 띠며, 귀하의 업무 성과나 태스크포스를 위한 수년간의 헌신적인 봉사와는 무관합니다. 이는 귀하의 리더십이나 기여에 기반한 해임으로 이해되어서는 안 됩니다. 반대로, 보건복지부는 태스크포스를 보호하고 그 업무의 연속성과 지속 가능성에 대한 신뢰를 유지하기 위해 이 조치를 취하는 것입니다."라고 밝혔습니다. 또한 해고는 "미래의 태스크포스 조치의 타당성을 위태롭게 할 수 있는 불확실성을 피하기 위한 것"이라고 덧붙였습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-의사들은 반발하며 이메일 교환과 트럼프 행정부 관료와의 회의를 가졌지만, 해고에 대한 정당성은 여전히 불분명했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-케네디는 이전에 USPSTF를 "너무 정치적으로 편향되었으며", "20년 동안 나태하고 태만했다"고 비난한 바 있습니다. 또한 그는 이전에 패널을 축출할 계획을 공개하기도 했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이제 의사들은 태스크포스를 보호하기 위한 행동을 촉구하고 있습니다. 전 USPSTF 위원장 마이클 실버스타인은 뉴욕 타임즈에 "행정부는 어린이 예방접종을 공격했고, 이제는 유방조영술과 다른 암 검진을 공격하고 있습니다. 의료계는 이 같은 일이 일어나도록 방치할 수 없습니다."라고 말했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-2048x1366.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 22 May 2026 02:30:38 +0000</pubDate></item><item><title>AI put “synthetic quotes” in his book. But this author wants to keep using it. (AI가 그의 책에 "합성 인용문"을 넣었다. 하지만 이 저자는 계속 사용하고 싶어 한다.)</title><link>https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-fabricated-quotes-Rosenbaum-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 24 May 2026 13:52:42 +0000</lastBuildDate><item><title>AI put “synthetic quotes” in his book. But this author wants to keep using it. (AI가 그의 책에 "합성 인용문"을 넣었다. 하지만 이 저자는 계속 사용하고 싶어 한다.)</title><link>https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-fabricated-quotes-Rosenbaum-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Steven Rosenbaum explains how inaccurate quotes got into his book The Future of Truth .&lt;br/&gt;(스티븐 로젠바움이 자신의 책 《진실의 미래》에 부정확한 인용문이 어떻게 들어갔는지 설명한다.)&lt;/p&gt;
 &lt;p&gt;Journalist and author Steven Rosenbaum has more reasons than most to distrust AI.&lt;br/&gt;(저널리스트이자 저자인 스티븐 로젠바움은 대부분의 사람들보다 AI를 불신할 이유가 더 많다.)&lt;/p&gt;
 &lt;p&gt;His new book, The Future of Truth: How AI Reshapes Reality , is all about “how Truth is being bent, blurred, and synthesized” thanks to the “pressure of fast-moving, profit-driven AI.” Yet a New York Times investigation this week found what Rosenbaum now acknowledges are “a handful of improperly attributed or synthetic quotes” linked to his use of AI tools while researching the book.&lt;br/&gt;(그의 새 책 《진실의 미래: AI가 현실을 어떻게 재구성하는가》는 "빠르게 움직이고 이윤을 좇는 AI의 압력" 덕분에 "진실이 어떻게 왜곡되고, 흐려지고, 합성되는지"에 관한 내용이다. 그러나 이번 주 뉴욕타임스 조사에 따르면 로젠바움은 책을 조사하는 동안 AI 도구를 사용한 것과 관련된 "부적절하게 출처가 표기되었거나 합성된 인용문 몇 개"가 있음을 인정했다.
@@ -595,4 +567,41 @@ ICEYE의 데이터 제품 수석 부사장인 존 카트라이트는 "ICEYE는 �
 &lt;p&gt;But there’s still more work ahead for SpaceX to perfect the Raptor 3 engine, and skipping the engine relight in space will likely prevent SpaceX from attempting a full orbital flight of Starship on the next launch. All 12 of SpaceX’s Starship test flights to date have flown on suborbital trajectories. Officials want to ensure they can guide Starship back to Earth before putting a vehicle into orbit because an unguided reentry could endanger the public with falling debris. Starship, after all, is the world’s largest and most massive spacecraft other than the International Space Station.&lt;br/&gt;(그러나 스페이스X가 랩터 3 엔진을 완벽하게 만들기 위해 아직 더 많은 작업이 남아 있으며, 우주에서 엔진 재점화를 건너뛰는 것은 아마도 다음 발사에서 스타십의 완전한 궤도 비행을 시도하는 것을 막을 것이다. 지금까지 스페이스X의 스타십 시험 비행 12번 모두 준궤도 궤적을 비행했다. 관계자들은 우주선을 궤도에 올리기 전에 지구로 안내할 수 있는지 확인하기를 원하는데, 이는 무유도 재진입이 낙하 파편으로 대중을 위험에 빠뜨릴 수 있기 때문이다. 결국, 스타십은 국제우주정거장을 제외하고 세계에서 가장 크고 가장 무거운 우주선이다.)&lt;/p&gt;
 &lt;p&gt;A perfect performance on Flight 12 may have given engineers the data they need for an orbital flight on the next launch, and perhaps even attempt to bring Starship back to the launch site in Texas for a catch by giant mechanical arms on the launch tower. An orbital flight would also move SpaceX closer to beginning critical orbital refueling tests for NASA’s Artemis program, along with deploying real Starlink satellites from Starship.&lt;br/&gt;(12번 비행에서 완벽한 성능은 엔지니어들에게 다음 발사에서 궤도 비행에 필요한 데이터를 제공했을 수 있으며, 아마도 스타십을 텍사스의 발사장으로 다시 가져와 발사 타워의 거대한 기계식 팔로 잡는 시도까지 할 수 있을 것이다. 궤도 비행은 또한 스페이스X가 NASA의 아르테미스 프로그램을 위한 중요한 궤도 연료 보급 테스트를 시작하고, 스타십에서 실제 스타링크 위성을 배치하는 데 더 가까워지게 할 것이다.)&lt;/p&gt;
 &lt;p&gt;The results from Friday’s flight show there’s still room for improvement, but SpaceX will be ready to chase perfection again soon. The company has more ships and boosters on track for test flights later this summer.&lt;br/&gt;(금요일 비행의 결과는 여전히 개선의 여지가 있음을 보여주지만, 스페이스X는 곧 다시 완벽을 추구할 준비가 될 것이다. 회사는 이번 여름 후반에 시험 비행을 위해 더 많은 우주선과 부스터를 준비하고 있다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/starshipflight12_inflight-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Sat, 23 May 2026 08:54:54 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/starshipflight12_inflight-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Sat, 23 May 2026 08:54:54 +0000</pubDate></item><item><title>Whatever the mirror test tells us, beluga whales pass it (거울 실험이 무엇을 말해주든, 흰고래는 이를 통과한다)</title><link>https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-547332154-2560x1440.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The white whales join the short, contested list of animals that see themselves.&lt;br/&gt;(흰고래는 자신을 인식하는 동물의 짧고 논쟁적인 목록에 합류했다.)&lt;/p&gt;
+&lt;p&gt;In hours of underwater video footage from a New York aquarium, a beluga whale named Natasha stretches her neck, pirouettes, nods, and shakes her head in front of a two-way mirror. Her daughter Maris does much the same. According to a new study published in PLOS One , both animals show the behavioral hallmarks of mirror self-recognition—a cognitive ability long considered a marker of self-awareness, and one that had never before been documented in beluga whales.&lt;br/&gt;(뉴욕 수족관의 수중 비디오 영상에서 나타샤라는 이름의 흰고래는 양방향 거울 앞에서 목을 늘이고, 회전하고, 고개를 끄덕이고 흔든다. 그녀의 딸 마리스도 거의 같은 행동을 한다. *PLOS One*에 발표된 새로운 연구에 따르면, 두 동물 모두 거울 자기 인식의 행동적 특징을 보여준다. 이는 오랫동안 자기 인식의 표지자로 여겨져 온 인지 능력으로, 흰고래에서는 이전에 기록된 적이 없었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 결과가 유효하다면, 흰고래는 놀랍도록 짧은 목록에 합류한다. 거울 자기 인식 검사(MSR)는 다양한 신뢰도 수준으로 인간(약 2세부터 시작), 소수의 유인원(침팬지, 보노보, 오랑우탄, 그리고 다소 논란의 여지가 있는 고릴라), 아시아 코끼리, 큰돌고래, 아마도 까치, 가능하게는 범고래, 그리고 믿기 힘들겠지만 청소놀래기(cleaner wrasse)에 의해 통과되었다. 그게 전부다. 개도, 고양이도, 원숭이도 없다. 우리가 자기 인식이 있다고 가정했던 많은 종들이 검사를 받았지만 실패했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그렇다면 이 검사는 정확히 무엇이며, 우리에게 무엇을 말해주려는 것일까?
+&lt;&lt;&lt;PARA&gt;&gt;
+절차는 이렇다: 동물이 보고 있지 않을 때, 연구자들은 반사를 통해서만 볼 수 있는 부위에 표시를 한다. 그런 다음 연구자들이 지켜보는 가운데 거울을 동물 앞에 놓는다. 동물이 반사된 자신의 모습을 보면서 표시를 만지거나 살펴보면, 거울 속 형상이 자기 자신임을 이해하는 것이다. 이 검사는 직관적이고 수행하기 쉽지만, 거의 어떤 종도 통과하지 못한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+왜 이것이 자기 인식에 대한 검사일까? 심리학자 고든 갤럽(1970년에 이 검사를 고안한 사람)으로 거슬러 올라가는 논리는, 거울을 자신의 몸을 검사하는 도구로 사용하려면 자신을 별개의 실체로 보는 정신적 표상이 필요하다는 것이다. 이런 설명에서, 은도금 유리 조각은 많은 인지적 문을 열 수 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+갤럽 자신은 엄격한 평가자다. 수십 년에 걸쳐 많은 긍정적인 결과가 발표되었지만, 그는 대부분에 대해 반박해왔다. 동물이 명확한 자기 지향 행동(적극적으로 표시를 만지거나 살펴보려는 시도)을 보여주지 않으면, 그의 관점에서는 검사가 실패한 것이다. 그 기준에서 볼 때, 흰고래 결과는 경계선에 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+영상은 20년 이상 된 것이다. "초기 연구 후 이후 몇 년 동안 추가 흰고래로 더 많은 연구를 수행하기를 희망했지만 불가능했습니다,"라고 수석 저자 다이애나 라이스가 이메일에서 말했다. "지난 몇 년간 흰고래의 인지와 행동의 다양한 측면을 보고한 수많은 연구에서 영감을 받아, 우리는 원본 비디오테이프를 다시 살펴보고 디지털화하여 엄격한 분석을 수행하기로 결정했습니다." 그동안 일부 테이프는 열화되었고, 원본 데이터의 일부는 손실되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+원래 실험은 네 마리의 흰고래를 일상적인 사회적 사육 환경에서 함께 거울에 노출시켰다. 나타샤와 마리스만이 지속적인 관심을 보였고, 따라서 그들만이 실험 단계로 넘어갔다. 그 단계에서는 먹이를 주는 시간 동안 방수 립스틱으로 표시를 했다. 동물들이 깨어 있었고 표시가 적용되는 것을 느낄 수 있었기 때문에, 연구자들은 가짜 표시 대조군(같은 절차이지만 색소 없음)을 실행했다. 고래들은 실제로 표시가 된 후에만 자기 인식과 유사한 행동을 보였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"두 마리의 흰고래는 MSR의 증거를 보여주는 다른 종에서 보고된 것과 동일한 행동 단계의 진행을 보여주었습니다,"라고 제1 저자 알렉산더 밀드너가 이메일에서 말했다. "고래들은 거울이 없거나 대조 조건에서는 자기 지향 행동을 보이지 않았습니다. 한 마리의 고래는 일시적으로 표시된 신체 부위를 거울 쪽으로 방향을 돌려 표시 지향 행동을 보임으로써 표시 검사를 통과했습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+표본은 매우 적지만, 이는 드문 일이 아니다. 단 한 마리의 동물이라도 어떤 일을 할 수 있다면, 그 종은 원칙적으로 그 능력이 있는 것이다. 더 어려운 질문은 나타샤와 마리스가 한 행동이 정말로 인정되는지 여부다. 가장 많이 인용되는 행동 중 일부(거품 물기 놀이, 배럴 롤)는 흰고래가 거울 근처에 없어도 하는 것으로 문서화된 혼자 놀이 형태다. 반사 표면에서 보낸 시간이 증가한 것은 암시적이지만, 거울이 단지 새로운 자극원이었을 가능성을 배제하지는 않는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+진정으로 표시 지향적인 행동은 나타샤에게서 나왔다. 그녀는 표시된 부위(오른쪽 귀 뒤)를 반복해서 거울에 밀어붙였다. 팔이 없었기 때문에, 그녀는 가리킬 수 없었다. 이는 연구에서 가장 강력한 데이터 포인트이지만, 침팬지나 코끼리가 일반적으로 제공하는 증거보다는 약한 종류다.
+&lt;&lt;&lt;PARA&gt;&gt;
+흰고래가 통과한다는 것을 인정하더라도(그리고 돌고래가 통과하고 범고래도 그럴 가능성이 높다는 점을 고려하면 충격적이지 않을 것이다), 더 흥미로운 질문은 이러한 결과가 우리에게 무엇을 말해주는지다. 또는 반대로: 실패한다는 것이 실제로 무엇을 의미할까? 가장 지속적인 비판 중 하나는 많은 동물들이 단순히 거울이 그들의 지각 세계에서 거의 관련성을 지니지 않기 때문에 실패한다는 것이다. 서식스 대학의 신경과학자 아닐 세스는 아르스에 이메일로 "MSR은 의식 자체에 대한 검사가 아니라, 자신의 몸(또는 얼굴)을 인식하는 특정한 능력에 대한 검사입니다. MSR을 안정적으로 통과하지 못한다고 해서 동물이 의식이나 어떤 형태의 자아가 없다는 것을 의미하지는 않습니다."라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 검사가 인간에게 자연스럽게 느껴지는 것에 의해 동기부여되었다고 덧붙였다. "다른 종에게는 자연스럽게 느껴지지 않을 수 있습니다, 비록 그들이 같은 종류의 능력을 가지고 있더라도 말이죠,"라고 그가 말했다. "이는 동물들이 검사를 '실패'할 수 있는 다양한 다른 이유를 제기합니다: 그들은 눈맞춤을 좋아하지 않을 수도 있고, 거울을 좋아하지 않을 수도 있으며, 또는 매우 이상한 과제에 대해 충분히 신경 쓰지 않을 수도 있습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+세스는 의식이 광의적으로 해석된 우리 지각의 통합된 경험과 같은 것일 수 있다고 주장해왔다. 이는 의식이 많은 종에 걸쳐 정도와 형태로 존재한다는 점점 더 주류가 되는 생각과 일치한다. 지각이 자아 감각의 핵심이라면, 각 동물이 세상을 어떻게 지각하느냐에 따라 그 감각은 다르게 보일 것이다. 인간은 시각에 크게 의존한다. 박쥐는 반향 위치 측정에 의존한다. 개에게는 냄새가 전부다. 이것이 바나드 대학에서 개 인지 연구소를 이끄는 알렉산드라 호로비츠와 같은 연구자들이 검사의 후각 버전을 연구해 온 이유다.
+&lt;&lt;&lt;PARA&gt;&gt;
+반대 방향에서는 동물이 검사를 통과하더라도 자기 인식을 측정하는 데 실패한다고 주장하는 비판자들이 있다. 이는 독일 막스 플랑크 동물행동연구소의 진화생물학자이자 청소놀래기에 관한 *PLOS Biology* 연구의 공동 저자인 알렉스 조던의 입장이다. 조던은 놀래기가 거울 검사를 통과한다고 말하지만, 이것이 반드시 물고기가 자기 인식이 있다는 것을 의미하지는 않는다고 말한다. 검사는 우리를 중심으로 설계되었으며, 인간 중심주의(인간을 척도로 취급)와 의인화(인간의 특성을 다른 동물에 투영) 모두를 앓고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+따라서 거울 검사는 모든 각도에서 문제가 있다. 세스가 이메일에서 말했듯이: "의식이나 자아의 증거를 찾을 때, MSR과 같은 검사를 다른 검사들로 보완하는 것이 중요합니다" — 특정 동물의 고유한 지각 세계에서 중요할 수 있는 것을 고려하는 검사들로 말이다. 그러나 MSR은 여전히 다른 동물, 그리고 아마도 우리 자신의 마음을 엿보기 위해 우리가 가진 몇 안 되는 도구 중 하나이다. 중요한 것은 그것이 우리에게 무엇을 말해줄 수 있고, 말해줄 수 없는지 정확히 아는 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+*PLOS One*, 2026. DOI: 10.1371/journal.pone.0348287
+&lt;&lt;&lt;PARA&gt;&gt;
+페데리카 스고르비사는 과학 저널리스트로, 이탈리아 및 국제 매체를 위해 신경과학과 인지과학에 대해 글을 쓴다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-547332154-2560x1440.jpg" length="0" type="image/jpeg"/><pubDate>Sun, 24 May 2026 02:15:38 +0000</pubDate></item></channel></rss>
