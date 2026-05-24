@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 05:05:52 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 07:10:25 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>파이팅 – fighting (cheer)</title><link>urn:urn:vocab:파이팅</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>부정적 – negative</title><link>urn:urn:vocab:부정적</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619431843897-4676bff0c286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZWdhdGl2ZXxlbnwwfHx8fDE3Nzk2NjA2MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부정적 (negative)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(빅데이터 감성 연관어 분석에서 ‘TV토론’ 영역은 철저히 부정적 기류가 압도하고 있다&lt;br/&gt;&lt;em&gt;(In big data sentiment association analysis, the 'TV debate' domain is thoroughly dominated by a negative atmosphere.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한국 선거 사상 최초로 도입된 본격 대선 후보 TV 토론에서, 당시 김대중 후보는 오랜 기간 보수 언론 등에 의해 덧씌워졌던 부정적 이미지를 해박한 식견과 안정감 있는 토론 태도를 통해 단숨에 불식시켰다&lt;br/&gt;&lt;em&gt;In the first full-fledged presidential candidate TV debate in Korean election history, candidate Kim Dae-jung at the time instantly dispelled the negative image that had long been imposed by conservative media through his extensive knowledge and stable debate attitude.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 반응은 부정적이었다.&lt;br/&gt;&lt;em&gt;His reaction was negative.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부정적 생각은 좋지 않다.&lt;br/&gt;&lt;em&gt;Negative thoughts are not good.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619431843897-4676bff0c286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZWdhdGl2ZXxlbnwwfHx8fDE3Nzk2NjA2MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부정적 (negative)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(빅데이터 감성 연관어 분석에서 ‘TV토론’ 영역은 철저히 부정적 기류가 압도하고 있다&lt;br/&gt;&lt;em&gt;(In big data sentiment association analysis, the 'TV debate' domain is thoroughly dominated by a negative atmosphere.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한국 선거 사상 최초로 도입된 본격 대선 후보 TV 토론에서, 당시 김대중 후보는 오랜 기간 보수 언론 등에 의해 덧씌워졌던 부정적 이미지를 해박한 식견과 안정감 있는 토론 태도를 통해 단숨에 불식시켰다&lt;br/&gt;&lt;em&gt;In the first full-fledged presidential candidate TV debate in Korean election history, candidate Kim Dae-jung at the time instantly dispelled the negative image that had long been imposed by conservative media through his extensive knowledge and stable debate attitude.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 반응은 부정적이었다.&lt;br/&gt;&lt;em&gt;His reaction was negative.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부정적 생각은 좋지 않다.&lt;br/&gt;&lt;em&gt;Negative thoughts are not good.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 25 May 2026 07:10:25 +0900</pubDate><guid isPermaLink="false">vocab-572bcb10f573a1f85375a1f6fc9baa2f12922d0b</guid><enclosure url="https://images.unsplash.com/photo-1619431843897-4676bff0c286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZWdhdGl2ZXxlbnwwfHx8fDE3Nzk2NjA2MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="21018" /><ns2:content url="https://images.unsplash.com/photo-1619431843897-4676bff0c286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZWdhdGl2ZXxlbnwwfHx8fDE3Nzk2NjA2MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1619431843897-4676bff0c286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZWdhdGl2ZXxlbnwwfHx8fDE3Nzk2NjA2MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>부정적</category></item><item><title>파이팅 – fighting (cheer)</title><link>urn:urn:vocab:파이팅</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1509563268479-0f004cf3f58b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaWdodGluZyUyMCUyOGNoZWVyJTI5fGVufDB8fHx8MTc3OTY1MzE0OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="파이팅 (fighting (cheer))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Han Dong-hoon: “Fighting to the People Power Party Candidates Joining Conservative Reconstruction, Do Well” (한동훈 “보수재건 공감하는 국힘 후보들 파이팅, 선전하시라”) &lt;&lt;br/&gt;&lt;em&gt;Han Dong-hoon: “Fighting to the People Power Party Candidates Joining Conservative Reconstruction, Do Well”&lt;/em&gt;&lt;/p&gt;
