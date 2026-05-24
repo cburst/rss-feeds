@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 May 2026 16:39:51 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 18:43:46 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>갈무리 – storage</title><link>urn:urn:vocab:갈무리</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사업장 – workplace</title><link>urn:urn:vocab:사업장</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560264280-88b68371db39?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JrcGxhY2V8ZW58MHx8fHwxNzc5NjE1ODIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사업장 (workplace)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전체 동 단위가 아닌 부분 매입이 허용되고, 규제지역 내 최소 매입 기준을 서울 19호·경기 50호에서 10호 이상으로 낮추어 엘에이치가 보다 많은 사업장의 미분양 리스크를 해소에 도움을 줄 수 있도록 했다&lt;br/&gt;&lt;em&gt;Partial purchases, rather than entire dong units, are allowed, and the minimum purchase standard in regulated areas has been lowered from 19 units in Seoul and 50 units in Gyeonggi to 10 or more units, enabling LH to help resolve the unsold risk of more business sites.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(초호황을 맞은 반도체 업계를 중심으로 급여가 대폭 상승하면서 사업장 규모와 고용 형태에 따른 임금격차가 크게 벌어지고 있는 것으로 나타났다&lt;br/&gt;&lt;em&gt;As wages have risen sharply, especially in the semiconductor industry experiencing a boom, wage gaps based on business size and employment type are widening significantly.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(사업장 규모와 고용 상태에 따른 격차도 뚜렷했다&lt;br/&gt;&lt;em&gt;Disparities based on business size and employment status were also evident.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사업장이 어디에 있습니까?&lt;br/&gt;&lt;em&gt;Where is the workplace?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 사업장에 갑니다.&lt;br/&gt;&lt;em&gt;I go to the workplace.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1560264280-88b68371db39?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JrcGxhY2V8ZW58MHx8fHwxNzc5NjE1ODIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사업장 (workplace)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전체 동 단위가 아닌 부분 매입이 허용되고, 규제지역 내 최소 매입 기준을 서울 19호·경기 50호에서 10호 이상으로 낮추어 엘에이치가 보다 많은 사업장의 미분양 리스크를 해소에 도움을 줄 수 있도록 했다&lt;br/&gt;&lt;em&gt;Partial purchases, rather than entire dong units, are allowed, and the minimum purchase standard in regulated areas has been lowered from 19 units in Seoul and 50 units in Gyeonggi to 10 or more units, enabling LH to help resolve the unsold risk of more business sites.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(초호황을 맞은 반도체 업계를 중심으로 급여가 대폭 상승하면서 사업장 규모와 고용 형태에 따른 임금격차가 크게 벌어지고 있는 것으로 나타났다&lt;br/&gt;&lt;em&gt;As wages have risen sharply, especially in the semiconductor industry experiencing a boom, wage gaps based on business size and employment type are widening significantly.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(사업장 규모와 고용 상태에 따른 격차도 뚜렷했다&lt;br/&gt;&lt;em&gt;Disparities based on business size and employment status were also evident.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사업장이 어디에 있습니까?&lt;br/&gt;&lt;em&gt;Where is the workplace?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 사업장에 갑니다.&lt;br/&gt;&lt;em&gt;I go to the workplace.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 24 May 2026 18:43:46 +0900</pubDate><guid isPermaLink="false">vocab-ff744b3e118644a491d5106a1e48edcc73ad31ee</guid><enclosure url="https://images.unsplash.com/photo-1560264280-88b68371db39?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JrcGxhY2V8ZW58MHx8fHwxNzc5NjE1ODIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="130785" /><ns2:content url="https://images.unsplash.com/photo-1560264280-88b68371db39?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JrcGxhY2V8ZW58MHx8fHwxNzc5NjE1ODIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1560264280-88b68371db39?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3b3JrcGxhY2V8ZW58MHx8fHwxNzc5NjE1ODIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사업장</category></item><item><title>갈무리 – storage</title><link>urn:urn:vocab:갈무리</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1553413077-190dd305871c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9yYWdlfGVufDB8fHx8MTc3OTYwODM4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="갈무리 (storage)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;쿠팡이츠 유튜브 갈무리&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Coupang Eats is facing fierce backlash from store owner groups and political circles over its "Zero Delivery Fee" promotion for general members, set to run until August, with critics calling it "predatory marketing that shifts costs onto small business owners&lt;br/&gt;&lt;em&gt;Coupang Eats is facing fierce backlash from store owner groups and political circles over its "Zero Delivery Fee" promotion for general members, set to run until August, with critics calling it "predatory marketing that shifts costs onto small business owners"&lt;/em&gt;&lt;/p&gt;
