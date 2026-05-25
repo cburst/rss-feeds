@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 22:00:07 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 00:04:41 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>예술가 – artist</title><link>urn:urn:vocab:예술가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>점유율 – market share</title><link>urn:urn:vocab:점유율</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJrZXQlMjBzaGFyZXxlbnwwfHx8fDE3Nzk3MjE0Nzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="점유율 (market share)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(SKT, 1분기 점유율 39%로 반등…올해 안 40% 회복할까) &lt;&lt;br/&gt;&lt;em&gt;(SKT rebounds to 39% market share in Q1... Will it recover 40% within this year?) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(SKT, 1분기 점유율 39%로 반등…올해 안 40% 회복할까)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;(SKT rebounds to 39% market share in Q1... Will it recover 40% within this year?)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(에스케이(SK)텔레콤이 올해 1분기(1~3월) 휴대전화 시장 점유율 39%대를 회복했다&lt;br/&gt;&lt;em&gt;(SK Telecom recovered a 39% market share in the mobile phone market in the first quarter (January-March) of this year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리 회사 점유율이 높다.&lt;br/&gt;&lt;em&gt;Our company's market share is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;점유율이 10%입니다.&lt;br/&gt;&lt;em&gt;The market share is 10%.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJrZXQlMjBzaGFyZXxlbnwwfHx8fDE3Nzk3MjE0Nzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="점유율 (market share)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(SKT, 1분기 점유율 39%로 반등…올해 안 40% 회복할까) &lt;&lt;br/&gt;&lt;em&gt;(SKT rebounds to 39% market share in Q1... Will it recover 40% within this year?) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(SKT, 1분기 점유율 39%로 반등…올해 안 40% 회복할까)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;(SKT rebounds to 39% market share in Q1... Will it recover 40% within this year?)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(에스케이(SK)텔레콤이 올해 1분기(1~3월) 휴대전화 시장 점유율 39%대를 회복했다&lt;br/&gt;&lt;em&gt;(SK Telecom recovered a 39% market share in the mobile phone market in the first quarter (January-March) of this year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리 회사 점유율이 높다.&lt;br/&gt;&lt;em&gt;Our company's market share is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;점유율이 10%입니다.&lt;br/&gt;&lt;em&gt;The market share is 10%.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 26 May 2026 00:04:41 +0900</pubDate><guid isPermaLink="false">vocab-6845e6658592a33c9ff536db2b4a15d405d8cc7c</guid><enclosure url="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJrZXQlMjBzaGFyZXxlbnwwfHx8fDE3Nzk3MjE0Nzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="62031" /><ns2:content url="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJrZXQlMjBzaGFyZXxlbnwwfHx8fDE3Nzk3MjE0Nzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJrZXQlMjBzaGFyZXxlbnwwfHx8fDE3Nzk3MjE0Nzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>점유율</category></item><item><title>예술가 – artist</title><link>urn:urn:vocab:예술가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnRpc3R8ZW58MHx8fHwxNzc5NzE0MDAzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="예술가 (artist)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;From Neighborly Performances and Exhibitions to Startups: 60 Artists Live in One 'Root' (Geuru) (이웃과 공연·전시·창업까지…예술가 60명, 한 ‘그루’에 산다) &lt;&lt;br/&gt;&lt;em&gt;From Neighborly Performances and Exhibitions to Startups: 60 Artists Live in One 'Root' (Geuru)&lt;/em&gt;&lt;/p&gt;
