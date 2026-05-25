@@ -1,49 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 24 May 2026 22:10:17 +0000</lastBuildDate><item><title>Alberta Will Vote on a Possible Referendum to Separate From Canada. Here’s What to Know. (앨버타, 캐나다 분리 독립 국민투표 가능성에 투표 예정. 알아야 할 사항은?)</title><link>https://www.nytimes.com/article/alberta-separation-referendum-vote.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/21/multimedia/21int-canada-alberta-vote-hjkc/21int-canada-alberta-vote-hjkc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The oil-rich Western Canadian province of Alberta will hold a vote in October asking its citizens if they want to remain a part of the country, or if they prefer to hold a binding referendum on seceding, its leader announced on Thursday.&lt;br/&gt;(석유가 풍부한 캐나다 서부 주인 앨버타주가 10월에 주민들에게 캐나다에 잔류할지, 아니면 구속력 있는 분리 독립 국민투표를 선호할지 묻는 투표를 실시할 것이라고 주지사가 19일 발표했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-대니엘 스미스 주지사는 저녁 TV 연설에서 이 같은 발표를 하며, 독립 지지 활동가들과 친캐나다 활동가들이 이 문제에 대한 국민투표를 실시하려는 노력을 좌초시킬 위험이 있는 법적·절차적 난관을 돌파하려 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-한쪽 또는 다른 쪽에서 수십만 명의 시민들이 이미 청원에 서명했으며, 스미스 씨는 그들의 민주적 권리를 고려하고 있다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스미스 씨가 이 난처한 과정을 장악하기로 한 결정은 앨버타주 법원이 앨버타의 캐나다 분리 독립 국민투표를 촉발하는 청원이 위헌이라고 판결한 지 며칠 만에 나왔다. 이는 분리가 발생할 경우 부정적인 영향을 받을 권리를 가진 원주민 집단과 주정부가 협의하지 않았기 때문이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스미스 씨는 "캐나다 잔류에 대한 개인적인 지지에도 불구하고, 수십만 앨버타 주민들의 민주적 권리를 침해하는 잘못된 법원 판결에 깊이 우려하고 있다"고 말했다. 그는 이 판결에 대한 항소가 법정에서 수년이 걸릴 것이라고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀는 "문제를 미루는 것은 매우 감정적이고 중요한 논쟁을 연장할 뿐이며, 자유 민주주의 사회에서 목소리를 내고 싶어 하는 수십만 앨버타 주민들의 목소리를 억압하는 것은 정당화될 수 없다"고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스미스 씨는 앞서 10월 19일에 이민 정책 관련 여러 질문에 대한 투표를 요구한 바 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-19일 그녀는 다음과 같은 질문을 추가하겠다고 밝혔다: "앨버타가 캐나다의 주로 남아야 합니까, 아니면 앨버타 주정부가 캐나다 헌법에 따라 앨버타가 캐나다에서 분리해야 하는지 여부에 대한 구속력 있는 주 차원의 국민투표를 실시하기 위해 필요한 법적 절차를 시작해야 합니까?"
-&lt;&lt;&lt;PARA&gt;&gt;
-간단히 말해, 이 국민투표는 앨버타 주민들에게 캐나다에 잔류할지, 아니면 분리 독립을 위한 또 다른 국민투표를 실시할지 결정하도록 요구할 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-앨버타에는 오랫동안 소규모 분리 독립 운동이 존재해 왔지만, 최근 몇 년간 성장하여 더 주류가 되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-최근 여론조사에 따르면 앨버타 주민의 최대 30%가 캐나다 분리 독립에 찬성표를 던질 것이라고 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일부 사람들은 이 운동에 문화적 이유를 제시하지만(앨버타는 캐나다의 다른 지역보다 더 보수적인 것으로 여겨짐), 경제적 불만이 최근 몇 년간 이 아이디어를 더 매력적으로 만든 요인이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-앨버타는 캐나다의 석유 생산지이며, 지난 10년 동안 저스틴 트뤼도 전 정부 하에서 추진된 환경 및 기타 규제가 징벌적이라고 여겨져 앨버타 주민들의 소득을 박탈했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일부 앨버타 주민들은 자신들이 캐나다의 가난한 지역의 사회 및 복지 프로그램을 위해 과도하게 세금을 부과받고 있다고 느끼며, 연방 정부가 자신들의 세금을 사용하면서 더 많은 수익을 올릴 잠재력을 억압해서는 안 된다고 생각한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-분리 독립 지도자들은 지난해 워싱턴에서 트럼프 행정부 관리들과 세 차례 회동했지만, 국무부와 백악관은 이 회동을 이해 집단과의 일상적인 접촉으로 일축했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-앨버타 독립 운동에 대해 언급한 트럼프 행정부 최고위 인사는 스콧 베센트 재무장관으로, 1월에 "그들은 훌륭한 자원을 가지고 있습니다. 앨버타 주민들은 매우 독립적인 사람들입니다"라고 말했으며, "그들이 캐나다에 남을지 말지 국민투표를 실시할 수도 있다는 소문이 있습니다"라고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국 행정부와 연결된 독립 지지 활동가들은 내륙 주를 캐나다에서 분리하는 데 성공할 경우 자금 및 기타 지원(예: 미국 달러 사용)을 요청했다고 밝혔지만, 행정부는 물질적 또는 기타 지원 약속을 하지 않았다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-도널드 트럼프 대통령 지지자들과 MAGA 활동가들, 특히 스티븐 K. 배넌은 앨버타의 캐나다 분리를 공개적으로 지지해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-독립 운동 내 소수는 앨버타가 미국의 일부가 되기를 원하지만, 분리 독립 지도자들은 이 입장이 운동의 대다수에게 인기가 없기 때문에 물러섰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-캐나다의 두 주요 연방 정당(캐나다 총리 마크 카니 하의 자유당과 야당 지도자 피에르 폴리예브르 하의 보수당)은 분리에 단호히 반대한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-카니 씨는 자신의 정당이 앨버타의 성장을 억압하려 한다는 인식을 바꾸기 위해 노력해 왔으며, 스미스 씨와 협력하여 주에서 브리티시컬럼비아 해안까지 더 많은 석유를 운반해 아시아 시장에 수출할 새로운 송유관을 제안했다. 스미스 씨는 연방 정부의 석유에 대한 태도 변화가 앨버타 주민들에게 캐나다가 주를 위해 일하고 있음을 보여주길 바란다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-19일, 폴리예브르 씨는 보수당이 분리에 반대하는 캠페인을 펼칠 것이라고 말했다. "저는 통일된 국가를 지지하며, 우리는 이 나라를 희망으로 단결시키기 위해 매일 매일 캠페인을 할 것입니다"라고 그는 기자회견에서 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/article/alberta-separation-referendum-vote.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/21/multimedia/21int-canada-alberta-vote-hjkc/21int-canada-alberta-vote-hjkc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 22 May 2026 11:48:12 +0000</pubDate></item><item><title>Cuba Celebrates Raúl Castro After U.S. Accuses Him of Murder (쿠바, 미국이 살인 혐의로 기소한 라울 카스트로를 찬양하다)</title><link>https://www.nytimes.com/2026/05/21/world/americas/cuba-raul-castro-murder-indictment.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/21/multimedia/21int-cuba-raul-castro01-photo-kwgj/21int-cuba-raul-castro01-photo-kwgj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 25 May 2026 02:18:36 +0000</lastBuildDate><item><title>Cuba Celebrates Raúl Castro After U.S. Accuses Him of Murder (쿠바, 미국이 살인 혐의로 기소한 라울 카스트로를 찬양하다)</title><link>https://www.nytimes.com/2026/05/21/world/americas/cuba-raul-castro-murder-indictment.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/21/multimedia/21int-cuba-raul-castro01-photo-kwgj/21int-cuba-raul-castro01-photo-kwgj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;A day after Raúl Castro, the Cuban government’s revolutionary hero and former president, was indicted in Miami for murder, officials and state-run media closed ranks, turning to social media to project an image of a nation rallying around a revered elder statesman.&lt;br/&gt;(쿠바 정부의 혁명적 영웅이자 전직 대통령인 라울 카스트로가 마이애미에서 살인 혐의로 기소된 지 하루 만에, 관료들과 국영 언론이 단결하여 사회관계망서비스(SNS)를 통해 존경받는 원로 정치인을 중심으로 국가가 단결하는 모습을 보여주는 이미지를 투영했다.)&lt;/p&gt;
 &lt;p&gt;An avalanche of posts from state-run newspapers and high-ranking Cuban government officials showed photographs of Mr. Castro as a young soldier, greeting children, chuckling with his brother Fidel, waving the Cuban flag and meeting outdoors with teenagers. The posts included gushing messages about his honor and integrity.&lt;br/&gt;(국영 신문과 쿠바 고위 관료들의 게시물이 쏟아져 나왔으며, 이들은 어린 병사 시절의 카스트로, 아이들을 맞이하는 모습, 형 피델과 함께 웃는 모습, 쿠바 국기를 흔드는 모습, 청소년들과 야외에서 만나는 모습 등을 담은 사진들을 공유했다. 게시물에는 그의 명예와 청렴함에 대한 찬사가 가득 담겼다.)&lt;/p&gt;
 &lt;p&gt;“He’s like a father to me,” Cuba’s president, Miguel Díaz-Canel, said in a video posted on X.&lt;br/&gt;("그는 저에게 아버지와 같은 분입니다." 쿠바의 대통령 미겔 디아스카넬이 X(옛 트위터)에 게시한 영상에서 말했다.)&lt;/p&gt;
@@ -673,27 +629,60 @@ ngVLA는 VLA와 VLBA를 모두 더 작지만 더 정밀한 새 접시로 대체�
 &lt;p&gt;Beyond the Israeli-occupied territory, Israeli strikes have also destroyed local cemeteries — making burials in those villages impossible.&lt;br/&gt;(이스라엘 점령 지역 너머로, 이스라엘의 공습은 지역 묘지도 파괴하여 해당 마을에서의 매장 자체가 불가능하게 만들었습니다.)&lt;/p&gt;
 &lt;p&gt;Now, as the cease-fire frays further, thousands of Lebanese wait to see whether the living or the dead will ever be able to return home.&lt;br/&gt;(이제 휴전이 더욱 흔들리면서, 수천 명의 레바논인들은 산 자든 죽은 자든 언제쯤 고향으로 돌아갈 수 있을지 지켜보고 있습니다.)&lt;/p&gt;
 &lt;p&gt;Sarah Chaayto, Hwaida Saad and Johnatan Reiss contributed reporting.&lt;br/&gt;(사라 차이토, 후와이다 사드, 조나단 라이스가 취재에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/23/world/europe/lebanon-war-burials.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/05/multimedia/00int-lebanon-burials-photo-09-pbjl/00int-lebanon-burials-photo-09-pbjl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 24 May 2026 10:22:45 +0000</pubDate></item><item><title>Britain Preparing for Mission That Could Clear Strait of Hormuz (호르무즈 해협 소탕 작전 준비하는 영국)</title><link>https://www.nytimes.com/2026/05/23/us/politics/britain-strait-of-hormuz-iran.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/23/world/23int-uk-gibraltar/23int-uk-gibraltar-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;President Trump has fumed repeatedly about Britain’s failing to help the U.S. wage war on Iran. The United Kingdom responded by allowing U.S. bombers to strike Iran from southern England, while Britain’s fighter jets have flown thousands of defensive missions across the region.&lt;br/&gt;(도널드 트럼프 대통령은 이란과의 전쟁에서 미국을 도와주지 않는 영국에 대해 반복적으로 분노를 표출해 왔다. 이에 영국은 미국 폭격기가 영국 남부에서 이란을 타격할 수 있도록 허용하고, 자국 전투기들은 중동 전역에서 수천 회의 방어 임무를 수행하며 대응했다.)&lt;/p&gt;
-&lt;p&gt;Now the British military is embarking on yet another phase: to secure the Strait of Hormuz if the war comes to an end, dispatching an advanced destroyer to the region and another ship armed with autonomous mine-hunting equipment. The move to remove mines from the waterway could also serve to deflect further criticism from Mr. Trump.&lt;br/&gt;(이제 영국군은 또 다른 국면에 접어들고 있다: 전쟁이 종식될 경우 호르무즈 해협을 확보하기 위해, 첨단 구축함 한 척과 자율 기뢰 탐지 장비를 탑재한 또 다른 함선을 해당 지역에 파견하는 것이다. 수로에서 기뢰를 제거하는 이 조치는 트럼프 대통령의 추가 비난을 피하는 역할도 할 수 있다.)&lt;/p&gt;
-&lt;p&gt;The war with Iran was not Britain’s making, but the country cannot escape the conflict’s far-reaching effects. Halted traffic in the strait has crippled international shipping and driven up energy prices in the United States and around the world.&lt;br/&gt;(이란과의 전쟁은 영국이 일으킨 것이 아니지만, 영국은 그 광범위한 영향에서 벗어날 수 없다. 해협의 교통 마비는 국제 해운을 마비시키고 미국과 전 세계의 에너지 가격을 급등시켰다.)&lt;/p&gt;
-&lt;p&gt;The British military took a handful of reporters on Friday to Gibraltar, a small patch of British territory at the tip of Spain. The trip seemed like an effort to highlight its military capabilities and resolve, and to show the Trump administration that a close ally was doing its part.&lt;br/&gt;(영국군은 금요일 소수의 기자들을 스페인 끝자락에 위치한 작은 영국 영토인 지브롤터로 데려갔다. 이번 여행은 자국의 군사 능력과 결의를 강조하고, 트럼프 행정부에 '가까운 동맹국이 제 역할을 하고 있다'는 점을 보여주기 위한 시도로 보였다.)&lt;/p&gt;
-&lt;p&gt;The special relationship the two countries enjoy has frayed on the surface since Mr. Trump entered the White House.&lt;br/&gt;(트럼프 대통령이 백악관에 들어선 이후, 양국이 누려온 특별한 관계는 표면적으로 마모되었다.)&lt;/p&gt;
-&lt;p&gt;At Gibraltar, Al Carns, Britain’s armed forces minister and ex-Royal Marine officer with extensive combat experience, brushed off U.S. criticisms. He said that the U.K. had had “more jets in the Middle East than we’ve had for 15 years” and that “we’ve shot down over a hundred drones.”&lt;br/&gt;(지브롤터에서 영국군 장관이자 광범위한 전투 경험을 가진 전직 왕립 해병대 장교인 알 칸스는 미국의 비판을 일축했다. 그는 영국이 "중동에 15년 만에 가장 많은 전투기를 배치했으며", "100기 이상의 드론을 격추했다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;He said Britain was leading the way in trying to resolve the acrimonious stalemate in the strait.&lt;br/&gt;(그는 영국이 해협의 적대적 교착 상태를 해결하기 위해 선도적인 역할을 하고 있다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;“Which other country can pull together 40 nations to come up with a solution to deal with a complex problem that we couldn’t predict because we weren’t involved in?” he said on the deck of the R.F.A. Lyme Bay, an amphibious landing vessel, as pallets of ammunition were loaded into its cavernous hull.&lt;br/&gt;("우리가 관여하지 않아 예측할 수 없었던 복잡한 문제를 해결하기 위해 40개국을 한데 모을 수 있는 다른 나라가 어디 있습니까?" 그는 거대한 선체에 탄약 팔레트가 실리는 상륙함 RFA 라임 베이의 갑판에서 이렇게 말했다.)&lt;/p&gt;
-&lt;p&gt;Around 850 large vessels, with around 20,000 seafarers, remain stranded in the region, waiting until it is safe to pass through the Strait of Hormuz, which carried roughly a fifth of the world’s daily oil supply before the war.&lt;br/&gt;(약 850척의 대형 선박과 약 2만 명의 선원이 여전히 이 지역에 발이 묶여 있으며, 전쟁 전 세계 하루 원유 공급량의 약 5분의 1을 수송하던 호르무즈 해협을 안전하게 통과할 수 있기를 기다리고 있다.)&lt;/p&gt;
-&lt;p&gt;The R.F.A. Lyme Bay is at the center of British efforts to open the waterway if an agreement can be reached. The British military has been scrambling to outfit the ship with autonomous maritime systems — unmanned weapons for use on the sea — for the last several weeks. It will serve as the “mother ship” for the autonomous systems, the military said.&lt;br/&gt;(RFA 라임 베이는 합의가 이루어질 경우 수로를 개방하기 위한 영국의 노력의 중심에 있다. 영국군은 지난 몇 주간 이 함선에 자율 해양 시스템(바다에서 사용되는 무인 무기)을 탑재하기 위해 분주히 움직여 왔다. 군 당국은 이 함선이 자율 시스템의 "모선" 역할을 할 것이라고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;Britain has already deployed the H.M.S. Dragon, one of six destroyers, to the region. Once cleared to depart, the Lyme Bay will make its way there, too. Other countries are to send forces as part of what has been named a multinational military mission.&lt;br/&gt;(영국은 이미 6척의 구축함 중 하나인 HMS 드래곤을 해당 지역에 배치했다. 출항 허가가 나면 라임 베이도 그곳으로 향할 예정이다. 다른 국가들도 다국적 군사 임무로 명명된 작전의 일환으로 병력을 파견할 예정이다.)&lt;/p&gt;
-&lt;p&gt;The French and British are leading the effort. This month France deployed its carrier strike ​group as part of the possible mission to open the Strait of Hormuz, while the Germans are sending a minesweeper in anticipation of an operation.&lt;br/&gt;(프랑스와 영국이 이 노력을 주도하고 있다. 이달 프랑스는 호르무즈 해협 개방을 위한 잠재적 임무의 일환으로 항모 강습단을 배치했으며, 독일은 작전에 대비해 기뢰 제거함을 파견하고 있다.)&lt;/p&gt;
-&lt;p&gt;On deck of the R.F.A. Lyme Bay, two squads of British Navy mine-clearing specialists displayed their battery-powered autonomous sea drones for reporters. A smaller version of the drones can be deployed by two people in the back of a boat.&lt;br/&gt;(RFA 라임 베이 갑판에서 영국 해군의 두 기뢰 제거 전문 분대가 기자들에게 배터리로 구동되는 자율 해상 드론을 선보였다. 더 작은 버전의 드론은 보트 뒤편에서 두 사람이 배치할 수 있다.)&lt;/p&gt;
-&lt;p&gt;Another larger version of the submersible drones uses high-fidelity sonar systems to scan the seabed and can dive 300 meters, about 980 feet. The drones can drastically reduce the time it would normally take a traditional mine-clearing ship to do the job. An unmanned surface vehicle is used to deploy the drones.&lt;br/&gt;(더 큰 버전의 잠수형 드론은 고성능 소나 시스템을 사용하여 해저를 스캔하며 최대 300미터(약 980피트)까지 잠수할 수 있다. 이 드론은 기존의 전통적인 기뢰 제거 함선이 작업을 수행하는 데 걸리는 시간을 획기적으로 단축시킬 수 있다. 드론을 배치하는 데는 무인 수상정이 사용된다.)&lt;/p&gt;
-&lt;p&gt;Iran has a variety of mines, British military officials said, including ones that sit on the seabed and send gas bubbles to the surface, causing serious damage to a ship’s hull. The mines use magnetic, acoustic and light sensors to find their targets. A mine can include hundreds of kilos of explosives.&lt;br/&gt;(영국군 관계자에 따르면 이란은 다양한 기뢰를 보유하고 있으며, 여기에는 해저에 놓여 거품을 수면으로 보내 선체에 심각한 손상을 입히는 기뢰도 포함된다. 이 기뢰들은 자기, 음향, 광 센서를 사용해 표적을 찾는다. 한 기뢰에는 수백 킬로그램의 폭발물이 포함될 수 있다.)&lt;/p&gt;
-&lt;p&gt;Naval Cmdr. Gemma Britton, who is in charge of the mine-clearing specialists on the Lyme Bay, said Iran has many deadly mines. Asked how many, she responded, “How long is a piece of string?”&lt;br/&gt;(라임 베이의 기뢰 제거 전문가들을 지휘하는 제마 브리튼 해군 중령은 이란이 많은 치명적인 기뢰를 보유하고 있다고 말했다. 몇 개나 되는지 묻는 질문에 그녀는 "끝이 어딘지 알 수 없죠?"라고 답했다.)&lt;/p&gt;
-&lt;p&gt;“The less people we can put in the minefield the better,” she said. The commander added that the first goal upon entering the strait would be to carve out a 1,000-yard-wide shipping lane so boats could exit, and then add another for vessels traveling in the opposite direction — a superhighway on the sea.&lt;br/&gt;("기뢰 지대에 사람을 덜 투입할수록 좋습니다."라고 그녀는 말했다. 그 중령은 해협 진입 시 첫 번째 목표는 폭 1,000야드의 항로를 개척하여 선박이 빠져나갈 수 있도록 한 뒤, 반대 방향으로 항해하는 선박을 위한 또 다른 항로(바다 위의 고속도로)를 추가하는 것이라고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;Whether the current efforts will be enough to satisfy Mr. Trump is unclear. Secretary of State Marco Rubio repeated the administration’s dissatisfaction with NATO on Thursday.&lt;br/&gt;(현재의 노력이 트럼프 대통령을 만족시키기에 충분할지는 불분명하다. 마코 루비오 국무장관은 목요일 행정부의 나토에 대한 불만을 재차 표명했다.)&lt;/p&gt;
-&lt;p&gt;“I don’t think anyone is shocked to know that the United States, and the president in particular, is very disappointed at NATO right now,” he told reporters in Miami.&lt;br/&gt;("미국, 특히 대통령이 현재 나토에 대해 매우 실망하고 있다는 사실에 누구도 충격을 받지 않을 것이라고 생각합니다."라고 그는 마이애미에서 기자들에게 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/23/us/politics/britain-strait-of-hormuz-iran.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/23/world/23int-uk-gibraltar/23int-uk-gibraltar-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 24 May 2026 07:18:07 +0000</pubDate></item><item><title>Israeli Leader Says He and Trump Agree on Blocking an Iranian Nuclear Weapon (이스라엘 총리, 트럼프와 이란 핵무기 저지에 합의했다고 밝혀)</title><link>https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/24/multimedia/24int-israel-reax-1-wgcf/24int-israel-reax-1-wgcf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/23/world/europe/lebanon-war-burials.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/05/multimedia/00int-lebanon-burials-photo-09-pbjl/00int-lebanon-burials-photo-09-pbjl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 24 May 2026 10:22:45 +0000</pubDate></item><item><title>Rubio Says U.S.-India Ties Are Strong, Despite Fury Over Trump’s Actions (루비오 "미-인도 관계 여전히 강력"…트럼프 조치에 분노에도 불구)</title><link>https://www.nytimes.com/2026/05/24/us/politics/rubio-india-trump-visit.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/24/world/24int-india-rubio-top-art/24int-india-rubio-top-art-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Secretary of State Marco Rubio said on Sunday that the Trump administration remained committed to a strategic partnership with India, apparently trying to defuse tensions from President Trump’s aggressive actions in the past year against India and Indians living in the United States.&lt;br/&gt;(마코 루비오 미 국무장관은 20일(현지시간) 트럼프 행정부가 인도와의 전략적 파트너십에 계속 전념하고 있다고 밝히며, 지난 1년간 대통령이 인도와 미국 내 거주 인도인들에 대해 취한 공격적인 조치로 인한 긴장을 완화하려는 듯한 모습을 보였다.)&lt;/p&gt;
+&lt;p&gt;“The U.S.-India relationship has not lost any momentum,” he said in a news conference in New Delhi on the second day of a four-day trip to India. “The relationship continues to be strong.”&lt;br/&gt;(그는 인도 4일 방문 이틀째인 이날 뉴델리에서 열린 기자회견에서 "미-인도 관계는 어떠한 모멘텀도 잃지 않았다"며 "관계는 계속해서 강력하다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이번 방문에서 나렌드라 모디 총리 등 다른 관료들을 만난 루비오 장관은 미국이 첨단 기술 분야의 무역 및 투자에 관해 인도와 계속 협력하기를 원한다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+또한 지난여름 첫 번째 공세로 50%에 달했던 인도산 제품에 대한 트럼프 대통령의 관세 부과 노력은 인도만을 겨냥한 것이 아니라, 미국에 더 나은 무역 균형을 창출하기 위한 글로벌 노력의 일환이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 관세는 인도에서 상품을 수입하는 미국 기업이 지불하는 세금이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+루비오 장관은 글로벌 무역에 대해 "막대한 불균형이 축적되어 왔고 이를 해결해야 한다"며 "이는 인도에 관한 것이 아니다"라고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 트럼프 대통령이 부과한 높은 관세는 모디 총리가 그를 노벨 평화상 후보로 지명하는 것을 거부한 이후에 나왔다. 트럼프 대통령은 인도와 파키스탄이 서로에게 치명적인 군사 공격을 가한 후 휴전에 도달하는 데 자신이 중요한 역할을 했다고 주장해 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+뉴욕타임스에 따르면, 이 거부 이후 트럼프 대통령은 신속히 인도에 대한 관세 조치를 취했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+두 나라는 지난 2월 인도에게 가혹한 조건의 잠정 무역 협정에 도달했다. 그러자 대법원이 100개 이상의 국가에 대한 트럼프 대통령의 관세를 무효화했다. 대통령은 여전히 대체 수단을 통해 이러한 세금을 부과하려 하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프 대통령의 행동은 20년 이상 지속된 미국의 대인도 정책을 뒤집어 놓았다. 2000년대 초반부터 현재까지 트럼프 대통령의 첫 임기를 포함한 공화당 및 민주당 행정부들은 세계에서 가장 인구가 많은 국가인 인도와 더 긴밀한 관계를 구축하려 노력해 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+루비오 장관은 이날 인도와 미국 간의 상업적 파트너십이 "전략적 동맹"이라고 부르는 관계의 초석이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+루비오 장관 옆에 선 수브라마냠 자이샨카르 인도 외무장관은 "트럼프 행정부는 '미국 우선주의'를 외교 정책으로 내세우는 데 있어 매우 솔직했다"며 "우리는 '인도 우선주의'라는 관점을 가지고 있다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+루비오 장관은 전날 스웨덴에서 열린 나토 회원국 외무장관 회의에 참석한 후 토요일 인도에 도착했다. 그는 델리로 가기 전에 콜카타에 있는 테레사 수녀의 자선 단체를 방문했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그곳에서 루비오 장관은 트럼프 대통령의 모디 총리 백악관 초청장을 전달했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+루비오 장관과 모디 총리의 회담 요약에서 미 국무부는 무역 및 국방 협력과 미국-이스라엘의 이란 전쟁 해결 필요성에 대해 논의했다고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+루비오 장관의 인도 방문에 드리운 한 가지 의문은 중국 지도자 시진핑에 대한 트럼프 대통령의 의도이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+두 정상은 지난주 베이징 정상회담에서 서로에게 아첨을 퍼부었다. 트럼프 대통령은 그들이 "함께 환상적인 미래를 가질 것"이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+많은 인도인들에게 더욱 우려되는 점은 이란 전쟁에서 중재자 역할을 해온 파키스탄 지도자들에 대한 트럼프 대통령의 최근 칭찬이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+워싱턴과 이슬라마바드 간의 관계에 대해 질문받자 루비오 장관은 "세계 어느 국가와의 관계도 인도와의 전략적 동맹을 희생하는 것으로 보지 않는다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+인도인들은 또한 트럼프 대통령의 최근 반이민 조치, 특히 합법 이민을 광범위하게 제한하려는 새로운 노력에 대해 우려하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난 19일, 트럼프 행정부는 대부분의 영주권 신청자들이 신청서가 처리되는 동안 미국을 떠나야 한다고 밝혔다. 기술 분야 일자리를 포함해 취업 비자로 미국에 체류해 온 많은 인도 시민들이 미국 영주권을 신청하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+루비오 장관은 "우리는 21세기에 맞춰 미국 이민 시스템을 현대화하고 있다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+한 인도 기자가 루비오 장관에게 미국 내 인도인에 대한 최근 인종차별적 발언에 대해 질문했다. 루비오 장관은 기자 시단트 시발에게 누가 그런 발언을 했는지 말해 달라고 요청했지만, 기자는 이를 거부했다. "우리 모두 그 발언을 봤습니다, 각하"라고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+루비오 장관은 "미국에는 항상 멍청한 발언을 하는 어리석은 사람들이 있다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+기자회견이 끝난 후, 시발 기자는 소셜 미디어 게시물에서 자신이 트럼프 대통령에 대해 이야기하고 있었다고 썼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난달, 트럼프 대통령은 우익 팟캐스트의 대본을 게시했는데, 진행자 마이클 새비지가 중국과 인도를 "지옥 같은 곳"이라고 부르며, 최근 이들 국가에서 온 이민자들이 "유럽계 미국인들"처럼 미국에 "통합되지 않았다"고 말한 내용이 포함되어 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프 대통령을 직접 언급하지는 않았지만, 인도 정부는 드문 조치로 소셜 미디어에서 백악관을 질책하며 그 발언을 "분명히 무지하고, 부적절하며, 취향이 좋지 않다"고 비난했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/24/us/politics/rubio-india-trump-visit.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/24/world/24int-india-rubio-top-art/24int-india-rubio-top-art-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 24 May 2026 06:33:53 +0000</pubDate></item><item><title>Israeli Leader Says He and Trump Agree on Blocking an Iranian Nuclear Weapon (이스라엘 총리, 트럼프와 이란 핵무기 저지에 합의했다고 밝혀)</title><link>https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/24/multimedia/24int-israel-reax-1-wgcf/24int-israel-reax-1-wgcf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Prime Minister Benjamin Netanyahu of Israel said on Sunday that he and President Trump remained united in their stance on preventing Iran from obtaining nuclear weapons, in his first statement on an emerging peace deal.&lt;br/&gt;(이스라엘의 베냐민 네타냐후 총리는 27일(현지시간) 자신과 도널드 트럼프 미국 대통령이 이란이 핵무기를 보유하는 것을 막아야 한다는 입장에서 단결된 모습을 보이고 있다고 말했다. 이는 협상 중인 평화 협정에 대한 첫 공식 입장이었다.)&lt;/p&gt;
 &lt;p&gt;A senior U.S. official said on Sunday that the United States and Iran had agreed to a preliminary deal that would fully reopen the Strait of Hormuz and see Iran dispose of its stock of highly enriched uranium. He cautioned that a deal had not been signed and would have to be approved by President Trump and Iran’s supreme leader.&lt;br/&gt;(미국 고위 관리는 이날 미국과 이란이 호르무즈 해협을 완전히 재개방하고 이란이 보유한 고농축 우라늄을 처분하는 내용의 잠정 합의에 도달했다고 밝혔다. 그는 협정이 아직 서명되지 않았으며 트럼프 대통령과 이란 최고 지도자의 승인을 받아야 한다고 강조했다.)&lt;/p&gt;
 &lt;p&gt;Many of the most intractable problems between the countries, including the future of Iran’s nuclear program, were put off to future negotiations, the official added.&lt;br/&gt;(이 관리는 이란 핵 프로그램의 미래를 포함한 양국 간 가장 해결하기 어려운 많은 문제들이 차후 협상으로 미뤄졌다고 덧붙였다.)&lt;/p&gt;

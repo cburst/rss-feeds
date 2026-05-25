@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 07:10:21 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 11:18:40 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>서울시립대학교 – University of Seoul</title><link>urn:urn:vocab:서울시립대학교</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>하버드 – Harvard</title><link>urn:urn:vocab:하버드</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1559135197-8a45ea74d367?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIYXJ2YXJkfGVufDB8fHx8MTc3OTY3NTUxN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="하버드 (Harvard)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Kyung Hee University College of Medicine Successfully Hosts Special Lecture by Harvard Medical Professor Taekjip Ha (경희대 의과대학, 하버드 의대 하택집 교수 특강 성료) &lt;&lt;br/&gt;&lt;em&gt;Kyung Hee University College of Medicine Successfully Hosts Special Lecture by Harvard Medical Professor Taekjip Ha&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Kyung Hee University College of Medicine Successfully Hosts Special Lecture by Harvard Medical Professor Taekjip Ha (경희대 의과대학, 하버드 의대 하택집 교수 특강 성료)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Kyung Hee University College of Medicine Successfully Hosts Special Lecture by Harvard Medical Professor Taekjip Ha&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;생물물리학(Biophysics) 분야의 세계적 석학인 하택집 ES(하버드 의과대학 교수)가 경희대 의과대학에서 특강을 진행했다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Taekjip Ha, a world-renowned scholar in the field of biophysics and a professor at Harvard Medical School, gave a special lecture at Kyung Hee University College of Medicine.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 하버드에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to Harvard.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;하버드는 유명한 대학교예요.&lt;br/&gt;&lt;em&gt;Harvard is a famous university.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1559135197-8a45ea74d367?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIYXJ2YXJkfGVufDB8fHx8MTc3OTY3NTUxN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="하버드 (Harvard)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Kyung Hee University College of Medicine Successfully Hosts Special Lecture by Harvard Medical Professor Taekjip Ha (경희대 의과대학, 하버드 의대 하택집 교수 특강 성료) &lt;&lt;br/&gt;&lt;em&gt;Kyung Hee University College of Medicine Successfully Hosts Special Lecture by Harvard Medical Professor Taekjip Ha&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Kyung Hee University College of Medicine Successfully Hosts Special Lecture by Harvard Medical Professor Taekjip Ha (경희대 의과대학, 하버드 의대 하택집 교수 특강 성료)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Kyung Hee University College of Medicine Successfully Hosts Special Lecture by Harvard Medical Professor Taekjip Ha&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;생물물리학(Biophysics) 분야의 세계적 석학인 하택집 ES(하버드 의과대학 교수)가 경희대 의과대학에서 특강을 진행했다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Taekjip Ha, a world-renowned scholar in the field of biophysics and a professor at Harvard Medical School, gave a special lecture at Kyung Hee University College of Medicine.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 하버드에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to Harvard.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;하버드는 유명한 대학교예요.&lt;br/&gt;&lt;em&gt;Harvard is a famous university.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 25 May 2026 11:18:40 +0900</pubDate><guid isPermaLink="false">vocab-e4f9369ef2950041ac13a74180c78fe8ccd102d3</guid><enclosure url="https://images.unsplash.com/photo-1559135197-8a45ea74d367?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIYXJ2YXJkfGVufDB8fHx8MTc3OTY3NTUxN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="360028" /><ns2:content url="https://images.unsplash.com/photo-1559135197-8a45ea74d367?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIYXJ2YXJkfGVufDB8fHx8MTc3OTY3NTUxN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1559135197-8a45ea74d367?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxIYXJ2YXJkfGVufDB8fHx8MTc3OTY3NTUxN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>하버드</category></item><item><title>고성능 – high performance</title><link>urn:urn:vocab:고성능</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1452697620382-f6543ead73b5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwcGVyZm9ybWFuY2V8ZW58MHx8fHwxNzc5NjY4MDY5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고성능 (high performance)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(미토스 등 고성능 인공지능(AI)의 해킹 악용 우려가 커지는 가운데, 금융당국이 보안 목적의 인공지능 활용에 한해 금융사의 ‘망분리’ 규제를 풀기로 했다&lt;br/&gt;&lt;em&gt;Amid growing concerns about the malicious use of high-performance artificial intelligence (AI) such as Mithos, financial authorities have decided to ease the 'network separation' regulations for financial companies, limited to the use of AI for security purposes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (금융위원회는 지난 22일 열린 ‘고성능 인공지능 관련 금융권 보안위협 대응 간담회’에서 보안 목적의 인공지능 활용에 대해 망분리 규제를 신속히 완화하겠다고 24일 밝혔다&lt;br/&gt;&lt;em&gt;The Financial Services Commission announced on the 24th that it would quickly ease network separation regulations for the use of AI for security purposes at a meeting held on the 22nd titled 'High-Performance AI-Related Financial Sector Security Threat Response Meeting'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그런데 지난 4월 미국 인공지능 기업 엔트로픽의 고성능 인공지능 ‘미토스’가 기존 보안 체계가 발견하지 못한 해킹 취약점까지 탐지할 수 있다는 우려가 확산하면서, 보안 위협 대응에 인공지능을 활용할 수 있도록 망분리 규제를 완화해야 한다는 요구가 커졌다&lt;br/&gt;&lt;em&gt;However, concerns spread in April that Mithos, a high-performance AI from the US AI company Anthropic, could detect hacking vulnerabilities that existing security systems had failed to find, leading to growing demands to ease network separation regulations to allow the use of AI in responding to security threats.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 컴퓨터는 고성능입니다.&lt;br/&gt;&lt;em&gt;This computer is high-performance.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고성능 자동차가 필요해요.&lt;br/&gt;&lt;em&gt;I need a high-performance car.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1452697620382-f6543ead73b5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwcGVyZm9ybWFuY2V8ZW58MHx8fHwxNzc5NjY4MDY5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고성능 (high performance)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(미토스 등 고성능 인공지능(AI)의 해킹 악용 우려가 커지는 가운데, 금융당국이 보안 목적의 인공지능 활용에 한해 금융사의 ‘망분리’ 규제를 풀기로 했다&lt;br/&gt;&lt;em&gt;Amid growing concerns about the malicious use of high-performance artificial intelligence (AI) such as Mithos, financial authorities have decided to ease the 'network separation' regulations for financial companies, limited to the use of AI for security purposes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (금융위원회는 지난 22일 열린 ‘고성능 인공지능 관련 금융권 보안위협 대응 간담회’에서 보안 목적의 인공지능 활용에 대해 망분리 규제를 신속히 완화하겠다고 24일 밝혔다&lt;br/&gt;&lt;em&gt;The Financial Services Commission announced on the 24th that it would quickly ease network separation regulations for the use of AI for security purposes at a meeting held on the 22nd titled 'High-Performance AI-Related Financial Sector Security Threat Response Meeting'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그런데 지난 4월 미국 인공지능 기업 엔트로픽의 고성능 인공지능 ‘미토스’가 기존 보안 체계가 발견하지 못한 해킹 취약점까지 탐지할 수 있다는 우려가 확산하면서, 보안 위협 대응에 인공지능을 활용할 수 있도록 망분리 규제를 완화해야 한다는 요구가 커졌다&lt;br/&gt;&lt;em&gt;However, concerns spread in April that Mithos, a high-performance AI from the US AI company Anthropic, could detect hacking vulnerabilities that existing security systems had failed to find, leading to growing demands to ease network separation regulations to allow the use of AI in responding to security threats.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 컴퓨터는 고성능입니다.&lt;br/&gt;&lt;em&gt;This computer is high-performance.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고성능 자동차가 필요해요.&lt;br/&gt;&lt;em&gt;I need a high-performance car.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 25 May 2026 09:14:30 +0900</pubDate><guid isPermaLink="false">vocab-fbc524d2f541d04c17c8838116b6f10c6f04e2cb</guid><enclosure url="https://images.unsplash.com/photo-1452697620382-f6543ead73b5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwcGVyZm9ybWFuY2V8ZW58MHx8fHwxNzc5NjY4MDY5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="77444" /><ns2:content url="https://images.unsplash.com/photo-1452697620382-f6543ead73b5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwcGVyZm9ybWFuY2V8ZW58MHx8fHwxNzc5NjY4MDY5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1452697620382-f6543ead73b5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoaWdoJTIwcGVyZm9ybWFuY2V8ZW58MHx8fHwxNzc5NjY4MDY5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>고성능</category></item><item><title>서울시립대학교 – University of Seoul</title><link>urn:urn:vocab:서울시립대학교</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742747215638-0105cbcd2645?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXR5JTIwb2YlMjBTZW91bHxlbnwwfHx8fDE3Nzk2NjA2MTh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서울시립대학교 (University of Seoul)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;University of Seoul and Seoul Foundation of Women &amp; Family Sign MOU to Prevent Campus Violence and Foster a Safe Campus Culture (서울시립대학교-서울시여성가족재단, 대학 내 폭력 예방 및 안전한 캠퍼스 문화 조성을 위한 업무협약 체결) &lt;&lt;br/&gt;&lt;em&gt;University of Seoul and Seoul Foundation of Women &amp; Family Sign MOU to Prevent Campus Violence and Foster a Safe Campus Culture&lt;/em&gt;&lt;/p&gt;

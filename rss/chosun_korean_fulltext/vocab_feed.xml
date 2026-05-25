@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 07:10:25 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 11:18:46 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>부정적 – negative</title><link>urn:urn:vocab:부정적</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>머그잔 – mug</title><link>urn:urn:vocab:머그잔</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1516390118834-21602d501886?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtdWd8ZW58MHx8fHwxNzc5Njc1NTIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="머그잔 (mug)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번에는 스타벅스코리아가 세월호 참사 추모일인 2024년 4월 16일 ‘사이렌 머그잔’을 출시했다는 정진욱 민주당 의원의 글을 공유하면서 “인두겁을 쓰고서는 도저히 할 수 있는 일이 아니다”라고 했다&lt;br/&gt;&lt;em&gt;This time, Democratic Party lawmaker Jeong Jin-wook shared a post saying that Starbucks Korea released the 'Siren Mug' on April 16, 2024, the day of the Sewol ferry disaster commemoration, and commented, 'It is something that cannot be done even with a human face.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;5·18에 진행한 ‘탱크데이’ 마케팅에 대해 비판적인 정치권 인사들도 ‘사이렌 머그잔’을 세월호 참사 조롱으로 연결시킨 것에 대해선 “과도하다”는 반응이다&lt;br/&gt;&lt;em&gt;Even political figures critical of the 'Tank Day' marketing held on May 18 responded that linking the 'Siren Mug' to mockery of the Sewol ferry disaster is 'excessive.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이런 가운데 이 대통령이 ‘사이렌 머그잔’이 세월호 참사 조롱이라는 취지의 글까지 올리자, 야권을 중심으로 “지방선거를 앞두고 유권자를 갈라치기하면서 호남 등 민주당 지지층을 결집시키려는 의도”라는 분석이 제기됐다&lt;br/&gt;&lt;em&gt;"Amid this, when President Yoon posted a message implying that the 'Siren Mug' mocks the Sewol ferry disaster, an analysis emerged, mainly from the opposition, that 'it is intended to divide voters ahead of local elections and consolidate the Democratic Party's support base, including Honam.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;머그잔에 커피가 있어요.&lt;br/&gt;&lt;em&gt;There is coffee in the mug.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 머그잔은 예뻐요.&lt;br/&gt;&lt;em&gt;This mug is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1516390118834-21602d501886?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtdWd8ZW58MHx8fHwxNzc5Njc1NTIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="머그잔 (mug)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번에는 스타벅스코리아가 세월호 참사 추모일인 2024년 4월 16일 ‘사이렌 머그잔’을 출시했다는 정진욱 민주당 의원의 글을 공유하면서 “인두겁을 쓰고서는 도저히 할 수 있는 일이 아니다”라고 했다&lt;br/&gt;&lt;em&gt;This time, Democratic Party lawmaker Jeong Jin-wook shared a post saying that Starbucks Korea released the 'Siren Mug' on April 16, 2024, the day of the Sewol ferry disaster commemoration, and commented, 'It is something that cannot be done even with a human face.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;5·18에 진행한 ‘탱크데이’ 마케팅에 대해 비판적인 정치권 인사들도 ‘사이렌 머그잔’을 세월호 참사 조롱으로 연결시킨 것에 대해선 “과도하다”는 반응이다&lt;br/&gt;&lt;em&gt;Even political figures critical of the 'Tank Day' marketing held on May 18 responded that linking the 'Siren Mug' to mockery of the Sewol ferry disaster is 'excessive.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이런 가운데 이 대통령이 ‘사이렌 머그잔’이 세월호 참사 조롱이라는 취지의 글까지 올리자, 야권을 중심으로 “지방선거를 앞두고 유권자를 갈라치기하면서 호남 등 민주당 지지층을 결집시키려는 의도”라는 분석이 제기됐다&lt;br/&gt;&lt;em&gt;"Amid this, when President Yoon posted a message implying that the 'Siren Mug' mocks the Sewol ferry disaster, an analysis emerged, mainly from the opposition, that 'it is intended to divide voters ahead of local elections and consolidate the Democratic Party's support base, including Honam.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;머그잔에 커피가 있어요.&lt;br/&gt;&lt;em&gt;There is coffee in the mug.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 머그잔은 예뻐요.&lt;br/&gt;&lt;em&gt;This mug is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 25 May 2026 11:18:46 +0900</pubDate><guid isPermaLink="false">vocab-5a73d2b70afa0597d829a699b40f34ddc375965d</guid><enclosure url="https://images.unsplash.com/photo-1516390118834-21602d501886?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtdWd8ZW58MHx8fHwxNzc5Njc1NTIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="59895" /><ns2:content url="https://images.unsplash.com/photo-1516390118834-21602d501886?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtdWd8ZW58MHx8fHwxNzc5Njc1NTIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1516390118834-21602d501886?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtdWd8ZW58MHx8fHwxNzc5Njc1NTIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>머그잔</category></item><item><title>투표율이 – voter turnout</title><link>urn:urn:vocab:투표율이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlciUyMHR1cm5vdXR8ZW58MHx8fHwxNzc5NTExNDU3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표율이 (voter turnout)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표율이 선거 결과의 인과적 관계를 규정하는 최고의 핵심 동력임을 보여준다&lt;br/&gt;&lt;em&gt;It shows that voter turnout is the most critical driving force that determines the causal relationship of election results.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표율이 낮으면 조직력이 강한 진영이 ‘유리’하고, 투표율이 높으면 숨어 있던 민심의 전체 총량이 반영되어 거대한 파도를 만든다는 정치 공식이 다시 한 번 입증된 사례다&lt;br/&gt;&lt;em&gt;This is another case that proves the political formula: when voter turnout is low, the side with strong organizational power has an 'advantage,' and when voter turnout is high, the total amount of hidden public sentiment is reflected, creating a huge wave.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;만약 막판 공방으로 정치 혐오가 극대화되어 전체 투표율이 하락한다면, 상대적으로 국민의힘이 선거판에서 ‘유리하다’는 계산이 선다&lt;br/&gt;&lt;em&gt;If political aversion is maximized due to last-minute attacks and overall voter turnout decreases, the calculation is that the People Power Party is relatively 'advantageous' in the election.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오늘 투표율이 높습니다.&lt;br/&gt;&lt;em&gt;Today's voter turnout is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표율이 낮아서 걱정입니다.&lt;br/&gt;&lt;em&gt;I'm worried because the voter turnout is low.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlciUyMHR1cm5vdXR8ZW58MHx8fHwxNzc5NTExNDU3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표율이 (voter turnout)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표율이 선거 결과의 인과적 관계를 규정하는 최고의 핵심 동력임을 보여준다&lt;br/&gt;&lt;em&gt;It shows that voter turnout is the most critical driving force that determines the causal relationship of election results.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표율이 낮으면 조직력이 강한 진영이 ‘유리’하고, 투표율이 높으면 숨어 있던 민심의 전체 총량이 반영되어 거대한 파도를 만든다는 정치 공식이 다시 한 번 입증된 사례다&lt;br/&gt;&lt;em&gt;This is another case that proves the political formula: when voter turnout is low, the side with strong organizational power has an 'advantage,' and when voter turnout is high, the total amount of hidden public sentiment is reflected, creating a huge wave.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;만약 막판 공방으로 정치 혐오가 극대화되어 전체 투표율이 하락한다면, 상대적으로 국민의힘이 선거판에서 ‘유리하다’는 계산이 선다&lt;br/&gt;&lt;em&gt;If political aversion is maximized due to last-minute attacks and overall voter turnout decreases, the calculation is that the People Power Party is relatively 'advantageous' in the election.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오늘 투표율이 높습니다.&lt;br/&gt;&lt;em&gt;Today's voter turnout is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표율이 낮아서 걱정입니다.&lt;br/&gt;&lt;em&gt;I'm worried because the voter turnout is low.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 25 May 2026 09:14:34 +0900</pubDate><guid isPermaLink="false">vocab-8edbc818419c4a26551cdf7524973280c082bc66</guid><enclosure url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlciUyMHR1cm5vdXR8ZW58MHx8fHwxNzc5NTExNDU3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="139078" /><ns2:content url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlciUyMHR1cm5vdXR8ZW58MHx8fHwxNzc5NTExNDU3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlciUyMHR1cm5vdXR8ZW58MHx8fHwxNzc5NTExNDU3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>투표율이</category></item><item><title>부정적 – negative</title><link>urn:urn:vocab:부정적</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619431843897-4676bff0c286?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZWdhdGl2ZXxlbnwwfHx8fDE3Nzk2NjA2MjJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부정적 (negative)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(빅데이터 감성 연관어 분석에서 ‘TV토론’ 영역은 철저히 부정적 기류가 압도하고 있다&lt;br/&gt;&lt;em&gt;(In big data sentiment association analysis, the 'TV debate' domain is thoroughly dominated by a negative atmosphere.)&lt;/em&gt;&lt;/p&gt;
