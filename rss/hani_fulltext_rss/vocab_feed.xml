@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 00:04:41 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 04:12:50 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>점유율 – market share</title><link>urn:urn:vocab:점유율</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>불매운동 – boycott movement</title><link>urn:urn:vocab:불매운동</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1666088631522-4069ca2f1a61?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib3ljb3R0JTIwbW92ZW1lbnR8ZW58MHx8fHwxNzc5NzM2MzY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불매운동 (boycott movement)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번 마케팅에 대한 비난 여론이 지속되면서 소비자들의 불매운동은 물론이고, 다양한 민관행사에서 스타벅스를 배제한다는 발표가 이어지고 있다&lt;br/&gt;&lt;em&gt;As public criticism of this marketing campaign continues, not only are consumers boycotting, but announcements are being made to exclude Starbucks from various public and private events.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 불매운동의 확산과 브랜드 이미지 실추는 소셜 리스크가 어떻게 기업의 재무적 손실과 지속가능성 약화로 직결되는지 보여주는 명확한 증거다&lt;br/&gt;&lt;em&gt;However, the spread of the boycott and the tarnishing of the brand image are clear evidence of how social risks directly lead to financial losses and weakened sustainability for a company.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번 사태가 민관을 가리지 않는 전방위 불매운동에 이어, 정부 표창 취소 검토와 선불카드 환급 규정 개정 움직임까지 기업 환경 전반에 대한 고강도 압박으로 확산되면서 재차 몸을 낮추는 모습으로 풀이된다&lt;br/&gt;&lt;em&gt;This incident is interpreted as the company lowering its profile again as the situation escalates from an all-out boycott across public and private sectors to high-intensity pressure on the overall business environment, including reviews of revoking government awards and moves to revise prepaid card refund regulations.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리는 불매운동을 시작했습니다.&lt;br/&gt;&lt;em&gt;We started a boycott.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 회사는 불매운동으로 어려움을 겪었다.&lt;br/&gt;&lt;em&gt;The company suffered from the boycott.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1666088631522-4069ca2f1a61?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib3ljb3R0JTIwbW92ZW1lbnR8ZW58MHx8fHwxNzc5NzM2MzY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="불매운동 (boycott movement)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번 마케팅에 대한 비난 여론이 지속되면서 소비자들의 불매운동은 물론이고, 다양한 민관행사에서 스타벅스를 배제한다는 발표가 이어지고 있다&lt;br/&gt;&lt;em&gt;As public criticism of this marketing campaign continues, not only are consumers boycotting, but announcements are being made to exclude Starbucks from various public and private events.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러나 불매운동의 확산과 브랜드 이미지 실추는 소셜 리스크가 어떻게 기업의 재무적 손실과 지속가능성 약화로 직결되는지 보여주는 명확한 증거다&lt;br/&gt;&lt;em&gt;However, the spread of the boycott and the tarnishing of the brand image are clear evidence of how social risks directly lead to financial losses and weakened sustainability for a company.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번 사태가 민관을 가리지 않는 전방위 불매운동에 이어, 정부 표창 취소 검토와 선불카드 환급 규정 개정 움직임까지 기업 환경 전반에 대한 고강도 압박으로 확산되면서 재차 몸을 낮추는 모습으로 풀이된다&lt;br/&gt;&lt;em&gt;This incident is interpreted as the company lowering its profile again as the situation escalates from an all-out boycott across public and private sectors to high-intensity pressure on the overall business environment, including reviews of revoking government awards and moves to revise prepaid card refund regulations.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리는 불매운동을 시작했습니다.&lt;br/&gt;&lt;em&gt;We started a boycott.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 회사는 불매운동으로 어려움을 겪었다.&lt;br/&gt;&lt;em&gt;The company suffered from the boycott.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 26 May 2026 04:12:50 +0900</pubDate><guid isPermaLink="false">vocab-bdd72624d53c4666a039fae85ad384dbe65a7a4b</guid><enclosure url="https://images.unsplash.com/photo-1666088631522-4069ca2f1a61?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib3ljb3R0JTIwbW92ZW1lbnR8ZW58MHx8fHwxNzc5NzM2MzY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="102659" /><ns2:content url="https://images.unsplash.com/photo-1666088631522-4069ca2f1a61?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib3ljb3R0JTIwbW92ZW1lbnR8ZW58MHx8fHwxNzc5NzM2MzY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1666088631522-4069ca2f1a61?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib3ljb3R0JTIwbW92ZW1lbnR8ZW58MHx8fHwxNzc5NzM2MzY3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>불매운동</category></item><item><title>마케팅을 – marketing</title><link>urn:urn:vocab:마케팅을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1556742504-16b083241fab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtYXJrZXRpbmd8ZW58MHx8fHwxNzc5NzI4OTQyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="마케팅을 (marketing)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(최근 스타벅스 코리아가 선보인 마케팅을 둘러싼 논란이 뜨겁다&lt;br/&gt;&lt;em&gt;The controversy surrounding the recent marketing campaign by Starbucks Korea is heating up.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;5공피해자단체연합회와 국가폭력피해범국민연대가 21일 서울 종로구 스타벅스 광화문점 들머리에서 스타벅스코리아의 이른바 ‘탱크데이’ 마케팅을 규탄하는 기자회견을 열고 있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;The Federation of May 18 Victims' Organizations and the National Solidarity for Victims of State Violence held a press conference on the 21st at the entrance of Starbucks Gwanghwamun branch in Jongno-gu, Seoul, denouncing Starbucks Korea's so-called 'Tank Day' marketing.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(25일 유통업계 설명을 종합하면, 신세계그룹은 이번 사태의 진상을 규명하기 위해 논란이 된 ‘5‧18 탱크데이’ 마케팅을 담당한 스타벅스 커머스팀 등 유관자 5명 이상에 대한 고강도 감사를 한 것으로 알려졌다&lt;br/&gt;&lt;em&gt;(According to a comprehensive report from the retail industry on the 25th, it is known that Shinsegae Group conducted a high-intensity audit of at least five related personnel, including the Starbucks Commerce team responsible for the controversial 'May 18 Tank Day' marketing, in order to uncover the truth behind the incident.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 마케팅을 공부해요.&lt;br/&gt;&lt;em&gt;I study marketing.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 회사는 마케팅을 잘해요.&lt;br/&gt;&lt;em&gt;That company does marketing well.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1556742504-16b083241fab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtYXJrZXRpbmd8ZW58MHx8fHwxNzc5NzI4OTQyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="마케팅을 (marketing)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(최근 스타벅스 코리아가 선보인 마케팅을 둘러싼 논란이 뜨겁다&lt;br/&gt;&lt;em&gt;The controversy surrounding the recent marketing campaign by Starbucks Korea is heating up.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;5공피해자단체연합회와 국가폭력피해범국민연대가 21일 서울 종로구 스타벅스 광화문점 들머리에서 스타벅스코리아의 이른바 ‘탱크데이’ 마케팅을 규탄하는 기자회견을 열고 있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;The Federation of May 18 Victims' Organizations and the National Solidarity for Victims of State Violence held a press conference on the 21st at the entrance of Starbucks Gwanghwamun branch in Jongno-gu, Seoul, denouncing Starbucks Korea's so-called 'Tank Day' marketing.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(25일 유통업계 설명을 종합하면, 신세계그룹은 이번 사태의 진상을 규명하기 위해 논란이 된 ‘5‧18 탱크데이’ 마케팅을 담당한 스타벅스 커머스팀 등 유관자 5명 이상에 대한 고강도 감사를 한 것으로 알려졌다&lt;br/&gt;&lt;em&gt;(According to a comprehensive report from the retail industry on the 25th, it is known that Shinsegae Group conducted a high-intensity audit of at least five related personnel, including the Starbucks Commerce team responsible for the controversial 'May 18 Tank Day' marketing, in order to uncover the truth behind the incident.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 마케팅을 공부해요.&lt;br/&gt;&lt;em&gt;I study marketing.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 회사는 마케팅을 잘해요.&lt;br/&gt;&lt;em&gt;That company does marketing well.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 26 May 2026 02:09:06 +0900</pubDate><guid isPermaLink="false">vocab-e2a841a877add5245f96c87ab961fc6738c2c88b</guid><enclosure url="https://images.unsplash.com/photo-1556742504-16b083241fab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtYXJrZXRpbmd8ZW58MHx8fHwxNzc5NzI4OTQyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="76859" /><ns2:content url="https://images.unsplash.com/photo-1556742504-16b083241fab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtYXJrZXRpbmd8ZW58MHx8fHwxNzc5NzI4OTQyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1556742504-16b083241fab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MXwxfHNlYXJjaHwxfHxtYXJrZXRpbmd8ZW58MHx8fHwxNzc5NzI4OTQyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>마케팅을</category></item><item><title>점유율 – market share</title><link>urn:urn:vocab:점유율</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJrZXQlMjBzaGFyZXxlbnwwfHx8fDE3Nzk3MjE0Nzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="점유율 (market share)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(SKT, 1분기 점유율 39%로 반등…올해 안 40% 회복할까) &lt;&lt;br/&gt;&lt;em&gt;(SKT rebounds to 39% market share in Q1... Will it recover 40% within this year?) &lt;&lt;/em&gt;&lt;/p&gt;
