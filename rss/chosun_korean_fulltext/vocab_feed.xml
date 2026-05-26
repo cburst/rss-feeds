@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 03:02:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 05:11:58 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>장보고 – report</title><link>urn:urn:vocab:장보고</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>선거운동을 – election campaign</title><link>urn:urn:vocab:선거운동을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGNhbXBhaWdufGVufDB8fHx8MTc3OTgyNjMxNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거운동을 (election campaign)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (서울시장 선거 후보인 더불어민주당 정원오·국민의힘 오세훈 후보가 26일 ‘서소문 고가 붕괴’ 사고에 “사고 수습이 최우선”이라면서 선거운동을 잠정 중단한다고 밝혔다&lt;br/&gt;&lt;em&gt;" (Jeong Won-oh of the Democratic Party and Oh Se-hoon of the People Power Party, candidates for the Seoul mayoral election, announced on the 26th that they would temporarily suspend their election campaigns, saying that 'handling the accident is the top priority' regarding the 'Seosomun overpass collapse' accident."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정원오 후보 측은 이날 사고 발생 직후 “선거운동을 잠정 중단한다“면서 ”사고수습이 최우선“이라고 했다&lt;br/&gt;&lt;em&gt;" (Candidate Jeong Won-oh's side said immediately after the accident on the same day, 'We will temporarily suspend the election campaign' and 'Handling the accident is the top priority.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(더불어민주당 정원오 서울시장 후보와 국민의힘 오세훈 후보는 26일 서울 서대문구 서소문 고가차도 철거 현장 붕괴 사고 직후 선거운동을 잠정 중단하고 현장을 찾았다&lt;br/&gt;&lt;em&gt;(Jeong Won-oh, the Democratic Party candidate for Seoul mayor, and Oh Se-hoon, the People Power Party candidate, temporarily suspended their election campaigns and visited the site immediately after the collapse of the Seosomun elevated road demolition site in Seodaemun-gu, Seoul on the 26th.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선거운동을 열심히 했어요.&lt;br/&gt;&lt;em&gt;I worked hard on the election campaign.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선거운동을 도와주세요.&lt;br/&gt;&lt;em&gt;Please help with the election campaign.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGNhbXBhaWdufGVufDB8fHx8MTc3OTgyNjMxNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거운동을 (election campaign)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (서울시장 선거 후보인 더불어민주당 정원오·국민의힘 오세훈 후보가 26일 ‘서소문 고가 붕괴’ 사고에 “사고 수습이 최우선”이라면서 선거운동을 잠정 중단한다고 밝혔다&lt;br/&gt;&lt;em&gt;" (Jeong Won-oh of the Democratic Party and Oh Se-hoon of the People Power Party, candidates for the Seoul mayoral election, announced on the 26th that they would temporarily suspend their election campaigns, saying that 'handling the accident is the top priority' regarding the 'Seosomun overpass collapse' accident."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정원오 후보 측은 이날 사고 발생 직후 “선거운동을 잠정 중단한다“면서 ”사고수습이 최우선“이라고 했다&lt;br/&gt;&lt;em&gt;" (Candidate Jeong Won-oh's side said immediately after the accident on the same day, 'We will temporarily suspend the election campaign' and 'Handling the accident is the top priority.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(더불어민주당 정원오 서울시장 후보와 국민의힘 오세훈 후보는 26일 서울 서대문구 서소문 고가차도 철거 현장 붕괴 사고 직후 선거운동을 잠정 중단하고 현장을 찾았다&lt;br/&gt;&lt;em&gt;(Jeong Won-oh, the Democratic Party candidate for Seoul mayor, and Oh Se-hoon, the People Power Party candidate, temporarily suspended their election campaigns and visited the site immediately after the collapse of the Seosomun elevated road demolition site in Seodaemun-gu, Seoul on the 26th.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선거운동을 열심히 했어요.&lt;br/&gt;&lt;em&gt;I worked hard on the election campaign.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선거운동을 도와주세요.&lt;br/&gt;&lt;em&gt;Please help with the election campaign.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 05:11:58 +0900</pubDate><guid isPermaLink="false">vocab-f98bed177af59df06c54c29780c88ed5d0804dc9</guid><enclosure url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGNhbXBhaWdufGVufDB8fHx8MTc3OTgyNjMxNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="23486" /><ns2:content url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGNhbXBhaWdufGVufDB8fHx8MTc3OTgyNjMxNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGNhbXBhaWdufGVufDB8fHx8MTc3OTgyNjMxNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>선거운동을</category></item><item><title>장보고 – report</title><link>urn:urn:vocab:장보고</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnR8ZW58MHx8fHwxNzc5ODE4NTUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="장보고 (report)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Defense Ministry: "To Be Launched in Mid-2030s" (핵추진잠수함 ‘장보고 N사업’ 발표&lt;br/&gt;&lt;em&gt;Defense Ministry: "To Be Launched in Mid-2030s" (Nuclear-Powered Submarine 'Jangbogo N Project' Announcement)&lt;/em&gt;&lt;/p&gt;
