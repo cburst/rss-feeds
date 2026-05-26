@@ -1,49 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 25 May 2026 23:18:44 +0000</lastBuildDate><item><title>Ebola Ward in Congo Burns After Residents Turn Against Medics (콩고 에볼라 병동, 주민들의 의료진 반발로 불타)</title><link>https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/22/multimedia/22int-ebola-congo-clinic-1-kwcv/22int-ebola-congo-clinic-1-kwcv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Aid is desperately scarce here in Bunia, the epicenter of an alarming Ebola outbreak in the Democratic Republic of Congo. Hospitals are swamped with patients infected with a rare species of the virus.&lt;br/&gt;(콩고 민주 공화국에서 발생한 충격적인 에볼라 발병의 진원지인 부니아에서는 구호가 절실히 부족합니다. 병원은 희귀 바이러스 종에 감염된 환자들로 넘쳐나고 있습니다.)&lt;/p&gt;
-&lt;p&gt;So medical staff at one hospital on the edge of the city were relieved when an international aid group erected an isolation ward in its garden, to treat the worst cases.&lt;br/&gt;(도시 외곽에 있는 한 병원의 의료진은 국제 구호 단체가 병원 정원에 최악의 환자들을 치료할 격리 병동을 세웠을 때 안도했습니다.)&lt;/p&gt;
-&lt;p&gt;That respite turned to chaos on Thursday when a furious crowd stormed the hospital, hoping to retrieve the body of a suspected Ebola victim, and the isolation ward was burned to the ground.&lt;br/&gt;(그러나 목요일, 격분한 군중이 병원에 난입해 에볼라 의심 사망자의 시신을 되찾으려 하면서 격리 병동이 완전히 불타면서 상황은 혼란으로 변했습니다.)&lt;/p&gt;
-&lt;p&gt;The melee encapsulated some of the hardest challenges facing medical workers in Ituri, the province in northeastern Congo at the heart of the current outbreak.&lt;br/&gt;(이 난투극은 콩고 동북부 이투리 주에서 의료진이 직면한 가장 어려운 과제 중 일부를 보여줍니다. 이 지역은 현재 발병의 중심지입니다.)&lt;/p&gt;
-&lt;p&gt;Already, the rare Bundibugyo Ebola species has two advantages over aid workers trying to push it back: It has no vaccine or therapies, and the outbreak was detected disastrously late, perhaps two months after the first infection, health experts say.&lt;br/&gt;(이미 희귀한 분디부교 에볼라 종은 이를 막으려는 구호 요원들보다 두 가지 유리한 점을 가지고 있습니다. 백신이나 치료법이 없으며, 발병이 첫 감염 후 아마도 두 달 뒤인 재앙적으로 늦게 발견되었다고 보건 전문가들은 말합니다.)&lt;/p&gt;
-&lt;p&gt;On top of that, the disease has struck in an often-ignored corner of eastern Congo, where a decades-long conflict has left people with an enduring sense of frustration and trauma. Those emotions, combined with misinformation, can turn residents against the very medics trying to save them.&lt;br/&gt;(게다가 이 질병은 콩고 동부의 종종 무시되는 지역에서 발생했습니다. 이곳은 수십 년간의 분쟁으로 사람들이 지속적인 좌절과 트라우마를 안고 있습니다. 이러한 감정은 잘못된 정보와 결합되어 지역 주민들이 구하려는 의료진을 적대시하게 만들 수 있습니다.)&lt;/p&gt;
-&lt;p&gt;“They thought we wanted to kill patients, not save them,” said Dr. Isaac Mugenyi, the hospital director, at his office on Friday. Yards away lay the charred remains of the isolation ward: tent poles and burned beds. Four soldiers lingered by the hospital gate.&lt;br/&gt;("그들은 우리가 환자를 구하려는 것이 아니라 죽이려 한다고 생각했습니다"라고 병원장 아이작 무게니 박사가 금요일 사무실에서 말했습니다. 몇 야드 떨어진 곳에는 격리 병동의 탄 잔해가 남아 있었습니다. 텐트 기둥과 불탄 침대들이었습니다. 네 명의 군인이 병원 정문 근처에 머물렀습니다.)&lt;/p&gt;
-&lt;p&gt;Dr. Mugenyi looked stricken. “This situation is very, very tough,” he said.&lt;br/&gt;(무게니 박사는 충격에 빠진 듯 보였습니다. "이 상황은 매우, 매우 어렵습니다"라고 그가 말했습니다.)&lt;/p&gt;
-&lt;p&gt;DEmOCRATIC&lt;br/&gt;(콩고 민주 공화국)&lt;/p&gt;
-&lt;p&gt;REPUBLIC&lt;br/&gt;(부니아)&lt;/p&gt;
-&lt;p&gt;OF CONGO&lt;br/&gt;(이투리)&lt;/p&gt;
-&lt;p&gt;Bunia&lt;br/&gt;(우간다)&lt;/p&gt;
-&lt;p&gt;ITURI&lt;br/&gt;(50마일)&lt;/p&gt;
-&lt;p&gt;UGANDA&lt;br/&gt;(중앙아프리카 공화국)&lt;/p&gt;
-&lt;p&gt;50 miles&lt;br/&gt;(세부 지역)&lt;/p&gt;
-&lt;p&gt;Cent. african&lt;br/&gt;(르완다)&lt;/p&gt;
-&lt;p&gt;rep.&lt;br/&gt;(킨샤사)&lt;/p&gt;
-&lt;p&gt;Detail&lt;br/&gt;(탄자니아)&lt;/p&gt;
-&lt;p&gt;area&lt;br/&gt;(대서양)&lt;/p&gt;
-&lt;p&gt;RWANDA&lt;br/&gt;(잠비아)&lt;/p&gt;
-&lt;p&gt;Kinshasa&lt;br/&gt;(부룬디)&lt;/p&gt;
-&lt;p&gt;tanzania&lt;br/&gt;(앙골라)&lt;/p&gt;
-&lt;p&gt;Atlantic&lt;br/&gt;(뉴욕 타임스)&lt;/p&gt;
-&lt;p&gt;Ocean&lt;br/&gt;(세계보건기구는 현재 발병으로 이미 177명이 사망하고 750명이 더 감염된 것으로 추정하며, 이 수치는 급격히 증가할 가능성이 있습니다. 부니아 공항에서는 구호 단체들이 바이러스와 싸우기 위해 격리 병동 및 기타 시설을 설치하려고 애쓰면서 플라스틱 용기와 의료 구호품 상자가 활주로에 쌓여 있었습니다.)&lt;/p&gt;
-&lt;p&gt;ZAMBIA&lt;br/&gt;(상황을 더 복잡하게 만드는 것은 유엔이 금요일 우간다 정부의 명령을 근거로 우간다에서 콩고로 가는 모든 항공편을 중단했다는 점입니다. 이는 뉴욕 타임스가 본 내부 메모에 따른 것입니다.)&lt;/p&gt;
-&lt;p&gt;BURUNDI&lt;br/&gt;(의료진과 주민들은 병원 화재가 엘리에 무눙고라는 남성의 사망으로 촉발되었다고 말했습니다. 여러 주민에 따르면 28세의 무눙고는 지역 사회에서 인기 있는 사람이었습니다. 그는 지역 축구팀에서 뛰었고, 오토바이 택시를 운전했으며, 교회 합창단에서 노래를 불렀습니다.)&lt;/p&gt;
-&lt;p&gt;ANGOLA&lt;br/&gt;(그가 목요일에 사망한 후—가족이 처음에 말라리아로 생각해 입원한 지 5일 만에—수백 명의 사람들이 병원 정문에 모여 장례를 위해 그의 시신을 요구했습니다.)&lt;/p&gt;
-&lt;p&gt;The New York Times&lt;br/&gt;(직원들이 거부하자 군중은 병원에 돌을 던져 국제 구호 단체 차량을 손상시켰습니다. 그런 다음 그들은 정문을 통해 밀려들었습니다. 경찰이 군중을 해산시키려고 공중에 총을 발사했습니다. 그러자 병원 정원의 텐트 두 개로 된 에볼라 병동에 불이 붙었고, 안에는 에볼라 의심 환자 다섯 명이 있었습니다.)&lt;/p&gt;
-&lt;p&gt;The World Health Organization estimates the current outbreak has already killed 177 people and infected 750 more — a toll likely to rise sharply. At the airport in Bunia, plastic containers and boxes of medical aid stood piled on the runway, as aid groups scrambled to set up isolation wards and other facilities to fight the virus.&lt;br/&gt;(에볼라 환자들은 목숨을 걸고 도망갔으며 아직 돌아오지 않았다고 여러 병원 직원이 말했습니다. 병원의 다른 구역에 있던 환자들도 도망갔습니다.)&lt;/p&gt;
-&lt;p&gt;Further complicating matters, the U.N. halted all flights to Congo from Uganda on Friday, citing an order from the Ugandan government, according to an internal memo seen by The New York Times.&lt;br/&gt;(무게니 씨에 따르면 군중 사이에서는 의료진이 에볼라 환자들을 독살하고 있다는 이야기가 퍼졌습니다. 사실, 문제는 많은 사람들이 병원에 오기 전에 전통 치료사를 찾는다는 점이라고 그는 말했습니다. "그래서 그들이 여기 도착할 때쯤에는 이미 심각하게 아픈 상태입니다.")&lt;/p&gt;
-&lt;p&gt;Medics and residents said the fire at the hospital was set off by the death of a man named Elie Munungo. Mr. Munungo, 28, was a popular person in the community, according to several residents. He played football for the local team, drove a motorcycle taxi and sang in a church choir.&lt;br/&gt;(그러나 혼란스러운 장면은 금요일에 속임수의 정상성을 보여준 도시에서 예외적인 사건이었습니다.)&lt;/p&gt;
-&lt;p&gt;After he died on Thursday, five days after being admitted for what his family initially thought was malaria, several hundred people massed at the hospital gates to demand his body for burial.&lt;br/&gt;(시장은 붐볐고 거리는 교통으로 흘렀습니다. 웃는 아이들은 학교에서 집으로 뛰어갔습니다. 여성들은 엄청난 양의 채소를 머리에 이고 균형을 잡았습니다. 약 4분의 1의 사람들이 마스크를 착용했습니다.)&lt;/p&gt;
-&lt;p&gt;When staff refused, the crowd threw stones at the hospital, damaging a vehicle belonging to the international aid group. Then they surged through the gates. Police fired into the air, attempting to disperse the crowd. Then the Ebola ward, a pair of tents in the hospital garden, caught fire, with five suspected Ebola patients inside.&lt;br/&gt;(그러나 표면적인 평온 아래에는 깊은 불안감이 흐르고 있었습니다. 도시 전역에서 손 소독제가 동이 났으며, 약사들에 따르면 마스크는 평소보다 최대 10배 더 비싸게 팔리고 있습니다.)&lt;/p&gt;
-&lt;p&gt;The Ebola patients ran for their lives, and have yet to return, several hospital staff members said. Patients from other areas in the hospital also fled.&lt;br/&gt;(금요일의 대규모 장례식에서는 입장하는 조문객들의 에볼라 증상을 확인했습니다. 전통적인 식사 대신 그들에게 차가운 탄산음료가 제공되었습니다.)&lt;/p&gt;
-&lt;p&gt;Stories had circulated among the crowd that the medics had been poisoning the Ebola patients, Mr. Mugenyi said. In fact, he said, the problem is that many people turned to traditional healers before coming to the hospital. “So by the time they arrive here, they are seriously ill.”&lt;br/&gt;(인근 약국에서 32세의 엘리자베스 콤비는 여섯 자녀를 안전하게 지키기 위해 집에 두고 있다고 말했습니다. 몇 시간 전에 그녀는 마지막 손 소독제 병을 팔았습니다.)&lt;/p&gt;
-&lt;p&gt;The chaotic scenes were an outlier, however, in a city that on Friday presented a face of deceptive normality.&lt;br/&gt;("사람들은 이번에는 많은 사람을 죽이고 있기 때문에 두려워합니다"라고 그녀는 말했습니다. "그리고 아직 치료법이 없습니다.")&lt;/p&gt;
-&lt;p&gt;Markets were busy and the streets flowed with traffic. Laughing children skipped home from school. Women balanced impossible loads of vegetables on their heads. Perhaps one-quarter of people wore face masks.&lt;br/&gt;(그녀는 WHO가 앞으로 몇 주 안에 치료법을 제공하기를 바란다고 말했습니다. 그러나 미국이 1월에 회원국 자격을 철회한 이 기구는 치료법이 나오기까지 6개월이 걸릴 수 있다고 말합니다.)&lt;/p&gt;
-&lt;p&gt;But beneath the apparent calm flowed a deep undercurrent of apprehension. Supplies of hand sanitizer have run out across the city, and face masks were selling for up to 10 times more than usual, pharmacists said.&lt;br/&gt;(피해를 입은 병원에서 직원들은 무눙고 씨가 가족에 의해 안전하게 매장되었다고 말했습니다. 그러나 몇 시간 전에 사망한 두 번째 남성의 유해는 화재로 불탔다고 직원들이 말했습니다.)&lt;/p&gt;
-&lt;p&gt;At a large funeral on Friday, attendants checked mourners for symptoms of Ebola as they entered. Instead of the traditional meal, they were given cold sodas.&lt;br/&gt;(몇 시간 전, 또 다른 에볼라 환자가 사망했습니다.)&lt;/p&gt;
-&lt;p&gt;At a nearby pharmacy, Elizabeth Kombi, 32, said she was keeping her six children at home to ensure their safety. Hours earlier, she had sold her last bottle of hand sanitizer.&lt;br/&gt;(병원의 위생 작업원 엘레카네 부가사키는 교대 근무가 끝나면서 작업복을 소독했습니다. 그는 이 일이 위험하다는 것을 알고 있다고 말했습니다. 그러나 그는 일곱 자녀를 안전하게 지키기 위해 이 일을 하고 있었습니다.)&lt;/p&gt;
-&lt;p&gt;“People are afraid because this time around, it’s killing a lot of people,” she said. “And there’s no cure yet.”&lt;br/&gt;("두렵습니다"라고 그는 배낭을 메고 집에 가면서 말했습니다. "신에게 많이 기도합니다.")&lt;/p&gt;
-&lt;p&gt;She hoped the W.H.O. would deliver a cure in the coming weeks, she said. But the organization, from which the United States withdrew as a member in January, says it could be six months before one is available.&lt;br/&gt;(저는 그에게 잘 지내길 바라며 안전을 지키라고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;At the stricken hospital, staff members said that Mr. Munungo was safely buried by his family. But the remains of a second man, who had died hours earlier, were burned in the fire, staff said.&lt;br/&gt;("하지만 치료법이 없잖아요"라고 그가 반박했습니다. "어떻게 안전할 수 있겠습니까?")&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/22/multimedia/22int-ebola-congo-clinic-1-kwcv/22int-ebola-congo-clinic-1-kwcv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 22 May 2026 16:35:27 +0000</pubDate></item><item><title>Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China (중국 탄광 폭발 사망자 최소 82명…시진핑, 전면 수색·구조 지시)</title><link>https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html</link><description>&lt;![CDATA[&lt;p&gt;China’s top leader, Xi Jinping, called on Saturday for a redoubled rescue mission in northern China after a gas explosion in a mine there killed at least 82 people, the Chinese state news agency said, in what appeared to be one of the deadliest Chinese mining disasters in years.&lt;br/&gt;(중국 최고 지도자 시진핑이 16일 중국 북부에서 발생한 탄광 가스 폭발 사고로 최소 82명이 사망한 가운데 구조 작업 강화를 지시했다고 중국 국영 통신이 보도했다. 이번 사고는 수년 만에 가장 치명적인 중국 광산 참사 중 하나로 보인다.)&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 26 May 2026 03:29:29 +0000</lastBuildDate><item><title>Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China (중국 탄광 폭발 사망자 최소 82명…시진핑, 전면 수색·구조 지시)</title><link>https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html</link><description>&lt;![CDATA[&lt;p&gt;China’s top leader, Xi Jinping, called on Saturday for a redoubled rescue mission in northern China after a gas explosion in a mine there killed at least 82 people, the Chinese state news agency said, in what appeared to be one of the deadliest Chinese mining disasters in years.&lt;br/&gt;(중국 최고 지도자 시진핑이 16일 중국 북부에서 발생한 탄광 가스 폭발 사고로 최소 82명이 사망한 가운데 구조 작업 강화를 지시했다고 중국 국영 통신이 보도했다. 이번 사고는 수년 만에 가장 치명적인 중국 광산 참사 중 하나로 보인다.)&lt;/p&gt;
 &lt;p&gt;Mr. Xi “stressed the need to make every effort to treat the injured, organize search and rescue operations scientifically and properly handle the aftermath,” the agency, Xinhua, reported. He also called for an investigation into the explosion, which happened Friday night, and emphasized the need to “hold those responsible to account, according to the law.”&lt;br/&gt;(신화통신에 따르면 시진핑은 "부상자 치료에 총력을 기울이고, 과학적이고 적절한 수색·구조 작업을 조직하며, 사후 처리를 적절히 할 것"을 강조했다. 그는 또한 금요일 밤 발생한 폭발 사고에 대한 조사와 함께 "법에 따라 책임자들을 엄중히 처벌할 것"을 촉구했다.)&lt;/p&gt;
 &lt;p&gt;Mr. Xi’s decision to quickly and personally issue a statement was significant and may have indicated that Chinese officials expected the situation to worsen. The Chinese government often keeps back details of accidents while it gathers information and prepares to issue a response. But soon after Mr. Xi’s statement on Saturday, the official death count began to rise drastically, with new tolls announced every few minutes.&lt;br/&gt;(시진핑이 신속히 직접 성명을 발표하기로 한 결정은 의미심장하며, 중국 관리들이 상황이 악화될 것으로 예상했음을 시사할 수 있다. 중국 정부는 정보를 수집하고 대응을 준비하는 동안 사고 세부 사항을 자주 공개하지 않는다. 그러나 토요일 시진핑의 성명 직후 공식 사망자 수는 급격히 증가하기 시작했으며, 몇 분마다 새로운 사망자 수가 발표됐다.)&lt;/p&gt;
 &lt;p&gt;However, the latest death toll of 82 people was a correction by officials to an earlier count of 90 reported by state media. The head of the county, speaking at a news conference late on Saturday, said the chaos of the scene and unclear numbers on the company’s work force led the government to get the initial toll wrong.&lt;br/&gt;(그러나 최신 사망자 수 82명은 당초 국영 매체가 보도한 90명에 대한 관리들의 정정이다. 토요일 늦은 기자회견에서 현지 군수는 현장 혼란과 회사 근로자 수의 불명확성으로 인해 정부가 초기 사망자 수를 잘못 파악했다고 밝혔다.)&lt;/p&gt;
@@ -171,7 +127,7 @@
 &lt;p&gt;Mr. Bryan said Tracc was using local sand at Pom Pom Island to cast the artificial reefs, so the project’s carbon footprint was low.&lt;br/&gt;(브라이언 씨는 트랙이 폼폼 섬에서 현지 모래를 사용해 인공 암초를 주조하므로 프로젝트의 탄소 발자국이 낮다고 말했다.)&lt;/p&gt;
 &lt;p&gt;Tracc hopes to bring the structures to Tioman Island, a popular tourist destination off Peninsular Malaysia’s east coast, where reefs have been battered by monsoonal storms. The test could show whether the structures can survive rough waters and whether early signs of success can be replicated on a larger scale.&lt;br/&gt;(트랙은 말레이 반도 동쪽 해안의 인기 관광지인 티오만 섬으로 구조물을 가져갈 계획이며, 그곳의 산호초는 계절풍 폭풍으로 손상되었다. 이 테스트는 구조물이 거친 해역에서 견딜 수 있는지와 초기 성공 징후가 더 큰 규모로 재현될 수 있는지를 보여줄 수 있다.)&lt;/p&gt;
 &lt;p&gt;“Though it is a small area at a time,” Mr. Bryan said, “it is changing and improving.”&lt;br/&gt;(“한 번에 작은 면적이지만,” 브라이언 씨는 “변화하고 개선되고 있습니다.”라고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/24/multimedia/24int-malaysia-corals-01-bgkz/24int-malaysia-corals-01-bgkz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 24 May 2026 18:48:45 +0000</pubDate></item><item><title>What to Know About the Potential U.S.-Iran Peace Deal (미·이란 잠재적 평화 협정에 대해 알아야 할 사항)</title><link>https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/24/multimedia/24xp-mideast-agreement-wwk-1-hwml/24xp-mideast-agreement-wwk-1-hwml-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/24/multimedia/24int-malaysia-corals-01-bgkz/24int-malaysia-corals-01-bgkz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 24 May 2026 18:48:46 +0000</pubDate></item><item><title>What to Know About the Potential U.S.-Iran Peace Deal (미·이란 잠재적 평화 협정에 대해 알아야 할 사항)</title><link>https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/24/multimedia/24xp-mideast-agreement-wwk-1-hwml/24xp-mideast-agreement-wwk-1-hwml-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The United States and Iran have agreed in principle to a deal that would wind down the war in the Middle East by reopening the Strait of Hormuz and committing Iran to dispose of its highly enriched uranium, a senior U.S. official who declined to be named told reporters on Sunday.&lt;br/&gt;(이름을 밝히길 거부한 미국 고위 관리는 일요일 기자들에게 미국과 이란이 호르무즈 해협을 재개방하고 이란이 고농축 우라늄을 폐기하기로 합의하는 등 중동 전쟁을 종식시키는 원칙적 합의에 도달했다고 전했습니다.)&lt;/p&gt;
 &lt;p&gt;But President Trump, in a post on social media on Sunday afternoon, noted that the deal “isn’t even fully negotiated yet.”&lt;br/&gt;(그러나 도널드 트럼프 대통령은 일요일 오후 소셜 미디어 게시글에서 이 협정이 "아직 완전히 협상된 것조차 아니다"고 언급했습니다.)&lt;/p&gt;
 &lt;p&gt;A day earlier, Esmail Baghaei, Iran’s foreign ministry spokesman, said that Washington and Tehran were in the “final stage” of drafting a memorandum of understanding and “may be able to reach a mutually acceptable solution.” Neither Iran’s leaders nor official state media have publicly commented on the substance of any potential agreement.&lt;br/&gt;(하루 전, 이란 외무부 대변인 에스마일 바가에는 워싱턴과 테헤란이 양해각서 초안을 작성하는 "최종 단계"에 있으며 "상호 수용 가능한 해결책에 도달할 수 있을 것"이라고 말했습니다. 이란 지도부나 공식 국영 언론은 잠재적 협정의 내용에 대해 공개적으로 언급하지 않았습니다.)&lt;/p&gt;
@@ -201,7 +157,7 @@
 &lt;p&gt;Some Senate Democrats who were critical of Mr. Trump’s vague proposal expressed a similar sentiment. Senator Cory Booker of New Jersey said on CNN that the president was “being played as a fool.”&lt;br/&gt;(트럼프 대통령의 모호한 제안을 비판한 일부 상원 민주당원들도 비슷한 감정을 표현했습니다. 뉴저지 주 코리 부커 상원의원은 CNN에서 대통령이 "바보처럼 이용당하고 있다"고 말했습니다.)&lt;/p&gt;
 &lt;p&gt;Mr. Trump shot back at critics on social media on Sunday afternoon, calling them “losers, who are critical about something they know nothing about.”&lt;br/&gt;(트럼프 대통령은 일요일 오후 소셜 미디어에서 비판자들에게 "자신이 전혀 모르는 일에 대해 비판하는 패자들"이라고 반박했습니다.)&lt;/p&gt;
 &lt;p&gt;“Unlike those before me who should have solved this problem many years ago,” he said. “I don’t make bad deals!”&lt;br/&gt;("나보다 앞서 이 문제를 수년 전에 해결했어야 했던 사람들과 달리, 나는 나쁜 거래를 하지 않는다!"고 그는 말했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/24/multimedia/24xp-mideast-agreement-wwk-1-hwml/24xp-mideast-agreement-wwk-1-hwml-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 25 May 2026 07:42:38 +0000</pubDate></item><item><title>Israeli Leader Says He and Trump Agree on Blocking an Iranian Nuclear Weapon (이스라엘 총리, 트럼프와 이란 핵무기 저지에 합의했다고 밝혀)</title><link>https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/24/multimedia/24int-israel-reax-1-wgcf/24int-israel-reax-1-wgcf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/24/multimedia/24xp-mideast-agreement-wwk-1-hwml/24xp-mideast-agreement-wwk-1-hwml-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 25 May 2026 16:28:48 +0000</pubDate></item><item><title>Israeli Leader Says He and Trump Agree on Blocking an Iranian Nuclear Weapon (이스라엘 총리, 트럼프와 이란 핵무기 저지에 합의했다고 밝혀)</title><link>https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/24/multimedia/24int-israel-reax-1-wgcf/24int-israel-reax-1-wgcf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Prime Minister Benjamin Netanyahu of Israel said on Sunday that he and President Trump remained united in their stance on preventing Iran from obtaining nuclear weapons, in his first statement on an emerging peace deal.&lt;br/&gt;(이스라엘의 베냐민 네타냐후 총리는 27일(현지시간) 자신과 도널드 트럼프 미국 대통령이 이란이 핵무기를 보유하는 것을 막아야 한다는 입장에서 단결된 모습을 보이고 있다고 말했다. 이는 협상 중인 평화 협정에 대한 첫 공식 입장이었다.)&lt;/p&gt;
 &lt;p&gt;A senior U.S. official said on Sunday that the United States and Iran had agreed to a preliminary deal that would fully reopen the Strait of Hormuz and see Iran dispose of its stock of highly enriched uranium. He cautioned that a deal had not been signed and would have to be approved by President Trump and Iran’s supreme leader.&lt;br/&gt;(미국 고위 관리는 이날 미국과 이란이 호르무즈 해협을 완전히 재개방하고 이란이 보유한 고농축 우라늄을 처분하는 내용의 잠정 합의에 도달했다고 밝혔다. 그는 협정이 아직 서명되지 않았으며 트럼프 대통령과 이란 최고 지도자의 승인을 받아야 한다고 강조했다.)&lt;/p&gt;
 &lt;p&gt;Many of the most intractable problems between the countries, including the future of Iran’s nuclear program, were put off to future negotiations, the official added.&lt;br/&gt;(이 관리는 이란 핵 프로그램의 미래를 포함한 양국 간 가장 해결하기 어려운 많은 문제들이 차후 협상으로 미뤄졌다고 덧붙였다.)&lt;/p&gt;
@@ -605,7 +561,161 @@ Met Office는 이번 폭염이 2019년에 공식 폭염 정의를 도입한 이�
 &lt;p&gt;Last week, Mr. Trump said that he was delaying another previously unannounced military offensive against Iran after requests from Gulf Arab leaders, given that “serious negotiations” were taking place.&lt;br/&gt;(지난 주, 트럼프는 걸프 아랍 지도자들의 요청에 따라 "진지한 협상"이 진행 중이라는 이유로 이란에 대한 이전에 발표되지 않은 또 다른 군사 공세를 연기한다고 밝혔다.)&lt;/p&gt;
 &lt;p&gt;Iran experts say the country’s leadership has emerged emboldened from the war, believing that the country had weathered an attempt to topple the Islamic Republic.&lt;br/&gt;(이란 전문가들은 이란 지도부가 전쟁에서 자신감을 얻어 나왔으며, 국가가 이슬람 공화국을 전복시키려는 시도를 견뎌냈다고 믿고 있다고 말한다.)&lt;/p&gt;
 &lt;p&gt;The leadership views time as on its side, analysts say, in part given their ability to rattle global energy prices.&lt;br/&gt;(분석가들은 지도부가 시간이 자신의 편이라고 보는데, 부분적으로는 세계 에너지 가격을 흔들 수 있는 능력 때문이라고 말한다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/23/multimedia/trump-pressure-kjmp/trump-pressure-kjmp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 25 May 2026 06:05:11 +0000</pubDate></item><item><title>Detroit Once Ruled Canada’s Car Industry. Trump’s Tariffs May End That. (디트로이트는 한때 캐나다 자동차 산업을 지배했다. 트럼프의 관세가 그것을 끝낼 수도 있다.)</title><link>https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/18/multimedia/00int-canada-autos03-photo-vtcp/00int-canada-autos03-photo-vtcp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/23/multimedia/trump-pressure-kjmp/trump-pressure-kjmp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 25 May 2026 06:05:11 +0000</pubDate></item><item><title>Main Takeaways From Pope Leo’s Encyclical on A.I. (교황 레오 14세의 인공지능 회칙 주요 요지)</title><link>https://www.nytimes.com/2026/05/25/us/pope-leo-encyclical-highlights.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/26/multimedia/26nat-pope-annotations-SWAP-tjpq/26nat-pope-annotations-SWAP-tjpq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Pope Leo XIV’s major new teaching on safeguarding humanity in the age of artificial intelligence is a forward-looking document, arriving at the precipice of what many see as a new technological age that will profoundly reshape human life.&lt;br/&gt;(교황 레오 14세의 인공지능 시대 인류 보호에 관한 주요 새 가르침은 많은 이들이 인류의 삶을 근본적으로 재편할 새로운 기술 시대의 전조로 보는 시점에 발표된 미래지향적 문건이다.)&lt;/p&gt;
+&lt;p&gt;“Magnifica Humanitas,” or “Magnificent Humanity,” is the American pope’s first encyclical, a document that is considered one of the most significant papal teachings.&lt;br/&gt;('위대한 인간(Magnifica Humanitas)'은 미국 출신 교황의 첫 번째 회칙으로, 가장 중요한 교황 가르침 중 하나로 간주된다.)&lt;/p&gt;
+&lt;p&gt;Leo signed “Magnifica Humanitas” on the 135th anniversary of “Rerum Novarum,” known in English as “Rights and Duties of Capital and Labor.” That encyclical, on labor in the context of the Industrial Revolution, was written by Pope Leo XIII, who was the inspiration for Leo XIV’s papal name. Like his 19th-century predecessor, the current pope is consciously tackling what is expected to be one of the most pressing issues facing humanity over the course of his papacy.&lt;br/&gt;(레오 교황은 '노동과 자본의 권리와 의무(Rerum Novarum)' 135주년에 '위대한 인간'에 서명했다. 산업혁명 시대 노동을 다룬 이 회칙은 레오 13세 교황이 작성했으며, 레오 14세 교황의 교황명 영감의 원천이 되었다. 19세기 선임 교황과 마찬가지로 현 교황은 그의 재임 기간 내내 인류가 직면할 가장 시급한 문제 중 하나로 예상되는 사안을 의식적으로 다루고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+42,300단어에 달하는 전 세계 14억 가톨릭 신자들에게 보내는 이 공개 서한은 방대한 내용을 담고 있다. 다음은 레오 교황의 두드러진 주제와 논점들이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+우리는 이러한 종류의 '지능'을 인간의 지능과 동일시하는 오해를 피해야 한다. 이 시스템들은 단지 인간 지능의 특정 기능을 모방할 뿐이다. 그렇게 함으로써 속도와 계산 능력에서 종종 인간의 지능을 능가하여 여러 분야에서 실질적인 혜택을 제공한다. 그러나 이러한 힘은 여전히 전적으로 데이터 처리에 묶여 있다. 소위 인공지능은 경험을 겪지 않으며, 몸을 소유하지 않고, 기쁨이나 고통을 느끼지 않으며, 관계를 통해 성숙하지 않고, 사랑, 노동, 우정 또는 책임이 무엇인지 내면에서 알지 못한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+레오 교황은 인공지능 분야를 빠르게 진화하며 '귀중한 도구'로서 진정한 가능성을 지닌 것으로 설명한다. 그러나 그는 본문 전반에 걸쳐 인공지능이 인간의 마음과 심지어 영혼에 얼마나 가까이 접근하든 근본적인 수준에서는 인간이 아니라고 강조한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 관점은 기계와 인간을 명확히 구분한다. 이는 최근 인공지능 시스템이 실제로 인간의 감정을 느끼거나 표현할 수 있는지 의문을 제기한 일부 연구자와 사상가, 현장에 있는 일부 인사의 견해를 직접 반박한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다양한 종류의 고용 불안정, 파편화된 경력 경로 및 자동화는 효율성 측면에서만 평가되어서는 안 되며, 노동자의 존엄성, 충분한 보수에 대한 권리, 사회에 참여할 수 있는 진정한 가능성과 관련하여 평가되어야 한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+인공지능은 이미 많은 초급 일자리를 대체했으며, 그 최종 영향 범위는 아직 명확하지 않지만 사무직과 육체 노동의 대규모 자동화는 노동 시장의 대부분 부문을 크게 재편할 가능성이 높다.
+&lt;&lt;&lt;PARA&gt;&gt;
+요한 바오로 2세 교황을 포함한 여러 선임 교황의 생각을 반영하여, 레오 교황은 경제 및 기술 시스템이 역사 과정에서 급진적 격변을 겪을 수 있음을 인정하면서도, 공정한 임금을 포함한 노동자의 본질적 존엄성이 어떤 새로운 질서의 중심에 남아 있어야 한다고 주장한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+또 다른 부분에서 그는 디지털 경제와 연결된 '새로운 형태의 노예제'를 비난한다. 여기에는 데이터 라벨링 및 콘텐츠 모니터링 같은 일에서 최저 임금을 받는 젊은이들과 산업에 필요한 희토류 원료를 위험한 조건에서 채굴하는 더 어린 이들이 포함된다: "계산 흐름이 중단 없이 계속될 수 있도록 이들의 몸은 흉터, 부상, 마모로 얼룩진다."
+&lt;&lt;&lt;PARA&gt;&gt;
+우리는 빠른 전환의 시기, 즉 '시대의 변화'를 겪고 있다. 일부는 새로운 기술의 미래를 위해 경쟁하고 다른 일부는 이 문제에 대해 숙고하는 동안, 대부분의 사람들은 멀리서 지켜보고 기다리며 그저 최선을 바라고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+바티칸은 월요일 회칙 공식 발표에 실리콘밸리 인사들을 초청했으며, 특히 앤트로픽(Anthropic)의 공동 창업자 크리스토퍼 올라(Christopher Olah)가 발표에 참여했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 회칙 자체는 독자들에게 현장에서 역사를 만들고자 하는 사람들만이 가치 있는 것이 아니라고 상기시킨다. 세계 인구의 대부분은 이러한 지도자들이 기술 혁명을 어떻게 관리하는지에 따른 결과를 감수해야 할 것이다. '위대한 인간'은 '멀리서 지켜보는' 각 사람이 중요하다고 주장한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그러나 사람의 가치는 그들이 성취하거나 생산하는 것에 달려 있지 않습니다." 레오 교황은 본문 다른 곳에서 이렇게 쓴다. "인간이라는 이유만으로 모든 사람에게 적용되는 권리가 있습니다." 이 문서는 '존엄성'이라는 단어를 100번 사용한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+목자이자 아버지의 마음으로, 나는 모든 이에게 또 다른 바벨탑을 쌓는 것을 포기하고 공동선을 세우기 위해 힘을 합칠 것을 요청한다. 그래서 인류가 결코 그 아름다움을 잃지 않고, 세상이 다시 한번 인간의 마음을 하나님이 거하시기를 원하는 장소로 인식하게 되기를 바란다.
+&lt;&lt;&lt;PARA&gt;&gt;
+성경의 바벨탑 이야기는 핵심 지침으로 반복해서 등장한다. 이 이야기는 창세기에 나타나며, 단일 언어를 사용하는 통일된 인류가 자신의 권력과 지배력을 행사하기 위해 '하늘에 닿는' 탑을 쌓기로 결정하는 세상을 묘사한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이에 대한 응답으로 하느님은 사람들을 땅 곳곳에 흩어지게 하시는데, 이는 다양한 언어와 문화의 존재에 대한 기원 이야기 역할을 한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+레오 교황은 바벨탑을 획일성과 표준화를 추구할 때의 함정, 그리고 종교의 주장과 경쟁할 수 있는 야심 찬 사업의 한계에 대한 예시로 사용한다. 글로벌 문화의 많은 측면이 동질화되고 기술이 일종의 보편적 언어가 됨에 따라, 레오 교황의 겸손과 다양성에 대한 요구는 대조를 이룬다. 이는 또한 인공지능이 제기하는 겉으로 보기에 새로운 윤리적, 사회적 도전 중 많은 것이 고대 뿌리를 가지고 있음을 상기시킨다.
+&lt;&lt;&lt;PARA&gt;&gt;
+최근 몇 년간 심리학 및 정신의학 문헌은 특히 가장 취약한 생애 단계에서 어린 시절의 디지털 기기 및 소셜 미디어에 대한 조기 및 무감독 노출이 수면, 집중력, 감정 조절 및 관계에 부정적인 영향을 미칠 수 있으며, 때로는 비극적 결과를 초래할 수 있다는 점을 점점 더 강조하며 기록해 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 광범위한 도덕적 힘에도 불구하고, '위대한 인간'은 또한 실용적인 문서로서, 레오 교황이 교회의 수억 가족을 위한 사목적 돌봄에 초점을 맞추고 있음을 보여준다. 이 문서는 기술이 아동 발달에 미치는 영향에 대한 연구를 조사하며, 여기에는 조기 및 무감독 휴대전화 접근이 어린이를 중독, 괴롭힘, 성적 착취에 취약하게 만드는 방식이 포함된다. 다른 주제로는 데이터 소유권 규제와 전쟁에서 인공지능 관련 무기 사용이 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이러한 이유로 인류는 그 모든 웅장함과 상처 속에서 결코 대체되거나 능가되어서는 안 된다. 우리는 고통을 완화하고 새로운 가능성을 열어주는 기술 발전을 받아들일 수 있다. 단, 우리 인간성의 본질, 즉 관계와 사랑의 능력을 포기하지 않는 한에서이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+'위대한 인간'이라는 제목이 모든 것을 말해준다: 결국 레오 교황은 기술보다는 인류에 더 관심이 있다. 인간은 결함이 있고, 취약하며, 유한하다고 교황은 쓴다. 성과라는 냉철한 기준으로만 측정한다면, 우리는 우리가 창조한 기술에 점점 더 열등해지고 있다. 그러나 교황은 인간에 대한 큰 애정을 가지고 글을 쓴다. 본문은 "우리가 인간의 위대함, 곧 하나님이 거처를 삼으신 그 위대함을 증언할 수 있기를" 바라는 소망으로 끝난다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/25/us/pope-leo-encyclical-highlights.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/26/multimedia/26nat-pope-annotations-SWAP-tjpq/26nat-pope-annotations-SWAP-tjpq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 25 May 2026 12:16:24 +0000</pubDate></item><item><title>Are We Pandemic Ready? (우리는 팬데믹에 대비하고 있는가?)</title><link>https://www.nytimes.com/2026/05/25/world/pandemic-ebola-outbreak-iran-qatar.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/26/multimedia/26int-theworld-ebola-01-flkc/26int-theworld-ebola-01-flkc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Covid was a collective trauma. I was based in Berlin then and still remember the day Angela Merkel, Germany’s chancellor at the time, announced the lockdown. The rest is history: Home-schooling, masks, PCR tests, apocalyptically empty airports, the stories of friends’ parents passing away alone in hospitals and care homes. It was hard.&lt;br/&gt;(코로나는 집단적 트라우마였다. 당시 베를린에 살고 있던 나는 당시 독일 총리였던 앙겔라 메르켈이 봉쇄령을 발표한 날을 아직도 기억한다. 그 후의 이야기는 역사가 되었다: 홈스쿨링, 마스크, PCR 검사, 종말처럼 텅 빈 공항, 병원과 요양원에서 홀로 세상을 떠난 친구 부모님들의 이야기. 힘든 시간이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그래서 최근 한타바이러스와 에볼라라는 두 가지 바이러스 발병 소식이 큰 충격으로 다가온다. 이게 다음 코로나냐고 친구가 물었다. 그렇지 않다. 하지만 과학 및 글로벌 보건 전문 기자인 제 동료 아푸르바 만다빌리가 그것이 안심할 이유가 정확히 아닌 이유를 설명한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+글: 아푸르바 만다빌리
+&lt;&lt;&lt;PARA&gt;&gt;
+많은 사람들에게 지난 한 달은 코로나의 불쾌한 메아리를 불러일으켰다: 크루즈선에서의 의문의 사망, 치명적인 호흡기 질환을 일으키는 바이러스, 강제 격리 이야기. 과학자들에게 최근 한타바이러스 발병이 또 다른 팬데믹으로 이어지지 않을 것이 분명해지기도 전에, 중앙아프리카에서 수백 건의 의심 사례와 수십 명의 사망자를 내며 급속도로 확산되는 에볼라 발병 소식이 전해졌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 두 발병 모두 코로나바이러스처럼 세상을 휩쓸 가능성은 낮다. 한타바이러스는 심각한 질병과 사망을 유발할 수 있지만, 특히 전염성이 강하지 않고 사그라드는 경향이 있다. 콩고 민주 공화국에서의 에볼라 유행은 더 무섭지만, 세계보건기구에 따르면 그것조차 대부분 콩고와 그 직계 이웃 국가들에 국한될 가능성이 높다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그럼에도 불구하고, 이 두 사건은 함께 발병이 불가피하며 세계가 팬데믹으로 발전하기 전에 이를 근절할 준비를 해야 한다는 사실을 우리 모두에게 상기시킨다. 이는 지난주 WHO 연례 회의를 위해 모인 전 세계 보건 관리들의 가장 시급한 문제 중 하나였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+회의는 발병이 더 자주 발생할 뿐만 아니라 더 큰 피해를 입히고 있으며, 세계가 이를 퇴치하고 회복하는 데 점점 더 어려움을 겪고 있다는 새로운 보고서와 함께 시작되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+협력의 중요성
+&lt;&lt;&lt;PARA&gt;&gt;
+어떤 면에서 우리는 코로나 이전보다 발병에 대처할 수 있는 위치가 훨씬 좋아졌다. 과학자들은 놀라운 속도와 정확도로 새로운 병원체를 분석하고 놀랍도록 빠르게 새로운 백신을 만들 수 있는 능력을 개발했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 코로나는 또한 세계를 분열시켰다. 부유한 국가들은 백신을 독점하여 많은 빈곤 국가의 시민들이 첫 접종을 받기도 전에 자국 국민들에게 부스터 접종을 실시했다. 많은 국가 내에서 봉쇄, 학교 폐쇄, 백신 의무화에 대한 정책은 정치적 균열을 만들고 과학자에 대한 불신을 심화시켰다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이러한 추세는 더욱 심화되었다. 한 가지 기준점: 엠폭스 바이러스 백신이 저소득 국가에 도달한 것은 2022년 발병이 시작된 후 거의 2년이 지나서였다. 이는 코로나 백신보다도 더 느린 속도였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 도전은 2022년에도 시작된 새로운 팬데믹 조약에 대한 난항을 겪는 협상에서 분명하게 드러난다. 저소득 국가들은 신종 병원체의 유전자 서열과 샘플을 신속하게 공유할 의사가 있다고 밝혔지만, 그 정보를 바탕으로 개발된 검사, 백신, 치료제에 대한 공평한 접근을 보장받는 조건이었다. 부유한 국가들은 그러한 보장을 제공하는 것을 꺼려 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국의 퇴장
+&lt;&lt;&lt;PARA&gt;&gt;
+글로벌 보건에 가장 큰 타격은 작년에 발생했는데, 트럼프 행정부가 갑자기 미국 국제개발처를 폐쇄하고 해외 원조의 대부분을 중단하며, 종종 조건이 붙은 개별 국가와의 협정으로 전환했다. 행정부는 또한 WHO를 탈퇴하고 국가들이 발병을 보고하도록 의무화하는 글로벌 프레임워크를 거부했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이러한 결정의 영향은 점점 더 명확해지고 있다. 미국 관리들은 크루즈선 한타바이러스 발병 조사에 참여하지 않았으며, 첫 사망 후 거의 한 달 만에 대응에 나섰다. 그리고 그들은 WHO가 최초 신호를 받고 다른 글로벌 보건 당국에 알린 지 9일 만에 새로운 에볼라 발병 사실을 알게 되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국은 한때 어떤 발병에서도 확고한 선두주자였다. 대응을 조정하고 자금과 전문 지식을 제공했으며 파트너들이 더 빠르게 움직이도록 압박했다. 에볼라 유행은 이미 미국 리더십의 부족이 적어도 전염병에 대한 더 약한 감시, 검사 지연, 최전선 의료 종사자들을 위한 필수 보호 장비 부족으로 이어진다는 것을 시사한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+세계보건총회가 막을 내리면서, 전 세계의 보건 관리들은 다음 팬데믹에 대비해야 할 필요성에 대한 절박하고 고통스러운 상기와 함께 제네바를 떠났다. 모든 논의에서 빠진 것은: 미국이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 바이러스는 국경을 존중하지 않으며, 세계가 에볼라와 한타바이러스에 대응함에 따라 국가 간 협력은 글로벌 보건에 여전히 중요하다.
+&lt;&lt;&lt;PARA&gt;&gt;
+관련 기사: 본지의 아프리카 수석 특파원 데클런 월시는 유엔 평화유지군 비행기를 타고 에볼라 위기의 중심이 된 콩고 민주 공화국 북동부의 부니아 시로 날아갔다. 그가 발견한 내용은 다음과 같다.
+&lt;&lt;&lt;PARA&gt;&gt;
+교황 레오 14세는 지도자들에게 인공지능의 가장 파괴적인 영향으로부터 인류를 보호할 것을 경고하는 42,300자 분량의 교황 회칙을 발표했다. “모든 선의의 사람들”에게 말을 건네며, 교황은 기술이 전문적, 사회적 역할에서 점차 인간을 대체함에 따라 인간 존엄성을 보호할 것을 촉구했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+교황 레오는 또한 노예 제도에서 바티칸의 역할에 대해 사과하며, 교황청이 노예 무역을 비난하는 데 실패하고 이에 가담한 통치자들을 지지한 점을 인정했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+레오는 AI 회사 Anthropic의 공동 창립자 크리스토퍼 올라와 함께 회칙을 발표했다. 여기에서 내용을 읽어보세요.
+&lt;&lt;&lt;PARA&gt;&gt;
+이란의 최고 협상가들이 미국과의 가능한 평화 협정에 관한 회담을 위해 카타르에 도착했다; 트럼프 대통령은 협상 진행 상황에 대해 상반된 신호를 보냈다. 실시간 업데이트를 팔로우하세요.
+&lt;&lt;&lt;PARA&gt;&gt;
+헤즈볼라 지도자는 레바논 국민들에게 정부의 이스라엘과의 직접 대화에 대해 “거리로 나설” 것을 촉구했으며, 이스라엘은 남부 레바논에 대한 공습을 강화했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국의 석유 봉쇄로 수백만 쿠바인들이 취사용 가스가 없어 숯과 장작에 의존해야 했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+약 1,500척의 선박이 호르무즈 해협에 좌초되면서, 미국과 이란이 해협 재개방에 합의하더라도 선박 적체를 해소하는 데는 수주 또는 수개월이 걸릴 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+어제 뉴스레터에서 가장 많이 클릭된 링크는 미주 신경에 관한 것이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+축구: 리오넬 메시가 월드컵 전 마지막 경기에서 부상으로 퇴장당한 것으로 보인다.
+&lt;&lt;&lt;PARA&gt;&gt;
+테니스: 프랑스의 가엘 몽피스가 프랑스 오픈에서 프로 단식 마지막 경기를 치를 수 있다. 대회 2일차 실시간 업데이트를 팔로우하세요.
+&lt;&lt;&lt;PARA&gt;&gt;
+주택 비용이 급등하면서 런던에서 인기를 얻은 개념입니다. 보호자로 알려진 거주자들은 빈 교회나 문을 닫은 술집 같은 공실 건물을 임대하기 위해 라이선스 비용을 내며 시세보다 훨씬 낮은 가격에 거주합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+중국 남부 난창시의 로펌 파트너인 리 마오자이는 수년간 메르세데스-벤츠와 BMW를 몰다가 자신조차 놀라게 할 선택을 했다: 중국산 럭셔리카, 마에스트로 S800을 산 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+중국인들은 합리적인 가격, 최첨단 기술, 그리고 현지 취향에 맞춘 감성에 이끌려 자국산 명품 브랜드로 몰려들고 있다. “오늘날 중국 소비자들은 더 이상 서양 문화를 우러러보지 않습니다,”라고 한 투자자는 말했다. 까르띠에와 반클리프 아펠의 모회사인 리치몬트는 지난해 중국에서 23%의 매출 감소를 보고했다. 포르쉐는 딜러십의 거의 절반을 폐쇄하겠다고 밝혔다. 리 씨와 같은 열성 지지자들에 힘입어 마에스트로는 중국에서 가장 잘 팔리는 럭셔리카가 되었다. 더 읽어보세요.
+&lt;&lt;&lt;PARA&gt;&gt;
+일본에서는 특히 도시 외곽에서 사람들은 여전히 계절에 따라 살고, 모이고, 먹습니다. 후쿠오카에서 기차로 30분 거리인 이토시마 반도에서는 어부들이 현지 방식으로 갓 잡은 해산물을 즐기도록 여행자들을 환영합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+카키고야로 알려진 팝업 굴 가게에서는 가족과 친구들이 그릴 주변에 모여 바다에서 바로 올라온 굴을 받을 준비를 합니다. “우리 가족은 항상 해안가에서 일해왔습니다. 사료값이 너무 비싸져서 수익이 나지 않을 때까지 도미 양식을 하곤 했죠,”라고 한 어부가 말했다. “그래서 우리는 굴 양식업자가 되었고, 오늘날까지 이곳에 있습니다.” 그들의 파티에 참여해보세요.
+&lt;&lt;&lt;PARA&gt;&gt;
+여행: 포르투갈 시골의 이 새로운 호텔은 17세기 궁전 부지에서 전시회와 씨앗 심기 워크숍을 개최합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+시청: 스트리밍할 새 공포 영화 다섯 편입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+휴식: 스트레스 받나요? 이 질문들이 관점을 제공할 수 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+발견: 위노나 라이더와 안젤리나 졸리가 출연한 영화가 된 회고록 “Girl, Interrupted”가 무대에서 계속됩니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+뉴욕시 레스토랑 비아 카로타의 이 인살라타 베르데는 다섯 가지 엄선된 채소(앤다이브, 버터 레터스, 프리제, 로메인 심, 워터크레스)를 중력이 허용하는 만큼 높이 쌓아 만듭니다. 그 입안을 감싸는 완벽함의 비밀은 예상치 못한 재료, 즉 식초의 자극을 부드럽게 하는 따뜻한 물에 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 축구 경기는 어디에서 열리고 있나요?
+&lt;&lt;&lt;PARA&gt;&gt;
+페루, 이키토스
+&lt;&lt;&lt;PARA&gt;&gt;
+라이베리아, 몬로비아
+&lt;&lt;&lt;PARA&gt;&gt;
+브라질, 주투바 섬
+&lt;&lt;&lt;PARA&gt;&gt;
+바누아투, 에파테 섬
+&lt;&lt;&lt;PARA&gt;&gt;
+오늘의 스펠링 비, 미니 크로스워드, 워들, 스도쿠가 여기 있습니다. 모든 게임은 여기에서 찾을 수 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+오늘은 여기까지입니다. 내일 뵙겠습니다! — 카트린
+&lt;&lt;&lt;PARA&gt;&gt;
+오늘은 아푸르바 만다빌리가 게스트 작가로 참여했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+여러분의 피드백을 환영합니다. theworld@nytimes.com으로 제안을 보내주세요.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/25/world/pandemic-ebola-outbreak-iran-qatar.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/26/multimedia/26int-theworld-ebola-01-flkc/26int-theworld-ebola-01-flkc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 25 May 2026 12:21:14 +0000</pubDate></item><item><title>Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon (네타냐후, 이스라엘이 레바논 헤즈볼라에 대한 공격 강화 계획 발표)</title><link>https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/25/multimedia/25mideast-update-vjpt/25mideast-update-vjpt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;As President Trump sent conflicting messages about whether any progress had been made on a deal to end the war with Iran, Prime Minister Benjamin Netanyahu of Israel on Monday signaled that his country’s fight with the Iranian-backed Lebanese militant group Hezbollah would intensify.&lt;br/&gt;(트럼프 대통령이 이란과의 전쟁 종식을 위한 합의에 진전이 있었는지에 대해 상충되는 메시지를 보낸 가운데, 베냐민 네타냐후 이스라엘 총리는 월요일 자국이 이란의 지원을 받는 레바논 무장단체 헤즈볼라와의 싸움을 강화할 것이라고 시사했습니다.)&lt;/p&gt;
+&lt;p&gt;“We are at war with Hezbollah,” Mr. Netanyahu said in a video on social media.&lt;br/&gt;("우리는 헤즈볼라와 전쟁 중입니다"라고 네타냐후 총리는 소셜 미디어에 게시된 영상에서 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Despite an American-brokered cease-fire that took effect in April, Israel and Hezbollah have continued to clash, with each side accusing the other of violating the truce. The fighting has recently escalated, exposing the limits of the fragile agreement.&lt;br/&gt;(4월에 발효된 미국 중재의 휴전 협정에도 불구하고, 이스라엘과 헤즈볼라는 계속 충돌하고 있으며, 양측은 서로가 휴전을 위반했다고 비난하고 있습니다. 최근 교전이 격화되면서 취약한 합의의 한계가 드러났습니다.)&lt;/p&gt;
+&lt;p&gt;In Mr. Netanyahu’s video statement on Monday night, he said that Israeli forces had in recent weeks killed more than 600 Hezbollah militants and indicated that the military would intensify the pressure.&lt;br/&gt;(월요일 밤 네타냐후 총리의 영상 성명에서 그는 이스라엘군이 최근 몇 주 동안 600명 이상의 헤즈볼라 전투원을 사살했으며, 군이 압박을 강화할 것이라고 시사했습니다.)&lt;/p&gt;
+&lt;p&gt;“But we are not removing our foot from the pedal,” Mr. Netanyahu said. “On the contrary, I said to press on the pedal even more.”&lt;br/&gt;("그러나 우리는 발을 가속 페달에서 떼지 않을 것입니다"라고 네타냐후 총리는 말했습니다. "반대로, 나는 페달을 더 밟으라고 말했습니다.")&lt;/p&gt;
+&lt;p&gt;An intensification of the fighting between Israel and Hezbollah could add yet another complication to the already complex negotiations between Iran and the United States. Iran has said that it wants Lebanon included in any agreement, while Mr. Trump has not mentioned the conflict between Israel and the Iranian proxy in his flurry of posts about a potential deal since Saturday.&lt;br/&gt;(이스라엘과 헤즈볼라 간의 교전 강화는 이란과 미국 사이에 이미 복잡한 협상에 또 다른 난관을 추가할 수 있습니다. 이란은 모든 합의에 레바논이 포함되기를 원한다고 밝힌 반면, 트럼프 대통령은 토요일 이후 잠재적 합의에 대한 자신의 일련의 게시물에서 이스라엘과 이란 대리 세력 간의 갈등을 언급하지 않았습니다.)&lt;/p&gt;
+&lt;p&gt;The death toll from Israeli strikes on Lebanon since fighting with Hezbollah reignited in March has reached 3,185 people, Lebanon’s health ministry said on Monday, and more than 9,600 people have been wounded. The renewed fighting, which started when Hezbollah began strikes on Israel after the American-Israeli attack on Iran in late February, has displaced hundreds of thousands of people.&lt;br/&gt;(레바논 보건부는 월요일, 3월 헤즈볼라와의 교전이 재개된 이후 이스라엘의 레바논 공습으로 인한 사망자 수가 3,185명에 이르렀으며, 9,600명 이상이 부상당했다고 밝혔습니다. 2월 말 미-이스라엘의 이란 공격 이후 헤즈볼라가 이스라엘에 대한 공격을 시작하면서 촉발된 재개된 교전으로 수십만 명의 사람들이 이주했습니다.)&lt;/p&gt;
+&lt;p&gt;The Israeli military on Monday night said that it had struck more than 70 Hezbollah sites in several areas across Lebanon in the past day. In the area of Tyre, a coastal city in southern Lebanon, the military struck about 10 command centers, weapons storage facilities and other sites it said were used by Hezbollah to advance attacks against Israeli soldiers and civilians. The Israeli Air Force also “eliminated” Hezbollah militants on motorcycles in southern Lebanon in the area where Israeli soldiers are operating, the military said.&lt;br/&gt;(이스라엘군은 월요일 밤, 지난 하루 동안 레바논 전역의 여러 지역에서 70곳 이상의 헤즈볼라 시설을 타격했다고 밝혔습니다. 레바논 남부 해안 도시 티레 지역에서 군은 약 10개의 지휘소, 무기 저장 시설 및 헤즈볼라가 이스라엘 군인과 민간인에 대한 공격을 추진하는 데 사용했다고 주장하는 기타 시설을 타격했습니다. 이스라엘 공군은 또한 레바논 남부 이스라엘군이 작전 중인 지역에서 오토바이를 타고 있던 헤즈볼라 전투원들을 "제거"했다고 군은 밝혔습니다.)&lt;/p&gt;
+&lt;p&gt;Hezbollah issued at least eight statements about attacks on Israel and Israeli soldiers in Lebanon on Monday, according to the militant group’s media arm Al Manar.&lt;br/&gt;(헤즈볼라는 월요일, 자체 미디어 조직인 알 마나르를 통해 이스라엘과 레바논 내 이스라엘 군인에 대한 공격에 관한 최소 8개의 성명을 발표했습니다.)&lt;/p&gt;
+&lt;p&gt;Hezbollah’s leader, Naim Qassem, in a speech to the Lebanese people on Sunday, said that he welcomed a deal between Iran and the United States and hoped that the agreement would include his group. But he rejected the direct negotiations between Israel and the Lebanese government, brokered by the United States, which have taken place since April.&lt;br/&gt;(헤즈볼라의 지도자 나임 카셈은 일요일 레바논 국민을 향한 연설에서 이란과 미국 간의 합의를 환영하며, 그 합의에 자신의 조직이 포함되기를 희망한다고 밝혔습니다. 그러나 그는 4월 이후 진행된 미국 중재의 이스라엘과 레바논 정부 간 직접 협상을 거부했습니다.)&lt;/p&gt;
+&lt;p&gt;While the terms of the possible agreement to cease hostilities between the United States and Iran are murky, three senior Iranian officials told The New York Times on Saturday that the agreement would halt the fighting on all fronts, including Lebanon.&lt;br/&gt;(미국과 이란 간의 적대 행위 중단을 위한 잠재적 합의 조건은 불분명하지만, 세 명의 고위 이란 관리들은 토요일 뉴욕타임스에 그 합의가 레바논을 포함한 모든 전선에서의 교전을 중단시킬 것이라고 말했습니다.)&lt;/p&gt;
+&lt;p&gt;How any such deal would address the fundamental issues in the conflict in Lebanon — among them the disarming of Hezbollah and the withdrawal of Israeli troops from the Lebanese border territory they now occupy — is unclear.&lt;br/&gt;(그러한 합의가 레바논 분쟁의 근본적 문제들, 즉 헤즈볼라의 무장 해제와 이스라엘군이 현재 점령하고 있는 레바논 국경 지역에서의 철수 문제를 어떻게 다룰지는 불분명합니다.)&lt;/p&gt;
+&lt;p&gt;On Sunday, Mr. Netanyahu of Israel said that Mr. Trump had in a weekend phone call “reaffirmed Israel’s right to defend itself against threats on every front, including Lebanon.”&lt;br/&gt;(일요일, 이스라엘의 네타냐후 총리는 트럼프 대통령이 주말 전화 통화에서 "레바논을 포함한 모든 전선에서의 위협에 맞서 이스라엘의 자위권을 재확인했다"고 말했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/25/multimedia/25mideast-update-vjpt/25mideast-update-vjpt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 25 May 2026 12:52:31 +0000</pubDate></item><item><title>Detroit Once Ruled Canada’s Car Industry. Trump’s Tariffs May End That. (디트로이트는 한때 캐나다 자동차 산업을 지배했다. 트럼프의 관세가 그것을 끝낼 수도 있다.)</title><link>https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/18/multimedia/00int-canada-autos03-photo-vtcp/00int-canada-autos03-photo-vtcp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;When General Motors of Canada underwent a model changeover in 1999 at its sprawling factory complex in Oshawa, Ontario, the last Chevrolet Lumina to come off the line went on a monthlong farewell tour. It was wheeled around the factory, and employees signed their names in permanent marker on its white paint.&lt;br/&gt;(1999년, 캐나다의 제너럴 모터스(GM)가 온타리오주 오샤와에 있는 거대한 공장 단지에서 모델 교체를 단행했을 때, 마지막으로 생산된 쉐보레 루미나는 한 달간의 작별 투어를 떠났다. 이 차는 공장 안을 끌려 다녔고, 직원들은 흰색 페인트에 네임펜으로 자신의 이름을 서명했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 현재 루미나가 전시된 오샤와의 캐나다 자동차 박물관에서는 서명 개수를 센 사람이 아무도 없다. 하지만 1999년에는 약 22,000명의 GM 노조원이 차에 펜을 댈 수 있었다.

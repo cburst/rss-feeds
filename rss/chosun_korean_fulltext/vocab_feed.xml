@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 08:18:52 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 12:29:39 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,47 @@
 
 
 
-  <item><title>생선을 – fish (object)</title><link>urn:urn:vocab:생선을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>로부터 – from</title><link>urn:urn:vocab:로부터</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589820675999-b1fc94f318a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tfGVufDB8fHx8MTc3OTc2NjE3NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="로부터 (from)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;박용만(朴容万), 김동영(金東英), 문부식(文富植) 그리고 활(*할)렐루야 어린이 축구단의 단장(团長)인 김영명(金永明) 씨(氏)로부터 전화(電話)가 왔다&lt;br/&gt;&lt;em&gt;A phone call came from Park Yong-man, Kim Dong-young, Moon Boo-sik, and Kim Young-myeong, the director of the Hallelujah Children's Soccer Team.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오래간만에 김상진(金相鎭) 의원(議員)으로부터 전화(電話)가 왔다&lt;br/&gt;&lt;em&gt;(After a long time, a phone call came from Assemblyman Kim Sang-jin.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김동영(金東英) 신광수(申光洙)로부터 시골 갔다가 왔다고 전화가 왔다&lt;br/&gt;&lt;em&gt;(A phone call came from Kim Dong-young and Shin Gwang-su, saying they had returned from the countryside.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;편지가 친구로부터 왔어요.&lt;br/&gt;&lt;em&gt;A letter came from a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선물을 부모님으로부터 받았어요.&lt;br/&gt;&lt;em&gt;I received a gift from my parents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589820675999-b1fc94f318a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tfGVufDB8fHx8MTc3OTc2NjE3NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="로부터 (from)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;박용만(朴容万), 김동영(金東英), 문부식(文富植) 그리고 활(*할)렐루야 어린이 축구단의 단장(团長)인 김영명(金永明) 씨(氏)로부터 전화(電話)가 왔다&lt;br/&gt;&lt;em&gt;A phone call came from Park Yong-man, Kim Dong-young, Moon Boo-sik, and Kim Young-myeong, the director of the Hallelujah Children's Soccer Team.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오래간만에 김상진(金相鎭) 의원(議員)으로부터 전화(電話)가 왔다&lt;br/&gt;&lt;em&gt;(After a long time, a phone call came from Assemblyman Kim Sang-jin.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김동영(金東英) 신광수(申光洙)로부터 시골 갔다가 왔다고 전화가 왔다&lt;br/&gt;&lt;em&gt;(A phone call came from Kim Dong-young and Shin Gwang-su, saying they had returned from the countryside.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;편지가 친구로부터 왔어요.&lt;br/&gt;&lt;em&gt;A letter came from a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선물을 부모님으로부터 받았어요.&lt;br/&gt;&lt;em&gt;I received a gift from my parents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 26 May 2026 12:29:39 +0900</pubDate><guid isPermaLink="false">vocab-21f75a1c30ba26f5fbadbc2a8ba583f346195dee</guid><enclosure url="https://images.unsplash.com/photo-1589820675999-b1fc94f318a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tfGVufDB8fHx8MTc3OTc2NjE3NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="151983" /><ns2:content url="https://images.unsplash.com/photo-1589820675999-b1fc94f318a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tfGVufDB8fHx8MTc3OTc2NjE3NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1589820675999-b1fc94f318a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tfGVufDB8fHx8MTc3OTc2NjE3NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>로부터</category></item><item><title>사람이던지 – whether it is a person</title><link>urn:urn:vocab:사람이던지</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1708098502404-eb92286d3953?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGV0aGVyJTIwaXQlMjBpcyUyMGElMjBwZXJzb258ZW58MHx8fHwxNzc5NzU4NTk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사람이던지 (whether it is a person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인간(人間)은 그 어떠한 사람이던지 젊은 사람이던지 늙은 사람이던지 권력(權力)이 있는 자(者)든지 돈이 많은 사람이던지 그 누구이던 죽음에의 길만은 면할 수가 없다&lt;br/&gt;&lt;em&gt;No human being, whether young or old, powerful or wealthy, can avoid the path to death.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 사람이던지 모르겠어요.&lt;br/&gt;&lt;em&gt;I'm not sure if it's that person.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사람이던지 동물이던지 상관없어요.&lt;br/&gt;&lt;em&gt;It doesn't matter whether it's a person or an animal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1708098502404-eb92286d3953?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGV0aGVyJTIwaXQlMjBpcyUyMGElMjBwZXJzb258ZW58MHx8fHwxNzc5NzU4NTk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사람이던지 (whether it is a person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인간(人間)은 그 어떠한 사람이던지 젊은 사람이던지 늙은 사람이던지 권력(權力)이 있는 자(者)든지 돈이 많은 사람이던지 그 누구이던 죽음에의 길만은 면할 수가 없다&lt;br/&gt;&lt;em&gt;No human being, whether young or old, powerful or wealthy, can avoid the path to death.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 사람이던지 모르겠어요.&lt;br/&gt;&lt;em&gt;I'm not sure if it's that person.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사람이던지 동물이던지 상관없어요.&lt;br/&gt;&lt;em&gt;It doesn't matter whether it's a person or an animal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 26 May 2026 10:23:18 +0900</pubDate><guid isPermaLink="false">vocab-34b8c6dc675e713bf86cc03e17bc5037a36d62b9</guid><enclosure url="https://images.unsplash.com/photo-1708098502404-eb92286d3953?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGV0aGVyJTIwaXQlMjBpcyUyMGElMjBwZXJzb258ZW58MHx8fHwxNzc5NzU4NTk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="119588" /><ns2:content url="https://images.unsplash.com/photo-1708098502404-eb92286d3953?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGV0aGVyJTIwaXQlMjBpcyUyMGElMjBwZXJzb258ZW58MHx8fHwxNzc5NzU4NTk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1708098502404-eb92286d3953?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGV0aGVyJTIwaXQlMjBpcyUyMGElMjBwZXJzb258ZW58MHx8fHwxNzc5NzU4NTk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사람이던지</category></item><item><title>생선을 – fish (object)</title><link>urn:urn:vocab:생선을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1576330383200-2bf325cfec52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmaXNoJTIwJTI4b2JqZWN0JTI5fGVufDB8fHx8MTc3OTc1MTEzMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생선을 (fish (object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;오랜만에 부산(釜山)의 형경(炯璟)이가 왔어(*와서) 이야기하며 좋은 생선을 가지고 와서 함께 점심을 먹었다&lt;br/&gt;&lt;em&gt;After a long time, Hyeonggyeong from Busan came, and we talked, and he brought good fish, so we had lunch together.&lt;/em&gt;&lt;/p&gt;
