@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 22:48:37 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 03:02:35 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,49 @@
 
 
 
-  <item><title>시간당 – per hour</title><link>urn:urn:vocab:시간당</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>장보고 – report</title><link>urn:urn:vocab:장보고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnR8ZW58MHx8fHwxNzc5ODE4NTUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="장보고 (report)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Defense Ministry: "To Be Launched in Mid-2030s" (핵추진잠수함 ‘장보고 N사업’ 발표&lt;br/&gt;&lt;em&gt;Defense Ministry: "To Be Launched in Mid-2030s" (Nuclear-Powered Submarine 'Jangbogo N Project' Announcement)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Defense Ministry: "To Be Launched in Mid-2030s" (핵추진잠수함 ‘장보고 N사업’ 발표&lt;br/&gt;&lt;em&gt;Defense Ministry: "To Be Launched in Mid-2030s" (Nuclear-Powered Submarine 'Jangbogo N Project' Announcement)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국방부가 2030년대 중반까지 한국형 핵추진잠수함 1번함을 개발·진수하고, 2030년대 후반엔 이를 전력화하는 일정의 ‘장보고 N 사업’을 26일 발표했다&lt;br/&gt;&lt;em&gt;(The Ministry of National Defense announced on the 26th the 'Jangbogo N Project', a schedule to develop and launch the first Korean nuclear-powered submarine by the mid-2030s and to deploy it by the late 2030s.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;장보고를 씁니다.&lt;br/&gt;&lt;em&gt;I write Jang Bogo.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;장보고가 필요해요.&lt;br/&gt;&lt;em&gt;I need Jang Bogo.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnR8ZW58MHx8fHwxNzc5ODE4NTUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="장보고 (report)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Defense Ministry: "To Be Launched in Mid-2030s" (핵추진잠수함 ‘장보고 N사업’ 발표&lt;br/&gt;&lt;em&gt;Defense Ministry: "To Be Launched in Mid-2030s" (Nuclear-Powered Submarine 'Jangbogo N Project' Announcement)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Defense Ministry: "To Be Launched in Mid-2030s" (핵추진잠수함 ‘장보고 N사업’ 발표&lt;br/&gt;&lt;em&gt;Defense Ministry: "To Be Launched in Mid-2030s" (Nuclear-Powered Submarine 'Jangbogo N Project' Announcement)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국방부가 2030년대 중반까지 한국형 핵추진잠수함 1번함을 개발·진수하고, 2030년대 후반엔 이를 전력화하는 일정의 ‘장보고 N 사업’을 26일 발표했다&lt;br/&gt;&lt;em&gt;(The Ministry of National Defense announced on the 26th the 'Jangbogo N Project', a schedule to develop and launch the first Korean nuclear-powered submarine by the mid-2030s and to deploy it by the late 2030s.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;장보고를 씁니다.&lt;br/&gt;&lt;em&gt;I write Jang Bogo.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;장보고가 필요해요.&lt;br/&gt;&lt;em&gt;I need Jang Bogo.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 03:02:35 +0900</pubDate><guid isPermaLink="false">vocab-8e70cbcdeb386f2167f5c1bee9cbb456fa0934c1</guid><enclosure url="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnR8ZW58MHx8fHwxNzc5ODE4NTUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="66894" /><ns2:content url="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnR8ZW58MHx8fHwxNzc5ODE4NTUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXBvcnR8ZW58MHx8fHwxNzc5ODE4NTUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>장보고</category></item><item><title>자연산 – natural (product)</title><link>urn:urn:vocab:자연산</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1753876292651-03a273a1e99e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuYXR1cmFsJTIwJTI4cHJvZHVjdCUyOXxlbnwwfHx8fDE3Nzk4MTA4MzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자연산 (natural (product))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이 대통령 부부는 각 점포를 둘러보며 자연산 돌멍게를 비롯해 한치, 갑오징어, 타이거 새우, 해삼, 자연산 전복과 독도 새우 등을 온누리상품권으로 샀다&lt;br/&gt;&lt;em&gt;" (President Lee and his wife looked around each store and bought natural stone sea squirts, as well as cuttlefish, squid, tiger shrimp, sea cucumbers, natural abalone, and Dokdo shrimp with Onnuri gift certificates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 대통령은 자연산 전복이 맛이 좋다며 참모진에게 권하기도 했다&lt;br/&gt;&lt;em&gt;President Lee said the natural abalone was delicious and recommended it to his aides.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 꿀은 자연산입니다.&lt;br/&gt;&lt;em&gt;This honey is wild.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자연산 버섯을 샀어요.&lt;br/&gt;&lt;em&gt;I bought wild mushrooms.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1753876292651-03a273a1e99e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuYXR1cmFsJTIwJTI4cHJvZHVjdCUyOXxlbnwwfHx8fDE3Nzk4MTA4MzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자연산 (natural (product))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이 대통령 부부는 각 점포를 둘러보며 자연산 돌멍게를 비롯해 한치, 갑오징어, 타이거 새우, 해삼, 자연산 전복과 독도 새우 등을 온누리상품권으로 샀다&lt;br/&gt;&lt;em&gt;" (President Lee and his wife looked around each store and bought natural stone sea squirts, as well as cuttlefish, squid, tiger shrimp, sea cucumbers, natural abalone, and Dokdo shrimp with Onnuri gift certificates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 대통령은 자연산 전복이 맛이 좋다며 참모진에게 권하기도 했다&lt;br/&gt;&lt;em&gt;President Lee said the natural abalone was delicious and recommended it to his aides.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 꿀은 자연산입니다.&lt;br/&gt;&lt;em&gt;This honey is wild.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자연산 버섯을 샀어요.&lt;br/&gt;&lt;em&gt;I bought wild mushrooms.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 00:53:57 +0900</pubDate><guid isPermaLink="false">vocab-7a31f210a2168c073dd4df2a7d119bde1231061d</guid><enclosure url="https://images.unsplash.com/photo-1753876292651-03a273a1e99e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuYXR1cmFsJTIwJTI4cHJvZHVjdCUyOXxlbnwwfHx8fDE3Nzk4MTA4MzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="63030" /><ns2:content url="https://images.unsplash.com/photo-1753876292651-03a273a1e99e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuYXR1cmFsJTIwJTI4cHJvZHVjdCUyOXxlbnwwfHx8fDE3Nzk4MTA4MzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1753876292651-03a273a1e99e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuYXR1cmFsJTIwJTI4cHJvZHVjdCUyOXxlbnwwfHx8fDE3Nzk4MTA4MzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>자연산</category></item><item><title>시간당 – per hour</title><link>urn:urn:vocab:시간당</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1456574808786-d2ba7a6aa654?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXIlMjBob3VyfGVufDB8fHx8MTc3OTgwMzMxM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시간당 (per hour)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;전날부터 비가 이어지고 있는 제주는 일부 지역의 경우 이미 내린 비가 200㎜를 넘겼고, 27일 새벽까지 산지는 시간당 50㎜ 안팎, 북부와 산지를 제외한 지역은 시간당 30~50㎜, 북부는 시간당 20~30㎜ 비가 내릴 수 있다고 내다봤다&lt;br/&gt;&lt;em&gt;In Jeju, where rain has been falling since the previous day, some areas have already seen over 200 mm of rain, and it is forecasted that until dawn on the 27th, mountainous regions may receive around 50 mm per hour, areas excluding the northern and mountainous regions 30–50 mm per hour, and the northern region 20–30 mm per hour.&lt;/em&gt;&lt;/p&gt;
