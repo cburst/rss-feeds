@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 05:11:53 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:18:28 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>연기금 – pension fund</title><link>urn:urn:vocab:연기금</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>정책 – policy</title><link>urn:urn:vocab:정책</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xpY3l8ZW58MHx8fHwxNzc5ODMzOTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정책 (policy)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (독일 전문가에 숲칼럼니스트인 김택환 미래전환정책연구원 원장은 이달 22일 펴낸 &amp;lt;신산림국부론&amp;gt;에서 박정희 정부 산림녹화 정책의 뒤를 이은 김대중 정부의 숲 가꾸기 사업 또한 국내 산림정책 역사에 기록할 정도의 뜻깊은 성과를 거둔 것으로 평가했다&lt;br/&gt;&lt;em&gt;"Kim Taek-hwan, a German expert and forest columnist who is the director of the Future Transformation Policy Research Institute, evaluated in his book &lt;New Forest National Wealth Theory&gt; published on the 22nd of this month that the forest nurturing project of the Kim Dae-jung government, which followed the forest greening policy of the Park Chung-hee government, also achieved meaningful results worthy of being recorded in the history of domestic forest policy."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김대중 정부의 산림 정책은 외환위기와 연결돼 있었다&lt;br/&gt;&lt;em&gt;(The forest policy of the Kim Dae-jung government was linked to the foreign exchange crisis.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;외환위기 직후인 1998년 출범해 대량 실업이라는 난제에 맞닥뜨린 상황에서 산림정책 전환을 해법의 하나로 활용했다고 김 원장은 분석한다&lt;br/&gt;&lt;em&gt;Director Kim analyzes that the Kim Dae-jung government, launched in 1998 right after the foreign exchange crisis and faced with the difficult problem of mass unemployment, utilized the shift in forest policy as one of the solutions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정책이 중요합니다.&lt;br/&gt;&lt;em&gt;Policy is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;새 정책을 배웠어요.&lt;br/&gt;&lt;em&gt;I learned the new policy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xpY3l8ZW58MHx8fHwxNzc5ODMzOTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정책 (policy)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (독일 전문가에 숲칼럼니스트인 김택환 미래전환정책연구원 원장은 이달 22일 펴낸 &amp;lt;신산림국부론&amp;gt;에서 박정희 정부 산림녹화 정책의 뒤를 이은 김대중 정부의 숲 가꾸기 사업 또한 국내 산림정책 역사에 기록할 정도의 뜻깊은 성과를 거둔 것으로 평가했다&lt;br/&gt;&lt;em&gt;"Kim Taek-hwan, a German expert and forest columnist who is the director of the Future Transformation Policy Research Institute, evaluated in his book &lt;New Forest National Wealth Theory&gt; published on the 22nd of this month that the forest nurturing project of the Kim Dae-jung government, which followed the forest greening policy of the Park Chung-hee government, also achieved meaningful results worthy of being recorded in the history of domestic forest policy."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(김대중 정부의 산림 정책은 외환위기와 연결돼 있었다&lt;br/&gt;&lt;em&gt;(The forest policy of the Kim Dae-jung government was linked to the foreign exchange crisis.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;외환위기 직후인 1998년 출범해 대량 실업이라는 난제에 맞닥뜨린 상황에서 산림정책 전환을 해법의 하나로 활용했다고 김 원장은 분석한다&lt;br/&gt;&lt;em&gt;Director Kim analyzes that the Kim Dae-jung government, launched in 1998 right after the foreign exchange crisis and faced with the difficult problem of mass unemployment, utilized the shift in forest policy as one of the solutions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정책이 중요합니다.&lt;br/&gt;&lt;em&gt;Policy is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;새 정책을 배웠어요.&lt;br/&gt;&lt;em&gt;I learned the new policy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 07:18:28 +0900</pubDate><guid isPermaLink="false">vocab-d2623909151b4b1bcd9e54612b44f6f0f867cbd5</guid><enclosure url="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xpY3l8ZW58MHx8fHwxNzc5ODMzOTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="66845" /><ns2:content url="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xpY3l8ZW58MHx8fHwxNzc5ODMzOTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xpY3l8ZW58MHx8fHwxNzc5ODMzOTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>정책</category></item><item><title>연기금 – pension fund</title><link>urn:urn:vocab:연기금</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZW5zaW9uJTIwZnVuZHxlbnwwfHx8fDE3Nzk4MjYzMTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연기금 (pension fund)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;국민연금기금은  국내주식 수익률의 큰 폭 상승, 해외자산 확대, 자산군 다변화 등으로 글로벌 연기금 대비 가장 높은 수익률을 달성해 평점이 80&lt;br/&gt;&lt;em&gt;The National Pension Fund achieved the highest return compared to global pension funds due to a significant rise in domestic stock returns, expansion of overseas assets, and diversification of asset classes, earning a score of 80.&lt;/em&gt;&lt;/p&gt;
