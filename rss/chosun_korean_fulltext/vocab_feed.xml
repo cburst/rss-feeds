@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 07:18:33 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 11:30:45 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,49 @@
 
 
 
-  <item><title>대책을 – measures</title><link>urn:urn:vocab:대책을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>민원인은 – complainant</title><link>urn:urn:vocab:민원인은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1571391281715-092bfa58fa46?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wbGFpbmFudHxlbnwwfHx8fDE3Nzk4NDkwNDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="민원인은 (complainant)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지난 4월 한 민원인은 “배수로에 낙엽과 담배꽁초가 많이 쌓여 집중호우 발생 시 배수로가 막힐까 우려된다”며 “장마 시작 전에 꼭 배수로 청소를 해달라”고 했다&lt;br/&gt;&lt;em&gt;Last April, a complainant said, 'A lot of leaves and cigarette butts have accumulated in the drainage, and I'm concerned that the drainage might get clogged during heavy rain,' and asked, 'Please clean the drainage before the rainy season starts.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2024년 6월 한 민원인은 “장마철에 도로 유실과 포트홀 발생 위험이 있으니 꼭 정비해 달라”고 했다&lt;br/&gt;&lt;em&gt;In June 2024, a complainant said, 'There is a risk of road loss and potholes during the rainy season, so please make sure to repair them.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2024년 6월 한 민원인은 “난개발로 몇 년째 임야가 파헤쳐진 상태로 방치돼 있어, 산사태가 일어나면 진입로나 가옥에 피해가 염려된다”며 “미리 조치해 달라”고 했다&lt;br/&gt;&lt;em&gt;In June 2024, a complainant said, 'Due to reckless development, the forest land has been left excavated for years, and I'm worried that if a landslide occurs, it could damage the access road or houses,' and asked, 'Please take measures in advance.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;민원인은 사무실에 왔습니다.&lt;br/&gt;&lt;em&gt;The complainant came to the office.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;민원인은 불만이 있습니다.&lt;br/&gt;&lt;em&gt;The complainant has a complaint.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1571391281715-092bfa58fa46?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wbGFpbmFudHxlbnwwfHx8fDE3Nzk4NDkwNDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="민원인은 (complainant)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지난 4월 한 민원인은 “배수로에 낙엽과 담배꽁초가 많이 쌓여 집중호우 발생 시 배수로가 막힐까 우려된다”며 “장마 시작 전에 꼭 배수로 청소를 해달라”고 했다&lt;br/&gt;&lt;em&gt;Last April, a complainant said, 'A lot of leaves and cigarette butts have accumulated in the drainage, and I'm concerned that the drainage might get clogged during heavy rain,' and asked, 'Please clean the drainage before the rainy season starts.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2024년 6월 한 민원인은 “장마철에 도로 유실과 포트홀 발생 위험이 있으니 꼭 정비해 달라”고 했다&lt;br/&gt;&lt;em&gt;In June 2024, a complainant said, 'There is a risk of road loss and potholes during the rainy season, so please make sure to repair them.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2024년 6월 한 민원인은 “난개발로 몇 년째 임야가 파헤쳐진 상태로 방치돼 있어, 산사태가 일어나면 진입로나 가옥에 피해가 염려된다”며 “미리 조치해 달라”고 했다&lt;br/&gt;&lt;em&gt;In June 2024, a complainant said, 'Due to reckless development, the forest land has been left excavated for years, and I'm worried that if a landslide occurs, it could damage the access road or houses,' and asked, 'Please take measures in advance.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;민원인은 사무실에 왔습니다.&lt;br/&gt;&lt;em&gt;The complainant came to the office.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;민원인은 불만이 있습니다.&lt;br/&gt;&lt;em&gt;The complainant has a complaint.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 11:30:45 +0900</pubDate><guid isPermaLink="false">vocab-8207cf13849155aa5aff2811c02e79d3df079770</guid><enclosure url="https://images.unsplash.com/photo-1571391281715-092bfa58fa46?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wbGFpbmFudHxlbnwwfHx8fDE3Nzk4NDkwNDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="122779" /><ns2:content url="https://images.unsplash.com/photo-1571391281715-092bfa58fa46?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wbGFpbmFudHxlbnwwfHx8fDE3Nzk4NDkwNDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1571391281715-092bfa58fa46?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wbGFpbmFudHxlbnwwfHx8fDE3Nzk4NDkwNDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>민원인은</category></item><item><title>시민단체 – civic group</title><link>urn:urn:vocab:시민단체</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1616680214429-d79397e56688?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaXZpYyUyMGdyb3VwfGVufDB8fHx8MTc3OTg0MTM5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시민단체 (civic group)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Jinju Civic Groups Demand Thorough Investigation into ‘Bribery Allegations’ Involving Independent Mayor Jo Gyu-il’s Aide (진주 시민단체, 무소속 조규일 시장 측근 ‘뇌물수수 의혹’ 철저한 수사 촉구) &lt;&lt;br/&gt;&lt;em&gt;Jinju Civic Groups Demand Thorough Investigation into ‘Bribery Allegations’ Involving Independent Mayor Jo Gyu-il’s Aide&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Jinju Civic Groups Demand Thorough Investigation into ‘Bribery Allegations’ Involving Independent Mayor Jo Gyu-il’s Aide (진주 시민단체, 무소속 조규일 시장 측근 ‘뇌물수수 의혹’ 철저한 수사 촉구)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Jinju Civic Groups Demand Thorough Investigation into ‘Bribery Allegations’ Involving Independent Mayor Jo Gyu-il’s Aide&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;시민단체가 활동을 시작했습니다.&lt;br/&gt;&lt;em&gt;The civic group has started its activities.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 시민단체에서 일합니다.&lt;br/&gt;&lt;em&gt;I work for a civic group.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1616680214429-d79397e56688?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaXZpYyUyMGdyb3VwfGVufDB8fHx8MTc3OTg0MTM5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시민단체 (civic group)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Jinju Civic Groups Demand Thorough Investigation into ‘Bribery Allegations’ Involving Independent Mayor Jo Gyu-il’s Aide (진주 시민단체, 무소속 조규일 시장 측근 ‘뇌물수수 의혹’ 철저한 수사 촉구) &lt;&lt;br/&gt;&lt;em&gt;Jinju Civic Groups Demand Thorough Investigation into ‘Bribery Allegations’ Involving Independent Mayor Jo Gyu-il’s Aide&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Jinju Civic Groups Demand Thorough Investigation into ‘Bribery Allegations’ Involving Independent Mayor Jo Gyu-il’s Aide (진주 시민단체, 무소속 조규일 시장 측근 ‘뇌물수수 의혹’ 철저한 수사 촉구)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Jinju Civic Groups Demand Thorough Investigation into ‘Bribery Allegations’ Involving Independent Mayor Jo Gyu-il’s Aide&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;시민단체가 활동을 시작했습니다.&lt;br/&gt;&lt;em&gt;The civic group has started its activities.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 시민단체에서 일합니다.&lt;br/&gt;&lt;em&gt;I work for a civic group.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 09:23:13 +0900</pubDate><guid isPermaLink="false">vocab-7adffccdbb8e87cc1cea1e326a692ca8137bb816</guid><enclosure url="https://images.unsplash.com/photo-1616680214429-d79397e56688?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaXZpYyUyMGdyb3VwfGVufDB8fHx8MTc3OTg0MTM5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="180098" /><ns2:content url="https://images.unsplash.com/photo-1616680214429-d79397e56688?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaXZpYyUyMGdyb3VwfGVufDB8fHx8MTc3OTg0MTM5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1616680214429-d79397e56688?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaXZpYyUyMGdyb3VwfGVufDB8fHx8MTc3OTg0MTM5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>시민단체</category></item><item><title>대책을 – measures</title><link>urn:urn:vocab:대책을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1611077544775-6e72542a206f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWFzdXJlc3xlbnwwfHx8fDE3Nzk4MzM5MTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대책을 (measures)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이재명 대통령은 26일 “최근 집값이 다시 오른다는데 이에 대한 대책을 세우고 있냐”며 “정부 정책에 대한 국민 신뢰가 중요하다”고 말했다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung said on the 26th, "I hear housing prices are rising again. Are you establishing measures to address this?" and added, "Public trust in government policies is important.")&lt;/em&gt;&lt;/p&gt;

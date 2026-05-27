@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 07:18:28 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 11:30:37 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>정책 – policy</title><link>urn:urn:vocab:정책</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>열차는 – train (topic marker)</title><link>urn:urn:vocab:열차는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589285243989-d165c53b5441?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFpbiUyMCUyOHRvcGljJTIwbWFya2VyJTI5fGVufDB8fHx8MTc3OTg0OTAzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="열차는 (train (topic marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아이티엑스(ITX)-새마을호·마음호 모든 열차는 수원역에서 출발·도착 운행한다&lt;br/&gt;&lt;em&gt;All ITX-Saemaeul and ITX-Maum trains operate departing from and arriving at Suwon Station.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아이티엑스-새마을, 아이티엑스-마음의 모든 열차는 수원역에서 출발 또는 도착하는 식으로 운행한다&lt;br/&gt;&lt;em&gt;All ITX-Saemaeul and ITX-Maum trains operate in such a way that they depart from or arrive at Suwon Station.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(아이티엑스(ITX) 새마을·마음과 무궁화호 등 일반열차는 352회에서 307회로 45회 중지돼 87&lt;br/&gt;&lt;em&gt;(ITX-Saemaeul, ITX-Maum, and general trains such as Mugunghwa have been reduced from 352 to 307 services, a decrease of 45 services, resulting in 87&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;열차는 빠릅니다.&lt;br/&gt;&lt;em&gt;The train is fast.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;열차는 역에 있습니다.&lt;br/&gt;&lt;em&gt;The train is at the station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589285243989-d165c53b5441?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFpbiUyMCUyOHRvcGljJTIwbWFya2VyJTI5fGVufDB8fHx8MTc3OTg0OTAzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="열차는 (train (topic marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아이티엑스(ITX)-새마을호·마음호 모든 열차는 수원역에서 출발·도착 운행한다&lt;br/&gt;&lt;em&gt;All ITX-Saemaeul and ITX-Maum trains operate departing from and arriving at Suwon Station.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아이티엑스-새마을, 아이티엑스-마음의 모든 열차는 수원역에서 출발 또는 도착하는 식으로 운행한다&lt;br/&gt;&lt;em&gt;All ITX-Saemaeul and ITX-Maum trains operate in such a way that they depart from or arrive at Suwon Station.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(아이티엑스(ITX) 새마을·마음과 무궁화호 등 일반열차는 352회에서 307회로 45회 중지돼 87&lt;br/&gt;&lt;em&gt;(ITX-Saemaeul, ITX-Maum, and general trains such as Mugunghwa have been reduced from 352 to 307 services, a decrease of 45 services, resulting in 87&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;열차는 빠릅니다.&lt;br/&gt;&lt;em&gt;The train is fast.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;열차는 역에 있습니다.&lt;br/&gt;&lt;em&gt;The train is at the station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 11:30:37 +0900</pubDate><guid isPermaLink="false">vocab-704cc3bad458cfce01133684c150c53052942b8c</guid><enclosure url="https://images.unsplash.com/photo-1589285243989-d165c53b5441?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFpbiUyMCUyOHRvcGljJTIwbWFya2VyJTI5fGVufDB8fHx8MTc3OTg0OTAzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="189702" /><ns2:content url="https://images.unsplash.com/photo-1589285243989-d165c53b5441?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFpbiUyMCUyOHRvcGljJTIwbWFya2VyJTI5fGVufDB8fHx8MTc3OTg0OTAzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1589285243989-d165c53b5441?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFpbiUyMCUyOHRvcGljJTIwbWFya2VyJTI5fGVufDB8fHx8MTc3OTg0OTAzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>열차는</category></item><item><title>양극화 – polarization</title><link>urn:urn:vocab:양극화</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589656966895-2f33e7653819?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xhcml6YXRpb258ZW58MHx8fHwxNzc5ODQxMzg4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="양극화 (polarization)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Koo Yoon-cheol: "Post-Middle East War Growth Strategy: Resolve Polarization and Boost Potential Growth Rate" (구윤철 “중동전쟁 이후 성장전략, 양극화 해소·잠재성장률 제고”) &lt;&lt;br/&gt;&lt;em&gt;Koo Yoon-cheol: "Post-Middle East War Growth Strategy: Resolve Polarization and Boost Potential Growth Rate"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Koo Yoon-cheol: "Post-Middle East War Growth Strategy: Resolve Polarization and Boost Potential Growth Rate" (구윤철 “중동전쟁 이후 성장전략, 양극화 해소·잠재성장률 제고”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Koo Yoon-cheol: "Post-Middle East War Growth Strategy: Resolve Polarization and Boost Potential Growth Rate"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부가 미국·이스라엘-이란 전쟁 영향을 최소화하고 양극화 극복에 무게를 둔 경제성장전략을 추진한다&lt;br/&gt;&lt;em&gt;(The government pursues an economic growth strategy that minimizes the impact of the US-Israel-Iran war and focuses on overcoming polarization)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;양극화가 심해지고 있다.&lt;br/&gt;&lt;em&gt;Polarization is getting worse.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부의 양극화는 문제다.&lt;br/&gt;&lt;em&gt;The polarization of wealth is a problem.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589656966895-2f33e7653819?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xhcml6YXRpb258ZW58MHx8fHwxNzc5ODQxMzg4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="양극화 (polarization)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Koo Yoon-cheol: "Post-Middle East War Growth Strategy: Resolve Polarization and Boost Potential Growth Rate" (구윤철 “중동전쟁 이후 성장전략, 양극화 해소·잠재성장률 제고”) &lt;&lt;br/&gt;&lt;em&gt;Koo Yoon-cheol: "Post-Middle East War Growth Strategy: Resolve Polarization and Boost Potential Growth Rate"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Koo Yoon-cheol: "Post-Middle East War Growth Strategy: Resolve Polarization and Boost Potential Growth Rate" (구윤철 “중동전쟁 이후 성장전략, 양극화 해소·잠재성장률 제고”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Koo Yoon-cheol: "Post-Middle East War Growth Strategy: Resolve Polarization and Boost Potential Growth Rate"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정부가 미국·이스라엘-이란 전쟁 영향을 최소화하고 양극화 극복에 무게를 둔 경제성장전략을 추진한다&lt;br/&gt;&lt;em&gt;(The government pursues an economic growth strategy that minimizes the impact of the US-Israel-Iran war and focuses on overcoming polarization)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;양극화가 심해지고 있다.&lt;br/&gt;&lt;em&gt;Polarization is getting worse.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;부의 양극화는 문제다.&lt;br/&gt;&lt;em&gt;The polarization of wealth is a problem.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 09:23:09 +0900</pubDate><guid isPermaLink="false">vocab-ccbb421bdf68ecb23575c0f8c2b86884c68a0d25</guid><enclosure url="https://images.unsplash.com/photo-1589656966895-2f33e7653819?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xhcml6YXRpb258ZW58MHx8fHwxNzc5ODQxMzg4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="68728" /><ns2:content url="https://images.unsplash.com/photo-1589656966895-2f33e7653819?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xhcml6YXRpb258ZW58MHx8fHwxNzc5ODQxMzg4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1589656966895-2f33e7653819?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xhcml6YXRpb258ZW58MHx8fHwxNzc5ODQxMzg4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>양극화</category></item><item><title>정책 – policy</title><link>urn:urn:vocab:정책</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xpY3l8ZW58MHx8fHwxNzc5ODMzOTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정책 (policy)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (독일 전문가에 숲칼럼니스트인 김택환 미래전환정책연구원 원장은 이달 22일 펴낸 &amp;lt;신산림국부론&amp;gt;에서 박정희 정부 산림녹화 정책의 뒤를 이은 김대중 정부의 숲 가꾸기 사업 또한 국내 산림정책 역사에 기록할 정도의 뜻깊은 성과를 거둔 것으로 평가했다&lt;br/&gt;&lt;em&gt;"Kim Taek-hwan, a German expert and forest columnist who is the director of the Future Transformation Policy Research Institute, evaluated in his book &lt;New Forest National Wealth Theory&gt; published on the 22nd of this month that the forest nurturing project of the Kim Dae-jung government, which followed the forest greening policy of the Park Chung-hee government, also achieved meaningful results worthy of being recorded in the history of domestic forest policy."&lt;/em&gt;&lt;/p&gt;
