@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 11:30:37 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 15:38:54 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>열차는 – train (topic marker)</title><link>urn:urn:vocab:열차는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>과제를 – task (object particle)</title><link>urn:urn:vocab:과제를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1740393148421-2159bf9e8d8e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0YXNrJTIwJTI4b2JqZWN0JTIwcGFydGljbGUlMjl8ZW58MHx8fHwxNzc5ODYzOTMwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="과제를 (task (object particle))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현장에서 접한 피지컬 인공지능은 노동 환경을 개선하는 혁신인 동시에, 노동 시장의 진입 장벽을 높여 양극화와 구조적 실업이라는 과제를 던지고 있었다&lt;br/&gt;&lt;em&gt;The physical artificial intelligence encountered in the field was an innovation that improves the labor environment, while at the same time raising the entry barriers to the labor market, posing challenges of polarization and structural unemployment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;참석자들은 AI가 산업 현장과 직무 구조에 가져올 변화 가능성을 살펴보고, 기술 발전과 고용 안정이 조화를 이루기 위한 과제를 함께 모색했다&lt;br/&gt;&lt;em&gt;Participants examined the potential changes AI could bring to industrial sites and job structures, and jointly explored tasks to achieve harmony between technological advancement and employment stability.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나아가 한국 사회와 산업이 직면한 구조적 전환의 과제를 살펴봄으로써 미래 성장과 지속가능성을 위한 전략적 방향을 모색하는 자리가 됐다&lt;br/&gt;&lt;em&gt;Furthermore, by examining the challenges of structural transformation facing Korean society and industry, the event became a place to seek strategic directions for future growth and sustainability.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 과제를 합니다.&lt;br/&gt;&lt;em&gt;I do my homework.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과제를 내일 제출해요.&lt;br/&gt;&lt;em&gt;I submit the assignment tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1740393148421-2159bf9e8d8e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0YXNrJTIwJTI4b2JqZWN0JTIwcGFydGljbGUlMjl8ZW58MHx8fHwxNzc5ODYzOTMwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="과제를 (task (object particle))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현장에서 접한 피지컬 인공지능은 노동 환경을 개선하는 혁신인 동시에, 노동 시장의 진입 장벽을 높여 양극화와 구조적 실업이라는 과제를 던지고 있었다&lt;br/&gt;&lt;em&gt;The physical artificial intelligence encountered in the field was an innovation that improves the labor environment, while at the same time raising the entry barriers to the labor market, posing challenges of polarization and structural unemployment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;참석자들은 AI가 산업 현장과 직무 구조에 가져올 변화 가능성을 살펴보고, 기술 발전과 고용 안정이 조화를 이루기 위한 과제를 함께 모색했다&lt;br/&gt;&lt;em&gt;Participants examined the potential changes AI could bring to industrial sites and job structures, and jointly explored tasks to achieve harmony between technological advancement and employment stability.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나아가 한국 사회와 산업이 직면한 구조적 전환의 과제를 살펴봄으로써 미래 성장과 지속가능성을 위한 전략적 방향을 모색하는 자리가 됐다&lt;br/&gt;&lt;em&gt;Furthermore, by examining the challenges of structural transformation facing Korean society and industry, the event became a place to seek strategic directions for future growth and sustainability.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 과제를 합니다.&lt;br/&gt;&lt;em&gt;I do my homework.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과제를 내일 제출해요.&lt;br/&gt;&lt;em&gt;I submit the assignment tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 15:38:54 +0900</pubDate><guid isPermaLink="false">vocab-b62973cc00db0c0eecd57ebed9ed2cb27eef0214</guid><enclosure url="https://images.unsplash.com/photo-1740393148421-2159bf9e8d8e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0YXNrJTIwJTI4b2JqZWN0JTIwcGFydGljbGUlMjl8ZW58MHx8fHwxNzc5ODYzOTMwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="130670" /><ns2:content url="https://images.unsplash.com/photo-1740393148421-2159bf9e8d8e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0YXNrJTIwJTI4b2JqZWN0JTIwcGFydGljbGUlMjl8ZW58MHx8fHwxNzc5ODYzOTMwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1740393148421-2159bf9e8d8e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0YXNrJTIwJTI4b2JqZWN0JTIwcGFydGljbGUlMjl8ZW58MHx8fHwxNzc5ODYzOTMwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>과제를</category></item><item><title>운행한다 – operates</title><link>urn:urn:vocab:운행한다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1579684453423-f84349ef60b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVyYXRlc3xlbnwwfHx8fDE3Nzk4NTY0MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="운행한다 (operates)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아이티엑스(ITX)-새마을호·마음호 모든 열차는 수원역에서 출발·도착 운행한다&lt;br/&gt;&lt;em&gt;All ITX-Saemaeul and ITX-Maum trains operate departing from and arriving at Suwon Station.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;강릉·중앙선 케이티엑스는 청량리~강릉·부전역 구간을 운행한다&lt;br/&gt;&lt;em&gt;KTX on the Gyeonggang and Jungang lines operate on the Cheongnyangni~Gangneung and Bujeon sections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(일반열차도 경부선 무궁화호는 대전~부산역, 호남선 무궁화호는 서대전~목포·여수엑스포역, 장항선 익산~천안역 구간을 운행한다&lt;br/&gt;&lt;em&gt;(For regular trains, the Gyeongbu Line Mugunghwa operates on the Daejeon~Busan section, the Honam Line Mugunghwa on the Seodaejeon~Mokpo and Yeosu Expo sections, and the Janghang Line on the Iksan~Cheonan section.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;버스가 매일 운행한다.&lt;br/&gt;&lt;em&gt;The bus runs every day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지하철이 밤에 운행한다.&lt;br/&gt;&lt;em&gt;The subway runs at night.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1579684453423-f84349ef60b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVyYXRlc3xlbnwwfHx8fDE3Nzk4NTY0MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="운행한다 (operates)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아이티엑스(ITX)-새마을호·마음호 모든 열차는 수원역에서 출발·도착 운행한다&lt;br/&gt;&lt;em&gt;All ITX-Saemaeul and ITX-Maum trains operate departing from and arriving at Suwon Station.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;강릉·중앙선 케이티엑스는 청량리~강릉·부전역 구간을 운행한다&lt;br/&gt;&lt;em&gt;KTX on the Gyeonggang and Jungang lines operate on the Cheongnyangni~Gangneung and Bujeon sections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(일반열차도 경부선 무궁화호는 대전~부산역, 호남선 무궁화호는 서대전~목포·여수엑스포역, 장항선 익산~천안역 구간을 운행한다&lt;br/&gt;&lt;em&gt;(For regular trains, the Gyeongbu Line Mugunghwa operates on the Daejeon~Busan section, the Honam Line Mugunghwa on the Seodaejeon~Mokpo and Yeosu Expo sections, and the Janghang Line on the Iksan~Cheonan section.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;버스가 매일 운행한다.&lt;br/&gt;&lt;em&gt;The bus runs every day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지하철이 밤에 운행한다.&lt;br/&gt;&lt;em&gt;The subway runs at night.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 13:34:00 +0900</pubDate><guid isPermaLink="false">vocab-e2303001b9dccf52a56e546c039532a250e4d53c</guid><enclosure url="https://images.unsplash.com/photo-1579684453423-f84349ef60b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVyYXRlc3xlbnwwfHx8fDE3Nzk4NTY0MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="131759" /><ns2:content url="https://images.unsplash.com/photo-1579684453423-f84349ef60b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVyYXRlc3xlbnwwfHx8fDE3Nzk4NTY0MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1579684453423-f84349ef60b0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcGVyYXRlc3xlbnwwfHx8fDE3Nzk4NTY0MzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>운행한다</category></item><item><title>열차는 – train (topic marker)</title><link>urn:urn:vocab:열차는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1589285243989-d165c53b5441?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cmFpbiUyMCUyOHRvcGljJTIwbWFya2VyJTI5fGVufDB8fHx8MTc3OTg0OTAzM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="열차는 (train (topic marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;아이티엑스(ITX)-새마을호·마음호 모든 열차는 수원역에서 출발·도착 운행한다&lt;br/&gt;&lt;em&gt;All ITX-Saemaeul and ITX-Maum trains operate departing from and arriving at Suwon Station.&lt;/em&gt;&lt;/p&gt;
