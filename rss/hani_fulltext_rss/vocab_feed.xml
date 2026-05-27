@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 23:54:46 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 04:04:18 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>연세대 – Yonsei University</title><link>urn:urn:vocab:연세대</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>에서는 – in/at (location particle)</title><link>urn:urn:vocab:에서는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1741527262157-ee358d56f6ba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlOTclOTAlRUMlODQlOUMlRUIlOEElOTR8ZW58MHx8fHwxNzc5OTA4NjU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="에서는 (in/at (location particle))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(현장에서는 학생들이 직접 ESG 가치를 체험하고 실천할 수 있는 참여형 프로그램이 마련됐다&lt;br/&gt;&lt;em&gt;At the site, participatory programs were prepared where students could directly experience and practice ESG values.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(첫 번째 세션에서는 연세대 백우열 교수가 최근 저서 『피크 코리아』를 중심으로 대한민국의 구조적 위기와 그 원인을 분석하고, 향후 한국 사회가 직면할 핵심 과제와 대응 방향에 대해 발표했다&lt;br/&gt;&lt;em&gt;In the first session, Yonsei University Professor Baek Woo-yeol analyzed South Korea's structural crisis and its causes, focusing on his recent book 'Peak Korea', and presented the key challenges and response directions that Korean society will face in the future.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아울러 이번 발표에서는 이른바 &amp;#x27;강남류 테크트리&amp;#x27;에 편승하기 어려운 현실 속에서 개인과 기업이 AI 활용 역량 강화와 전문성 심화를 통해 생존 방식을 재구성해야 한다는 메시지도 함께 전달했다&lt;br/&gt;&lt;em&gt;In addition, this presentation conveyed the message that in the reality where it is difficult to ride the so-called 'Gangnam-style tech tree', individuals and companies must restructure their survival methods by strengthening AI utilization capabilities and deepening expertise.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;도서관에서는 책을 읽어요.&lt;br/&gt;&lt;em&gt;I read books at the library.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교에서는 공부해요.&lt;br/&gt;&lt;em&gt;I study at school.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1741527262157-ee358d56f6ba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlOTclOTAlRUMlODQlOUMlRUIlOEElOTR8ZW58MHx8fHwxNzc5OTA4NjU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="에서는 (in/at (location particle))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(현장에서는 학생들이 직접 ESG 가치를 체험하고 실천할 수 있는 참여형 프로그램이 마련됐다&lt;br/&gt;&lt;em&gt;At the site, participatory programs were prepared where students could directly experience and practice ESG values.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(첫 번째 세션에서는 연세대 백우열 교수가 최근 저서 『피크 코리아』를 중심으로 대한민국의 구조적 위기와 그 원인을 분석하고, 향후 한국 사회가 직면할 핵심 과제와 대응 방향에 대해 발표했다&lt;br/&gt;&lt;em&gt;In the first session, Yonsei University Professor Baek Woo-yeol analyzed South Korea's structural crisis and its causes, focusing on his recent book 'Peak Korea', and presented the key challenges and response directions that Korean society will face in the future.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아울러 이번 발표에서는 이른바 &amp;#x27;강남류 테크트리&amp;#x27;에 편승하기 어려운 현실 속에서 개인과 기업이 AI 활용 역량 강화와 전문성 심화를 통해 생존 방식을 재구성해야 한다는 메시지도 함께 전달했다&lt;br/&gt;&lt;em&gt;In addition, this presentation conveyed the message that in the reality where it is difficult to ride the so-called 'Gangnam-style tech tree', individuals and companies must restructure their survival methods by strengthening AI utilization capabilities and deepening expertise.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;도서관에서는 책을 읽어요.&lt;br/&gt;&lt;em&gt;I read books at the library.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;학교에서는 공부해요.&lt;br/&gt;&lt;em&gt;I study at school.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 28 May 2026 04:04:18 +0900</pubDate><guid isPermaLink="false">vocab-6e533ce3744ac361b48429a212cb474ed9303eb8</guid><enclosure url="https://images.unsplash.com/photo-1741527262157-ee358d56f6ba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlOTclOTAlRUMlODQlOUMlRUIlOEElOTR8ZW58MHx8fHwxNzc5OTA4NjU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="290009" /><ns2:content url="https://images.unsplash.com/photo-1741527262157-ee358d56f6ba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlOTclOTAlRUMlODQlOUMlRUIlOEElOTR8ZW58MHx8fHwxNzc5OTA4NjU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1741527262157-ee358d56f6ba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlOTclOTAlRUMlODQlOUMlRUIlOEElOTR8ZW58MHx8fHwxNzc5OTA4NjU1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>에서는</category></item><item><title>줄어든 – reduced</title><link>urn:urn:vocab:줄어든</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530034424313-9be028eeae5a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWR1Y2VkfGVufDB8fHx8MTc3OTkwMTE0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="줄어든 (reduced)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;5대 은행의 정기 예금도 지난 2월 946조8897억원에서 3월 937조4565억원으로 대폭 줄어든데 이어, 4월(937조1834억원)에도 감소세를 보였다&lt;br/&gt;&lt;em&gt;The time deposits of the five major banks also decreased significantly from 946.8897 trillion won in February to 937.4565 trillion won in March, and continued to decline in April (937.1834 trillion won).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(우리나라의 순대외금융자산이 2분기 연속 줄어든 것으로 나타났다&lt;br/&gt;&lt;em&gt;Korea's net external financial assets have decreased for two consecutive quarters.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한국인이 해외 주식을 사들인 것을 포함한 증권투자는 석 달 동안 151억 달러 줄어든 것으로 집계됐다&lt;br/&gt;&lt;em&gt;Securities investment, including Koreans' purchases of overseas stocks, decreased by $15.1 billion over three months.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;줄어든 돈이 문제예요.&lt;br/&gt;&lt;em&gt;The reduced money is the problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;줄어든 시간이 아쉬워요.&lt;br/&gt;&lt;em&gt;I miss the reduced time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530034424313-9be028eeae5a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWR1Y2VkfGVufDB8fHx8MTc3OTkwMTE0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="줄어든 (reduced)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;5대 은행의 정기 예금도 지난 2월 946조8897억원에서 3월 937조4565억원으로 대폭 줄어든데 이어, 4월(937조1834억원)에도 감소세를 보였다&lt;br/&gt;&lt;em&gt;The time deposits of the five major banks also decreased significantly from 946.8897 trillion won in February to 937.4565 trillion won in March, and continued to decline in April (937.1834 trillion won).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(우리나라의 순대외금융자산이 2분기 연속 줄어든 것으로 나타났다&lt;br/&gt;&lt;em&gt;Korea's net external financial assets have decreased for two consecutive quarters.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한국인이 해외 주식을 사들인 것을 포함한 증권투자는 석 달 동안 151억 달러 줄어든 것으로 집계됐다&lt;br/&gt;&lt;em&gt;Securities investment, including Koreans' purchases of overseas stocks, decreased by $15.1 billion over three months.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;줄어든 돈이 문제예요.&lt;br/&gt;&lt;em&gt;The reduced money is the problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;줄어든 시간이 아쉬워요.&lt;br/&gt;&lt;em&gt;I miss the reduced time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 28 May 2026 01:59:11 +0900</pubDate><guid isPermaLink="false">vocab-808eee1f91f7289a727c2fa0783e3466b0e99ab8</guid><enclosure url="https://images.unsplash.com/photo-1530034424313-9be028eeae5a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWR1Y2VkfGVufDB8fHx8MTc3OTkwMTE0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="113247" /><ns2:content url="https://images.unsplash.com/photo-1530034424313-9be028eeae5a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWR1Y2VkfGVufDB8fHx8MTc3OTkwMTE0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1530034424313-9be028eeae5a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWR1Y2VkfGVufDB8fHx8MTc3OTkwMTE0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>줄어든</category></item><item><title>연세대 – Yonsei University</title><link>urn:urn:vocab:연세대</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742747215638-0105cbcd2645?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxZb25zZWklMjBVbml2ZXJzaXR5fGVufDB8fHx8MTc3OTg5MzY4Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연세대 (Yonsei University)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Yonsei University’s Public Problems Research Institute &amp; National Management Research Institute Host Special Seminar on "Peak Korea: Diagnosis and Challenges" (연세대 공공문제연구소 &amp; 국가관리연구원, 「피크 코리아: 진단과 과제」 특별 세미나 개최) &lt;&lt;br/&gt;&lt;em&gt;Yonsei University’s Public Problems Research Institute &amp; National Management Research Institute Host Special Seminar on "Peak Korea: Diagnosis and Challenges"&lt;/em&gt;&lt;/p&gt;
