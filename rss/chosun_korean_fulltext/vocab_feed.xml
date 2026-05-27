@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 19:46:53 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 23:54:52 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>스타벅스에 – at Starbucks</title><link>urn:urn:vocab:스타벅스에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기관에 – to the institution</title><link>urn:urn:vocab:기관에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1752317309982-287a857c0153?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMGluc3RpdHV0aW9ufGVufDB8fHx8MTc3OTg5MzY4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기관에 (to the institution)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;“Please Prevent Recurring Flood Damage” Complaints Pour In… Anti-Corruption Agency Issues ‘Complaint Advisory’ to Government Organizations (“수해 반복되지 않게 해달라” 민원 잇따라… 권익위, 정부 기관에 ‘민원 주의보’) &lt;&lt;br/&gt;&lt;em&gt;"Please Prevent Recurring Flood Damage" Complaints Pour In… Anti-Corruption Agency Issues 'Complaint Advisory' to Government Organizations&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;“Please Prevent Recurring Flood Damage” Complaints Pour In… Anti-Corruption Agency Issues ‘Complaint Advisory’ to Government Organizations (“수해 반복되지 않게 해달라” 민원 잇따라… 권익위, 정부 기관에 ‘민원 주의보’)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;"Please Prevent Recurring Flood Damage" Complaints Pour In… Anti-Corruption Agency Issues 'Complaint Advisory' to Government Organizations&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민권익위원회는 여름을 앞두고 정부에 수해 대비를 요구하는 민원이 늘어나고 있다며, 관계 기관에 27일 ‘민원 주의보’를 발령했다&lt;br/&gt;&lt;em&gt;(The Anti-Corruption and Civil Rights Commission issued a 'complaint advisory' to relevant agencies on the 27th, citing an increase in complaints demanding flood damage preparedness ahead of summer.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 기관에 갑니다.&lt;br/&gt;&lt;em&gt;I go to the institution.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 기관에 일합니다.&lt;br/&gt;&lt;em&gt;He works at the institution.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1752317309982-287a857c0153?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMGluc3RpdHV0aW9ufGVufDB8fHx8MTc3OTg5MzY4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기관에 (to the institution)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;“Please Prevent Recurring Flood Damage” Complaints Pour In… Anti-Corruption Agency Issues ‘Complaint Advisory’ to Government Organizations (“수해 반복되지 않게 해달라” 민원 잇따라… 권익위, 정부 기관에 ‘민원 주의보’) &lt;&lt;br/&gt;&lt;em&gt;"Please Prevent Recurring Flood Damage" Complaints Pour In… Anti-Corruption Agency Issues 'Complaint Advisory' to Government Organizations&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;“Please Prevent Recurring Flood Damage” Complaints Pour In… Anti-Corruption Agency Issues ‘Complaint Advisory’ to Government Organizations (“수해 반복되지 않게 해달라” 민원 잇따라… 권익위, 정부 기관에 ‘민원 주의보’)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;"Please Prevent Recurring Flood Damage" Complaints Pour In… Anti-Corruption Agency Issues 'Complaint Advisory' to Government Organizations&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민권익위원회는 여름을 앞두고 정부에 수해 대비를 요구하는 민원이 늘어나고 있다며, 관계 기관에 27일 ‘민원 주의보’를 발령했다&lt;br/&gt;&lt;em&gt;(The Anti-Corruption and Civil Rights Commission issued a 'complaint advisory' to relevant agencies on the 27th, citing an increase in complaints demanding flood damage preparedness ahead of summer.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 기관에 갑니다.&lt;br/&gt;&lt;em&gt;I go to the institution.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 기관에 일합니다.&lt;br/&gt;&lt;em&gt;He works at the institution.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 23:54:52 +0900</pubDate><guid isPermaLink="false">vocab-0ec0aa5116ff679ba524190891c426caef496233</guid><enclosure url="https://images.unsplash.com/photo-1752317309982-287a857c0153?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMGluc3RpdHV0aW9ufGVufDB8fHx8MTc3OTg5MzY4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="46161" /><ns2:content url="https://images.unsplash.com/photo-1752317309982-287a857c0153?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMGluc3RpdHV0aW9ufGVufDB8fHx8MTc3OTg5MzY4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1752317309982-287a857c0153?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMGluc3RpdHV0aW9ufGVufDB8fHx8MTc3OTg5MzY4OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기관에</category></item><item><title>바다의날 – Sea Day</title><link>urn:urn:vocab:바다의날</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1468581264429-2548ef9eb732?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZWElMjBEYXl8ZW58MHx8fHwxNzc5ODg2MjIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="바다의날 (Sea Day)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이 대통령은 이날 부산 해양대학교에서 열린 제31회 바다의날 기념식에 참석해 “1996년 김영삼 정부의 해양수산부 출범은 해운과 항만, 조선과 해양산업, 수산업의 경쟁력을 키워 우리 대한민국을 해양 강국으로 도약시키겠다는 강력한 의지의 표명이었다”며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;"President Lee attended the 31st Sea Day ceremony held at Busan National Maritime University and stated, 'The launch of the Ministry of Maritime Affairs and Fisheries under the Kim Young-sam government in 1996 was a strong expression of will to enhance the competitiveness of shipping, ports, shipbuilding, marine industry, and fisheries, and to leap forward as a maritime powerhouse.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 이날 김혜경 여사와 함께 제31회 바다의날 기념식에 참석한 뒤 부산 남항시장으로 이동했다&lt;br/&gt;&lt;em&gt;"After attending the 31st Sea Day ceremony with First Lady Kim Hye-kyung, President Lee moved to Busan Namhang Market."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 이날 부산 영도구 국립한국해양대에서 개최된 ‘제31회 바다의날’ 기념식에서 “해양강국의 비전을 동남권에서 실현하겠다”며 “‘남부 해양수도권’ 육성은 해양강국 비전을 일자리와 지역의 활력으로 직결시키는 균형성장 전략”이라고 말했다&lt;br/&gt;&lt;em&gt;"At the 31st Sea Day ceremony held at Korea Maritime and Ocean University in Yeongdo-gu, Busan, President Lee said, 'We will realize the vision of a maritime powerhouse in the southeastern region,' and added, 'The development of the Southern Maritime Capital Region is a balanced growth strategy that directly links the maritime powerhouse vision to jobs and regional vitality.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;바다의날에 바다에 가요.&lt;br/&gt;&lt;em&gt;I go to the sea on Sea Day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;바다의날은 5월 31일이에요.&lt;br/&gt;&lt;em&gt;Sea Day is May 31st.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1468581264429-2548ef9eb732?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZWElMjBEYXl8ZW58MHx8fHwxNzc5ODg2MjIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="바다의날 (Sea Day)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이 대통령은 이날 부산 해양대학교에서 열린 제31회 바다의날 기념식에 참석해 “1996년 김영삼 정부의 해양수산부 출범은 해운과 항만, 조선과 해양산업, 수산업의 경쟁력을 키워 우리 대한민국을 해양 강국으로 도약시키겠다는 강력한 의지의 표명이었다”며 이같이 밝혔다&lt;br/&gt;&lt;em&gt;"President Lee attended the 31st Sea Day ceremony held at Busan National Maritime University and stated, 'The launch of the Ministry of Maritime Affairs and Fisheries under the Kim Young-sam government in 1996 was a strong expression of will to enhance the competitiveness of shipping, ports, shipbuilding, marine industry, and fisheries, and to leap forward as a maritime powerhouse.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 이날 김혜경 여사와 함께 제31회 바다의날 기념식에 참석한 뒤 부산 남항시장으로 이동했다&lt;br/&gt;&lt;em&gt;"After attending the 31st Sea Day ceremony with First Lady Kim Hye-kyung, President Lee moved to Busan Namhang Market."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 이날 부산 영도구 국립한국해양대에서 개최된 ‘제31회 바다의날’ 기념식에서 “해양강국의 비전을 동남권에서 실현하겠다”며 “‘남부 해양수도권’ 육성은 해양강국 비전을 일자리와 지역의 활력으로 직결시키는 균형성장 전략”이라고 말했다&lt;br/&gt;&lt;em&gt;"At the 31st Sea Day ceremony held at Korea Maritime and Ocean University in Yeongdo-gu, Busan, President Lee said, 'We will realize the vision of a maritime powerhouse in the southeastern region,' and added, 'The development of the Southern Maritime Capital Region is a balanced growth strategy that directly links the maritime powerhouse vision to jobs and regional vitality.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;바다의날에 바다에 가요.&lt;br/&gt;&lt;em&gt;I go to the sea on Sea Day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;바다의날은 5월 31일이에요.&lt;br/&gt;&lt;em&gt;Sea Day is May 31st.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 21:50:27 +0900</pubDate><guid isPermaLink="false">vocab-e0740558c32bbe8902c14ea465c7bc401b710afe</guid><enclosure url="https://images.unsplash.com/photo-1468581264429-2548ef9eb732?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZWElMjBEYXl8ZW58MHx8fHwxNzc5ODg2MjIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="65224" /><ns2:content url="https://images.unsplash.com/photo-1468581264429-2548ef9eb732?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZWElMjBEYXl8ZW58MHx8fHwxNzc5ODg2MjIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1468581264429-2548ef9eb732?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZWElMjBEYXl8ZW58MHx8fHwxNzc5ODg2MjIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>바다의날</category></item><item><title>스타벅스에 – at Starbucks</title><link>urn:urn:vocab:스타벅스에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMFN0YXJidWNrc3xlbnwwfHx8fDE3Nzk4Nzg4MDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스타벅스에 (at Starbucks)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (더불어민주당 조승래 사무총장은 5·18 민주화운동 기념일에 ‘탱크데이’ 이번트를 기획한 스타벅스에 대한 ‘이용 자제’ 권고를 거둘 생각이 없다고 27일 밝혔다&lt;br/&gt;&lt;em&gt;Democratic Party Secretary General Cho Seung-rae said on the 27th that he has no intention of withdrawing the recommendation to refrain from using Starbucks, which planned a 'Tank Day' event for the May 18 Democratization Movement anniversary.&lt;/em&gt;&lt;/p&gt;

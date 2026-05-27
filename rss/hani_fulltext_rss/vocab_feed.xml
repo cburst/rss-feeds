@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 19:46:46 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 23:54:46 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>대화의 – of conversation</title><link>urn:urn:vocab:대화의</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>연세대 – Yonsei University</title><link>urn:urn:vocab:연세대</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742747215638-0105cbcd2645?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxZb25zZWklMjBVbml2ZXJzaXR5fGVufDB8fHx8MTc3OTg5MzY4Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연세대 (Yonsei University)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Yonsei University’s Public Problems Research Institute &amp; National Management Research Institute Host Special Seminar on "Peak Korea: Diagnosis and Challenges" (연세대 공공문제연구소 &amp; 국가관리연구원, 「피크 코리아: 진단과 과제」 특별 세미나 개최) &lt;&lt;br/&gt;&lt;em&gt;Yonsei University’s Public Problems Research Institute &amp; National Management Research Institute Host Special Seminar on "Peak Korea: Diagnosis and Challenges"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Yonsei University’s Public Problems Research Institute &amp; National Management Research Institute Host Special Seminar on "Peak Korea: Diagnosis and Challenges" (연세대 공공문제연구소 &amp; 국가관리연구원, 「피크 코리아: 진단과 과제」 특별 세미나 개최)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Yonsei University’s Public Problems Research Institute &amp; National Management Research Institute Host Special Seminar on "Peak Korea: Diagnosis and Challenges"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(연세대학교 공공문제연구소(소장 이정욱 교수), 국가관리연구원(원장 홍순만 교수)는 5월 21일(목) 연세대 연희관 국제회의실에서 「피크 코리아: 진단과 과제」를 주제로 전문가 초청 특별 세미나를 개최했다&lt;br/&gt;&lt;em&gt;Yonsei University's Public Problems Research Institute (Director Professor Lee Jeong-wook) and the National Management Research Institute (Director Professor Hong Soon-man) held a special seminar inviting experts on the theme of "Peak Korea: Diagnosis and Challenges" on Thursday, May 21, at the Yonsei University Yeonhui Hall International Conference Room.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 연세대 학생입니다.&lt;br/&gt;&lt;em&gt;I am a Yonsei University student.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;연세대가 아주 좋아요.&lt;br/&gt;&lt;em&gt;Yonsei University is very good.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1742747215638-0105cbcd2645?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxZb25zZWklMjBVbml2ZXJzaXR5fGVufDB8fHx8MTc3OTg5MzY4Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="연세대 (Yonsei University)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Yonsei University’s Public Problems Research Institute &amp; National Management Research Institute Host Special Seminar on "Peak Korea: Diagnosis and Challenges" (연세대 공공문제연구소 &amp; 국가관리연구원, 「피크 코리아: 진단과 과제」 특별 세미나 개최) &lt;&lt;br/&gt;&lt;em&gt;Yonsei University’s Public Problems Research Institute &amp; National Management Research Institute Host Special Seminar on "Peak Korea: Diagnosis and Challenges"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Yonsei University’s Public Problems Research Institute &amp; National Management Research Institute Host Special Seminar on "Peak Korea: Diagnosis and Challenges" (연세대 공공문제연구소 &amp; 국가관리연구원, 「피크 코리아: 진단과 과제」 특별 세미나 개최)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Yonsei University’s Public Problems Research Institute &amp; National Management Research Institute Host Special Seminar on "Peak Korea: Diagnosis and Challenges"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(연세대학교 공공문제연구소(소장 이정욱 교수), 국가관리연구원(원장 홍순만 교수)는 5월 21일(목) 연세대 연희관 국제회의실에서 「피크 코리아: 진단과 과제」를 주제로 전문가 초청 특별 세미나를 개최했다&lt;br/&gt;&lt;em&gt;Yonsei University's Public Problems Research Institute (Director Professor Lee Jeong-wook) and the National Management Research Institute (Director Professor Hong Soon-man) held a special seminar inviting experts on the theme of "Peak Korea: Diagnosis and Challenges" on Thursday, May 21, at the Yonsei University Yeonhui Hall International Conference Room.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 연세대 학생입니다.&lt;br/&gt;&lt;em&gt;I am a Yonsei University student.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;연세대가 아주 좋아요.&lt;br/&gt;&lt;em&gt;Yonsei University is very good.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 23:54:46 +0900</pubDate><guid isPermaLink="false">vocab-90daa693f337af59d39a1a689c19ddcb90d9634d</guid><enclosure url="https://images.unsplash.com/photo-1742747215638-0105cbcd2645?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxZb25zZWklMjBVbml2ZXJzaXR5fGVufDB8fHx8MTc3OTg5MzY4Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="200187" /><ns2:content url="https://images.unsplash.com/photo-1742747215638-0105cbcd2645?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxZb25zZWklMjBVbml2ZXJzaXR5fGVufDB8fHx8MTc3OTg5MzY4Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1742747215638-0105cbcd2645?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxZb25zZWklMjBVbml2ZXJzaXR5fGVufDB8fHx8MTc3OTg5MzY4Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>연세대</category></item><item><title>협력사 – partner company</title><link>urn:urn:vocab:협력사</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758518731462-d091b0b4ed0d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0bmVyJTIwY29tcGFueXxlbnwwfHx8fDE3Nzk4ODYyMTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="협력사 (partner company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Samsung Electronics to Invest 5 Trillion Won Over Five Years in Partner Support and Talent Development… First Social Contribution Plan (삼성전자 “5년간 협력사 지원·인재 육성에 5조 투자”…첫 사회 공헌안) &lt;&lt;br/&gt;&lt;em&gt;Samsung Electronics to Invest 5 Trillion Won Over Five Years in Partner Support and Talent Development… First Social Contribution Plan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Samsung Electronics to Invest 5 Trillion Won Over Five Years in Partner Support and Talent Development… First Social Contribution Plan (삼성전자 “5년간 협력사 지원·인재 육성에 5조 투자”…첫 사회 공헌안)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Samsung Electronics to Invest 5 Trillion Won Over Five Years in Partner Support and Talent Development… First Social Contribution Plan&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(반도체 슈퍼사이클(초호황)에 올라탄 삼성전자가 올해부터 향후 5년간 5조원을 조성해 협력사 지원과 인재 육성 등에 쓰기로 했다&lt;br/&gt;&lt;em&gt;Riding the semiconductor supercycle, Samsung Electronics has decided to set aside 5 trillion won over the next five years starting this year to support partners and nurture talent.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저희 협력사는 신뢰할 수 있습니다.&lt;br/&gt;&lt;em&gt;Our partner is reliable.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 협력사와 계약했어요.&lt;br/&gt;&lt;em&gt;We contracted with that partner.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758518731462-d091b0b4ed0d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0bmVyJTIwY29tcGFueXxlbnwwfHx8fDE3Nzk4ODYyMTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="협력사 (partner company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Samsung Electronics to Invest 5 Trillion Won Over Five Years in Partner Support and Talent Development… First Social Contribution Plan (삼성전자 “5년간 협력사 지원·인재 육성에 5조 투자”…첫 사회 공헌안) &lt;&lt;br/&gt;&lt;em&gt;Samsung Electronics to Invest 5 Trillion Won Over Five Years in Partner Support and Talent Development… First Social Contribution Plan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Samsung Electronics to Invest 5 Trillion Won Over Five Years in Partner Support and Talent Development… First Social Contribution Plan (삼성전자 “5년간 협력사 지원·인재 육성에 5조 투자”…첫 사회 공헌안)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Samsung Electronics to Invest 5 Trillion Won Over Five Years in Partner Support and Talent Development… First Social Contribution Plan&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(반도체 슈퍼사이클(초호황)에 올라탄 삼성전자가 올해부터 향후 5년간 5조원을 조성해 협력사 지원과 인재 육성 등에 쓰기로 했다&lt;br/&gt;&lt;em&gt;Riding the semiconductor supercycle, Samsung Electronics has decided to set aside 5 trillion won over the next five years starting this year to support partners and nurture talent.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저희 협력사는 신뢰할 수 있습니다.&lt;br/&gt;&lt;em&gt;Our partner is reliable.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 협력사와 계약했어요.&lt;br/&gt;&lt;em&gt;We contracted with that partner.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 21:50:19 +0900</pubDate><guid isPermaLink="false">vocab-d0f2006c1eca8db58ed32150a4da67cc2ac943b7</guid><enclosure url="https://images.unsplash.com/photo-1758518731462-d091b0b4ed0d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0bmVyJTIwY29tcGFueXxlbnwwfHx8fDE3Nzk4ODYyMTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="87380" /><ns2:content url="https://images.unsplash.com/photo-1758518731462-d091b0b4ed0d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0bmVyJTIwY29tcGFueXxlbnwwfHx8fDE3Nzk4ODYyMTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1758518731462-d091b0b4ed0d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwYXJ0bmVyJTIwY29tcGFueXxlbnwwfHx8fDE3Nzk4ODYyMTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>협력사</category></item><item><title>대화의 – of conversation</title><link>urn:urn:vocab:대화의</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1511376979163-f804dff7ad7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMGNvbnZlcnNhdGlvbnxlbnwwfHx8fDE3Nzk4Nzg4MDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대화의 (of conversation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;대화의 주된 주제는 인공지능 발전이 가져온 이익 분배와 일자리 재편이었다&lt;br/&gt;&lt;em&gt;The main topic of the conversation was the distribution of benefits and job reorganization brought about by the development of artificial intelligence.&lt;/em&gt;&lt;/p&gt;
