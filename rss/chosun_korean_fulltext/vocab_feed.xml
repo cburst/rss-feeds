@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 15:39:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 19:46:53 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>시장인 – market (as in 'is the market')</title><link>urn:urn:vocab:시장인</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>스타벅스에 – at Starbucks</title><link>urn:urn:vocab:스타벅스에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMFN0YXJidWNrc3xlbnwwfHx8fDE3Nzk4Nzg4MDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스타벅스에 (at Starbucks)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (더불어민주당 조승래 사무총장은 5·18 민주화운동 기념일에 ‘탱크데이’ 이번트를 기획한 스타벅스에 대한 ‘이용 자제’ 권고를 거둘 생각이 없다고 27일 밝혔다&lt;br/&gt;&lt;em&gt;Democratic Party Secretary General Cho Seung-rae said on the 27th that he has no intention of withdrawing the recommendation to refrain from using Starbucks, which planned a 'Tank Day' event for the May 18 Democratization Movement anniversary.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;조 총장은 김부겸 대구시장 후보가 선거 악영향을 우려해 스타벅스에 대한 압박을 그만할 것을 요청한 데 대해 “충분히 할 수 있는 이야기”라면서도 “(이용 자제 권고는) 유지된다”고 했다&lt;br/&gt;&lt;em&gt;Secretary General Cho said regarding Daegu mayoral candidate Kim Boo-kyum's request to stop pressuring Starbucks due to concerns about negative election impact, 'It's a valid point,' but added, 'The recommendation to refrain from use remains in place.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (조 총장은 이날 라디오 인터뷰에서 김 후보가 스타벅스에 대한 당의 압박에 대해 ‘이 정도 선에서 그쳤으면 좋겠다’고 요청한 데 대해 “김 후보 말은 5·18, 세월호 등에 대한 문제제기와 기업에 대한 건 구분해서 봐야 하지 않냐는 것으로 이해가 가며 충분히 할 수 있는 이야기”라고 했다&lt;br/&gt;&lt;em&gt;Secretary General Cho said in a radio interview that day about candidate Kim's request that the party's pressure on Starbucks 'should stop at this level,' 'I understand Candidate Kim's remarks as suggesting that issues like May 18 and the Sewol ferry should be distinguished from corporate matters, and it's a valid point.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 스타벅스에 가요.&lt;br/&gt;&lt;em&gt;I go to Starbucks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스에 커피 있어요.&lt;br/&gt;&lt;em&gt;There is coffee at Starbucks.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMFN0YXJidWNrc3xlbnwwfHx8fDE3Nzk4Nzg4MDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스타벅스에 (at Starbucks)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (더불어민주당 조승래 사무총장은 5·18 민주화운동 기념일에 ‘탱크데이’ 이번트를 기획한 스타벅스에 대한 ‘이용 자제’ 권고를 거둘 생각이 없다고 27일 밝혔다&lt;br/&gt;&lt;em&gt;Democratic Party Secretary General Cho Seung-rae said on the 27th that he has no intention of withdrawing the recommendation to refrain from using Starbucks, which planned a 'Tank Day' event for the May 18 Democratization Movement anniversary.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;조 총장은 김부겸 대구시장 후보가 선거 악영향을 우려해 스타벅스에 대한 압박을 그만할 것을 요청한 데 대해 “충분히 할 수 있는 이야기”라면서도 “(이용 자제 권고는) 유지된다”고 했다&lt;br/&gt;&lt;em&gt;Secretary General Cho said regarding Daegu mayoral candidate Kim Boo-kyum's request to stop pressuring Starbucks due to concerns about negative election impact, 'It's a valid point,' but added, 'The recommendation to refrain from use remains in place.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (조 총장은 이날 라디오 인터뷰에서 김 후보가 스타벅스에 대한 당의 압박에 대해 ‘이 정도 선에서 그쳤으면 좋겠다’고 요청한 데 대해 “김 후보 말은 5·18, 세월호 등에 대한 문제제기와 기업에 대한 건 구분해서 봐야 하지 않냐는 것으로 이해가 가며 충분히 할 수 있는 이야기”라고 했다&lt;br/&gt;&lt;em&gt;Secretary General Cho said in a radio interview that day about candidate Kim's request that the party's pressure on Starbucks 'should stop at this level,' 'I understand Candidate Kim's remarks as suggesting that issues like May 18 and the Sewol ferry should be distinguished from corporate matters, and it's a valid point.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 스타벅스에 가요.&lt;br/&gt;&lt;em&gt;I go to Starbucks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스에 커피 있어요.&lt;br/&gt;&lt;em&gt;There is coffee at Starbucks.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 19:46:53 +0900</pubDate><guid isPermaLink="false">vocab-00c6b1c7436708790575dcfa7cafaf14d59045f1</guid><enclosure url="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMFN0YXJidWNrc3xlbnwwfHx8fDE3Nzk4Nzg4MDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="128894" /><ns2:content url="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMFN0YXJidWNrc3xlbnwwfHx8fDE3Nzk4Nzg4MDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMFN0YXJidWNrc3xlbnwwfHx8fDE3Nzk4Nzg4MDh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>스타벅스에</category></item><item><title>만이다 – just, only</title><link>urn:urn:vocab:만이다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1687341954696-82a5236bf300?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqdXN0JTJDJTIwb25seXxlbnwwfHx8fDE3Nzk4NzEzOTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="만이다 (just, only)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정부가 중장기 국가 발전 전략 수립에 나선 것은 노무현 정부 때인 2006년에 2030년을 목표 연도로 해서 ‘비전 2030’을 만든 지 20년 만이다&lt;br/&gt;&lt;em&gt;It has been 20 years since the Roh Moo-hyun government established the 'Vision 2030' in 2006, targeting 2030, when the government embarked on formulating mid- to long-term national development strategies.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지난 4일 호르무즈 해협에서 정박 중 외부 공격을 당한 후 23일 만이다&lt;br/&gt;&lt;em&gt;It has been 23 days since an external attack occurred while anchored in the Strait of Hormuz on the 4th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박 전 대통령이 진주를 방문한 것은 지난해 6월 이후 약 1년 만이다&lt;br/&gt;&lt;em&gt;It has been about a year since former President Park visited Jinju in June last year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 꿈만이다.&lt;br/&gt;&lt;em&gt;This is only a dream.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 친구만이다.&lt;br/&gt;&lt;em&gt;He is only a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1687341954696-82a5236bf300?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqdXN0JTJDJTIwb25seXxlbnwwfHx8fDE3Nzk4NzEzOTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="만이다 (just, only)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(정부가 중장기 국가 발전 전략 수립에 나선 것은 노무현 정부 때인 2006년에 2030년을 목표 연도로 해서 ‘비전 2030’을 만든 지 20년 만이다&lt;br/&gt;&lt;em&gt;It has been 20 years since the Roh Moo-hyun government established the 'Vision 2030' in 2006, targeting 2030, when the government embarked on formulating mid- to long-term national development strategies.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지난 4일 호르무즈 해협에서 정박 중 외부 공격을 당한 후 23일 만이다&lt;br/&gt;&lt;em&gt;It has been 23 days since an external attack occurred while anchored in the Strait of Hormuz on the 4th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박 전 대통령이 진주를 방문한 것은 지난해 6월 이후 약 1년 만이다&lt;br/&gt;&lt;em&gt;It has been about a year since former President Park visited Jinju in June last year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 꿈만이다.&lt;br/&gt;&lt;em&gt;This is only a dream.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 친구만이다.&lt;br/&gt;&lt;em&gt;He is only a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 27 May 2026 17:43:14 +0900</pubDate><guid isPermaLink="false">vocab-f9ca4d9ac356c350c3ed64bdd5863607c099c15d</guid><enclosure url="https://images.unsplash.com/photo-1687341954696-82a5236bf300?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqdXN0JTJDJTIwb25seXxlbnwwfHx8fDE3Nzk4NzEzOTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="405846" /><ns2:content url="https://images.unsplash.com/photo-1687341954696-82a5236bf300?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqdXN0JTJDJTIwb25seXxlbnwwfHx8fDE3Nzk4NzEzOTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1687341954696-82a5236bf300?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqdXN0JTJDJTIwb25seXxlbnwwfHx8fDE3Nzk4NzEzOTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>만이다</category></item><item><title>시장인 – market (as in 'is the market')</title><link>urn:urn:vocab:시장인</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1572402123736-c79526db405a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYXJrZXQlMjAlMjhhcyUyMGluJTIwJTI3aXMlMjB0aGUlMjBtYXJrZXQlMjclMjl8ZW58MHx8fHwxNzc5ODYzOTM2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시장인 (market (as in 'is the market'))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;현직 시장인 오 후보 책임론에 대해선 말을 아꼈다&lt;br/&gt;&lt;em&gt;He refrained from commenting on the responsibility of the incumbent mayor, candidate Oh.&lt;/em&gt;&lt;/p&gt;
