@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 05:13:09 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 07:16:25 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>토론회가 – debate</title><link>urn:urn:vocab:토론회가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>토론에 – in the debate</title><link>urn:urn:vocab:토론에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGRlYmF0ZXxlbnwwfHx8fDE3ODAwMDY1ODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="토론에 (in the debate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이어진 주도권 토론에서 한 후보는 하 후보를 향해 “이재명 대통령의 공소 취소를 찬성하느냐 반대하느냐”고 질의했다&lt;br/&gt;&lt;em&gt;"In the ensuing leadership debate, one candidate asked Candidate Ha, 'Do you agree or disagree with the dismissal of President Lee Jae-myung's indictment?'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;민주당 후보가 언론 단체 등이 주최하는 대면 토론에 난색을 표하면서, 사전투표 하루 전에서야 선거관리위원회 주최 법정 토론회에서 대면하게 된 것이다&lt;br/&gt;&lt;em&gt;As the Democratic Party candidate showed reluctance to participate in face-to-face debates hosted by media organizations, they only met in person at the legally mandated debate hosted by the Election Commission the day before early voting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(서울시장 선거에 출마한 더불어민주당 정원오 후보, 국민의힘 오세훈 후보, 개혁신당 김정철 후보, 정의당 권영국 후보 등 4명은 이날 밤 11시부터 29일 새벽 1시까지 2시간 동안 서울시선관위 주최 TV토론에 출연했다&lt;br/&gt;&lt;em&gt;(Four candidates running in the Seoul mayoral election—Democratic Party candidate Jeong Won-oh, People Power Party candidate Oh Se-hoon, Reform Party candidate Kim Jeong-cheol, and Justice Party candidate Kwon Young-guk—appeared on a TV debate hosted by the Seoul Election Commission from 11 p.m. that night to 1 a.m. on the 29th, lasting two hours.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 토론에 참여했어요.&lt;br/&gt;&lt;em&gt;I participated in the discussion.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 토론에 열심히 했어요.&lt;br/&gt;&lt;em&gt;He worked hard on the discussion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGRlYmF0ZXxlbnwwfHx8fDE3ODAwMDY1ODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="토론에 (in the debate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이어진 주도권 토론에서 한 후보는 하 후보를 향해 “이재명 대통령의 공소 취소를 찬성하느냐 반대하느냐”고 질의했다&lt;br/&gt;&lt;em&gt;"In the ensuing leadership debate, one candidate asked Candidate Ha, 'Do you agree or disagree with the dismissal of President Lee Jae-myung's indictment?'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;민주당 후보가 언론 단체 등이 주최하는 대면 토론에 난색을 표하면서, 사전투표 하루 전에서야 선거관리위원회 주최 법정 토론회에서 대면하게 된 것이다&lt;br/&gt;&lt;em&gt;As the Democratic Party candidate showed reluctance to participate in face-to-face debates hosted by media organizations, they only met in person at the legally mandated debate hosted by the Election Commission the day before early voting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(서울시장 선거에 출마한 더불어민주당 정원오 후보, 국민의힘 오세훈 후보, 개혁신당 김정철 후보, 정의당 권영국 후보 등 4명은 이날 밤 11시부터 29일 새벽 1시까지 2시간 동안 서울시선관위 주최 TV토론에 출연했다&lt;br/&gt;&lt;em&gt;(Four candidates running in the Seoul mayoral election—Democratic Party candidate Jeong Won-oh, People Power Party candidate Oh Se-hoon, Reform Party candidate Kim Jeong-cheol, and Justice Party candidate Kwon Young-guk—appeared on a TV debate hosted by the Seoul Election Commission from 11 p.m. that night to 1 a.m. on the 29th, lasting two hours.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 토론에 참여했어요.&lt;br/&gt;&lt;em&gt;I participated in the discussion.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 토론에 열심히 했어요.&lt;br/&gt;&lt;em&gt;He worked hard on the discussion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 29 May 2026 07:16:25 +0900</pubDate><guid isPermaLink="false">vocab-11f6c8e4a02373f48f85f37965a10a56b8f83ccf</guid><enclosure url="https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGRlYmF0ZXxlbnwwfHx8fDE3ODAwMDY1ODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="73539" /><ns2:content url="https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGRlYmF0ZXxlbnwwfHx8fDE3ODAwMDY1ODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGRlYmF0ZXxlbnwwfHx8fDE3ODAwMDY1ODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>토론에</category></item><item><title>토론회가 – debate</title><link>urn:urn:vocab:토론회가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577563908411-5077b6dc7624?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWJhdGV8ZW58MHx8fHwxNzc5OTk5MTg0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="토론회가 (debate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;그간 정원오 후보가 오 후보의 양자 토론 요청을 거부했기 때문에 이날 토론회가 6·3 서울시장 선거의 처음이자 마지막 토론이 될 전망이다&lt;br/&gt;&lt;em&gt;Since candidate Jeong Won-oh has refused candidate Oh's request for a one-on-one debate, this debate is expected to be the first and last debate of the June 3 Seoul mayoral election.&lt;/em&gt;&lt;/p&gt;
