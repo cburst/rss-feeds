@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 06:10:52 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 10:25:59 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,49 @@
 
 
 
-  <item><title>전시에 – during wartime</title><link>urn:urn:vocab:전시에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>스타벅스가 – Starbucks (subject marker)</title><link>urn:urn:vocab:스타벅스가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3MlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc3OTkzMTU1NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스타벅스가 (Starbucks (subject marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(스타벅스가 선거 후반 최대 쟁점으로 떠올랐는데요&lt;br/&gt;&lt;em&gt;(Starbucks emerged as a major issue in the late stages of the election&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스가 5·18에 ‘탱크데이 마케팅’을 한 것은 분명 부적절했고 잘못된 일입니다&lt;br/&gt;&lt;em&gt;Starbucks' 'Tank Day marketing' on May 18 was clearly inappropriate and wrong&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이재명 대통령은 “저질 장사치의 비인간적 막장 행태”라고 했고, 2년 전인 세월호 10주기에 스타벅스가 ‘사이렌 머그 마케팅’을 한 것도 비판했습니다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung called it 'the inhuman, bottom-feeding behavior of a low-quality merchant,' and also criticized Starbucks for its 'Siren Mug marketing' on the 10th anniversary of the Sewol Ferry disaster two years ago&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;스타벅스가 여기 있어요.&lt;br/&gt;&lt;em&gt;Starbucks is here.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스가 좋아요.&lt;br/&gt;&lt;em&gt;I like Starbucks.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3MlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc3OTkzMTU1NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스타벅스가 (Starbucks (subject marker))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(스타벅스가 선거 후반 최대 쟁점으로 떠올랐는데요&lt;br/&gt;&lt;em&gt;(Starbucks emerged as a major issue in the late stages of the election&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스가 5·18에 ‘탱크데이 마케팅’을 한 것은 분명 부적절했고 잘못된 일입니다&lt;br/&gt;&lt;em&gt;Starbucks' 'Tank Day marketing' on May 18 was clearly inappropriate and wrong&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이재명 대통령은 “저질 장사치의 비인간적 막장 행태”라고 했고, 2년 전인 세월호 10주기에 스타벅스가 ‘사이렌 머그 마케팅’을 한 것도 비판했습니다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung called it 'the inhuman, bottom-feeding behavior of a low-quality merchant,' and also criticized Starbucks for its 'Siren Mug marketing' on the 10th anniversary of the Sewol Ferry disaster two years ago&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;스타벅스가 여기 있어요.&lt;br/&gt;&lt;em&gt;Starbucks is here.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;스타벅스가 좋아요.&lt;br/&gt;&lt;em&gt;I like Starbucks.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 28 May 2026 10:25:59 +0900</pubDate><guid isPermaLink="false">vocab-00db31b465e912672e065fb5eafbe283a15220cd</guid><enclosure url="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3MlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc3OTkzMTU1NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="128894" /><ns2:content url="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3MlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc3OTkzMTU1NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1577215451400-f207c63e30be?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTdGFyYnVja3MlMjAlMjhzdWJqZWN0JTIwbWFya2VyJTI5fGVufDB8fHx8MTc3OTkzMTU1NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>스타벅스가</category></item><item><title>투표한다 – vote</title><link>urn:urn:vocab:투표한다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlfGVufDB8fHx8MTc3OTkyMzk0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표한다 (vote)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;먼저 시·도지사, 교육감, 구·시·군의 장 선거 등 3장의 투표용지를 받아 투표한다&lt;br/&gt;&lt;em&gt;First, receive three ballots for the elections of metropolitan city/province governors, superintendents of education, and district/city/county heads, and vote.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이후 지역구 시·도의원, 지역구 구·시·군의원, 비례대표 시·도의원, 비례대표 구·시·군의원 선거 등 4장의 투표용지를 추가로 받아 투표한다&lt;br/&gt;&lt;em&gt;(Afterwards, receive four additional ballots for the elections of district metropolitan city/province council members, district district/city/county council members, proportional representation metropolitan city/province council members, and proportional representation district/city/county council members, and vote.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 투표한다.&lt;br/&gt;&lt;em&gt;I vote.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 투표한다.&lt;br/&gt;&lt;em&gt;We vote.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlfGVufDB8fHx8MTc3OTkyMzk0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표한다 (vote)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;먼저 시·도지사, 교육감, 구·시·군의 장 선거 등 3장의 투표용지를 받아 투표한다&lt;br/&gt;&lt;em&gt;First, receive three ballots for the elections of metropolitan city/province governors, superintendents of education, and district/city/county heads, and vote.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이후 지역구 시·도의원, 지역구 구·시·군의원, 비례대표 시·도의원, 비례대표 구·시·군의원 선거 등 4장의 투표용지를 추가로 받아 투표한다&lt;br/&gt;&lt;em&gt;(Afterwards, receive four additional ballots for the elections of district metropolitan city/province council members, district district/city/county council members, proportional representation metropolitan city/province council members, and proportional representation district/city/county council members, and vote.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 투표한다.&lt;br/&gt;&lt;em&gt;I vote.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리는 투표한다.&lt;br/&gt;&lt;em&gt;We vote.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 28 May 2026 08:19:06 +0900</pubDate><guid isPermaLink="false">vocab-2519fb5e8bc28f7f95566b1f1a37f93cf13579cf</guid><enclosure url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlfGVufDB8fHx8MTc3OTkyMzk0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="23486" /><ns2:content url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlfGVufDB8fHx8MTc3OTkyMzk0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlfGVufDB8fHx8MTc3OTkyMzk0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>투표한다</category></item><item><title>전시에 – during wartime</title><link>urn:urn:vocab:전시에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1574088768814-c71125083959?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkdXJpbmclMjB3YXJ0aW1lfGVufDB8fHx8MTc3OTkxNjI0OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전시에 (during wartime)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이와 관련, 외교 소식통은 27일 본지에 “올 초부터 미군이 ‘전작권 전환이 무리하게 조기 전환되면 기존 합의대로 미래연합군사령부를 창설해 전시에 한국군 연합사령관이 주한미군까지 지휘하는 방안이 실현될 수 있겠느냐’는 의구심을 수차례 한국 측에 전달한 것으로 알고 있다”고 말했다&lt;br/&gt;&lt;em&gt;(In this regard, a diplomatic source told this newspaper on the 27th, "I understand that since early this year, the U.S. military has repeatedly conveyed to the South Korean side its doubts about whether, if the transfer of wartime operational control (OPCON) is rushed prematurely, the plan to establish a future combined forces command as previously agreed, where a South Korean general would command even U.S. Forces Korea during wartime, could be realized.")&lt;/em&gt;&lt;/p&gt;
