@@ -1,63 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 28 May 2026 13:58:30 +0000</lastBuildDate><item><title>Musk says US military suicide drones used Starlink in violation of SpaceX rules (머스크, 미군 자폭 드론이 스페이스X 규정 위반해 스타링크 사용했다고 주장)</title><link>https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/lucas-drone-1152x648-1779827554.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Musk says drones used Starlink instead of Starshield, blames military contractor.&lt;br/&gt;(머스크는 드론이 스타실드 대신 스타링크를 사용했으며, 군수 계약업체에 책임이 있다고 주장.
-&lt;&lt;&lt;PARA&gt;&gt;
-오늘 발표된 로이터 통신 보도에 따르면, 스페이스X와 미 국방부는 이란 전쟁 중 스타실드 위성 서비스 사용 가격을 두고 논쟁을 벌여왔다. 이란 내 '자폭' 공격 드론에 위성 단말기를 사용하기 시작한 후, 스페이스X가 군에 더 많은 비용을 요구한 것으로 보인다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스페이스X CEO 일론 머스크는 로이터 보도가 틀렸다고 주장했다. 그러나 머스크는 또한 군용 드론이 정부 전용 네트워크 대신 상업용 스타링크 서비스를 최초에 사용했으며, 이는 스타링크 이용약관을 위반한 것이라고 말했다. 머스크는 이 위반에 대해 정부를 위해 드론을 제작한 계약업체를 비난했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-국방부 문서와 가격 협상에 정통한 소식통과의 인터뷰에 기반한 로이터 보도에 따르면, 스페이스X는 최근 군에 자폭 드론 1대당 스타실드 접근에 2만 5,000달러를 지불할 것을 요구했다. 이전에 연결당 5,000달러를 지불했던 미 국방부는 가격 인상에 반대했지만, 결국 이를 수락했다고 로이터는 전했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2만 5,000달러의 요금은 위성 단말기에 제공되는 위성 연결에 대한 월 사용료이지만, 단말기는 표적에 충돌하여 폭발하기 전까지 단방향 비행만 하는 드론에 사용되고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스타실드는 정부 기관을 위한 네트워크로, 스타링크 기술을 기반으로 한다. 머스크는 오늘 X 게시물에서 "로이터 기사는 거짓"이라고 썼다. 그러나 같은 게시물에서 그는 군이 스페이스X 위성 기술을 어떻게 사용했는지에 대한 논쟁을 확인하는 듯 보였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그들은 군사 목적으로 스타링크 민간 시스템을 부적절하게 사용했습니다. 이용약관을 직접 위반한 것입니다,"라고 머스크가 오늘 썼으며, 이는 군이 스타실드를 사용해야 했음에도 상업용 스타링크 시스템을 사용했음을 나타내는 듯하다.
-&lt;&lt;&lt;PARA&gt;&gt;
-머스크는 나중에 드론이 군수 계약업체에 의해 잘못 구성되었다고 말했다. "스페이스X에는 스타실드라는 미국 정부 부문이 있으며, 민간용인 스타링크와는 다른 위성 세트를 보유하고 있습니다. 자폭 드론을 만드는 회사가 스타실드 대신 민간 시스템을 잘못 사용했습니다,"라고 머스크가 썼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-국방부는 "스페이스X와의 계약 위반을 부인했다"고 로이터가 전했다. 스페이스X가 군에 판매하는 스타실드 단말기는 상업용 스타링크 위성 군집과 스타실드 모두에 연결될 수 있다고 로이터 기사는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-문제의 드론은 방산업체 스펙트로웍스가 제작한 저비용 무인전투공격시스템(LUCAS)의 일부이다. 우리는 오늘 스펙트로웍스에 연락했으며, 회신이 오면 이 기사를 업데이트할 예정이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-머스크는 이전에도 3월 1일, 이란 전쟁 발발 하루 뒤, 한 사용자가 위성 단말기가 통합된 것으로 보이는 드론 사진을 게시한 X 게시물에 답하며 드론의 스페이스X 위성 단말기 군사 사용에 대해 언급했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"무기 시스템에 단말기를 사용하는 것은 상업용 스타링크 이용약관 위반입니다. 이는 모든 사용자에게 적용되며, 발견 시 차단됩니다,"라고 머스크가 당시 썼다. "스타실드라는 별도의 네트워크가 있으며, 이는 미국 정부가 운영합니다. 이는 스페이스X의 통제 하에 있지 않습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-미국이 이란에 대한 공습을 시작한 지 몇 주 만에, "스페이스X 임원들은 국방부 관료들을 만나 군이 서비스에 대해 적게 지불하고 있다고 주장했다"고 로이터 기사는 전했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"스페이스X는 LUCAS 드론이 더 낮은 가격의 지상 또는 이동 서비스보다는 항공 등급 구독에 더 가깝게 부합하는 조건에서 운영되고 있다고 주장했습니다. 국방부 관료들은 2만 5,000달러의 가격표(월 사용료)가 항공기를 위해 설계된 것이지, 스타링크 연결을 몇 분 또는 몇 시간 동안만 사용하는 자폭 드론을 위한 것이 아니라고 주장했다고 한 소식통이 전했습니다,"라고 로이터는 보도했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-국방부는 "결국 스페이스X의 제안된 가격 인상을 5,000달러에서 2만 5,000달러로 수락했다"고 로이터에 따르면 전했다. LUCAS 드론은 군에 기존 미사일보다 더 저렴한 대안을 제공하며, 이란제 드론을 역설계하려는 노력에서 비롯되었다. 각 드론의 비용은 약 3만 5,000달러로 알려져 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-가격 인상에 동의했음에도 불구하고, "국방부 차관 스티브 파인버그를 포함한 고위 관료들은 이 협정에 대해 여전히 불편함을 느꼈으며," 국방부 관료들은 4월에 "은퇴한 4성 공군 장군이자 현재 스페이스X의 방산 사업을 이끄는 테런스 오쇼너시와 함께 가격을 재검토하기 위해 만났다"고 로이터에 따르면 전했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그럼에도 불구하고, 국방부는 현재 3,500개 이상의 스타실드 단말기 구독 추가 구매를 검토 중이며, 이 중 100개는 더 높은 가격의 항공 등급입니다,"라고 기사는 말했다. "이 거래는 스페이스X에 연간 수억 달러의 수익을 창출할 수 있지만, 로이터는 합의가 최종 완료되었는지 또는 논의 중인 가격이 무엇인지 확인할 수 없었습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-또한 정부가 강제한 인터넷 차단으로 고통받는 이란 시민들에게 스타링크 모바일 서비스를 제공하는 가격에 대해서도 논쟁이 있었다고 전해진다. 1월, 미국은 이란 주민들이 인터넷 접속 차단을 우회할 수 있도록 6,000개의 스타링크 광대역 단말기를 이란에 밀반입한 것으로 알려졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-로이터는 국방부 관료들이 스페이스X에 이란인들에게 직접-셀 서비스를 제공할 것을 요청했다고 보도했다. 이 서비스는 단말기 없이도 일반 휴대폰으로 사람들을 연결할 수 있게 해준다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"스페이스X는 2025년 스타링크에서 114억 달러의 수익을 창출했으며, 이 기능을 출시하는 데 최대 5억 달러를 청구하고 운영에 월 1억 달러의 수수료를 제안하여 국방 관료들의 우려를 불러일으켰습니다. 로이터는 합의가 이루어졌는지 확인할 수 없었습니다,"라고 로이터 기사는 전했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국과 스페이스X는 이전에도 2022년부터 우크라이나에 보낸 위성 단말기 지불에 대해 논쟁을 벌인 바 있다. 스페이스X는 처음에 단말기를 기부했지만, 이후 국방부에 지속적인 서비스와 추가 단말기에 대한 비용을 요구했다. 국방부는 나중에 우크라이나에서 스타링크 서비스를 지불하고 있음을 확인했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스페이스X의 지난주 기업공개(IPO) 신고서는 정부 연결 사업의 수익이 최근 분기에 감소했다고 밝혔다. 스페이스X의 2026년 3분기 전체 연결 수익은 33억 달러로, 전년 대비 7억 8,200만 달러 증가했다. 이 증가는 소비자, 대기업, 무선 통신사와의 모바일 파트너십, 그리고 스타링크의 항공 및 해양 서비스에서의 수익 증가에 힘입은 것이다. 전체 수익 증가는 "정부 연결 사업에서 1억 7,500만 달러 감소"가 없었다면 더 높았을 것이라고 스페이스X는 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스페이스X는 저궤도 위성 운영업체 중 유일한 것은 아니지만, 로이터는 "스타링크에 필적할 만한 대안을 제공하는 다른 회사는 없으며, 스타링크는 2022년 러시아의 우크라이나 침공 이후 현대전에서 점점 더 중요한 도구가 되고 있다"고 지적했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미 국방부는 오늘 스페이스X와의 협상에 대해 논평을 거부했지만, Ars에 "계약 조건에 따라 운영 중"이라고 밝혔다. 또한 국방부는 군이 스페이스X의 대안을 찾고 있음을 나타내는 성명을 Ars에 제공했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"전쟁부는 상업용 위성 통신을 위한 경쟁 환경을 조성하는 데 전념하고 있으며, 정부 요구 사항에 부합하는 상업적 제안을 지속적으로 모니터링하기 위해 포괄적인 시장 조사를 수행하고 있습니다,"라고 국방부 성명은 말했다. "우리는 업계와 적극적으로 협력하여 혁신적인 솔루션과 신규 진입자를 식별하고, 다양한 능력을 갖춘 공급업체를 포함하도록 조달을 보장하고 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-성명은 또한 우주군의 "상업용 위성 통신 사무소는 다른 다중 저궤도 파트너와 함께 추가 옵션을 작업 중이며, 이는 상업용 SATCOM 산업이 제공하는 전례 없는 능력을 활용하기 위한 전략의 일부"라고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-우리는 스페이스X에 연락했으며, 회신이 오면 이 기사를 업데이트할 예정이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-국방부 대변인 션 파넬은 오늘 X 게시물에서 로이터 기사에 답했다. "가짜 뉴스 미디어가 다시 한번 사실을 잘못 전했습니다. 스페이스X는 전쟁부에 강력하고 가치 있는 파트너로 남아 있습니다. 이 기사의 주장은 현실에 기반하지 않으며, 우리 팀 간의 긴밀하고 효과적인 협력을 반영하지 않습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-머스크는 파넬의 게시물을 공유하며 "전쟁부의 정정"이라고 불렀다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/lucas-drone-1152x648-1779827554.jpg" length="0" type="image/jpeg"/><pubDate>Tue, 26 May 2026 12:23:56 +0000</pubDate></item><item><title>Is Peter Thiel the target of Pope Leo’s Gandalf quote? An investigation. (베드로 틸이 교황 레오의 간달프 인용구의 대상일까? 조사 결과.)</title><link>https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2214681415-1152x648-1779832466.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 28 May 2026 16:05:01 +0000</lastBuildDate><item><title>Is Peter Thiel the target of Pope Leo’s Gandalf quote? An investigation. (베드로 틸이 교황 레오의 간달프 인용구의 대상일까? 조사 결과.)</title><link>https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2214681415-1152x648-1779832466.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Parsing a papal proclamation.&lt;br/&gt;(교황 칙서 분석.)&lt;/p&gt;
 &lt;p&gt;I’m not suggesting that a man like Pope Leo—the Vicar of Christ, the Bishop of Rome, the Servant of the Servants of God—would stoop to anything quite so base as “trolling” the onetime PayPal co-founder and current Antichrist alarmist Peter Thiel. But I’m also not not suggesting it, if you see what I mean.&lt;br/&gt;(교황 레오—그리스도의 대리자, 로마의 주교, 하느님 종들의 종—같은 분이 전 페이팔 공동창업자이자 현재 적그리스도 경보를 울리고 있는 피터 틸을 '트롤링'하는 등 비열한 짓을 하리라고는 생각하지 않습니다. 하지만 그렇지 않다고도 단정하지 않습니다. 제 말뜻을 아시겠지요?)&lt;/p&gt;
 &lt;p&gt;How else to explain the novel appearance of Gandalf—yes, the pipe-smoking wizard!—in the pages of one of Catholicism’s most important documents, a major papal encyclical about AI and technology ? Perhaps Leo, who was born and raised in Chicago before spending decades in Peru, is simply a big J.R.R. Tolkien buff who can’t get enough of magic rings, Eldar lore, and tricksy little hobbitses. Or perhaps Leo is sending a message.&lt;br/&gt;(가톨릭의 가장 중요한 문서 중 하나인, AI와 기술에 관한 교황 회칙에서 간달프—네, 파이프 담배를 피우는 마법사 말입니다!—가 갑자기 등장한 것을 달리 어떻게 설명할 수 있을까요? 시카고에서 태어나고 자라 수십 년을 페루에서 보낸 레오 교황이 단순히 J.R.R. 톨킨을 매우 좋아해서 마법 반지, 엘프 전설, 교활한 작은 호빗들을 좋아하는 걸 수도 있습니다. 아니면 레오 교황이 메시지를 보내고 있는 것일 수도 있습니다.)&lt;/p&gt;
@@ -498,4 +440,30 @@ CRD는 법원에 "수많은 본 소송 진술자들이 괴롭힘이나 차별 �
 그는 "평균 이하 시즌이라고 해서 매우 강력한 허리케인이 미국에 상륙하지 않는다는 의미는 아니다"라고 말했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 이 기사는 기후, 에너지 및 환경을 다루는 비영리, 초당파 뉴스 조직인 Inside Climate News에 원래 게재되었습니다. 여기에서 뉴스레터를 구독하세요.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2243931787-2560x1440.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 28 May 2026 01:00:01 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2243931787-2560x1440.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 28 May 2026 01:00:01 +0000</pubDate></item><item><title>Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial (소규모 임상시험에서 유전자 편집 약물 단회 투여로 나쁜 콜레스테롤 62% 감소)</title><link>https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1777966027-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The interim Phase I trial data was only from 35 people, but results look good so far.&lt;br/&gt;(중간 1상 임상시험 데이터는 35명에게서만 얻은 것이지만, 결과는 지금까지 긍정적이다.)&lt;/p&gt;
+&lt;p&gt;An experimental gene-editing therapy that aims to lower bad cholesterol for the long-term after a single infusion is off to a positive start in an early clinical trial.&lt;br/&gt;(단 한 번의 주입으로 장기간 나쁜 콜레스테롤을 낮추는 것을 목표로 하는 실험적 유전자 편집 치료법이 초기 임상시험에서 긍정적인 출발을 보이고 있다.)&lt;/p&gt;
+&lt;p&gt;Researchers running a Phase I safety trial for the drug, dubbed VERVE-102, published interim results from just 35 patients this week in the New England Journal of Medicine . Though the numbers are small and the analysis is preliminary, VERVE-102 appeared safe, with no serious adverse events reported from the treatment, even at the largest doses. The most significant finding was a temporary, mild increase of a liver enzyme that suggested minor injury in the liver, where the drug works.&lt;br/&gt;(VERVE-102라는 이름의 이 약물에 대한 1상 안전성 임상시험을 진행 중인 연구진은 이번 주 《뉴잉글랜드 의학 저널(New England Journal of Medicine)》에 35명의 환자만을 대상으로 한 중간 결과를 발표했다. 환자 수가 적고 분석이 예비적이지만, VERVE-102는 가장 많은 용량에서도 치료로 인한 심각한 부작용이 보고되지 않아 안전한 것으로 나타났다. 가장 주목할 만한 소견은 약물이 작용하는 간에서 경미한 손상을 시사하는 간 효소의 일시적이고 경미한 증가였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+적은 양의 데이터는 또한 약물이 효과적임을 암시한다. 가장 많은 용량을 투여받은 참가자 하위 그룹에서는 나쁜 콜레스테롤, 즉 저밀도 지질단백질(LDL)이 62% 감소하여 평균 78mg/dL이 되었다. 높은 콜레스테롤 수치(임상시험 참가자와 같은)를 가진 사람들의 경우, 이 정도의 감소가 20년 이상 지속된다면 동맥 플라크 축적으로 인한 심혈관 질환의 위험을 약 50%까지 줄일 수 있을 것으로 추정된다. 현재까지 임상시험의 추적 관찰 데이터는 최대 18개월이지만, 그 기간 동안 VERVE-102의 긍정적인 효과는 유지되는 것으로 보인다. 모든 하위 그룹에서 LDL 감소가 지속되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+VERVE-102는 mRNA 기반 유전자 편집 설계를 사용하여 작동한다. mRNA는 간 세포에 쉽게 흡수될 수 있도록 하는 태그를 가진 나노입자에 포장되는데, 간 세포는 콜레스테롤 대사에 핵심적인 역할을 한다. mRNA는 세포에 아데닌 염기 교정 단백질(adenine base-editor protein)이라고 불리는, DNA의 단일 염기를 변경할 수 있는 분자 기계를 만들도록 지시한다. 이 단백질은 유전자 편집 기계인 CRISPR-Cas9의 변형된 부분을 가지고 있어 DNA 단일 가닥에 절단을 넣는다. 나노입자 패키지는 또한 염기 교정 단백질을 특정 유전자의 특정 위치로 안내하여 특정 염기 변경과 절단을 유도하는 가이드 RNA를 제공한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+표적 유전자는 프로단백질 전환효소 서브틸리신/켁신 9형(PCSK9)을 코딩하는 유전자이다. 이 효소는 혈중 LDL 수치 조절에 역할을 한다. 구체적으로, 간 세포 표면의 LDL 수용체 파괴를 촉진하여, LDL이 혈액에서 제거되는 것을 방해한다. 따라서 PCSK9가 과잉 활성화된 사람은 LDL 수용체가 적고 혈중 LDL 수치가 높다. 반대로 PCSK9에 결함이 있는 사람은 LDL 수치가 낮다. 이는 수년 전부터 알려진 사실로, PCSK9는 잘 확립된 표적이다. 현재 고콜레스테롤 치료에 사용되는 여러 약물이 PCSK9를 억제하는 방식으로 작용한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 VERVE-102의 목표는 PCSK9를 코딩하는 유전자를 영구적으로 파괴하는 것이다. 구체적으로, 가이드 RNA는 아데닌 염기 교정 단백질을 유도하여 PCSK9 유전자의 단일 염기를 변경함으로써 세포 기계가 조기 종결 신호를 읽도록 하여 효소가 생성되지 않게 한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+임상시험에서 첫 35명의 환자에게는 연구진이 점진적으로 안전성을 테스트할 수 있도록 다양한 용량이 투여되었다. 첫 4명의 참가자는 체중 kg당 0.3mg의 최저 용량으로 시작했다. 이것이 문제없이 진행되자, 두 번째 하위 그룹(6명)은 0.45mg/kg을 투여받았다. 그런 다음 다른 참가자들은 0.6mg/kg, 0.7mg/kg, 0.8mg/kg, 그리고 마지막으로 7명의 참가자에게 투여된 최고 용량인 1mg/kg을 투여받았다. 최저 용량을 투여받은 첫 번째 하위 그룹은 18개월 동안 추적 관찰된 반면, 최고 용량을 투여받은 하위 그룹은 지금까지 3개월만 추적 관찰되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+연구진은 치료로 인해 제거된 PCSK9의 양과 LDL 감소 폭 모두에서 용량 의존적 반응을 관찰했다. 용량이 클수록 PCSK9는 적게 남았고 LDL은 더 낮아졌다. 최저 용량의 경우 평균 PCSK9 수치는 51% 감소한 반면, 평균 LDL은 9% 감소했다. 최고 용량의 경우 평균 PCSK9 수치는 88% 감소했으며 평균 LDL은 62% 감소했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+참가자들은 모두 조기(남성 55세 이하, 여성 65세 이하)에 심혈관 질환이 발생했거나 고콜레스테롤을 유발하는 유전 질환을 가진 사람들이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 약물은 작년에 일라이 릴리가 13억 달러에 인수한 버브 테라퓨틱스(Verve Therapeutics)가 개발했다. 버브가 고콜레스테롤 위험이 가장 높은 사람들을 대상으로 약물을 테스트하고 있는 동안, 공동 창업자이자 현재 일라이 릴리 선임 부사장인 세카르 카티레산(Sekar Kathiresan)은 스타틴과 같은 약물로 평생 관리할 필요가 없는 고콜레스테롤 환자들을 위한 선택지를 제공하며 사용 범위가 확대되기를 희망한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+임상시험의 공동 저자이자 바츠 건강 NHS 트러스트(Barts Health NHS Trust)의 심장내과 의사이자 유니버시티 칼리지 런던(University College London)의 심장학 교수인 리야즈 파텔(Riyaz Patel)도 이에 동의했다. 일라이 릴리가 발표한 성명에서 파텔은 초기 데이터가 "고무적"이라며, VERVE-102가 "일회성 치료로 실질적이고 지속적인 LDL-C 감소를 달성하는 새로운 접근법을 제공할 수 있다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+파텔은 "LDL-C 수치가 높은 많은 환자들은 현재 사용 가능한 약물로 지속적인 노력에도 불구하고 지속적인 조절을 달성하는 데 어려움을 겪고 있으며, 이로 인해 심혈관 사건의 상당한 위험에 처해 있습니다. 관상동맥 질환이 여전히 전 세계 주요 사망 원인 중 하나인 만큼, 새로운 접근법의 필요성은 실재합니다."라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+연구진과 일라이 릴리가 낙관적인 관점을 보이지만, 이는 다시 말해 임상 작용 중인 약물에 대한 매우 작고 매우 예비적인 관찰에 불과하다. 안전성과 유효성을 확실히 입증하기 위해서는 더 많은 사람을 대상으로 한 더 긴 추적 관찰을 포함한 추가 임상시험이 필요할 것이다. 그러나 모든 것이 순조롭게 진행된다면, 일라이 릴리는 식품의약국(FDA)이 이미 VERVE-102에 대해 검토를 위한 신속 심사(Fast Track) 지정을 부여했다고 밝혔다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1777966027-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 28 May 2026 04:39:49 +0000</pubDate></item></channel></rss>

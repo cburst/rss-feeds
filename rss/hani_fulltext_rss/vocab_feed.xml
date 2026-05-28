@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 22:55:45 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 01:04:53 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>사전투표를 – early voting</title><link>urn:urn:vocab:사전투표를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>네이버는 – Naver is</title><link>urn:urn:vocab:네이버는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1526199119161-4be1e3368d52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlODQlQTQlRUMlOUQlQjQlRUIlQjIlODQlRUIlOEElOTR8ZW58MHx8fHwxNzc5OTg0Mjg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="네이버는 (Naver is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인공지능 검색 경쟁력의 핵심으로 ‘고품질 콘텐츠 생태계’를 내세운 네이버는 향후 5년간 1조원을 투입해 창작자 지원에도 나선다&lt;br/&gt;&lt;em&gt;Naver, which has highlighted a 'high-quality content ecosystem' as the core of its AI search competitiveness, will invest 1 trillion won over the next five years to support creators.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;네이버는 에이아이 탭의 전체 이용자 공개 시점에 맞춰 자체 개발한 차세대 인공지능 모델 ‘하이퍼클로바엑스(X)’를 적용해 서비스 성능을 한층 고도화할 계획이다&lt;br/&gt;&lt;em&gt;Naver plans to further enhance service performance by applying its next-generation AI model 'HyperCLOVA X' at the time of the full public release of the AI tab.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(네이버는 인공지능 검색 서비스의 핵심 경쟁력으로 ‘콘텐츠 생태계’를 꼽았다&lt;br/&gt;&lt;em&gt;Naver cited the 'content ecosystem' as the core competitiveness of its AI search service.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;네이버는 한국 회사입니다.&lt;br/&gt;&lt;em&gt;Naver is a Korean company.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;네이버는 검색 엔진입니다.&lt;br/&gt;&lt;em&gt;Naver is a search engine.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1526199119161-4be1e3368d52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlODQlQTQlRUMlOUQlQjQlRUIlQjIlODQlRUIlOEElOTR8ZW58MHx8fHwxNzc5OTg0Mjg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="네이버는 (Naver is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인공지능 검색 경쟁력의 핵심으로 ‘고품질 콘텐츠 생태계’를 내세운 네이버는 향후 5년간 1조원을 투입해 창작자 지원에도 나선다&lt;br/&gt;&lt;em&gt;Naver, which has highlighted a 'high-quality content ecosystem' as the core of its AI search competitiveness, will invest 1 trillion won over the next five years to support creators.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;네이버는 에이아이 탭의 전체 이용자 공개 시점에 맞춰 자체 개발한 차세대 인공지능 모델 ‘하이퍼클로바엑스(X)’를 적용해 서비스 성능을 한층 고도화할 계획이다&lt;br/&gt;&lt;em&gt;Naver plans to further enhance service performance by applying its next-generation AI model 'HyperCLOVA X' at the time of the full public release of the AI tab.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(네이버는 인공지능 검색 서비스의 핵심 경쟁력으로 ‘콘텐츠 생태계’를 꼽았다&lt;br/&gt;&lt;em&gt;Naver cited the 'content ecosystem' as the core competitiveness of its AI search service.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;네이버는 한국 회사입니다.&lt;br/&gt;&lt;em&gt;Naver is a Korean company.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;네이버는 검색 엔진입니다.&lt;br/&gt;&lt;em&gt;Naver is a search engine.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 29 May 2026 01:04:53 +0900</pubDate><guid isPermaLink="false">vocab-4304bdaf440dc938a884c8d8a3856bf637c313a2</guid><enclosure url="https://images.unsplash.com/photo-1526199119161-4be1e3368d52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlODQlQTQlRUMlOUQlQjQlRUIlQjIlODQlRUIlOEElOTR8ZW58MHx8fHwxNzc5OTg0Mjg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="215125" /><ns2:content url="https://images.unsplash.com/photo-1526199119161-4be1e3368d52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlODQlQTQlRUMlOUQlQjQlRUIlQjIlODQlRUIlOEElOTR8ZW58MHx8fHwxNzc5OTg0Mjg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1526199119161-4be1e3368d52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlODQlQTQlRUMlOUQlQjQlRUIlQjIlODQlRUIlOEElOTR8ZW58MHx8fHwxNzc5OTg0Mjg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>네이버는</category></item><item><title>사전투표를 – early voting</title><link>urn:urn:vocab:사전투표를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1494172961521-33799ddd43a5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlYXJseSUyMHZvdGluZ3xlbnwwfHx8fDE3Nzk5NzY1NDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사전투표를 (early voting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;지도부는 본투표와 사전투표를 나눠서 하기로 했으나, 장 대표는 본투표에 참여하기로 했다&lt;br/&gt;&lt;em&gt;The leadership decided to separate early voting from main voting, but Representative Jang decided to participate in the main voting.&lt;/em&gt;&lt;/p&gt;
