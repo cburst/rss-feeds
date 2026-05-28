@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 16:43:41 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 22:55:51 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>멈췄다 – stopped</title><link>urn:urn:vocab:멈췄다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>고가차도 – overpass</title><link>urn:urn:vocab:고가차도</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1536099629323-44806c1ea264?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvdmVycGFzc3xlbnwwfHx8fDE3Nzk5NzY1NDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고가차도 (overpass)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;[Breaking] President Lee: "Seosomun Elevated Road Demolition Accident and Samsung Station Rebar Omission Must Be Held Accountable" ([속보]李대통령 “서소문 고가차도 철거 사고·삼성역 철근 누락, 책임물어야”) &lt;&lt;br/&gt;&lt;em&gt;[Breaking] President Lee: "Seosomun Elevated Road Demolition Accident and Samsung Station Rebar Omission Must Be Held Accountable"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;[Breaking] President Lee: "Seosomun Elevated Road Demolition Accident and Samsung Station Rebar Omission Must Be Held Accountable" ([속보]李대통령 “서소문 고가차도 철거 사고·삼성역 철근 누락, 책임물어야”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;[Breaking] President Lee: "Seosomun Elevated Road Demolition Accident and Samsung Station Rebar Omission Must Be Held Accountable"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;' (이재명 대통령은 28일 청와대에서 수석보좌관 회의를 주재하고, 최근 불거진 ‘삼성역 GTX(수도권광역급행철도) 철거 누락 문제’와 ‘서소문 고가차도 철거 현장 사고’를 정조준했다&lt;br/&gt;&lt;em&gt;' (President Lee Jae-myung presided over a meeting of senior secretaries at the presidential office on the 28th, targeting the recent issues of 'Samsung Station GTX rebar omission' and 'Seosomun elevated road demolition site accident')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;고가차도 위를 걷다.&lt;br/&gt;&lt;em&gt;Walking on the overpass.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고가차도 아래 차가 많다.&lt;br/&gt;&lt;em&gt;There are many cars under the overpass.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1536099629323-44806c1ea264?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvdmVycGFzc3xlbnwwfHx8fDE3Nzk5NzY1NDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고가차도 (overpass)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;[Breaking] President Lee: "Seosomun Elevated Road Demolition Accident and Samsung Station Rebar Omission Must Be Held Accountable" ([속보]李대통령 “서소문 고가차도 철거 사고·삼성역 철근 누락, 책임물어야”) &lt;&lt;br/&gt;&lt;em&gt;[Breaking] President Lee: "Seosomun Elevated Road Demolition Accident and Samsung Station Rebar Omission Must Be Held Accountable"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;[Breaking] President Lee: "Seosomun Elevated Road Demolition Accident and Samsung Station Rebar Omission Must Be Held Accountable" ([속보]李대통령 “서소문 고가차도 철거 사고·삼성역 철근 누락, 책임물어야”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;[Breaking] President Lee: "Seosomun Elevated Road Demolition Accident and Samsung Station Rebar Omission Must Be Held Accountable"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;' (이재명 대통령은 28일 청와대에서 수석보좌관 회의를 주재하고, 최근 불거진 ‘삼성역 GTX(수도권광역급행철도) 철거 누락 문제’와 ‘서소문 고가차도 철거 현장 사고’를 정조준했다&lt;br/&gt;&lt;em&gt;' (President Lee Jae-myung presided over a meeting of senior secretaries at the presidential office on the 28th, targeting the recent issues of 'Samsung Station GTX rebar omission' and 'Seosomun elevated road demolition site accident')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;고가차도 위를 걷다.&lt;br/&gt;&lt;em&gt;Walking on the overpass.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고가차도 아래 차가 많다.&lt;br/&gt;&lt;em&gt;There are many cars under the overpass.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 28 May 2026 22:55:50 +0900</pubDate><guid isPermaLink="false">vocab-fed13b22b0659c75c9482e40f02cfdd3ae1b9d26</guid><enclosure url="https://images.unsplash.com/photo-1536099629323-44806c1ea264?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvdmVycGFzc3xlbnwwfHx8fDE3Nzk5NzY1NDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="454380" /><ns2:content url="https://images.unsplash.com/photo-1536099629323-44806c1ea264?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvdmVycGFzc3xlbnwwfHx8fDE3Nzk5NzY1NDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1536099629323-44806c1ea264?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvdmVycGFzc3xlbnwwfHx8fDE3Nzk5NzY1NDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>고가차도</category></item><item><title>사태 – situation</title><link>urn:urn:vocab:사태</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzc5OTY5MDkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사태 (situation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (민주당은 스벅 사태를 내란 심판론 확산의 계기로 삼으려는 듯합니다&lt;br/&gt;&lt;em&gt;The Democratic Party seems to be trying to use the Starbucks incident as an opportunity to spread the theory of judging the insurrection.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘탱크데이’가 윤석열 정부의 비상계엄 사태를 연상시키는 효과가 있기 때문입니다&lt;br/&gt;&lt;em&gt;This is because 'Tank Day' has the effect of reminding people of the Yoon Suk Yeol government's martial law crisis.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(스벅 사태가 예상치 못한 방향으로 흘러가는 분위기도 감지됩니다&lt;br/&gt;&lt;em&gt;There is also a sense that the Starbucks incident is flowing in an unexpected direction.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사태가 심각해요.&lt;br/&gt;&lt;em&gt;The situation is serious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 사태를 해결합시다.&lt;br/&gt;&lt;em&gt;Let's resolve this situation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzc5OTY5MDkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사태 (situation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (민주당은 스벅 사태를 내란 심판론 확산의 계기로 삼으려는 듯합니다&lt;br/&gt;&lt;em&gt;The Democratic Party seems to be trying to use the Starbucks incident as an opportunity to spread the theory of judging the insurrection.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;‘탱크데이’가 윤석열 정부의 비상계엄 사태를 연상시키는 효과가 있기 때문입니다&lt;br/&gt;&lt;em&gt;This is because 'Tank Day' has the effect of reminding people of the Yoon Suk Yeol government's martial law crisis.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(스벅 사태가 예상치 못한 방향으로 흘러가는 분위기도 감지됩니다&lt;br/&gt;&lt;em&gt;There is also a sense that the Starbucks incident is flowing in an unexpected direction.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사태가 심각해요.&lt;br/&gt;&lt;em&gt;The situation is serious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 사태를 해결합시다.&lt;br/&gt;&lt;em&gt;Let's resolve this situation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 28 May 2026 20:51:36 +0900</pubDate><guid isPermaLink="false">vocab-b03feac02a03e784752905e5cf0435c9dd7d8122</guid><enclosure url="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzc5OTY5MDkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="176160" /><ns2:content url="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzc5OTY5MDkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzc5OTY5MDkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사태</category></item><item><title>멈췄다 – stopped</title><link>urn:urn:vocab:멈췄다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1572670014853-1d3a3f22b40f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9wcGVkfGVufDB8fHx8MTc3OTk1NDIxN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="멈췄다 (stopped)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(그리곤 한 섹션에서 에반의 손가락이 멈췄다&lt;br/&gt;&lt;em&gt;(And then in one section, Evan's finger stopped.&lt;/em&gt;&lt;/p&gt;
