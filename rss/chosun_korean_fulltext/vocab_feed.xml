@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 07:16:25 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 13:31:56 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>토론에 – in the debate</title><link>urn:urn:vocab:토론에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>선거에서는 – in the election</title><link>urn:urn:vocab:선거에서는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGVsZWN0aW9ufGVufDB8fHx8MTc4MDAyOTExMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거에서는 (in the election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;앞서 2018년 군수 선거에서는 민주당 이차영 후보가 자유한국당(국민의힘 전신) 송인헌 후보를 꺾었다&lt;br/&gt;&lt;em&gt;In the 2018 county governor election, Democratic Party candidate Lee Cha-young defeated candidate Song In-heon of the Liberty Korea Party (predecessor of the People Power Party).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(다만 역대 구청장 선거에서는 여야가 팽팽하게 승패를 주고받았다&lt;br/&gt;&lt;em&gt;(However, in past district mayor elections, the ruling and opposition parties have exchanged wins and losses closely.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 구청장 선거에서는 민주당 서준오(51) 전 서울시의원과 국민의힘 김광수(67) 전 서울시의원이 맞붙는다&lt;br/&gt;&lt;em&gt;(In this district mayor election, Democratic Party candidate Seo Jun-oh (51), a former Seoul city councilor, and People Power Party candidate Kim Kwang-soo (67), a former Seoul city councilor, will face off.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선거에서는 많은 사람이 투표해요.&lt;br/&gt;&lt;em&gt;Many people vote in elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선거에서는 후보자의 공약이 중요해요.&lt;br/&gt;&lt;em&gt;In elections, the candidates' pledges are important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGVsZWN0aW9ufGVufDB8fHx8MTc4MDAyOTExMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거에서는 (in the election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;앞서 2018년 군수 선거에서는 민주당 이차영 후보가 자유한국당(국민의힘 전신) 송인헌 후보를 꺾었다&lt;br/&gt;&lt;em&gt;In the 2018 county governor election, Democratic Party candidate Lee Cha-young defeated candidate Song In-heon of the Liberty Korea Party (predecessor of the People Power Party).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(다만 역대 구청장 선거에서는 여야가 팽팽하게 승패를 주고받았다&lt;br/&gt;&lt;em&gt;(However, in past district mayor elections, the ruling and opposition parties have exchanged wins and losses closely.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 구청장 선거에서는 민주당 서준오(51) 전 서울시의원과 국민의힘 김광수(67) 전 서울시의원이 맞붙는다&lt;br/&gt;&lt;em&gt;(In this district mayor election, Democratic Party candidate Seo Jun-oh (51), a former Seoul city councilor, and People Power Party candidate Kim Kwang-soo (67), a former Seoul city councilor, will face off.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선거에서는 많은 사람이 투표해요.&lt;br/&gt;&lt;em&gt;Many people vote in elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선거에서는 후보자의 공약이 중요해요.&lt;br/&gt;&lt;em&gt;In elections, the candidates' pledges are important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 29 May 2026 13:31:56 +0900</pubDate><guid isPermaLink="false">vocab-04ed818cde7be4ed8ee01941ad49df3ba98b268c</guid><enclosure url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGVsZWN0aW9ufGVufDB8fHx8MTc4MDAyOTExMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="23486" /><ns2:content url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGVsZWN0aW9ufGVufDB8fHx8MTc4MDAyOTExMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGVsZWN0aW9ufGVufDB8fHx8MTc4MDAyOTExMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>선거에서는</category></item><item><title>선거 – election</title><link>urn:urn:vocab:선거</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbnxlbnwwfHx8fDE3ODAwMTQyMzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거 (election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (경기 평택을(乙) 국회의원 재선거에 출마한 국민의힘 유의동 후보와 자유와혁신 황교안 후보의 단일화 논의가 공전을 거듭하고 있다&lt;br/&gt;&lt;em&gt;Discussions on the unification between People Power Party candidate Yoo Ui-dong and Liberty and Innovation candidate Hwang Kyo-ahn, who are running in the by-election for the National Assembly member in Pyeongtaek-eul (B), Gyeonggi Province, are repeatedly stalling.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(6·3 지방선거에선 곳곳에서 전·현직 단체장 간 ‘리턴 매치(재대결)’가 벌어지고 있다&lt;br/&gt;&lt;em&gt;In the June 3 local elections, 'return matches' (rematches) between former and current heads of local governments are taking place in various places.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(공주시장 선거에선 더불어민주당 김정섭(61) 전 시장과 국민의힘 최원철(62) 현 시장이 맞붙는다&lt;br/&gt;&lt;em&gt;In the Gongju City mayoral election, former mayor Kim Jeong-seop (61) of the Democratic Party of Korea and current mayor Choi Won-cheol (62) of the People Power Party will face off.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선거에서 투표했어요.&lt;br/&gt;&lt;em&gt;I voted in the election.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내일 선거가 있어요.&lt;br/&gt;&lt;em&gt;There is an election tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbnxlbnwwfHx8fDE3ODAwMTQyMzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거 (election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (경기 평택을(乙) 국회의원 재선거에 출마한 국민의힘 유의동 후보와 자유와혁신 황교안 후보의 단일화 논의가 공전을 거듭하고 있다&lt;br/&gt;&lt;em&gt;Discussions on the unification between People Power Party candidate Yoo Ui-dong and Liberty and Innovation candidate Hwang Kyo-ahn, who are running in the by-election for the National Assembly member in Pyeongtaek-eul (B), Gyeonggi Province, are repeatedly stalling.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(6·3 지방선거에선 곳곳에서 전·현직 단체장 간 ‘리턴 매치(재대결)’가 벌어지고 있다&lt;br/&gt;&lt;em&gt;In the June 3 local elections, 'return matches' (rematches) between former and current heads of local governments are taking place in various places.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(공주시장 선거에선 더불어민주당 김정섭(61) 전 시장과 국민의힘 최원철(62) 현 시장이 맞붙는다&lt;br/&gt;&lt;em&gt;In the Gongju City mayoral election, former mayor Kim Jeong-seop (61) of the Democratic Party of Korea and current mayor Choi Won-cheol (62) of the People Power Party will face off.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선거에서 투표했어요.&lt;br/&gt;&lt;em&gt;I voted in the election.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내일 선거가 있어요.&lt;br/&gt;&lt;em&gt;There is an election tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 29 May 2026 09:23:57 +0900</pubDate><guid isPermaLink="false">vocab-9bc8c4280c2191ff14ecf4be72b97365cecfabde</guid><enclosure url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbnxlbnwwfHx8fDE3ODAwMTQyMzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="23486" /><ns2:content url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbnxlbnwwfHx8fDE3ODAwMTQyMzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbnxlbnwwfHx8fDE3ODAwMTQyMzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>선거</category></item><item><title>토론에 – in the debate</title><link>urn:urn:vocab:토론에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGRlYmF0ZXxlbnwwfHx8fDE3ODAwMDY1ODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="토론에 (in the debate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이어진 주도권 토론에서 한 후보는 하 후보를 향해 “이재명 대통령의 공소 취소를 찬성하느냐 반대하느냐”고 질의했다&lt;br/&gt;&lt;em&gt;"In the ensuing leadership debate, one candidate asked Candidate Ha, 'Do you agree or disagree with the dismissal of President Lee Jae-myung's indictment?'"&lt;/em&gt;&lt;/p&gt;
