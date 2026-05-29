@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 04:06:34 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 06:17:00 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>투표지 – ballot paper</title><link>urn:urn:vocab:투표지</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>투표소 – polling station</title><link>urn:urn:vocab:투표소</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1720128401402-81c9dc339870?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwc3RhdGlvbnxlbnwwfHx8fDE3ODAwNzQwOTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표소 (polling station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이어 “이재명 대통령이 투표를 하던 중에 다시 투표소에 들어갔다고 하는데, 그렇다면 선거법 위반 범죄”라며 “선관위는 즉시 이 대통령을 고발해야 할 것”이라고 했다&lt;br/&gt;&lt;em&gt;He continued, "They say President Lee Jae-myung re-entered the polling station while voting, which would be a violation of election law," and added, "The National Election Commission should immediately file a complaint against the President."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “이재명 대통령이 투표를 하던 중에 다시 투표소에 들어갔다고 하는데, 그렇다면 선거법 위반 범죄”라며 “선관위는 즉시 이 대통령을 고발해야 할 것”이라고 했다&lt;br/&gt;&lt;em&gt;He continued, "They say President Lee Jae-myung re-entered the polling station while voting, which would be a violation of election law," and added, "The National Election Commission should immediately file a complaint against the President."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 이 대통령은 김혜경 여사와 함께 서울 종로구 삼청동 주민센터에 마련된 사전 투표소를 찾았다&lt;br/&gt;&lt;em&gt;(On this day, President Lee visited an early voting station set up at Samcheong-dong Community Center in Jongno-gu, Seoul, along with First Lady Kim Hye-kyung.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표소가 어디에 있습니까?&lt;br/&gt;&lt;em&gt;Where is the polling station?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 투표소에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the polling station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1720128401402-81c9dc339870?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwc3RhdGlvbnxlbnwwfHx8fDE3ODAwNzQwOTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표소 (polling station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이어 “이재명 대통령이 투표를 하던 중에 다시 투표소에 들어갔다고 하는데, 그렇다면 선거법 위반 범죄”라며 “선관위는 즉시 이 대통령을 고발해야 할 것”이라고 했다&lt;br/&gt;&lt;em&gt;He continued, "They say President Lee Jae-myung re-entered the polling station while voting, which would be a violation of election law," and added, "The National Election Commission should immediately file a complaint against the President."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “이재명 대통령이 투표를 하던 중에 다시 투표소에 들어갔다고 하는데, 그렇다면 선거법 위반 범죄”라며 “선관위는 즉시 이 대통령을 고발해야 할 것”이라고 했다&lt;br/&gt;&lt;em&gt;He continued, "They say President Lee Jae-myung re-entered the polling station while voting, which would be a violation of election law," and added, "The National Election Commission should immediately file a complaint against the President."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 이 대통령은 김혜경 여사와 함께 서울 종로구 삼청동 주민센터에 마련된 사전 투표소를 찾았다&lt;br/&gt;&lt;em&gt;(On this day, President Lee visited an early voting station set up at Samcheong-dong Community Center in Jongno-gu, Seoul, along with First Lady Kim Hye-kyung.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표소가 어디에 있습니까?&lt;br/&gt;&lt;em&gt;Where is the polling station?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 투표소에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the polling station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 30 May 2026 06:17:00 +0900</pubDate><guid isPermaLink="false">vocab-7b7fcfbe7618a9231e38763e8603a98175242a0d</guid><enclosure url="https://images.unsplash.com/photo-1720128401402-81c9dc339870?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwc3RhdGlvbnxlbnwwfHx8fDE3ODAwNzQwOTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="100389" /><ns2:content url="https://images.unsplash.com/photo-1720128401402-81c9dc339870?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwc3RhdGlvbnxlbnwwfHx8fDE3ODAwNzQwOTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1720128401402-81c9dc339870?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwc3RhdGlvbnxlbnwwfHx8fDE3ODAwNzQwOTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>투표소</category></item><item><title>투표지 – ballot paper</title><link>urn:urn:vocab:투표지</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712145176570-6cb1d98a126a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlcnxlbnwwfHx8fDE3ODAwNTg5NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표지 (ballot paper)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;국민의힘은 이를 ‘투표지 노출’로 규정하며 공직선거법 위반에 따른 무효표 처리를 주장했다&lt;br/&gt;&lt;em&gt;The People Power Party defined this as 'ballot exposure' and argued that it should be treated as an invalid vote in violation of the Public Official Election Act.&lt;/em&gt;&lt;/p&gt;

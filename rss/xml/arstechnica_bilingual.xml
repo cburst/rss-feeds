@@ -1,144 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 29 May 2026 19:06:57 +0000</lastBuildDate><item><title>Steam Deck sells out in North America within 24 hours of price hike (스팀 덱, 가격 인상 후 24시간 만에 북미에서 매진)</title><link>https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Europe, Australia, and Asia can still get it while the getting’s good.&lt;br/&gt;(유럽, 호주, 아시아는 아직 구매 가능할 때 구매하세요.)&lt;/p&gt;
-&lt;p&gt;Well, that was fast. Less than 24 hours after Valve announced renewed availability of the Steam Deck OLED (at a massively increased MSRP), the handheld is once again listed as “out of stock” in the US and Canada. Spot checks of other regional Steam stores on Thursday morning showed the hardware as still available across Europe and Australia for the time being, as well as in Asian countries through Valve’s sales partner Komodo.&lt;br/&gt;(글쎄, 정말 빨랐다. 밸브가 스팀 덱 OLED의 재입고를 발표한 지 24시간도 채 안 돼(대폭 인상된 MSRP로), 이 휴대용 기기는 미국과 캐나다에서 다시 '품절'로 표시됐다. 목요일 아침 다른 지역 스팀 스토어를 점검한 결과, 유럽과 호주 전역에서는 당분간 하드웨어를 구매할 수 있었으며, 밸브의 판매 파트너 코모도를 통해 아시아 국가에서도 구매 가능했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-새로운 인상된 가격에 얼마나 많은 스팀 덱 유닛이 판매됐는지 외부에서 알기는 어렵지만, 이 판매량은 하드웨어를 다시 스팀의 최고 판매 순위 1위로 끌어올리기에 충분했다. 다만 이 순위는 지난 24시간 동안의 총 매출을 기준으로 하므로, 789달러짜리 스팀 덱은 현재 순위에서 최고 소프트웨어인 70달러짜리 '007 퍼스트 라이트'보다 훨씬 적은 수량이 판매됐을 가능성이 크다.
-&lt;&lt;&lt;PARA&gt;&gt;
-밸브의 스팀 덱 스토어 페이지는 이 휴대용 기기가 "메모리 및 저장 공간 부족으로 일부 지역에서 간헐적으로 품절될 수 있다"고 명시한다. 하지만 이 경고는 지난 2월 스토어 사이트에 처음 등장했으며, 재고 추적 웹사이트에 따르면 그 이후 지금까지 스팀 덱 구매 가능 기간은 극히 짧았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 오늘의 '간헐적' 부족 현상이 한동안 지속될 수 있음을 시사하며, 특히 밸브가 현재 중국에서 보고된 상당한 하드웨어 선적에 스팀 머신의 계획된 출시 준비를 포함시킬 가능성이 높기 때문이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스팀OS 기반 휴대용 기기를 기다릴 수 없는 사람들을 위해, 새 제품 및 중고 스팀 덱 유닛(OLED 및 비OLED 모두)이 이베이에서 밸브의 소매 가격 이하로 판매되고 있다. 레노버의 스팀OS 기반 Legion Go S도 여전히 널리 구매 가능하지만, 작년 출시 가격보다 최근 인상됐다. 또한 모더들은 최근 윈도우 기반 ROG Xbox Ally에 스팀OS를 설치하는 데 성공했으며, 이 제품은 표준 버전 600달러, 업그레이드된 ROG Ally X 1,000달러라는 출시 가격에 놀랍게도 여전히 구매 가능하다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 28 May 2026 06:43:41 +0000</pubDate></item><item><title>Trump loses more control over AI regulation as Illinois passes landmark law (트럼프, AI 규제 통제력 추가 상실... 일리노이주 획기적 법안 통과)</title><link>https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1476750862-1152x648-1779984812.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Here’s why Anthropic and OpenAI are on board with Illinois safety testing.&lt;br/&gt;(일리노이주의 안전성 테스트에 앤트로픽과 오픈AI가 동참한 이유)&lt;/p&gt;
-&lt;p&gt;A few days after President Donald Trump abruptly canceled a plan that would have given the federal government power to vet frontier AI models over fears that it might hobble innovation, Illinois lawmakers passed the nation’s strongest AI safety law.&lt;br/&gt;(도널드 트럼프 대통령이 혁신을 저해할 우려로 연방 정부에 최첨단 AI 모델 검증 권한을 부여하려던 계획을 갑자기 취소한 지 며칠 만에, 일리노이주 의회가 전국에서 가장 강력한 AI 안전법을 통과시켰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-수요일, 일리노이주 의회는 SB 315를 통과시켰다. JB 프리츠커 주지사가 이 법안에 서명하면, 대형 AI 기업들은 공공 안전 계획을 제출하고 최첨단 모델에 대한 독립적인 제3자 안전성 테스트 결과를 요약한 연례 보고서를 제출해야 한다. 또한 잠재적으로 "사망 또는 중대한 신체적 위해의 임박한 위험"이 있는 경우 72시간 이내, 또는 24시간 이내에 모든 중대한 안전 사고를 주정부에 보고해야 한다. 직원들은 회사가 축소하려는 새로운 안전 위험을 보고할 명확한 경로를 가지게 되며, 주정부의 내부고발자 보호법에 따른 보호를 받게 된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-X를 통해 프리츠커는 서명 의사를 확인하며 "일리노이가 빅테크의 책임을 묻는 데서 전국을 선도하고 있다"고 선언했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"저는 SB 315에 서명하고 의회와 협력하여 AI가 사용될 때 책임감 있게 사용되도록 하기를 기대합니다"라고 프리츠커는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-주정부의 검증 대상이 될 모델을 보유한 오픈AI와 앤트로픽은 모두 SB 315를 지지했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-오픈AI의 글로벌 업무 책임자 크리스 레헤인은 Wired에 이 AI 기업이 다른 주에서도 유사한 법안을 통과시키기 위해 노력 중이라고 밝혔으며, 이는 현저히 다른 주법들의 조각 모음에 대응해야 하는 상황을 피하기 위한 움직임으로 보인다.
-&lt;&lt;&lt;PARA&gt;&gt;
-앤트로픽의 주 및 지방 정부 관계 책임자 세자르 페르난데스는 NBC News에 이 법의 요구사항이 선도적인 AI 기업들이 이미 자발적으로 수행하고 있는 안전성 테스트 프로토콜을 반영한다고 말했다. 그러나 그는 이 획기적인 법안이 "모든 선도적인 AI 개발자가 충족해야 할 기준"을 설정하는 데 중요하다고 설명했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-행간을 읽어보면, 기업들의 지지는 대형 AI 기업들이 쉽게 충족할 수 있지만 소규모 AI 기업에는 더 큰 도전이 될 수 있는 요구사항으로부터 이익을 볼 수 있음을 시사한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 법안을 지지한 비영리 단체 Secure AI Project의 정책 책임자 스콧 위저는 Wired에 법안 없이는 "AI 기업들이 스스로 숙제를 채점하는 상황"이 될 것이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-급속한 발전에 대해 기업들을 더 투명하게 만들기 위해 일리노이주는 "빅4 회계 및 감사 법인인 딜로이트, EY, KPMG, PwC에 의존하여 안전 관행을 감사하게 할 것"이라고 위저는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-의무화된 독립 감사는 의회가 법안 통과를 지연시키는 가운데 주(state) 차원의 AI 안전법 시행을 막으려 했지만 실패한 트럼프를 좌절시킬 가능성이 크다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프에게 우선순위는 AI 산업의 이익을 증진하는 것이었지만, 앤트로픽의 미토스가 출시되고 AI 기업이 안전 우려로 접근을 제한한 후 연방 정부의 안전성 테스트 확대를 고려하기 시작했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-어느 수준의 정부든 사회를 가장 재앙적인 AI 위험으로부터 보호할 준비가 되어 있는지 여부는 정부가 언제, 어떻게 개입할지에 대해 우려하는 비평가들에게 주요 관심사로 남아 있다. 내부 소식통이 트럼프의 AI 안전성 테스트 계획의 세부 사항을 유출하기 시작한 후, 비평가들은 연방 정부조차도 최첨단 AI 모델을 감사하는 데 필요한 전문성이 부족할 수 있다고 경고했다. 그리고 일리노이주가 의존할 수 있지만 일부 업계 관계자들은 일부 AI 기업이 완전히 신뢰하지 않을 수 있다고 제안하는 독립 감사인에게도 동일한 비판이 확장되는 것으로 보인다.
-&lt;&lt;&lt;PARA&gt;&gt;
-SB 315에 반대했으며 구글과 애플을 회원사로 둔 무역 단체 Chamber of Progress의 CEO 아담 코바세비치는 Wired에 일리노이주의 요구사항이 "모든 책임이고 기준은 없는 규제 체제에서 기업들이 민감한 시스템을 검증되지 않은 감사인에게 노출하도록 강요할 것"이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일리노이주 하원에서 이 법안을 발의한 민주당 의원 대니얼 디데크는 NBC News에 "이 법안은 몇 가지 안전장치를 마련하고 최악의 재앙적 위험 중 일부로부터 보호하기 위해 설계되었다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 디데크는 그 인터뷰에서 연방 정부가 의미 있는 보호 조치 시행을 지연하지 않았다면 결코 이 법안을 발의하지 않았을 것이라고 분명히 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"주정부가 이런 일을 해서는 안 됩니다"라고 디데크는 말했다. "이러한 유형의 재앙적 위험을 규제하는 가장 좋은 방법은 연방 차원의 접근 방식일 것입니다." 하지만 "현실은 의회가 아직 이 문제를 다루지 않았고, 기술이 너무 빠르게 발전하고 있어 주정부가 나설 수밖에 없는 상황입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-프리츠커가 법에 서명하면, AI 기업들은 2027년 1월 1일부터 그 조항의 적용을 받게 된다. 법안은 민간 소송권이 없다고 규정하지만, 위반 시 기업은 민사 제재를 받을 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-투명성 연합(Transparency Coalition)의 선임 정책 및 기술 고문 스티브 위머는 일리노이주 의원들과 법안 문구 작업을 했다. 그의 비영리 단체는 생성형 AI 정책에 영향을 미치기 위해 로비하며, 웹사이트에 따르면 AI 기술이 "안전, 투명성, 공공의 이익을 우선시하는 방식으로 개발 및 사용"되도록 옹호한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-투명성 연합 사이트에 게시된 글에서 위머는 그의 단체가 이 법안을 "2026년 가장 중요한 법률 중 하나"로 간주한다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이러한 법안이 혁신을 저해할 것이라는 주장에 반박하며, 또 다른 공동 발의자인 일리노이주 민주당 상원의원 메리 에들리-앨런은 자신의 목표는 AI가 "선을 위한 강력한 도구"가 될 수 있도록 "최소한의 안전장치를 마련"하는 것이라고 말했다. 에들리-앨런은 이 법안을 통과시킴으로써 일리노이주가 AI의 폭발적인 성장을 방해하는 장애물이 아닌 "재앙적 위험을 방지하기 위한 책임 있는 혁신의 로드맵"을 만들고 있다고 제안했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"상원 법안 315는 혁신을 막는 것이 아니라 AI의 큰 약속과 잠재적 피해 사이의 균형을 맞추는 것입니다"라고 그녀는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-디데크는 에들리-앨런에 동의하며 Wired에 일리노이주 법이 AI에 대한 대중의 불신이 계속 커짐에 따라 연방 정부가 위험을 관리하는 방법을 보여줄 수 있는 AI 거버넌스의 "테스트장"이 될 수 있다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이와 같은 법률은 연방 정부가 무언가를 통과시킬 가능성을 높이는 세상을 만듭니다"라고 디데크는 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1476750862-1152x648-1779984812.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 28 May 2026 08:01:16 +0000</pubDate></item><item><title>Intel makes a bid for handheld gaming PCs with new Arc G3 processors (인텔, 신형 Arc G3 프로세서로 휴대용 게이밍 PC 시장 진출)</title><link>https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-arc-g-series-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Intel’s Arc B390 integrated GPU has offered impressive performance in laptops.&lt;br/&gt;(인텔의 Arc B390 통합 GPU는 노트북에서 인상적인 성능을 선보였습니다.)&lt;/p&gt;
-&lt;p&gt;Most of the Steam Deck imitators on the market right now use AMD silicon, specifically the Ryzen Z-series chips. These are the same chips AMD makes for regular laptops, but with different power settings better suited to a compact handheld system. There are handhelds based on Intel silicon ( MSI’s Claw is the main one), but Intel hasn’t yet tried making silicon marketed specifically for that purpose.&lt;br/&gt;(현재 시중에 판매되는 대부분의 스팀 덱 모방 제품들은 AMD 실리콘, 특히 라이젠 Z 시리즈 칩을 사용합니다. 이는 AMD가 일반 노트북용으로 제조하는 칩과 동일하지만, 소형 휴대용 시스템에 더 적합한 전력 설정을 갖추고 있습니다. 인텔 실리콘을 기반으로 한 휴대용 기기(MSI의 클로가 대표적)도 존재하지만, 인텔은 아직 이 목적을 위해 특별히 마케팅된 실리콘을 출시한 적이 없습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-오늘, 인텔은 두 가지 인텔 Arc G 시리즈 프로세서로 이 시장에 도전장을 내밀었습니다. 이를 통해 게이밍 휴대용 기기는 인텔의 상당히 우수한 Arc B 시리즈 통합 GPU를 활용할 수 있게 됩니다. 인텔은 여러 Arc G 시리즈 휴대용 기기가 "2026년 6월부터 출시되어 연중 더 널리 공급될 것"이라고 밝혔습니다. 이러한 시스템에는 새로운 MSI 클로 모델, 에이서의 프레데터 아틀라스 8, 그리고 OneXPlayer의 기기가 포함됩니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-인텔은 일반적으로 'Arc' 브랜드를 통합 및 전용 GPU에 사용하지만, 이 경우 'Arc' 브랜드는 CPU, GPU, NPU 및 기타 구성 요소를 포함한 전체 칩을 포괄합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-G 시리즈 칩은 현재 인텔이 고급형 슬림 및 경량 노트북에 탑재 중인 코어 울트라 시리즈 3 칩(코드명 팬서 레이크)과 여러 면에서 유사합니다. 동일한 CPU 및 GPU 아키텍처를 사용하며 인텔의 18A 제조 공정(그 외 다른 공정)을 활용합니다. 하지만 CPU 및 GPU 코어의 조합이 코어 울트라 프로세서 중 어느 것과도 완전히 일치하지 않는 약간 다른 구성을 제공합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Arc G3와 Arc G3 익스트림 모두 14개의 CPU 코어(고성능 P-코어 2개, E-코어 8개, 저전력 LP E-코어 4개)를 포함합니다. 주요 차이는 GPU에 있습니다. Arc G3 익스트림은 12개의 Xe 코어를 갖춘 완전히 활성화된 Arc B390 GPU를 사용하는 반면, Arc G3는 10개의 Xe 코어를 갖춘 Arc B370 GPU를 사용합니다. G 익스트림은 CPU 및 GPU 클럭 속도가 약간 더 높고 최대 전력 소모도 소폭 높습니다. 두 칩 모두 휴대용 기기를 도킹하여 일반 Windows PC처럼 사용하려는 경우, Windows 11의 코파일럿+ 기능을 지원할 만큼 빠른 신경 처리 장치(NPU)도 포함합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-저희 테스트에서 Arc B390 GPU는 AMD의 라데온 890M(라이젠 Z 시리즈 최고 GPU와 밀접한 관련)보다 최대 2배 빠른 성능을 보였습니다. 하지만 이 성능은 칩에 허용된 전력량에 크게 의존했으며, 게이밍 휴대용 기기의 낮은 TDP와 작은 방열판으로 인해 성능이 다소 제한될 수 있습니다. AMD는 아직 최신 RDNA4 그래픽 아키텍처를 활용한 통합 GPU를 출시하지 않았으며, RDNA3 아키텍처는 수년이 지난 상태여서 인텔에 기회를 제공하고 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-인텔의 보도자료는 Windows 11의 Xbox 모드를 언급하지만, 현재까지 AMD 기반 PC에만 탑재된 밸브의 스팀OS는 언급하지 않았습니다. 그러나 최근 스팀OS 3.8 프리뷰는 AMD 및 인텔 기반 시스템 모두에 대한 "지원 개선"을 언급하며 MSI 클로를 대상으로 한 수정 사항을 포함했습니다. 스팀OS는 Arc G 시리즈와 같은 완전히 새로운 인텔 칩과 호환되기 위해 추가 업데이트가 필요할 수 있지만, Windows보다 밸브의 게임용 OS를 선호한다면, 결국 이 인텔 칩에서 스팀OS를 시도할 수 있을 것으로 보입니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-arc-g-series-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 28 May 2026 08:10:10 +0000</pubDate></item><item><title>How pigeons exploit magnetic fields for navigation (비둘기가 자기장을 활용해 길을 찾는 방법)</title><link>https://arstechnica.com/science/2026/05/how-pigeons-exploit-magnetic-fields-for-navigation/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/pigeon-TOP-1152x648-1779715612.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Iron-rich immune cells in the liver may act as sensors for magnetic fields, serving as an internal compass.&lt;br/&gt;(간 내 철분이 풍부한 면역세포가 자기장 감지 센서 역할을 하며, 내부 나침반 역할을 할 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-과학자들은 철새와 집비둘기가 특히 밤이나 흐린 날씨에 시각적 지표나 햇빛이 부족할 때 지구 자기장을 감지하여 부분적으로 길을 찾는다는 사실을 오래전부터 알고 있었다. 그러나 신체 내에서 이러한 자기 감지가 정확히 어디에서 발생하는지, 그리고 이를 가능하게 하는 메커니즘이 무엇인지는 여전히 격렬한 논쟁의 대상이다. 저널 《사이언스》에 발표된 새로운 논문은 집비둘기의 간에 있는 철분이 풍부한 면역세포가 자기장을 감지하고 그 정보를 뇌로 전달하는 데 도움을 준다고 제안한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-새들이 지구의 지자기장을 감지할 수 있는 방법에 대한 주요 가설은 세 가지이다. 첫 번째는 나침반과 유사한 메커니즘으로, 지구가 새의 위쪽 부리에 있는 자기 입자에 힘을 가하여 두개골의 큰 신경을 통해 방향 정보를 전달한다는 것이다. 두 번째는 전압에 민감한 세포 이온 채널을 통해 생물학적으로 발생하여 새들이 자기장의 변화를 감지할 수 있게 한다는 것이다. 세 번째는 망막 색소에 대한 물리적 영향으로 새들이 광자를 감지하고 뇌에 신호를 보낼 수 있게 하지만, 이 메커니즘은 실제로 빛이 있을 때만 작동한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 중 어느 것도 동물이 자기장을 감지할 수 있는 방식을 완전히 설명하지는 못한다. 그러나 공동 저자인 본 대학교 및 본 대학병원의 클리비아 리소프스키는 "간과 비장이 자기적 특성을 가진다는 단서가 있었는데, 이는 이들이 적혈구를 분해하여 체내에 많은 철분을 저장하기 때문"이라고 말했다. 이는 생쥐와 인간의 비장에 있는 적색 속질 대식세포가 본질적으로 초상자성이며 따라서 자기장에 더 민감하다고 제안한 2015년 논문을 가리킨다. 그러나 이러한 특성이 어떤 종류의 자기 수용에 관여하는지는 명확하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-집비둘기 연구를 위해 리소프스키 등은 진동 시료 자력계와 자기 세포 분리법을 사용하여 프러시안 블루(페리틴, 즉 적혈구 분해 산물에 민감함)로 염색한 간 및 비장 조직 시료와 눈, 부리, 뇌를 테스트했다. 그들은 간 조직에서 가장 강한 철분 농도와 가장 강한 자기 반응을 발견했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-가설을 더 테스트하기 위해 리소프스키 등은 34마리의 비둘기를 훈련시켜 19킬로미터(약 12마일)에 달하는 서에서 동쪽 경로로 집으로 돌아오게 했다. 훈련 후, 절반의 새에게는 간 내 대식세포를 고갈시키기 위해 클로드로네이트 리포솜을 주사했고, 나머지 절반은 대조군으로 남겼다. 이 작업은 태양이 가려진 흐린 날씨가 예보된 전날에 이루어졌다. 다음 날, 모든 비둘기가 풀려났다.
-&lt;&lt;&lt;PARA&gt;&gt;
-대조군의 모든 비둘기는 성공적으로 새장으로 돌아왔지만, 주사를 맞은 비둘기들은 방향 감각을 잃고 태양이 나올 때까지 다음 날에야 집으로 돌아왔다. 맑은 날씨에서 클로드로네이트 처리된 비둘기를 대상으로 한 후속 실험은 태양 신호를 사용할 수 있었기 때문에 귀소 능력에 영향을 미치지 않았다. 이는 비둘기가 길을 찾기 위해 태양 방향과 자기 감지를 결합하여 사용하며, 후자는 동물의 자기 인식에 대해 이전에 예상되지 않았던 메커니즘임을 시사한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-저자들은 이러한 결과가 기능적인 크립토크롬이 없거나 빛이 거의 또는 전혀 없는 환경에 사는 박쥐와 두더지쥐의 자기 수용도 설명할 수 있다고 생각한다. 또한 긴 거리를 직선으로 헤엄칠 수 있는 특정 상어 종(예: 귀상어)에도 적용될 수 있는데, 이들은 지자기 이상이 발견된 해산을 이용해 방향을 정하는 것으로 보인다. 저자들은 "자기 수용을 넘어, 우리의 발견은 더 넓은 새로운 개념에 기여합니다: 조직 상주 대식세포는 말초 감각 세포로 기능하여 뇌에 직접적이고 생물학적으로 의미 있는 피드백을 제공할 수 있다는 것입니다."라고 결론지었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-동반된 논평에서 런던동물학회의 사이먼 스피로와 옥스퍼드 대학의 할 드레이크스미스는 몇 가지 주의점을 언급했다. 예를 들어, 간 내 철분이 풍부한 세포는 사육된 비둘기의 식단 때문일 수 있는데, 많은 동물원 동물들이 철분 과부하를 겪기 때문이다. 또한 간이 자기장 감지에 가장 적합하고 가능성이 높은 장기인지 아직 명확하지 않다고 생각한다. 클로드로네이트를 비둘기에 투여하면 신체 다른 곳에 위치한 대식세포도 고갈되어 조직학적 결과가 왜곡될 가능성이 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스피로와 드레이크스미스는 《사이언스》에 발표된 2025년 연구를 인용했는데, 이 연구는 다른 더 포괄적인 방법론을 사용하여 다른 메커니즘을 제안했다: 비둘기 전뇌 내의 특수 세포가 자기 정보를 인코딩하여 효과적인 항법을 촉진한다는 것이다. 두 잠재적 메커니즘 모두 빛 자극을 필요로 하지 않으므로, 비둘기의 항법을 돕는 두 가지 이상의 상호 보완적 과정이 작용할 가능성이 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"아마도 하나의 과정이 장거리 항법을 지배하는 반면, 다른 과정은 더 구체적인 목적지 찾기에 사용되며, 둘 다 다른 정밀도 수준으로 작동할 것입니다."라고 스피로와 드레이크스미스는 결론지었다. "실제로, 어둠 속에서 집에 돌아가는 방법이 두 가지 이상 있는 것이 신중할 수 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-DOI: Science, 2026. 10.1126/science.ady2486 ( DOI 정보 ).)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/05/how-pigeons-exploit-magnetic-fields-for-navigation/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/pigeon-TOP-1152x648-1779715612.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 28 May 2026 09:00:22 +0000</pubDate></item><item><title>Amazon turns to Jeff Bezos’ other company to do some heavy lifting (아마존, 제프 베이조스의 다른 회사에 무거운 짐을 맡기다)</title><link>https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/HJVyIu2WoAEFclh-1152x648-1779990562.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Amazon is turning a corner with its launch providers, but ULA’s Vulcan remains grounded.&lt;br/&gt;(아마존은 발사체 공급사들과 전환점을 맞이하고 있지만, ULA의 벌컨은 여전히 발사가 중단된 상태다.
-&lt;&lt;&lt;PARA&gt;&gt;
-불과 두 달 전 블루 오리진의 대형 중량 발사체 뉴 글렌의 세 번째 비행에서 고객의 탑재체가 사용 불가능한 궤도에 놓인 사건이 있었다. 조사관들은 이제 실패 원인을 확인했으며, 블루 오리진은 다음 주 중으로 다음 뉴 글렌 임무를 발사할 준비를 하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-연방항공청과 블루 오리진은 5월 22일 실패 조사 종료를 발표했다. 어제 관계자들은 블루 오리진의 다음 발사가 지구 저궤도에 있는 아마존의 광대역 네트워크를 위한 상업용 위성 48기를 실어 나를 것이라고 확인했다. 이는 아마존이 단일 로켓으로 발사한 위성 중 가장 많은 수로, 이전에 ULA의 아틀라스 V, 스페이스X의 팰컨 9, 유럽의 아리안 6에서 발사한 기록을 넘어선다.
-&lt;&lt;&lt;PARA&gt;&gt;
-제프 베이조스가 각각 설립한 블루 오리진과 아마존은 공식적으로 발사 목표일을 밝히지 않았지만, 항공 및 해상 폐쇄에 대한 공개 공지는 임무가 다음 주 목요일인 6월 4일부터 플로리다 케이프 커내버럴 우주군 기지에서 발사될 예정임을 시사한다. 블루 오리진은 며칠 내에 뉴 글렌 로켓을 발사대로 굴려 액화 천연가스와 액체 산소로 연료를 공급하는 7개의 주 엔진 시험 발사를 실시할 것으로 예상된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-비행할 때 뉴 글렌 로켓은 48개의 아마존 레오 위성을 지구에서 수백 마일 위 궤도에 투입하는 것을 목표로 할 것이다. 발사 실패 후 불과 두 달 만의 전환은 블루 오리진이 뉴 글렌의 발사 주기를 늘리고 있다는 좋은 신호가 될 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-시기적절할 것이다. 뉴 글렌과 동시에 개발된 또 다른 중량 궤도급 로켓인 ULA의 벌컨은 2024년 데뷔 이후 미미한 발사 주기조차 유지하는 데 어려움을 겪어왔다. 현재까지 4번의 벌컨 발사 중 2번에서 고체 로켓 부스터 이상이 발생했으며, 임무는 탑재체를 궤도에 성공적으로 배치했지만, ULA와 하청업체가 반복되는 문제를 조사함에 따라 발사체는 발사가 중단된 상태다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아마존은 ULA의 벌컨을 아마존 레오 위성군의 주요 발사체로 선택했으며, 1세대는 3,200기 이상이 될 것이다. 아마존 레오를 위한 38번의 벌컨 발사 중 첫 번째는 올해 후반에 이루어질 수 있지만, 고체 로켓 부스터 문제에 대한 조사가 계속됨에 따라 확정된 일정은 여전히 불투명하다. 아마존 레오를 위한 각 벌컨 발사는 스트랩온 로켓 모터 6개를 사용할 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-물론 블루 오리진이 더 높은 발사율로 가는 길에 있다고 주장하려면 뉴 글렌 로켓이 의도한 대로 작동해야 한다. 마지막 뉴 글렌 비행은 AST 스페이스모바일의 직접 휴대폰 광대역 네트워크를 위한 대형 위성을 실었다. 로켓의 상단부는 AST의 위성을 적절한 궤도에 투입하기 위해 엔진을 두 번 점화해야 했지만, 두 번째 연소에서 상단부가 오작동하여 탑재체가 계획보다 낮은 궤도에 좌초되었다. 위성은 로켓의 부족분을 회복하지 못했고, 대기권 재진입 시 소멸되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난주 성명에서 블루 오리진은 엔지니어들이 상단부 고장에 대한 조사를 완료하고 다음 뉴 글렌 발사를 앞두고 시정 조치를 시행했다고 밝혔다. 블루 오리진은 X에 "두 번째 GS2 연소 전에 비정상적인 열 상태를 경험했으며, 그 결과 BE-3U 엔진 중 하나가 목표 궤도에 도달하기 위해 완전한 추력을 내지 못했습니다."라고 게시했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-연방항공청은 조사 결과를 수락하고 실패 원인에 대한 몇 가지 세부 사항을 추가했다. FAA는 극저온 누출이 유압 라인을 얼게 하고 상단부의 두 번째 연소 중 추력 이상을 초래했다고 밝혔다. FAA에 따르면 블루 오리진은 9가지 시정 조치를 확인했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-뉴 글렌을 아마존에 서비스하는 것은 아마존 레오 위성군의 배치를 가속화하는 데 도움이 될 것이며, 이는 스페이스X의 스타링크 네트워크와 경쟁할 것이다. ULA는 한 번에 45개의 아마존 레오 위성을 발사할 수 있는 벌컨 로켓에 대한 대규모 백로그를 자랑한다. 그러나 미 우주군은 자체적으로 수많은 벌컨 임무를 예약해 놓았다. ULA는 로켓이 정기적으로 비행하게 되면 한 달에 두 번의 벌컨 발사를 지원할 수 있다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-블루 오리진은 재사용 가능성이라는 이점을 가지고 있다. 뉴 글렌 로켓의 1단 부스터는 재사용이 가능하며, 이 기능은 임무 후반에 발생한 상단부 고장에도 불구하고 회사의 마지막 비행인 4월 19일에 처음 시연되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지금까지 아마존 위성의 대부분은 은퇴를 앞둔 신뢰할 수 있는 작업자 ULA의 아틀라스 V 로켓으로 발사되었다. 아마존은 아틀라스 V로 두 번의 발사만 남았으며, 각각 29개의 위성을 실을 것이다. 다음 발사는 금요일 저녁 케이프 커내버럴에서 발사될 예정이다. 아마존은 현재 궤도에 302개의 위성을 보유하고 있으며, 금요일 발사로 네트워크가 총 3,232개의 우주선 중 10%를 넘어설 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 연방통신위원회가 아마존에 7월 말까지 위성군의 절반을 배치하라는 요구 사항에 훨씬 못 미치는 수준으로, 2020년 FCC의 아마존 레오 네트워크 승인 이후 마감일이 정해져 있다. 1월에 아마존은 마감일 연장을 요청했다. 동시에 회사는 뉴 글렌에서 12회의 추가 비행을 구매하여 블루 오리진과의 총 아마존 발사 횟수를 24회로 늘렸다고 발표했다. 아마존은 또한 작년 아마존 레오를 위한 3회의 팰컨 9 발사 외에 스페이스X의 팰컨 9 로켓에서 10회의 추가 발사를 추가했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-한편, 프랑스령 기아나에서는 유럽의 아리안 6 로켓이 각각 32개의 위성을 실은 아마존 레오 전용 임무 2회를 발사했다. 아마존은 다음 아리안 6 발사를 위해 다음 배치의 위성을 프랑스령 기아나로 보냈으며, 이 발사는 더 높은 탑재 용량을 위한 업그레이드를 처음으로 선보일 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아마존은 원래 스페이스X의 팰컨 9를 제외한 모든 대형 서방 로켓에서 발사를 구매했다. 아마존의 발사체 목록에서 비행 이력이 있는 유일한 로켓은 ULA의 아틀라스 V였으며, 은퇴가 임박함에 따라 남은 발사 횟수가 한정되어 있다. 벌컨, 아리안 6, 뉴 글렌의 지연은 처음에는 아마존에 큰 문제가 되지 않았는데, 이는 워싱턴주 커클랜드에 있는 공장에서 위성 생산을 확장하는 자체 문제와 씨름하고 있었기 때문이다. 상황은 작년에 아마존의 위성 생산이 위성을 우주로 보낼 로켓의 가용성을 앞지르면서 바뀌었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아마존은 2023년 주주 소송이 창립자 제프 베이조스와 이사회가 아마존 레오 위성 발사 옵션으로 스페이스X를 고려하지 않음으로써 '수탁 의무'를 위반했다고 비난한 후 '모두를 위한 스페이스X 제외' 전략에서 물러났다. 소송의 원고는 베이조스와 스페이스X 창립자 일론 머스크 사이의 강렬하고 개인적인 라이벌 의식 때문에 아마존이 팰컨 9를 고려하지 않았다고 주장했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아마존은 주장에 굴복하여 모두 작년에 비행한 스페이스X와 3회의 팰컨 9 발사 계약을 발표했다. 그 이후로 아마존은 10회의 추가 팰컨 9 비행을 확보했지만 아직 비행한 것은 없다.
-&lt;&lt;&lt;PARA&gt;&gt;
-블루 오리진의 뉴 글렌이 곧 아마존을 위한 첫 번째 임무를 비행하고, 아리안스페이스의 아리안 6가 안정적인 발판을 마련했으며, 더 많은 팰컨 9 발사의 가능성이 다가옴에 따라 아마존은 로켓 딜레마를 해결하는 전환점을 맞이했을 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그렇다면 오랫동안 위성 광대역 시장을 장악해온 스페이스X의 스타링크 서비스에 대한 자금이 풍부한 경쟁자가 마침내 등장할 수 있다. 그럼에도 스타링크는 팰컨 9에서 저렴하고 안정적으로 위성을 발사할 수 있는 이점을 가지고 있다. 팰컨 9 발사에 대한 스페이스X의 내부 비용은 약 1,500만 달러로, 스페이스X가 아마존과 같은 외부 고객에게 전용 비행에 청구하는 7,400만 달러의 5분의 1 수준인 것으로 추정된다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/HJVyIu2WoAEFclh-1152x648-1779990562.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 28 May 2026 09:17:41 +0000</pubDate></item><item><title>Apple working to cram massive Gemini model into iPhone to power new Siri (애플, 거대 제미나이 모델을 아이폰에 탑재해 새로운 시리 구동 추진)</title><link>https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/apple-google-logo-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 29 May 2026 21:17:34 +0000</lastBuildDate><item><title>Apple working to cram massive Gemini model into iPhone to power new Siri (애플, 거대 제미나이 모델을 아이폰에 탑재해 새로운 시리 구동 추진)</title><link>https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/apple-google-logo-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.&lt;br/&gt;(애플이 제미나이를 아이폰용으로 축소하려는 가운데, 클라우드 구성 요소는 불가피해 보입니다.)&lt;/p&gt;
 &lt;p&gt;It’s impossible to totally avoid generative AI when interacting with technology anymore, but Apple has a bit less of it. That’s not entirely by choice, though. The iPhone maker has delayed the AI-enhanced Siri multiple times since first promising it in 2024, but a deal with Google will merge the iconic assistant with Gemini later this year. As we approach the Worldwide Developers Conference , Apple has been working to bring big AI smarts to the modest processing environment of a smartphone. Apple fans may not like the outcome, though.&lt;br/&gt;(더 이상 기술과 상호작용할 때 생성형 AI를 완전히 피할 수는 없지만, 애플은 이 부분에서 다소 뒤처져 있습니다. 그러나 이것이 전적으로 선택에 의한 것은 아닙니다. 아이폰 제조사는 2024년 처음 약속한 이후 AI 강화 시리를 여러 번 연기했지만, 구글과의 거래로 올해 말 상징적인 어시스턴트가 제미나이와 통합될 예정입니다. 세계 개발자 회의(WWDC)가 다가오면서, 애플은 스마트폰이라는 소박한 처리 환경에 큰 AI 능력을 도입하기 위해 노력해 왔습니다. 애플 팬들은 결과가 마음에 들지 않을 수도 있습니다.)&lt;/p&gt;
 &lt;p&gt;Apple has long crowed about the privacy value of running AI locally , but a new report suggests that despite Apple’s best efforts, the iPhone’s Gemini makeover will lean heavily on Google and Nvidia in the cloud. The Information reports that Apple’s Gemini-infused Siri will run both on-device and in the cloud, an apparent reversal of its privacy-focused preference for local AI.&lt;br/&gt;(애플은 오랫동안 로컬에서 AI를 실행하는 프라이버시 가치를 자랑해 왔지만, 새로운 보고서에 따르면 애플의 최선의 노력에도 불구하고 아이폰의 제미나이 리뉴얼은 클라우드에서 구글과 엔비디아에 크게 의존할 것이라고 합니다. '더 인포메이션'은 애플의 제미나이가 주입된 시리가 기기 내부와 클라우드 모두에서 실행될 것이라고 보도하며, 이는 로컬 AI에 대한 프라이버시 중심 선호의 명백한 반전이라고 전했습니다.)&lt;/p&gt;
@@ -508,4 +369,142 @@ Science Advances, 2026. DOI: 10.1126/sciadv.aeb1394)&lt;/p&gt;
 &lt;p&gt;That makes MicroAGI one of the latest known startups to be recruiting and paying ordinary people to record their everyday tasks to provide robot training data. Other such companies include Encord and Micro1, with the latter having hired thousands of contract workers across 50 countries such as India, Nigeria, and Argentina, according to MIT Technology Review .&lt;br/&gt;(이로 인해 MicroAGI는 일반인을 모집하여 일상 작업을 녹화하고 로봇 훈련 데이터를 제공하도록 비용을 지불하는 최신 스타트업 중 하나가 되었습니다. 다른 유사 기업으로는 Encord와 Micro1이 있으며, MIT Technology Review에 따르면 후자는 인도, 나이지리아, 아르헨티나 등 50개국에서 수천 명의 계약직 근로자를 고용했습니다.)&lt;/p&gt;
 &lt;p&gt;The Shift app’s website suggests MicroAGI is launching an aggressive recruiting campaign with dozens of blog posts tailored toward NYC university and college students, teachers, restaurant and delivery workers, and even residents of specific neighborhoods.&lt;br/&gt;(Shift 앱의 웹사이트는 MicroAGI가 NYC 대학생, 교사, 레스토랑 및 배달 노동자, 심지어 특정 지역 주민을 대상으로 한 수십 개의 블로그 게시물과 함께 공격적인 모집 캠페인을 시작하고 있음을 시사합니다.)&lt;/p&gt;
 &lt;p&gt;Meanwhile, the company has spread Craigslist postings targeting residents of other US cities such as Boston—and MicroAGI founder and CEO Bercan Kilic teased the prospect of the Shift app soon launching in additional cities such as London, Munich, and Zurich.&lt;br/&gt;(한편, 회사는 보스턴과 같은 다른 미국 도시 거주자를 대상으로 Craigslist 게시물을 퍼뜨리고 있으며, MicroAGI 창립자 겸 CEO Bercan Kilic는 Shift 앱이 조만간 런던, 뮌헨, 취리히와 같은 추가 도시에서 출시될 가능성을 암시했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-29-at-9.24.24-AM-1152x648.png" length="0" type="image/png"/><pubDate>Fri, 29 May 2026 07:16:14 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-29-at-9.24.24-AM-1152x648.png" length="0" type="image/png"/><pubDate>Fri, 29 May 2026 07:16:14 +0000</pubDate></item><item><title>DOJ sues states that rejected ICE requests for undercover license plates (DOJ, ICE의 위장 번호판 요청 거부한 주(州)들을 상대로 소송 제기)</title><link>https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2230548231-1152x648-1780073944.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;DOJ keeps accusing ICE monitoring sites of doxing, but evidence remains scarce.&lt;br/&gt;(DOJ, ICE 감시 사이트들의 신상 공개 주장 계속하지만 증거는 부족해)&lt;/p&gt;
+&lt;p&gt;The Trump administration continues to claim in lawsuits that ICE monitoring sites are doxing agents, without showing evidence that’s happening.&lt;br/&gt;(트럼프 행정부는 ICE 감시 사이트가 신상 공개를 하는 주체라는 주장을 소송에서 계속하고 있지만, 그러한 행위가 실제로 발생하고 있다는 증거는 제시하지 않고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+가장 최근에는 법무부가 ICEList.info 및 ICESpy.org와 같은 사이트를 지목하며, ICE 요원들이 위장 번호판을 등록하는 것을 차단하는 정책을 철회하도록 네 개의 주를 압박하기 위해 제기한 소송에서 이를 주장했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+법무부는 주(州) 정부의 정책이 위헌이며, 연방 요원들이 손쉽게 위장 번호판을 얻을 수 있는 주 요원들과 다른 규칙을 따르도록 불법적으로 강제한다고 주장했다. 법무부는 위장 번호판을 거부당한 ICE 요원들의 위험 요소로, 괴롭힘 증가와 요원들에 대한 침습적 추적, 그리고 ICE 단속 대상자들이 체포를 더 쉽게 피할 가능성 등을 꼽았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+모든 고소장에서 법무부는 기밀 등록이 누구도 차량 등록 정보에 접근하기 위해 공개 기록 요청을 제출할 수 없도록 함으로써 요원들을 보호한다고 주장했다. 이는 미국 전역의 시위자들과 ICE 감시자들이 ICE 활동을 계속 촬영하고, 그 콘텐츠를 온라인에 게시하기 때문에 결정적으로 중요하다고 여겨진다. 법무부는 번호판 조회를 차단함으로써 추가적인 신상 공개 위험을 막을 수 있다고 주장했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 법무부가 제시한 신상 공개 증가 주장에 대한 유일한 근거는 신상 공개를 금지하는 두 개의 ICE 감시 웹사이트를 언급한 것뿐이며, 옹호자들은 그 웹사이트들이 수정 헌법 제1조에 의해 보호된다고 주장해왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+ICESpy.org는 안면 인식을 사용하여 업로드된 ICE 요원 사진을 공개된 LinkedIn 프로필 사진과 비교하며, 사용자들을 ICE 요원들이 직접 온라인에 게시한 콘텐츠로만 연결한다. 이 웹사이트는 "연방 공무원을 위협하는 것은 중범죄"라고 명시적으로 경고하며, "LinkedIn에 스스로 보고된 정보 이상의 추가 유용한 정보가 없기 때문에" ICE 직원을 괴롭히는 데 사용될 수 없다고 설명한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마찬가지로 ICEList.info는 일종의 위키 역할을 하도록 설계되어 ICE 단속 활동에 대한 업데이트를 수집하고 구금, 체포, 추방을 기록한다. '소개' 페이지에 따르면, 개별 요원들은 "충분한 증거가 존재하는 경우"에만 단속 사건과 연결되어 목록에 포함되며, 요원들을 신상 공개하는 데 사용될 수 있는 정보를 게시하려는 모든 시도는 사이트 규칙을 위반하며 삭제된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"허위 제출, 괴롭힘, 또는 플랫폼 오용 시도는 제거됩니다"라고 '소개' 페이지는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+ICE List의 소유자인 Dominick Skinner는 Wired에 "ICE List가 하는 일이 신상 공개라고 생각하지 않는다"고 말했는데, 주된 이유는 "ICE List가 확인된 요원들의 집 주소를 게시하지 않기 때문"이라고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+보도자료에서 법무부는 신상 공개를 "피해자의 사회보장번호, 집 주소, 집 전화번호, 휴대전화 번호, 개인 이메일 주소"를 공유하는 것이라고 정의한다. ICE List의 ICE 요원 프로필 100개를 무작위 표본 추출한 불완전한 Ars 리뷰에서는 공개적으로 게시된 직장 연락처 정보만 확인되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+정보공개법 소송에 따르면, 트럼프 행정부는 ICE 활동을 보여주거나 ICE List와 같은 사이트로 연결되는 소셜 미디어 게시물을 검열하도록 플랫폼에 압력을 가하기 위해 신상 공개 위협에 대한 단순한 언급을 일상적으로 이용해왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 그러한 주장을 뒷받침할 만한 체포 사례는 현저히 부족하다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난 1월에도 법무부는 ICE 요원들이 8,000% 증가한 살해 위협에 직면했다고 주장했다. 그러나 그 보도자료는 그 통계가 어디서 나온 것인지 명시하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+대신, 기관은 1월 24일 미네소타의 한 ICE 요원에게 남겨진 단일 음성 메일의 대본을 공유했다. 그 내용에서 발신자는 직접적으로 폭력을 위협하지는 않지만, 자신의 아내와 어머니가 죽기를 "바란다"고 말하고 "당신 인생에 잘못될 수 있는 모든 일이 일어나길" 바란다고 말함으로써 요원을 위협하려는 것으로 보인다. 그들은 요원이 "버스에 치여" "마비되길" "바란다"고 말한다. 그리고 요원을 "미국 국민에 대한 배신자"라고 부르며 "자살해야 한다"고 촉구하는 것으로 끝맺는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 보도자료에서 Kristi Noem 당시 국토안보부 장관은 음성 메일과 같은 협박 전술과 신상 공개 시도 증가를 용납하지 않겠다고 말했다. 중범죄 혐의를 경고하며, "법 집행관에게 손을 대거나 우리 요원들의 신상을 공개한다면, 법이 허용하는 최대한의 범위 내에서 기소될 것"이라고 경고했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 위장 번호판과 관련된 소송에서 법무부는 ICE 요원의 신상을 공개한 혐의로 기소된 단 한 명만을 지목했다. 주목할 점은, 그 용의자가 실제로 ICE 요원의 신상을 공개한 것이 아니라, Donald Trump가 재집권하기 훨씬 전부터 가족을 괴롭혀 온 것으로 보이는 ICE 변호사의 신상을 공개했다는 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난 9월의 보도자료에서 법무부는 산타모니카에 사는 68세 남성 Gregory John Curcio가 ICE 변호사의 신상을 공개하고 괴롭힌 혐의로 기소되었다고 발표했다. Curcio는 변호사의 집 주소를 페이스북에 게시하고 시청자들에게 목표물의 집에 허위로 긴급 전화를 걸어 경찰이 강압적으로 대응하도록 유도하는 "swatting"을 하도록 부추긴 혐의를 받는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+법무부가 주(州) 고소장에서 주장하는 바와 같이, 이 사건은 ICE 활동을 기록하는 소셜 미디어 게시물이 ICE 요원들을 집에서 표적으로 삼기 쉽게 만드는 괴롭힘 패턴의 일부이다. 그러나 보도자료는 Curcio가 게시한 주소는 변호사의 주소가 아니라 그녀의 어머니 주소라고 밝혔다. 또한 Curcio가 2024년 1월부터 허위 진술을 하고 괴롭힘 캠페인을 벌이며 어머니를 "수년 동안" 괴롭혀 왔다고 명시했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+법무부가 위장 번호판을 차단하는 주에서 요원들이 더 많은 보호를 받아야 한다고 주장하기 위해 의존하는 다른 증거로는 10월의 보도자료가 있다. 이 보도자료에서 법무부는 "신뢰할 수 있는 정보"가 "멕시코 범죄자들"이 "시카고의 거리 갱단"과 공모하여 "연방 요원들을 감시, 괴롭히고 암살"하려 한다고 시사했다고 주장했다. 그러나 주(州) 소송은 법무부가 그 정보를 입수한 이후 체포된 사례가 있다는 시사는 없었으며, 법무부는 그 정보와 관련된 신상 공개 시도, 납치 또는 암살 시도의 증거도 공유하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+법무부가 연방법이 주법보다 우선한다는 헌법의 우월 조항을 위반하면서 주가 연방 요원들을 불법적으로 위험에 빠뜨린다는 주장을 입증하기 위해 신상 공개가 발생했음을 증명해야 하는지 여부는 여전히 불분명하다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프 행정부는 법원이 주 요원들이 이용할 수 있는 위장 번호판을 연방 요원들에게 차단하는 모든 정책이 위헌이라는 데 동의해주길 바라고 있다. 승소할 경우, 주들이 ICE가 차량 등록을 숨기는 것을 영구적으로 금지하길 원한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 주(州)의 의도가 주 요원들이 어떤 역할도 하지 않는 소위 "무법적인" 민사 이민 집행 행위를 차단하는 것이라는 점이 중요할 수 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+메인 주 고소장에서 법무부는 "민사 이민 집행은 전적으로 연방 정부의 기능"이기 때문에 주(州)가 주 요원들을 차단할 이유가 없을 것임을 인정했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+적어도 한 주는 인종적 프로파일링에 기반한 ICE 체포가 주법을 위반한다고 주장할 가능성이 있다. 워싱턴 주에서는 주 정부가 일부 ICE 활동이 "Keep Washington Working Act"를 위반한다고 주장해왔다고 법무부의 고소장이 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 법은 "어떤 주 기관(법 집행 기관 포함)도 주의 자금, 시설, 재산, 장비 또는 인력을 워싱턴 주민을 인종, 종교, 이민 또는 시민권 지위, 또는 국적이나 민족적 기원만을 기준으로 표적으로 삼는 연방 등록 또는 감시 프로그램이나 기타 법률, 규칙 또는 정책을 조사, 집행, 협력 또는 지원하는 데 사용할 수 없다"고 규정한다. 본질적으로, 주는 인종, 이민 또는 시민권 지위를 기준으로 워싱턴 주민을 표적으로 삼는 연방 정부 감시 프로그램을 가능하게 할 수 있는 기밀 번호판을 제공하는 것이 금지될 수 있다고 주장한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+주(州)들은 자신들의 정책이 타당하다고 확신하는 것으로 보인다. 그들은 법무차관보가 5월 22일까지 법률을 철회하라는 요구 서한을 보낸 후에도 이를 거부했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+메인 주의 Shenna Bellows 국무장관은 "미네소타 등지에서 ICE 배치 및 권한 남용에 대한 소문"이 "우려를 제기한다"는 이유로 ICE의 민사 조사를 위한 위장 번호판 발급을 중단했다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 메인 주 번호판이 불법적인 목적으로 사용되지 않을 것이라는 확신을 원합니다"라고 Bellows는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+매사추세츠 주에 대한 법무부의 고소장은 Maura Healey 주지사가 유사한 근거를 제시했다고 인용했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"합법적인 형사 법 집행 업무를 수행하는 모든 '연방, 주 또는 지방 기관'은 기밀 번호판을 받을 수 있습니다"라고 Healey는 말했다. 그러나 "우리 모두는 그것이 ICE가 하는 일이 아니라는 것을 압니다. 이것은 누구를 체포하고 왜 체포했는지조차 우리에게 말할 수 없고 말하지 않을 기관입니다. 우리는 그들의 전술을 지원하지 않을 것입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+각 주의 위장 번호판 정책은 약간씩 다르다.
+&lt;&lt;&lt;PARA&gt;&gt;
+워싱턴 주는 2025년 10월에 기밀 번호판 발급 및 갱신을 중단했으며, 매사추세츠 주도 마찬가지로 2026년 초에 ICE와 세관 국경 보호 기관의 특권을 차단했다. 오리건 주는 4월에 이어 연방 기관에 대한 기밀 번호판 등록을 일시적으로 중단했다. 법무부에 따르면, 만약 그 주가 번호판 발급을 재개한다면, 민사 이민 조사에 대한 기밀성 부여를 피할 계획이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+메인 주는 정부가 단 하나의 절차를 거치도록 요구한다. 기밀 등록 자체는 승인하지만, 위장 번호판을 부여받은 차량이 "연방 민사 이민 집행에 사용되지 않을 것"이라고 신청 연방 기관의 장이 증명하는 경우에만 가능하다. 법무부는 위반 시 "위증 시 2,000달러 벌금 또는 최대 1년 징역을 포함한 '형사 처벌'"의 위험이 있다고 강조했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2230548231-1152x648-1780073944.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 29 May 2026 08:41:56 +0000</pubDate></item><item><title>Trump FCC warns all broadcasters to follow orders or be punished like ABC (트럼프 FCC, 모든 방송사에 "ABC처럼 처벌받지 않으려면 명령을 따르라" 경고)</title><link>https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/abc-jimmy-kimmel-1152x648-1780075115.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;ABC says early renewal for all stations is unprecedented, has no legitimate purpose.&lt;br/&gt;(ABC는 모든 방송국의 조기 갱신이 전례가 없으며 정당한 목적이 없다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;The eight broadcast TV stations owned by ABC filed applications for early license renewals under protest yesterday, accusing the Federal Communications Commission of trying to suppress speech as part of “an unprecedented attack on a single company’s entire portfolio of broadcast licenses.”&lt;br/&gt;(ABC가 소유한 8개 방송 TV 방송국은 어제 강제로 조기 면허 갱신 신청서를 제출하면서, 연방통신위원회(FCC)가 "단일 회사의 전체 방송 면허 포트폴리오에 대한 전례 없는 공격"의 일환으로 언론을 탄압하려 한다고 비난했다.)&lt;/p&gt;
+&lt;p&gt;FCC Chairman Brendan Carr has repeatedly threatened to revoke broadcast licenses from President Trump’s least favorite networks. He recently ordered the Disney-owned ABC to file early license renewal applications for all of its TV stations over allegations that its diversity, equity, and inclusion (DEI) practices violate anti-discrimination rules.&lt;br/&gt;(Brendan Carr FCC 위원장은 도널드 트럼프 대통령이 가장 싫어하는 네트워크들의 방송 면허를 반복적으로 취소하겠다고 위협해 왔다. 그는 최근 디즈니 소유의 ABC에 대해 자사 TV 방송국들의 다양성, 형평성, 포용성(DEI) 관행이 차별 금지 규정을 위반한다는 의혹을 이유로 모든 방송국의 조기 면허 갱신 신청을 명령했다.)&lt;/p&gt;
+&lt;p&gt;“The only plausible reason to issue the Order is to punish the Station for speech the government does not like,” ABC said in its filings. The FCC is “using the license process renewal to punish a broadcaster for its editorial choices” in “an extraordinary demonstration of power and coercion directed at disfavored editorial voices,” it said.&lt;br/&gt;(ABC는 신청서에서 "명령을 내린 유일한 그럴듯한 이유는 정부가 달가워하지 않는 언론 활동에 대해 방송국을 처벌하기 위해서"라고 주장했다. FCC는 "방송사의 편집 선택을 처벌하기 위해 면허 갱신 절차를 이용"하고 있으며, 이는 "달갑지 않은 편집 목소리를 향한 권력과 강압의 놀라운 과시"라고 말했다.)&lt;/p&gt;
+&lt;p&gt;ABC said the order it received “sends a clear warning to every broadcaster in America.” If that warning wasn’t clear enough, the FCC yesterday issued a public notice to “remind” all broadcasters of “their public interest obligations.” The public notice was issued on the same day as the deadline the FCC set for ABC to submit its early license renewal applications, and urged all broadcasters to “review and modify their operations to ensure compliance.”&lt;br/&gt;(ABC는 자신들이 받은 명령이 "미국의 모든 방송사에게 명확한 경고를 보낸다"고 말했다. 그 경고가 충분히 명확하지 않았다면, FCC는 어제 모든 방송사에게 "공익 의무"를 "상기시키는" 공지문을 발표했다. 이 공지문은 FCC가 ABC에 조기 면허 갱신 신청 마감일로 정한 날짜에 발표되었으며, 모든 방송사에 "준수 여부를 확인하기 위해 운영을 검토하고 수정할 것"을 촉구했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다른 방송사들도 면허 위협에 직면할 수 있다고 경고하면서, 이 공지문은 FCC가 "방송사가 공익 의무를 이행하거나 방송 면허를 가질 특권을 그 의무를 다할 누군가에게 넘겨주도록 하기 위해 법적 권한을 행사하는 것을 주저하지 않을 것"이라고 밝혔다. FCC는 "방송사가 공익을 위해 봉사하지 못했다고 판단할 때" 조기 면허 검토나 기타 제재 조치를 명령할 수 있다고 말했다. 공지문은 방송사가 "면허를 받은 지역 사회의 필요와 관심에 부응하는 프로그램을 제공할 의무"가 있다고 언급했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+ABC는 뉴욕의 WABC-TV, 필라델피아의 WPVI-TV, 노스캐롤라이나 더럼의 WTVD, 시카고의 WLS-TV, 샌프란시스코의 KGO-TV, 캘리포니아 프레즈노의 KFSN-TV, 휴스턴의 KTRK-TV, 로스앤젤레스의 KABC-TV에 대해 개별 신청서를 제출했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+ABC의 신청서에 따르면 해당 방송국은 "2026년 4월 28일 미디어국이 발행한 불법적이고 자의적이며 위헌적인 명령에 대응하여 이 면허 갱신 신청을 강제로 제출한다"고 밝혔다. "위원회는 50년 넘게 조기 갱신을 요구하지 않았습니다. 그리고 네트워크와 공동 소유된 방송국 그룹에 대해 동시에 면허 갱신 신청을 요구한 적은 이번이 처음입니다. 이 명령에는 정당한 목적이 없습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+ABC는 권리를 포기하지 않고 신청서를 제출했으며, FCC에 명령을 철회할 것을 촉구했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+ABC는 "신청서를 통해 위원회가 다른 수단으로 얻을 수 없는 정보가 밝혀질 것은 없습니다"라고 썼다. "이 명령은 조사 권한의 정당한 행사와 일치하지 않으며, 수정헌법 제1조와 명백히 양립할 수 없습니다. 더 나쁜 것은, 이 명령이 방송국 면허에 대한 공격의 문을 열어주면서, 위원회가 원하는 목표를 달성하기 위한 법적 구실을 찾고 있다는 점입니다. 관료적 절차라는 명목 아래 언론을 탄압하려는 이 시도가 성공해서는 안 됩니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+Carr는 어제 X 게시물에서 "FCC는 디즈니가 인종, 성별 또는 기타 보호 특성을 기준으로 사람들을 차별하여 연방 비차별법을 위반했다는 보도가 나온 후 1년 넘게 디즈니를 조사해 왔다"며 "디즈니는 FCC가 회사의 조사 응답이 부정직하고 결함이 있으며 부적절하다고 통보한 후에야 ABC 방송 면허를 갱신하기 위해 이 신청서를 제출했다"고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+ABC는 신청서에서 FCC의 일련의 요청에 응답하여 11,000페이지가 넘는 문서를 제출했다고 밝혔다. ABC는 조기 면허 갱신 명령이 "'불법 차별 금지'의 '가능한 위반'을 조사"하는 것이라고 주장하지만, "어떤 위반을 염두에 두고 있는지 전혀 밝히지 않았다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+ABC는 "특히 명령 발표 후 집행국이 회사가 [이] 신청서 제출 후 24시간 이내에 응답해야 하는 또 다른 정보 요청을 발행한 상황에서, 조기 갱신 절차가 동일한 조사에 '필수적'이라고 지금 선언하는 것은 신뢰할 수 없습니다"라고 말했다. "조기 갱신 절차는 조사 도구가 아니며 위원회의 조사 역량에 아무것도 추가하지 않습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+명령이 모든 방송사에 대한 위협 역할을 한다고 주장하며, ABC는 다음과 같이 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+방송사가 편집 결정을 내리기 전에 규제적 보복을 고려해야 할 때, 대중은 정부의 영향력으로부터 자유로운 저널리즘에 접근할 수 없게 됩니다. 이 명령은 그 자체로도, 그리고 다른 방송사에 대한 신호로서도 정확히 그 결과를 초래합니다. 정부의 불쾌감을 피하기 위해 스스로 검열하는 언론은 자유 언론이 아닙니다. 위원회는 그 결과의 도구가 되어서는 안 됩니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+앞서 보도한 바와 같이, 법률 전문가들은 이례적인 방송 면허 검토에 맞서는 싸움에서 법적으로 ABC에게 유리하다고 말한다. 1996년 통신법 개정에 따라 FCC는 방송 면허 갱신을 거부하는 데 있어 "거의 극복할 수 없는 부담"에 직면해 있다고 알려져 있다. ABC의 8개 TV 방송국은 2028년에서 2031년 사이에 갱신이 예정되어 있으며, FCC의 조기 갱신 명령은 이러한 만료일을 변경하지 않는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+Carr는 이전에 2025년 9월 ABC 방송국 면허를 위협하며, 지미 키멜(Jimmy Kimmel)의 쇼를 방영하는 것이 거의 시행되지 않는 뉴스 왜곡 정책을 위반할 수 있다고 주장한 바 있다. Carr는 이후 ABC의 'The View'에 대한 균등 시간 규칙 조사를 시작했지만, 토크쇼의 인터뷰 부분은 역사적으로 이 규칙에서 면제되어 왔다. 지난주, Carr의 FCC는 'The View'가 균등 시간 규칙에 대한 진정한 뉴스 면제 자격을 갖추는지에 대한 여론 수렴 절차를 시작했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+FCC의 유일한 민주당 위원인 Anna Gomez는 ABC의 신청서가 "FCC의 행동이 적나라한 정치적 보복이자 표현의 자유와 자유 언론에 대한 불법적 공격에 불과하다는 것을 드러낸다"고 썼다. Gomez는 또한 방송사에 공익 의무를 경고한 공지문을 비판했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+Gomez는 "'공익'이 이 행정부의 이익을 의미하지는 않습니다"라고 썼다. "방송사들은 이러한 최근 위협을 무시하고 등을 곧게 펴야 합니다. 반격하는 것만이 이 FCC가 권력을 남용하여 언론을 침묵시키고 독립적인 보도를 처벌하는 것을 막을 유일한 방법입니다.")&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/abc-jimmy-kimmel-1152x648-1780075115.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 29 May 2026 09:09:43 +0000</pubDate></item><item><title>House of the DragonS3 trailer revels in dragons, fire, and blood (하우스 오브 드래곤 시즌3 예고편, 용과 불, 피로 가득)</title><link>https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/dragon1-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;“The crown is a weight that crushes. You’ll do things that spell death for all involved.”&lt;br/&gt;("왕관은 짓누르는 무게야. 너는 모두를 죽음으로 이끄는 일을 저지르게 될 거야.")&lt;/p&gt;
+&lt;p&gt;Some viewers were disappointed that the second season of House of the Dragon ended not with a bang, but a whimper. But the big battle sequence that season 2 set up will open season 3 with a bang, judging by the latest trailer, which has all the dragons, fire, and blood Westeros is known for.&lt;br/&gt;(일부 시청자들은 &lt;하우스 오브 드래곤&gt; 시즌2가 화려한 피날레가 아닌 싱거운 결말로 끝난 것에 실망했다. 하지만 시즌2가 예고한 대규모 전투 장면이 시즌3의 시작을 화려하게 열 것으로 보인다. 웨스테로스의 상징인 용과 불, 피가 가득한 최신 예고편이 이를 증명한다.)&lt;/p&gt;
+&lt;p&gt;(Spoilers for first two seasons below.)&lt;br/&gt;((아래에는 시즌1, 2 스포일러가 포함되어 있습니다.))&lt;/p&gt;
+&lt;p&gt;As previously reported , the series is set nearly 200 years before the events of Game of Thrones, when dragons were still a fixture of Westeros, and chronicles the beginning of the end of House Targaryen’s reign. The primary source material is Fire and Blood , a fictional history of the Targaryen kings written by George R.R. Martin. As book readers know, those events culminated in a civil war and the extinction of the dragons—at least until Daenerys Targaryen came along.&lt;br/&gt;(앞서 보도된 바와 같이, 이 시리즈는 &lt;왕좌의 게임&gt; 사건보다 약 200년 전, 용이 여전히 웨스테로스의 주요 존재였던 시절을 배경으로 하며, 타르가르옌 가문의 통치가 끝나가는 시작을 기록한다. 주요 원작은 조지 R.R. 마틴이 쓴 타르가르옌 왕들의 가상 역사서 &lt;불과 피&gt;다. 책을 읽은 사람들이 알다시피, 그 사건들은 내전과 용의 멸종으로 절정에 달한다. 적어도 대너리스 타르가르옌이 등장하기 전까지는 말이다.)&lt;/p&gt;
+&lt;p&gt;The second season had plenty of politicking and conniving subterfuge, but we didn’t get to see the spectacularly brutal Battle of the Gullet , because HBO trimmed S2’s episode count from 10 to eight. Still, the S2 finale teed it up perfectly, as Rhaenyra (Emma D’Arcy) finally declared outright dragon war following Aemond’s (Ewan Mitchell) reckless destruction of Sharp Point. As for Aegon II (Tom Glynn-Carney), after his brother took over the throne—which, remember, Aegon usurped from the rightful named heir, Rhaenyra—he went into hiding in Braavos, intending to wait out the war.&lt;br/&gt;(시즌2는 많은 정치적 술책과 교활한 음모로 가득했지만, 우리는 장관이면서도 잔혹한 '걸렛 전투'를 볼 수 없었다. HBO가 시즌2의 에피소드 수를 10개에서 8개로 줄였기 때문이다. 그럼에도 시즌2 피날레는 이를 완벽하게 준비했다. 라에니라(에마 다시)가 애몬드(에완 미첼)의 무모한 샤프 포인트 파괴 이후 마침내 공개적으로 용 전쟁을 선포했기 때문이다. 에이곤 2세(톰 글린-카니)의 경우, 그의 동생이 왕좌를 차지한 후—기억하시겠지만, 에이곤은 정당한 상속인인 라에니라로부터 왕좌를 찬탈했다—브라보스로 숨어 들어 전쟁이 끝나길 기다리려 한다.)&lt;/p&gt;
+&lt;p&gt;Much of the main cast—those whose characters survived S2—are returning, including D’Arcy, Glynn-Carney, and Mitchell. Also returning: Olivia Cooke Alicent; Rhys Ifans as Otto Hightower; and Matt Smith as Daemon. Also returning: Steve Toussaint as Corlys; Sonoya Mizuno as Mysaria; Fabien Frankel as Criston Cole; Matthew Needham as Larys; Jefferson Hall as Jason and Tyland Lannister; Harry Collett as Jacaerys; Bethany Antonia as Baela; Phoebe Campbell as Rhaena; Phia Saban as Helaena; Kurt Egyiawan as Orwyle; Kieran Bew as Hugh Hammer; Abubakar Salim as Alyn of Hull; Clinton Liberty as Addam of Hull; Tom Bennett as Ulf White; Freddie Fox as Gwayne Hightower; and Gayle Rankin as Alys Rivers.&lt;br/&gt;(주요 출연진 대부분—시즌2에서 살아남은 캐릭터들—이 돌아온다. 여기에는 다시, 글린-카니, 미첼이 포함된다. 또한 올리비아 쿡(앨리센트), 리스 이판스(오토 하이타워), 맷 스미스(데이몬)도 돌아온다. 스티브 투생(코를리스), 소노야 미즈노(미사리아), 파비앙 프랑켈(크리스톤 콜), 매튜 니덤(래리스), 제퍼슨 홀(제이슨과 타일랜 라니스터), 해리 콜렛(제이서리스), 베서니 안토니아(바엘라), 피비 캠벨(라에나), 피아 사반(헬라에나), 커트 에기야완(오와일), 키어런 베우(허 해머), 아부바카르 살림(헐의 앨린), 클린튼 리버티(헐의 애덤), 톰 베넷(울프 화이트), 프레디 폭스(그웨인 하이타워), 게일 랜킨(앨리스 리버스)도 돌아온다.)&lt;/p&gt;
+&lt;p&gt;Joining the cast for S3 are James Norton as Ormund Hightower; Tommy Flanagan as Roderick Dustin; Dan Fogler as Torrhen Manderly; Tom Cullen as Luthor Largent; Joplin Sibtain as Jon Roxton; Barry Sloane as Adrian Redford; and Annie Shapero as Alysanne Blackwood.&lt;br/&gt;(시즌3에 합류하는 배우로는 제임스 노튼(오르먼드 하이타워), 토미 플래너건(로데릭 더스틴), 댄 포글러(토렌 맨덜리), 톰 컬렌(루서 라전트), 조플린 시베인(존 록스턴), 배리 슬론(에이드리언 레드포드), 애니 샤페로(앨리샌 블랙우드)가 있다.)&lt;/p&gt;
+&lt;p&gt;The new trailer opens mid-battle, as we see Daemon thrashing away at an opponent while a dragon lights up the war-torn landscape. “These are turbulent times,” the High Septon says, which seems to be an understatement. Alicent understands the stakes much more clearly when she tells her throne-usurping son, Aemond, “Rhaenyra is coming [to King’s Landing]. You are no longer safe here.”&lt;br/&gt;(새 예고편은 전투 중반부에 시작된다. 데이몬이 적을 맹렬히 공격하고, 용이 전쟁으로 폐허가 된 풍경을 밝히는 장면이다. "혼란스러운 시대입니다"라는 대주교의 말은 절제된 표현으로 보인다. 앨리센트가 왕좌를 찬탈한 아들 애몬드에게 "라에니라가 [킹스랜딩으로] 오고 있어. 이곳은 더 이상 안전하지 않다"고 말하면서, 그녀는 상황의 심각성을 훨씬 더 명확히 이해하고 있음을 보여준다.)&lt;/p&gt;
+&lt;p&gt;Yet even as Rhaenyra reclaims her rightful throne, backed up by lots of dragons, there is a whisper campaign underway to convince her subjects that she is “weak and unsuited to rule.” Aemond, of course, is convinced she will fail and is determined to “raise our own throne.” Rhaenyra isn’t helping her cause when she accuses her own council of betraying her and demands they bring the usurper Aegon to her. From her tone, her intentions are far from honorable.&lt;br/&gt;(하지만 많은 용의 지원을 받으며 라에니라가 정당한 왕좌를 되찾는 동안, 그녀의 신하들을 설득해 그녀가 "약하고 통치에 부적합하다"고 믿게 만드는 소문 캠페인이 진행 중이다. 물론 애몬드는 그녀가 실패할 것이라고 확신하며 "우리만의 왕좌를 세우기로" 결심한다. 라에니라는 자신의 평의회가 배신했다고 비난하고 찬탈자 에이곤을 데려오라고 요구함으로써 자신의 입장에 도움이 되지 않는 행동을 한다. 그녀의 어조에서, 그녀의 의도는 명예롭지 않다.)&lt;/p&gt;
+&lt;p&gt;The third season of House of the Dragon premieres on HBO on June 21, 2026. A fourth and final season is already in the works.&lt;br/&gt;(&lt;하우스 오브 드래곤&gt; 시즌3는 2026년 6월 21일 HBO에서 첫 방송된다. 네 번째이자 마지막 시즌도 이미 준비 중이다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/dragon1-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 29 May 2026 09:21:44 +0000</pubDate></item><item><title>Analysis of Texas measles outbreak shows just how dangerous virus is (텍사스 홍역 발병 분석, 바이러스의 위험성을 여실히 드러내다)</title><link>https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;About 1 in 5 cases were hospitalized and most of those developed complications.&lt;br/&gt;(약 5명 중 1명의 환자가 입원했으며, 대부분이 합병증을 겪었다.)&lt;/p&gt;
+&lt;p&gt;For years, anti-vaccine Health Secretary Robert F. Kennedy Jr. and his zealous followers have downplayed measles as “ just a rash ” and falsely claimed that “Measles outbreaks have been fabricated to create fear.”&lt;br/&gt;(수년간 백신 반대론자인 로버트 F. 케네디 주니어 보건복지부 장관과 그의 열성 추종자들은 홍역을 "단순한 발진"으로 폄하하며 "홍역 발병은 두려움을 조장하기 위해 조작되었다"는 거짓 주장을 해왔다.)&lt;/p&gt;
+&lt;p&gt;In 2021, when Kennedy wrote those words, the US recorded just 49 measles cases. Yearly case counts have generally been low since 2000 , when the US declared measles eliminated thanks to a decades-long vaccination campaign. But with the rise of Kennedy and his ilk in the past few decades, that public health triumph is being undone. Vaccination rates have slipped, and large, multistate outbreaks of vaccine-preventable diseases have inevitably come roaring back. Now it’s becoming painfully clear once again how wrong Kennedy and his cohorts are about infectious diseases and vaccines.&lt;br/&gt;(케네디가 이러한 글을 썼던 2021년, 미국에서는 단 49건의 홍역 사례만 기록되었다. 수년간의 백신 접종 캠페인 덕분에 미국이 홍역 퇴치를 선언한 2000년 이후 연간 사례 수는 일반적으로 낮은 수준을 유지해왔다. 그러나 지난 수십 년간 케네디와 그의 무리가 부상하면서 이러한 공중보건의 성과가 무너지고 있다. 예방 접종률은 하락했고, 백신으로 예방 가능한 질병의 대규모 다주 발병이 필연적으로 다시 급증하고 있다. 이제 케네디와 그의 동료들이 전염병과 백신에 대해 얼마나 잘못 알고 있는지가 다시 한 번 고통스럽게 명확해지고 있다.)&lt;/p&gt;
+&lt;p&gt;In a study published yesterday in the Morbidity and Mortality Weekly Report , state and federal researchers provided a detailed postmortem of last year’s massive multi-state measles outbreak that mushroomed out of West Texas. The data reveals a disease that’s far from just a rash, with about 20 percent of people—mostly younger children—being hospitalized.&lt;br/&gt;(어제 발표된 연구에서 주 및 연방 연구원들은 작년 텍사스 서부에서 급증한 대규모 다주 홍역 발병에 대한 상세한 사후 분석을 제공했다. 데이터는 단순한 발진과는 거리가 먼 이 질병을 드러내며, 약 20%의 사람들(대부분 어린 아동)이 입원했다.)&lt;/p&gt;
+&lt;p&gt;“The outcomes experienced by patients hospitalized during this outbreak underscore the seriousness of measles infection and highlight that measles can cause life-threatening complications affecting multiple organ systems and place significant stress on patients and health care systems,” the authors conclude.&lt;br/&gt;(저자들은 "이번 발병 기간 동안 입원한 환자들이 겪은 결과는 홍역 감염의 심각성을 강조하며, 홍역이 여러 장기 시스템에 영향을 미치는 생명을 위협하는 합병증을 유발하고 환자와 의료 시스템에 상당한 부담을 줄 수 있음을 보여준다"고 결론지었다.)&lt;/p&gt;
+&lt;p&gt;By the end of the outbreak, there were 762 outbreak-related measles cases in Texas alone. The new analysis focused on 325 cases in the outbreak’s first three months (January 20 to March 18, 2025). Of those, at least 60 were hospitalized (18.5 percent). The researchers collected medical and case information from 54 of the hospitalized patients. All of them had no record of being vaccinated.&lt;br/&gt;(발병이 종료될 때까지 텍사스 주에서만 홍역 발병과 관련된 사례가 762건에 달했다. 새로운 분석은 발병 초기 3개월(2025년 1월 20일부터 3월 18일까지) 동안의 325건의 사례에 초점을 맞췄다. 이 중 최소 60명(18.5%)이 입원했다. 연구자들은 입원 환자 54명으로부터 의료 기록 및 사례 정보를 수집했다. 이들 모두 예방 접종 기록이 없었다.)&lt;/p&gt;
+&lt;p&gt;Thirty of the 54 (56 percent) were young children between the ages of newborn and 4 years old. Nineteen (35 percent) were children ages 5 to 17. The five remaining cases were in adults, four of whom were pregnant women in their third trimester.&lt;br/&gt;(54명 중 30명(56%)은 신생아에서 4세 사이의 어린 아동이었다. 19명(35%)은 5세에서 17세 사이의 어린이였다. 나머지 5건은 성인에서 발생했으며, 그중 4명은 임신 3기의 임산부였다.)&lt;/p&gt;
+&lt;p&gt;Only six of the 54 hospitalized patients had an underlying medical condition that may have put them at higher risk. None of the 54 hospitalized patients were immunocompromised.&lt;br/&gt;(입원 환자 54명 중 고위험군일 수 있는 기저 질환을 가진 사람은 단 6명에 불과했다. 입원 환자 54명 중 면역 저하자는 없었다.)&lt;/p&gt;
+&lt;p&gt;Of the 54 hospitalized, 47 (87 percent) developed a complication of measles, including 39 (72 percent) who developed pneumonia, 25 (46 percent) had dehydration, and 21 (39 percent) developed diarrhea. Seventeen (31.5 percent) patients developed co-infections with other pathogens, a known risk with measles, and 28 (52 percent) were treated with antibiotics.&lt;br/&gt;(입원 환자 54명 중 47명(87%)이 홍역 합병증을 겪었으며, 여기에는 폐렴이 발생한 39명(72%), 탈수 증상을 보인 25명(46%), 설사가 발생한 21명(39%)이 포함된다. 17명(31.5%)의 환자는 홍역의 알려진 위험인 다른 병원체와의 동시 감염이 발생했으며, 28명(52%)은 항생제로 치료받았다.)&lt;/p&gt;
+&lt;p&gt;Thirty-eight (70.4 percent) patients required supplemental oxygen to breathe. Thirty-seven (68.5 percent) experienced hypoxia, which is insufficient oxygen levels to support the body. Four of the hospitalized patients, all children, required treatment in an intensive care unit. Three had dehydration. Two required intubation and mechanical ventilation. One child died.&lt;br/&gt;(38명(70.4%)의 환자는 호흡을 위해 추가 산소 공급이 필요했다. 37명(68.5%)은 신체를 유지하기에 충분하지 않은 산소 수준인 저산소증을 경험했다. 입원 환자 중 4명(모두 어린이)은 중환자실 치료가 필요했다. 3명은 탈수 증상이 있었다. 2명은 삽관 및 인공호흡기가 필요했다. 한 명의 어린이가 사망했다.)&lt;/p&gt;
+&lt;p&gt;(There was a second child death in the Texas outbreak, but it occurred after the timeframe of the study and was not included.)&lt;br/&gt;((텍사스 발병에서 두 번째 어린이 사망도 있었지만, 이는 연구 기간 이후에 발생하여 포함되지 않았다.))&lt;/p&gt;
+&lt;p&gt;Of the five adults, four were pregnant women. Two of them gave birth during their hospitalizations and their two infants were diagnosed with active measles cases. One infant went on to experience symptoms suggestive of acute measles meningoencephalitis and was hospitalized weeks later, outside the timeframe of the study.&lt;br/&gt;(성인 5명 중 4명은 임산부였다. 이 중 2명은 입원 중 출산했으며, 그들의 두 영아는 활동성 홍역으로 진단되었다. 한 영아는 급성 홍역 수막뇌염을 시사하는 증상을 경험했으며, 연구 기간 이후 몇 주 후에 입원했다.)&lt;/p&gt;
+&lt;p&gt;With all this, the authors concluded that “although many cases of measles are mild, approximately one in five persons with confirmed measles in this outbreak required hospitalization for pneumonia, dehydration, or other complications, including rare cases of serious illness or death. Measles vaccination remains a critical tool in both routine and outbreak settings for the prevention of measles infections, severe disease, and hospitalizations.”&lt;br/&gt;(이 모든 사실을 바탕으로 저자들은 "많은 홍역 사례가 경미하지만, 이번 발병에서 확인된 홍역 환자 약 5명 중 1명은 폐렴, 탈수 또는 기타 합병증으로 입원이 필요했으며, 드물게 중증 질환이나 사망도 발생했다. 홍역 예방 접종은 일상적인 상황과 발병 상황 모두에서 홍역 감염, 중증 질환 및 입원을 예방하는 중요한 도구로 남아 있다"고 결론지었다.)&lt;/p&gt;
+&lt;p&gt;In 2025, the US recorded 2,288 measles cases overall, the highest total since 1991. Not yet six months into 2026, and the country is already close to reaching that number; as of May 28, the US has reported 1,983 confirmed measles cases across 40 jurisdictions. There have been 30 new outbreaks since the start of the year. Overall, the country is on track to lose its measles elimination status.&lt;br/&gt;(2025년, 미국은 총 2,288건의 홍역 사례를 기록하여 1991년 이후 최고치를 기록했다. 2026년이 6개월도 채 지나지 않았지만, 미국은 이미 그 수치에 근접하고 있다. 5월 28일 기준으로 미국은 40개 관할 구역에서 1,983건의 확인된 홍역 사례를 보고했다. 올해 초 이후 30건의 새로운 발병이 있었다. 전반적으로 미국은 홍역 퇴치 상태를 상실할 위기에 처해 있다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 29 May 2026 09:35:38 +0000</pubDate></item><item><title>Botnet of more than 17 million devices dismantled (1700만 개 이상의 기기로 구성된 봇넷 해체)</title><link>https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/botnet6.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The botnet was reportedly tied to a Russia-based residential proxy network.&lt;br/&gt;(해당 봇넷은 러시아 기반의 가정용 프록시 네트워크와 연계된 것으로 알려졌습니다.)&lt;/p&gt;
+&lt;p&gt;Authorities in the Netherlands said they dismantled a botnet that comprised more than 17 million devices and were managed by 200 servers in a joint operation by the police and the National Cyber Security Center.&lt;br/&gt;(네덜란드 당국은 경찰과 국가사이버보안센터의 합동 작전을 통해 1700만 개 이상의 기기로 구성되고 200개 서버로 관리되던 봇넷을 해체했다고 밝혔습니다.)&lt;/p&gt;
+&lt;p&gt;The action, announced Thursday , came about after a security researcher reported the sprawling network to authorities. The host infrastructure was located in the Netherlands.&lt;br/&gt;(목요일에 발표된 이번 조치는 보안 연구원이 당국에 방대한 네트워크를 신고한 후 이루어졌습니다. 호스트 인프라는 네덜란드에 위치해 있었습니다.)&lt;/p&gt;
+&lt;p&gt;“The police then seized several botnet servers from a hosting provider for investigation,” the NCSC said. “The botnet was taken offline by the provider because it was used for criminal purposes.”&lt;br/&gt;(NCSC는 "경찰이 수사를 위해 호스팅 제공업체로부터 여러 봇넷 서버를 압수했다"며 "해당 봇넷은 범죄 목적으로 사용되었기 때문에 제공업체에 의해 오프라인으로 전환되었다"고 밝혔습니다.)&lt;/p&gt;
+&lt;p&gt;According to a report Thursday by the NL Times, the botnet was linked to ASOCKS, a Russia-based company that provides residential proxy services. These services cater to people and organizations who want to obscure their locations or identities by proxying their Internet traffic through third-party devices. Proxy services are often used for illicit or unethical purposes such as performing DDoS attacks, running botnet command-and-control servers, operating phishing operations, and scraping website content.&lt;br/&gt;(NL Times의 목요일 보도에 따르면, 이 봇넷은 러시아 기반 회사인 ASOCKS와 연결되어 있으며, 이 회사는 가정용 프록시 서비스를 제공합니다. 이러한 서비스는 타사 기기를 통해 인터넷 트래픽을 프록시하여 위치나 신원을 숨기려는 개인이나 조직을 대상으로 합니다. 프록시 서비스는 종종 DDoS 공격 수행, 봇넷 명령 및 제어 서버 운영, 피싱 작업 운영, 웹사이트 콘텐츠 스크래핑 등 불법적이거나 비윤리적인 목적으로 사용됩니다.)&lt;/p&gt;
+&lt;p&gt;Ars was unable to independently confirm the NL Times report, but the claim checks out. Thursday’s NCSC post linked to a separate post that the nonprofit organization published a day earlier. That post, in turn, was updated to add a link to Thursday’s post. Wednesday’s post, headlined “Residential proxies and their major impact on digital security in the Netherlands,” warned: “Residential proxies are used to maintain anonymity and circumvent geographical restrictions. In this way, a Dutch organization can be attacked with Dutch proxies that have similarities with ‘regular’ traffic, making cybercrime mitigation more difficult.”&lt;br/&gt;(Ars는 NL Times의 보도를 독립적으로 확인할 수 없었지만, 주장은 일치합니다. 목요일 NCSC 게시물은 비영리 단체가 하루 전 게시한 별도 게시물로 연결됩니다. 해당 게시물은 다시 목요일 게시물로의 링크를 추가하도록 업데이트되었습니다. "네덜란드의 가정용 프록시와 디지털 보안에 미치는 주요 영향"이라는 제목의 수요일 게시물은 "가정용 프록시는 익명성을 유지하고 지리적 제한을 우회하는 데 사용됩니다. 이렇게 하면 네덜란드 조직이 '일반' 트래픽과 유사한 네덜란드 프록시를 통해 공격받을 수 있어 사이버 범죄 완화가 더 어려워진다"고 경고했습니다.)&lt;/p&gt;
+&lt;p&gt;In 2024, security firm Human said its researchers found evidence that a botnet named Proxylib was tied to ASOCKS . The evidence included (1) Proxylib-infected IP addresses and port numbers that were returned by an Asocks proxy-list endpoint and (2) requests made to asocks[.]com exiting through an infected test device. Twenty-eight apps available in Google Play had enrolled as many as 190,000 devices into the Russia-headquartered proxy network without user approval.&lt;br/&gt;(2024년, 보안 회사 Human은 연구원들이 Proxylib이라는 봇넷이 ASOCKS와 연결되어 있다는 증거를 발견했다고 밝혔습니다. 증거에는 (1) Asocks 프록시 목록 엔드포인트에서 반환된 Proxylib에 감염된 IP 주소 및 포트 번호와 (2) 감염된 테스트 기기를 통해 나가는 asocks[.]com에 대한 요청이 포함되었습니다. Google Play에서 제공되는 28개의 앱이 사용자 승인 없이 최대 190,000개의 기기를 러시아 본부의 프록시 네트워크에 등록했습니다.)&lt;/p&gt;
+&lt;p&gt;Questions emailed to ASOCKS received no response.&lt;br/&gt;(ASOCKS에 이메일로 문의했지만 응답을 받지 못했습니다.)&lt;/p&gt;
+&lt;p&gt;It’s unclear how the 17 million devices controlled by the botnet taken down by the Dutch police came to be that way. In some cases, such devices are infected through exploited software vulnerabilities or through the installation of malicious apps. In some cases, apps disclose the behavior, often in small or obscured print. Other times, apps disclose the proxy arrangement outright.&lt;br/&gt;(네덜란드 경찰이 해체한 봇넷이 제어한 1700만 개의 기기가 어떻게 그렇게 되었는지는 명확하지 않습니다. 어떤 경우에는 소프트웨어 취약점 악용이나 악성 앱 설치를 통해 기기가 감염됩니다. 어떤 경우에는 앱이 작거나 숨겨진 글씨로 행동을 공개하기도 합니다. 다른 경우에는 앱이 프록시 설정을 직접 공개하기도 합니다.)&lt;/p&gt;
+&lt;p&gt;People who want to prevent their devices from being swept into botnets should install security updates in a timely manner and resist the urge to continue using software or devices that no longer receive them. People should carefully research apps before installing them and then only when they provide a true benefit. Apps should be uninstalled when they’re no longer needed.&lt;br/&gt;(자신의 기기가 봇넷에 포함되지 않도록 하려는 사람들은 보안 업데이트를 신속히 설치하고, 더 이상 업데이트를 받지 않는 소프트웨어나 기기를 계속 사용하려는 유혹을 저항해야 합니다. 앱을 설치하기 전에 신중히 조사하고, 진정한 이점을 제공할 때만 설치해야 합니다. 더 이상 필요하지 않은 앱은 제거해야 합니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2020/04/botnet6.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 29 May 2026 09:46:33 +0000</pubDate></item></channel></rss>
