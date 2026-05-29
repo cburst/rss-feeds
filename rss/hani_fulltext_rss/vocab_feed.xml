@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 19:44:03 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 23:55:10 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>학습자 – learner</title><link>urn:urn:vocab:학습자</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>주소지 – address</title><link>urn:urn:vocab:주소지</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1527377667-83c6c76f963f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZGRyZXNzfGVufDB8fHx8MTc4MDA2NjUwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주소지 (address)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;유권자들은 주소지와 상관없이 모든 사전투표소에서 투표할 수 있다&lt;br/&gt;&lt;em&gt;Voters can vote at any early voting station regardless of their address.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;6월3일 본투표 때는 주민등록 주소지 관할투표소에서만 투표할 수 있다&lt;br/&gt;&lt;em&gt;On the main voting day, June 3, voters can only vote at the polling station under the jurisdiction of their registered address.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;유권자들은 주소지와 상관없이 모든 사전투표소에서 투표할 수 있다&lt;br/&gt;&lt;em&gt;Voters can vote at any early voting station regardless of their address.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주소지를 알려 주세요.&lt;br/&gt;&lt;em&gt;Please tell me your address.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;제 주소지는 서울입니다.&lt;br/&gt;&lt;em&gt;My address is Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1527377667-83c6c76f963f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZGRyZXNzfGVufDB8fHx8MTc4MDA2NjUwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주소지 (address)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;유권자들은 주소지와 상관없이 모든 사전투표소에서 투표할 수 있다&lt;br/&gt;&lt;em&gt;Voters can vote at any early voting station regardless of their address.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;6월3일 본투표 때는 주민등록 주소지 관할투표소에서만 투표할 수 있다&lt;br/&gt;&lt;em&gt;On the main voting day, June 3, voters can only vote at the polling station under the jurisdiction of their registered address.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;유권자들은 주소지와 상관없이 모든 사전투표소에서 투표할 수 있다&lt;br/&gt;&lt;em&gt;Voters can vote at any early voting station regardless of their address.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주소지를 알려 주세요.&lt;br/&gt;&lt;em&gt;Please tell me your address.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;제 주소지는 서울입니다.&lt;br/&gt;&lt;em&gt;My address is Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 29 May 2026 23:55:10 +0900</pubDate><guid isPermaLink="false">vocab-9a65646ebe6a34e9e5605d15cd60471996cac868</guid><enclosure url="https://images.unsplash.com/photo-1527377667-83c6c76f963f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZGRyZXNzfGVufDB8fHx8MTc4MDA2NjUwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="419180" /><ns2:content url="https://images.unsplash.com/photo-1527377667-83c6c76f963f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZGRyZXNzfGVufDB8fHx8MTc4MDA2NjUwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1527377667-83c6c76f963f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhZGRyZXNzfGVufDB8fHx8MTc4MDA2NjUwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>주소지</category></item><item><title>위치는 – location is</title><link>urn:urn:vocab:위치는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1548345680-f5475ea5df84?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb2NhdGlvbiUyMGlzfGVufDB8fHx8MTc4MDA1ODk0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="위치는 (location is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;무료 이용이 가능한 키즈카페 위치는 ‘우리동네키움포털’에서 확인할 수 있다&lt;br/&gt;&lt;em&gt;The locations of free kids' cafes can be found on the 'Our Neighborhood Kids Portal'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사전투표소 위치는 중앙선관위 누리집이나 포털 사이트 등에서 확인하면 된다&lt;br/&gt;&lt;em&gt;The locations of early voting stations can be checked on the National Election Commission website or portal sites.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사전투표소 위치는 중앙선관위 누리집이나 포털 사이트 등에서 확인하면 된다&lt;br/&gt;&lt;em&gt;The locations of early voting stations can be checked on the National Election Commission website or portal sites.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;위치는 서울입니다.&lt;br/&gt;&lt;em&gt;The location is Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;위치는 어디입니까?&lt;br/&gt;&lt;em&gt;Where is the location?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1548345680-f5475ea5df84?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb2NhdGlvbiUyMGlzfGVufDB8fHx8MTc4MDA1ODk0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="위치는 (location is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;무료 이용이 가능한 키즈카페 위치는 ‘우리동네키움포털’에서 확인할 수 있다&lt;br/&gt;&lt;em&gt;The locations of free kids' cafes can be found on the 'Our Neighborhood Kids Portal'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사전투표소 위치는 중앙선관위 누리집이나 포털 사이트 등에서 확인하면 된다&lt;br/&gt;&lt;em&gt;The locations of early voting stations can be checked on the National Election Commission website or portal sites.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사전투표소 위치는 중앙선관위 누리집이나 포털 사이트 등에서 확인하면 된다&lt;br/&gt;&lt;em&gt;The locations of early voting stations can be checked on the National Election Commission website or portal sites.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;위치는 서울입니다.&lt;br/&gt;&lt;em&gt;The location is Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;위치는 어디입니까?&lt;br/&gt;&lt;em&gt;Where is the location?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 29 May 2026 21:49:07 +0900</pubDate><guid isPermaLink="false">vocab-e8f94571d81ffed7ef6c0b226bf8592ad6661424</guid><enclosure url="https://images.unsplash.com/photo-1548345680-f5475ea5df84?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb2NhdGlvbiUyMGlzfGVufDB8fHx8MTc4MDA1ODk0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="91163" /><ns2:content url="https://images.unsplash.com/photo-1548345680-f5475ea5df84?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb2NhdGlvbiUyMGlzfGVufDB8fHx8MTc4MDA1ODk0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1548345680-f5475ea5df84?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsb2NhdGlvbiUyMGlzfGVufDB8fHx8MTc4MDA1ODk0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>위치는</category></item><item><title>학습자 – learner</title><link>urn:urn:vocab:학습자</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1546410531-bb4caa6b424d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsZWFybmVyfGVufDB8fHx8MTc4MDA1MTQ0MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학습자 (learner)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;특히 자기 계발과 제2의 진로 설계를 원하는 성인 학습자들의 관심이 높다&lt;br/&gt;&lt;em&gt;Interest is particularly high among adult learners who want self-development and second career design.&lt;/em&gt;&lt;/p&gt;

@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 19:44:08 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 23:55:15 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>투표했다 – voted</title><link>urn:urn:vocab:투표했다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>자원봉사자 – volunteer</title><link>urn:urn:vocab:자원봉사자</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b2x1bnRlZXJ8ZW58MHx8fHwxNzgwMDY2NTEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자원봉사자 (volunteer)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(부산시선거관리위원회가 부산 북갑 국회의원 보궐선거에 출마한 무소속 한동훈 후보의 자원봉사자 쉼터 의혹과 관련해 경찰에 수사를 의뢰한 것으로 29일 나타났다&lt;br/&gt;&lt;em&gt;It was revealed on the 29th that the Busan Metropolitan City Election Commission requested a police investigation into suspicions regarding the volunteer shelter of independent candidate Han Dong-hoon, who is running in the by-election for the National Assembly member in Busan's Buk-gu Gap district.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이보다 앞선 지난 24일 선관위는 부산 북구 덕천동의 자원봉사자 쉼터에 대한 현장 조사에 나선 바 있다&lt;br/&gt;&lt;em&gt;Earlier, on the 24th, the Election Commission conducted an on-site inspection of the volunteer shelter in Deokcheon-dong, Buk-gu, Busan.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;향후 경찰에서는 자원봉사자 쉼터가 실질적인 선거운동 지원 역할에 나선 것인지, 아니면 후보와는 무관하게 자원봉사자들이 스스로 만든 휴식 공간인지 여부를 수사할 전망이다&lt;br/&gt;&lt;em&gt;In the future, the police are expected to investigate whether the volunteer shelter actually served as a support role for election campaigning or whether it was a rest space created by volunteers themselves, unrelated to the candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 자원봉사자입니다.&lt;br/&gt;&lt;em&gt;I am a volunteer.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자원봉사자가 많습니다.&lt;br/&gt;&lt;em&gt;There are many volunteers.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b2x1bnRlZXJ8ZW58MHx8fHwxNzgwMDY2NTEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자원봉사자 (volunteer)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(부산시선거관리위원회가 부산 북갑 국회의원 보궐선거에 출마한 무소속 한동훈 후보의 자원봉사자 쉼터 의혹과 관련해 경찰에 수사를 의뢰한 것으로 29일 나타났다&lt;br/&gt;&lt;em&gt;It was revealed on the 29th that the Busan Metropolitan City Election Commission requested a police investigation into suspicions regarding the volunteer shelter of independent candidate Han Dong-hoon, who is running in the by-election for the National Assembly member in Busan's Buk-gu Gap district.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이보다 앞선 지난 24일 선관위는 부산 북구 덕천동의 자원봉사자 쉼터에 대한 현장 조사에 나선 바 있다&lt;br/&gt;&lt;em&gt;Earlier, on the 24th, the Election Commission conducted an on-site inspection of the volunteer shelter in Deokcheon-dong, Buk-gu, Busan.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;향후 경찰에서는 자원봉사자 쉼터가 실질적인 선거운동 지원 역할에 나선 것인지, 아니면 후보와는 무관하게 자원봉사자들이 스스로 만든 휴식 공간인지 여부를 수사할 전망이다&lt;br/&gt;&lt;em&gt;In the future, the police are expected to investigate whether the volunteer shelter actually served as a support role for election campaigning or whether it was a rest space created by volunteers themselves, unrelated to the candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 자원봉사자입니다.&lt;br/&gt;&lt;em&gt;I am a volunteer.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자원봉사자가 많습니다.&lt;br/&gt;&lt;em&gt;There are many volunteers.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 29 May 2026 23:55:15 +0900</pubDate><guid isPermaLink="false">vocab-cf1da7df631a075c4fa148e0fe65034adda36e19</guid><enclosure url="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b2x1bnRlZXJ8ZW58MHx8fHwxNzgwMDY2NTEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="122647" /><ns2:content url="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b2x1bnRlZXJ8ZW58MHx8fHwxNzgwMDY2NTEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b2x1bnRlZXJ8ZW58MHx8fHwxNzgwMDY2NTEzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>자원봉사자</category></item><item><title>투표용지 – ballot paper</title><link>urn:urn:vocab:투표용지</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712145176570-6cb1d98a126a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlcnxlbnwwfHx8fDE3ODAwNTg5NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표용지 (ballot paper)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;People Power Party: "Should Have Been Invalidated" (李대통령, 투표용지 노출 논란&lt;br/&gt;&lt;em&gt;People Power Party: "Should Have Been Invalidated" (President Lee, ballot exposure controversy)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;People Power Party: "Should Have Been Invalidated" (李대통령, 투표용지 노출 논란&lt;br/&gt;&lt;em&gt;People Power Party: "Should Have Been Invalidated" (President Lee, ballot exposure controversy)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령이 지방선거 사전 투표 첫날인 29일 투표를 하던 중 기표소 밖으로 나와 투표용지 기표 상태를 선관위 관계자에게 확인하면서 논란이 불거졌다&lt;br/&gt;&lt;em&gt;Controversy erupted when President Lee Jae-myung, on the first day of early voting for local elections on the 29th, came out of the voting booth and showed the marked ballot to election officials.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표용지에 이름을 쓰세요.&lt;br/&gt;&lt;em&gt;Write your name on the ballot.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 투표용지는 중요합니다.&lt;br/&gt;&lt;em&gt;This ballot is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712145176570-6cb1d98a126a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlcnxlbnwwfHx8fDE3ODAwNTg5NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표용지 (ballot paper)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;People Power Party: "Should Have Been Invalidated" (李대통령, 투표용지 노출 논란&lt;br/&gt;&lt;em&gt;People Power Party: "Should Have Been Invalidated" (President Lee, ballot exposure controversy)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;People Power Party: "Should Have Been Invalidated" (李대통령, 투표용지 노출 논란&lt;br/&gt;&lt;em&gt;People Power Party: "Should Have Been Invalidated" (President Lee, ballot exposure controversy)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령이 지방선거 사전 투표 첫날인 29일 투표를 하던 중 기표소 밖으로 나와 투표용지 기표 상태를 선관위 관계자에게 확인하면서 논란이 불거졌다&lt;br/&gt;&lt;em&gt;Controversy erupted when President Lee Jae-myung, on the first day of early voting for local elections on the 29th, came out of the voting booth and showed the marked ballot to election officials.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표용지에 이름을 쓰세요.&lt;br/&gt;&lt;em&gt;Write your name on the ballot.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 투표용지는 중요합니다.&lt;br/&gt;&lt;em&gt;This ballot is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 29 May 2026 21:49:11 +0900</pubDate><guid isPermaLink="false">vocab-11d2ced2db0734d8428f28fba7f248fc5b318ee0</guid><enclosure url="https://images.unsplash.com/photo-1712145176570-6cb1d98a126a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlcnxlbnwwfHx8fDE3ODAwNTg5NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="109446" /><ns2:content url="https://images.unsplash.com/photo-1712145176570-6cb1d98a126a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlcnxlbnwwfHx8fDE3ODAwNTg5NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1712145176570-6cb1d98a126a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlcnxlbnwwfHx8fDE3ODAwNTg5NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>투표용지</category></item><item><title>투표했다 – voted</title><link>urn:urn:vocab:투표했다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlZHxlbnwwfHx8fDE3ODAwNTE0NDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표했다 (voted)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(국민의힘 오세훈 서울시장 후보는 6·3 지방선거 사전투표 첫날인 29일 서울 용산구 한남동 주민센터에 마련된 사전투표소에서 투표했다&lt;br/&gt;&lt;em&gt;People Power Party's Seoul mayoral candidate Oh Se-hoon voted at an early voting station set up at Hannam-dong Community Center in Yongsan-gu, Seoul on the 29th, the first day of early voting for the June 3 local elections.&lt;/em&gt;&lt;/p&gt;
