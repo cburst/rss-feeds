@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 13:31:50 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 17:39:27 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>투표소에서 – at the polling station</title><link>urn:urn:vocab:투표소에서</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사전투표소 – early voting station</title><link>urn:urn:vocab:사전투표소</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1597700331582-aab3614b3c0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlYXJseSUyMHZvdGluZyUyMHN0YXRpb258ZW58MHx8fHwxNzgwMDQzOTY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사전투표소 (early voting station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이재용 삼성전자 회장이 29일 서울 용산구 한남동 주민센터에 마련된 제9회 전국동시지방선거 사전투표소에서 투표하고 있다&lt;br/&gt;&lt;em&gt;Lee Jae-yong, chairman of Samsung Electronics, is voting at an early voting station for the 9th nationwide simultaneous local elections set up at the Hannam-dong community center in Yongsan-gu, Seoul on the 29th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 회장은 이날 오전 한남동 주민센터에 마련된 사전투표소를 찾았다&lt;br/&gt;&lt;em&gt;The chairman visited the early voting station at the Hannam-dong community center this morning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(제9회 전국동시지방선거 및 14곳의 국회의원 재·보궐선거의 사전투표는 이날부터 30일까지 이틀 동안 전국 3571개 사전투표소에서 실시되며, 투표 시간은 아침 6시부터 오후 6시까지다&lt;br/&gt;&lt;em&gt;Early voting for the 9th nationwide simultaneous local elections and by-elections for 14 National Assembly seats will be held for two days from today to the 30th at 3,571 early voting stations nationwide, with voting hours from 6 a.m. to 6 p.m.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사전투표소가 어디에 있나요?&lt;br/&gt;&lt;em&gt;Where is the early voting station?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 사전투표소에서 투표했어요.&lt;br/&gt;&lt;em&gt;I voted at the early voting station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1597700331582-aab3614b3c0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlYXJseSUyMHZvdGluZyUyMHN0YXRpb258ZW58MHx8fHwxNzgwMDQzOTY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사전투표소 (early voting station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이재용 삼성전자 회장이 29일 서울 용산구 한남동 주민센터에 마련된 제9회 전국동시지방선거 사전투표소에서 투표하고 있다&lt;br/&gt;&lt;em&gt;Lee Jae-yong, chairman of Samsung Electronics, is voting at an early voting station for the 9th nationwide simultaneous local elections set up at the Hannam-dong community center in Yongsan-gu, Seoul on the 29th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 회장은 이날 오전 한남동 주민센터에 마련된 사전투표소를 찾았다&lt;br/&gt;&lt;em&gt;The chairman visited the early voting station at the Hannam-dong community center this morning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(제9회 전국동시지방선거 및 14곳의 국회의원 재·보궐선거의 사전투표는 이날부터 30일까지 이틀 동안 전국 3571개 사전투표소에서 실시되며, 투표 시간은 아침 6시부터 오후 6시까지다&lt;br/&gt;&lt;em&gt;Early voting for the 9th nationwide simultaneous local elections and by-elections for 14 National Assembly seats will be held for two days from today to the 30th at 3,571 early voting stations nationwide, with voting hours from 6 a.m. to 6 p.m.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사전투표소가 어디에 있나요?&lt;br/&gt;&lt;em&gt;Where is the early voting station?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 사전투표소에서 투표했어요.&lt;br/&gt;&lt;em&gt;I voted at the early voting station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 29 May 2026 17:39:27 +0900</pubDate><guid isPermaLink="false">vocab-dd8a7aee608ae1592c3c92e54ef1c394343be44c</guid><enclosure url="https://images.unsplash.com/photo-1597700331582-aab3614b3c0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlYXJseSUyMHZvdGluZyUyMHN0YXRpb258ZW58MHx8fHwxNzgwMDQzOTY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="138989" /><ns2:content url="https://images.unsplash.com/photo-1597700331582-aab3614b3c0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlYXJseSUyMHZvdGluZyUyMHN0YXRpb258ZW58MHx8fHwxNzgwMDQzOTY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1597700331582-aab3614b3c0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlYXJseSUyMHZvdGluZyUyMHN0YXRpb258ZW58MHx8fHwxNzgwMDQzOTY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사전투표소</category></item><item><title>투표하고 – vote and</title><link>urn:urn:vocab:투표하고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlJTIwYW5kfGVufDB8fHx8MTc4MDAzNjUyMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표하고 (vote and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이재용 삼성전자 회장이 29일 서울 용산구 한남동 주민센터에 마련된 제9회 전국동시지방선거 사전투표소에서 투표하고 있다&lt;br/&gt;&lt;em&gt;Samsung Electronics Chairman Lee Jae-yong is voting at an early voting station for the 9th nationwide local elections set up at the Hannam-dong Community Center in Yongsan-gu, Seoul on the 29th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;6·3 지방선거 사전투표 첫날인 29일 오전 광주 북구 전남대학교 컨벤션홀에 마련된 사전투표소에서 한 시민이 투표하고 있다&lt;br/&gt;&lt;em&gt;On the first day of early voting for the June 3 local elections, a citizen is voting at an early voting station set up at the Convention Hall of Chonnam National University in Buk-gu, Gwangju on the morning of the 29th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;정원오 더불어민주당 서울시장 후보와 배우자 문혜정씨가 제9회 전국동시지방선거 사전투표 첫 날인 29일 오전 서울 중구 소공동행정복합청사에 마련된 사전투표소에서 투표하고 있다&lt;br/&gt;&lt;em&gt;Jeong Won-oh, the Democratic Party candidate for Seoul mayor, and his spouse Moon Hye-jeong are voting at an early voting station set up at the Sogong-dong Administrative Complex in Jung-gu, Seoul on the morning of the 29th, the first day of early voting for the 9th nationwide local elections.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 투표하고 집에 갔어요.&lt;br/&gt;&lt;em&gt;I voted and went home.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내일 투표하고 친구를 만나요.&lt;br/&gt;&lt;em&gt;I will vote and meet a friend tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlJTIwYW5kfGVufDB8fHx8MTc4MDAzNjUyMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표하고 (vote and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이재용 삼성전자 회장이 29일 서울 용산구 한남동 주민센터에 마련된 제9회 전국동시지방선거 사전투표소에서 투표하고 있다&lt;br/&gt;&lt;em&gt;Samsung Electronics Chairman Lee Jae-yong is voting at an early voting station for the 9th nationwide local elections set up at the Hannam-dong Community Center in Yongsan-gu, Seoul on the 29th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;6·3 지방선거 사전투표 첫날인 29일 오전 광주 북구 전남대학교 컨벤션홀에 마련된 사전투표소에서 한 시민이 투표하고 있다&lt;br/&gt;&lt;em&gt;On the first day of early voting for the June 3 local elections, a citizen is voting at an early voting station set up at the Convention Hall of Chonnam National University in Buk-gu, Gwangju on the morning of the 29th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;정원오 더불어민주당 서울시장 후보와 배우자 문혜정씨가 제9회 전국동시지방선거 사전투표 첫 날인 29일 오전 서울 중구 소공동행정복합청사에 마련된 사전투표소에서 투표하고 있다&lt;br/&gt;&lt;em&gt;Jeong Won-oh, the Democratic Party candidate for Seoul mayor, and his spouse Moon Hye-jeong are voting at an early voting station set up at the Sogong-dong Administrative Complex in Jung-gu, Seoul on the morning of the 29th, the first day of early voting for the 9th nationwide local elections.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 투표하고 집에 갔어요.&lt;br/&gt;&lt;em&gt;I voted and went home.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내일 투표하고 친구를 만나요.&lt;br/&gt;&lt;em&gt;I will vote and meet a friend tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 29 May 2026 15:35:26 +0900</pubDate><guid isPermaLink="false">vocab-66d08549b7c4a1b0f0b2b791049d683b1bdc20b3</guid><enclosure url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlJTIwYW5kfGVufDB8fHx8MTc4MDAzNjUyMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="23486" /><ns2:content url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlJTIwYW5kfGVufDB8fHx8MTc4MDAzNjUyMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlJTIwYW5kfGVufDB8fHx8MTc4MDAzNjUyMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>투표하고</category></item><item><title>투표소에서 – at the polling station</title><link>urn:urn:vocab:투표소에서</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1466780446965-2072a3de8a43?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMHBvbGxpbmclMjBzdGF0aW9ufGVufDB8fHx8MTc4MDAyOTEwNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표소에서 (at the polling station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이재용 삼성전자 회장이 29일 서울 용산구 한남동 주민센터에 마련된 제9회 전국동시지방선거 사전투표소에서 투표하고 있다&lt;br/&gt;&lt;em&gt;Lee Jae-yong, chairman of Samsung Electronics, is voting at an early voting station for the 9th nationwide local elections set up at Hannam-dong Community Center in Yongsan-gu, Seoul on the 29th.&lt;/em&gt;&lt;/p&gt;
