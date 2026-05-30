@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 10:30:31 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 14:42:02 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>사회복지 – social welfare</title><link>urn:urn:vocab:사회복지</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>진행자 – host</title><link>urn:urn:vocab:진행자</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554098415-788601c80aef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0fGVufDB8fHx8MTc4MDExOTcxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="진행자 (host)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (진행자 “그래요&lt;br/&gt;&lt;em&gt;" (Host: "Okay,"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (진행자 “역시 그 2는 대구, 경북&lt;br/&gt;&lt;em&gt;" (Host: "As expected, that 2 is Daegu, Gyeongbuk,"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (진행자 “그러면 김부겸 후보가 될 거라고 보세요&lt;br/&gt;&lt;em&gt;" (Host: "Then do you think Kim Boo-kyum will become the candidate?"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;진행자가 질문을 합니다.&lt;br/&gt;&lt;em&gt;The host asks a question.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;진행자는 친절합니다.&lt;br/&gt;&lt;em&gt;The host is kind.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554098415-788601c80aef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0fGVufDB8fHx8MTc4MDExOTcxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="진행자 (host)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (진행자 “그래요&lt;br/&gt;&lt;em&gt;" (Host: "Okay,"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (진행자 “역시 그 2는 대구, 경북&lt;br/&gt;&lt;em&gt;" (Host: "As expected, that 2 is Daegu, Gyeongbuk,"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (진행자 “그러면 김부겸 후보가 될 거라고 보세요&lt;br/&gt;&lt;em&gt;" (Host: "Then do you think Kim Boo-kyum will become the candidate?"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;진행자가 질문을 합니다.&lt;br/&gt;&lt;em&gt;The host asks a question.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;진행자는 친절합니다.&lt;br/&gt;&lt;em&gt;The host is kind.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 30 May 2026 14:42:01 +0900</pubDate><guid isPermaLink="false">vocab-c77143e3e5c52ecdd4fbb5ef02b2dc00e9be85d9</guid><enclosure url="https://images.unsplash.com/photo-1554098415-788601c80aef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0fGVufDB8fHx8MTc4MDExOTcxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="75555" /><ns2:content url="https://images.unsplash.com/photo-1554098415-788601c80aef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0fGVufDB8fHx8MTc4MDExOTcxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1554098415-788601c80aef?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0fGVufDB8fHx8MTc4MDExOTcxOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>진행자</category></item><item><title>투표용지를 – ballot paper (object particle)</title><link>urn:urn:vocab:투표용지를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1715522594847-67c90b5b8667?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlciUyMCUyOG9iamVjdCUyMHBhcnRpY2xlJTI5fGVufDB8fHx8MTc4MDExMjE4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표용지를 (ballot paper (object particle))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(전국 대부분 유권자들은 7장의 투표용지를 받지만, 국회의원 재보궐선거가 열리는 지역의 유권자들은 8장의 투표용지를 받는다&lt;br/&gt;&lt;em&gt;While most voters nationwide receive seven ballots, voters in areas where by-elections for the National Assembly are held receive eight ballots.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이재명 대통령과 김혜경 여사가 제9회 전국동시지방선거 사전투표 첫날인 29일 서울 종로구 삼청동 주민센터에 마련된 사전투표소에서 투표용지를 투표함에 넣고 있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;President Lee Jae-myung and First Lady Kim Hye-kyung are placing their ballots into the ballot box at an early voting station set up at Samcheong-dong Community Center in Jongno-gu, Seoul on the 29th, the first day of early voting for the 9th National Simultaneous Local Elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이에 이 대통령은 총 8장의 투표용지를 받아 투표했다&lt;br/&gt;&lt;em&gt;Accordingly, President Lee received a total of eight ballots and cast his vote.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 투표용지를 받았어요.&lt;br/&gt;&lt;em&gt;I received a ballot paper.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표용지를 어디에 넣어요?&lt;br/&gt;&lt;em&gt;Where do I put the ballot paper?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1715522594847-67c90b5b8667?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlciUyMCUyOG9iamVjdCUyMHBhcnRpY2xlJTI5fGVufDB8fHx8MTc4MDExMjE4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표용지를 (ballot paper (object particle))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(전국 대부분 유권자들은 7장의 투표용지를 받지만, 국회의원 재보궐선거가 열리는 지역의 유권자들은 8장의 투표용지를 받는다&lt;br/&gt;&lt;em&gt;While most voters nationwide receive seven ballots, voters in areas where by-elections for the National Assembly are held receive eight ballots.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이재명 대통령과 김혜경 여사가 제9회 전국동시지방선거 사전투표 첫날인 29일 서울 종로구 삼청동 주민센터에 마련된 사전투표소에서 투표용지를 투표함에 넣고 있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;President Lee Jae-myung and First Lady Kim Hye-kyung are placing their ballots into the ballot box at an early voting station set up at Samcheong-dong Community Center in Jongno-gu, Seoul on the 29th, the first day of early voting for the 9th National Simultaneous Local Elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이에 이 대통령은 총 8장의 투표용지를 받아 투표했다&lt;br/&gt;&lt;em&gt;Accordingly, President Lee received a total of eight ballots and cast his vote.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 투표용지를 받았어요.&lt;br/&gt;&lt;em&gt;I received a ballot paper.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표용지를 어디에 넣어요?&lt;br/&gt;&lt;em&gt;Where do I put the ballot paper?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 30 May 2026 12:36:28 +0900</pubDate><guid isPermaLink="false">vocab-fc2df6809cbe9c3685831143889fd2bff29c63a8</guid><enclosure url="https://images.unsplash.com/photo-1715522594847-67c90b5b8667?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlciUyMCUyOG9iamVjdCUyMHBhcnRpY2xlJTI5fGVufDB8fHx8MTc4MDExMjE4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="112195" /><ns2:content url="https://images.unsplash.com/photo-1715522594847-67c90b5b8667?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlciUyMCUyOG9iamVjdCUyMHBhcnRpY2xlJTI5fGVufDB8fHx8MTc4MDExMjE4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1715522594847-67c90b5b8667?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlciUyMCUyOG9iamVjdCUyMHBhcnRpY2xlJTI5fGVufDB8fHx8MTc4MDExMjE4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>투표용지를</category></item><item><title>사회복지 – social welfare</title><link>urn:urn:vocab:사회복지</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjB3ZWxmYXJlfGVufDB8fHx8MTc4MDEwNDYyN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사회복지 (social welfare)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(모집 학과는 3개 학부 17개 학과로 ▲웰빙건강학부(한방건강약선학과, 한방미용예술학과, 요가명상학과, 웰니스치유관광학과) ▲한국문화학부(전통공연예술학과, 한국복식과학학과, 차(茶문)화경영학과, 한국어문화학과, 동양학과, 원불교학과, 태권도스포츠재활학과) ▲실용복지학부(사회복지학과, 상담심리학과, 언어치료학과, 경찰학과, 부동산학과, 산업안전보건학과)에서 신입생과 편입생을 선발한다&lt;br/&gt;&lt;em&gt;(The recruiting departments are 3 faculties and 17 departments: ▲Wellness Health Faculty (Oriental Health Dietetics, Oriental Beauty Arts, Yoga and Meditation, Wellness Healing Tourism) ▲Korean Culture Faculty (Traditional Performing Arts, Korean Costume Science, Tea Culture Management, Korean Language and Culture, Oriental Studies, Won Buddhism, Taekwondo Sports Rehabilitation) ▲Practical Welfare Faculty (Social Welfare, Counseling Psychology, Speech Therapy, Police Science, Real Estate, Industrial Safety and Health) recruiting new and transfer students)&lt;/em&gt;&lt;/p&gt;
