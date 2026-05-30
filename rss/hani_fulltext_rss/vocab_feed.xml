@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 05:18:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 07:31:36 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>올리브영 – Olive Young</title><link>urn:urn:vocab:올리브영</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>딥페이크 – deepfake</title><link>urn:urn:vocab:딥페이크</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1637659134707-7d5c07af9107?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWVwZmFrZXxlbnwwfHx8fDE3ODAxODAyOTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="딥페이크 (deepfake)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;딥페이크 사태 이후 자기 얼굴을 SNS에 올리지 않는 어린이가 있는 반면, 같은 교실에서 친구의 사진을 합성해 공유하는 어린이도 있다&lt;br/&gt;&lt;em&gt;Since the deepfake incident, some children do not post their faces on social media, while others in the same classroom synthesize and share photos of their friends.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Election Commission Investigates Allegations of Park Wan-soo Camp Distributing ‘Deepfake’ Defaming Kim Kyung-soo (선관위, 박완수 캠프 ‘김경수 비방 딥페이크’ 배포 의혹 조사) &lt;&lt;br/&gt;&lt;em&gt;Election Commission Investigates Allegations of Park Wan-soo Camp Distributing ‘Deepfake’ Defaming Kim Kyung-soo&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Election Commission Investigates Allegations of Park Wan-soo Camp Distributing ‘Deepfake’ Defaming Kim Kyung-soo (선관위, 박완수 캠프 ‘김경수 비방 딥페이크’ 배포 의혹 조사)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Election Commission Investigates Allegations of Park Wan-soo Camp Distributing ‘Deepfake’ Defaming Kim Kyung-soo&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;딥페이크는 위험해요.&lt;br/&gt;&lt;em&gt;Deepfakes are dangerous.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;딥페이크를 조심하세요.&lt;br/&gt;&lt;em&gt;Beware of deepfakes.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1637659134707-7d5c07af9107?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWVwZmFrZXxlbnwwfHx8fDE3ODAxODAyOTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="딥페이크 (deepfake)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;딥페이크 사태 이후 자기 얼굴을 SNS에 올리지 않는 어린이가 있는 반면, 같은 교실에서 친구의 사진을 합성해 공유하는 어린이도 있다&lt;br/&gt;&lt;em&gt;Since the deepfake incident, some children do not post their faces on social media, while others in the same classroom synthesize and share photos of their friends.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Election Commission Investigates Allegations of Park Wan-soo Camp Distributing ‘Deepfake’ Defaming Kim Kyung-soo (선관위, 박완수 캠프 ‘김경수 비방 딥페이크’ 배포 의혹 조사) &lt;&lt;br/&gt;&lt;em&gt;Election Commission Investigates Allegations of Park Wan-soo Camp Distributing ‘Deepfake’ Defaming Kim Kyung-soo&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Election Commission Investigates Allegations of Park Wan-soo Camp Distributing ‘Deepfake’ Defaming Kim Kyung-soo (선관위, 박완수 캠프 ‘김경수 비방 딥페이크’ 배포 의혹 조사)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Election Commission Investigates Allegations of Park Wan-soo Camp Distributing ‘Deepfake’ Defaming Kim Kyung-soo&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;딥페이크는 위험해요.&lt;br/&gt;&lt;em&gt;Deepfakes are dangerous.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;딥페이크를 조심하세요.&lt;br/&gt;&lt;em&gt;Beware of deepfakes.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 31 May 2026 07:31:36 +0900</pubDate><guid isPermaLink="false">vocab-523e82726bb5269513d67d150d82216754999322</guid><enclosure url="https://images.unsplash.com/photo-1637659134707-7d5c07af9107?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWVwZmFrZXxlbnwwfHx8fDE3ODAxODAyOTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="39260" /><ns2:content url="https://images.unsplash.com/photo-1637659134707-7d5c07af9107?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWVwZmFrZXxlbnwwfHx8fDE3ODAxODAyOTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1637659134707-7d5c07af9107?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkZWVwZmFrZXxlbnwwfHx8fDE3ODAxODAyOTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>딥페이크</category></item><item><title>올리브영 – Olive Young</title><link>urn:urn:vocab:올리브영</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1688293686997-57bdc0cc2688?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxPbGl2ZSUyMFlvdW5nfGVufDB8fHx8MTc4MDE3MjI4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="올리브영 (Olive Young)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;"I Won't Go to Olive Young"… Female Consumers Boycott CJ Over Leak of Female Employees' Personal Information (“올리브영 안 가”…CJ 여성직원 개인정보 유출에 여성 소비자 불매 움직임) &lt;&lt;br/&gt;&lt;em&gt;"I Won't Go to Olive Young"… Female Consumers Boycott CJ Over Leak of Female Employees' Personal Information&lt;/em&gt;&lt;/p&gt;
