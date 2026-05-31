@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 09:35:14 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 15:45:04 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>사전투표소를 – early voting station</title><link>urn:urn:vocab:사전투표소를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>웨어러블 – wearable</title><link>urn:urn:vocab:웨어러블</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3ZWFyYWJsZXxlbnwwfHx8fDE3ODAyMDk5MDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="웨어러블 (wearable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;경희대 웨어러블융합전자연구소 유재수 교수 연구팀이 수계 아연 금속 배터리의 핵심 한계를 극복하는 이중 첨가제 전해질 엔지니어링 전략을 개발했다&lt;br/&gt;&lt;em&gt;Professor Yoo Jae-soo's research team at Kyung Hee University's Wearable Convergence Electronics Research Institute has developed a dual-additive electrolyte engineering strategy that overcomes the key limitations of aqueous zinc metal batteries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(경희대학교(총장 김진상) 웨어러블융합전자연구소 유재수 교수 연구팀이 중국 양저우대학 연구팀과 공동 연구를 진행해 수계 아연 금속 배터리의 핵심 한계를 극복하는 이중 첨가제 전해질 엔지니어링 전략을 개발했다&lt;br/&gt;&lt;em&gt;(Kyung Hee University (President Kim Jin-sang) Wearable Convergence Electronics Research Institute Professor Yoo Jae-soo's research team, in joint research with a team from Yangzhou University in China, has developed a dual-additive electrolyte engineering strategy that overcomes the key limitations of aqueous zinc metal batteries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또한 구부리거나 바늘로 찌르거나 잘라내는 극한 상황에서도 정상 작동해, 웨어러블 기기 같은 다양한 환경에서 쓸 수 있음을 입증했다&lt;br/&gt;&lt;em&gt;Additionally, it operates normally even under extreme conditions such as bending, piercing with a needle, or cutting, proving that it can be used in various environments like wearable devices.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;웨어러블 기기가 편리해요.&lt;br/&gt;&lt;em&gt;Wearable devices are convenient.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 웨어러블 시계를 샀어요.&lt;br/&gt;&lt;em&gt;I bought a wearable watch.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3ZWFyYWJsZXxlbnwwfHx8fDE3ODAyMDk5MDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="웨어러블 (wearable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;경희대 웨어러블융합전자연구소 유재수 교수 연구팀이 수계 아연 금속 배터리의 핵심 한계를 극복하는 이중 첨가제 전해질 엔지니어링 전략을 개발했다&lt;br/&gt;&lt;em&gt;Professor Yoo Jae-soo's research team at Kyung Hee University's Wearable Convergence Electronics Research Institute has developed a dual-additive electrolyte engineering strategy that overcomes the key limitations of aqueous zinc metal batteries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(경희대학교(총장 김진상) 웨어러블융합전자연구소 유재수 교수 연구팀이 중국 양저우대학 연구팀과 공동 연구를 진행해 수계 아연 금속 배터리의 핵심 한계를 극복하는 이중 첨가제 전해질 엔지니어링 전략을 개발했다&lt;br/&gt;&lt;em&gt;(Kyung Hee University (President Kim Jin-sang) Wearable Convergence Electronics Research Institute Professor Yoo Jae-soo's research team, in joint research with a team from Yangzhou University in China, has developed a dual-additive electrolyte engineering strategy that overcomes the key limitations of aqueous zinc metal batteries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또한 구부리거나 바늘로 찌르거나 잘라내는 극한 상황에서도 정상 작동해, 웨어러블 기기 같은 다양한 환경에서 쓸 수 있음을 입증했다&lt;br/&gt;&lt;em&gt;Additionally, it operates normally even under extreme conditions such as bending, piercing with a needle, or cutting, proving that it can be used in various environments like wearable devices.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;웨어러블 기기가 편리해요.&lt;br/&gt;&lt;em&gt;Wearable devices are convenient.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 웨어러블 시계를 샀어요.&lt;br/&gt;&lt;em&gt;I bought a wearable watch.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 31 May 2026 15:45:04 +0900</pubDate><guid isPermaLink="false">vocab-aa9090c7dbd7339725751de5dfc5c219eb9cfd08</guid><enclosure url="https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3ZWFyYWJsZXxlbnwwfHx8fDE3ODAyMDk5MDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="63183" /><ns2:content url="https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3ZWFyYWJsZXxlbnwwfHx8fDE3ODAyMDk5MDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3ZWFyYWJsZXxlbnwwfHx8fDE3ODAyMDk5MDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>웨어러블</category></item><item><title>기록한 – recorded</title><link>urn:urn:vocab:기록한</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1613870948964-7125fa3e1aab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvcmRlZHxlbnwwfHx8fDE3ODAyMDI1MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기록한 (recorded)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이는 코스피가 3200선을 처음 돌파하며 당시 사상 최고치를 기록한 2021년 4월에 6조8401억원이 증가한 이후 5년1개월 만에 가장 큰 증가 폭이다&lt;br/&gt;&lt;em&gt;This is the largest increase in 5 years and 1 month since 6.8401 trillion won increased in April 2021, when the KOSPI first broke through the 3200 mark and recorded an all-time high at the time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사전투표 첫날인 전날 투표율이 역대 지방선거 최고치를 기록한 데 이어, 이틀 차 오전에도 유권자들의 발길이 몰리는 모습이다&lt;br/&gt;&lt;em&gt;Following the first day of early voting, which recorded the highest turnout ever for a local election, voters are also flocking on the second day in the morning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;6%)을 기록한 데 이어, 이틀째에도 높은 투표 참여 분위기가 이어지는 모습이다&lt;br/&gt;&lt;em&gt;Following the record of 6%, the high voter turnout atmosphere continues on the second day as well.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 기록한 내용을 확인했다.&lt;br/&gt;&lt;em&gt;He checked the recorded content.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 기록한 문서입니다.&lt;br/&gt;&lt;em&gt;This is a documented document.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1613870948964-7125fa3e1aab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvcmRlZHxlbnwwfHx8fDE3ODAyMDI1MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기록한 (recorded)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이는 코스피가 3200선을 처음 돌파하며 당시 사상 최고치를 기록한 2021년 4월에 6조8401억원이 증가한 이후 5년1개월 만에 가장 큰 증가 폭이다&lt;br/&gt;&lt;em&gt;This is the largest increase in 5 years and 1 month since 6.8401 trillion won increased in April 2021, when the KOSPI first broke through the 3200 mark and recorded an all-time high at the time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사전투표 첫날인 전날 투표율이 역대 지방선거 최고치를 기록한 데 이어, 이틀 차 오전에도 유권자들의 발길이 몰리는 모습이다&lt;br/&gt;&lt;em&gt;Following the first day of early voting, which recorded the highest turnout ever for a local election, voters are also flocking on the second day in the morning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;6%)을 기록한 데 이어, 이틀째에도 높은 투표 참여 분위기가 이어지는 모습이다&lt;br/&gt;&lt;em&gt;Following the record of 6%, the high voter turnout atmosphere continues on the second day as well.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 기록한 내용을 확인했다.&lt;br/&gt;&lt;em&gt;He checked the recorded content.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 기록한 문서입니다.&lt;br/&gt;&lt;em&gt;This is a documented document.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 31 May 2026 13:41:56 +0900</pubDate><guid isPermaLink="false">vocab-d3530e729b56b3b1d6b37db0d1b9284afbe1d135</guid><enclosure url="https://images.unsplash.com/photo-1613870948964-7125fa3e1aab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvcmRlZHxlbnwwfHx8fDE3ODAyMDI1MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="92788" /><ns2:content url="https://images.unsplash.com/photo-1613870948964-7125fa3e1aab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvcmRlZHxlbnwwfHx8fDE3ODAyMDI1MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1613870948964-7125fa3e1aab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvcmRlZHxlbnwwfHx8fDE3ODAyMDI1MTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기록한</category></item><item><title>사전투표소를 – early voting station</title><link>urn:urn:vocab:사전투표소를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1597700331582-aab3614b3c0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlYXJseSUyMHZvdGluZyUyMHN0YXRpb258ZW58MHx8fHwxNzgwMDQzOTY1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사전투표소를 (early voting station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;사전투표에 참여하려면 신분증을 반드시 지참하고 사전투표소를 방문해야 한다&lt;br/&gt;&lt;em&gt;To participate in early voting, you must bring your ID and visit an early polling station.&lt;/em&gt;&lt;/p&gt;
