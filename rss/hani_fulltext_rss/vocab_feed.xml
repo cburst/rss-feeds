@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 21:55:03 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 12:58:52 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>사전투표율이 – early voting rate</title><link>urn:urn:vocab:사전투표율이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>중고차 – used car</title><link>urn:urn:vocab:중고차</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1498887960847-2a5e46312788?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2VkJTIwY2FyfGVufDB8fHx8MTc4MDI4NjMyOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="중고차 (used car)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'Fake Listing Prevention Act' Takes Effect (소유자 동의 없는 중고차 광고 금지…‘허위 매물 방지법’ 시행) &lt;&lt;br/&gt;&lt;em&gt;'Fake Listing Prevention Act' Takes Effect (Ban on Used Car Ads Without Owner Consent... 'Fake Listing Prevention Act' Takes Effect) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(온라인 플랫폼에서 다른 사람의 자동차를 매물로 올리려면 소유자의 사전 동의를 받아야 하는 ‘중고차 허위매물 방지법’이 3일부터 시행된다&lt;br/&gt;&lt;em&gt;(Starting from the 3rd, the 'Used Car Fake Listing Prevention Act' takes effect, requiring prior consent from the owner to list another person's car for sale on online platforms.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그동안 중고차 플랫폼에서는 차량 소유자의 동의가 없어도 인터넷에 매물로 올릴 수 있었다&lt;br/&gt;&lt;em&gt;(Previously, used car platforms allowed listing vehicles for sale on the internet without the owner's consent.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 중고차를 샀어요.&lt;br/&gt;&lt;em&gt;I bought a used car.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;중고차는 싸요.&lt;br/&gt;&lt;em&gt;Used cars are cheap.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1498887960847-2a5e46312788?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2VkJTIwY2FyfGVufDB8fHx8MTc4MDI4NjMyOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="중고차 (used car)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'Fake Listing Prevention Act' Takes Effect (소유자 동의 없는 중고차 광고 금지…‘허위 매물 방지법’ 시행) &lt;&lt;br/&gt;&lt;em&gt;'Fake Listing Prevention Act' Takes Effect (Ban on Used Car Ads Without Owner Consent... 'Fake Listing Prevention Act' Takes Effect) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(온라인 플랫폼에서 다른 사람의 자동차를 매물로 올리려면 소유자의 사전 동의를 받아야 하는 ‘중고차 허위매물 방지법’이 3일부터 시행된다&lt;br/&gt;&lt;em&gt;(Starting from the 3rd, the 'Used Car Fake Listing Prevention Act' takes effect, requiring prior consent from the owner to list another person's car for sale on online platforms.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그동안 중고차 플랫폼에서는 차량 소유자의 동의가 없어도 인터넷에 매물로 올릴 수 있었다&lt;br/&gt;&lt;em&gt;(Previously, used car platforms allowed listing vehicles for sale on the internet without the owner's consent.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 중고차를 샀어요.&lt;br/&gt;&lt;em&gt;I bought a used car.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;중고차는 싸요.&lt;br/&gt;&lt;em&gt;Used cars are cheap.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 01 Jun 2026 12:58:52 +0900</pubDate><guid isPermaLink="false">vocab-1e8918c5b4ed3a2d32f11aa93bcd9cb63adb4508</guid><enclosure url="https://images.unsplash.com/photo-1498887960847-2a5e46312788?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2VkJTIwY2FyfGVufDB8fHx8MTc4MDI4NjMyOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="78277" /><ns2:content url="https://images.unsplash.com/photo-1498887960847-2a5e46312788?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2VkJTIwY2FyfGVufDB8fHx8MTc4MDI4NjMyOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1498887960847-2a5e46312788?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2VkJTIwY2FyfGVufDB8fHx8MTc4MDI4NjMyOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>중고차</category></item><item><title>가구가 – household</title><link>urn:urn:vocab:가구가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619216083420-6e54b895f730?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3VzZWhvbGR8ZW58MHx8fHwxNzgwMjc4ODg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가구가 (household)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비수도권에는 1만602가구가 공급될 예정이다&lt;br/&gt;&lt;em&gt;10,602 households will be supplied in non-capital areas.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(수도권 중에서도 경기에 1만2864가구가 배정돼 가장 많은 물량이 집중될 예정이다&lt;br/&gt;&lt;em&gt;Among the capital areas, Gyeonggi Province will receive the largest volume with 12,864 households allocated.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(서울에도 3803가구가 공급된다&lt;br/&gt;&lt;em&gt;3,803 households will also be supplied in Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 가구가 예뻐요.&lt;br/&gt;&lt;em&gt;This furniture is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가구가 방에 있어요.&lt;br/&gt;&lt;em&gt;The furniture is in the room.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1619216083420-6e54b895f730?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3VzZWhvbGR8ZW58MHx8fHwxNzgwMjc4ODg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가구가 (household)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비수도권에는 1만602가구가 공급될 예정이다&lt;br/&gt;&lt;em&gt;10,602 households will be supplied in non-capital areas.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(수도권 중에서도 경기에 1만2864가구가 배정돼 가장 많은 물량이 집중될 예정이다&lt;br/&gt;&lt;em&gt;Among the capital areas, Gyeonggi Province will receive the largest volume with 12,864 households allocated.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(서울에도 3803가구가 공급된다&lt;br/&gt;&lt;em&gt;3,803 households will also be supplied in Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 가구가 예뻐요.&lt;br/&gt;&lt;em&gt;This furniture is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가구가 방에 있어요.&lt;br/&gt;&lt;em&gt;The furniture is in the room.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 01 Jun 2026 10:54:52 +0900</pubDate><guid isPermaLink="false">vocab-d8d14120681bae74c9e8fb31769c6e40b4b9bc75</guid><enclosure url="https://images.unsplash.com/photo-1619216083420-6e54b895f730?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3VzZWhvbGR8ZW58MHx8fHwxNzgwMjc4ODg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="250216" /><ns2:content url="https://images.unsplash.com/photo-1619216083420-6e54b895f730?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3VzZWhvbGR8ZW58MHx8fHwxNzgwMjc4ODg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1619216083420-6e54b895f730?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3VzZWhvbGR8ZW58MHx8fHwxNzgwMjc4ODg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>가구가</category></item><item><title>사전투표율이 – early voting rate</title><link>urn:urn:vocab:사전투표율이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlYXJseSUyMHZvdGluZyUyMHJhdGV8ZW58MHx8fHwxNzgwMTI3MjEyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사전투표율이 (early voting rate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(재보궐 선거구 14곳 중 첫날 사전투표율이 가장 높은 곳은 전북 군산시김제시부안군을로 15&lt;br/&gt;&lt;em&gt;Among the 14 by-elections, the highest early voting rate on the first day was in the constituency of Gunsan-si, Gimje-si, and Buan-gun in North Jeolla Province, at 15%.&lt;/em&gt;&lt;/p&gt;
