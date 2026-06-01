@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 12:58:56 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 19:09:47 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,73 @@
 
 
 
-  <item><title>아기에 – to the baby</title><link>urn:urn:vocab:아기에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사고에 – in an accident</title><link>urn:urn:vocab:사고에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGFuJTIwYWNjaWRlbnR8ZW58MHx8fHwxNzgwMzA4NTgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사고에 (in an accident)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident (정청래, 한화에어로 사고에 ‘전국 민주당 후보 유세 중단’ 지시) &lt;&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident (정청래, 한화에어로 사고에 ‘전국 민주당 후보 유세 중단’ 지시)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Jang Dong-hyuk Urges Candidates to Refrain from Campaign Songs and Dance Moves Following Hanwha Aerospace Accident (장동혁, 한화 에어로 사고에 “후보들 로고송, 율동 자제하라”) &lt;&lt;br/&gt;&lt;em&gt;Jang Dong-hyuk Urges Candidates to Refrain from Campaign Songs and Dance Moves Following Hanwha Aerospace Accident&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 사고에 다쳤어요.&lt;br/&gt;&lt;em&gt;He was injured in the accident.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사고에 차가 망가졌어요.&lt;br/&gt;&lt;em&gt;The car was damaged in the accident.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGFuJTIwYWNjaWRlbnR8ZW58MHx8fHwxNzgwMzA4NTgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사고에 (in an accident)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident (정청래, 한화에어로 사고에 ‘전국 민주당 후보 유세 중단’ 지시) &lt;&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident (정청래, 한화에어로 사고에 ‘전국 민주당 후보 유세 중단’ 지시)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Jang Dong-hyuk Urges Candidates to Refrain from Campaign Songs and Dance Moves Following Hanwha Aerospace Accident (장동혁, 한화 에어로 사고에 “후보들 로고송, 율동 자제하라”) &lt;&lt;br/&gt;&lt;em&gt;Jang Dong-hyuk Urges Candidates to Refrain from Campaign Songs and Dance Moves Following Hanwha Aerospace Accident&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 사고에 다쳤어요.&lt;br/&gt;&lt;em&gt;He was injured in the accident.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사고에 차가 망가졌어요.&lt;br/&gt;&lt;em&gt;The car was damaged in the accident.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 01 Jun 2026 19:09:47 +0900</pubDate><guid isPermaLink="false">vocab-11cee51e949fd0b8d2ac105ec190c0399b363397</guid><enclosure url="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGFuJTIwYWNjaWRlbnR8ZW58MHx8fHwxNzgwMzA4NTgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="253556" /><ns2:content url="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGFuJTIwYWNjaWRlbnR8ZW58MHx8fHwxNzgwMzA4NTgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMGFuJTIwYWNjaWRlbnR8ZW58MHx8fHwxNzgwMzA4NTgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사고에</category></item><item><title>사고 – accident</title><link>urn:urn:vocab:사고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY2NpZGVudHxlbnwwfHx8fDE3ODAyOTM3NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사고 (accident)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident (정청래, 한화에어로 사고에 ‘전국 민주당 후보 유세 중단’ 지시) &lt;&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident (정청래, 한화에어로 사고에 ‘전국 민주당 후보 유세 중단’ 지시)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정청래 더불어민주당 대표는 1일 대전에서 한화에어로스페이스 폭발 사고가 발생하자, 전국 지방선거 민주당 후보와 캠프에 유세 중단을 긴급 지시했다&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae, the leader of the Democratic Party of Korea, urgently ordered all Democratic Party candidates and campaign teams in the local elections nationwide to suspend campaigning after a Hanwha Aerospace explosion accident occurred in Daejeon on the 1st.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어제 사고가 났어요.&lt;br/&gt;&lt;em&gt;There was an accident yesterday.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사고를 조심하세요.&lt;br/&gt;&lt;em&gt;Be careful of accidents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY2NpZGVudHxlbnwwfHx8fDE3ODAyOTM3NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사고 (accident)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident (정청래, 한화에어로 사고에 ‘전국 민주당 후보 유세 중단’ 지시) &lt;&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident (정청래, 한화에어로 사고에 ‘전국 민주당 후보 유세 중단’ 지시)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정청래 더불어민주당 대표는 1일 대전에서 한화에어로스페이스 폭발 사고가 발생하자, 전국 지방선거 민주당 후보와 캠프에 유세 중단을 긴급 지시했다&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae, the leader of the Democratic Party of Korea, urgently ordered all Democratic Party candidates and campaign teams in the local elections nationwide to suspend campaigning after a Hanwha Aerospace explosion accident occurred in Daejeon on the 1st.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어제 사고가 났어요.&lt;br/&gt;&lt;em&gt;There was an accident yesterday.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사고를 조심하세요.&lt;br/&gt;&lt;em&gt;Be careful of accidents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 01 Jun 2026 17:06:17 +0900</pubDate><guid isPermaLink="false">vocab-718a36607ce12ac526ff4673c1f442bf7e8dc5ba</guid><enclosure url="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY2NpZGVudHxlbnwwfHx8fDE3ODAyOTM3NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="253556" /><ns2:content url="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY2NpZGVudHxlbnwwfHx8fDE3ODAyOTM3NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY2NpZGVudHxlbnwwfHx8fDE3ODAyOTM3NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사고</category></item><item><title>사고 – accident</title><link>urn:urn:vocab:사고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY2NpZGVudHxlbnwwfHx8fDE3ODAyOTM3NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사고 (accident)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident (정청래, 한화에어로 사고에 ‘전국 민주당 후보 유세 중단’ 지시) &lt;&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정청래 더불어민주당 대표는 1일 대전에서 한화에어로스페이스 폭발 사고가 발생하자, 전국 지방선거 민주당 후보와 캠프에 유세 중단을 긴급 지시했다&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae, the leader of the Democratic Party of Korea, urgently ordered the suspension of campaign activities for all Democratic Party candidates and their camps in the local elections nationwide following the explosion accident at Hanwha Aerospace in Daejeon on the 1st.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예를 들어, 권익위는 지방자치단체가 가입하는 영조물 배상보험에 지반 침하 관련 항목을 신설해 싱크홀 사고 피해자에 대한 배상을 강화하도록 하고, 고속도로를 잘못 나갔다가 곧바로 재진입하는 자동차에는 통행료 기본요금을 이중으로 받지 않도록 했다&lt;br/&gt;&lt;em&gt;For example, the Anti-Corruption and Civil Rights Commission strengthened compensation for sinkhole accident victims by adding ground subsidence-related items to the public property compensation insurance that local governments subscribe to, and ensured that vehicles that exit a highway incorrectly and immediately re-enter are not charged double the basic toll.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어제 사고가 났어요.&lt;br/&gt;&lt;em&gt;There was an accident yesterday.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사고를 조심하세요.&lt;br/&gt;&lt;em&gt;Be careful of accidents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY2NpZGVudHxlbnwwfHx8fDE3ODAyOTM3NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사고 (accident)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident (정청래, 한화에어로 사고에 ‘전국 민주당 후보 유세 중단’ 지시) &lt;&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae Orders 'Suspension of All Democratic Party Candidate Campaigns' After Hanwha Aerospace Incident&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(정청래 더불어민주당 대표는 1일 대전에서 한화에어로스페이스 폭발 사고가 발생하자, 전국 지방선거 민주당 후보와 캠프에 유세 중단을 긴급 지시했다&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae, the leader of the Democratic Party of Korea, urgently ordered the suspension of campaign activities for all Democratic Party candidates and their camps in the local elections nationwide following the explosion accident at Hanwha Aerospace in Daejeon on the 1st.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예를 들어, 권익위는 지방자치단체가 가입하는 영조물 배상보험에 지반 침하 관련 항목을 신설해 싱크홀 사고 피해자에 대한 배상을 강화하도록 하고, 고속도로를 잘못 나갔다가 곧바로 재진입하는 자동차에는 통행료 기본요금을 이중으로 받지 않도록 했다&lt;br/&gt;&lt;em&gt;For example, the Anti-Corruption and Civil Rights Commission strengthened compensation for sinkhole accident victims by adding ground subsidence-related items to the public property compensation insurance that local governments subscribe to, and ensured that vehicles that exit a highway incorrectly and immediately re-enter are not charged double the basic toll.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어제 사고가 났어요.&lt;br/&gt;&lt;em&gt;There was an accident yesterday.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사고를 조심하세요.&lt;br/&gt;&lt;em&gt;Be careful of accidents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 01 Jun 2026 15:02:59 +0900</pubDate><guid isPermaLink="false">vocab-6ef2f20df0a337aaa00543810962541cedebb181</guid><enclosure url="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY2NpZGVudHxlbnwwfHx8fDE3ODAyOTM3NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="253556" /><ns2:content url="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY2NpZGVudHxlbnwwfHx8fDE3ODAyOTM3NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY2NpZGVudHxlbnwwfHx8fDE3ODAyOTM3NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사고</category></item><item><title>아기에 – to the baby</title><link>urn:urn:vocab:아기에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533483595632-c5f0e57a1936?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMGJhYnl8ZW58MHx8fHwxNzgwMjc4ODk0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="아기에 (to the baby)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Ruling Party Yangcheon District Head Candidate Apologizes Amid Controversy (이번엔 아기에 “뽀뽀해봐”&lt;br/&gt;&lt;em&gt;Ruling Party Yangcheon District Head Candidate Apologizes Amid Controversy (This time, to a baby, 'Give me a kiss')&lt;/em&gt;&lt;/p&gt;
