@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 19:09:41 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 01:23:03 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,73 @@
 
 
 
-  <item><title>산업단지 – industrial complex</title><link>urn:urn:vocab:산업단지</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사용과 – use and</title><link>urn:urn:vocab:사용과</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1617348016197-bd031e297ce3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2UlMjBhbmR8ZW58MHx8fHwxNzgwMzMwOTc4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사용과 (use and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(1일 대전 한화에어로스페이스 공장에서 발생한 폭발 사망 사고와 관련해, 6·3 지방선거를 이틀 앞둔 정당들은 선거운동 과정에서 로고송 사용과 율동을 금지하고, 유세를 중단 또는 축소하기로 했다&lt;br/&gt;&lt;em&gt;In relation to the explosion death accident that occurred at the Daejeon Hanwha Aerospace factory on the 1st, political parties, two days before the June 3 local elections, decided to prohibit the use of campaign songs and choreography during election campaigns, and to suspend or reduce electioneering.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;kr&lt;/a&gt; (정청래 더불어민주당 대표는 “전국의 민주당 후보와 캠프는 로고송 사용과 율동 금지는 물론, 유세를 중단하라”고 긴급 지시했다&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae, the leader of the Democratic Party of Korea, urgently instructed, 'All Democratic Party candidates and camps nationwide are to prohibit the use of campaign songs and choreography, and to suspend electioneering.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;장동혁 국민의힘 대표는 “전국 국민의힘 후보와 선거 캠프는 로고송 사용과 율동을 자제하고, 차분한 선거 운동을 진행할 것”을 긴급 지시했다&lt;br/&gt;&lt;em&gt;Jang Dong-hyuk, the leader of the People Power Party, urgently instructed, 'All People Power Party candidates and election camps nationwide are to refrain from using campaign songs and choreography, and to conduct calm election campaigns.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것의 사용과 보관은 쉽다.&lt;br/&gt;&lt;em&gt;It is easy to use and store this.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사용과 관리가 중요합니다.&lt;br/&gt;&lt;em&gt;Use and management are important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1617348016197-bd031e297ce3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2UlMjBhbmR8ZW58MHx8fHwxNzgwMzMwOTc4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사용과 (use and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(1일 대전 한화에어로스페이스 공장에서 발생한 폭발 사망 사고와 관련해, 6·3 지방선거를 이틀 앞둔 정당들은 선거운동 과정에서 로고송 사용과 율동을 금지하고, 유세를 중단 또는 축소하기로 했다&lt;br/&gt;&lt;em&gt;In relation to the explosion death accident that occurred at the Daejeon Hanwha Aerospace factory on the 1st, political parties, two days before the June 3 local elections, decided to prohibit the use of campaign songs and choreography during election campaigns, and to suspend or reduce electioneering.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;kr&lt;/a&gt; (정청래 더불어민주당 대표는 “전국의 민주당 후보와 캠프는 로고송 사용과 율동 금지는 물론, 유세를 중단하라”고 긴급 지시했다&lt;br/&gt;&lt;em&gt;Jeong Cheong-rae, the leader of the Democratic Party of Korea, urgently instructed, 'All Democratic Party candidates and camps nationwide are to prohibit the use of campaign songs and choreography, and to suspend electioneering.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;장동혁 국민의힘 대표는 “전국 국민의힘 후보와 선거 캠프는 로고송 사용과 율동을 자제하고, 차분한 선거 운동을 진행할 것”을 긴급 지시했다&lt;br/&gt;&lt;em&gt;Jang Dong-hyuk, the leader of the People Power Party, urgently instructed, 'All People Power Party candidates and election camps nationwide are to refrain from using campaign songs and choreography, and to conduct calm election campaigns.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것의 사용과 보관은 쉽다.&lt;br/&gt;&lt;em&gt;It is easy to use and store this.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사용과 관리가 중요합니다.&lt;br/&gt;&lt;em&gt;Use and management are important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 02 Jun 2026 01:23:03 +0900</pubDate><guid isPermaLink="false">vocab-405b3ddbb26df171fcb69011ffe89330397bd324</guid><enclosure url="https://images.unsplash.com/photo-1617348016197-bd031e297ce3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2UlMjBhbmR8ZW58MHx8fHwxNzgwMzMwOTc4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="54139" /><ns2:content url="https://images.unsplash.com/photo-1617348016197-bd031e297ce3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2UlMjBhbmR8ZW58MHx8fHwxNzgwMzMwOTc4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1617348016197-bd031e297ce3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1c2UlMjBhbmR8ZW58MHx8fHwxNzgwMzMwOTc4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사용과</category></item><item><title>피지컬 – physical</title><link>urn:urn:vocab:피지컬</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1549342902-be005322599a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaHlzaWNhbHxlbnwwfHx8fDE3ODAzMjM0NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="피지컬 (physical)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;expanding physical AI business (네이버, ‘BTS 드론쇼’ 기업 유비파이에 투자…피지컬 AI 사업 확장) &lt;&lt;br/&gt;&lt;em&gt;expanding physical AI business (Naver invests in 'BTS Drone Show' company Ubify... expanding physical AI business) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;expanding physical AI business (네이버, ‘BTS 드론쇼’ 기업 유비파이에 투자…피지컬 AI 사업 확장)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;expanding physical AI business (Naver invests in 'BTS Drone Show' company Ubify... expanding physical AI business)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(네이버가 드론 군집·자율 비행 플랫폼 기업 유비파이에 전격 투자하며 피지컬 인공지능(AI)을 기반으로 한 사업 확장에 나선다&lt;br/&gt;&lt;em&gt;(Naver makes a surprise investment in Ubify, a drone swarm and autonomous flight platform company, to expand its business based on physical artificial intelligence (AI).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 피지컬이 좋다.&lt;br/&gt;&lt;em&gt;He has a good physique.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;피지컬 훈련이 중요해요.&lt;br/&gt;&lt;em&gt;Physical training is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1549342902-be005322599a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaHlzaWNhbHxlbnwwfHx8fDE3ODAzMjM0NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="피지컬 (physical)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;expanding physical AI business (네이버, ‘BTS 드론쇼’ 기업 유비파이에 투자…피지컬 AI 사업 확장) &lt;&lt;br/&gt;&lt;em&gt;expanding physical AI business (Naver invests in 'BTS Drone Show' company Ubify... expanding physical AI business) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;expanding physical AI business (네이버, ‘BTS 드론쇼’ 기업 유비파이에 투자…피지컬 AI 사업 확장)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;expanding physical AI business (Naver invests in 'BTS Drone Show' company Ubify... expanding physical AI business)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(네이버가 드론 군집·자율 비행 플랫폼 기업 유비파이에 전격 투자하며 피지컬 인공지능(AI)을 기반으로 한 사업 확장에 나선다&lt;br/&gt;&lt;em&gt;(Naver makes a surprise investment in Ubify, a drone swarm and autonomous flight platform company, to expand its business based on physical artificial intelligence (AI).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 피지컬이 좋다.&lt;br/&gt;&lt;em&gt;He has a good physique.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;피지컬 훈련이 중요해요.&lt;br/&gt;&lt;em&gt;Physical training is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 01 Jun 2026 23:17:44 +0900</pubDate><guid isPermaLink="false">vocab-82d6644e858a171c27c3efac07243409087e688c</guid><enclosure url="https://images.unsplash.com/photo-1549342902-be005322599a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaHlzaWNhbHxlbnwwfHx8fDE3ODAzMjM0NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="212632" /><ns2:content url="https://images.unsplash.com/photo-1549342902-be005322599a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaHlzaWNhbHxlbnwwfHx8fDE3ODAzMjM0NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1549342902-be005322599a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwaHlzaWNhbHxlbnwwfHx8fDE3ODAzMjM0NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>피지컬</category></item><item><title>주목할 – notable</title><link>urn:urn:vocab:주목할</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1709097233528-bfe5c6d944f6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3RhYmxlfGVufDB8fHx8MTc4MDMxNTk4Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주목할 (notable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Strengths in 'Physical AI'" (“한국, 주목할 만한 AI 출시 세계 3위…‘피지컬 AI’ 강점”) &lt;&lt;br/&gt;&lt;em&gt;Strengths in 'Physical AI' ("Korea ranks 3rd in the world in notable AI launches... strengths in 'Physical AI'") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Strengths in 'Physical AI'" (“한국, 주목할 만한 AI 출시 세계 3위…‘피지컬 AI’ 강점”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Strengths in 'Physical AI' ("Korea ranks 3rd in the world in notable AI launches... strengths in 'Physical AI'")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(미국 스탠포드대학의 ‘2026년 인공지능(AI) 인덱스’ 지표에서 한국이 ‘주목할 만한 인공지능 모델’ 출시에서 세계 3위, 인공지능 도입률에서 세계 18위로 집계됐다&lt;br/&gt;&lt;em&gt;(In the '2026 Artificial Intelligence (AI) Index' of Stanford University, Korea ranked 3rd in the world in launching 'notable AI models' and 18th in AI adoption rate)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 영화는 주목할 작품이다.&lt;br/&gt;&lt;em&gt;This film is a noteworthy work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 주목할 인물이다.&lt;br/&gt;&lt;em&gt;He is a notable figure.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1709097233528-bfe5c6d944f6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3RhYmxlfGVufDB8fHx8MTc4MDMxNTk4Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주목할 (notable)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Strengths in 'Physical AI'" (“한국, 주목할 만한 AI 출시 세계 3위…‘피지컬 AI’ 강점”) &lt;&lt;br/&gt;&lt;em&gt;Strengths in 'Physical AI' ("Korea ranks 3rd in the world in notable AI launches... strengths in 'Physical AI'") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Strengths in 'Physical AI'" (“한국, 주목할 만한 AI 출시 세계 3위…‘피지컬 AI’ 강점”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Strengths in 'Physical AI' ("Korea ranks 3rd in the world in notable AI launches... strengths in 'Physical AI'")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(미국 스탠포드대학의 ‘2026년 인공지능(AI) 인덱스’ 지표에서 한국이 ‘주목할 만한 인공지능 모델’ 출시에서 세계 3위, 인공지능 도입률에서 세계 18위로 집계됐다&lt;br/&gt;&lt;em&gt;(In the '2026 Artificial Intelligence (AI) Index' of Stanford University, Korea ranked 3rd in the world in launching 'notable AI models' and 18th in AI adoption rate)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 영화는 주목할 작품이다.&lt;br/&gt;&lt;em&gt;This film is a noteworthy work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 주목할 인물이다.&lt;br/&gt;&lt;em&gt;He is a notable figure.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 01 Jun 2026 21:13:06 +0900</pubDate><guid isPermaLink="false">vocab-a289489e6f34acaa835f407ea234376b141f425e</guid><enclosure url="https://images.unsplash.com/photo-1709097233528-bfe5c6d944f6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3RhYmxlfGVufDB8fHx8MTc4MDMxNTk4Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="208026" /><ns2:content url="https://images.unsplash.com/photo-1709097233528-bfe5c6d944f6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3RhYmxlfGVufDB8fHx8MTc4MDMxNTk4Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1709097233528-bfe5c6d944f6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub3RhYmxlfGVufDB8fHx8MTc4MDMxNTk4Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>주목할</category></item><item><title>산업단지 – industrial complex</title><link>urn:urn:vocab:산업단지</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600313419152-c66124a3b727?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmR1c3RyaWFsJTIwY29tcGxleHxlbnwwfHx8fDE3ODAzMDg1Nzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="산업단지 (industrial complex)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Join Forces to Support Regeneration of Aging Industrial Complexes for Balanced Growth (HUG·산단공, 균형성장 위한 노후 산업단지 재생 지원 ‘맞손’) &lt;&lt;br/&gt;&lt;em&gt;Join Forces to Support Regeneration of Aging Industrial Complexes for Balanced Growth (HUG and KICOX join hands to support regeneration of aging industrial complexes for balanced growth) &lt;&lt;/em&gt;&lt;/p&gt;
