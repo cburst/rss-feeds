@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 09:48:28 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 16:02:45 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,69 @@
 
 
 
-  <item><title>생각해야 – must think</title><link>urn:urn:vocab:생각해야</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>문장을 – sentence</title><link>urn:urn:vocab:문장을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1602272990331-76adc62ef46c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW50ZW5jZXxlbnwwfHx8fDE3ODAzODM3NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="문장을 (sentence)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;다음 한 문장을 전달하기 위해서다&lt;br/&gt;&lt;em&gt;It is to convey the following one sentence.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;몇 십만 원은 나올 이날 술값을 이 상무가 계산하는 이유도 이 한 문장을 듣기 위해서였다&lt;br/&gt;&lt;em&gt;The reason Manager Lee paid for the drinks, which would cost several hundred thousand won on this day, was also to hear this one sentence.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 문장을 씁니다.&lt;br/&gt;&lt;em&gt;I write sentences.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 문장을 읽으세요.&lt;br/&gt;&lt;em&gt;Read this sentence.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1602272990331-76adc62ef46c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW50ZW5jZXxlbnwwfHx8fDE3ODAzODM3NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="문장을 (sentence)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;다음 한 문장을 전달하기 위해서다&lt;br/&gt;&lt;em&gt;It is to convey the following one sentence.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;몇 십만 원은 나올 이날 술값을 이 상무가 계산하는 이유도 이 한 문장을 듣기 위해서였다&lt;br/&gt;&lt;em&gt;The reason Manager Lee paid for the drinks, which would cost several hundred thousand won on this day, was also to hear this one sentence.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 문장을 씁니다.&lt;br/&gt;&lt;em&gt;I write sentences.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 문장을 읽으세요.&lt;br/&gt;&lt;em&gt;Read this sentence.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 02 Jun 2026 16:02:45 +0900</pubDate><guid isPermaLink="false">vocab-a96e04fcc04b2c53a6c7ad73c2675acf6354fda1</guid><enclosure url="https://images.unsplash.com/photo-1602272990331-76adc62ef46c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW50ZW5jZXxlbnwwfHx8fDE3ODAzODM3NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="59296" /><ns2:content url="https://images.unsplash.com/photo-1602272990331-76adc62ef46c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW50ZW5jZXxlbnwwfHx8fDE3ODAzODM3NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1602272990331-76adc62ef46c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW50ZW5jZXxlbnwwfHx8fDE3ODAzODM3NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>문장을</category></item><item><title>태산이 – Taesan (mountain name) is</title><link>urn:urn:vocab:태산이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (“태산이 프라임으로 나섭니다&lt;br/&gt;&lt;em&gt;" (Taesan steps forward as the prime&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (“태산이 하드웨어 제조와 시스템 통합을 담당하고, 듀다엘의 AI 엔진은 라이선스 형태로 도입한다&lt;br/&gt;&lt;em&gt;" (Taesan is responsible for hardware manufacturing and system integration, and Dudal's AI engine is introduced in the form of a license&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;운영 인터페이스는 태산이 완전히 통제합니다&lt;br/&gt;&lt;em&gt;Taesan fully controls the operational interface&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;태산이 높습니다.&lt;br/&gt;&lt;em&gt;Taesan is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;태산이 아름답습니다.&lt;br/&gt;&lt;em&gt;Taesan is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (“태산이 프라임으로 나섭니다&lt;br/&gt;&lt;em&gt;" (Taesan steps forward as the prime&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (“태산이 하드웨어 제조와 시스템 통합을 담당하고, 듀다엘의 AI 엔진은 라이선스 형태로 도입한다&lt;br/&gt;&lt;em&gt;" (Taesan is responsible for hardware manufacturing and system integration, and Dudal's AI engine is introduced in the form of a license&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;운영 인터페이스는 태산이 완전히 통제합니다&lt;br/&gt;&lt;em&gt;Taesan fully controls the operational interface&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;태산이 높습니다.&lt;br/&gt;&lt;em&gt;Taesan is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;태산이 아름답습니다.&lt;br/&gt;&lt;em&gt;Taesan is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 02 Jun 2026 13:58:28 +0900</pubDate><guid isPermaLink="false">vocab-f5060fc0c1e20108bdd49c1b92619d2aa435f7b6</guid><category>태산이</category></item><item><title>위스키 – whiskey</title><link>urn:urn:vocab:위스키</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1569529465841-dfecdab7503b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlza2V5fGVufDB8fHx8MTc4MDM2ODg1OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="위스키 (whiskey)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 상무 테이블에는 싱글 몰트 위스키 두 잔이 놓여 있었다&lt;br/&gt;&lt;em&gt;On this executive table, there were two glasses of single malt whiskey.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (“그냥 위스키 한잔 하는 자리입니다&lt;br/&gt;&lt;em&gt;" ("It's just a place to have a glass of whiskey."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(에반이 위스키를 들이켰다&lt;br/&gt;&lt;em&gt;(Evan downed the whiskey.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;위스키를 마십니다.&lt;br/&gt;&lt;em&gt;I drink whiskey.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;위스키가 맛있어요.&lt;br/&gt;&lt;em&gt;The whiskey is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1569529465841-dfecdab7503b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlza2V5fGVufDB8fHx8MTc4MDM2ODg1OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="위스키 (whiskey)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 상무 테이블에는 싱글 몰트 위스키 두 잔이 놓여 있었다&lt;br/&gt;&lt;em&gt;On this executive table, there were two glasses of single malt whiskey.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (“그냥 위스키 한잔 하는 자리입니다&lt;br/&gt;&lt;em&gt;" ("It's just a place to have a glass of whiskey."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(에반이 위스키를 들이켰다&lt;br/&gt;&lt;em&gt;(Evan downed the whiskey.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;위스키를 마십니다.&lt;br/&gt;&lt;em&gt;I drink whiskey.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;위스키가 맛있어요.&lt;br/&gt;&lt;em&gt;The whiskey is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 02 Jun 2026 11:54:22 +0900</pubDate><guid isPermaLink="false">vocab-b8a047c378d78b51690589f0a3d2ad77db7302ee</guid><enclosure url="https://images.unsplash.com/photo-1569529465841-dfecdab7503b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlza2V5fGVufDB8fHx8MTc4MDM2ODg1OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="210628" /><ns2:content url="https://images.unsplash.com/photo-1569529465841-dfecdab7503b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlza2V5fGVufDB8fHx8MTc4MDM2ODg1OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1569529465841-dfecdab7503b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aGlza2V5fGVufDB8fHx8MTc4MDM2ODg1OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>위스키</category></item><item><title>생각해야 – must think</title><link>urn:urn:vocab:생각해야</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1597392580482-798e53c7aa33?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtdXN0JTIwdGhpbmt8ZW58MHx8fHwxNzgwMzYxMzA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생각해야 (must think)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;그것 때문에 고통이 온다면 그것은 고통이 아니라 행복(幸福)하게 생각해야 한다&lt;br/&gt;&lt;em&gt;If it brings pain because of that, it should be thought of as happiness, not pain.&lt;/em&gt;&lt;/p&gt;

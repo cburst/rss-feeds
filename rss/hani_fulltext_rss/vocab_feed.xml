@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 09:48:24 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 16:02:40 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,73 @@
 
 
 
-  <item><title>바우처 – voucher</title><link>urn:urn:vocab:바우처</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>개인용 – personal</title><link>urn:urn:vocab:개인용</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbHxlbnwwfHx8fDE3ODAzODM3NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개인용 (personal)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;젠슨 황 엔비디아 최고경영자(CEO)가 1일(현지시각) 대만 타이베이에서 열린 아시아 최대 정보기술 박람회인 ‘컴퓨텍스’에서 기조연설에 나서 ‘알티엑스(RTX) 스파크’를 탑재한 윈도우 기반의 개인용 컴퓨터를 공개하고 있다&lt;br/&gt;&lt;em&gt;NVIDIA CEO Jensen Huang delivers a keynote speech at Computex, Asia's largest IT trade fair, held in Taipei, Taiwan on the 1st (local time), unveiling a Windows-based personal computer equipped with the 'RTX Spark'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(글로벌 인공지능(AI) 칩 시장을 이끄는 미국 엔비디아는 이날 노트북·데스크톱 등 개인용 컴퓨터(PC) 시장 진출을 공식 선언했다&lt;br/&gt;&lt;em&gt;Global AI chip leader NVIDIA officially announced its entry into the personal computer (PC) market, including laptops and desktops, on this day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;South Korea’s First "Personal Drone Insurance" Launched… KB Insurance “Liability Coverage Up to 500 Million Won” (국내 첫 ‘개인용 드론 보험’ 나왔다…KB손보 “배상책임 최대 5억”) &lt;&lt;br/&gt;&lt;em&gt;South Korea’s First "Personal Drone Insurance" Launched… KB Insurance “Liability Coverage Up to 500 Million Won”&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 개인용 컴퓨터입니다.&lt;br/&gt;&lt;em&gt;This is a personal computer.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개인용 물건을 조심하세요.&lt;br/&gt;&lt;em&gt;Be careful with personal belongings.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbHxlbnwwfHx8fDE3ODAzODM3NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개인용 (personal)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;젠슨 황 엔비디아 최고경영자(CEO)가 1일(현지시각) 대만 타이베이에서 열린 아시아 최대 정보기술 박람회인 ‘컴퓨텍스’에서 기조연설에 나서 ‘알티엑스(RTX) 스파크’를 탑재한 윈도우 기반의 개인용 컴퓨터를 공개하고 있다&lt;br/&gt;&lt;em&gt;NVIDIA CEO Jensen Huang delivers a keynote speech at Computex, Asia's largest IT trade fair, held in Taipei, Taiwan on the 1st (local time), unveiling a Windows-based personal computer equipped with the 'RTX Spark'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(글로벌 인공지능(AI) 칩 시장을 이끄는 미국 엔비디아는 이날 노트북·데스크톱 등 개인용 컴퓨터(PC) 시장 진출을 공식 선언했다&lt;br/&gt;&lt;em&gt;Global AI chip leader NVIDIA officially announced its entry into the personal computer (PC) market, including laptops and desktops, on this day.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;South Korea’s First "Personal Drone Insurance" Launched… KB Insurance “Liability Coverage Up to 500 Million Won” (국내 첫 ‘개인용 드론 보험’ 나왔다…KB손보 “배상책임 최대 5억”) &lt;&lt;br/&gt;&lt;em&gt;South Korea’s First "Personal Drone Insurance" Launched… KB Insurance “Liability Coverage Up to 500 Million Won”&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 개인용 컴퓨터입니다.&lt;br/&gt;&lt;em&gt;This is a personal computer.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개인용 물건을 조심하세요.&lt;br/&gt;&lt;em&gt;Be careful with personal belongings.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 02 Jun 2026 16:02:40 +0900</pubDate><guid isPermaLink="false">vocab-7df00c04cef0d8946205520557be93c97cf2f1d0</guid><enclosure url="https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbHxlbnwwfHx8fDE3ODAzODM3NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="118131" /><ns2:content url="https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbHxlbnwwfHx8fDE3ODAzODM3NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbHxlbnwwfHx8fDE3ODAzODM3NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>개인용</category></item><item><title>기초과학 – basic science</title><link>urn:urn:vocab:기초과학</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554475900-0a0350e3fc7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNpYyUyMHNjaWVuY2V8ZW58MHx8fHwxNzgwMzc2MzAwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기초과학 (basic science)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Soongsil University Launches G-LAMP Project Group, Accelerating Innovation in Basic Science Research (숭실대, G-LAMP사업단 개소… 기초과학 연구 혁신 본격화) &lt;&lt;br/&gt;&lt;em&gt;Soongsil University Launches G-LAMP Project Group, Accelerating Innovation in Basic Science Research&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Soongsil University Launches G-LAMP Project Group, Accelerating Innovation in Basic Science Research (숭실대, G-LAMP사업단 개소… 기초과학 연구 혁신 본격화)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Soongsil University Launches G-LAMP Project Group, Accelerating Innovation in Basic Science Research&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(숭실대학교(총장 이윤재) G-LAMP사업단은 5월 28일 숭실대 형남홀에서 ‘숭실대학교 G-LAMP사업단 개소식’을 열고 기초과학 연구 혁신과 미래 융합인재 양성을 위한 공식 출범을 알렸다고 밝혔다&lt;br/&gt;&lt;em&gt;(Soongsil University (President Lee Yoon-jae) G-LAMP Project Group announced on May 28 at Soongsil University's Hyeongnam Hall that it held the 'Soongsil University G-LAMP Project Group Inauguration Ceremony' and officially launched to accelerate innovation in basic science research and foster future convergence talent.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기초과학은 중요합니다.&lt;br/&gt;&lt;em&gt;Basic science is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 기초과학을 공부합니다.&lt;br/&gt;&lt;em&gt;I study basic science.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554475900-0a0350e3fc7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNpYyUyMHNjaWVuY2V8ZW58MHx8fHwxNzgwMzc2MzAwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기초과학 (basic science)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Soongsil University Launches G-LAMP Project Group, Accelerating Innovation in Basic Science Research (숭실대, G-LAMP사업단 개소… 기초과학 연구 혁신 본격화) &lt;&lt;br/&gt;&lt;em&gt;Soongsil University Launches G-LAMP Project Group, Accelerating Innovation in Basic Science Research&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Soongsil University Launches G-LAMP Project Group, Accelerating Innovation in Basic Science Research (숭실대, G-LAMP사업단 개소… 기초과학 연구 혁신 본격화)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Soongsil University Launches G-LAMP Project Group, Accelerating Innovation in Basic Science Research&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(숭실대학교(총장 이윤재) G-LAMP사업단은 5월 28일 숭실대 형남홀에서 ‘숭실대학교 G-LAMP사업단 개소식’을 열고 기초과학 연구 혁신과 미래 융합인재 양성을 위한 공식 출범을 알렸다고 밝혔다&lt;br/&gt;&lt;em&gt;(Soongsil University (President Lee Yoon-jae) G-LAMP Project Group announced on May 28 at Soongsil University's Hyeongnam Hall that it held the 'Soongsil University G-LAMP Project Group Inauguration Ceremony' and officially launched to accelerate innovation in basic science research and foster future convergence talent.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기초과학은 중요합니다.&lt;br/&gt;&lt;em&gt;Basic science is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 기초과학을 공부합니다.&lt;br/&gt;&lt;em&gt;I study basic science.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 02 Jun 2026 13:58:23 +0900</pubDate><guid isPermaLink="false">vocab-b67847bc1d368702f8dead603c3027efac8fee59</guid><enclosure url="https://images.unsplash.com/photo-1554475900-0a0350e3fc7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNpYyUyMHNjaWVuY2V8ZW58MHx8fHwxNzgwMzc2MzAwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="95617" /><ns2:content url="https://images.unsplash.com/photo-1554475900-0a0350e3fc7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNpYyUyMHNjaWVuY2V8ZW58MHx8fHwxNzgwMzc2MzAwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1554475900-0a0350e3fc7b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNpYyUyMHNjaWVuY2V8ZW58MHx8fHwxNzgwMzc2MzAwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기초과학</category></item><item><title>범위를 – range</title><link>urn:urn:vocab:범위를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1705925716592-259267037a03?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYW5nZXxlbnwwfHx8fDE3ODAzNjg4NTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="범위를 (range)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;연간 보험료는 5만~13만원 수준이며 다양한 보장 범위를 선택할 수 있고 최대 5억원까지 보상받을 수 있다&lt;br/&gt;&lt;em&gt;The annual premium ranges from 50,000 to 130,000 won, and you can choose from a variety of coverage options, with compensation up to 500 million won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구의 범위를 넓게 볼 수 있는 시기라고 할 수 있다&lt;br/&gt;&lt;em&gt;It can be said that this is a time when you can broaden the scope of your friends.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;( 부모는 청소년 자녀의 공부 범위를 넓혀서 학교수업이 끝난 후, 새로운 악기나 요리, 미용을 배우거나 수영, 헬스 등 운동을 하도록 지원하는 것도 필요하다&lt;br/&gt;&lt;em&gt;Parents also need to support their teenage children in broadening their scope of study after school, such as learning new musical instruments, cooking, or beauty, or engaging in sports like swimming and fitness.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 범위를 확인하세요.&lt;br/&gt;&lt;em&gt;Check this range.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;범위를 좁혀 주세요.&lt;br/&gt;&lt;em&gt;Please narrow down the range.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1705925716592-259267037a03?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYW5nZXxlbnwwfHx8fDE3ODAzNjg4NTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="범위를 (range)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;연간 보험료는 5만~13만원 수준이며 다양한 보장 범위를 선택할 수 있고 최대 5억원까지 보상받을 수 있다&lt;br/&gt;&lt;em&gt;The annual premium ranges from 50,000 to 130,000 won, and you can choose from a variety of coverage options, with compensation up to 500 million won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구의 범위를 넓게 볼 수 있는 시기라고 할 수 있다&lt;br/&gt;&lt;em&gt;It can be said that this is a time when you can broaden the scope of your friends.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;( 부모는 청소년 자녀의 공부 범위를 넓혀서 학교수업이 끝난 후, 새로운 악기나 요리, 미용을 배우거나 수영, 헬스 등 운동을 하도록 지원하는 것도 필요하다&lt;br/&gt;&lt;em&gt;Parents also need to support their teenage children in broadening their scope of study after school, such as learning new musical instruments, cooking, or beauty, or engaging in sports like swimming and fitness.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 범위를 확인하세요.&lt;br/&gt;&lt;em&gt;Check this range.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;범위를 좁혀 주세요.&lt;br/&gt;&lt;em&gt;Please narrow down the range.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 02 Jun 2026 11:54:17 +0900</pubDate><guid isPermaLink="false">vocab-f279c981943e1c5b728229223ed1ebd0e09dee55</guid><enclosure url="https://images.unsplash.com/photo-1705925716592-259267037a03?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYW5nZXxlbnwwfHx8fDE3ODAzNjg4NTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="220999" /><ns2:content url="https://images.unsplash.com/photo-1705925716592-259267037a03?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYW5nZXxlbnwwfHx8fDE3ODAzNjg4NTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1705925716592-259267037a03?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYW5nZXxlbnwwfHx8fDE3ODAzNjg4NTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>범위를</category></item><item><title>바우처 – voucher</title><link>urn:urn:vocab:바우처</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1526614180703-827d23e7c8f2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3VjaGVyfGVufDB8fHx8MTc4MDM2MTMwMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="바우처 (voucher)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;com Violated E-Commerce Act&lt;/span&gt; (&lt;span&gt;항공권 취소했는데 현금 대신 바우처&lt;/span&gt;…&lt;span&gt;트립닷컴 전자상거래법 위반&lt;/span&gt;) &lt;&lt;br/&gt;&lt;em&gt;com Violated E-Commerce Act (Cancelled flight tickets but gave vouchers instead of cash… Trip.com violated the E-Commerce Act) &lt;&lt;/em&gt;&lt;/p&gt;
