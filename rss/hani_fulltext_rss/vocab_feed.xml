@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 16:02:40 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 20:10:35 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>개인용 – personal</title><link>urn:urn:vocab:개인용</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>주석의 – of the chairman</title><link>urn:urn:vocab:주석의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586784444981-ac96e335555c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGNoYWlybWFufGVufDB8fHx8MTc4MDM5ODYzMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주석의 (of the chairman)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(시진핑 중국 국가주석의 방북 임박설이 나오는 가운데 중국 항공사가 베이징-평양 노선에 더 큰 기종을 투입했다&lt;br/&gt;&lt;em&gt;Amid speculation that Chinese President Xi Jinping may visit North Korea soon, a Chinese airline has deployed larger aircraft on the Beijing-Pyongyang route.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (외교부 당국자는 2일 시 주석 방북설과 관련해 “제반 정황들을 보면서 시 주석의 방북이 있을지, 있다면 언제일지 등을 면밀하게 모니터링하고 있다”고 밝혔다&lt;br/&gt;&lt;em&gt;A Foreign Ministry official said on the 2nd regarding the possibility of President Xi's visit to North Korea, 'We are closely monitoring various circumstances to see if President Xi will visit North Korea and, if so, when.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(하지만 미국의 북한전문매체 엔케이(NK) 뉴스는 최근 평양 중심부에 있는 김일성 광장에서 외국 지도자 방북 환영식 때 쓰이는 구조물들이 설치됐고, 평양국제공항에서는 외국 항공기 계류 공간을 마련 중이라고 보도하는 등 시 주석의 방북 가능성에 대한 관심이 이어지고 있다&lt;br/&gt;&lt;em&gt;However, NK News, a U.S. media outlet specializing in North Korea, recently reported that structures used for welcoming foreign leaders have been set up at Kim Il-sung Square in central Pyongyang, and that parking space for foreign aircraft is being prepared at Pyongyang International Airport, continuing interest in the possibility of President Xi's visit.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주석의 연설이 길었습니다.&lt;br/&gt;&lt;em&gt;The chairman's speech was long.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 주석의 의견에 동의합니다.&lt;br/&gt;&lt;em&gt;I agree with the chairman's opinion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586784444981-ac96e335555c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGNoYWlybWFufGVufDB8fHx8MTc4MDM5ODYzMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주석의 (of the chairman)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(시진핑 중국 국가주석의 방북 임박설이 나오는 가운데 중국 항공사가 베이징-평양 노선에 더 큰 기종을 투입했다&lt;br/&gt;&lt;em&gt;Amid speculation that Chinese President Xi Jinping may visit North Korea soon, a Chinese airline has deployed larger aircraft on the Beijing-Pyongyang route.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (외교부 당국자는 2일 시 주석 방북설과 관련해 “제반 정황들을 보면서 시 주석의 방북이 있을지, 있다면 언제일지 등을 면밀하게 모니터링하고 있다”고 밝혔다&lt;br/&gt;&lt;em&gt;A Foreign Ministry official said on the 2nd regarding the possibility of President Xi's visit to North Korea, 'We are closely monitoring various circumstances to see if President Xi will visit North Korea and, if so, when.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(하지만 미국의 북한전문매체 엔케이(NK) 뉴스는 최근 평양 중심부에 있는 김일성 광장에서 외국 지도자 방북 환영식 때 쓰이는 구조물들이 설치됐고, 평양국제공항에서는 외국 항공기 계류 공간을 마련 중이라고 보도하는 등 시 주석의 방북 가능성에 대한 관심이 이어지고 있다&lt;br/&gt;&lt;em&gt;However, NK News, a U.S. media outlet specializing in North Korea, recently reported that structures used for welcoming foreign leaders have been set up at Kim Il-sung Square in central Pyongyang, and that parking space for foreign aircraft is being prepared at Pyongyang International Airport, continuing interest in the possibility of President Xi's visit.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주석의 연설이 길었습니다.&lt;br/&gt;&lt;em&gt;The chairman's speech was long.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 주석의 의견에 동의합니다.&lt;br/&gt;&lt;em&gt;I agree with the chairman's opinion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 02 Jun 2026 20:10:35 +0900</pubDate><guid isPermaLink="false">vocab-75f4ee8e0d0be9648c4dc076938d7b47d06dffaf</guid><enclosure url="https://images.unsplash.com/photo-1586784444981-ac96e335555c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGNoYWlybWFufGVufDB8fHx8MTc4MDM5ODYzMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="188351" /><ns2:content url="https://images.unsplash.com/photo-1586784444981-ac96e335555c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGNoYWlybWFufGVufDB8fHx8MTc4MDM5ODYzMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1586784444981-ac96e335555c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoZSUyMGNoYWlybWFufGVufDB8fHx8MTc4MDM5ODYzMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>주석의</category></item><item><title>사업단은 – business group</title><link>urn:urn:vocab:사업단은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/39/lIZrwvbeRuuzqOoWJUEn_Photoaday_CSD%20%281%20of%201%29-5.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGdyb3VwfGVufDB8fHx8MTc4MDM5MTE4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사업단은 (business group)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;숭실대 G-LAMP사업단은 5월 28일 숭실대학교 형남홀에서 개소식을 개최했다&lt;br/&gt;&lt;em&gt;Soongsil University G-LAMP Project Group held an opening ceremony at Hyungnam Hall on May 28.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(숭실대학교(총장 이윤재) G-LAMP사업단은 5월 28일 숭실대 형남홀에서 ‘숭실대학교 G-LAMP사업단 개소식’을 열고 기초과학 연구 혁신과 미래 융합인재 양성을 위한 공식 출범을 알렸다고 밝혔다&lt;br/&gt;&lt;em&gt;Soongsil University (President Yoon Jae Lee) G-LAMP Project Group announced that it held the 'Soongsil University G-LAMP Project Group Opening Ceremony' at Hyungnam Hall on May 28, marking its official launch to innovate basic science research and foster future convergence talents.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(숭실대 G-LAMP사업단은 AI·바이오·데이터 기반 융합연구를 중심으로 창의적인 연구 환경을 구축하고 차세대 연구인재 양성에 힘쓸 계획이다&lt;br/&gt;&lt;em&gt;The Soongsil University G-LAMP Project Group plans to build a creative research environment centered on AI, bio, and data-based convergence research and strive to nurture next-generation research talents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사업단은 일을 합니다.&lt;br/&gt;&lt;em&gt;The business group works.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사업단은 돈이 많습니다.&lt;br/&gt;&lt;em&gt;The business group has a lot of money.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/39/lIZrwvbeRuuzqOoWJUEn_Photoaday_CSD%20%281%20of%201%29-5.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGdyb3VwfGVufDB8fHx8MTc4MDM5MTE4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사업단은 (business group)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;숭실대 G-LAMP사업단은 5월 28일 숭실대학교 형남홀에서 개소식을 개최했다&lt;br/&gt;&lt;em&gt;Soongsil University G-LAMP Project Group held an opening ceremony at Hyungnam Hall on May 28.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(숭실대학교(총장 이윤재) G-LAMP사업단은 5월 28일 숭실대 형남홀에서 ‘숭실대학교 G-LAMP사업단 개소식’을 열고 기초과학 연구 혁신과 미래 융합인재 양성을 위한 공식 출범을 알렸다고 밝혔다&lt;br/&gt;&lt;em&gt;Soongsil University (President Yoon Jae Lee) G-LAMP Project Group announced that it held the 'Soongsil University G-LAMP Project Group Opening Ceremony' at Hyungnam Hall on May 28, marking its official launch to innovate basic science research and foster future convergence talents.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(숭실대 G-LAMP사업단은 AI·바이오·데이터 기반 융합연구를 중심으로 창의적인 연구 환경을 구축하고 차세대 연구인재 양성에 힘쓸 계획이다&lt;br/&gt;&lt;em&gt;The Soongsil University G-LAMP Project Group plans to build a creative research environment centered on AI, bio, and data-based convergence research and strive to nurture next-generation research talents.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사업단은 일을 합니다.&lt;br/&gt;&lt;em&gt;The business group works.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사업단은 돈이 많습니다.&lt;br/&gt;&lt;em&gt;The business group has a lot of money.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 02 Jun 2026 18:06:33 +0900</pubDate><guid isPermaLink="false">vocab-5a75a65687682eaecb676408698248c6c2afa70a</guid><enclosure url="https://images.unsplash.com/39/lIZrwvbeRuuzqOoWJUEn_Photoaday_CSD%20%281%20of%201%29-5.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGdyb3VwfGVufDB8fHx8MTc4MDM5MTE4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="121532" /><ns2:content url="https://images.unsplash.com/39/lIZrwvbeRuuzqOoWJUEn_Photoaday_CSD%20%281%20of%201%29-5.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGdyb3VwfGVufDB8fHx8MTc4MDM5MTE4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/39/lIZrwvbeRuuzqOoWJUEn_Photoaday_CSD%20%281%20of%201%29-5.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGdyb3VwfGVufDB8fHx8MTc4MDM5MTE4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사업단은</category></item><item><title>개인용 – personal</title><link>urn:urn:vocab:개인용</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbHxlbnwwfHx8fDE3ODAzODM3NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개인용 (personal)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;젠슨 황 엔비디아 최고경영자(CEO)가 1일(현지시각) 대만 타이베이에서 열린 아시아 최대 정보기술 박람회인 ‘컴퓨텍스’에서 기조연설에 나서 ‘알티엑스(RTX) 스파크’를 탑재한 윈도우 기반의 개인용 컴퓨터를 공개하고 있다&lt;br/&gt;&lt;em&gt;NVIDIA CEO Jensen Huang delivers a keynote speech at Computex, Asia's largest IT trade fair, held in Taipei, Taiwan on the 1st (local time), unveiling a Windows-based personal computer equipped with the 'RTX Spark'.&lt;/em&gt;&lt;/p&gt;
