@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 00:19:56 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 04:30:47 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>투표로 – by voting</title><link>urn:urn:vocab:투표로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>선택하는 – choosing</title><link>urn:urn:vocab:선택하는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1539992190939-08f22d7ebaad?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaG9vc2luZ3xlbnwwfHx8fDE3ODA0Mjg2NDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선택하는 (choosing)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (조 사무총장은 “이번 지방선거는 ‘윤석열 키즈’를 퇴출하고, 국민의힘의 무능한 지방정부를 심판하고 일 잘하는 지방정부를 선택하는 선거”라며 “내란 세력과 극우 불법 세력을 심판하는 선거, 일 잘하는 대통령을 응원하고 지지하는 선거”라고 했다&lt;br/&gt;&lt;em&gt;" (Secretary-General Cho said, 'This local election is an election to expel the 'Yoon Seok-yeol kids,' judge the incompetent local governments of the People Power Party, and choose competent local governments,' adding, 'It is an election to judge the insurrection forces and far-right illegal forces, and an election to support and cheer for a president who does his job well.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (강훈식 대통령비서실장이 이재명 대통령의 전략경제협력 특사 자격으로 캐나다를 찾아 “조달 속도, 품질, 납기 신뢰성을 모두 갖춘 유일한 파트너인 한국을 선택하는 것은 캐나다 국방 조달 개혁의 성공 사례이자 새로운 경제성장 동력이 될 수 있다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (Chief of Staff Kang Hoon-sik, visiting Canada as a special envoy for strategic economic cooperation for President Lee Jae-myung, stated, 'Choosing Korea, the only partner with procurement speed, quality, and delivery reliability, can be a success story for Canada's defense procurement reform and a new engine for economic growth.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박 후보는 “이번 선거는 누가 경남의 살림을 제대로 알고, 성과를 만들어낼 수 있느냐를 선택하는 선거”라며 “저 박완수는 경남을 떠나지 않았다”고 했다&lt;br/&gt;&lt;em&gt;Candidate Park said, 'This election is about choosing who truly understands Gyeongnam's affairs and can produce results,' adding, 'I, Park Wan-soo, have never left Gyeongnam.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 선택하는 것을 좋아해요.&lt;br/&gt;&lt;em&gt;I like making choices.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선택하는 것이 어려워요.&lt;br/&gt;&lt;em&gt;Making choices is difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1539992190939-08f22d7ebaad?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaG9vc2luZ3xlbnwwfHx8fDE3ODA0Mjg2NDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선택하는 (choosing)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (조 사무총장은 “이번 지방선거는 ‘윤석열 키즈’를 퇴출하고, 국민의힘의 무능한 지방정부를 심판하고 일 잘하는 지방정부를 선택하는 선거”라며 “내란 세력과 극우 불법 세력을 심판하는 선거, 일 잘하는 대통령을 응원하고 지지하는 선거”라고 했다&lt;br/&gt;&lt;em&gt;" (Secretary-General Cho said, 'This local election is an election to expel the 'Yoon Seok-yeol kids,' judge the incompetent local governments of the People Power Party, and choose competent local governments,' adding, 'It is an election to judge the insurrection forces and far-right illegal forces, and an election to support and cheer for a president who does his job well.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (강훈식 대통령비서실장이 이재명 대통령의 전략경제협력 특사 자격으로 캐나다를 찾아 “조달 속도, 품질, 납기 신뢰성을 모두 갖춘 유일한 파트너인 한국을 선택하는 것은 캐나다 국방 조달 개혁의 성공 사례이자 새로운 경제성장 동력이 될 수 있다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (Chief of Staff Kang Hoon-sik, visiting Canada as a special envoy for strategic economic cooperation for President Lee Jae-myung, stated, 'Choosing Korea, the only partner with procurement speed, quality, and delivery reliability, can be a success story for Canada's defense procurement reform and a new engine for economic growth.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박 후보는 “이번 선거는 누가 경남의 살림을 제대로 알고, 성과를 만들어낼 수 있느냐를 선택하는 선거”라며 “저 박완수는 경남을 떠나지 않았다”고 했다&lt;br/&gt;&lt;em&gt;Candidate Park said, 'This election is about choosing who truly understands Gyeongnam's affairs and can produce results,' adding, 'I, Park Wan-soo, have never left Gyeongnam.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 선택하는 것을 좋아해요.&lt;br/&gt;&lt;em&gt;I like making choices.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선택하는 것이 어려워요.&lt;br/&gt;&lt;em&gt;Making choices is difficult.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 03 Jun 2026 04:30:47 +0900</pubDate><guid isPermaLink="false">vocab-349ab489a4cc03232fa3281a80115bab369025d5</guid><enclosure url="https://images.unsplash.com/photo-1539992190939-08f22d7ebaad?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaG9vc2luZ3xlbnwwfHx8fDE3ODA0Mjg2NDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="829592" /><ns2:content url="https://images.unsplash.com/photo-1539992190939-08f22d7ebaad?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaG9vc2luZ3xlbnwwfHx8fDE3ODA0Mjg2NDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1539992190939-08f22d7ebaad?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaG9vc2luZ3xlbnwwfHx8fDE3ODA0Mjg2NDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>선택하는</category></item><item><title>취소하는 – cancelling</title><link>urn:urn:vocab:취소하는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612478120623-0acf9e231d27?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5jZWxsaW5nfGVufDB8fHx8MTc4MDQyMTE3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="취소하는 (cancelling)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;잘못하면 사과하고 취소하는 것”) &lt;&lt;br/&gt;&lt;em&gt;If you make a mistake, apologize and cancel it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;잘못하면 사과하고 취소하는 것”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;If you make a mistake, apologize and cancel it.&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (이재명 대통령은 2일 국무회의에서 검찰을 향해 “누구나 잘못할 수 있다”며 “잘못하면 사과하고 취소하는 것”이라고 말했다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung said at a cabinet meeting on the 2nd, addressing the prosecution, "Anyone can make a mistake," adding, "If you make a mistake, apologize and cancel it."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주문을 취소하는 중이에요.&lt;br/&gt;&lt;em&gt;I am canceling the order.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예약을 취소하는 게 좋겠어요.&lt;br/&gt;&lt;em&gt;It would be better to cancel the reservation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612478120623-0acf9e231d27?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5jZWxsaW5nfGVufDB8fHx8MTc4MDQyMTE3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="취소하는 (cancelling)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;잘못하면 사과하고 취소하는 것”) &lt;&lt;br/&gt;&lt;em&gt;If you make a mistake, apologize and cancel it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;잘못하면 사과하고 취소하는 것”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;If you make a mistake, apologize and cancel it.&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (이재명 대통령은 2일 국무회의에서 검찰을 향해 “누구나 잘못할 수 있다”며 “잘못하면 사과하고 취소하는 것”이라고 말했다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung said at a cabinet meeting on the 2nd, addressing the prosecution, "Anyone can make a mistake," adding, "If you make a mistake, apologize and cancel it."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주문을 취소하는 중이에요.&lt;br/&gt;&lt;em&gt;I am canceling the order.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예약을 취소하는 게 좋겠어요.&lt;br/&gt;&lt;em&gt;It would be better to cancel the reservation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 03 Jun 2026 02:26:19 +0900</pubDate><guid isPermaLink="false">vocab-2ff56d4e84d6c4a2bd86abc5d3b04df6f778bb8d</guid><enclosure url="https://images.unsplash.com/photo-1612478120623-0acf9e231d27?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5jZWxsaW5nfGVufDB8fHx8MTc4MDQyMTE3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="74396" /><ns2:content url="https://images.unsplash.com/photo-1612478120623-0acf9e231d27?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5jZWxsaW5nfGVufDB8fHx8MTc4MDQyMTE3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1612478120623-0acf9e231d27?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjYW5jZWxsaW5nfGVufDB8fHx8MTc4MDQyMTE3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>취소하는</category></item><item><title>투표로 – by voting</title><link>urn:urn:vocab:투표로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieSUyMHZvdGluZ3xlbnwwfHx8fDE3ODA0MTM1OTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표로 (by voting)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;장동혁 “투표로 李 경제파괴 폭주 멈춰세워야”) &lt;&lt;br/&gt;&lt;em&gt;Jang Dong-hyuk: “Stop Lee’s economic destruction rampage through voting”) &lt;&lt;/em&gt;&lt;/p&gt;
