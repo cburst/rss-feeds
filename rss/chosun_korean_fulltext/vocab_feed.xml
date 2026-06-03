@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 03:11:16 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 07:23:39 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>투표소는 – polling place</title><link>urn:urn:vocab:투표소는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>투표소가 – polling place</title><link>urn:urn:vocab:투표소가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1667964267136-c0256d70b7a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwcGxhY2V8ZW58MHx8fHwxNzgwNTEwMjcyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표소가 (polling place)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선관위가 유권자 수보다 투표용지를 적게 준비했고, 이 때문에 투표용지가 부족해진 투표소가 속출했다&lt;br/&gt;&lt;em&gt;The election commission prepared fewer ballots than the number of voters, leading to a surge in polling stations running out of ballots.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (베를린주 헌재는 특히 투표용지 부족으로 투표소 운영이 중단된 것에 대해 “투표를 기다리던 유권자들은 투표소가 언제 다시 문을 열지 알 수 없는 상황이었다”고 했다&lt;br/&gt;&lt;em&gt;" (The Berlin State Constitutional Court specifically noted regarding the suspension of polling station operations due to ballot shortages that 'voters waiting to vote were in a situation where they could not know when the polling station would reopen.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;베를린주 헌재는 “유권자들은 투표소가 언제 다시 문을 열지 알 수 없는 상황이었고, 집으로 돌아가 버린 유권자가 몇 명인지 파악하는 것은 불가능하다”면서 “일부 선거구에서는 100여 표만 다르게 집계됐더라도 의석 배분을 바꾸기에 충분했을 것”이라고 했다&lt;br/&gt;&lt;em&gt;The Berlin State Constitutional Court stated, 'Voters were in a situation where they could not know when the polling station would reopen, and it is impossible to determine how many voters went home. In some districts, even a difference of about 100 votes would have been enough to change the allocation of seats.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표소가 어디에 있습니까?&lt;br/&gt;&lt;em&gt;Where is the polling station?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 투표소가 가깝습니다.&lt;br/&gt;&lt;em&gt;This polling station is close.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1667964267136-c0256d70b7a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwcGxhY2V8ZW58MHx8fHwxNzgwNTEwMjcyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표소가 (polling place)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선관위가 유권자 수보다 투표용지를 적게 준비했고, 이 때문에 투표용지가 부족해진 투표소가 속출했다&lt;br/&gt;&lt;em&gt;The election commission prepared fewer ballots than the number of voters, leading to a surge in polling stations running out of ballots.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (베를린주 헌재는 특히 투표용지 부족으로 투표소 운영이 중단된 것에 대해 “투표를 기다리던 유권자들은 투표소가 언제 다시 문을 열지 알 수 없는 상황이었다”고 했다&lt;br/&gt;&lt;em&gt;" (The Berlin State Constitutional Court specifically noted regarding the suspension of polling station operations due to ballot shortages that 'voters waiting to vote were in a situation where they could not know when the polling station would reopen.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;베를린주 헌재는 “유권자들은 투표소가 언제 다시 문을 열지 알 수 없는 상황이었고, 집으로 돌아가 버린 유권자가 몇 명인지 파악하는 것은 불가능하다”면서 “일부 선거구에서는 100여 표만 다르게 집계됐더라도 의석 배분을 바꾸기에 충분했을 것”이라고 했다&lt;br/&gt;&lt;em&gt;The Berlin State Constitutional Court stated, 'Voters were in a situation where they could not know when the polling station would reopen, and it is impossible to determine how many voters went home. In some districts, even a difference of about 100 votes would have been enough to change the allocation of seats.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표소가 어디에 있습니까?&lt;br/&gt;&lt;em&gt;Where is the polling station?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 투표소가 가깝습니다.&lt;br/&gt;&lt;em&gt;This polling station is close.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 04 Jun 2026 07:23:38 +0900</pubDate><guid isPermaLink="false">vocab-b406b42539a118bcbb8f1904c1ac880d180171b2</guid><enclosure url="https://images.unsplash.com/photo-1667964267136-c0256d70b7a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwcGxhY2V8ZW58MHx8fHwxNzgwNTEwMjcyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="288996" /><ns2:content url="https://images.unsplash.com/photo-1667964267136-c0256d70b7a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwcGxhY2V8ZW58MHx8fHwxNzgwNTEwMjcyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1667964267136-c0256d70b7a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwcGxhY2V8ZW58MHx8fHwxNzgwNTEwMjcyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>투표소가</category></item><item><title>투표소는 – polling place</title><link>urn:urn:vocab:투표소는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1667964267136-c0256d70b7a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwcGxhY2V8ZW58MHx8fHwxNzgwNTEwMjcyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표소는 (polling place)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(인천시 옹진군선거관리위원회 등에 따르면 백령도를 비롯한 134개 섬으로 이뤄진 옹진군 투표소는 백령도 4곳, 영흥도 3곳, 연평도 2곳 등 총 25곳에 마련됐다&lt;br/&gt;&lt;em&gt;According to the Incheon Ongjin County Election Commission and others, polling stations in Ongjin County, which consists of 134 islands including Baengnyeong Island, were set up at a total of 25 locations: 4 on Baengnyeong Island, 3 on Yeongheung Island, 2 on Yeonpyeong Island, etc.&lt;/em&gt;&lt;/p&gt;
