@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 07:32:10 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 14:43:45 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,95 @@
 
 
 
-  <item><title>눈높이에서 – at eye level</title><link>urn:urn:vocab:눈높이에서</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>진행된 – proceeded</title><link>urn:urn:vocab:진행된</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567593810070-7a3d471af022?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9jZWVkZWR8ZW58MHx8fHwxNzgwNDY1NDIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="진행된 (proceeded)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이어 진행된 교수 상담 및 식사 시간에는 가배정 전공 교수와 학생들이 자유롭게 대화를 나누며 학업과 진로, 대학생활 전반에 대한 의견을 공유했다&lt;br/&gt;&lt;em&gt;During the subsequent professor consultation and meal time, students freely conversed with their pre-assigned major professors, sharing opinions on academics, career paths, and overall university life.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 행사는 6월 2일(화)부터 18일(목)까지 3주간 화·수·목요일 오전 8시부터 10시까지 학생회관 2층 학생식당에서 진행된다&lt;br/&gt;&lt;em&gt;This event will be held from Tuesday, June 2 to Thursday, June 18, for three weeks, on Tuesdays, Wednesdays, and Thursdays from 8:00 AM to 10:00 AM at the student cafeteria on the second floor of the student union building.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번 시즌엔 농인과 청인 배우가 함께 무대에 오르고 수어와 음성 대사가 공존하는 수어연극으로 진행된다&lt;br/&gt;&lt;em&gt;This season, it will be performed as a sign language play where deaf and hearing actors perform together on stage, with sign language and spoken dialogue coexisting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회의가 순조롭게 진행됐다.&lt;br/&gt;&lt;em&gt;The meeting went smoothly.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;수업이 계획대로 진행됐다.&lt;br/&gt;&lt;em&gt;The class proceeded as planned.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1567593810070-7a3d471af022?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9jZWVkZWR8ZW58MHx8fHwxNzgwNDY1NDIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="진행된 (proceeded)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이어 진행된 교수 상담 및 식사 시간에는 가배정 전공 교수와 학생들이 자유롭게 대화를 나누며 학업과 진로, 대학생활 전반에 대한 의견을 공유했다&lt;br/&gt;&lt;em&gt;During the subsequent professor consultation and meal time, students freely conversed with their pre-assigned major professors, sharing opinions on academics, career paths, and overall university life.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 행사는 6월 2일(화)부터 18일(목)까지 3주간 화·수·목요일 오전 8시부터 10시까지 학생회관 2층 학생식당에서 진행된다&lt;br/&gt;&lt;em&gt;This event will be held from Tuesday, June 2 to Thursday, June 18, for three weeks, on Tuesdays, Wednesdays, and Thursdays from 8:00 AM to 10:00 AM at the student cafeteria on the second floor of the student union building.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번 시즌엔 농인과 청인 배우가 함께 무대에 오르고 수어와 음성 대사가 공존하는 수어연극으로 진행된다&lt;br/&gt;&lt;em&gt;This season, it will be performed as a sign language play where deaf and hearing actors perform together on stage, with sign language and spoken dialogue coexisting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회의가 순조롭게 진행됐다.&lt;br/&gt;&lt;em&gt;The meeting went smoothly.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;수업이 계획대로 진행됐다.&lt;br/&gt;&lt;em&gt;The class proceeded as planned.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 03 Jun 2026 14:43:45 +0900</pubDate><guid isPermaLink="false">vocab-e594d61dd4f6dd8a8e56fce240dce9f7fd1b900f</guid><enclosure url="https://images.unsplash.com/photo-1567593810070-7a3d471af022?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9jZWVkZWR8ZW58MHx8fHwxNzgwNDY1NDIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="99866" /><ns2:content url="https://images.unsplash.com/photo-1567593810070-7a3d471af022?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9jZWVkZWR8ZW58MHx8fHwxNzgwNDY1NDIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1567593810070-7a3d471af022?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9jZWVkZWR8ZW58MHx8fHwxNzgwNDY1NDIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>진행된</category></item><item><title>현재까지 – until now</title><link>urn:urn:vocab:현재까지</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1607523751675-a5c894ceb6bc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bnRpbCUyMG5vd3xlbnwwfHx8fDE3ODA0NTc5OTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="현재까지 (until now)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현재까지 투표율이 가장 낮은 곳은 광주광역시(4&lt;br/&gt;&lt;em&gt;The place with the lowest voter turnout so far is Gwangju Metropolitan City (4&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 아침 6시부터 시작된 본투표에 현재까지 참여한 유권자 수는 332만829명이다&lt;br/&gt;&lt;em&gt;As of now, the number of voters who have participated in the main voting that started at 6 a.m. today is 3,320,829.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재까지 투표율이 가장 낮은 곳은 광주광역시(7&lt;br/&gt;&lt;em&gt;The place with the lowest voter turnout so far is Gwangju Metropolitan City (7&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현재까지 나는 학생이었다.&lt;br/&gt;&lt;em&gt;Until now, I was a student.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재까지 비가 왔다.&lt;br/&gt;&lt;em&gt;Until now, it has been raining.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1607523751675-a5c894ceb6bc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bnRpbCUyMG5vd3xlbnwwfHx8fDE3ODA0NTc5OTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="현재까지 (until now)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현재까지 투표율이 가장 낮은 곳은 광주광역시(4&lt;br/&gt;&lt;em&gt;The place with the lowest voter turnout so far is Gwangju Metropolitan City (4&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이날 아침 6시부터 시작된 본투표에 현재까지 참여한 유권자 수는 332만829명이다&lt;br/&gt;&lt;em&gt;As of now, the number of voters who have participated in the main voting that started at 6 a.m. today is 3,320,829.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재까지 투표율이 가장 낮은 곳은 광주광역시(7&lt;br/&gt;&lt;em&gt;The place with the lowest voter turnout so far is Gwangju Metropolitan City (7&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현재까지 나는 학생이었다.&lt;br/&gt;&lt;em&gt;Until now, I was a student.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;현재까지 비가 왔다.&lt;br/&gt;&lt;em&gt;Until now, it has been raining.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 03 Jun 2026 12:39:53 +0900</pubDate><guid isPermaLink="false">vocab-f7c8cf1341c2cde7c69075bfef4351c9e1cf17ea</guid><enclosure url="https://images.unsplash.com/photo-1607523751675-a5c894ceb6bc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bnRpbCUyMG5vd3xlbnwwfHx8fDE3ODA0NTc5OTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="81787" /><ns2:content url="https://images.unsplash.com/photo-1607523751675-a5c894ceb6bc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bnRpbCUyMG5vd3xlbnwwfHx8fDE3ODA0NTc5OTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1607523751675-a5c894ceb6bc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx1bnRpbCUyMG5vd3xlbnwwfHx8fDE3ODA0NTc5OTF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>현재까지</category></item><item><title>시작됐다 – started</title><link>urn:urn:vocab:시작됐다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1562516155-e0c1ee44059b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFydGVkfGVufDB8fHx8MTc4MDQ1MDU1Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시작됐다 (started)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(지구의 날은 1969년 미국 캘리포니아주에서 발생한 대규모 원유 유출 사고를 계기로 시작됐다&lt;br/&gt;&lt;em&gt;Earth Day began in 1969 after a massive oil spill in California, USA.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(교실의 변화는 거창한 지식이 아니라 작은 경험에서 시작됐다&lt;br/&gt;&lt;em&gt;The change in the classroom started not from grand knowledge but from small experiences.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(한국과 미국의 정상회담 합의 사항인 안보 분야 협상이 2일 시작됐다&lt;br/&gt;&lt;em&gt;Security negotiations, agreed upon at the South Korea-US summit, began on the 2nd.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;수업이 시작됐다.&lt;br/&gt;&lt;em&gt;The class has started.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;영화가 시작됐다.&lt;br/&gt;&lt;em&gt;The movie has started.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1562516155-e0c1ee44059b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFydGVkfGVufDB8fHx8MTc4MDQ1MDU1Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="시작됐다 (started)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(지구의 날은 1969년 미국 캘리포니아주에서 발생한 대규모 원유 유출 사고를 계기로 시작됐다&lt;br/&gt;&lt;em&gt;Earth Day began in 1969 after a massive oil spill in California, USA.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(교실의 변화는 거창한 지식이 아니라 작은 경험에서 시작됐다&lt;br/&gt;&lt;em&gt;The change in the classroom started not from grand knowledge but from small experiences.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(한국과 미국의 정상회담 합의 사항인 안보 분야 협상이 2일 시작됐다&lt;br/&gt;&lt;em&gt;Security negotiations, agreed upon at the South Korea-US summit, began on the 2nd.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;수업이 시작됐다.&lt;br/&gt;&lt;em&gt;The class has started.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;영화가 시작됐다.&lt;br/&gt;&lt;em&gt;The movie has started.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 03 Jun 2026 10:35:55 +0900</pubDate><guid isPermaLink="false">vocab-1c80afea8db320db9fb4e4ab4c45b011f2fe2895</guid><enclosure url="https://images.unsplash.com/photo-1562516155-e0c1ee44059b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFydGVkfGVufDB8fHx8MTc4MDQ1MDU1Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="197821" /><ns2:content url="https://images.unsplash.com/photo-1562516155-e0c1ee44059b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFydGVkfGVufDB8fHx8MTc4MDQ1MDU1Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1562516155-e0c1ee44059b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFydGVkfGVufDB8fHx8MTc4MDQ1MDU1Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>시작됐다</category></item><item><title>분야에 – in the field</title><link>urn:urn:vocab:분야에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504280645497-00afe6a47e43?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGZpZWxkfGVufDB8fHx8MTc4MDQ0NzExMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="분야에 (in the field)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;특히 뉴욕 연준이 전담하는 공개시장운영(OMO) 한 분야에서만 연간 117만 시간의 업무 효율화 잠재력을 확인했다고 덧붙였다&lt;br/&gt;&lt;em&gt;In particular, it added that it has identified the potential to improve work efficiency by 1.17 million hours per year in just one area of open market operations (OMO) handled by the New York Fed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;75, 1)로 점수화하고 전체 정규직 환산 인력(FTEs) 총량을 파악한 뒤 부서별 예산 지출 비중과 인력 투입 규모가 정비례한다는 가정 아래 각 기능 분야에 배분된 총 노동 시간을 계산하는 방식을 활용했다고 밝혔다&lt;br/&gt;&lt;em&gt;It was revealed that they scored it as (75, 1), determined the total number of full-time equivalents (FTEs), and then calculated the total labor hours allocated to each functional area under the assumption that the budget expenditure ratio by department is directly proportional to the amount of manpower input.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(고려사이버대학교 미디어 관련 분야에서 교육과 연구를 이어오고 있는 이경숙 교수는 미디어, 젠더, 문화연구를 아우르는 연구를 통해 우리 사회의 변화와 커뮤니케이션 환경을 분석해 온 학자다&lt;br/&gt;&lt;em&gt;Professor Lee Kyung-sook, who has been continuing education and research in media-related fields at Korea Cyber University, is a scholar who has analyzed changes in our society and the communication environment through research encompassing media, gender, and cultural studies.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 의학 분야에 관심이 있어요.&lt;br/&gt;&lt;em&gt;I am interested in the medical field.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 IT 분야에 전문가예요.&lt;br/&gt;&lt;em&gt;He is an expert in the IT field.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504280645497-00afe6a47e43?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGZpZWxkfGVufDB8fHx8MTc4MDQ0NzExMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="분야에 (in the field)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;특히 뉴욕 연준이 전담하는 공개시장운영(OMO) 한 분야에서만 연간 117만 시간의 업무 효율화 잠재력을 확인했다고 덧붙였다&lt;br/&gt;&lt;em&gt;In particular, it added that it has identified the potential to improve work efficiency by 1.17 million hours per year in just one area of open market operations (OMO) handled by the New York Fed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;75, 1)로 점수화하고 전체 정규직 환산 인력(FTEs) 총량을 파악한 뒤 부서별 예산 지출 비중과 인력 투입 규모가 정비례한다는 가정 아래 각 기능 분야에 배분된 총 노동 시간을 계산하는 방식을 활용했다고 밝혔다&lt;br/&gt;&lt;em&gt;It was revealed that they scored it as (75, 1), determined the total number of full-time equivalents (FTEs), and then calculated the total labor hours allocated to each functional area under the assumption that the budget expenditure ratio by department is directly proportional to the amount of manpower input.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(고려사이버대학교 미디어 관련 분야에서 교육과 연구를 이어오고 있는 이경숙 교수는 미디어, 젠더, 문화연구를 아우르는 연구를 통해 우리 사회의 변화와 커뮤니케이션 환경을 분석해 온 학자다&lt;br/&gt;&lt;em&gt;Professor Lee Kyung-sook, who has been continuing education and research in media-related fields at Korea Cyber University, is a scholar who has analyzed changes in our society and the communication environment through research encompassing media, gender, and cultural studies.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 의학 분야에 관심이 있어요.&lt;br/&gt;&lt;em&gt;I am interested in the medical field.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 IT 분야에 전문가예요.&lt;br/&gt;&lt;em&gt;He is an expert in the IT field.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 03 Jun 2026 09:38:35 +0900</pubDate><guid isPermaLink="false">vocab-8d793c82d5d95036cc3468773ce9650f033454aa</guid><enclosure url="https://images.unsplash.com/photo-1504280645497-00afe6a47e43?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGZpZWxkfGVufDB8fHx8MTc4MDQ0NzExMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="177882" /><ns2:content url="https://images.unsplash.com/photo-1504280645497-00afe6a47e43?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGZpZWxkfGVufDB8fHx8MTc4MDQ0NzExMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1504280645497-00afe6a47e43?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRoZSUyMGZpZWxkfGVufDB8fHx8MTc4MDQ0NzExMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>분야에</category></item><item><title>눈높이에서 – at eye level</title><link>urn:urn:vocab:눈높이에서</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1630419493571-5066ebfb5889?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMGV5ZSUyMGxldmVsfGVufDB8fHx8MTc4MDQzOTUyNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="눈높이에서 (at eye level)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;절기가 거창한 개념이 아니라 일상을 더 풍요롭게 만드는 즐거운 리듬이라는 것을 아이의 눈높이에서 알려준다&lt;br/&gt;&lt;em&gt;It teaches from a child's perspective that the seasons are not a grandiose concept but a joyful rhythm that enriches daily life.&lt;/em&gt;&lt;/p&gt;

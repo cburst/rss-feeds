@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 07:32:15 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 14:43:49 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,93 @@
 
 
 
-  <item><title>눈물로 – with tears</title><link>urn:urn:vocab:눈물로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>당선자 – elected person</title><link>urn:urn:vocab:당선자</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1669642605007-7bb21e92d7b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGVkJTIwcGVyc29ufGVufDB8fHx8MTc4MDQ2NTQyNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="당선자 (elected person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Winner likely to emerge around midnight (당선자 윤곽은 자정쯤 나올듯) &lt;&lt;br/&gt;&lt;em&gt;Winner likely to emerge around midnight&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Winner likely to emerge around midnight (당선자 윤곽은 자정쯤 나올듯)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Winner likely to emerge around midnight&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (당선자 윤곽은 이르면 자정쯤부터 결정된다&lt;br/&gt;&lt;em&gt;" (The winner's outline will be decided from around midnight at the earliest)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;당선자가 연설을 했습니다.&lt;br/&gt;&lt;em&gt;The elected candidate gave a speech.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 당선자입니다.&lt;br/&gt;&lt;em&gt;He is the elected candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1669642605007-7bb21e92d7b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGVkJTIwcGVyc29ufGVufDB8fHx8MTc4MDQ2NTQyNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="당선자 (elected person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Winner likely to emerge around midnight (당선자 윤곽은 자정쯤 나올듯) &lt;&lt;br/&gt;&lt;em&gt;Winner likely to emerge around midnight&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Winner likely to emerge around midnight (당선자 윤곽은 자정쯤 나올듯)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Winner likely to emerge around midnight&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (당선자 윤곽은 이르면 자정쯤부터 결정된다&lt;br/&gt;&lt;em&gt;" (The winner's outline will be decided from around midnight at the earliest)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;당선자가 연설을 했습니다.&lt;br/&gt;&lt;em&gt;The elected candidate gave a speech.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 당선자입니다.&lt;br/&gt;&lt;em&gt;He is the elected candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 03 Jun 2026 14:43:49 +0900</pubDate><guid isPermaLink="false">vocab-3150630a8bed7f485571a5b124ef630f6471f543</guid><enclosure url="https://images.unsplash.com/photo-1669642605007-7bb21e92d7b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGVkJTIwcGVyc29ufGVufDB8fHx8MTc4MDQ2NTQyNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="338700" /><ns2:content url="https://images.unsplash.com/photo-1669642605007-7bb21e92d7b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGVkJTIwcGVyc29ufGVufDB8fHx8MTc4MDQ2NTQyNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1669642605007-7bb21e92d7b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGVkJTIwcGVyc29ufGVufDB8fHx8MTc4MDQ2NTQyNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>당선자</category></item><item><title>투표장에 – at the polling place</title><link>urn:urn:vocab:투표장에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1667964267136-c0256d70b7a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMHBvbGxpbmclMjBwbGFjZXxlbnwwfHx8fDE3ODA0NTc5OTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표장에 (at the polling place)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;민주당 관계자는 “지금은 여론조사 수치보다 누가 더 많이 투표장에 나오느냐가 중요한 국면”이라며 “서울과 부산은 마지막 투표율이 핵심 변수”라고 말했다&lt;br/&gt;&lt;em&gt;A Democratic Party official said, "Now is a crucial phase where it's more important who comes out to vote than the poll numbers," adding, "In Seoul and Busan, the final turnout is a key variable."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 “내가 지지하는 후보에게 딱 한 표가 부족하다는 절박한 마음으로 투표장에 나와 달라&lt;br/&gt;&lt;em&gt;He added, "Please come to the polls with the desperate feeling that your candidate is just one vote short."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘 꼭 투표장에 가셔서 국민 여러분의 소중한 한 표를 행사해 달라&lt;br/&gt;&lt;em&gt;Please go to the polls today and cast your precious vote, citizens.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 투표장에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the polling station.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표장에 사람이 많아요.&lt;br/&gt;&lt;em&gt;There are many people at the polling station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1667964267136-c0256d70b7a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMHBvbGxpbmclMjBwbGFjZXxlbnwwfHx8fDE3ODA0NTc5OTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표장에 (at the polling place)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;민주당 관계자는 “지금은 여론조사 수치보다 누가 더 많이 투표장에 나오느냐가 중요한 국면”이라며 “서울과 부산은 마지막 투표율이 핵심 변수”라고 말했다&lt;br/&gt;&lt;em&gt;A Democratic Party official said, "Now is a crucial phase where it's more important who comes out to vote than the poll numbers," adding, "In Seoul and Busan, the final turnout is a key variable."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그러면서 “내가 지지하는 후보에게 딱 한 표가 부족하다는 절박한 마음으로 투표장에 나와 달라&lt;br/&gt;&lt;em&gt;He added, "Please come to the polls with the desperate feeling that your candidate is just one vote short."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘 꼭 투표장에 가셔서 국민 여러분의 소중한 한 표를 행사해 달라&lt;br/&gt;&lt;em&gt;Please go to the polls today and cast your precious vote, citizens.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 투표장에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the polling station.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표장에 사람이 많아요.&lt;br/&gt;&lt;em&gt;There are many people at the polling station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 03 Jun 2026 12:39:58 +0900</pubDate><guid isPermaLink="false">vocab-f21504353e1d5823d1bd8eee4663a9421fad7959</guid><enclosure url="https://images.unsplash.com/photo-1667964267136-c0256d70b7a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMHBvbGxpbmclMjBwbGFjZXxlbnwwfHx8fDE3ODA0NTc5OTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="288996" /><ns2:content url="https://images.unsplash.com/photo-1667964267136-c0256d70b7a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMHBvbGxpbmclMjBwbGFjZXxlbnwwfHx8fDE3ODA0NTc5OTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1667964267136-c0256d70b7a3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMHBvbGxpbmclMjBwbGFjZXxlbnwwfHx8fDE3ODA0NTc5OTV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>투표장에</category></item><item><title>투표하면 – if (one) votes</title><link>urn:urn:vocab:투표하면</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZiUyMCUyOG9uZSUyOSUyMHZvdGVzfGVufDB8fHx8MTc4MDQ1MDU1OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표하면 (if (one) votes)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;먼저 시도지사·교육감·기초단체장 투표용지 3장을 받아 기표한 뒤 투표함에 넣고, 다시 지역구 광역·기초의원, 비례대표 광역·기초의원 투표용지 4장을 받아 투표하면 된다&lt;br/&gt;&lt;em&gt;First, receive three ballot papers for the mayor/governor, superintendent of education, and basic local government head, mark them, put them in the ballot box, then receive four ballot papers for district-level metropolitan and basic council members and proportional representation metropolitan and basic council members, and vote.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표하면 바꿀 수 있다”고 말했다&lt;br/&gt;&lt;em&gt;He said, 'If you vote, you can change things.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표하면 우리 의견이 반영돼요.&lt;br/&gt;&lt;em&gt;If we vote, our opinions are reflected.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표하면 좋은 후보를 뽑을 수 있어요.&lt;br/&gt;&lt;em&gt;If we vote, we can choose good candidates.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZiUyMCUyOG9uZSUyOSUyMHZvdGVzfGVufDB8fHx8MTc4MDQ1MDU1OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표하면 (if (one) votes)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;먼저 시도지사·교육감·기초단체장 투표용지 3장을 받아 기표한 뒤 투표함에 넣고, 다시 지역구 광역·기초의원, 비례대표 광역·기초의원 투표용지 4장을 받아 투표하면 된다&lt;br/&gt;&lt;em&gt;First, receive three ballot papers for the mayor/governor, superintendent of education, and basic local government head, mark them, put them in the ballot box, then receive four ballot papers for district-level metropolitan and basic council members and proportional representation metropolitan and basic council members, and vote.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표하면 바꿀 수 있다”고 말했다&lt;br/&gt;&lt;em&gt;He said, 'If you vote, you can change things.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표하면 우리 의견이 반영돼요.&lt;br/&gt;&lt;em&gt;If we vote, our opinions are reflected.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표하면 좋은 후보를 뽑을 수 있어요.&lt;br/&gt;&lt;em&gt;If we vote, we can choose good candidates.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 03 Jun 2026 10:36:01 +0900</pubDate><guid isPermaLink="false">vocab-19733ae2957d7614c2062bc4dd20612eff984a03</guid><enclosure url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZiUyMCUyOG9uZSUyOSUyMHZvdGVzfGVufDB8fHx8MTc4MDQ1MDU1OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="139078" /><ns2:content url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZiUyMCUyOG9uZSUyOSUyMHZvdGVzfGVufDB8fHx8MTc4MDQ1MDU1OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZiUyMCUyOG9uZSUyOSUyMHZvdGVzfGVufDB8fHx8MTc4MDQ1MDU1OHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>투표하면</category></item><item><title>예상했다 – expected</title><link>urn:urn:vocab:예상했다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1618759618709-2333be0254cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RlZHxlbnwwfHx8fDE3ODA0NDcxMTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="예상했다 (expected)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(더불어민주당은 이번 6·3 지방선거 수도권 기초단체장(구청장·시장·군수) 선거에서 2022년 지방선거 때 패했던 지역 상당수를 탈환할 수 있다고 예상했다&lt;br/&gt;&lt;em&gt;The Democratic Party of Korea predicted that it could recapture many of the areas it lost in the 2022 local elections in the metropolitan area's basic local government head (district mayor, city mayor, county mayor) elections in the June 3 local elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;강서·광진·도봉·마포·서대문·양천·영등포·종로 등 8곳은 접전으로 예상했다&lt;br/&gt;&lt;em&gt;It predicted eight districts—Gangseo, Gwangjin, Dobong, Mapo, Seodaemun, Yangcheon, Yeongdeungpo, and Jongno—as close races.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (국민의힘은 보수 텃밭인 대구 달성과 울산 남갑 2곳에서 승리를 예상했다&lt;br/&gt;&lt;em&gt;The People Power Party predicted victory in two conservative strongholds: Daegu Dalseong and Ulsan Namgap.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 그 결과를 예상했다.&lt;br/&gt;&lt;em&gt;I expected the result.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 비가 올 것을 예상했다.&lt;br/&gt;&lt;em&gt;He expected it to rain.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1618759618709-2333be0254cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RlZHxlbnwwfHx8fDE3ODA0NDcxMTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="예상했다 (expected)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(더불어민주당은 이번 6·3 지방선거 수도권 기초단체장(구청장·시장·군수) 선거에서 2022년 지방선거 때 패했던 지역 상당수를 탈환할 수 있다고 예상했다&lt;br/&gt;&lt;em&gt;The Democratic Party of Korea predicted that it could recapture many of the areas it lost in the 2022 local elections in the metropolitan area's basic local government head (district mayor, city mayor, county mayor) elections in the June 3 local elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;강서·광진·도봉·마포·서대문·양천·영등포·종로 등 8곳은 접전으로 예상했다&lt;br/&gt;&lt;em&gt;It predicted eight districts—Gangseo, Gwangjin, Dobong, Mapo, Seodaemun, Yangcheon, Yeongdeungpo, and Jongno—as close races.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (국민의힘은 보수 텃밭인 대구 달성과 울산 남갑 2곳에서 승리를 예상했다&lt;br/&gt;&lt;em&gt;The People Power Party predicted victory in two conservative strongholds: Daegu Dalseong and Ulsan Namgap.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 그 결과를 예상했다.&lt;br/&gt;&lt;em&gt;I expected the result.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 비가 올 것을 예상했다.&lt;br/&gt;&lt;em&gt;He expected it to rain.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 03 Jun 2026 09:38:40 +0900</pubDate><guid isPermaLink="false">vocab-918b02626d1da9d8e6ccb221f015dd6d0c2eb833</guid><enclosure url="https://images.unsplash.com/photo-1618759618709-2333be0254cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RlZHxlbnwwfHx8fDE3ODA0NDcxMTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="68653" /><ns2:content url="https://images.unsplash.com/photo-1618759618709-2333be0254cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RlZHxlbnwwfHx8fDE3ODA0NDcxMTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1618759618709-2333be0254cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RlZHxlbnwwfHx8fDE3ODA0NDcxMTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>예상했다</category></item><item><title>눈물로 – with tears</title><link>urn:urn:vocab:눈물로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1494368308039-ed3393a402a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aXRoJTIwdGVhcnN8ZW58MHx8fHwxNzgwNDM5NTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="눈물로 (with tears)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;"I Will Protect Your Dreams" "Please Help Me": Final Campaign Rally Pleas Amid Tears (“꿈 지키겠다” “도와주이소” 눈물로 호소한 마지막 유세) &lt;&lt;br/&gt;&lt;em&gt;"I Will Protect Your Dreams" "Please Help Me": Final Campaign Rally Pleas Amid Tears&lt;/em&gt;&lt;/p&gt;
