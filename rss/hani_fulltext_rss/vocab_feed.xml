@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 01:06:24 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 03:11:11 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>소감을 – impression</title><link>urn:urn:vocab:소감을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기록해 – record</title><link>urn:urn:vocab:기록해</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1602848597941-0d3d3a2c1241?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvcmR8ZW58MHx8fHwxNzgwNTEwMjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기록해 (record)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4% 증가한 17조원을 기록해 보험료수익 증가율을 웃돌았다&lt;br/&gt;&lt;em&gt;It recorded 17 trillion won, a 4% increase, exceeding the growth rate of premium income.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;어떤 씨앗을 심었는지, 물을 언제 얼마나 주었는지 그림으로 기록해볼 수 있다&lt;br/&gt;&lt;em&gt;You can record in pictures what seeds were planted and when and how much water was given.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이날은 아이와 막대기를 땅에 꽂아 그림자 길이를 측정하고, 아침·낮·저녁으로 기록해 보자&lt;br/&gt;&lt;em&gt;On this day, let's measure the length of the shadow by sticking a stick into the ground with the child, and record it in the morning, at noon, and in the evening.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;날짜를 기록해 주세요.&lt;br/&gt;&lt;em&gt;Please record the date.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여기에 기록해 두세요.&lt;br/&gt;&lt;em&gt;Please record it here.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1602848597941-0d3d3a2c1241?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvcmR8ZW58MHx8fHwxNzgwNTEwMjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기록해 (record)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4% 증가한 17조원을 기록해 보험료수익 증가율을 웃돌았다&lt;br/&gt;&lt;em&gt;It recorded 17 trillion won, a 4% increase, exceeding the growth rate of premium income.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;어떤 씨앗을 심었는지, 물을 언제 얼마나 주었는지 그림으로 기록해볼 수 있다&lt;br/&gt;&lt;em&gt;You can record in pictures what seeds were planted and when and how much water was given.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이날은 아이와 막대기를 땅에 꽂아 그림자 길이를 측정하고, 아침·낮·저녁으로 기록해 보자&lt;br/&gt;&lt;em&gt;On this day, let's measure the length of the shadow by sticking a stick into the ground with the child, and record it in the morning, at noon, and in the evening.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;날짜를 기록해 주세요.&lt;br/&gt;&lt;em&gt;Please record the date.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여기에 기록해 두세요.&lt;br/&gt;&lt;em&gt;Please record it here.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 04 Jun 2026 03:11:11 +0900</pubDate><guid isPermaLink="false">vocab-54efac819a5d019233c68dec6ed15d5e13df48b7</guid><enclosure url="https://images.unsplash.com/photo-1602848597941-0d3d3a2c1241?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvcmR8ZW58MHx8fHwxNzgwNTEwMjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="101414" /><ns2:content url="https://images.unsplash.com/photo-1602848597941-0d3d3a2c1241?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvcmR8ZW58MHx8fHwxNzgwNTEwMjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1602848597941-0d3d3a2c1241?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNvcmR8ZW58MHx8fHwxNzgwNTEwMjY4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기록해</category></item><item><title>소감을 – impression</title><link>urn:urn:vocab:소감을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1521058670233-1d18329b906b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbXByZXNzaW9ufGVufDB8fHx8MTc4MDUwMjc4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="소감을 (impression)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (워크숍에 참여한 이주연 학생(시각디자인학과 24)과 조윤하·허제인 학생(영상디자인학과 23)은 “서로 다른 문화권의 학생들과 함께 서울을 탐색하고 결과물을 완성하는 과정이 매우 뜻깊었다”며 “디자인과 이미지를 통해 충분히 소통할 수 있다는 점을 느꼈다”고 소감을 전했다&lt;br/&gt;&lt;em&gt;"Lee Ju-yeon (Visual Design, Class of 24), Jo Yoon-ha and Heo Je-in (Video Design, Class of 23), who participated in the workshop, shared their impressions, saying, 'The process of exploring Seoul with students from different cultural backgrounds and completing the outcome was very meaningful,' and 'We felt that we could communicate sufficiently through design and images.'"&lt;/em&gt;&lt;/p&gt;
