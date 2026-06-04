@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 13:41:18 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 17:50:44 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>당선인은 – the elected person</title><link>urn:urn:vocab:당선인은</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>득표율 – vote rate</title><link>urn:urn:vocab:득표율</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlJTIwcmF0ZXxlbnwwfHx8fDE3ODA1NjMwNDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="득표율 (vote rate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;26%)를 상대로 득표율 59&lt;br/&gt;&lt;em&gt;59% of the vote against 26%)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;8%) 득표율 78&lt;br/&gt;&lt;em&gt;78% of the vote 8%)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;7%) 득표율 64&lt;br/&gt;&lt;em&gt;64% of the vote 7%)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;득표율이 높습니다.&lt;br/&gt;&lt;em&gt;The vote rate is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;득표율을 확인하세요.&lt;br/&gt;&lt;em&gt;Check the vote rate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlJTIwcmF0ZXxlbnwwfHx8fDE3ODA1NjMwNDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="득표율 (vote rate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;26%)를 상대로 득표율 59&lt;br/&gt;&lt;em&gt;59% of the vote against 26%)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;8%) 득표율 78&lt;br/&gt;&lt;em&gt;78% of the vote 8%)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;7%) 득표율 64&lt;br/&gt;&lt;em&gt;64% of the vote 7%)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;득표율이 높습니다.&lt;br/&gt;&lt;em&gt;The vote rate is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;득표율을 확인하세요.&lt;br/&gt;&lt;em&gt;Check the vote rate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 04 Jun 2026 17:50:44 +0900</pubDate><guid isPermaLink="false">vocab-ac7759ae6263218152eda3cf342e2986e88f20a7</guid><enclosure url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlJTIwcmF0ZXxlbnwwfHx8fDE3ODA1NjMwNDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="139078" /><ns2:content url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlJTIwcmF0ZXxlbnwwfHx8fDE3ODA1NjMwNDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2b3RlJTIwcmF0ZXxlbnwwfHx8fDE3ODA1NjMwNDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>득표율</category></item><item><title>당선이 – election (as in being elected)</title><link>urn:urn:vocab:당선이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMCUyOGFzJTIwaW4lMjBiZWluZyUyMGVsZWN0ZWQlMjl8ZW58MHx8fHwxNzgwNTU1NTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="당선이 (election (as in being elected))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(6·3 인천시교육감 선거에서 도성훈(66) 현 교육감의 3선 당선이 확실시 되고 있다&lt;br/&gt;&lt;em&gt;In the June 3 Incheon Superintendent of Education election, incumbent Superintendent Do Seong-hun (66) is expected to win a third term.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;당선이 확정될 경우, 도 교육감은 2010년 교육감 직선제 도입 후 인천 첫 3선 교육감으로 이름을 남기게 된다&lt;br/&gt;&lt;em&gt;If elected, Superintendent Do will become the first three-term superintendent in Incheon since the introduction of direct elections for superintendent in 2010.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(6·3 인천시장 선거에서 더불어민주당 박찬대(59) 전 원내대표의 당선이 확실시된다&lt;br/&gt;&lt;em&gt;In the June 3 Incheon mayoral election, former Democratic Party floor leader Park Chan-dae (59) is expected to win.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그가 당선이 되었다.&lt;br/&gt;&lt;em&gt;He was elected.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;당선이 축하합니다.&lt;br/&gt;&lt;em&gt;Congratulations on your election.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMCUyOGFzJTIwaW4lMjBiZWluZyUyMGVsZWN0ZWQlMjl8ZW58MHx8fHwxNzgwNTU1NTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="당선이 (election (as in being elected))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(6·3 인천시교육감 선거에서 도성훈(66) 현 교육감의 3선 당선이 확실시 되고 있다&lt;br/&gt;&lt;em&gt;In the June 3 Incheon Superintendent of Education election, incumbent Superintendent Do Seong-hun (66) is expected to win a third term.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;당선이 확정될 경우, 도 교육감은 2010년 교육감 직선제 도입 후 인천 첫 3선 교육감으로 이름을 남기게 된다&lt;br/&gt;&lt;em&gt;If elected, Superintendent Do will become the first three-term superintendent in Incheon since the introduction of direct elections for superintendent in 2010.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(6·3 인천시장 선거에서 더불어민주당 박찬대(59) 전 원내대표의 당선이 확실시된다&lt;br/&gt;&lt;em&gt;In the June 3 Incheon mayoral election, former Democratic Party floor leader Park Chan-dae (59) is expected to win.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그가 당선이 되었다.&lt;br/&gt;&lt;em&gt;He was elected.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;당선이 축하합니다.&lt;br/&gt;&lt;em&gt;Congratulations on your election.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 04 Jun 2026 15:45:14 +0900</pubDate><guid isPermaLink="false">vocab-e67430c3c154cf72e823763ef4bf50e2beab4149</guid><enclosure url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMCUyOGFzJTIwaW4lMjBiZWluZyUyMGVsZWN0ZWQlMjl8ZW58MHx8fHwxNzgwNTU1NTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="139078" /><ns2:content url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMCUyOGFzJTIwaW4lMjBiZWluZyUyMGVsZWN0ZWQlMjl8ZW58MHx8fHwxNzgwNTU1NTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMCUyOGFzJTIwaW4lMjBiZWluZyUyMGVsZWN0ZWQlMjl8ZW58MHx8fHwxNzgwNTU1NTA5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>당선이</category></item><item><title>당선인은 – the elected person</title><link>urn:urn:vocab:당선인은</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1534293230397-c067fc201ab8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBlbGVjdGVkJTIwcGVyc29ufGVufDB8fHx8MTc4MDU0ODA3M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="당선인은 (the elected person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(대전 대성고와 충남대 철학과를 졸업한 허 당선인은 노무현 정부 청와대 행정관을 거쳐 과학기술부 장관 정책보좌관, 대덕연구개발특구지원본부 복지센터소장 등을 지냈다&lt;br/&gt;&lt;em&gt;Heo, a graduate of Daejeon Daeseong High School and Chungnam National University's Department of Philosophy, served as a presidential secretary in the Roh Moo-hyun administration, policy advisor to the Minister of Science and Technology, and director of the Welfare Center at the Daedeok Research and Development Special Zone Support Headquarters.&lt;/em&gt;&lt;/p&gt;
