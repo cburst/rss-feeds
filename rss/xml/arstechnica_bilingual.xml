@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 08 Jun 2026 16:48:55 +0000</lastBuildDate><item><title>The weather and climate science AI revolution isn’t revolutionary (날씨와 기후 과학의 AI 혁명은 혁명적이지 않다)</title><link>https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-climate-mapping-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 08 Jun 2026 18:53:50 +0000</lastBuildDate><item><title>The weather and climate science AI revolution isn’t revolutionary (날씨와 기후 과학의 AI 혁명은 혁명적이지 않다)</title><link>https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-climate-mapping-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Machine learning has its limits—how is it being used?&lt;br/&gt;(머신러닝에는 한계가 있다—어떻게 활용되고 있을까?)&lt;/p&gt;
 &lt;p&gt;It feels like there’s no escaping AI right now, whether you’re trying to type a sentence without being interrupted by a digital “assistant” or struggling to find a new refrigerator that doesn’t require a Wi-Fi connection for some reason. You’d be forgiven for wondering if we’re in the midst of a quantum leap in tech or whether people are just hyping up a heap of slop.&lt;br/&gt;(디지털 "도우미"의 방해를 받으며 문장을 입력하려 하거나, 왠지 Wi-Fi 연결이 필요한 냉장고를 찾느라 고생하는 지금, AI를 피할 수 없는 것처럼 느껴진다. 우리가 기술의 비약적인 도약 속에 있는지, 아니면 사람들이 그저 과장된 헛소리를 하는 것인지 궁금해해도 용서받을 만하다.)&lt;/p&gt;
 &lt;p&gt;So what should we make of the growing use of AI in weather and climate modeling?&lt;br/&gt;(그렇다면 날씨와 기후 모델링에 AI 사용이 증가하는 것을 어떻게 받아들여야 할까?)&lt;/p&gt;
@@ -106,4 +106,117 @@
 &lt;p&gt;Sen. Slotkin had previously partnered with Sen. Bernie Moreno (R-Ohio), a former car dealer, on the Connected Vehicle Security Act of 2026, which appears to have the same aims—keeping Chinese-made or Chinese-badged cars out of the US.&lt;br/&gt;(슬롯킨 상원의원은 이전에 전직 자동차 딜러인 버니 모레노 상원의원(공화당, 오하이오)과 2026년 커넥티드 차량 보안법을 공동 발의한 바 있다. 이 법안은 중국산 또는 중국 브랜드 차량을 미국에서 배제하는 동일한 목표를 가진 것으로 보인다.)&lt;/p&gt;
 &lt;p&gt;“This is an economic security issue and a national security issue, and we must prevent these vehicles from driving over our border and into our communities,” said Senator Slotkin. “They’re surveillance packages on wheels—fully capable of geolocating individual drivers, collecting full-motion video, and mapping sensitive infrastructure sites, including our military. This bill builds on my bipartisan Connected Vehicle Security Act of 2026 and bans fully finished Chinese vehicles from driving over in any capacity, even just for the day.”&lt;br/&gt;(슬롯킨 의원은 "이는 경제 안보 문제이자 국가 안보 문제이며, 이러한 차량이 우리 국경을 넘어 지역 사회로 진입하는 것을 반드시 막아야 한다"고 말했다. "이들은 바퀴 달린 감시 장치로, 개별 운전자의 위치를 파악하고, 전체 동영상을 수집하며, 군사 시설을 포함한 민감한 인프라를 지도화할 수 있다. 이 법안은 초당적 2026년 커넥티드 차량 보안법을 기반으로 하며, 완성된 중국 차량이 어떤 방식으로든, 심지어 당일 여행조차 국경을 넘어오는 것을 금지한다.")&lt;/p&gt;
 &lt;p&gt;In 2021, China barred Teslas from its military bases and other sensitive sites but rescinded the ban recently after Tesla began complying with Chinese data security laws that, among other things, require automakers to hand user data to the Chinese government. More recently, both the UK and Poland have banned Chinese-linked connected cars from parking near sensitive military installations.&lt;br/&gt;(2021년 중국은 테슬라가 군사 기지 및 기타 민감한 장소에 접근하는 것을 금지했지만, 최근 테슬라가 중국 데이터 보안법을 준수하기 시작하면서 금지를 철회했다. 이 법은 자동차 제조업체가 사용자 데이터를 중국 정부에 제출하도록 요구하는 등 여러 조항을 포함한다. 더 최근에는 영국과 폴란드도 중국과 연계된 커넥티드 카가 민감한 군사 시설 근처에 주차하는 것을 금지했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/cars/2026/06/michigan-politicians-want-to-ban-chinese-badged-cars-from-even-visiting-the-us/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277784296-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 08 Jun 2026 05:02:22 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/cars/2026/06/michigan-politicians-want-to-ban-chinese-badged-cars-from-even-visiting-the-us/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277784296-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 08 Jun 2026 05:02:22 +0000</pubDate></item><item><title>A Falcon 9 booster turns 5 years old—and just set a remarkable reuse record (팰컨 9 부스터, 5주년을 맞아 놀라운 재사용 기록 경신)</title><link>https://arstechnica.com/space/2026/06/a-falcon-9-booster-turns-five-years-old-and-just-set-a-remarkable-reuse-record/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/falcon-9-35-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;We take the Falcon 9 rocket for granted. But we probably shouldn’t.&lt;br/&gt;(우리는 팰컨 9 로켓을 당연하게 여긴다. 하지만 그래선 안 될 일이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+5여 년 전, 반짝이는 흰색 팰컨 9 로켓이 첫 비행을 하며 국제우주정거장으로 카고 드래곤 우주선을 쏘아 올렸다. 이후 1년 동안 이 로켓은 두 차례의 우주인 임무와 여러 상업용 우주선을 발사했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 그 뒤로 이 1단 부스터(지정번호 B1067)는 주로 스타링크 임무를 수행해 왔다. 차례차례 스타링크를 발사하며 항상 무인 선박에 무사히 착륙한 뒤 재정비를 거쳐 다시 비행했다. 어떤 때는 한 달에 두 번 비행하기도 했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+월요일 아침, B1067은 다시 하늘로 올라 플로리다에서 29개의 스타링크 인터넷 위성을 지구 저궤도로 발사했다. 대서양의 ‘어 쇼트폴 오브 그라비타스’ 무인 선박에 착륙하면서 이 부스터는 총 35번째 임무를 완수했고, 스페이스X 함대 선두 자리를 유지했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이번 성공적인 발사로 스페이스X는 최근 밝힌 목표인 팰컨 9 1단 부스터 각각을 40회 임무에 사용하는 데 한 걸음 더 가까워졌다. 이 목표가 2년여 전에 제시된 이후 회사는 수십 차례의 임무에서 경험 많은 부스터를 안전하게 계속 운용해 왔기에, 스페이스X는 40회를 넘어서려 할 수도 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+우리는 팰컨 9 로켓을 당연하게 여긴다. 이제 너무 자주(일주일에 몇 번씩) 발사되다 보니 그 비행은 전혀 이슈가 되지 않는다. 35번째 발사와 착륙이라는 이정표조차, 거의 40년에 걸친 39회의 우주비행이라는 우주왕복선 디스커버리의 기록에 다가가고 있음에도 언급할 가치가 거의 없어 보인다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 현실에서 팰컨 9 로켓은 오늘날 스페이스X 성공의 초석이다. 그리고 회사의 임박한 IPO(기업공개)가 재정적 낭비이건 투자자들이 오랫동안 기다려온 스페이스X 지분 소유 기회이건 간에, 그 기업 가치는 대부분 팰컨 9 덕분이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+팰컨 9의 성공 덕분에 스페이스X는 NASA를 위해 화물과 이후 유인 우주선을 우주정거장에 발사할 수 있었고, 즉각적인 글로벌 우주비행 선도자로서의 신뢰를 얻었다. 팰컨 9 1단 부스터 실험을 통해 스페이스X는 1단 착륙과 재사용의 선구자가 되었다. 재사용 팰컨 9 부스터의 기록적인 발사 빈도는 스페이스X가 국제적으로 발사를 주도하고 스타링크 대형 군집위성을 배치해 마침내 수익성을 달성하도록 이끌었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+스페이스X는 금요일 IPO에서 기업 가치 1조 7500억 달러를 목표로 하고 있으며, 이는 스타쉽이 자주 비행하고 궤도상 대규모 데이터 센터 네트워크를 배치한다는 전제에 기반한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 빠르고 재사용 가능한 로켓을 비행해 수천 개의 위성을 배치할 수 있다는 것을 팰컨 9으로 증명했기에 누구든 회사의 미래 계획을 신뢰하는 것이다. 스타쉽과 궤도 데이터 센터는 강화된 팰컨 9과 스타링크 군집위성이다. 팰컨 9이 없었다면 이는 형편없는 AI 모델의 환각처럼 보일 것이다. 팰컨 9 로켓의 성공 덕분에 여기서 거기까지 이어지는 길이 아마 존재할 수 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마지막으로, 한때는 이렇게 깨끗하고 반짝였지만 지금은 어둡고 때 묻은 이 단 하나의 팰컨 9 로켓이 짧은 생애 동안 얼마나 많은 일을 해냈는지 생각해 볼 가치가 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+맥락을 위해, 중·대형 발사 분야에서 스페이스X의 미국 내 최대 경쟁사인 유나이티드 론치 얼라이언스(ULA)의 성과를 고려해 보자. B1067 부스터가 2021년 6월 데뷔한 이후, ULA는 주력 로켓인 아틀라스 V를 총 22회, 벌컨 로켓을 4회 비행했으며, 델타 IV 헤비는 마지막 3회 비행을 마쳤다.
+&lt;&lt;&lt;PARA&gt;&gt;
+즉, 이 단 하나의 팰컨 9 1단 부스터가 35회 비행하고 착륙한 동안, 경쟁사는 총 29회 발사를 했다. 달리 말하면, 이 로켓은 5년 반 동안 20개가 넘는 일회용 로켓보다 더 많은 질량을 궤도에 올려놓은 것이다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/06/a-falcon-9-booster-turns-five-years-old-and-just-set-a-remarkable-reuse-record/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/falcon-9-35-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 08 Jun 2026 07:05:30 +0000</pubDate></item><item><title>F1 in Monaco: Finally, the cars were flat-out in qualifying (모나코 F1: 드디어 차량들이 예선에서 풀스로트를 펼치다)</title><link>https://arstechnica.com/cars/2026/06/f1-in-monaco-finally-the-cars-were-flat-out-in-qualifying/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279827763-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The cars are too big to race well, but the competition for pole position is thrilling.&lt;br/&gt;(차량들이 경주를 펼치기에는 너무 크지만, 폴 포지션을 향한 경쟁은 스릴 넘친다.)&lt;/p&gt;
+&lt;p&gt;Formula 1 held its annual race on the streets of Monte Carlo this past weekend. The event predates the sport—the first Monaco Grand Prix was held in 1929 on a layout that isn’t too different from the one used today.&lt;br/&gt;(포뮬러 1은 지난 주말 모나코의 거리 서킷에서 연례 경주를 개최했다. 이 이벤트는 F1 스포츠보다 오래되었다. 첫 모나코 그랑프리는 1929년에 열렸으며, 오늘날 사용되는 서킷과 크게 다르지 않은 레이아웃으로 진행되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+수년에 걸쳐 건물들이 바뀌었고, 충격 방지벽이 생겼으며, 수영장 구역은 확장되었고, 차량들은 너무 커지고 빨라져서 한 세계 챔피언이 "거실에서 자전거 타기"라고 묘사한 좁은 서킷 구간에서 제대로 경주를 펼치기 어려워졌다. 하지만 지중해 연안에 자리 잡고 슈퍼 요트들로 둘러싸인 F1의 가장 재미없는 경주는 동시에 가장 유명하고 화려한 경주이기도 하다. 자신의 홈 그랑프리 다음으로, 많은 드라이버들이 가장 우승하고 싶어 하는 경주다.
+&lt;&lt;&lt;PARA&gt;&gt;
+여기서 추월은 사실상 불가능하다. 이 공국에서 경주차들이 추월하는 모습을 보려면 포뮬러 E의 방문 경기를 시청해야 할 것이다. 그래서 일요일 경주의 그리드 순서를 결정하는 토요일 예선이 평소보다 더 중요했다. 모두가 폴은 페라리 드라이버 중 한 명에게 돌아갈 것으로 예상했다. 그리고 이번 시즌 처음으로 차량들은 완전히 풀스로트로 달렸다. 긴 직선 구간이 없고 제동 구간이 많아, 이번 시즌 처음으로 차량들이 에너지 제한을 받지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+페라리의 샤를 르클레르는 지역 출신이다. 그는 다른 F1 드라이버들처럼 세금 회피자가 아닌 진정한 모나코인이다. 그리고 현재 그리드 전체에서 원랩 페이스가 가장 빠를 수도 있다. 한편, 그의 7회 세계 챔피언 동료인 루이스 해밀턴은 이 경주에서 세 번 우승했고 여섯 번 더 포디엄에 올랐다. 올해 페라리는 출력이 부족하다. 이에 대해서는 잠시 후에 더 설명하겠다. 하지만 팀이 저속 주행 성능 향상을 위해 작은 터보차저를 선택한 점과 이 차량이 최고의 섀시 컴플라이언스를 가진 것으로 인정받고 있어, 이 이례적인 서킷에 잘 적응할 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그리고 금요일 프리 프랙티스 1, 2 세션에서 그렇게 입증되었다. 빨간 차들이 타임 시트 상위권을 차지했다. 하지만 19세의 이탈리아 신동 키미 안토넬리가 토요일에 이에 반기를 들었다. 그는 1분 12초 720의 랩 타임으로 FP3에서 두 페라리 드라이버를 모두 제치고 1위에 올랐다. 이는 여전히 작년 최고 랩 타임보다 거의 4초 느린 기록으로, 이 기록은 한동안 깨지지 않을 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+페라리 듀오가 금요일에 찾았던 차량 밸런스는 다음 날에는 완전히 맞지 않았다. 해밀턴과 르클레르가 3위와 4위를 기록한 가운데, 막스 페르스타펜이 2위로 단지 몇 백분의 1초 차이로 안토넬리의 메르세데스보다 느렸다. 4연승을 달리던 젊은 메르세데스 드라이버는 5연승의 가능성에 직면해 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 예측은 일요일에 현실이 되었다. 가장 빠른 랩을 기록하며 플래그-투-플래그 우승을 차지했다. 페르스타펜의 하루는 시작과 거의 동시에 끝났다. 동력 장치 고장으로 그는 출발선에서 느릿느릿 움직이다 기권했다. 다행히 아무도 그와 충돌하지 않았다. 페르스타펜이 안토넬리를 압박하며 실수를 유도할 기회를 빼앗긴 가운데, 모든 시선은 해밀턴으로 쏠렸다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그라운드 이펙트 차량과 잘 맞지 않았던 몇 년간의 시간, 그리고 2025년 페라리에서의 끔찍한 시즌으로 마무리된 후, 해밀턴은 다시 감을 찾은 듯 보이며 훨씬 더 경쟁력 있는 모습을 보였다. 하지만 그는 메르세데스를 따라잡을 수 없었고, 메르세데스는 리드를 벌려 유지하다가 마지막 코너의 부서지는 트랙 표면이 경기에 불확실성을 더했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+문제는 새로 포장된 아스팔트 구간이 기준에 미치지 못해 차량 타이어 아래에서 손상되기 시작한 것이었다. 먼저 60랩에서 랜스 스트롤의 애스턴 마틴이 언더스티어로 배리어에 충돌했을 때 세이프티 카가 투입되었다. 이후 65랩에서 르클레르의 페라리에서 같은 일이 발생하자 레드 플래그(경주 중단)가 내려졌다. 르클레르는 자신의 사고 원인을 차량의 나쁜 브레이크 탓으로 돌렸지만, 그의 왼쪽 앞바퀴가 깨진 아스팔트 조각들로 덮여 있었던 점이 치명적인 언더스티어의 더 가능성 있는 원인으로 보인다.
+&lt;&lt;&lt;PARA&gt;&gt;
+경주 조직위원들이 문제가 더 악화되지 않을 것이라고 확신하자, 경주는 또 다른 스탠딩 스타트로 재개되었다. 메르세데스의 부진한 스타트는 과거의 일이 된 듯하다. 캐나다와 이번 모나코에서 안토넬리는 연초 첫 네 개의 그랑프리에서 자주 발생했던 것과 달리, 반복적으로 포지션을 잃지 않고 출발했다. 다시 한번 그는 깨끗한 공기 속으로 달려나가 해밀턴보다 6.2초 앞서 경주를 마쳤다. 해밀턴은 이로써 10번째 모나코 포디엄을 기록하며 아일톤 세나의 기록과 어깨를 나란히 했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+해밀턴은 이제 챔피언십에서도 2위다. 조지 러셀은 드라이브 스루 페널티로 12위를 기록하며 포인트권 밖으로 밀려난 후 챔피언십 3위를 유지하고 있다. 러셀은 피트 레인에서 속도 위반으로 피트 스톱 페널티를 받은 여러 드라이버(해밀턴 포함) 중 한 명이었다. 문제는 무엇이었을까? 드라이버들이 캐딜락 피트 박스를 피하기 위해 약간 다른 경로로 피트 레인에 진입한 것이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그들의 차량이 시속 60km의 피트 레인 제한 속도를 초과하지는 않았지만, F1은 트랙에 내장된 타이밍 루프와 차량의 트랜스폰더를 사용하여 피트 속도를 측정한다. 캐딜락 박스를 피하는 것은 더 짧은 경로를 만들어 여러 드라이버에게 페널티를 초래했으며, 어떤 드라이버는 제한 속도를 0.1km/h 초과한 경우도 있었다. 알파인의 피에르 가슬리가 가장 억울해했을 것이다. 그는 경주 초반 란도 노리스의 맥라렌을 추월하는 데 성공했고 마지막에 3위에 있었지만, 페널티 시간으로 인해 7위로 강등되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+V6 엔진과 전기 모터의 균형을 재조정하기 위한 2027년 파워 유닛 규정 변경 제안에 대한 확정은 아직 없지만, 이번 주말에 다른 F1 엔진 관련 소식이 있었다. F1은 ADUO(추가 개발 및 업그레이드 기회)를 누가 받을지 결정했다. 이는 일부 엔진 제조사가 V6 엔진에 성능 업그레이드를 적용할 수 있게 해준다.
+&lt;&lt;&lt;PARA&gt;&gt;
+엔진과 하이브리드 시스템은 시즌 동안 동형 승인을 받았지만, 제조사는 그리드에서 가장 강력한 엔진보다 2% 뒤쳐질 경우 이번 시즌에 한 번, 다음 시즌에 한 번의 ADUO 업그레이드를 받을 수 있다. 그리고 4% 이상 뒤쳐진 제조사는 올해 두 번, 내년에 두 번의 업그레이드를 받을 수 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+올해 모든 경주에서 메르세데스 파워를 장착한 차량이 우승하고 있으며, 일반적으로 메르세데스 파워 유닛이 최고로 여겨지지만, FIA는 레드불의 새로운 사내 V6 엔진이 그리드의 기준점이라고 판단했다. 게다가 메르세데스 엔진은 레드불보다 최소 2% 뒤쳐져 있어, 메르세데스는 ADUO 업그레이드를 받게 된다. 페라리, 혼다, 아우디는 모두 최소 4% 부족한 것으로 확인되어 각각 2026년에 두 번, 2027년에 추가로 두 번의 업그레이드가 허용된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+5연승으로 안토넬리는 현재 156점으로 챔피언십을 선두하고 있다. 경주에서 2위를 차지한 해밀턴은 챔피언십 2위로 올라섰지만, 매우 멀리 떨어진 90점이다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/cars/2026/06/f1-in-monaco-finally-the-cars-were-flat-out-in-qualifying/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279827763-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 08 Jun 2026 07:56:21 +0000</pubDate></item><item><title>Man jailed for a month despite Flock showing he was 5 miles from crime scene (플록이 범행 현장에서 5마일 떨어져 있음을 보여줬음에도 남성, 한 달간 투옥돼)</title><link>https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-477012174-1024x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Cop seemingly ignored Flock camera timestamp to justify arrests.&lt;br/&gt;(경찰, 플록 카메라 타임스탬프를 무시하고 체포 정당화한 듯
+&lt;&lt;&lt;PARA&gt;&gt;
+샌디에이고 경찰국이 플록 카메라 경보를 근거로 한 남성을 한 달간 투옥한 후 소송에 직면했다. 경찰은 타임스탬프에 따라 해당 경보가 자신들이 찾고 있던 차량을 찍은 것이 아니라는 점을 알았어야 했을 것으로 보인다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난 11월, 샌디에이고 경찰이 플록 데이터와 목격자 진술에 의존해 휴고 파라를 총기 차량 강도 미수 사건에 잘못 연루시킨 후, 그는 중범죄 혐의로 체포되었다고 샌디에이고 타임스가 보도했다. 경찰은 선글라스 창문이 달린 빨간색 알파 로메오 차량과 회색 후드를 입은 남성을 찾고 있었는데, 파라는 마침 흰색 후드를 입고 차량 설명과 대략 일치하는 친구의 차량에 타고 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+플록 카메라는 번호판 데이터를 포착할 수 있지만, 경찰은 해당 차량이 폭력 범죄에 연루되었는지 확인할 수 있는 부분 번호조차 가지고 있지 않았다. 그러나 경찰이 체포를 정당화하기 위해 사용한 플록 데이터는 실제로 파라가 범행 당시 5마일 떨어진 곳에 있었음을 보여주었다고 파라의 변호사 알렉스 쿨먼이 샌디에이고 타임스에 말했다. 경찰은 그를 체포하는 대신 그 데이터와 파라의 휴대전화 위치 데이터를 사용해 파라가 무죄라는 주장을 입증할 수 있었을 것이라고 쿨먼은 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“이 플록 히트는 분명히 잘못된 차량이었습니다. 동시에 두 장소에 있을 수 없었기 때문입니다.”라고 쿨먼이 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+대신 경찰은 파라의 차량이 경찰이 추적하던 차량과 다르다는 증거를 제쳐두고 목격자에게 연락해 파라를 라인업에서 용의자로 지목하게 했다. 그러나 샌디에이고 타임스에 따르면 경찰 보고서는 목격자가 “재킷과 수염”, “피부색”과 같은 피상적인 특징만으로 파라를 식별했다고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+체포 당시 집행유예 상태였던 파라는 경찰이 그를 투옥하기로 결정하자 “믿기지 않았다”. 그는 “폭력 범죄로 기소되어 두려움과 아드레날린으로 가득 차서” 거의 한 달간 감옥에서 보냈다고 샌디에이고 타임스에 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이제 그는 플록이 표시한 차량의 소유주인 친구 아리엘 벨트란과 함께 과실 및 시민권 침해로 시를 고소할 준비를 하고 있다. 샌디에이고 타임스는 4월에 제출된 불법행위 청구서를 검토했는데, 이 청구서는 “샌디에이고 경찰이 자체 감시 시스템을 잘못 읽고 성급한 판단으로 무죄를 입증하는 증거를 무시했다”고 주장했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+청구서에 따르면, 벌금으로 시는 두 사람에게 각각 150만 달러의 손해배상금을 지급해야 한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+경찰국도 시도 계류 중인 소송에 대해 언급하지 않을 것이지만, 쿨먼은 샌디에이고 타임스에 “시가 남성들의 청구를 거부했다”고 말했으며, 따라서 소송은 진행될 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+플록에 대한 반발이 거세지고 있다. 카메라 네트워크가 시위자 감시, 낙태 추적자 추적, 이민자 구금에 사용되었기 때문이라고 디지털 권리 단체 전자 프론티어 재단(EFF)이 보도했다. 일부 지역 단체는 FBI가 플록 데이터에 “거의 실시간” 접근 권한을 얻으려는 움직임에 저항하고 있다. EFF는 카메라가 소음 신고나 취업 배경 조사와 같은 저수준 수사에 가장 자주 사용된다고 경고하지만, 정치적 분열을 넘어 지역사회는 카메라의 이점이 프라이버시를 희생하고 정부 감시를 위험에 빠뜨릴 가치가 있는지 의문을 제기해 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 샌디에이고는 계속해서 플록을 수용해 왔다. 의원들이 “불가피한” 플록 남용에 대한 조사를 촉구한 지 한 달 후, 샌디에이고 경찰국은 “번호판 판독기 프로그램을 강화하려고 했다”고 샌디에이고 타임스가 보도했다. 오디오와 비디오를 포착하는 것 외에도, 해당 지역의 카메라는 부서가 12월에 검토 중이던 계약에 서명했다면 연결된 기기에서 데이터를 수집하기 시작할 수도 있었다. 그러나 경찰은 새 플랫폼을 사용하지 않기로 결정했다고 Axios가 보도했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+일부 경찰서는 플록의 데이터 통합 플랫폼을 시범 운영할 준비가 되지 않았을 수 있지만, 번호판 판독기 기능 이상의 목적으로 플록에 의존하도록 장려하는 초기 플록 메시지를 접했을 가능성이 높다.
+&lt;&lt;&lt;PARA&gt;&gt;
+월요일, 롤리 뉴스 &amp; 옵저버는 “번호판 없음? 문제없음”이라는 제목의 감시 보고서를 발행했다. 이 보고서는 2024년 노스캐롤라이나 주 수사국 번호판 판독기 시범 프로그램을 위해 준비된 제품 프레젠테이션을 입수한 후 작성되었다. 해당 프레젠테이션에서 경찰은 “카메라가 차량의 제조사, 데칼, 차체 유형”뿐만 아니라 범퍼 스티커 및 경찰이 카메라 네트워크에서 특정 차량을 추적하기 위해 의존할 수 있는 “차량 지문”을 구성하는 기타 고유 기능을 기록한다는 점을 상기시켰다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이는 “전체 번호판 정보가 없더라도” 법 집행 기관이 더 많은 정보를 얻고 “사전 정보가 적어도 더 강력한 사건을 구축”할 수 있는 방법으로 선전된다고 해당 보고서는 보여주었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+샌디에이고에서의 파라 사건은 경찰이 더 적은 정보를 사용해 강력한 사건을 구축할 때 발생할 수 있는 문제의 강력한 예시다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그의 소송에서 그는 경찰이 자신의 체포를 추진할 때 관련 플록 데이터를 무시했다고 주장할 계획이다. 가장 눈에 띄는 점은 경찰의 수배를 촉발한 플록 경보가 실제 용의자를 저지하려는 경찰의 시도가 실패한 지 23초 후에 기록되었다는 것이다. 해당 기록은 추적이 시작될 당시 파라 친구의 차량이 5마일 떨어진 곳에 있었음을 보여주었으며, 이는 파라의 변호사가 경찰이 그 정확한 차량을 추적하고 있었다는 것을 믿기 어렵게 만든다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+차량이 플록 경보를 본 형사가 적절한 회의를 가지고 처리하기에는 너무 놀랍도록 비슷해 보였던 것으로 보인다. 샌디에이고 타임스는 게리 곤잘레스 형사의 보고서를 검토했는데, 그가 플록 경보를 보고 즉시 “빨간색 페인트와 검은색 선글라스 창문 때문에 이미지 속 차량을 [우리가] 추적하던 차량으로 인식했다”고 적혀 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+경찰은 또한 네트워크의 다른 플록 카메라를 확인해 벨트란의 차량을 추적하고 파라의 이야기를 확인할 수도 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+쿨먼은 샌디에이고 타임스에 “회의감이나 상식 없이 대규모 감시를 하는 것은 재앙의 레시피”라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“감시망이 넓게 펼쳐질수록 법 집행 기관은 항상 거짓 양성 결과를 얻을 것입니다.”라고 쿨먼이 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+샌디에이고는 플록에 투자한 도시 중 하나로, 접근 유지를 위해 연간 200만 달러를 지출한다. 미국 전역에서 일부 지역사회는 그러한 계약을 종료하고 플록 자금을 삭감하는 싸움에서 승리했지만, 최근 뉴욕의 한 시장은 일부 지역 공무원이 자금 삭감 노력을 막기 위해 얼마나 갈 의향이 있는지 보여주었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+4월, 뉴욕 트로이의 공화당 시장 카르멜라 만텔로는 민주당 주도의 시의회가 플록 자금을 중단하려고 하여 도시를 “위험에 빠뜨렸다”고 비난했다고 워싱턴 포스트가 보도했다. 플록 카메라를 계속 운영하기 위해 그녀는 비상사태를 선포했는데, 포스트는 이는 일반적으로 홍수와 눈보라를 위해 마련된 조치라고 지적했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이에 대한 응답으로 시의회는 시장을 고소했으며, 전선이 그려지면서 지역 내 플록 사용을 영구적으로 제한하는 법안을 통과시키는 것을 고려하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+플록 카메라는 폭력 범죄자를 잡고 무고한 사람을 면죄하는 데 도움이 되어야 한다. 그러나 플록 데이터를 기반으로 범죄로 고발된 무고한 사람들에게 이 기술은 지속적인 피해를 초래할 수 있다. 파라와 벨트란은 특히 취약한 위치에 놓인 상태라고 샌디에이고 타임스가 강조했는데, 이제 그들은 자신들의 과거 기록이 플록 영상을 검토하는 경찰과 법원에 영향을 미쳐 부당한 체포에 더 취약해질 수 있다고 예상하기 때문이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+체포 이후, 파라는 샌디에이고 타임스에 이제 “경찰관이나 순찰 차량이 보일 때마다 편집증이 생긴다”고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“지방 검사와 판사가 나에 대해 한 끔찍한 비난과 내가 대중에게 위험한 위협이라고 한 말을 모두 기억합니다.”라고 파라는 말했다. “저는 무죄가 증명될 때까지 유죄로 간주되는 경험을 할 수 있었습니다.”)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-477012174-1024x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 08 Jun 2026 08:20:30 +0000</pubDate></item></channel></rss>
