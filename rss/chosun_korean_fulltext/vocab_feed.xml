@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 03:53:31 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 05:58:34 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>사람으로 – as a person</title><link>urn:urn:vocab:사람으로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사태 – situation</title><link>urn:urn:vocab:사태</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgwOTUyMzA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사태 (situation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국민의힘 내에서 6·3 지방선거의 투표 용지 부족 사태를 두고 토론회를 열며 선거관리위원회의 문제점을 규탄했다&lt;br/&gt;&lt;em&gt;Within the People Power Party, a debate was held over the shortage of ballot papers in the June 3 local elections, condemning the problems of the National Election Commission.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 자리에선 이번 사태 같은 선관위의 중대한 하자가 발생해 투표권이 침해됐을 경우엔 선거 결과에 영향이 없더라도 재선거를 할 수 있게 공직선거법을 개정해야 한다는 주장도 나왔다&lt;br/&gt;&lt;em&gt;At this event, there was also an argument that the Public Official Election Act should be amended to allow for a re-election even if there is no impact on the election results, in case a serious defect like this incident occurs and voting rights are violated.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민의힘은 8일 나경원·조배숙·박수영·신동욱·곽규택·주진우·박충권·윤용근 의원실과 정책위원회 주최로 ‘6·3 투표 용지 부족·부실 선거 사태, 국민은 재선거·특검을 촉구한다’는 주제로 토론회를 가졌다&lt;br/&gt;&lt;em&gt;On the 8th, the People Power Party held a debate hosted by the offices of lawmakers Na Kyung-won, Jo Bae-sook, Park Soo-young, Shin Dong-wook, Kwak Kyu-taek, Joo Jin-woo, Park Chung-kwon, and Yoon Yong-geun, along with the Policy Committee, under the theme 'June 3 Ballot Paper Shortage and Incompetent Election Incident: The People Demand Re-election and Special Counsel'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사태가 심각해요.&lt;br/&gt;&lt;em&gt;The situation is serious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 사태를 해결합시다.&lt;br/&gt;&lt;em&gt;Let's resolve this situation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgwOTUyMzA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사태 (situation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(국민의힘 내에서 6·3 지방선거의 투표 용지 부족 사태를 두고 토론회를 열며 선거관리위원회의 문제점을 규탄했다&lt;br/&gt;&lt;em&gt;Within the People Power Party, a debate was held over the shortage of ballot papers in the June 3 local elections, condemning the problems of the National Election Commission.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 자리에선 이번 사태 같은 선관위의 중대한 하자가 발생해 투표권이 침해됐을 경우엔 선거 결과에 영향이 없더라도 재선거를 할 수 있게 공직선거법을 개정해야 한다는 주장도 나왔다&lt;br/&gt;&lt;em&gt;At this event, there was also an argument that the Public Official Election Act should be amended to allow for a re-election even if there is no impact on the election results, in case a serious defect like this incident occurs and voting rights are violated.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민의힘은 8일 나경원·조배숙·박수영·신동욱·곽규택·주진우·박충권·윤용근 의원실과 정책위원회 주최로 ‘6·3 투표 용지 부족·부실 선거 사태, 국민은 재선거·특검을 촉구한다’는 주제로 토론회를 가졌다&lt;br/&gt;&lt;em&gt;On the 8th, the People Power Party held a debate hosted by the offices of lawmakers Na Kyung-won, Jo Bae-sook, Park Soo-young, Shin Dong-wook, Kwak Kyu-taek, Joo Jin-woo, Park Chung-kwon, and Yoon Yong-geun, along with the Policy Committee, under the theme 'June 3 Ballot Paper Shortage and Incompetent Election Incident: The People Demand Re-election and Special Counsel'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사태가 심각해요.&lt;br/&gt;&lt;em&gt;The situation is serious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 사태를 해결합시다.&lt;br/&gt;&lt;em&gt;Let's resolve this situation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 09 Jun 2026 05:58:34 +0900</pubDate><guid isPermaLink="false">vocab-b298fabb8d2ad5e7c496df7d6a54a437546ee611</guid><enclosure url="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgwOTUyMzA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="176160" /><ns2:content url="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgwOTUyMzA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgwOTUyMzA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사태</category></item><item><title>사람으로 – as a person</title><link>urn:urn:vocab:사람으로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMGElMjBwZXJzb258ZW58MHx8fHwxNzgwOTQ0ODA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사람으로 (as a person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이재명 대통령은 8일 청와대에서 열린 취임 1주년 기자회견에서 전날(7일) 한성숙 중소벤처기업부 장관을 신임 국무총리 후보자로 지명한 것과 관련해 “선택하는 과정이 꽤 고민이 적지는 않았는데, 결론은 일할 사람으로, 그냥 일만 할 사람으로 했다”고 말했다&lt;br/&gt;&lt;em&gt;"Regarding the nomination of Minister of SMEs and Startups Han Sung-sook as the new Prime Minister candidate the previous day (the 7th) at the first anniversary press conference held at the Blue House on the 8th, President Lee Jae-myung said, 'The selection process was not without considerable deliberation, but in the end, I chose someone who will work, just someone who will work.'"&lt;/em&gt;&lt;/p&gt;
