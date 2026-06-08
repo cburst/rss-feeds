@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 05:58:26 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:04:42 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>밖으로 – outside</title><link>urn:urn:vocab:밖으로</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>반도체를 – semiconductor</title><link>urn:urn:vocab:반도체를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1562408590-e32931084e23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1pY29uZHVjdG9yfGVufDB8fHx8MTc4MDk1OTg3N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="반도체를 (semiconductor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(연구원은 “내수가 완만하게 개선되는 가운데 수출은 반도체를 중심으로 높은 증가세를 이어가고 있다”고 밝혔다&lt;br/&gt;&lt;em&gt;(The researcher stated, 'While domestic demand is gradually improving, exports continue to show high growth, particularly centered on semiconductors.')&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;연구원은 “건설투자가 부진하나, 소비의 완만한 개선 흐름이 지속되는 가운데 설비투자가 반도체를 중심으로 높은 증가세를 보인다&lt;br/&gt;&lt;em&gt;The researcher said, 'Although construction investment is sluggish, with a steady improvement in consumption, facility investment is showing high growth centered on semiconductors.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;코스피의 상승이 반도체를 비롯한 인공지능 인프라 투자 관련 기업들에 집중된 반면, 코스닥 시장 내 시가총액 상위 종목들은 대부분 바이오 기업이다&lt;br/&gt;&lt;em&gt;While the rise in the KOSPI has been concentrated on companies related to artificial intelligence infrastructure investment, including semiconductors, most of the top market capitalization stocks in the KOSDAQ market are biotech companies.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 반도체를 공부해요.&lt;br/&gt;&lt;em&gt;I study semiconductors.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 회사는 반도체를 만들어요.&lt;br/&gt;&lt;em&gt;That company makes semiconductors.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1562408590-e32931084e23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1pY29uZHVjdG9yfGVufDB8fHx8MTc4MDk1OTg3N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="반도체를 (semiconductor)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(연구원은 “내수가 완만하게 개선되는 가운데 수출은 반도체를 중심으로 높은 증가세를 이어가고 있다”고 밝혔다&lt;br/&gt;&lt;em&gt;(The researcher stated, 'While domestic demand is gradually improving, exports continue to show high growth, particularly centered on semiconductors.')&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;연구원은 “건설투자가 부진하나, 소비의 완만한 개선 흐름이 지속되는 가운데 설비투자가 반도체를 중심으로 높은 증가세를 보인다&lt;br/&gt;&lt;em&gt;The researcher said, 'Although construction investment is sluggish, with a steady improvement in consumption, facility investment is showing high growth centered on semiconductors.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;코스피의 상승이 반도체를 비롯한 인공지능 인프라 투자 관련 기업들에 집중된 반면, 코스닥 시장 내 시가총액 상위 종목들은 대부분 바이오 기업이다&lt;br/&gt;&lt;em&gt;While the rise in the KOSPI has been concentrated on companies related to artificial intelligence infrastructure investment, including semiconductors, most of the top market capitalization stocks in the KOSDAQ market are biotech companies.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 반도체를 공부해요.&lt;br/&gt;&lt;em&gt;I study semiconductors.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 회사는 반도체를 만들어요.&lt;br/&gt;&lt;em&gt;That company makes semiconductors.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 09 Jun 2026 08:04:42 +0900</pubDate><guid isPermaLink="false">vocab-683be595ffe7248577500be5fc483241b3caf094</guid><enclosure url="https://images.unsplash.com/photo-1562408590-e32931084e23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1pY29uZHVjdG9yfGVufDB8fHx8MTc4MDk1OTg3N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="253158" /><ns2:content url="https://images.unsplash.com/photo-1562408590-e32931084e23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1pY29uZHVjdG9yfGVufDB8fHx8MTc4MDk1OTg3N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1562408590-e32931084e23?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzZW1pY29uZHVjdG9yfGVufDB8fHx8MTc4MDk1OTg3N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>반도체를</category></item><item><title>밖으로 – outside</title><link>urn:urn:vocab:밖으로</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1543039625-14cbd3802e7d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvdXRzaWRlfGVufDB8fHx8MTc4MDk1MjMwMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="밖으로 (outside)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이어 젠슨 황은 식사 후 매장 밖으로 나와 시민들에게 에스케이하이닉스와 세븐일레븐이 협업해 출시한 ‘세븐셀렉트 허니바나나맛 에이치비엠(HBM)칩’을 나눠주기도 했다&lt;br/&gt;&lt;em&gt;After the meal, Jensen Huang came out of the store and distributed the 'Seven Select Honey Banana Flavor HBM Chip' developed in collaboration with SK Hynix and 7-Eleven to citizens.&lt;/em&gt;&lt;/p&gt;

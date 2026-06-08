@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 05:58:34 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:04:49 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,27 @@
 
 
 
-  <item><title>사태 – situation</title><link>urn:urn:vocab:사태</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>일부러 – on purpose</title><link>urn:urn:vocab:일부러</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625662171040-8d196a082232?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHB1cnBvc2V8ZW58MHx8fHwxNzgwOTU5ODg0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="일부러 (on purpose)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (선거관리위원회에 대해서는 “낮 2시부터 투표지가 부족하다는 이야기가 나왔다는데 대책도 없이 방치한 것은 ‘일부러 그랬나’ 싶을 정도로 한심한 일”이라며 “최소한 ‘일부러 그랬는지’ 진상은 밝혀야 할 것 아니냐&lt;br/&gt;&lt;em&gt;Regarding the National Election Commission, they said, 'There were reports that ballot papers were insufficient from 2 PM, and leaving it unattended without any countermeasures is so pathetic that it makes one wonder if it was intentional.' They added, 'At the very least, shouldn't we find out the truth of whether it was intentional?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;센티넬 기술의 완성도가 떨어져서, 기자들 질문이 두려워 일부러 해외 출장을 핑계로 자리를 피하신다고 말입니다&lt;br/&gt;&lt;em&gt;Because the Sentinel technology is not fully developed, they say you are deliberately avoiding reporters' questions by using overseas business trips as an excuse.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 일부러 늦게 왔어요.&lt;br/&gt;&lt;em&gt;He came late on purpose.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;일부러 그렇게 말했어요.&lt;br/&gt;&lt;em&gt;I said that on purpose.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625662171040-8d196a082232?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHB1cnBvc2V8ZW58MHx8fHwxNzgwOTU5ODg0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="일부러 (on purpose)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (선거관리위원회에 대해서는 “낮 2시부터 투표지가 부족하다는 이야기가 나왔다는데 대책도 없이 방치한 것은 ‘일부러 그랬나’ 싶을 정도로 한심한 일”이라며 “최소한 ‘일부러 그랬는지’ 진상은 밝혀야 할 것 아니냐&lt;br/&gt;&lt;em&gt;Regarding the National Election Commission, they said, 'There were reports that ballot papers were insufficient from 2 PM, and leaving it unattended without any countermeasures is so pathetic that it makes one wonder if it was intentional.' They added, 'At the very least, shouldn't we find out the truth of whether it was intentional?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;센티넬 기술의 완성도가 떨어져서, 기자들 질문이 두려워 일부러 해외 출장을 핑계로 자리를 피하신다고 말입니다&lt;br/&gt;&lt;em&gt;Because the Sentinel technology is not fully developed, they say you are deliberately avoiding reporters' questions by using overseas business trips as an excuse.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 일부러 늦게 왔어요.&lt;br/&gt;&lt;em&gt;He came late on purpose.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;일부러 그렇게 말했어요.&lt;br/&gt;&lt;em&gt;I said that on purpose.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 09 Jun 2026 08:04:49 +0900</pubDate><guid isPermaLink="false">vocab-cd11fd337d7932f9092170fc551092e51afe6b33</guid><enclosure url="https://images.unsplash.com/photo-1625662171040-8d196a082232?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHB1cnBvc2V8ZW58MHx8fHwxNzgwOTU5ODg0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="32410" /><ns2:content url="https://images.unsplash.com/photo-1625662171040-8d196a082232?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHB1cnBvc2V8ZW58MHx8fHwxNzgwOTU5ODg0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1625662171040-8d196a082232?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvbiUyMHB1cnBvc2V8ZW58MHx8fHwxNzgwOTU5ODg0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>일부러</category></item><item><title>사태 – situation</title><link>urn:urn:vocab:사태</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgwOTUyMzA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사태 (situation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(국민의힘 내에서 6·3 지방선거의 투표 용지 부족 사태를 두고 토론회를 열며 선거관리위원회의 문제점을 규탄했다&lt;br/&gt;&lt;em&gt;Within the People Power Party, a debate was held over the shortage of ballot papers in the June 3 local elections, condemning the problems of the National Election Commission.&lt;/em&gt;&lt;/p&gt;
