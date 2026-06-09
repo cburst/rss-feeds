@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 12:14:37 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 16:24:04 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>사실이다 – it is true</title><link>urn:urn:vocab:사실이다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>투표용지가 – ballot paper</title><link>urn:urn:vocab:투표용지가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712145176570-6cb1d98a126a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlcnxlbnwwfHx8fDE3ODA5ODk4Mzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표용지가 (ballot paper)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;당시 오후 2시20분께 송파구 잠실4동 제7투표소에서 투표용지 부족이 우려돼 투표용지가 송부된 이후다&lt;br/&gt;&lt;em&gt;It was after ballot papers were sent due to concerns about a shortage of ballot papers at the 7th polling station in Jamsil 4-dong, Songpa-gu, around 2:20 p.m. at the time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(개혁신당은 실제로 투표용지가 부족했던 투표소에서 ’선별적 재선거&amp;#x27;를 치를 것을 주장하며, 이를 위해 ‘투표용지 부족 사태에 따른 서울 관내 선거 일부 무효 소청&amp;#x27;을 제기하겠다고 밝혔다&lt;br/&gt;&lt;em&gt;(The Reform Party claimed that a 'selective re-election' should be held at polling stations where ballot papers were actually insufficient, and announced that it would file a 'petition for partial invalidation of the Seoul district election due to the ballot paper shortage incident' for this purpose.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;당시 오후 2시20분께 송파구 잠실4동 제7투표소에서 투표용지 부족이 우려돼 투표용지가 송부된 이후다&lt;br/&gt;&lt;em&gt;It was after ballot papers were sent due to concerns about a shortage of ballot papers at the 7th polling station in Jamsil 4-dong, Songpa-gu, around 2:20 p.m. at the time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표용지가 책상 위에 있어요.&lt;br/&gt;&lt;em&gt;The ballot is on the desk.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표용지가 깨끗해요.&lt;br/&gt;&lt;em&gt;The ballot is clean.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712145176570-6cb1d98a126a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlcnxlbnwwfHx8fDE3ODA5ODk4Mzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표용지가 (ballot paper)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;당시 오후 2시20분께 송파구 잠실4동 제7투표소에서 투표용지 부족이 우려돼 투표용지가 송부된 이후다&lt;br/&gt;&lt;em&gt;It was after ballot papers were sent due to concerns about a shortage of ballot papers at the 7th polling station in Jamsil 4-dong, Songpa-gu, around 2:20 p.m. at the time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(개혁신당은 실제로 투표용지가 부족했던 투표소에서 ’선별적 재선거&amp;#x27;를 치를 것을 주장하며, 이를 위해 ‘투표용지 부족 사태에 따른 서울 관내 선거 일부 무효 소청&amp;#x27;을 제기하겠다고 밝혔다&lt;br/&gt;&lt;em&gt;(The Reform Party claimed that a 'selective re-election' should be held at polling stations where ballot papers were actually insufficient, and announced that it would file a 'petition for partial invalidation of the Seoul district election due to the ballot paper shortage incident' for this purpose.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;당시 오후 2시20분께 송파구 잠실4동 제7투표소에서 투표용지 부족이 우려돼 투표용지가 송부된 이후다&lt;br/&gt;&lt;em&gt;It was after ballot papers were sent due to concerns about a shortage of ballot papers at the 7th polling station in Jamsil 4-dong, Songpa-gu, around 2:20 p.m. at the time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;투표용지가 책상 위에 있어요.&lt;br/&gt;&lt;em&gt;The ballot is on the desk.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표용지가 깨끗해요.&lt;br/&gt;&lt;em&gt;The ballot is clean.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 09 Jun 2026 16:24:04 +0900</pubDate><guid isPermaLink="false">vocab-c56f74842cf01d6f559c0f6585d57e00639a9563</guid><enclosure url="https://images.unsplash.com/photo-1712145176570-6cb1d98a126a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlcnxlbnwwfHx8fDE3ODA5ODk4Mzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="109434" /><ns2:content url="https://images.unsplash.com/photo-1712145176570-6cb1d98a126a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlcnxlbnwwfHx8fDE3ODA5ODk4Mzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1712145176570-6cb1d98a126a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYWxsb3QlMjBwYXBlcnxlbnwwfHx8fDE3ODA5ODk4Mzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>투표용지가</category></item><item><title>부족이 – lack</title><link>urn:urn:vocab:부족이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1516997121675-4c2d1684aa3e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYWNrfGVufDB8fHx8MTc4MDk4MjM2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부족이 (lack)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(중앙선관위 보고 내용을 보면, 투표용지 부족이 우려돼 추가로 용지를 송부했던 투표소는 전국에 67곳이었다&lt;br/&gt;&lt;em&gt;According to the National Election Commission report, there were 67 polling stations nationwide that sent additional ballots due to concerns about ballot shortages.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 가운데 실제 50곳에서 실제로 투표용지 부족이 발생했고, 17곳은 ‘투표용지는 부족하지 않았으나 용지를 추가 송부한 곳&amp;#x27;으로 나타났다&lt;br/&gt;&lt;em&gt;Among them, actual ballot shortages occurred at 50 stations, while 17 stations were found to have sent additional ballots even though there was no shortage.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표용지 부족이 실제로 발생한 50곳은 서울 33곳, 부산 3곳, 대구 4곳, 인천 6곳, 울산 2곳, 경남 2곳이다&lt;br/&gt;&lt;em&gt;The 50 stations where ballot shortages actually occurred were 33 in Seoul, 3 in Busan, 4 in Daegu, 6 in Incheon, 2 in Ulsan, and 2 in Gyeongnam.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;돈이 부족이에요.&lt;br/&gt;&lt;em&gt;I don't have enough money.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시간이 부족이에요.&lt;br/&gt;&lt;em&gt;I don't have enough time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1516997121675-4c2d1684aa3e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYWNrfGVufDB8fHx8MTc4MDk4MjM2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="부족이 (lack)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(중앙선관위 보고 내용을 보면, 투표용지 부족이 우려돼 추가로 용지를 송부했던 투표소는 전국에 67곳이었다&lt;br/&gt;&lt;em&gt;According to the National Election Commission report, there were 67 polling stations nationwide that sent additional ballots due to concerns about ballot shortages.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 가운데 실제 50곳에서 실제로 투표용지 부족이 발생했고, 17곳은 ‘투표용지는 부족하지 않았으나 용지를 추가 송부한 곳&amp;#x27;으로 나타났다&lt;br/&gt;&lt;em&gt;Among them, actual ballot shortages occurred at 50 stations, while 17 stations were found to have sent additional ballots even though there was no shortage.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;투표용지 부족이 실제로 발생한 50곳은 서울 33곳, 부산 3곳, 대구 4곳, 인천 6곳, 울산 2곳, 경남 2곳이다&lt;br/&gt;&lt;em&gt;The 50 stations where ballot shortages actually occurred were 33 in Seoul, 3 in Busan, 4 in Daegu, 6 in Incheon, 2 in Ulsan, and 2 in Gyeongnam.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;돈이 부족이에요.&lt;br/&gt;&lt;em&gt;I don't have enough money.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시간이 부족이에요.&lt;br/&gt;&lt;em&gt;I don't have enough time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 09 Jun 2026 14:19:32 +0900</pubDate><guid isPermaLink="false">vocab-1a7279926028fdb52d10b38832a299480b0d87cc</guid><enclosure url="https://images.unsplash.com/photo-1516997121675-4c2d1684aa3e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYWNrfGVufDB8fHx8MTc4MDk4MjM2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="135968" /><ns2:content url="https://images.unsplash.com/photo-1516997121675-4c2d1684aa3e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYWNrfGVufDB8fHx8MTc4MDk4MjM2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1516997121675-4c2d1684aa3e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxsYWNrfGVufDB8fHx8MTc4MDk4MjM2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>부족이</category></item><item><title>사실이다 – it is true</title><link>urn:urn:vocab:사실이다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1693501355887-feba194f8828?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpdCUyMGlzJTIwdHJ1ZXxlbnwwfHx8fDE3ODA5NzQ4NzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사실이다 (it is true)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;교육자 입장에서 이런 버튼이 위험하게 보이는 것은 사실이다&lt;br/&gt;&lt;em&gt;From an educator's perspective, it is true that such a button looks dangerous.&lt;/em&gt;&lt;/p&gt;
