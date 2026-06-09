@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 00:43:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 02:58:06 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>사태를 – situation</title><link>urn:urn:vocab:사태를</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>재선거 – by-election</title><link>urn:urn:vocab:재선거</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieS1lbGVjdGlvbnxlbnwwfHx8fDE3ODEwMjc4ODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재선거 (by-election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;6·3 지방선거 투표용지 부족 사태를 규탄하며 재선거를 요구하는 ‘잠실 개표소 봉쇄 시위’가 계속되고 있는 8일 서울 송파구 올림픽공원 핸드볼경기장 출입구 앞&lt;br/&gt;&lt;em&gt;On the 8th, in front of the entrance to the Olympic Handball Gymnasium in Songpa-gu, Seoul, the 'Jamsil Counting Station Blockade Protest' continues, demanding a re-election while condemning the shortage of ballot papers for the June 3 local elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개혁신당은 투표용지가 부족했던 투표소에서 ‘선별적 재선거’를 치를 것을 주장하며, 이를 위해 ‘서울 관내 선거 일부 무효 소청’을 제기하겠다고 밝혔다&lt;br/&gt;&lt;em&gt;The Reform Party has argued for a 'selective re-election' at polling stations where ballot papers were insufficient, and announced that it would file a 'partial invalidation petition for Seoul district elections' to this end.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Jang Dong-hyuk's path has failed" (오세훈 “중대 위법 아니면 재선거 못 해…장동혁 노선은 실패”) &lt;&lt;br/&gt;&lt;em&gt;Jang Dong-hyuk's path has failed (Oh Se-hoon: 'No re-election unless there is a serious illegality... Jang Dong-hyuk's path has failed')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;재선거가 내일 있습니다.&lt;br/&gt;&lt;em&gt;There is a re-election tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 재선거에서 이겼다.&lt;br/&gt;&lt;em&gt;He won the re-election.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieS1lbGVjdGlvbnxlbnwwfHx8fDE3ODEwMjc4ODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재선거 (by-election)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;6·3 지방선거 투표용지 부족 사태를 규탄하며 재선거를 요구하는 ‘잠실 개표소 봉쇄 시위’가 계속되고 있는 8일 서울 송파구 올림픽공원 핸드볼경기장 출입구 앞&lt;br/&gt;&lt;em&gt;On the 8th, in front of the entrance to the Olympic Handball Gymnasium in Songpa-gu, Seoul, the 'Jamsil Counting Station Blockade Protest' continues, demanding a re-election while condemning the shortage of ballot papers for the June 3 local elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;개혁신당은 투표용지가 부족했던 투표소에서 ‘선별적 재선거’를 치를 것을 주장하며, 이를 위해 ‘서울 관내 선거 일부 무효 소청’을 제기하겠다고 밝혔다&lt;br/&gt;&lt;em&gt;The Reform Party has argued for a 'selective re-election' at polling stations where ballot papers were insufficient, and announced that it would file a 'partial invalidation petition for Seoul district elections' to this end.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Jang Dong-hyuk's path has failed" (오세훈 “중대 위법 아니면 재선거 못 해…장동혁 노선은 실패”) &lt;&lt;br/&gt;&lt;em&gt;Jang Dong-hyuk's path has failed (Oh Se-hoon: 'No re-election unless there is a serious illegality... Jang Dong-hyuk's path has failed')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;재선거가 내일 있습니다.&lt;br/&gt;&lt;em&gt;There is a re-election tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 재선거에서 이겼다.&lt;br/&gt;&lt;em&gt;He won the re-election.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 10 Jun 2026 02:58:06 +0900</pubDate><guid isPermaLink="false">vocab-8584029ec685178a41278f8a1a3ec75019408338</guid><enclosure url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieS1lbGVjdGlvbnxlbnwwfHx8fDE3ODEwMjc4ODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="139078" /><ns2:content url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieS1lbGVjdGlvbnxlbnwwfHx8fDE3ODEwMjc4ODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxieS1lbGVjdGlvbnxlbnwwfHx8fDE3ODEwMjc4ODF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>재선거</category></item><item><title>사태를 – situation</title><link>urn:urn:vocab:사태를</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgwOTUyMzA4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사태를 (situation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이들은 투표용지 부족 사태를 중대한 참정권 침해로 규정하면서 철저한 진상규명과 재발 방지 대책 수립이 신속하게 이뤄져야 한다는 데 뜻을 같이했다&lt;br/&gt;&lt;em&gt;They agreed that the shortage of ballot papers constitutes a serious infringement of voting rights, and that a thorough investigation and the establishment of measures to prevent recurrence should be carried out promptly.&lt;/em&gt;&lt;/p&gt;
