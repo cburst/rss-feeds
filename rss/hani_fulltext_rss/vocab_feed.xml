@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 23:55:38 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 02:03:19 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>나만의 – my own</title><link>urn:urn:vocab:나만의</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>상자를 – box (object)</title><link>urn:urn:vocab:상자를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1656543802898-41c8c46683a7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib3glMjAlMjhvYmplY3QlMjl8ZW58MHx8fHwxNzgxMTEwOTk3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상자를 (box (object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;“여자니까, 혹은 남자니까 이래야 해”라는 좁은 상자를 부수고 나온 자리에서, 아이들은 비로소 ‘나다움’과 ‘너다움’이 공존하는 지도를 만들어갈 수 있을 것이다&lt;br/&gt;&lt;em&gt;Having broken out of the narrow box that says 'Because you're a woman, or because you're a man, you must be this way,' children will finally be able to create a map where 'my uniqueness' and 'your uniqueness' coexist.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;계절마다 작은 상자를 하나씩 마련해 그 시기에만 만날 수 있는 자연물을 담아가는 활동이다&lt;br/&gt;&lt;em&gt;It is an activity where a small box is prepared for each season to collect natural objects that can only be encountered during that time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (서울시 선관위는 보관상자 처리와 관련 “통상 투표 마감 후에 투표소를 정리할 때 자체 폐기하고 있다”며 “잠실7동 제2투표소 투표용지 보관 상자의 경우, 지난 5일 투표함이 개표소로 이송된 이후 잠실7동 주민센터에서 상자를 회수해 보관하다가 9일 송파구 선관위로 소형기표대 등 회수 물품과 함께 반납한 사실이 확인됐다”고 했다&lt;br/&gt;&lt;em&gt;"Regarding the handling of storage boxes, the Seoul City Election Commission stated, 'We usually dispose of them on our own when cleaning up polling stations after voting closes,' and added, 'In the case of the ballot storage box at the second polling station in Jamsil 7-dong, it was confirmed that after the ballot box was transported to the counting center on the 5th, the Jamsil 7-dong Community Center retrieved and stored the box, and then returned it to the Songpa-gu Election Commission on the 9th along with collected items such as small voting booths.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;상자를 열었어요.&lt;br/&gt;&lt;em&gt;I opened the box.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;상자를 책상 위에 놓았어요.&lt;br/&gt;&lt;em&gt;I put the box on the desk.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1656543802898-41c8c46683a7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib3glMjAlMjhvYmplY3QlMjl8ZW58MHx8fHwxNzgxMTEwOTk3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상자를 (box (object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;“여자니까, 혹은 남자니까 이래야 해”라는 좁은 상자를 부수고 나온 자리에서, 아이들은 비로소 ‘나다움’과 ‘너다움’이 공존하는 지도를 만들어갈 수 있을 것이다&lt;br/&gt;&lt;em&gt;Having broken out of the narrow box that says 'Because you're a woman, or because you're a man, you must be this way,' children will finally be able to create a map where 'my uniqueness' and 'your uniqueness' coexist.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;계절마다 작은 상자를 하나씩 마련해 그 시기에만 만날 수 있는 자연물을 담아가는 활동이다&lt;br/&gt;&lt;em&gt;It is an activity where a small box is prepared for each season to collect natural objects that can only be encountered during that time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (서울시 선관위는 보관상자 처리와 관련 “통상 투표 마감 후에 투표소를 정리할 때 자체 폐기하고 있다”며 “잠실7동 제2투표소 투표용지 보관 상자의 경우, 지난 5일 투표함이 개표소로 이송된 이후 잠실7동 주민센터에서 상자를 회수해 보관하다가 9일 송파구 선관위로 소형기표대 등 회수 물품과 함께 반납한 사실이 확인됐다”고 했다&lt;br/&gt;&lt;em&gt;"Regarding the handling of storage boxes, the Seoul City Election Commission stated, 'We usually dispose of them on our own when cleaning up polling stations after voting closes,' and added, 'In the case of the ballot storage box at the second polling station in Jamsil 7-dong, it was confirmed that after the ballot box was transported to the counting center on the 5th, the Jamsil 7-dong Community Center retrieved and stored the box, and then returned it to the Songpa-gu Election Commission on the 9th along with collected items such as small voting booths.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;상자를 열었어요.&lt;br/&gt;&lt;em&gt;I opened the box.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;상자를 책상 위에 놓았어요.&lt;br/&gt;&lt;em&gt;I put the box on the desk.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 11 Jun 2026 02:03:19 +0900</pubDate><guid isPermaLink="false">vocab-4f00fdaaaf42cf28a2491c987a102e9373774d5c</guid><enclosure url="https://images.unsplash.com/photo-1656543802898-41c8c46683a7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib3glMjAlMjhvYmplY3QlMjl8ZW58MHx8fHwxNzgxMTEwOTk3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="48916" /><ns2:content url="https://images.unsplash.com/photo-1656543802898-41c8c46683a7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib3glMjAlMjhvYmplY3QlMjl8ZW58MHx8fHwxNzgxMTEwOTk3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1656543802898-41c8c46683a7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib3glMjAlMjhvYmplY3QlMjl8ZW58MHx8fHwxNzgxMTEwOTk3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>상자를</category></item><item><title>나만의 – my own</title><link>urn:urn:vocab:나만의</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554330379-51042949bcd0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxteSUyMG93bnxlbnwwfHx8fDE3ODExMDMzMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="나만의 (my own)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Wonkwang Digital University Lifelong Education Center Recruits New Students for Summer Semester - "This Summer, Fill Your Personal Time with Learning" (원광디지털대학교 평생교육원, 여름학기 신규 수강생 모집  “올여름, 배움으로 채우는 나만의 시간”) &lt;&lt;br/&gt;&lt;em&gt;Wonkwang Digital University Lifelong Education Center Recruits New Students for Summer Semester - "This Summer, Fill Your Personal Time with Learning"&lt;/em&gt;&lt;/p&gt;
