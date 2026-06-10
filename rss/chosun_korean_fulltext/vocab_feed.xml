@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 02:03:27 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 06:13:34 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>투표소 – polling station</title><link>urn:urn:vocab:투표소</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>명확성 – clarity</title><link>urn:urn:vocab:명확성</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540162875225-3f6b56d69fe8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFyaXR5fGVufDB8fHx8MTc4MTEyNjAwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="명확성 (clarity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Victor Cha: "South Korea Must Show 'Strategic Clarity' by Aligning with US and Japan Against China" (빅터 차 “한국, 美·日과 연대해 中 대응하는 ‘전략적 명확성’ 보여야”) &lt;&lt;br/&gt;&lt;em&gt;Victor Cha: "South Korea Must Show 'Strategic Clarity' by Aligning with US and Japan Against China" (Victor Cha “South Korea must show ‘strategic clarity’ in responding to China by allying with the US and Japan”) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Victor Cha: "South Korea Must Show 'Strategic Clarity' by Aligning with US and Japan Against China" (빅터 차 “한국, 美·日과 연대해 中 대응하는 ‘전략적 명확성’ 보여야” )&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Victor Cha: "South Korea Must Show 'Strategic Clarity' by Aligning with US and Japan Against China" (Victor Cha “South Korea must show ‘strategic clarity’ in responding to China by allying with the US and Japan”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (한반도 문제 전문가인 빅터 차 미국 CSIS(전략국제문제연구소) 한국 석좌가 이재명 정부의 대중(對中) 외교 방향에 대해 “최대한 빨리 전통적인 ‘전략적 모호성(ambiguity)’에서 벗어나 ‘전략적 명확성(clarity)’의 자세를 취해야 한다”고 밝혔다&lt;br/&gt;&lt;em&gt;'" (Victor Cha, a Korea expert at the US CSIS (Center for Strategic and International Studies), stated regarding the direction of the Lee Jae-myung government's diplomacy toward China, “It must break away from the traditional ‘strategic ambiguity’ as quickly as possible and adopt a posture of ‘strategic clarity.’”&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;명확성이 중요합니다.&lt;br/&gt;&lt;em&gt;Clarity is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그의 말에 명확성이 있다.&lt;br/&gt;&lt;em&gt;There is clarity in his words.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540162875225-3f6b56d69fe8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFyaXR5fGVufDB8fHx8MTc4MTEyNjAwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="명확성 (clarity)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Victor Cha: "South Korea Must Show 'Strategic Clarity' by Aligning with US and Japan Against China" (빅터 차 “한국, 美·日과 연대해 中 대응하는 ‘전략적 명확성’ 보여야”) &lt;&lt;br/&gt;&lt;em&gt;Victor Cha: "South Korea Must Show 'Strategic Clarity' by Aligning with US and Japan Against China" (Victor Cha “South Korea must show ‘strategic clarity’ in responding to China by allying with the US and Japan”) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Victor Cha: "South Korea Must Show 'Strategic Clarity' by Aligning with US and Japan Against China" (빅터 차 “한국, 美·日과 연대해 中 대응하는 ‘전략적 명확성’ 보여야” )&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Victor Cha: "South Korea Must Show 'Strategic Clarity' by Aligning with US and Japan Against China" (Victor Cha “South Korea must show ‘strategic clarity’ in responding to China by allying with the US and Japan”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;'" (한반도 문제 전문가인 빅터 차 미국 CSIS(전략국제문제연구소) 한국 석좌가 이재명 정부의 대중(對中) 외교 방향에 대해 “최대한 빨리 전통적인 ‘전략적 모호성(ambiguity)’에서 벗어나 ‘전략적 명확성(clarity)’의 자세를 취해야 한다”고 밝혔다&lt;br/&gt;&lt;em&gt;'" (Victor Cha, a Korea expert at the US CSIS (Center for Strategic and International Studies), stated regarding the direction of the Lee Jae-myung government's diplomacy toward China, “It must break away from the traditional ‘strategic ambiguity’ as quickly as possible and adopt a posture of ‘strategic clarity.’”&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;명확성이 중요합니다.&lt;br/&gt;&lt;em&gt;Clarity is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그의 말에 명확성이 있다.&lt;br/&gt;&lt;em&gt;There is clarity in his words.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 11 Jun 2026 06:13:33 +0900</pubDate><guid isPermaLink="false">vocab-8d95264b228236c3fc4048afaa061efdf1b42782</guid><enclosure url="https://images.unsplash.com/photo-1540162875225-3f6b56d69fe8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFyaXR5fGVufDB8fHx8MTc4MTEyNjAwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="156597" /><ns2:content url="https://images.unsplash.com/photo-1540162875225-3f6b56d69fe8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFyaXR5fGVufDB8fHx8MTc4MTEyNjAwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540162875225-3f6b56d69fe8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjbGFyaXR5fGVufDB8fHx8MTc4MTEyNjAwOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>명확성</category></item><item><title>돌려주기 – returning</title><link>urn:urn:vocab:돌려주기</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1660356933755-b772004ef817?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXR1cm5pbmd8ZW58MHx8fHwxNzgxMTE4NDgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="돌려주기 (returning)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee: "New Mechanism Needed to Return AI-Driven Excess Profits to the People" (李대통령 “AI발 초과이익, 국민에 돌려주기 위해 새 메커니즘 필요”) &lt;&lt;br/&gt;&lt;em&gt;President Lee: "New Mechanism Needed to Return AI-Driven Excess Profits to the People"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;President Lee: "New Mechanism Needed to Return AI-Driven Excess Profits to the People" (李대통령 “AI발 초과이익, 국민에 돌려주기 위해 새 메커니즘 필요”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;President Lee: "New Mechanism Needed to Return AI-Driven Excess Profits to the People"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 10일 공개된 영국 경제 매체 이코노미스트와의 인터뷰에서 인공지능(AI)발 호황으로 창출된 부와 관련해 “초과 이익(excess profits)의 일부를 국민에게 돌려주기 위해 기본소득과 같은 새로운 메커니즘이 필요하다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung said in an interview with the British economic magazine The Economist published on the 10th that regarding the wealth created by the artificial intelligence (AI) boom, "a new mechanism such as basic income is needed to return some of the excess profits to the people."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;책을 돌려주기로 했어요.&lt;br/&gt;&lt;em&gt;I promised to return the book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;돌려주기가 중요해요.&lt;br/&gt;&lt;em&gt;Returning is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1660356933755-b772004ef817?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXR1cm5pbmd8ZW58MHx8fHwxNzgxMTE4NDgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="돌려주기 (returning)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee: "New Mechanism Needed to Return AI-Driven Excess Profits to the People" (李대통령 “AI발 초과이익, 국민에 돌려주기 위해 새 메커니즘 필요”) &lt;&lt;br/&gt;&lt;em&gt;President Lee: "New Mechanism Needed to Return AI-Driven Excess Profits to the People"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;President Lee: "New Mechanism Needed to Return AI-Driven Excess Profits to the People" (李대통령 “AI발 초과이익, 국민에 돌려주기 위해 새 메커니즘 필요”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;President Lee: "New Mechanism Needed to Return AI-Driven Excess Profits to the People"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 10일 공개된 영국 경제 매체 이코노미스트와의 인터뷰에서 인공지능(AI)발 호황으로 창출된 부와 관련해 “초과 이익(excess profits)의 일부를 국민에게 돌려주기 위해 기본소득과 같은 새로운 메커니즘이 필요하다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung said in an interview with the British economic magazine The Economist published on the 10th that regarding the wealth created by the artificial intelligence (AI) boom, "a new mechanism such as basic income is needed to return some of the excess profits to the people."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;책을 돌려주기로 했어요.&lt;br/&gt;&lt;em&gt;I promised to return the book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;돌려주기가 중요해요.&lt;br/&gt;&lt;em&gt;Returning is important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 11 Jun 2026 04:08:08 +0900</pubDate><guid isPermaLink="false">vocab-65aed1d793509521d19f4ee6df1ab8609401f1a8</guid><enclosure url="https://images.unsplash.com/photo-1660356933755-b772004ef817?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXR1cm5pbmd8ZW58MHx8fHwxNzgxMTE4NDgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="159367" /><ns2:content url="https://images.unsplash.com/photo-1660356933755-b772004ef817?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXR1cm5pbmd8ZW58MHx8fHwxNzgxMTE4NDgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1660356933755-b772004ef817?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZXR1cm5pbmd8ZW58MHx8fHwxNzgxMTE4NDgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>돌려주기</category></item><item><title>투표소 – polling station</title><link>urn:urn:vocab:투표소</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1720128401402-81c9dc339870?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwc3RhdGlvbnxlbnwwfHx8fDE3ODExMTEwMDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투표소 (polling station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;전남광주통합특별시장 사전투표에서도 더불어민주당 민형배 당선자와 국민의힘 이정현 후보가 같은 표를 얻은 투표소가 광주 1곳과 전남 9곳 등 총 10곳으로 집계됐다&lt;br/&gt;&lt;em&gt;In the early voting for the mayor of the Gwangju-Jeonnam Integrated Special City, it was tallied that there were a total of 10 polling stations where Democratic Party of Korea winner Min Hyung-bae and People Power Party candidate Lee Jung-hyun received the same number of votes: 1 in Gwangju and 9 in Jeonnam.&lt;/em&gt;&lt;/p&gt;
