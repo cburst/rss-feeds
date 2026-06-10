@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 07:11:23 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:28:31 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>미술대학 – art college</title><link>urn:urn:vocab:미술대학</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>산업을 – industry (object)</title><link>urn:urn:vocab:산업을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmR1c3RyeSUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3ODEwNTg1MDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="산업을 (industry (object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(중앙대 가상융합대학은 대학 간, 국가 간 경계를 허무는 플랫폼 기반 교육 혁신을 지속하고 있으며, 미래 가상융합 산업을 선도할 인재 배출에 박차를 가하고 있다&lt;br/&gt;&lt;em&gt;Chung-Ang University's Virtual Convergence College continues to innovate platform-based education that breaks down boundaries between universities and countries, and is accelerating the production of talent to lead the future virtual convergence industry.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(명예공학박사 학위를 받은 이병구 회장은 반도체 후공정 산업을 개척한 기업인이다&lt;br/&gt;&lt;em&gt;Chairman Lee Byung-gu, who received an honorary doctorate in engineering, is an entrepreneur who pioneered the semiconductor back-end process industry.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;권 교수는 주전공인 소재 분야의 전문성을 바탕으로 반도체 기술과 산업을 국제 정치·안보(기정학) 차원에서 분석하는 전문가로 통한다&lt;br/&gt;&lt;em&gt;Professor Kwon is known as an expert who analyzes semiconductor technology and industry from the perspective of international politics and security (geopolitics) based on his expertise in his major field of materials.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한국은 산업을 발전시킵니다.&lt;br/&gt;&lt;em&gt;Korea develops industries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 산업을 연구합니다.&lt;br/&gt;&lt;em&gt;He studies industries.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmR1c3RyeSUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3ODEwNTg1MDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="산업을 (industry (object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(중앙대 가상융합대학은 대학 간, 국가 간 경계를 허무는 플랫폼 기반 교육 혁신을 지속하고 있으며, 미래 가상융합 산업을 선도할 인재 배출에 박차를 가하고 있다&lt;br/&gt;&lt;em&gt;Chung-Ang University's Virtual Convergence College continues to innovate platform-based education that breaks down boundaries between universities and countries, and is accelerating the production of talent to lead the future virtual convergence industry.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(명예공학박사 학위를 받은 이병구 회장은 반도체 후공정 산업을 개척한 기업인이다&lt;br/&gt;&lt;em&gt;Chairman Lee Byung-gu, who received an honorary doctorate in engineering, is an entrepreneur who pioneered the semiconductor back-end process industry.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;권 교수는 주전공인 소재 분야의 전문성을 바탕으로 반도체 기술과 산업을 국제 정치·안보(기정학) 차원에서 분석하는 전문가로 통한다&lt;br/&gt;&lt;em&gt;Professor Kwon is known as an expert who analyzes semiconductor technology and industry from the perspective of international politics and security (geopolitics) based on his expertise in his major field of materials.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;한국은 산업을 발전시킵니다.&lt;br/&gt;&lt;em&gt;Korea develops industries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 산업을 연구합니다.&lt;br/&gt;&lt;em&gt;He studies industries.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 10 Jun 2026 11:28:31 +0900</pubDate><guid isPermaLink="false">vocab-3c01ce93d1ee3ca005351a992173765e2b1e9d55</guid><enclosure url="https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmR1c3RyeSUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3ODEwNTg1MDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="162883" /><ns2:content url="https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmR1c3RyeSUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3ODEwNTg1MDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbmR1c3RyeSUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3ODEwNTg1MDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>산업을</category></item><item><title>인테리어 – interior</title><link>urn:urn:vocab:인테리어</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1618220179428-22790b461013?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRlcmlvcnxlbnwwfHx8fDE3ODEwNTA3ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인테리어 (interior)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Hanssem, Interior Specialist, Renovates Homes for the Underprivileged… Reaches Cumulative Milestone of 1,000 Units (인테리어 전문기업 한샘의 소외계층 집 고쳐주기…누적 ‘1000호’ 기록 썼다) &lt;&lt;br/&gt;&lt;em&gt;Hanssem, Interior Specialist, Renovates Homes for the Underprivileged… Reaches Cumulative Milestone of 1,000 Units&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Hanssem, Interior Specialist, Renovates Homes for the Underprivileged… Reaches Cumulative Milestone of 1,000 Units (인테리어 전문기업 한샘의 소외계층 집 고쳐주기…누적 ‘1000호’ 기록 썼다)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Hanssem, Interior Specialist, Renovates Homes for the Underprivileged… Reaches Cumulative Milestone of 1,000 Units&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(홈 인테리어 전문기업 한샘의 소외계층 공간나눔 사회공헌 활동이 누적 ‘1천호’ 기록을 세워 눈길을 끈다&lt;br/&gt;&lt;em&gt;(Home interior specialist Hanssem's social contribution activity of sharing spaces for the underprivileged has reached a cumulative record of 1,000 units, drawing attention)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인테리어가 예뻐요.&lt;br/&gt;&lt;em&gt;The interior is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인테리어를 바꾸고 싶어요.&lt;br/&gt;&lt;em&gt;I want to change the interior.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1618220179428-22790b461013?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRlcmlvcnxlbnwwfHx8fDE3ODEwNTA3ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인테리어 (interior)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Hanssem, Interior Specialist, Renovates Homes for the Underprivileged… Reaches Cumulative Milestone of 1,000 Units (인테리어 전문기업 한샘의 소외계층 집 고쳐주기…누적 ‘1000호’ 기록 썼다) &lt;&lt;br/&gt;&lt;em&gt;Hanssem, Interior Specialist, Renovates Homes for the Underprivileged… Reaches Cumulative Milestone of 1,000 Units&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Hanssem, Interior Specialist, Renovates Homes for the Underprivileged… Reaches Cumulative Milestone of 1,000 Units (인테리어 전문기업 한샘의 소외계층 집 고쳐주기…누적 ‘1000호’ 기록 썼다)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Hanssem, Interior Specialist, Renovates Homes for the Underprivileged… Reaches Cumulative Milestone of 1,000 Units&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(홈 인테리어 전문기업 한샘의 소외계층 공간나눔 사회공헌 활동이 누적 ‘1천호’ 기록을 세워 눈길을 끈다&lt;br/&gt;&lt;em&gt;(Home interior specialist Hanssem's social contribution activity of sharing spaces for the underprivileged has reached a cumulative record of 1,000 units, drawing attention)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인테리어가 예뻐요.&lt;br/&gt;&lt;em&gt;The interior is pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인테리어를 바꾸고 싶어요.&lt;br/&gt;&lt;em&gt;I want to change the interior.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 10 Jun 2026 09:19:47 +0900</pubDate><guid isPermaLink="false">vocab-14efcd5be33e8f0341d99fa8f76de7d0c5c4a9b1</guid><enclosure url="https://images.unsplash.com/photo-1618220179428-22790b461013?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRlcmlvcnxlbnwwfHx8fDE3ODEwNTA3ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="360994" /><ns2:content url="https://images.unsplash.com/photo-1618220179428-22790b461013?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRlcmlvcnxlbnwwfHx8fDE3ODEwNTA3ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1618220179428-22790b461013?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnRlcmlvcnxlbnwwfHx8fDE3ODEwNTA3ODN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>인테리어</category></item><item><title>미술대학 – art college</title><link>urn:urn:vocab:미술대학</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1579857619207-9520101eb885?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcnQlMjBjb2xsZWdlfGVufDB8fHx8MTc4MTA0MzA4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="미술대학 (art college)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Kyung Hee University College of Fine Arts Hosts "First Steps" Exhibition (경희대 미술대학, 첫걸음 展 개최) &lt;&lt;br/&gt;&lt;em&gt;Kyung Hee University College of Fine Arts Hosts "First Steps" Exhibition&lt;/em&gt;&lt;/p&gt;
