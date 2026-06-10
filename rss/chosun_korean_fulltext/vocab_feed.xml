@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 11:28:38 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 15:42:55 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>우연한 – accidental</title><link>urn:urn:vocab:우연한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>애초에 – from the beginning</title><link>urn:urn:vocab:애초에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1769729829067-0b9d23ab6bb6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwYmVnaW5uaW5nfGVufDB8fHx8MTc4MTA3Mzc3MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="애초에 (from the beginning)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김 의원은 또 “오 시장이 재선거를 요구하려면 사퇴한 뒤에 재선거를 요청해야 하는데, 오 시장이 지금 3연임인데, 사퇴를 하면 4연임은 애초에 법적으로 도전이 불가능하다”며 “그러면 오 시장은 사퇴하는 순간 도전자 자격을 잃어버린다”고 했다&lt;br/&gt;&lt;em&gt;Rep. Kim also said, "If Mayor Oh wants to demand a by-election, he must resign first and then request a by-election. Mayor Oh is currently serving his third consecutive term; if he resigns, a fourth term is legally impossible from the start. So the moment Mayor Oh resigns, he loses his qualification as a candidate."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (김 의원은 “오 시장에게 재선거를 요구하는 것은 애초에 당신은 무조건 떨어지는 것을 전제로 다른 후보로 재선거를 하자는 요구인 것”이라며 “이게 (오 시장을 선출한) 서울시민의 민의에 맞느냐”고 지적했다&lt;br/&gt;&lt;em&gt;Rep. Kim pointed out, "Demanding a by-election from Mayor Oh is essentially a request to hold a by-election with a different candidate on the premise that you will definitely lose. Does this align with the will of Seoul citizens who elected Mayor Oh?"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (그러면서 “애초에 (재선거) 도전 자체가 불가능한 사람한테 ‘사퇴하고 집에 가시고, 재선거는 우리끼리 하겠습니다’라고 하는 것은 당대표로서 할 말이 아니다”라고 했다&lt;br/&gt;&lt;em&gt;He added, "Telling someone who cannot even run for re-election in the first place, 'Resign and go home; we will handle the by-election among ourselves,' is not something a party leader should say."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;애초에 계획이 없었어요.&lt;br/&gt;&lt;em&gt;There was no plan from the beginning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;애초에 그걸 몰랐어요.&lt;br/&gt;&lt;em&gt;I didn't know that from the start.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1769729829067-0b9d23ab6bb6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwYmVnaW5uaW5nfGVufDB8fHx8MTc4MTA3Mzc3MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="애초에 (from the beginning)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김 의원은 또 “오 시장이 재선거를 요구하려면 사퇴한 뒤에 재선거를 요청해야 하는데, 오 시장이 지금 3연임인데, 사퇴를 하면 4연임은 애초에 법적으로 도전이 불가능하다”며 “그러면 오 시장은 사퇴하는 순간 도전자 자격을 잃어버린다”고 했다&lt;br/&gt;&lt;em&gt;Rep. Kim also said, "If Mayor Oh wants to demand a by-election, he must resign first and then request a by-election. Mayor Oh is currently serving his third consecutive term; if he resigns, a fourth term is legally impossible from the start. So the moment Mayor Oh resigns, he loses his qualification as a candidate."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (김 의원은 “오 시장에게 재선거를 요구하는 것은 애초에 당신은 무조건 떨어지는 것을 전제로 다른 후보로 재선거를 하자는 요구인 것”이라며 “이게 (오 시장을 선출한) 서울시민의 민의에 맞느냐”고 지적했다&lt;br/&gt;&lt;em&gt;Rep. Kim pointed out, "Demanding a by-election from Mayor Oh is essentially a request to hold a by-election with a different candidate on the premise that you will definitely lose. Does this align with the will of Seoul citizens who elected Mayor Oh?"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (그러면서 “애초에 (재선거) 도전 자체가 불가능한 사람한테 ‘사퇴하고 집에 가시고, 재선거는 우리끼리 하겠습니다’라고 하는 것은 당대표로서 할 말이 아니다”라고 했다&lt;br/&gt;&lt;em&gt;He added, "Telling someone who cannot even run for re-election in the first place, 'Resign and go home; we will handle the by-election among ourselves,' is not something a party leader should say."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;애초에 계획이 없었어요.&lt;br/&gt;&lt;em&gt;There was no plan from the beginning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;애초에 그걸 몰랐어요.&lt;br/&gt;&lt;em&gt;I didn't know that from the start.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 10 Jun 2026 15:42:54 +0900</pubDate><guid isPermaLink="false">vocab-9397f35c9bd61b52f21a36d7389049fe9885a024</guid><enclosure url="https://images.unsplash.com/photo-1769729829067-0b9d23ab6bb6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwYmVnaW5uaW5nfGVufDB8fHx8MTc4MTA3Mzc3MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="68004" /><ns2:content url="https://images.unsplash.com/photo-1769729829067-0b9d23ab6bb6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwYmVnaW5uaW5nfGVufDB8fHx8MTc4MTA3Mzc3MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1769729829067-0b9d23ab6bb6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdGhlJTIwYmVnaW5uaW5nfGVufDB8fHx8MTc4MTA3Mzc3MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>애초에</category></item><item><title>이기는 – winning</title><link>urn:urn:vocab:이기는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1578269174936-2709b6aeb913?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aW5uaW5nfGVufDB8fHx8MTc4MTA2NjI5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이기는 (winning)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;No Government Can Defeat the People" (정청래 “국민은 영원, 정권은 짧아…국민 이기는 정권 없다”) &lt;&lt;br/&gt;&lt;em&gt;No Government Can Defeat the People (Jeong Cheong-rae: "The people are eternal, the regime is short... No regime can defeat the people") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;No Government Can Defeat the People" (정청래 “국민은 영원, 정권은 짧아…국민 이기는 정권 없다”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;No Government Can Defeat the People (Jeong Cheong-rae: "The people are eternal, the regime is short... No regime can defeat the people")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;3 지방선거 이후 첫 공개 최고위원회의에서 “국민을 이기는 정권은 없다&lt;br/&gt;&lt;em&gt;At the first public supreme council meeting after the 3rd local elections, "No regime can defeat the people"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리 팀이 이기는 중이에요.&lt;br/&gt;&lt;em&gt;Our team is winning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 선수가 이기는 게 중요해요.&lt;br/&gt;&lt;em&gt;It's important for that player to win.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1578269174936-2709b6aeb913?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aW5uaW5nfGVufDB8fHx8MTc4MTA2NjI5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이기는 (winning)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;No Government Can Defeat the People" (정청래 “국민은 영원, 정권은 짧아…국민 이기는 정권 없다”) &lt;&lt;br/&gt;&lt;em&gt;No Government Can Defeat the People (Jeong Cheong-rae: "The people are eternal, the regime is short... No regime can defeat the people") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;No Government Can Defeat the People" (정청래 “국민은 영원, 정권은 짧아…국민 이기는 정권 없다”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;No Government Can Defeat the People (Jeong Cheong-rae: "The people are eternal, the regime is short... No regime can defeat the people")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;3 지방선거 이후 첫 공개 최고위원회의에서 “국민을 이기는 정권은 없다&lt;br/&gt;&lt;em&gt;At the first public supreme council meeting after the 3rd local elections, "No regime can defeat the people"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리 팀이 이기는 중이에요.&lt;br/&gt;&lt;em&gt;Our team is winning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 선수가 이기는 게 중요해요.&lt;br/&gt;&lt;em&gt;It's important for that player to win.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 10 Jun 2026 13:38:19 +0900</pubDate><guid isPermaLink="false">vocab-fec5453d7f7898034e7c1ece0f4ccebb9deef860</guid><enclosure url="https://images.unsplash.com/photo-1578269174936-2709b6aeb913?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aW5uaW5nfGVufDB8fHx8MTc4MTA2NjI5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="41516" /><ns2:content url="https://images.unsplash.com/photo-1578269174936-2709b6aeb913?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aW5uaW5nfGVufDB8fHx8MTc4MTA2NjI5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1578269174936-2709b6aeb913?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aW5uaW5nfGVufDB8fHx8MTc4MTA2NjI5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>이기는</category></item><item><title>우연한 – accidental</title><link>urn:urn:vocab:우연한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1731616570015-43568a890f83?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY2NpZGVudGFsfGVufDB8fHx8MTc4MTA1ODUxM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="우연한 (accidental)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (인천·전남에서 주요 후보자의 득표수가 일치하는 것과 관련, 야권에서 “일어나기 힘든 일, 의혹 해소해야 한다”며 부정선거의 증거라는 취지로 주장하자, 선거관리위원회는 “우연한 결과”라고 설명했다&lt;br/&gt;&lt;em&gt;" (Regarding the matching vote counts of major candidates in Incheon and South Jeolla, the opposition claimed it was evidence of election fraud, saying 'It's an unlikely event; suspicions must be resolved,' while the National Election Commission explained it as a 'coincidental result.'&lt;/em&gt;&lt;/p&gt;
