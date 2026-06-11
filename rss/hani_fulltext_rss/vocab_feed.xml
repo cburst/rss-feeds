@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 10:21:23 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 14:34:03 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>클로드 – Claude</title><link>urn:urn:vocab:클로드</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>계약서 – contract</title><link>urn:urn:vocab:계약서</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250cmFjdHxlbnwwfHx8fDE3ODExNTYwMzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="계약서 (contract)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Fair Trade Commission Begins Consent Decree Process for Samsung Heavy Industries Over Delayed Subcontract Issuance (공정위, ‘하도급 계약서 늑장 발급’ 삼성중공업 동의의결 절차 개시) &lt;&lt;br/&gt;&lt;em&gt;Fair Trade Commission Begins Consent Decree Process for Samsung Heavy Industries Over Delayed Subcontract Issuance&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Fair Trade Commission Begins Consent Decree Process for Samsung Heavy Industries Over Delayed Subcontract Issuance (공정위, ‘하도급 계약서 늑장 발급’ 삼성중공업 동의의결 절차 개시)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Fair Trade Commission Begins Consent Decree Process for Samsung Heavy Industries Over Delayed Subcontract Issuance&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(하도급 서면 계약서를 늑장 발급한 혐의로 공정거래위원회 조사를 받던 삼성중공업이 제재를 피하기 위해 자진 시정방안을 내놨다&lt;br/&gt;&lt;em&gt;Samsung Heavy Industries, which had been under investigation by the Fair Trade Commission for delaying the issuance of written subcontract agreements, has proposed voluntary corrective measures to avoid sanctions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;계약서에 서명하세요.&lt;br/&gt;&lt;em&gt;Sign the contract.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;계약서를 읽었어요.&lt;br/&gt;&lt;em&gt;I read the contract.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250cmFjdHxlbnwwfHx8fDE3ODExNTYwMzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="계약서 (contract)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Fair Trade Commission Begins Consent Decree Process for Samsung Heavy Industries Over Delayed Subcontract Issuance (공정위, ‘하도급 계약서 늑장 발급’ 삼성중공업 동의의결 절차 개시) &lt;&lt;br/&gt;&lt;em&gt;Fair Trade Commission Begins Consent Decree Process for Samsung Heavy Industries Over Delayed Subcontract Issuance&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Fair Trade Commission Begins Consent Decree Process for Samsung Heavy Industries Over Delayed Subcontract Issuance (공정위, ‘하도급 계약서 늑장 발급’ 삼성중공업 동의의결 절차 개시)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Fair Trade Commission Begins Consent Decree Process for Samsung Heavy Industries Over Delayed Subcontract Issuance&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(하도급 서면 계약서를 늑장 발급한 혐의로 공정거래위원회 조사를 받던 삼성중공업이 제재를 피하기 위해 자진 시정방안을 내놨다&lt;br/&gt;&lt;em&gt;Samsung Heavy Industries, which had been under investigation by the Fair Trade Commission for delaying the issuance of written subcontract agreements, has proposed voluntary corrective measures to avoid sanctions.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;계약서에 서명하세요.&lt;br/&gt;&lt;em&gt;Sign the contract.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;계약서를 읽었어요.&lt;br/&gt;&lt;em&gt;I read the contract.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 11 Jun 2026 14:34:03 +0900</pubDate><guid isPermaLink="false">vocab-c60cda9a77a6798cf6987b1360bb54d30f7506c6</guid><enclosure url="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250cmFjdHxlbnwwfHx8fDE3ODExNTYwMzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="66845" /><ns2:content url="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250cmFjdHxlbnwwfHx8fDE3ODExNTYwMzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb250cmFjdHxlbnwwfHx8fDE3ODExNTYwMzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>계약서</category></item><item><title>건강검진 – health checkup</title><link>urn:urn:vocab:건강검진</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBjaGVja3VwfGVufDB8fHx8MTc4MTE0ODU1Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="건강검진 (health checkup)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(소상공인연합회가 새출발기금과 함께 채무를 성실히 상환 중인 소상공인의 안정적인 재기를 돕기 위해 경영환경 개선과 건강검진 비용을 지원하는 사업을 시행한다&lt;br/&gt;&lt;em&gt;The Small Business Association, together with the New Start Fund, is implementing a project to support the stable recovery of small business owners who are faithfully repaying their debts by providing business environment improvement and health checkup costs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오는 15일부터는 건강검진 지원사업 신청이 시작된다&lt;br/&gt;&lt;em&gt;Starting from the 15th, applications for the health checkup support project will begin.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;경제적 어려움과 장시간 노동으로 건강관리에 소홀하기 쉬운 소상공인들을 위해 건강검진 비용이 최대 30만원 지원된다&lt;br/&gt;&lt;em&gt;Health checkup costs of up to 300,000 won will be supported for small business owners who are prone to neglecting health management due to economic difficulties and long working hours.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;건강검진을 받았어요.&lt;br/&gt;&lt;em&gt;I had a health checkup.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;건강검진이 중요해요.&lt;br/&gt;&lt;em&gt;Health checkups are important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBjaGVja3VwfGVufDB8fHx8MTc4MTE0ODU1Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="건강검진 (health checkup)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(소상공인연합회가 새출발기금과 함께 채무를 성실히 상환 중인 소상공인의 안정적인 재기를 돕기 위해 경영환경 개선과 건강검진 비용을 지원하는 사업을 시행한다&lt;br/&gt;&lt;em&gt;The Small Business Association, together with the New Start Fund, is implementing a project to support the stable recovery of small business owners who are faithfully repaying their debts by providing business environment improvement and health checkup costs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오는 15일부터는 건강검진 지원사업 신청이 시작된다&lt;br/&gt;&lt;em&gt;Starting from the 15th, applications for the health checkup support project will begin.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;경제적 어려움과 장시간 노동으로 건강관리에 소홀하기 쉬운 소상공인들을 위해 건강검진 비용이 최대 30만원 지원된다&lt;br/&gt;&lt;em&gt;Health checkup costs of up to 300,000 won will be supported for small business owners who are prone to neglecting health management due to economic difficulties and long working hours.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;건강검진을 받았어요.&lt;br/&gt;&lt;em&gt;I had a health checkup.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;건강검진이 중요해요.&lt;br/&gt;&lt;em&gt;Health checkups are important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 11 Jun 2026 12:29:20 +0900</pubDate><guid isPermaLink="false">vocab-f0d3513b3002a148a6efe459cabf2eaeb3f54a95</guid><enclosure url="https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBjaGVja3VwfGVufDB8fHx8MTc4MTE0ODU1Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="69571" /><ns2:content url="https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBjaGVja3VwfGVufDB8fHx8MTc4MTE0ODU1Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBjaGVja3VwfGVufDB8fHx8MTc4MTE0ODU1Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>건강검진</category></item><item><title>클로드 – Claude</title><link>urn:urn:vocab:클로드</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1738107445898-2ea37e291bca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDbGF1ZGV8ZW58MHx8fHwxNzgxMTQwODc5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="클로드 (Claude)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;앤트로픽은 9일(현지시각) 생물무기 제조법이나 해킹 등 민감한 주제와 관련해 ‘안전장치’를 적용한 차세대 인공지능 모델 ‘클로드 페이블 5’를 일반에 공개했다&lt;br/&gt;&lt;em&gt;Anthropic released on the 9th (local time) the next-generation AI model 'Claude Fable 5', which applies 'safety measures' to sensitive topics such as bioweapon manufacturing or hacking, to the public.&lt;/em&gt;&lt;/p&gt;
