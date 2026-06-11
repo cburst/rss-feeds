@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 05:16:25 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 07:26:22 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>풀어낸 – solved</title><link>urn:urn:vocab:풀어낸</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기대된다 – is expected</title><link>urn:urn:vocab:기대된다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGV4cGVjdGVkfGVufDB8fHx8MTc4MTIxNjc3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기대된다 (is expected)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이번 AI-RAN Alliance 총회 유치는 이러한 노력의 연장선에서, 한국이 AI-RAN 기술 개발과 국제 표준 논의에 보다 적극적으로 참여하는 계기가 될 것으로 기대된다&lt;br/&gt;&lt;em&gt;The hosting of this AI-RAN Alliance general meeting is expected to serve as an opportunity for Korea to more actively participate in AI-RAN technology development and international standard discussions, as an extension of these efforts.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 MOU를 통해 대학과 기업이 상생하는 맞춤형 교육을 통해 학생들의 취업 경쟁력을 높이고 고용 활성화 모델을 만들 수 있을 것으로 기대된다&lt;br/&gt;&lt;em&gt;Through this MOU, it is expected that customized education fostering mutual growth between universities and companies will enhance students' employment competitiveness and create a model for employment activation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또한 AI 시대 산업 경쟁력 강화와 노동시장 적응 전략 수립에 필요한 정책적 시사점을 제공할 것으로 기대된다&lt;br/&gt;&lt;em&gt;It is also expected to provide policy implications necessary for strengthening industrial competitiveness in the AI era and establishing strategies for labor market adaptation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;내일 여행이 기대된다.&lt;br/&gt;&lt;em&gt;I'm looking forward to the trip tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;새 영화가 기대된다.&lt;br/&gt;&lt;em&gt;I'm looking forward to the new movie.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGV4cGVjdGVkfGVufDB8fHx8MTc4MTIxNjc3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기대된다 (is expected)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이번 AI-RAN Alliance 총회 유치는 이러한 노력의 연장선에서, 한국이 AI-RAN 기술 개발과 국제 표준 논의에 보다 적극적으로 참여하는 계기가 될 것으로 기대된다&lt;br/&gt;&lt;em&gt;The hosting of this AI-RAN Alliance general meeting is expected to serve as an opportunity for Korea to more actively participate in AI-RAN technology development and international standard discussions, as an extension of these efforts.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 MOU를 통해 대학과 기업이 상생하는 맞춤형 교육을 통해 학생들의 취업 경쟁력을 높이고 고용 활성화 모델을 만들 수 있을 것으로 기대된다&lt;br/&gt;&lt;em&gt;Through this MOU, it is expected that customized education fostering mutual growth between universities and companies will enhance students' employment competitiveness and create a model for employment activation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;또한 AI 시대 산업 경쟁력 강화와 노동시장 적응 전략 수립에 필요한 정책적 시사점을 제공할 것으로 기대된다&lt;br/&gt;&lt;em&gt;It is also expected to provide policy implications necessary for strengthening industrial competitiveness in the AI era and establishing strategies for labor market adaptation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;내일 여행이 기대된다.&lt;br/&gt;&lt;em&gt;I'm looking forward to the trip tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;새 영화가 기대된다.&lt;br/&gt;&lt;em&gt;I'm looking forward to the new movie.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 12 Jun 2026 07:26:22 +0900</pubDate><guid isPermaLink="false">vocab-0148f44e288ee74486b67cb2113f55a109568097</guid><enclosure url="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGV4cGVjdGVkfGVufDB8fHx8MTc4MTIxNjc3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="242327" /><ns2:content url="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGV4cGVjdGVkfGVufDB8fHx8MTc4MTIxNjc3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGV4cGVjdGVkfGVufDB8fHx8MTc4MTIxNjc3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기대된다</category></item><item><title>풀어낸 – solved</title><link>urn:urn:vocab:풀어낸</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1605712916066-e143c317df72?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzb2x2ZWR8ZW58MHx8fHwxNzgxMjA4OTc5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="풀어낸 (solved)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;‘절기 마법’(천미진 글, 민승지 그림)은 시골집으로 이사 온 가족의 사계절 이야기를 통해 24절기를 정겹게 풀어낸 그림책이다&lt;br/&gt;&lt;em&gt;'Seasonal Magic' (written by Cheon Mi-jin, illustrated by Min Seung-ji) is a picture book that warmly depicts the 24 solar terms through the story of a family's four seasons after moving to a rural house.&lt;/em&gt;&lt;/p&gt;
