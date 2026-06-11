@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 08:17:17 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 10:21:23 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,29 @@
 
 
 
-  <item><title>정점식 – summit ceremony</title><link>urn:urn:vocab:정점식</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>클로드 – Claude</title><link>urn:urn:vocab:클로드</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1738107445898-2ea37e291bca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDbGF1ZGV8ZW58MHx8fHwxNzgxMTQwODc5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="클로드 (Claude)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;앤트로픽은 9일(현지시각) 생물무기 제조법이나 해킹 등 민감한 주제와 관련해 ‘안전장치’를 적용한 차세대 인공지능 모델 ‘클로드 페이블 5’를 일반에 공개했다&lt;br/&gt;&lt;em&gt;Anthropic released on the 9th (local time) the next-generation AI model 'Claude Fable 5', which applies 'safety measures' to sensitive topics such as bioweapon manufacturing or hacking, to the public.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(앤트로픽은 9일(현지시각) 새로운 모델 ‘클로드 페이블 5’를 출시했다고 밝혔다&lt;br/&gt;&lt;em&gt;(Anthropic announced on the 9th (local time) that it has released a new model 'Claude Fable 5'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (클로드 페이블 5는 인공지능이 범죄 등에 악용되지 않도록 안전장치를 적용한 것이 큰 특징이다&lt;br/&gt;&lt;em&gt;" (Claude Fable 5's main feature is that it applies safety measures to prevent AI from being misused for crimes, etc.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;클로드는 친구입니다.&lt;br/&gt;&lt;em&gt;Claude is a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;클로드를 만났어요.&lt;br/&gt;&lt;em&gt;I met Claude.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1738107445898-2ea37e291bca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDbGF1ZGV8ZW58MHx8fHwxNzgxMTQwODc5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="클로드 (Claude)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;앤트로픽은 9일(현지시각) 생물무기 제조법이나 해킹 등 민감한 주제와 관련해 ‘안전장치’를 적용한 차세대 인공지능 모델 ‘클로드 페이블 5’를 일반에 공개했다&lt;br/&gt;&lt;em&gt;Anthropic released on the 9th (local time) the next-generation AI model 'Claude Fable 5', which applies 'safety measures' to sensitive topics such as bioweapon manufacturing or hacking, to the public.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(앤트로픽은 9일(현지시각) 새로운 모델 ‘클로드 페이블 5’를 출시했다고 밝혔다&lt;br/&gt;&lt;em&gt;(Anthropic announced on the 9th (local time) that it has released a new model 'Claude Fable 5'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (클로드 페이블 5는 인공지능이 범죄 등에 악용되지 않도록 안전장치를 적용한 것이 큰 특징이다&lt;br/&gt;&lt;em&gt;" (Claude Fable 5's main feature is that it applies safety measures to prevent AI from being misused for crimes, etc.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;클로드는 친구입니다.&lt;br/&gt;&lt;em&gt;Claude is a friend.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;클로드를 만났어요.&lt;br/&gt;&lt;em&gt;I met Claude.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 11 Jun 2026 10:21:23 +0900</pubDate><guid isPermaLink="false">vocab-71c89e4470a0e497726e50084655b3c80a5b1603</guid><enclosure url="https://images.unsplash.com/photo-1738107445898-2ea37e291bca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDbGF1ZGV8ZW58MHx8fHwxNzgxMTQwODc5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="51084" /><ns2:content url="https://images.unsplash.com/photo-1738107445898-2ea37e291bca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDbGF1ZGV8ZW58MHx8fHwxNzgxMTQwODc5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1738107445898-2ea37e291bca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxDbGF1ZGV8ZW58MHx8fHwxNzgxMTQwODc5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>클로드</category></item><item><title>정점식 – summit ceremony</title><link>urn:urn:vocab:정점식</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1769540209342-34d08f98a3b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdW1taXQlMjBjZXJlbW9ueXxlbnwwfHx8fDE3ODExMzM0MzJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정점식 (summit ceremony)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Gets 55 out of 103 votes in runoff ([속보] 국힘 새 원내대표 ‘원조 친윤’ 정점식…결선서 103표 중 55표) &lt;&lt;br/&gt;&lt;em&gt;Gets 55 out of 103 votes in runoff ([Breaking] People Power Party's new floor leader 'original pro-Yoon' Jeong Jeom-sik... 55 out of 103 votes in runoff) &lt;&lt;/em&gt;&lt;/p&gt;
