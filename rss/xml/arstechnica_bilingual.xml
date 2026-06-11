@@ -1,51 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 11 Jun 2026 16:05:41 +0000</lastBuildDate><item><title>Commonwealth Fusion makes the physics case for its 400 MW reactor (커먼웰스 퓨전, 400MW 원자로의 물리적 근거 제시)</title><link>https://arstechnica.com/science/2026/06/__trashed-19/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-1-1152x648.jpeg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Five peer-reviewed papers update the design and model its expected output.&lt;br/&gt;(5편의 동료 검토 논문이 설계를 업데이트하고 예상 출력을 모델링했습니다.)&lt;/p&gt;
-&lt;p&gt;The scientific community has a plan for achieving fusion power. It involves getting a better understanding of how to control fusion in a tokamak-style reactor using the currently under construction ITER reactor , and then using that knowledge to build DEMO-style plants . But ITER isn’t even expected to see hot plasmas until the middle of the 2030s, by which point solar panels will be so cheap that we’ll probably all be getting them free in our cereal boxes.&lt;br/&gt;(과학계는 핵융합 발전을 실현하기 위한 계획을 가지고 있습니다. 여기에는 현재 건설 중인 ITER 원자로를 사용해 토카막 방식 원자로에서 핵융합을 제어하는 방법을 더 잘 이해한 후, 그 지식을 바탕으로 DEMO 스타일 발전소를 건설하는 것이 포함됩니다. 하지만 ITER는 2030년대 중반이 되어서야 고온 플라즈마를 볼 것으로 예상되는데, 그때쯤이면 태양광 패널이 너무 저렴해져서 시리얼 상자에 공짜로 들어있을 지경일 것입니다.)&lt;/p&gt;
-&lt;p&gt;Commonwealth Fusion is a startup that’s basically asking “what if we did that, but now?” Its ITER equivalent, a tokamak called SPARC, is over 70 percent complete and is planned to be operating as soon as next year. The company already has a site and customers for the power-generating follow-on, called ARC. Both of those projects are predicated on using high-temperature superconductors to generate an extremely powerful magnetic field that will allow the company to build a smaller reactor, and thus get things done faster.&lt;br/&gt;(커먼웰스 퓨전은 기본적으로 "그걸 지금 당장 해보면 어떨까?"라고 묻는 스타트업입니다. ITER에 해당하는 이 회사의 토카막, SPARC는 70% 이상 완공되었으며 내년에 가동될 예정입니다. 이 회사는 이미 ARC라는 발전용 후속 모델을 위한 부지와 고객을 확보했습니다. 이 두 프로젝트 모두 고온 초전도체를 사용해 매우 강력한 자기장을 생성함으로써 더 작은 원자로를 건설하여 더 빠르게 진행할 수 있다는 전제에 기반하고 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-수년간 토카막에서 플라즈마를 운용한 경험을 통해 이러한 계획의 기본이 타당하다는 확신을 얻었습니다. 하지만 세부 사항에는 많은 잠재적 문제가 있을 수 있습니다(그렇지 않다면 실험용 원자로가 필요 없을 것입니다). 따라서 커먼웰스의 과학자들은 학계와 협력하여 최근 ARC 계획을 상세히 설명하는 다섯 편의 동료 검토 논문을 발표했습니다. 여기에는 현재 최고의 모델이 알려주는 내용과 생산용 핵융합 발전소 설계를 최종 확정하기 위해 SPARC로부터 여전히 배워야 할 사항이 포함되어 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 논문들은 모두 Journal of Plasma Physics에 게재되었으며, 오픈 액세스이므로 직접 볼 수 있지만 길이(약 30~40페이지 분량의 PDF)가 매우 길고 기술적 내용이 많습니다. 다음은 그중 일부에 대한 개요와 제가 읽으면서 눈에 띄었던 몇 가지 사항입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-ARC는 수소의 두 무거운 동위원소인 중수소와 삼중수소 간의 핵융합을 일으키는 토카막이 될 것입니다. 이 반응은 헬륨 핵을 생성하고 중성자와 방사선을 방출합니다. 헬륨은 열을 플라즈마로 전달하여 핵융합에 필요한 조건을 유지하지만, 그 외에는 핵융합 맥락에서 "재(ash)"라고 불리는 폐기물입니다. 반면 중성자와 방사선은 활용됩니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 활용 중 일부는 단순히 핵융합 챔버를 둘러싼 용융염 블랭킷에 에너지를 전달하는 것입니다. 열 형태의 이 에너지는 전기를 생산하는 터빈을 구동하는 데 사용됩니다. 용융염에는 리튬 이온이 포함되어 있습니다. 리튬 동위원소 중 하나가 중성자를 흡수하면 더 많은 헬륨과 원자로 연료로 사용할 수 있는 삼중수소로 붕괴됩니다. 추가 중성자를 방출하는 동위원소도 존재하여 이 과정이 충분한 연료를 생산할 수 있게 합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-전반적으로 현재 ARC 설계는 약 1.13GW의 핵융합 출력을 생산할 것으로 예상되며, 이 중 500MW가 전기로 추출됩니다. 그중 일부(100MW)는 발전소 운영에 필요한 전력으로 사용되고, 나머지 400MW가 전력망으로 송전됩니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-나머지 에너지는 토카막 내에 유지되어 핵융합 반응을 유지하거나 시스템의 열 및 에너지 전달 비효율로 인해 손실됩니다. 이 수치에는 많은 불확실성이 있습니다. 1.13GW는 900MW에서 1.3GW에 이르는 잠재적 값 범위의 중간값일 뿐이므로, 400MW 출력도 이에 따라 조정될 필요가 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 400MW 중 일부는 핵융합이 일어나지 않는 기간 동안 발생합니다. 핵반응은 15분 길이의 기간 동안 일어나며, 1분의 리셋 시간이穿插됩니다. 리셋은 재가열되기 전에 식을 기회가 없도록 충분히 짧게 유지됩니다. 열 관성은 계속해서 전력을 생산할 수 있게 합니다. 이것이 SPARC와의 주요 차별점 중 하나가 될 것입니다. SPARC는 이렇게 긴 시간 동안 안정적인 핵융합을 유지하는 데 필요한 열 추출 기능이 없어 안정적인 발전에 필요한 거의 일정한 온도를 유지할 수 없습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-장치의 일부가 방사선 및 핵융합 플라즈마에 노출되는 것은 불가피합니다. 원자로 내벽은 텅스텐으로 보호되어 조건에 의한 침식을 제한할 것입니다. 한편, 진공 용기는 1~2년마다 교체되도록 설계되었습니다. 논문은 이러한 유연성 덕분에 ARC가 건설된 후에도 일부 설계 변경이 가능할 것이라고 언급합니다. 이를 가능하게 하기 위해 전체 토카막은 유지보수를 위해 반으로 나뉠 수 있도록 설계되었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-ARC 운영의 두 가지 큰 불확실성은 핵융합의 오랜 과제인 자기 불안정성을 처리하는 방법과 헬륨 재 및 자기 포집에서 벗어난 물질을 처리하는 방법입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-후자의 일부는 15분 작동 후마다 발생하는 리셋 과정에서 반응 챔버를 비우고 새 연료를 주입함으로써 처리될 것입니다. 하지만 작동 중에는 다이버터(diverter)라고 불리는 장치를 통해 처리됩니다. 이는 자기장 선이 일부 물질이 포집 밖으로 빠져나갈 수 있도록 형성된 영역입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"ARC의 핵융합 출력을 극대화하면서 플라즈마 접촉 부품의 과도한 침식을 피하려면, 마지막 닫힌 자속 표면을 가로지르는 대부분의 전력을 복사로 소멸시켜야 하며, 다이버터 분리를 위해 아르곤이나 네온과 같은 복사 불순물을 주입해야 합니다,"라고 논문 중 하나는 말합니다. "다이버터 분리는 고성능 코어 플라즈마와 통합되어야 하며, 코어 내 헬륨 재 축적을 방지하기 위해 효율적인 불순물 펌핑이 이루어져야 합니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-이들이 사용하는 모델은 시스템이 다이버터에서 충분한 압력을 유지하여 헬륨 재를 충분히 배출함으로써 핵융합 반응을 방해하지 못하게 할 것이라고 예측합니다. 하지만 이 예측은 실험적으로 검증되어야 합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-자기 불안정성은 플라즈마 제어의 급속한 상실로 이어져 에너지가 높은 하전 입자가 원자로 벽에 충돌할 수 있습니다. 텅스텐은 손상을 제한하고 더 민감한 하드웨어를 보호하지만, 침식되며 침식된 텅스텐은 챔버 내에 남아 시스템의 후속 운전을 오염시킬 수 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-플라즈마를 담고 있는 자기장을 제어하는 시스템을 설계하고, 불안정성을 예고하는 센서 판독값을 찾아 이를 억제할 수 있는 조정을 선택하는 데 많은 연구가 이루어졌습니다. (이 부분은 AI 기반 시스템이 유용할 수 있습니다.) 커먼웰스는 가능한 한 많은 불안정성을 차단할 계획입니다. 하지만 현실적으로 일부는 불가피하게 발생할 것으로 예상합니다. 따라서 최소한의 손상으로 시스템을 신속히 소멸시키고 열 추출 시스템이 크게 식지 않도록 가능한 한 빨리 재시동할 계획입니다. 기본적으로 아이디어는 일반적인 운영 중 1분간의 리셋 상태로 시스템을 신속히 전환하는 것입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-불안정성 중 한 가지 위험은 가속되어 상대론적 에너지에 도달해 반응 챔버 벽에 충돌할 수 있는 런어웨이 전자입니다. 이는 원자로 내에 신중하게 배치된 와이어를 통해 전류로 변환하여 추출할 수 있으므로 처리하기 쉬울 수 있습니다. 하지만 커먼웰스는 이것이 심각한 문제라는 것이 분명해질 때까지 설치할 계획이 없습니다. "SPARC는... 작동을 탐구할 것이며, 이는 ARC에 전용 런어웨이 전자 완화 시스템이 필요한지에 대한 데이터를 제공할 것입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-훨씬 더 문제가 되는 것은 더 심각한 침식을 일으킬 수 있는 플라즈마 내 더 무거운 입자의 포집 상실입니다. 여기서 아이디어는 물질이 벽에 부딪히는 것을 방지하면서 가능한 한 빨리 시스템을 더 낮은 에너지로 냉각하는 것입니다. 따라서 ARC는 제어 장치가 두 문제를 모두 처리하기 위해 네온을 반응 챔버에 주입할 수 있는 여러 위치를 포함할 것입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-분명히 커먼웰스 팀이 걱정하는 것은 제가 눈여겨본 것보다 훨씬 더 많습니다. 논문 중 하나는 SPARC가 해결하는 데 도움이 될 물리 문제의 "완전하지 않은" 목록을 제시했으며, 항목이 18개였습니다. 그리고 이것이 ARC와 관련된 미해결 질문을 제한할 것이지만, ARC 건설은 SPARC의 실험과 중복될 계획이므로 건설 진행 중 ARC 설계를 조정하기 위해 막바지에 서둘러야 할 가능성이 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 전반적으로 동료 검토 논문은 커먼웰스의 최고 과학 책임자 브랜든 소르봄이 말한 대로 "ARC 핵융합 발전소를 건설하면 작동할 것입니다"라는 주장에 강력한 근거를 제시합니다. 여러 토카막의 실제 데이터를 사용해 개발된 최고의 모델에 따르면, ARC는 우리가 투입하는 것보다 더 많은 에너지를 방출하는 핵융합 반응을 정기적으로 일으킬 수 있어야 합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 물리적 관점에서의 "작동"과 시장 관점에서의 "작동"이 있습니다. 계획대로 작동하려면 핵융합이 15분 동안 지속되고 하루 동안 매우 적은 불안정성만 겪어 모든 것을 작동하기에 충분히 뜨겁게 유지해야 합니다. 또한 진공 용기 교체와 같은 유지보수 작업을 신속히 수행하여 발전소가 장기간 가동 중단되지 않도록 해야 합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-게다가 정교한 하드웨어와 지원 인프라에 대한 대규모 선투자 비용과 이러한 시설을 운영하는 데 필요한 고도로 기술적인 인력의 재정적 문제도 있습니다. 주요 판매 포인트 중 하나는 별도의 저장 형태 없이 24시간 에너지를 제공해야 한다는 점이지만, 현재 전력망 운영자는 이러한 신뢰성에 대해 재정적 인센티브를 많이 제공하지 않습니다. 따라서 커먼웰스는 하루 중 일부 시간대에 매우 저렴한 발전 형태와 경쟁하게 될 것입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-즉, ARC는 물리적 관점에서는 작동할 수 있지만 전력을 생산하기 시작할 때 결국 실패할 수도 있습니다. 소르봄은 회사가 다양한 가정 하에 수치를 검토한 결과 ARC가 타당하다는 결론을 내렸다고 말했습니다. 하지만 재정 문제는 가장 해결하기 어려운 위험이며, 확실한 답을 얻기까지 ARC가 수십 년 동안 운영되어야 할 수도 있습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/06/__trashed-19/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-1-1152x648.jpeg" length="0" type="image/jpeg"/><pubDate>Tue, 09 Jun 2026 11:25:56 +0000</pubDate></item><item><title>Three key vital signs make up the “urban pulse” of a city (도시의 '도시 맥박'을 구성하는 세 가지 핵심 생체 신호)</title><link>https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/urbanpulse1-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 11 Jun 2026 18:10:45 +0000</lastBuildDate><item><title>Three key vital signs make up the “urban pulse” of a city (도시의 '도시 맥박'을 구성하는 세 가지 핵심 생체 신호)</title><link>https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/urbanpulse1-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Cities are dynamic, not static grids, and urbanization is a “spiky,” cyclical, and asynchronous process.&lt;br/&gt;(도시는 정적인 격자가 아닌 역동적인 존재이며, 도시화는 '뾰족하고', 순환적이며, 비동기적인 과정이다.)&lt;/p&gt;
 &lt;p&gt;People often speak metaphorically of the heartbeat or pulse of a city, but according to the authors of a new paper published in the Proceedings of the National Academy of Sciences, cities do indeed have an “urban pulse”—an indication of urban “metabolic activity” that can be measured to suss out telltale patterns. And those patterns could help inform future public policy around urban planning.&lt;br/&gt;(사람들은 종종 도시의 심장 박동이나 맥박을 은유적으로 이야기하지만, 《미국 국립과학원 회보(PNAS)》에 발표된 새 논문의 저자들에 따르면 도시에는 실제로 '도시 맥박', 즉 특징적인 패턴을 알아내기 위해 측정할 수 있는 도시의 '대사 활동'을 나타내는 지표가 존재한다. 이러한 패턴은 도시 계획에 관한 미래의 공공 정책을 수립하는 데 도움이 될 수 있다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -473,4 +427,25 @@ Xbox 하드웨어 판매는 이러한 비용 증가 훨씬 이전부터 급감�
 전체적으로 볼 때, "Xbox 리셋" 메모는 수년간 분산된 의사 결정과 표류하는 전략을 견뎌온 게임 브랜드의 모습을 그리고 있다. 이 문서는 2020년대 초반 회사의 클라우드 중심 전략을 거의 다루지 않는데, 이 전략은 여전히 전체 Xbox 사용량에서 상대적으로 작은 부분을 차지하는 게임 스트리밍 서비스에 대한 과잉 투자로 이어졌다. 그리고 마이크로소프트의 Xbox 게임 패스 구독 서비스는 한때 해당 사업부의 희망처럼 보였지만, 작년 대규모 구독료 인상 이후 수백만 명의 구독자를 잃으면서 주로 마이크로소프트 자사 게임에 대한 접근성을 저렴하게 제공함으로써 성공했음을 시사한다.
 &lt;&lt;&lt;PARA&gt;&gt;
 마이크로소프트의 최근 경영진 개편 이후, 일반 Xbox 직원들이 이러한 잘못된 전략적 결정과 다른 결정들의 직격탄을 다시 한 번 맞을 것으로 보인다. 블룸버그는 샤르마가 회계연도 말인 6월 30일 직후 Xbox 사업부 전반에 걸쳐 알 수 없는 규모의 해고와 함께 마케팅 및 기타 부서 예산에 "상당한" 삭감을 계획하고 있다고 보도했다. 누가 알겠는가, 아마도 더 적은 자금과 인력을 가진 게임 사업부가 마침내 Xbox의 상황을 반전시킬 수 있을지도 모른다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/02/xbox-dominoes-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 11 Jun 2026 04:56:30 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/02/xbox-dominoes-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 11 Jun 2026 04:56:30 +0000</pubDate></item><item><title>Did Iron Age Britons remove brains of the dead? (철기 시대 브리튼인들은 죽은 자의 뇌를 제거했을까?)</title><link>https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/brain1-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Archaeologists found apparent scrape marks inside a skull; long bones may have been sharpened into tools.&lt;br/&gt;(고고학자들이 두개골 내부에서 긁힌 흔적을 발견했다. 긴 뼈는 도구로 갈려졌을 수 있다.)&lt;/p&gt;
+&lt;p&gt;Very little is known about funerary practices in Iron Age Britain, since few human remains have survived. However, the environment in northwest Scotland is more conducive to preserving bone from that period. Archaeologists have previously noted evidence of postmortem manipulation of human remains, such as mummification, and of modifying human bones into tools or decorative artifacts. Now a new paper published in the journal Antiquity describes evidence of postmortem brain removal in remains from that region, as well as sharpened limb bones, possibly for use as tools.&lt;br/&gt;(철기 시대 브리튼의 장례 관행에 대해서는 알려진 바가 거의 없다. 당시 인골이 거의 남아 있지 않기 때문이다. 그러나 스코틀랜드 북서부의 환경은 그 시대의 뼈를 보존하는 데 더 유리하다. 고고학자들은 이전에도 미라화와 같은 사후 인골 조작 증거와 인간 뼈를 도구나 장식 유물로 개조한 증거를 기록한 바 있다. 이제 학술지 《Antiquity》에 발표된 새 논문은 그 지역 유골에서 사후 뇌 제거 증거와 날카롭게 깎인 팔다리 뼈(아마도 도구로 사용되었을 가능성)를 설명한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+문제의 유골은 2000년 스코틀랜드 본토 최북서단 근처의 로크 보랄리(Loch Borralie)에 있는 매장 고분에서 침식으로 인해 인간 두개골이 드러나면서 발견되었다. 발굴된 유골은 두 명의 개체에 속했다: 한 명은 성인 여성, 다른 한 명은 당시 성별이 불명확한 청소년이었으며, 두개골은 후자의 것이었다. 새 논문의 저자들은 새로운 골고고학 분석과 다중 동위원소 및 고대 DNA 분석을 수행했다. 두 유골의 어금니에 대한 방사성 탄소 연대 측정 결과, 사망 시기는 기원전 50년에서 서기 70년 사이로 추정되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+여성 개체의 경우, 저자들은 두개골 밑부분에서 사망 즈음에 발생한 것으로 보이는 특이한 골절을 발견했다. 이는 차량 충돌, 스포츠 사고, 낙상, 폭행 또는 장대 교수형을 포함한 고속 충격에서 발생하는 종류의 골절이다. 그러나 앞서 언급한 시나리오에서 관찰된 알려진 법의학적 패턴은 철기 시대 두개골의 패턴과 정확히 일치하지 않아, 저자들은 이 골절이 표적 충격으로 인한 것일 가능성이 높다고 결론지었다. 또한 그들은 두 견갑골에서도 사망 전후 골절을 발견했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 가장 흥미로운 발견은 두개골 내부의 여러 개의 곧고 평행한 줄무늬였다. 이는 사망 직후 날카로운 도구로 뇌 물질이 체계적으로 긁혀 나갔음을 나타낸다. 이는 그 지역에서 알려진 최초의 사례가 될 것이지만, 프랑스 남부와 불가리아에서는 사후에 뼈 조각을 잘라내어 부적으로 개조한 고고학적 증거가 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+또한, 여성의 긴 뼈 네 개(양쪽 상완골, 왼쪽 척골, 왼쪽 대퇴골)에는 이전에 설치류가 갉아먹은 것으로 식별된 자국이 있었다. 저자들은 이전 평가에 동의하지 않으며, 뼈 자국이 날카로운 도구를 사용한 깎기와 더 일치한다고 결론지었다. 네 개의 뼈 중 세 개는 날카로운 가장자리로 깎였고, 네 번째는 날카로운 점으로 깎인 후 도구로 사용되어 마모된 것으로 보인다. 그러나 네 개의 뼈는 모두 무덤에 놓일 때 올바른 해부학적 위치에 배치되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다른 고고학자들은 여성의 뇌가 제거되었거나 긴 뼈가 의도적으로 도구로 깎였다는 주장에 여전히 확신하지 못하고 있다. 연구에 참여하지 않은 카디프 대학의 리처드 매드윅은 《뉴 사이언티스트》에 “자국은 확실히 두개골의 어떤 조작을 시사하지만, 이를 뇌 제거와 연결할 수 있을지는 모르겠다”고 말했다. 매드윅은 긴 뼈가 이미 부러져 있었고 단순히 도구로 재사용되었을 수 있다고 생각하며, 사용된 뼈가 다시 해부학적 순서로 땅에 놓였다는 점이 “놀랍다”고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+청소년 유골에 관해서는, 고대 DNA 분석 결과 그가 남성임을 보여주었다. 저자들은 그가 사망 당시 14.5세에서 15.5세 사이였으며, 뼈에서 성장 장애와 비타민 C 결핍의 징후가 나타났다고 결론지었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+두 개체 모두 유전적으로 스코틀랜드 철기 시대 인구의 전형적이었다. 동위원소 분석은 그들이 어린 시절을 해안 환경(아마도 서덜랜드 동부 해안)에서 보냈으며, 어린 시절 이후 로크 보랄리 지역으로 이동했음을 시사했다. 그들은 가까운 생물학적 친척으로, 아마도 모계 쪽 이종사촌 관계였을 것이다. 그러나 고분의 층은 그들이 동시에 묻히지 않았으며, 시신이 동일한 사후 처리를 받지 않았음을 나타낸다.
+&lt;&lt;&lt;PARA&gt;&gt;
+저자들은 “유전적 및 동위원소 증거는 북부 해안과 북부 아일랜드 스코틀랜드 주변의 해양 공동체 간의 장기적인 상호 연결성을 강조하며, 개인과 소규모 집단이 주기적으로 넓은 지역을 이동하여 문화적 사상과 관행의 유지 및 확산을 촉진했음을 보여준다”고 결론지었다. 그리고 여성 뼈의 처리는 “고고학적 생존 측면에서 희소하지만, 철기 시대의 죽은 자는 살아 있는 자의 세계에서 강력하고 설득력 있는 존재감을 지녔음을 보여준다”고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+《Antiquity》, 2026. DOI: 10.15184/aqy.2026.10353 (DOI 정보).)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/brain1-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 11 Jun 2026 08:21:53 +0000</pubDate></item></channel></rss>
