@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 18:38:58 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 22:46:32 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,95 @@
 
 
 
-  <item><title>무번호 – no number</title><link>urn:urn:vocab:무번호</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사료가격 – feed price</title><link>urn:urn:vocab:사료가격</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1569466593977-94ee7ed02ec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZWVkJTIwcHJpY2V8ZW58MHx8fHwxNzgxMjcxOTg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사료가격 (feed price)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Korea Hanwoo Association Calls for Withdrawal of Nonghyup Feed's Feed Price Increase Plan (전국한우협회, 농협사료 사료가격 인상 계획 철회 촉구) &lt;&lt;br/&gt;&lt;em&gt;Korea Hanwoo Association Calls for Withdrawal of Nonghyup Feed's Feed Price Increase Plan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Korea Hanwoo Association Calls for Withdrawal of Nonghyup Feed's Feed Price Increase Plan (전국한우협회, 농협사료 사료가격 인상 계획 철회 촉구)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Korea Hanwoo Association Calls for Withdrawal of Nonghyup Feed's Feed Price Increase Plan&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(전국한우협회가 농협사료의 사료가격 인상 계획에 대해 우려를 표하며 철회를 요구했다&lt;br/&gt;&lt;em&gt;The Korea Hanwoo Association expressed concern over Nonghyup Feed's plan to raise feed prices and demanded its withdrawal&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사료가격이 올랐습니다.&lt;br/&gt;&lt;em&gt;Feed prices have risen.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사료가격이 비쌉니다.&lt;br/&gt;&lt;em&gt;Feed is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1569466593977-94ee7ed02ec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZWVkJTIwcHJpY2V8ZW58MHx8fHwxNzgxMjcxOTg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사료가격 (feed price)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Korea Hanwoo Association Calls for Withdrawal of Nonghyup Feed's Feed Price Increase Plan (전국한우협회, 농협사료 사료가격 인상 계획 철회 촉구) &lt;&lt;br/&gt;&lt;em&gt;Korea Hanwoo Association Calls for Withdrawal of Nonghyup Feed's Feed Price Increase Plan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Korea Hanwoo Association Calls for Withdrawal of Nonghyup Feed's Feed Price Increase Plan (전국한우협회, 농협사료 사료가격 인상 계획 철회 촉구)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Korea Hanwoo Association Calls for Withdrawal of Nonghyup Feed's Feed Price Increase Plan&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(전국한우협회가 농협사료의 사료가격 인상 계획에 대해 우려를 표하며 철회를 요구했다&lt;br/&gt;&lt;em&gt;The Korea Hanwoo Association expressed concern over Nonghyup Feed's plan to raise feed prices and demanded its withdrawal&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사료가격이 올랐습니다.&lt;br/&gt;&lt;em&gt;Feed prices have risen.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사료가격이 비쌉니다.&lt;br/&gt;&lt;em&gt;Feed is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 12 Jun 2026 22:46:32 +0900</pubDate><guid isPermaLink="false">vocab-77612a90ee302c1ebb170f24276f9613500c585e</guid><enclosure url="https://images.unsplash.com/photo-1569466593977-94ee7ed02ec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZWVkJTIwcHJpY2V8ZW58MHx8fHwxNzgxMjcxOTg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="176508" /><ns2:content url="https://images.unsplash.com/photo-1569466593977-94ee7ed02ec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZWVkJTIwcHJpY2V8ZW58MHx8fHwxNzgxMjcxOTg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1569466593977-94ee7ed02ec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZWVkJTIwcHJpY2V8ZW58MHx8fHwxNzgxMjcxOTg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사료가격</category></item><item><title>학교법인 – school corporation</title><link>urn:urn:vocab:학교법인</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1524069290683-0457abfe42c3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjb3Jwb3JhdGlvbnxlbnwwfHx8fDE3ODEyNzE3MjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학교법인 (school corporation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Chung-Ang University School Foundation Director Park Tae-won Donates 300 Million Won for 'Future AX Engineering Hall' Construction (학교법인 중앙대학교 박태원 이사, '미래 AX 공학관' 건립기금 3억 원 쾌척) &lt;&lt;br/&gt;&lt;em&gt;Chung-Ang University School Foundation Director Park Tae-won Donates 300 Million Won for 'Future AX Engineering Hall' Construction&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Chung-Ang University School Foundation Director Park Tae-won Donates 300 Million Won for 'Future AX Engineering Hall' Construction (학교법인 중앙대학교 박태원 이사, '미래 AX 공학관' 건립기금 3억 원 쾌척)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Chung-Ang University School Foundation Director Park Tae-won Donates 300 Million Won for 'Future AX Engineering Hall' Construction&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;학교법인 중앙대학교 박태원 이사 발전기금 전달식&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;School Foundation Chung-Ang University Director Park Tae-won Development Fund Donation Ceremony&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교법인이 학교를 운영합니다.&lt;br/&gt;&lt;em&gt;The school corporation operates the school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 학교법인은 유명합니다.&lt;br/&gt;&lt;em&gt;That school corporation is famous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1524069290683-0457abfe42c3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjb3Jwb3JhdGlvbnxlbnwwfHx8fDE3ODEyNzE3MjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="학교법인 (school corporation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Chung-Ang University School Foundation Director Park Tae-won Donates 300 Million Won for 'Future AX Engineering Hall' Construction (학교법인 중앙대학교 박태원 이사, '미래 AX 공학관' 건립기금 3억 원 쾌척) &lt;&lt;br/&gt;&lt;em&gt;Chung-Ang University School Foundation Director Park Tae-won Donates 300 Million Won for 'Future AX Engineering Hall' Construction&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Chung-Ang University School Foundation Director Park Tae-won Donates 300 Million Won for 'Future AX Engineering Hall' Construction (학교법인 중앙대학교 박태원 이사, '미래 AX 공학관' 건립기금 3억 원 쾌척)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Chung-Ang University School Foundation Director Park Tae-won Donates 300 Million Won for 'Future AX Engineering Hall' Construction&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;학교법인 중앙대학교 박태원 이사 발전기금 전달식&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;School Foundation Chung-Ang University Director Park Tae-won Development Fund Donation Ceremony&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교법인이 학교를 운영합니다.&lt;br/&gt;&lt;em&gt;The school corporation operates the school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 학교법인은 유명합니다.&lt;br/&gt;&lt;em&gt;That school corporation is famous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 12 Jun 2026 22:42:09 +0900</pubDate><guid isPermaLink="false">vocab-d3cbf29e53421e66f10898c9ad91bf175d4c4dbb</guid><enclosure url="https://images.unsplash.com/photo-1524069290683-0457abfe42c3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjb3Jwb3JhdGlvbnxlbnwwfHx8fDE3ODEyNzE3MjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="156312" /><ns2:content url="https://images.unsplash.com/photo-1524069290683-0457abfe42c3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjb3Jwb3JhdGlvbnxlbnwwfHx8fDE3ODEyNzE3MjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1524069290683-0457abfe42c3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjb3Jwb3JhdGlvbnxlbnwwfHx8fDE3ODEyNzE3MjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>학교법인</category></item><item><title>레미콘 – ready-mixed concrete</title><link>urn:urn:vocab:레미콘</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1579492450119-80542d516179?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFkeS1taXhlZCUyMGNvbmNyZXRlfGVufDB8fHx8MTc4MTI2NDU2M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="레미콘 (ready-mixed concrete)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Concrete pouring delays at 117 construction sites including Pyeongtaek semiconductor plant (레미콘 휴업 닷새째…평택 반도체공장 등 건설현장 117곳 타설 차질) &lt;&lt;br/&gt;&lt;em&gt;Concrete pouring delays at 117 construction sites including Pyeongtaek semiconductor plant (레미콘 휴업 닷새째…평택 반도체공장 등 건설현장 117곳 타설 차질) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Concrete pouring delays at 117 construction sites including Pyeongtaek semiconductor plant (레미콘 휴업 닷새째…평택 반도체공장 등 건설현장 117곳 타설 차질)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Concrete pouring delays at 117 construction sites including Pyeongtaek semiconductor plant (레미콘 휴업 닷새째…평택 반도체공장 등 건설현장 117곳 타설 차질)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;레미콘 운송 노동조합이 임금 및 단체협약(임단협) 체결 등을 요구하며 휴업에 들어간 8일 경기도 안양시의 한 레미콘 업체에 레미콘 차량이 멈춰 서있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;On the 8th, when the ready-mixed concrete transport union went on strike demanding wage and collective agreement (임단협) signing, ready-mixed concrete trucks were stopped at a ready-mixed concrete company in Anyang, Gyeonggi Province.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;레미콘 트럭이 왔어요.&lt;br/&gt;&lt;em&gt;The concrete mixer truck has arrived.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;레미콘으로 집을 지어요.&lt;br/&gt;&lt;em&gt;We build a house with concrete.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1579492450119-80542d516179?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFkeS1taXhlZCUyMGNvbmNyZXRlfGVufDB8fHx8MTc4MTI2NDU2M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="레미콘 (ready-mixed concrete)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Concrete pouring delays at 117 construction sites including Pyeongtaek semiconductor plant (레미콘 휴업 닷새째…평택 반도체공장 등 건설현장 117곳 타설 차질) &lt;&lt;br/&gt;&lt;em&gt;Concrete pouring delays at 117 construction sites including Pyeongtaek semiconductor plant (레미콘 휴업 닷새째…평택 반도체공장 등 건설현장 117곳 타설 차질) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Concrete pouring delays at 117 construction sites including Pyeongtaek semiconductor plant (레미콘 휴업 닷새째…평택 반도체공장 등 건설현장 117곳 타설 차질)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Concrete pouring delays at 117 construction sites including Pyeongtaek semiconductor plant (레미콘 휴업 닷새째…평택 반도체공장 등 건설현장 117곳 타설 차질)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;레미콘 운송 노동조합이 임금 및 단체협약(임단협) 체결 등을 요구하며 휴업에 들어간 8일 경기도 안양시의 한 레미콘 업체에 레미콘 차량이 멈춰 서있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;On the 8th, when the ready-mixed concrete transport union went on strike demanding wage and collective agreement (임단협) signing, ready-mixed concrete trucks were stopped at a ready-mixed concrete company in Anyang, Gyeonggi Province.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;레미콘 트럭이 왔어요.&lt;br/&gt;&lt;em&gt;The concrete mixer truck has arrived.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;레미콘으로 집을 지어요.&lt;br/&gt;&lt;em&gt;We build a house with concrete.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 12 Jun 2026 20:42:47 +0900</pubDate><guid isPermaLink="false">vocab-43981ac116cfd5951d324fd25bb13633a6298362</guid><enclosure url="https://images.unsplash.com/photo-1579492450119-80542d516179?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFkeS1taXhlZCUyMGNvbmNyZXRlfGVufDB8fHx8MTc4MTI2NDU2M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="138542" /><ns2:content url="https://images.unsplash.com/photo-1579492450119-80542d516179?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFkeS1taXhlZCUyMGNvbmNyZXRlfGVufDB8fHx8MTc4MTI2NDU2M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1579492450119-80542d516179?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFkeS1taXhlZCUyMGNvbmNyZXRlfGVufDB8fHx8MTc4MTI2NDU2M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>레미콘</category></item><item><title>협회는 – association</title><link>urn:urn:vocab:협회는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhc3NvY2lhdGlvbnxlbnwwfHx8fDE3ODEyNjQxOTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="협회는 (association)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;한국식품산업협회는 6월10일 ｢중동전쟁 장기화 대응을 위한 식품업계 간담회｣를 개최하였다&lt;br/&gt;&lt;em&gt;The Korea Food Industry Association held a meeting on June 10 titled 'Food Industry Meeting for Responding to the Prolongation of the Middle East War'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(협회는 식품산업계 현황 설명을 통해 ▲포장재 ▲에너지 ▲물류비 ▲원재료 가격 상승에 따른 원가 부담이 지속 확대되고 있다고 설명하였다&lt;br/&gt;&lt;em&gt;The association explained through a presentation on the current state of the food industry that cost burdens due to rising prices of ▲packaging materials ▲energy ▲logistics costs ▲raw materials are continuously expanding.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전국한우협회는 12일 성명을 통해 농협사료가 지난 11일 전 축종 사료가격을 kg당 39원(약 7&lt;br/&gt;&lt;em&gt;The Korean Hanwoo Association issued a statement on the 12th stating that Nonghyup Feed raised feed prices for all livestock species by 39 won per kg (about 7%) on the 11th.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;협회는 회원을 모집합니다.&lt;br/&gt;&lt;em&gt;The association is recruiting members.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;협회는 매년 행사를 합니다.&lt;br/&gt;&lt;em&gt;The association holds events every year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhc3NvY2lhdGlvbnxlbnwwfHx8fDE3ODEyNjQxOTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="협회는 (association)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;한국식품산업협회는 6월10일 ｢중동전쟁 장기화 대응을 위한 식품업계 간담회｣를 개최하였다&lt;br/&gt;&lt;em&gt;The Korea Food Industry Association held a meeting on June 10 titled 'Food Industry Meeting for Responding to the Prolongation of the Middle East War'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(협회는 식품산업계 현황 설명을 통해 ▲포장재 ▲에너지 ▲물류비 ▲원재료 가격 상승에 따른 원가 부담이 지속 확대되고 있다고 설명하였다&lt;br/&gt;&lt;em&gt;The association explained through a presentation on the current state of the food industry that cost burdens due to rising prices of ▲packaging materials ▲energy ▲logistics costs ▲raw materials are continuously expanding.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전국한우협회는 12일 성명을 통해 농협사료가 지난 11일 전 축종 사료가격을 kg당 39원(약 7&lt;br/&gt;&lt;em&gt;The Korean Hanwoo Association issued a statement on the 12th stating that Nonghyup Feed raised feed prices for all livestock species by 39 won per kg (about 7%) on the 11th.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;협회는 회원을 모집합니다.&lt;br/&gt;&lt;em&gt;The association is recruiting members.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;협회는 매년 행사를 합니다.&lt;br/&gt;&lt;em&gt;The association holds events every year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 12 Jun 2026 20:36:38 +0900</pubDate><guid isPermaLink="false">vocab-981f559b0a2f64bf1bd0dfb6d54377226d978037</guid><enclosure url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhc3NvY2lhdGlvbnxlbnwwfHx8fDE3ODEyNjQxOTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="181471" /><ns2:content url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhc3NvY2lhdGlvbnxlbnwwfHx8fDE3ODEyNjQxOTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhc3NvY2lhdGlvbnxlbnwwfHx8fDE3ODEyNjQxOTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>협회는</category></item><item><title>무번호 – no number</title><link>urn:urn:vocab:무번호</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1529078155058-5d716f45d604?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxubyUyMG51bWJlcnxlbnwwfHx8fDE3ODEyNTcxMzN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="무번호 (no number)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Following Jeonbuk, Gyeonggi Election Commission Also Admits Vote Counting Error… Seoul Violated Regulations with Unnumbered Ballot Papers (전북 이어 경기 선관위도 개표 오류…서울, 무번호 투표지 규정 위반) &lt;&lt;br/&gt;&lt;em&gt;Following Jeonbuk, Gyeonggi Election Commission Also Admits Vote Counting Error… Seoul Violated Regulations with Unnumbered Ballot Papers&lt;/em&gt;&lt;/p&gt;
