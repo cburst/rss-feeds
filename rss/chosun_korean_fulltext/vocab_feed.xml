@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 05:16:32 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 11:41:16 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>위반이 – violation</title><link>urn:urn:vocab:위반이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사태가 – situation</title><link>urn:urn:vocab:사태가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgxMjMyMDcxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사태가 (situation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김 총리는 “6·3 지방선거 과정에서 생긴 사상 초유의 국민 참정권 침해 사태가 길어지고 국민 우려도 커져가고 있다”며 “전국 17개 대학이 공동 시국선언을 했고, 각계각층에서도 선관위에 대한 규탄과 제도 개선 요구가 빗발치고 있다”고 했다&lt;br/&gt;&lt;em&gt;"Prime Minister Kim said, 'The unprecedented infringement of citizens' voting rights that occurred during the June 3 local elections is prolonging, and public concern is growing. 17 universities nationwide have issued a joint declaration on the state of affairs, and demands for condemnation of the National Election Commission and institutional improvement are pouring in from all walks of life.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지역 선관위가 각자 투표용지 인쇄량을 의결했고, 수요 예측과 투표지 배분이 잘못돼 91개 투표소에서 투표용지 부족 사태가 벌어졌다&lt;br/&gt;&lt;em&gt;Local election commissions each decided on the number of ballots to print, and due to incorrect demand forecasting and ballot distribution, a shortage of ballots occurred at 91 polling stations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (국민의힘은 투표용지 부족 사태가 발생한 투표소 관할 선관위 의결 회의록 제출을 중앙선관위에 요청했다&lt;br/&gt;&lt;em&gt;"The People Power Party requested the National Election Commission to submit the minutes of the election commission meetings that oversaw polling stations where the ballot shortage occurred."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사태가 심각해요.&lt;br/&gt;&lt;em&gt;The situation is serious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사태가 나빠졌어요.&lt;br/&gt;&lt;em&gt;The situation has gotten worse.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgxMjMyMDcxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사태가 (situation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김 총리는 “6·3 지방선거 과정에서 생긴 사상 초유의 국민 참정권 침해 사태가 길어지고 국민 우려도 커져가고 있다”며 “전국 17개 대학이 공동 시국선언을 했고, 각계각층에서도 선관위에 대한 규탄과 제도 개선 요구가 빗발치고 있다”고 했다&lt;br/&gt;&lt;em&gt;"Prime Minister Kim said, 'The unprecedented infringement of citizens' voting rights that occurred during the June 3 local elections is prolonging, and public concern is growing. 17 universities nationwide have issued a joint declaration on the state of affairs, and demands for condemnation of the National Election Commission and institutional improvement are pouring in from all walks of life.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지역 선관위가 각자 투표용지 인쇄량을 의결했고, 수요 예측과 투표지 배분이 잘못돼 91개 투표소에서 투표용지 부족 사태가 벌어졌다&lt;br/&gt;&lt;em&gt;Local election commissions each decided on the number of ballots to print, and due to incorrect demand forecasting and ballot distribution, a shortage of ballots occurred at 91 polling stations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (국민의힘은 투표용지 부족 사태가 발생한 투표소 관할 선관위 의결 회의록 제출을 중앙선관위에 요청했다&lt;br/&gt;&lt;em&gt;"The People Power Party requested the National Election Commission to submit the minutes of the election commission meetings that oversaw polling stations where the ballot shortage occurred."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사태가 심각해요.&lt;br/&gt;&lt;em&gt;The situation is serious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사태가 나빠졌어요.&lt;br/&gt;&lt;em&gt;The situation has gotten worse.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 12 Jun 2026 11:41:16 +0900</pubDate><guid isPermaLink="false">vocab-3197e7ec66dca6ad0804c7d99a2e672688db4e61</guid><enclosure url="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgxMjMyMDcxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="176160" /><ns2:content url="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgxMjMyMDcxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgxMjMyMDcxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사태가</category></item><item><title>했다는 – said that</title><link>urn:urn:vocab:했다는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712544396218-e498024b3793?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYWlkJTIwdGhhdHxlbnwwfHx8fDE3ODEyMTY3ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="했다는 (said that)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(광주 소방안전본부 소속 20대 여성 소방관이 음주 강요로 극단적 선택을 했다는 의혹에 대해 11일 국무총리실이 조사에 착수한다고 밝혔다&lt;br/&gt;&lt;em&gt;On the 11th, the Prime Minister's Office announced that it would launch an investigation into the suspicion that a female firefighter in her 20s from the Gwangju Fire Safety Headquarters made an extreme choice due to forced drinking.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과거에 누가 잘못을 했다는 걸 가려내자는 게 아니다”라고도 했다&lt;br/&gt;&lt;em&gt;He also said, 'It's not about figuring out who was wrong in the past.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박근혜 전 대통령 탄핵 이듬해 치러진 2018년 지방선거보다 선방했다는 것이다&lt;br/&gt;&lt;em&gt;This is an improvement compared to the 2018 local elections, which were held the year after former President Park Geun-hye's impeachment.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그가 왔다고 했다는 소식을 들었어요.&lt;br/&gt;&lt;em&gt;I heard that he said he came.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;어제 비가 왔다는 말을 했다는 사람이 있어요.&lt;br/&gt;&lt;em&gt;There is a person who said that it rained yesterday.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712544396218-e498024b3793?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYWlkJTIwdGhhdHxlbnwwfHx8fDE3ODEyMTY3ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="했다는 (said that)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(광주 소방안전본부 소속 20대 여성 소방관이 음주 강요로 극단적 선택을 했다는 의혹에 대해 11일 국무총리실이 조사에 착수한다고 밝혔다&lt;br/&gt;&lt;em&gt;On the 11th, the Prime Minister's Office announced that it would launch an investigation into the suspicion that a female firefighter in her 20s from the Gwangju Fire Safety Headquarters made an extreme choice due to forced drinking.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;과거에 누가 잘못을 했다는 걸 가려내자는 게 아니다”라고도 했다&lt;br/&gt;&lt;em&gt;He also said, 'It's not about figuring out who was wrong in the past.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;박근혜 전 대통령 탄핵 이듬해 치러진 2018년 지방선거보다 선방했다는 것이다&lt;br/&gt;&lt;em&gt;This is an improvement compared to the 2018 local elections, which were held the year after former President Park Geun-hye's impeachment.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그가 왔다고 했다는 소식을 들었어요.&lt;br/&gt;&lt;em&gt;I heard that he said he came.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;어제 비가 왔다는 말을 했다는 사람이 있어요.&lt;br/&gt;&lt;em&gt;There is a person who said that it rained yesterday.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 12 Jun 2026 09:36:59 +0900</pubDate><guid isPermaLink="false">vocab-ace325edaeb25e80203a2ceb35a7720127a4f985</guid><enclosure url="https://images.unsplash.com/photo-1712544396218-e498024b3793?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYWlkJTIwdGhhdHxlbnwwfHx8fDE3ODEyMTY3ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="288823" /><ns2:content url="https://images.unsplash.com/photo-1712544396218-e498024b3793?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYWlkJTIwdGhhdHxlbnwwfHx8fDE3ODEyMTY3ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1712544396218-e498024b3793?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzYWlkJTIwdGhhdHxlbnwwfHx8fDE3ODEyMTY3ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>했다는</category></item><item><title>위반이 – violation</title><link>urn:urn:vocab:위반이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1660029761509-b82ea0ccfe61?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2aW9sYXRpb258ZW58MHx8fHwxNzgxMjA4OTg3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="위반이 (violation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;그 사유로는 품위 유지 의무 위반이 187명으로 가장 많았고, 성실 의무 위반이 59명, 청렴 의무 위반이 22명, 직장 이탈 금지 위반이 15명이었다&lt;br/&gt;&lt;em&gt;Among the reasons, violation of the duty to maintain dignity was the most common with 187 people, followed by violation of the duty of sincerity with 59, violation of the duty of integrity with 22, and violation of the prohibition on leaving the workplace with 15.&lt;/em&gt;&lt;/p&gt;

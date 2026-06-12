@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 07:26:22 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 11:41:10 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>기대된다 – is expected</title><link>urn:urn:vocab:기대된다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>비대면 – non-face-to-face</title><link>urn:urn:vocab:비대면</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1765557738876-c5814f89afe0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tZmFjZS10by1mYWNlfGVufDB8fHx8MTc4MTIzMjA2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비대면 (non-face-to-face)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Surge in ‘borrowing to invest’… Woori Bank halts non-face-to-face credit loan transfers (‘빚투’ 급증에…우리은행, 비대면 신용대출 갈아타기 중단) &lt;&lt;br/&gt;&lt;em&gt;Surge in ‘borrowing to invest’… Woori Bank halts non-face-to-face credit loan transfers&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Surge in ‘borrowing to invest’… Woori Bank halts non-face-to-face credit loan transfers (‘빚투’ 급증에…우리은행, 비대면 신용대출 갈아타기 중단)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Surge in ‘borrowing to invest’… Woori Bank halts non-face-to-face credit loan transfers&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(최근 주식시장 ‘빚투’(빚내서 투자) 수요 급증에 신용대출을 중심으로 가계대출이 크게 늘자 은행권이 비대면 대환대출 접수를 중단하는 등 관리에 들어간다&lt;br/&gt;&lt;em&gt;As household loans, especially credit loans, have surged due to the recent spike in demand for ‘borrowing to invest’ in the stock market, banks are halting non-face-to-face loan transfer applications and implementing management measures.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비대면 수업이 편해요.&lt;br/&gt;&lt;em&gt;Non-face-to-face classes are convenient.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비대면 회의를 했어요.&lt;br/&gt;&lt;em&gt;We had a non-face-to-face meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1765557738876-c5814f89afe0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tZmFjZS10by1mYWNlfGVufDB8fHx8MTc4MTIzMjA2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="비대면 (non-face-to-face)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Surge in ‘borrowing to invest’… Woori Bank halts non-face-to-face credit loan transfers (‘빚투’ 급증에…우리은행, 비대면 신용대출 갈아타기 중단) &lt;&lt;br/&gt;&lt;em&gt;Surge in ‘borrowing to invest’… Woori Bank halts non-face-to-face credit loan transfers&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Surge in ‘borrowing to invest’… Woori Bank halts non-face-to-face credit loan transfers (‘빚투’ 급증에…우리은행, 비대면 신용대출 갈아타기 중단)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Surge in ‘borrowing to invest’… Woori Bank halts non-face-to-face credit loan transfers&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(최근 주식시장 ‘빚투’(빚내서 투자) 수요 급증에 신용대출을 중심으로 가계대출이 크게 늘자 은행권이 비대면 대환대출 접수를 중단하는 등 관리에 들어간다&lt;br/&gt;&lt;em&gt;As household loans, especially credit loans, have surged due to the recent spike in demand for ‘borrowing to invest’ in the stock market, banks are halting non-face-to-face loan transfer applications and implementing management measures.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;비대면 수업이 편해요.&lt;br/&gt;&lt;em&gt;Non-face-to-face classes are convenient.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;비대면 회의를 했어요.&lt;br/&gt;&lt;em&gt;We had a non-face-to-face meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 12 Jun 2026 11:41:10 +0900</pubDate><guid isPermaLink="false">vocab-e7b0c1f6f4b5a61648c707a5432d70e44e11f870</guid><enclosure url="https://images.unsplash.com/photo-1765557738876-c5814f89afe0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tZmFjZS10by1mYWNlfGVufDB8fHx8MTc4MTIzMjA2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="100628" /><ns2:content url="https://images.unsplash.com/photo-1765557738876-c5814f89afe0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tZmFjZS10by1mYWNlfGVufDB8fHx8MTc4MTIzMjA2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1765557738876-c5814f89afe0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub24tZmFjZS10by1mYWNlfGVufDB8fHx8MTc4MTIzMjA2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>비대면</category></item><item><title>자극을 – stimulus</title><link>urn:urn:vocab:자극을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGltdWx1c3xlbnwwfHx8fDE3ODEyMjQ2MTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자극을 (stimulus)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(연구팀이 개발한 TESS는 인체 전반에 걸쳐 전기 자극을 전달할 수 있는 섬유 기반 웨어러블 시스템으로, 기존 손이나 특정 부위 중심의 촉각 장치를 넘어 전신 촉각을 구현하였다&lt;br/&gt;&lt;em&gt;The TESS developed by the research team is a fiber-based wearable system capable of delivering electrical stimulation across the human body, realizing whole-body tactile sensation beyond conventional tactile devices focused on hands or specific areas.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이를 통해 개인별 체형 차이, 착용 압력 변화, 피부 상태 변화에도 불구하고 일관된 촉각 자극을 전달할 수 있도록 했다&lt;br/&gt;&lt;em&gt;This enables consistent tactile stimulation delivery despite individual body shape differences, variations in wearing pressure, and changes in skin condition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(연구팀은 개발된 시스템을 활용해 VR 환경에서 촉각 구현 및 전기 자극을 통한 손 떨림 완화 실험 등을 수행하며 다양한 응용 가능성을 검증하였다&lt;br/&gt;&lt;em&gt;The research team utilized the developed system to conduct experiments such as tactile implementation in VR environments and hand tremor mitigation through electrical stimulation, verifying various application possibilities.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;빛이 자극을 준다.&lt;br/&gt;&lt;em&gt;Light provides stimulation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소리가 자극을 준다.&lt;br/&gt;&lt;em&gt;Sound provides stimulation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGltdWx1c3xlbnwwfHx8fDE3ODEyMjQ2MTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자극을 (stimulus)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(연구팀이 개발한 TESS는 인체 전반에 걸쳐 전기 자극을 전달할 수 있는 섬유 기반 웨어러블 시스템으로, 기존 손이나 특정 부위 중심의 촉각 장치를 넘어 전신 촉각을 구현하였다&lt;br/&gt;&lt;em&gt;The TESS developed by the research team is a fiber-based wearable system capable of delivering electrical stimulation across the human body, realizing whole-body tactile sensation beyond conventional tactile devices focused on hands or specific areas.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이를 통해 개인별 체형 차이, 착용 압력 변화, 피부 상태 변화에도 불구하고 일관된 촉각 자극을 전달할 수 있도록 했다&lt;br/&gt;&lt;em&gt;This enables consistent tactile stimulation delivery despite individual body shape differences, variations in wearing pressure, and changes in skin condition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(연구팀은 개발된 시스템을 활용해 VR 환경에서 촉각 구현 및 전기 자극을 통한 손 떨림 완화 실험 등을 수행하며 다양한 응용 가능성을 검증하였다&lt;br/&gt;&lt;em&gt;The research team utilized the developed system to conduct experiments such as tactile implementation in VR environments and hand tremor mitigation through electrical stimulation, verifying various application possibilities.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;빛이 자극을 준다.&lt;br/&gt;&lt;em&gt;Light provides stimulation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;소리가 자극을 준다.&lt;br/&gt;&lt;em&gt;Sound provides stimulation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 12 Jun 2026 09:36:54 +0900</pubDate><guid isPermaLink="false">vocab-03cef5397a78fa4f590ba681df061922de9e5d9e</guid><enclosure url="https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGltdWx1c3xlbnwwfHx8fDE3ODEyMjQ2MTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="38366" /><ns2:content url="https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGltdWx1c3xlbnwwfHx8fDE3ODEyMjQ2MTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGltdWx1c3xlbnwwfHx8fDE3ODEyMjQ2MTB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>자극을</category></item><item><title>기대된다 – is expected</title><link>urn:urn:vocab:기대된다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533601017-dc61895e03c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpcyUyMGV4cGVjdGVkfGVufDB8fHx8MTc4MTIxNjc3OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기대된다 (is expected)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이번 AI-RAN Alliance 총회 유치는 이러한 노력의 연장선에서, 한국이 AI-RAN 기술 개발과 국제 표준 논의에 보다 적극적으로 참여하는 계기가 될 것으로 기대된다&lt;br/&gt;&lt;em&gt;The hosting of this AI-RAN Alliance general meeting is expected to serve as an opportunity for Korea to more actively participate in AI-RAN technology development and international standard discussions, as an extension of these efforts.&lt;/em&gt;&lt;/p&gt;
