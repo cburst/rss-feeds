@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 02:56:15 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 05:02:13 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>사과 – apple</title><link>urn:urn:vocab:사과</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>성격이 – personality</title><link>urn:urn:vocab:성격이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1617704716344-8d987ac681a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbGl0eXxlbnwwfHx8fDE3ODEyOTQ1Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="성격이 (personality)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;하지만 고학년이 되면 성격이 달라진다&lt;br/&gt;&lt;em&gt;But as you get to higher grades, your personality changes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내란 심판 선거는 직전 대선까지였다고 생각하고요, 이번 지방선거는 이재명 정부 중간평가 성격이 강했다고 봅니다&lt;br/&gt;&lt;em&gt;I think the election to judge the insurrection was only up to the last presidential election, and this local election had a strong character of an interim evaluation of the Lee Jae-myung government.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이들은 이번 지방선거가 ‘내란 심판’보다는 ‘이재명 정부 중간평가’의 성격이 강했고, 서울시장 선거에서 청년층 표심을 가른 건 당보다는 ‘인물’의 차이가 컸다고 했다&lt;br/&gt;&lt;em&gt;They said that this local election had a stronger character of an 'interim evaluation of the Lee Jae-myung government' rather than a 'judgment of the insurrection,' and that in the Seoul mayoral election, what divided the youth vote was not the party but the difference in 'candidates.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그녀의 성격이 좋아요.&lt;br/&gt;&lt;em&gt;Her personality is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;성격이 밝은 사람이에요.&lt;br/&gt;&lt;em&gt;She is a person with a bright personality.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1617704716344-8d987ac681a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbGl0eXxlbnwwfHx8fDE3ODEyOTQ1Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="성격이 (personality)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;하지만 고학년이 되면 성격이 달라진다&lt;br/&gt;&lt;em&gt;But as you get to higher grades, your personality changes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내란 심판 선거는 직전 대선까지였다고 생각하고요, 이번 지방선거는 이재명 정부 중간평가 성격이 강했다고 봅니다&lt;br/&gt;&lt;em&gt;I think the election to judge the insurrection was only up to the last presidential election, and this local election had a strong character of an interim evaluation of the Lee Jae-myung government.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이들은 이번 지방선거가 ‘내란 심판’보다는 ‘이재명 정부 중간평가’의 성격이 강했고, 서울시장 선거에서 청년층 표심을 가른 건 당보다는 ‘인물’의 차이가 컸다고 했다&lt;br/&gt;&lt;em&gt;They said that this local election had a stronger character of an 'interim evaluation of the Lee Jae-myung government' rather than a 'judgment of the insurrection,' and that in the Seoul mayoral election, what divided the youth vote was not the party but the difference in 'candidates.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그녀의 성격이 좋아요.&lt;br/&gt;&lt;em&gt;Her personality is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;성격이 밝은 사람이에요.&lt;br/&gt;&lt;em&gt;She is a person with a bright personality.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 13 Jun 2026 05:02:13 +0900</pubDate><guid isPermaLink="false">vocab-b82db4ecb773fbf903b82043c93337946b065c3f</guid><enclosure url="https://images.unsplash.com/photo-1617704716344-8d987ac681a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbGl0eXxlbnwwfHx8fDE3ODEyOTQ1Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="78446" /><ns2:content url="https://images.unsplash.com/photo-1617704716344-8d987ac681a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbGl0eXxlbnwwfHx8fDE3ODEyOTQ1Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1617704716344-8d987ac681a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbGl0eXxlbnwwfHx8fDE3ODEyOTQ1Mjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>성격이</category></item><item><title>올해의 – of this year</title><link>urn:urn:vocab:올해의</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1670491191890-7ffc7c4c0b58?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoaXMlMjB5ZWFyfGVufDB8fHx8MTc4MTI5NDQxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="올해의 (of this year)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Myongji University's Department of Semiconductor Engineering Achieves Success in Fostering Creative and Convergent Semiconductor Talent; Professor Kim Yoo-bin Receives the '2026 New Korean of the Year Award' (명지대 반도체공학부, 창의융합형 반도체 인재 양성 성과… 김유빈 교수 ‘2026 올해의 新한국인 대상’ 수상) &lt;&lt;br/&gt;&lt;em&gt;Myongji University's Department of Semiconductor Engineering Achieves Success in Fostering Creative and Convergent Semiconductor Talent; Professor Kim Yoo-bin Receives the '2026 New Korean of the Year Award'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Myongji University's Department of Semiconductor Engineering Achieves Success in Fostering Creative and Convergent Semiconductor Talent; Professor Kim Yoo-bin Receives the '2026 New Korean of the Year Award' (명지대 반도체공학부, 창의융합형 반도체 인재 양성 성과… 김유빈 교수 ‘2026 올해의 新한국인 대상’ 수상)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Myongji University's Department of Semiconductor Engineering Achieves Success in Fostering Creative and Convergent Semiconductor Talent; Professor Kim Yoo-bin Receives the '2026 New Korean of the Year Award'&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이러한 학부의 혁신과 성장을 이끌어온 반도체공학부 김유빈 교수는 차세대 반도체 인재 양성과 산·학·연 협력 활성화에 기여한 공로를 인정받아, 시사투데이가 주최·주관하는 ‘2026 올해의 新한국인 대상’을 수상하는 영예를 안았다&lt;br/&gt;&lt;em&gt;Professor Kim Yoo-bin of the Department of Semiconductor Engineering, who has led the innovation and growth of the department, was honored to receive the '2026 New Korean of the Year Award' hosted and organized by Sisa Today, in recognition of his contributions to fostering next-generation semiconductor talent and promoting industry-academia-research cooperation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;올해의 목표는 뭐예요?&lt;br/&gt;&lt;em&gt;What is your goal for this year?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;올해의 꿈을 이루세요.&lt;br/&gt;&lt;em&gt;Achieve your dream this year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1670491191890-7ffc7c4c0b58?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoaXMlMjB5ZWFyfGVufDB8fHx8MTc4MTI5NDQxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="올해의 (of this year)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Myongji University's Department of Semiconductor Engineering Achieves Success in Fostering Creative and Convergent Semiconductor Talent; Professor Kim Yoo-bin Receives the '2026 New Korean of the Year Award' (명지대 반도체공학부, 창의융합형 반도체 인재 양성 성과… 김유빈 교수 ‘2026 올해의 新한국인 대상’ 수상) &lt;&lt;br/&gt;&lt;em&gt;Myongji University's Department of Semiconductor Engineering Achieves Success in Fostering Creative and Convergent Semiconductor Talent; Professor Kim Yoo-bin Receives the '2026 New Korean of the Year Award'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Myongji University's Department of Semiconductor Engineering Achieves Success in Fostering Creative and Convergent Semiconductor Talent; Professor Kim Yoo-bin Receives the '2026 New Korean of the Year Award' (명지대 반도체공학부, 창의융합형 반도체 인재 양성 성과… 김유빈 교수 ‘2026 올해의 新한국인 대상’ 수상)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Myongji University's Department of Semiconductor Engineering Achieves Success in Fostering Creative and Convergent Semiconductor Talent; Professor Kim Yoo-bin Receives the '2026 New Korean of the Year Award'&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이러한 학부의 혁신과 성장을 이끌어온 반도체공학부 김유빈 교수는 차세대 반도체 인재 양성과 산·학·연 협력 활성화에 기여한 공로를 인정받아, 시사투데이가 주최·주관하는 ‘2026 올해의 新한국인 대상’을 수상하는 영예를 안았다&lt;br/&gt;&lt;em&gt;Professor Kim Yoo-bin of the Department of Semiconductor Engineering, who has led the innovation and growth of the department, was honored to receive the '2026 New Korean of the Year Award' hosted and organized by Sisa Today, in recognition of his contributions to fostering next-generation semiconductor talent and promoting industry-academia-research cooperation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;올해의 목표는 뭐예요?&lt;br/&gt;&lt;em&gt;What is your goal for this year?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;올해의 꿈을 이루세요.&lt;br/&gt;&lt;em&gt;Achieve your dream this year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 13 Jun 2026 05:00:23 +0900</pubDate><guid isPermaLink="false">vocab-90d7b092cdb071ec096908cad42254b2e947c315</guid><enclosure url="https://images.unsplash.com/photo-1670491191890-7ffc7c4c0b58?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoaXMlMjB5ZWFyfGVufDB8fHx8MTc4MTI5NDQxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="88292" /><ns2:content url="https://images.unsplash.com/photo-1670491191890-7ffc7c4c0b58?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoaXMlMjB5ZWFyfGVufDB8fHx8MTc4MTI5NDQxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1670491191890-7ffc7c4c0b58?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvZiUyMHRoaXMlMjB5ZWFyfGVufDB8fHx8MTc4MTI5NDQxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>올해의</category></item><item><title>사과 – apple</title><link>urn:urn:vocab:사과</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHBsZXxlbnwwfHx8fDE3ODEyNzkyMDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사과 (apple)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(경기도선관위는 이날 대국민 사과문을 내어 경기교육감 선거에서 득표수 입력 오류가 발생했다고 밝혔다&lt;br/&gt;&lt;em&gt;The Gyeonggi Provincial Election Commission issued a public apology on this day, stating that an error occurred in the vote count input in the Gyeonggi Superintendent of Education election.&lt;/em&gt;&lt;/p&gt;
