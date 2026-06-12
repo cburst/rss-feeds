@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 11:41:16 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 14:32:29 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,73 @@
 
 
 
-  <item><title>사태가 – situation</title><link>urn:urn:vocab:사태가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>회의록 – meeting minutes</title><link>urn:urn:vocab:회의록</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWV0aW5nJTIwbWludXRlc3xlbnwwfHx8fDE3ODEyNDIzNDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="회의록 (meeting minutes)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Election Commission Defies Subpoena of Minutes on Ballot Reduction Decision (투표용지 축소 회의록 안내고 버티는 선관위) &lt;&lt;br/&gt;&lt;em&gt;Election Commission Defies Subpoena of Minutes on Ballot Reduction Decision&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Election Commission Defies Subpoena of Minutes on Ballot Reduction Decision (투표용지 축소 회의록 안내고 버티는 선관위)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (중앙선거관리위원회가 6·3 지방선거 투표용지 인쇄 결정과 관련한 구·시·군 선관위 회의록을 제출하라는 국민의힘 요구를 거부하고 있다&lt;br/&gt;&lt;em&gt;" (The National Election Commission is refusing the People Power Party's demand to submit the minutes of district, city, and county election commissions regarding the decision to print ballots for the June 3 local elections)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회의록을 작성해 주세요.&lt;br/&gt;&lt;em&gt;Please write the minutes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;회의록을 읽었어요.&lt;br/&gt;&lt;em&gt;I read the minutes.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWV0aW5nJTIwbWludXRlc3xlbnwwfHx8fDE3ODEyNDIzNDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="회의록 (meeting minutes)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Election Commission Defies Subpoena of Minutes on Ballot Reduction Decision (투표용지 축소 회의록 안내고 버티는 선관위) &lt;&lt;br/&gt;&lt;em&gt;Election Commission Defies Subpoena of Minutes on Ballot Reduction Decision&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Election Commission Defies Subpoena of Minutes on Ballot Reduction Decision (투표용지 축소 회의록 안내고 버티는 선관위)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (중앙선거관리위원회가 6·3 지방선거 투표용지 인쇄 결정과 관련한 구·시·군 선관위 회의록을 제출하라는 국민의힘 요구를 거부하고 있다&lt;br/&gt;&lt;em&gt;" (The National Election Commission is refusing the People Power Party's demand to submit the minutes of district, city, and county election commissions regarding the decision to print ballots for the June 3 local elections)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회의록을 작성해 주세요.&lt;br/&gt;&lt;em&gt;Please write the minutes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;회의록을 읽었어요.&lt;br/&gt;&lt;em&gt;I read the minutes.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 12 Jun 2026 14:32:29 +0900</pubDate><guid isPermaLink="false">vocab-00ece82c9f2694a911b5a7ea984564b5b799d59a</guid><enclosure url="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWV0aW5nJTIwbWludXRlc3xlbnwwfHx8fDE3ODEyNDIzNDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="66762" /><ns2:content url="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWV0aW5nJTIwbWludXRlc3xlbnwwfHx8fDE3ODEyNDIzNDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtZWV0aW5nJTIwbWludXRlc3xlbnwwfHx8fDE3ODEyNDIzNDV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>회의록</category></item><item><title>아이젠하워 – Eisenhower</title><link>urn:urn:vocab:아이젠하워</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580129970121-275fb1d64250?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxFaXNlbmhvd2VyfGVufDB8fHx8MTc4MTI0MTg5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="아이젠하워 (Eisenhower)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Eisenhower's 'Distance' During His Visit to Korea… Syngman Rhee's Pride Was Deeply Hurt (방한한 아이젠하워의 ‘거리두기’… 이승만은 자존심이 무척 상했다) &lt;&lt;br/&gt;&lt;em&gt;Eisenhower's 'Distance' During His Visit to Korea… Syngman Rhee's Pride Was Deeply Hurt&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Eisenhower's 'Distance' During His Visit to Korea… Syngman Rhee's Pride Was Deeply Hurt (방한한 아이젠하워의 ‘거리두기’… 이승만은 자존심이 무척 상했다)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Eisenhower's 'Distance' During His Visit to Korea… Syngman Rhee's Pride Was Deeply Hurt&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;노르망디 상륙 작전으로 세계적 명성을 얻은 드와이트 아이젠하워는 퍽 신중한 사람이었다&lt;br/&gt;&lt;em&gt;Dwight Eisenhower, who gained worldwide fame for the Normandy landings, was a very cautious person&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아이젠하워는 미국 대통령이었어요.&lt;br/&gt;&lt;em&gt;Eisenhower was the president of the United States.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아이젠하워가 전쟁을 끝냈어요.&lt;br/&gt;&lt;em&gt;Eisenhower ended the war.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1580129970121-275fb1d64250?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxFaXNlbmhvd2VyfGVufDB8fHx8MTc4MTI0MTg5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="아이젠하워 (Eisenhower)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Eisenhower's 'Distance' During His Visit to Korea… Syngman Rhee's Pride Was Deeply Hurt (방한한 아이젠하워의 ‘거리두기’… 이승만은 자존심이 무척 상했다) &lt;&lt;br/&gt;&lt;em&gt;Eisenhower's 'Distance' During His Visit to Korea… Syngman Rhee's Pride Was Deeply Hurt&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Eisenhower's 'Distance' During His Visit to Korea… Syngman Rhee's Pride Was Deeply Hurt (방한한 아이젠하워의 ‘거리두기’… 이승만은 자존심이 무척 상했다)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Eisenhower's 'Distance' During His Visit to Korea… Syngman Rhee's Pride Was Deeply Hurt&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;노르망디 상륙 작전으로 세계적 명성을 얻은 드와이트 아이젠하워는 퍽 신중한 사람이었다&lt;br/&gt;&lt;em&gt;Dwight Eisenhower, who gained worldwide fame for the Normandy landings, was a very cautious person&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;아이젠하워는 미국 대통령이었어요.&lt;br/&gt;&lt;em&gt;Eisenhower was the president of the United States.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;아이젠하워가 전쟁을 끝냈어요.&lt;br/&gt;&lt;em&gt;Eisenhower ended the war.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 12 Jun 2026 14:24:56 +0900</pubDate><guid isPermaLink="false">vocab-c9a78a1e5fccb7a10acc8fb46f4b6cec22571a4e</guid><enclosure url="https://images.unsplash.com/photo-1580129970121-275fb1d64250?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxFaXNlbmhvd2VyfGVufDB8fHx8MTc4MTI0MTg5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="150430" /><ns2:content url="https://images.unsplash.com/photo-1580129970121-275fb1d64250?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxFaXNlbmhvd2VyfGVufDB8fHx8MTc4MTI0MTg5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1580129970121-275fb1d64250?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxFaXNlbmhvd2VyfGVufDB8fHx8MTc4MTI0MTg5M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>아이젠하워</category></item><item><title>여당이 – the ruling party</title><link>urn:urn:vocab:여당이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586350922089-61d0340865c5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBydWxpbmclMjBwYXJ0eXxlbnwwfHx8fDE3ODEyMzk0Nzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="여당이 (the ruling party)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Standoff Over Committee Allocation… Jeong Jeom-sik Visits Han Byeong-do: "If the Ruling Party Concedes, It Will End Quickly" (상임위 배분 신경전… 한병도 찾아간 정점식 “여당이 양보하면 빨리 끝나”) &lt;&lt;br/&gt;&lt;em&gt;Standoff Over Committee Allocation… Jeong Jeom-sik Visits Han Byeong-do: "If the Ruling Party Concedes, It Will End Quickly"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Standoff Over Committee Allocation… Jeong Jeom-sik Visits Han Byeong-do: "If the Ruling Party Concedes, It Will End Quickly" (상임위 배분 신경전… 한병도 찾아간 정점식 “여당이 양보하면 빨리 끝나”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Standoff Over Committee Allocation… Jeong Jeom-sik Visits Han Byeong-do: "If the Ruling Party Concedes, It Will End Quickly"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;민주당은 재정경제기획위와 정무위 등 경제 관련 상임위 위원장도 여당이 맡아야 한다는 입장이다&lt;br/&gt;&lt;em&gt;The Democratic Party maintains that the ruling party should also take the chairmanship of economic-related standing committees such as the Finance and Economy Committee and the Political Affairs Committee.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;여당이 법안을 통과시켰다.&lt;br/&gt;&lt;em&gt;The ruling party passed the bill.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여당이 지지율이 높다.&lt;br/&gt;&lt;em&gt;The ruling party has high approval ratings.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586350922089-61d0340865c5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBydWxpbmclMjBwYXJ0eXxlbnwwfHx8fDE3ODEyMzk0Nzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="여당이 (the ruling party)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Standoff Over Committee Allocation… Jeong Jeom-sik Visits Han Byeong-do: "If the Ruling Party Concedes, It Will End Quickly" (상임위 배분 신경전… 한병도 찾아간 정점식 “여당이 양보하면 빨리 끝나”) &lt;&lt;br/&gt;&lt;em&gt;Standoff Over Committee Allocation… Jeong Jeom-sik Visits Han Byeong-do: "If the Ruling Party Concedes, It Will End Quickly"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Standoff Over Committee Allocation… Jeong Jeom-sik Visits Han Byeong-do: "If the Ruling Party Concedes, It Will End Quickly" (상임위 배분 신경전… 한병도 찾아간 정점식 “여당이 양보하면 빨리 끝나”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Standoff Over Committee Allocation… Jeong Jeom-sik Visits Han Byeong-do: "If the Ruling Party Concedes, It Will End Quickly"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;민주당은 재정경제기획위와 정무위 등 경제 관련 상임위 위원장도 여당이 맡아야 한다는 입장이다&lt;br/&gt;&lt;em&gt;The Democratic Party maintains that the ruling party should also take the chairmanship of economic-related standing committees such as the Finance and Economy Committee and the Political Affairs Committee.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;여당이 법안을 통과시켰다.&lt;br/&gt;&lt;em&gt;The ruling party passed the bill.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여당이 지지율이 높다.&lt;br/&gt;&lt;em&gt;The ruling party has high approval ratings.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 12 Jun 2026 13:44:43 +0900</pubDate><guid isPermaLink="false">vocab-334bd8a69745bbbba523db1ce4705fec6180670f</guid><enclosure url="https://images.unsplash.com/photo-1586350922089-61d0340865c5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBydWxpbmclMjBwYXJ0eXxlbnwwfHx8fDE3ODEyMzk0Nzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="449047" /><ns2:content url="https://images.unsplash.com/photo-1586350922089-61d0340865c5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBydWxpbmclMjBwYXJ0eXxlbnwwfHx8fDE3ODEyMzk0Nzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1586350922089-61d0340865c5?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGUlMjBydWxpbmclMjBwYXJ0eXxlbnwwfHx8fDE3ODEyMzk0Nzh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>여당이</category></item><item><title>사태가 – situation</title><link>urn:urn:vocab:사태가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1515707743625-2f8e5fd8f8b4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaXR1YXRpb258ZW58MHx8fHwxNzgxMjMyMDcxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사태가 (situation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (김 총리는 “6·3 지방선거 과정에서 생긴 사상 초유의 국민 참정권 침해 사태가 길어지고 국민 우려도 커져가고 있다”며 “전국 17개 대학이 공동 시국선언을 했고, 각계각층에서도 선관위에 대한 규탄과 제도 개선 요구가 빗발치고 있다”고 했다&lt;br/&gt;&lt;em&gt;"Prime Minister Kim said, 'The unprecedented infringement of citizens' voting rights that occurred during the June 3 local elections is prolonging, and public concern is growing. 17 universities nationwide have issued a joint declaration on the state of affairs, and demands for condemnation of the National Election Commission and institutional improvement are pouring in from all walks of life.'"&lt;/em&gt;&lt;/p&gt;
