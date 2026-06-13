@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 15:36:36 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 17:41:33 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>총재는 – president (of an organization)</title><link>urn:urn:vocab:총재는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>오르며 – rise and</title><link>urn:urn:vocab:오르며</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1730382624709-81e52dd294d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaXNlJTIwYW5kfGVufDB8fHx8MTc4MTM0MDA4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="오르며 (rise and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;코스피200선물 지수도 전 거래일 대비 5% 이상 오르며 오전 9시6분 프로그램 매수호가를 5분간 정지하는 매수 사이드카가 발동했다&lt;br/&gt;&lt;em&gt;The KOSPI200 futures index also rose more than 5% from the previous trading day, triggering a buy-side circuit breaker at 9:06 a.m. that halts program buy orders for five minutes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;코스피200 지수도 전 거래일 대비 5% 이상 오르며 오전 9시6분 프로그램 매수호가를 5분간 정지하는 매수 사이드카가 발동했다&lt;br/&gt;&lt;em&gt;The KOSPI200 index also rose more than 5% from the previous trading day, triggering a buy-side circuit breaker at 9:06 a.m. that halts program buy orders for five minutes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;86% 오르며 32만2500원, 에스케이하이닉스는 2&lt;br/&gt;&lt;em&gt;rose 86% to 322,500 won, and SK Hynix is 2&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;해가 오르며 날이 밝다.&lt;br/&gt;&lt;em&gt;The sun rises and the day brightens.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;산에 오르며 경치를 본다.&lt;br/&gt;&lt;em&gt;I climb the mountain and see the scenery.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1730382624709-81e52dd294d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaXNlJTIwYW5kfGVufDB8fHx8MTc4MTM0MDA4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="오르며 (rise and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;코스피200선물 지수도 전 거래일 대비 5% 이상 오르며 오전 9시6분 프로그램 매수호가를 5분간 정지하는 매수 사이드카가 발동했다&lt;br/&gt;&lt;em&gt;The KOSPI200 futures index also rose more than 5% from the previous trading day, triggering a buy-side circuit breaker at 9:06 a.m. that halts program buy orders for five minutes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;코스피200 지수도 전 거래일 대비 5% 이상 오르며 오전 9시6분 프로그램 매수호가를 5분간 정지하는 매수 사이드카가 발동했다&lt;br/&gt;&lt;em&gt;The KOSPI200 index also rose more than 5% from the previous trading day, triggering a buy-side circuit breaker at 9:06 a.m. that halts program buy orders for five minutes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;86% 오르며 32만2500원, 에스케이하이닉스는 2&lt;br/&gt;&lt;em&gt;rose 86% to 322,500 won, and SK Hynix is 2&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;해가 오르며 날이 밝다.&lt;br/&gt;&lt;em&gt;The sun rises and the day brightens.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;산에 오르며 경치를 본다.&lt;br/&gt;&lt;em&gt;I climb the mountain and see the scenery.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 13 Jun 2026 17:41:33 +0900</pubDate><guid isPermaLink="false">vocab-4efb08025b4b212b15c76681ce9d9c5189c4ad5d</guid><enclosure url="https://images.unsplash.com/photo-1730382624709-81e52dd294d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaXNlJTIwYW5kfGVufDB8fHx8MTc4MTM0MDA4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="50253" /><ns2:content url="https://images.unsplash.com/photo-1730382624709-81e52dd294d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaXNlJTIwYW5kfGVufDB8fHx8MTc4MTM0MDA4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1730382624709-81e52dd294d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaXNlJTIwYW5kfGVufDB8fHx8MTc4MTM0MDA4OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>오르며</category></item><item><title>서울시가 – Seoul city</title><link>urn:urn:vocab:서울시가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1532649097480-b67d52743b69?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyMGNpdHl8ZW58MHx8fHwxNzgxMzM5OTkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서울시가 (Seoul city)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한강에서는 서울시가 준비한 ‘2026 한강페스티벌_봄’을 오는 10일까지 즐길 수 있다&lt;br/&gt;&lt;em&gt;At the Han River, you can enjoy the '2026 Han River Festival_Spring' prepared by the Seoul Metropolitan Government until the 10th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오 시장이 말하는 저 보고는 서울시가 국가철도공단에 제출한 ‘건설사업관리보고서’라는 두꺼운 책자 같은 파일에 관련 내용이 몇 줄 들어가 있다는 건데요&lt;br/&gt;&lt;em&gt;The report Mayor Oh refers to is that a few lines of related content are included in a thick booklet-like file called the 'Construction Project Management Report' submitted by the Seoul Metropolitan Government to the National Railroad Corporation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서울시가 안전 관련 예산을 삭감했다는 보도, 하청업체 선정에 서울시가 개입했다는 보도도 나왔습니다&lt;br/&gt;&lt;em&gt;There have also been reports that the Seoul Metropolitan Government cut safety-related budgets and that it intervened in the selection of subcontractors.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서울시가 아름답습니다.&lt;br/&gt;&lt;em&gt;Seoul is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서울시가 한국의 수도입니다.&lt;br/&gt;&lt;em&gt;Seoul is the capital of Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1532649097480-b67d52743b69?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyMGNpdHl8ZW58MHx8fHwxNzgxMzM5OTkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="서울시가 (Seoul city)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한강에서는 서울시가 준비한 ‘2026 한강페스티벌_봄’을 오는 10일까지 즐길 수 있다&lt;br/&gt;&lt;em&gt;At the Han River, you can enjoy the '2026 Han River Festival_Spring' prepared by the Seoul Metropolitan Government until the 10th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오 시장이 말하는 저 보고는 서울시가 국가철도공단에 제출한 ‘건설사업관리보고서’라는 두꺼운 책자 같은 파일에 관련 내용이 몇 줄 들어가 있다는 건데요&lt;br/&gt;&lt;em&gt;The report Mayor Oh refers to is that a few lines of related content are included in a thick booklet-like file called the 'Construction Project Management Report' submitted by the Seoul Metropolitan Government to the National Railroad Corporation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서울시가 안전 관련 예산을 삭감했다는 보도, 하청업체 선정에 서울시가 개입했다는 보도도 나왔습니다&lt;br/&gt;&lt;em&gt;There have also been reports that the Seoul Metropolitan Government cut safety-related budgets and that it intervened in the selection of subcontractors.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서울시가 아름답습니다.&lt;br/&gt;&lt;em&gt;Seoul is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서울시가 한국의 수도입니다.&lt;br/&gt;&lt;em&gt;Seoul is the capital of Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 13 Jun 2026 17:39:55 +0900</pubDate><guid isPermaLink="false">vocab-f6e372f521f90e38c39e93189cfd645b932ddcad</guid><enclosure url="https://images.unsplash.com/photo-1532649097480-b67d52743b69?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyMGNpdHl8ZW58MHx8fHwxNzgxMzM5OTkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="135058" /><ns2:content url="https://images.unsplash.com/photo-1532649097480-b67d52743b69?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyMGNpdHl8ZW58MHx8fHwxNzgxMzM5OTkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1532649097480-b67d52743b69?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxTZW91bCUyMGNpdHl8ZW58MHx8fHwxNzgxMzM5OTkyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>서울시가</category></item><item><title>총재는 – president (of an organization)</title><link>urn:urn:vocab:총재는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1541872705-1f73c6400ec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVzaWRlbnQlMjAlMjhvZiUyMGFuJTIwb3JnYW5pemF0aW9uJTI5fGVufDB8fHx8MTc4MTMzMjU5Mnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="총재는 (president (of an organization))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(신 총재는 이날 한은 강당에서 열린 창립 76주년 기념식에서 “성장, 물가, 금융안정 상황은 통화정책 측면에서 비교적 명확하게 한 방향을 가리키고 있다”며 “물가안정에 중점을 두고 늦지 않게 금리를 인상해나갈 필요가 있다”고 말했다&lt;br/&gt;&lt;em&gt;(At the 76th anniversary ceremony held at the Bank of Korea's auditorium, Governor Shin said, "Growth, inflation, and financial stability conditions are pointing relatively clearly in one direction in terms of monetary policy," and added, "We need to raise interest rates in a timely manner, focusing on price stability.")&lt;/em&gt;&lt;/p&gt;
