@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 01:59:50 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:03:10 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>경보가 – alarm</title><link>urn:urn:vocab:경보가</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>언론인 – journalist</title><link>urn:urn:vocab:언론인</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb3VybmFsaXN0fGVufDB8fHx8MTc4MTM3NzM4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="언론인 (journalist)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender” (李대통령, 유럽 순방 중 X에 “주가 조작 언론인 자수하라”) &lt;&lt;br/&gt;&lt;em&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender” (李대통령, 유럽 순방 중 X에 “주가 조작 언론인 자수하라”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;![CDATA[&lt;h1&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender”&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (유럽 순방 중인 이재명 대통령이 13일 X(옛 트위터)에서 주가 조작 혐의로 기자가 구속된 소식을 전하면서 “주가 조작 언론인은 자수하라”고 했다&lt;br/&gt;&lt;em&gt;” (President Lee Jae-myung, on a European tour, said on X (formerly Twitter) on the 13th, while reporting the news of a journalist being detained on charges of stock manipulation, “Stock manipulating journalists should surrender.”&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 언론인입니다.&lt;br/&gt;&lt;em&gt;I am a journalist.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;언론인이 뉴스를 씁니다.&lt;br/&gt;&lt;em&gt;A journalist writes the news.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb3VybmFsaXN0fGVufDB8fHx8MTc4MTM3NzM4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="언론인 (journalist)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender” (李대통령, 유럽 순방 중 X에 “주가 조작 언론인 자수하라”) &lt;&lt;br/&gt;&lt;em&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender” (李대통령, 유럽 순방 중 X에 “주가 조작 언론인 자수하라”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;&lt;![CDATA[&lt;h1&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender”&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (유럽 순방 중인 이재명 대통령이 13일 X(옛 트위터)에서 주가 조작 혐의로 기자가 구속된 소식을 전하면서 “주가 조작 언론인은 자수하라”고 했다&lt;br/&gt;&lt;em&gt;” (President Lee Jae-myung, on a European tour, said on X (formerly Twitter) on the 13th, while reporting the news of a journalist being detained on charges of stock manipulation, “Stock manipulating journalists should surrender.”&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 언론인입니다.&lt;br/&gt;&lt;em&gt;I am a journalist.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;언론인이 뉴스를 씁니다.&lt;br/&gt;&lt;em&gt;A journalist writes the news.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 14 Jun 2026 04:03:10 +0900</pubDate><guid isPermaLink="false">vocab-9e0c1c602e2a8098734a9791a7e9ecf66c204256</guid><enclosure url="https://images.unsplash.com/photo-1504711434969-e33886168f5c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb3VybmFsaXN0fGVufDB8fHx8MTc4MTM3NzM4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="89362" /><ns2:content url="https://images.unsplash.com/photo-1504711434969-e33886168f5c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb3VybmFsaXN0fGVufDB8fHx8MTc4MTM3NzM4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1504711434969-e33886168f5c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb3VybmFsaXN0fGVufDB8fHx8MTc4MTM3NzM4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>언론인</category></item><item><title>언론인 – journalist</title><link>urn:urn:vocab:언론인</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb3VybmFsaXN0fGVufDB8fHx8MTc4MTM3NzM4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="언론인 (journalist)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender” (李대통령, 유럽 순방 중 X에 “주가 조작 언론인 자수하라”) &lt;&lt;br/&gt;&lt;em&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender” (李대통령, 유럽 순방 중 X에 “주가 조작 언론인 자수하라”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (유럽 순방 중인 이재명 대통령이 13일 X(옛 트위터)에서 주가 조작 혐의로 기자가 구속된 소식을 전하면서 “주가 조작 언론인은 자수하라”고 했다&lt;br/&gt;&lt;em&gt;President Lee, who is on a European tour, said on X (formerly Twitter) on the 13th, while reporting the news that a journalist was arrested on charges of stock manipulation, “Stock manipulating journalists should surrender.”&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 언론인입니다.&lt;br/&gt;&lt;em&gt;I am a journalist.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 언론인은 열심히 일해요.&lt;br/&gt;&lt;em&gt;That journalist works hard.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb3VybmFsaXN0fGVufDB8fHx8MTc4MTM3NzM4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="언론인 (journalist)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender” (李대통령, 유럽 순방 중 X에 “주가 조작 언론인 자수하라”) &lt;&lt;br/&gt;&lt;em&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender” (李대통령, 유럽 순방 중 X에 “주가 조작 언론인 자수하라”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;President Lee, on European Tour, Says on X: “Stock Manipulating Journalists Should Surrender”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (유럽 순방 중인 이재명 대통령이 13일 X(옛 트위터)에서 주가 조작 혐의로 기자가 구속된 소식을 전하면서 “주가 조작 언론인은 자수하라”고 했다&lt;br/&gt;&lt;em&gt;President Lee, who is on a European tour, said on X (formerly Twitter) on the 13th, while reporting the news that a journalist was arrested on charges of stock manipulation, “Stock manipulating journalists should surrender.”&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 언론인입니다.&lt;br/&gt;&lt;em&gt;I am a journalist.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 언론인은 열심히 일해요.&lt;br/&gt;&lt;em&gt;That journalist works hard.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 14 Jun 2026 04:03:05 +0900</pubDate><guid isPermaLink="false">vocab-16de27ad30b2a1b6e851981ec750d51bd4f72297</guid><enclosure url="https://images.unsplash.com/photo-1504711434969-e33886168f5c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb3VybmFsaXN0fGVufDB8fHx8MTc4MTM3NzM4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="89362" /><ns2:content url="https://images.unsplash.com/photo-1504711434969-e33886168f5c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb3VybmFsaXN0fGVufDB8fHx8MTc4MTM3NzM4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1504711434969-e33886168f5c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb3VybmFsaXN0fGVufDB8fHx8MTc4MTM3NzM4NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>언론인</category></item><item><title>경보가 – alarm</title><link>urn:urn:vocab:경보가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1541480601022-2308c0f02487?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbGFybXxlbnwwfHx8fDE3ODEzNjk5ODZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경보가 (alarm)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(일본 도쿄전력이 후쿠시마 원자력발전소 방사능 오염 처리수를 20차로 방류하던 중 설비에서 경보가 울려 방류를 두 번째로 중단했다고 한국 정부가 13일 밝혔다&lt;br/&gt;&lt;em&gt;The South Korean government announced on the 13th that Tokyo Electric Power Company (TEPCO) had stopped the discharge for the second time after an alarm sounded in the equipment during the 20th release of treated radioactive water from the Fukushima nuclear power plant.&lt;/em&gt;&lt;/p&gt;
