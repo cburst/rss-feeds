@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 00:46:22 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 02:51:34 +0900</lastBuildDate>
 
 
 
@@ -765,6 +765,50 @@
 
 
   <item><title>사업성 – business feasibility</title><link>urn:urn:vocab:사업성</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGZlYXNpYmlsaXR5fGVufDB8fHx8MTc4MTQ1MTk4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사업성 (business feasibility)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이어 “은행 점포는 신용도와 사업성에 대한 정보를 수집·축적하고, 이를 바탕으로 지역 기업의 자금 조달과 신용평가를 가능하게 한다&lt;br/&gt;&lt;em&gt;He added, 'Bank branches collect and accumulate information on creditworthiness and business feasibility, and based on this, enable local businesses to raise funds and receive credit evaluations.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(사업성이 부족한 강북권 정비사업을 위해서는 각종 인센티브를 가동하겠다고 약속했다&lt;br/&gt;&lt;em&gt;He promised to activate various incentives for redevelopment projects in the Gangbuk area, which lack business feasibility.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사전협상제 확대, 강북형 역세권사업 확대, 사업성 보정계수 도입, 고도지구 높이 규제 완화 등도 인센티브로 제시했다&lt;br/&gt;&lt;em&gt;They also proposed incentives such as expanding pre-negotiation systems, expanding Gangbuk-type station area projects, introducing business feasibility correction coefficients, and easing height regulations in high-altitude districts.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 사업성은 좋아요.&lt;br/&gt;&lt;em&gt;This business feasibility is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사업성을 분석해야 해요.&lt;br/&gt;&lt;em&gt;We need to analyze the business feasibility.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGZlYXNpYmlsaXR5fGVufDB8fHx8MTc4MTQ1MTk4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사업성 (business feasibility)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이어 “은행 점포는 신용도와 사업성에 대한 정보를 수집·축적하고, 이를 바탕으로 지역 기업의 자금 조달과 신용평가를 가능하게 한다&lt;br/&gt;&lt;em&gt;He added, 'Bank branches collect and accumulate information on creditworthiness and business feasibility, and based on this, enable local businesses to raise funds and receive credit evaluations.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(사업성이 부족한 강북권 정비사업을 위해서는 각종 인센티브를 가동하겠다고 약속했다&lt;br/&gt;&lt;em&gt;He promised to activate various incentives for redevelopment projects in the Gangbuk area, which lack business feasibility.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사전협상제 확대, 강북형 역세권사업 확대, 사업성 보정계수 도입, 고도지구 높이 규제 완화 등도 인센티브로 제시했다&lt;br/&gt;&lt;em&gt;They also proposed incentives such as expanding pre-negotiation systems, expanding Gangbuk-type station area projects, introducing business feasibility correction coefficients, and easing height regulations in high-altitude districts.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 사업성은 좋아요.&lt;br/&gt;&lt;em&gt;This business feasibility is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사업성을 분석해야 해요.&lt;br/&gt;&lt;em&gt;We need to analyze the business feasibility.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 15 Jun 2026 02:51:34 +0900</pubDate><guid isPermaLink="false">vocab-bff767bf598bfa3d665467ad4f242a58fff93479</guid><enclosure url="https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGZlYXNpYmlsaXR5fGVufDB8fHx8MTc4MTQ1MTk4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="68232" /><ns2:content url="https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGZlYXNpYmlsaXR5fGVufDB8fHx8MTc4MTQ1MTk4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGZlYXNpYmlsaXR5fGVufDB8fHx8MTc4MTQ1MTk4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사업성</category></item><item><title>공동성명 – joint statement</title><link>urn:urn:vocab:공동성명</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586691853971-f6395ac36928?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb2ludCUyMHN0YXRlbWVudHxlbnwwfHx8fDE3ODE0NTkzNDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공동성명 (joint statement)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Yoon Suk Yeol’s office says joint statement with EU condemning Russia-North Korea cooperation contains ‘nothing new, reaffirms existing principles’ (청와대 “EU와 러·북 규탄 공동성명…새 내용 없어, 기존 원칙 재확인”) &lt;&lt;br/&gt;&lt;em&gt;Yoon Suk Yeol’s office says joint statement with EU condemning Russia-North Korea cooperation contains ‘nothing new, reaffirms existing principles’&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Yoon Suk Yeol’s office says joint statement with EU condemning Russia-North Korea cooperation contains ‘nothing new, reaffirms existing principles’ (청와대 “EU와 러·북 규탄 공동성명…새 내용 없어, 기존 원칙 재확인”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Yoon Suk Yeol’s office says joint statement with EU condemning Russia-North Korea cooperation contains ‘nothing new, reaffirms existing principles’&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (청와대가 13일(현지시각) 한-유럽연합 정상회담 공동성명에서 러시아의 북한 지원을 규탄하는 내용이 담긴 데 대해 “우리가 그동안 취해오던 입장이기 때문에 이것이 새롭게 러시아나 북한과의 관계에서 부담이 되리라고 보지 않는다”고 말했다&lt;br/&gt;&lt;em&gt;Regarding the Korea-EU summit joint statement on the 13th (local time) condemning Russia's support for North Korea, the presidential office said, 'Since this is the position we have been taking, we do not see it as a new burden in relations with Russia or North Korea.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;두 나라가 공동성명을 발표했다.&lt;br/&gt;&lt;em&gt;The two countries issued a joint statement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공동성명은 평화를 강조했다.&lt;br/&gt;&lt;em&gt;The joint statement emphasized peace.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586691853971-f6395ac36928?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb2ludCUyMHN0YXRlbWVudHxlbnwwfHx8fDE3ODE0NTkzNDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공동성명 (joint statement)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Yoon Suk Yeol’s office says joint statement with EU condemning Russia-North Korea cooperation contains ‘nothing new, reaffirms existing principles’ (청와대 “EU와 러·북 규탄 공동성명…새 내용 없어, 기존 원칙 재확인”) &lt;&lt;br/&gt;&lt;em&gt;Yoon Suk Yeol’s office says joint statement with EU condemning Russia-North Korea cooperation contains ‘nothing new, reaffirms existing principles’&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Yoon Suk Yeol’s office says joint statement with EU condemning Russia-North Korea cooperation contains ‘nothing new, reaffirms existing principles’ (청와대 “EU와 러·북 규탄 공동성명…새 내용 없어, 기존 원칙 재확인”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Yoon Suk Yeol’s office says joint statement with EU condemning Russia-North Korea cooperation contains ‘nothing new, reaffirms existing principles’&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (청와대가 13일(현지시각) 한-유럽연합 정상회담 공동성명에서 러시아의 북한 지원을 규탄하는 내용이 담긴 데 대해 “우리가 그동안 취해오던 입장이기 때문에 이것이 새롭게 러시아나 북한과의 관계에서 부담이 되리라고 보지 않는다”고 말했다&lt;br/&gt;&lt;em&gt;Regarding the Korea-EU summit joint statement on the 13th (local time) condemning Russia's support for North Korea, the presidential office said, 'Since this is the position we have been taking, we do not see it as a new burden in relations with Russia or North Korea.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;두 나라가 공동성명을 발표했다.&lt;br/&gt;&lt;em&gt;The two countries issued a joint statement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;공동성명은 평화를 강조했다.&lt;br/&gt;&lt;em&gt;The joint statement emphasized peace.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 15 Jun 2026 02:49:06 +0900</pubDate><guid isPermaLink="false">vocab-a045d20811527d20f7ed12e5fa636307d1ffa9b4</guid><enclosure url="https://images.unsplash.com/photo-1586691853971-f6395ac36928?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb2ludCUyMHN0YXRlbWVudHxlbnwwfHx8fDE3ODE0NTkzNDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="91709" /><ns2:content url="https://images.unsplash.com/photo-1586691853971-f6395ac36928?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb2ludCUyMHN0YXRlbWVudHxlbnwwfHx8fDE3ODE0NTkzNDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1586691853971-f6395ac36928?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb2ludCUyMHN0YXRlbWVudHxlbnwwfHx8fDE3ODE0NTkzNDJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>공동성명</category></item><item><title>사업성 – business feasibility</title><link>urn:urn:vocab:사업성</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGZlYXNpYmlsaXR5fGVufDB8fHx8MTc4MTQ1MTk4MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사업성 (business feasibility)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이어 “은행 점포는 신용도와 사업성에 대한 정보를 수집·축적하고, 이를 바탕으로 지역 기업의 자금 조달과 신용평가를 가능하게 한다&lt;br/&gt;&lt;em&gt;He added, 'Bank branches collect and accumulate information on creditworthiness and business feasibility, and based on this, enable local companies to raise funds and receive credit evaluations.'&lt;/em&gt;&lt;/p&gt;
