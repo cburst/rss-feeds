@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 02:51:40 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 06:59:53 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>의사와 – doctor and</title><link>urn:urn:vocab:의사와</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>정원은 – garden</title><link>urn:urn:vocab:정원은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1778683326192-898fc982e6a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXJkZW58ZW58MHx8fHwxNzgxNDc0Mzg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정원은 (garden)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(선관위가 지난 3월부터 적용 중인 정원(定員)표에 따르면 선관위 정원은 3028명이다&lt;br/&gt;&lt;em&gt;According to the personnel quota table that the National Election Commission has been applying since March, the commission's quota is 3,028 people.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선관위가 2·3급 통합 정원은 2급으로, 3·4급 통합 정원은 3급으로 채우는 꼼수를 쓰고 있는 데다, 매년 2·3급 10여 명을 외부 기관에 파견해 놓고 그 자리에 새로운 인원을 승진시켜 채워 넣고 있기 때문이다&lt;br/&gt;&lt;em&gt;This is because the commission is using a trick of filling the combined quota for grades 2 and 3 with grade 2 personnel, and the combined quota for grades 3 and 4 with grade 3 personnel, and also because it dispatches about 10 people from grades 2 and 3 to external agencies every year and then promotes new personnel to fill those positions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선관위가 정원은 물론 인사 규칙까지 스스로 정하는 셈이다&lt;br/&gt;&lt;em&gt;In effect, the National Election Commission sets not only its own personnel quota but also its own personnel rules.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정원은 아름답습니다.&lt;br/&gt;&lt;em&gt;The garden is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정원은 꽃이 많습니다.&lt;br/&gt;&lt;em&gt;The garden has many flowers.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1778683326192-898fc982e6a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXJkZW58ZW58MHx8fHwxNzgxNDc0Mzg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정원은 (garden)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(선관위가 지난 3월부터 적용 중인 정원(定員)표에 따르면 선관위 정원은 3028명이다&lt;br/&gt;&lt;em&gt;According to the personnel quota table that the National Election Commission has been applying since March, the commission's quota is 3,028 people.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선관위가 2·3급 통합 정원은 2급으로, 3·4급 통합 정원은 3급으로 채우는 꼼수를 쓰고 있는 데다, 매년 2·3급 10여 명을 외부 기관에 파견해 놓고 그 자리에 새로운 인원을 승진시켜 채워 넣고 있기 때문이다&lt;br/&gt;&lt;em&gt;This is because the commission is using a trick of filling the combined quota for grades 2 and 3 with grade 2 personnel, and the combined quota for grades 3 and 4 with grade 3 personnel, and also because it dispatches about 10 people from grades 2 and 3 to external agencies every year and then promotes new personnel to fill those positions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선관위가 정원은 물론 인사 규칙까지 스스로 정하는 셈이다&lt;br/&gt;&lt;em&gt;In effect, the National Election Commission sets not only its own personnel quota but also its own personnel rules.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정원은 아름답습니다.&lt;br/&gt;&lt;em&gt;The garden is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정원은 꽃이 많습니다.&lt;br/&gt;&lt;em&gt;The garden has many flowers.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 15 Jun 2026 06:59:53 +0900</pubDate><guid isPermaLink="false">vocab-08d05d977ebdfaa9f45f0f60d5d2072e851060f2</guid><enclosure url="https://images.unsplash.com/photo-1778683326192-898fc982e6a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXJkZW58ZW58MHx8fHwxNzgxNDc0Mzg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="228456" /><ns2:content url="https://images.unsplash.com/photo-1778683326192-898fc982e6a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXJkZW58ZW58MHx8fHwxNzgxNDc0Mzg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1778683326192-898fc982e6a6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnYXJkZW58ZW58MHx8fHwxNzgxNDc0Mzg5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>정원은</category></item><item><title>운동권 – activist group</title><link>urn:urn:vocab:운동권</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1776200816881-cd2093cb53f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3RpdmlzdCUyMGdyb3VwfGVufDB8fHx8MTc4MTQ3NDI0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="운동권 (activist group)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Aiming at the Activist Generation That Used to Preach Democracy: The Ballot Paper Disaster and the Fury of the 2030 Generation (민주주의 훈계하던 운동권 세대를 조준하다… 투표용지 참사와 2030의 분노) &lt;&lt;br/&gt;&lt;em&gt;Aiming at the Activist Generation That Used to Preach Democracy: The Ballot Paper Disaster and the Fury of the 2030 Generation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Aiming at the Activist Generation That Used to Preach Democracy: The Ballot Paper Disaster and the Fury of the 2030 Generation (민주주의 훈계하던 운동권 세대를 조준하다… 투표용지 참사와 2030의 분노)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Aiming at the Activist Generation That Used to Preach Democracy: The Ballot Paper Disaster and the Fury of the 2030 Generation&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2030 세대가 체감하는 분노의 화살은 단순히 선관위 관료들을 넘어, 대한민국의 정치·경제·사회의 헤게모니를 장악하고 청년들의 생존권을 압박해 온 기성세대, 특히 과거 민주화를 독점적 자산으로 삼아 기득권층으로 공고히 자리 잡은 ‘운동권(386·586) 세대’를 정조준하고 있다&lt;br/&gt;&lt;em&gt;The arrows of anger felt by the 2030 generation are aimed not just at election commission officials, but squarely at the older generation that has seized hegemony over Korea's politics, economy, and society and suppressed the survival rights of young people—especially the 'activist (386/586) generation' that has solidified its position as the establishment by monopolizing the past democratization movement.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 운동권 출신이다.&lt;br/&gt;&lt;em&gt;He is from the student activist movement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;운동권 학생들이 모였다.&lt;br/&gt;&lt;em&gt;Student activists gathered.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1776200816881-cd2093cb53f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3RpdmlzdCUyMGdyb3VwfGVufDB8fHx8MTc4MTQ3NDI0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="운동권 (activist group)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Aiming at the Activist Generation That Used to Preach Democracy: The Ballot Paper Disaster and the Fury of the 2030 Generation (민주주의 훈계하던 운동권 세대를 조준하다… 투표용지 참사와 2030의 분노) &lt;&lt;br/&gt;&lt;em&gt;Aiming at the Activist Generation That Used to Preach Democracy: The Ballot Paper Disaster and the Fury of the 2030 Generation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Aiming at the Activist Generation That Used to Preach Democracy: The Ballot Paper Disaster and the Fury of the 2030 Generation (민주주의 훈계하던 운동권 세대를 조준하다… 투표용지 참사와 2030의 분노)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Aiming at the Activist Generation That Used to Preach Democracy: The Ballot Paper Disaster and the Fury of the 2030 Generation&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2030 세대가 체감하는 분노의 화살은 단순히 선관위 관료들을 넘어, 대한민국의 정치·경제·사회의 헤게모니를 장악하고 청년들의 생존권을 압박해 온 기성세대, 특히 과거 민주화를 독점적 자산으로 삼아 기득권층으로 공고히 자리 잡은 ‘운동권(386·586) 세대’를 정조준하고 있다&lt;br/&gt;&lt;em&gt;The arrows of anger felt by the 2030 generation are aimed not just at election commission officials, but squarely at the older generation that has seized hegemony over Korea's politics, economy, and society and suppressed the survival rights of young people—especially the 'activist (386/586) generation' that has solidified its position as the establishment by monopolizing the past democratization movement.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 운동권 출신이다.&lt;br/&gt;&lt;em&gt;He is from the student activist movement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;운동권 학생들이 모였다.&lt;br/&gt;&lt;em&gt;Student activists gathered.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 15 Jun 2026 06:57:31 +0900</pubDate><guid isPermaLink="false">vocab-de5060590bea1418b8426a1cb3e22fba1005c459</guid><enclosure url="https://images.unsplash.com/photo-1776200816881-cd2093cb53f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3RpdmlzdCUyMGdyb3VwfGVufDB8fHx8MTc4MTQ3NDI0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="209521" /><ns2:content url="https://images.unsplash.com/photo-1776200816881-cd2093cb53f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3RpdmlzdCUyMGdyb3VwfGVufDB8fHx8MTc4MTQ3NDI0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1776200816881-cd2093cb53f8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhY3RpdmlzdCUyMGdyb3VwfGVufDB8fHx8MTc4MTQ3NDI0N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>운동권</category></item><item><title>의사와 – doctor and</title><link>urn:urn:vocab:의사와</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb2N0b3IlMjBhbmR8ZW58MHx8fHwxNzgxNDU5NDk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="의사와 (doctor and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(안중근 의사와 그의 재판에 관여했거나 그의 사상을 후대에 전한 고치(高知)현 출신 일본인을 기리는 ‘일한우호 동양평화(日韓友好 東洋平和)’ 기념비가 제막 6일 만에 철거됐다&lt;br/&gt;&lt;em&gt;A monument titled 'Japan-Korea Friendship and Oriental Peace' honoring Ahn Jung-geun and Japanese from Kochi Prefecture involved in his trial or who passed on his ideology to later generations was dismantled just six days after its unveiling.&lt;/em&gt;&lt;/p&gt;
