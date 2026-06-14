@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 22:36:19 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:46:28 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,51 @@
 
 
 
-  <item><title>야당이 – opposition party (subject)</title><link>urn:urn:vocab:야당이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기념비 – monument</title><link>urn:urn:vocab:기념비</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb251bWVudHxlbnwwfHx8fDE3ODE0NTE5ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기념비 (monument)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(안중근 의사와 그의 재판에 관여했거나 그의 사상을 후대에 전한 고치(高知)현 출신 일본인을 기리는 ‘일한우호 동양평화(日韓友好 東洋平和)’ 기념비가 제막 6일 만에 철거됐다&lt;br/&gt;&lt;em&gt;A monument commemorating 'Japan-Korea Friendship and East Asian Peace' honoring Ahn Jung-geun and Japanese individuals from Kochi Prefecture involved in his trial or who passed on his ideology to later generations was dismantled just six days after its unveiling.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 기념비가 갖는 역사적 민감성 때문에 비문에는 처음부터 ‘안중근’ 이름 석 자가 새겨지지 않았다&lt;br/&gt;&lt;em&gt;Due to the historical sensitivity of this monument, the three characters of 'Ahn Jung-geun's name were not engraved on the inscription from the beginning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;안 의사와 고치현 일본인을 기리는 기념비 건립 추진 주역인 니시모리 시오조(西森潮三·86) 전 고치현 의회 의장을 지난 6일 현지에서 만나 인터뷰한 후, 전화로 그 경위를 들었다&lt;br/&gt;&lt;em&gt;After meeting on the 6th with Nishimori Shiozo (86), former chairman of the Kochi Prefectural Assembly and a key figure in promoting the monument honoring Ahn and the Japanese from Kochi Prefecture, I heard the details over the phone.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 기념비는 높습니다.&lt;br/&gt;&lt;em&gt;This monument is tall.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기념비가 공원에 있습니다.&lt;br/&gt;&lt;em&gt;The monument is in the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb251bWVudHxlbnwwfHx8fDE3ODE0NTE5ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기념비 (monument)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(안중근 의사와 그의 재판에 관여했거나 그의 사상을 후대에 전한 고치(高知)현 출신 일본인을 기리는 ‘일한우호 동양평화(日韓友好 東洋平和)’ 기념비가 제막 6일 만에 철거됐다&lt;br/&gt;&lt;em&gt;A monument commemorating 'Japan-Korea Friendship and East Asian Peace' honoring Ahn Jung-geun and Japanese individuals from Kochi Prefecture involved in his trial or who passed on his ideology to later generations was dismantled just six days after its unveiling.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 기념비가 갖는 역사적 민감성 때문에 비문에는 처음부터 ‘안중근’ 이름 석 자가 새겨지지 않았다&lt;br/&gt;&lt;em&gt;Due to the historical sensitivity of this monument, the three characters of 'Ahn Jung-geun's name were not engraved on the inscription from the beginning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;안 의사와 고치현 일본인을 기리는 기념비 건립 추진 주역인 니시모리 시오조(西森潮三·86) 전 고치현 의회 의장을 지난 6일 현지에서 만나 인터뷰한 후, 전화로 그 경위를 들었다&lt;br/&gt;&lt;em&gt;After meeting on the 6th with Nishimori Shiozo (86), former chairman of the Kochi Prefectural Assembly and a key figure in promoting the monument honoring Ahn and the Japanese from Kochi Prefecture, I heard the details over the phone.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 기념비는 높습니다.&lt;br/&gt;&lt;em&gt;This monument is tall.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기념비가 공원에 있습니다.&lt;br/&gt;&lt;em&gt;The monument is in the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 15 Jun 2026 00:46:28 +0900</pubDate><guid isPermaLink="false">vocab-b799899c1becebfc490f6e6ea28d634f0d535e7b</guid><enclosure url="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb251bWVudHxlbnwwfHx8fDE3ODE0NTE5ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="152533" /><ns2:content url="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb251bWVudHxlbnwwfHx8fDE3ODE0NTE5ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb251bWVudHxlbnwwfHx8fDE3ODE0NTE5ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기념비</category></item><item><title>기념비 – monument</title><link>urn:urn:vocab:기념비</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb251bWVudHxlbnwwfHx8fDE3ODE0NTE5ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기념비 (monument)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(안중근 의사와 그의 재판에 관여했거나 그의 사상을 후대에 전한 고치(高知)현 출신 일본인을 기리는 ‘일한우호 동양평화(日韓友好 東洋平和)’ 기념비가 제막 6일 만에 철거됐다&lt;br/&gt;&lt;em&gt;A monument commemorating 'Japan-Korea Friendship and Oriental Peace' honoring Ahn Jung-geun and Japanese from Kochi Prefecture involved in his trial or who passed on his ideology to later generations was removed six days after its unveiling.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 기념비가 갖는 역사적 민감성 때문에 비문에는 처음부터 ‘안중근’ 이름 석 자가 새겨지지 않았다&lt;br/&gt;&lt;em&gt;Due to the historical sensitivity of this monument, the three characters of 'Ahn Jung-geun's name were not engraved on the inscription from the beginning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;안 의사와 고치현 일본인을 기리는 기념비 건립 추진 주역인 니시모리 시오조(西森潮三·86) 전 고치현 의회 의장을 지난 6일 현지에서 만나 인터뷰한 후, 전화로 그 경위를 들었다&lt;br/&gt;&lt;em&gt;After meeting on the 6th with Nishimori Shiozo (86), former chairman of the Kochi Prefectural Assembly, who was the driving force behind the establishment of the monument honoring Ahn and the Japanese from Kochi Prefecture, I heard the details over the phone.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 기념비입니다.&lt;br/&gt;&lt;em&gt;This is a monument.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기념비가 공원에 있어요.&lt;br/&gt;&lt;em&gt;The monument is in the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb251bWVudHxlbnwwfHx8fDE3ODE0NTE5ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기념비 (monument)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(안중근 의사와 그의 재판에 관여했거나 그의 사상을 후대에 전한 고치(高知)현 출신 일본인을 기리는 ‘일한우호 동양평화(日韓友好 東洋平和)’ 기념비가 제막 6일 만에 철거됐다&lt;br/&gt;&lt;em&gt;A monument commemorating 'Japan-Korea Friendship and Oriental Peace' honoring Ahn Jung-geun and Japanese from Kochi Prefecture involved in his trial or who passed on his ideology to later generations was removed six days after its unveiling.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 기념비가 갖는 역사적 민감성 때문에 비문에는 처음부터 ‘안중근’ 이름 석 자가 새겨지지 않았다&lt;br/&gt;&lt;em&gt;Due to the historical sensitivity of this monument, the three characters of 'Ahn Jung-geun's name were not engraved on the inscription from the beginning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;안 의사와 고치현 일본인을 기리는 기념비 건립 추진 주역인 니시모리 시오조(西森潮三·86) 전 고치현 의회 의장을 지난 6일 현지에서 만나 인터뷰한 후, 전화로 그 경위를 들었다&lt;br/&gt;&lt;em&gt;After meeting on the 6th with Nishimori Shiozo (86), former chairman of the Kochi Prefectural Assembly, who was the driving force behind the establishment of the monument honoring Ahn and the Japanese from Kochi Prefecture, I heard the details over the phone.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 기념비입니다.&lt;br/&gt;&lt;em&gt;This is a monument.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기념비가 공원에 있어요.&lt;br/&gt;&lt;em&gt;The monument is in the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 15 Jun 2026 00:46:27 +0900</pubDate><guid isPermaLink="false">vocab-a99cbe979bc35fc78060a3e9090f354635828227</guid><enclosure url="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb251bWVudHxlbnwwfHx8fDE3ODE0NTE5ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="152533" /><ns2:content url="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb251bWVudHxlbnwwfHx8fDE3ODE0NTE5ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb251bWVudHxlbnwwfHx8fDE3ODE0NTE5ODR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기념비</category></item><item><title>야당이 – opposition party (subject)</title><link>urn:urn:vocab:야당이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1587124003698-f028ee2e23c8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvcHBvc2l0aW9uJTIwcGFydHklMjAlMjhzdWJqZWN0JTI5fGVufDB8fHx8MTc4MTQ0NDE3NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="야당이 (opposition party (subject))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;People Power Party: "Opposition Must Defend It" Democratic Party: "Blatant Hypocrisy, Cannot Give It Away" (與野, 법사위원장 놓고 격돌…국힘 “야당이 사수해야” 민주 “적반하장, 못 넘겨”) &lt;&lt;br/&gt;&lt;em&gt;People Power Party: "Opposition Must Defend It" Democratic Party: "Blatant Hypocrisy, Cannot Give It Away"&lt;/em&gt;&lt;/p&gt;
