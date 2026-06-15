@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 03:51:58 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 05:57:12 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>제안한 – proposed</title><link>urn:urn:vocab:제안한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>청년 – youth</title><link>urn:urn:vocab:청년</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="청년 (youth)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(청년미래적금 22일 출시…청년도약계좌에서 갈아타려면&lt;br/&gt;&lt;em&gt;(Youth Future Savings Account launched on the 22nd... To switch from Youth Leap Account&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(청년미래적금 22일 출시…청년도약계좌에서 갈아타려면&lt;br/&gt;&lt;em&gt;(Youth Future Savings Account launched on the 22nd... To switch from Youth Leap Account&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(기존 청년도약계좌에서 오는 22일 출시되는 청년미래적금으로 갈아타려면 청년미래적금 계좌를 먼저 개설한 뒤에 청년도약계좌를 해지해야 한다&lt;br/&gt;&lt;em&gt;(To switch from the existing Youth Leap Account to the Youth Future Savings Account launching on the 22nd, you must first open a Youth Future Savings Account and then close the Youth Leap Account.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 청년은 학생입니다.&lt;br/&gt;&lt;em&gt;That young man is a student.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;청년이 공원에 갑니다.&lt;br/&gt;&lt;em&gt;The young man goes to the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="청년 (youth)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(청년미래적금 22일 출시…청년도약계좌에서 갈아타려면&lt;br/&gt;&lt;em&gt;(Youth Future Savings Account launched on the 22nd... To switch from Youth Leap Account&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(청년미래적금 22일 출시…청년도약계좌에서 갈아타려면&lt;br/&gt;&lt;em&gt;(Youth Future Savings Account launched on the 22nd... To switch from Youth Leap Account&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(기존 청년도약계좌에서 오는 22일 출시되는 청년미래적금으로 갈아타려면 청년미래적금 계좌를 먼저 개설한 뒤에 청년도약계좌를 해지해야 한다&lt;br/&gt;&lt;em&gt;(To switch from the existing Youth Leap Account to the Youth Future Savings Account launching on the 22nd, you must first open a Youth Future Savings Account and then close the Youth Leap Account.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 청년은 학생입니다.&lt;br/&gt;&lt;em&gt;That young man is a student.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;청년이 공원에 갑니다.&lt;br/&gt;&lt;em&gt;The young man goes to the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 16 Jun 2026 05:57:12 +0900</pubDate><guid isPermaLink="false">vocab-3b0ed871f66799e5e9712f6c082e267aae2e5d14</guid><enclosure url="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="67869" /><ns2:content url="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>청년</category></item><item><title>가입할 – to join</title><link>urn:urn:vocab:가입할</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGpvaW58ZW58MHx8fHwxNzgxNTU3MDAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가입할 (to join)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;가입자는 선착순으로 모집하지 않으며, 가입요건을 갖춘 청년은 모두 가입할 수 있다&lt;br/&gt;&lt;em&gt;Subscribers are not recruited on a first-come, first-served basis; all young people who meet the enrollment requirements can join.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오는 12월에 예정된 2차 가입자 모집시기를 감안할 때 1991년 8월8일~1991년 12월31일생(최초 모집기간 이후 만 35세 도래 예정자) 청년은 이번 최초 모집기간에 가입할 필요가 있다&lt;br/&gt;&lt;em&gt;Considering the second recruitment period scheduled for this December, young people born between August 8, 1991 and December 31, 1991 (those who will turn 35 after the initial recruitment period) need to enroll during this initial recruitment period.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(최초 가입기간(오는 22일~8월7일)에는 1991년 1월1일생(만 35세)부터 2007년 8월7일생(만 19세)까지 가입할 수 있다&lt;br/&gt;&lt;em&gt;During the initial enrollment period (from the 22nd to August 7th), those born from January 1, 1991 (age 35) to August 7, 2007 (age 19) can enroll.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 동아리에 가입할 거예요.&lt;br/&gt;&lt;em&gt;I will join a club.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도서관 회원으로 가입할 수 있어요.&lt;br/&gt;&lt;em&gt;You can sign up as a library member.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGpvaW58ZW58MHx8fHwxNzgxNTU3MDAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가입할 (to join)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;가입자는 선착순으로 모집하지 않으며, 가입요건을 갖춘 청년은 모두 가입할 수 있다&lt;br/&gt;&lt;em&gt;Subscribers are not recruited on a first-come, first-served basis; all young people who meet the enrollment requirements can join.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오는 12월에 예정된 2차 가입자 모집시기를 감안할 때 1991년 8월8일~1991년 12월31일생(최초 모집기간 이후 만 35세 도래 예정자) 청년은 이번 최초 모집기간에 가입할 필요가 있다&lt;br/&gt;&lt;em&gt;Considering the second recruitment period scheduled for this December, young people born between August 8, 1991 and December 31, 1991 (those who will turn 35 after the initial recruitment period) need to enroll during this initial recruitment period.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(최초 가입기간(오는 22일~8월7일)에는 1991년 1월1일생(만 35세)부터 2007년 8월7일생(만 19세)까지 가입할 수 있다&lt;br/&gt;&lt;em&gt;During the initial enrollment period (from the 22nd to August 7th), those born from January 1, 1991 (age 35) to August 7, 2007 (age 19) can enroll.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 동아리에 가입할 거예요.&lt;br/&gt;&lt;em&gt;I will join a club.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;도서관 회원으로 가입할 수 있어요.&lt;br/&gt;&lt;em&gt;You can sign up as a library member.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 16 Jun 2026 05:56:46 +0900</pubDate><guid isPermaLink="false">vocab-da5e5866bf075882dcc6abe10623f3a008c14830</guid><enclosure url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGpvaW58ZW58MHx8fHwxNzgxNTU3MDAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="181471" /><ns2:content url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGpvaW58ZW58MHx8fHwxNzgxNTU3MDAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGpvaW58ZW58MHx8fHwxNzgxNTU3MDAyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>가입할</category></item><item><title>제안한 – proposed</title><link>urn:urn:vocab:제안한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1601162275327-4b4ae1c4b3ae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3NlZHxlbnwwfHx8fDE3ODE1NDk1MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="제안한 (proposed)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;김수진 교사는 스웨덴의 성평등 유치원 ‘에갈리아’에서 실천하는 방식을 제안한다&lt;br/&gt;&lt;em&gt;Teacher Kim Su-jin proposes methods practiced at Sweden's gender equality kindergarten 'Egalia'.&lt;/em&gt;&lt;/p&gt;
