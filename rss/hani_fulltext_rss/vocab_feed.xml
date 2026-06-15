@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 23:43:09 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 03:51:58 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,95 @@
 
 
 
-  <item><title>바라볼 – to look at</title><link>urn:urn:vocab:바라볼</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>제안한 – proposed</title><link>urn:urn:vocab:제안한</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1601162275327-4b4ae1c4b3ae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3NlZHxlbnwwfHx8fDE3ODE1NDk1MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="제안한 (proposed)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김수진 교사는 스웨덴의 성평등 유치원 ‘에갈리아’에서 실천하는 방식을 제안한다&lt;br/&gt;&lt;em&gt;Teacher Kim Su-jin proposes methods practiced at Sweden's gender equality kindergarten 'Egalia'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (호주의 사회학자 주디 싱어(Judy Singer)가 1990년대 말 처음 제안한 이 개념은 뇌의 신경학적 차이를 결함이 아닌 다양성으로 바라보자는 관점에서 출발한다&lt;br/&gt;&lt;em&gt;This concept, first proposed by Australian sociologist Judy Singer in the late 1990s, starts from the perspective of viewing neurological differences in the brain as diversity, not defects.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이현옥 교사는 크게 세 가지 방식의 토론 활동을 제안한다&lt;br/&gt;&lt;em&gt;Teacher Lee Hyun-ok proposes three main types of discussion activities.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그가 제안한 계획이 좋아요.&lt;br/&gt;&lt;em&gt;The plan he suggested is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;제가 제안한 아이디어예요.&lt;br/&gt;&lt;em&gt;It's an idea I suggested.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1601162275327-4b4ae1c4b3ae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3NlZHxlbnwwfHx8fDE3ODE1NDk1MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="제안한 (proposed)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;김수진 교사는 스웨덴의 성평등 유치원 ‘에갈리아’에서 실천하는 방식을 제안한다&lt;br/&gt;&lt;em&gt;Teacher Kim Su-jin proposes methods practiced at Sweden's gender equality kindergarten 'Egalia'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (호주의 사회학자 주디 싱어(Judy Singer)가 1990년대 말 처음 제안한 이 개념은 뇌의 신경학적 차이를 결함이 아닌 다양성으로 바라보자는 관점에서 출발한다&lt;br/&gt;&lt;em&gt;This concept, first proposed by Australian sociologist Judy Singer in the late 1990s, starts from the perspective of viewing neurological differences in the brain as diversity, not defects.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이현옥 교사는 크게 세 가지 방식의 토론 활동을 제안한다&lt;br/&gt;&lt;em&gt;Teacher Lee Hyun-ok proposes three main types of discussion activities.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그가 제안한 계획이 좋아요.&lt;br/&gt;&lt;em&gt;The plan he suggested is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;제가 제안한 아이디어예요.&lt;br/&gt;&lt;em&gt;It's an idea I suggested.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 16 Jun 2026 03:51:58 +0900</pubDate><guid isPermaLink="false">vocab-c7a191c60847067a1e9ad21eb94375e2fd0c5772</guid><enclosure url="https://images.unsplash.com/photo-1601162275327-4b4ae1c4b3ae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3NlZHxlbnwwfHx8fDE3ODE1NDk1MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="89731" /><ns2:content url="https://images.unsplash.com/photo-1601162275327-4b4ae1c4b3ae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3NlZHxlbnwwfHx8fDE3ODE1NDk1MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1601162275327-4b4ae1c4b3ae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9wb3NlZHxlbnwwfHx8fDE3ODE1NDk1MTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>제안한</category></item><item><title>바티칸 – Vatican</title><link>urn:urn:vocab:바티칸</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1531572753322-ad063cecc140?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxWYXRpY2FufGVufDB8fHx8MTc4MTU0OTM5MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="바티칸 (Vatican)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;kr&lt;/a&gt; (바티칸/서영지 기자 &lt;a href="mailto:yj@hani&lt;br/&gt;&lt;em&gt;kr&lt;/a&gt; (Vatican/Reporter Seo Young-ji &lt;a href="mailto:yj@hani&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 바티칸 현지에서 주재한 화상 수석보좌관 회의에서 “제가 자꾸 들여다볼 때마다 문제다 싶은 게 있다&lt;br/&gt;&lt;em&gt;(President Lee said at a video conference with senior aides held at the Vatican, "There are things that seem problematic every time I look into them.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;kr&lt;/a&gt; (바티칸/서영지 기자 &lt;a href="mailto:yj@hani&lt;br/&gt;&lt;em&gt;kr&lt;/a&gt; (Vatican/Reporter Seo Young-ji &lt;a href="mailto:yj@hani&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;바티칸은 작은 나라입니다.&lt;br/&gt;&lt;em&gt;The Vatican is a small country.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;바티칸에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to the Vatican.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1531572753322-ad063cecc140?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxWYXRpY2FufGVufDB8fHx8MTc4MTU0OTM5MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="바티칸 (Vatican)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;kr&lt;/a&gt; (바티칸/서영지 기자 &lt;a href="mailto:yj@hani&lt;br/&gt;&lt;em&gt;kr&lt;/a&gt; (Vatican/Reporter Seo Young-ji &lt;a href="mailto:yj@hani&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 바티칸 현지에서 주재한 화상 수석보좌관 회의에서 “제가 자꾸 들여다볼 때마다 문제다 싶은 게 있다&lt;br/&gt;&lt;em&gt;(President Lee said at a video conference with senior aides held at the Vatican, "There are things that seem problematic every time I look into them.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;kr&lt;/a&gt; (바티칸/서영지 기자 &lt;a href="mailto:yj@hani&lt;br/&gt;&lt;em&gt;kr&lt;/a&gt; (Vatican/Reporter Seo Young-ji &lt;a href="mailto:yj@hani&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;바티칸은 작은 나라입니다.&lt;br/&gt;&lt;em&gt;The Vatican is a small country.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;바티칸에 가고 싶어요.&lt;br/&gt;&lt;em&gt;I want to go to the Vatican.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 16 Jun 2026 03:49:55 +0900</pubDate><guid isPermaLink="false">vocab-51ebe2329f79d3aa7ec78c3937c4fa100fc66a37</guid><enclosure url="https://images.unsplash.com/photo-1531572753322-ad063cecc140?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxWYXRpY2FufGVufDB8fHx8MTc4MTU0OTM5MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="284296" /><ns2:content url="https://images.unsplash.com/photo-1531572753322-ad063cecc140?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxWYXRpY2FufGVufDB8fHx8MTc4MTU0OTM5MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1531572753322-ad063cecc140?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxWYXRpY2FufGVufDB8fHx8MTc4MTU0OTM5MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>바티칸</category></item><item><title>청년 – youth</title><link>urn:urn:vocab:청년</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="청년 (youth)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(청년미래적금 22일 출시…청년도약계좌에서 갈아타려면&lt;br/&gt;&lt;em&gt;(Youth Future Savings Account launched on the 22nd... To switch from the Youth Leap Account)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(청년미래적금 22일 출시…청년도약계좌에서 갈아타려면&lt;br/&gt;&lt;em&gt;(Youth Future Savings Account launched on the 22nd... To switch from the Youth Leap Account)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(기존 청년도약계좌에서 오는 22일 출시되는 청년미래적금으로 갈아타려면 청년미래적금 계좌를 먼저 개설한 뒤에 청년도약계좌를 해지해야 한다&lt;br/&gt;&lt;em&gt;(To switch from the existing Youth Leap Account to the Youth Future Savings Account launching on the 22nd, you must first open a Youth Future Savings Account and then close the Youth Leap Account)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 청년은 학생입니다.&lt;br/&gt;&lt;em&gt;That young man is a student.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;청년이 공원에 갑니다.&lt;br/&gt;&lt;em&gt;The young man goes to the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="청년 (youth)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(청년미래적금 22일 출시…청년도약계좌에서 갈아타려면&lt;br/&gt;&lt;em&gt;(Youth Future Savings Account launched on the 22nd... To switch from the Youth Leap Account)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(청년미래적금 22일 출시…청년도약계좌에서 갈아타려면&lt;br/&gt;&lt;em&gt;(Youth Future Savings Account launched on the 22nd... To switch from the Youth Leap Account)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(기존 청년도약계좌에서 오는 22일 출시되는 청년미래적금으로 갈아타려면 청년미래적금 계좌를 먼저 개설한 뒤에 청년도약계좌를 해지해야 한다&lt;br/&gt;&lt;em&gt;(To switch from the existing Youth Leap Account to the Youth Future Savings Account launching on the 22nd, you must first open a Youth Future Savings Account and then close the Youth Leap Account)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 청년은 학생입니다.&lt;br/&gt;&lt;em&gt;That young man is a student.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;청년이 공원에 갑니다.&lt;br/&gt;&lt;em&gt;The young man goes to the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 16 Jun 2026 01:47:13 +0900</pubDate><guid isPermaLink="false">vocab-64089644cd135354f3ce276180bb391c1cfeea2c</guid><enclosure url="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="67869" /><ns2:content url="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>청년</category></item><item><title>청년 – youth</title><link>urn:urn:vocab:청년</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="청년 (youth)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(청년미래적금 22일 출시…청년도약계좌에서 갈아타려면&lt;br/&gt;&lt;em&gt;(Youth Future Savings Account launched on the 22nd... To switch from Youth Leap Account&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(청년미래적금 22일 출시…청년도약계좌에서 갈아타려면&lt;br/&gt;&lt;em&gt;(Youth Future Savings Account launched on the 22nd... To switch from Youth Leap Account&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(기존 청년도약계좌에서 오는 22일 출시되는 청년미래적금으로 갈아타려면 청년미래적금 계좌를 먼저 개설한 뒤에 청년도약계좌를 해지해야 한다&lt;br/&gt;&lt;em&gt;(To switch from the existing Youth Leap Account to the Youth Future Savings Account launching on the 22nd, you must first open a Youth Future Savings Account and then close the Youth Leap Account.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 청년은 학생입니다.&lt;br/&gt;&lt;em&gt;That young man is a student.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;청년이 공원에 갑니다.&lt;br/&gt;&lt;em&gt;The young man goes to the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="청년 (youth)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(청년미래적금 22일 출시…청년도약계좌에서 갈아타려면&lt;br/&gt;&lt;em&gt;(Youth Future Savings Account launched on the 22nd... To switch from Youth Leap Account&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(청년미래적금 22일 출시…청년도약계좌에서 갈아타려면&lt;br/&gt;&lt;em&gt;(Youth Future Savings Account launched on the 22nd... To switch from Youth Leap Account&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(기존 청년도약계좌에서 오는 22일 출시되는 청년미래적금으로 갈아타려면 청년미래적금 계좌를 먼저 개설한 뒤에 청년도약계좌를 해지해야 한다&lt;br/&gt;&lt;em&gt;(To switch from the existing Youth Leap Account to the Youth Future Savings Account launching on the 22nd, you must first open a Youth Future Savings Account and then close the Youth Leap Account.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 청년은 학생입니다.&lt;br/&gt;&lt;em&gt;That young man is a student.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;청년이 공원에 갑니다.&lt;br/&gt;&lt;em&gt;The young man goes to the park.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 16 Jun 2026 01:44:44 +0900</pubDate><guid isPermaLink="false">vocab-d31fdac0d3102d963e706665e703f1e18cab2d73</guid><enclosure url="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="67869" /><ns2:content url="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx5b3V0aHxlbnwwfHx8fDE3ODE1NDE4ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>청년</category></item><item><title>바라볼 – to look at</title><link>urn:urn:vocab:바라볼</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1529672425113-d3035c7f4837?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGxvb2slMjBhdHxlbnwwfHx8fDE3ODE1MzQ1ODd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="바라볼 (to look at)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;신경다양성을 고쳐야 할 문제가 아닌 ‘세상을 인식하는 다른 방식’으로 바라볼 때, 세상은 비로소 모든 아이들에게 안전하고 자유로운 곳이 될 수 있다&lt;br/&gt;&lt;em&gt;When we view neurodiversity not as a problem to be fixed but as a different way of perceiving the world, the world can finally become a safe and free place for all children.&lt;/em&gt;&lt;/p&gt;
