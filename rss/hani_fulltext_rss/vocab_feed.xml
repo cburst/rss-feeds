@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 02:45:05 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:09:38 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,73 @@
 
 
 
-  <item><title>귀중한 – precious</title><link>urn:urn:vocab:귀중한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>현실이 – reality</title><link>urn:urn:vocab:현실이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1575832033745-e115e8b308fb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFsaXR5fGVufDB8fHx8MTc4MTY0MDU3NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="현실이 (reality)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (국민연금이 한국 경제에서 차지하는 위상은 이미 되돌릴 수 없는 현실이 되었다&lt;br/&gt;&lt;em&gt;"The status of the National Pension in the Korean economy has already become an irreversible reality.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;영향력은 이미 현실이 되었고, 앞으로 더 커질 수밖에 없다&lt;br/&gt;&lt;em&gt;Its influence has already become a reality and will inevitably grow larger.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(성평등 교사모임 아웃박스를 운영하는 김수진 백양초등학교 교사는 이것이 부정할 수 없는 현실이라고 설명한다&lt;br/&gt;&lt;em&gt;Kim Su-jin, a teacher at Baekyang Elementary School who runs the gender equality teacher group Outbox, explains that this is an undeniable reality.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현실이 꿈보다 더 아름답다.&lt;br/&gt;&lt;em&gt;Reality is more beautiful than dreams.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그것은 현실이 아니다.&lt;br/&gt;&lt;em&gt;That is not reality.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1575832033745-e115e8b308fb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFsaXR5fGVufDB8fHx8MTc4MTY0MDU3NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="현실이 (reality)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (국민연금이 한국 경제에서 차지하는 위상은 이미 되돌릴 수 없는 현실이 되었다&lt;br/&gt;&lt;em&gt;"The status of the National Pension in the Korean economy has already become an irreversible reality.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;영향력은 이미 현실이 되었고, 앞으로 더 커질 수밖에 없다&lt;br/&gt;&lt;em&gt;Its influence has already become a reality and will inevitably grow larger.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(성평등 교사모임 아웃박스를 운영하는 김수진 백양초등학교 교사는 이것이 부정할 수 없는 현실이라고 설명한다&lt;br/&gt;&lt;em&gt;Kim Su-jin, a teacher at Baekyang Elementary School who runs the gender equality teacher group Outbox, explains that this is an undeniable reality.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;현실이 꿈보다 더 아름답다.&lt;br/&gt;&lt;em&gt;Reality is more beautiful than dreams.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그것은 현실이 아니다.&lt;br/&gt;&lt;em&gt;That is not reality.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 05:09:38 +0900</pubDate><guid isPermaLink="false">vocab-bcfcb9c68409005b0b0c00939cf5f8bef189c711</guid><enclosure url="https://images.unsplash.com/photo-1575832033745-e115e8b308fb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFsaXR5fGVufDB8fHx8MTc4MTY0MDU3NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="60696" /><ns2:content url="https://images.unsplash.com/photo-1575832033745-e115e8b308fb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFsaXR5fGVufDB8fHx8MTc4MTY0MDU3NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1575832033745-e115e8b308fb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFsaXR5fGVufDB8fHx8MTc4MTY0MDU3NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>현실이</category></item><item><title>개표소 – polling station</title><link>urn:urn:vocab:개표소</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1720128401402-81c9dc339870?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwc3RhdGlvbnxlbnwwfHx8fDE3ODE2MzkzMTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개표소 (polling station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Prime Minister Kim Min-seok on Vote-Counting Hall Siege: “Illegal Acts, Immediate Action at the Scene” (김민석 총리, 개표소 봉쇄 시위에 “불법 행위, 현장서 즉시 조치”) &lt;&lt;br/&gt;&lt;em&gt;Prime Minister Kim Min-seok on Vote-Counting Hall Siege: “Illegal Acts, Immediate Action at the Scene”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Prime Minister Kim Min-seok on Vote-Counting Hall Siege: “Illegal Acts, Immediate Action at the Scene” (김민석 총리, 개표소 봉쇄 시위에 “불법 행위, 현장서 즉시 조치”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Prime Minister Kim Min-seok on Vote-Counting Hall Siege: “Illegal Acts, Immediate Action at the Scene”&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (김민석 국무총리는 16일 잠실 ‘개표소 봉쇄 시위’와 관련해 “정부는 불법 행위에 대해서는 일벌백계 차원에서 단호하게 대응할 것”이라고 밝혔다&lt;br/&gt;&lt;em&gt;” (Prime Minister Kim Min-seok stated on the 16th regarding the Jamsil ‘Vote-Counting Hall Siege Protest’, “The government will respond decisively to illegal acts as a warning to others.”&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개표소가 어디에 있습니까?&lt;br/&gt;&lt;em&gt;Where is the polling station?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 개표소에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the polling station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1720128401402-81c9dc339870?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwc3RhdGlvbnxlbnwwfHx8fDE3ODE2MzkzMTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개표소 (polling station)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Prime Minister Kim Min-seok on Vote-Counting Hall Siege: “Illegal Acts, Immediate Action at the Scene” (김민석 총리, 개표소 봉쇄 시위에 “불법 행위, 현장서 즉시 조치”) &lt;&lt;br/&gt;&lt;em&gt;Prime Minister Kim Min-seok on Vote-Counting Hall Siege: “Illegal Acts, Immediate Action at the Scene”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Prime Minister Kim Min-seok on Vote-Counting Hall Siege: “Illegal Acts, Immediate Action at the Scene” (김민석 총리, 개표소 봉쇄 시위에 “불법 행위, 현장서 즉시 조치”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Prime Minister Kim Min-seok on Vote-Counting Hall Siege: “Illegal Acts, Immediate Action at the Scene”&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (김민석 국무총리는 16일 잠실 ‘개표소 봉쇄 시위’와 관련해 “정부는 불법 행위에 대해서는 일벌백계 차원에서 단호하게 대응할 것”이라고 밝혔다&lt;br/&gt;&lt;em&gt;” (Prime Minister Kim Min-seok stated on the 16th regarding the Jamsil ‘Vote-Counting Hall Siege Protest’, “The government will respond decisively to illegal acts as a warning to others.”&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;개표소가 어디에 있습니까?&lt;br/&gt;&lt;em&gt;Where is the polling station?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 개표소에 갑니다.&lt;br/&gt;&lt;em&gt;I am going to the polling station.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 04:48:40 +0900</pubDate><guid isPermaLink="false">vocab-fcccbbd7a820a6b8944d0ce51af7950535c5cf94</guid><enclosure url="https://images.unsplash.com/photo-1720128401402-81c9dc339870?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwc3RhdGlvbnxlbnwwfHx8fDE3ODE2MzkzMTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="100387" /><ns2:content url="https://images.unsplash.com/photo-1720128401402-81c9dc339870?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwc3RhdGlvbnxlbnwwfHx8fDE3ODE2MzkzMTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1720128401402-81c9dc339870?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xsaW5nJTIwc3RhdGlvbnxlbnwwfHx8fDE3ODE2MzkzMTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>개표소</category></item><item><title>주인은 – owner is</title><link>urn:urn:vocab:주인은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/flagged/photo-1550946107-8842ae9426db?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvd25lciUyMGlzfGVufDB8fHx8MTc4MTYzMzE2MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주인은 (owner is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;[News Dive] Jung Cheong-rae: "The Party's Owner Is Its Members" ([뉴스 다이브] 정청래 “당의 주인은 당원”) &lt;&lt;br/&gt;&lt;em&gt;[News Dive] Jung Cheong-rae: "The Party's Owner Is Its Members"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;[News Dive] Jung Cheong-rae: "The Party's Owner Is Its Members" ([뉴스 다이브] 정청래 “당의 주인은 당원”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;[News Dive] Jung Cheong-rae: "The Party's Owner Is Its Members"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;교황에 방북 요청한 듯/“당의 주인은 당원”&lt;br/&gt;&lt;em&gt;Seems to have requested the Pope to visit North Korea/"The party's owner is its members"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주인은 집에 있어요.&lt;br/&gt;&lt;em&gt;The owner is at home.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주인은 개를 좋아해요.&lt;br/&gt;&lt;em&gt;The owner likes dogs.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/flagged/photo-1550946107-8842ae9426db?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvd25lciUyMGlzfGVufDB8fHx8MTc4MTYzMzE2MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주인은 (owner is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;[News Dive] Jung Cheong-rae: "The Party's Owner Is Its Members" ([뉴스 다이브] 정청래 “당의 주인은 당원”) &lt;&lt;br/&gt;&lt;em&gt;[News Dive] Jung Cheong-rae: "The Party's Owner Is Its Members"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;[News Dive] Jung Cheong-rae: "The Party's Owner Is Its Members" ([뉴스 다이브] 정청래 “당의 주인은 당원”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;[News Dive] Jung Cheong-rae: "The Party's Owner Is Its Members"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;교황에 방북 요청한 듯/“당의 주인은 당원”&lt;br/&gt;&lt;em&gt;Seems to have requested the Pope to visit North Korea/"The party's owner is its members"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;주인은 집에 있어요.&lt;br/&gt;&lt;em&gt;The owner is at home.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주인은 개를 좋아해요.&lt;br/&gt;&lt;em&gt;The owner likes dogs.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 03:06:05 +0900</pubDate><guid isPermaLink="false">vocab-096ef30e489cb555088f65b8f5bd02fc36d69ab4</guid><enclosure url="https://images.unsplash.com/flagged/photo-1550946107-8842ae9426db?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvd25lciUyMGlzfGVufDB8fHx8MTc4MTYzMzE2MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="110236" /><ns2:content url="https://images.unsplash.com/flagged/photo-1550946107-8842ae9426db?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvd25lciUyMGlzfGVufDB8fHx8MTc4MTYzMzE2MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/flagged/photo-1550946107-8842ae9426db?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvd25lciUyMGlzfGVufDB8fHx8MTc4MTYzMzE2MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>주인은</category></item><item><title>귀중한 – precious</title><link>urn:urn:vocab:귀중한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1529778873920-4da4926a72c2?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcmVjaW91c3xlbnwwfHx8fDE3ODE2MzE5MDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="귀중한 (precious)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;청소년들 앞에 펼쳐지는 수많은 상황과 감정들은 성인이 되면 고스란히 꺼내보기 어려운 아주 귀중한 글감인 셈이다&lt;br/&gt;&lt;em&gt;The countless situations and emotions that unfold before teenagers are a very precious writing material that is difficult to bring out intact when they become adults.&lt;/em&gt;&lt;/p&gt;
