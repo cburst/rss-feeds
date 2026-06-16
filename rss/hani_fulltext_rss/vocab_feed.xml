@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 14:22:23 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:33:34 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,95 @@
 
 
 
-  <item><title>일제히 – all at once, simultaneously</title><link>urn:urn:vocab:일제히</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>목적으로 – for the purpose of</title><link>urn:urn:vocab:목적으로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1646297463328-71b9e0bdfd06?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3IlMjB0aGUlMjBwdXJwb3NlJTIwb2Z8ZW58MHx8fHwxNzgxNjA5NjEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="목적으로 (for the purpose of)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한국항공우주산업(KAI) 경영에 참여하려는 목적으로 공격적 지분 확대에 나선 한화에어로스페이스가 16일 KAI 지분율을 9&lt;br/&gt;&lt;em&gt;Hanwha Aerospace, which has been aggressively expanding its stake with the aim of participating in the management of Korea Aerospace Industries (KAI), increased its stake in KAI to 9% on the 16th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이때 아이에게 교훈을 주려는 목적으로 평소 아이가 잘 못하는 부분만 연기하면 활동에 대한 반감이 오히려 커질 수 있다&lt;br/&gt;&lt;em&gt;At this time, if you only act out the parts the child is usually bad at with the purpose of teaching the child a lesson, it may actually increase their aversion to the activity.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사실은 누가 어느 목적으로 사용하는지에 따라 정답이 달라진다&lt;br/&gt;&lt;em&gt;In fact, the correct answer varies depending on who uses it and for what purpose.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;공부를 목적으로 도서관에 갔어요.&lt;br/&gt;&lt;em&gt;I went to the library for the purpose of studying.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;운동을 목적으로 헬스장에 다녀요.&lt;br/&gt;&lt;em&gt;I go to the gym for the purpose of exercising.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1646297463328-71b9e0bdfd06?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3IlMjB0aGUlMjBwdXJwb3NlJTIwb2Z8ZW58MHx8fHwxNzgxNjA5NjEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="목적으로 (for the purpose of)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한국항공우주산업(KAI) 경영에 참여하려는 목적으로 공격적 지분 확대에 나선 한화에어로스페이스가 16일 KAI 지분율을 9&lt;br/&gt;&lt;em&gt;Hanwha Aerospace, which has been aggressively expanding its stake with the aim of participating in the management of Korea Aerospace Industries (KAI), increased its stake in KAI to 9% on the 16th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이때 아이에게 교훈을 주려는 목적으로 평소 아이가 잘 못하는 부분만 연기하면 활동에 대한 반감이 오히려 커질 수 있다&lt;br/&gt;&lt;em&gt;At this time, if you only act out the parts the child is usually bad at with the purpose of teaching the child a lesson, it may actually increase their aversion to the activity.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사실은 누가 어느 목적으로 사용하는지에 따라 정답이 달라진다&lt;br/&gt;&lt;em&gt;In fact, the correct answer varies depending on who uses it and for what purpose.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;공부를 목적으로 도서관에 갔어요.&lt;br/&gt;&lt;em&gt;I went to the library for the purpose of studying.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;운동을 목적으로 헬스장에 다녀요.&lt;br/&gt;&lt;em&gt;I go to the gym for the purpose of exercising.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 16 Jun 2026 20:33:34 +0900</pubDate><guid isPermaLink="false">vocab-a2f5fdde593936fcf98d34be78b3d1c09f6c79d3</guid><enclosure url="https://images.unsplash.com/photo-1646297463328-71b9e0bdfd06?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3IlMjB0aGUlMjBwdXJwb3NlJTIwb2Z8ZW58MHx8fHwxNzgxNjA5NjEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="133215" /><ns2:content url="https://images.unsplash.com/photo-1646297463328-71b9e0bdfd06?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3IlMjB0aGUlMjBwdXJwb3NlJTIwb2Z8ZW58MHx8fHwxNzgxNjA5NjEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1646297463328-71b9e0bdfd06?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3IlMjB0aGUlMjBwdXJwb3NlJTIwb2Z8ZW58MHx8fHwxNzgxNjA5NjEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>목적으로</category></item><item><title>통신사 – telecommunications company</title><link>urn:urn:vocab:통신사</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533664488202-6af66d26c44a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWxlY29tbXVuaWNhdGlvbnMlMjBjb21wYW55fGVufDB8fHx8MTc4MTYwMjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="통신사 (telecommunications company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs (“반도체값 7배 폭등” 협력사 비명에…KT, 통신사 첫 ‘메모리값 선지급') &lt;&lt;br/&gt;&lt;em&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs (“반도체값 7배 폭등” 협력사 비명에…KT, 통신사 첫 ‘메모리값 선지급')&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Providing Pretext for Export Controls" (“백악관, 앤트로픽 접근 명단서 ‘중국 연계’ 한국 통신사 확인…수출통제 빌미”) &lt;&lt;br/&gt;&lt;em&gt;Providing Pretext for Export Controls" ("White House Confirms 'China-Linked' Korean Telecom on Anthropic Access List... Pretext for Export Controls")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;통신사 요금이 비싸요.&lt;br/&gt;&lt;em&gt;The telecommunication company's fees are expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 통신사를 바꿨어요.&lt;br/&gt;&lt;em&gt;I changed my telecommunication company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533664488202-6af66d26c44a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWxlY29tbXVuaWNhdGlvbnMlMjBjb21wYW55fGVufDB8fHx8MTc4MTYwMjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="통신사 (telecommunications company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs (“반도체값 7배 폭등” 협력사 비명에…KT, 통신사 첫 ‘메모리값 선지급') &lt;&lt;br/&gt;&lt;em&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs (“반도체값 7배 폭등” 협력사 비명에…KT, 통신사 첫 ‘메모리값 선지급')&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Providing Pretext for Export Controls" (“백악관, 앤트로픽 접근 명단서 ‘중국 연계’ 한국 통신사 확인…수출통제 빌미”) &lt;&lt;br/&gt;&lt;em&gt;Providing Pretext for Export Controls" ("White House Confirms 'China-Linked' Korean Telecom on Anthropic Access List... Pretext for Export Controls")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;통신사 요금이 비싸요.&lt;br/&gt;&lt;em&gt;The telecommunication company's fees are expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 통신사를 바꿨어요.&lt;br/&gt;&lt;em&gt;I changed my telecommunication company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 16 Jun 2026 18:30:22 +0900</pubDate><guid isPermaLink="false">vocab-e43cf5cab012af97396431e3cf47a9db52ff3af9</guid><enclosure url="https://images.unsplash.com/photo-1533664488202-6af66d26c44a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWxlY29tbXVuaWNhdGlvbnMlMjBjb21wYW55fGVufDB8fHx8MTc4MTYwMjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="85933" /><ns2:content url="https://images.unsplash.com/photo-1533664488202-6af66d26c44a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWxlY29tbXVuaWNhdGlvbnMlMjBjb21wYW55fGVufDB8fHx8MTc4MTYwMjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1533664488202-6af66d26c44a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWxlY29tbXVuaWNhdGlvbnMlMjBjb21wYW55fGVufDB8fHx8MTc4MTYwMjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>통신사</category></item><item><title>통신사 – telecommunications company</title><link>urn:urn:vocab:통신사</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533664488202-6af66d26c44a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWxlY29tbXVuaWNhdGlvbnMlMjBjb21wYW55fGVufDB8fHx8MTc4MTYwMjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="통신사 (telecommunications company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs (“반도체값 7배 폭등” 협력사 비명에…KT, 통신사 첫 ‘메모리값 선지급') &lt;&lt;br/&gt;&lt;em&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs (“반도체값 7배 폭등” 협력사 비명에…KT, 통신사 첫 ‘메모리값 선지급')&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Providing Pretext for Export Controls" (“백악관, 앤트로픽 접근 명단서 ‘중국 연계’ 한국 통신사 확인…수출통제 빌미”) &lt;&lt;br/&gt;&lt;em&gt;Providing Pretext for Export Controls" ("White House Confirms 'China-Linked' Korean Telecom in Anthropic Access List... Pretext for Export Controls")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;통신사에 전화했어요.&lt;br/&gt;&lt;em&gt;I called the telecommunication company.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;통신사 요금이 비싸요.&lt;br/&gt;&lt;em&gt;The telecommunication company's fees are expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1533664488202-6af66d26c44a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWxlY29tbXVuaWNhdGlvbnMlMjBjb21wYW55fGVufDB8fHx8MTc4MTYwMjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="통신사 (telecommunications company)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs (“반도체값 7배 폭등” 협력사 비명에…KT, 통신사 첫 ‘메모리값 선지급') &lt;&lt;br/&gt;&lt;em&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs (“반도체값 7배 폭등” 협력사 비명에…KT, 통신사 첫 ‘메모리값 선지급')&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;"Semiconductor Prices Soar 7-Fold" — Suppliers Cry Out; KT Becomes First Telecom to Prepay Memory Costs&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Providing Pretext for Export Controls" (“백악관, 앤트로픽 접근 명단서 ‘중국 연계’ 한국 통신사 확인…수출통제 빌미”) &lt;&lt;br/&gt;&lt;em&gt;Providing Pretext for Export Controls" ("White House Confirms 'China-Linked' Korean Telecom in Anthropic Access List... Pretext for Export Controls")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;통신사에 전화했어요.&lt;br/&gt;&lt;em&gt;I called the telecommunication company.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;통신사 요금이 비싸요.&lt;br/&gt;&lt;em&gt;The telecommunication company's fees are expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 16 Jun 2026 18:30:20 +0900</pubDate><guid isPermaLink="false">vocab-4d06a916fe8c5ebb4343ec0adb97db84b159770c</guid><enclosure url="https://images.unsplash.com/photo-1533664488202-6af66d26c44a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWxlY29tbXVuaWNhdGlvbnMlMjBjb21wYW55fGVufDB8fHx8MTc4MTYwMjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="85933" /><ns2:content url="https://images.unsplash.com/photo-1533664488202-6af66d26c44a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWxlY29tbXVuaWNhdGlvbnMlMjBjb21wYW55fGVufDB8fHx8MTc4MTYwMjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1533664488202-6af66d26c44a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0ZWxlY29tbXVuaWNhdGlvbnMlMjBjb21wYW55fGVufDB8fHx8MTc4MTYwMjIxOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>통신사</category></item><item><title>취사병 – cook (military)</title><link>urn:urn:vocab:취사병</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1736240843906-f9e8b782112e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29rJTIwJTI4bWlsaXRhcnklMjl8ZW58MHx8fHwxNzgxNTk0NzUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="취사병 (cook (military))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'Cook Sergeant' Burgers and Soy Sauce Braised Chicken with Noodles Hit Convenience Store Shelves (‘취사병’ 속 군대리아·춘장 찜닭 편의점 간편식으로 나온다) &lt;&lt;br/&gt;&lt;em&gt;'Cook Sergeant' Burgers and Soy Sauce Braised Chicken with Noodles Hit Convenience Store Shelves&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;편의점 씨유(CU)에서 출시된 ‘취사병 전설이 되다’ 간편식·도시락&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Convenience store CU launches 'Cook Sergeant: Become a Legend' ready meals and lunchboxes&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(티브이엔(tvN) 드라마 ‘취사병 전설이 되다’에서 화제를 모은 음식들이 편의점에서 찾을 수 있게 된다&lt;br/&gt;&lt;em&gt;Foods that became a hot topic in the tvN drama 'Cook Sergeant: Become a Legend' can now be found at convenience stores&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;취사병이 밥을 합니다.&lt;br/&gt;&lt;em&gt;The cook prepares the meal.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 취사병입니다.&lt;br/&gt;&lt;em&gt;I am a cook.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1736240843906-f9e8b782112e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29rJTIwJTI4bWlsaXRhcnklMjl8ZW58MHx8fHwxNzgxNTk0NzUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="취사병 (cook (military))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'Cook Sergeant' Burgers and Soy Sauce Braised Chicken with Noodles Hit Convenience Store Shelves (‘취사병’ 속 군대리아·춘장 찜닭 편의점 간편식으로 나온다) &lt;&lt;br/&gt;&lt;em&gt;'Cook Sergeant' Burgers and Soy Sauce Braised Chicken with Noodles Hit Convenience Store Shelves&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;편의점 씨유(CU)에서 출시된 ‘취사병 전설이 되다’ 간편식·도시락&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;Convenience store CU launches 'Cook Sergeant: Become a Legend' ready meals and lunchboxes&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(티브이엔(tvN) 드라마 ‘취사병 전설이 되다’에서 화제를 모은 음식들이 편의점에서 찾을 수 있게 된다&lt;br/&gt;&lt;em&gt;Foods that became a hot topic in the tvN drama 'Cook Sergeant: Become a Legend' can now be found at convenience stores&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;취사병이 밥을 합니다.&lt;br/&gt;&lt;em&gt;The cook prepares the meal.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 취사병입니다.&lt;br/&gt;&lt;em&gt;I am a cook.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 16 Jun 2026 16:25:55 +0900</pubDate><guid isPermaLink="false">vocab-16fd9fe0d72df576298fdf633eef0849d20689b6</guid><enclosure url="https://images.unsplash.com/photo-1736240843906-f9e8b782112e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29rJTIwJTI4bWlsaXRhcnklMjl8ZW58MHx8fHwxNzgxNTk0NzUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="163733" /><ns2:content url="https://images.unsplash.com/photo-1736240843906-f9e8b782112e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29rJTIwJTI4bWlsaXRhcnklMjl8ZW58MHx8fHwxNzgxNTk0NzUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1736240843906-f9e8b782112e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb29rJTIwJTI4bWlsaXRhcnklMjl8ZW58MHx8fHwxNzgxNTk0NzUxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>취사병</category></item><item><title>일제히 – all at once, simultaneously</title><link>urn:urn:vocab:일제히</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1758599880100-55c4315d7f1d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbGwlMjBhdCUyMG9uY2UlMkMlMjBzaW11bHRhbmVvdXNseXxlbnwwfHx8fDE3ODE1ODczMzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="일제히 (all at once, simultaneously)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(신용평가사들이 법원에 기업회생절차 개시를 전격 신청한 중앙그룹(JTBC·중앙일보·콘텐트리중앙 등) 일부 계열사의 무보증 회사채, 기업어음, 전자단기사채 신용등급을 일제히 C등급으로 하향하고 등급감시대상(하향검토)에 올렸다&lt;br/&gt;&lt;em&gt;Credit rating agencies have uniformly downgraded the unsecured corporate bonds, commercial papers, and electronic short-term bonds of some affiliates of the JoongAng Group (JTBC, JoongAng Ilbo, Contentree JoongAng, etc.), which recently filed for corporate rehabilitation procedures with the court, to C ratings and placed them on credit watch with negative implications.&lt;/em&gt;&lt;/p&gt;
