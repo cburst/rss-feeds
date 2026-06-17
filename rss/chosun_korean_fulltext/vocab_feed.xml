@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 05:09:47 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:21:18 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,95 @@
 
 
 
-  <item><title>선거관리 – election management</title><link>urn:urn:vocab:선거관리</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>어디서든 – anywhere</title><link>urn:urn:vocab:어디서든</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1658597609767-bfdbca76a492?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnl3aGVyZXxlbnwwfHx8fDE3ODE2NjI4NzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어디서든 (anywhere)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사전투표와 본투표 구분 없이 어디서든 이틀간 투표할 수 있게 하고, 투표용지는 현장에서 출력·발급하자는 것이다&lt;br/&gt;&lt;em&gt;It is to allow voting anywhere for two days without distinction between early voting and main voting, and to print and issue ballots on-site.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전 세계 R&amp;amp;D를 돌아 다녔고, 밀리초를 깎아내는 천재들은 어디서든 찾을 수 있었지만, 코벳을 읽는 엔지니어는 에반이 처음이었다&lt;br/&gt;&lt;em&gt;I traveled around the world's R&amp;D, and could find geniuses who shave off milliseconds anywhere, but Evan was the first engineer who read Corbett.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대신 투표를 총 이틀간 실시하고 유권자는 전국 어디서든 투표할 수 있게 하자는 것이다&lt;br/&gt;&lt;em&gt;Instead, it is to hold voting for a total of two days and allow voters to vote anywhere in the country.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어디서든 만날 수 있어요.&lt;br/&gt;&lt;em&gt;You can meet anywhere.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;어디서든 공부할 수 있어요.&lt;br/&gt;&lt;em&gt;You can study anywhere.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1658597609767-bfdbca76a492?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnl3aGVyZXxlbnwwfHx8fDE3ODE2NjI4NzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어디서든 (anywhere)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사전투표와 본투표 구분 없이 어디서든 이틀간 투표할 수 있게 하고, 투표용지는 현장에서 출력·발급하자는 것이다&lt;br/&gt;&lt;em&gt;It is to allow voting anywhere for two days without distinction between early voting and main voting, and to print and issue ballots on-site.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전 세계 R&amp;amp;D를 돌아 다녔고, 밀리초를 깎아내는 천재들은 어디서든 찾을 수 있었지만, 코벳을 읽는 엔지니어는 에반이 처음이었다&lt;br/&gt;&lt;em&gt;I traveled around the world's R&amp;D, and could find geniuses who shave off milliseconds anywhere, but Evan was the first engineer who read Corbett.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대신 투표를 총 이틀간 실시하고 유권자는 전국 어디서든 투표할 수 있게 하자는 것이다&lt;br/&gt;&lt;em&gt;Instead, it is to hold voting for a total of two days and allow voters to vote anywhere in the country.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;어디서든 만날 수 있어요.&lt;br/&gt;&lt;em&gt;You can meet anywhere.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;어디서든 공부할 수 있어요.&lt;br/&gt;&lt;em&gt;You can study anywhere.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 11:21:18 +0900</pubDate><guid isPermaLink="false">vocab-da03c874e7b58410a9f6c2492a6b69d4a705ebe2</guid><enclosure url="https://images.unsplash.com/photo-1658597609767-bfdbca76a492?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnl3aGVyZXxlbnwwfHx8fDE3ODE2NjI4NzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="107943" /><ns2:content url="https://images.unsplash.com/photo-1658597609767-bfdbca76a492?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnl3aGVyZXxlbnwwfHx8fDE3ODE2NjI4NzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1658597609767-bfdbca76a492?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnl3aGVyZXxlbnwwfHx8fDE3ODE2NjI4NzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>어디서든</category></item><item><title>장애물 – obstacle</title><link>urn:urn:vocab:장애물</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530677003768-e25c2b121303?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvYnN0YWNsZXxlbnwwfHx8fDE3ODE2NjIyNjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="장애물 (obstacle)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Civilian Control Line to Move North by Average 2km…23 Obstacles Blocking Enemy Armored Units to Be Removed (민통선 평균 2㎞ 북상…적 기갑부대 막는 장애물 23개 철거) &lt;&lt;br/&gt;&lt;em&gt;Civilian Control Line to Move North by Average 2km…23 Obstacles Blocking Enemy Armored Units to Be Removed&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이와 함께 ‘필요 없다’고 판단한 군사장애물 23개도 내년부터 철거에 나선다&lt;br/&gt;&lt;em&gt;In addition, 23 military obstacles deemed 'unnecessary' will be removed starting next year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국방부는 이와 함께 불필요한 군사장애물 철거도 추진한다고 밝혔다&lt;br/&gt;&lt;em&gt;The Ministry of National Defense also announced that it will push for the removal of unnecessary military obstacles.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;장애물이 길에 있어요.&lt;br/&gt;&lt;em&gt;There is an obstacle on the road.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 장애물을 넘었어요.&lt;br/&gt;&lt;em&gt;I got over that obstacle.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530677003768-e25c2b121303?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvYnN0YWNsZXxlbnwwfHx8fDE3ODE2NjIyNjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="장애물 (obstacle)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Civilian Control Line to Move North by Average 2km…23 Obstacles Blocking Enemy Armored Units to Be Removed (민통선 평균 2㎞ 북상…적 기갑부대 막는 장애물 23개 철거) &lt;&lt;br/&gt;&lt;em&gt;Civilian Control Line to Move North by Average 2km…23 Obstacles Blocking Enemy Armored Units to Be Removed&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이와 함께 ‘필요 없다’고 판단한 군사장애물 23개도 내년부터 철거에 나선다&lt;br/&gt;&lt;em&gt;In addition, 23 military obstacles deemed 'unnecessary' will be removed starting next year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국방부는 이와 함께 불필요한 군사장애물 철거도 추진한다고 밝혔다&lt;br/&gt;&lt;em&gt;The Ministry of National Defense also announced that it will push for the removal of unnecessary military obstacles.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;장애물이 길에 있어요.&lt;br/&gt;&lt;em&gt;There is an obstacle on the road.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 장애물을 넘었어요.&lt;br/&gt;&lt;em&gt;I got over that obstacle.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 11:11:11 +0900</pubDate><guid isPermaLink="false">vocab-54b2c3a30e50916dcb44570fac047ad55968dacd</guid><enclosure url="https://images.unsplash.com/photo-1530677003768-e25c2b121303?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvYnN0YWNsZXxlbnwwfHx8fDE3ODE2NjIyNjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="166927" /><ns2:content url="https://images.unsplash.com/photo-1530677003768-e25c2b121303?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvYnN0YWNsZXxlbnwwfHx8fDE3ODE2NjIyNjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1530677003768-e25c2b121303?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvYnN0YWNsZXxlbnwwfHx8fDE3ODE2NjIyNjd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>장애물</category></item><item><title>선관위가 – election commission (subject)</title><link>urn:urn:vocab:선관위가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGNvbW1pc3Npb24lMjAlMjhzdWJqZWN0JTI5fGVufDB8fHx8MTc4MTY1NTQ5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선관위가 (election commission (subject))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (문상부 전 중앙선관위 상임위원은 “선관위가 국민 신뢰를 회복하려면 조직 운영 체계를 바꿔야 할 뿐 아니라 투표·개표 시스템 전반을 재설계해야 한다”고 했다&lt;br/&gt;&lt;em&gt;"Former standing commissioner of the National Election Commission, Moon Sang-bu, said, 'For the election commission to regain public trust, it must not only change its organizational operation system but also redesign the entire voting and counting system.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그간 수차례 선거 부실 관리 문제가 있었는데도, 선관위가 선거 준비보다는 혜택 챙기기에 급급했다는 지적이 나온다&lt;br/&gt;&lt;em&gt;Despite repeated problems with poor election management, there are criticisms that the election commission has been more focused on securing benefits than on preparing for elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(선관위가 16일 국민의힘 김은혜 의원실에 제출한 자료를 보면, 선관위는 지난달 26일 훈장·포장이나 중앙선관위원장 표창을 받은 공무원에 대해서는 근속 승진 기간을 1년 단축해 줄 수 있도록 하는 내용의 개정 선거관리위원회 공무원 규칙을 공포·시행했다&lt;br/&gt;&lt;em&gt;(According to data submitted by the National Election Commission to People Power Party lawmaker Kim Eun-hye on the 16th, the commission promulgated and enforced a revised election commission civil servant rule on the 26th of last month that allows civil servants who have received orders, medals, or commendations from the chairperson of the National Election Commission to have their period for promotion by seniority shortened by one year.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선관위가 투표를 관리해요.&lt;br/&gt;&lt;em&gt;The election commission manages the voting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선관위가 결과를 발표해요.&lt;br/&gt;&lt;em&gt;The election commission announces the results.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGNvbW1pc3Npb24lMjAlMjhzdWJqZWN0JTI5fGVufDB8fHx8MTc4MTY1NTQ5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선관위가 (election commission (subject))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;” (문상부 전 중앙선관위 상임위원은 “선관위가 국민 신뢰를 회복하려면 조직 운영 체계를 바꿔야 할 뿐 아니라 투표·개표 시스템 전반을 재설계해야 한다”고 했다&lt;br/&gt;&lt;em&gt;"Former standing commissioner of the National Election Commission, Moon Sang-bu, said, 'For the election commission to regain public trust, it must not only change its organizational operation system but also redesign the entire voting and counting system.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그간 수차례 선거 부실 관리 문제가 있었는데도, 선관위가 선거 준비보다는 혜택 챙기기에 급급했다는 지적이 나온다&lt;br/&gt;&lt;em&gt;Despite repeated problems with poor election management, there are criticisms that the election commission has been more focused on securing benefits than on preparing for elections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(선관위가 16일 국민의힘 김은혜 의원실에 제출한 자료를 보면, 선관위는 지난달 26일 훈장·포장이나 중앙선관위원장 표창을 받은 공무원에 대해서는 근속 승진 기간을 1년 단축해 줄 수 있도록 하는 내용의 개정 선거관리위원회 공무원 규칙을 공포·시행했다&lt;br/&gt;&lt;em&gt;(According to data submitted by the National Election Commission to People Power Party lawmaker Kim Eun-hye on the 16th, the commission promulgated and enforced a revised election commission civil servant rule on the 26th of last month that allows civil servants who have received orders, medals, or commendations from the chairperson of the National Election Commission to have their period for promotion by seniority shortened by one year.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;선관위가 투표를 관리해요.&lt;br/&gt;&lt;em&gt;The election commission manages the voting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;선관위가 결과를 발표해요.&lt;br/&gt;&lt;em&gt;The election commission announces the results.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 09:18:20 +0900</pubDate><guid isPermaLink="false">vocab-5dad213f7c3b23b7e9a50bf8f89a28649d85a389</guid><enclosure url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGNvbW1pc3Npb24lMjAlMjhzdWJqZWN0JTI5fGVufDB8fHx8MTc4MTY1NTQ5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="23486" /><ns2:content url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGNvbW1pc3Npb24lMjAlMjhzdWJqZWN0JTI5fGVufDB8fHx8MTc4MTY1NTQ5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMGNvbW1pc3Npb24lMjAlMjhzdWJqZWN0JTI5fGVufDB8fHx8MTc4MTY1NTQ5N3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>선관위가</category></item><item><title>이번이 – this is</title><link>urn:urn:vocab:이번이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554497342-902a4f8da8ed?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwaXN8ZW58MHx8fHwxNzgxNjU0NTc0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이번이 (this is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리 대통령의 G7 정상회의 참석은 이번이 여섯 번째다&lt;br/&gt;&lt;em&gt;This is the sixth time our president has attended the G7 summit.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 대통령의 G7 정상회의 참석은 이번이 여섯 번째다&lt;br/&gt;&lt;em&gt;This is the sixth time our president has attended the G7 summit.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서버가 이번이 몇 번째야&lt;br/&gt;&lt;em&gt;How many times has the server been down this time?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번이 처음이에요.&lt;br/&gt;&lt;em&gt;This is the first time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번이 마지막이에요.&lt;br/&gt;&lt;em&gt;This is the last time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1554497342-902a4f8da8ed?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwaXN8ZW58MHx8fHwxNzgxNjU0NTc0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="이번이 (this is)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리 대통령의 G7 정상회의 참석은 이번이 여섯 번째다&lt;br/&gt;&lt;em&gt;This is the sixth time our president has attended the G7 summit.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 대통령의 G7 정상회의 참석은 이번이 여섯 번째다&lt;br/&gt;&lt;em&gt;This is the sixth time our president has attended the G7 summit.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;서버가 이번이 몇 번째야&lt;br/&gt;&lt;em&gt;How many times has the server been down this time?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번이 처음이에요.&lt;br/&gt;&lt;em&gt;This is the first time.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번이 마지막이에요.&lt;br/&gt;&lt;em&gt;This is the last time.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 09:02:57 +0900</pubDate><guid isPermaLink="false">vocab-e7688120aa7f9d377871cbafbaf0cc75c46d4d4b</guid><enclosure url="https://images.unsplash.com/photo-1554497342-902a4f8da8ed?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwaXN8ZW58MHx8fHwxNzgxNjU0NTc0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="47073" /><ns2:content url="https://images.unsplash.com/photo-1554497342-902a4f8da8ed?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwaXN8ZW58MHx8fHwxNzgxNjU0NTc0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1554497342-902a4f8da8ed?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGlzJTIwaXN8ZW58MHx8fHwxNzgxNjU0NTc0fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>이번이</category></item><item><title>선거관리 – election management</title><link>urn:urn:vocab:선거관리</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdGlvbiUyMG1hbmFnZW1lbnR8ZW58MHx8fHwxNzgxNjQwNTgxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선거관리 (election management)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;” (더불어민주당은 16일 선거 관리 제도 개혁과 관련해 “중앙선거관리위원회를 상임 체제로 개편하는 등 개혁을 강력히 추진하겠다”며 “개헌도 검토하겠다”고 했다&lt;br/&gt;&lt;em&gt;" (The Democratic Party of Korea said on the 16th regarding election management system reform, 'We will strongly push for reforms such as reorganizing the National Election Commission into a standing system,' and added, 'We will also consider constitutional amendments.'&lt;/em&gt;&lt;/p&gt;
