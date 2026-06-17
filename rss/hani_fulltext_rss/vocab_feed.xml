@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 17:22:10 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:29:55 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,95 @@
 
 
 
-  <item><title>취약계층 – vulnerable class</title><link>urn:urn:vocab:취약계층</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>정보기술 – information technology</title><link>urn:urn:vocab:정보기술</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591550890804-be953fd22999?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTAlOTUlRUIlQjMlQjQlRUElQjglQjAlRUMlODglQTB8ZW58MHx8fHwxNzgxNjk5MzkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정보기술 (information technology)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지원 직무 분야는 반도체 설계, 소자, 연구개발(R&amp;amp;D) 공정, 제품 엔지니어링, 정보기술(IT) 등이다&lt;br/&gt;&lt;em&gt;The fields of supported job positions include semiconductor design, devices, R&amp;D process, product engineering, and information technology (IT).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정보기술(IT) 업종 임금상승에 따른 물가 파급 효과에 대해선 “통상적인 경우 특별급여 상승의 파급 영향은 제한적”인 반면, “특별급여가 일부 사업체에 집중되어 지급되는 경우 물가 상방 압력이 커지는 것으로 분석됐다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (Regarding the inflationary effect of wage increases in the information technology (IT) industry, it was stated that 'under normal circumstances, the ripple effect of special bonus increases is limited,' while 'when special bonuses are concentrated in certain businesses, it is analyzed that upward pressure on prices increases.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (한은은 “이런 분석 결과를 고려하면, 내년 중 예정된 정보기술 부문 일부 대기업의 큰 규모의 성과급 지급은 향후 물가 상방 압력을 높이는 요인으로 작용할 수 있음을 시사한다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (The Bank of Korea stated, 'Considering these analysis results, the large-scale performance bonuses scheduled for some major companies in the information technology sector next year suggest that they could act as a factor increasing upward pressure on prices in the future.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정보기술은 중요합니다.&lt;br/&gt;&lt;em&gt;Information technology is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 정보기술을 공부합니다.&lt;br/&gt;&lt;em&gt;I study information technology.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1591550890804-be953fd22999?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTAlOTUlRUIlQjMlQjQlRUElQjglQjAlRUMlODglQTB8ZW58MHx8fHwxNzgxNjk5MzkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정보기술 (information technology)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지원 직무 분야는 반도체 설계, 소자, 연구개발(R&amp;amp;D) 공정, 제품 엔지니어링, 정보기술(IT) 등이다&lt;br/&gt;&lt;em&gt;The fields of supported job positions include semiconductor design, devices, R&amp;D process, product engineering, and information technology (IT).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정보기술(IT) 업종 임금상승에 따른 물가 파급 효과에 대해선 “통상적인 경우 특별급여 상승의 파급 영향은 제한적”인 반면, “특별급여가 일부 사업체에 집중되어 지급되는 경우 물가 상방 압력이 커지는 것으로 분석됐다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (Regarding the inflationary effect of wage increases in the information technology (IT) industry, it was stated that 'under normal circumstances, the ripple effect of special bonus increases is limited,' while 'when special bonuses are concentrated in certain businesses, it is analyzed that upward pressure on prices increases.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (한은은 “이런 분석 결과를 고려하면, 내년 중 예정된 정보기술 부문 일부 대기업의 큰 규모의 성과급 지급은 향후 물가 상방 압력을 높이는 요인으로 작용할 수 있음을 시사한다”고 밝혔다&lt;br/&gt;&lt;em&gt;" (The Bank of Korea stated, 'Considering these analysis results, the large-scale performance bonuses scheduled for some major companies in the information technology sector next year suggest that they could act as a factor increasing upward pressure on prices in the future.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;정보기술은 중요합니다.&lt;br/&gt;&lt;em&gt;Information technology is important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 정보기술을 공부합니다.&lt;br/&gt;&lt;em&gt;I study information technology.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 21:29:54 +0900</pubDate><guid isPermaLink="false">vocab-2abefd1fa02ccefcf03ef02dba22965a698619f2</guid><enclosure url="https://images.unsplash.com/photo-1591550890804-be953fd22999?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTAlOTUlRUIlQjMlQjQlRUElQjglQjAlRUMlODglQTB8ZW58MHx8fHwxNzgxNjk5MzkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="285964" /><ns2:content url="https://images.unsplash.com/photo-1591550890804-be953fd22999?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTAlOTUlRUIlQjMlQjQlRUElQjglQjAlRUMlODglQTB8ZW58MHx8fHwxNzgxNjk5MzkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1591550890804-be953fd22999?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUMlQTAlOTUlRUIlQjMlQjQlRUElQjglQjAlRUMlODglQTB8ZW58MHx8fHwxNzgxNjk5MzkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>정보기술</category></item><item><title>홈쇼핑 – home shopping</title><link>urn:urn:vocab:홈쇼핑</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713646778050-2213b4140e6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21lJTIwc2hvcHBpbmd8ZW58MHx8fHwxNzgxNjkyNDIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="홈쇼핑 (home shopping)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Home shopping reaches beyond TV as viewership decline limits growth (시청자 감소로 성장 한계…TV 밖으로 고객 찾아나선 홈쇼핑) &lt;&lt;br/&gt;&lt;em&gt;Home shopping reaches beyond TV as viewership decline limits growth&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Home shopping reaches beyond TV as viewership decline limits growth (시청자 감소로 성장 한계…TV 밖으로 고객 찾아나선 홈쇼핑)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Home shopping reaches beyond TV as viewership decline limits growth&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;지에스리테일이 데이터홈쇼핑 지에스마이샵과 슈퍼마켓 지에스더프레시에서 ‘에어클립 프레시’ 밀폐용기를 판매한다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;GS Retail sells 'Airclip Fresh' airtight containers at data home shopping GS My Shop and supermarket GS The Fresh&lt;/figcaption&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;홈쇼핑에서 옷을 샀어요.&lt;br/&gt;&lt;em&gt;I bought clothes from home shopping.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;홈쇼핑이 정말 편리해요.&lt;br/&gt;&lt;em&gt;Home shopping is really convenient.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1713646778050-2213b4140e6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21lJTIwc2hvcHBpbmd8ZW58MHx8fHwxNzgxNjkyNDIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="홈쇼핑 (home shopping)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Home shopping reaches beyond TV as viewership decline limits growth (시청자 감소로 성장 한계…TV 밖으로 고객 찾아나선 홈쇼핑) &lt;&lt;br/&gt;&lt;em&gt;Home shopping reaches beyond TV as viewership decline limits growth&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Home shopping reaches beyond TV as viewership decline limits growth (시청자 감소로 성장 한계…TV 밖으로 고객 찾아나선 홈쇼핑)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Home shopping reaches beyond TV as viewership decline limits growth&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;지에스리테일이 데이터홈쇼핑 지에스마이샵과 슈퍼마켓 지에스더프레시에서 ‘에어클립 프레시’ 밀폐용기를 판매한다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;GS Retail sells 'Airclip Fresh' airtight containers at data home shopping GS My Shop and supermarket GS The Fresh&lt;/figcaption&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;홈쇼핑에서 옷을 샀어요.&lt;br/&gt;&lt;em&gt;I bought clothes from home shopping.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;홈쇼핑이 정말 편리해요.&lt;br/&gt;&lt;em&gt;Home shopping is really convenient.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 19:33:44 +0900</pubDate><guid isPermaLink="false">vocab-4d90d1c7e77ae93992e419c50741508fcf14c8b8</guid><enclosure url="https://images.unsplash.com/photo-1713646778050-2213b4140e6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21lJTIwc2hvcHBpbmd8ZW58MHx8fHwxNzgxNjkyNDIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="70244" /><ns2:content url="https://images.unsplash.com/photo-1713646778050-2213b4140e6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21lJTIwc2hvcHBpbmd8ZW58MHx8fHwxNzgxNjkyNDIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1713646778050-2213b4140e6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob21lJTIwc2hvcHBpbmd8ZW58MHx8fHwxNzgxNjkyNDIwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>홈쇼핑</category></item><item><title>전기로 – electric furnace</title><link>urn:urn:vocab:전기로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1697698532602-ccf880036281?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMGZ1cm5hY2V8ZW58MHx8fHwxNzgxNjkxOTQwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전기로 (electric furnace)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서울·경기 지역의 하루 출퇴근 거리를 20∼30㎞로 가정하면 일주일에 두 차례가량만 충전해도 평일 이동을 대부분 전기로 소화할 수 있는 셈이다&lt;br/&gt;&lt;em&gt;Assuming a daily commute distance of 20-30 km in the Seoul/Gyeonggi area, charging only about twice a week would cover most weekday travel with electricity.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;17일 포스코 광양제철소 전기로 공장 준공식에 김민석 국무총리(오른쪽)와 장인화 포스코그룹 회장이 입장하고 있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;On the 17th, Prime Minister Kim Min-seok (right) and POSCO Group Chairman Jang In-hwa enter the completion ceremony of the electric arc furnace plant at POSCO's Gwangyang Steelworks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고로와 전기로를 함께 운영해 탄소 저감에 나서고, 제철소의 가스 생산 기반을 활용해 반도체·우주항공용 소재 신사업도 본격화한다&lt;br/&gt;&lt;em&gt;By operating both blast furnaces and electric arc furnaces together to reduce carbon emissions, and utilizing the steel mill's gas production infrastructure, the company will also fully launch new businesses in semiconductor and aerospace materials.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전기로가 뜨거워요.&lt;br/&gt;&lt;em&gt;The electric furnace is hot.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전기로를 사용해요.&lt;br/&gt;&lt;em&gt;I use the electric furnace.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1697698532602-ccf880036281?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMGZ1cm5hY2V8ZW58MHx8fHwxNzgxNjkxOTQwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전기로 (electric furnace)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;서울·경기 지역의 하루 출퇴근 거리를 20∼30㎞로 가정하면 일주일에 두 차례가량만 충전해도 평일 이동을 대부분 전기로 소화할 수 있는 셈이다&lt;br/&gt;&lt;em&gt;Assuming a daily commute distance of 20-30 km in the Seoul/Gyeonggi area, charging only about twice a week would cover most weekday travel with electricity.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;17일 포스코 광양제철소 전기로 공장 준공식에 김민석 국무총리(오른쪽)와 장인화 포스코그룹 회장이 입장하고 있다&lt;br/&gt;&lt;em&gt;jpg" alt=""&gt;&lt;figcaption&gt;On the 17th, Prime Minister Kim Min-seok (right) and POSCO Group Chairman Jang In-hwa enter the completion ceremony of the electric arc furnace plant at POSCO's Gwangyang Steelworks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;고로와 전기로를 함께 운영해 탄소 저감에 나서고, 제철소의 가스 생산 기반을 활용해 반도체·우주항공용 소재 신사업도 본격화한다&lt;br/&gt;&lt;em&gt;By operating both blast furnaces and electric arc furnaces together to reduce carbon emissions, and utilizing the steel mill's gas production infrastructure, the company will also fully launch new businesses in semiconductor and aerospace materials.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;전기로가 뜨거워요.&lt;br/&gt;&lt;em&gt;The electric furnace is hot.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;전기로를 사용해요.&lt;br/&gt;&lt;em&gt;I use the electric furnace.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 19:25:44 +0900</pubDate><guid isPermaLink="false">vocab-a36269638674a332d0dffbcdec4908441c9242a2</guid><enclosure url="https://images.unsplash.com/photo-1697698532602-ccf880036281?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMGZ1cm5hY2V8ZW58MHx8fHwxNzgxNjkxOTQwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="80195" /><ns2:content url="https://images.unsplash.com/photo-1697698532602-ccf880036281?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMGZ1cm5hY2V8ZW58MHx8fHwxNzgxNjkxOTQwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1697698532602-ccf880036281?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMGZ1cm5hY2V8ZW58MHx8fHwxNzgxNjkxOTQwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>전기로</category></item><item><title>오르고 – rising</title><link>urn:urn:vocab:오르고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570997491915-47ade51fed9f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaXNpbmd8ZW58MHx8fHwxNzgxNjg1MDI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="오르고 (rising)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;업계에선 주요 메모리 업체들이 인공지능(AI)용 고대역폭메모리(HBM)와 차세대 메모리 생산에 집중해 LPDDR4 등 기존 메모리 공급을 줄였으나 수요는 유지되면서, 가격이 오르고 수급 경쟁도 심화됐다고 본다&lt;br/&gt;&lt;em&gt;In the industry, it is believed that major memory companies have focused on producing high-bandwidth memory (HBM) for artificial intelligence (AI) and next-generation memory, reducing supply of existing memory such as LPDDR4, while demand has remained, leading to price increases and intensified supply competition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번 시즌엔 농인과 청인 배우가 함께 무대에 오르고 수어와 음성 대사가 공존하는 수어연극으로 진행된다&lt;br/&gt;&lt;em&gt;This season, it will be performed as a sign language play where deaf and hearing actors share the stage, and sign language and spoken dialogue coexist.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 시즌은 농인과 청인 배우가 함께 무대에 오르고 수어와 음성 대사가 공존하는 수어연극으로 진행된다&lt;br/&gt;&lt;em&gt;(This season will be performed as a sign language play where deaf and hearing actors share the stage, and sign language and spoken dialogue coexist.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;해가 오르고 있어요.&lt;br/&gt;&lt;em&gt;The sun is rising.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;산에 오르고 싶어요.&lt;br/&gt;&lt;em&gt;I want to climb the mountain.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1570997491915-47ade51fed9f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaXNpbmd8ZW58MHx8fHwxNzgxNjg1MDI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="오르고 (rising)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;업계에선 주요 메모리 업체들이 인공지능(AI)용 고대역폭메모리(HBM)와 차세대 메모리 생산에 집중해 LPDDR4 등 기존 메모리 공급을 줄였으나 수요는 유지되면서, 가격이 오르고 수급 경쟁도 심화됐다고 본다&lt;br/&gt;&lt;em&gt;In the industry, it is believed that major memory companies have focused on producing high-bandwidth memory (HBM) for artificial intelligence (AI) and next-generation memory, reducing supply of existing memory such as LPDDR4, while demand has remained, leading to price increases and intensified supply competition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이번 시즌엔 농인과 청인 배우가 함께 무대에 오르고 수어와 음성 대사가 공존하는 수어연극으로 진행된다&lt;br/&gt;&lt;em&gt;This season, it will be performed as a sign language play where deaf and hearing actors share the stage, and sign language and spoken dialogue coexist.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이번 시즌은 농인과 청인 배우가 함께 무대에 오르고 수어와 음성 대사가 공존하는 수어연극으로 진행된다&lt;br/&gt;&lt;em&gt;(This season will be performed as a sign language play where deaf and hearing actors share the stage, and sign language and spoken dialogue coexist.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;해가 오르고 있어요.&lt;br/&gt;&lt;em&gt;The sun is rising.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;산에 오르고 싶어요.&lt;br/&gt;&lt;em&gt;I want to climb the mountain.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 17:30:34 +0900</pubDate><guid isPermaLink="false">vocab-bcbecd5add52f8f6407e901f4f0c42ed1bda21fb</guid><enclosure url="https://images.unsplash.com/photo-1570997491915-47ade51fed9f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaXNpbmd8ZW58MHx8fHwxNzgxNjg1MDI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="29124" /><ns2:content url="https://images.unsplash.com/photo-1570997491915-47ade51fed9f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaXNpbmd8ZW58MHx8fHwxNzgxNjg1MDI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1570997491915-47ade51fed9f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyaXNpbmd8ZW58MHx8fHwxNzgxNjg1MDI5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>오르고</category></item><item><title>취약계층 – vulnerable class</title><link>urn:urn:vocab:취약계층</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1524178232363-1fb2b075b655?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx2dWxuZXJhYmxlJTIwY2xhc3N8ZW58MHx8fHwxNzgxNjg0NTI2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="취약계층 (vulnerable class)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;3 Billion Won in Participatory Budget Submitted (취약계층 AI 구독료·법률 지원…국민참여예산 3813억원 제출) &lt;&lt;br/&gt;&lt;em&gt;3 Billion Won in Participatory Budget Submitted (AI subscription fees for vulnerable groups, legal support... 381.3 billion won in national participatory budget submitted) &lt;&lt;/em&gt;&lt;/p&gt;

@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 17:22:14 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:30:02 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,91 @@
 
 
 
-  <item><title>달랐다 – was different</title><link>urn:urn:vocab:달랐다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>가입한 – joined</title><link>urn:urn:vocab:가입한</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb2luZWR8ZW58MHx8fHwxNzgxNjk5Mzk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가입한 (joined)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (무소속 한동훈 의원이 국민의힘 옛 친윤계가 주축인 국회 연구 모임 ‘미래혁신포럼’에 가입한 것으로 17일 나타났다&lt;br/&gt;&lt;em&gt;" (Independent lawmaker Han Dong-hoon has joined the National Assembly research group 'Future Innovation Forum', which is led by former pro-Yoon faction of the People Power Party, it was revealed on the 17th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(보수 진영 차기 대선 주자로 꼽히는 한 의원이 미래혁신포럼에 가입한 데 대해 당 안팎에선 “복당을 위한 움직임”이라는 분석이 나오고 있다&lt;br/&gt;&lt;em&gt;Regarding lawmaker Han, who is considered a conservative camp's next presidential candidate, joining the Future Innovation Forum, there are analyses inside and outside the party that it is 'a move to rejoin the party'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 동아리에 가입했어요.&lt;br/&gt;&lt;em&gt;I joined a club.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 새 사이트에 가입했어요.&lt;br/&gt;&lt;em&gt;He signed up for the new site.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb2luZWR8ZW58MHx8fHwxNzgxNjk5Mzk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="가입한 (joined)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (무소속 한동훈 의원이 국민의힘 옛 친윤계가 주축인 국회 연구 모임 ‘미래혁신포럼’에 가입한 것으로 17일 나타났다&lt;br/&gt;&lt;em&gt;" (Independent lawmaker Han Dong-hoon has joined the National Assembly research group 'Future Innovation Forum', which is led by former pro-Yoon faction of the People Power Party, it was revealed on the 17th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(보수 진영 차기 대선 주자로 꼽히는 한 의원이 미래혁신포럼에 가입한 데 대해 당 안팎에선 “복당을 위한 움직임”이라는 분석이 나오고 있다&lt;br/&gt;&lt;em&gt;Regarding lawmaker Han, who is considered a conservative camp's next presidential candidate, joining the Future Innovation Forum, there are analyses inside and outside the party that it is 'a move to rejoin the party'.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 동아리에 가입했어요.&lt;br/&gt;&lt;em&gt;I joined a club.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 새 사이트에 가입했어요.&lt;br/&gt;&lt;em&gt;He signed up for the new site.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 21:30:02 +0900</pubDate><guid isPermaLink="false">vocab-53e165f6b0927871a9752889af9152239439810a</guid><enclosure url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb2luZWR8ZW58MHx8fHwxNzgxNjk5Mzk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="181471" /><ns2:content url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb2luZWR8ZW58MHx8fHwxNzgxNjk5Mzk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxqb2luZWR8ZW58MHx8fHwxNzgxNjk5Mzk4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>가입한</category></item><item><title>회장을 – chairperson (object)</title><link>urn:urn:vocab:회장을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1555435024-e86cc54f6e48?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFpcnBlcnNvbiUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3ODE2OTI0MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="회장을 (chairperson (object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이탈리아 국빈 만찬에서 존 엘칸 페라리 회장을 만난 이재명 대통령과 부인 김혜경 여사의 대화 내용 일부가 공개됐다&lt;br/&gt;&lt;em&gt;Part of the conversation between President Lee Jae-myung and his wife Kim Hye-kyung, who met Ferrari Chairman John Elkann at the Italian state banquet, has been revealed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 회장은 이 대통령에게 엘칸 회장을 피아트, 크라이슬러, 푸조 등 여러 브랜드를 보유한 스텔란티스 회장이기도 하다고 소개하며 “27년 된 친구”라고 말했다&lt;br/&gt;&lt;em&gt;"Chairman Elkann introduced himself to President Lee as the chairman of Stellantis, which owns multiple brands such as Fiat, Chrysler, and Peugeot, and said they are 'friends of 27 years.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 엘칸 회장은 마타렐라 대통령에게 이 회장을 소개했다&lt;br/&gt;&lt;em&gt;Then Chairman Elkann introduced Chairman Lee to President Mattarella.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리는 회장을 뽑았어요.&lt;br/&gt;&lt;em&gt;We elected the president.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;회장을 만나러 갑니다.&lt;br/&gt;&lt;em&gt;We are going to meet the president.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1555435024-e86cc54f6e48?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFpcnBlcnNvbiUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3ODE2OTI0MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="회장을 (chairperson (object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이탈리아 국빈 만찬에서 존 엘칸 페라리 회장을 만난 이재명 대통령과 부인 김혜경 여사의 대화 내용 일부가 공개됐다&lt;br/&gt;&lt;em&gt;Part of the conversation between President Lee Jae-myung and his wife Kim Hye-kyung, who met Ferrari Chairman John Elkann at the Italian state banquet, has been revealed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 회장은 이 대통령에게 엘칸 회장을 피아트, 크라이슬러, 푸조 등 여러 브랜드를 보유한 스텔란티스 회장이기도 하다고 소개하며 “27년 된 친구”라고 말했다&lt;br/&gt;&lt;em&gt;"Chairman Elkann introduced himself to President Lee as the chairman of Stellantis, which owns multiple brands such as Fiat, Chrysler, and Peugeot, and said they are 'friends of 27 years.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 엘칸 회장은 마타렐라 대통령에게 이 회장을 소개했다&lt;br/&gt;&lt;em&gt;Then Chairman Elkann introduced Chairman Lee to President Mattarella.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리는 회장을 뽑았어요.&lt;br/&gt;&lt;em&gt;We elected the president.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;회장을 만나러 갑니다.&lt;br/&gt;&lt;em&gt;We are going to meet the president.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 19:33:50 +0900</pubDate><guid isPermaLink="false">vocab-5a3e8b866d2e715413841734382402624071361e</guid><enclosure url="https://images.unsplash.com/photo-1555435024-e86cc54f6e48?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFpcnBlcnNvbiUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3ODE2OTI0MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="120595" /><ns2:content url="https://images.unsplash.com/photo-1555435024-e86cc54f6e48?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFpcnBlcnNvbiUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3ODE2OTI0MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1555435024-e86cc54f6e48?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjaGFpcnBlcnNvbiUyMCUyOG9iamVjdCUyOXxlbnwwfHx8fDE3ODE2OTI0MjZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>회장을</category></item><item><title>내년부터 – from next year</title><link>urn:urn:vocab:내년부터</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577457414247-e859d9765892?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwbmV4dCUyMHllYXJ8ZW58MHx8fHwxNzgxNjkxOTQ2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="내년부터 (from next year)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이와 함께 ‘필요 없다’고 판단한 군사장애물 23개도 내년부터 철거에 나선다&lt;br/&gt;&lt;em&gt;Along with this, 23 military obstacles deemed 'unnecessary' will also be removed starting next year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(우선 내년부터 접경지역 전반에 걸쳐 민통선 조정이 추진된다&lt;br/&gt;&lt;em&gt;(First, from next year, adjustments to the civilian control line will be promoted across the border area.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국방부는 민통초소 이전, 경계펜스 및 보안카메라 설치 등 통제수단을 보완해 내년부터 단계적으로 민통선 조정을 추진할 계획이다&lt;br/&gt;&lt;em&gt;(The Ministry of National Defense plans to gradually promote adjustments to the civilian control line from next year by supplementing control measures such as relocating civilian control posts and installing border fences and security cameras.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;내년부터 한국어를 배울 거예요.&lt;br/&gt;&lt;em&gt;I will learn Korean from next year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내년부터 회사에 다닐 거예요.&lt;br/&gt;&lt;em&gt;I will work at a company from next year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1577457414247-e859d9765892?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwbmV4dCUyMHllYXJ8ZW58MHx8fHwxNzgxNjkxOTQ2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="내년부터 (from next year)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이와 함께 ‘필요 없다’고 판단한 군사장애물 23개도 내년부터 철거에 나선다&lt;br/&gt;&lt;em&gt;Along with this, 23 military obstacles deemed 'unnecessary' will also be removed starting next year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(우선 내년부터 접경지역 전반에 걸쳐 민통선 조정이 추진된다&lt;br/&gt;&lt;em&gt;(First, from next year, adjustments to the civilian control line will be promoted across the border area.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국방부는 민통초소 이전, 경계펜스 및 보안카메라 설치 등 통제수단을 보완해 내년부터 단계적으로 민통선 조정을 추진할 계획이다&lt;br/&gt;&lt;em&gt;(The Ministry of National Defense plans to gradually promote adjustments to the civilian control line from next year by supplementing control measures such as relocating civilian control posts and installing border fences and security cameras.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;내년부터 한국어를 배울 거예요.&lt;br/&gt;&lt;em&gt;I will learn Korean from next year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내년부터 회사에 다닐 거예요.&lt;br/&gt;&lt;em&gt;I will work at a company from next year.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 19:25:50 +0900</pubDate><guid isPermaLink="false">vocab-65c6a7675937571e11ded3626f66c8579b3fb60b</guid><enclosure url="https://images.unsplash.com/photo-1577457414247-e859d9765892?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwbmV4dCUyMHllYXJ8ZW58MHx8fHwxNzgxNjkxOTQ2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="454265" /><ns2:content url="https://images.unsplash.com/photo-1577457414247-e859d9765892?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwbmV4dCUyMHllYXJ8ZW58MHx8fHwxNzgxNjkxOTQ2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1577457414247-e859d9765892?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwbmV4dCUyMHllYXJ8ZW58MHx8fHwxNzgxNjkxOTQ2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>내년부터</category></item><item><title>와이프 – wife</title><link>urn:urn:vocab:와이프</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1488116708587-d6f24b18d8a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWZlfGVufDB8fHx8MTc4MTY4NTAzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="와이프 (wife)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee introduces First Lady Kim Hye-kyung to Trump as “My Wife”… Seated side by side at state dinner (李대통령 “마이 와이프” 트럼프에 김혜경 여사 소개…만찬장에선 나란히 앉아) &lt;&lt;br/&gt;&lt;em&gt;President Lee introduces First Lady Kim Hye-kyung to Trump as "My Wife"… Seated side by side at state dinner&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;President Lee introduces First Lady Kim Hye-kyung to Trump as “My Wife”… Seated side by side at state dinner (李대통령 “마이 와이프” 트럼프에 김혜경 여사 소개…만찬장에선 나란히 앉아)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;President Lee introduces First Lady Kim Hye-kyung to Trump as "My Wife"… Seated side by side at state dinner&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;와이프가 요리를 잘해요.&lt;br/&gt;&lt;em&gt;My wife cooks well.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;와이프는 선생님입니다.&lt;br/&gt;&lt;em&gt;My wife is a teacher.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1488116708587-d6f24b18d8a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWZlfGVufDB8fHx8MTc4MTY4NTAzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="와이프 (wife)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;President Lee introduces First Lady Kim Hye-kyung to Trump as “My Wife”… Seated side by side at state dinner (李대통령 “마이 와이프” 트럼프에 김혜경 여사 소개…만찬장에선 나란히 앉아) &lt;&lt;br/&gt;&lt;em&gt;President Lee introduces First Lady Kim Hye-kyung to Trump as "My Wife"… Seated side by side at state dinner&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;President Lee introduces First Lady Kim Hye-kyung to Trump as “My Wife”… Seated side by side at state dinner (李대통령 “마이 와이프” 트럼프에 김혜경 여사 소개…만찬장에선 나란히 앉아)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;President Lee introduces First Lady Kim Hye-kyung to Trump as "My Wife"… Seated side by side at state dinner&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;와이프가 요리를 잘해요.&lt;br/&gt;&lt;em&gt;My wife cooks well.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;와이프는 선생님입니다.&lt;br/&gt;&lt;em&gt;My wife is a teacher.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 17:30:40 +0900</pubDate><guid isPermaLink="false">vocab-30c703fccb60c837e387152ac7de8b9e6375b5be</guid><enclosure url="https://images.unsplash.com/photo-1488116708587-d6f24b18d8a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWZlfGVufDB8fHx8MTc4MTY4NTAzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="244850" /><ns2:content url="https://images.unsplash.com/photo-1488116708587-d6f24b18d8a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWZlfGVufDB8fHx8MTc4MTY4NTAzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1488116708587-d6f24b18d8a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3aWZlfGVufDB8fHx8MTc4MTY4NTAzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>와이프</category></item><item><title>달랐다 – was different</title><link>urn:urn:vocab:달랐다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1516659257916-7be846591235?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBkaWZmZXJlbnR8ZW58MHx8fHwxNzgxNjg0NTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="달랐다 (was different)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(버지니아 본사와는 공기부터 달랐다&lt;br/&gt;&lt;em&gt;(The atmosphere was different from the Virginia headquarters)&lt;/em&gt;&lt;/p&gt;
