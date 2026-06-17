@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 11:21:18 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 17:22:14 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,111 @@
 
 
 
-  <item><title>어디서든 – anywhere</title><link>urn:urn:vocab:어디서든</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>달랐다 – was different</title><link>urn:urn:vocab:달랐다</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1516659257916-7be846591235?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBkaWZmZXJlbnR8ZW58MHx8fHwxNzgxNjg0NTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="달랐다 (was different)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(버지니아 본사와는 공기부터 달랐다&lt;br/&gt;&lt;em&gt;(The atmosphere was different from the Virginia headquarters)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그의 작업 공간은 확연히 달랐다&lt;br/&gt;&lt;em&gt;(His workspace was distinctly different)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그것은 전혀 달랐다.&lt;br/&gt;&lt;em&gt;It was completely different.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내 생각과 달랐다.&lt;br/&gt;&lt;em&gt;It was different from my thoughts.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1516659257916-7be846591235?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBkaWZmZXJlbnR8ZW58MHx8fHwxNzgxNjg0NTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="달랐다 (was different)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(버지니아 본사와는 공기부터 달랐다&lt;br/&gt;&lt;em&gt;(The atmosphere was different from the Virginia headquarters)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(그의 작업 공간은 확연히 달랐다&lt;br/&gt;&lt;em&gt;(His workspace was distinctly different)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그것은 전혀 달랐다.&lt;br/&gt;&lt;em&gt;It was completely different.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;내 생각과 달랐다.&lt;br/&gt;&lt;em&gt;It was different from my thoughts.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 17:22:14 +0900</pubDate><guid isPermaLink="false">vocab-1b4ed22e20b8e8b5b25073933c27dc63bd6a0804</guid><enclosure url="https://images.unsplash.com/photo-1516659257916-7be846591235?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBkaWZmZXJlbnR8ZW58MHx8fHwxNzgxNjg0NTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="121030" /><ns2:content url="https://images.unsplash.com/photo-1516659257916-7be846591235?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBkaWZmZXJlbnR8ZW58MHx8fHwxNzgxNjg0NTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1516659257916-7be846591235?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx3YXMlMjBkaWZmZXJlbnR8ZW58MHx8fHwxNzgxNjg0NTMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>달랐다</category></item><item><title>개최된 – held</title><link>urn:urn:vocab:개최된</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1513384312027-9fa69a360337?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWxkfGVufDB8fHx8MTc4MTY3NzYyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개최된 (held)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령은 16일(현지 시각) G7(7국) 정상회의가 개최된 프랑스 에비앙에 도착해 초청국 공식 환영 행사와 확대회의에 참석했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung arrived in Evian, France, where the G7 summit was held on the 16th (local time), and attended the official welcome event for invited countries and the expanded meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 대통령과 메르츠 총리는 작년 11월 남아프리카공화국에서 개최된 G20(20국) 정상회의 이후 약 7개월 만에 만났다&lt;br/&gt;&lt;em&gt;President Lee and Chancellor Merz met for the first time in about seven months since the G20 summit held in South Africa in November last year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령과 트럼프 대통령의 대화는 프랑스 에비앙에서 개최된 G7 정상회의 단체 촬영장에서 있었다&lt;br/&gt;&lt;em&gt;The conversation between President Lee and President Trump took place at the group photo session of the G7 summit held in Evian, France.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;올림픽이 서울에서 개최됐다.&lt;br/&gt;&lt;em&gt;The Olympics were held in Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;회의가 내일 개최된다.&lt;br/&gt;&lt;em&gt;The meeting will be held tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1513384312027-9fa69a360337?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWxkfGVufDB8fHx8MTc4MTY3NzYyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개최된 (held)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이재명 대통령은 16일(현지 시각) G7(7국) 정상회의가 개최된 프랑스 에비앙에 도착해 초청국 공식 환영 행사와 확대회의에 참석했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung arrived in Evian, France, where the G7 summit was held on the 16th (local time), and attended the official welcome event for invited countries and the expanded meeting.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 대통령과 메르츠 총리는 작년 11월 남아프리카공화국에서 개최된 G20(20국) 정상회의 이후 약 7개월 만에 만났다&lt;br/&gt;&lt;em&gt;President Lee and Chancellor Merz met for the first time in about seven months since the G20 summit held in South Africa in November last year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령과 트럼프 대통령의 대화는 프랑스 에비앙에서 개최된 G7 정상회의 단체 촬영장에서 있었다&lt;br/&gt;&lt;em&gt;The conversation between President Lee and President Trump took place at the group photo session of the G7 summit held in Evian, France.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;올림픽이 서울에서 개최됐다.&lt;br/&gt;&lt;em&gt;The Olympics were held in Seoul.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;회의가 내일 개최된다.&lt;br/&gt;&lt;em&gt;The meeting will be held tomorrow.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 15:27:09 +0900</pubDate><guid isPermaLink="false">vocab-c501870a49847198ee16f88d3d1a5d1f4d2c0d9b</guid><enclosure url="https://images.unsplash.com/photo-1513384312027-9fa69a360337?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWxkfGVufDB8fHx8MTc4MTY3NzYyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="53257" /><ns2:content url="https://images.unsplash.com/photo-1513384312027-9fa69a360337?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWxkfGVufDB8fHx8MTc4MTY3NzYyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1513384312027-9fa69a360337?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxoZWxkfGVufDB8fHx8MTc4MTY3NzYyNXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>개최된</category></item><item><title>악의적 – malicious</title><link>urn:urn:vocab:악의적</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625480857953-700f9cac1582?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYWxpY2lvdXN8ZW58MHx8fHwxNzgxNjc3MTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="악의적 (malicious)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;One-Member-One-Vote System Will Eliminate Party Factions" (정청래 “친청파·친석파는 악의적 갈라치기…1인 1표제 시행으로 당내 계파 소멸”) &lt;&lt;br/&gt;&lt;em&gt;"One-Member-One-Vote System Will Eliminate Party Factions" (Jeong Cheong-rae: "Pro-Cheong and Pro-Seok factions are malicious divisive tactics... Implementing one-member-one-vote system will eliminate party factions") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;One-Member-One-Vote System Will Eliminate Party Factions" (정청래 “친청파·친석파는 악의적 갈라치기…1인 1표제 시행으로 당내 계파 소멸”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;"One-Member-One-Vote System Will Eliminate Party Factions" (Jeong Cheong-rae: "Pro-Cheong and Pro-Seok factions are malicious divisive tactics... Implementing one-member-one-vote system will eliminate party factions")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정청래 더불어민주당 대표는 17일 “일부 언론에서 ‘친청파’가 어떻고, ‘친석파’가 어떻고, 저도 알 수 없는 악의적 갈라치기에 골몰하고 있다”며 “무슨 계파로 명명되는 것을 반대하고 싫어하지만, 저는 굳이 구분한다면 당원파이고 개혁파”라고 했다&lt;br/&gt;&lt;em&gt;" (Jeong Cheong-rae, a lawmaker of the Democratic Party of Korea, said on the 17th, 'Some media are obsessed with malicious divisive tactics, talking about the "pro-Cheong faction" and the "pro-Seok faction," which I don't even recognize. I oppose and dislike being labeled as belonging to any faction, but if I must distinguish, I am a party member faction and a reformist faction.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 말은 악의적이었다.&lt;br/&gt;&lt;em&gt;His words were malicious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;악의적인 행동은 나쁘다.&lt;br/&gt;&lt;em&gt;Malicious actions are bad.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625480857953-700f9cac1582?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYWxpY2lvdXN8ZW58MHx8fHwxNzgxNjc3MTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="악의적 (malicious)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;One-Member-One-Vote System Will Eliminate Party Factions" (정청래 “친청파·친석파는 악의적 갈라치기…1인 1표제 시행으로 당내 계파 소멸”) &lt;&lt;br/&gt;&lt;em&gt;"One-Member-One-Vote System Will Eliminate Party Factions" (Jeong Cheong-rae: "Pro-Cheong and Pro-Seok factions are malicious divisive tactics... Implementing one-member-one-vote system will eliminate party factions") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;One-Member-One-Vote System Will Eliminate Party Factions" (정청래 “친청파·친석파는 악의적 갈라치기…1인 1표제 시행으로 당내 계파 소멸”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;"One-Member-One-Vote System Will Eliminate Party Factions" (Jeong Cheong-rae: "Pro-Cheong and Pro-Seok factions are malicious divisive tactics... Implementing one-member-one-vote system will eliminate party factions")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (정청래 더불어민주당 대표는 17일 “일부 언론에서 ‘친청파’가 어떻고, ‘친석파’가 어떻고, 저도 알 수 없는 악의적 갈라치기에 골몰하고 있다”며 “무슨 계파로 명명되는 것을 반대하고 싫어하지만, 저는 굳이 구분한다면 당원파이고 개혁파”라고 했다&lt;br/&gt;&lt;em&gt;" (Jeong Cheong-rae, a lawmaker of the Democratic Party of Korea, said on the 17th, 'Some media are obsessed with malicious divisive tactics, talking about the "pro-Cheong faction" and the "pro-Seok faction," which I don't even recognize. I oppose and dislike being labeled as belonging to any faction, but if I must distinguish, I am a party member faction and a reformist faction.'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 말은 악의적이었다.&lt;br/&gt;&lt;em&gt;His words were malicious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;악의적인 행동은 나쁘다.&lt;br/&gt;&lt;em&gt;Malicious actions are bad.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 15:18:31 +0900</pubDate><guid isPermaLink="false">vocab-f94136f5f93f1b3cf912d3839ac935c42a4f82b0</guid><enclosure url="https://images.unsplash.com/photo-1625480857953-700f9cac1582?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYWxpY2lvdXN8ZW58MHx8fHwxNzgxNjc3MTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="88243" /><ns2:content url="https://images.unsplash.com/photo-1625480857953-700f9cac1582?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYWxpY2lvdXN8ZW58MHx8fHwxNzgxNjc3MTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1625480857953-700f9cac1582?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtYWxpY2lvdXN8ZW58MHx8fHwxNzgxNjc3MTA2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>악의적</category></item><item><title>옆에서 – next to</title><link>urn:urn:vocab:옆에서</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586720727248-69ad078acd64?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXh0JTIwdG98ZW58MHx8fHwxNzgxNjcwMjQ5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="옆에서 (next to)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(그 옆에서 금발의 엔지니어는 보드숏 차림으로 커피를 들이키며 연신 알아들을 수 없는 혼잣말을 내뱉었다&lt;br/&gt;&lt;em&gt;Next to him, the blonde engineer, dressed in board shorts, gulped down coffee while muttering unintelligible words to himself.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” 옆에서 에너지 드링크를 마시던 금발의 엔지니어가 사래에 걸려 기침을 뱉으며 에반의 의자를 발로 툭 찼다&lt;br/&gt;&lt;em&gt;The blonde engineer, who was drinking an energy drink next to him, choked and coughed, then kicked Evan's chair with his foot.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (한편 국민의힘 신동욱 최고위원, 나경원·이철규·주진우 의원 등은 전날 박정보 서울경찰청장이 올림픽공원 집회와 관련해 “아무 생각 없이 옆에서 불법 행위에 동조했다가 공범으로 적용될 경우에는 패가망신할 수 있다”고 말한 데 대해 항의하기 위해 서울경찰청을 방문했다&lt;br/&gt;&lt;em&gt;Meanwhile, People Power Party senior member Shin Dong-wook and lawmakers Na Kyung-won, Lee Chul-gyu, and Joo Jin-woo visited the Seoul Metropolitan Police Agency to protest against Commissioner Park Jung-bo's earlier remarks regarding the Olympic Park rally, in which he said, 'If you thoughtlessly participate in illegal acts on the sidelines, you could be considered an accomplice and face ruin.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;내 옆에서 앉아 주세요.&lt;br/&gt;&lt;em&gt;Please sit next to me.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 내 옆에서 걸었다.&lt;br/&gt;&lt;em&gt;He walked beside me.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1586720727248-69ad078acd64?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXh0JTIwdG98ZW58MHx8fHwxNzgxNjcwMjQ5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="옆에서 (next to)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(그 옆에서 금발의 엔지니어는 보드숏 차림으로 커피를 들이키며 연신 알아들을 수 없는 혼잣말을 내뱉었다&lt;br/&gt;&lt;em&gt;Next to him, the blonde engineer, dressed in board shorts, gulped down coffee while muttering unintelligible words to himself.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” 옆에서 에너지 드링크를 마시던 금발의 엔지니어가 사래에 걸려 기침을 뱉으며 에반의 의자를 발로 툭 찼다&lt;br/&gt;&lt;em&gt;The blonde engineer, who was drinking an energy drink next to him, choked and coughed, then kicked Evan's chair with his foot.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (한편 국민의힘 신동욱 최고위원, 나경원·이철규·주진우 의원 등은 전날 박정보 서울경찰청장이 올림픽공원 집회와 관련해 “아무 생각 없이 옆에서 불법 행위에 동조했다가 공범으로 적용될 경우에는 패가망신할 수 있다”고 말한 데 대해 항의하기 위해 서울경찰청을 방문했다&lt;br/&gt;&lt;em&gt;Meanwhile, People Power Party senior member Shin Dong-wook and lawmakers Na Kyung-won, Lee Chul-gyu, and Joo Jin-woo visited the Seoul Metropolitan Police Agency to protest against Commissioner Park Jung-bo's earlier remarks regarding the Olympic Park rally, in which he said, 'If you thoughtlessly participate in illegal acts on the sidelines, you could be considered an accomplice and face ruin.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;내 옆에서 앉아 주세요.&lt;br/&gt;&lt;em&gt;Please sit next to me.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 내 옆에서 걸었다.&lt;br/&gt;&lt;em&gt;He walked beside me.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 13:24:14 +0900</pubDate><guid isPermaLink="false">vocab-c34cfe3f579f09aee98174345bebd0b3b61d738b</guid><enclosure url="https://images.unsplash.com/photo-1586720727248-69ad078acd64?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXh0JTIwdG98ZW58MHx8fHwxNzgxNjcwMjQ5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="226026" /><ns2:content url="https://images.unsplash.com/photo-1586720727248-69ad078acd64?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXh0JTIwdG98ZW58MHx8fHwxNzgxNjcwMjQ5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1586720727248-69ad078acd64?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxuZXh0JTIwdG98ZW58MHx8fHwxNzgxNjcwMjQ5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>옆에서</category></item><item><title>악수했고 – shook hands and</title><link>urn:urn:vocab:악수했고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1638262052640-82e94d64664a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaG9vayUyMGhhbmRzJTIwYW5kfGVufDB8fHx8MTc4MTY2OTY3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="악수했고 (shook hands and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지난 4월 마크롱 대통령의 국빈 방한 뒤 2개월여 만에 다시 만난 두 정상은 반갑게 웃으며 악수했고, 회의장까지 대화하며 함께 걸어갔다&lt;br/&gt;&lt;em&gt;The two leaders, who met again about two months after President Macron's state visit to South Korea last April, greeted each other with a smile and a handshake, and walked together to the meeting room while chatting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 친구와 악수했고 웃었어요.&lt;br/&gt;&lt;em&gt;I shook hands with my friend and laughed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 나와 악수했고 인사했어요.&lt;br/&gt;&lt;em&gt;He shook hands with me and greeted me.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1638262052640-82e94d64664a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaG9vayUyMGhhbmRzJTIwYW5kfGVufDB8fHx8MTc4MTY2OTY3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="악수했고 (shook hands and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;지난 4월 마크롱 대통령의 국빈 방한 뒤 2개월여 만에 다시 만난 두 정상은 반갑게 웃으며 악수했고, 회의장까지 대화하며 함께 걸어갔다&lt;br/&gt;&lt;em&gt;The two leaders, who met again about two months after President Macron's state visit to South Korea last April, greeted each other with a smile and a handshake, and walked together to the meeting room while chatting.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 친구와 악수했고 웃었어요.&lt;br/&gt;&lt;em&gt;I shook hands with my friend and laughed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 나와 악수했고 인사했어요.&lt;br/&gt;&lt;em&gt;He shook hands with me and greeted me.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Wed, 17 Jun 2026 13:14:41 +0900</pubDate><guid isPermaLink="false">vocab-26ba7253eea728d1d13e0411a0ad09de9e72ebf3</guid><enclosure url="https://images.unsplash.com/photo-1638262052640-82e94d64664a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaG9vayUyMGhhbmRzJTIwYW5kfGVufDB8fHx8MTc4MTY2OTY3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="87687" /><ns2:content url="https://images.unsplash.com/photo-1638262052640-82e94d64664a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaG9vayUyMGhhbmRzJTIwYW5kfGVufDB8fHx8MTc4MTY2OTY3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1638262052640-82e94d64664a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzaG9vayUyMGhhbmRzJTIwYW5kfGVufDB8fHx8MTc4MTY2OTY3Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>악수했고</category></item><item><title>어디서든 – anywhere</title><link>urn:urn:vocab:어디서든</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1658597609767-bfdbca76a492?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbnl3aGVyZXxlbnwwfHx8fDE3ODE2NjI4NzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="어디서든 (anywhere)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;사전투표와 본투표 구분 없이 어디서든 이틀간 투표할 수 있게 하고, 투표용지는 현장에서 출력·발급하자는 것이다&lt;br/&gt;&lt;em&gt;It is to allow voting anywhere for two days without distinction between early voting and main voting, and to print and issue ballots on-site.&lt;/em&gt;&lt;/p&gt;
