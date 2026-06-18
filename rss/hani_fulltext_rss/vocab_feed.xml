@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 10:15:27 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 14:30:46 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,95 @@
 
 
 
-  <item><title>주최한 – hosted</title><link>urn:urn:vocab:주최한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>자작극 – staged event</title><link>urn:urn:vocab:자작극</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1531058020387-3be344556be6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFnZWQlMjBldmVudHxlbnwwfHx8fDE3ODE3NjA2NDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자작극 (staged event)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"Already Left Party Online" (‘음료 테러’ 개혁신당 부산 후보, 자작극 혐의…“이미 온라인 탈당”) &lt;&lt;br/&gt;&lt;em&gt;"Already Left Party Online" ('Beverage Terror' Reform Party Busan Candidate Suspected of Staging Incident... "Already Left Party Online") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Already Left Party Online" (‘음료 테러’ 개혁신당 부산 후보, 자작극 혐의…“이미 온라인 탈당”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"Already Left Party Online" ('Beverage Terror' Reform Party Busan Candidate Suspected of Staging Incident... "Already Left Party Online")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (개혁신당은 지난 6·3 부산시장 선거에 출마한 정이한(38) 후보가 선거운동 중 한 남성이 던진 음료를 피하려다 부상을 입은 사건이 ‘자작극’이라는 경찰의 수사 결과에 대해 “당 역시 이번 사안의 피해 당사자”라며 “한 치의 의혹도 남지 않도록 수사에 적극 협조하겠다”고 17일 밝혔다&lt;br/&gt;&lt;em&gt;" (The Reform Party stated on the 17th regarding the police investigation results that the incident in which Jeong Yi-han (38), a candidate who ran in the June 3 Busan mayoral election, was injured while trying to avoid a beverage thrown by a man during a campaign was a 'staged incident,' saying, 'The party is also a victim in this matter,' and 'We will actively cooperate with the investigation to ensure no suspicion remains.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 사건은 자작극이었어요.&lt;br/&gt;&lt;em&gt;That incident was a staged act.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자작극을 의심하는 사람이 많아요.&lt;br/&gt;&lt;em&gt;Many people suspect it was a staged act.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1531058020387-3be344556be6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFnZWQlMjBldmVudHxlbnwwfHx8fDE3ODE3NjA2NDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자작극 (staged event)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"Already Left Party Online" (‘음료 테러’ 개혁신당 부산 후보, 자작극 혐의…“이미 온라인 탈당”) &lt;&lt;br/&gt;&lt;em&gt;"Already Left Party Online" ('Beverage Terror' Reform Party Busan Candidate Suspected of Staging Incident... "Already Left Party Online") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Already Left Party Online" (‘음료 테러’ 개혁신당 부산 후보, 자작극 혐의…“이미 온라인 탈당”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"Already Left Party Online" ('Beverage Terror' Reform Party Busan Candidate Suspected of Staging Incident... "Already Left Party Online")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (개혁신당은 지난 6·3 부산시장 선거에 출마한 정이한(38) 후보가 선거운동 중 한 남성이 던진 음료를 피하려다 부상을 입은 사건이 ‘자작극’이라는 경찰의 수사 결과에 대해 “당 역시 이번 사안의 피해 당사자”라며 “한 치의 의혹도 남지 않도록 수사에 적극 협조하겠다”고 17일 밝혔다&lt;br/&gt;&lt;em&gt;" (The Reform Party stated on the 17th regarding the police investigation results that the incident in which Jeong Yi-han (38), a candidate who ran in the June 3 Busan mayoral election, was injured while trying to avoid a beverage thrown by a man during a campaign was a 'staged incident,' saying, 'The party is also a victim in this matter,' and 'We will actively cooperate with the investigation to ensure no suspicion remains.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 사건은 자작극이었어요.&lt;br/&gt;&lt;em&gt;That incident was a staged act.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자작극을 의심하는 사람이 많아요.&lt;br/&gt;&lt;em&gt;Many people suspect it was a staged act.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 18 Jun 2026 14:30:46 +0900</pubDate><guid isPermaLink="false">vocab-19d6769297ab14c0cd719bbc9090943598cc16f4</guid><enclosure url="https://images.unsplash.com/photo-1531058020387-3be344556be6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFnZWQlMjBldmVudHxlbnwwfHx8fDE3ODE3NjA2NDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="151827" /><ns2:content url="https://images.unsplash.com/photo-1531058020387-3be344556be6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFnZWQlMjBldmVudHxlbnwwfHx8fDE3ODE3NjA2NDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1531058020387-3be344556be6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFnZWQlMjBldmVudHxlbnwwfHx8fDE3ODE3NjA2NDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>자작극</category></item><item><title>자작극 – staged event</title><link>urn:urn:vocab:자작극</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1531058020387-3be344556be6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFnZWQlMjBldmVudHxlbnwwfHx8fDE3ODE3NjA2Mzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자작극 (staged event)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"Already Left Party Online" (‘음료 테러’ 개혁신당 부산 후보, 자작극 혐의…“이미 온라인 탈당”) &lt;&lt;br/&gt;&lt;em&gt;"Already Left Party Online" ('Beverage Terror' Reform Party Busan Candidate Suspected of Staging Incident... "Already Left Party Online") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Already Left Party Online" (‘음료 테러’ 개혁신당 부산 후보, 자작극 혐의…“이미 온라인 탈당”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"Already Left Party Online" ('Beverage Terror' Reform Party Busan Candidate Suspected of Staging Incident... "Already Left Party Online")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (개혁신당은 지난 6·3 부산시장 선거에 출마한 정이한(38) 후보가 선거운동 중 한 남성이 던진 음료를 피하려다 부상을 입은 사건이 ‘자작극’이라는 경찰의 수사 결과에 대해 “당 역시 이번 사안의 피해 당사자”라며 “한 치의 의혹도 남지 않도록 수사에 적극 협조하겠다”고 17일 밝혔다&lt;br/&gt;&lt;em&gt;" (The Reform Party stated on the 17th regarding the police investigation results that the incident in which Jeong Yi-han (38), a candidate who ran in the June 3 Busan mayoral election, was injured while trying to avoid a beverage thrown by a man during a campaign was a 'staged incident,' saying, 'The party is also a victim in this matter,' and 'We will actively cooperate with the investigation to ensure no suspicion remains.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 사건은 자작극이었어요.&lt;br/&gt;&lt;em&gt;That incident was a staged act.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자작극을 의심하는 사람이 많아요.&lt;br/&gt;&lt;em&gt;Many people suspect it's a staged act.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1531058020387-3be344556be6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFnZWQlMjBldmVudHxlbnwwfHx8fDE3ODE3NjA2Mzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="자작극 (staged event)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;"Already Left Party Online" (‘음료 테러’ 개혁신당 부산 후보, 자작극 혐의…“이미 온라인 탈당”) &lt;&lt;br/&gt;&lt;em&gt;"Already Left Party Online" ('Beverage Terror' Reform Party Busan Candidate Suspected of Staging Incident... "Already Left Party Online") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Already Left Party Online" (‘음료 테러’ 개혁신당 부산 후보, 자작극 혐의…“이미 온라인 탈당”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;"Already Left Party Online" ('Beverage Terror' Reform Party Busan Candidate Suspected of Staging Incident... "Already Left Party Online")&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (개혁신당은 지난 6·3 부산시장 선거에 출마한 정이한(38) 후보가 선거운동 중 한 남성이 던진 음료를 피하려다 부상을 입은 사건이 ‘자작극’이라는 경찰의 수사 결과에 대해 “당 역시 이번 사안의 피해 당사자”라며 “한 치의 의혹도 남지 않도록 수사에 적극 협조하겠다”고 17일 밝혔다&lt;br/&gt;&lt;em&gt;" (The Reform Party stated on the 17th regarding the police investigation results that the incident in which Jeong Yi-han (38), a candidate who ran in the June 3 Busan mayoral election, was injured while trying to avoid a beverage thrown by a man during a campaign was a 'staged incident,' saying, 'The party is also a victim in this matter,' and 'We will actively cooperate with the investigation to ensure no suspicion remains.')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 사건은 자작극이었어요.&lt;br/&gt;&lt;em&gt;That incident was a staged act.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;자작극을 의심하는 사람이 많아요.&lt;br/&gt;&lt;em&gt;Many people suspect it's a staged act.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 18 Jun 2026 14:30:41 +0900</pubDate><guid isPermaLink="false">vocab-58a642034a8fd6dfd7132278e7a81d6e5df4b5b7</guid><enclosure url="https://images.unsplash.com/photo-1531058020387-3be344556be6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFnZWQlMjBldmVudHxlbnwwfHx8fDE3ODE3NjA2Mzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="151827" /><ns2:content url="https://images.unsplash.com/photo-1531058020387-3be344556be6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFnZWQlMjBldmVudHxlbnwwfHx8fDE3ODE3NjA2Mzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1531058020387-3be344556be6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFnZWQlMjBldmVudHxlbnwwfHx8fDE3ODE3NjA2Mzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>자작극</category></item><item><title>맞벌이 – dual income</title><link>urn:urn:vocab:맞벌이</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkdWFsJTIwaW5jb21lfGVufDB8fHx8MTc4MTc1Mjk4NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="맞벌이 (dual income)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Among couples aged 60 and over, 3 in 10 have dual incomes… an increase of 67,000 households from last year (60살 이상 맞벌이, 10쌍 중 3쌍…지난해보다 6만7천가구 증가) &lt;&lt;br/&gt;&lt;em&gt;Among couples aged 60 and over, 3 in 10 have dual incomes… an increase of 67,000 households from last year&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지난해 맞벌이 가구가 통계 작성 이래 가장 많았던 것으로 나타났다&lt;br/&gt;&lt;em&gt;Last year, the number of dual-income households was the highest since statistics began&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가구주가 60대인 부부 중에서 특히 맞벌이가 늘었는데, 평균수명이 늘고 노인일자리가 증가하면서 경제활동에 참여하는 노인이 늘어난 게 영향을 미쳤다&lt;br/&gt;&lt;em&gt;The increase was particularly notable among couples where the household head is in their 60s, influenced by longer life expectancy and more senior jobs, leading more elderly to participate in economic activities&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리는 맞벌이 부부예요.&lt;br/&gt;&lt;em&gt;We are a dual-income couple.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;맞벌이 가정이 많아요.&lt;br/&gt;&lt;em&gt;There are many dual-income households.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkdWFsJTIwaW5jb21lfGVufDB8fHx8MTc4MTc1Mjk4NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="맞벌이 (dual income)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Among couples aged 60 and over, 3 in 10 have dual incomes… an increase of 67,000 households from last year (60살 이상 맞벌이, 10쌍 중 3쌍…지난해보다 6만7천가구 증가) &lt;&lt;br/&gt;&lt;em&gt;Among couples aged 60 and over, 3 in 10 have dual incomes… an increase of 67,000 households from last year&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(지난해 맞벌이 가구가 통계 작성 이래 가장 많았던 것으로 나타났다&lt;br/&gt;&lt;em&gt;Last year, the number of dual-income households was the highest since statistics began&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;가구주가 60대인 부부 중에서 특히 맞벌이가 늘었는데, 평균수명이 늘고 노인일자리가 증가하면서 경제활동에 참여하는 노인이 늘어난 게 영향을 미쳤다&lt;br/&gt;&lt;em&gt;The increase was particularly notable among couples where the household head is in their 60s, influenced by longer life expectancy and more senior jobs, leading more elderly to participate in economic activities&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;우리는 맞벌이 부부예요.&lt;br/&gt;&lt;em&gt;We are a dual-income couple.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;맞벌이 가정이 많아요.&lt;br/&gt;&lt;em&gt;There are many dual-income households.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 18 Jun 2026 12:23:09 +0900</pubDate><guid isPermaLink="false">vocab-cf6d42c5cf09b1238a7cea8a62db02b98c84269b</guid><enclosure url="https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkdWFsJTIwaW5jb21lfGVufDB8fHx8MTc4MTc1Mjk4NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="68454" /><ns2:content url="https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkdWFsJTIwaW5jb21lfGVufDB8fHx8MTc4MTc1Mjk4NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkdWFsJTIwaW5jb21lfGVufDB8fHx8MTc4MTc1Mjk4NXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>맞벌이</category></item><item><title>상품은 – product</title><link>urn:urn:vocab:상품은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0fGVufDB8fHx8MTc4MTc1Mjk3MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상품은 (product)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 상품은 쿠팡에 입점한 판매자에게 최대 5천만원의 자금을 고금리로 빌려주는 상품이다&lt;br/&gt;&lt;em&gt;This product lends up to 50 million won at high interest rates to sellers on Coupang.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 중 스페이스엑스 편입 비중이 25%를 넘는 상품은 5종목이고, 가장 투자금액이 높은 상품은 5642억원에 달한다&lt;br/&gt;&lt;em&gt;Among these, five products have a SpaceX allocation exceeding 25%, and the product with the highest investment amount reaches 564.2 billion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;단일종목 레버리지 상품은 개별 주식 종목의 하루 수익률을 2배로 추종하는 상품이다&lt;br/&gt;&lt;em&gt;Single-stock leveraged products track the daily return of an individual stock by two times.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 상품은 좋아요.&lt;br/&gt;&lt;em&gt;This product is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;상품은 비싸요.&lt;br/&gt;&lt;em&gt;The product is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0fGVufDB8fHx8MTc4MTc1Mjk3MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상품은 (product)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 상품은 쿠팡에 입점한 판매자에게 최대 5천만원의 자금을 고금리로 빌려주는 상품이다&lt;br/&gt;&lt;em&gt;This product lends up to 50 million won at high interest rates to sellers on Coupang.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 중 스페이스엑스 편입 비중이 25%를 넘는 상품은 5종목이고, 가장 투자금액이 높은 상품은 5642억원에 달한다&lt;br/&gt;&lt;em&gt;Among these, five products have a SpaceX allocation exceeding 25%, and the product with the highest investment amount reaches 564.2 billion won.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;단일종목 레버리지 상품은 개별 주식 종목의 하루 수익률을 2배로 추종하는 상품이다&lt;br/&gt;&lt;em&gt;Single-stock leveraged products track the daily return of an individual stock by two times.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 상품은 좋아요.&lt;br/&gt;&lt;em&gt;This product is good.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;상품은 비싸요.&lt;br/&gt;&lt;em&gt;The product is expensive.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 18 Jun 2026 12:22:54 +0900</pubDate><guid isPermaLink="false">vocab-36ca197216d17720471676635fbe426f5fbcdf5a</guid><enclosure url="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0fGVufDB8fHx8MTc4MTc1Mjk3MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="65632" /><ns2:content url="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0fGVufDB8fHx8MTc4MTc1Mjk3MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0fGVufDB8fHx8MTc4MTc1Mjk3MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>상품은</category></item><item><title>주최한 – hosted</title><link>urn:urn:vocab:주최한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0ZWR8ZW58MHx8fHwxNzgxNzQ1MzIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주최한 (hosted)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(김희찬·이서준 학생(24학번) 팀은 한국전력공사와 국가정보원 지부가 공동 주최한 ‘일렉콘(ELECCON 2024)&amp;#x27;에서 1등을 수상하며, 전력 및 에너지 분야 보안에서도 실력을 입증했다&lt;br/&gt;&lt;em&gt;The team of students Kim Hee-chan and Lee Seo-jun (class of 2024) won first place at 'ELECCON 2024' co-hosted by Korea Electric Power Corporation and a branch of the National Intelligence Service, proving their skills in the power and energy security sector.&lt;/em&gt;&lt;/p&gt;
