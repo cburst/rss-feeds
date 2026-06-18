@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 18:43:25 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 22:55:11 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,95 @@
 
 
 
-  <item><title>정책금리 – policy rate</title><link>urn:urn:vocab:정책금리</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>점도표 – dot plot</title><link>urn:urn:vocab:점도표</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712824694828-a151c4e824d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3QlMjBwbG90fGVufDB8fHx8MTc4MTc5MDkwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="점도표 (dot plot)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한은 뉴욕사무소는 “예상보다 높은 점도표 정책금리 및 개인소비지출(PCE) 인플레이션 전망치 등으로 연내 금리 인상 기대가 확대됨에 따라 금리는 단기물 중심으로 상승했고, 미 달러화는 강세, 주가는 하락세를 나타냈다”고 밝혔다&lt;br/&gt;&lt;em&gt;The Bank of Korea's New York office stated, "As expectations for a rate hike within the year expanded due to higher-than-expected dot plot policy rates and personal consumption expenditure (PCE) inflation forecasts, interest rates rose mainly in short-term instruments, the U.S. dollar strengthened, and stock prices showed a downward trend."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이와 함께 공개한 연준 위원들의 예상치인 점도표상 올해 정책금리 예측치 중간값은 3&lt;br/&gt;&lt;em&gt;Along with this, the median forecast for this year's policy rate in the dot plot, which is the Fed officials' projections released together, was 3.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;8%로 지난 3월에 나온 직전 점도표의 3&lt;br/&gt;&lt;em&gt;8%, compared to 3 in the previous dot plot released in March.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;점도표를 그리세요.&lt;br/&gt;&lt;em&gt;Draw a dot plot.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 점도표입니다.&lt;br/&gt;&lt;em&gt;This is a dot plot.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712824694828-a151c4e824d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3QlMjBwbG90fGVufDB8fHx8MTc4MTc5MDkwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="점도표 (dot plot)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한은 뉴욕사무소는 “예상보다 높은 점도표 정책금리 및 개인소비지출(PCE) 인플레이션 전망치 등으로 연내 금리 인상 기대가 확대됨에 따라 금리는 단기물 중심으로 상승했고, 미 달러화는 강세, 주가는 하락세를 나타냈다”고 밝혔다&lt;br/&gt;&lt;em&gt;The Bank of Korea's New York office stated, "As expectations for a rate hike within the year expanded due to higher-than-expected dot plot policy rates and personal consumption expenditure (PCE) inflation forecasts, interest rates rose mainly in short-term instruments, the U.S. dollar strengthened, and stock prices showed a downward trend."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이와 함께 공개한 연준 위원들의 예상치인 점도표상 올해 정책금리 예측치 중간값은 3&lt;br/&gt;&lt;em&gt;Along with this, the median forecast for this year's policy rate in the dot plot, which is the Fed officials' projections released together, was 3.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;8%로 지난 3월에 나온 직전 점도표의 3&lt;br/&gt;&lt;em&gt;8%, compared to 3 in the previous dot plot released in March.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;점도표를 그리세요.&lt;br/&gt;&lt;em&gt;Draw a dot plot.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 점도표입니다.&lt;br/&gt;&lt;em&gt;This is a dot plot.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 18 Jun 2026 22:55:11 +0900</pubDate><guid isPermaLink="false">vocab-eb976111f2d48fb30c1121483ca5cfa161e23cea</guid><enclosure url="https://images.unsplash.com/photo-1712824694828-a151c4e824d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3QlMjBwbG90fGVufDB8fHx8MTc4MTc5MDkwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="14444" /><ns2:content url="https://images.unsplash.com/photo-1712824694828-a151c4e824d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3QlMjBwbG90fGVufDB8fHx8MTc4MTc5MDkwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1712824694828-a151c4e824d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3QlMjBwbG90fGVufDB8fHx8MTc4MTc5MDkwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>점도표</category></item><item><title>점도표 – dot plot</title><link>urn:urn:vocab:점도표</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712824694828-a151c4e824d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3QlMjBwbG90fGVufDB8fHx8MTc4MTc5MDkwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="점도표 (dot plot)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한은 뉴욕사무소는 “예상보다 높은 점도표 정책금리 및 개인소비지출(PCE) 인플레이션 전망치 등으로 연내 금리 인상 기대가 확대됨에 따라 금리는 단기물 중심으로 상승했고, 미 달러화는 강세, 주가는 하락세를 나타냈다”고 밝혔다&lt;br/&gt;&lt;em&gt;The Bank of Korea's New York office stated, "As expectations for a rate hike within the year expanded due to higher-than-expected dot plot policy rates and personal consumption expenditure (PCE) inflation forecasts, interest rates rose mainly in short-term instruments, the US dollar strengthened, and stock prices showed a downward trend."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이와 함께 공개한 연준 위원들의 예상치인 점도표상 올해 정책금리 예측치 중간값은 3&lt;br/&gt;&lt;em&gt;Along with this, the median of this year's policy rate forecasts in the dot plot, which is the Fed officials' projections released together, was 3.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;8%로 지난 3월에 나온 직전 점도표의 3&lt;br/&gt;&lt;em&gt;8%, compared to 3 in the previous dot plot released in March.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;점도표를 그리세요.&lt;br/&gt;&lt;em&gt;Draw a dot plot.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 점도표입니다.&lt;br/&gt;&lt;em&gt;This is a dot plot.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712824694828-a151c4e824d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3QlMjBwbG90fGVufDB8fHx8MTc4MTc5MDkwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="점도표 (dot plot)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한은 뉴욕사무소는 “예상보다 높은 점도표 정책금리 및 개인소비지출(PCE) 인플레이션 전망치 등으로 연내 금리 인상 기대가 확대됨에 따라 금리는 단기물 중심으로 상승했고, 미 달러화는 강세, 주가는 하락세를 나타냈다”고 밝혔다&lt;br/&gt;&lt;em&gt;The Bank of Korea's New York office stated, "As expectations for a rate hike within the year expanded due to higher-than-expected dot plot policy rates and personal consumption expenditure (PCE) inflation forecasts, interest rates rose mainly in short-term instruments, the US dollar strengthened, and stock prices showed a downward trend."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이와 함께 공개한 연준 위원들의 예상치인 점도표상 올해 정책금리 예측치 중간값은 3&lt;br/&gt;&lt;em&gt;Along with this, the median of this year's policy rate forecasts in the dot plot, which is the Fed officials' projections released together, was 3.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;8%로 지난 3월에 나온 직전 점도표의 3&lt;br/&gt;&lt;em&gt;8%, compared to 3 in the previous dot plot released in March.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;점도표를 그리세요.&lt;br/&gt;&lt;em&gt;Draw a dot plot.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이것은 점도표입니다.&lt;br/&gt;&lt;em&gt;This is a dot plot.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 18 Jun 2026 22:55:10 +0900</pubDate><guid isPermaLink="false">vocab-8fcd77621e6eb7a7d8f91c948d5ab7c88e5e5bb5</guid><enclosure url="https://images.unsplash.com/photo-1712824694828-a151c4e824d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3QlMjBwbG90fGVufDB8fHx8MTc4MTc5MDkwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="14444" /><ns2:content url="https://images.unsplash.com/photo-1712824694828-a151c4e824d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3QlMjBwbG90fGVufDB8fHx8MTc4MTc5MDkwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1712824694828-a151c4e824d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3QlMjBwbG90fGVufDB8fHx8MTc4MTc5MDkwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>점도표</category></item><item><title>독서노트 – reading notes</title><link>urn:urn:vocab:독서노트</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1517971071642-34a2d3ecc9cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFkaW5nJTIwbm90ZXN8ZW58MHx8fHwxNzgxNzgzMTk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="독서노트 (reading notes)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;①토론 정리 ②독서노트 ③지식노트&lt;br/&gt;&lt;em&gt;①Discussion Summary ②Reading Notes ③Knowledge Notes&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이중 옵시디언 노트로 저장할 ②독서노트 ③지식노트를 템플릿으로 정리하려고 합니다&lt;br/&gt;&lt;em&gt;I plan to organize ②Reading Notes and ③Knowledge Notes, which will be saved as Obsidian notes, using templates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(②독서노트와 ③지식노트는 각각 템플릿을 만들어 기록하기로 했습니다&lt;br/&gt;&lt;em&gt;(②Reading Notes and ③Knowledge Notes will each be recorded using their own templates.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;독서노트를 써요.&lt;br/&gt;&lt;em&gt;I write a reading journal.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;독서노트가 필요해요.&lt;br/&gt;&lt;em&gt;I need a reading journal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1517971071642-34a2d3ecc9cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFkaW5nJTIwbm90ZXN8ZW58MHx8fHwxNzgxNzgzMTk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="독서노트 (reading notes)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;①토론 정리 ②독서노트 ③지식노트&lt;br/&gt;&lt;em&gt;①Discussion Summary ②Reading Notes ③Knowledge Notes&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이중 옵시디언 노트로 저장할 ②독서노트 ③지식노트를 템플릿으로 정리하려고 합니다&lt;br/&gt;&lt;em&gt;I plan to organize ②Reading Notes and ③Knowledge Notes, which will be saved as Obsidian notes, using templates.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(②독서노트와 ③지식노트는 각각 템플릿을 만들어 기록하기로 했습니다&lt;br/&gt;&lt;em&gt;(②Reading Notes and ③Knowledge Notes will each be recorded using their own templates.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;독서노트를 써요.&lt;br/&gt;&lt;em&gt;I write a reading journal.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;독서노트가 필요해요.&lt;br/&gt;&lt;em&gt;I need a reading journal.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 18 Jun 2026 20:46:39 +0900</pubDate><guid isPermaLink="false">vocab-c077b82a1bb7755eb467934898e5d24ccc47b800</guid><enclosure url="https://images.unsplash.com/photo-1517971071642-34a2d3ecc9cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFkaW5nJTIwbm90ZXN8ZW58MHx8fHwxNzgxNzgzMTk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="120382" /><ns2:content url="https://images.unsplash.com/photo-1517971071642-34a2d3ecc9cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFkaW5nJTIwbm90ZXN8ZW58MHx8fHwxNzgxNzgzMTk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1517971071642-34a2d3ecc9cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWFkaW5nJTIwbm90ZXN8ZW58MHx8fHwxNzgxNzgzMTk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>독서노트</category></item><item><title>상승률 – rate of increase</title><link>urn:urn:vocab:상승률</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1592495989226-03f88104f8cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXRlJTIwb2YlMjBpbmNyZWFzZXxlbnwwfHx8fDE3ODE3ODMxMzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상승률 (rate of increase)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Year-to-Date Gains Exceed 110% (코스피, 장중 사상 첫 ‘9천피’ 돌파…올해 상승률 110% 넘어) &lt;&lt;br/&gt;&lt;em&gt;Year-to-Date Gains Exceed 110% (KOSPI breaks through 9,000 for the first time in intraday history... Year-to-date gain exceeds 110%) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Year-to-Date Gains Exceed 110% (코스피, 장중 사상 첫 ‘9천피’ 돌파…올해 상승률 110% 넘어)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Year-to-Date Gains Exceed 110% (KOSPI breaks through 9,000 for the first time in intraday history... Year-to-date gain exceeds 110%)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;코스피는 올해 들어 천 단위를 다섯번 갈아치우면서 110% 이상의 상승률을 기록하고 있다&lt;br/&gt;&lt;em&gt;KOSPI has recorded a gain of over 110% this year, breaking through the thousand mark five times.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;상승률이 높습니다.&lt;br/&gt;&lt;em&gt;The rate of increase is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;물가 상승률이 낮아요.&lt;br/&gt;&lt;em&gt;The inflation rate is low.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1592495989226-03f88104f8cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXRlJTIwb2YlMjBpbmNyZWFzZXxlbnwwfHx8fDE3ODE3ODMxMzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="상승률 (rate of increase)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Year-to-Date Gains Exceed 110% (코스피, 장중 사상 첫 ‘9천피’ 돌파…올해 상승률 110% 넘어) &lt;&lt;br/&gt;&lt;em&gt;Year-to-Date Gains Exceed 110% (KOSPI breaks through 9,000 for the first time in intraday history... Year-to-date gain exceeds 110%) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Year-to-Date Gains Exceed 110% (코스피, 장중 사상 첫 ‘9천피’ 돌파…올해 상승률 110% 넘어)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Year-to-Date Gains Exceed 110% (KOSPI breaks through 9,000 for the first time in intraday history... Year-to-date gain exceeds 110%)&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;코스피는 올해 들어 천 단위를 다섯번 갈아치우면서 110% 이상의 상승률을 기록하고 있다&lt;br/&gt;&lt;em&gt;KOSPI has recorded a gain of over 110% this year, breaking through the thousand mark five times.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;상승률이 높습니다.&lt;br/&gt;&lt;em&gt;The rate of increase is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;물가 상승률이 낮아요.&lt;br/&gt;&lt;em&gt;The inflation rate is low.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 18 Jun 2026 20:45:41 +0900</pubDate><guid isPermaLink="false">vocab-a2e5a1963168106203b3b75594ce83c62740931d</guid><enclosure url="https://images.unsplash.com/photo-1592495989226-03f88104f8cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXRlJTIwb2YlMjBpbmNyZWFzZXxlbnwwfHx8fDE3ODE3ODMxMzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="47507" /><ns2:content url="https://images.unsplash.com/photo-1592495989226-03f88104f8cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXRlJTIwb2YlMjBpbmNyZWFzZXxlbnwwfHx8fDE3ODE3ODMxMzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1592495989226-03f88104f8cc?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyYXRlJTIwb2YlMjBpbmNyZWFzZXxlbnwwfHx8fDE3ODE3ODMxMzd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>상승률</category></item><item><title>정책금리 – policy rate</title><link>urn:urn:vocab:정책금리</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1771931322109-180bb1b35bf8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwb2xpY3klMjByYXRlfGVufDB8fHx8MTc4MTc3NTgwMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="정책금리 (policy rate)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(미국 중앙은행인 연방준비제도(연준)가 17일(현지시각) 케빈 워시 신임 의장 주재로 열린 첫 연방공개시장위원회(FOMC)에서 정책금리(기준금리) 결정과 함께 내놓은 결정문에 금융시장은 예상보다 강한 ‘긴축 신호’로 해석하고 있다고 한국은행 뉴욕사무소가 전했다&lt;br/&gt;&lt;em&gt;The Bank of Korea's New York office reported that the financial market interpreted the statement released by the Federal Reserve (Fed) at its first Federal Open Market Committee (FOMC) meeting chaired by new Chairman Kevin Warsh on the 17th (local time), along with the policy rate decision, as a stronger-than-expected 'tightening signal'.&lt;/em&gt;&lt;/p&gt;
