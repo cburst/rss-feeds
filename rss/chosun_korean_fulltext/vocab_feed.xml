@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 14:30:50 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 18:43:32 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,47 @@
 
 
 
-  <item><title>선물받아 – receive a gift</title><link>urn:urn:vocab:선물받아</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>공기업 – public enterprise</title><link>urn:urn:vocab:공기업</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1642706674385-a63ee6e063c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjBlbnRlcnByaXNlfGVufDB8fHx8MTc4MTc3NTgwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공기업 (public enterprise)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4em;"&gt;발전 공기업 5사 노조도 통합에 찬성… “재생에너지 확대·전력 공공성 사수 원칙으로”&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Unions of five state-run power generation companies also agree to integration... Under the principle of expanding renewable energy and protecting electricity public interest&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;“5개 발전 공기업, 경영 효율화 위해 1사로 합쳐야”… 25년 만에 통합 수순&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Five state-run power generation companies should be merged into one for management efficiency... Integration process after 25 years&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;“발전 공기업 5사, 1곳으로 통합해야”… 기후부, 다음달 구조조정안 발표   &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Five state-run power generation companies should be integrated into one... Climate department to announce restructuring plan next month&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;공기업은 국가가 소유합니다.&lt;br/&gt;&lt;em&gt;State-owned enterprises are owned by the state.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 공기업에서 일합니다.&lt;br/&gt;&lt;em&gt;He works at a state-owned enterprise.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1642706674385-a63ee6e063c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjBlbnRlcnByaXNlfGVufDB8fHx8MTc4MTc3NTgwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="공기업 (public enterprise)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4em;"&gt;발전 공기업 5사 노조도 통합에 찬성… “재생에너지 확대·전력 공공성 사수 원칙으로”&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Unions of five state-run power generation companies also agree to integration... Under the principle of expanding renewable energy and protecting electricity public interest&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;“5개 발전 공기업, 경영 효율화 위해 1사로 합쳐야”… 25년 만에 통합 수순&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Five state-run power generation companies should be merged into one for management efficiency... Integration process after 25 years&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;“발전 공기업 5사, 1곳으로 통합해야”… 기후부, 다음달 구조조정안 발표   &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;Five state-run power generation companies should be integrated into one... Climate department to announce restructuring plan next month&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;공기업은 국가가 소유합니다.&lt;br/&gt;&lt;em&gt;State-owned enterprises are owned by the state.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 공기업에서 일합니다.&lt;br/&gt;&lt;em&gt;He works at a state-owned enterprise.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 18 Jun 2026 18:43:32 +0900</pubDate><guid isPermaLink="false">vocab-647cacdd052ce2fbc429fac528d47dc20eb872ce</guid><enclosure url="https://images.unsplash.com/photo-1642706674385-a63ee6e063c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjBlbnRlcnByaXNlfGVufDB8fHx8MTc4MTc3NTgwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="254179" /><ns2:content url="https://images.unsplash.com/photo-1642706674385-a63ee6e063c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjBlbnRlcnByaXNlfGVufDB8fHx8MTc4MTc3NTgwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1642706674385-a63ee6e063c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjBlbnRlcnByaXNlfGVufDB8fHx8MTc4MTc3NTgwOHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>공기업</category></item><item><title>골프를 – golf</title><link>urn:urn:vocab:골프를</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1500932334442-8761ee4810a7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnb2xmfGVufDB8fHx8MTc4MTc3NTYzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="골프를 (golf)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 대통령은 “어제 만찬 때 골프 얘기를 하며 우리 부부와 골프를 함께 하겠다고 해 아내가 손가락 걸고 약속받았는데, 오늘 오찬 후 헤어지면서 다시 골프를 꼭 함께 하자고 하셨다”며 “지나가는 말인 줄 알았는데 준비를 해야 할 것 같다”고 했다&lt;br/&gt;&lt;em&gt;President Lee said, 'During yesterday's dinner, we talked about golf and he said he would play golf with my wife and me, so my wife made him promise with a pinky swear. Then today, after lunch, as we were parting, he said again that we must definitely play golf together. I thought it was just a passing remark, but it seems I need to prepare.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 골프를 좋아해요.&lt;br/&gt;&lt;em&gt;I like golf.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주말에 골프를 쳐요.&lt;br/&gt;&lt;em&gt;I play golf on weekends.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1500932334442-8761ee4810a7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnb2xmfGVufDB8fHx8MTc4MTc3NTYzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="골프를 (golf)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 대통령은 “어제 만찬 때 골프 얘기를 하며 우리 부부와 골프를 함께 하겠다고 해 아내가 손가락 걸고 약속받았는데, 오늘 오찬 후 헤어지면서 다시 골프를 꼭 함께 하자고 하셨다”며 “지나가는 말인 줄 알았는데 준비를 해야 할 것 같다”고 했다&lt;br/&gt;&lt;em&gt;President Lee said, 'During yesterday's dinner, we talked about golf and he said he would play golf with my wife and me, so my wife made him promise with a pinky swear. Then today, after lunch, as we were parting, he said again that we must definitely play golf together. I thought it was just a passing remark, but it seems I need to prepare.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 골프를 좋아해요.&lt;br/&gt;&lt;em&gt;I like golf.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;주말에 골프를 쳐요.&lt;br/&gt;&lt;em&gt;I play golf on weekends.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 18 Jun 2026 18:40:39 +0900</pubDate><guid isPermaLink="false">vocab-15b93f4878fdc898909ba7f65e796e2c14e442e9</guid><enclosure url="https://images.unsplash.com/photo-1500932334442-8761ee4810a7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnb2xmfGVufDB8fHx8MTc4MTc3NTYzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="136713" /><ns2:content url="https://images.unsplash.com/photo-1500932334442-8761ee4810a7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnb2xmfGVufDB8fHx8MTc4MTc3NTYzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1500932334442-8761ee4810a7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxnb2xmfGVufDB8fHx8MTc4MTc3NTYzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>골프를</category></item><item><title>선물받아 – receive a gift</title><link>urn:urn:vocab:선물받아</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1512909006721-3d6018887383?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxyZWNlaXZlJTIwYSUyMGdpZnR8ZW58MHx8fHwxNzgxNzYwNjQ3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="선물받아 (receive a gift)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;President Lee Promises Golf with Trump… Receives Gift of Personalized Signing Pen (李대통령, 트럼프와 골프  약속…직접 쓰던 서명용 펜  선물받아) &lt;&lt;br/&gt;&lt;em&gt;President Lee Promises Golf with Trump… Receives Gift of Personalized Signing Pen&lt;/em&gt;&lt;/p&gt;
