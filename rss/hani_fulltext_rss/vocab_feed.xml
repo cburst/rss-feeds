@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 22:55:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 05:09:44 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,73 @@
 
 
 
-  <item><title>점도표 – dot plot</title><link>urn:urn:vocab:점도표</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>인상을 – impression</title><link>urn:urn:vocab:인상을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1521058670233-1d18329b906b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbXByZXNzaW9ufGVufDB8fHx8MTc4MTgxMzM4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인상을 (impression)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;연말 기준금리 예상치를 제출한 18명 가운데 9명이 최소 1회의 금리 인상을 예측해 예상보다 훨씬 매파적(긴축 선호)이라 평가를 받았다&lt;br/&gt;&lt;em&gt;Among the 18 people who submitted year-end base rate forecasts, 9 predicted at least one rate hike, which was evaluated as much more hawkish (preferring tightening) than expected.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;금리 인상 기대감이 100%를 넘어 인상을 기정사실로 삼고 있다는 뜻이다&lt;br/&gt;&lt;em&gt;This means that the expectation of a rate hike has exceeded 100%, treating the hike as a fait accompli.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;점도표상 올해 말 금리 전망을 제출한 18명 중 8명은 현 수준 유지, 1명은 인하, 9명은 최소 한 차례 인상을 전망했다는 사실은 연내 금리 인상을 상수로 굳히고 있다&lt;br/&gt;&lt;em&gt;The fact that among the 18 people who submitted year-end rate forecasts on the dot plot, 8 predicted maintaining the current level, 1 predicted a cut, and 9 predicted at least one hike solidifies a rate hike within the year as a constant.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 인상을 좋아해요.&lt;br/&gt;&lt;em&gt;I like his impression.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;첫 인상을 중요해요.&lt;br/&gt;&lt;em&gt;First impressions are important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1521058670233-1d18329b906b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbXByZXNzaW9ufGVufDB8fHx8MTc4MTgxMzM4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인상을 (impression)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;연말 기준금리 예상치를 제출한 18명 가운데 9명이 최소 1회의 금리 인상을 예측해 예상보다 훨씬 매파적(긴축 선호)이라 평가를 받았다&lt;br/&gt;&lt;em&gt;Among the 18 people who submitted year-end base rate forecasts, 9 predicted at least one rate hike, which was evaluated as much more hawkish (preferring tightening) than expected.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;금리 인상 기대감이 100%를 넘어 인상을 기정사실로 삼고 있다는 뜻이다&lt;br/&gt;&lt;em&gt;This means that the expectation of a rate hike has exceeded 100%, treating the hike as a fait accompli.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;점도표상 올해 말 금리 전망을 제출한 18명 중 8명은 현 수준 유지, 1명은 인하, 9명은 최소 한 차례 인상을 전망했다는 사실은 연내 금리 인상을 상수로 굳히고 있다&lt;br/&gt;&lt;em&gt;The fact that among the 18 people who submitted year-end rate forecasts on the dot plot, 8 predicted maintaining the current level, 1 predicted a cut, and 9 predicted at least one hike solidifies a rate hike within the year as a constant.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 인상을 좋아해요.&lt;br/&gt;&lt;em&gt;I like his impression.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;첫 인상을 중요해요.&lt;br/&gt;&lt;em&gt;First impressions are important.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 19 Jun 2026 05:09:44 +0900</pubDate><guid isPermaLink="false">vocab-9d547abb5a252531eaff0b047aa1caa0550e428f</guid><enclosure url="https://images.unsplash.com/photo-1521058670233-1d18329b906b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbXByZXNzaW9ufGVufDB8fHx8MTc4MTgxMzM4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="574903" /><ns2:content url="https://images.unsplash.com/photo-1521058670233-1d18329b906b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbXByZXNzaW9ufGVufDB8fHx8MTc4MTgxMzM4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1521058670233-1d18329b906b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbXByZXNzaW9ufGVufDB8fHx8MTc4MTgxMzM4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>인상을</category></item><item><title>기대가 – expectation</title><link>urn:urn:vocab:기대가</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1538766017398-415434a31a5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RhdGlvbnxlbnwwfHx8fDE3ODE4MDc1NzF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기대가 (expectation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한은 뉴욕사무소는 “예상보다 높은 점도표 정책금리 및 개인소비지출(PCE) 인플레이션 전망치 등으로 연내 금리 인상 기대가 확대됨에 따라 금리는 단기물 중심으로 상승했고, 미 달러화는 강세, 주가는 하락세를 나타냈다”고 밝혔다&lt;br/&gt;&lt;em&gt;(The Bank of Korea's New York office stated, "As expectations for a rate hike within the year expanded due to higher-than-expected dot plot policy rates and personal consumption expenditure (PCE) inflation forecasts, bond yields rose, mainly in short-term maturities, the U.S. dollar strengthened, and stock prices showed a downward trend.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;25%포인트 인상 기대가 106%로 나타났다고 한은 뉴욕사무소는 전했다&lt;br/&gt;&lt;em&gt;The Bank of Korea's New York office reported that expectations for a 25 basis point rate hike stood at 106%.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(한국은행 뉴욕사무소는 “예상보다 높은 점도표 정책금리 및 인플레이션 전망치 등으로 연내 금리 인상 기대가 확대됨에 따라 채권 금리는 단기물 중심으로 상승했고, 미 달러화는 강세, 주가는 하락세를 나타냈다”며 현지 분위기를 전했다&lt;br/&gt;&lt;em&gt;(The Bank of Korea's New York office conveyed the local sentiment, saying, "As expectations for a rate hike within the year expanded due to higher-than-expected dot plot policy rates and inflation forecasts, bond yields rose, mainly in short-term maturities, the U.S. dollar strengthened, and stock prices showed a downward trend.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기대가 커요.&lt;br/&gt;&lt;em&gt;I have high expectations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기대가 없어요.&lt;br/&gt;&lt;em&gt;I have no expectations.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1538766017398-415434a31a5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RhdGlvbnxlbnwwfHx8fDE3ODE4MDc1NzF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기대가 (expectation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(한은 뉴욕사무소는 “예상보다 높은 점도표 정책금리 및 개인소비지출(PCE) 인플레이션 전망치 등으로 연내 금리 인상 기대가 확대됨에 따라 금리는 단기물 중심으로 상승했고, 미 달러화는 강세, 주가는 하락세를 나타냈다”고 밝혔다&lt;br/&gt;&lt;em&gt;(The Bank of Korea's New York office stated, "As expectations for a rate hike within the year expanded due to higher-than-expected dot plot policy rates and personal consumption expenditure (PCE) inflation forecasts, bond yields rose, mainly in short-term maturities, the U.S. dollar strengthened, and stock prices showed a downward trend.")&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;25%포인트 인상 기대가 106%로 나타났다고 한은 뉴욕사무소는 전했다&lt;br/&gt;&lt;em&gt;The Bank of Korea's New York office reported that expectations for a 25 basis point rate hike stood at 106%.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(한국은행 뉴욕사무소는 “예상보다 높은 점도표 정책금리 및 인플레이션 전망치 등으로 연내 금리 인상 기대가 확대됨에 따라 채권 금리는 단기물 중심으로 상승했고, 미 달러화는 강세, 주가는 하락세를 나타냈다”며 현지 분위기를 전했다&lt;br/&gt;&lt;em&gt;(The Bank of Korea's New York office conveyed the local sentiment, saying, "As expectations for a rate hike within the year expanded due to higher-than-expected dot plot policy rates and inflation forecasts, bond yields rose, mainly in short-term maturities, the U.S. dollar strengthened, and stock prices showed a downward trend.")&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기대가 커요.&lt;br/&gt;&lt;em&gt;I have high expectations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기대가 없어요.&lt;br/&gt;&lt;em&gt;I have no expectations.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 19 Jun 2026 03:32:55 +0900</pubDate><guid isPermaLink="false">vocab-8de5972a4cd4121bcf5ad7618f2bac1e472dbb85</guid><enclosure url="https://images.unsplash.com/photo-1538766017398-415434a31a5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RhdGlvbnxlbnwwfHx8fDE3ODE4MDc1NzF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="85690" /><ns2:content url="https://images.unsplash.com/photo-1538766017398-415434a31a5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RhdGlvbnxlbnwwfHx8fDE3ODE4MDc1NzF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1538766017398-415434a31a5b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleHBlY3RhdGlvbnxlbnwwfHx8fDE3ODE4MDc1NzF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기대가</category></item><item><title>통화정책 – monetary policy</title><link>urn:urn:vocab:통화정책</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb25ldGFyeSUyMHBvbGljeXxlbnwwfHx8fDE3ODE4MDU5NDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="통화정책 (monetary policy)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;monetary policy may tighten… will support vulnerable borrowers" (경제 수장들 “미국 통화정책 긴축 가능성…취약차주 지원할 것”) &lt;&lt;br/&gt;&lt;em&gt;monetary policy may tighten… will support vulnerable borrowers (Economic leaders: "US monetary policy may tighten… will support vulnerable borrowers") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;monetary policy may tighten… will support vulnerable borrowers" (경제 수장들 “미국 통화정책 긴축 가능성…취약차주 지원할 것”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;monetary policy may tighten… will support vulnerable borrowers (Economic leaders: "US monetary policy may tighten… will support vulnerable borrowers") &lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Fed to Reduce 'Rate Hints'…Chairman Walsh Likely to Change Monetary Policy Announcement Method (미 연준 ‘금리 힌트’ 줄인다…워시 의장, 통화정책 예고 방식 바꿀 듯) &lt;&lt;br/&gt;&lt;em&gt;Fed to Reduce 'Rate Hints'…Chairman Walsh Likely to Change Monetary Policy Announcement Method (US Fed to reduce 'rate hints'…Chairman Walsh likely to change monetary policy announcement method) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;통화정책이 경제에 영향을 줍니다.&lt;br/&gt;&lt;em&gt;Monetary policy affects the economy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한국은행이 통화정책을 결정합니다.&lt;br/&gt;&lt;em&gt;The Bank of Korea decides monetary policy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb25ldGFyeSUyMHBvbGljeXxlbnwwfHx8fDE3ODE4MDU5NDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="통화정책 (monetary policy)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;monetary policy may tighten… will support vulnerable borrowers" (경제 수장들 “미국 통화정책 긴축 가능성…취약차주 지원할 것”) &lt;&lt;br/&gt;&lt;em&gt;monetary policy may tighten… will support vulnerable borrowers (Economic leaders: "US monetary policy may tighten… will support vulnerable borrowers") &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;monetary policy may tighten… will support vulnerable borrowers" (경제 수장들 “미국 통화정책 긴축 가능성…취약차주 지원할 것”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;monetary policy may tighten… will support vulnerable borrowers (Economic leaders: "US monetary policy may tighten… will support vulnerable borrowers") &lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Fed to Reduce 'Rate Hints'…Chairman Walsh Likely to Change Monetary Policy Announcement Method (미 연준 ‘금리 힌트’ 줄인다…워시 의장, 통화정책 예고 방식 바꿀 듯) &lt;&lt;br/&gt;&lt;em&gt;Fed to Reduce 'Rate Hints'…Chairman Walsh Likely to Change Monetary Policy Announcement Method (US Fed to reduce 'rate hints'…Chairman Walsh likely to change monetary policy announcement method) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;통화정책이 경제에 영향을 줍니다.&lt;br/&gt;&lt;em&gt;Monetary policy affects the economy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;한국은행이 통화정책을 결정합니다.&lt;br/&gt;&lt;em&gt;The Bank of Korea decides monetary policy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 19 Jun 2026 03:05:51 +0900</pubDate><guid isPermaLink="false">vocab-d17052000087d946a08ebe68532353f4476c19a6</guid><enclosure url="https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb25ldGFyeSUyMHBvbGljeXxlbnwwfHx8fDE3ODE4MDU5NDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="99974" /><ns2:content url="https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb25ldGFyeSUyMHBvbGljeXxlbnwwfHx8fDE3ODE4MDU5NDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxtb25ldGFyeSUyMHBvbGljeXxlbnwwfHx8fDE3ODE4MDU5NDd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>통화정책</category></item><item><title>점도표 – dot plot</title><link>urn:urn:vocab:점도표</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1712824694828-a151c4e824d8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkb3QlMjBwbG90fGVufDB8fHx8MTc4MTc5MDkwN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="점도표 (dot plot)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(한은 뉴욕사무소는 “예상보다 높은 점도표 정책금리 및 개인소비지출(PCE) 인플레이션 전망치 등으로 연내 금리 인상 기대가 확대됨에 따라 금리는 단기물 중심으로 상승했고, 미 달러화는 강세, 주가는 하락세를 나타냈다”고 밝혔다&lt;br/&gt;&lt;em&gt;The Bank of Korea's New York office stated, "As expectations for a rate hike within the year expanded due to higher-than-expected dot plot policy rates and personal consumption expenditure (PCE) inflation forecasts, interest rates rose mainly in short-term instruments, the U.S. dollar strengthened, and stock prices showed a downward trend."&lt;/em&gt;&lt;/p&gt;
