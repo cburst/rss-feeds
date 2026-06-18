@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 05:09:44 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 07:39:42 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,73 @@
 
 
 
-  <item><title>인상을 – impression</title><link>urn:urn:vocab:인상을</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>옵시디언 – obsidian</title><link>urn:urn:vocab:옵시디언</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1544044479-4ff512bd5ebe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvYnNpZGlhbnxlbnwwfHx8fDE3ODE4MjIzNzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="옵시디언 (obsidian)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Let's Mine Obsidian-3 [DWDW AI ⑬] (옵시디언을 채굴하자-3 [두런두런 AI ⑬]) &lt;&lt;br/&gt;&lt;em&gt;Let's Mine Obsidian-3 [DWDW AI ⑬]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Let's Mine Obsidian-3 [DWDW AI ⑬] (옵시디언을 채굴하자-3 [두런두런 AI ⑬])&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Let's Mine Obsidian-3 [DWDW AI ⑬]&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(“옵시디언, 뭔지 알아&lt;br/&gt;&lt;em&gt;("Do you know what obsidian is?"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;옵시디언은 검은 돌이다.&lt;br/&gt;&lt;em&gt;Obsidian is a black stone.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 옵시디언을 샀다.&lt;br/&gt;&lt;em&gt;I bought obsidian.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1544044479-4ff512bd5ebe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvYnNpZGlhbnxlbnwwfHx8fDE3ODE4MjIzNzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="옵시디언 (obsidian)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Let's Mine Obsidian-3 [DWDW AI ⑬] (옵시디언을 채굴하자-3 [두런두런 AI ⑬]) &lt;&lt;br/&gt;&lt;em&gt;Let's Mine Obsidian-3 [DWDW AI ⑬]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Let's Mine Obsidian-3 [DWDW AI ⑬] (옵시디언을 채굴하자-3 [두런두런 AI ⑬])&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Let's Mine Obsidian-3 [DWDW AI ⑬]&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(“옵시디언, 뭔지 알아&lt;br/&gt;&lt;em&gt;("Do you know what obsidian is?"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;옵시디언은 검은 돌이다.&lt;br/&gt;&lt;em&gt;Obsidian is a black stone.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;나는 옵시디언을 샀다.&lt;br/&gt;&lt;em&gt;I bought obsidian.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 19 Jun 2026 07:39:42 +0900</pubDate><guid isPermaLink="false">vocab-704d69aa3866182c445c5029f1cde8c8df0c4695</guid><enclosure url="https://images.unsplash.com/photo-1544044479-4ff512bd5ebe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvYnNpZGlhbnxlbnwwfHx8fDE3ODE4MjIzNzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="131789" /><ns2:content url="https://images.unsplash.com/photo-1544044479-4ff512bd5ebe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvYnNpZGlhbnxlbnwwfHx8fDE3ODE4MjIzNzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1544044479-4ff512bd5ebe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxvYnNpZGlhbnxlbnwwfHx8fDE3ODE4MjIzNzl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>옵시디언</category></item><item><title>투자에 – to investment</title><link>urn:urn:vocab:투자에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633158829875-e5316a358c6f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGludmVzdG1lbnR8ZW58MHx8fHwxNzgxODIwOTA3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투자에 (to investment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(금감원은 투자자들에게 기사 제목에 ‘특징주’, ‘관련 테마주’, ‘급등주’ 등이 언급됐다는 이유만으로 투자에 나서면 투자사기나 시세조종, 선행매매 세력의 표적이 될 수 있다고 주의를 당부했다&lt;br/&gt;&lt;em&gt;The Financial Supervisory Service warned investors that if they invest solely because the article title mentions 'featured stock', 'related theme stock', 'surge stock', etc., they could become targets of investment fraud, market manipulation, or front-running forces.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;kr&lt;/a&gt; (  이우근 성균관대 교수(반도체융합공학과)는 “중국의 강점은 내수시장이 크고 기초과학이 강하다는 점”이라며 “중국 기업들도 최근 슈퍼사이클 호재로 돈을 벌어들이고 있기 때문에 적극적으로 투자에 나설 것”이라고 말했다&lt;br/&gt;&lt;em&gt;Professor Lee Woo-keun of Sungkyunkwan University (Department of Semiconductor Convergence Engineering) said, 'China's strengths are its large domestic market and strong basic science,' adding, 'Chinese companies are also making money from the recent supercycle boom, so they will actively invest.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  글로벌 빅테크(거대 기술기업)들의 인공지능(AI) 투자에 더해, 거대 테크 기업의 공격적 경영 판단이 맞물려 빚어진 반도체 슈퍼사이클의 기세가 거세다&lt;br/&gt;&lt;em&gt;In addition to global big tech companies' investments in artificial intelligence (AI), the aggressive management decisions of giant tech companies have combined to create a powerful semiconductor supercycle.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 투자에 관심이 있어요.&lt;br/&gt;&lt;em&gt;I am interested in investing.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 투자에 돈을 썼어요.&lt;br/&gt;&lt;em&gt;He spent money on investments.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1633158829875-e5316a358c6f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGludmVzdG1lbnR8ZW58MHx8fHwxNzgxODIwOTA3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="투자에 (to investment)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(금감원은 투자자들에게 기사 제목에 ‘특징주’, ‘관련 테마주’, ‘급등주’ 등이 언급됐다는 이유만으로 투자에 나서면 투자사기나 시세조종, 선행매매 세력의 표적이 될 수 있다고 주의를 당부했다&lt;br/&gt;&lt;em&gt;The Financial Supervisory Service warned investors that if they invest solely because the article title mentions 'featured stock', 'related theme stock', 'surge stock', etc., they could become targets of investment fraud, market manipulation, or front-running forces.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;kr&lt;/a&gt; (  이우근 성균관대 교수(반도체융합공학과)는 “중국의 강점은 내수시장이 크고 기초과학이 강하다는 점”이라며 “중국 기업들도 최근 슈퍼사이클 호재로 돈을 벌어들이고 있기 때문에 적극적으로 투자에 나설 것”이라고 말했다&lt;br/&gt;&lt;em&gt;Professor Lee Woo-keun of Sungkyunkwan University (Department of Semiconductor Convergence Engineering) said, 'China's strengths are its large domestic market and strong basic science,' adding, 'Chinese companies are also making money from the recent supercycle boom, so they will actively invest.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(  글로벌 빅테크(거대 기술기업)들의 인공지능(AI) 투자에 더해, 거대 테크 기업의 공격적 경영 판단이 맞물려 빚어진 반도체 슈퍼사이클의 기세가 거세다&lt;br/&gt;&lt;em&gt;In addition to global big tech companies' investments in artificial intelligence (AI), the aggressive management decisions of giant tech companies have combined to create a powerful semiconductor supercycle.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 투자에 관심이 있어요.&lt;br/&gt;&lt;em&gt;I am interested in investing.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 투자에 돈을 썼어요.&lt;br/&gt;&lt;em&gt;He spent money on investments.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 19 Jun 2026 07:15:12 +0900</pubDate><guid isPermaLink="false">vocab-5e7dc87f80ed84a777472ee0c52e892827554daf</guid><enclosure url="https://images.unsplash.com/photo-1633158829875-e5316a358c6f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGludmVzdG1lbnR8ZW58MHx8fHwxNzgxODIwOTA3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="72457" /><ns2:content url="https://images.unsplash.com/photo-1633158829875-e5316a358c6f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGludmVzdG1lbnR8ZW58MHx8fHwxNzgxODIwOTA3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1633158829875-e5316a358c6f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMGludmVzdG1lbnR8ZW58MHx8fHwxNzgxODIwOTA3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>투자에</category></item><item><title>생산량 – production volume</title><link>urn:urn:vocab:생산량</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1707581796350-260c9d2351d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aW9uJTIwdm9sdW1lfGVufDB8fHx8MTc4MTgxNDk5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생산량 (production volume)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;농산물의 경우 인공지능을 활용한 수급 예측 대상품목을 확대하고, 민간의 우수모델을 도입해 생산량 및 가격 예측 수준을 높이기로 했다&lt;br/&gt;&lt;em&gt;For agricultural products, the government plans to expand the number of items subject to supply and demand forecasting using artificial intelligence and introduce excellent private models to improve the level of production and price prediction.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예를 들어 기상정보, 비료 투입량 등 도매가격·생산량에 영향을 주는 요인들을 인공지능이 분석해 수급량을 예측하는 식이다&lt;br/&gt;&lt;em&gt;For example, AI analyzes factors affecting wholesale prices and production, such as weather information and fertilizer input, to predict supply and demand.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시장조사기관 ‘옴디아’ 통계를 보면, 중국 최대 디(D)램 업체인 창신메모리테크놀로지(CXMT)의 연간 디램 웨이퍼(반도체 원판) 생산량 추정치는 354만장이다&lt;br/&gt;&lt;em&gt;According to statistics from market research firm Omdia, the estimated annual production of DRAM wafers by China's largest DRAM maker, Changxin Memory Technologies (CXMT), is 3.54 million units.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;생산량이 증가했습니다.&lt;br/&gt;&lt;em&gt;Production has increased.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;올해 생산량이 많습니다.&lt;br/&gt;&lt;em&gt;This year's production is high.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1707581796350-260c9d2351d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aW9uJTIwdm9sdW1lfGVufDB8fHx8MTc4MTgxNDk5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="생산량 (production volume)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;농산물의 경우 인공지능을 활용한 수급 예측 대상품목을 확대하고, 민간의 우수모델을 도입해 생산량 및 가격 예측 수준을 높이기로 했다&lt;br/&gt;&lt;em&gt;For agricultural products, the government plans to expand the number of items subject to supply and demand forecasting using artificial intelligence and introduce excellent private models to improve the level of production and price prediction.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;예를 들어 기상정보, 비료 투입량 등 도매가격·생산량에 영향을 주는 요인들을 인공지능이 분석해 수급량을 예측하는 식이다&lt;br/&gt;&lt;em&gt;For example, AI analyzes factors affecting wholesale prices and production, such as weather information and fertilizer input, to predict supply and demand.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;시장조사기관 ‘옴디아’ 통계를 보면, 중국 최대 디(D)램 업체인 창신메모리테크놀로지(CXMT)의 연간 디램 웨이퍼(반도체 원판) 생산량 추정치는 354만장이다&lt;br/&gt;&lt;em&gt;According to statistics from market research firm Omdia, the estimated annual production of DRAM wafers by China's largest DRAM maker, Changxin Memory Technologies (CXMT), is 3.54 million units.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;생산량이 증가했습니다.&lt;br/&gt;&lt;em&gt;Production has increased.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;올해 생산량이 많습니다.&lt;br/&gt;&lt;em&gt;This year's production is high.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 19 Jun 2026 05:36:38 +0900</pubDate><guid isPermaLink="false">vocab-cb2b6a6a099d3962aa2ba0b87fff2841514749b8</guid><enclosure url="https://images.unsplash.com/photo-1707581796350-260c9d2351d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aW9uJTIwdm9sdW1lfGVufDB8fHx8MTc4MTgxNDk5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="89410" /><ns2:content url="https://images.unsplash.com/photo-1707581796350-260c9d2351d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aW9uJTIwdm9sdW1lfGVufDB8fHx8MTc4MTgxNDk5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1707581796350-260c9d2351d4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0aW9uJTIwdm9sdW1lfGVufDB8fHx8MTc4MTgxNDk5NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>생산량</category></item><item><title>인상을 – impression</title><link>urn:urn:vocab:인상을</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1521058670233-1d18329b906b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbXByZXNzaW9ufGVufDB8fHx8MTc4MTgxMzM4MXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인상을 (impression)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;연말 기준금리 예상치를 제출한 18명 가운데 9명이 최소 1회의 금리 인상을 예측해 예상보다 훨씬 매파적(긴축 선호)이라 평가를 받았다&lt;br/&gt;&lt;em&gt;Among the 18 people who submitted year-end base rate forecasts, 9 predicted at least one rate hike, which was evaluated as much more hawkish (preferring tightening) than expected.&lt;/em&gt;&lt;/p&gt;
