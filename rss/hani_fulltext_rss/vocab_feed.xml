@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 08:05:56 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:15:27 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>청소년이라면 – if you are a teenager</title><link>urn:urn:vocab:청소년이라면</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>주최한 – hosted</title><link>urn:urn:vocab:주최한</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0ZWR8ZW58MHx8fHwxNzgxNzQ1MzIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주최한 (hosted)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(김희찬·이서준 학생(24학번) 팀은 한국전력공사와 국가정보원 지부가 공동 주최한 ‘일렉콘(ELECCON 2024)&amp;#x27;에서 1등을 수상하며, 전력 및 에너지 분야 보안에서도 실력을 입증했다&lt;br/&gt;&lt;em&gt;The team of students Kim Hee-chan and Lee Seo-jun (class of 2024) won first place at 'ELECCON 2024' co-hosted by Korea Electric Power Corporation and a branch of the National Intelligence Service, proving their skills in the power and energy security sector.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령과 김혜경 여사는 16일(현지시각) 주요 7개국(G7) 회원국과 초청국 정상 내외 등과 함께 프랑스 에비앙레뱅에서 열린 에마뉘엘 마크롱 프랑스 대통령이 주최한 음악회와 공식 만찬에 참석했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung and First Lady Kim Hye-kyung attended a concert and official dinner hosted by French President Emmanuel Macron in Évian-les-Bains, France, on the 16th (local time) along with leaders and their spouses from G7 member countries and invited nations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(청와대는 이날 보도자료를 통해 “이 대통령과 김 여사가 마크롱이 주최한 콘서트에 참석해 아티스트들의 다채로운 연주와 어린이 합창 등을 감상했다”고 밝혔다&lt;br/&gt;&lt;em&gt;The presidential office announced in a press release that day, 'President Lee and First Lady Kim attended the concert hosted by Macron, enjoying diverse performances by artists and a children's choir.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교가 행사를 주최했어요.&lt;br/&gt;&lt;em&gt;The school hosted an event.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 반이 파티를 주최했어요.&lt;br/&gt;&lt;em&gt;Our class hosted a party.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0ZWR8ZW58MHx8fHwxNzgxNzQ1MzIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주최한 (hosted)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(김희찬·이서준 학생(24학번) 팀은 한국전력공사와 국가정보원 지부가 공동 주최한 ‘일렉콘(ELECCON 2024)&amp;#x27;에서 1등을 수상하며, 전력 및 에너지 분야 보안에서도 실력을 입증했다&lt;br/&gt;&lt;em&gt;The team of students Kim Hee-chan and Lee Seo-jun (class of 2024) won first place at 'ELECCON 2024' co-hosted by Korea Electric Power Corporation and a branch of the National Intelligence Service, proving their skills in the power and energy security sector.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령과 김혜경 여사는 16일(현지시각) 주요 7개국(G7) 회원국과 초청국 정상 내외 등과 함께 프랑스 에비앙레뱅에서 열린 에마뉘엘 마크롱 프랑스 대통령이 주최한 음악회와 공식 만찬에 참석했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung and First Lady Kim Hye-kyung attended a concert and official dinner hosted by French President Emmanuel Macron in Évian-les-Bains, France, on the 16th (local time) along with leaders and their spouses from G7 member countries and invited nations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(청와대는 이날 보도자료를 통해 “이 대통령과 김 여사가 마크롱이 주최한 콘서트에 참석해 아티스트들의 다채로운 연주와 어린이 합창 등을 감상했다”고 밝혔다&lt;br/&gt;&lt;em&gt;The presidential office announced in a press release that day, 'President Lee and First Lady Kim attended the concert hosted by Macron, enjoying diverse performances by artists and a children's choir.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교가 행사를 주최했어요.&lt;br/&gt;&lt;em&gt;The school hosted an event.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 반이 파티를 주최했어요.&lt;br/&gt;&lt;em&gt;Our class hosted a party.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 18 Jun 2026 10:15:27 +0900</pubDate><guid isPermaLink="false">vocab-6d99a49d3cf210ad64ca9ca705502dd1d55235b9</guid><enclosure url="https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0ZWR8ZW58MHx8fHwxNzgxNzQ1MzIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="523941" /><ns2:content url="https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0ZWR8ZW58MHx8fHwxNzgxNzQ1MzIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0ZWR8ZW58MHx8fHwxNzgxNzQ1MzIyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>주최한</category></item><item><title>주최한 – hosted</title><link>urn:urn:vocab:주최한</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0ZWR8ZW58MHx8fHwxNzgxNzQ1Mjg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주최한 (hosted)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(김희찬·이서준 학생(24학번) 팀은 한국전력공사와 국가정보원 지부가 공동 주최한 ‘일렉콘(ELECCON 2024)&amp;#x27;에서 1등을 수상하며, 전력 및 에너지 분야 보안에서도 실력을 입증했다&lt;br/&gt;&lt;em&gt;The team of students Kim Hee-chan and Lee Seo-jun (class of 2024) won first place at 'ELECCON 2024' co-hosted by the Korea Electric Power Corporation and a branch of the National Intelligence Service, proving their skills in the power and energy security sector.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령과 김혜경 여사는 16일(현지시각) 주요 7개국(G7) 회원국과 초청국 정상 내외 등과 함께 프랑스 에비앙레뱅에서 열린 에마뉘엘 마크롱 프랑스 대통령이 주최한 음악회와 공식 만찬에 참석했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung and First Lady Kim Hye-kyung attended a concert and official dinner hosted by French President Emmanuel Macron in Évian-les-Bains, France, on the 16th (local time) along with leaders and their spouses from the G7 member states and invited countries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(청와대는 이날 보도자료를 통해 “이 대통령과 김 여사가 마크롱이 주최한 콘서트에 참석해 아티스트들의 다채로운 연주와 어린이 합창 등을 감상했다”고 밝혔다&lt;br/&gt;&lt;em&gt;The presidential office announced in a press release that day, 'President Lee and First Lady Kim attended the concert hosted by Macron and enjoyed diverse performances by artists and a children's choir.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교가 행사를 주최했어요.&lt;br/&gt;&lt;em&gt;The school hosted an event.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 반이 파티를 주최했어요.&lt;br/&gt;&lt;em&gt;Our class hosted a party.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0ZWR8ZW58MHx8fHwxNzgxNzQ1Mjg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="주최한 (hosted)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(김희찬·이서준 학생(24학번) 팀은 한국전력공사와 국가정보원 지부가 공동 주최한 ‘일렉콘(ELECCON 2024)&amp;#x27;에서 1등을 수상하며, 전력 및 에너지 분야 보안에서도 실력을 입증했다&lt;br/&gt;&lt;em&gt;The team of students Kim Hee-chan and Lee Seo-jun (class of 2024) won first place at 'ELECCON 2024' co-hosted by the Korea Electric Power Corporation and a branch of the National Intelligence Service, proving their skills in the power and energy security sector.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이재명 대통령과 김혜경 여사는 16일(현지시각) 주요 7개국(G7) 회원국과 초청국 정상 내외 등과 함께 프랑스 에비앙레뱅에서 열린 에마뉘엘 마크롱 프랑스 대통령이 주최한 음악회와 공식 만찬에 참석했다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung and First Lady Kim Hye-kyung attended a concert and official dinner hosted by French President Emmanuel Macron in Évian-les-Bains, France, on the 16th (local time) along with leaders and their spouses from the G7 member states and invited countries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(청와대는 이날 보도자료를 통해 “이 대통령과 김 여사가 마크롱이 주최한 콘서트에 참석해 아티스트들의 다채로운 연주와 어린이 합창 등을 감상했다”고 밝혔다&lt;br/&gt;&lt;em&gt;The presidential office announced in a press release that day, 'President Lee and First Lady Kim attended the concert hosted by Macron and enjoyed diverse performances by artists and a children's choir.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교가 행사를 주최했어요.&lt;br/&gt;&lt;em&gt;The school hosted an event.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;우리 반이 파티를 주최했어요.&lt;br/&gt;&lt;em&gt;Our class hosted a party.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Thu, 18 Jun 2026 10:14:51 +0900</pubDate><guid isPermaLink="false">vocab-02f7802bde9e00718d2c2f9ec8c42a2d4ac97c25</guid><enclosure url="https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0ZWR8ZW58MHx8fHwxNzgxNzQ1Mjg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="523941" /><ns2:content url="https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0ZWR8ZW58MHx8fHwxNzgxNzQ1Mjg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxob3N0ZWR8ZW58MHx8fHwxNzgxNzQ1Mjg2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>주최한</category></item><item><title>청소년이라면 – if you are a teenager</title><link>urn:urn:vocab:청소년이라면</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1716675034937-0bd1fb76b3ea?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpZiUyMHlvdSUyMGFyZSUyMGElMjB0ZWVuYWdlcnxlbnwwfHx8fDE3ODE3Mzc1NTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="청소년이라면 (if you are a teenager)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;청소년이라면 원작 소설이나 영화를 직접 각색해볼 수도 있다&lt;br/&gt;&lt;em&gt;If you are a teenager, you can try adapting the original novel or movie yourself.&lt;/em&gt;&lt;/p&gt;
