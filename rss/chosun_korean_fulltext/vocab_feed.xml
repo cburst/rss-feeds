@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 22:06:16 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:52:35 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,71 @@
 
 
 
-  <item><title>사람들끼리 – among people</title><link>urn:urn:vocab:사람들끼리</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>울타리 – fence</title><link>urn:urn:vocab:울타리</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530328881134-8c525cc57036?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZW5jZXxlbnwwfHx8fDE3ODE4ODc5NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="울타리 (fence)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이어 “같은 진영이라고 하는 울타리 안에 있는 사람들끼리 경쟁을 하는 게 아니라 전쟁을 해야 되겠냐”면서 “모욕하고 헐뜯고, 없는 사실을 만들어 공격하고 그런다”고 했다&lt;br/&gt;&lt;em&gt;He continued, 'Rather than competing among people within the same camp, should we be waging war?' and said, 'They insult, slander, fabricate falsehoods, and attack.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 이날 청와대 춘추관에서 열린 유럽 순방과 주요 7국 정상회의 참석 결과 브리핑에서 “같은 진영이라고 하는 울타리 안에 서 있는 사람들끼리 경쟁하는 게 아니라 전쟁해서야 되겠느냐”며 이같이 말했다&lt;br/&gt;&lt;em&gt;(During a briefing at the Cheong Wa Dae press room on the results of his European tour and attendance at the G7 summit, President Lee said, 'Rather than competing among people standing within the same camp, should we be waging war?')&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 19일 더불어민주당을 향해 “원수 싸우듯이 하지 마라”며 “같은 진영 울타리 안에 있는 사람들끼리 경쟁이 아니라 전쟁을 해서야 되겠느냐”고 말했다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung said to the Democratic Party on the 19th, 'Don't fight like enemies,' and asked, 'Should we be waging war, not competition, among people within the same camp?')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;울타리가 높습니다.&lt;br/&gt;&lt;em&gt;The fence is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;울타리 뒤에 집이 있습니다.&lt;br/&gt;&lt;em&gt;There is a house behind the fence.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1530328881134-8c525cc57036?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZW5jZXxlbnwwfHx8fDE3ODE4ODc5NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="울타리 (fence)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이어 “같은 진영이라고 하는 울타리 안에 있는 사람들끼리 경쟁을 하는 게 아니라 전쟁을 해야 되겠냐”면서 “모욕하고 헐뜯고, 없는 사실을 만들어 공격하고 그런다”고 했다&lt;br/&gt;&lt;em&gt;He continued, 'Rather than competing among people within the same camp, should we be waging war?' and said, 'They insult, slander, fabricate falsehoods, and attack.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 이날 청와대 춘추관에서 열린 유럽 순방과 주요 7국 정상회의 참석 결과 브리핑에서 “같은 진영이라고 하는 울타리 안에 서 있는 사람들끼리 경쟁하는 게 아니라 전쟁해서야 되겠느냐”며 이같이 말했다&lt;br/&gt;&lt;em&gt;(During a briefing at the Cheong Wa Dae press room on the results of his European tour and attendance at the G7 summit, President Lee said, 'Rather than competing among people standing within the same camp, should we be waging war?')&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 19일 더불어민주당을 향해 “원수 싸우듯이 하지 마라”며 “같은 진영 울타리 안에 있는 사람들끼리 경쟁이 아니라 전쟁을 해서야 되겠느냐”고 말했다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung said to the Democratic Party on the 19th, 'Don't fight like enemies,' and asked, 'Should we be waging war, not competition, among people within the same camp?')&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;울타리가 높습니다.&lt;br/&gt;&lt;em&gt;The fence is high.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;울타리 뒤에 집이 있습니다.&lt;br/&gt;&lt;em&gt;There is a house behind the fence.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 01:52:34 +0900</pubDate><guid isPermaLink="false">vocab-a2eeb624f313286230e07e396c70fa0a4ec2c5f0</guid><enclosure url="https://images.unsplash.com/photo-1530328881134-8c525cc57036?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZW5jZXxlbnwwfHx8fDE3ODE4ODc5NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="116262" /><ns2:content url="https://images.unsplash.com/photo-1530328881134-8c525cc57036?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZW5jZXxlbnwwfHx8fDE3ODE4ODc5NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1530328881134-8c525cc57036?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmZW5jZXxlbnwwfHx8fDE3ODE4ODc5NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>울타리</category></item><item><title>경쟁과 – competition and</title><link>urn:urn:vocab:경쟁과</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1502904550040-7534597429ae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wZXRpdGlvbiUyMGFuZHxlbnwwfHx8fDE3ODE4ODE3ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경쟁과 (competition and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (민주당 내부의 당권 경쟁과 관련해서는 “민주당 내의 경쟁과 갈등에 대해 한마디 꼭 드리고 싶다&lt;br/&gt;&lt;em&gt;" (Regarding the competition for party leadership within the Democratic Party, "I really want to say something about the competition and conflict within the Democratic Party"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 19일 “더불어민주당 내의 경쟁과 갈등에 대해서도 한 말씀 꼭 드리고 싶다”며 “원수 싸우듯이 하지 마라”고 했다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung said on the 19th, "I really want to say something about the competition and conflict within the Democratic Party of Korea" and added, "Don't fight like enemies."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경쟁과 협력은 중요해요.&lt;br/&gt;&lt;em&gt;Competition and cooperation are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;경쟁과 승부는 재미있어요.&lt;br/&gt;&lt;em&gt;Competition and competition are fun.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1502904550040-7534597429ae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wZXRpdGlvbiUyMGFuZHxlbnwwfHx8fDE3ODE4ODE3ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="경쟁과 (competition and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (민주당 내부의 당권 경쟁과 관련해서는 “민주당 내의 경쟁과 갈등에 대해 한마디 꼭 드리고 싶다&lt;br/&gt;&lt;em&gt;" (Regarding the competition for party leadership within the Democratic Party, "I really want to say something about the competition and conflict within the Democratic Party"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이재명 대통령은 19일 “더불어민주당 내의 경쟁과 갈등에 대해서도 한 말씀 꼭 드리고 싶다”며 “원수 싸우듯이 하지 마라”고 했다&lt;br/&gt;&lt;em&gt;" (President Lee Jae-myung said on the 19th, "I really want to say something about the competition and conflict within the Democratic Party of Korea" and added, "Don't fight like enemies."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;경쟁과 협력은 중요해요.&lt;br/&gt;&lt;em&gt;Competition and cooperation are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;경쟁과 승부는 재미있어요.&lt;br/&gt;&lt;em&gt;Competition and competition are fun.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 00:09:46 +0900</pubDate><guid isPermaLink="false">vocab-41a68aa82469a058177c66d652c4a0da6ed5a6a6</guid><enclosure url="https://images.unsplash.com/photo-1502904550040-7534597429ae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wZXRpdGlvbiUyMGFuZHxlbnwwfHx8fDE3ODE4ODE3ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="87277" /><ns2:content url="https://images.unsplash.com/photo-1502904550040-7534597429ae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wZXRpdGlvbiUyMGFuZHxlbnwwfHx8fDE3ODE4ODE3ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1502904550040-7534597429ae?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjb21wZXRpdGlvbiUyMGFuZHxlbnwwfHx8fDE3ODE4ODE3ODJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>경쟁과</category></item><item><title>모욕하고 – insult and</title><link>urn:urn:vocab:모욕하고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1503525148566-ef5c2b9c93bd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnN1bHQlMjBhbmR8ZW58MHx8fHwxNzgxODgwNDMyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="모욕하고 (insult and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이어 “같은 진영이라고 하는 울타리 안에 있는 사람들끼리 경쟁을 하는 게 아니라 전쟁을 해야 되겠냐”면서 “모욕하고 헐뜯고, 없는 사실을 만들어 공격하고 그런다”고 했다&lt;br/&gt;&lt;em&gt;He continued, 'Rather than competing among people within the same camp, should we be waging war?' and said, 'They insult, slander, fabricate falsehoods, and attack.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (그는 “(서로를) 모욕하지 말라”며 “모욕하고, 폄하하고, 꼭 숨어가지고 그러는 사람도 있다&lt;br/&gt;&lt;em&gt;" (He said, 'Do not insult (each other),' adding, 'There are those who insult, demean, and hide while doing so.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “모욕하고 헐뜯고, 없는 사실을 만들어 공격하고, 그러니까 (상대방은) 또 억울하다고 그런다”며 “합리적 경쟁을, 있는 사실에 기초해서 해야 한다&lt;br/&gt;&lt;em&gt;" (The president said, 'They insult, slander, fabricate falsehoods, and attack, so (the other side) feels wronged,' and added, 'We must engage in rational competition based on facts.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 나를 모욕하고 떠났다.&lt;br/&gt;&lt;em&gt;He insulted me and left.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구를 모욕하고 사과했다.&lt;br/&gt;&lt;em&gt;He insulted his friend and apologized.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1503525148566-ef5c2b9c93bd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnN1bHQlMjBhbmR8ZW58MHx8fHwxNzgxODgwNDMyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="모욕하고 (insult and)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이어 “같은 진영이라고 하는 울타리 안에 있는 사람들끼리 경쟁을 하는 게 아니라 전쟁을 해야 되겠냐”면서 “모욕하고 헐뜯고, 없는 사실을 만들어 공격하고 그런다”고 했다&lt;br/&gt;&lt;em&gt;He continued, 'Rather than competing among people within the same camp, should we be waging war?' and said, 'They insult, slander, fabricate falsehoods, and attack.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (그는 “(서로를) 모욕하지 말라”며 “모욕하고, 폄하하고, 꼭 숨어가지고 그러는 사람도 있다&lt;br/&gt;&lt;em&gt;" (He said, 'Do not insult (each other),' adding, 'There are those who insult, demean, and hide while doing so.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “모욕하고 헐뜯고, 없는 사실을 만들어 공격하고, 그러니까 (상대방은) 또 억울하다고 그런다”며 “합리적 경쟁을, 있는 사실에 기초해서 해야 한다&lt;br/&gt;&lt;em&gt;" (The president said, 'They insult, slander, fabricate falsehoods, and attack, so (the other side) feels wronged,' and added, 'We must engage in rational competition based on facts.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 나를 모욕하고 떠났다.&lt;br/&gt;&lt;em&gt;He insulted me and left.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;친구를 모욕하고 사과했다.&lt;br/&gt;&lt;em&gt;He insulted his friend and apologized.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Fri, 19 Jun 2026 23:47:17 +0900</pubDate><guid isPermaLink="false">vocab-ed37bf875905ace79952fca2c38557def56d5543</guid><enclosure url="https://images.unsplash.com/photo-1503525148566-ef5c2b9c93bd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnN1bHQlMjBhbmR8ZW58MHx8fHwxNzgxODgwNDMyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="143911" /><ns2:content url="https://images.unsplash.com/photo-1503525148566-ef5c2b9c93bd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnN1bHQlMjBhbmR8ZW58MHx8fHwxNzgxODgwNDMyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1503525148566-ef5c2b9c93bd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbnN1bHQlMjBhbmR8ZW58MHx8fHwxNzgxODgwNDMyfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>모욕하고</category></item><item><title>사람들끼리 – among people</title><link>urn:urn:vocab:사람들끼리</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1731174218779-d6e3f8272d40?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbW9uZyUyMHBlb3BsZXxlbnwwfHx8fDE3ODE4NzQzNzJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사람들끼리 (among people)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;이어 “같은 진영이라고 하는 울타리 안에 있는 사람들끼리 경쟁을 하는 게 아니라 전쟁을 해야 되겠냐”면서 “모욕하고 헐뜯고, 없는 사실을 만들어 공격하고 그런다”고 했다&lt;br/&gt;&lt;em&gt;He continued, 'Rather than competing among people within the same camp, should we be waging war?' and said, 'They insult, slander, and attack by fabricating falsehoods.'&lt;/em&gt;&lt;/p&gt;
