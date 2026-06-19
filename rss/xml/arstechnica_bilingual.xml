@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 19 Jun 2026 11:03:24 +0000</lastBuildDate><item><title>The Slate Truck’s price may have leaked, starts at $24,950 (슬레이트 트럭 가격 유출, 2만 4950달러부터 시작)</title><link>https://arstechnica.com/cars/2026/06/the-slate-trucks-price-may-have-leaked-starts-at-24950/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2025/04/Blank-Slate-Roller-2-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The official launch takes place next week.&lt;br/&gt;(공식 출시는 다음 주에 이뤄집니다.)&lt;/p&gt;
-&lt;p&gt;One of the most hotly anticipated electric vehicles makes its formal debut next week. It’s the Blank Slate, a refreshingly simple pickup truck EV designed by Slate Auto, which is trying to take some of the soaring cost out of a new car with a back-to-basics approach that means even electric windows are an optional extra. Of course, a crucial aspect of this pared-back approach is pricing.&lt;br/&gt;(가장 뜨거운 관심을 받는 전기차 중 하나가 다음 주 공식 데뷔를 합니다. 바로 슬레이트 오토가 설계한 상쾌할 정도로 심플한 픽업 트럭 EV, 블랭크 슬레이트입니다. 이 회사는 기본에 충실한 접근 방식으로 신차의 치솟는 비용을 낮추려고 노력하고 있으며, 전동 윈도우조차 선택 사양으로 둘 정도입니다. 물론 이렇게 간소화된 접근 방식의 핵심은 가격 책정입니다.)&lt;/p&gt;
-&lt;p&gt;Plenty of people are attracted to the idea of a truck with a compact footprint, no infotainment system or embedded modem , and the option to upconvert it later into an SUV or fastback. In the abstract, at least, people aren’t going to jump at the prospect of a truck with 150 miles (241 km) of range if it costs too much.&lt;br/&gt;(컴팩트한 크기, 인포테인먼트 시스템이나 내장 모뎀이 없으며, 나중에 SUV나 패스트백으로 업그레이드할 수 있는 트럭이라는 아이디어에 많은 사람이 끌립니다. 적어도 이론적으로는, 사람들은 가격이 너무 비싸면 주행 거리가 150마일(241km)인 트럭에 뛰어들지 않을 것입니다.)&lt;/p&gt;
-&lt;p&gt;When Slate broke cover in 2025, it was targeting a price of around $20,000, assuming the $7,500 IRS clean vehicle tax credit would remain in effect, but it was abolished later that year.&lt;br/&gt;(슬레이트가 2025년에 처음 공개되었을 때, 7500달러의 IRS 청정 차량 세금 공제가 유지될 것이라고 가정하고 약 2만 달러의 가격을 목표로 했지만, 그해 말에 폐지되었습니다.)&lt;/p&gt;
-&lt;p&gt;Well, if a leak on the Slate website earlier is to be believed, the starting price for that standard range truck will be just $24,950. The price was live for several hours earlier today, and screenshots were posted to the Slate forums , along with some updated specifications. These include a slightly less powerful electric motor for the rear wheels—now 181 hp (135 kW) instead of 201 hp (150 kW), but a tow rating that’s been doubled to 2,000 lbs (907 kg).&lt;br/&gt;(글쎄요, 앞서 슬레이트 웹사이트에서 유출된 내용이 사실이라면, 해당 표준 주행 거리 트럭의 시작 가격은 2만 4950달러에 불과할 것입니다. 이 가격은 오늘 초 몇 시간 동안 게시되었으며, 업데이트된 사양과 함께 스크린샷이 슬레이트 포럼에 올라왔습니다. 여기에는 후륜용 전기 모터의 출력이 201hp(150kW)에서 181hp(135kW)로 약간 낮아졌지만, 견인 등급은 2,000lbs(907kg)로 두 배 증가한 것이 포함됩니다.)&lt;/p&gt;
-&lt;p&gt;That pricing and those specs are gone from the Slate website, but we’ll have official pricing and a first-ride impression on June 24.&lt;br/&gt;(해당 가격과 사양은 슬레이트 웹사이트에서 사라졌지만, 공식 가격과 첫 탑승 소감은 6월 24일에 공개될 예정입니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/cars/2026/06/the-slate-trucks-price-may-have-leaked-starts-at-24950/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/04/Blank-Slate-Roller-2-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 17 Jun 2026 09:23:21 +0000</pubDate></item><item><title>AI coding agents taught robots how to install GPUs and cut zip ties (AI 코딩 에이전트가 로봇에 GPU 설치법과 케이블타이 절단법을 가르쳤다)</title><link>https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-2.40.06-PM-1152x648.png" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 19 Jun 2026 13:06:18 +0000</lastBuildDate><item><title>AI coding agents taught robots how to install GPUs and cut zip ties (AI 코딩 에이전트가 로봇에 GPU 설치법과 케이블타이 절단법을 가르쳤다)</title><link>https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-2.40.06-PM-1152x648.png" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Nvidia’s self-improvement program for robots enlists teams of AI coding agents.&lt;br/&gt;(엔비디아의 로봇 자가 개선 프로그램이 AI 코딩 에이전트 팀을 활용한다.)&lt;/p&gt;
 &lt;p&gt;What happens when you give AI coding agents a lab full of robotic arms, some compute resources, and a “generous token budget” for teaching the robots various tasks? The agents can apparently figure out a training regimen that teaches the robots to successfully cut zip ties and even insert GPUs into thin sockets on motherboards.&lt;br/&gt;(AI 코딩 에이전트에게 로봇 팔로 가득한 연구실, 약간의 컴퓨팅 자원, 그리고 다양한 작업을 로봇에 가르치기 위한 '관대한 토큰 예산'을 준다면 어떤 일이 일어날까? 에이전트들은 로봇이 케이블타이를 성공적으로 자르고, 심지어 마더보드의 좁은 소켓에 GPU를 삽입하는 방법까지 가르치는 훈련 체계를 스스로 고안해낼 수 있는 것으로 보인다.)&lt;/p&gt;
 &lt;p&gt;That glimpse into how AI can act in a fully autonomous way to automate robot training was made possible by a new agent harness framework—software that wraps around AI models to enable their use of various tools while also providing capabilities such as memory, context, constraint, and feedback loops. That agentic harness, called ENPIRE , was developed by robotics researchers at the Nvidia GEAR (Generalist Embodied Agent Research) lab alongside collaborators from Carnegie Mellon University in Pittsburgh and the University of California, Berkeley.&lt;br/&gt;(AI가 완전 자율적으로 로봇 훈련을 자동화할 수 있는 방법을 보여주는 이 통찰은 새로운 에이전트 하네스 프레임워크 덕분에 가능해졌다. 이 소프트웨어는 AI 모델을 감싸서 다양한 도구를 사용할 수 있게 할 뿐만 아니라 메모리, 맥락, 제약 조건, 피드백 루프와 같은 기능도 제공한다. '엔파이어(ENPIRE)'라는 이 에이전틱 하네스는 피츠버그의 카네기멜론 대학교와 캘리포니아 대학교 버클리 소재 연구자들의 협력을 받아 엔비디아 GEAR(범용 임베디드 에이전트 연구) 연구소의 로봇 공학 연구자들이 개발했다.
@@ -516,4 +509,195 @@ NASA 엔지니어들은 스위프트가 올가을, 아마도 10월경에 고도 
 "어떤 이들은 이것을 최초의 종류, 즉 준비되지 않은 위성을 잡으러 갈 수 있는 로봇 우주선이라고 부를 것입니다."라고 카탈리스트의 전략적 파트너십 부사장 로버트 라몽타뉴(Robert Lamontagne)가 말했습니다. "무엇보다도 상업적 임무입니다. 실제 운영 목표를 수행하고 있습니다. 단순한 시연이 아니며, 우리는 이것을 서비스로 제공하고 있습니다… 이것은 정말로 상업-정부 파트너십을 위한 청사진입니다."
 &lt;&lt;&lt;PARA&gt;&gt;
 "절차적 관점에서, 우리가 이걸 시도하려고 한다는 사실만으로도 저는 이미 성공이라고 생각합니다."라고 도마갈-골드만이 말했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Testing-Link-Vibration-tests-2_4000x2600-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 18 Jun 2026 15:39:30 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Testing-Link-Vibration-tests-2_4000x2600-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 18 Jun 2026 15:39:30 +0000</pubDate></item><item><title>As global warming threatens corals, scientists search for reefs that can take the heat (지구 온난화가 산호를 위협하자, 과학자들은 열기를 견딜 수 있는 암초를 찾고 있다)</title><link>https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1409779114-2560x1440.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Researchers say these coral strongholds may help repopulate more degraded reefs.&lt;br/&gt;(연구자들은 이러한 산호 요새가 더 황폐해진 암초의 개체 수 회복에 도움을 줄 수 있다고 말한다.)&lt;/p&gt;
+&lt;p&gt;MAJURO, Marshall Islands—Perched on the bow of an aluminum landing craft, Anne Cohen gazed a few yards ahead of the vessel toward a yellow robot gliding across the emerald Majuro lagoon.&lt;br/&gt;(마셜 제도 마주로 — 알루미늄 상륙정의 뱃머리에 선 앤 코헨은 에메랄드빛 마주로 석호를 가로지르는 노란색 로봇 쪽으로 몇 야드 앞을 응시했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+옐로핀이라고 불리는 이 무인 수상 선박은 이 중앙 태평양 해역에서 산호 연구자의 가장 신뢰할 수 있는 안내자가 되어가고 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그녀는 최고의 다이빙 파트너예요"라고 케이프 코드에 있는 우즈홀 해양연구소의 종신 과학자 코헨은 말했다. 정확한 좌표 세트로 항해하도록 프로그래밍된 이 로봇은 돛대가 없는 작은 요트처럼 작은 너울을 가르며, 코헨이 수천 마일을 다시 찾아온 목적지로 안내했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+로봇이 마침내 멈춰 제자리에 떠 있자, 코헨은 그것이 자신의 신호임을 알아차렸다. 아래 어딘가에는 그녀가 지난 몇 년간 관찰해 온 산호초 조각이 있어야 했고, 그녀는 그것이 어떻게 지내고 있는지 보고 싶어 안달이 났다. 방문할 때마다 불확실성의 무게는 점점 더 커져갔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2023년 이후, 기록적인 해양 폭염이 열대 지방을 휩쓸며 사상 최악의 전 세계적인 산호 백화 현상을 촉발했다. 전 세계 산호초의 80% 이상이 최소 83개 국가와 지역에서 영향을 받았다. 극한의 온도에 너무 스트레스를 받은 산호는 조직 속에 살면서 먹이와 선명한 색을 제공하는 작은 조류를 내보내 창백하고 유령 같으며 생존을 위해 몸부림치는 상태가 되었다. 많은 산호가 회복되지 못했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+코헨은 그녀 아래의 산호초가 다를 수 있기를 바랐다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 검은색과 노란색 스노클링 지느러미를 끌어올리고, 마스크에 침을 뱉어 물속에서 김이 서리지 않게 한 후 배에서 미끄러져 내렸다. 그녀의 작은 체구는 거의 물보라를 일으키지 않았다. 파란색 속을 들여다본 지 몇 초 만에 그녀는 스노클로 인해 숨이 막힌 듯한 비명을 질렀다. 그녀 아래 펼쳐진 광경에 놀라서였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+밤색 테이블탑 산호의 우뚝 솟은 봉우리들이 모래 바다 바닥에서 나무처럼 솟아올랐고, 넓은 접시 모양의 캐노피는 그늘에 숨어 있는 물고기들을 보호했다. 사슴뿔 산호의 빽빽한 덤불이 사방으로 뻗어 있었고, 황금빛 가지처럼 생긴 가지들이 눈에 보이는 대로 뻗어 있는 광활한 암초를 가로질러 비틀리며 겨자색, 분홍색, 라벤더색의 파스텔 톤으로 가득 차 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"마치 동화 나라 같아요"라고 코헨은 물 위로 머리를 내밀며 환하게 웃으며 말했다. "제가 앨리스가 된 기분이에요."
+&lt;&lt;&lt;PARA&gt;&gt;
+오늘날의 바다에서 이 장면은 거의 비현실적으로 느껴졌다고, 지난 30년간 산호초와 기후 변화가 해양 환경에 미치는 영향을 연구해 온 62세의 코헨은 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 그것은 그녀가 오랫동안 믿어왔던 어떤 것의 확인이었다: 더 뜨거운 기온이 산호초를 황폐화시키더라도, 일부는 여전히 견딜 수 있는 놀라운 능력을 지니고 있다는 것이다. 그녀는 그 방법을 알아내기로 결심했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그들의 회복력 뒤에 숨은 비밀을 풀면, 언젠가 과학자와 환경 보호론자들이 지구 온난화에 더 잘 견딜 수 있는 산호초를 복원하거나 심지어 재배하는 데 도움이 될 수 있다고 그녀는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난 10년 동안 코헨 연구의 상당 부분은 어떻게든 역경을 극복하고 있는 이러한 산호초를 추적하는 데 집중되어 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2018년, 그녀는 이 탐색에 전념하는 '슈퍼 리프(Super Reefs)'라는 프로젝트를 시작했다. 이 이름은 그녀가 전 세계에서 만난 여러 산호초에서 따온 것으로, 주변의 다른 산호초들이 백화되거나 죽어가는데도 번성하고 있는 것처럼 보였기 때문이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 마치 폭염이 전혀 없는 것처럼 행동하는 산호들을 보았습니다"라고 그녀는 회상했다. "슈퍼맨이나 슈퍼우먼이 나타나서 근육을 자랑하며 매우 강력해지는 것 같은 느낌이었어요."
+&lt;&lt;&lt;PARA&gt;&gt;
+3년 후, 그녀는 더 네이처 컨서번시(Nature Conservancy)와 스탠퍼드 대학교(Stanford University)와 함께 열에 강한 군집을 찾는 것뿐만 아니라 보호하는 것을 목표로 하는 공동 글로벌 이니셔티브를 시작했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+가장 강인한 산호초조차도 무적은 아니라고 그녀는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+준설이 필요한 항구와 같은 연안 개발 프로젝트는 산호를 퇴적물 아래에 묻을 수 있다. 농업 유출수, 하수, 플라스틱 오염은 유해한 병원균과 과도한 영양분을 유입시켜 산호 질병을 유발하거나 작은 동물들을 질식시키는 독성 조류 번성을 일으킨다. 무거운 그물을 해저에 끄는 어업 방법인 저인망 어업은 산호초 전체를 부술 수 있는 반면, 다이너마이트 어업은 수세기 된 산호 군락을 순식간에 산산조각낼 수 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그것은 마치 해먹게를 부수기 위해 큰 망치를 휘두르는 것과 같을 것입니다"라고 코헨은 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이미 세계는 기후 변화와 다른 인간 활동의 결합된 압력으로 산호초의 절반 이상을 잃었다. 일부 과학자들은 상당한 개입 없이는 열대 산호초의 90% 이상이 향후 25년 안에 사라질 수 있다고 경고한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+새로운 슈퍼 리프 이니셔티브의 목표는 정부가 이미 해양 보호 구역(해양의 중요한 생태계를 보호하기 위해 인간 활동이 제한되거나 금지된 지정 구역)을 만드는 데 투자한 관심을 보여준 장소에서 산호 요새를 구체적으로 식별하는 것이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+벨리즈, 하와이, 마셜 제도가 조건에 맞았다. 프로젝트가 시작될 당시 이들 모두는 이미 설정된 해양 보호 구역을 만들거나 강화할 계획을 가지고 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이것이 중요하다고 코헨은 말했다. 그녀는 단지 데이터를 수집하기 위해 데이터를 수집하고 싶지 않았다. 그녀는 자신의 팀이 수행한 연구가 슈퍼 리프를 어디에서 어떻게 보호할지에 관한 실용적인 결정을 내리는 데 정보를 제공할 수 있도록 하고 싶었다. 다음 과제는 검색 범위를 좁히는 것이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+회복력의 징후를 보이는 모든 산호초가 슈퍼 리프는 아니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+정의에 따르면, 코헨은 슈퍼 리프는 시간이 지남에 따라 더 높은 온도에서 생존할 수 있는 과학적으로 입증된 능력을 가지고 있어야 한다고 말했다. 이는 유전적으로 극한의 열에 적응했거나 더 차가운 해류와 같은 지역 해양 조건이 그것들을 보호했기 때문이다. 또한 잠재적으로 다른 산호초에 씨앗을 다시 뿌릴 수 있어야 한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"만약 우리가 이러한 기후 회복력이 더 높은 산호초를 보호하고, 오염이나 준설 또는 다른 것들과 같은 다른 인간의 영향으로부터 보호받을 수 있도록 한다면, 우리는 지구 온난화를 실제로 통제할 수 있을 때까지 미래를 위해 더 내열성이 강한 계통을 확보하는 것입니다"라고 더 네이처 컨서번시(Nature Conservancy)의 글로벌 해양 총책임자이자 슈퍼 리프 프로젝트 초기 단계에서 코헨을 지원한 리지 맥레오드는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난 몇 년 동안 슈퍼 리프 팀은 각 목표 위치에서 회복력이 있는 산호초를 식별했다. 하지만 코헨은 그들이 빙산의 일각만을 건드렸을 뿐이라고 확신한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리가 존재조차 모르는 잠재적인 슈퍼 리프가 너무 많습니다"라고 그녀는 말했다. "우리는 그것들을 찾으러 가야 합니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+마셜 제도에서 코헨은 이러한 산호초 중 일부가 언젠가는 더 큰 무언가의 일부가 되기를 바란다. 수년 동안 그녀는 여러 태평양 섬 국가에 걸쳐 있고 해류로 연결되어 있어 그 자손이 지역 전체의 산호초를 보충하는 데 도움을 줄 수 있는 광범위한 보호된 슈퍼 리프 네트워크를 만드는 꿈을 꾸어 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 마셜 제도, 키리바시, 투발루를 연결하는 수백만 제곱킬로미터의 바다를 가로지르는 최초의 '슈퍼 리프 블루 회랑'을 만들고 싶습니다"라고 그녀는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+4월, 코헨은 자신의 아이디어를 공식적으로 제안하고 태평양에서 슈퍼 리프 검색을 획기적으로 가속화할 수 있다고 믿는 새로운 기술을 테스트하기 위해 마셜 제도를 방문했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+29개의 저지대 환초와 5개의 섬으로 구성된 이 태평양 국가로의 일곱 번째 여행이었다. 마셜 제도의 수도인 마주로는 100평방마일이 넘는 석호를 둘러싼 60개 이상의 작은 섬으로 구성된 그러한 환초 중 하나였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+방문할 때마다 그녀는 마셜 주민들의 삶이 산호와 얼마나 밀접하게 연결되어 있는지에 깊은 인상을 받았다. 그것은 그들의 발 아래에 있는 바로 그 기초를 형성했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"당신이 보는 모든 것, 모든 모래, 모든 땅은 모두 산호로 만들어져 있습니다"라고 코헨은 말했다. "우리는 그것 없이는 여기에 없을 것입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+사람들이 이 환초에 정착하기 훨씬 전에, 고대 산호는 수백만 년에 걸쳐 그것들을 지었고, 결국 바다 아래로 가라앉은 화산 가장자리를 따라 천천히 자라나 얕은 청록색 석호를 둘러싼 산호초 고리를 남겼다. 시간이 지나면서, 부서진 산호 골격, 잔해, 모래는 마셜 공동체가 수천 년 동안 살아온 얇은 땅 띠에 축적되었으며, 많은 곳에서 해발 불과 몇 피트 위에 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이제 이들 중 상당수는 기후 변화로 인해 생존 위협에 직면해 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2021년 세계 은행 분석에 따르면 마주로에 있는 기존 건물의 40%가 지구 온난화로 인한 해수면 상승으로 위협받고 있다. 그중 여러 곳이 지역 학교이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 해수면 상승에 가장 먼저 사라질 것입니다"라고 마셜 제도의 천연자원 및 상무부 장관인 앤서니 M. 뮬러는 중국, 파나마, 라이베리아, 홍콩의 깃발을 휘날리는 거대한 상업 어선들이 해안에 정박해 있는 마주로 석호가 내려다보이는 자신의 사무실에서 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마셜 주민들에게 기후 변화로 인해 산호초를 잃을 가능성은 또한 깊은 불안을 야기한다고, 2020년부터 슈퍼 리프 팀과 협력해 온 마주로에 기반을 둔 비정부 기구인 마셜 제도 자연보전협회(MICS)의 부국장 두아 루돌프는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마셜 주민 대다수는 생계나 생활 수단을 위해 어업에 의존한다고 그는 말했다. 그리고 그 물고기들은 산호초에 의존한다. 그것은 그들의 집, 먹이의 원천, 산란장이다. "산호초가 사라지면 물고기도 떠납니다"라고 루돌프는 말했다. "사람들은 굶주리기 시작할 것입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+이미 마주로 전역의 많은 산호초가 광범위한 백화 기간을 경험했다고 그는 말했다. 그는 특히 2024년, 마지막 엘니뇨 현상(보통 2~7년마다 발생하며 종종 강렬한 해양 폭염과 관련된 기후 패턴) 동안 산호초 건강을 모니터링하기 위해 수중 조사를 수행하면서 직접 목격했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마주로의 이전에 '깨끗했던' 산호초의 대부분이 하얗게 변했는데, 너무 스트레스를 받았기 때문이라고 그는 말했다. "그 규모로 보는 것은 꽤 슬펐습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+그래서 코헨이 처음에 이메일을 통해 그러한 추세를 거스르는 산호 피난처를 찾고 보호하기 위해 함께 일할 가능성에 대해 연락했을 때, 그는 그것이 너무 좋아서 믿기지 않는다고 생각했다고 말했다. 사실상 "동화" 같았다고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이것은 우리 모두가 직면해 온 "하나의 큰 적"에 "맞서 싸울" 기회처럼 느껴졌다고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마주로의 슈퍼 리프를 찾기 시작하기 위해 코헨은 우즈홀 해양학자 웨이펑 장과 옌 지아와 협력하여 환초 전체의 석호에서 10년 동안의 온도, 해류 및 파도 에너지를 시뮬레이션할 수 있는 컴퓨터 모델을 구축했다. 목표는 마주로에서 가장 뜨거운 바다를 정확히 찾아내는 것이었다. 그곳에서 살아남은 산호는 극한의 열을 견디는 비범한 능력을 가질 가능성이 높기 때문이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+모델을 테스트하기 위해 코헨은 루돌프의 팀에게 마주로 석호 전역의 산호초에 수중 온도 기록계와 해류 센서를 배치하도록 요청했다. 그들은 몇 가지 관심 장소를 식별했지만, 특히 마주로 남서쪽 가장자리에 있는 로라라는 지역 사회 바로 앞바다가 두드러졌다. 그곳의 수온은 수도 대부분보다 거의 2도 더 뜨거웠다고 코헨은 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그런 다음 MICS의 루돌프 팀은 각 장소에서 다양한 산호 종의 샘플을 수집하여 스탠퍼드 대학교의 저항, 회복 및 재건 그룹(산호가 기후 변화에 어떻게 적응하는지 연구하는 곳)의 과학자들과 열 내성을 테스트했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+함께 그들은 현지 부두에 피크닉 쿨러, 수족관 히터, 냉각기 및 온도 조절기를 사용하여 첫 번째 산호 테스트 실험실을 구축했다. 쿨러 내부에서 그들은 수집된 산호 조각을 "썰물 때 더운 날 산호초가 경험하는 극한 온도를 모방하도록 설계된" 신중하게 제어된 열 폭발에 노출시켰다고 스탠퍼드 대학교 홉킨스 해양 관측소의 산호 복구 프로그램을 감독하는 해양 생물학자 스티븐 팔룸비는 말했다. 그는 어떤 산호가 열 스트레스에 빠르게 백화되고 어떤 산호가 견딜 수 있는지 곧 분명해졌다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+실험이 끝날 무렵, 팔룸비는 그들이 가장 극한의 열에서 생존할 수 있는 것으로 보이는 산호의 순위를 매기고 그것들이 어디서 왔는지 정확히 찾아낼 수 있었다고 말했다. 코헨의 모델이 지시한 대로, 가장 강한 것 중 일부는 마주로 석호 안의 로라에서 온 것이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+루돌프와 MICS 팀, 더 네이처 컨서번시 직원들은 이후 이러한 발견을 로라 지역 사회와 공유했으며, 그들 해안에서 식별된 슈퍼 리프 주변에 지역 관리 해양 구역을 만들기 위한 지지를 구축하기를 희망하고 있다. 이 노력은 레이만록(Reimaanlok)이라는 과정에 의해 안내되고 있다. 레이만록은 마셜어로 "미래를 바라보는 것"을 의미하며, 전통 지식과 현대 과학을 모두 기반으로 지역 사회가 해당 구역을 보호할지 여부와 방법을 결정하도록 지역 지도자, 토지 소유주 및 주민을 함께 모으는 지역 사회 주도 보전 프레임워크이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"레이만록 과정은 보전 구역이 지역 사회 주도적이고, 문화적으로 적절하며 장기적으로 지속 가능하도록 보장하기 위해 설계되었습니다"라고 마셜 제도 해양 자원청(국가의 해양 자원 및 어업을 관리하는 정부 기관)의 보호 구역 네트워크 코디네이터인 알리샤 에드워즈는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+처음에는 일부 지도자들이 주저했다고 루돌프는 말했다. 약 900명의 지역 사회(거의 모두 어부)에서 어떤 지역에서든 어업을 제한한다는 생각은 좋게 받아들여지지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+슈퍼 리프 지역은 흔한 어장이다. 밤이 되면 지역 주민들은 얕은 암초 평지를 따라 걸으며 창과 만도를 사용하여 물고기와 문어를 잡으며, 종종 자신도 모르게 발 아래 연약한 산호를 부수곤 한다고, 제안된 보호 구역을 지지해 온 로라의 지역 의원 지나 데이비드는 말했다. 어선들도 정기적으로 무거운 닻을 산호초 위에 떨어뜨린다고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 산호초 주변에 보호 구역을 만드는 아이디어의 과학과 이면의 논리를 설명한 후, 일부 태도가 바뀌기 시작했다고 루돌프는 말했다. 특히 장기적으로 로라 주민뿐만 아니라 다른 지역 사회에도 혜택이 될 것이라는 점을 알게 된 후였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 한두 사람에게만 혜택이 되는 일을 하지 않습니다"라고 루돌프는 마셜 문화에 대해 말했다. "더 많은 사람들에게 혜택이 될 일에 지역 사회가 동의하는 경우가 더 자주 있습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+연구에 따르면 해양 보호 구역 내에서 어업 압력과 기타 인간의 교란을 줄이면 물고기 개체군이 회복되고 주변 지역으로 퍼져나갈 수도 있다. 다양성과 생태적 균형을 유지하는 산호초는 일반적으로 산호 백화와 같은 기후 변화의 영향으로부터 회복하는 데 더 잘 갖춰져 있다고 에드워즈는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+코헨의 팀은 또한 로라의 슈퍼 리프가 더 넓은 환초의 회복 원천 역할을 할 수 있다는 증거를 찾았다. 산호초에서 방출된 산호 유생이 이동할 가능성이 있는 곳을 모델링하기 위해 해류 데이터를 사용하여, 그들은 로라의 가장 회복력 있는 산호초의 자손이 마주로 전역으로 퍼져 잠재적으로 먼 산호초에 다음 세대의 내열성 산호를 공급하는 데 도움을 줄 수 있다는 것을 발견했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그럼에도 불구하고, 지역 사회가 로라의 슈퍼 리프를 보호하기로 합의하는 데는 적어도 2년이 걸릴 것이라고 데이비드는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 사람들에게 이것이 우리에게 정말로 필요한 것이라고 설득할 방법을 찾아야 할 것입니다"라고 그는 말했다. 그렇지 않으면 "우리는 여기서 남획하여 모든 것을 죽일 수도 있습니다. 미래 세대를 위해 남는 것이 없을 것입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+해변가 집 바로 너머에서 데이비드는 한때 번성했던 산호초가 사라지는 것을 이미 목격했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 이 해변에서 낚시를 하지 않습니다. 섬 이쪽의 모든 산호가 죽어가고 있기 때문입니다"라고 그는 말했다. "여기서 스노클링을 하면 살아있는 산호를 거의 볼 수 없을 것입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 해수 온도가 계속 상승함에 따라 상황이 더 악화될까 봐 걱정한다. "물이 뜨거워지고 있습니다"라고 그는 말했다. "실제로 만지면 뜨겁습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+코헨에게 로라의 사례는 슈퍼 리프 전략이 효과가 있다는 증거였다. 과학자들은 극한의 열을 견딜 수 있는 산호초를 식별하고 지역 사회와 정부가 정보에 입각한 보전 결정을 내리는 데 필요한 데이터를 생성할 수 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 이 사례 연구는 또한 더 큰 도전 과제를 강조했다. 마주로에서 소수의 산호초만 찾는 데도 수년간의 모델링과 실험실 실험이 필요했다. 그리고 쿨러에서 산호의 열 내성을 테스트하는 것은 그 한계를 이해하기 위한 시작일 뿐이라고 코헨은 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+가장 강력한 슈퍼 리프를 식별하기 위해, 그녀는 자연 환경에서 폭염에 어떻게 반응하는지 보기 위해 광대한 산호초 지역을 해마다 모니터링할 수 있어야 한다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 더 크고, 더 좋고, 더 빠르게 하고 싶습니다"라고 코헨은 말했다. 하지만 "새로운 도구가 필요합니다"라고 그녀는 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+바로 여기에 옐로핀이 등장한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+원래 이 선박은 우즈홀의 연안 해양학자이자 엔지니어인 피터 트레이코프스키가 수중 해저 지형을 매핑하고 소나를 사용하여 변화하는 해안선을 따라 침식을 추적하기 위해 제작했다. 하지만 코헨은 트레이코프스키에게 선체 아래에 고프로를 장착하여 산호초를 조사할 때 지속적으로 사진을 찍을 수 있도록 연구용으로 개조해 달라고 요청했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+옐로핀은 이제 하루에 40마일의 산호초를 조사하면서 최대 20,000장의 이미지를 캡처할 수 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이는 연구자들이 산호초를 따라 수영하거나 잠수하여 건강 상태를 평가해야 하는 전통적인 산호 모니터링 방법을 사용하여 다이버 팀이 몇 주에 걸쳐 처리할 수 있는 양보다 훨씬 많다고 코헨은 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"아무도 그렇게 할 수 없습니다"라고 그녀는 옐로핀의 능력에 대해 말했다. "100명의 다이버 팀이 있어도 말이죠."
+&lt;&lt;&lt;PARA&gt;&gt;
+해마다 같은 산호초에 대해 여러 차례 조사를 수행하고 각 조사의 이미지를 비교함으로써, 코헨은 백화, 사망 또는 회복된 영역을 쉽게 식별할 수 있다고 말했다. 그녀는 또한 더 높은 기온에 전혀 영향을 받지 않는 것처럼 보이는 산호 군락을 정확히 찾아낼 수 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"같은 지역에 열에 대한 반응이 매우 다른 산호가 있는데, 이것이 바로 옐로핀이 찾아내는 것입니다"라고 그녀는 말했다. 그리고 그것은 빠르게 해내고 있다. "우리는 매우 짧은 시간에 아주 쉽게 광대한 영역에 걸쳐 이것을 할 수 있습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 시스템은 아직 진행 중인 작업이다. 지난번 마주로 여행은 부분적으로 기술을 개선하고 연습할 기회였으며, 다음 폭염이 닥칠 때 옐로핀이 결함 없이 배치될 수 있도록 하기 위한 것이었다고 트레이코프스키는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그렇게 하기 위해 코헨과 트레이코프스키는 탐험 초기에 코헨이 "동화 나라"라고 묘사했던 산호초로 여러 날을 돌아왔다. 그것은 옐로핀이 넓은 산호초 지역을 조사하고 코헨이 회복력의 유망한 징후를 보이는 산호 샘플을 수집하기에 완벽한 테스트 장소였다고 그녀는 말했다. 그녀는 과거 몇 년간의 사진에서 백화되었던 일부 구역이 이후 회복되었음을 볼 수 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+어느 오후, 노트북과 리모컨을 손에 들고 배 뒷부분에 앉은 트레이코프스키는 일련의 GPS 경유지점을 따라 옐로핀을 안내하며, 밝은 노란색 선박을 정밀한 "잔디 깎기" 패턴으로 산호초를 가로질러 앞뒤로 보냈다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"조심하세요"라고 그는 물속에 있는 코헨과 다른 스노클러들에게 소리쳤다. "옐로핀을 조심하세요."
+&lt;&lt;&lt;PARA&gt;&gt;
+그것이 지나갈 때, 그것은 아래 해저의 사진을 매초 2장씩 계속 찍었다. 각 이미지에는 GPS 좌표가 태그되어 있어 연구자들이 향후 탐험 중에 동일한 산호초 구역이나 심지어 동일한 산호 군락으로 돌아갈 수 있게 해준다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이전에는 코헨이 각 여행 후에 이러한 이미지를 수동으로 스캔하여 열 스트레스에 저항하거나 회복하는 능력 때문에 눈에 띄는 산호를 찾기 위해 몇 시간씩 보냈다.
+&lt;&lt;&lt;PARA&gt;&gt;
+최근 우즈홀의 코헨 연구소에 있는 그녀의 팀은 이러한 이미지를 자동으로 분석하도록 AI 모델을 훈련시키기 시작했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그들은 또한 옐로핀 이미지를 사용하여 산호초의 상세한 3차원 모델을 만들어 개별 산호 군락의 깊이, 각도 또는 방향이 얼마나 많은 열에 노출되는지에 영향을 미칠 수 있는지 더 잘 파악하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"3D 모델을 통해 폭염 중에 옆집 산호에 대한 산호의 위치가 생존에 어떻게 영향을 미칠 수 있는지 알 수 있습니다"라고 코헨은 말했다. "이 정보는 옐로핀이 만든 2D 탑다운 이미지에서 포착되지 않으며, 왜 일부는 백화되고 다른 일부는 그렇지 않은지 설명할 수 있습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+옐로핀이 조사를 마치자, 트레이코프스키는 그것이 코헨이 확인하고 싶어하는 특정 산호를 찾기 시작하도록 지시했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 특히 암초 위에 크고 둥글고 평평한 꼭대기 플랫폼을 형성하는 테이블탑 산호에 관심이 있었는데, 그중 일부는 퀸사이즈 침대보다 더 컸다. 그들의 넓은 캐노피는 수많은 물고기와 다른 해양 생물에게 은신처를 제공하여 마셜 제도에서 가장 상징적이고 생태학적으로 중요한 종 중 하나이다. 또한 열 스트레스에 악명 높을 정도로 민감하며 종종 가장 먼저 백화되는 산호 중 하나라고 그녀는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 이전 조사에서 옐로핀이 사진을 찍는 데 도움을 준 일부 산호의 라미네이트 사진을 물속에 가져가서, 그 당시와 비교하여 지금 어떻게 지내고 있는지 조사할 수 있도록 했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"이 두 사진 모두 2024년 마셜 제도에서 찍은 것입니다"라고 그녀는 라미네이트 페이지 중 하나를 보여주며 말했다. "각 사진에서 볼 수 있는 것은 하나는 백화된 산호이고 다른 하나는 정확히 같은 종이지만 백화되지 않은 산호입니다. 아프지 않습니다. 열에 대해 면역이 되거나 백신을 맞은 것처럼 완전히 건강합니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+그 대비가 그녀를 매료시킨 것이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+왜 한 산호는 열 스트레스에 굴복하고 다른 산호는 건강을 유지했는지 그녀는 궁금해했다. 그것을 열에 더 잘 견디게 만드는 유전적 형질을 가지고 있었을까? 아니면 실제로 비슷하게 보일 뿐인 다른 종이었을까? 코헨은 마주로에서 과학자들이 이전에 기록한 것보다 테이블탑 산호 사이에 훨씬 더 많은 유전적 다양성이 있다고 의심했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+몇 분 후, 옐로핀은 천천히 멈췄다. "바로 거기에 있어야 합니다"라고 트레이코프스키는 수면에 떠 있는 로봇을 가리키며 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그럼에도 불구하고, 물속에서 그것들을 찾는 것이 항상 간단하지는 않다고 코헨은 그날 돕기 위해 탑승한 MICS의 어업 책임자 AJ 알릭에게 말했다. 백화, 사망 또는 부서진 산호는 사진 속의 모습과 전혀 다르게 보일 수 있다고 그녀는 설명했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+물에 들어갈 준비를 하면서 코헨은 단서를 찾기 위해 라미네이트 이미지를 연구했으며, 필요한 경우 산호초에서 찾을 수 있는 산호 근처의 랜드마크를 찾아 자신이 올바른 위치에 있는지 확인했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 노란 로봇 아래 약 10피트까지 프리다이빙한 후, 코헨은 자신이 찾고 있던 것을 재빨리 발견했다. 그녀는 숨을 쉬기 위해 머리를 내밀었다. "그것 같은데요."
+&lt;&lt;&lt;PARA&gt;&gt;
+두 개의 거대한 테이블탑 중 하나가 여전히 살아 있어서 그녀는 안도했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그런 다음 알릭과 코헨은 함께 다시 잠수하여 살아있는 산호에서 작은 조각을 잘라냈다. 그들은 군락에 식별 번호를 태그하고 샘플 가방에 일치하는 라벨을 부착하여 나중에 그 조각이 원래 군락으로 추적될 수 있도록 했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+나중에 코헨은 샘플을 호주 제임스 쿡 대학교의 협력자들에게 유전자 분석을 위해 보낼 예정이며, 이번 탐험에서 테이블탑 산호(옐로핀의 사진에 따르면 백화되었지만 지금은 회복된 것으로 보이는)와 열 스트레스의 징후를)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1409779114-2560x1440.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 02:15:11 +0000</pubDate></item></channel></rss>
