@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 18:48:22 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 20:51:27 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,47 @@
 
 
 
-  <item><title>개월에 – in months</title><link>urn:urn:vocab:개월에</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사람 – person</title><link>urn:urn:vocab:사람</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1599566150163-29194dcaad36?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb258ZW58MHx8fHwxNzgxOTU2MjgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사람 (person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김 지사는 “경기도정을 맡았던 지난 4년은 사람 중심 도정을 펴면서 균형발전과 포용의 가치를 경기도 삶의 현장에서 구현하기 위해 애쓴 시간이었다”며 “민주당의 가치와 문재인 대통령의 국정철학을 현장에서 직접 실천하며 많이 느끼고 많이 배웠다&lt;br/&gt;&lt;em&gt;"Governor Kim said, 'The past four years of leading Gyeonggi Province were a time of effort to realize the values of balanced development and inclusion in the lives of Gyeonggi residents while pursuing people-centered provincial administration,' adding, 'I felt and learned a lot by directly practicing the values of the Democratic Party and President Moon Jae-in's governance philosophy in the field.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;진짜 고비는 연말과 내년 초”라며 “성과급이 지급되고 임금 인상이 현실화하고 수출 대금이 국내로 본격적으로 유입되기 시작하면 사람들의 행동이 달라진다&lt;br/&gt;&lt;em&gt;"The real crisis is the end of this year and early next year," he said. "When performance bonuses are paid, wage increases become a reality, and export proceeds begin to flow into the country in earnest, people's behavior will change."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 사람은 친절해요.&lt;br/&gt;&lt;em&gt;That person is kind.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저 사람이 선생님이에요.&lt;br/&gt;&lt;em&gt;That person is a teacher.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1599566150163-29194dcaad36?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb258ZW58MHx8fHwxNzgxOTU2MjgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사람 (person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (김 지사는 “경기도정을 맡았던 지난 4년은 사람 중심 도정을 펴면서 균형발전과 포용의 가치를 경기도 삶의 현장에서 구현하기 위해 애쓴 시간이었다”며 “민주당의 가치와 문재인 대통령의 국정철학을 현장에서 직접 실천하며 많이 느끼고 많이 배웠다&lt;br/&gt;&lt;em&gt;"Governor Kim said, 'The past four years of leading Gyeonggi Province were a time of effort to realize the values of balanced development and inclusion in the lives of Gyeonggi residents while pursuing people-centered provincial administration,' adding, 'I felt and learned a lot by directly practicing the values of the Democratic Party and President Moon Jae-in's governance philosophy in the field.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;진짜 고비는 연말과 내년 초”라며 “성과급이 지급되고 임금 인상이 현실화하고 수출 대금이 국내로 본격적으로 유입되기 시작하면 사람들의 행동이 달라진다&lt;br/&gt;&lt;em&gt;"The real crisis is the end of this year and early next year," he said. "When performance bonuses are paid, wage increases become a reality, and export proceeds begin to flow into the country in earnest, people's behavior will change."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 사람은 친절해요.&lt;br/&gt;&lt;em&gt;That person is kind.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저 사람이 선생님이에요.&lt;br/&gt;&lt;em&gt;That person is a teacher.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 20:51:27 +0900</pubDate><guid isPermaLink="false">vocab-b0646e035746391b6d191dc28c918dbcc3100de0</guid><enclosure url="https://images.unsplash.com/photo-1599566150163-29194dcaad36?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb258ZW58MHx8fHwxNzgxOTU2MjgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="227938" /><ns2:content url="https://images.unsplash.com/photo-1599566150163-29194dcaad36?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb258ZW58MHx8fHwxNzgxOTU2MjgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1599566150163-29194dcaad36?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb258ZW58MHx8fHwxNzgxOTU2MjgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사람</category></item><item><title>재단을 – foundation (object)</title><link>urn:urn:vocab:재단을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1557205465-f3762edea6d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3VuZGF0aW9uJTIwJTI4b2JqZWN0JTI5fGVufDB8fHx8MTc4MTk1NTYyNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재단을 (foundation (object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이번 조 전 대표의 후원은 유시민 작가가 지난 15일 재단 상임이사 자리를 내려놓고 노무현재단을 떠난 상황에서 이뤄졌다&lt;br/&gt;&lt;em&gt;This donation from former Representative Jo came after writer Yoo Si-min stepped down from his position as a standing director of the foundation on the 15th and left the Roh Moo-hyun Foundation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;노 전 대통령 사위인 곽상언 더불어민주당 의원이 ‘재단이 실질적으로 누구를 홍보하는지 모르겠다’고 하자 유 작가는 “저는 당분간 노무현재단을 떠나서 살려고 한다”며 “다시 만나는 날까지 재단을 잘 지켜달라”며 재단을 떠났다&lt;br/&gt;&lt;em&gt;When Kwak Sang-eon, a Democratic Party lawmaker and son-in-law of former President Roh, said, 'I'm not sure who the foundation is actually promoting,' Yoo replied, 'I plan to leave the Roh Moo-hyun Foundation for a while,' and added, 'Please take good care of the foundation until we meet again,' before leaving the foundation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 재단을 도와요.&lt;br/&gt;&lt;em&gt;I help the foundation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 재단을 알아요?&lt;br/&gt;&lt;em&gt;Do you know that foundation?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1557205465-f3762edea6d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3VuZGF0aW9uJTIwJTI4b2JqZWN0JTI5fGVufDB8fHx8MTc4MTk1NTYyNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재단을 (foundation (object))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이번 조 전 대표의 후원은 유시민 작가가 지난 15일 재단 상임이사 자리를 내려놓고 노무현재단을 떠난 상황에서 이뤄졌다&lt;br/&gt;&lt;em&gt;This donation from former Representative Jo came after writer Yoo Si-min stepped down from his position as a standing director of the foundation on the 15th and left the Roh Moo-hyun Foundation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;노 전 대통령 사위인 곽상언 더불어민주당 의원이 ‘재단이 실질적으로 누구를 홍보하는지 모르겠다’고 하자 유 작가는 “저는 당분간 노무현재단을 떠나서 살려고 한다”며 “다시 만나는 날까지 재단을 잘 지켜달라”며 재단을 떠났다&lt;br/&gt;&lt;em&gt;When Kwak Sang-eon, a Democratic Party lawmaker and son-in-law of former President Roh, said, 'I'm not sure who the foundation is actually promoting,' Yoo replied, 'I plan to leave the Roh Moo-hyun Foundation for a while,' and added, 'Please take good care of the foundation until we meet again,' before leaving the foundation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 재단을 도와요.&lt;br/&gt;&lt;em&gt;I help the foundation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 재단을 알아요?&lt;br/&gt;&lt;em&gt;Do you know that foundation?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 20:40:28 +0900</pubDate><guid isPermaLink="false">vocab-c50c94119dc82c01ee6d3f52859bdc2e5db2b6a4</guid><enclosure url="https://images.unsplash.com/photo-1557205465-f3762edea6d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3VuZGF0aW9uJTIwJTI4b2JqZWN0JTI5fGVufDB8fHx8MTc4MTk1NTYyNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="218034" /><ns2:content url="https://images.unsplash.com/photo-1557205465-f3762edea6d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3VuZGF0aW9uJTIwJTI4b2JqZWN0JTI5fGVufDB8fHx8MTc4MTk1NTYyNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1557205465-f3762edea6d3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3VuZGF0aW9uJTIwJTI4b2JqZWN0JTI5fGVufDB8fHx8MTc4MTk1NTYyNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>재단을</category></item><item><title>개월에 – in months</title><link>urn:urn:vocab:개월에</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1518601794912-1af91724e528?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMG1vbnRoc3xlbnwwfHx8fDE3ODE5NDg5MDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개월에 (in months)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception” (‘연어 술파티 위증’ 이화영 징역 4개월에, 국힘 “李·여당의 대국민 사기극") &lt;&lt;br/&gt;&lt;em&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception”&lt;/em&gt;&lt;/p&gt;
