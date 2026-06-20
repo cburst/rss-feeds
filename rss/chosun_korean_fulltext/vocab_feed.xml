@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 20:51:27 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 22:55:58 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,49 @@
 
 
 
-  <item><title>사람 – person</title><link>urn:urn:vocab:사람</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>대국민 – to the nation</title><link>urn:urn:vocab:대국민</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1678165874657-304df6185c8d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMG5hdGlvbnxlbnwwfHx8fDE3ODE5NjM3NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대국민 (to the nation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception” (‘연어 술파티 위증’ 이화영 징역 4개월에, 국힘 “李·여당의 대국민 사기극") &lt;&lt;br/&gt;&lt;em&gt;'Salmon Party Perjury' Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says "Lee Jae-myung and the Ruling Party's National Deception"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception” (‘연어 술파티 위증’ 이화영 징역 4개월에, 국힘 “李·여당의 대국민 사기극")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;'Salmon Party Perjury' Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says "Lee Jae-myung and the Ruling Party's National Deception"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민의힘은 20일 ‘연어 술 파티 의혹’을 제기해 위증 등 혐의로 기소된 이화영 전 경기도 평화부지사가 1심에서 징역 4개월을 선고받은 것을 두고 “이재명 대통령과 여당의 ‘조작 수사’ 프레임은 대국민 사기극”이라고 했다&lt;br/&gt;&lt;em&gt;(The People Power Party said on the 20th regarding former Gyeonggi Province Vice Governor Lee Hwa-young, who was indicted on charges of perjury after raising the 'salmon drinking party' suspicion and was sentenced to 4 months in prison in the first trial, that "President Lee Jae-myung and the ruling party's 'manipulated investigation' frame is a national deception."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대국민 담화가 있었습니다.&lt;br/&gt;&lt;em&gt;There was a national address.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대국민 서비스를 시작합니다.&lt;br/&gt;&lt;em&gt;We are starting a national service.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1678165874657-304df6185c8d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMG5hdGlvbnxlbnwwfHx8fDE3ODE5NjM3NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대국민 (to the nation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception” (‘연어 술파티 위증’ 이화영 징역 4개월에, 국힘 “李·여당의 대국민 사기극") &lt;&lt;br/&gt;&lt;em&gt;'Salmon Party Perjury' Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says "Lee Jae-myung and the Ruling Party's National Deception"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception” (‘연어 술파티 위증’ 이화영 징역 4개월에, 국힘 “李·여당의 대국민 사기극")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;'Salmon Party Perjury' Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says "Lee Jae-myung and the Ruling Party's National Deception"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(국민의힘은 20일 ‘연어 술 파티 의혹’을 제기해 위증 등 혐의로 기소된 이화영 전 경기도 평화부지사가 1심에서 징역 4개월을 선고받은 것을 두고 “이재명 대통령과 여당의 ‘조작 수사’ 프레임은 대국민 사기극”이라고 했다&lt;br/&gt;&lt;em&gt;(The People Power Party said on the 20th regarding former Gyeonggi Province Vice Governor Lee Hwa-young, who was indicted on charges of perjury after raising the 'salmon drinking party' suspicion and was sentenced to 4 months in prison in the first trial, that "President Lee Jae-myung and the ruling party's 'manipulated investigation' frame is a national deception."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;대국민 담화가 있었습니다.&lt;br/&gt;&lt;em&gt;There was a national address.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대국민 서비스를 시작합니다.&lt;br/&gt;&lt;em&gt;We are starting a national service.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 22:55:57 +0900</pubDate><guid isPermaLink="false">vocab-62f32bbeec0d571e90d9be443fd2393096a141a7</guid><enclosure url="https://images.unsplash.com/photo-1678165874657-304df6185c8d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMG5hdGlvbnxlbnwwfHx8fDE3ODE5NjM3NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="110042" /><ns2:content url="https://images.unsplash.com/photo-1678165874657-304df6185c8d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMG5hdGlvbnxlbnwwfHx8fDE3ODE5NjM3NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1678165874657-304df6185c8d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0byUyMHRoZSUyMG5hdGlvbnxlbnwwfHx8fDE3ODE5NjM3NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>대국민</category></item><item><title>사흘만에 – in three days</title><link>urn:urn:vocab:사흘만에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1777304012147-7885924a5662?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRocmVlJTIwZGF5c3xlbnwwfHx8fDE3ODE5NjMxNDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사흘만에 (in three days)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'Impeachment of Defense Minister Ahn Gyu-baek' National Assembly Petition Reaches 100% in Three Days (‘안규백 국방장관 탄핵’ 국회 국민 청원 사흘만에 100%달성) &lt;&lt;br/&gt;&lt;em&gt;'Impeachment of Defense Minister Ahn Gyu-baek' National Assembly Petition Reaches 100% in Three Days&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;'Impeachment of Defense Minister Ahn Gyu-baek' National Assembly Petition Reaches 100% in Three Days (‘안규백 국방장관 탄핵’ 국회 국민 청원 사흘만에 100%달성)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;'Impeachment of Defense Minister Ahn Gyu-baek' National Assembly Petition Reaches 100% in Three Days&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사흘만에 친구를 만났어요.&lt;br/&gt;&lt;em&gt;I met my friend after three days.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사흘만에 숙제를 끝냈어요.&lt;br/&gt;&lt;em&gt;I finished my homework after three days.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1777304012147-7885924a5662?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRocmVlJTIwZGF5c3xlbnwwfHx8fDE3ODE5NjMxNDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사흘만에 (in three days)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;'Impeachment of Defense Minister Ahn Gyu-baek' National Assembly Petition Reaches 100% in Three Days (‘안규백 국방장관 탄핵’ 국회 국민 청원 사흘만에 100%달성) &lt;&lt;br/&gt;&lt;em&gt;'Impeachment of Defense Minister Ahn Gyu-baek' National Assembly Petition Reaches 100% in Three Days&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;'Impeachment of Defense Minister Ahn Gyu-baek' National Assembly Petition Reaches 100% in Three Days (‘안규백 국방장관 탄핵’ 국회 국민 청원 사흘만에 100%달성)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;'Impeachment of Defense Minister Ahn Gyu-baek' National Assembly Petition Reaches 100% in Three Days&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사흘만에 친구를 만났어요.&lt;br/&gt;&lt;em&gt;I met my friend after three days.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사흘만에 숙제를 끝냈어요.&lt;br/&gt;&lt;em&gt;I finished my homework after three days.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 22:45:47 +0900</pubDate><guid isPermaLink="false">vocab-0d2f2230c3201b4ee8d3542a501a32d5cdf9559b</guid><enclosure url="https://images.unsplash.com/photo-1777304012147-7885924a5662?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRocmVlJTIwZGF5c3xlbnwwfHx8fDE3ODE5NjMxNDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="155375" /><ns2:content url="https://images.unsplash.com/photo-1777304012147-7885924a5662?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRocmVlJTIwZGF5c3xlbnwwfHx8fDE3ODE5NjMxNDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1777304012147-7885924a5662?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMHRocmVlJTIwZGF5c3xlbnwwfHx8fDE3ODE5NjMxNDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사흘만에</category></item><item><title>사람 – person</title><link>urn:urn:vocab:사람</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1599566150163-29194dcaad36?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb258ZW58MHx8fHwxNzgxOTU2MjgzfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사람 (person)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (김 지사는 “경기도정을 맡았던 지난 4년은 사람 중심 도정을 펴면서 균형발전과 포용의 가치를 경기도 삶의 현장에서 구현하기 위해 애쓴 시간이었다”며 “민주당의 가치와 문재인 대통령의 국정철학을 현장에서 직접 실천하며 많이 느끼고 많이 배웠다&lt;br/&gt;&lt;em&gt;"Governor Kim said, 'The past four years of leading Gyeonggi Province were a time of effort to realize the values of balanced development and inclusion in the lives of Gyeonggi residents while pursuing people-centered provincial administration,' adding, 'I felt and learned a lot by directly practicing the values of the Democratic Party and President Moon Jae-in's governance philosophy in the field.'&lt;/em&gt;&lt;/p&gt;
