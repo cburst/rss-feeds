@@ -1,66 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 20 Jun 2026 07:45:15 +0000</lastBuildDate><item><title>Why a Small Election in England Will Have Giant Consequences (잉글랜드의 작은 선거가 거대한 결과를 초래하는 이유)</title><link>https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-by-election-burnham-starmer.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/18/multimedia/18int-uk-election-wtk-01-ljbk/18int-uk-election-wtk-01-ljbk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;On Thursday, voters in Makerfield, an electoral district in northern England, will go to the polls for a special election. The outcome of the race has the potential to reshape Britain.&lt;br/&gt;(목요일, 잉글랜드 북부의 선거구인 메이커필드에서 유권자들이 보궐선거를 위해 투표소로 향합니다. 이번 선거의 결과는 영국을 재편성할 잠재력을 지니고 있습니다.)&lt;/p&gt;
-&lt;p&gt;At one level, the contest is typical, with many candidates focused on hyperlocal issues including garbage collection, potholes and money for schools.&lt;br/&gt;(한편으로는, 이번 경쟁은 전형적이며, 많은 후보들이 쓰레기 수거, 도로의 포트홀, 학교 예산과 같은 극도로 지역적인 문제에 초점을 맞추고 있습니다.)&lt;/p&gt;
-&lt;p&gt;But in other ways, it is unique. Andy Burnham, the Labour Party candidate, is running to become a lawmaker so that he can challenge Prime Minister Keir Starmer for leadership of the party. If that happens, Mr. Burnham could become Britain’s next prime minister.&lt;br/&gt;(하지만 다른 측면에서는 독특합니다. 노동당 후보인 앤디 번햄은 당의 지도권을 위해 키어 스타머 총리에게 도전할 수 있도록 국회의원이 되기 위해 출마하고 있습니다. 그렇게 된다면, 번햄은 영국의 차기 총리가 될 수 있습니다.)&lt;/p&gt;
-&lt;p&gt;Here is what to know.&lt;br/&gt;(알아야 할 사항은 다음과 같습니다.)&lt;/p&gt;
-&lt;p&gt;The special election, known as a by-election in Britain, was triggered after a Labour lawmaker, Josh Simons, resigned to make way for Mr. Burnham, the mayor of Greater Manchester.&lt;br/&gt;(영국에서 보궐선거로 알려진 이번 특별 선거는 노동당 의원 조시 시먼스가 그레이터맨체스터의 시장인 번햄을 위해 자리에서 물러나면서 촉발되었습니다.)&lt;/p&gt;
-&lt;p&gt;If Mr. Burnham wins, he will be eligible to challenge Mr. Starmer, whose popularity has plunged to some of the lowest levels of any prime minister in modern British history. In surveys, people say they are angry about the economy, public services, taxes and immigration — but also express visceral dislike of the prime minister himself.&lt;br/&gt;(번햄이 승리하면, 현대 영국 역사상 어떤 총리보다도 낮은 인기도를 기록하고 있는 스타머에게 도전할 자격을 얻게 됩니다. 여론조사에 따르면, 사람들은 경제, 공공 서비스, 세금, 이민에 대해 분노하고 있지만, 총리 본인에 대한 본능적인 혐오도 표현하고 있습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Starmer has made progress on tackling some issues but not enough to turn round public opinion. Mr. Burnham, a more charismatic communicator and Labour’s most popular politician, is viewed within the party as its best hope of winning back voters.&lt;br/&gt;(스타머는 몇 가지 문제를 해결하는 데 진전을 보였지만, 여론을 돌리기에는 충분하지 않습니다. 더 카리스마 있는 소통가이자 노동당에서 가장 인기 있는 정치인인 번햄은 당 내에서 유권자를 다시 끌어들일 최고의 희망으로 보고 있습니다.)&lt;/p&gt;
-&lt;p&gt;In Makerfield, Labour faces particular competition from Reform U.K., the populist, right-wing party. Reliable polling is scarce, but insiders believe the outcome could be close.&lt;br/&gt;(메이커필드에서 노동당은 포퓰리즘 우파 정당인 개혁 영국당(Reform U.K.)과 특히 경쟁하고 있습니다. 신뢰할 수 있는 여론조사는 드물지만, 내부자들은 결과가 박빙일 수 있다고 믿고 있습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Burnham, 56, was born on the outskirts of Liverpool and grew up in Culcheth, not far from Makerfield. His northern roots have shaped his politics, and he has long complained about Westminster and the news media being too London-centric.&lt;br/&gt;(56세의 번햄은 리버풀 교외에서 태어나 메이커필드에서 멀지 않은 컬쳇에서 자랐습니다. 그의 북부 출신 배경은 그의 정치관을 형성했으며, 그는 오랫동안 웨스트민스터와 뉴스 미디어가 지나치게 런던 중심적이라고 불평해 왔습니다.)&lt;/p&gt;
-&lt;p&gt;The longest stretch in his career was as the member of Parliament for Leigh, in Greater Manchester, from 2001 until 2017. As a lawmaker, Mr. Burnham rose rapidly, becoming the culture secretary and later health secretary under Prime Minister Gordon Brown.&lt;br/&gt;(그의 경력 중 가장 긴 기간은 2001년부터 2017년까지 그레이터맨체스터의 리 선거구 국회의원으로 재임한 때였습니다. 의원으로서 번햄은 빠르게 승진하여 고든 브라운 총리 아래에서 문화부 장관과 나중에 보건부 장관을 역임했습니다.)&lt;/p&gt;
-&lt;p&gt;He tried twice to become Labour’s leader, in 2010 and in 2015, when he was the early front-runner, but lost to the hard-left Jeremy Corbyn. Disenchanted with Westminster, Mr. Burnham left Parliament and won the mayoral election in Greater Manchester. In 2021, he won again with an even larger vote share.&lt;br/&gt;(그는 2010년과 2015년에 두 번 노동당 지도자가 되려고 시도했으며, 2015년에는 초기 선두 주자였으나 강경 좌파인 제레미 코빈에게 패했습니다. 웨스트민스터에 환멸을 느낀 번햄은 의회를 떠나 그레이터맨체스터 시장 선거에서 승리했습니다. 2021년에는 더 많은 득표율로 다시 승리했습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Burnham’s almost 10 years as mayor coincided with a period of economic growth in Manchester. He won praise from locals during the Covid-19 pandemic, when he made a speech angrily criticizing the Conservative government over the effects of its lockdowns on his region. He took the city’s buses back into public ownership, making some rides free.&lt;br/&gt;(번햄의 거의 10년에 가까운 시장 재임 기간은 맨체스터의 경제 성장 시기와 일치했습니다. 그는 코로나19 팬데믹 기간 동안 지역에 대한 봉쇄 조치의 영향으로 보수당 정부를 격렬히 비난하는 연설을 하면서 지역 주민들의 찬사를 받았습니다. 그는 도시의 버스를 다시 공공 소유로 전환하고 일부 요금을 무료로 만들었습니다.)&lt;/p&gt;
-&lt;p&gt;Along the way, he transformed his political identity into that of an outsider to the government in London. And he gained a reputation as a plain talker who understands the needs of working people. Critics have pointed to his limited foreign policy experience, which they say could be a weakness for a future prime minister in a world facing protracted wars and geopolitical tension.&lt;br/&gt;(그 과정에서 그는 자신의 정치적 정체성을 런던 정부에 대한 외부인의 모습으로 변화시켰습니다. 그리고 그는 노동자의 필요를 이해하는 솔직한 화자라는 평판을 얻었습니다. 비판자들은 그의 제한된 외교 정책 경험을 지적하며, 장기화된 전쟁과 지정학적 긴장에 직면한 세계에서 미래 총리에게 약점이 될 수 있다고 말합니다.)&lt;/p&gt;
-&lt;p&gt;In May, the Reform U.K. party led by Nigel Farage won 24 of the 25 municipal council seats up for grabs in the Makerfield area, which had been dominated by Labour for decades. The election on Thursday gives Mr. Farage another chance to demonstrate that voters support his anti-immigrant, anti-Europe, anti-net-zero agenda.&lt;br/&gt;(5월, 나이절 파라지가 이끄는 개혁 영국당은 수십 년 동안 노동당이 장악해 온 메이커필드 지역에서 선출직 25개의 시의회 의석 중 24석을 차지했습니다. 목요일 선거는 파라지에게 유권자들이 그의 반이민, 반유럽, 반탄소중립 의제를 지지한다는 것을 증명할 또 다른 기회를 제공합니다.)&lt;/p&gt;
-&lt;p&gt;If Reform’s candidate, Rob Kenyon, wins, it would arguably represent one of Mr. Farage’s biggest victories since his campaign for the 2016 Brexit referendum that took Britain out of the European Union.&lt;br/&gt;(개혁당의 후보인 롭 케니언이 승리하면, 이는 영국을 유럽연합에서 탈퇴시킨 2016년 브렉시트 국민투표 캠페인 이후 파라지의 가장 큰 승리 중 하나로 평가될 수 있습니다.)&lt;/p&gt;
-&lt;p&gt;But an upstart far-right party called Restore Britain is also running in Makerfield, and it has been supported online by Elon Musk. If that splits the right-wing vote between Restore and Reform, it could help Mr. Burnham. (Under Britain’s “first-past-the-post” electoral system, winners need only one more vote than any other candidate.)&lt;br/&gt;(하지만 레스토어 브리튼(Restore Britain)이라는 신생 극우 정당도 메이커필드에 출마했으며, 일론 머스크의 온라인 지원을 받고 있습니다. 이것이 레스토어와 개혁당 사이에서 우파 표를 분산시키면 번햄에게 도움이 될 수 있습니다. (영국의 '단순 다수제' 선거 제도에 따라 승자는 다른 어떤 후보보다 단 한 표만 더 많으면 됩니다.))&lt;/p&gt;
-&lt;p&gt;A defeat would be a blow to Reform, raising questions about its ability to field high-quality candidates and to answer questions about its reliance on a few wealthy donors. Last month, it was revealed that Mr. Farage had accepted a gift worth 5 million pounds (about $6.7 million) from a British crypto billionaire based in Thailand.&lt;br/&gt;(패배는 개혁당에 타격이 되어, 고품질 후보를 내고 소수의 부유한 후원자에 대한 의존도에 대한 질문에 답할 수 있는 능력에 의문을 제기할 수 있습니다. 지난달, 파라지가 태국에 기반을 둔 영국 암호화폐 억만장자로부터 500만 파운드(약 67억 원)의 선물을 받은 사실이 밝혀졌습니다.)&lt;/p&gt;
-&lt;p&gt;Yes, though how quickly is unclear. Mr. Burnham has said that if he wins, he would join any leadership contest against Mr. Starmer.&lt;br/&gt;(네, 다만 얼마나 빨리 될지는 불분명합니다. 번햄은 승리할 경우 스타머에 대한 지도권 경쟁에 참여하겠다고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;Other candidates could also run, including Wes Streeting, who resigned as Mr. Starmer’s health secretary last month.&lt;br/&gt;(지난달 스타머의 보건부 장관직에서 사임한 웨스 스트리팅을 포함한 다른 후보들도 출마할 수 있습니다.)&lt;/p&gt;
-&lt;p&gt;The prime minister has repeatedly said in recent weeks that he would fight a challenge.&lt;br/&gt;(총리는 최근 몇 주 동안 도전에 맞서 싸울 것이라고 반복해서 말했습니다.)&lt;/p&gt;
-&lt;p&gt;Many Labour lawmakers hope that if Mr. Burnham wins, Mr. Starmer might agree to a timetable in which he would remain in place for a few weeks or months to ensure stability while allowing a leadership contest to take place. A new Labour leader — and prime minister — could be installed at the party’s annual conference in September.&lt;br/&gt;(많은 노동당 의원들은 번햄이 승리할 경우, 스타머가 안정성을 보장하기 위해 몇 주 또는 몇 달 동안 자리를 유지하면서 지도권 경쟁이 진행되도록 허용하는 일정에 동의할 수 있기를 바라고 있습니다. 새로운 노동당 지도자이자 총리는 9월 당 연례 회의에서 선출될 수 있습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-by-election-burnham-starmer.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/18/multimedia/18int-uk-election-wtk-01-ljbk/18int-uk-election-wtk-01-ljbk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 18 Jun 2026 10:56:58 +0000</pubDate></item><item><title>War in Iran Spurs Solar Boom in Southeast Asia (이란 전쟁, 동남아시아 태양광 붐을 일으키다)</title><link>https://www.nytimes.com/2026/06/18/world/asia/asia-oil-crisis-iran-solar-panels.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/17/multimedia/17int-seasia-solar-01-pkqt/17int-seasia-solar-01-pkqt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;In March, a few weeks after the war in Iran began jolting energy markets, Heidi Mendoza had solar panels installed on the roof of her three-story house in Marikina, Philippines, from where she teaches financial literacy classes online. “I got scared that we might lose electricity,” she said.&lt;br/&gt;(3월, 이란 전쟁이 에너지 시장에 충격을 주기 시작한 지 몇 주 후, 필리핀 마리키나에 있는 3층짜리 주택 지붕에 태양광 패널을 설치한 하이디 멘도사는 그곳에서 온라인으로 금융 문해력 수업을 가르치고 있다. 그녀는 "전기가 끊길까 봐 두려웠다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;Last month, Ming Kuang Chai, an architect in Kuala Lumpur, Malaysia, made a similar addition to his home. “The Iran war, and the fact that I drive an electric car, pushed me to install the panels quickly to manage my living costs,” he said.&lt;br/&gt;(지난달, 말레이시아 쿠알라룸푸르의 건축가 밍 광 차이도 자신의 집에 비슷한 시설을 추가했다. 그는 "이란 전쟁과 제가 전기차를 운전한다는 사실이 생활비를 관리하기 위해 신속히 패널을 설치하도록 밀어붙였다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;Adiana Julia hopes to add her parents’ house in Yogyakarta, Indonesia, to the solar-powered ranks early next year. “It’s better if we can find ways to reduce our dependence on the grid,” she said.&lt;br/&gt;(아디아나 줄리아는 내년 초에 인도네시아 욕야카르타에 있는 부모님 댁을 태양광 발전 대열에 합류시키길 희망한다. 그녀는 "전력망에 대한 의존도를 줄일 방법을 찾는 것이 더 낫다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;This shift is occurring in many parts of Southeast Asia, a region whose energy sector is heavily reliant on oil imported via the Strait of Hormuz, which has been effectively closed since the war began. The United States and Iran have announced a preliminary agreement to end the war and the strait may reopen soon. But the economic fallout from the conflict will last much longer, and in some cases may change consumer behavior for good.&lt;br/&gt;(이러한 변화는 동남아시아 여러 지역에서 일어나고 있다. 이 지역의 에너지 부문은 전쟁 발발 이후 사실상 폐쇄된 호르무즈 해협을 통해 수입되는 석유에 크게 의존하고 있다. 미국과 이란은 전쟁을 종식시키기 위한 예비 합의를 발표했으며, 해협이 곧 재개될 수도 있다. 그러나 이 갈등의 경제적 여파는 훨씬 더 오래 지속될 것이며, 경우에 따라 소비자 행동을 영구적으로 바꿀 수도 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2월 28일 미-이스라엘의 이란 공습으로 전쟁이 시작된 지 며칠 후, 필리핀은 국가 비상사태를 선포하고 해협 교통이 마비되면서 석유 가격이 급등하자 순환 정전을 경고했다. 이것이 오랫동안 자신의 집에 태양광 발전을 추가할 생각을 해왔던 63세의 멘도사 씨에게 신호탄이 되었다. 그녀는 전력 공급 중단을 막기 위해 약 6500달러(필리핀 페소 39만)를 지출했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그렇지 않으면, 그녀는 "온라인 작업을 할 수 없었을 것"이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-수요 증가는 세계 최대 태양광 패널 제조국인 중국에 유리하게 작용했다. 컨설팅 회사 우드 매킨지에 따르면, 3월 중국은 동남아시아에 5.5기가와트의 태양광 용량을 판매했는데, 이는 전년 대비 두 배 이상 증가한 수치다. 이 용량은 연간 145만 가구에 전력을 공급할 수 있는 양이라고 이 회사의 분석가 완 아피크 나키우딘이 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일부 고객들은 중국에서 조세 면제 기간이 만료됨에 따라 패널을 비축하고 있었다. 그러나 이용 가능한 가장 최근 데이터에 따르면 4월 수출도 일반적인 수준 이상을 유지했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 필리핀 전역에 패널을 판매하는 GoSolar Philippines와 같은 회사에 호황으로 이어졌다. 이 회사의 최고경영자 아이바르 라비 라샤드 비비에 따르면, 최근 주문이 5배 증가했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-필리핀 케손시티에 위치한 싱크탱크인 기후 및 지속 가능 도시 연구소의 전무 이사 안젤로 카이로스 델라 크루즈는 "가정에서는 전기 요금 상승을 상쇄하기 위해 옥상 태양광 발전으로 점점 더 전환하고 있다. 반면, 특히 주간 에너지 소비가 많은 기업들은 운영 비용을 관리하기 위해 태양광을 채택하고 있다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-말레이시아를 포함한 지역 내 일부 정부는 이미 화석 연료 의존도를 줄이기 위해 태양광 패널 설치에 인센티브를 제공하고 있었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그럼에도 최근 속도가 빨라졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-쿠알라룸푸르에 기반을 둔 태양광 공급업체 SOLS Energy의 부사장 자란 왈리아는 "전쟁 후 소비자들은 더 큰 옥상 태양광 시스템을 원한다. 그리고 우리는 이전에 하루 5~7가구에서 지금은 하루 8~10가구를 설치하고 있다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-패널 가격도 하락했다. 12월 와트당 9센트로 사상 최저치를 기록한 가격은 중국 제조업의 급속한 확장으로 인해 10년 전의 극히 일부 수준이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-많은 농장이 태양 에너지를 사용하는 캄보디아에서는 4월 1일부터 태양광 패널과 에너지 저장 시스템에 대한 모든 수입 관세를 철폐했다. 그 이전에도 3월 태양광 패널 수입은 422메가와트 용량에 도달하며 기록을 세웠다고 에너지경제금융분석연구소가 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-인도네시아는 여전히 에너지의 상당 부분을 석탄에 의존하지만, 정부는 3년 내에 태양광으로 100기가와트를 생산하겠다는 목표를 세웠다. 그럼에도 소비자들은 집에 태양광 패널을 설치하는 것이 간단하지 않다고 불평한다. 2024년 법률에 따르면 개인은 1월과 7월, 1년에 두 번만 지역 전력망에 연결된 태양광 시스템을 설치할 수 있다. 줄리아 씨는 1월까지 기다릴 계획이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 52세의 아리스 얀토는 태양광 패널을 온라인으로 주문해 전력망에 연결하지 않고 직접 설치했다. 그는 "여기 전압은 자주 변동하고 정전이 거의 매일 발생하기 때문에 전력망에 의존하고 싶지 않다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-태양광 패널 수입이 거의 기록적인 수준에 근접한 태국에서는 당국이 가정이 옥상 패널의 잉여 전력을 국가 전력망에 판매할 수 있도록 하는 규정을 최종 확정하기를 희망하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-분석가 나키우딘 씨에 따르면, 이러한 움직임은 동남아시아 전역에서 계속될 가능성이 높다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 "이들 국가는 호르무즈에서 발생한 것과 같은 예측 불가능한 지정학적 사건이 미래에 다시 발생할 수 있기 때문에 에너지 안보를 위한 단기적 해결책으로 태양광을 계속 찾을 것"이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-인도네시아 욕야카르타에서 하샤 닌디타, 캄보디아 프놈펜에서 순 나린이 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/18/world/asia/asia-oil-crisis-iran-solar-panels.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/17/multimedia/17int-seasia-solar-01-pkqt/17int-seasia-solar-01-pkqt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 18 Jun 2026 03:55:10 +0000</pubDate></item><item><title>Taiwan’s President Says He Trusts Trump to Approve Arms Sales (대만 총통, 트럼프의 무기 판매 승인 신뢰 표명)</title><link>https://www.nytimes.com/2026/06/18/world/asia/taiwan-trump-china-arms-weapons.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/17/multimedia/17int-taiwan-president-lqhj/17int-taiwan-president-lqhj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 20 Jun 2026 09:48:09 +0000</lastBuildDate><item><title>Taiwan’s President Says He Trusts Trump to Approve Arms Sales (대만 총통, 트럼프의 무기 판매 승인 신뢰 표명)</title><link>https://www.nytimes.com/2026/06/18/world/asia/taiwan-trump-china-arms-weapons.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/17/multimedia/17int-taiwan-president-lqhj/17int-taiwan-president-lqhj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;President Lai Ching-te of Taiwan voiced “high hopes” on Thursday that President Trump would approve $14 billion in arms orders for the island, downplaying concerns raised last month when Mr. Trump suggested U.S. military support for Taiwan was negotiable, unsettling longstanding American policy.&lt;br/&gt;(라이칭더 대만 총통은 6일(현지시간) 도널드 트럼프 미국 대통령이 대만에 대한 140억 달러(약 19조 4000억 원) 규모의 무기 주문을 승인할 것이라는 "높은 기대"를 표명했습니다. 이는 지난달 트럼프 대통령이 대만에 대한 미국의 군사 지원이 협상 가능하다고 시사하며 오랜 미국 정책에 불안을 야기한 데 따른 우려를 누그러뜨리기 위한 발언입니다.)&lt;/p&gt;
 &lt;p&gt;Mr. Lai gave an optimistic take on Taiwan’s standing with the United States, which has taken a blow since Mr. Trump said in May that U.S. weapons sales were a “negotiating chip” with China and suggested that Mr. Lai was a source of instability across the Taiwan Strait — a characterization often pushed by Beijing.&lt;br/&gt;(라이 총통은 대만의 미국 내 입지에 대해 낙관적인 입장을 밝혔습니다. 이 입지는 트럼프 대통령이 지난 5월 미국의 무기 판매를 대중국 "협상 카드"라고 말하고 라이 총통이 타이완 해협 전역의 불안정 요인이라고 시사하면서 타격을 입었습니다. 이는 베이징이 자주 밀어붙이는 묘사입니다.)&lt;/p&gt;
 &lt;p&gt;Mr. Lai, speaking at a news conference for foreign media outlets in Taipei, sought to assuage concerns, describing Mr. Trump as a strong supporter of Taiwan. The island has for decades relied on military and political support from Washington to counter an increasingly powerful Beijing, which claims Taiwan as its territory. In the most extreme scenario, China could try to take Taiwan by force, risking a war that could draw in the United States.&lt;br/&gt;(라이 총통은 타이베이에서 열린 외신 기자회견에서 우려를 불식시키기 위해 트럼프 대통령을 대만의 강력한 지지자로 묘사했습니다. 대만은 수십 년 동안 워싱턴의 군사적, 정치적 지원에 의존해 왔으며, 이는 갈수록 강력해지는 베이징에 맞서기 위한 것입니다. 베이징은 대만을 자국의 영토라고 주장합니다. 가장 극단적인 시나리오에서 중국은 무력으로 대만을 장악하려 시도할 수 있으며, 이는 미국을 끌어들일 전쟁 위험을 초래합니다.)&lt;/p&gt;
@@ -783,276 +722,7 @@
 &lt;p&gt;Israel’s stance, and the latest escalation, has made Lebanon a test of whether Washington can keep the wider agreement from falling apart over a cycle of violence that has become a major sticking point in negotiations.&lt;br/&gt;(이스라엘의 입장과 최근의 긴장 고조는 레바논을, 워싱턴이 협상의 주요 걸림돌이 된 폭력의 순환으로 인해 더 넓은 협정이 붕괴되는 것을 막을 수 있는지에 대한 시험대로 만들었다.)&lt;/p&gt;
 &lt;p&gt;“Without firm U.S. leadership, persistent fighting in Lebanon will keep any U.S.-Iran understanding on a knife’s edge, liable to fall over at any moment,” said David Wood, the senior Lebanon analyst for the International Crisis Group, a research organization.&lt;br/&gt;(연구 기관인 인터내셔널 크라이시스 그룹의 레바논 선임 분석가 데이비드 우드는 "미국의 확고한 지도력 없이는 레바논에서의 지속적인 교전이 미국-이란 간의 어떤 합의도 칼날 위에 놓이게 하여 언제든 무너질 위험에 처하게 할 것입니다."라고 말했다.)&lt;/p&gt;
 &lt;p&gt;Adam Rasgon, Ronen Bergman and Erika Solomon contributed reporting.&lt;br/&gt;(아담 라스곤, 로넨 버그먼, 에리카 솔로몬이 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-israel-attacks.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19mideast-lebanon-attacks-hblz/19mideast-lebanon-attacks-hblz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 07:56:11 +0000</pubDate></item><item><title>Woman Receives 12-Year Sentence for 1978 Scalding Death of Stepdaughter, 5 (1978년 5세 의붓딸을 끓는 물에 데게 해 숨지게 한 혐의, 여성 징역 12년 선고)</title><link>https://www.nytimes.com/2026/06/19/world/europe/janice-nix-scalding-killing-london-1978.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19xp-nix/19xp-nix-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;A South London woman was sentenced to 12 years in prison on Friday after she was found guilty of killing her 5-year-old stepdaughter by scalding her in a hot bath in 1978.&lt;br/&gt;(남런던의 한 여성이 1978년 5세 의붓딸을 뜨거운 욕조에 넣어 화상을 입혀 숨지게 한 혐의로 유죄 판결을 받고 금요일 징역 12년을 선고받았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 여성은 67세의 재니스 닉스(Janice Nix)로, 전직 남런던 마약 두목이자 현재 보호관찰관으로 일하고 있으며, 의붓딸 안드레아 버나드(Andrea Bernard)의 사망과 관련해 지난 5월 과실치사 혐의로 유죄 판결을 받았다. 닉스의 유죄 판결에 결정적인 역할을 한 것은 안드레아의 오빠 데즈먼드 버나드(Desmond Bernard)의 증언이었다. 그는 여동생이 사망했을 당시 8살이었으며, 거의 50년 동안 여동생 사망의 진실을 숨겨왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"여동생의 삶에 대한 마지막 기억은 여동생의 날카로운 비명과 그녀의 죽음에 대해 거짓말을 한 것입니다." 56세의 버나드 씨는 닉스의 양형 청문회에서 이렇게 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-거의 반세기 동안 안드레아의 사망은 사고로 처리되었다. 검시관 보고서에 따르면 그녀는 광범위한 화상으로 인한 패혈증으로 사망했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 검찰에 따르면 닉스는 처벌의 일환으로 소녀를 끓는 물이 담긴 욕조에 강제로 넣었으며, 이는 닉스가 아이들을 벨트로 정기적으로 때리고, 담배로 지지고, 물어뜯는 패턴의 일부였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-버나드 씨는 당국에 1978년 6월 6일, 안드레아가 이미 닉스 씨와 문제를 겪고 있었으며, 닉스가 소녀에게 학교를 빼먹고 남런던의 손튼 히스(Thornton Heath) 지역에 있는 집 청소를 도우라고 명령했다고 말했다. 그러나 검찰에 따르면 안드레아는 또 다른 구타를 두려워해 자리를 떴다.
-&lt;&lt;&lt;PARA&gt;&gt;
-안드레아가 돌아왔을 때, 버나드 씨는 수사관들에게 닉스가 격분했다고 말했다. 그는 닉스가 목욕물을 틀고 안드레아에게 들어가라고 요구하는 소리를 들었다고 회상했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"제가 안드레아가 말한 것을 들은 것은 '엄마, 물이 너무 뜨거워요'였습니다." 버나드 씨는 BBC에 말했다. "그녀는 그것을 두 번 말했습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 닉스는 "그냥 그녀에게 욕조에 들어가라고 말하고 있었습니다." 버나드 씨는 덧붙여 말했다. "그전이나 후에 그런 비명 소리를 들어본 적이 없습니다."
-&lt;&lt;&lt;PARAL&gt;
-메트로폴리탄 경찰에 따르면, 비명이 결국 조용해졌을 때 버나드 씨는 욕실에 들어가 여동생이 축 늘어진 채로 있는 것을 발견했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-안드레아는 전신의 50%에 걸친 심각한 화상 치료를 받던 병원에서 거의 6주 후에 사망했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-버나드 씨에 따르면, 닉스는 그가 여동생의 죽음에 대한 진실을 비밀로 지키면 더 이상 그를 때리지 않겠다고 약속했다고 나중에 수사관들에게 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-버나드 씨가 경찰에 가서 안드레아에 대한 진실을 말하고 싶다고 한 것은 2022년 9월이 되어서였다. 40년 이상이 지나고 많은 기록이 분실되었지만, 수사관들은 사건을 재조사했고 닉스가 안드레아의 사망에 대해 설명한 내용에서 명확한 모순점을 찾아낼 수 있었다. BBC 보도에 따르면, 그녀는 2025년 2월 앤티가에서 도착한 후 비행기에서 내려 히드로 공항에서 체포되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"데즈먼드가 법정에서 한 말은 안드레아의 죽음이 그의 평생에 얼마나 큰 영향을 미쳤는지 분명히 보여주었습니다." 메트로폴리탄 경찰의 루이스 카빈(Louise Caveen) 형사는 금요일 성명에서 말했다. "그날 일어난 일을 바꿀 수 있는 것은 아무것도 없지만, 재니스가 마침내 정의의 심판을 받고 그의 여동생의 생명을 앗아간 책임을 지게 된 것이 그에게 얼마나 중요한 일인지 우리는 알고 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-닉스는 한때 '맘마 J(Mamma J)'로 알려진 전직 남런던 마약 판매상이다. 1990년대 대부분을 마약 혐의로 감옥에서 보낸 후, 남런던 브릭스턴에서 보호관찰관으로 늦깎이 갱생한 것과 2021년 회고록 '브레이킹 아웃(Breaking Out)'은 영국 안팎에서 찬사를 받는 뉴스 보도로 이어졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"저는 그것에 대해 자랑스럽지 않습니다." 닉스는 2021년 BBC와의 인터뷰에서 자신의 범죄 과거를 언급하며 말했다. "때때로 제 범죄 경력을 생각하면 몸서리쳐지지만, 그런 다음 저는 제 자신에게 부드러워집니다. 왜냐하면 그 과거 없이는 오늘 제 앞에 있는 것을 가질 수 없었을 것이라는 점도 이해하기 때문입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-닉스는 안드레아의 사망에 대한 과실치사 혐의로 유죄 판결을 받은 것 외에도 1975년부터 1978년까지 버나드 씨를 학대한 아동 학대 혐의로도 유죄 판결을 받았다. 이에 대해 별도로 징역 15개월을 선고받았으며, 이 형기는 과실치사 형기와 동시에 집행된다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/europe/janice-nix-scalding-killing-london-1978.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19xp-nix/19xp-nix-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 09:52:43 +0000</pubDate></item><item><title>Lebanon Cease-Fire Bolsters U.S.-Iran Truce, After a Shaky Start (레바논 휴전, 불안한 출발 이후 미국-이란 휴전 강화)</title><link>https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-ceasefire-iran-truce.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19int-mideast-ledeall-zhlw/19int-mideast-ledeall-zhlw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Diplomats worked on Friday to try to keep the fragile deal between Iran and the United States on track, after Israeli strikes in Lebanon prompted Iran to pull out of peace talks. Hours later, Israel said it had agreed to a cease-fire in Lebanon with Iran’s ally, Hezbollah.&lt;br/&gt;(외교관들은 금요일 이란과 미국 간의 취약한 합의를 유지하기 위해 노력했으나, 레바논에서의 이스라엘 공습으로 이란이 평화 회담에서 철수하면서 상황이 어려워졌다. 몇 시간 후, 이스라엘은 레바논에서 이란의 동맹인 헤즈볼라와 휴전에 합의했다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;Iran’s withdrawal from talks with the United States, even if temporary, dealt a blow to the framework agreement signed this week by President Trump. Negotiations for a long-term peace agreement had been expected to start just hours later in Switzerland.&lt;br/&gt;(이란이 미국과의 회담에서 철수한 것은, 비록 일시적일지라도, 트럼프 대통령이 이번 주에 서명한 기본 협정에 타격을 입혔다. 장기 평화 협정을 위한 협상은 몇 시간 후 스위스에서 시작될 예정이었다.)&lt;/p&gt;
-&lt;p&gt;But if the already shaky truce with Iran wobbled, it apparently held, for now, with no suggestion that talks had been put off indefinitely. Shipping traffic through the Strait of Hormuz continued to increase, though it remained far below its prewar level.&lt;br/&gt;(하지만 이미 불안정했던 이란과의 휴전이 흔들렸지만, 당분간은 협상이 무기한 연기되었다는 징후 없이 유지된 것으로 보인다. 호르무즈 해협을 통한 선박 통행은 계속 증가했지만, 전쟁 이전 수준에는 훨씬 못 미쳤다.)&lt;/p&gt;
-&lt;p&gt;Israel’s ambassador to the United States, Yechiel Leiter, confirmed that his country was “firmly committed to an immediate cease-fire.” Mr. Trump told NBC News in a phone call that he had asked Israeli leaders on Friday to agree to a cease-fire in Lebanon, which he called “a little icing on the cake,” but did not say if he had spoken with Prime Minister Benjamin Netanyahu. Hezbollah has not publicly confirmed that it agreed to a cease-fire.&lt;br/&gt;(주미 이스라엘 대사 예히엘 라이터는 자국이 "즉각적인 휴전에 확고히 전념하고 있다"고 확인했다. 트럼프 대통령은 NBC 뉴스와의 전화 인터뷰에서 금요일 이스라엘 지도자들에게 레바논 휴전에 동의하라고 요청했으며, 이를 "케이크 위의 작은 장식"이라고 불렀지만, 베냐민 네타냐후 총리와 대화했는지는 밝히지 않았다. 헤즈볼라는 휴전에 동의했다는 사실을 공개적으로 확인하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이날의 사건들은 이번 주에 체결된 미국-이란 협정이 얼마나 미묘한 상태인지, 그리고 레바논이 이 협정에 얼마나 중심적인 역할을 하는지 보여주었다. 협정의 14개 항목 중 첫 번째는 양국과 "현재 전쟁에서의 동맹국들"이 "레바논을 포함한 모든 전선에서 군사 작전을 즉각적이고 영구적으로 중단"할 것을 약속한다. 하지만 미국과 함께 이란에 맞서 전쟁을 벌인 이스라엘과 이란이 지원하는 헤즈볼라는 이 협정에 서명하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-레바논 휴전이 현지 시간으로 오후 4시에 발효된 후 몇 시간 동안 레바논은 비교적 조용했다. 이는 전날 밤 이스라엘의 집중적인 폭격으로 47명이 사망하고 97명이 부상당한 직후였다고, 레바논 보건부는 밝혔으며, 민간인과 전투원을 구분하지 않았다. 여러 국가의 관리들은 카타르와 미국이 중재한 휴전을 확인했다. 이들 관리와 협상 이탈을 확인한 관리들은 민감한 외교 문제를 논의하기 위해 익명을 요구했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란은 단기 또는 장기 평화 협정에 레바논이 포함되어야 한다고 주장한다. 하지만 이스라엘 정부는 레바논 남부에서 헤즈볼라를 축출하기 위한 공세를 계속할 것이라고 여러 차례 밝혔으며, 네타냐후 총리는 이를 이행해야 한다는 국내 정치적 압박을 크게 받고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-네타냐후 총리는 레바논에서 이스라엘 전차에 대한 공격으로 병사 4명이 사망한 후 최신 폭격을 명령했으며, 금요일 초 성명에서 이스라엘이 "이러한 공격에 대해 헤즈볼라에게 매우 무거운 대가를 치르게 할 것"이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-휴전이 발효된 것으로 전해진 후에도 적대적인 발언은 계속되었다. 헤즈볼라 지도자 나임 카셈은 금요일 연설에서 "적을 우리 땅에서 추방하겠다"고 다짐했다. 라이터 대사는 이스라엘 군대가 "헤즈볼라를 제거하기 위해" 레바논 남부에 남을 것이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-네타냐후 총리는 그의 가장 중요한 동맹인 트럼프 대통령을 화나게 했으며, 트럼프 대통령은 공개적으로 그를 비난하고 이스라엘이 전쟁 목표를 추구하는 데 과도한 무력을 사용했다고 비난하며 이란과의 합의를 훼손하고 있다고 시사했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 주 트럼프 대통령과 이란 대통령 마수드 페제시키안이 서명한 양해각서는 이란의 핵 프로그램 제한과 주요 재정적 인센티브(이란의 침체된 경제를 지원하기 위한 서방 제재 해제 포함)와 같은 문제를 다루는 장기 평화 협정을 협상할 60일의 기간을 제공한다. 이란 최고 지도자 아야톨라 모즈타바 하메네이는 이 합의에 동의했지만 찬성하지는 않으며, 그 책임을 페제시키안 대통령에게 돌리고 미국의 요구에 굴복하지 말라고 경고했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-장기 협정을 위한 협상은 금요일 스위스 루체른 호수의 한 리조트에서 시작될 예정이었다. 하지만 외교관들은 이란 대표단이 계획된 회의에서 철수했으며, 참석 예정이었던 JD 밴스 부통령이 워싱턴 시간 목요일 밤 늦게(유럽 시간 금요일 아침) 갑자기 방문을 취소했다고 말했다. 어느 쪽도, 중개 역할을 한 국가들도 협상이 언제 열릴지 밝히지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-바이든 행정부에서 중동 담당 고위 펜타곤 관료였던 다나 스트롤은 이 지연이 미국이 이란 지도자들을 오해하고 있음을 시사하며, 그들에게 자국 경제를 구하는 것이 최우선 과제가 아니라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-현재 워싱턴 근동 정책 연구소 선임 연구원인 스트롤은 워싱턴과 예루살렘 간의 균열이 확대됨에 따라 "테헤란은 물에 피 냄새를 맡고 있으며, 모두가 이스라엘을 탓할 것이라고 예상하기 때문에 상황을 부추기고 더 큰 균열을 조장하려 한다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-레바논에서의 전투는 이란과 이스라엘 간의 갈등과 밀접하게 연결되어 오랫동안 보복의 연쇄였으며, 이스라엘은 일관되게 훨씬 더 큰 무력을 사용했고 레바논은 훨씬 더 큰 파괴와 사상자를 겪었다. 최신 장은 이스라엘과 미국이 2월 28일 헤즈볼라의 후원국인 이란을 폭격하기 시작하면서 시작되었다. 헤즈볼라는 로켓과 드론으로 이스라엘에 대응했고, 이스라엘은 공습과 지상 침공으로 보복했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-압디 라티프 다히르와 유안 워드는 레바논 베이루트에서, 아담 라스곤은 예루살렘에서, 조나단 라이스는 텔아비브에서 보도했다. 보도에는 에리카 L. 그린, 에리카 솔로몬, 마이클 크롤리, 로넨 버그먼, 짱커슬리, 예가네 토르바티, 프라나브 바스카르, 사남 마후지, 제니 그로스, 에프라트 리브니, 앨런 유하스가 기고했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-ceasefire-iran-truce.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-mideast-ledeall-zhlw/19int-mideast-ledeall-zhlw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 11:00:48 +0000</pubDate></item><item><title>Two Passenger Trains in Deadly Collision in Britain (영국 여객열차 충돌 참사…사망자 최소 1명)</title><link>https://www.nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19int-uk-train-collision-qgjf/19int-uk-train-collision-qgjf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Two passenger trains collided in Britain on Friday evening, killing at least one person and injuring dozens more, according to the authorities.&lt;br/&gt;(영국에서 금요일 저녁 여객열차 두 대가 충돌해 최소 1명이 사망하고 수십 명이 부상했다고 당국이 밝혔다.)&lt;/p&gt;
-&lt;p&gt;The collision took place about 5:15 p.m. local time near the town of Bedford, in south-central England, officials said, prompting a major emergency response from the police and health workers, according to the transport police.&lt;br/&gt;(교통경찰에 따르면 충돌은 현지 시간 오후 5시 15분경 잉글랜드 중남부 베드퍼드 인근에서 발생했으며, 경찰과 의료진의 대규모 긴급 대응이 시작됐다.)&lt;/p&gt;
-&lt;p&gt;The East England Ambulance Service said in a statement that one person had died at the site of the crash. Eleven others suffered life-threatening injuries; 22 people, less gravely hurt, required immediate treatment; and 56 others had minor injuries, the statement said.&lt;br/&gt;(잉글랜드 동부 구급차 서비스는 성명에서 사고 현장에서 1명이 사망했다고 전했다. 성명은 생명이 위태로운 중상자 11명, 즉시 치료가 필요한 경상자 22명, 경미한 부상자 56명이 발생했다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;In a statement published shortly later, Britain’s transit workers’ union said that a driver of one of the trains, a former union representative, had died.&lt;br/&gt;(얼마 지나지 않아 발표된 성명에서 영국 교통 노동자 조합은 열차 기관사 중 한 명(전 조합 대표)이 사망했다고 전했다.)&lt;/p&gt;
-&lt;p&gt;An operator at Bedford Hospital said by phone that the medical center was preparing for a “major incident” after the collision. The East England Ambulance Service also said it had sent an air ambulance to the scene, and encouraged people to avoid the area. The town is about 45 miles north of London.&lt;br/&gt;(베드퍼드 병원의 한 직원은 전화 통화에서 의료 센터가 충돌 후 '대형 사고'에 대비하고 있다고 말했다. 잉글랜드 동부 구급차 서비스는 현장에 헬기 구급차를 보냈으며 사람들에게 해당 지역을 피하라고 권고했다. 베드퍼드는 런던에서 북쪽으로 약 45마일(약 72km) 떨어져 있다.)&lt;/p&gt;
-&lt;p&gt;“It felt like a bomb, like I was in an explosion,” Peter Knapp, a 40-year-old air quality scientist and a filmmaker, said of the crash. He was in the front carriage of the train that rammed into the one ahead of it, he said, adding, “I’m amazed that I’m walking and breathing.”&lt;br/&gt;(40세의 대기 질 과학자이자 영화 제작자인 피터 냅은 충돌에 대해 "폭탄을 맞은 것 같았다. 폭발 속에 있는 듯한 느낌이었다"고 말했다. 그는 앞차를 들이받은 열차의 앞 객차에 타고 있었다며 "걸어 다니고 숨 쉬는 게 놀랍다"고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;Mr. Knapp said that afterward the carriage was full of dust, with the train’s seats “all over the place.” He said that some people’s faces were covered in blood, and that he saw at least two people with what he called life-threatening injuries. He himself was bleeding from his shins and in a wheelchair after the crash, which he said caused his back to seize up.&lt;br/&gt;(냅 씨는 사고 후 객차 안에는 먼지가 가득했고 열차 좌석이 "사방에 흩어져 있었다"고 말했다. 그는 일부 사람들의 얼굴이 피로 뒤덮였고, 생명이 위독한 부상을 입은 사람을 최소 두 명 목격했다고 전했다. 자신도 정강이에서 피가 나고 뒷목이 뻣뻣해져 휠체어를 탔다고 말했다.)&lt;/p&gt;
-&lt;p&gt;The British prime minister, Keir Starmer, said that reports of the collision were “hugely concerning” and that his thoughts were with the family of the person who had died and with the others injured.&lt;br/&gt;(영국 총리 키어 스타머는 충돌 소식이 "매우 우려스럽다"며 사망자의 가족과 다른 부상자들에게 깊은 애도를 표한다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;The trains that collided had been headed to London St. Pancras, one of England’s busiest train stations. They departed for their destinations about an hour apart, according to the East Midlands Railway, a British train operating company.&lt;br/&gt;(충돌한 열차들은 영국에서 가장 분주한 기차역 중 하나인 런던 세인트 판크라스 역으로 향하고 있었다. 영국 열차 운영 회사인 이스트 미들랜즈 철도에 따르면 두 열차는 약 1시간 간격으로 출발했다.)&lt;/p&gt;
-&lt;p&gt;Officials from the Rail Accident Investigation Branch said that a team was on site to gather evidence about how the collision happened.&lt;br/&gt;(철도사고조사국의 관계자들은 사고 원인에 대한 증거를 수집하기 위해 현장에 조사팀을 파견했다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;Michael D. Shear contributed reporting.&lt;br/&gt;(마이클 D. 시어가 보도에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-uk-train-collision-qgjf/19int-uk-train-collision-qgjf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 15:22:33 +0000</pubDate></item><item><title>Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War (레바논, 전쟁 종식 위한 미국-이란 합의의 약한 고리로 부상)</title><link>https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19mideast-lebanon-fghc/19mideast-lebanon-fghc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The preliminary agreement between Iran and the United States had barely come into effect when it all nearly unraveled on Friday. And, for the second time in recent weeks, the issue that threatened to derail it was Lebanon.&lt;br/&gt;(이란과 미국 간 예비 합의가 발효된 지 얼마 지나지 않아 금요일 거의 무산될 뻔했다. 그리고 최근 몇 주 사이 두 번째로, 합의를 무산시킬 위협이 된 문제는 레바논이었다.)&lt;/p&gt;
-&lt;p&gt;The conflict in Lebanon, once seen as a secondary front to the American-Israeli war on Iran, has become one of the main obstacles to ending it. That dynamic came into sharp focus on Friday, after fighting between the Iran-backed militant group Hezbollah and Israel intensified and a new round of talks between Tehran and Washington in Switzerland was subsequently scuttled.&lt;br/&gt;(한때 이란에 대한 미국-이스라엘 전쟁의 부차적 전선으로 여겨졌던 레바논 분쟁은 종전을 위한 주요 장애물 중 하나가 되었다. 이러한 역학관계는 이란이 지원하는 무장단체 헤즈볼라와 이스라엘 간 교전이 격화되고, 이후 테헤란과 워싱턴 간 스위스에서의 새로운 회담이 무산되면서 금요일 뚜렷하게 드러났다.)&lt;/p&gt;
-&lt;p&gt;While neither side gave a reason for the postponement, three diplomats who spoke on the condition of anonymity to discuss sensitive details said that Iran had withdrawn from the talks because of Israeli strikes in Lebanon.&lt;br/&gt;(양측 모두 연기 이유를 밝히지 않았지만, 민감한 세부 사항을 논의하기 위해 익명을 요구한 세 명의 외교관에 따르면 이란은 레바논에서의 이스라엘 공습 때문에 회담에서 철수했다.)&lt;/p&gt;
-&lt;p&gt;“Iran’s new leadership views Lebanon as part and parcel of its own national security, as previous Israeli advances against Hezbollah in 2024 paved the way for a direct conflict with Iran,” said Mohanad Hage Ali, a senior fellow at the Carnegie Middle East Center in Beirut. “For Iran, the end game is an Israeli withdrawal from Lebanon.”&lt;br/&gt;(베이루트 소재 카네기 중동센터 선임 연구원 모하나드 하지 알리는 "이란의 새 지도부는 레바논을 자국의 안보와 불가분의 관계로 본다. 2024년 이스라엘이 헤즈볼라에 대해 이룬 이전 진전이 이란과의 직접 충돌로 가는 길을 열었기 때문이다"라고 말했다. "이란에게 종국적인 목표는 이스라엘이 레바논에서 철수하는 것이다."
-&lt;&lt;&lt;PARA&gt;&gt;
-금요일 외교적 결렬은 최근 몇 주 사이 레바논 분쟁이 미국과 이란 간 회담을 뒤엎은 두 번째 사례였다. 이달 초, 레바논 수도 베이루트 외곽에 대한 이스라엘 공습으로 이란은 이스라엘을 향해 미사일을 발사했고, 이스라엘은 이란 전역에 자체 공습을 퍼부으며 대응했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-결렬은 미국과 이란이 레바논에서의 "즉각적이고 영구적인 군사 작전 종료"를 촉구하고 레바논의 "영토 보전과 주권"을 수호하겠다고 약속한 자체 전쟁 종식을 위한 예비 합의에 서명한 지 며칠 만에 발생했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-익명 출처에 대해 알아야 할 사항. 타임스는 출처의 신원을 보호할 때마다 신중한 결정을 내린다. 출처가 제공하는 정보는 뉴스 가치가 있고 신뢰할 수 있으며 독자에게 진정한 통찰력을 제공해야 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-합의에 레바논을 포함시킨 것은 이란의 외교적 승리로 간주되었다. 이란은 오랫동안 동맹국인 헤즈볼라가 3월에 테헤란과의 연대 차원에서 이스라엘을 공격한 레바논이 어떤 합의에도 포함되어야 한다고 주장해 왔다. 협상에 참여하지 않은 이스라엘의 베냐민 네타냐후 총리는 이러한 조건에 단호히 반대하며 헤즈볼라에 대한 군사 작전을 계속하겠다고 다짐했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-금요일, 이스라엘의 주미 대사 예히엘 레이터는 이스라엘이 즉각적인 휴전에 동의하고 레바논에서 "모든 공세 작전을 중단했다"고 밝혔다. 외교관들은 이란과 미국 간의 깨지기 쉬운 합의를 유지하려고 노력했다. 그러나 그는 이스라엘군이 여전히 남부 레바논에서 "헤즈볼라를 제거하고 테러 기반 시설을 해체하기 위해" 작전 중이라고 말하며 "그 임무가 완수될 때까지 그곳에 남아 있을 것"이라고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-헤즈볼라의 즉각적인 논평은 없었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 미국과 이란 간 합의 조건은 답변을 준 만큼이나 많은 의문을 제기했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 합의는 워싱턴과 테헤란의 동맹국에 대한 약속을 확대한다고 주장하지만, 이스라엘과 헤즈볼라 모두 합의문에 서명하지 않았으며, 어느 쪽이든 어떻게 준수하도록 강제할 것인지 설명하지 않는다. 또한 분쟁의 핵심인 두 가지 질문, 즉 이스라엘이 남부 레바논에서 철수할 것인지, 헤즈볼라가 무기를 포기할 것인지에 대한 해결책도 제시하지 않는다.
-&lt;&lt;&lt;PARA&gt;&gt;
-워싱턴과 이스라엘은 두 분쟁을 분리하려고 한 반면, 테헤란은 이스라엘의 레바논 작전을 워싱턴과의 협상에서 압박 지점으로 활용했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러한 전략은 도널드 트럼프 대통령이 지속적인 이스라엘 공격이 합의를 위태롭게 할 수 있다는 우려를 점점 더 키우게 했다. 최근 몇 주 동안 트럼프는 네타냐후에게 점점 더 공개적으로 불만을 표출하며 군사 작전을 축소하라고 압박해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-합의가 발표된 이후 이스라엘은 남부 레바논 전역의 마을과 촌락에 대한 거의 매일 발령하던 대피 경고를 중단했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘의 공습이 계속되기는 했지만, 그 규모와 속도는 금요일까지 크게 줄어들었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-헤즈볼라는 남부 레바논의 대도시 나바티예를 내려다보는 언덕에서 전진하는 이스라엘군을 매복 공격했으며, 이 교전에서 군에 따르면 이스라엘 병사 4명이 사망했다고 밝혔다. 이스라엘은 남부와 동부 레바논 전역에 150회 이상의 공습을 가해 레바논 보건부에 따르면 최소 47명이 사망했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-은퇴한 이스라엘 준장이자 워싱턴 근동정책 연구소 연구원인 아사프 오리온은 이란이 "두 전역을 연결하고 트럼프와의 협상에서 이 레버리지를 활용해 이스라엘을 억제하는 데 성공했지만" 그러한 억제가 지속될지, 그리고 지속된다면 얼마나 오래 갈지 판단하기에는 "아직 너무 이르다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 행정부가 4월에 중재한 레바논과 이스라엘 간의 휴전은 경고의 선례가 된다. 이 휴전은 이스라엘이 공세적 군사 작전을 수행하는 것을 금지하면서도 "자위를 위한 모든 필요 조치"를 취할 국가의 권리는 유지했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-발표 후 몇 시간 만에 이스라엘은 공습을 계속하기 위해 그 광범위한 재량권을 발동했다. 이후 몇 주 동안 휴전에도 불구하고 지상 침공도 확대했다. 일요일에 발표된 미국-이란 합의와 마찬가지로 헤즈볼라는 서명국이 아니었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-또 다른 외교적 경로로, 레바논의 보다 안정적인 해결책을 위한 이스라엘-레바논 차기 회담이 다음 주 워싱턴에서 열릴 것이라고 미 국무부가 금요일 성명에서 밝혔다. 마르코 루비오 국무장관이 레바논의 조제프 아운 대통령과 통화한 후다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란이 헤즈볼라를 얼마나 직접 통제하는지는 불분명하지만, 분석가들은 전임 지도자 하산 나스랄라가 2024년 이스라엘 공습으로 사망한 이후 테헤란이 이 단체에 훨씬 더 강한 영향력을 행사해 왔다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-헤즈볼라와 이스라엘이 그해 말 휴전에 합의한 후, 헤즈볼라는 거의 매일 이스라엘의 공습이 있었음에도 불구하고 2월 말 미국-이스라엘의 이란 전쟁이 시작될 때까지 발포를 자제했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-런던 채텀하우스의 준회원 연구원 리나 카팁은 미국-이란 합의가 레바논에서 "긴장 완화 조건을 조성할 수는 있지만" 이스라엘 철수와 헤즈볼라 무기의 미래를 포함한 핵심 문제를 해결하지는 못한다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘군은 남부 레바논의 넓은 지역에 걸쳐 주둔하고 있으며, 이는 20년 이상 만에 레바논에 대한 가장 큰 점령이다. 이스라엘의 공세는 국경 마을을 황폐화시키고 100만 명 이상을 집에서 쫓아냈다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘은 미국-이란 협상에서 레바논 관련 합의에 구속받지 않는다는 신호를 보냈으며, 이스라엘 지도자들은 최근 며칠 동안 이 나라에서 철수할 의사가 없다고 밝혔다. 이러한 입장은 레바논의 영토 보전을 수호하겠다는 합의의 약속을 즉각적인 시험대에 올려놓는다.
-&lt;&lt;&lt;PARA&gt;&gt;
-헤즈볼라의 무기도 동일한 교착 상태에 묶여 있다. 이스라엘은 그룹이 무장 해제해야 철수를 고려하겠다고 요구했다. 헤즈볼라는 점령이 무기고가 여전히 필요하다는 증거라고 지적한다. 레바논 정부는 모든 무기를 국가 통제 하에 두겠다고 약속했지만, 어느 결과를 확보할 능력도 거의 없다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"레바논 분쟁이 조만간 해결될 가능성은 낮다"고 카팁은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-보도에는 압디 라티프 다히르, 조너선 라이스, 아담 라스곤, 앨런 유하스가 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19mideast-lebanon-fghc/19mideast-lebanon-fghc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 13:31:39 +0000</pubDate></item><item><title>The Unquiet American: Charles Kushner Brings Trump Diplomacy to France (불안한 미국인: 찰스 쿠슈너, 트럼프 외교를 프랑스에 가져오다)</title><link>https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-france-kushner-wtqv/20int-france-kushner-wtqv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Four days before marking the 82nd anniversary of the D-Day landings in Normandy, Charles Kushner, President Trump’s ambassador to France, made a quieter pilgrimage to a military cemetery in eastern France. There, he recited the Kaddish prayer over the graves of five Jewish American soldiers killed in World War I.&lt;br/&gt;(노르망디 상륙작전 82주년을 나흘 앞두고, 도널드 트럼프 대통령의 프랑스 대사인 찰스 쿠슈너는 프랑스 동부에 있는 군사묘지로 조용한 순례를 떠났다. 그곳에서 그는 제1차 세계대전에서 전사한 다섯 명의 유대인계 미국 군인의 묘비 앞에서 유대교 추모 기도인 카디시를 암송했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그것은 자신의 신앙을 외교의 핵심에 두는 정통파 유대교 신자인 쿠슈너에게 엄숙한 추모 행사였다. 그러나 오늘날 프랑스에 사는 유대인들을 대신한 그의 노골적인 옹호가 파리에서 더 많은 관심과 비난을 불러일으켰으며, 그는 파리의 품위 있는 살롱들을 휩쓸고 다녔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아들 재러드가 트럼프 대통령의 딸 이방카와 결혼한 쿠슈너는 지난 7월 파리에 도착한 지 몇 주 만에 프랑스 측이 반유대주의에 맞서 충분히 싸우지 않는다고 비난하면서 충돌을 빚었다. 거의 1년이 지난 지금, 그는 문제가 더 심각해졌다고 주장하며, 트럼프 행정부가 망명 조항을 축소하고 있는 상황에서도 프랑스 유대인에게 난민 지위를 부여할 것을 제안하기까지 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-쿠슈너는 지난주 파리의 자신의 저택에서 가진 인터뷰에서 "이곳 유대인 인구가 이스라엘로 가는 선택지만 있는 것이 아니라 미국으로 갈 수 있는 더 많은 선택권을 갖는 것이 나의 목표 중 하나가 될 것"이라며 "그들은 두려움 속에 살고 있으며 이 정부에 버림받았다고 느낀다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그가 지난 8월 에마뉘엘 마크롱 대통령에게 보낸 공개 서한에서 처음 내놓은 이러한 발언들은 그와 프랑스 외무부 간의 관계를 단절시켰다. 72세의 쿠슈너는 프랑스 내정 간섭을 이유로 두 차례 소환되어 질책을 받았지만 두 번 모두 요청을 거절했고, 이후 장노엘 바로 외무장관은 그가 프랑스 관료들을 만나는 것을 금지하겠다고 위협했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난 2월, 미국 대사관이 극좌파 갱단에 의한 젊은 극우 활동가의 구타 사망 사건에 대한 우려를 표명한 국무부의 논평을 다시 게시한 후 그가 소환되었다. 바로 장관은 비극을 정치화하려는 시도라며 "우리는 국제적인 반동 운동으로부터 배울 교훈이 없다"고 일축했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-한때 쿠슈너의 외교관 적합성에 의문을 제기했을 이러한 충돌들은 그를 트럼프 시대에 걸맞은 사절로 표시한다. 그는 단순히 좋은 자리를 얻은 인척이 아니라, 반유대주의와의 싸움을 밀어붙이든 극우 정치 지도자들을 만나든, 유럽에 대한 트럼프 대통령의 적대감을 충실히 전달하는 전령이다. 쿠슈너는 외교적 예의를 버리고 경멸적인 대통령의 목소리를 대변하는 대사 군단 중에서도 가장 두루 인맥이 넓은 인물 중 하나이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"아시다시피, 미국과 프랑스는 많은 문제에 대해 의견이 다릅니다." 쿠슈너가 인터뷰에서 말했다. "이것은 찰리 쿠슈너 대 바로나 마크롱의 문제가 아닙니다. 미국은 현재 유럽, 특히 프랑스와 매우 다른 의견을 가진 세계적인 많은 문제들을 안고 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-인터뷰에 아내 세릴과 영향력 있는 비서실장 가브리엘 샤인만이 함께한 쿠슈너는 프랑스 외무부에 보고를 거부한 것에 대해 반성하지 않았다. 소환당한 것은 "저 개인에 대한 무례함"이자 "미국 정부에 대한 무례함"이라고 그는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-뉴저지 출신의 억만장자 부동산 개발업자인 쿠슈너는 탈세와 증인 매수 혐의를 인정한 후 1년 넘게 복역했으며, 자신에게 불리한 수사에 협조하던 처남을 유혹하기 위해 매춘부를 고용한 후 그 만남의 비디오를 누이에게 보냈다. 그는 이후 트럼프 대통령에 의해 사면되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-파리에서의 자신의 직책에 대해 쿠슈너는 외교에 필요한 "자연스러운 자질"을 갖추지 못했다고 인정했다. 그러나 그는 "우리는 결과 지향적이기 때문에, 그것이 때때로 상황을 뒤흔든다면, 우리가 뒤흔드는 것일 수도 있습니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-쿠슈너와 바로 장관은 이후 전화 통화를 했으며, 쿠슈너의 프랑스 관료 사회에 대한 접근권은 유지된 것으로 보인다. 그는 최근 트럼프 대통령의 이라크 특사인 톰 배럭과 함께 마크롱 대통령과 조찬을 가졌다. 쿠슈너는 자신이 미국 기술 기업 임원들과의 원탁 회의를 주선한 경제부 장관 롤랑 레스퀴르와 건설적인 관계를 유지하고 있다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-레스퀴르 장관은 인터뷰에서 쿠슈너가 그 자리에서 백악관의 견해를 강요하지 않은 점을 높이 평가했다고 말했다. 그러나 그는 쿠슈너의 일부 공개 발언에 대해 동료들이 느끼는 실망감을 공유한다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"저는 대사가 된 부동산 업자를 알지 못합니다." 레스퀴르가 말했다. "그가 그처럼 행동하는 법을 완전히 배웠는지는 확신할 수 없습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-현직 및 전직 프랑스 외교관들에 따르면, 마크롱 대통령의 최측근 고문들은 여전히 쿠슈너와의 일대일 회동을 피하고 있는데, 이는 그들이 그의 대통령에게 보낸 편지를 자신들의 상사에 대한 개인적인 공격으로 보았기 때문이라고 한다. 프랑스 관리들은 사적인 대화를 논의하기 위해 익명을 조건으로 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국 고위 관리에 따르면, 바로 장관과의 긴장은 그가 2025년 7월 첫 회동에서 마크롱 대통령이 그날 저녁 프랑스가 팔레스타인 국가를 승인할 것이라고 발표할 계획임을 쿠슈너에게 미리 알리지 않으면서 시작되었다고 한다. 이 관리는 민감한 외교 문제를 논의하기 위해 익명을 조건으로 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑스 외무부 대변인은 숨길 의도가 없었으며 프랑스의 승인 움직임은 잘 알려져 있었다고 말했다. 외무부는 쿠슈너와의 관계에 대해 광범위하게 논평하기를 거부했으며, 마크롱 대통령실은 논평 요청에 응답하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 행정부는 쿠슈너의 행동에 대해 어떤 문제 제기도 하지 않았다. 국무부 대변인 토미 피곳은 "상업 외교에서의 리더십부터 반유대주의에 대한 강력한 옹호에 이르기까지, 쿠슈너 대사는 '미국 우선' 외교 정책 비전을 발전시키는 데 전념하고 있습니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑스 관리들 중 쿠슈너가 프랑스의 반유대주의에 대해 경고한 점이 타당하다는 데 이의를 제기하는 사람은 거의 없다. 프랑스 내무부에 따르면, 2023년 10월 하마스의 이스라엘 공격과 이스라엘의 가자 지구 보복 침공 이후 유대인에 대한 폭력 행위가 급증했으며, 지난해에는 그 비율이 소폭 감소했지만 여전히 높은 수준이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-반유대주의는 유럽 전역과 미국에서 증가하고 있다. 유대인과 무슬림 인구가 많은 프랑스에서는 이 논쟁이 역사적으로 더욱 복잡하게 얽혀 있다. 제2차 세계대전 당시 프랑스 남부를 통제했던 나치 협력 정권은 프랑스 유대인을 강제 수용소로 이송하는 것을 도왔다. 더 최근에는, 쿠슈너가 "하마스에 대한 선물"이라고 부른 프랑스의 팔레스타인 승인이 이 나라에서 반유대주의 감정을 부추길지에 대한 의문이 제기되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 전문가들은 프랑스 정부가 반유대주의에 맞서 아무것도 하지 않는다는 쿠슈너의 주장은 틀렸다고 주장한다. 프랑스는 반유대주의에 맞서 싸울 수 있는 법적 수단이 거의 다른 어떤 나라보다 강력하며, 유대인 시설의 보안을 크게 강화했다고 그들은 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑스의 반유대주의 전문 역사가이자 학자인 마르크 노벨은 "이 문제에 관심을 갖고 프랑스가 조치를 개선할 수 있기를 바라는 대사는 자신의 의견이 전달되기를 원한다면 더 외교적인 언어를 사용해야 합니다"라고 말했다. 그는 쿠슈너가 "자신의 나라에서 일어나고 있는 반유대주의에도 관심을 기울이는 것이 좋을 것"이라고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-쿠슈너는 이를 인정했다. "만약 10년 전에 오늘날 이곳에서 이렇게 반유대주의가 있을 거라고 말했다면, 저는 '당신 미쳤군요'라고 말했을 겁니다." 그는 차이점은 트럼프 대통령이 이에 대해 강력한 조치를 취했다는 것이라고 말했다. 행정부는 하버드 대학교와 펜실베이니아 대학교 같은 기관들이 캠퍼스에서 반유대주의를 묵인했다는 논란의 여지가 있는 주장으로 소송을 제기한 반면, 쿠슈너는 프랑스는 프랑스 대학들에 대해 비슷한 조치를 취하지 않았다고 지적했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-쿠슈너의 강한 발언은 대서양 양안의 일부 유대인들 사이에서 그를 영웅으로 만들었다. 군사 묘지에서의 추모식 전에, 미국 유대인들은 그의 옹호에 감사하기 위해 줄을 섰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-옹호 단체인 미국 유대인 위원회 유럽 지부의 전 이사 시몬 로당-벤자켄은 "그는 프랑스인들이 좋아할 방식으로 말하지 않았고, 매우 외교적이지 않았습니다"라고 말했다. 그러나 "그것에 대해 분명히 신경을 쓰고 있다고 말하는 미국 대사가 있고, 이것이 최우선 과제라는 것은 매우 안심이 됩니다"라고 그녀는 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-홀로코스트 생존자의 자녀로서 쿠슈너는 어떤 종교를 가진 사람들에 대한 증오 행위를 개탄한다고 말했다. 그는 종교 간 갈등을 논의하기 위해 가톨릭 사제들과 이슬람 성직자들을 만났다고 말했다. 유대인과의 교류로 유명한 파리의 이맘 하센 샬구미는 쿠슈너의 트럼프 대통령과의 가족 관계 덕분에 그의 노력이 더 큰 영향을 미친다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"대사는 단순한 대사가 아닙니다." 샬구미가 말했다. "그는 대통령 가족과 직접적으로 연결되어 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 대통령의 첫 임기 동안 재러드 쿠슈너는 여러 아랍 국가들이 이스라엘과 외교 관계를 정상화한 아브라함 협정을 조율하는 데 도움을 주었다. 아들의 성과를 부끄러워할 줄 모르는 대사는 방문객들에게 아들의 회고록 '브레이킹 히스토리'의 사인본을 선물한다. 쿠슈너는 더 많은 국가들이 협정에 동참하도록 설득하기 위해 파리에서 중동 대사들을 교류하고 있다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 대사 중 한 명인 레바논의 라비 엘 샤에르는 쿠슈너가 레바논의 조제프 아운 대통령과 쿠슈너의 오랜 친구인 베냐민 네타냐후 이스라엘 총리 간의 미국 회동을 제안했다고 말했다. 엘 샤에르가 망설이자, 쿠슈너가 자신에게 "나는 거래하는 사람입니다"라고 말했다고 회상했다. 엘 샤에르는 "저는 중동에서 왔으며, 우리는 단순히 역사를 건너뛰지 않습니다"라고 대답했다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-쿠슈너에게도 이 임무에는 역사가 드리워져 있다. 다음 달, 그는 미국 독립 250주년을 자신의 관저에서 파티로 축하할 예정이며, 손님들은 이탈리아 테너 안드레아 보첼리의 세레나데를 듣게 될 것이다. 쿠슈너는 한때 로스차일드 가문이 소유했으며 나치가 파리 점령 기간 동안 징발했던 18세기 저택인 이 건물을 개조했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-쿠슈너는 수리 비용을 위해 1,000만 달러를 모금했으며, 그 중 상당 부분은 프랑스 최대 기업들의 CEO들로부터 각 25만 달러씩 기부받았다고 말했다. 다른 외교관들은 적어도 트럼프 대통령이 취임하기 전까지는 이렇게 많은 금액의 기부는 드문 일이라고 말했다. 쿠슈너는 농담으로 자신이 이 프로젝트의 "현장 감독"이라고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-쿠슈너 자신에게도 일정 부분 명예 회복이 이루어지고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-감옥에서 파리까지 이끈 우여곡절에 대해 "누군가 제 이야기를 쓴다면, 아마도 논픽션보다는 서점의 소설 코너에 꽂힐 것입니다."라고 그는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 대사직을 다른 결말을 쓰는 기회로 보는지 묻는 질문에 쿠슈너는 고개를 저었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이것은 저를 위한 보복이 아닙니다."라고 그는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-캐서린 포터가 취재에 참여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-france-kushner-wtqv/20int-france-kushner-wtqv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 19:01:06 +0000</pubDate></item><item><title>​A 175-Year-Old Shipwreck, Lots of Booze and an Island’s Quest to Survive (175년 난파선, 술, 그리고 섬의 생존을 위한 여정)</title><link>https://www.nytimes.com/2026/06/20/world/asia/korea-bigeum-champagne-festival.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-skorea-shinan-dispatch-02-tfkb/20int-skorea-shinan-dispatch-02-tfkb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The French whaling ship Narwhal braved the Atlantic, rounded the howling tip of Cape Horn, and ​threaded the Pacific by way of Tahiti and Honolulu. Then, in 1851, a year after it began its voyage, the sea ​turned.&lt;br/&gt;(프랑스 포경선 너월호는 대서양을 용감히 건너며 포효하는 혼곶 끝을 돌고 태평양을 가로질러 타히티와 호놀룰루를 지나갔다. 그러다 항해를 시작한 지 1년 만인 1851년, 바다가 뒤집혔다.)&lt;/p&gt;
-&lt;p&gt;The ship splintered off Korea’s southwestern coast, drowning one crewman​. When the 29 surviving sailors staggered onto a powdery beach hemmed in by jagged rocks on Bigeum Island, they had every reason to fear.&lt;br/&gt;(배는 한국 서남해안에서 산산조각 나며 선원 한 명이 익사했다. 29명의 생존 선원들이 비금도의 울퉁불퉁한 바위로 둘러싸인 하얀 모래 해변에 비틀거리며 올랐을 때, 그들은 두려움을 느낄 만한 충분한 이유가 있었다.)&lt;/p&gt;
-&lt;p&gt;Sailors at the time swapped grim rumors of cann​ibalism in uncharted territories, and Korea, then known as the “Hermit Kingdom,” offered no comfort. It ​turned away foreign trade ships and had recently beheaded French Catholic missionaries​. ​Nine of the Narwhal survivors gambled on a small whaleboat and rowed to Shanghai. There, the French consul mobilized an armed rescue expedition and set sail for Bigeum Island​.&lt;br/&gt;(당시 선원들은 미지의 영토에서 식인 풍습에 대한 무시무시한 소문을 주고받았고, 당시 ‘은둔의 왕국’으로 불린 한국은 위안이 되지 않았다. 한국은 외국 무역선을 거부했으며 최근에는 프랑스 가톨릭 선교사들을 참수했다. 너월호 생존자 중 9명은 작은 고래잡이 배에 몸을 싣고 상하이로 노를 저어갔다. 그곳에서 프랑스 영사는 무장 구조 원정대를 소집하여 비금도로 항해했다.)&lt;/p&gt;
-&lt;p&gt;North&lt;br/&gt;(북)&lt;/p&gt;
-&lt;p&gt;Korea&lt;br/&gt;(한국)&lt;/p&gt;
-&lt;p&gt;Sea of&lt;br/&gt;(동해)&lt;/p&gt;
-&lt;p&gt;Japan&lt;br/&gt;(일본)&lt;/p&gt;
-&lt;p&gt;Seoul&lt;br/&gt;(서울)&lt;/p&gt;
-&lt;p&gt;South&lt;br/&gt;(남)&lt;/p&gt;
-&lt;p&gt;Korea&lt;br/&gt;(한국)&lt;/p&gt;
-&lt;p&gt;Yellow&lt;br/&gt;(서해)&lt;/p&gt;
-&lt;p&gt;Sea&lt;br/&gt;(비금도)&lt;/p&gt;
-&lt;p&gt;BIGEUM&lt;br/&gt;(50마일)&lt;/p&gt;
-&lt;p&gt;ISLAND&lt;br/&gt;(뉴욕타임스)&lt;/p&gt;
-&lt;p&gt;50 miles&lt;br/&gt;(그런데 반전이 일어났다.)&lt;/p&gt;
-&lt;p&gt;The New York Times&lt;br/&gt;(학살 대신, 그 만남은 영사가 ‘레파 피토레스크’라 부른 그림 같은 식사로 끝났다. 한국 섬 주민들은 외국인들을 막걸리로 환영했고, 프랑스인들은 샴페인을 나누며 기록된 역사상 처음으로 한국인들이 프랑스 스파클링 와인을 맛보는 순간을 만들었다.)&lt;/p&gt;
-&lt;p&gt;Then came a twist.&lt;br/&gt;(영사는 나중에 이렇게 회상했다: “한국인들이 술을 마시는 모습을 본 적이 거의 없었다.”)&lt;/p&gt;
-&lt;p&gt;Instead of a massacre, the encounter ended in what the consul called a repas pittoresque, a picturesque meal. Korean islanders welcomed the​ foreigners with makgeolli, a milky, lightly sweet rice wine. The French shared Champagne, marking the first time in recorded history that Koreans tasted French bubbly.&lt;br/&gt;(175년이 지난 지난 토요일, 비금도는 세 번째 연례 샴페인-막걸리 축제를 개최했다. 수백 명의 지역 주민과 대부분 유럽 출신 외국인들이 잔디밭에 모였다. 1851년의 섬 주민들이 호기심과 두려움으로 외부인을 맞았다면, 그 후손들은 두 팔 벌려 환영했다. 탁자에는 옹기 막걸리 항아리와 프랑스 스파클링 와인 병들이 가득했는데, 모두 샴페인은 아니었다.)&lt;/p&gt;
-&lt;p&gt;As the consul later reminisced: “Rarely have I seen men drink as Koreans do.”&lt;br/&gt;(“175년을 위하여!” 군중은 두 언어로 환호성을 외치며 합창했다 – “건배!” 그리고 “상떼!” 가수들은 ‘라 비 앙 로즈’를 열창했고, 서울의 프랑스 학교에서 온 아이들은 ‘샹젤리제’를 불렀다. 타오르는 오후의 태양 아래, 군중은 손을 잡고 전통 한국 원무인 강강술래를 추었다.)&lt;/p&gt;
-&lt;p&gt;Fast-forward 175 years to last Saturday, when Bigeum hosted its third annual Champagne-Makgeolli Festival. Hundreds of locals and​ mostly European expatriates gathered on a lawn. If the islanders of 1851 met the outsiders with curiosity​ and fear, their descendants welcomed them with open arms. Tables were crowded with earthenware makgeolli​ jugs and bottles of French sparkling wine, not all of them Champagne.&lt;br/&gt;(축제를 자부심과 믿기 어려움이라는 복잡한 감정으로 지켜보던 이는 지역 소금 농부 노명진 씨였다.)&lt;/p&gt;
-&lt;p&gt;“To 175 years!” the crowd chanted to a chorus of cheers in both languages — “Geonbae!” and “Santé!” Singers belted out “La Vie en Rose,” while children visiting from a French school in Seoul sang “Les Champs-Élysées.” Under a blazing afternoon sun, the crowd joined hands for Ganggangsullae, a traditional Korean circle dance.&lt;br/&gt;(66세의 노 씨는 “우리의 작은 섬이 드디어 인정을 받고 있어요”라고 생각에 잠겼다. “모두 우리 조상들이 프랑스 선원들을 위해 한 일 덕분이죠.”)&lt;/p&gt;
-&lt;p&gt;Watching the celebration with a mix of pride and disbelief was Noh Myong-jin, a local salt farmer.&lt;br/&gt;(오늘날의 한국은 19세기의 모습과는 완전히 다른 세상이다. 한때 프랑스 선교사들이 처형되었던 땅은 기독교의 요새가 되었다. 서양인을 막았던 나라는 이제 글로벌 무역 강국으로 번영하고 있다. 그러나 이러한 눈부신 변화 속에서, 전라남도 신안군의 일부인 비금도 같은 농촌 지역은 존폐 위기에 직면해 있다: 인구 감소.)&lt;/p&gt;
-&lt;p&gt;“Our small island is finally getting recognition,” Mr. Noh, 66, mused, “all thanks to what our ancestors did for those French sailors.”&lt;br/&gt;(신안 앞바다는 너월호가 도착했을 때처럼 아름답고 위험하다. 수백 개의 섬들이 안개 속에서 산맥처럼 움직인다. 페리선이 그 사이로 하얀 항적을 남기고, 썰물 때면 광활한 갯벌이 드러난다 – 해양 생물의 안식처이지만, 훈련되지 않은 선원들에게는 죽음의 함정이다.)&lt;/p&gt;
-&lt;p&gt;South Korea today is worlds apart from its 19th‑century self. The land where French missionaries were once executed has become a Christian stronghold. A nation that barred ​Westerners now thrives as a global trading power. Yet amid this dazzling transformation, rural areas like Bigeum, which is part of Shinan County in South Jeolla Province, face an existential crisis: depopulation.&lt;br/&gt;(수세기 동안 게, 조개, 문어, 그리고 천일염이 신안의 경제를 지탱했다. 그러나 수십 년간의 도시 이주와 출산율 감소로 인해 이 지역은 농촌 후미진 곳으로 전락했다.)&lt;/p&gt;
-&lt;p&gt;The waters off Shinan remain as beautiful and treacherous as when the Narwhal arrived. Hundreds of islands shift like mountain ranges in the fog. Ferries carve white trails between them, and when the tide recedes, vast wetlands emerge — a haven for marine life, but a deathtrap for untrained sailors.&lt;br/&gt;(노 씨가 어린 시절, 비금도에는 번화한 초등학교가 다섯 개 있었다. 오늘날에는 두 개만 남아 있으며 대부분 텅 비어 있다. 마을은 버려진 듯 보이며, 이동형 카트를 탄 노인들과 양파와 시금치 농장을 관리하는 동남아시아 이주 노동자들만이 눈에 띈다. 한때 신안의 생명줄이었던 염전은 이제 노동력이 부족해 많은 곳이 태양광 발전소로 전환되었다.)&lt;/p&gt;
-&lt;p&gt;For centuries, crabs, clams, octopuses and sea salt sustained Shinan’s economy. But decades of urban migration and falling birthrates have hollowed it into a rural backwater.&lt;br/&gt;(이 지역이 마지막으로 전국적인 뉴스에 오른 것은 염전에서 노예와 같은 노동 관행이 적발되었을 때였다 – 이 스캔들은 이곳을 방문하거나 정착하기를 선택하는 사람이 거의 없는 곳이라는 평판을 굳혔다.)&lt;/p&gt;
-&lt;p&gt;When Mr. Noh was a child, Bigeum had five bustling primary schools. Today, only two remain and are largely empty. Villages appear deserted, save for elderly residents in mobility carts and Southeast Asian migrant workers tending to onions and spinach farms. Salt farms, once the lifeblood of Shinan, now lack labor, with many converted into solar-energy fields.&lt;br/&gt;(2003년 필리핀에서 와서 신안의 소금 농부와 결혼한 알마 A. 바르바로나는 “저 같은 외국인 신부가 없으면 여기에는 아이가 없을 거예요”라고 말했다.)&lt;/p&gt;
-&lt;p&gt;The region last made national headlines ​when its salt farms were exposed for slave‑like labor ​practices — a scandal that cemented its reputation as a place few choose to visit or call home.&lt;br/&gt;(이에 대응하여 신안은 역사와 예술을 활용해 재도약하기로 하고, 샴페인-막걸리 축제를 시작하고 국제 예술가들을 초청해 섬들을 ‘예술 군도’로 탈바꿈시키고 있다.)&lt;/p&gt;
-&lt;p&gt;“We won’t have any children here without foreign brides like me,” said Alma A. Barbarona, who is from the Philippines and married a Shinan salt farmer in 2003.&lt;br/&gt;(축제의 설계자이자 신안 예술섬 재단 이사장인 강형기는 “양파와 시금지만으로는 한계가 있어요”라고 말했다. “우리는 신안을 서울이나 다른 대도시가 제공할 수 없는 경험을 제공하는 목적지로 만들고 싶어요.”)&lt;/p&gt;
-&lt;p&gt;In response, Shinan has turned to history and art to reinvent itself, starting the Champagne‑Makgeolli Festival and inviting international artists to transform its islands into an “art archipelago.”&lt;br/&gt;(신안 섬들은 아이슬란드-덴마크 예술가 올라퓨어 엘리아손, 영국 조각가 안토니 곰리, 스위스 건축가 마리오 보타의 작품을 전시하고 있다. 이번 달에는 일본 예술가 야나기 유키노리가 개미들이 색깔 있는 모래로 만든 나라 깃발 속으로 터널을 파고 국경을 넘어 곡물을 옮기는 작품 설치를 시작했다.)&lt;/p&gt;
-&lt;p&gt;“You can only go so far with onions and spinach,” said Kang Hyoungkee, architect of the festival and chairman of Shinan’s Arts Island Foundation. “We want Shinan to be a destination offering experiences Seoul and other big cities cannot.”&lt;br/&gt;(야나기 씨는 “국경은 정치에 의해 만들어져요”라고 말했다. “하지만 자연과 개미는 국경을 몰라요.”)&lt;/p&gt;
-&lt;p&gt;Shinan islands host works by the Icelandic-Danish artist Olafur Eliasson, the British sculptor Antony Gormley and the Swiss architect Mario Botta. This month, the Japanese artist Yukinori Yanagi began installing a piece in which ants tunnel through country flags made of colored sand, carrying grains across borders.&lt;br/&gt;(이 주제는 1851년 비금도에서 일어난 일을 반영한다. 오랫동안 잊혀졌던 이 이야기는 최근 파리시테대학의 역사학 교수 피에르-에마뉘엘 루가 프랑스 정부 기록 보관소에서 이 사건에 관한 파일을 발견하면서 다시 수면 위로 떠올랐다. 이 사건에 관한 그의 책은 이번 달에 출판되었으며, 5월에는 한국 만화로 각색되었다.)&lt;/p&gt;
-&lt;p&gt;“Borders are created by politics,” ​Mr. Yanagi said. “But nature and ants know no borders.”&lt;br/&gt;(이야기는 1850년 너월호가 르아브르를 출항하면서 시작된다. 1851년 4월 난파된 선원들이 비금도 해변에 떠밀려 왔을 때, 지역 주민들은 그들의 외모에 놀랐다. 조선 왕조 기록에는 “그들의 눈은 파란색과 노란색처럼 다른 색이었고, 머리카락은 양털과 다름없었다”고 적혀 있다.)&lt;/p&gt;
-&lt;p&gt;This theme reflects what happened on Bigeum in 1851. The long-forgotten story resurfaced in recent years after Pierre-Emmanuel Roux, a history professor at Université Paris Cité, found files on the episode in French government archives. His book on the incident was published this month, following a Korean comic-book adaptation in May.&lt;br/&gt;(언어 소통이 불가능했던 지역 관리들은 손짓과 그림에 의존하여 낯선 이들이 집에 가고 싶어 한다는 것을 이해했다. 기록에 따르면 “그들은 손으로 배 모양을 만들고, 손가락으로 이중 돛대를 만들고, 입으로 바람을 불어냈다”고 한다.)&lt;/p&gt;
-&lt;p&gt;The story begins in 1850, when the Narwhal set sail from Le Havre. When its shipwrecked crew washed ashore on Bigeum in April 1851, locals found their appearance startling. “Their eyes had different colors, like blue and yellow,” royal Korean records noted, “and their hair was no different from sheep’s wool.”&lt;br/&gt;(조선 왕조는 난파선원들에게 배를 제공하기로 동의하고, 순풍이 돌아올 때까지 오두막에서 머물게 했다. 이 계획을 모르는 샤를 드 몽티니 프랑스 상하이 영사는 1851년 5월 중국식 로르차 배를 타고 무장 구조대를 이끌고 비금도에 도착했다 – 이로써 그는 한국 땅을 밟은 최초의 서양 외교관이 되었다.)&lt;/p&gt;
-&lt;p&gt;Unable to communicate verbally, local officials relied on gestures and drawings to grasp the strangers’ wish to go home. “They formed the shape of a boat with their hands, shaped a double mast with their fingers, and blew wind with their mouths,” the records said.&lt;br/&gt;(몽티니 씨와 동행한 영국 상인 제임스 맥도널드는 상하이의 노스차이나 헤럴드에 섬 주민들의 환대와 호기심을 묘사했다. 그는 “곧 야외 마당에서 우리를 위한 향연이 펼쳐졌다”며 고급 송아지 고기가 제공되었다고 적었다. 하인들이 군중을 막는 동안 여성들은 근처 제방 뒤에서 지켜보았다. 낯선 사람이 그들을 쳐다볼 때면, 맥도널드 씨는 “그들은 오리처럼 고개를 숙이고 시야에서 사라졌다”고 말했다.)&lt;/p&gt;
-&lt;p&gt;The Korean kingdom agreed to provide the castaways with a ship, housing them in huts until favorable winds returned. Unaware of this plan, Charles de Montigny, the French consul in Shanghai, led an armed rescue party to Bigeum aboard a Chinese lorcha in May 1851 — making him the first known Western diplomat to set foot in Korea.&lt;br/&gt;(마을 사람들은 곧 담배를 교환하고 ‘솔레이’와 ‘테르’ 같은 프랑스어 단어를 배웠다. 몽티니 씨는 세 발의 예포로 지역 관리들을 자신의 배에 환영했다. 그는 후에 루 교수가 발굴한 프랑스 외무부 보고서에 “나는 그들에게 다양한 와인, 샴페인, 그리고 증류주를 마시게 했다”고 적었다. 한국인들은 답례로 너월호와 로르차의 50여 명 선원들을 음식이 가득한 작은 탁자에 앉혔으며, “항아리와 잔을 든 시종들이 이리저리 움직이며 술을 따라주었다.”)&lt;/p&gt;
-&lt;p&gt;James MacDonald, an English merchant traveling with Mr. Montigny, described the islanders’ hospitality and curiosity in Shanghai’s North-China Herald. “An entertainment was soon spread out for us in the open yard,” featuring high-quality veal, he wrote. While servants kept the crowds back, women watched from behind nearby dikes. Whenever a stranger looked their way, Mr. MacDonald said, “down went their heads out of sight like ducks.”&lt;br/&gt;(몽티니 씨의 배가 출항하기 전에 보급품과 선물이 교환되었고, 막걸리 항아리도 함께 실려 나갔다 – 서양에 아직 알려지지 않은 장소에서 온 희귀한 유물이었다. 그 항아리 중 세 개는 오늘날 프랑스 국립 도자기 박물관에 남아 있다.)&lt;/p&gt;
-&lt;p&gt;Villagers soon traded tobacco and picked up French words like “soleil” and “terre.” Mr. Montigny welcomed local officials aboard his ship with a three-gun salute. “I plied them with various wines, Champagne and spirits,” he wrote in a report to the French Foreign Ministry that Professor Roux later unearthed. The Koreans reciprocated, seating the 50-odd crewmen from the Narwhal and the lorcha at small tables laden with food, while “attendants armed with jugs and cups darted about, pouring drinks.”&lt;br/&gt;(루 교수는 19세기 한국 문서가 무역이나 종교 개종을 추구하는 서양인을 “외국 오랑캐”로 낙인찍었지만, 왕조는 난파된 유럽인들을 돌볼 의무가 있었다고 말했다.)&lt;/p&gt;
-&lt;p&gt;Supplies and gifts were exchanged before Mr. Montigny’s ship departed, carrying with it makgeolli jugs — rare relics from a place still unknown to the West. Three of those jugs remain in France’s National Ceramics Museum today.&lt;br/&gt;(비금도 축제에 참석한 32세의 프랑스인 프랑수아 알론소는 이 사건이 오늘날에도 여전히 교훈을 준다고 말했다.)&lt;/p&gt;
-&lt;p&gt;Nineteenth-century Korean documents branded Westerners seeking trade or religious converts as “foreign barbarians,” yet the kingdom felt bound to care for shipwrecked Europeans, Professor Roux said.&lt;br/&gt;(“그 당시 그들은 서로를 몰랐지만, 그래도 좋은 일이 일어났어요”라고 그는 말했다. “오늘날 우리는 너무 많은 정보를 가지고 있지만, 여전히 항상 싸우고 있어요.”)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/asia/korea-bigeum-champagne-festival.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-skorea-shinan-dispatch-02-tfkb/20int-skorea-shinan-dispatch-02-tfkb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 19:01:19 +0000</pubDate></item><item><title>‘God Is Cape Verdean’: Tiny Nation on a High After a Sensational World Cup Debut (‘신은 카보베르데인’: 센세이셔널한 월드컵 데뷔 후 들뜬 작은 나라)</title><link>https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-worldcup-capeverde-hcwv/20int-worldcup-capeverde-hcwv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;It wasn’t a win. But for Cape Verde, Africa’s third-smallest country, holding the soccer giant Spain to a scoreless draw in its World Cup debut this week made history.&lt;br/&gt;(승리는 아니었다. 하지만 아프리카에서 세 번째로 작은 나라인 카보베르데가 이번 주 월드컵 데뷔전에서 축구 강호 스페인을 0-0 무승부로 막아낸 것은 역사적인 일이었다.)&lt;/p&gt;
-&lt;p&gt;Now, as it prepares for Sunday’s game against Uruguay, a mixture of confidence and anxiety is building across the archipelago off West Africa’s Atlantic coast. Cape Verdeans are hoping for a repeat performance from their team, and especially its veteran goalkeeper, Josimar José Évora Dias, who became an unlikely star overnight after making seven saves.&lt;br/&gt;(이제 일요일 우루과이와의 경기를 앞두고, 서아프리카 대서양 연안의 이 군도 전체에 자신감과 불안이 섞인 감정이 고조되고 있다. 카보베르데인들은 자국 대표팀, 특히 7번의 선방을 기록하며 하룻밤 사이에 예상치 못한 스타가 된 베테랑 골키퍼 조시마르 조제 에보라 디아스의 재현을 기대하고 있다.)&lt;/p&gt;
-&lt;p&gt;Cape Verde’s team, the Blue Sharks, is not star-studded or particularly glamorous. Dias, at 40 one of the tournament’s oldest players, is known as Vozinha, Portuguese for Granny. Even on the African soccer scene, Cape Verde was not taken seriously until 2023, when it reached the African Cup of Nations quarterfinals for the first time since 2013.&lt;br/&gt;(카보베르데 대표팀 ‘블루 샤크스’는 스타 선수가 많지도 않고 특히 화려하지도 않다. 디아스는 40세로 이번 대회 최고령 선수 중 한 명이며, 포르투갈어로 ‘할머니’라는 뜻의 ‘보지냐’라는 별명으로 알려져 있다. 아프리카 축구계에서조차 카보베르데는 2013년 이후 처음으로 2023년 아프리카 네이션스컵 8강에 진출하기 전까지 진지하게 받아들여지지 않았다.)&lt;/p&gt;
-&lt;p&gt;But in this World Cup, it faces a considerable challenge: to advance from a group made up of Spain, the European champions; Uruguay, a two-time World Cup champion; and Saudi Arabia, whose star has been rising in recent years.&lt;br/&gt;(하지만 이번 월드컵에서 카보베르데는 상당한 도전에 직면해 있다: 유럽 챔피언 스페인, 두 차례 월드컵 우승국 우루과이, 그리고 최근 몇 년간 두각을 나타내고 있는 사우디아라비아로 구성된 조에서 살아남아야 한다.)&lt;/p&gt;
-&lt;p&gt;Cape Verde’s players have become heroes precisely because of their lack of heroics. A workaday approach had them, in Monday’s match, completely focused on guarding their goal rather than making risky forays into Spain’s half.&lt;br/&gt;(카보베르데의 선수들은 바로 영웅적인 활약이 없었기 때문에 영웅이 되었다. 월요일 경기에서 그들은 위험하게 스페인 진영으로 진출하기보다는 골문을 지키는 데 완전히 집중하는 일상적인 접근 방식을 취했다.)&lt;/p&gt;
-&lt;p&gt;It worked.&lt;br/&gt;(그것이 통했다.)&lt;/p&gt;
-&lt;p&gt;“We were giants,” said Nuno Martins, 51, a resident of Mindelo, on the island of São Vicente. He had two explanations for the team’s success. One, they executed their tactical plan to perfection. The other: divine favor.&lt;br/&gt;(“우리는 거인이었어요,” 상비센트 섬의 민델루에 사는 51세 주민 누누 마르틴스가 말했다. 그는 팀 성공에 대해 두 가지 설명을 내놓았다. 하나는 그들이 완벽하게 전술 계획을 실행했다는 것이다. 다른 하나는 신의 은총이었다.)&lt;/p&gt;
-&lt;p&gt;“God is Cape Verdean,” he said, “even though he lives in other lands.”&lt;br/&gt;(“신은 카보베르데인이에요,” 그가 말했다. “비록 다른 땅에 살고 계시지만요.”)&lt;/p&gt;
-&lt;p&gt;Africa is one of the biggest beneficiaries of FIFA’s decision to expand the World Cup from 32 to 48 teams, doubling its spots from five to 10, a decision that some critics claimed would reduce the quality of the competition. But through the opening game for each team, six of the 10 have either won or drawn their matches, many against some of world’s top teams.&lt;br/&gt;(아프리카는 FIFA가 월드컵을 32개 팀에서 48개 팀으로 확대하여 아프리카 진출권을 5개에서 10개로 두 배로 늘린 결정의 가장 큰 수혜국 중 하나이며, 일부 비평가들은 이 결정이 대회의 질을 떨어뜨릴 것이라고 주장했다. 하지만 각 팀의 첫 경기를 통해 볼 때, 10개 팀 중 6개 팀이 승리하거나 무승부를 기록했으며, 그중 다수는 세계 최고의 팀들과의 경기였다.)&lt;/p&gt;
-&lt;p&gt;This time, many Cape Verdeans are hoping the Blue Sharks will actually score — while keeping their defense tight.&lt;br/&gt;(이번에는 많은 카보베르데인들이 블루 샤크스가 수비를 단단히 유지하면서 실제로 득점하기를 바라고 있다.)&lt;/p&gt;
-&lt;p&gt;“A little boldness is needed,” said Carlos Brazão Monteiro, a lawyer in Praia.&lt;br/&gt;(“약간의 대담함이 필요해요,” 프라이아의 변호사 카를로스 브라장 몬테이루가 말했다.)&lt;/p&gt;
-&lt;p&gt;Dias, the goalkeeper, comes from hard-working stock. He earned his nickname because his mother, who is a caregiver in a nursing home, worked so much while he was growing up that he was mostly looked after by his late grandmother.&lt;br/&gt;(골키퍼 디아스는 근면한 가문 출신이다. 그의 어머니가 요양원에서 간병인으로 일하면서 그가 자라는 동안 너무 많이 일해서 주로 작고한 할머니가 그를 돌봤기 때문에 그는 별명을 얻었다.)&lt;/p&gt;
-&lt;p&gt;“He was raised with a lot of love by his grandmother,” said his mother, Ana Cândida Évora, 60. “I was there too, but he had a very strong bond with his grandmother. He loved her very much.”&lt;br/&gt;(“그는 할머니의 많은 사랑 속에서 자랐어요,” 그의 어머니인 60세 아나 칸디다 에보라가 말했다. “나도 거기 있었지만, 그는 할머니와 매우 강한 유대감을 가졌어요. 그는 할머니를 매우 사랑했어요.”)&lt;/p&gt;
-&lt;p&gt;After the game against Spain, Dias spoke of his disappointment that his mother could not be in Atlanta to watch him play. He said the family had struggled with the U.S. visa application, particularly the bond of up to $15,000 that most travelers are asked to pay.&lt;br/&gt;(스페인과의 경기 후, 디아스는 자신의 어머니가 애틀랜타에 와서 경기를 지켜볼 수 없어서 실망했다고 말했다. 그는 가족이 미국 비자 신청, 특히 대부분의 여행자에게 요구되는 최대 15,000달러의 보증금 때문에 어려움을 겪었다고 말했다.)&lt;/p&gt;
-&lt;p&gt;Ms. Évora’s case has sparked renewed criticisms of U.S. visa restrictions, which have prevented family members from attending loved ones’ games. Africans, who have been increasingly targeted by the Trump administration’s visa policies, were left particularly frustrated.&lt;br/&gt;(에보라 여사의 사례는 가족들이 사랑하는 사람의 경기에 참석하지 못하게 한 미국 비자 제한에 대한 비판을 다시 불러일으켰다. 트럼프 행정부의 비자 정책에 의해 점점 더 표적이 되고 있는 아프리카인들은 특히 좌절감을 느꼈다.)&lt;/p&gt;
-&lt;p&gt;But on Thursday, Ms. Évora finally left for the United States after the intervention of the State Department. Speaking with The New York Times, she blamed herself for not submitting her visa application on time.&lt;br/&gt;(하지만 목요일, 국무부의 개입 끝에 에보라 여사는 마침내 미국으로 떠났다. 뉴욕타임스와의 인터뷰에서 그녀는 제때 비자 신청서를 제출하지 못한 것에 대해 자신을 탓했다.)&lt;/p&gt;
-&lt;p&gt;She embraced family members at the airport in Cape Verde before setting off for Miami.&lt;br/&gt;(그녀는 마이애미로 출발하기 전 카보베르데 공항에서 가족들을 껴안았다.)&lt;/p&gt;
-&lt;p&gt;“We may be small, but our hearts are big,” she said.&lt;br/&gt;(“우리는 작을지 모르지만, 우리 마음은 커요,” 그녀가 말했다.)&lt;/p&gt;
-&lt;p&gt;Some Cape Verdeans seemed thrown by the success and doubtful it would last.&lt;br/&gt;(일부 카보베르데인들은 이 성공에 당황했고 그것이 오래가지 않을 것이라고 의심하는 것 같았다.)&lt;/p&gt;
-&lt;p&gt;“I never believed in a positive result against Spain,” said José Eduardo Cardoso, a 65-year-old taxi driver who anxiously listened to the first half of the last game on his car radio as he drove passengers around Praia, the capital. He managed to get home for the second half, where he plans to watch all of the next game — though he has no great hopes for it.&lt;br/&gt;(“나는 스페인을 상대로 긍정적인 결과를 얻을 거라고는 결코 믿지 않았어요,” 수도 프라이아에서 승객을 태우며 지난 경기 전반전을 차량 라디오로 불안하게 들었던 65세 택시 운전사 조제 에두아르도 카르도주가 말했다. 그는 후반전을 위해 집에 도착했으며, 다음 경기도 모두 집에서 시청할 계획이지만 큰 기대는 하지 않고 있다.)&lt;/p&gt;
-&lt;p&gt;“I’m not very confident that Cape Verde will advance to the second round,” he said.&lt;br/&gt;(“카보베르데가 2라운드에 진출할 것 같지는 않아요,” 그가 말했다.)&lt;/p&gt;
-&lt;p&gt;Others had more faith, as long as the team does not get carried away by the moment.&lt;br/&gt;(다른 이들은 팀이 상황에 휩쓸리지만 않는다면 더 큰 믿음을 가지고 있었다.)&lt;/p&gt;
-&lt;p&gt;“We’ll be the surprise of the tournament,” Mr. Martins said.&lt;br/&gt;(“우리가 이번 대회의 깜짝 팀이 될 거예요,” 마르틴스 씨가 말했다.)&lt;/p&gt;
-&lt;p&gt;Whatever happens, said Erika Soares, 32, an economist on the island of Santiago, “We already feel like winners.”&lt;br/&gt;(어떤 일이 일어나든, 산티아고 섬의 32세 경제학자 에리카 소아레스는 “우리는 이미 승자처럼 느껴져요”라고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-worldcup-capeverde-hcwv/20int-worldcup-capeverde-hcwv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 19:01:25 +0000</pubDate></item><item><title>Trump’s Iran Deal Is Off to a Chaotic Start (트럼프의 이란 합의, 혼란 속 출발)</title><link>https://www.nytimes.com/2026/06/19/world/middleeast/iran-war-deal-trump-uncertainty.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19int-Switzerland-chaos-01-phvf/19int-Switzerland-chaos-01-phvf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-israel-attacks.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19mideast-lebanon-attacks-hblz/19mideast-lebanon-attacks-hblz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 07:56:11 +0000</pubDate></item><item><title>Trump’s Iran Deal Is Off to a Chaotic Start (트럼프의 이란 합의, 혼란 속 출발)</title><link>https://www.nytimes.com/2026/06/19/world/middleeast/iran-war-deal-trump-uncertainty.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19int-Switzerland-chaos-01-phvf/19int-Switzerland-chaos-01-phvf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Through much of Thursday, Switzerland was preparing for what promised to be a moment of clarity in a muddied week of efforts to end the war in Iran. Swiss officials were readying a luxury lakeside resort for crucial new negotiations to flesh out the preliminary deal. Air Force Two sat on a runway outside Washington, ready to carry Vice President JD Vance there.&lt;br/&gt;(목요일 대부분 동안 스위스는 이란 전쟁 종식을 위한 혼란스러운 한 주 동안 명확한 순간이 될 것으로 기대되는 상황에 대비하고 있었다. 스위스 당국은 예비 합의를 구체화하기 위한 중요한 새 협상을 위해 호화로운 호숫가 리조트를 준비 중이었다. 에어포스 투는 워싱턴 외곽의 활주로에 대기 중이었고, JD 밴스 부통령을 그곳으로 데려갈 준비를 하고 있었다.
 &lt;&lt;&lt;PARA&gt;&gt;
 금요일 오전 3시(스위스 시간), 미국에서 메시지가 도착했다: 밴스가 오지 않는다는 내용이었다. 협상은 거의 설명 없이, 재일정도 없이 중단되었다. 백악관 성명은 "이 협상의 물류는 결코 단순하거나 예측 가능하지 않았다"고 밝혔다. 외교관들은 이후 이란이 이스라엘의 레바논 공습에 항의하여 협상에서 물러났다고 말했다. 레바논에서 이스라엘은 이란 동맹인 헤즈볼라 민병대와 싸우고 있다.
@@ -1138,7 +808,125 @@
 스트로나흐의 외설적인 발언이 회사의 재정에 큰 영향을 미치지 않은 것으로 보이지만, 마그나의 투자자들은 결국 특별 주식 등급을 통해 회사에 대한 그의 통제권에 도전했습니다. 제지받지 않은 스트로나흐는 자동차 산업과 무관한 여러 사업에 진출했으며, 이는 종종 수익을 내지 못했습니다. 여기에는 실패한 레스토랑 체인, 화려한 비즈니스 잡지, 골프 코스 및 경마가 포함됩니다. 2010년, 마그나는 스트로나흐에게 약 10억 달러를 지급하고 통제권을 포기하게 했으며, 이후 그는 회사와 관련이 없습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
 2013년, 스트로나흐가 모국인 오스트리아에서 창립한 친기업 성향의 항의 정당 '팀 스트로나흐'는 오스트리아 주의회에서 2석을 차지했지만 결국 붕괴되었습니다. 그의 딸 벨린다는 캐나다의 전 내각 장관으로 그와 확실히 소원해졌으며, 현재 플로리다의 걸프스트림 파크를 포함한 스트로나흐 경마 및 도박 회사를 운영하고 있습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/canada/frank-stronach-trial-guilty-sex-charges.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-canada-stronach-ktgm/19int-canada-stronach-ktgm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 10:04:21 +0000</pubDate></item><item><title>Catherine, Princess of Wales, Urges ‘Human Connection’ in a Digital World (웨일스 공비 캐서린, 디지털 시대에 '인간적 연결' 촉구)</title><link>https://www.nytimes.com/2026/06/19/world/europe/princess-kate-uk-children-social-media-ban.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19int-uk-princess-essay-01-kvbw/19int-uk-princess-essay-01-kvbw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/canada/frank-stronach-trial-guilty-sex-charges.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-canada-stronach-ktgm/19int-canada-stronach-ktgm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 10:04:21 +0000</pubDate></item><item><title>Woman Receives 12-Year Sentence for 1978 Scalding Death of Stepdaughter, 5 (1978년 5세 의붓딸을 끓는 물에 데게 해 숨지게 한 혐의, 여성 징역 12년 선고)</title><link>https://www.nytimes.com/2026/06/19/world/europe/janice-nix-scalding-killing-london-1978.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19xp-nix/19xp-nix-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;A South London woman was sentenced to 12 years in prison on Friday after she was found guilty of killing her 5-year-old stepdaughter by scalding her in a hot bath in 1978.&lt;br/&gt;(남런던의 한 여성이 1978년 5세 의붓딸을 뜨거운 욕조에 넣어 화상을 입혀 숨지게 한 혐의로 유죄 판결을 받고 금요일 징역 12년을 선고받았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 여성은 67세의 재니스 닉스(Janice Nix)로, 전직 남런던 마약 두목이자 현재 보호관찰관으로 일하고 있으며, 의붓딸 안드레아 버나드(Andrea Bernard)의 사망과 관련해 지난 5월 과실치사 혐의로 유죄 판결을 받았다. 닉스의 유죄 판결에 결정적인 역할을 한 것은 안드레아의 오빠 데즈먼드 버나드(Desmond Bernard)의 증언이었다. 그는 여동생이 사망했을 당시 8살이었으며, 거의 50년 동안 여동생 사망의 진실을 숨겨왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"여동생의 삶에 대한 마지막 기억은 여동생의 날카로운 비명과 그녀의 죽음에 대해 거짓말을 한 것입니다." 56세의 버나드 씨는 닉스의 양형 청문회에서 이렇게 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+거의 반세기 동안 안드레아의 사망은 사고로 처리되었다. 검시관 보고서에 따르면 그녀는 광범위한 화상으로 인한 패혈증으로 사망했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 검찰에 따르면 닉스는 처벌의 일환으로 소녀를 끓는 물이 담긴 욕조에 강제로 넣었으며, 이는 닉스가 아이들을 벨트로 정기적으로 때리고, 담배로 지지고, 물어뜯는 패턴의 일부였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+버나드 씨는 당국에 1978년 6월 6일, 안드레아가 이미 닉스 씨와 문제를 겪고 있었으며, 닉스가 소녀에게 학교를 빼먹고 남런던의 손튼 히스(Thornton Heath) 지역에 있는 집 청소를 도우라고 명령했다고 말했다. 그러나 검찰에 따르면 안드레아는 또 다른 구타를 두려워해 자리를 떴다.
+&lt;&lt;&lt;PARA&gt;&gt;
+안드레아가 돌아왔을 때, 버나드 씨는 수사관들에게 닉스가 격분했다고 말했다. 그는 닉스가 목욕물을 틀고 안드레아에게 들어가라고 요구하는 소리를 들었다고 회상했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"제가 안드레아가 말한 것을 들은 것은 '엄마, 물이 너무 뜨거워요'였습니다." 버나드 씨는 BBC에 말했다. "그녀는 그것을 두 번 말했습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 닉스는 "그냥 그녀에게 욕조에 들어가라고 말하고 있었습니다." 버나드 씨는 덧붙여 말했다. "그전이나 후에 그런 비명 소리를 들어본 적이 없습니다."
+&lt;&lt;&lt;PARAL&gt;
+메트로폴리탄 경찰에 따르면, 비명이 결국 조용해졌을 때 버나드 씨는 욕실에 들어가 여동생이 축 늘어진 채로 있는 것을 발견했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+안드레아는 전신의 50%에 걸친 심각한 화상 치료를 받던 병원에서 거의 6주 후에 사망했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+버나드 씨에 따르면, 닉스는 그가 여동생의 죽음에 대한 진실을 비밀로 지키면 더 이상 그를 때리지 않겠다고 약속했다고 나중에 수사관들에게 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+버나드 씨가 경찰에 가서 안드레아에 대한 진실을 말하고 싶다고 한 것은 2022년 9월이 되어서였다. 40년 이상이 지나고 많은 기록이 분실되었지만, 수사관들은 사건을 재조사했고 닉스가 안드레아의 사망에 대해 설명한 내용에서 명확한 모순점을 찾아낼 수 있었다. BBC 보도에 따르면, 그녀는 2025년 2월 앤티가에서 도착한 후 비행기에서 내려 히드로 공항에서 체포되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"데즈먼드가 법정에서 한 말은 안드레아의 죽음이 그의 평생에 얼마나 큰 영향을 미쳤는지 분명히 보여주었습니다." 메트로폴리탄 경찰의 루이스 카빈(Louise Caveen) 형사는 금요일 성명에서 말했다. "그날 일어난 일을 바꿀 수 있는 것은 아무것도 없지만, 재니스가 마침내 정의의 심판을 받고 그의 여동생의 생명을 앗아간 책임을 지게 된 것이 그에게 얼마나 중요한 일인지 우리는 알고 있습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+닉스는 한때 '맘마 J(Mamma J)'로 알려진 전직 남런던 마약 판매상이다. 1990년대 대부분을 마약 혐의로 감옥에서 보낸 후, 남런던 브릭스턴에서 보호관찰관으로 늦깎이 갱생한 것과 2021년 회고록 '브레이킹 아웃(Breaking Out)'은 영국 안팎에서 찬사를 받는 뉴스 보도로 이어졌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"저는 그것에 대해 자랑스럽지 않습니다." 닉스는 2021년 BBC와의 인터뷰에서 자신의 범죄 과거를 언급하며 말했다. "때때로 제 범죄 경력을 생각하면 몸서리쳐지지만, 그런 다음 저는 제 자신에게 부드러워집니다. 왜냐하면 그 과거 없이는 오늘 제 앞에 있는 것을 가질 수 없었을 것이라는 점도 이해하기 때문입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+닉스는 안드레아의 사망에 대한 과실치사 혐의로 유죄 판결을 받은 것 외에도 1975년부터 1978년까지 버나드 씨를 학대한 아동 학대 혐의로도 유죄 판결을 받았다. 이에 대해 별도로 징역 15개월을 선고받았으며, 이 형기는 과실치사 형기와 동시에 집행된다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/europe/janice-nix-scalding-killing-london-1978.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19xp-nix/19xp-nix-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 09:52:43 +0000</pubDate></item><item><title>Lebanon Cease-Fire Bolsters U.S.-Iran Truce, After a Shaky Start (레바논 휴전, 불안한 출발 이후 미국-이란 휴전 강화)</title><link>https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-ceasefire-iran-truce.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19int-mideast-ledeall-zhlw/19int-mideast-ledeall-zhlw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Diplomats worked on Friday to try to keep the fragile deal between Iran and the United States on track, after Israeli strikes in Lebanon prompted Iran to pull out of peace talks. Hours later, Israel said it had agreed to a cease-fire in Lebanon with Iran’s ally, Hezbollah.&lt;br/&gt;(외교관들은 금요일 이란과 미국 간의 취약한 합의를 유지하기 위해 노력했으나, 레바논에서의 이스라엘 공습으로 이란이 평화 회담에서 철수하면서 상황이 어려워졌다. 몇 시간 후, 이스라엘은 레바논에서 이란의 동맹인 헤즈볼라와 휴전에 합의했다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;Iran’s withdrawal from talks with the United States, even if temporary, dealt a blow to the framework agreement signed this week by President Trump. Negotiations for a long-term peace agreement had been expected to start just hours later in Switzerland.&lt;br/&gt;(이란이 미국과의 회담에서 철수한 것은, 비록 일시적일지라도, 트럼프 대통령이 이번 주에 서명한 기본 협정에 타격을 입혔다. 장기 평화 협정을 위한 협상은 몇 시간 후 스위스에서 시작될 예정이었다.)&lt;/p&gt;
+&lt;p&gt;But if the already shaky truce with Iran wobbled, it apparently held, for now, with no suggestion that talks had been put off indefinitely. Shipping traffic through the Strait of Hormuz continued to increase, though it remained far below its prewar level.&lt;br/&gt;(하지만 이미 불안정했던 이란과의 휴전이 흔들렸지만, 당분간은 협상이 무기한 연기되었다는 징후 없이 유지된 것으로 보인다. 호르무즈 해협을 통한 선박 통행은 계속 증가했지만, 전쟁 이전 수준에는 훨씬 못 미쳤다.)&lt;/p&gt;
+&lt;p&gt;Israel’s ambassador to the United States, Yechiel Leiter, confirmed that his country was “firmly committed to an immediate cease-fire.” Mr. Trump told NBC News in a phone call that he had asked Israeli leaders on Friday to agree to a cease-fire in Lebanon, which he called “a little icing on the cake,” but did not say if he had spoken with Prime Minister Benjamin Netanyahu. Hezbollah has not publicly confirmed that it agreed to a cease-fire.&lt;br/&gt;(주미 이스라엘 대사 예히엘 라이터는 자국이 "즉각적인 휴전에 확고히 전념하고 있다"고 확인했다. 트럼프 대통령은 NBC 뉴스와의 전화 인터뷰에서 금요일 이스라엘 지도자들에게 레바논 휴전에 동의하라고 요청했으며, 이를 "케이크 위의 작은 장식"이라고 불렀지만, 베냐민 네타냐후 총리와 대화했는지는 밝히지 않았다. 헤즈볼라는 휴전에 동의했다는 사실을 공개적으로 확인하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이날의 사건들은 이번 주에 체결된 미국-이란 협정이 얼마나 미묘한 상태인지, 그리고 레바논이 이 협정에 얼마나 중심적인 역할을 하는지 보여주었다. 협정의 14개 항목 중 첫 번째는 양국과 "현재 전쟁에서의 동맹국들"이 "레바논을 포함한 모든 전선에서 군사 작전을 즉각적이고 영구적으로 중단"할 것을 약속한다. 하지만 미국과 함께 이란에 맞서 전쟁을 벌인 이스라엘과 이란이 지원하는 헤즈볼라는 이 협정에 서명하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+레바논 휴전이 현지 시간으로 오후 4시에 발효된 후 몇 시간 동안 레바논은 비교적 조용했다. 이는 전날 밤 이스라엘의 집중적인 폭격으로 47명이 사망하고 97명이 부상당한 직후였다고, 레바논 보건부는 밝혔으며, 민간인과 전투원을 구분하지 않았다. 여러 국가의 관리들은 카타르와 미국이 중재한 휴전을 확인했다. 이들 관리와 협상 이탈을 확인한 관리들은 민감한 외교 문제를 논의하기 위해 익명을 요구했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이란은 단기 또는 장기 평화 협정에 레바논이 포함되어야 한다고 주장한다. 하지만 이스라엘 정부는 레바논 남부에서 헤즈볼라를 축출하기 위한 공세를 계속할 것이라고 여러 차례 밝혔으며, 네타냐후 총리는 이를 이행해야 한다는 국내 정치적 압박을 크게 받고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+네타냐후 총리는 레바논에서 이스라엘 전차에 대한 공격으로 병사 4명이 사망한 후 최신 폭격을 명령했으며, 금요일 초 성명에서 이스라엘이 "이러한 공격에 대해 헤즈볼라에게 매우 무거운 대가를 치르게 할 것"이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+휴전이 발효된 것으로 전해진 후에도 적대적인 발언은 계속되었다. 헤즈볼라 지도자 나임 카셈은 금요일 연설에서 "적을 우리 땅에서 추방하겠다"고 다짐했다. 라이터 대사는 이스라엘 군대가 "헤즈볼라를 제거하기 위해" 레바논 남부에 남을 것이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+네타냐후 총리는 그의 가장 중요한 동맹인 트럼프 대통령을 화나게 했으며, 트럼프 대통령은 공개적으로 그를 비난하고 이스라엘이 전쟁 목표를 추구하는 데 과도한 무력을 사용했다고 비난하며 이란과의 합의를 훼손하고 있다고 시사했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이번 주 트럼프 대통령과 이란 대통령 마수드 페제시키안이 서명한 양해각서는 이란의 핵 프로그램 제한과 주요 재정적 인센티브(이란의 침체된 경제를 지원하기 위한 서방 제재 해제 포함)와 같은 문제를 다루는 장기 평화 협정을 협상할 60일의 기간을 제공한다. 이란 최고 지도자 아야톨라 모즈타바 하메네이는 이 합의에 동의했지만 찬성하지는 않으며, 그 책임을 페제시키안 대통령에게 돌리고 미국의 요구에 굴복하지 말라고 경고했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+장기 협정을 위한 협상은 금요일 스위스 루체른 호수의 한 리조트에서 시작될 예정이었다. 하지만 외교관들은 이란 대표단이 계획된 회의에서 철수했으며, 참석 예정이었던 JD 밴스 부통령이 워싱턴 시간 목요일 밤 늦게(유럽 시간 금요일 아침) 갑자기 방문을 취소했다고 말했다. 어느 쪽도, 중개 역할을 한 국가들도 협상이 언제 열릴지 밝히지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+바이든 행정부에서 중동 담당 고위 펜타곤 관료였던 다나 스트롤은 이 지연이 미국이 이란 지도자들을 오해하고 있음을 시사하며, 그들에게 자국 경제를 구하는 것이 최우선 과제가 아니라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+현재 워싱턴 근동 정책 연구소 선임 연구원인 스트롤은 워싱턴과 예루살렘 간의 균열이 확대됨에 따라 "테헤란은 물에 피 냄새를 맡고 있으며, 모두가 이스라엘을 탓할 것이라고 예상하기 때문에 상황을 부추기고 더 큰 균열을 조장하려 한다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+레바논에서의 전투는 이란과 이스라엘 간의 갈등과 밀접하게 연결되어 오랫동안 보복의 연쇄였으며, 이스라엘은 일관되게 훨씬 더 큰 무력을 사용했고 레바논은 훨씬 더 큰 파괴와 사상자를 겪었다. 최신 장은 이스라엘과 미국이 2월 28일 헤즈볼라의 후원국인 이란을 폭격하기 시작하면서 시작되었다. 헤즈볼라는 로켓과 드론으로 이스라엘에 대응했고, 이스라엘은 공습과 지상 침공으로 보복했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+압디 라티프 다히르와 유안 워드는 레바논 베이루트에서, 아담 라스곤은 예루살렘에서, 조나단 라이스는 텔아비브에서 보도했다. 보도에는 에리카 L. 그린, 에리카 솔로몬, 마이클 크롤리, 로넨 버그먼, 짱커슬리, 예가네 토르바티, 프라나브 바스카르, 사남 마후지, 제니 그로스, 에프라트 리브니, 앨런 유하스가 기고했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-ceasefire-iran-truce.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-mideast-ledeall-zhlw/19int-mideast-ledeall-zhlw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 11:00:48 +0000</pubDate></item><item><title>Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War (레바논, 전쟁 종식 위한 미국-이란 합의의 약한 고리로 부상)</title><link>https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19mideast-lebanon-fghc/19mideast-lebanon-fghc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The preliminary agreement between Iran and the United States had barely come into effect when it all nearly unraveled on Friday. And, for the second time in recent weeks, the issue that threatened to derail it was Lebanon.&lt;br/&gt;(이란과 미국 간 예비 합의가 발효된 지 얼마 지나지 않아 금요일 거의 무산될 뻔했다. 그리고 최근 몇 주 사이 두 번째로, 합의를 무산시킬 위협이 된 문제는 레바논이었다.)&lt;/p&gt;
+&lt;p&gt;The conflict in Lebanon, once seen as a secondary front to the American-Israeli war on Iran, has become one of the main obstacles to ending it. That dynamic came into sharp focus on Friday, after fighting between the Iran-backed militant group Hezbollah and Israel intensified and a new round of talks between Tehran and Washington in Switzerland was subsequently scuttled.&lt;br/&gt;(한때 이란에 대한 미국-이스라엘 전쟁의 부차적 전선으로 여겨졌던 레바논 분쟁은 종전을 위한 주요 장애물 중 하나가 되었다. 이러한 역학관계는 이란이 지원하는 무장단체 헤즈볼라와 이스라엘 간 교전이 격화되고, 이후 테헤란과 워싱턴 간 스위스에서의 새로운 회담이 무산되면서 금요일 뚜렷하게 드러났다.)&lt;/p&gt;
+&lt;p&gt;While neither side gave a reason for the postponement, three diplomats who spoke on the condition of anonymity to discuss sensitive details said that Iran had withdrawn from the talks because of Israeli strikes in Lebanon.&lt;br/&gt;(양측 모두 연기 이유를 밝히지 않았지만, 민감한 세부 사항을 논의하기 위해 익명을 요구한 세 명의 외교관에 따르면 이란은 레바논에서의 이스라엘 공습 때문에 회담에서 철수했다.)&lt;/p&gt;
+&lt;p&gt;“Iran’s new leadership views Lebanon as part and parcel of its own national security, as previous Israeli advances against Hezbollah in 2024 paved the way for a direct conflict with Iran,” said Mohanad Hage Ali, a senior fellow at the Carnegie Middle East Center in Beirut. “For Iran, the end game is an Israeli withdrawal from Lebanon.”&lt;br/&gt;(베이루트 소재 카네기 중동센터 선임 연구원 모하나드 하지 알리는 "이란의 새 지도부는 레바논을 자국의 안보와 불가분의 관계로 본다. 2024년 이스라엘이 헤즈볼라에 대해 이룬 이전 진전이 이란과의 직접 충돌로 가는 길을 열었기 때문이다"라고 말했다. "이란에게 종국적인 목표는 이스라엘이 레바논에서 철수하는 것이다."
+&lt;&lt;&lt;PARA&gt;&gt;
+금요일 외교적 결렬은 최근 몇 주 사이 레바논 분쟁이 미국과 이란 간 회담을 뒤엎은 두 번째 사례였다. 이달 초, 레바논 수도 베이루트 외곽에 대한 이스라엘 공습으로 이란은 이스라엘을 향해 미사일을 발사했고, 이스라엘은 이란 전역에 자체 공습을 퍼부으며 대응했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+결렬은 미국과 이란이 레바논에서의 "즉각적이고 영구적인 군사 작전 종료"를 촉구하고 레바논의 "영토 보전과 주권"을 수호하겠다고 약속한 자체 전쟁 종식을 위한 예비 합의에 서명한 지 며칠 만에 발생했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+익명 출처에 대해 알아야 할 사항. 타임스는 출처의 신원을 보호할 때마다 신중한 결정을 내린다. 출처가 제공하는 정보는 뉴스 가치가 있고 신뢰할 수 있으며 독자에게 진정한 통찰력을 제공해야 한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+합의에 레바논을 포함시킨 것은 이란의 외교적 승리로 간주되었다. 이란은 오랫동안 동맹국인 헤즈볼라가 3월에 테헤란과의 연대 차원에서 이스라엘을 공격한 레바논이 어떤 합의에도 포함되어야 한다고 주장해 왔다. 협상에 참여하지 않은 이스라엘의 베냐민 네타냐후 총리는 이러한 조건에 단호히 반대하며 헤즈볼라에 대한 군사 작전을 계속하겠다고 다짐했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+금요일, 이스라엘의 주미 대사 예히엘 레이터는 이스라엘이 즉각적인 휴전에 동의하고 레바논에서 "모든 공세 작전을 중단했다"고 밝혔다. 외교관들은 이란과 미국 간의 깨지기 쉬운 합의를 유지하려고 노력했다. 그러나 그는 이스라엘군이 여전히 남부 레바논에서 "헤즈볼라를 제거하고 테러 기반 시설을 해체하기 위해" 작전 중이라고 말하며 "그 임무가 완수될 때까지 그곳에 남아 있을 것"이라고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+헤즈볼라의 즉각적인 논평은 없었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 미국과 이란 간 합의 조건은 답변을 준 만큼이나 많은 의문을 제기했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 합의는 워싱턴과 테헤란의 동맹국에 대한 약속을 확대한다고 주장하지만, 이스라엘과 헤즈볼라 모두 합의문에 서명하지 않았으며, 어느 쪽이든 어떻게 준수하도록 강제할 것인지 설명하지 않는다. 또한 분쟁의 핵심인 두 가지 질문, 즉 이스라엘이 남부 레바논에서 철수할 것인지, 헤즈볼라가 무기를 포기할 것인지에 대한 해결책도 제시하지 않는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+워싱턴과 이스라엘은 두 분쟁을 분리하려고 한 반면, 테헤란은 이스라엘의 레바논 작전을 워싱턴과의 협상에서 압박 지점으로 활용했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러한 전략은 도널드 트럼프 대통령이 지속적인 이스라엘 공격이 합의를 위태롭게 할 수 있다는 우려를 점점 더 키우게 했다. 최근 몇 주 동안 트럼프는 네타냐후에게 점점 더 공개적으로 불만을 표출하며 군사 작전을 축소하라고 압박해 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+합의가 발표된 이후 이스라엘은 남부 레바논 전역의 마을과 촌락에 대한 거의 매일 발령하던 대피 경고를 중단했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이스라엘의 공습이 계속되기는 했지만, 그 규모와 속도는 금요일까지 크게 줄어들었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+헤즈볼라는 남부 레바논의 대도시 나바티예를 내려다보는 언덕에서 전진하는 이스라엘군을 매복 공격했으며, 이 교전에서 군에 따르면 이스라엘 병사 4명이 사망했다고 밝혔다. 이스라엘은 남부와 동부 레바논 전역에 150회 이상의 공습을 가해 레바논 보건부에 따르면 최소 47명이 사망했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+은퇴한 이스라엘 준장이자 워싱턴 근동정책 연구소 연구원인 아사프 오리온은 이란이 "두 전역을 연결하고 트럼프와의 협상에서 이 레버리지를 활용해 이스라엘을 억제하는 데 성공했지만" 그러한 억제가 지속될지, 그리고 지속된다면 얼마나 오래 갈지 판단하기에는 "아직 너무 이르다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프 행정부가 4월에 중재한 레바논과 이스라엘 간의 휴전은 경고의 선례가 된다. 이 휴전은 이스라엘이 공세적 군사 작전을 수행하는 것을 금지하면서도 "자위를 위한 모든 필요 조치"를 취할 국가의 권리는 유지했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+발표 후 몇 시간 만에 이스라엘은 공습을 계속하기 위해 그 광범위한 재량권을 발동했다. 이후 몇 주 동안 휴전에도 불구하고 지상 침공도 확대했다. 일요일에 발표된 미국-이란 합의와 마찬가지로 헤즈볼라는 서명국이 아니었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+또 다른 외교적 경로로, 레바논의 보다 안정적인 해결책을 위한 이스라엘-레바논 차기 회담이 다음 주 워싱턴에서 열릴 것이라고 미 국무부가 금요일 성명에서 밝혔다. 마르코 루비오 국무장관이 레바논의 조제프 아운 대통령과 통화한 후다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이란이 헤즈볼라를 얼마나 직접 통제하는지는 불분명하지만, 분석가들은 전임 지도자 하산 나스랄라가 2024년 이스라엘 공습으로 사망한 이후 테헤란이 이 단체에 훨씬 더 강한 영향력을 행사해 왔다고 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+헤즈볼라와 이스라엘이 그해 말 휴전에 합의한 후, 헤즈볼라는 거의 매일 이스라엘의 공습이 있었음에도 불구하고 2월 말 미국-이스라엘의 이란 전쟁이 시작될 때까지 발포를 자제했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+런던 채텀하우스의 준회원 연구원 리나 카팁은 미국-이란 합의가 레바논에서 "긴장 완화 조건을 조성할 수는 있지만" 이스라엘 철수와 헤즈볼라 무기의 미래를 포함한 핵심 문제를 해결하지는 못한다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이스라엘군은 남부 레바논의 넓은 지역에 걸쳐 주둔하고 있으며, 이는 20년 이상 만에 레바논에 대한 가장 큰 점령이다. 이스라엘의 공세는 국경 마을을 황폐화시키고 100만 명 이상을 집에서 쫓아냈다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이스라엘은 미국-이란 협상에서 레바논 관련 합의에 구속받지 않는다는 신호를 보냈으며, 이스라엘 지도자들은 최근 며칠 동안 이 나라에서 철수할 의사가 없다고 밝혔다. 이러한 입장은 레바논의 영토 보전을 수호하겠다는 합의의 약속을 즉각적인 시험대에 올려놓는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+헤즈볼라의 무기도 동일한 교착 상태에 묶여 있다. 이스라엘은 그룹이 무장 해제해야 철수를 고려하겠다고 요구했다. 헤즈볼라는 점령이 무기고가 여전히 필요하다는 증거라고 지적한다. 레바논 정부는 모든 무기를 국가 통제 하에 두겠다고 약속했지만, 어느 결과를 확보할 능력도 거의 없다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"레바논 분쟁이 조만간 해결될 가능성은 낮다"고 카팁은 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+보도에는 압디 라티프 다히르, 조너선 라이스, 아담 라스곤, 앨런 유하스가 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19mideast-lebanon-fghc/19mideast-lebanon-fghc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 13:31:39 +0000</pubDate></item><item><title>Catherine, Princess of Wales, Urges ‘Human Connection’ in a Digital World (웨일스 공비 캐서린, 디지털 시대에 '인간적 연결' 촉구)</title><link>https://www.nytimes.com/2026/06/19/world/europe/princess-kate-uk-children-social-media-ban.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19int-uk-princess-essay-01-kvbw/19int-uk-princess-essay-01-kvbw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Catherine, Princess of Wales, in a personal essay published on Friday, has lent her voice to growing public calls for children to be protected from constant digital intrusion.&lt;br/&gt;(웨일스 공비 캐서린이 금요일 발표한 개인 에세이에서, 아동을 끊임없는 디지털 침입으로부터 보호해야 한다는 커져가는 공공의 요구에 목소리를 보탰다.)&lt;/p&gt;
 &lt;p&gt;Reflecting on her official visit to the Italian city of Reggio Emilia last month, Catherine’s essay urges society to help children build real connections and warns against the ubiquity of screens in their daily lives.&lt;br/&gt;(지난달 이탈리아 레조에밀리아 공식 방문을 되돌아보며, 캐서린의 에세이는 사회가 아동이 진정한 관계를 형성하도록 돕고 일상생활에서 스크린이 만연한 현실에 경고를 보낸다.)&lt;/p&gt;
 &lt;p&gt;“In an increasingly digitalized world, where so much of life is mediated through screens, the need for genuine human connection has never been greater,” the princess wrote.&lt;br/&gt;("삶의 많은 부분이 스크린을 통해 중개되는 점점 더 디지털화된 세상에서, 진정한 인간적 연결에 대한 필요성은 그 어느 때보다 컸습니다."라고 공비는 썼다.
@@ -1260,7 +1048,241 @@
 &lt;p&gt;In an executive order last year, Mr. Trump created a special pathway for Afrikaners to enter the United States as refugees, even though he stopped the admission of refugees from virtually all other countries. In the executive order, the president also said he was cutting all U.S. government aid to South Africa.&lt;br/&gt;(트럼프 대통령은 작년 행정 명령에서 아프리카너가 난민으로 미국에 입국할 수 있는 특별 경로를 만들었지만, 사실상 다른 모든 국가의 난민 입국은 중단시켰다. 이 행정 명령에서 대통령은 또한 남아프리카공화국에 대한 모든 미국 정부 지원을 중단한다고 밝혔다.)&lt;/p&gt;
 &lt;p&gt;The State Department official said the end of PEPFAR funding was in line with the 2025 executive order.&lt;br/&gt;(국무부 관계자는 PEPFAR 자금 중단이 2025년 행정 명령에 부합한다고 말했다.)&lt;/p&gt;
 &lt;p&gt;“South Africa is a middle-income country and is more than capable of supporting its own health programs,” the official said, adding that the decision was in line with the administration’s philosophy of encouraging self-reliance among countries that receive aid.&lt;br/&gt;("남아프리카공화국은 중간 소득 국가이며 자체 의료 프로그램을 지원할 충분한 능력이 있다"고 관계자는 말하며, 이번 결정은 원조를 받는 국가들의 자립을 장려하는 행정부의 철학과 일치한다고 덧붙였다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-safrica-pepfar-mwlv/19int-safrica-pepfar-mwlv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 10:07:41 +0000</pubDate></item><item><title>‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow. ('게임 체인저'? 판단하기엔 이르다. 그러나 우크라이나, 모스크바 타격에 힘 과시)</title><link>https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19int-ukraine-moscow-01-kwqg/19int-ukraine-moscow-01-kwqg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-safrica-pepfar-mwlv/19int-safrica-pepfar-mwlv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 10:07:41 +0000</pubDate></item><item><title>Two Passenger Trains in Deadly Collision in Britain (영국 여객열차 충돌 참사…사망자 최소 1명)</title><link>https://www.nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19int-uk-train-collision-qgjf/19int-uk-train-collision-qgjf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Two passenger trains collided in Britain on Friday evening, killing at least one person and injuring dozens more, according to the authorities.&lt;br/&gt;(영국에서 금요일 저녁 여객열차 두 대가 충돌해 최소 1명이 사망하고 수십 명이 부상했다고 당국이 밝혔다.)&lt;/p&gt;
+&lt;p&gt;The collision took place about 5:15 p.m. local time near the town of Bedford, in south-central England, officials said, prompting a major emergency response from the police and health workers, according to the transport police.&lt;br/&gt;(교통경찰에 따르면 충돌은 현지 시간 오후 5시 15분경 잉글랜드 중남부 베드퍼드 인근에서 발생했으며, 경찰과 의료진의 대규모 긴급 대응이 시작됐다.)&lt;/p&gt;
+&lt;p&gt;The East England Ambulance Service said in a statement that one person had died at the site of the crash. Eleven others suffered life-threatening injuries; 22 people, less gravely hurt, required immediate treatment; and 56 others had minor injuries, the statement said.&lt;br/&gt;(잉글랜드 동부 구급차 서비스는 성명에서 사고 현장에서 1명이 사망했다고 전했다. 성명은 생명이 위태로운 중상자 11명, 즉시 치료가 필요한 경상자 22명, 경미한 부상자 56명이 발생했다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;In a statement published shortly later, Britain’s transit workers’ union said that a driver of one of the trains, a former union representative, had died.&lt;br/&gt;(얼마 지나지 않아 발표된 성명에서 영국 교통 노동자 조합은 열차 기관사 중 한 명(전 조합 대표)이 사망했다고 전했다.)&lt;/p&gt;
+&lt;p&gt;An operator at Bedford Hospital said by phone that the medical center was preparing for a “major incident” after the collision. The East England Ambulance Service also said it had sent an air ambulance to the scene, and encouraged people to avoid the area. The town is about 45 miles north of London.&lt;br/&gt;(베드퍼드 병원의 한 직원은 전화 통화에서 의료 센터가 충돌 후 '대형 사고'에 대비하고 있다고 말했다. 잉글랜드 동부 구급차 서비스는 현장에 헬기 구급차를 보냈으며 사람들에게 해당 지역을 피하라고 권고했다. 베드퍼드는 런던에서 북쪽으로 약 45마일(약 72km) 떨어져 있다.)&lt;/p&gt;
+&lt;p&gt;“It felt like a bomb, like I was in an explosion,” Peter Knapp, a 40-year-old air quality scientist and a filmmaker, said of the crash. He was in the front carriage of the train that rammed into the one ahead of it, he said, adding, “I’m amazed that I’m walking and breathing.”&lt;br/&gt;(40세의 대기 질 과학자이자 영화 제작자인 피터 냅은 충돌에 대해 "폭탄을 맞은 것 같았다. 폭발 속에 있는 듯한 느낌이었다"고 말했다. 그는 앞차를 들이받은 열차의 앞 객차에 타고 있었다며 "걸어 다니고 숨 쉬는 게 놀랍다"고 덧붙였다.)&lt;/p&gt;
+&lt;p&gt;Mr. Knapp said that afterward the carriage was full of dust, with the train’s seats “all over the place.” He said that some people’s faces were covered in blood, and that he saw at least two people with what he called life-threatening injuries. He himself was bleeding from his shins and in a wheelchair after the crash, which he said caused his back to seize up.&lt;br/&gt;(냅 씨는 사고 후 객차 안에는 먼지가 가득했고 열차 좌석이 "사방에 흩어져 있었다"고 말했다. 그는 일부 사람들의 얼굴이 피로 뒤덮였고, 생명이 위독한 부상을 입은 사람을 최소 두 명 목격했다고 전했다. 자신도 정강이에서 피가 나고 뒷목이 뻣뻣해져 휠체어를 탔다고 말했다.)&lt;/p&gt;
+&lt;p&gt;The British prime minister, Keir Starmer, said that reports of the collision were “hugely concerning” and that his thoughts were with the family of the person who had died and with the others injured.&lt;br/&gt;(영국 총리 키어 스타머는 충돌 소식이 "매우 우려스럽다"며 사망자의 가족과 다른 부상자들에게 깊은 애도를 표한다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;The trains that collided had been headed to London St. Pancras, one of England’s busiest train stations. They departed for their destinations about an hour apart, according to the East Midlands Railway, a British train operating company.&lt;br/&gt;(충돌한 열차들은 영국에서 가장 분주한 기차역 중 하나인 런던 세인트 판크라스 역으로 향하고 있었다. 영국 열차 운영 회사인 이스트 미들랜즈 철도에 따르면 두 열차는 약 1시간 간격으로 출발했다.)&lt;/p&gt;
+&lt;p&gt;Officials from the Rail Accident Investigation Branch said that a team was on site to gather evidence about how the collision happened.&lt;br/&gt;(철도사고조사국의 관계자들은 사고 원인에 대한 증거를 수집하기 위해 현장에 조사팀을 파견했다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;Michael D. Shear contributed reporting.&lt;br/&gt;(마이클 D. 시어가 보도에 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-uk-train-collision-qgjf/19int-uk-train-collision-qgjf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 15:22:33 +0000</pubDate></item><item><title>The Right-Wing Outsider Who Could Be Colombia’s Next Leader (콜롬비아의 차기 지도자가 될 수 있는 우익 아웃사이더)</title><link>https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-colombia-election-right-fvjp/20int-colombia-election-right-fvjp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Popping up in a bulletproof booth wearing Colombia’s yellow soccer jersey, fist pumping the air, Abelardo De La Espriella roars to crowds of thousands, “Your tiger is here!”&lt;br/&gt;(방탄 부스에 나타나 콜롬비아 축구 국가대표팀 유니폼을 입고 주먹을 허공에 휘두르며 아벨라르도 데 라 에스프리엘라가 수천 명의 군중에게 포효합니다. "너희 호랑이가 여기 있다!")&lt;/p&gt;
+&lt;p&gt;Just a few months ago, he was virtually unknown, traveling through Latin America — and hanging around President Trump’s golf club near Miami — trying to make connections and drum up support.&lt;br/&gt;(불과 몇 달 전만 해도 그는 사실상 알려지지 않은 인물로, 라틴 아메리카를 여행하고 마이애미 근처 트럼프 대통령의 골프 클럽에서 시간을 보내며 인맥을 쌓고 지지를 얻으려 애쓰고 있었습니다.)&lt;/p&gt;
+&lt;p&gt;Now, Mr. De La Espriella, 47, could be elected the next president of Colombia, one of the largest economies in Latin America and historically Washington’s closest ally in the region.&lt;br/&gt;(이제 47세의 데 라 에스프리엘라 씨가 라틴 아메리카 최대 경제국 중 하나이자 역사적으로 워싱턴의 지역 내 가장 가까운 동맹국인 콜롬비아의 차기 대통령으로 선출될 수도 있습니다.)&lt;/p&gt;
+&lt;p&gt;After winning the most votes in the first round, he faces a left-wing senator, Iván Cepeda, in a runoff on Sunday.&lt;br/&gt;(1차 투표에서 가장 많은 표를 얻은 후, 그는 일요일 결선 투표에서 좌파 상원의원 이반 세페다와 맞붙습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella, a criminal defense lawyer and businessman with no political experience, seemingly came out of nowhere, propelled by a self-financed populist campaign, a social media blitz and, recently, an endorsement from Mr. Trump.&lt;br/&gt;(정치 경험이 전무한 형사 변호사이자 사업가인 데 라 에스프리엘라 씨는 자체 자금으로 조달한 포퓰리즘 캠페인, 소셜 미디어 공세, 그리고 최근에는 트럼프 씨의 지지에 힘입어 갑작스럽게 등장한 듯 보입니다.)&lt;/p&gt;
+&lt;p&gt;He has divided Colombians. Supporters say his combative energy is needed to defeat cocaine-trafficking groups, while critics warn of an authoritarian threat, as Mr. De La Espriella pledges to “disembowel the left” and ruthlessly pursue opponents with the help of the United States.&lt;br/&gt;(그는 콜롬비아인들을 양분시켰습니다. 지지자들은 코카인 밀매 조직을 물리치는 데 그의 호전적인 에너지가 필요하다고 말하는 반면, 비판자들은 데 라 에스프리엘라 씨가 "좌파를 도려내겠다"고 공언하고 미국의 도움으로 반대파를 무자비하게 추적하겠다고 약속함에 따라 권위주의적 위협을 경고합니다.)&lt;/p&gt;
+&lt;p&gt;Many on both sides are still asking: Who is this man?&lt;br/&gt;(양측의 많은 사람들은 여전히 묻습니다. 이 남자는 누구인가?)&lt;/p&gt;
+&lt;p&gt;His campaign has borrowed ideas from other right-wing leaders — megaprisons from President Nayib Bukele of El Salvador, cost-cutting from President Javier Milei of Argentina (along with a tiger mascot, a nod to Mr. Milei’s lion) — and has seized on anger at Colombia’s outgoing leftist president, Gustavo Petro.&lt;br/&gt;(그의 선거운동은 다른 우익 지도자들의 아이디어를 차용했습니다. 엘살바도르의 나이브 부켈레 대통령에게서는 거대 교도소를, 아르헨티나의 하비에르 밀레이 대통령(그리고 밀레이 씨의 사자를 암시하는 호랑이 마스코트)에게서는 비용 절감을 가져왔으며, 콜롬비아의 퇴임하는 좌파 대통령 구스타보 페트로에 대한 분노를 활용했습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella has vowed to restore security, shrink the state, take control of the health system and closely collaborate with the Trump administration.&lt;br/&gt;(데 라 에스프리엘라 씨는 안보를 회복하고, 국가를 축소하며, 의료 시스템을 장악하고, 트럼프 행정부와 긴밀히 협력하겠다고 맹세했습니다.)&lt;/p&gt;
+&lt;p&gt;He has pitched himself as a patriot, wearing the national soccer jersey and a Panama hat and saluting crowds with the slogan “Firme por la patria,” or “Standing firm for the homeland.”&lt;br/&gt;(그는 국가대표팀 유니폼과 파나마 모자를 쓰고, "조국을 위해 굳건히"라는 의미의 구호 "피르메 포르 라 파트리아"로 군중에게 경례하며 자신을 애국자로 내세웠습니다.)&lt;/p&gt;
+&lt;p&gt;Not long ago, he cut a different figure.&lt;br/&gt;(얼마 전까지만 해도 그는 전혀 다른 모습이었습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella, who declined to be interviewed for this article, spent more than a decade in Miami, where he was known for handling high-profile legal cases back in Colombia.&lt;br/&gt;(이 기사를 위한 인터뷰를 거절한 데 라 에스프리엘라 씨는 마이애미에서 10년 이상을 보냈으며, 그곳에서 콜롬비아의 유명 법률 사건들을 변호한 것으로 알려졌습니다.)&lt;/p&gt;
+&lt;p&gt;He projected wealth and refined taste with tailored suits and fedoras, sprinkled Italian into conversations, sang opera and opened a piano bar called Místico.&lt;br/&gt;(그는 맞춤 양복과 페도라 모자로 부와 세련된 취향을 과시했고, 대화 중에 이탈리아어를 섞어 쓰며, 오페라를 부르고, 미스티코라는 피아노 바를 열었습니다.)&lt;/p&gt;
+&lt;p&gt;“He was a Miami playboy,” said María Jimena Duzán, a prominent Colombian journalist.&lt;br/&gt;("그는 마이애미의 플레이보이였어요." 저명한 콜롬비아 언론인 마리아 히메나 두산이 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Back then, he seemed less enchanted with his native land. He complained about not being able to find a proper barber in Colombia and called ajiaco, a beloved traditional dish, “prison stew.”&lt;br/&gt;(그 당시 그는 모국에 덜 매료된 듯 보였습니다. 그는 콜롬비아에서 제대로 된 이발사를 찾을 수 없다고 불평했고, 사랑받는 전통 요리인 아히아코를 "감옥 스튜"라고 불렀습니다.)&lt;/p&gt;
+&lt;p&gt;“He has a tendency toward what we would call behaving like a divo,” said Ángel Becassino, a biographer.&lt;br/&gt;("그는 우리가 디보(divo)라고 부르는 행동 경향이 있습니다." 전기 작가 앙헬 베카시노가 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella was raised in Córdoba, a cattle-ranching region along the Caribbean coast that was a hotbed for right-wing paramilitaries — armed groups formed by landowners to fight left-wing guerrillas.&lt;br/&gt;(데 라 에스프리엘라 씨는 카리브 해 연안을 따라 있는 소 목장 지역이자 우익 준군사조직(지주들이 좌파 게릴라와 싸우기 위해 결성한 무장 단체)의 온상이었던 코르도바에서 자랐습니다.)&lt;/p&gt;
+&lt;p&gt;By the 1990s, the paramilitaries had become another violent scourge — seizing land, committing massacres and trafficking drugs before eventually agreeing to disband.&lt;br/&gt;(1990년대까지 준군사조직은 또 다른 폭력적인 재앙이 되어 토지를 빼앗고, 학살을 자행하며, 마약을 밀매하다가 결국 해산에 동의했습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella sensed an opportunity.&lt;br/&gt;(데 라 에스프리엘라 씨는 기회를 포착했습니다.)&lt;/p&gt;
+&lt;p&gt;He created a peace foundation, bringing university students to meet paramilitary members, who he argued should be treated as political actors rather than prosecuted as criminals. Politicians accused of having ties to paramilitaries sought him out.&lt;br/&gt;(그는 평화 재단을 설립하여 대학생들을 준군사조직원들을 만나게 했는데, 그는 이들이 범죄자로 기소되기보다는 정치적 행위자로 대우받아야 한다고 주장했습니다. 준군사조직과 연루된 혐의를 받는 정치인들이 그를 찾았습니다.)&lt;/p&gt;
+&lt;p&gt;“Paramilitary politics is an excellent work niche,” he told a reporter in 2008. “And I didn’t want to sit out the most important event in Colombia.”&lt;br/&gt;("준군사 정치(Paramilitary politics)는 훌륭한 일자리 틈새시장입니다." 그가 2008년 한 기자에게 말했습니다. "그리고 저는 콜롬비아에서 가장 중요한 사건을 놓치고 싶지 않았습니다.")&lt;/p&gt;
+&lt;p&gt;Days before the runoff, his rival, Mr. Cepeda, accused Mr. De La Espriella of being a paramilitary “accomplice.”&lt;br/&gt;(결선 투표를 며칠 앞두고, 그의 경쟁자인 세페다 씨는 데 라 에스프리엘라 씨가 준군사조직의 '공범'이라고 비난했습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella, who has accused Mr. Cepeda of having ties to left-wing groups, did not respond to a request for comment.&lt;br/&gt;(세페다 씨가 좌익 단체와 연계되어 있다고 비난해 온 데 라 에스프리엘라 씨는 논평 요청에 응하지 않았습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella moved to Miami and took on high-profile clients, including accused drug traffickers and the mastermind of one of Colombia’s largest pyramid schemes.&lt;br/&gt;(데 라 에스프리엘라 씨는 마이애미로 이주하여 마약 밀매 혐의자와 콜롬비아 최대 피라미드 사기극의 배후 인물을 포함한 유명인사 의뢰인들을 맡았습니다.)&lt;/p&gt;
+&lt;p&gt;Then there was Alex Saab, accused by the U.S. authorities of helping launder hundreds of millions of dollars for Venezuela’s former leader, Nicolás Maduro. Mr. De La Espriella has downplayed the relationship, saying he cut ties with Mr. Saab once he was sought by the United States.&lt;br/&gt;(그리고 미국 당국이 베네수엘라 전 지도자 니콜라스 마두로를 위해 수억 달러를 세탁하는 데 도운 혐의를 받는 알렉스 사브가 있었습니다. 데 라 에스프리엘라 씨는 그 관계를 축소하며 미국의 추적을 받게 되자 사브 씨와 인연을 끊었다고 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella also defended Colombian celebrities and, eventually, his personal hero: the former two-term president Álvaro Uribe, who himself was implicated in paramilitary violence.&lt;br/&gt;(데 라 에스프리엘라 씨는 또한 콜롬비아의 유명인사들을 변호했으며, 결국 자신의 개인적인 영웅인 준군사 폭력에 연루된 전직 두 차례 대통령 알바로 우리베를 변호했습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. Uribe became his calling card, helping open doors in Florida. Joaquín Pérez, a Cuban American lawyer in Miami who defended extradited paramilitary commanders, recalled Mr. De La Espriella phoning Mr. Uribe and putting him on speakerphone to say hello.&lt;br/&gt;(우리베 씨는 그의 명함이 되었고, 플로리다에서 문을 여는 데 도움을 주었습니다. 범죄인 인도된 준군사조직 지휘관들을 변호한 마이애미의 쿠바계 미국인 변호사 호아킨 페레스는 데 라 에스프리엘라 씨가 우리베 씨에게 전화를 걸어 스피커폰으로 인사하게 한 일을 회상했습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella shuttled between the United States and Colombia, and his offices were lined with photos of powerful Colombian clients.&lt;br/&gt;(데 라 에스프리엘라 씨는 미국과 콜롬비아 사이를 오갔고, 그의 사무실에는 권력 있는 콜롬비아 의뢰인들의 사진이 즐비했습니다.)&lt;/p&gt;
+&lt;p&gt;Iván Cancino, a lawyer and longtime associate of Mr. De La Espriella in Bogotá, said critics had scrutinized him precisely because of his success.&lt;br/&gt;(보고타에 있는 데 라 에스프리엘라 씨의 오랜 동료 변호사 이반 칸시노는 그의 성공 때문이라는 이유로 비판자들이 그를 면밀히 조사해 왔다고 말했습니다.)&lt;/p&gt;
+&lt;p&gt;“People bringing up his client list simply shows that he was an excellent lawyer because many people sought out his services,” he said.&lt;br/&gt;("사람들이 그의 의뢰인 명단을 거론하는 것은 그가 훌륭한 변호사였기 때문에 많은 사람들이 그의 서비스를 찾았다는 것을 보여줄 뿐입니다."라고 그는 말했습니다.)&lt;/p&gt;
+&lt;p&gt;While Mr. De La Espriella remained unknown to most Colombians, a string of accusations put him on the radar of journalists.&lt;br/&gt;(데 라 에스프리엘라 씨가 대부분의 콜롬비아인들에게 알려지지 않은 상태로 남아 있는 동안, 일련의 고발들이 그를 언론인의 레이더에 포착되게 했습니다.)&lt;/p&gt;
+&lt;p&gt;Clients have come forward saying that he asked them for millions to “tap” lawmakers on their behalf or stole their money.&lt;br/&gt;(의뢰인들은 그가 자신들을 대신해 의원들에게 '로비'를 한다며 수백만 달러를 요구하거나 돈을 횡령했다고 주장하며 나서고 있습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella has pushed back against the claims and targeted the press, filing nearly 110 lawsuits against journalists, according to an analysis by the Bogotá-based Foundation for Press Freedom.&lt;br/&gt;(데 라 에스프리엘라 씨는 이러한 주장을 반박하고 언론을 겨냥하여 보고타에 기반을 둔 언론 자유 재단의 분석에 따르면 언론인들을 상대로 거의 110건의 소송을 제기했습니다.)&lt;/p&gt;
+&lt;p&gt;Among those he sued was a Colombian columnist who compared him to Saul Goodman, the ethically questionable lawyer originally from “Breaking Bad,” in a column headlined, “Better Call Abelardo.”&lt;br/&gt;(그가 고소한 사람 중에는 "브레이킹 배드"에 나오는 윤리적으로 의심스러운 변호사 솔 굿맨에 그를 비유한 칼럼 "베터 콜 아벨라르도"를 쓴 콜롬비아 칼럼니스트가 있었습니다.)&lt;/p&gt;
+&lt;p&gt;The case was ultimately dropped, but Jonathan Bock, the columnist, said Mr. De La Espriella screamed at him in a hearing, threatened to seize his assets and demanded a public apology — behavior that revealed, Mr. Bock said, “the way he understands power.”&lt;br/&gt;(그 사건은 결국 기각되었지만, 칼럼니스트 조나단 복은 데 라 에스프리엘라 씨가 청문회에서 자신에게 고함을 지르고, 자산 압류를 위협하며, 공개 사과를 요구했다고 말했습니다. 복 씨는 이러한 행동이 "그가 권력을 이해하는 방식"을 드러낸다고 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella gave up the law a few years ago.&lt;br/&gt;(데 라 에스프리엘라 씨는 몇 년 전 변호사 일을 그만두었습니다.)&lt;/p&gt;
+&lt;p&gt;He and his wife, Ana Lucía Pineda, appeared to be settled in Miami — they had bought a multimillion-dollar home, and Mr. De La Espriella was naturalized as a U.S. citizen in 2023 — but the next year, they packed up their four children and moved to Florence, Italy.&lt;br/&gt;(그와 그의 아내 아나 루시아 피네다는 마이애미에 정착한 듯 보였습니다. 그들은 수백만 달러짜리 주택을 샀고, 데 라 에스프리엘라 씨는 2023년에 미국 시민권을 취득했습니다. 그러나 이듬해 그들은 네 자녀를 데리고 이탈리아 피렌체로 이사했습니다.)&lt;/p&gt;
+&lt;p&gt;Last year, he announced his presidential run.&lt;br/&gt;(작년에 그는 대선 출마를 선언했습니다.)&lt;/p&gt;
+&lt;p&gt;The man who had reinvented himself when he left Colombia reinvented himself again when he returned. He had found God after a relative’s death, he said, and had a new appreciation for Colombian cuisine.&lt;br/&gt;(콜롬비아를 떠날 때 스스로를 재창조했던 이 남자는 돌아왔을 때 다시 재창조했습니다. 그는 친척의 사망 이후 신을 찾았다고 말했고, 콜롬비아 요리에 대한 새로운 감사를 갖게 되었다고 말했습니다.)&lt;/p&gt;
+&lt;p&gt;He was inspired to run, according to people close to him, by last year’s assassination of another conservative presidential hopeful, Miguel Uribe Turbay. He had come back, he said, to “save” Colombia.&lt;br/&gt;(그와 가까운 사람들에 따르면, 그는 작년에 또 다른 보수파 대선 후보였던 미겔 우리베 투르베이가 암살된 것에 영감을 받아 출마했습니다. 그는 콜롬비아를 '구하기' 위해 돌아왔다고 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella went to Mr. Trump’s Doral golf club near Miami in March to rub shoulders with conservative Latin American leaders and U.S. officials at a summit hosted by the president.&lt;br/&gt;(데 라 에스프리엘라 씨는 3월에 마이애미 근처 트럼프 씨의 도랄 골프 클럽에 가서 대통령이 주최한 정상회담에서 보수적인 라틴 아메리카 지도자들과 미국 관리들과 어울렸습니다.)&lt;/p&gt;
+&lt;p&gt;Nearby, he met Senator Bernie Moreno of Ohio, a Colombian-born Republican with close ties to the White House, for coffee. “He’s a 20/10 on the energy scale, which I love,” he said of Mr. De La Espriella in an interview.&lt;br/&gt;(근처에서 그는 백악관과 긴밀한 관계를 가진 콜롬비아 태생의 공화당 상원의원 버니 모레노(오하이오)를 만나 커피를 마셨습니다. "그는 에너지 척도에서 20점 만점에 10점인데, 그 점이 제가 좋아하는 점입니다." 그가 데 라 에스프리엘라 씨에 대해 인터뷰에서 말했습니다.)&lt;/p&gt;
+&lt;p&gt;He also spent time with Representative María Elvira Salazar, a Republican from Miami whose campaign he had donated to. She later supported his run and called him “a personal friend.”&lt;br/&gt;(그는 또한 자신이 선거운동에 기부했던 마이애미 출신 공화당 하원의원 마리아 엘비라 살라자르와 시간을 보냈습니다. 그녀는 나중에 그의 출마를 지지했고 그를 "개인적인 친구"라고 불렀습니다.)&lt;/p&gt;
+&lt;p&gt;In Florida, he worked other connections built during his Miami years.&lt;br/&gt;(플로리다에서 그는 마이애미 시절 동안 쌓은 다른 인맥들을 활용했습니다.)&lt;/p&gt;
+&lt;p&gt;Fabio A. Andrade, a city commissioner and prominent Colombian American Republican friend of Mr. De La Espriella, said he and others had “held important meetings” with Colombian consuls to encourage Colombians abroad, who tend to lean right, to vote.&lt;br/&gt;(데 라 에스프리엘라 씨의 친구인 저명한 콜롬비아계 미국인 공화당원이자 시청 위원인 파비오 A. 안드라데는 자신과 다른 사람들이 콜롬비아 영사들과 "중요한 회의"를 열어 해외 콜롬비아인들(우익 성향이 강한 경향이 있음)이 투표하도록 장려했다고 말했습니다.)&lt;/p&gt;
+&lt;p&gt;As for the most important vote of confidence — Mr. Trump’s — Mr. Moreno said that “the president makes his own decisions” when it comes to endorsements. But, he added, “I certainly gave him a very strong point of view.”&lt;br/&gt;(가장 중요한 신임 투표인 트럼프 씨의 지지와 관련하여, 모레노 씨는 "지지 결정에 있어 대통령은 스스로 결정을 내린다"고 말했습니다. 그러나 그는 "제가 분명히 매우 강력한 의견을 전달했습니다"라고 덧붙였습니다.)&lt;/p&gt;
+&lt;p&gt;“The president clearly knows that he’s the guy that he can work with,” Mr. Moreno added.&lt;br/&gt;("대통령은 그가 함께 일할 수 있는 사람이라는 것을 분명히 알고 있습니다." 모레노 씨가 덧붙였습니다.)&lt;/p&gt;
+&lt;p&gt;To Alejandro Salazar, a business strategist and co-author of “Colombia Ganadora,” or “Colombia the Winner,” Mr. De La Espriella represents a return of the aggressive optimism of Mr. Uribe’s terms two decades ago.&lt;br/&gt;("콜롬비아 가나도라"의 공동 저자이자 비즈니스 전략가인 알레한드로 살라자르에게 데 라 에스프리엘라 씨는 20년 전 우리베 씨 임기의 공격적인 낙관주의의 귀환을 의미합니다.)&lt;/p&gt;
+&lt;p&gt;“He symbolizes a thriving Colombia, a Colombia that loves freedom,” he said.&lt;br/&gt;("그는 번영하는 콜롬비아, 자유를 사랑하는 콜롬비아를 상징합니다."라고 그는 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. De La Espriella also represents a leader who is not afraid to provoke.&lt;br/&gt;(데 라 에스프리엘라 씨는 또한 도발을 두려워하지 않는 지도자를 대표합니다.)&lt;/p&gt;
+&lt;p&gt;He told a female journalist on a talk show last month to look at a photo of his crotch that he said had won him “some awesome votes from the female electorate.”&lt;br/&gt;(그는 지난달 한 토크쇼에서 여성 기자에게 자신의 사타구니 사진을 보라고 말했으며, 그 사진이 "여성 유권자들로부터 멋진 표를 얻었다"고 말했습니다.)&lt;/p&gt;
+&lt;p&gt;And as the runoff approached, Mr. De La Espriella promised to jail anyone who challenged his victory.&lt;br/&gt;(그리고 결선 투표가 다가오면서 데 라 에스프리엘라 씨는 자신의 승리에 도전하는 사람은 누구든 감옥에 가두겠다고 약속했습니다.)&lt;/p&gt;
+&lt;p&gt;“They’ll see how hard the tiger bites,” he said. “I’ll see if they’re so tough and cute when the tiger has his foot on their neck and has them buried 15 meters underground”&lt;br/&gt;("호랑이가 얼마나 세게 무는지 그들이 보게 될 것입니다."라고 그는 말했습니다. "호랑이가 그들의 목을 발로 밟고 지하 15미터에 묻어버릴 때 그들이 여전히 터프하고 귀여운지 제가 보겠습니다.")&lt;/p&gt;
+&lt;p&gt;Max Bearak contributed reporting. Alain Delaquérière contributed research.&lt;br/&gt;(막스 비어락이 보도에 기여했습니다. 알랭 들라케리에르가 조사에 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-colombia-election-right-fvjp/20int-colombia-election-right-fvjp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 00:01:56 +0000</pubDate></item><item><title>Trump Called Him a ‘Radical Left Marxist.’ Can He Be Colombia’s President? (트럼프가 그를 '급진 좌파 마르크스주의자'라 불렀다. 그가 콜롬비아 대통령이 될 수 있을까?)</title><link>https://www.nytimes.com/2026/06/20/world/americas/ivan-cepeda-colombia-president-election.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/16/multimedia/00-int-colombia-election-left-qvlt/00-int-colombia-election-left-qvlt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;For months, the left-wing candidate in Colombia’s presidential election this Sunday seemed lulled by his lead in the polls.&lt;br/&gt;(몇 달 동안, 이번 일요일 치러지는 콜롬비아 대통령 선거의 좌파 후보는 여론조사에서 앞서고 있다는 사실에 안심한 듯 보였다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+후보 이반 세페다는 구스타보 페트로 대통령과 그의 지지 기반의 지지를 받아 주로 집에 머물렀다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+간소한 깃 없는 셔츠를 즐겨 입고 철학 강의에서 막 나온 듯한 인상의 상원의원이자 인권 운동가, 교수인 63세 세페다는 토론을 거절했고 대부분 우호적인 언론에만 인터뷰를 제공했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"그것은 참혹한 선거 운동이었습니다,"라고 콜롬비아 정치사학자 후안 카를로스 플로레스는 말했는데, 이 평가는 세페다의 가장 강력한 지지자들조차 동의하는 바였다. 이는 5월 31일 1차 투표에서 명확해졌다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+우익 아웃사이더인 아벨라르도 데 라 에스프리에야가 가장 많은 표를 얻어 좌파를 충격에 빠뜨렸으며, 전통적인 보수 후보뿐만 아니라 세페다도 제쳤다. 이는 페트로 대통령에 대한 분노와 소셜 미디어 공세를 활용한 선거 운동에 힘입은 결과였다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+며칠 후, 데 라 에스프리에야는 트럼프 대통령의 지지를 받았으며, 트럼프는 세페다를 "급진 좌파 마르크스주의자"라고 불렀다. 경력의 대부분을 마이애미에서 보낸 47세의 형사 변호사인 데 라 에스프리에야는 여론조사에서 선두를 유지하고 있다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+포기하지 않는 것으로 알려진 세페다는 콜롬비아 전역을 돌며 신중하게 준비한 연설을 버리고 데 라 에스프리에야를 공격하기 시작했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+너무 늦었을까?  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+페트로는 2022년에 집권하며 소외된 집단과 젊은이들에게 광범위한 변화와 희망을 약속했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+전문가들은 5월 선거에서 세페다가 약 41%의 득표율을 기록하고 데 라 에스프리에야가 약 44%를 기록한 성과가, 한때 상상할 수 없었던 것을 페트로가 이루어냈음을 보여준다고 말한다. 즉, 좌파 정치가 오랫동안 폭력적인 반군과 연관되어 온 이 나라에서 좌파를 실행 가능한 정치적 대안으로 만든 것이다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+하지만 험난한 4년 후, 많은 노동계급 콜롬비아인들은 희망이 사라졌다고 말한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+페트로는 사회 프로그램과 공립 고등교육 접근성을 확대했다. 그의 정부는 노인과 실업 상태의 젊은 콜롬비아인들에게 보조금을 지급했다. 국가통계청에 따르면 빈곤율은 사상 최저치로 떨어졌다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+그러나 그의 임기는 스캔들, 의료 시스템의 문제 많은 국유화, 그리고 페트로 정권 하의 전 재무장관이 심각한 재정 위기라고 부른 통제 불능의 지출로 얼룩졌다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+바랑키야에 사는 에드윈 페르네이는 페트로가 황금 같은 기회를 가졌다고 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"그는 잘못된 사람들로 자신을 포위했고 모든 것을 잃었습니다,"라고 페르네이는 말했다. "그는 그것을 다 태워버렸어요."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+페트로 정책의 혜택을 받은 일부 사람들조차 상황이 더 나빠졌다고 말한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+보고타의 도어맨 라몬 몬타녜스는 임금 인상 움직임이 표를 얻기 위한 노골적인 시도였으며, 그 결과 자신이 일자리를 잃었다고 말했다. 그의 고용주는 더 이상 그를 감당할 수 없다며 보안 카메라를 설치하고 있었다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"최저임금 인상?" 그는 말했다. "그것이 한 일은 수많은 사람들을 일자리 없이 만든 것뿐이에요."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다는 이러한 분노에 대응하려고 노력해 왔다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+&lt;뉴욕타임스&gt;와의 인터뷰에서 그는 "의료 위기", 재정 적자(사회 지출을 건드리지 않으면서), 그리고 에너지를 우선시하겠다고 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+환경 운동가인 페트로는 석유 및 가스 시추를 중단하여 주요 수출품을 없애고 콜롬비아가 가스를 수입하도록 만들었다. 세페다는 청정 에너지로의 더 점진적인 전환을 모색하겠다고 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다의 선거 운동은 페트로의 의제를 실패가 아닌 미완성으로 묘사하려고 했으며, 이 메시지는 일부 유권자들에게 공감을 얻는 것으로 보인다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+보고타의 집회에 참석한 수학자 안드레스 로드리게스는 페트로가 시작한 일에 더 많은 시간이 필요하다고 말했다. "이미 이루어진 작은 것마저 무너지면, 나라는 예전 상태로 바로 돌아갈 것입니다,"라고 그는 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"아무것도 없었던 사람들은," 그는 덧붙였다, "그냥 사라질 것입니다."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+안보 문제는 라틴아메리카 전역에서 우파가 선거에서 승리하는 데 도움을 주고 있으며, 데 라 에스프리에야가 코카인 밀매 조직을 분쇄하겠다는 약속은 많은 콜롬비아인들을 결집시켰다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다는 정반대의 명제를 밀어붙였다: 평화.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+저명한 콜롬비아 언론인 다니엘 코로넬은 세페다가 국가 피해자들을 위한 운동을 만드는 데 핵심적인 역할을 했다고 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+그는 자신의 아버지를 포함한 좌파 지도자들에 대한 일련의 국가 명령 암살을 폭로했다. 그는 인기 있는 두 번 임기 대통령 알바로 우리베를 포함한 우익 정치인들과 잔혹한 준군사 조직 간의 연계를 드러냈다. 그리고 그는 군인들이 적군 전사로 위장하기 위해 군복을 입힌 수천 명의 민간인 살해에 대해 군에 책임을 묻기 위해 노력했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다는 좌파 무장 단체의 피해자를 덜 옹호한다는 비판을 받아 왔지만, 그는 콜롬비아 최고령 좌파 반군 단체가 해산에 동의한 획기적인 2016년 평화 협정의 핵심 인물이었다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+부모가 공산당 지도자였던 세페다를 두고 데 라 에스프리에야는 좌파 무장 단체와의 유대를 유지하고 있으며, 그 단체들이 현재 분쟁 지역 주민들에게 세페다에게 투표하도록 강요하고 있다고 비난한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다는 그 콜롬비아인들이 전쟁의 진정한 대가를 이해한다고 반박한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+이번 선거는 트럼프 행정부가 라틴아메리카 지도자들에게 마약 밀매업자 제거를 위한 군사 작전에 동참하도록 압박하는 가운데 치러진다. 데 라 에스프리에야는 참여하겠다고 밝혔다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다는 단호히 거절했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+멕시코의 클라우디아 셰인바움 대통령을 반영하며, 그는 미국과 "상호 존중, 우리의 주권에 대한 존중, 협력의 관계"를 추구하지만, 공동의 마약 전쟁은 원하지 않는다고 말한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"지금까지 수행된 마약 퇴치 정책은," 그는 &lt;타임스&gt;에 말했다, "엄청나게 실패했습니다."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+그는 최근 페트로의 "완전 평화" 계획을 폐기했는데, 비판자들은 이 계획이 군사 휴전이 유지되는 동안 무장 단체가 확장하도록 허용했다고 말한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+그의 자신의 계획은 콜롬비아 혁명군(FARC)과의 2016년 평화 협정을 더욱 이행하고, 또 다른 주요 좌파 게릴라 단체와 협상을 재개하며, 마약 밀매 조직에 항복 경로를 제공하는 것이라고 그는 말한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"콜롬비아의 평화를 위해 일한 것을 후회하지 않습니다,"라고 그는 말했다. "반대로, 저는 완전한 자부심을 가지고 말합니다: 저는 평화를 추구하는 데 제 인생의 20년을 바쳤습니다. 그리고 계속 그럴 것입니다."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+자신이 은밀한 공산주의자라는 끊임없는 주장에 대해 세페다는 "우화와 신화"라고 불렀다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"저는 오랜 기록을 가진 민주주의자입니다,"라고 그는 &lt;타임스&gt;에 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+분석가들은 우파 후보가 역전적으로 1차 투표 이후 충분한 유권자들을 불안하게 만들어 결선 투표가 치열해질 수 있다고 말한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+데 라 에스프리에야는 "좌파의 창자를 도려내겠다", 필요하면 법령으로 통치하겠다, 그리고 상대방을 법적으로 추적하겠다고 약속했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+역사학자 플로레스는 세페다가 1차 투표에서 "패배한 모습으로 나왔으며", 페트로가 선거 사기를 주장함으로써 더욱 약화되었다고 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+하지만 자신감을 얻은 데 라 에스프리에야가 메시지를 강화하고, 플로레스에 따르면, 온라인 공격으로 "세페다를 산채로 잡아먹으면서", 사람들을 겁에 질리게 했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"그것은 페트리스모에 대한 그의 증오를 공유하는 사람들을 기쁘게 했습니다,"라고 플로레스는 말했다. "하지만 아직 결정을 내리지 못한 사람들, 중립적인 사람들, 중간에 있는 사람들에게는 두려움을 주었습니다."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다는 최근 데 라 에스프리에야에 대한 의구심을 활용해 중도층에 호소하려고 시도해 왔다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"그는 양심 없는 깊은 역사를 가진 변호사입니다,"라고 그는 &lt;타임스&gt;에 말했다. "그는 규범을 존중하지 않는 사람이며, 나는 그가 헌법을 존중하지 않을 것이라고 확신합니다."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+데 라 에스프리에야는 온라인 조롱으로 응수했다. "그 티베트 스님 말투는 어디로 갔나?"  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다의 선거 운동은 최고 기어로 전환하여, 막바지에 유권자들에게 도달하기 위해 소셜 미디어를 범람시키고 있다. 엄숙한 세페다가 웃고 있는 사진, 그를 고양이로 묘사한 AI 만화가 등장했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+그러나 개인적으로는 그는 변하지 않았다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"그는 사람을 안지 않고, 모든 사람에게 인사하러 다니지 않습니다,"라고 그의 선거 캠페인 매니저 가브리엘 베세라가 말했다. 그는 여전히 같은 낡은 블레이저와 깃 없는 '마오' 셔츠를 입고 있다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+하지만 세페다는 유권자들이 그를 더 많이 보게 했다. 그의 아내이자 동료 인권 운동가인 필라르 루에다는 선거 유세에 합류했으며, &lt;타임스&gt;에 남편의 놀라운 "일관성"에 대해 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"그는 자신의 신념대로 살아갑니다,"라고 그녀는 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+그는 세 마리의 차우차우 개에 대해 이야기했는데, 그중 하나는 미하일 고르바초프의 아내 이름의 변형인 라이사라고 불린다. 그리고 그는 두 번의 암 투병에서 회복한 과정을 설명하며 자신의 영적 안내자들인 교황 프란치스코와 교황 레오 14세, 소크라테스, 한나 아렌트를 공유했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+자신이 누구인지 바꾸지 않는 것이, 세페다는 믿기에, 그를 경쟁자와 구별짓는 바로 그 점이다. "저는 화장을 하거나, 아이디어 판매를 위한 제품으로 변신하지 않을 것입니다,"라고 그는 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+제네비브 글래츠키가 취재에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/americas/ivan-cepeda-colombia-president-election.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/16/multimedia/00-int-colombia-election-left-qvlt/00-int-colombia-election-left-qvlt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 00:00:33 +0000</pubDate></item><item><title>‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow. ('게임 체인저'? 판단하기엔 이르다. 그러나 우크라이나, 모스크바 타격에 힘 과시)</title><link>https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19int-ukraine-moscow-01-kwqg/19int-ukraine-moscow-01-kwqg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Assessments that Ukraine has reached a turning point in the conflict with Russia may well prove premature. But the towering dome of black smoke that hung over Moscow this week after a Ukrainian drone onslaught showed that Kyiv still has plenty of cards to play, no matter President Trump’s earlier appraisal of its prospects in the war.&lt;br/&gt;(우크라이나가 러시아와의 충돌에서 전환점에 도달했다는 평가는 시기상조일 수 있다. 하지만 이번 주 우크라이나의 드론 공세 이후 모스크바 상공에 드리운 거대한 검은 연기 기둥은 트럼프 대통령이 전쟁에서 우크라이나의 전망을 낮게 평가했음에도 불구하고, 키예프가 여전히 쓸 수 있는 카드가 많다는 것을 보여주었다.
 &lt;&lt;&lt;PARA&gt;&gt;
 볼로디미르 젤렌스키 대통령은 군사적, 외교적 주도권을 잡기 위해 움직이면서 자신의 입장을 분명히 했다.
@@ -1306,4 +1328,187 @@ G7이 지지 메시지를 전달한 것은 우크라이나의 유럽연합(EU) �
 밤새 러시아의 공격으로 우크라이나 민간인 여러 명이 사망했으며, 여기에는 동부 도시 파블로흐라드에서 8세 소녀도 포함되었다.
 &lt;&lt;&lt;PARA&gt;&gt;
 폴 손과 밸러리 홉킨스가 베를린에서 보도에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-ukraine-moscow-01-kwqg/19int-ukraine-moscow-01-kwqg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 08:37:30 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-ukraine-moscow-01-kwqg/19int-ukraine-moscow-01-kwqg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 08:37:30 +0000</pubDate></item><item><title>‘God Is Cape Verdean’: Tiny Nation on a High After a Sensational World Cup Debut (‘신은 카보베르데인’: 센세이셔널한 월드컵 데뷔 후 들뜬 작은 나라)</title><link>https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-worldcup-capeverde-hcwv/20int-worldcup-capeverde-hcwv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;It wasn’t a win. But for Cape Verde, Africa’s third-smallest country, holding the soccer giant Spain to a scoreless draw in its World Cup debut this week made history.&lt;br/&gt;(승리는 아니었다. 하지만 아프리카에서 세 번째로 작은 나라인 카보베르데가 이번 주 월드컵 데뷔전에서 축구 강호 스페인을 0-0 무승부로 막아낸 것은 역사적인 일이었다.)&lt;/p&gt;
+&lt;p&gt;Now, as it prepares for Sunday’s game against Uruguay, a mixture of confidence and anxiety is building across the archipelago off West Africa’s Atlantic coast. Cape Verdeans are hoping for a repeat performance from their team, and especially its veteran goalkeeper, Josimar José Évora Dias, who became an unlikely star overnight after making seven saves.&lt;br/&gt;(이제 일요일 우루과이와의 경기를 앞두고, 서아프리카 대서양 연안의 이 군도 전체에 자신감과 불안이 섞인 감정이 고조되고 있다. 카보베르데인들은 자국 대표팀, 특히 7번의 선방을 기록하며 하룻밤 사이에 예상치 못한 스타가 된 베테랑 골키퍼 조시마르 조제 에보라 디아스의 재현을 기대하고 있다.)&lt;/p&gt;
+&lt;p&gt;Cape Verde’s team, the Blue Sharks, is not star-studded or particularly glamorous. Dias, at 40 one of the tournament’s oldest players, is known as Vozinha, Portuguese for Granny. Even on the African soccer scene, Cape Verde was not taken seriously until 2023, when it reached the African Cup of Nations quarterfinals for the first time since 2013.&lt;br/&gt;(카보베르데 대표팀 ‘블루 샤크스’는 스타 선수가 많지도 않고 특히 화려하지도 않다. 디아스는 40세로 이번 대회 최고령 선수 중 한 명이며, 포르투갈어로 ‘할머니’라는 뜻의 ‘보지냐’라는 별명으로 알려져 있다. 아프리카 축구계에서조차 카보베르데는 2013년 이후 처음으로 2023년 아프리카 네이션스컵 8강에 진출하기 전까지 진지하게 받아들여지지 않았다.)&lt;/p&gt;
+&lt;p&gt;But in this World Cup, it faces a considerable challenge: to advance from a group made up of Spain, the European champions; Uruguay, a two-time World Cup champion; and Saudi Arabia, whose star has been rising in recent years.&lt;br/&gt;(하지만 이번 월드컵에서 카보베르데는 상당한 도전에 직면해 있다: 유럽 챔피언 스페인, 두 차례 월드컵 우승국 우루과이, 그리고 최근 몇 년간 두각을 나타내고 있는 사우디아라비아로 구성된 조에서 살아남아야 한다.)&lt;/p&gt;
+&lt;p&gt;Cape Verde’s players have become heroes precisely because of their lack of heroics. A workaday approach had them, in Monday’s match, completely focused on guarding their goal rather than making risky forays into Spain’s half.&lt;br/&gt;(카보베르데의 선수들은 바로 영웅적인 활약이 없었기 때문에 영웅이 되었다. 월요일 경기에서 그들은 위험하게 스페인 진영으로 진출하기보다는 골문을 지키는 데 완전히 집중하는 일상적인 접근 방식을 취했다.)&lt;/p&gt;
+&lt;p&gt;It worked.&lt;br/&gt;(그것이 통했다.)&lt;/p&gt;
+&lt;p&gt;“We were giants,” said Nuno Martins, 51, a resident of Mindelo, on the island of São Vicente. He had two explanations for the team’s success. One, they executed their tactical plan to perfection. The other: divine favor.&lt;br/&gt;(“우리는 거인이었어요,” 상비센트 섬의 민델루에 사는 51세 주민 누누 마르틴스가 말했다. 그는 팀 성공에 대해 두 가지 설명을 내놓았다. 하나는 그들이 완벽하게 전술 계획을 실행했다는 것이다. 다른 하나는 신의 은총이었다.)&lt;/p&gt;
+&lt;p&gt;“God is Cape Verdean,” he said, “even though he lives in other lands.”&lt;br/&gt;(“신은 카보베르데인이에요,” 그가 말했다. “비록 다른 땅에 살고 계시지만요.”)&lt;/p&gt;
+&lt;p&gt;Africa is one of the biggest beneficiaries of FIFA’s decision to expand the World Cup from 32 to 48 teams, doubling its spots from five to 10, a decision that some critics claimed would reduce the quality of the competition. But through the opening game for each team, six of the 10 have either won or drawn their matches, many against some of world’s top teams.&lt;br/&gt;(아프리카는 FIFA가 월드컵을 32개 팀에서 48개 팀으로 확대하여 아프리카 진출권을 5개에서 10개로 두 배로 늘린 결정의 가장 큰 수혜국 중 하나이며, 일부 비평가들은 이 결정이 대회의 질을 떨어뜨릴 것이라고 주장했다. 하지만 각 팀의 첫 경기를 통해 볼 때, 10개 팀 중 6개 팀이 승리하거나 무승부를 기록했으며, 그중 다수는 세계 최고의 팀들과의 경기였다.)&lt;/p&gt;
+&lt;p&gt;This time, many Cape Verdeans are hoping the Blue Sharks will actually score — while keeping their defense tight.&lt;br/&gt;(이번에는 많은 카보베르데인들이 블루 샤크스가 수비를 단단히 유지하면서 실제로 득점하기를 바라고 있다.)&lt;/p&gt;
+&lt;p&gt;“A little boldness is needed,” said Carlos Brazão Monteiro, a lawyer in Praia.&lt;br/&gt;(“약간의 대담함이 필요해요,” 프라이아의 변호사 카를로스 브라장 몬테이루가 말했다.)&lt;/p&gt;
+&lt;p&gt;Dias, the goalkeeper, comes from hard-working stock. He earned his nickname because his mother, who is a caregiver in a nursing home, worked so much while he was growing up that he was mostly looked after by his late grandmother.&lt;br/&gt;(골키퍼 디아스는 근면한 가문 출신이다. 그의 어머니가 요양원에서 간병인으로 일하면서 그가 자라는 동안 너무 많이 일해서 주로 작고한 할머니가 그를 돌봤기 때문에 그는 별명을 얻었다.)&lt;/p&gt;
+&lt;p&gt;“He was raised with a lot of love by his grandmother,” said his mother, Ana Cândida Évora, 60. “I was there too, but he had a very strong bond with his grandmother. He loved her very much.”&lt;br/&gt;(“그는 할머니의 많은 사랑 속에서 자랐어요,” 그의 어머니인 60세 아나 칸디다 에보라가 말했다. “나도 거기 있었지만, 그는 할머니와 매우 강한 유대감을 가졌어요. 그는 할머니를 매우 사랑했어요.”)&lt;/p&gt;
+&lt;p&gt;After the game against Spain, Dias spoke of his disappointment that his mother could not be in Atlanta to watch him play. He said the family had struggled with the U.S. visa application, particularly the bond of up to $15,000 that most travelers are asked to pay.&lt;br/&gt;(스페인과의 경기 후, 디아스는 자신의 어머니가 애틀랜타에 와서 경기를 지켜볼 수 없어서 실망했다고 말했다. 그는 가족이 미국 비자 신청, 특히 대부분의 여행자에게 요구되는 최대 15,000달러의 보증금 때문에 어려움을 겪었다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Ms. Évora’s case has sparked renewed criticisms of U.S. visa restrictions, which have prevented family members from attending loved ones’ games. Africans, who have been increasingly targeted by the Trump administration’s visa policies, were left particularly frustrated.&lt;br/&gt;(에보라 여사의 사례는 가족들이 사랑하는 사람의 경기에 참석하지 못하게 한 미국 비자 제한에 대한 비판을 다시 불러일으켰다. 트럼프 행정부의 비자 정책에 의해 점점 더 표적이 되고 있는 아프리카인들은 특히 좌절감을 느꼈다.)&lt;/p&gt;
+&lt;p&gt;But on Thursday, Ms. Évora finally left for the United States after the intervention of the State Department. Speaking with The New York Times, she blamed herself for not submitting her visa application on time.&lt;br/&gt;(하지만 목요일, 국무부의 개입 끝에 에보라 여사는 마침내 미국으로 떠났다. 뉴욕타임스와의 인터뷰에서 그녀는 제때 비자 신청서를 제출하지 못한 것에 대해 자신을 탓했다.)&lt;/p&gt;
+&lt;p&gt;She embraced family members at the airport in Cape Verde before setting off for Miami.&lt;br/&gt;(그녀는 마이애미로 출발하기 전 카보베르데 공항에서 가족들을 껴안았다.)&lt;/p&gt;
+&lt;p&gt;“We may be small, but our hearts are big,” she said.&lt;br/&gt;(“우리는 작을지 모르지만, 우리 마음은 커요,” 그녀가 말했다.)&lt;/p&gt;
+&lt;p&gt;Some Cape Verdeans seemed thrown by the success and doubtful it would last.&lt;br/&gt;(일부 카보베르데인들은 이 성공에 당황했고 그것이 오래가지 않을 것이라고 의심하는 것 같았다.)&lt;/p&gt;
+&lt;p&gt;“I never believed in a positive result against Spain,” said José Eduardo Cardoso, a 65-year-old taxi driver who anxiously listened to the first half of the last game on his car radio as he drove passengers around Praia, the capital. He managed to get home for the second half, where he plans to watch all of the next game — though he has no great hopes for it.&lt;br/&gt;(“나는 스페인을 상대로 긍정적인 결과를 얻을 거라고는 결코 믿지 않았어요,” 수도 프라이아에서 승객을 태우며 지난 경기 전반전을 차량 라디오로 불안하게 들었던 65세 택시 운전사 조제 에두아르도 카르도주가 말했다. 그는 후반전을 위해 집에 도착했으며, 다음 경기도 모두 집에서 시청할 계획이지만 큰 기대는 하지 않고 있다.)&lt;/p&gt;
+&lt;p&gt;“I’m not very confident that Cape Verde will advance to the second round,” he said.&lt;br/&gt;(“카보베르데가 2라운드에 진출할 것 같지는 않아요,” 그가 말했다.)&lt;/p&gt;
+&lt;p&gt;Others had more faith, as long as the team does not get carried away by the moment.&lt;br/&gt;(다른 이들은 팀이 상황에 휩쓸리지만 않는다면 더 큰 믿음을 가지고 있었다.)&lt;/p&gt;
+&lt;p&gt;“We’ll be the surprise of the tournament,” Mr. Martins said.&lt;br/&gt;(“우리가 이번 대회의 깜짝 팀이 될 거예요,” 마르틴스 씨가 말했다.)&lt;/p&gt;
+&lt;p&gt;Whatever happens, said Erika Soares, 32, an economist on the island of Santiago, “We already feel like winners.”&lt;br/&gt;(어떤 일이 일어나든, 산티아고 섬의 32세 경제학자 에리카 소아레스는 “우리는 이미 승자처럼 느껴져요”라고 말했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-worldcup-capeverde-hcwv/20int-worldcup-capeverde-hcwv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 23:07:14 +0000</pubDate></item><item><title>World Leaders Awaited Iran Deal for Months. Here’s Why They’re Still Wary. (세계 지도자들, 수개월간 이란 협상 기다려왔다. 그들이 여전히 신중한 이유는?)</title><link>https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-iran-global-bcmj/20int-iran-global-bcmj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;When world leaders welcomed President Trump’s preliminary deal with Iran this past week, many of them expressed hope that it would return normalcy to the global energy markets and trade routes disrupted by the war.&lt;br/&gt;(지난주 세계 지도자들이 트럼프 대통령과 이란 간의 예비 합의를 환영했을 때, 많은 이들이 이 합의가 전쟁으로 혼란에 빠진 글로벌 에너지 시장과 무역로에 정상을 되찾아줄 것이라는 희망을 표명했습니다.)&lt;/p&gt;
+&lt;p&gt;But their praise was mitigated with caution. They know the details left for future negotiations could leave the world with dark clouds of economic and security uncertainty for months or years to come.&lt;br/&gt;(그러나 그들의 찬사는 신중함으로 완화되었습니다. 그들은 향후 협상에 남겨진 세부 사항이 수개월 또는 수년 동안 세계에 경제적·안보적 불확실성의 어두운 구름을 남길 수 있다는 것을 알고 있습니다.)&lt;/p&gt;
+&lt;p&gt;The preliminary deal, which is vaguely worded, punts the future of Iran’s nuclear program to those new negotiations. It does not address Iran’s missile program and regional ambitions, spooking both Israel and Iran’s Arab neighbors. Israel is not a party to the deal, raising the possibility that Israel could upend it through renewed conflict with both Iran and its Lebanese ally, Hezbollah. And it fails to resolve whether the Strait of Hormuz, the crucial maritime trade route off southern Iran, will remain open for free passage.&lt;br/&gt;(애매하게 표현된 이 예비 합의는 이란의 핵 프로그램 미래를 새로운 협상으로 미룹니다. 이 합의는 이란의 미사일 프로그램과 지역적 야망을 다루지 않아 이스라엘과 이란의 아랍 이웃 국가들을 놀라게 했습니다. 이스라엘은 합의 당사국이 아니므로, 이스라엘이 이란 및 레바논 동맹국 헤즈볼라와의 새로운 갈등을 통해 이를 뒤집을 가능성이 있습니다. 또한 이 합의는 이란 남부 해역의 중요한 해상 무역로인 호르무즈 해협이 자유 통행을 위해 계속 열려 있을지 여부를 해결하지 못합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+에마뉘엘 마크롱 프랑스 대통령은 목요일 TV 진행자로부터 전쟁에서 누가 승리했는지 질문을 받았을 때 세계 지도자 공동체를 대변하는 듯했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"완전히 끝났다고 말할 수는 없다고 생각합니다."라고 그는 답했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다음은 예비 합의가 남긴 미해결 질문들입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+해협은 합의의 경제적으로 가장 중요한 물음표로 남아 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+테헤란이 미국과 이스라엘의 이란 공격에 대한 보복으로 해협을 차단하기 전에는, 유조선들이 자유롭게 통과했습니다. 그 화물은 세계 석유의 약 4분의 1을 차지했으며, 대부분 아시아로 보내졌습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이란과의 잠정 합의에는 유조선이 "60일 동안만" 수수료를 내지 않고 해협을 통과할 수 있어야 한다고 명시되어 있습니다. 이는 테헤란이 그 이후에 통행료를 부과할 수 있음을 의미하며, 그때까지 추가 합의가 이루어지지 않으면 세계 상당 부분의 해운 및 연료 비용이 상승할 수 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+세계 지도자들에게 가장 큰 안보 우려는 이란 핵 프로그램의 운명입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+합의는 이란이 수십 년간 반복해 온 핵무기 생산 불가 약속을 재확인했다고 밝힙니다. 또한 이란은 핵폭탄 제조에 사용될 수 있는 농축 핵 물질을 "다운블렌드(희석)"해야 합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 버락 오바마 대통령이 2015년에 체결한 합의와 달리, 트럼프의 잠정 합의는 이란이 그 물질을 국외로 운송하도록 요구하지 않습니다. 또한 이란이 새로운 물질을 농축하는 것을 금지하거나 핵 시설 폐쇄를 강제하는 내용도 없으며, 이 두 문제는 향후 60일간의 협상에 남겨져 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+프리드리히 메르츠 독일 총리와 같은 유럽 지도자들은 핵무기 야망 해체에 대한 이란의 진전을 검증하는 방법을 포함한 더 명확한 조치를 보고 싶어 합니다. 그리고 그런 조치 없이는 이란에 대한 자체 경제 제한을 완화할 가능성이 낮아 보입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+중동에서 이란의 이웃 국가들과 적들은 이란의 핵 야망뿐만 아니라 최근 전쟁 내내 이스라엘과 페르시아만의 아랍 국가들을 손상시키는 데 사용된 테헤란의 미사일과 드론, 그리고 레바논의 헤즈볼라와 예멘의 후티 같은 지역 대리 세력에 대한 지원도 우려합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+분석가들은 트럼프의 잠정 합의가 이란의 비핵 무기고를 다루지 않을 뿐만 아니라 지역 민병대에 대한 지원을 줄이도록 장려하지 않는다고 말했습니다. 이러한 누락은 이스라엘뿐만 아니라 사우디아라비아와 아랍에미리트 같은 미국의 아랍 동맹국들도 실망시켰다고 합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+합의가 이란에 상당한 경제적 완화를 제공하기 때문에, 아랍과 이스라엘 모두 테헤란이 재정적으로 힘을 얻어 무기고를 재건하고 중동 전역에서 지정학적 야망을 확장할 것을 두려워합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이스라엘 지도자들은 평화 협정에 분노하며, 다음 협상 라운드에서 변수로 빠르게 자리 잡았습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+합의는 "레바논을 포함한" 군사 작전의 즉각적이고 영구적인 종료를 요구합니다. 이스라엘은 헤즈볼라와 싸우기 위해 전쟁 중 레바논 일부를 점령했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 베냐민 네타냐후 이스라엘 총리는 월요일 합의에 구속되지 않는다고 말했습니다. 이스라엘은 금요일, 군이 헤즈볼라 공격으로 병사 4명이 사망했다고 발표한 후 레바논에 새로운 공습을 시작했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+상황은 적어도 잠시 진정되는 듯 보였는데, 워싱턴 주재 이스라엘 대사 예히엘 라이터가 금요일 늦게 이스라엘 군이 "모든 공세 작전을 중단했다"고 밝혔기 때문입니다. 그는 이스라엘이 "헤즈볼라를 제거하고 테러 기반 시설을 해체하기 위해" 남부 레바논에 남아 있을 것이라고 덧붙였습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+외교관들에 따르면, 대서양 양안의 관리들은 네타냐후가 레바논에서의 공격을 중단하도록 압력을 가했으며, 이란은 이를 근거로 금요일 새로운 협상에서 철수했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"미국과 이란 사이에 협상된 휴전이 남부 레바논에서도 유지되는 것이 이제 필수적입니다."라고 메르츠는 금요일 브뤼셀에서 기자들에게 말하며, "저는 네타냐후 총리와의 논의에서도 이를 여러 번 분명히 밝혔습니다."라고 덧붙였습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지나 스미아렉이 브뤼셀에서, 크리스토퍼 F. 슈에체가 베를린에서 보도에 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-iran-global-bcmj/20int-iran-global-bcmj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 00:02:41 +0000</pubDate></item><item><title>The Unquiet American: Charles Kushner Brings Trump Diplomacy to France (불안한 미국인: 찰스 쿠슈너, 트럼프 외교를 프랑스에 가져오다)</title><link>https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-france-kushner-wtqv/20int-france-kushner-wtqv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Four days before marking the 82nd anniversary of the D-Day landings in Normandy, Charles Kushner, President Trump’s ambassador to France, made a quieter pilgrimage to a military cemetery in eastern France. There, he recited the Kaddish prayer over the graves of five Jewish American soldiers killed in World War I.&lt;br/&gt;(노르망디 상륙작전 82주년을 나흘 앞두고, 도널드 트럼프 대통령의 프랑스 대사인 찰스 쿠슈너는 프랑스 동부에 있는 군사묘지로 조용한 순례를 떠났다. 그곳에서 그는 제1차 세계대전에서 전사한 다섯 명의 유대인계 미국 군인의 묘비 앞에서 유대교 추모 기도인 카디시를 암송했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그것은 자신의 신앙을 외교의 핵심에 두는 정통파 유대교 신자인 쿠슈너에게 엄숙한 추모 행사였다. 그러나 오늘날 프랑스에 사는 유대인들을 대신한 그의 노골적인 옹호가 파리에서 더 많은 관심과 비난을 불러일으켰으며, 그는 파리의 품위 있는 살롱들을 휩쓸고 다녔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아들 재러드가 트럼프 대통령의 딸 이방카와 결혼한 쿠슈너는 지난 7월 파리에 도착한 지 몇 주 만에 프랑스 측이 반유대주의에 맞서 충분히 싸우지 않는다고 비난하면서 충돌을 빚었다. 거의 1년이 지난 지금, 그는 문제가 더 심각해졌다고 주장하며, 트럼프 행정부가 망명 조항을 축소하고 있는 상황에서도 프랑스 유대인에게 난민 지위를 부여할 것을 제안하기까지 했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+쿠슈너는 지난주 파리의 자신의 저택에서 가진 인터뷰에서 "이곳 유대인 인구가 이스라엘로 가는 선택지만 있는 것이 아니라 미국으로 갈 수 있는 더 많은 선택권을 갖는 것이 나의 목표 중 하나가 될 것"이라며 "그들은 두려움 속에 살고 있으며 이 정부에 버림받았다고 느낀다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그가 지난 8월 에마뉘엘 마크롱 대통령에게 보낸 공개 서한에서 처음 내놓은 이러한 발언들은 그와 프랑스 외무부 간의 관계를 단절시켰다. 72세의 쿠슈너는 프랑스 내정 간섭을 이유로 두 차례 소환되어 질책을 받았지만 두 번 모두 요청을 거절했고, 이후 장노엘 바로 외무장관은 그가 프랑스 관료들을 만나는 것을 금지하겠다고 위협했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난 2월, 미국 대사관이 극좌파 갱단에 의한 젊은 극우 활동가의 구타 사망 사건에 대한 우려를 표명한 국무부의 논평을 다시 게시한 후 그가 소환되었다. 바로 장관은 비극을 정치화하려는 시도라며 "우리는 국제적인 반동 운동으로부터 배울 교훈이 없다"고 일축했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+한때 쿠슈너의 외교관 적합성에 의문을 제기했을 이러한 충돌들은 그를 트럼프 시대에 걸맞은 사절로 표시한다. 그는 단순히 좋은 자리를 얻은 인척이 아니라, 반유대주의와의 싸움을 밀어붙이든 극우 정치 지도자들을 만나든, 유럽에 대한 트럼프 대통령의 적대감을 충실히 전달하는 전령이다. 쿠슈너는 외교적 예의를 버리고 경멸적인 대통령의 목소리를 대변하는 대사 군단 중에서도 가장 두루 인맥이 넓은 인물 중 하나이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"아시다시피, 미국과 프랑스는 많은 문제에 대해 의견이 다릅니다." 쿠슈너가 인터뷰에서 말했다. "이것은 찰리 쿠슈너 대 바로나 마크롱의 문제가 아닙니다. 미국은 현재 유럽, 특히 프랑스와 매우 다른 의견을 가진 세계적인 많은 문제들을 안고 있습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+인터뷰에 아내 세릴과 영향력 있는 비서실장 가브리엘 샤인만이 함께한 쿠슈너는 프랑스 외무부에 보고를 거부한 것에 대해 반성하지 않았다. 소환당한 것은 "저 개인에 대한 무례함"이자 "미국 정부에 대한 무례함"이라고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+뉴저지 출신의 억만장자 부동산 개발업자인 쿠슈너는 탈세와 증인 매수 혐의를 인정한 후 1년 넘게 복역했으며, 자신에게 불리한 수사에 협조하던 처남을 유혹하기 위해 매춘부를 고용한 후 그 만남의 비디오를 누이에게 보냈다. 그는 이후 트럼프 대통령에 의해 사면되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+파리에서의 자신의 직책에 대해 쿠슈너는 외교에 필요한 "자연스러운 자질"을 갖추지 못했다고 인정했다. 그러나 그는 "우리는 결과 지향적이기 때문에, 그것이 때때로 상황을 뒤흔든다면, 우리가 뒤흔드는 것일 수도 있습니다"라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+쿠슈너와 바로 장관은 이후 전화 통화를 했으며, 쿠슈너의 프랑스 관료 사회에 대한 접근권은 유지된 것으로 보인다. 그는 최근 트럼프 대통령의 이라크 특사인 톰 배럭과 함께 마크롱 대통령과 조찬을 가졌다. 쿠슈너는 자신이 미국 기술 기업 임원들과의 원탁 회의를 주선한 경제부 장관 롤랑 레스퀴르와 건설적인 관계를 유지하고 있다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+레스퀴르 장관은 인터뷰에서 쿠슈너가 그 자리에서 백악관의 견해를 강요하지 않은 점을 높이 평가했다고 말했다. 그러나 그는 쿠슈너의 일부 공개 발언에 대해 동료들이 느끼는 실망감을 공유한다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"저는 대사가 된 부동산 업자를 알지 못합니다." 레스퀴르가 말했다. "그가 그처럼 행동하는 법을 완전히 배웠는지는 확신할 수 없습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+현직 및 전직 프랑스 외교관들에 따르면, 마크롱 대통령의 최측근 고문들은 여전히 쿠슈너와의 일대일 회동을 피하고 있는데, 이는 그들이 그의 대통령에게 보낸 편지를 자신들의 상사에 대한 개인적인 공격으로 보았기 때문이라고 한다. 프랑스 관리들은 사적인 대화를 논의하기 위해 익명을 조건으로 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 고위 관리에 따르면, 바로 장관과의 긴장은 그가 2025년 7월 첫 회동에서 마크롱 대통령이 그날 저녁 프랑스가 팔레스타인 국가를 승인할 것이라고 발표할 계획임을 쿠슈너에게 미리 알리지 않으면서 시작되었다고 한다. 이 관리는 민감한 외교 문제를 논의하기 위해 익명을 조건으로 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+프랑스 외무부 대변인은 숨길 의도가 없었으며 프랑스의 승인 움직임은 잘 알려져 있었다고 말했다. 외무부는 쿠슈너와의 관계에 대해 광범위하게 논평하기를 거부했으며, 마크롱 대통령실은 논평 요청에 응답하지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프 행정부는 쿠슈너의 행동에 대해 어떤 문제 제기도 하지 않았다. 국무부 대변인 토미 피곳은 "상업 외교에서의 리더십부터 반유대주의에 대한 강력한 옹호에 이르기까지, 쿠슈너 대사는 '미국 우선' 외교 정책 비전을 발전시키는 데 전념하고 있습니다"라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+프랑스 관리들 중 쿠슈너가 프랑스의 반유대주의에 대해 경고한 점이 타당하다는 데 이의를 제기하는 사람은 거의 없다. 프랑스 내무부에 따르면, 2023년 10월 하마스의 이스라엘 공격과 이스라엘의 가자 지구 보복 침공 이후 유대인에 대한 폭력 행위가 급증했으며, 지난해에는 그 비율이 소폭 감소했지만 여전히 높은 수준이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+반유대주의는 유럽 전역과 미국에서 증가하고 있다. 유대인과 무슬림 인구가 많은 프랑스에서는 이 논쟁이 역사적으로 더욱 복잡하게 얽혀 있다. 제2차 세계대전 당시 프랑스 남부를 통제했던 나치 협력 정권은 프랑스 유대인을 강제 수용소로 이송하는 것을 도왔다. 더 최근에는, 쿠슈너가 "하마스에 대한 선물"이라고 부른 프랑스의 팔레스타인 승인이 이 나라에서 반유대주의 감정을 부추길지에 대한 의문이 제기되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 전문가들은 프랑스 정부가 반유대주의에 맞서 아무것도 하지 않는다는 쿠슈너의 주장은 틀렸다고 주장한다. 프랑스는 반유대주의에 맞서 싸울 수 있는 법적 수단이 거의 다른 어떤 나라보다 강력하며, 유대인 시설의 보안을 크게 강화했다고 그들은 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+프랑스의 반유대주의 전문 역사가이자 학자인 마르크 노벨은 "이 문제에 관심을 갖고 프랑스가 조치를 개선할 수 있기를 바라는 대사는 자신의 의견이 전달되기를 원한다면 더 외교적인 언어를 사용해야 합니다"라고 말했다. 그는 쿠슈너가 "자신의 나라에서 일어나고 있는 반유대주의에도 관심을 기울이는 것이 좋을 것"이라고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+쿠슈너는 이를 인정했다. "만약 10년 전에 오늘날 이곳에서 이렇게 반유대주의가 있을 거라고 말했다면, 저는 '당신 미쳤군요'라고 말했을 겁니다." 그는 차이점은 트럼프 대통령이 이에 대해 강력한 조치를 취했다는 것이라고 말했다. 행정부는 하버드 대학교와 펜실베이니아 대학교 같은 기관들이 캠퍼스에서 반유대주의를 묵인했다는 논란의 여지가 있는 주장으로 소송을 제기한 반면, 쿠슈너는 프랑스는 프랑스 대학들에 대해 비슷한 조치를 취하지 않았다고 지적했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+쿠슈너의 강한 발언은 대서양 양안의 일부 유대인들 사이에서 그를 영웅으로 만들었다. 군사 묘지에서의 추모식 전에, 미국 유대인들은 그의 옹호에 감사하기 위해 줄을 섰다.
+&lt;&lt;&lt;PARA&gt;&gt;
+옹호 단체인 미국 유대인 위원회 유럽 지부의 전 이사 시몬 로당-벤자켄은 "그는 프랑스인들이 좋아할 방식으로 말하지 않았고, 매우 외교적이지 않았습니다"라고 말했다. 그러나 "그것에 대해 분명히 신경을 쓰고 있다고 말하는 미국 대사가 있고, 이것이 최우선 과제라는 것은 매우 안심이 됩니다"라고 그녀는 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+홀로코스트 생존자의 자녀로서 쿠슈너는 어떤 종교를 가진 사람들에 대한 증오 행위를 개탄한다고 말했다. 그는 종교 간 갈등을 논의하기 위해 가톨릭 사제들과 이슬람 성직자들을 만났다고 말했다. 유대인과의 교류로 유명한 파리의 이맘 하센 샬구미는 쿠슈너의 트럼프 대통령과의 가족 관계 덕분에 그의 노력이 더 큰 영향을 미친다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"대사는 단순한 대사가 아닙니다." 샬구미가 말했다. "그는 대통령 가족과 직접적으로 연결되어 있습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+트럼프 대통령의 첫 임기 동안 재러드 쿠슈너는 여러 아랍 국가들이 이스라엘과 외교 관계를 정상화한 아브라함 협정을 조율하는 데 도움을 주었다. 아들의 성과를 부끄러워할 줄 모르는 대사는 방문객들에게 아들의 회고록 '브레이킹 히스토리'의 사인본을 선물한다. 쿠슈너는 더 많은 국가들이 협정에 동참하도록 설득하기 위해 파리에서 중동 대사들을 교류하고 있다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 대사 중 한 명인 레바논의 라비 엘 샤에르는 쿠슈너가 레바논의 조제프 아운 대통령과 쿠슈너의 오랜 친구인 베냐민 네타냐후 이스라엘 총리 간의 미국 회동을 제안했다고 말했다. 엘 샤에르가 망설이자, 쿠슈너가 자신에게 "나는 거래하는 사람입니다"라고 말했다고 회상했다. 엘 샤에르는 "저는 중동에서 왔으며, 우리는 단순히 역사를 건너뛰지 않습니다"라고 대답했다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+쿠슈너에게도 이 임무에는 역사가 드리워져 있다. 다음 달, 그는 미국 독립 250주년을 자신의 관저에서 파티로 축하할 예정이며, 손님들은 이탈리아 테너 안드레아 보첼리의 세레나데를 듣게 될 것이다. 쿠슈너는 한때 로스차일드 가문이 소유했으며 나치가 파리 점령 기간 동안 징발했던 18세기 저택인 이 건물을 개조했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+쿠슈너는 수리 비용을 위해 1,000만 달러를 모금했으며, 그 중 상당 부분은 프랑스 최대 기업들의 CEO들로부터 각 25만 달러씩 기부받았다고 말했다. 다른 외교관들은 적어도 트럼프 대통령이 취임하기 전까지는 이렇게 많은 금액의 기부는 드문 일이라고 말했다. 쿠슈너는 농담으로 자신이 이 프로젝트의 "현장 감독"이라고 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+쿠슈너 자신에게도 일정 부분 명예 회복이 이루어지고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+감옥에서 파리까지 이끈 우여곡절에 대해 "누군가 제 이야기를 쓴다면, 아마도 논픽션보다는 서점의 소설 코너에 꽂힐 것입니다."라고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 대사직을 다른 결말을 쓰는 기회로 보는지 묻는 질문에 쿠슈너는 고개를 저었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"이것은 저를 위한 보복이 아닙니다."라고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+캐서린 포터가 취재에 참여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-france-kushner-wtqv/20int-france-kushner-wtqv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 19:01:06 +0000</pubDate></item><item><title>​A 175-Year-Old Shipwreck, Lots of Booze and an Island’s Quest to Survive (175년 난파선, 술, 그리고 섬의 생존을 위한 여정)</title><link>https://www.nytimes.com/2026/06/20/world/asia/korea-bigeum-champagne-festival.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-skorea-shinan-dispatch-02-tfkb/20int-skorea-shinan-dispatch-02-tfkb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The French whaling ship Narwhal braved the Atlantic, rounded the howling tip of Cape Horn, and ​threaded the Pacific by way of Tahiti and Honolulu. Then, in 1851, a year after it began its voyage, the sea ​turned.&lt;br/&gt;(프랑스 포경선 너월호는 대서양을 용감히 건너며 포효하는 혼곶 끝을 돌고 태평양을 가로질러 타히티와 호놀룰루를 지나갔다. 그러다 항해를 시작한 지 1년 만인 1851년, 바다가 뒤집혔다.)&lt;/p&gt;
+&lt;p&gt;The ship splintered off Korea’s southwestern coast, drowning one crewman​. When the 29 surviving sailors staggered onto a powdery beach hemmed in by jagged rocks on Bigeum Island, they had every reason to fear.&lt;br/&gt;(배는 한국 서남해안에서 산산조각 나며 선원 한 명이 익사했다. 29명의 생존 선원들이 비금도의 울퉁불퉁한 바위로 둘러싸인 하얀 모래 해변에 비틀거리며 올랐을 때, 그들은 두려움을 느낄 만한 충분한 이유가 있었다.)&lt;/p&gt;
+&lt;p&gt;Sailors at the time swapped grim rumors of cann​ibalism in uncharted territories, and Korea, then known as the “Hermit Kingdom,” offered no comfort. It ​turned away foreign trade ships and had recently beheaded French Catholic missionaries​. ​Nine of the Narwhal survivors gambled on a small whaleboat and rowed to Shanghai. There, the French consul mobilized an armed rescue expedition and set sail for Bigeum Island​.&lt;br/&gt;(당시 선원들은 미지의 영토에서 식인 풍습에 대한 무시무시한 소문을 주고받았고, 당시 ‘은둔의 왕국’으로 불린 한국은 위안이 되지 않았다. 한국은 외국 무역선을 거부했으며 최근에는 프랑스 가톨릭 선교사들을 참수했다. 너월호 생존자 중 9명은 작은 고래잡이 배에 몸을 싣고 상하이로 노를 저어갔다. 그곳에서 프랑스 영사는 무장 구조 원정대를 소집하여 비금도로 항해했다.)&lt;/p&gt;
+&lt;p&gt;North&lt;br/&gt;(북)&lt;/p&gt;
+&lt;p&gt;Korea&lt;br/&gt;(한국)&lt;/p&gt;
+&lt;p&gt;Sea of&lt;br/&gt;(동해)&lt;/p&gt;
+&lt;p&gt;Japan&lt;br/&gt;(일본)&lt;/p&gt;
+&lt;p&gt;Seoul&lt;br/&gt;(서울)&lt;/p&gt;
+&lt;p&gt;South&lt;br/&gt;(남)&lt;/p&gt;
+&lt;p&gt;Korea&lt;br/&gt;(한국)&lt;/p&gt;
+&lt;p&gt;Yellow&lt;br/&gt;(서해)&lt;/p&gt;
+&lt;p&gt;Sea&lt;br/&gt;(비금도)&lt;/p&gt;
+&lt;p&gt;BIGEUM&lt;br/&gt;(50마일)&lt;/p&gt;
+&lt;p&gt;ISLAND&lt;br/&gt;(뉴욕타임스)&lt;/p&gt;
+&lt;p&gt;50 miles&lt;br/&gt;(그런데 반전이 일어났다.)&lt;/p&gt;
+&lt;p&gt;The New York Times&lt;br/&gt;(학살 대신, 그 만남은 영사가 ‘레파 피토레스크’라 부른 그림 같은 식사로 끝났다. 한국 섬 주민들은 외국인들을 막걸리로 환영했고, 프랑스인들은 샴페인을 나누며 기록된 역사상 처음으로 한국인들이 프랑스 스파클링 와인을 맛보는 순간을 만들었다.)&lt;/p&gt;
+&lt;p&gt;Then came a twist.&lt;br/&gt;(영사는 나중에 이렇게 회상했다: “한국인들이 술을 마시는 모습을 본 적이 거의 없었다.”)&lt;/p&gt;
+&lt;p&gt;Instead of a massacre, the encounter ended in what the consul called a repas pittoresque, a picturesque meal. Korean islanders welcomed the​ foreigners with makgeolli, a milky, lightly sweet rice wine. The French shared Champagne, marking the first time in recorded history that Koreans tasted French bubbly.&lt;br/&gt;(175년이 지난 지난 토요일, 비금도는 세 번째 연례 샴페인-막걸리 축제를 개최했다. 수백 명의 지역 주민과 대부분 유럽 출신 외국인들이 잔디밭에 모였다. 1851년의 섬 주민들이 호기심과 두려움으로 외부인을 맞았다면, 그 후손들은 두 팔 벌려 환영했다. 탁자에는 옹기 막걸리 항아리와 프랑스 스파클링 와인 병들이 가득했는데, 모두 샴페인은 아니었다.)&lt;/p&gt;
+&lt;p&gt;As the consul later reminisced: “Rarely have I seen men drink as Koreans do.”&lt;br/&gt;(“175년을 위하여!” 군중은 두 언어로 환호성을 외치며 합창했다 – “건배!” 그리고 “상떼!” 가수들은 ‘라 비 앙 로즈’를 열창했고, 서울의 프랑스 학교에서 온 아이들은 ‘샹젤리제’를 불렀다. 타오르는 오후의 태양 아래, 군중은 손을 잡고 전통 한국 원무인 강강술래를 추었다.)&lt;/p&gt;
+&lt;p&gt;Fast-forward 175 years to last Saturday, when Bigeum hosted its third annual Champagne-Makgeolli Festival. Hundreds of locals and​ mostly European expatriates gathered on a lawn. If the islanders of 1851 met the outsiders with curiosity​ and fear, their descendants welcomed them with open arms. Tables were crowded with earthenware makgeolli​ jugs and bottles of French sparkling wine, not all of them Champagne.&lt;br/&gt;(축제를 자부심과 믿기 어려움이라는 복잡한 감정으로 지켜보던 이는 지역 소금 농부 노명진 씨였다.)&lt;/p&gt;
+&lt;p&gt;“To 175 years!” the crowd chanted to a chorus of cheers in both languages — “Geonbae!” and “Santé!” Singers belted out “La Vie en Rose,” while children visiting from a French school in Seoul sang “Les Champs-Élysées.” Under a blazing afternoon sun, the crowd joined hands for Ganggangsullae, a traditional Korean circle dance.&lt;br/&gt;(66세의 노 씨는 “우리의 작은 섬이 드디어 인정을 받고 있어요”라고 생각에 잠겼다. “모두 우리 조상들이 프랑스 선원들을 위해 한 일 덕분이죠.”)&lt;/p&gt;
+&lt;p&gt;Watching the celebration with a mix of pride and disbelief was Noh Myong-jin, a local salt farmer.&lt;br/&gt;(오늘날의 한국은 19세기의 모습과는 완전히 다른 세상이다. 한때 프랑스 선교사들이 처형되었던 땅은 기독교의 요새가 되었다. 서양인을 막았던 나라는 이제 글로벌 무역 강국으로 번영하고 있다. 그러나 이러한 눈부신 변화 속에서, 전라남도 신안군의 일부인 비금도 같은 농촌 지역은 존폐 위기에 직면해 있다: 인구 감소.)&lt;/p&gt;
+&lt;p&gt;“Our small island is finally getting recognition,” Mr. Noh, 66, mused, “all thanks to what our ancestors did for those French sailors.”&lt;br/&gt;(신안 앞바다는 너월호가 도착했을 때처럼 아름답고 위험하다. 수백 개의 섬들이 안개 속에서 산맥처럼 움직인다. 페리선이 그 사이로 하얀 항적을 남기고, 썰물 때면 광활한 갯벌이 드러난다 – 해양 생물의 안식처이지만, 훈련되지 않은 선원들에게는 죽음의 함정이다.)&lt;/p&gt;
+&lt;p&gt;South Korea today is worlds apart from its 19th‑century self. The land where French missionaries were once executed has become a Christian stronghold. A nation that barred ​Westerners now thrives as a global trading power. Yet amid this dazzling transformation, rural areas like Bigeum, which is part of Shinan County in South Jeolla Province, face an existential crisis: depopulation.&lt;br/&gt;(수세기 동안 게, 조개, 문어, 그리고 천일염이 신안의 경제를 지탱했다. 그러나 수십 년간의 도시 이주와 출산율 감소로 인해 이 지역은 농촌 후미진 곳으로 전락했다.)&lt;/p&gt;
+&lt;p&gt;The waters off Shinan remain as beautiful and treacherous as when the Narwhal arrived. Hundreds of islands shift like mountain ranges in the fog. Ferries carve white trails between them, and when the tide recedes, vast wetlands emerge — a haven for marine life, but a deathtrap for untrained sailors.&lt;br/&gt;(노 씨가 어린 시절, 비금도에는 번화한 초등학교가 다섯 개 있었다. 오늘날에는 두 개만 남아 있으며 대부분 텅 비어 있다. 마을은 버려진 듯 보이며, 이동형 카트를 탄 노인들과 양파와 시금치 농장을 관리하는 동남아시아 이주 노동자들만이 눈에 띈다. 한때 신안의 생명줄이었던 염전은 이제 노동력이 부족해 많은 곳이 태양광 발전소로 전환되었다.)&lt;/p&gt;
+&lt;p&gt;For centuries, crabs, clams, octopuses and sea salt sustained Shinan’s economy. But decades of urban migration and falling birthrates have hollowed it into a rural backwater.&lt;br/&gt;(이 지역이 마지막으로 전국적인 뉴스에 오른 것은 염전에서 노예와 같은 노동 관행이 적발되었을 때였다 – 이 스캔들은 이곳을 방문하거나 정착하기를 선택하는 사람이 거의 없는 곳이라는 평판을 굳혔다.)&lt;/p&gt;
+&lt;p&gt;When Mr. Noh was a child, Bigeum had five bustling primary schools. Today, only two remain and are largely empty. Villages appear deserted, save for elderly residents in mobility carts and Southeast Asian migrant workers tending to onions and spinach farms. Salt farms, once the lifeblood of Shinan, now lack labor, with many converted into solar-energy fields.&lt;br/&gt;(2003년 필리핀에서 와서 신안의 소금 농부와 결혼한 알마 A. 바르바로나는 “저 같은 외국인 신부가 없으면 여기에는 아이가 없을 거예요”라고 말했다.)&lt;/p&gt;
+&lt;p&gt;The region last made national headlines ​when its salt farms were exposed for slave‑like labor ​practices — a scandal that cemented its reputation as a place few choose to visit or call home.&lt;br/&gt;(이에 대응하여 신안은 역사와 예술을 활용해 재도약하기로 하고, 샴페인-막걸리 축제를 시작하고 국제 예술가들을 초청해 섬들을 ‘예술 군도’로 탈바꿈시키고 있다.)&lt;/p&gt;
+&lt;p&gt;“We won’t have any children here without foreign brides like me,” said Alma A. Barbarona, who is from the Philippines and married a Shinan salt farmer in 2003.&lt;br/&gt;(축제의 설계자이자 신안 예술섬 재단 이사장인 강형기는 “양파와 시금지만으로는 한계가 있어요”라고 말했다. “우리는 신안을 서울이나 다른 대도시가 제공할 수 없는 경험을 제공하는 목적지로 만들고 싶어요.”)&lt;/p&gt;
+&lt;p&gt;In response, Shinan has turned to history and art to reinvent itself, starting the Champagne‑Makgeolli Festival and inviting international artists to transform its islands into an “art archipelago.”&lt;br/&gt;(신안 섬들은 아이슬란드-덴마크 예술가 올라퓨어 엘리아손, 영국 조각가 안토니 곰리, 스위스 건축가 마리오 보타의 작품을 전시하고 있다. 이번 달에는 일본 예술가 야나기 유키노리가 개미들이 색깔 있는 모래로 만든 나라 깃발 속으로 터널을 파고 국경을 넘어 곡물을 옮기는 작품 설치를 시작했다.)&lt;/p&gt;
+&lt;p&gt;“You can only go so far with onions and spinach,” said Kang Hyoungkee, architect of the festival and chairman of Shinan’s Arts Island Foundation. “We want Shinan to be a destination offering experiences Seoul and other big cities cannot.”&lt;br/&gt;(야나기 씨는 “국경은 정치에 의해 만들어져요”라고 말했다. “하지만 자연과 개미는 국경을 몰라요.”)&lt;/p&gt;
+&lt;p&gt;Shinan islands host works by the Icelandic-Danish artist Olafur Eliasson, the British sculptor Antony Gormley and the Swiss architect Mario Botta. This month, the Japanese artist Yukinori Yanagi began installing a piece in which ants tunnel through country flags made of colored sand, carrying grains across borders.&lt;br/&gt;(이 주제는 1851년 비금도에서 일어난 일을 반영한다. 오랫동안 잊혀졌던 이 이야기는 최근 파리시테대학의 역사학 교수 피에르-에마뉘엘 루가 프랑스 정부 기록 보관소에서 이 사건에 관한 파일을 발견하면서 다시 수면 위로 떠올랐다. 이 사건에 관한 그의 책은 이번 달에 출판되었으며, 5월에는 한국 만화로 각색되었다.)&lt;/p&gt;
+&lt;p&gt;“Borders are created by politics,” ​Mr. Yanagi said. “But nature and ants know no borders.”&lt;br/&gt;(이야기는 1850년 너월호가 르아브르를 출항하면서 시작된다. 1851년 4월 난파된 선원들이 비금도 해변에 떠밀려 왔을 때, 지역 주민들은 그들의 외모에 놀랐다. 조선 왕조 기록에는 “그들의 눈은 파란색과 노란색처럼 다른 색이었고, 머리카락은 양털과 다름없었다”고 적혀 있다.)&lt;/p&gt;
+&lt;p&gt;This theme reflects what happened on Bigeum in 1851. The long-forgotten story resurfaced in recent years after Pierre-Emmanuel Roux, a history professor at Université Paris Cité, found files on the episode in French government archives. His book on the incident was published this month, following a Korean comic-book adaptation in May.&lt;br/&gt;(언어 소통이 불가능했던 지역 관리들은 손짓과 그림에 의존하여 낯선 이들이 집에 가고 싶어 한다는 것을 이해했다. 기록에 따르면 “그들은 손으로 배 모양을 만들고, 손가락으로 이중 돛대를 만들고, 입으로 바람을 불어냈다”고 한다.)&lt;/p&gt;
+&lt;p&gt;The story begins in 1850, when the Narwhal set sail from Le Havre. When its shipwrecked crew washed ashore on Bigeum in April 1851, locals found their appearance startling. “Their eyes had different colors, like blue and yellow,” royal Korean records noted, “and their hair was no different from sheep’s wool.”&lt;br/&gt;(조선 왕조는 난파선원들에게 배를 제공하기로 동의하고, 순풍이 돌아올 때까지 오두막에서 머물게 했다. 이 계획을 모르는 샤를 드 몽티니 프랑스 상하이 영사는 1851년 5월 중국식 로르차 배를 타고 무장 구조대를 이끌고 비금도에 도착했다 – 이로써 그는 한국 땅을 밟은 최초의 서양 외교관이 되었다.)&lt;/p&gt;
+&lt;p&gt;Unable to communicate verbally, local officials relied on gestures and drawings to grasp the strangers’ wish to go home. “They formed the shape of a boat with their hands, shaped a double mast with their fingers, and blew wind with their mouths,” the records said.&lt;br/&gt;(몽티니 씨와 동행한 영국 상인 제임스 맥도널드는 상하이의 노스차이나 헤럴드에 섬 주민들의 환대와 호기심을 묘사했다. 그는 “곧 야외 마당에서 우리를 위한 향연이 펼쳐졌다”며 고급 송아지 고기가 제공되었다고 적었다. 하인들이 군중을 막는 동안 여성들은 근처 제방 뒤에서 지켜보았다. 낯선 사람이 그들을 쳐다볼 때면, 맥도널드 씨는 “그들은 오리처럼 고개를 숙이고 시야에서 사라졌다”고 말했다.)&lt;/p&gt;
+&lt;p&gt;The Korean kingdom agreed to provide the castaways with a ship, housing them in huts until favorable winds returned. Unaware of this plan, Charles de Montigny, the French consul in Shanghai, led an armed rescue party to Bigeum aboard a Chinese lorcha in May 1851 — making him the first known Western diplomat to set foot in Korea.&lt;br/&gt;(마을 사람들은 곧 담배를 교환하고 ‘솔레이’와 ‘테르’ 같은 프랑스어 단어를 배웠다. 몽티니 씨는 세 발의 예포로 지역 관리들을 자신의 배에 환영했다. 그는 후에 루 교수가 발굴한 프랑스 외무부 보고서에 “나는 그들에게 다양한 와인, 샴페인, 그리고 증류주를 마시게 했다”고 적었다. 한국인들은 답례로 너월호와 로르차의 50여 명 선원들을 음식이 가득한 작은 탁자에 앉혔으며, “항아리와 잔을 든 시종들이 이리저리 움직이며 술을 따라주었다.”)&lt;/p&gt;
+&lt;p&gt;James MacDonald, an English merchant traveling with Mr. Montigny, described the islanders’ hospitality and curiosity in Shanghai’s North-China Herald. “An entertainment was soon spread out for us in the open yard,” featuring high-quality veal, he wrote. While servants kept the crowds back, women watched from behind nearby dikes. Whenever a stranger looked their way, Mr. MacDonald said, “down went their heads out of sight like ducks.”&lt;br/&gt;(몽티니 씨의 배가 출항하기 전에 보급품과 선물이 교환되었고, 막걸리 항아리도 함께 실려 나갔다 – 서양에 아직 알려지지 않은 장소에서 온 희귀한 유물이었다. 그 항아리 중 세 개는 오늘날 프랑스 국립 도자기 박물관에 남아 있다.)&lt;/p&gt;
+&lt;p&gt;Villagers soon traded tobacco and picked up French words like “soleil” and “terre.” Mr. Montigny welcomed local officials aboard his ship with a three-gun salute. “I plied them with various wines, Champagne and spirits,” he wrote in a report to the French Foreign Ministry that Professor Roux later unearthed. The Koreans reciprocated, seating the 50-odd crewmen from the Narwhal and the lorcha at small tables laden with food, while “attendants armed with jugs and cups darted about, pouring drinks.”&lt;br/&gt;(루 교수는 19세기 한국 문서가 무역이나 종교 개종을 추구하는 서양인을 “외국 오랑캐”로 낙인찍었지만, 왕조는 난파된 유럽인들을 돌볼 의무가 있었다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Supplies and gifts were exchanged before Mr. Montigny’s ship departed, carrying with it makgeolli jugs — rare relics from a place still unknown to the West. Three of those jugs remain in France’s National Ceramics Museum today.&lt;br/&gt;(비금도 축제에 참석한 32세의 프랑스인 프랑수아 알론소는 이 사건이 오늘날에도 여전히 교훈을 준다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Nineteenth-century Korean documents branded Westerners seeking trade or religious converts as “foreign barbarians,” yet the kingdom felt bound to care for shipwrecked Europeans, Professor Roux said.&lt;br/&gt;(“그 당시 그들은 서로를 몰랐지만, 그래도 좋은 일이 일어났어요”라고 그는 말했다. “오늘날 우리는 너무 많은 정보를 가지고 있지만, 여전히 항상 싸우고 있어요.”)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/asia/korea-bigeum-champagne-festival.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-skorea-shinan-dispatch-02-tfkb/20int-skorea-shinan-dispatch-02-tfkb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 19:01:19 +0000</pubDate></item></channel></rss>

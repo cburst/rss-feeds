@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 16:45:26 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 18:48:22 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,47 @@
 
 
 
-  <item><title>버팀목 – support</title><link>urn:urn:vocab:버팀목</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>개월에 – in months</title><link>urn:urn:vocab:개월에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1518601794912-1af91724e528?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMG1vbnRoc3xlbnwwfHx8fDE3ODE5NDg5MDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개월에 (in months)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception” (‘연어 술파티 위증’ 이화영 징역 4개월에, 국힘 “李·여당의 대국민 사기극") &lt;&lt;br/&gt;&lt;em&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception” (‘연어 술파티 위증’ 이화영 징역 4개월에, 국힘 “李·여당의 대국민 사기극")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception”&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 3개월에 한국어를 배워요.&lt;br/&gt;&lt;em&gt;I learn Korean in 3 months.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 6개월에 일본에 가요.&lt;br/&gt;&lt;em&gt;He goes to Japan in 6 months.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1518601794912-1af91724e528?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMG1vbnRoc3xlbnwwfHx8fDE3ODE5NDg5MDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="개월에 (in months)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception” (‘연어 술파티 위증’ 이화영 징역 4개월에, 국힘 “李·여당의 대국민 사기극") &lt;&lt;br/&gt;&lt;em&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception” (‘연어 술파티 위증’ 이화영 징역 4개월에, 국힘 “李·여당의 대국민 사기극")&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception”&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 3개월에 한국어를 배워요.&lt;br/&gt;&lt;em&gt;I learn Korean in 3 months.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 6개월에 일본에 가요.&lt;br/&gt;&lt;em&gt;He goes to Japan in 6 months.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 18:48:22 +0900</pubDate><guid isPermaLink="false">vocab-25531dcc7bc769bba32fef4dd23453a23b94627a</guid><enclosure url="https://images.unsplash.com/photo-1518601794912-1af91724e528?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMG1vbnRoc3xlbnwwfHx8fDE3ODE5NDg5MDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="324893" /><ns2:content url="https://images.unsplash.com/photo-1518601794912-1af91724e528?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMG1vbnRoc3xlbnwwfHx8fDE3ODE5NDg5MDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1518601794912-1af91724e528?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxpbiUyMG1vbnRoc3xlbnwwfHx8fDE3ODE5NDg5MDF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>개월에</category></item><item><title>인원을 – personnel</title><link>urn:urn:vocab:인원을</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25uZWx8ZW58MHx8fHwxNzgxOTQ4MTc1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인원을 (personnel)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(‘안규백 국방장관 탄핵’ 국회 국민 청원이 20일 5만명을 넘기며 필요 인원을 달성했다&lt;br/&gt;&lt;em&gt;The National Assembly petition for the impeachment of Defense Minister Ahn Gyu-baek surpassed 50,000 signatures on the 20th, achieving the required number.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;육군사관학교 통폐합 및 지방 이전 추진 중단 청원도 3만6000여 명을 넘겨 곧 필요 인원을 달성할 것으로 전망된다&lt;br/&gt;&lt;em&gt;The petition to halt the merger and relocation of the Korea Military Academy also exceeded 36,000 signatures and is expected to soon reach the required number.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회사가 인원을 늘렸다.&lt;br/&gt;&lt;em&gt;The company increased its staff.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인원을 확인해 주세요.&lt;br/&gt;&lt;em&gt;Please check the number of people.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25uZWx8ZW58MHx8fHwxNzgxOTQ4MTc1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인원을 (personnel)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(‘안규백 국방장관 탄핵’ 국회 국민 청원이 20일 5만명을 넘기며 필요 인원을 달성했다&lt;br/&gt;&lt;em&gt;The National Assembly petition for the impeachment of Defense Minister Ahn Gyu-baek surpassed 50,000 signatures on the 20th, achieving the required number.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;육군사관학교 통폐합 및 지방 이전 추진 중단 청원도 3만6000여 명을 넘겨 곧 필요 인원을 달성할 것으로 전망된다&lt;br/&gt;&lt;em&gt;The petition to halt the merger and relocation of the Korea Military Academy also exceeded 36,000 signatures and is expected to soon reach the required number.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;회사가 인원을 늘렸다.&lt;br/&gt;&lt;em&gt;The company increased its staff.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인원을 확인해 주세요.&lt;br/&gt;&lt;em&gt;Please check the number of people.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 18:36:18 +0900</pubDate><guid isPermaLink="false">vocab-83f355e6e33f8594099c97b0750ee4428b85d541</guid><enclosure url="https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25uZWx8ZW58MHx8fHwxNzgxOTQ4MTc1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="108433" /><ns2:content url="https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25uZWx8ZW58MHx8fHwxNzgxOTQ4MTc1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25uZWx8ZW58MHx8fHwxNzgxOTQ4MTc1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>인원을</category></item><item><title>버팀목 – support</title><link>urn:urn:vocab:버팀목</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0fGVufDB8fHx8MTc4MTk0MTUyM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="버팀목 (support)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;Kim Dong-yeon, Ahead of Retirement, Visits Former President Moon Jae-in to Express Gratitude for Support (퇴임 앞둔 김동연, 文 예방해 “버팀목 되어줘 감사”) &lt;&lt;br/&gt;&lt;em&gt;Kim Dong-yeon, Ahead of Retirement, Visits Former President Moon Jae-in to Express Gratitude for Support&lt;/em&gt;&lt;/p&gt;
