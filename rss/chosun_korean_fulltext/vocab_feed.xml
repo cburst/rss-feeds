@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 12:37:33 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 16:45:26 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,95 @@
 
 
 
-  <item><title>사기극 – fraud</title><link>urn:urn:vocab:사기극</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>버팀목 – support</title><link>urn:urn:vocab:버팀목</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0fGVufDB8fHx8MTc4MTk0MTUyM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="버팀목 (support)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Kim Dong-yeon, Ahead of Retirement, Visits Former President Moon Jae-in to Express Gratitude for Support (퇴임 앞둔 김동연, 文 예방해 “버팀목 되어줘 감사”) &lt;&lt;br/&gt;&lt;em&gt;Kim Dong-yeon, Ahead of Retirement, Visits Former President Moon Jae-in to Express Gratitude for Support&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Kim Dong-yeon, Ahead of Retirement, Visits Former President Moon Jae-in to Express Gratitude for Support (퇴임 앞둔 김동연, 文 예방해 “버팀목 되어줘 감사”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Kim Dong-yeon, Ahead of Retirement, Visits Former President Moon Jae-in to Express Gratitude for Support&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;늘 든든한 버팀목이 되어주신 대통령에게 진심으로 감사드린다”고 말했다&lt;br/&gt;&lt;em&gt;I sincerely thank the President for always being a strong support.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 기둥은 버팀목입니다.&lt;br/&gt;&lt;em&gt;This pillar is a support.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;버팀목이 튼튼합니다.&lt;br/&gt;&lt;em&gt;The support is sturdy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0fGVufDB8fHx8MTc4MTk0MTUyM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="버팀목 (support)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Kim Dong-yeon, Ahead of Retirement, Visits Former President Moon Jae-in to Express Gratitude for Support (퇴임 앞둔 김동연, 文 예방해 “버팀목 되어줘 감사”) &lt;&lt;br/&gt;&lt;em&gt;Kim Dong-yeon, Ahead of Retirement, Visits Former President Moon Jae-in to Express Gratitude for Support&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Kim Dong-yeon, Ahead of Retirement, Visits Former President Moon Jae-in to Express Gratitude for Support (퇴임 앞둔 김동연, 文 예방해 “버팀목 되어줘 감사”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Kim Dong-yeon, Ahead of Retirement, Visits Former President Moon Jae-in to Express Gratitude for Support&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;늘 든든한 버팀목이 되어주신 대통령에게 진심으로 감사드린다”고 말했다&lt;br/&gt;&lt;em&gt;I sincerely thank the President for always being a strong support.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이 기둥은 버팀목입니다.&lt;br/&gt;&lt;em&gt;This pillar is a support.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;버팀목이 튼튼합니다.&lt;br/&gt;&lt;em&gt;The support is sturdy.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 16:45:26 +0900</pubDate><guid isPermaLink="false">vocab-a45864b3f5cc8657f8e50f00ed552f4af2336462</guid><enclosure url="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0fGVufDB8fHx8MTc4MTk0MTUyM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="122647" /><ns2:content url="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0fGVufDB8fHx8MTc4MTk0MTUyM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0fGVufDB8fHx8MTc4MTk0MTUyM3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>버팀목</category></item><item><title>재단 – foundation</title><link>urn:urn:vocab:재단</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1610079732288-72a77bd816c9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3VuZGF0aW9ufGVufDB8fHx8MTc4MTk0MDUxMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재단 (foundation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Cho Kuk Donates 1 Million Won (유시민 떠난 노무현재단에&lt;br/&gt;&lt;em&gt;Cho Kuk donates 1 million won to the Roh Moo-hyun Foundation, which Yoo Si-min left&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Cho Kuk Donates 1 Million Won (유시민 떠난 노무현재단에&lt;br/&gt;&lt;em&gt;Cho Kuk donates 1 million won to the Roh Moo-hyun Foundation, which Yoo Si-min left&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(조국 전 조국혁신당 대표는 노무현재단에 100만원을 후원했다고 20일 밝혔다&lt;br/&gt;&lt;em&gt;Former leader of the Innovation Party, Cho Kuk, announced on the 20th that he donated 1 million won to the Roh Moo-hyun Foundation&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;재단이 학교를 도와요.&lt;br/&gt;&lt;em&gt;The foundation helps the school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 재단은 유명해요.&lt;br/&gt;&lt;em&gt;That foundation is famous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1610079732288-72a77bd816c9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3VuZGF0aW9ufGVufDB8fHx8MTc4MTk0MDUxMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="재단 (foundation)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Cho Kuk Donates 1 Million Won (유시민 떠난 노무현재단에&lt;br/&gt;&lt;em&gt;Cho Kuk donates 1 million won to the Roh Moo-hyun Foundation, which Yoo Si-min left&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Cho Kuk Donates 1 Million Won (유시민 떠난 노무현재단에&lt;br/&gt;&lt;em&gt;Cho Kuk donates 1 million won to the Roh Moo-hyun Foundation, which Yoo Si-min left&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(조국 전 조국혁신당 대표는 노무현재단에 100만원을 후원했다고 20일 밝혔다&lt;br/&gt;&lt;em&gt;Former leader of the Innovation Party, Cho Kuk, announced on the 20th that he donated 1 million won to the Roh Moo-hyun Foundation&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;재단이 학교를 도와요.&lt;br/&gt;&lt;em&gt;The foundation helps the school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그 재단은 유명해요.&lt;br/&gt;&lt;em&gt;That foundation is famous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 16:28:33 +0900</pubDate><guid isPermaLink="false">vocab-956e7d30660e763d12367adc8dc65a2f317b228a</guid><enclosure url="https://images.unsplash.com/photo-1610079732288-72a77bd816c9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3VuZGF0aW9ufGVufDB8fHx8MTc4MTk0MDUxMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="247182" /><ns2:content url="https://images.unsplash.com/photo-1610079732288-72a77bd816c9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3VuZGF0aW9ufGVufDB8fHx8MTc4MTk0MDUxMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1610079732288-72a77bd816c9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmb3VuZGF0aW9ufGVufDB8fHx8MTc4MTk0MDUxMHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>재단</category></item><item><title>여윳돈 – spare money</title><link>urn:urn:vocab:여윳돈</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGFyZSUyMG1vbmV5fGVufDB8fHx8MTc4MTkzNDE0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="여윳돈 (spare money)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;’, ([바로잡습니다] 6월 10일 자 B6면 ‘집 줄여서 여윳돈 마련할까… 주택연금 들어 생활비 보탤까’ 기사의 외) &lt;&lt;br/&gt;&lt;em&gt;[Correction] June 10 edition, B6 page, article ‘Should you downsize your home for extra cash… or use a reverse mortgage to cover living expenses’&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;’, ([바로잡습니다] 6월 10일 자 B6면 ‘집 줄여서 여윳돈 마련할까… 주택연금 들어 생활비 보탤까’ 기사의 외)&lt;/h1&gt;&lt;p&gt;▲&lt;b&gt;June 10 edition, B6 page, article ‘Should you downsize your home for extra cash… or use a reverse mortgage to cover living expenses&lt;br/&gt;&lt;em&gt;[Correction] June 10 edition, B6 page, article ‘Should you downsize your home for extra cash… or use a reverse mortgage to cover living expenses’&lt;/h1&gt;&lt;p&gt;▲&lt;b&gt;June 10 edition, B6 page, article ‘Should you downsize your home for extra cash… or use a reverse mortgage to cover living expenses&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(▲&lt;b&gt;6월 10일 자 B6면 ‘집 줄여서 여윳돈 마련할까… 주택연금 들어 생활비 보탤까’&lt;/b&gt;기사의 ‘65세 이상 고령자 가구 현황’ 그래픽에서 67&lt;br/&gt;&lt;em&gt;(▲&lt;b&gt;June 10 edition, B6 page, article ‘Should you downsize your home for extra cash… or use a reverse mortgage to cover living expenses’&lt;/b&gt;In the graphic ‘Status of households aged 65 and over’, 67&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;여윳돈이 조금 있습니다.&lt;br/&gt;&lt;em&gt;I have some spare money.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여윳돈을 저축하세요.&lt;br/&gt;&lt;em&gt;Save your spare money.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGFyZSUyMG1vbmV5fGVufDB8fHx8MTc4MTkzNDE0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="여윳돈 (spare money)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;’, ([바로잡습니다] 6월 10일 자 B6면 ‘집 줄여서 여윳돈 마련할까… 주택연금 들어 생활비 보탤까’ 기사의 외) &lt;&lt;br/&gt;&lt;em&gt;[Correction] June 10 edition, B6 page, article ‘Should you downsize your home for extra cash… or use a reverse mortgage to cover living expenses’&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;’, ([바로잡습니다] 6월 10일 자 B6면 ‘집 줄여서 여윳돈 마련할까… 주택연금 들어 생활비 보탤까’ 기사의 외)&lt;/h1&gt;&lt;p&gt;▲&lt;b&gt;June 10 edition, B6 page, article ‘Should you downsize your home for extra cash… or use a reverse mortgage to cover living expenses&lt;br/&gt;&lt;em&gt;[Correction] June 10 edition, B6 page, article ‘Should you downsize your home for extra cash… or use a reverse mortgage to cover living expenses’&lt;/h1&gt;&lt;p&gt;▲&lt;b&gt;June 10 edition, B6 page, article ‘Should you downsize your home for extra cash… or use a reverse mortgage to cover living expenses&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(▲&lt;b&gt;6월 10일 자 B6면 ‘집 줄여서 여윳돈 마련할까… 주택연금 들어 생활비 보탤까’&lt;/b&gt;기사의 ‘65세 이상 고령자 가구 현황’ 그래픽에서 67&lt;br/&gt;&lt;em&gt;(▲&lt;b&gt;June 10 edition, B6 page, article ‘Should you downsize your home for extra cash… or use a reverse mortgage to cover living expenses’&lt;/b&gt;In the graphic ‘Status of households aged 65 and over’, 67&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;여윳돈이 조금 있습니다.&lt;br/&gt;&lt;em&gt;I have some spare money.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;여윳돈을 저축하세요.&lt;br/&gt;&lt;em&gt;Save your spare money.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 14:42:28 +0900</pubDate><guid isPermaLink="false">vocab-3ae95d380cea740b6c77c91b0f6b2a37d4cd2a7b</guid><enclosure url="https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGFyZSUyMG1vbmV5fGVufDB8fHx8MTc4MTkzNDE0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="298274" /><ns2:content url="https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGFyZSUyMG1vbmV5fGVufDB8fHx8MTc4MTkzNDE0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzcGFyZSUyMG1vbmV5fGVufDB8fHx8MTc4MTkzNDE0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>여윳돈</category></item><item><title>호황은 – boom</title><link>urn:urn:vocab:호황은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1708376368427-ede2b537d494?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib29tfGVufDB8fHx8MTc4MTkzMjk2NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="호황은 (boom)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번 호황은 착시가 아니고 진짜”라며 “올해 한국 경제의 명목 국내총생산(GDP) 성장률이 두 자릿수를 넘어설 것으로 보인다”고 말했다&lt;br/&gt;&lt;em&gt;"This boom is not an illusion but real," he said, adding that "South Korea's nominal GDP growth rate this year is expected to exceed double digits."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (김 실장은 “반도체가 벌어온 국부가 부동산 불로소득으로 흡수되고 성장의 과실이 소수에게만 집중된다면 이번 호황은 오래가지 못할 것”이라며 “반대로 재정 여력과 기업 이익을 청년과 취약 계층, 미래 산업으로 연결할 수 있다면 이번 호황은 한국 경제가 오랫동안 벗어나지 못했던 저성장의 터널을 빠져나오는 출발점이 될 수 있다”고 말했다&lt;br/&gt;&lt;em&gt;"If the national wealth earned by semiconductors is absorbed into real estate unearned income and the fruits of growth are concentrated only on a few, this boom will not last long," said Director Kim. "Conversely, if fiscal capacity and corporate profits can be linked to youth, vulnerable groups, and future industries, this boom could be a starting point for the Korean economy to escape the long tunnel of low growth."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “역대급 호황은 그에 걸맞은 상상력과 그 상상력을 현실로 옮길 수 있는 실행력을 함께 요구한다”고 강조했다&lt;br/&gt;&lt;em&gt;He then emphasized, "An unprecedented boom requires both imagination befitting it and the execution power to turn that imagination into reality."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;호황은 좋은 기회입니다.&lt;br/&gt;&lt;em&gt;A boom is a good opportunity.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;호황은 오래 가지 않아요.&lt;br/&gt;&lt;em&gt;A boom doesn't last long.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1708376368427-ede2b537d494?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib29tfGVufDB8fHx8MTc4MTkzMjk2NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="호황은 (boom)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이번 호황은 착시가 아니고 진짜”라며 “올해 한국 경제의 명목 국내총생산(GDP) 성장률이 두 자릿수를 넘어설 것으로 보인다”고 말했다&lt;br/&gt;&lt;em&gt;"This boom is not an illusion but real," he said, adding that "South Korea's nominal GDP growth rate this year is expected to exceed double digits."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (김 실장은 “반도체가 벌어온 국부가 부동산 불로소득으로 흡수되고 성장의 과실이 소수에게만 집중된다면 이번 호황은 오래가지 못할 것”이라며 “반대로 재정 여력과 기업 이익을 청년과 취약 계층, 미래 산업으로 연결할 수 있다면 이번 호황은 한국 경제가 오랫동안 벗어나지 못했던 저성장의 터널을 빠져나오는 출발점이 될 수 있다”고 말했다&lt;br/&gt;&lt;em&gt;"If the national wealth earned by semiconductors is absorbed into real estate unearned income and the fruits of growth are concentrated only on a few, this boom will not last long," said Director Kim. "Conversely, if fiscal capacity and corporate profits can be linked to youth, vulnerable groups, and future industries, this boom could be a starting point for the Korean economy to escape the long tunnel of low growth."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “역대급 호황은 그에 걸맞은 상상력과 그 상상력을 현실로 옮길 수 있는 실행력을 함께 요구한다”고 강조했다&lt;br/&gt;&lt;em&gt;He then emphasized, "An unprecedented boom requires both imagination befitting it and the execution power to turn that imagination into reality."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;호황은 좋은 기회입니다.&lt;br/&gt;&lt;em&gt;A boom is a good opportunity.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;호황은 오래 가지 않아요.&lt;br/&gt;&lt;em&gt;A boom doesn't last long.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 14:22:48 +0900</pubDate><guid isPermaLink="false">vocab-6305c0ab93a598b1f79b042df85c715b58ab34d9</guid><enclosure url="https://images.unsplash.com/photo-1708376368427-ede2b537d494?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib29tfGVufDB8fHx8MTc4MTkzMjk2NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="288566" /><ns2:content url="https://images.unsplash.com/photo-1708376368427-ede2b537d494?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib29tfGVufDB8fHx8MTc4MTkzMjk2NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1708376368427-ede2b537d494?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxib29tfGVufDB8fHx8MTc4MTkzMjk2NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>호황은</category></item><item><title>사기극 – fraud</title><link>urn:urn:vocab:사기극</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1705056508589-a87485825dc1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcmF1ZHxlbnwwfHx8fDE3ODE5MjY2NDl8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사기극 (fraud)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception” (‘연어 술파티 위증’ 이화영 징역 4개월에, 국힘 “李·여당의 대국민 사기극") &lt;&lt;br/&gt;&lt;em&gt;‘Salmon Party Perjury’ Lee Hwa-young Sentenced to 4 Months in Prison, People Power Party Says “Lee Jae-myung and the Ruling Party’s National Deception”&lt;/em&gt;&lt;/p&gt;

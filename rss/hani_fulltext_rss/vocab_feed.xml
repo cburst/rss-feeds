@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 12:37:27 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 16:45:21 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,91 @@
 
 
 
-  <item><title>출발점이 – starting point</title><link>urn:urn:vocab:출발점이</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>꿈드림 – dream</title><link>urn:urn:vocab:꿈드림</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkcmVhbXxlbnwwfHx8fDE3ODE5NDE1MTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="꿈드림 (dream)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교를 그만둘 당시 학교밖청소년지원센터인 ‘꿈드림’에 대한 정보를 제공받은 청소년은 응답자의 54&lt;br/&gt;&lt;em&gt;Among the respondents, 54% were youths who were provided with information about 'Kkumdulim,' the support center for out-of-school youth, at the time they left school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;'Kkumdulim' run by the central government and local governments (정부·지자체가 운영하는 ‘꿈드림’)&lt;/p&gt;&lt;p&gt;'Kkumdulim,' the support center for out-of-school youth operating at 222 locations nationwide, is supported by the Ministry of Gender Equality and Family and local governments&lt;br/&gt;&lt;em&gt;)&lt;/p&gt;&lt;p&gt;'Kkumdulim' run by the central government and local governments&lt;/p&gt;&lt;p&gt;'Kkumdulim,' the support center for out-of-school youth operating at 222 locations nationwide, is supported by the Ministry of Gender Equality and Family and local governments&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(전국 222개소에서 운영 중인 학교 밖 청소년 지원센터 ‘꿈드림’은 성평등가족부와 지방자치단체가 지원하는 곳으로, ‘학교 밖 청소년 지원에 관한 법률’에 근거해 2015년 5월부터 운영되고 있다&lt;br/&gt;&lt;em&gt;'Kkumdulim,' the support center for out-of-school youth operating at 222 locations nationwide, is supported by the Ministry of Gender Equality and Family and local governments, and has been operating since May 2015 based on the 'Act on the Support for Out-of-School Youth.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 꿈드림을 꿉니다.&lt;br/&gt;&lt;em&gt;I dream of Kkumdream.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;꿈드림은 아름다워요.&lt;br/&gt;&lt;em&gt;Kkumdream is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkcmVhbXxlbnwwfHx8fDE3ODE5NDE1MTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="꿈드림 (dream)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;학교를 그만둘 당시 학교밖청소년지원센터인 ‘꿈드림’에 대한 정보를 제공받은 청소년은 응답자의 54&lt;br/&gt;&lt;em&gt;Among the respondents, 54% were youths who were provided with information about 'Kkumdulim,' the support center for out-of-school youth, at the time they left school.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;)&lt;/p&gt;&lt;p&gt;'Kkumdulim' run by the central government and local governments (정부·지자체가 운영하는 ‘꿈드림’)&lt;/p&gt;&lt;p&gt;'Kkumdulim,' the support center for out-of-school youth operating at 222 locations nationwide, is supported by the Ministry of Gender Equality and Family and local governments&lt;br/&gt;&lt;em&gt;)&lt;/p&gt;&lt;p&gt;'Kkumdulim' run by the central government and local governments&lt;/p&gt;&lt;p&gt;'Kkumdulim,' the support center for out-of-school youth operating at 222 locations nationwide, is supported by the Ministry of Gender Equality and Family and local governments&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(전국 222개소에서 운영 중인 학교 밖 청소년 지원센터 ‘꿈드림’은 성평등가족부와 지방자치단체가 지원하는 곳으로, ‘학교 밖 청소년 지원에 관한 법률’에 근거해 2015년 5월부터 운영되고 있다&lt;br/&gt;&lt;em&gt;'Kkumdulim,' the support center for out-of-school youth operating at 222 locations nationwide, is supported by the Ministry of Gender Equality and Family and local governments, and has been operating since May 2015 based on the 'Act on the Support for Out-of-School Youth.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 꿈드림을 꿉니다.&lt;br/&gt;&lt;em&gt;I dream of Kkumdream.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;꿈드림은 아름다워요.&lt;br/&gt;&lt;em&gt;Kkumdream is beautiful.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 16:45:21 +0900</pubDate><guid isPermaLink="false">vocab-604978ef8594b9821d26e7a83efc62b0b5166547</guid><enclosure url="https://images.unsplash.com/photo-1534447677768-be436bb09401?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkcmVhbXxlbnwwfHx8fDE3ODE5NDE1MTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="86248" /><ns2:content url="https://images.unsplash.com/photo-1534447677768-be436bb09401?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkcmVhbXxlbnwwfHx8fDE3ODE5NDE1MTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1534447677768-be436bb09401?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkcmVhbXxlbnwwfHx8fDE3ODE5NDE1MTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>꿈드림</category></item><item><title>메리츠는 – Meritz is</title><link>urn:urn:vocab:메리츠는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (메리츠는 18일 “이날 이사회를 개최하고 홈플러스의 기업회생 절차 지원을 위한 실제 자금 집행을 최종 승인했다”고 밝혔다&lt;br/&gt;&lt;em&gt;"(Meritz announced on the 18th that it held a board meeting on this day and finally approved the actual execution of funds to support Homeplus's corporate rehabilitation process."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;메리츠가 지난 17일 홈플러스와 엠비케이 쪽에 발송한 ‘홈플러스 긴급운영자금 파이낸싱 관련 최종 제안’ 공문을 보면, 메리츠는 오는 19일 오전까지 총 1천억원의 자금을 각 채권자의 기존 대출 비율에 맞춰 에스크로(별도 관리) 계좌에 예치할 계획이다&lt;br/&gt;&lt;em&gt;According to an official document titled 'Final Proposal for Homeplus Emergency Operating Fund Financing' sent by Meritz to Homeplus and MBK on the 17th, Meritz plans to deposit a total of 100 billion won into an escrow (separate management) account by the morning of the 19th, in proportion to each creditor's existing loan ratio.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(다만 메리츠는 대출을 위한 전제조건을 걸었다&lt;br/&gt;&lt;em&gt;"(However, Meritz set preconditions for the loan."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;메리츠는 좋은 회사입니다.&lt;br/&gt;&lt;em&gt;Meritz is a good company.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;메리츠는 한국에 있습니다.&lt;br/&gt;&lt;em&gt;Meritz is in Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (메리츠는 18일 “이날 이사회를 개최하고 홈플러스의 기업회생 절차 지원을 위한 실제 자금 집행을 최종 승인했다”고 밝혔다&lt;br/&gt;&lt;em&gt;"(Meritz announced on the 18th that it held a board meeting on this day and finally approved the actual execution of funds to support Homeplus's corporate rehabilitation process."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;메리츠가 지난 17일 홈플러스와 엠비케이 쪽에 발송한 ‘홈플러스 긴급운영자금 파이낸싱 관련 최종 제안’ 공문을 보면, 메리츠는 오는 19일 오전까지 총 1천억원의 자금을 각 채권자의 기존 대출 비율에 맞춰 에스크로(별도 관리) 계좌에 예치할 계획이다&lt;br/&gt;&lt;em&gt;According to an official document titled 'Final Proposal for Homeplus Emergency Operating Fund Financing' sent by Meritz to Homeplus and MBK on the 17th, Meritz plans to deposit a total of 100 billion won into an escrow (separate management) account by the morning of the 19th, in proportion to each creditor's existing loan ratio.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(다만 메리츠는 대출을 위한 전제조건을 걸었다&lt;br/&gt;&lt;em&gt;"(However, Meritz set preconditions for the loan."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;메리츠는 좋은 회사입니다.&lt;br/&gt;&lt;em&gt;Meritz is a good company.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;메리츠는 한국에 있습니다.&lt;br/&gt;&lt;em&gt;Meritz is in Korea.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 16:28:29 +0900</pubDate><guid isPermaLink="false">vocab-18fa00c2201d26724fafa0591254f00f4fc0055c</guid><category>메리츠는</category></item><item><title>메리츠 – Meritz (financial group)</title><link>urn:urn:vocab:메리츠</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1526199119161-4be1e3368d52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlQTklOTQlRUIlQTYlQUMlRUMlQjglQTB8ZW58MHx8fHwxNzgxOTM0MTM5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="메리츠 (Meritz (financial group))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Union: "Meritz and MBK Must Stop Passing the Buck" (메리츠, 홈플러스 1천억 조건부 지원…노조 “메리츠·MBK 책임 전가 멈춰야”) &lt;&lt;br/&gt;&lt;em&gt;Union: "Meritz and MBK Must Stop Passing the Buck"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Union: "Meritz and MBK Must Stop Passing the Buck" (메리츠, 홈플러스 1천억 조건부 지원…노조 “메리츠·MBK 책임 전가 멈춰야”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Union: "Meritz and MBK Must Stop Passing the Buck"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (메리츠금융그룹이 홈플러스 대주주 엠비케이(MBK)파트너스 쪽에 홈플러스에 1천억원 규모의 긴급운영자금(DIP) 지원을 승인했다&lt;br/&gt;&lt;em&gt;" (Meritz Financial Group approved the provision of 100 billion won in emergency operating funds (DIP) to Homeplus on the condition that the major shareholder, MBK Partners, provides support)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;메리츠는 금융 그룹입니다.&lt;br/&gt;&lt;em&gt;Meritz is a financial group.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 메리츠에서 일합니다.&lt;br/&gt;&lt;em&gt;I work at Meritz.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1526199119161-4be1e3368d52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlQTklOTQlRUIlQTYlQUMlRUMlQjglQTB8ZW58MHx8fHwxNzgxOTM0MTM5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="메리츠 (Meritz (financial group))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Union: "Meritz and MBK Must Stop Passing the Buck" (메리츠, 홈플러스 1천억 조건부 지원…노조 “메리츠·MBK 책임 전가 멈춰야”) &lt;&lt;br/&gt;&lt;em&gt;Union: "Meritz and MBK Must Stop Passing the Buck"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Union: "Meritz and MBK Must Stop Passing the Buck" (메리츠, 홈플러스 1천억 조건부 지원…노조 “메리츠·MBK 책임 전가 멈춰야”)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;Union: "Meritz and MBK Must Stop Passing the Buck"&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (메리츠금융그룹이 홈플러스 대주주 엠비케이(MBK)파트너스 쪽에 홈플러스에 1천억원 규모의 긴급운영자금(DIP) 지원을 승인했다&lt;br/&gt;&lt;em&gt;" (Meritz Financial Group approved the provision of 100 billion won in emergency operating funds (DIP) to Homeplus on the condition that the major shareholder, MBK Partners, provides support)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;메리츠는 금융 그룹입니다.&lt;br/&gt;&lt;em&gt;Meritz is a financial group.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 메리츠에서 일합니다.&lt;br/&gt;&lt;em&gt;I work at Meritz.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 14:42:22 +0900</pubDate><guid isPermaLink="false">vocab-df57f2ee2da7b37c136c02b2f5d7ee058008ed67</guid><enclosure url="https://images.unsplash.com/photo-1526199119161-4be1e3368d52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlQTklOTQlRUIlQTYlQUMlRUMlQjglQTB8ZW58MHx8fHwxNzgxOTM0MTM5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="215127" /><ns2:content url="https://images.unsplash.com/photo-1526199119161-4be1e3368d52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlQTklOTQlRUIlQTYlQUMlRUMlQjglQTB8ZW58MHx8fHwxNzgxOTM0MTM5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1526199119161-4be1e3368d52?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHwlRUIlQTklOTQlRUIlQTYlQUMlRUMlQjglQTB8ZW58MHx8fHwxNzgxOTM0MTM5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>메리츠</category></item><item><title>춘추관에서 – at the Chuncheon Hall</title><link>urn:urn:vocab:춘추관에서</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이재명 대통령이 19일 청와대 춘추관에서 열린 G7 참석·유럽 순방 결과 브리핑에서 취재진 질문에 답하고 있다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung is answering reporters' questions at a briefing on the results of his attendance at the G7 and European tour held at the Cheong Wa Dae Spring and Autumn Hall on the 19th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 이날 청와대 춘추관에서 주요 7개국 정상회의 참석 등 유럽 순방 결과 브리핑을 통해 “트럼프 대통령과는 조선을 포함한 호혜적 협력방안에 대해 뜻을 같이하고 한·미·일 협력 중요성에도 공감했다”며 이렇게 말했다&lt;br/&gt;&lt;em&gt;President Lee said this during a briefing on the results of his European tour, including attendance at the G7 summit, at the Cheong Wa Dae Spring and Autumn Hall, stating, 'President Trump and I shared views on mutually beneficial cooperation measures, including North Korea, and also agreed on the importance of South Korea-U.S.-Japan cooperation.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이재명 대통령이 19일 청와대 춘추관에서 주요 7개국(G7) 정상회의·유럽순방 결과 브리핑을 하고 있다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung is holding a briefing on the results of the G7 summit and European tour at the Cheong Wa Dae Spring and Autumn Hall on the 19th.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;춘추관에서 회의가 있습니다.&lt;br/&gt;&lt;em&gt;There is a meeting at the Chunchugwan.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;춘추관에서 친구를 만났어요.&lt;br/&gt;&lt;em&gt;I met a friend at the Chunchugwan.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이재명 대통령이 19일 청와대 춘추관에서 열린 G7 참석·유럽 순방 결과 브리핑에서 취재진 질문에 답하고 있다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung is answering reporters' questions at a briefing on the results of his attendance at the G7 and European tour held at the Cheong Wa Dae Spring and Autumn Hall on the 19th.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(이 대통령은 이날 청와대 춘추관에서 주요 7개국 정상회의 참석 등 유럽 순방 결과 브리핑을 통해 “트럼프 대통령과는 조선을 포함한 호혜적 협력방안에 대해 뜻을 같이하고 한·미·일 협력 중요성에도 공감했다”며 이렇게 말했다&lt;br/&gt;&lt;em&gt;President Lee said this during a briefing on the results of his European tour, including attendance at the G7 summit, at the Cheong Wa Dae Spring and Autumn Hall, stating, 'President Trump and I shared views on mutually beneficial cooperation measures, including North Korea, and also agreed on the importance of South Korea-U.S.-Japan cooperation.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;jpg" alt=""&gt;&lt;figcaption&gt;이재명 대통령이 19일 청와대 춘추관에서 주요 7개국(G7) 정상회의·유럽순방 결과 브리핑을 하고 있다&lt;br/&gt;&lt;em&gt;President Lee Jae-myung is holding a briefing on the results of the G7 summit and European tour at the Cheong Wa Dae Spring and Autumn Hall on the 19th.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;춘추관에서 회의가 있습니다.&lt;br/&gt;&lt;em&gt;There is a meeting at the Chunchugwan.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;춘추관에서 친구를 만났어요.&lt;br/&gt;&lt;em&gt;I met a friend at the Chunchugwan.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sat, 20 Jun 2026 14:22:42 +0900</pubDate><guid isPermaLink="false">vocab-46692ca185f4b555c8df0067ec7fbc6cc171b4c3</guid><category>춘추관에서</category></item><item><title>출발점이 – starting point</title><link>urn:urn:vocab:출발점이</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1634912889606-3a6486a1f336?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFydGluZyUyMHBvaW50fGVufDB8fHx8MTc4MTkyNjY0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="출발점이 (starting point)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(유아 및 초등학생 아이와 함께라면 지난해 폭발적인 인기를 끈 애니메이션 ‘케이팝 데몬 헌터스’가 좋은 출발점이 된다&lt;br/&gt;&lt;em&gt;If you are with young children and elementary school students, the animation 'K-Pop Demon Hunters', which became explosively popular last year, is a good starting point.&lt;/em&gt;&lt;/p&gt;
