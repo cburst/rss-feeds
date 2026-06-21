@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 21:29:05 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 23:32:57 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>않는다는 – that it does not</title><link>urn:urn:vocab:않는다는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>대리점에 – at the agency</title><link>urn:urn:vocab:대리점에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1673753263123-ea39d352dec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGFnZW5jeXxlbnwwfHx8fDE3ODIwNTIzNzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대리점에 (at the agency)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers (채권 미회수 위험 대리점에 전가…두산밥캣코리아에 시정명령) &lt;&lt;br/&gt;&lt;em&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers (채권 미회수 위험 대리점에 전가…두산밥캣코리아에 시정명령)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(대리점에 채권·상품 대금 미회수 위험을 전가한 두산밥캣코리아가 공정거래위원회 제재를 받았다&lt;br/&gt;&lt;em&gt;Doosan Bobcat Korea, which shifted the risk of uncollected bonds and product payments to dealers, was sanctioned by the Fair Trade Commission&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 대리점에 갑니다.&lt;br/&gt;&lt;em&gt;I go to the agency.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대리점에 물건이 많아요.&lt;br/&gt;&lt;em&gt;There are many items at the agency.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1673753263123-ea39d352dec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGFnZW5jeXxlbnwwfHx8fDE3ODIwNTIzNzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대리점에 (at the agency)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers (채권 미회수 위험 대리점에 전가…두산밥캣코리아에 시정명령) &lt;&lt;br/&gt;&lt;em&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers (채권 미회수 위험 대리점에 전가…두산밥캣코리아에 시정명령)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(대리점에 채권·상품 대금 미회수 위험을 전가한 두산밥캣코리아가 공정거래위원회 제재를 받았다&lt;br/&gt;&lt;em&gt;Doosan Bobcat Korea, which shifted the risk of uncollected bonds and product payments to dealers, was sanctioned by the Fair Trade Commission&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 대리점에 갑니다.&lt;br/&gt;&lt;em&gt;I go to the agency.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대리점에 물건이 많아요.&lt;br/&gt;&lt;em&gt;There are many items at the agency.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 21 Jun 2026 23:32:57 +0900</pubDate><guid isPermaLink="false">vocab-35a52939df113111cd3a4fe842f4cbc22f475551</guid><enclosure url="https://images.unsplash.com/photo-1673753263123-ea39d352dec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGFnZW5jeXxlbnwwfHx8fDE3ODIwNTIzNzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="238589" /><ns2:content url="https://images.unsplash.com/photo-1673753263123-ea39d352dec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGFnZW5jeXxlbnwwfHx8fDE3ODIwNTIzNzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1673753263123-ea39d352dec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGFnZW5jeXxlbnwwfHx8fDE3ODIwNTIzNzR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>대리점에</category></item><item><title>대리점에 – at the agency</title><link>urn:urn:vocab:대리점에</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1673753263123-ea39d352dec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGFnZW5jeXxlbnwwfHx8fDE3ODIwNTIzNjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대리점에 (at the agency)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers (채권 미회수 위험 대리점에 전가…두산밥캣코리아에 시정명령) &lt;&lt;br/&gt;&lt;em&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers (채권 미회수 위험 대리점에 전가…두산밥캣코리아에 시정명령)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(대리점에 채권·상품 대금 미회수 위험을 전가한 두산밥캣코리아가 공정거래위원회 제재를 받았다&lt;br/&gt;&lt;em&gt;Doosan Bobcat Korea, which shifted the risk of uncollected bonds and product payments to dealers, was sanctioned by the Fair Trade Commission&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 대리점에 갑니다.&lt;br/&gt;&lt;em&gt;I go to the agency.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대리점에 물건이 많아요.&lt;br/&gt;&lt;em&gt;There are many items at the agency.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1673753263123-ea39d352dec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGFnZW5jeXxlbnwwfHx8fDE3ODIwNTIzNjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대리점에 (at the agency)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers (채권 미회수 위험 대리점에 전가…두산밥캣코리아에 시정명령) &lt;&lt;br/&gt;&lt;em&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers (채권 미회수 위험 대리점에 전가…두산밥캣코리아에 시정명령)&lt;/title&gt;&lt;br/&gt;&lt;em&gt;&lt;title&gt;Doosan Bobcat Korea Ordered to Stop Shifting Uncollected Bond Risks to Dealers&lt;/title&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(대리점에 채권·상품 대금 미회수 위험을 전가한 두산밥캣코리아가 공정거래위원회 제재를 받았다&lt;br/&gt;&lt;em&gt;Doosan Bobcat Korea, which shifted the risk of uncollected bonds and product payments to dealers, was sanctioned by the Fair Trade Commission&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;저는 대리점에 갑니다.&lt;br/&gt;&lt;em&gt;I go to the agency.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;대리점에 물건이 많아요.&lt;br/&gt;&lt;em&gt;There are many items at the agency.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 21 Jun 2026 23:32:49 +0900</pubDate><guid isPermaLink="false">vocab-1f2e85cab48a19aca05baadd6c5243a333d03c32</guid><enclosure url="https://images.unsplash.com/photo-1673753263123-ea39d352dec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGFnZW5jeXxlbnwwfHx8fDE3ODIwNTIzNjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="238589" /><ns2:content url="https://images.unsplash.com/photo-1673753263123-ea39d352dec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGFnZW5jeXxlbnwwfHx8fDE3ODIwNTIzNjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1673753263123-ea39d352dec9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhdCUyMHRoZSUyMGFnZW5jeXxlbnwwfHx8fDE3ODIwNTIzNjV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>대리점에</category></item><item><title>않는다는 – that it does not</title><link>urn:urn:vocab:않는다는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1707515205791-36477a7f1718?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGF0JTIwaXQlMjBkb2VzJTIwbm90fGVufDB8fHx8MTc4MjA0NDk0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="않는다는 (that it does not)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;항상 금리 인상 시 부작용으로 지목되곤 하는 성장에 대한 우려가 사실상 문제가 되지 않는다는 인상을 받을 정도다&lt;br/&gt;&lt;em&gt;The concern about growth, which is often pointed out as a side effect of interest rate hikes, is so negligible that it seems virtually not a problem.&lt;/em&gt;&lt;/p&gt;
