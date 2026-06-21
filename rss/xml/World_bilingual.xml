@@ -1,130 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 21 Jun 2026 10:25:10 +0000</lastBuildDate><item><title>Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims (밴스의 이란 합의 옹호, 모호하고 오해를 불러일으키는 주장에 기대)</title><link>https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/18/multimedia/18DC-PREXY-gflk/18DC-PREXY-gflk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Vice President JD Vance on Thursday defended the preliminary deal to stop the war with Iran as a “win for the American people.” But he relied in part on a string of aspirational, vague and misleading claims about the agreement.&lt;br/&gt;(JD 밴스 부통령은 목요일 이란과의 전쟁을 중단하기 위한 예비 합의를 "미국 국민을 위한 승리"라고 옹호했다. 그러나 그는 부분적으로 이 합의에 대해 야심차고 모호하며 오해를 불러일으키는 일련의 주장에 의존했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Vance, speaking at the White House, sought to counter criticism that the deal would reward and embolden Iran without ensuring that the United States achieved the main objectives laid out by President Trump at the start of the fighting. The vice president asserted that Iran would gain little if it did not agree to U.S. demands in the next phase of negotiations and will involve Iran’s nuclear program.&lt;br/&gt;(백악관에서 연설한 밴스 부통령은 이 합의가 이란에 대한 미국의 주요 목표를 보장하지 않으면서 이란에 보상과 용기를 줄 것이라는 비판에 맞서려 했다. 그는 이란이 다음 협상 단계에서 미국의 요구에 동의하지 않으면 얻는 바가 거의 없을 것이라고 주장했으며, 이는 이란의 핵 프로그램과 관련될 것이라고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;“We have all the cards,” Mr. Vance said, adding, “If they change their behavior, big things are going to happen for Iran and for the world. If they don’t, no skin off our backs.”&lt;br/&gt;("우리는 모든 카드를 쥐고 있습니다."라고 밴스 부통령은 말하며, "만약 그들이 행동을 바꾼다면 이란과 세계에 큰 일이 일어날 것입니다. 그렇지 않다면, 우리에게는 아무 손해도 없습니다."라고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;The agreement, which reopened the Strait of Hormuz, appeared to provide some economic relief to Americans on Thursday, as oil and gas prices dropped to levels not seen since the early days of the war. Mr. Vance highlighted the development as he continued his increasingly prominent role as a defender of the deal.&lt;br/&gt;(호르무즈 해협을 재개방한 이 합의는 목요일 미국인들에게 어느 정도 경제적 완화를 제공하는 것으로 보였으며, 유가와 가스 가격이 전쟁 초기 이후 보지 못한 수준으로 하락했다. 밴스 부통령은 합의의 수호자로서 계속해서 두드러지는 역할을 하면서 이 상황을 강조했다.)&lt;/p&gt;
-&lt;p&gt;But he sought to divert attention from the text of the memorandum of understanding released by the two sides on Wednesday, which appeared to give Iran a number of immediate benefits. He worked to focus instead on what he insisted would be a favorable outcome for the United States in the coming round of negotiations for a final deal.&lt;br/&gt;(그러나 그는 양측이 수요일 공개한 양해각서 본문에서 주의를 돌리려 했는데, 이 문서는 이란에 여러 즉각적인 혜택을 주는 것으로 보였다. 그는 대신 최종 합의를 위한 다음 협상 라운드에서 미국에 유리한 결과가 나올 것이라고 주장하는 데 초점을 맞추려 노력했다.)&lt;/p&gt;
-&lt;p&gt;“Words don’t matter, ladies and gentlemen,” Mr. Vance said. “We’re about verification.”&lt;br/&gt;("말은 중요하지 않습니다, 신사숙녀 여러분." 밴스 부통령이 말했다. "우리는 검증에 관한 것입니다.")&lt;/p&gt;
-&lt;p&gt;Here is a look at the vice president’s main arguments in favor of the deal.&lt;br/&gt;(다음은 합의를 지지하는 부통령의 주요 주장을 살펴본 것이다.)&lt;/p&gt;
-&lt;p&gt;Mr. Vance claimed that one immediate concession in the memorandum of understanding — lifting oil sanctions on Iran — was “not a new benefit” for the country.&lt;br/&gt;(밴스 부통령은 양해각서의 즉각적인 양보 중 하나인 이란에 대한 석유 제재 해제가 이란에 "새로운 혜택이 아니다"라고 주장했다.)&lt;/p&gt;
-&lt;p&gt;The claim ignores how the economic penalties in place before the war forced Iran to resort to desperate methods to sell oil. The sanctions forced Iran to sell its oil at a steep discount from market prices, mostly to refineries in China that were willing to risk running afoul of U.S. sanctions.&lt;br/&gt;(이 주장은 전쟁 전에 시행된 경제 제재가 이란으로 하여금 석유를 팔기 위해 필사적인 방법을 동원하도록 강요했다는 사실을 무시한다. 제재로 인해 이란은 대부분 미국 제재를 위반할 위험을 감수하려는 중국의 정유소에 시장 가격보다 크게 할인된 가격으로 석유를 팔아야 했다.)&lt;/p&gt;
-&lt;p&gt;Now, under its preliminary deal with the United States, Iran will be able to sell its oil for more, and to a wider array of buyers. The country will also receive payment in more attractive currencies.&lt;br/&gt;(이제 미국과의 예비 합의에 따라 이란은 더 높은 가격에, 더 다양한 구매자에게 석유를 팔 수 있게 될 것이다. 또한 이란은 더 매력적인 통화로 대금을 받게 될 것이다.)&lt;/p&gt;
-&lt;p&gt;Mr. Vance was correct that the removal of the U.S. blockade on Iranian oil would allow the country’s exports to return to prewar levels — assuming it still has the production capacity to do so — and so it was unlikely that Iran would sell substantially more oil than before the fighting began, at least initially.&lt;br/&gt;(밴스 부통령이 미국의 이란 석유 봉쇄 해제로 이란의 수출이 전쟁 전 수준으로 돌아갈 수 있다고 말한 것은 정확했다. 이는 이란이 생산 능력을 여전히 갖추고 있다는 가정 하에, 적어도 초기에는 전쟁 전보다 훨씬 더 많은 석유를 팔 가능성이 낮다는 의미였다.)&lt;/p&gt;
-&lt;p&gt;In the memorandum, Iran reiterated its longstanding commitment not to pursue a nuclear weapon, an assurance that the United States and its allies have long regarded as largely meaningless. But the agreement does not settle the question of whether Iran will retain the right to enrich uranium, something that Tehran has long insisted on. It is vague about whether Iran will be able to keep stores of uranium after any final agreement goes into effect.&lt;br/&gt;(양해각서에서 이란은 핵무기를 추구하지 않겠다는 오랜 약속을 되풀이했는데, 이는 미국과 동맹국들이 오랫동안 대체로 무의미하다고 여겨온 확약이다. 그러나 이 합의는 이란이 테헤란이 오랫동안 주장해온 우라늄 농축 권리를 유지할지 여부를 결정하지 않는다. 최종 합의가 발효된 후 이란이 우라늄 비축량을 유지할 수 있을지에 대해서도 모호하다.)&lt;/p&gt;
-&lt;p&gt;Mr. Vance projected confidence that the final agreement would include terms upholding Mr. Trump’s goal of ensuring that Iran cannot possess nuclear weapons, and that Iran would not benefit from the changes promised in the memorandum if it does not comply with the U.S. demands.&lt;br/&gt;(밴스 부통령은 최종 합의에 이란이 핵무기를 보유할 수 없도록 하는 트럼프 대통령의 목표를 지키는 조건이 포함되며, 이란이 미국의 요구를 따르지 않으면 양해각서에 약속된 변경 사항의 혜택을 받지 못할 것이라고 확신을 표했다.)&lt;/p&gt;
-&lt;p&gt;“They have promised not to enrich, they have promised they would allow inspectors in to destroy that highly enriched stockpile,” Mr. Vance added. “That’s why the deal contemplates a number of benefits if they do those things, but it doesn’t do anything if they don’t actually meet those promises.”&lt;br/&gt;("그들은 농축하지 않겠다고 약속했고, 검사관들이 그 고농축 비축량을 파괴하도록 허용하겠다고 약속했습니다." 밴스 부통령이 덧붙였다. "그래서 합의는 그들이 그런 일을 할 경우 여러 혜택을 고려하지만, 실제로 그 약속을 이행하지 않으면 아무 일도 일어나지 않습니다.")&lt;/p&gt;
-&lt;p&gt;That the agreement does not stipulate the future of the stockpile of high-grade and low-grade uranium is notable, particularly because Mr. Trump has said that the 2015 Obama-era Iran deal financially rewarded Tehran while phasing out the country’s limits on enrichment.&lt;br/&gt;(합의가 고농축 및 저농축 우라늄 비축량의 미래를 규정하지 않은 점은 주목할 만하다. 특히 트럼프 대통령이 2015년 오바마 시대 이란 합의가 테헤란에 재정적 보상을 제공하면서 이란 농축 제한을 단계적으로 폐지했다고 말했기 때문이다.)&lt;/p&gt;
-&lt;p&gt;The one paragraph in Mr. Trump’s preliminary deal that addresses the nuclear program requires Iran to “down-blend” — essentially dilute — the approximately 11 tons of enriched nuclear material in its possession, including 970 pounds that are enriched to 60 percent, just short of bomb grade. But it does not require Iran to surrender that material and ship it out of the country.&lt;br/&gt;(트럼프 대통령의 예비 합의 중 핵 프로그램을 다루는 한 단락은 이란이 보유한 약 11톤의 농축 핵 물질(폭탄급에 불과한 60% 농축된 970파운드 포함)을 "다운블렌드"(본질적으로 희석)하도록 요구한다. 그러나 이란이 그 물질을 포기하고 해외로 수송하도록 요구하지는 않는다.)&lt;/p&gt;
-&lt;p&gt;Under the Obama-era deal, Iran sent about 97 percent of its stockpile to Russia.&lt;br/&gt;(오바마 시대 합의 하에 이란은 비축량의 약 97%를 러시아로 보냈다.)&lt;/p&gt;
-&lt;p&gt;Mr. Vance still argued that Iran was unlikely to rebuild their nuclear program without getting “a lot of money.”&lt;br/&gt;(밴스 부통령은 여전히 이란이 "많은 돈"을 받지 않고서는 핵 프로그램을 재건할 가능성이 낮다고 주장했다.)&lt;/p&gt;
-&lt;p&gt;The memorandum commits the United States to supporting the establishment of a $300 billion reconstruction fund for Iran, and it opens the door to the unfreezing of billions of dollars in frozen Iranian assets held around the world.&lt;br/&gt;(양해각서는 미국이 이란을 위한 3000억 달러 재건 기금 설립을 지원하도록 하고 있으며, 전 세계에 동결된 수십억 달러의 이란 자산 동결 해제 가능성을 열어준다.)&lt;/p&gt;
-&lt;p&gt;The memorandum also calls for the lifting of an array of international sanctions that have crippled Iran’s economy for years, subject to agreement on the final deal.&lt;br/&gt;(또한 양해각서는 최종 합의에 따라 수년간 이란 경제를 마비시킨 다양한 국제 제재 해제를 촉구한다.)&lt;/p&gt;
-&lt;p&gt;Critics have said the memorandum amounts to a giveaway, with no assurance of the United States getting anything in return.&lt;br/&gt;(비판론자들은 이 양해각서가 미국이 대가로 얻는 것이 보장되지 않은 채 사실상 증여에 가깝다고 말했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Vance emphasized that the United States would not contribute money to the reconstruction fund. The financial benefits in the deal, he said, would only be available to Iran if it complied “fully” with conditions the United States could seek as part of the final agreement, and if the country chose to “change their behavior.”&lt;br/&gt;(밴스 부통령은 미국이 재건 기금에 돈을 기여하지 않을 것이라고 강조했다. 합의의 재정적 혜택은 이란이 미국이 최종 합의의 일부로 요구할 수 있는 조건을 "완전히" 준수하고, "행동을 바꾸기"로 선택한 경우에만 가능할 것이라고 말했다.)&lt;/p&gt;
-&lt;p&gt;But the memorandum says that the United States will unfreeze assets and release restricted funds “upon the implementation of this M.O.U.”&lt;br/&gt;(그러나 양해각서는 미국이 "이 양해각서의 이행 시" 자산 동결을 해제하고 제한된 자금을 해제한다고 명시하고 있다.)&lt;/p&gt;
-&lt;p&gt;The preliminary agreement makes no mention of curbing Iran’s ballistic missile program, a major concern of Israel’s and a goal set by administration officials in the early days of the war. Iran’s missile program has allowed it to reach targets across the region, including in Israel.&lt;br/&gt;(예비 합의는 이란의 탄도 미사일 프로그램 축소에 대해 언급하지 않는데, 이는 이스라엘의 주요 우려 사항이자 전쟁 초기 행정부 관리들이 설정한 목표 중 하나이다. 이란의 미사일 프로그램은 이스라엘을 포함한 지역 전체의 목표물에 도달할 수 있게 해주었다.)&lt;/p&gt;
-&lt;p&gt;Asked about the issue, Mr. Vance repeated Mr. Trump’s assertion that it was impossible to tell any country that it could not defend itself.&lt;br/&gt;(이 문제에 대해 질문을 받자, 밴스 부통령은 어떤 국가에 스스로를 방어할 수 없다고 말하는 것은 불가능하다는 트럼프 대통령의 주장을 되풀이했다.)&lt;/p&gt;
-&lt;p&gt;That is a turnabout for an administration that in March described the destruction of Iran’s ballistic missiles as one of the goals of the war. “The United States is conducting an operation to eliminate the threat of Iran’s short-range ballistic missiles,” Secretary of State Marco Rubio said then.&lt;br/&gt;(이는 3월에 이란의 탄도 미사일 파괴를 전쟁 목표 중 하나로 묘사했던 행정부의 입장 선회이다. 당시 마코 루비오 국무장관은 "미국은 이란의 단거리 탄도 미사일 위협을 제거하기 위한 작전을 수행 중입니다."라고 말했다.)&lt;/p&gt;
-&lt;p&gt;That objective, according to U.S. intelligence estimates, was not achieved in the war’s first two months. While Mr. Vance also said on Thursday that much of Iran’s military had been “destroyed,” a classified U.S. intelligence report estimated that Iran retained roughly 70 percent of its prewar missile stockpile as of last month. Mr. Vance argued that the total number of missiles mattered less than the state of the missile launchers.&lt;br/&gt;(미국 정보 추정에 따르면, 그 목표는 전쟁 첫 두 달 동안 달성되지 않았다. 밴스 부통령이 목요일 이란 군대의 많은 부분이 "파괴되었다"고 말했지만, 기밀 미국 정보 보고서는 지난달 기준으로 이란이 전쟁 전 미사일 비축량의 약 70%를 보유한 것으로 추정했다. 밴스 부통령은 미사일 총 수보다 미사일 발사대의 상태가 더 중요하다고 주장했다.)&lt;/p&gt;
-&lt;p&gt;Iran, however, is still showing that it can fire off missiles, and its Gulf neighbors have felt threatened enough that they have urged the United States to sign the peace deal.&lt;br/&gt;(그러나 이란은 여전히 미사일을 발사할 수 있음을 보여주고 있으며, 걸프 지역 이웃 국가들은 충분히 위협을 느껴 미국에 평화 협정에 서명할 것을 촉구했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Vance appeared intent on responding to criticism from Israeli lawmakers, who echoed some Republicans in Washington by arguing that the deal gave Iran economic relief and did not address the country’s nuclear program.&lt;br/&gt;(밴스 부통령은 이스라엘 의원들의 비판에 대응하려는 의도로 보였다. 이스라엘 의원들은 워싱턴의 일부 공화당원들의 주장을 반영하여 이 합의가 이란에 경제적 구제를 제공하고 핵 프로그램을 다루지 않는다고 주장했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Vance delivered a pointed warning to the Israelis, especially to the members of Prime Minister Benjamin Netanyahu’s cabinet who have attacked Mr. Trump.&lt;br/&gt;(밴스 부통령은 특히 베냐민 네타냐후 총리 내각 중 트럼프 대통령을 비난한 의원들에게 날카로운 경고를 전했다.)&lt;/p&gt;
-&lt;p&gt;“Donald J. Trump is the only head of state in the entire world who is sympathetic to the nation of Israel at this moment,” Mr. Vance said. He added: “If I was in the cabinet of the Israeli government, I might not be attacking the only powerful ally that I have anywhere left in the entire world.”&lt;br/&gt;("도널드 J. 트럼프는 현재 전 세계에서 이스라엘 국가에 동정적인 유일한 국가 원수입니다."라고 밴스 부통령이 말했다. 그는 덧붙였다: "만약 내가 이스라엘 정부 내각에 있었다면, 전 세계에 남은 유일한 강력한 동맹을 공격하지 않을 것입니다.")&lt;/p&gt;
-&lt;p&gt;Mr. Vance also pointed to support for the agreement from other Gulf nations, as he tried to direct reporters away from Israel’s criticism.&lt;br/&gt;(밴스 부통령은 또한 다른 걸프 국가들의 합의 지지를 언급하며, 기자들의 관심을 이스라엘의 비판에서 돌리려 했다.)&lt;/p&gt;
-&lt;p&gt;“I tend to think that you should trust the people who know the Iranians the best and who have the most to lose,” Mr. Vance said. “What are the Gulf Arab states saying about this deal?”&lt;br/&gt;("저는 이란인을 가장 잘 알고 가장 잃을 것이 많은 사람들을 신뢰해야 한다고 생각하는 경향이 있습니다."라고 밴스 부통령이 말했다. "걸프 아랍 국가들은 이 합의에 대해 뭐라고 말하고 있습니까?")&lt;/p&gt;
-&lt;p&gt;Analysts, however, say that officials in the region feel a deep sense of frustration over the deal, particularly because it does not address the Iranian missile system that has hit airports, energy facilities, hotels and military installations in the region.&lt;br/&gt;(그러나 분석가들은 지역 관리들이 합의에 깊은 좌절감을 느끼고 있다고 말한다. 특히 이 합의가 지역 내 공항, 에너지 시설, 호텔 및 군사 시설을 강타한 이란 미사일 시스템을 다루지 않기 때문이다.)&lt;/p&gt;
-&lt;p&gt;Jonathan Swan contributed reporting.&lt;br/&gt;(조나단 스완이 보도에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/18/multimedia/18DC-PREXY-gflk/18DC-PREXY-gflk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 18 Jun 2026 17:54:46 +0000</pubDate></item><item><title>Who Is Andy Burnham, the Man Who Could Be Britain’s Next Prime Minister? (앤디 번햄, 차기 영국 총리가 될 수 있는 인물은 누구인가?)</title><link>https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/18/multimedia/HFO19-int-uk-burnham-btcp/HFO19-int-uk-burnham-btcp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Andy Burnham has twice run unsuccessfully for the leadership of Britain’s governing Labour Party. Now his decisive victory in a special parliamentary election puts him within reach not just of that goal, but of entering Downing Street as prime minister.&lt;br/&gt;(앤디 번햄은 영국 집권 노동당의 당수 선거에 두 번 출마했으나 실패했습니다. 이제 특별 보궐선거에서의 결정적인 승리로 그는 그 목표 달성뿐만 아니라 총리로서 다우닝가에 입성할 수 있는 거리에 다가섰습니다.)&lt;/p&gt;
-&lt;p&gt;A fluent communicator known for his bonhomie and charisma, Mr. Burnham has for nine years been mayor of Greater Manchester, where he cultivated an image of optimism, activism and the type of authentic plain speaking characteristic of northern England.&lt;br/&gt;(친화력과 카리스마로 유명한 유창한 소통가인 번햄은 9년간 그레이터맨체스터 시장을 지냈으며, 그곳에서 그는 낙관주의, 행동주의, 그리고 잉글랜드 북부의 특징인 진정한 직설 화법의 이미지를 구축했습니다.)&lt;/p&gt;
-&lt;p&gt;With a seat in Parliament representing Makerfield, in northwest England, Mr. Burnham will need the support of 80 fellow Labour lawmakers to mount a leadership challenge to the country’s unpopular prime minister, Keir Starmer.&lt;br/&gt;(잉글랜드 북서부 메이커필드를 대표하는 의회 의석을 확보한 번햄은 인기가 없는 현 총리 키어 스타머에게 당수직 도전을 하기 위해 동료 노동당 의원 80명의 지지를 확보해야 합니다.)&lt;/p&gt;
-&lt;p&gt;Supporters see Mr. Burnham — who in Manchester won the nickname “king of the North” for his defense of the area during the Covid-19 pandemic — as Labour’s potential savior against the populist right-wing Reform U.K. party, led by Nigel Farage. Critics portray Mr. Burnham as a political chameleon who would face the same economic constraints that have stymied Mr. Starmer’s lackluster government, and the same restless, impatient electorate.&lt;br/&gt;(지지자들은 코로나19 팬데믹 기간 동안 지역을 수호하여 맨체스터에서 '북부의 왕'이라는 별명을 얻은 번햄을 나이절 패라지가 이끄는 포퓰리즘 우파 개혁 영국당에 맞선 노동당의 잠재적 구세주로 봅니다. 비평가들은 번햄을 정치적 카멜레온으로 묘사하며, 그가 스타머의 부진한 정부를 가로막은 동일한 경제적 제약과 동일한 초조하고 참을성 없는 유권자들을 마주할 것이라고 말합니다.)&lt;/p&gt;
-&lt;p&gt;Either way, he would be a different kind of leader from the one he wants to replace.&lt;br/&gt;(어느 쪽이든, 그는 자신이 교체하려는 지도자와는 다른 종류의 지도자가 될 것입니다.)&lt;/p&gt;
-&lt;p&gt;“He’s just optimistic and happy and seems to enjoy being a politician,” said John McTernan, an adviser to Tony Blair when he was prime minister and someone who has known Mr. Burnham since his days as a researcher for a lawmaker in south London. “Leaders either inspire you, or they slightly depress you,” Mr. McTernan added, noting that there had been several recent prime ministers “who didn’t really seem to enjoy it” — Mr. Starmer included.&lt;br/&gt;("그는 단지 낙관적이고 행복하며 정치인이 되는 것을 즐기는 것 같습니다."라고 토니 블레어 총리 시절 고문이었고 번햄이 런던 남부의 의원 연구원이었던 시절부터 알고 지낸 존 맥터넌은 말했습니다. "지도자는 당신에게 영감을 주거나, 약간 우울하게 만듭니다."라고 맥터넌은 덧붙이며, 최근 몇몇 총리들은 (스타머를 포함해) "그 역할을 실제로 즐기지 않는 것 같았다"고 지적했습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Burnham was born in Liverpool in 1970, to a father who was a phone engineer and a mother who was a doctor’s receptionist. He was raised in Culcheth, a village in Cheshire not far from Makerfield. Of Irish heritage, he attended Roman Catholic state schools and has spoken of his Catholicism, including meeting Pope Francis in 2023.&lt;br/&gt;(번햄은 1970년 리버풀에서 전화 기술자였던 아버지와 의사 접수원이었던 어머니 사이에서 태어났습니다. 그는 메이커필드에서 멀지 않은 체셔의 컬체스라는 마을에서 자랐습니다. 아일랜드 혈통인 그는 로마 가톨릭 공립학교를 다녔으며, 2023년 교황 프란치스코를 만난 일을 포함해 자신의 가톨릭 신앙에 대해 이야기한 바 있습니다.)&lt;/p&gt;
-&lt;p&gt;“My mum was with me, and even though I’m not a Catholic in that full sense of the word, I felt the magnetic pull of the Vatican,” he said, likening his faith to his lifelong devotion to Everton soccer club. If you stop going to matches, he added, “you’re still an Evertonian; you can stop going to church but you’re still a Catholic.”&lt;br/&gt;("어머니가 저와 함께 계셨는데, 제가 완전한 의미의 가톨릭 신자는 아니지만 바티칸의 자석 같은 끌림을 느꼈습니다."라고 그는 말하며, 자신의 신앙을 에버턴 축구 클럽에 대한 평생의 헌신에 비유했습니다. 경기를 보러 가지 않더라도 "당신은 여전히 에버턴 팬입니다. 교회에 가지 않더라도 당신은 여전히 가톨릭 신자인 것과 같습니다."라고 덧붙였습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Burnham won a place to study English at the University of Cambridge and after graduating, took a familiar path to political prominence, first as a researcher for Tessa Jowell, a lawmaker in south London, then as an adviser to the then-culture secretary Chris Smith.&lt;br/&gt;(번햄은 케임브리지 대학교에서 영문학을 공부할 기회를 얻었고, 졸업 후에는 런던 남부의 의원인 테사 조웰의 연구원으로, 그 다음에는 당시 문화부 장관이었던 크리스 스미스의 고문으로 일하면서 정치적 명성을 얻는 익숙한 길을 걸었습니다.)&lt;/p&gt;
-&lt;p&gt;While at Cambridge he met Marie-France Van Heel, who was born in the Netherlands, and they later married and had three children.&lt;br/&gt;(케임브리지에 있는 동안 그는 네덜란드 태생의 마리-프랑스 반 힐을 만났고, 이후 결혼하여 세 자녀를 두었습니다.)&lt;/p&gt;
-&lt;p&gt;“When my wife got pregnant we actually hadn’t planned to have children at that time because I felt stability was important. We got married in October 2000 when Jimmy was 8 months old and I was in a difficult battle to win the nomination,” Mr. Burnham told The Guardian in 2009, referring to his efforts to run for Parliament.&lt;br/&gt;("아내가 임신했을 때 사실 우리는 그 당시 아이를 계획하지 않았습니다. 안정성이 중요하다고 느꼈기 때문입니다. 저는 2000년 10월에 지미가 8개월이 되었을 때 결혼했고, 당선을 위한 어려운 싸움을 하고 있었습니다."라고 번햄은 2009년 가디언지와의 인터뷰에서 의회 출마 노력을 언급하며 말했습니다.)&lt;/p&gt;
-&lt;p&gt;After he won election in 2001, representing Leigh, a northern district close to where he was raised, he became a junior minister in the New Labour government of Tony Blair. He was promoted to the cabinet under Gordon Brown and served as chief secretary to the Treasury, as secretary for culture, media and sport, and then as health secretary.&lt;br/&gt;(2001년 자신이 자란 곳과 가까운 북부 지역인 리를 대표해 당선된 후, 그는 토니 블레어의 뉴 레이버 정부에서 하급 장관이 되었습니다. 그는 고든 브라운 아래에서 각료로 승진하여 재무부 수석 장관, 문화·미디어·스포츠 장관, 그리고 보건 장관을 역임했습니다.)&lt;/p&gt;
-&lt;p&gt;In 2009 Mr. Burnham was heckled at a memorial service on the 20th anniversary of the Hillsborough disaster, which resulted in the deaths of 97 Liverpool F.C. soccer fans in a stadium crush. It made a deep impression, convincing him that the families deserved justice after the police, investigators and the news media tried to depict the victims as hooligans and to blame them for the disaster. Pressure from Mr. Burnham helped secure a second inquiry.&lt;br/&gt;(2009년 번햄은 힐스버러 참사 20주기 추모식에서 야유를 받았습니다. 이 참사는 경기장 압사 사고로 리버풀 FC 축구팬 97명이 사망한 사건입니다. 이 경험은 깊은 인상을 남겼으며, 경찰, 수사관, 언론이 희생자들을 훌리건으로 묘사하고 참사에 대한 책임을 돌리려 한 후, 유가족들에게 정의가 실현되어야 한다고 확신하게 했습니다. 번햄의 압력은 두 번째 조사를 확보하는 데 도움이 되었습니다.)&lt;/p&gt;
-&lt;p&gt;After Labour lost the general election in 2010, Mr. Burnham ran for party leader, coming in fourth. In 2015 he tried again and was the early front-runner, only to lose to the left-winger Jeremy Corbyn, on whose team he later served.&lt;br/&gt;(2010년 노동당이 총선에서 패배한 후, 번햄은 당수 선거에 출마하여 4위를 차지했습니다. 2015년에 다시 도전하여 초기 선두주자였지만, 좌파 성향의 제레미 코빈에게 패배했으며, 이후 코빈 팀에서 일했습니다.)&lt;/p&gt;
-&lt;p&gt;In 2017 Mr. Burnham left Parliament after deciding his future lay outside Westminster, and he was elected as mayor of Greater Manchester.&lt;br/&gt;(2017년 번햄은 자신의 미래가 웨스트민스터 밖에 있다고 판단하고 의회를 떠나 그레이터맨체스터 시장으로 선출되었습니다.)&lt;/p&gt;
-&lt;p&gt;Robert Ford, a professor of politics at the University of Manchester, said Mr. Burnham had presided over a thriving local economy there, and had showed his political skills by increasing control and regulation of the city’s buses — winning a fight with transportation companies in the process.&lt;br/&gt;(맨체스터 대학교의 정치학 교수 로버트 포드는 번햄이 그곳에서 번성하는 지역 경제를 이끌었으며, 시내 버스에 대한 통제와 규제를 강화하여 운송 회사들과의 싸움에서 승리하는 과정에서 자신의 정치적 기술을 보여주었다고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;“He turned what could have been a rather bland technocratic bit of policy — believe me, if Keir Starmer had been there it would have been — into a David versus Goliath fight,” said Prof. Ford. “His big strength is he is very effective communicator, a very effective storyteller; he’s good at giving voters a sense of who he is, who he’s for, and what he’s trying to do.”&lt;br/&gt;("그는 꽤 평범한 기술관료적 정책이 될 수 있었던 것을 (키어 스타머가 거기 있었다면 그랬을 것입니다) 다윗 대 골리앗 싸움으로 바꿨습니다."라고 포드 교수는 말했습니다. "그의 큰 강점은 매우 효과적인 소통가이자 매우 효과적인 이야기꾼이라는 것입니다. 그는 유권자들에게 자신이 누구인지, 누구를 위해 일하는지, 무엇을 하려는지에 대한 감각을 잘 전달합니다.")&lt;/p&gt;
-&lt;p&gt;“In all these respects,” Prof. Ford said, “he is quite a contrast with the incumbent Labour prime minister.”&lt;br/&gt;("이 모든 측면에서," 포드 교수는 말했습니다. "그는 현직 노동당 총리와 상당히 대조를 이룹니다.")&lt;/p&gt;
-&lt;p&gt;Mr. Burnham also led from the front during the pandemic, complaining that government lockdowns were penalizing regions like his, and making a speech in central Manchester that became famous.&lt;br/&gt;(번햄은 또한 팬데믹 기간 동안 정부의 봉쇄 조치가 자신과 같은 지역을 불이익하게 만든다고 불평하고 맨체스터 시내에서 유명해진 연설을 하며 앞장서서 리더십을 발휘했습니다.)&lt;/p&gt;
-&lt;p&gt;Perhaps the most consistent criticism leveled against Mr. Burnham, who served under three very different Labour leaders in Mr. Blair, Mr. Brown and Mr. Corbyn, is that he is politically malleable.&lt;br/&gt;(번햄에 대해 제기되는 가장 일관된 비판은, 아마도 그가 블레어, 브라운, 코빈이라는 매우 다른 세 명의 노동당 지도자 아래에서 일했기 때문에 정치적으로 유연하다는 것입니다.)&lt;/p&gt;
-&lt;p&gt;In 2022, after the last soccer World Cup, Mr. Starmer himself poked fun at his former colleague. In a speech to reporters, Mr. Starmer joked that Mr. Burnham “got to see his boyhood team Argentina win the World Cup” but that “it was a mixed bag because he also got to see his boyhood team France lose the final and his boyhood teams Morocco and Croatia lose in the semis.”&lt;br/&gt;(2022년, 마지막 월드컵 이후 스타머 자신도 전 동료를 놀렸습니다. 기자들과의 연설에서 스타머는 번햄이 "어린 시절 응원하던 팀 아르헨티나가 월드컵에서 우승하는 것을 보게 되었지만, 그의 어린 시절 응원팀 프랑스가 결승에서 지고, 그의 어린 시절 응원팀 모로코와 크로아티아가 준결승에서 지는 것을 보는 혼합된 결과였다"고 농담했습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. McTernan acknowledged that Mr. Burnham’s reputation is of a politician who “likes people to like him” but said: “A people pleaser as a politician is much better than a people hater.”&lt;br/&gt;(맥터넌은 번햄의 평판이 "사람들이 자신을 좋아하기를 바라는" 정치인이라는 점을 인정하면서도 "정치인으로서 사람을 기쁘게 하는 사람은 사람을 싫어하는 사람보다 훨씬 낫다"고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;One common thread through Mr. Burnham’s career has been the idea that British politics and the news media is too London-centric, and that regional inequality has damaged the country, a point he made in his first speech to Parliament in 2001. During one recent interview Mr. Burnham said Britain had been “on the wrong path for 40 years.”&lt;br/&gt;(번햄 경력의 공통된 주제 중 하나는 영국 정치와 뉴스 미디어가 너무 런던 중심적이며, 지역 격차가 국가에 해를 끼쳤다는 생각으로, 이는 그가 2001년 의회 첫 연설에서 한 주장입니다. 최근 한 인터뷰에서 번햄은 영국이 "40년 동안 잘못된 길을 걸어왔다"고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Burnham raised concern among some last year when the said that the Labour Party ought to get “beyond being in hock to the bond markets” — a phrase he has subsequently said was misinterpreted. More recently he appeared hazy over an aspect of economic policy in one BBC interview. But in Manchester he pursued business-friendly policies to attract investment.&lt;br/&gt;(번햄은 작년에 노동당이 "채권 시장에 얽매이는 것을 넘어서야 한다"고 말했을 때 일부 사람들의 우려를 불러일으켰습니다. 이는 그가 이후 오해받았다고 말한 표현입니다. 최근 그는 BBC 인터뷰에서 경제 정책의 한 측면에 대해 모호해 보였습니다. 그러나 맨체스터에서는 투자를 유치하기 위해 친기업 정책을 추구했습니다.)&lt;/p&gt;
-&lt;p&gt;According to Prof. Ford, as a mayor, Mr. Burnham “got relatively used to saying whatever was in his mind” but, now has “been getting a rather sharp lesson in the need to weigh his words more carefully.”&lt;br/&gt;(포드 교수에 따르면, 시장으로서 번햄은 "마음에 떠오르는 대로 말하는 데 상대적으로 익숙해졌지만" 이제 "말을 더 신중하게 해야 할 필요성에 대해 상당히 날카로운 교훈을 얻고 있습니다.")&lt;/p&gt;
-&lt;p&gt;How the skills he showed in Manchester would prepare him for the top job in British politics is hard to predict.&lt;br/&gt;(그가 맨체스터에서 보여준 기술이 영국 정치의 최고 자리를 위해 그를 어떻게 준비시킬지는 예측하기 어렵습니다.)&lt;/p&gt;
-&lt;p&gt;“It’s very different when you are sailing into the storm of 10 Downing Street, where there will be 150 issues on your desk every day,” said Prof. Ford. “You don’t really get that much control over which ones to pick fights over, and you have no time to think.”&lt;br/&gt;("매일 책상 위에 150개의 현안이 놓여 있는 10 다우닝가의 폭풍우 속으로 항해하는 것은 매우 다릅니다."라고 포드 교수는 말했습니다. "어느 현안에 대해 싸움을 걸지 선택할 통제권이 실제로 그렇게 많지 않으며, 생각할 시간도 없습니다.")&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/18/multimedia/HFO19-int-uk-burnham-btcp/HFO19-int-uk-burnham-btcp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 18 Jun 2026 23:41:47 +0000</pubDate></item><item><title>What Does It All Mean? Once a Year, French Students Try to Explain. (이게 다 무슨 의미일까? 프랑스 학생들이 1년에 한 번씩 설명하려 애쓰는 이유)</title><link>https://www.nytimes.com/2026/06/19/world/europe/france-education-high-school-philosophy.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/19/multimedia/19france-phil-top-sub-hbjp/19france-phil-top-sub-hbjp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The French were grappling with two questions this week.&lt;br/&gt;(프랑스인들은 이번 주 두 가지 질문과 씨름하고 있었다.)&lt;/p&gt;
-&lt;p&gt;Not whether President Trump would hurl insults and leave the Group of 7 early or who the least-known player in the World Cup is.&lt;br/&gt;(트럼프 대통령이 모욕을 퍼붓고 주요 7개국(G7) 정상회의를 일찍 떠날지, 혹은 월드컵에서 가장 덜 알려진 선수가 누구인지 같은 질문이 아니었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-대신 그들은 이렇게 묻고 있었다: 다른 사람들이 행복하지 않을 때 우리도 행복할 수 있을까? 그리고 우리는 우리의 말을 통제할 수 있을까?
-&lt;&lt;&lt;PARA&gt;&gt;
-이 질문들은 올해 치러진 철학 필기시험의 일부였다. 매년 같은 시간에 전국에서 50만 명이 넘는 17세와 18세 학생들이 응시한다. 1년 내내 필수 철학 과목을 수강해 온 학생들은 두 가지 질문 중 하나에 답하거나 철학 논문을 분석해야 한다. 올해의 논문은 프리드리히 니체의 1878년 저서 『인간적인, 너무나 인간적인』에서 발췌한 것이었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-학생들은 답변을 작성하는 데 4시간이 주어진다. 이 시험은 프랑스 교육에서 매우 중요한 부분이어서 지역 뉴스 매체들은 이란과 우크라이나 전쟁에 대한 실시간 업데이트 옆에 이 시험에 대한 라이브 블로그를 운영하며, 철학자들을 초청해 라디오, TV, 신문에서 이 질문에 대한 자신의 답변을 논의하도록 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑스 교육부 장관 에두아르 제프레는 "저에게 철학 시험은 우리가 누구인지에 대한 모든 것을 말해줍니다"라고 말했다. 그는 월요일 방문한 한 고등학교 운동장에서 TV 카메라 앞에서 시험 봉투를 뜯고 학생들에게 나눠주며, 마지막 순간에 철학적이지 않은 교정 조언도 건넸다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 이 시험에 대해 "실제로 우리는 상반된 견해와 논쟁을 교육의 핵심에 두기로 선택한 나라라는 것을 말해줍니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑스 교육사 전문가이자 아미앵에 있는 피카르디 쥘 베른 대학의 명예 교수인 브루노 푸세는 나폴레옹이 1809년에 원래 행정관을 양성하기 위해 고등학교에 철학 과목을 도입했다고 설명했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 1880년대에 황제에 의한 통치 이후 프랑스가 민주 정부를 재건하면서 이 과목은 다른 목적을 갖게 되었다. 푸세 씨는 새 정부가 학교에서 로마 가톨릭 교회를 몰아내기 위해 노력했다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 "공화국이 해방되고 있었기 때문에, 계몽주의에 의지해 지적·정치적으로 가톨릭 교회의 무게에서 벗어나려고 했습니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-모든 학생들은 고등학교 마지막 학년에 이 과목을 수강한다. 단, 건설이나 호텔 경영 같은 분야에서 직업 훈련을 받는 직업 프로그램 학생들은 제외된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑스의 명문 에콜 노르말 쉬페리외르의 원장이자 철학자 프레데리크 웜스는 빅토르 위고의 소설 『클로드 그』의 한 구절을 인용해 "위고는 '머리를 자르는 대신, 머리를 채워라'라고 말했습니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그의 기관에서 프랑스의 최고 학생들은 교수, 과학자, 그리고 물론 철학자가 되기 위해 공부하며 급여를 받는다. 졸업생으로는 장폴 사르트르, 미셸 푸코, 자크 데리다 등이 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-철학이 프랑스에서 여전히 얼마나 중요한지 반영하듯, 웜스 씨는 라디오 진행자로도 활동하는 많은 프랑스 철학자 중 한 명이다. 매주 그는 방송에서 세 가지 철학적 질문을 제기하고 답변한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-철학 잡지 편집자 안 소피 모로는 철학 과정과 시험이 프랑스인에게 다른 나라의 군 복무와 유사한 통과 의례라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-모로 씨는 "정의, 자유, 국가란 무엇인가, 민주주의 같은 가치에 대한 집단적 성찰을 거쳐야 좋은 시민이 된다는 생각입니다"라고 말했다. 그녀는 정기적으로 기업에 고용되어 윤리적 투자와 직원 참여 같은 주제에 대해 철학적 관점에서 직원들과 세미나를 진행한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그렇다면 전형적인 프랑스 철학 수업은 어떤 모습일까? 나는 파리 외곽의 녹음이 우거진 교외인 뇌이쉬르센에 있는 공립 고등학교에서 니콜라 프랑크의 수업을 방문해 알아보았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑크 씨는 프랑스 철학 교사 노조의 전 회장이며 35년 동안 이 과목을 가르쳐 왔다. 내가 방문한 날, 그의 학생들은 "왜 우리는 일을 하는가?"라는 질문과 씨름하고 있었다. 그는 앞쪽 책상에 앉아 학생들이 제시한 답변들을 검토했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 한 답변에 반응하며 "단지 생계를 유지하기 위해서라면, 왜 사람들은 필요한 것보다 더 많이 버는 걸까요? 다른 무언가가 작용하고 있을 겁니다"라고 물었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-'일'은 이 과정 커리큘럼의 기둥인 17개의 상호 연결된 개념 중 하나이다. 다른 개념으로는 자유, 정의, 진리, 언어, 행복 등이 있다. 교사들은 자신의 재량에 따라 수업을 설계할 수 있으며, 그 과정에서 방대한 철학자 목록을 활용한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-나중에 그는 이 과정의 목적이 단지 역사적 철학 이론을 배우는 것이 아니라고 설명했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 "가장 중요한 것은 개인이 개념을 이해하고 파악하는 능력입니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2시간 동안 프랑크 씨와 그의 학생들은 17세기 프랑스 철학자 블레즈 파스칼의 관점(일이 우리 자신의 죽음을 성찰하는 것에서 주의를 돌리게 한다는 견해)부터 칼 마르크스의 이론(일을 통해 인간은 원자재와 자신의 내면을 동시에 변화시킨다는 견해)까지, 일에 대한 다양한 견해를 탐구했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 학생들에게 그들의 "신념과 편견"이 그의 원자재를 형성하며, 그들을 가르침으로써 그는 그들을 "변화시키고" 있다고 말했다. "그것이 지금 제가 하고 있는 일입니다"라고 그는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑크 씨의 학생 중 한 명인 라파엘 바쿠슈는 자신의 선생님이 성공하고 있다고 말했다. 그는 이 수업이 "세상을 바라보는 제 관점을 완전히 바꿔놓았습니다"라고 말했다. 그가 당연하게 여겼던 것들이 훨씬 더 복잡해졌다. 그는 "나는 누구인가?"라는 질문에 시달리고 있다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-17세인 바쿠슈 씨는 "부모님이 제 이름을 지어주셨고, 저는 가문의 성을 물려받았습니다. 궁극적으로 우리를 진정으로 대표하고 우리의 진정한 정체성을 형성하는 유일한 것은 우리의 일, 즉 우리가 하는 일, 우리가 창조하는 것입니다"라고 말했다. 그는 모든 개념이 서로 겹치는 방식을 좋아한다고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-철학 과정은 학생의 마지막 학년에서 가장 어려운 과목으로 널리 알려져 있다. 2025년 평균 점수는 20점 만점에 10.8점으로, 일반 평균 학점보다 2.3점 낮았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-시험 당일, 전국 많은 사람들이 종종 애석하게도 자신의 경험을 회상했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-교육부 장관 제프레는 "저에게는 놀라운 계시였습니다"라고 말했다. 그의 대변인은 그가 이 수업에서 "희망이 없었다"고 중얼거리며 겨우 8점으로 졸업했다고 말했다. 밖에 있던 경찰관은 자신도 시험에 떨어졌으며, 그래서 경찰 일을 시작하게 되었다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-웜스 씨는 "성적은 매우 개인적으로 받아들여집니다. 인생의 가장 깊은 질문에 대해 생각하는 것을 평가하기 때문입니다"라고 말했다. 그는 택시 기사에게 자신의 직업을 말하면, 그들은 항상 이 수업에서 받은 점수를 공유한다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"인생의 의미를 설명할 수 없다면, 당신은 누구입니까?")&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/europe/france-education-high-school-philosophy.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19france-phil-top-sub-hbjp/19france-phil-top-sub-hbjp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 18 Jun 2026 23:22:40 +0000</pubDate></item><item><title>Swiss Officials Say Iran Talks Are Off, for Now (스위스 관료들 "이란 회담, 당분간 연기")</title><link>https://www.nytimes.com/2026/06/19/world/europe/switzerland-iran-talks.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/17/multimedia/19int-Switzerland-talks/17dc-iran-deal-photo-bztf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 21 Jun 2026 12:28:58 +0000</lastBuildDate><item><title>Swiss Officials Say Iran Talks Are Off, for Now (스위스 관료들 "이란 회담, 당분간 연기")</title><link>https://www.nytimes.com/2026/06/19/world/europe/switzerland-iran-talks.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/17/multimedia/19int-Switzerland-talks/17dc-iran-deal-photo-bztf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Officials in Switzerland said on Friday morning that the next stage of peace negotiations between the United States and Iran, focused on issues including Iran’s nuclear program and meant to begin on the shores of Lake Lucerne, had been postponed.&lt;br/&gt;(금요일 아침 스위스 관료들은 이란의 핵 프로그램을 포함한 주요 의제에 초점을 맞추고 루체른 호숫가에서 시작될 예정이었던 미국과 이란 간 평화 협상의 다음 단계가 연기되었다고 밝혔다.)&lt;/p&gt;
 &lt;p&gt;The announcement did not include any information about when the negotiations might now begin, raising immediate questions about the memorandum of understanding that President Trump and Iran’s president had signed earlier this week. That agreement left crucial terms unsettled and called for an immediate 60-day negotiating window to hash them out.&lt;br/&gt;(이 발표에는 협상이 언제 재개될지에 대한 정보가 포함되지 않아, 이번 주 초 트럼프 대통령과 이란 대통령이 서명한 양해각서에 대한 즉각적인 의문이 제기되었다. 해당 합의는 핵심 조건을 미해결 상태로 남겨두었으며, 이를 해결하기 위해 60일 이내의 즉각적인 협상 기간을 요구했다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -631,7 +506,174 @@ G7이 지지 메시지를 전달한 것은 우크라이나의 유럽연합(EU) �
 "레바논 분쟁이 조만간 해결될 가능성은 낮다"고 카팁은 말했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 보도에는 압디 라티프 다히르, 조너선 라이스, 아담 라스곤, 앨런 유하스가 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19mideast-lebanon-fghc/19mideast-lebanon-fghc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 13:31:39 +0000</pubDate></item><item><title>The Right-Wing Outsider Who Could Be Colombia’s Next Leader (콜롬비아의 차기 지도자가 될 수 있는 우익 아웃사이더)</title><link>https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-colombia-election-right-fvjp/20int-colombia-election-right-fvjp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/19/multimedia/19mideast-lebanon-fghc/19mideast-lebanon-fghc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 19 Jun 2026 13:31:39 +0000</pubDate></item><item><title>Trump Called Him a ‘Radical Left Marxist.’ Can He Be Colombia’s President? (트럼프가 그를 '급진 좌파 마르크스주의자'라 불렀다. 그가 콜롬비아 대통령이 될 수 있을까?)</title><link>https://www.nytimes.com/2026/06/20/world/americas/ivan-cepeda-colombia-president-election.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/16/multimedia/00-int-colombia-election-left-qvlt/00-int-colombia-election-left-qvlt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;For months, the left-wing candidate in Colombia’s presidential election this Sunday seemed lulled by his lead in the polls.&lt;br/&gt;(몇 달 동안, 이번 일요일 치러지는 콜롬비아 대통령 선거의 좌파 후보는 여론조사에서 앞서고 있다는 사실에 안심한 듯 보였다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+후보 이반 세페다는 구스타보 페트로 대통령과 그의 지지 기반의 지지를 받아 주로 집에 머물렀다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+간소한 깃 없는 셔츠를 즐겨 입고 철학 강의에서 막 나온 듯한 인상의 상원의원이자 인권 운동가, 교수인 63세 세페다는 토론을 거절했고 대부분 우호적인 언론에만 인터뷰를 제공했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"그것은 참혹한 선거 운동이었습니다,"라고 콜롬비아 정치사학자 후안 카를로스 플로레스는 말했는데, 이 평가는 세페다의 가장 강력한 지지자들조차 동의하는 바였다. 이는 5월 31일 1차 투표에서 명확해졌다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+우익 아웃사이더인 아벨라르도 데 라 에스프리에야가 가장 많은 표를 얻어 좌파를 충격에 빠뜨렸으며, 전통적인 보수 후보뿐만 아니라 세페다도 제쳤다. 이는 페트로 대통령에 대한 분노와 소셜 미디어 공세를 활용한 선거 운동에 힘입은 결과였다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+며칠 후, 데 라 에스프리에야는 트럼프 대통령의 지지를 받았으며, 트럼프는 세페다를 "급진 좌파 마르크스주의자"라고 불렀다. 경력의 대부분을 마이애미에서 보낸 47세의 형사 변호사인 데 라 에스프리에야는 여론조사에서 선두를 유지하고 있다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+포기하지 않는 것으로 알려진 세페다는 콜롬비아 전역을 돌며 신중하게 준비한 연설을 버리고 데 라 에스프리에야를 공격하기 시작했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+너무 늦었을까?  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+페트로는 2022년에 집권하며 소외된 집단과 젊은이들에게 광범위한 변화와 희망을 약속했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+전문가들은 5월 선거에서 세페다가 약 41%의 득표율을 기록하고 데 라 에스프리에야가 약 44%를 기록한 성과가, 한때 상상할 수 없었던 것을 페트로가 이루어냈음을 보여준다고 말한다. 즉, 좌파 정치가 오랫동안 폭력적인 반군과 연관되어 온 이 나라에서 좌파를 실행 가능한 정치적 대안으로 만든 것이다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+하지만 험난한 4년 후, 많은 노동계급 콜롬비아인들은 희망이 사라졌다고 말한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+페트로는 사회 프로그램과 공립 고등교육 접근성을 확대했다. 그의 정부는 노인과 실업 상태의 젊은 콜롬비아인들에게 보조금을 지급했다. 국가통계청에 따르면 빈곤율은 사상 최저치로 떨어졌다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+그러나 그의 임기는 스캔들, 의료 시스템의 문제 많은 국유화, 그리고 페트로 정권 하의 전 재무장관이 심각한 재정 위기라고 부른 통제 불능의 지출로 얼룩졌다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+바랑키야에 사는 에드윈 페르네이는 페트로가 황금 같은 기회를 가졌다고 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"그는 잘못된 사람들로 자신을 포위했고 모든 것을 잃었습니다,"라고 페르네이는 말했다. "그는 그것을 다 태워버렸어요."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+페트로 정책의 혜택을 받은 일부 사람들조차 상황이 더 나빠졌다고 말한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+보고타의 도어맨 라몬 몬타녜스는 임금 인상 움직임이 표를 얻기 위한 노골적인 시도였으며, 그 결과 자신이 일자리를 잃었다고 말했다. 그의 고용주는 더 이상 그를 감당할 수 없다며 보안 카메라를 설치하고 있었다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"최저임금 인상?" 그는 말했다. "그것이 한 일은 수많은 사람들을 일자리 없이 만든 것뿐이에요."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다는 이러한 분노에 대응하려고 노력해 왔다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+&lt;뉴욕타임스&gt;와의 인터뷰에서 그는 "의료 위기", 재정 적자(사회 지출을 건드리지 않으면서), 그리고 에너지를 우선시하겠다고 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+환경 운동가인 페트로는 석유 및 가스 시추를 중단하여 주요 수출품을 없애고 콜롬비아가 가스를 수입하도록 만들었다. 세페다는 청정 에너지로의 더 점진적인 전환을 모색하겠다고 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다의 선거 운동은 페트로의 의제를 실패가 아닌 미완성으로 묘사하려고 했으며, 이 메시지는 일부 유권자들에게 공감을 얻는 것으로 보인다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+보고타의 집회에 참석한 수학자 안드레스 로드리게스는 페트로가 시작한 일에 더 많은 시간이 필요하다고 말했다. "이미 이루어진 작은 것마저 무너지면, 나라는 예전 상태로 바로 돌아갈 것입니다,"라고 그는 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"아무것도 없었던 사람들은," 그는 덧붙였다, "그냥 사라질 것입니다."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+안보 문제는 라틴아메리카 전역에서 우파가 선거에서 승리하는 데 도움을 주고 있으며, 데 라 에스프리에야가 코카인 밀매 조직을 분쇄하겠다는 약속은 많은 콜롬비아인들을 결집시켰다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다는 정반대의 명제를 밀어붙였다: 평화.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+저명한 콜롬비아 언론인 다니엘 코로넬은 세페다가 국가 피해자들을 위한 운동을 만드는 데 핵심적인 역할을 했다고 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+그는 자신의 아버지를 포함한 좌파 지도자들에 대한 일련의 국가 명령 암살을 폭로했다. 그는 인기 있는 두 번 임기 대통령 알바로 우리베를 포함한 우익 정치인들과 잔혹한 준군사 조직 간의 연계를 드러냈다. 그리고 그는 군인들이 적군 전사로 위장하기 위해 군복을 입힌 수천 명의 민간인 살해에 대해 군에 책임을 묻기 위해 노력했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다는 좌파 무장 단체의 피해자를 덜 옹호한다는 비판을 받아 왔지만, 그는 콜롬비아 최고령 좌파 반군 단체가 해산에 동의한 획기적인 2016년 평화 협정의 핵심 인물이었다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+부모가 공산당 지도자였던 세페다를 두고 데 라 에스프리에야는 좌파 무장 단체와의 유대를 유지하고 있으며, 그 단체들이 현재 분쟁 지역 주민들에게 세페다에게 투표하도록 강요하고 있다고 비난한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다는 그 콜롬비아인들이 전쟁의 진정한 대가를 이해한다고 반박한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+이번 선거는 트럼프 행정부가 라틴아메리카 지도자들에게 마약 밀매업자 제거를 위한 군사 작전에 동참하도록 압박하는 가운데 치러진다. 데 라 에스프리에야는 참여하겠다고 밝혔다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다는 단호히 거절했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+멕시코의 클라우디아 셰인바움 대통령을 반영하며, 그는 미국과 "상호 존중, 우리의 주권에 대한 존중, 협력의 관계"를 추구하지만, 공동의 마약 전쟁은 원하지 않는다고 말한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"지금까지 수행된 마약 퇴치 정책은," 그는 &lt;타임스&gt;에 말했다, "엄청나게 실패했습니다."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+그는 최근 페트로의 "완전 평화" 계획을 폐기했는데, 비판자들은 이 계획이 군사 휴전이 유지되는 동안 무장 단체가 확장하도록 허용했다고 말한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+그의 자신의 계획은 콜롬비아 혁명군(FARC)과의 2016년 평화 협정을 더욱 이행하고, 또 다른 주요 좌파 게릴라 단체와 협상을 재개하며, 마약 밀매 조직에 항복 경로를 제공하는 것이라고 그는 말한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"콜롬비아의 평화를 위해 일한 것을 후회하지 않습니다,"라고 그는 말했다. "반대로, 저는 완전한 자부심을 가지고 말합니다: 저는 평화를 추구하는 데 제 인생의 20년을 바쳤습니다. 그리고 계속 그럴 것입니다."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+자신이 은밀한 공산주의자라는 끊임없는 주장에 대해 세페다는 "우화와 신화"라고 불렀다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"저는 오랜 기록을 가진 민주주의자입니다,"라고 그는 &lt;타임스&gt;에 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+분석가들은 우파 후보가 역전적으로 1차 투표 이후 충분한 유권자들을 불안하게 만들어 결선 투표가 치열해질 수 있다고 말한다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+데 라 에스프리에야는 "좌파의 창자를 도려내겠다", 필요하면 법령으로 통치하겠다, 그리고 상대방을 법적으로 추적하겠다고 약속했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+역사학자 플로레스는 세페다가 1차 투표에서 "패배한 모습으로 나왔으며", 페트로가 선거 사기를 주장함으로써 더욱 약화되었다고 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+하지만 자신감을 얻은 데 라 에스프리에야가 메시지를 강화하고, 플로레스에 따르면, 온라인 공격으로 "세페다를 산채로 잡아먹으면서", 사람들을 겁에 질리게 했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"그것은 페트리스모에 대한 그의 증오를 공유하는 사람들을 기쁘게 했습니다,"라고 플로레스는 말했다. "하지만 아직 결정을 내리지 못한 사람들, 중립적인 사람들, 중간에 있는 사람들에게는 두려움을 주었습니다."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다는 최근 데 라 에스프리에야에 대한 의구심을 활용해 중도층에 호소하려고 시도해 왔다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"그는 양심 없는 깊은 역사를 가진 변호사입니다,"라고 그는 &lt;타임스&gt;에 말했다. "그는 규범을 존중하지 않는 사람이며, 나는 그가 헌법을 존중하지 않을 것이라고 확신합니다."  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+데 라 에스프리에야는 온라인 조롱으로 응수했다. "그 티베트 스님 말투는 어디로 갔나?"  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+세페다의 선거 운동은 최고 기어로 전환하여, 막바지에 유권자들에게 도달하기 위해 소셜 미디어를 범람시키고 있다. 엄숙한 세페다가 웃고 있는 사진, 그를 고양이로 묘사한 AI 만화가 등장했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+그러나 개인적으로는 그는 변하지 않았다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"그는 사람을 안지 않고, 모든 사람에게 인사하러 다니지 않습니다,"라고 그의 선거 캠페인 매니저 가브리엘 베세라가 말했다. 그는 여전히 같은 낡은 블레이저와 깃 없는 '마오' 셔츠를 입고 있다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+하지만 세페다는 유권자들이 그를 더 많이 보게 했다. 그의 아내이자 동료 인권 운동가인 필라르 루에다는 선거 유세에 합류했으며, &lt;타임스&gt;에 남편의 놀라운 "일관성"에 대해 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+"그는 자신의 신념대로 살아갑니다,"라고 그녀는 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+그는 세 마리의 차우차우 개에 대해 이야기했는데, 그중 하나는 미하일 고르바초프의 아내 이름의 변형인 라이사라고 불린다. 그리고 그는 두 번의 암 투병에서 회복한 과정을 설명하며 자신의 영적 안내자들인 교황 프란치스코와 교황 레오 14세, 소크라테스, 한나 아렌트를 공유했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+자신이 누구인지 바꾸지 않는 것이, 세페다는 믿기에, 그를 경쟁자와 구별짓는 바로 그 점이다. "저는 화장을 하거나, 아이디어 판매를 위한 제품으로 변신하지 않을 것입니다,"라고 그는 말했다.  
+
+&lt;&lt;&lt;PARA&gt;&gt;&gt;  
+제네비브 글래츠키가 취재에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/americas/ivan-cepeda-colombia-president-election.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/16/multimedia/00-int-colombia-election-left-qvlt/00-int-colombia-election-left-qvlt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 00:00:34 +0000</pubDate></item><item><title>The Right-Wing Outsider Who Could Be Colombia’s Next Leader (콜롬비아의 차기 지도자가 될 수 있는 우익 아웃사이더)</title><link>https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-colombia-election-right-fvjp/20int-colombia-election-right-fvjp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Popping up in a bulletproof booth wearing Colombia’s yellow soccer jersey, fist pumping the air, Abelardo De La Espriella roars to crowds of thousands, “Your tiger is here!”&lt;br/&gt;(방탄 부스에 나타나 콜롬비아 축구 국가대표팀 유니폼을 입고 주먹을 허공에 휘두르며 아벨라르도 데 라 에스프리엘라가 수천 명의 군중에게 포효합니다. "너희 호랑이가 여기 있다!")&lt;/p&gt;
 &lt;p&gt;Just a few months ago, he was virtually unknown, traveling through Latin America — and hanging around President Trump’s golf club near Miami — trying to make connections and drum up support.&lt;br/&gt;(불과 몇 달 전만 해도 그는 사실상 알려지지 않은 인물로, 라틴 아메리카를 여행하고 마이애미 근처 트럼프 대통령의 골프 클럽에서 시간을 보내며 인맥을 쌓고 지지를 얻으려 애쓰고 있었습니다.)&lt;/p&gt;
 &lt;p&gt;Now, Mr. De La Espriella, 47, could be elected the next president of Colombia, one of the largest economies in Latin America and historically Washington’s closest ally in the region.&lt;br/&gt;(이제 47세의 데 라 에스프리엘라 씨가 라틴 아메리카 최대 경제국 중 하나이자 역사적으로 워싱턴의 지역 내 가장 가까운 동맹국인 콜롬비아의 차기 대통령으로 선출될 수도 있습니다.)&lt;/p&gt;
@@ -686,7 +728,51 @@ G7이 지지 메시지를 전달한 것은 우크라이나의 유럽연합(EU) �
 &lt;p&gt;And as the runoff approached, Mr. De La Espriella promised to jail anyone who challenged his victory.&lt;br/&gt;(그리고 결선 투표가 다가오면서 데 라 에스프리엘라 씨는 자신의 승리에 도전하는 사람은 누구든 감옥에 가두겠다고 약속했습니다.)&lt;/p&gt;
 &lt;p&gt;“They’ll see how hard the tiger bites,” he said. “I’ll see if they’re so tough and cute when the tiger has his foot on their neck and has them buried 15 meters underground”&lt;br/&gt;("호랑이가 얼마나 세게 무는지 그들이 보게 될 것입니다."라고 그는 말했습니다. "호랑이가 그들의 목을 발로 밟고 지하 15미터에 묻어버릴 때 그들이 여전히 터프하고 귀여운지 제가 보겠습니다.")&lt;/p&gt;
 &lt;p&gt;Max Bearak contributed reporting. Alain Delaquérière contributed research.&lt;br/&gt;(막스 비어락이 보도에 기여했습니다. 알랭 들라케리에르가 조사에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-colombia-election-right-fvjp/20int-colombia-election-right-fvjp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 05:22:35 +0000</pubDate></item><item><title>A Court Case Reveals Some of Tim Hortons’ Secrets (법정 소송이 드러낸 팀호튼스의 비밀들)</title><link>https://www.nytimes.com/2026/06/20/world/canada/tim-hortons-prices-quebec-court.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/world/20candaletter-03/20candaletter-03-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-colombia-election-right-fvjp/20int-colombia-election-right-fvjp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 05:22:35 +0000</pubDate></item><item><title>World Leaders Awaited Iran Deal for Months. Here’s Why They’re Still Wary. (세계 지도자들, 수개월간 이란 협상 기다려왔다. 그들이 여전히 신중한 이유는?)</title><link>https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-iran-global-bcmj/20int-iran-global-bcmj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;When world leaders welcomed President Trump’s preliminary deal with Iran this past week, many of them expressed hope that it would return normalcy to the global energy markets and trade routes disrupted by the war.&lt;br/&gt;(지난주 세계 지도자들이 트럼프 대통령과 이란 간의 예비 합의를 환영했을 때, 많은 이들이 이 합의가 전쟁으로 혼란에 빠진 글로벌 에너지 시장과 무역로에 정상을 되찾아줄 것이라는 희망을 표명했습니다.)&lt;/p&gt;
+&lt;p&gt;But their praise was mitigated with caution. They know the details left for future negotiations could leave the world with dark clouds of economic and security uncertainty for months or years to come.&lt;br/&gt;(그러나 그들의 찬사는 신중함으로 완화되었습니다. 그들은 향후 협상에 남겨진 세부 사항이 수개월 또는 수년 동안 세계에 경제적·안보적 불확실성의 어두운 구름을 남길 수 있다는 것을 알고 있습니다.)&lt;/p&gt;
+&lt;p&gt;The preliminary deal, which is vaguely worded, punts the future of Iran’s nuclear program to those new negotiations. It does not address Iran’s missile program and regional ambitions, spooking both Israel and Iran’s Arab neighbors. Israel is not a party to the deal, raising the possibility that Israel could upend it through renewed conflict with both Iran and its Lebanese ally, Hezbollah. And it fails to resolve whether the Strait of Hormuz, the crucial maritime trade route off southern Iran, will remain open for free passage.&lt;br/&gt;(애매하게 표현된 이 예비 합의는 이란의 핵 프로그램 미래를 새로운 협상으로 미룹니다. 이 합의는 이란의 미사일 프로그램과 지역적 야망을 다루지 않아 이스라엘과 이란의 아랍 이웃 국가들을 놀라게 했습니다. 이스라엘은 합의 당사국이 아니므로, 이스라엘이 이란 및 레바논 동맹국 헤즈볼라와의 새로운 갈등을 통해 이를 뒤집을 가능성이 있습니다. 또한 이 합의는 이란 남부 해역의 중요한 해상 무역로인 호르무즈 해협이 자유 통행을 위해 계속 열려 있을지 여부를 해결하지 못합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+에마뉘엘 마크롱 프랑스 대통령은 목요일 TV 진행자로부터 전쟁에서 누가 승리했는지 질문을 받았을 때 세계 지도자 공동체를 대변하는 듯했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"완전히 끝났다고 말할 수는 없다고 생각합니다."라고 그는 답했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다음은 예비 합의가 남긴 미해결 질문들입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+해협은 합의의 경제적으로 가장 중요한 물음표로 남아 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+테헤란이 미국과 이스라엘의 이란 공격에 대한 보복으로 해협을 차단하기 전에는, 유조선들이 자유롭게 통과했습니다. 그 화물은 세계 석유의 약 4분의 1을 차지했으며, 대부분 아시아로 보내졌습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이란과의 잠정 합의에는 유조선이 "60일 동안만" 수수료를 내지 않고 해협을 통과할 수 있어야 한다고 명시되어 있습니다. 이는 테헤란이 그 이후에 통행료를 부과할 수 있음을 의미하며, 그때까지 추가 합의가 이루어지지 않으면 세계 상당 부분의 해운 및 연료 비용이 상승할 수 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+세계 지도자들에게 가장 큰 안보 우려는 이란 핵 프로그램의 운명입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+합의는 이란이 수십 년간 반복해 온 핵무기 생산 불가 약속을 재확인했다고 밝힙니다. 또한 이란은 핵폭탄 제조에 사용될 수 있는 농축 핵 물질을 "다운블렌드(희석)"해야 합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 버락 오바마 대통령이 2015년에 체결한 합의와 달리, 트럼프의 잠정 합의는 이란이 그 물질을 국외로 운송하도록 요구하지 않습니다. 또한 이란이 새로운 물질을 농축하는 것을 금지하거나 핵 시설 폐쇄를 강제하는 내용도 없으며, 이 두 문제는 향후 60일간의 협상에 남겨져 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+프리드리히 메르츠 독일 총리와 같은 유럽 지도자들은 핵무기 야망 해체에 대한 이란의 진전을 검증하는 방법을 포함한 더 명확한 조치를 보고 싶어 합니다. 그리고 그런 조치 없이는 이란에 대한 자체 경제 제한을 완화할 가능성이 낮아 보입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+중동에서 이란의 이웃 국가들과 적들은 이란의 핵 야망뿐만 아니라 최근 전쟁 내내 이스라엘과 페르시아만의 아랍 국가들을 손상시키는 데 사용된 테헤란의 미사일과 드론, 그리고 레바논의 헤즈볼라와 예멘의 후티 같은 지역 대리 세력에 대한 지원도 우려합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+분석가들은 트럼프의 잠정 합의가 이란의 비핵 무기고를 다루지 않을 뿐만 아니라 지역 민병대에 대한 지원을 줄이도록 장려하지 않는다고 말했습니다. 이러한 누락은 이스라엘뿐만 아니라 사우디아라비아와 아랍에미리트 같은 미국의 아랍 동맹국들도 실망시켰다고 합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+합의가 이란에 상당한 경제적 완화를 제공하기 때문에, 아랍과 이스라엘 모두 테헤란이 재정적으로 힘을 얻어 무기고를 재건하고 중동 전역에서 지정학적 야망을 확장할 것을 두려워합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이스라엘 지도자들은 평화 협정에 분노하며, 다음 협상 라운드에서 변수로 빠르게 자리 잡았습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+합의는 "레바논을 포함한" 군사 작전의 즉각적이고 영구적인 종료를 요구합니다. 이스라엘은 헤즈볼라와 싸우기 위해 전쟁 중 레바논 일부를 점령했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 베냐민 네타냐후 이스라엘 총리는 월요일 합의에 구속되지 않는다고 말했습니다. 이스라엘은 금요일, 군이 헤즈볼라 공격으로 병사 4명이 사망했다고 발표한 후 레바논에 새로운 공습을 시작했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+상황은 적어도 잠시 진정되는 듯 보였는데, 워싱턴 주재 이스라엘 대사 예히엘 라이터가 금요일 늦게 이스라엘 군이 "모든 공세 작전을 중단했다"고 밝혔기 때문입니다. 그는 이스라엘이 "헤즈볼라를 제거하고 테러 기반 시설을 해체하기 위해" 남부 레바논에 남아 있을 것이라고 덧붙였습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+외교관들에 따르면, 대서양 양안의 관리들은 네타냐후가 레바논에서의 공격을 중단하도록 압력을 가했으며, 이란은 이를 근거로 금요일 새로운 협상에서 철수했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"미국과 이란 사이에 협상된 휴전이 남부 레바논에서도 유지되는 것이 이제 필수적입니다."라고 메르츠는 금요일 브뤼셀에서 기자들에게 말하며, "저는 네타냐후 총리와의 논의에서도 이를 여러 번 분명히 밝혔습니다."라고 덧붙였습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지나 스미아렉이 브뤼셀에서, 크리스토퍼 F. 슈에체가 베를린에서 보도에 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-iran-global-bcmj/20int-iran-global-bcmj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 00:02:41 +0000</pubDate></item><item><title>A Court Case Reveals Some of Tim Hortons’ Secrets (법정 소송이 드러낸 팀호튼스의 비밀들)</title><link>https://www.nytimes.com/2026/06/20/world/canada/tim-hortons-prices-quebec-court.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/world/20candaletter-03/20candaletter-03-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Tim Hortons’ iconic status in Canada means that owning one of its franchises has become seen as the next best thing to winning a lottery.&lt;br/&gt;(캐나다에서 팀호튼스의 상징적 지위는 프랜차이즈를 소유하는 것이 복권에 당첨되는 것 다음으로 좋은 일로 여겨지게 만들었다.)&lt;/p&gt;
 &lt;p&gt;But even lottery wins come with headaches. In a Montreal court, 15 franchise holders are suing Tim Hortons for 27 million Canadian dollars for profits that they claim the company’s policies and practices have denied them.&lt;br/&gt;(하지만 복권 당첨에도 골칫거리는 따른다. 몬트리올 법원에서 15명의 프랜차이즈 소유주들이 팀호튼스를 상대로 2700만 캐나다 달러 규모의 소송을 제기했다. 그들은 회사의 정책과 관행 때문에 이익을 얻지 못했다고 주장한다.)&lt;/p&gt;
 &lt;p&gt;Like much in the Canadian court system, the case is moving sluggishly. The lawsuit was filed in March 2024.&lt;br/&gt;(캐나다 사법 제도의 많은 부분이 그렇듯, 이 사건도 더디게 진행되고 있다. 소송은 2024년 3월에 제기되었다.)&lt;/p&gt;
@@ -935,7 +1021,7 @@ G7이 지지 메시지를 전달한 것은 우크라이나의 유럽연합(EU) �
 &lt;p&gt;The five men, ages 22 to 39, had injuries that the police did not describe in detail. Three required hospital treatment. None of the injuries were life-threatening, the police said.&lt;br/&gt;(22세에서 39세 사이의 남성 5명은 경찰이 자세히 설명하지 않은 부상을 입었다. 세 명은 병원 치료가 필요했다. 경찰에 따르면 생명에 지장이 없는 부상이었다.)&lt;/p&gt;
 &lt;p&gt;The police are investigating the attacks as being linked.&lt;br/&gt;(경찰은 이번 공격이 관련된 것으로 보고 수사 중이다.)&lt;/p&gt;
 &lt;p&gt;“I want to send a clear message of support to all our communities that there is no place for racism or faith-based hate in a Scotland which is at its best when we stand together,” Catriona Paton, the assistant chief constable for Police Scotland, said in the news release.&lt;br/&gt;("인종차별이나 신앙 기반 증오가 설 자리는 없으며, 우리가 함께 뭉칠 때 스코틀랜드는 최고의 모습을 보입니다. 모든 지역사회에 지지의 명확한 메시지를 전하고자 합니다"라고 스코틀랜드 경찰의 캐트리오나 패튼 부총경이 보도 자료에서 밝혔다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/europe/edinburgh-stabbing-arrest-injuries.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20xp-attack-lqzm/20xp-attack-lqzm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 12:04:26 +0000</pubDate></item><item><title>Mona Kahlil, Defender of Sea Turtles, Killed in an Israel Strike in Lebanon (바다거북 수호자 모나 칼릴, 이스라엘의 레바논 공습으로 사망)</title><link>https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/world/20mideast-mona-khalil-1/20mideast-mona-khalil-1-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/europe/edinburgh-stabbing-arrest-injuries.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20xp-attack-lqzm/20xp-attack-lqzm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 21 Jun 2026 02:30:06 +0000</pubDate></item><item><title>Mona Kahlil, Defender of Sea Turtles, Killed in an Israel Strike in Lebanon (바다거북 수호자 모나 칼릴, 이스라엘의 레바논 공습으로 사망)</title><link>https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/world/20mideast-mona-khalil-1/20mideast-mona-khalil-1-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;For more than two decades, Mona Khalil protected the endangered sea turtles that laid their eggs on a beach near her bed-and-breakfast in Lebanon and kept predators away from the vulnerable hatchings running to the Mediterranean Sea.&lt;br/&gt;(20년 넘게 모나 칼릴은 레바논에 있는 자신의 민박집 근처 해변에 알을 낳는 멸종 위기 바다거북을 보호하고, 취약한 새끼들이 지중해를 향해 달려갈 때 포식자들로부터 지켜냈다.)&lt;/p&gt;
 &lt;p&gt;Her efforts to spotlight the plight of the turtles, bringing together often opposing interests, earned her respect among conservationists. She remained unflinching in her mission even as periodic war erupted around her in southern Lebanon.&lt;br/&gt;(그녀가 거북의 곤경을 조명하고 종종 대립하는 이해관계를 하나로 모으려는 노력은 환경 보호론자들 사이에서 존경을 받았다. 그녀는 남부 레바논에서 주기적으로 전쟁이 발발하는 가운데서도 자신의 사명을 흔들림 없이 이어갔다.)&lt;/p&gt;
 &lt;p&gt;On June 4, the fighting between Israel and Hezbollah that has taken so many civilian lives in recent months caught up to her. She was wounded in an Israeli airstrike in southern Lebanon, and on Friday, she died of her injuries at the American University of Beirut Medical Center, a close friend, Fadia Jomaa, said.&lt;br/&gt;(최근 몇 달간 많은 민간인 목숨을 앗아간 이스라엘과 헤즈볼라 간의 교전은 지난 6월 4일 그녀에게까지 닥쳤다. 그녀는 남부 레바논에서 이스라엘의 공습으로 부상을 입었고, 금요일 베이루트 아메리칸 대학병원에서 상처로 인해 사망했다고 절친한 친구 파디아 조마아가 전했다.)&lt;/p&gt;
@@ -954,174 +1040,7 @@ G7이 지지 메시지를 전달한 것은 우크라이나의 유럽연합(EU) �
 &lt;p&gt;“There are people who work for conservation, and there are people who become conservation itself,” wrote Assas Serhal, the director general of the Society for the Protection of Nature in a statement. “Mona Khalil was one of those rare individuals whose life, spirit, and daily existence became inseparable from the cause she dedicated herself to.”&lt;br/&gt;("보존을 위해 일하는 사람이 있고, 보존 그 자체가 되는 사람이 있습니다"라고 레바논 자연보호협회 사무총장 아사스 세르할이 성명에서 썼다. "모나 칼릴은 자신이 헌신한 대의와 삶, 정신, 일상이 분리될 수 없게 된 드문 인물 중 하나였습니다.")&lt;/p&gt;
 &lt;p&gt;Ms. Khalil hoped to be buried facing the sea, Ms. Jomma wrote.&lt;br/&gt;(칼릴은 바다를 향해 묻히기를 바랐다고 조마아가 썼다.)&lt;/p&gt;
 &lt;p&gt;“Sadly, the war is still ongoing there, and we cannot reach it,” she wrote.&lt;br/&gt;("슬프게도, 그곳에서는 전쟁이 아직도 계속되고 있어서, 우리는 그곳에 닿을 수 없습니다"라고 그녀는 썼다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/world/20mideast-mona-khalil-1/20mideast-mona-khalil-1-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 13:18:23 +0000</pubDate></item><item><title>Trump Called Him a ‘Radical Left Marxist.’ Can He Be Colombia’s President? (트럼프가 그를 '급진 좌파 마르크스주의자'라 불렀다. 그가 콜롬비아 대통령이 될 수 있을까?)</title><link>https://www.nytimes.com/2026/06/20/world/americas/ivan-cepeda-colombia-president-election.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/16/multimedia/00-int-colombia-election-left-qvlt/00-int-colombia-election-left-qvlt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;For months, the left-wing candidate in Colombia’s presidential election this Sunday seemed lulled by his lead in the polls.&lt;br/&gt;(몇 달 동안, 이번 일요일 치러지는 콜롬비아 대통령 선거의 좌파 후보는 여론조사에서 앞서고 있다는 사실에 안심한 듯 보였다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-후보 이반 세페다는 구스타보 페트로 대통령과 그의 지지 기반의 지지를 받아 주로 집에 머물렀다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-간소한 깃 없는 셔츠를 즐겨 입고 철학 강의에서 막 나온 듯한 인상의 상원의원이자 인권 운동가, 교수인 63세 세페다는 토론을 거절했고 대부분 우호적인 언론에만 인터뷰를 제공했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-"그것은 참혹한 선거 운동이었습니다,"라고 콜롬비아 정치사학자 후안 카를로스 플로레스는 말했는데, 이 평가는 세페다의 가장 강력한 지지자들조차 동의하는 바였다. 이는 5월 31일 1차 투표에서 명확해졌다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-우익 아웃사이더인 아벨라르도 데 라 에스프리에야가 가장 많은 표를 얻어 좌파를 충격에 빠뜨렸으며, 전통적인 보수 후보뿐만 아니라 세페다도 제쳤다. 이는 페트로 대통령에 대한 분노와 소셜 미디어 공세를 활용한 선거 운동에 힘입은 결과였다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-며칠 후, 데 라 에스프리에야는 트럼프 대통령의 지지를 받았으며, 트럼프는 세페다를 "급진 좌파 마르크스주의자"라고 불렀다. 경력의 대부분을 마이애미에서 보낸 47세의 형사 변호사인 데 라 에스프리에야는 여론조사에서 선두를 유지하고 있다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-포기하지 않는 것으로 알려진 세페다는 콜롬비아 전역을 돌며 신중하게 준비한 연설을 버리고 데 라 에스프리에야를 공격하기 시작했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-너무 늦었을까?  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-페트로는 2022년에 집권하며 소외된 집단과 젊은이들에게 광범위한 변화와 희망을 약속했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-전문가들은 5월 선거에서 세페다가 약 41%의 득표율을 기록하고 데 라 에스프리에야가 약 44%를 기록한 성과가, 한때 상상할 수 없었던 것을 페트로가 이루어냈음을 보여준다고 말한다. 즉, 좌파 정치가 오랫동안 폭력적인 반군과 연관되어 온 이 나라에서 좌파를 실행 가능한 정치적 대안으로 만든 것이다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-하지만 험난한 4년 후, 많은 노동계급 콜롬비아인들은 희망이 사라졌다고 말한다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-페트로는 사회 프로그램과 공립 고등교육 접근성을 확대했다. 그의 정부는 노인과 실업 상태의 젊은 콜롬비아인들에게 보조금을 지급했다. 국가통계청에 따르면 빈곤율은 사상 최저치로 떨어졌다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-그러나 그의 임기는 스캔들, 의료 시스템의 문제 많은 국유화, 그리고 페트로 정권 하의 전 재무장관이 심각한 재정 위기라고 부른 통제 불능의 지출로 얼룩졌다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-바랑키야에 사는 에드윈 페르네이는 페트로가 황금 같은 기회를 가졌다고 말했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-"그는 잘못된 사람들로 자신을 포위했고 모든 것을 잃었습니다,"라고 페르네이는 말했다. "그는 그것을 다 태워버렸어요."  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-페트로 정책의 혜택을 받은 일부 사람들조차 상황이 더 나빠졌다고 말한다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-보고타의 도어맨 라몬 몬타녜스는 임금 인상 움직임이 표를 얻기 위한 노골적인 시도였으며, 그 결과 자신이 일자리를 잃었다고 말했다. 그의 고용주는 더 이상 그를 감당할 수 없다며 보안 카메라를 설치하고 있었다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-"최저임금 인상?" 그는 말했다. "그것이 한 일은 수많은 사람들을 일자리 없이 만든 것뿐이에요."  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-세페다는 이러한 분노에 대응하려고 노력해 왔다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-&lt;뉴욕타임스&gt;와의 인터뷰에서 그는 "의료 위기", 재정 적자(사회 지출을 건드리지 않으면서), 그리고 에너지를 우선시하겠다고 말했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-환경 운동가인 페트로는 석유 및 가스 시추를 중단하여 주요 수출품을 없애고 콜롬비아가 가스를 수입하도록 만들었다. 세페다는 청정 에너지로의 더 점진적인 전환을 모색하겠다고 말했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-세페다의 선거 운동은 페트로의 의제를 실패가 아닌 미완성으로 묘사하려고 했으며, 이 메시지는 일부 유권자들에게 공감을 얻는 것으로 보인다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-보고타의 집회에 참석한 수학자 안드레스 로드리게스는 페트로가 시작한 일에 더 많은 시간이 필요하다고 말했다. "이미 이루어진 작은 것마저 무너지면, 나라는 예전 상태로 바로 돌아갈 것입니다,"라고 그는 말했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-"아무것도 없었던 사람들은," 그는 덧붙였다, "그냥 사라질 것입니다."  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-안보 문제는 라틴아메리카 전역에서 우파가 선거에서 승리하는 데 도움을 주고 있으며, 데 라 에스프리에야가 코카인 밀매 조직을 분쇄하겠다는 약속은 많은 콜롬비아인들을 결집시켰다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-세페다는 정반대의 명제를 밀어붙였다: 평화.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-저명한 콜롬비아 언론인 다니엘 코로넬은 세페다가 국가 피해자들을 위한 운동을 만드는 데 핵심적인 역할을 했다고 말했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-그는 자신의 아버지를 포함한 좌파 지도자들에 대한 일련의 국가 명령 암살을 폭로했다. 그는 인기 있는 두 번 임기 대통령 알바로 우리베를 포함한 우익 정치인들과 잔혹한 준군사 조직 간의 연계를 드러냈다. 그리고 그는 군인들이 적군 전사로 위장하기 위해 군복을 입힌 수천 명의 민간인 살해에 대해 군에 책임을 묻기 위해 노력했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-세페다는 좌파 무장 단체의 피해자를 덜 옹호한다는 비판을 받아 왔지만, 그는 콜롬비아 최고령 좌파 반군 단체가 해산에 동의한 획기적인 2016년 평화 협정의 핵심 인물이었다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-부모가 공산당 지도자였던 세페다를 두고 데 라 에스프리에야는 좌파 무장 단체와의 유대를 유지하고 있으며, 그 단체들이 현재 분쟁 지역 주민들에게 세페다에게 투표하도록 강요하고 있다고 비난한다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-세페다는 그 콜롬비아인들이 전쟁의 진정한 대가를 이해한다고 반박한다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-이번 선거는 트럼프 행정부가 라틴아메리카 지도자들에게 마약 밀매업자 제거를 위한 군사 작전에 동참하도록 압박하는 가운데 치러진다. 데 라 에스프리에야는 참여하겠다고 밝혔다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-세페다는 단호히 거절했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-멕시코의 클라우디아 셰인바움 대통령을 반영하며, 그는 미국과 "상호 존중, 우리의 주권에 대한 존중, 협력의 관계"를 추구하지만, 공동의 마약 전쟁은 원하지 않는다고 말한다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-"지금까지 수행된 마약 퇴치 정책은," 그는 &lt;타임스&gt;에 말했다, "엄청나게 실패했습니다."  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-그는 최근 페트로의 "완전 평화" 계획을 폐기했는데, 비판자들은 이 계획이 군사 휴전이 유지되는 동안 무장 단체가 확장하도록 허용했다고 말한다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-그의 자신의 계획은 콜롬비아 혁명군(FARC)과의 2016년 평화 협정을 더욱 이행하고, 또 다른 주요 좌파 게릴라 단체와 협상을 재개하며, 마약 밀매 조직에 항복 경로를 제공하는 것이라고 그는 말한다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-"콜롬비아의 평화를 위해 일한 것을 후회하지 않습니다,"라고 그는 말했다. "반대로, 저는 완전한 자부심을 가지고 말합니다: 저는 평화를 추구하는 데 제 인생의 20년을 바쳤습니다. 그리고 계속 그럴 것입니다."  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-자신이 은밀한 공산주의자라는 끊임없는 주장에 대해 세페다는 "우화와 신화"라고 불렀다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-"저는 오랜 기록을 가진 민주주의자입니다,"라고 그는 &lt;타임스&gt;에 말했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-분석가들은 우파 후보가 역전적으로 1차 투표 이후 충분한 유권자들을 불안하게 만들어 결선 투표가 치열해질 수 있다고 말한다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-데 라 에스프리에야는 "좌파의 창자를 도려내겠다", 필요하면 법령으로 통치하겠다, 그리고 상대방을 법적으로 추적하겠다고 약속했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-역사학자 플로레스는 세페다가 1차 투표에서 "패배한 모습으로 나왔으며", 페트로가 선거 사기를 주장함으로써 더욱 약화되었다고 말했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-하지만 자신감을 얻은 데 라 에스프리에야가 메시지를 강화하고, 플로레스에 따르면, 온라인 공격으로 "세페다를 산채로 잡아먹으면서", 사람들을 겁에 질리게 했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-"그것은 페트리스모에 대한 그의 증오를 공유하는 사람들을 기쁘게 했습니다,"라고 플로레스는 말했다. "하지만 아직 결정을 내리지 못한 사람들, 중립적인 사람들, 중간에 있는 사람들에게는 두려움을 주었습니다."  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-세페다는 최근 데 라 에스프리에야에 대한 의구심을 활용해 중도층에 호소하려고 시도해 왔다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-"그는 양심 없는 깊은 역사를 가진 변호사입니다,"라고 그는 &lt;타임스&gt;에 말했다. "그는 규범을 존중하지 않는 사람이며, 나는 그가 헌법을 존중하지 않을 것이라고 확신합니다."  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-데 라 에스프리에야는 온라인 조롱으로 응수했다. "그 티베트 스님 말투는 어디로 갔나?"  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-세페다의 선거 운동은 최고 기어로 전환하여, 막바지에 유권자들에게 도달하기 위해 소셜 미디어를 범람시키고 있다. 엄숙한 세페다가 웃고 있는 사진, 그를 고양이로 묘사한 AI 만화가 등장했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-그러나 개인적으로는 그는 변하지 않았다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-"그는 사람을 안지 않고, 모든 사람에게 인사하러 다니지 않습니다,"라고 그의 선거 캠페인 매니저 가브리엘 베세라가 말했다. 그는 여전히 같은 낡은 블레이저와 깃 없는 '마오' 셔츠를 입고 있다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-하지만 세페다는 유권자들이 그를 더 많이 보게 했다. 그의 아내이자 동료 인권 운동가인 필라르 루에다는 선거 유세에 합류했으며, &lt;타임스&gt;에 남편의 놀라운 "일관성"에 대해 말했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-"그는 자신의 신념대로 살아갑니다,"라고 그녀는 말했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-그는 세 마리의 차우차우 개에 대해 이야기했는데, 그중 하나는 미하일 고르바초프의 아내 이름의 변형인 라이사라고 불린다. 그리고 그는 두 번의 암 투병에서 회복한 과정을 설명하며 자신의 영적 안내자들인 교황 프란치스코와 교황 레오 14세, 소크라테스, 한나 아렌트를 공유했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-자신이 누구인지 바꾸지 않는 것이, 세페다는 믿기에, 그를 경쟁자와 구별짓는 바로 그 점이다. "저는 화장을 하거나, 아이디어 판매를 위한 제품으로 변신하지 않을 것입니다,"라고 그는 말했다.  
-
-&lt;&lt;&lt;PARA&gt;&gt;&gt;  
-제네비브 글래츠키가 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/americas/ivan-cepeda-colombia-president-election.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/16/multimedia/00-int-colombia-election-left-qvlt/00-int-colombia-election-left-qvlt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 00:00:34 +0000</pubDate></item><item><title>‘God Is Cape Verdean’: Tiny Nation on a High After a Sensational World Cup Debut (‘신은 카보베르데인’: 센세이셔널한 월드컵 데뷔 후 들뜬 작은 나라)</title><link>https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-worldcup-capeverde-hcwv/20int-worldcup-capeverde-hcwv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/world/20mideast-mona-khalil-1/20mideast-mona-khalil-1-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 13:18:23 +0000</pubDate></item><item><title>‘God Is Cape Verdean’: Tiny Nation on a High After a Sensational World Cup Debut (‘신은 카보베르데인’: 센세이셔널한 월드컵 데뷔 후 들뜬 작은 나라)</title><link>https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-worldcup-capeverde-hcwv/20int-worldcup-capeverde-hcwv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;It wasn’t a win. But for Cape Verde, Africa’s third-smallest country, holding the soccer giant Spain to a scoreless draw in its World Cup debut this week made history.&lt;br/&gt;(승리는 아니었다. 하지만 아프리카에서 세 번째로 작은 나라인 카보베르데가 이번 주 월드컵 데뷔전에서 축구 강호 스페인을 0-0 무승부로 막아낸 것은 역사적인 일이었다.)&lt;/p&gt;
 &lt;p&gt;Now, as it prepares for Sunday’s game against Uruguay, a mixture of confidence and anxiety is building across the archipelago off West Africa’s Atlantic coast. Cape Verdeans are hoping for a repeat performance from their team, and especially its veteran goalkeeper, Josimar José Évora Dias, who became an unlikely star overnight after making seven saves.&lt;br/&gt;(이제 일요일 우루과이와의 경기를 앞두고, 서아프리카 대서양 연안의 이 군도 전체에 자신감과 불안이 섞인 감정이 고조되고 있다. 카보베르데인들은 자국 대표팀, 특히 7번의 선방을 기록하며 하룻밤 사이에 예상치 못한 스타가 된 베테랑 골키퍼 조시마르 조제 에보라 디아스의 재현을 기대하고 있다.)&lt;/p&gt;
 &lt;p&gt;Cape Verde’s team, the Blue Sharks, is not star-studded or particularly glamorous. Dias, at 40 one of the tournament’s oldest players, is known as Vozinha, Portuguese for Granny. Even on the African soccer scene, Cape Verde was not taken seriously until 2023, when it reached the African Cup of Nations quarterfinals for the first time since 2013.&lt;br/&gt;(카보베르데 대표팀 ‘블루 샤크스’는 스타 선수가 많지도 않고 특히 화려하지도 않다. 디아스는 40세로 이번 대회 최고령 선수 중 한 명이며, 포르투갈어로 ‘할머니’라는 뜻의 ‘보지냐’라는 별명으로 알려져 있다. 아프리카 축구계에서조차 카보베르데는 2013년 이후 처음으로 2023년 아프리카 네이션스컵 8강에 진출하기 전까지 진지하게 받아들여지지 않았다.)&lt;/p&gt;
@@ -1146,51 +1065,7 @@ G7이 지지 메시지를 전달한 것은 우크라이나의 유럽연합(EU) �
 &lt;p&gt;Others had more faith, as long as the team does not get carried away by the moment.&lt;br/&gt;(다른 이들은 팀이 상황에 휩쓸리지만 않는다면 더 큰 믿음을 가지고 있었다.)&lt;/p&gt;
 &lt;p&gt;“We’ll be the surprise of the tournament,” Mr. Martins said.&lt;br/&gt;(“우리가 이번 대회의 깜짝 팀이 될 거예요,” 마르틴스 씨가 말했다.)&lt;/p&gt;
 &lt;p&gt;Whatever happens, said Erika Soares, 32, an economist on the island of Santiago, “We already feel like winners.”&lt;br/&gt;(어떤 일이 일어나든, 산티아고 섬의 32세 경제학자 에리카 소아레스는 “우리는 이미 승자처럼 느껴져요”라고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-worldcup-capeverde-hcwv/20int-worldcup-capeverde-hcwv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 14:31:00 +0000</pubDate></item><item><title>World Leaders Awaited Iran Deal for Months. Here’s Why They’re Still Wary. (세계 지도자들, 수개월간 이란 협상 기다려왔다. 그들이 여전히 신중한 이유는?)</title><link>https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-iran-global-bcmj/20int-iran-global-bcmj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;When world leaders welcomed President Trump’s preliminary deal with Iran this past week, many of them expressed hope that it would return normalcy to the global energy markets and trade routes disrupted by the war.&lt;br/&gt;(지난주 세계 지도자들이 트럼프 대통령과 이란 간의 예비 합의를 환영했을 때, 많은 이들이 이 합의가 전쟁으로 혼란에 빠진 글로벌 에너지 시장과 무역로에 정상을 되찾아줄 것이라는 희망을 표명했습니다.)&lt;/p&gt;
-&lt;p&gt;But their praise was mitigated with caution. They know the details left for future negotiations could leave the world with dark clouds of economic and security uncertainty for months or years to come.&lt;br/&gt;(그러나 그들의 찬사는 신중함으로 완화되었습니다. 그들은 향후 협상에 남겨진 세부 사항이 수개월 또는 수년 동안 세계에 경제적·안보적 불확실성의 어두운 구름을 남길 수 있다는 것을 알고 있습니다.)&lt;/p&gt;
-&lt;p&gt;The preliminary deal, which is vaguely worded, punts the future of Iran’s nuclear program to those new negotiations. It does not address Iran’s missile program and regional ambitions, spooking both Israel and Iran’s Arab neighbors. Israel is not a party to the deal, raising the possibility that Israel could upend it through renewed conflict with both Iran and its Lebanese ally, Hezbollah. And it fails to resolve whether the Strait of Hormuz, the crucial maritime trade route off southern Iran, will remain open for free passage.&lt;br/&gt;(애매하게 표현된 이 예비 합의는 이란의 핵 프로그램 미래를 새로운 협상으로 미룹니다. 이 합의는 이란의 미사일 프로그램과 지역적 야망을 다루지 않아 이스라엘과 이란의 아랍 이웃 국가들을 놀라게 했습니다. 이스라엘은 합의 당사국이 아니므로, 이스라엘이 이란 및 레바논 동맹국 헤즈볼라와의 새로운 갈등을 통해 이를 뒤집을 가능성이 있습니다. 또한 이 합의는 이란 남부 해역의 중요한 해상 무역로인 호르무즈 해협이 자유 통행을 위해 계속 열려 있을지 여부를 해결하지 못합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-에마뉘엘 마크롱 프랑스 대통령은 목요일 TV 진행자로부터 전쟁에서 누가 승리했는지 질문을 받았을 때 세계 지도자 공동체를 대변하는 듯했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"완전히 끝났다고 말할 수는 없다고 생각합니다."라고 그는 답했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다음은 예비 합의가 남긴 미해결 질문들입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-해협은 합의의 경제적으로 가장 중요한 물음표로 남아 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-테헤란이 미국과 이스라엘의 이란 공격에 대한 보복으로 해협을 차단하기 전에는, 유조선들이 자유롭게 통과했습니다. 그 화물은 세계 석유의 약 4분의 1을 차지했으며, 대부분 아시아로 보내졌습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란과의 잠정 합의에는 유조선이 "60일 동안만" 수수료를 내지 않고 해협을 통과할 수 있어야 한다고 명시되어 있습니다. 이는 테헤란이 그 이후에 통행료를 부과할 수 있음을 의미하며, 그때까지 추가 합의가 이루어지지 않으면 세계 상당 부분의 해운 및 연료 비용이 상승할 수 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-세계 지도자들에게 가장 큰 안보 우려는 이란 핵 프로그램의 운명입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-합의는 이란이 수십 년간 반복해 온 핵무기 생산 불가 약속을 재확인했다고 밝힙니다. 또한 이란은 핵폭탄 제조에 사용될 수 있는 농축 핵 물질을 "다운블렌드(희석)"해야 합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 버락 오바마 대통령이 2015년에 체결한 합의와 달리, 트럼프의 잠정 합의는 이란이 그 물질을 국외로 운송하도록 요구하지 않습니다. 또한 이란이 새로운 물질을 농축하는 것을 금지하거나 핵 시설 폐쇄를 강제하는 내용도 없으며, 이 두 문제는 향후 60일간의 협상에 남겨져 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프리드리히 메르츠 독일 총리와 같은 유럽 지도자들은 핵무기 야망 해체에 대한 이란의 진전을 검증하는 방법을 포함한 더 명확한 조치를 보고 싶어 합니다. 그리고 그런 조치 없이는 이란에 대한 자체 경제 제한을 완화할 가능성이 낮아 보입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-중동에서 이란의 이웃 국가들과 적들은 이란의 핵 야망뿐만 아니라 최근 전쟁 내내 이스라엘과 페르시아만의 아랍 국가들을 손상시키는 데 사용된 테헤란의 미사일과 드론, 그리고 레바논의 헤즈볼라와 예멘의 후티 같은 지역 대리 세력에 대한 지원도 우려합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-분석가들은 트럼프의 잠정 합의가 이란의 비핵 무기고를 다루지 않을 뿐만 아니라 지역 민병대에 대한 지원을 줄이도록 장려하지 않는다고 말했습니다. 이러한 누락은 이스라엘뿐만 아니라 사우디아라비아와 아랍에미리트 같은 미국의 아랍 동맹국들도 실망시켰다고 합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-합의가 이란에 상당한 경제적 완화를 제공하기 때문에, 아랍과 이스라엘 모두 테헤란이 재정적으로 힘을 얻어 무기고를 재건하고 중동 전역에서 지정학적 야망을 확장할 것을 두려워합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘 지도자들은 평화 협정에 분노하며, 다음 협상 라운드에서 변수로 빠르게 자리 잡았습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-합의는 "레바논을 포함한" 군사 작전의 즉각적이고 영구적인 종료를 요구합니다. 이스라엘은 헤즈볼라와 싸우기 위해 전쟁 중 레바논 일부를 점령했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 베냐민 네타냐후 이스라엘 총리는 월요일 합의에 구속되지 않는다고 말했습니다. 이스라엘은 금요일, 군이 헤즈볼라 공격으로 병사 4명이 사망했다고 발표한 후 레바논에 새로운 공습을 시작했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-상황은 적어도 잠시 진정되는 듯 보였는데, 워싱턴 주재 이스라엘 대사 예히엘 라이터가 금요일 늦게 이스라엘 군이 "모든 공세 작전을 중단했다"고 밝혔기 때문입니다. 그는 이스라엘이 "헤즈볼라를 제거하고 테러 기반 시설을 해체하기 위해" 남부 레바논에 남아 있을 것이라고 덧붙였습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-외교관들에 따르면, 대서양 양안의 관리들은 네타냐후가 레바논에서의 공격을 중단하도록 압력을 가했으며, 이란은 이를 근거로 금요일 새로운 협상에서 철수했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"미국과 이란 사이에 협상된 휴전이 남부 레바논에서도 유지되는 것이 이제 필수적입니다."라고 메르츠는 금요일 브뤼셀에서 기자들에게 말하며, "저는 네타냐후 총리와의 논의에서도 이를 여러 번 분명히 밝혔습니다."라고 덧붙였습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지나 스미아렉이 브뤼셀에서, 크리스토퍼 F. 슈에체가 베를린에서 보도에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-iran-global-bcmj/20int-iran-global-bcmj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 00:02:41 +0000</pubDate></item><item><title>The Unquiet American: Charles Kushner Brings Trump Diplomacy to France (불안한 미국인: 찰스 쿠슈너, 트럼프 외교를 프랑스에 가져오다)</title><link>https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-france-kushner-wtqv/20int-france-kushner-wtqv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-worldcup-capeverde-hcwv/20int-worldcup-capeverde-hcwv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 14:31:00 +0000</pubDate></item><item><title>The Unquiet American: Charles Kushner Brings Trump Diplomacy to France (불안한 미국인: 찰스 쿠슈너, 트럼프 외교를 프랑스에 가져오다)</title><link>https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-france-kushner-wtqv/20int-france-kushner-wtqv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Four days before marking the 82nd anniversary of the D-Day landings in Normandy, Charles Kushner, President Trump’s ambassador to France, made a quieter pilgrimage to a military cemetery in eastern France. There, he recited the Kaddish prayer over the graves of five Jewish American soldiers killed in World War I.&lt;br/&gt;(노르망디 상륙작전 82주년을 나흘 앞두고, 도널드 트럼프 대통령의 프랑스 대사인 찰스 쿠슈너는 프랑스 동부에 있는 군사묘지로 조용한 순례를 떠났다. 그곳에서 그는 제1차 세계대전에서 전사한 다섯 명의 유대인계 미국 군인의 묘비 앞에서 유대교 추모 기도인 카디시를 암송했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 그것은 자신의 신앙을 외교의 핵심에 두는 정통파 유대교 신자인 쿠슈너에게 엄숙한 추모 행사였다. 그러나 오늘날 프랑스에 사는 유대인들을 대신한 그의 노골적인 옹호가 파리에서 더 많은 관심과 비난을 불러일으켰으며, 그는 파리의 품위 있는 살롱들을 휩쓸고 다녔다.

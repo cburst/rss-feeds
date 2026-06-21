@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/hani_fulltext_rss/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 19:25:16 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 21:29:05 +0900</lastBuildDate>
 
 
 
@@ -764,7 +764,51 @@
 
 
 
-  <item><title>전시는 – exhibition</title><link>urn:urn:vocab:전시는</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>않는다는 – that it does not</title><link>urn:urn:vocab:않는다는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1707515205791-36477a7f1718?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGF0JTIwaXQlMjBkb2VzJTIwbm90fGVufDB8fHx8MTc4MjA0NDk0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="않는다는 (that it does not)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;항상 금리 인상 시 부작용으로 지목되곤 하는 성장에 대한 우려가 사실상 문제가 되지 않는다는 인상을 받을 정도다&lt;br/&gt;&lt;em&gt;The concern about growth, which is often pointed out as a side effect of interest rate hikes, is so negligible that it seems virtually not a problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;문제는 인터넷이나 와이파이, 블루투스 모듈 등 외부 네트워킹을 이용한 해킹의 위험이 단순히 개인정보 유출 피해에 그치지 않는다는 데 있다&lt;br/&gt;&lt;em&gt;The problem is that the risk of hacking through external networking such as the internet, Wi-Fi, or Bluetooth modules does not merely result in personal information leakage.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(숭실대 정보보호학과의 강점은 특정 스타 플레이어 한 명에게만 의존하지 않는다는 것이다&lt;br/&gt;&lt;em&gt;(The strength of Soongsil University's Department of Information Security is that it does not rely on just one specific star player.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 오지 않는다는 말을 들었다.&lt;br/&gt;&lt;em&gt;I heard that he is not coming.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그녀가 먹지 않는다는 것을 알았다.&lt;br/&gt;&lt;em&gt;I knew that she does not eat.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1707515205791-36477a7f1718?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGF0JTIwaXQlMjBkb2VzJTIwbm90fGVufDB8fHx8MTc4MjA0NDk0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="않는다는 (that it does not)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;항상 금리 인상 시 부작용으로 지목되곤 하는 성장에 대한 우려가 사실상 문제가 되지 않는다는 인상을 받을 정도다&lt;br/&gt;&lt;em&gt;The concern about growth, which is often pointed out as a side effect of interest rate hikes, is so negligible that it seems virtually not a problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;문제는 인터넷이나 와이파이, 블루투스 모듈 등 외부 네트워킹을 이용한 해킹의 위험이 단순히 개인정보 유출 피해에 그치지 않는다는 데 있다&lt;br/&gt;&lt;em&gt;The problem is that the risk of hacking through external networking such as the internet, Wi-Fi, or Bluetooth modules does not merely result in personal information leakage.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(숭실대 정보보호학과의 강점은 특정 스타 플레이어 한 명에게만 의존하지 않는다는 것이다&lt;br/&gt;&lt;em&gt;(The strength of Soongsil University's Department of Information Security is that it does not rely on just one specific star player.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그는 오지 않는다는 말을 들었다.&lt;br/&gt;&lt;em&gt;I heard that he is not coming.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그녀가 먹지 않는다는 것을 알았다.&lt;br/&gt;&lt;em&gt;I knew that she does not eat.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 21 Jun 2026 21:29:05 +0900</pubDate><guid isPermaLink="false">vocab-df2bfd9f98261132cd89c9505d2ebd20d5159a4f</guid><enclosure url="https://images.unsplash.com/photo-1707515205791-36477a7f1718?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGF0JTIwaXQlMjBkb2VzJTIwbm90fGVufDB8fHx8MTc4MjA0NDk0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="121010" /><ns2:content url="https://images.unsplash.com/photo-1707515205791-36477a7f1718?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGF0JTIwaXQlMjBkb2VzJTIwbm90fGVufDB8fHx8MTc4MjA0NDk0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1707515205791-36477a7f1718?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0aGF0JTIwaXQlMjBkb2VzJTIwbm90fGVufDB8fHx8MTc4MjA0NDk0NHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>않는다는</category></item><item><title>대해선 – about, regarding</title><link>urn:urn:vocab:대해선</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1734436387925-e8d4703c8539?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYm91dCUyQyUyMHJlZ2FyZGluZ3xlbnwwfHx8fDE3ODIwNDQ5MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대해선 (about, regarding)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기관장의 리더십과 전문성, 경영계약 이행성과 등 개인적 역량을 절대평가 해 △우수 △보통 △미흡 △아주미흡 4등급으로 나누고, ‘미흡’ 기관장에는 경고를, ‘아주 미흡’을 받은 재임 중 기관장에 대해선 해임을 건의하기로 했다&lt;br/&gt;&lt;em&gt;The leadership and expertise of the head of the institution, as well as individual capabilities such as performance in management contracts, are absolutely evaluated and divided into four grades: △Excellent △Average △Insufficient △Very Insufficient. For heads rated 'Insufficient', a warning will be issued, and for those in office who receive 'Very Insufficient', dismissal will be recommended.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기관 평가 등급이 ‘보통’ 이상인 기관에 대해서는 기관 유형과 등급에 따라 성과급이 달리 지급되고, 2025년 당기순이익이 전년도 대비 감소 및 2025년 당기순손실이 발생한 공기업 임원에 대해선 ‘성과급 25% 자율 반납’을 권고하기로 했다&lt;br/&gt;&lt;em&gt;For institutions with an evaluation grade of 'Average' or higher, performance bonuses will be paid differently depending on the type and grade of the institution. For executives of public enterprises whose net profit in 2025 decreased compared to the previous year or who incurred a net loss in 2025, it was decided to recommend 'voluntary return of 25% of performance bonuses'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (다주택자들이 지난 5월9일 양도소득세 중과 유예 종료일 전에 보유 주택을 매도하면서 전월세 매물 감소로 이어졌다는 지적이 있지만 이에 대해선 반론도 제기된다&lt;br/&gt;&lt;em&gt;"There are criticisms that multi-homeowners sold their owned homes before the end of the heavy capital gains tax deferral on May 9, leading to a decrease in rental listings, but counterarguments are also raised."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 책에 대해선 몰라요.&lt;br/&gt;&lt;em&gt;I don't know about that book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 문제에 대해선 생각해 봐요.&lt;br/&gt;&lt;em&gt;Think about this problem.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1734436387925-e8d4703c8539?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYm91dCUyQyUyMHJlZ2FyZGluZ3xlbnwwfHx8fDE3ODIwNDQ5MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="대해선 (about, regarding)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;기관장의 리더십과 전문성, 경영계약 이행성과 등 개인적 역량을 절대평가 해 △우수 △보통 △미흡 △아주미흡 4등급으로 나누고, ‘미흡’ 기관장에는 경고를, ‘아주 미흡’을 받은 재임 중 기관장에 대해선 해임을 건의하기로 했다&lt;br/&gt;&lt;em&gt;The leadership and expertise of the head of the institution, as well as individual capabilities such as performance in management contracts, are absolutely evaluated and divided into four grades: △Excellent △Average △Insufficient △Very Insufficient. For heads rated 'Insufficient', a warning will be issued, and for those in office who receive 'Very Insufficient', dismissal will be recommended.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기관 평가 등급이 ‘보통’ 이상인 기관에 대해서는 기관 유형과 등급에 따라 성과급이 달리 지급되고, 2025년 당기순이익이 전년도 대비 감소 및 2025년 당기순손실이 발생한 공기업 임원에 대해선 ‘성과급 25% 자율 반납’을 권고하기로 했다&lt;br/&gt;&lt;em&gt;For institutions with an evaluation grade of 'Average' or higher, performance bonuses will be paid differently depending on the type and grade of the institution. For executives of public enterprises whose net profit in 2025 decreased compared to the previous year or who incurred a net loss in 2025, it was decided to recommend 'voluntary return of 25% of performance bonuses'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (다주택자들이 지난 5월9일 양도소득세 중과 유예 종료일 전에 보유 주택을 매도하면서 전월세 매물 감소로 이어졌다는 지적이 있지만 이에 대해선 반론도 제기된다&lt;br/&gt;&lt;em&gt;"There are criticisms that multi-homeowners sold their owned homes before the end of the heavy capital gains tax deferral on May 9, leading to a decrease in rental listings, but counterarguments are also raised."&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그 책에 대해선 몰라요.&lt;br/&gt;&lt;em&gt;I don't know about that book.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 문제에 대해선 생각해 봐요.&lt;br/&gt;&lt;em&gt;Think about this problem.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Sun, 21 Jun 2026 21:28:42 +0900</pubDate><guid isPermaLink="false">vocab-8887ab82ad9da8bb731083493a914f380d29ebc6</guid><enclosure url="https://images.unsplash.com/photo-1734436387925-e8d4703c8539?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYm91dCUyQyUyMHJlZ2FyZGluZ3xlbnwwfHx8fDE3ODIwNDQ5MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="123426" /><ns2:content url="https://images.unsplash.com/photo-1734436387925-e8d4703c8539?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYm91dCUyQyUyMHJlZ2FyZGluZ3xlbnwwfHx8fDE3ODIwNDQ5MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1734436387925-e8d4703c8539?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhYm91dCUyQyUyMHJlZ2FyZGluZ3xlbnwwfHx8fDE3ODIwNDQ5MjB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>대해선</category></item><item><title>전시는 – exhibition</title><link>urn:urn:vocab:전시는</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1632383380175-812d44ec112b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxleGhpYml0aW9ufGVufDB8fHx8MTc4MjAzNzUxMnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="전시는 (exhibition)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(이번 전시는 식물의 삶과 시간을 주제로 한 기획전으로, 박상은·김제민·홍이카 등 3인의 현대미술 작가가 참여했다&lt;br/&gt;&lt;em&gt;This exhibition is a curated show themed around plant life and time, featuring three contemporary artists: Park Sang-eun, Kim Je-min, and Hong Ika.&lt;/em&gt;&lt;/p&gt;
