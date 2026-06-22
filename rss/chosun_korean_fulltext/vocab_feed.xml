@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 02:28:59 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:37:18 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,71 @@
 
 
 
-  <item><title>기본적 – basic</title><link>urn:urn:vocab:기본적</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>열대야 – tropical night</title><link>urn:urn:vocab:열대야</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624032446731-1d3c9806d995?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMG5pZ2h0fGVufDB8fHx8MTc4MjE2NDIzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="열대야 (tropical night)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4em;"&gt;더 독해진 열대야… 26도이상 비율 60년새 5배 증가&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;4em;"&gt;More intense tropical nights... Proportion of nights above 26 degrees increases 5-fold in 60 years&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;열대야 늘어나고 무더운 열대야 비율 5배로 올라&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;4em;"&gt;Tropical nights increase, proportion of sweltering tropical nights rises 5-fold&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오늘 밤은 열대야입니다.&lt;br/&gt;&lt;em&gt;Tonight is a tropical night.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;열대야에 잠을 못 잤어요.&lt;br/&gt;&lt;em&gt;I couldn't sleep because of the tropical night.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1624032446731-1d3c9806d995?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMG5pZ2h0fGVufDB8fHx8MTc4MjE2NDIzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="열대야 (tropical night)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;4em;"&gt;더 독해진 열대야… 26도이상 비율 60년새 5배 증가&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;4em;"&gt;More intense tropical nights... Proportion of nights above 26 degrees increases 5-fold in 60 years&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;4em;"&gt;열대야 늘어나고 무더운 열대야 비율 5배로 올라&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;4em;"&gt;Tropical nights increase, proportion of sweltering tropical nights rises 5-fold&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오늘 밤은 열대야입니다.&lt;br/&gt;&lt;em&gt;Tonight is a tropical night.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;열대야에 잠을 못 잤어요.&lt;br/&gt;&lt;em&gt;I couldn't sleep because of the tropical night.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 23 Jun 2026 06:37:18 +0900</pubDate><guid isPermaLink="false">vocab-214c8d99818e6932b07d4e82d408416fd93cf045</guid><enclosure url="https://images.unsplash.com/photo-1624032446731-1d3c9806d995?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMG5pZ2h0fGVufDB8fHx8MTc4MjE2NDIzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="219532" /><ns2:content url="https://images.unsplash.com/photo-1624032446731-1d3c9806d995?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMG5pZ2h0fGVufDB8fHx8MTc4MjE2NDIzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1624032446731-1d3c9806d995?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMG5pZ2h0fGVufDB8fHx8MTc4MjE2NDIzNHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>열대야</category></item><item><title>오늘로 – from today</title><link>urn:urn:vocab:오늘로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641750539134-cab44ce1b6c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdG9kYXl8ZW58MHx8fHwxNzgyMTU2ODA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="오늘로 (from today)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(오늘로 단식(斷食) 17일(日)째다&lt;br/&gt;&lt;em&gt;(Today is the 17th day of fasting)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오늘로 19일째다&lt;br/&gt;&lt;em&gt;(Today is the 19th day)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘로 단식 20일(日)째다&lt;br/&gt;&lt;em&gt;Today is the 20th day of fasting&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오늘로 수업이 끝나요.&lt;br/&gt;&lt;em&gt;The classes end today.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘로 일주일이에요.&lt;br/&gt;&lt;em&gt;It's been a week as of today.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641750539134-cab44ce1b6c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdG9kYXl8ZW58MHx8fHwxNzgyMTU2ODA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="오늘로 (from today)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(오늘로 단식(斷食) 17일(日)째다&lt;br/&gt;&lt;em&gt;(Today is the 17th day of fasting)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오늘로 19일째다&lt;br/&gt;&lt;em&gt;(Today is the 19th day)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘로 단식 20일(日)째다&lt;br/&gt;&lt;em&gt;Today is the 20th day of fasting&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오늘로 수업이 끝나요.&lt;br/&gt;&lt;em&gt;The classes end today.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘로 일주일이에요.&lt;br/&gt;&lt;em&gt;It's been a week as of today.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 23 Jun 2026 04:33:34 +0900</pubDate><guid isPermaLink="false">vocab-28c3ff06b8b4e6d93702b8f5df88ddd1be2aa245</guid><enclosure url="https://images.unsplash.com/photo-1641750539134-cab44ce1b6c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdG9kYXl8ZW58MHx8fHwxNzgyMTU2ODA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="174182" /><ns2:content url="https://images.unsplash.com/photo-1641750539134-cab44ce1b6c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdG9kYXl8ZW58MHx8fHwxNzgyMTU2ODA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1641750539134-cab44ce1b6c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdG9kYXl8ZW58MHx8fHwxNzgyMTU2ODA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>오늘로</category></item><item><title>오늘로 – from today</title><link>urn:urn:vocab:오늘로</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641750539134-cab44ce1b6c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdG9kYXl8ZW58MHx8fHwxNzgyMTU2ODA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="오늘로 (from today)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(오늘로 단식(斷食) 17일(日)째다&lt;br/&gt;&lt;em&gt;(Today is the 17th day of fasting)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오늘로 19일째다&lt;br/&gt;&lt;em&gt;(Today is the 19th day)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘로 단식 20일(日)째다&lt;br/&gt;&lt;em&gt;Today is the 20th day of fasting&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오늘로 수업이 끝나요.&lt;br/&gt;&lt;em&gt;Classes end today.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘로 새 일정이 시작돼요.&lt;br/&gt;&lt;em&gt;A new schedule starts today.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1641750539134-cab44ce1b6c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdG9kYXl8ZW58MHx8fHwxNzgyMTU2ODA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="오늘로 (from today)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(오늘로 단식(斷食) 17일(日)째다&lt;br/&gt;&lt;em&gt;(Today is the 17th day of fasting)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(오늘로 19일째다&lt;br/&gt;&lt;em&gt;(Today is the 19th day)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘로 단식 20일(日)째다&lt;br/&gt;&lt;em&gt;Today is the 20th day of fasting&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;오늘로 수업이 끝나요.&lt;br/&gt;&lt;em&gt;Classes end today.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;오늘로 새 일정이 시작돼요.&lt;br/&gt;&lt;em&gt;A new schedule starts today.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 23 Jun 2026 04:33:29 +0900</pubDate><guid isPermaLink="false">vocab-4e2b7592975231a19816bf145ee152a5352d10d7</guid><enclosure url="https://images.unsplash.com/photo-1641750539134-cab44ce1b6c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdG9kYXl8ZW58MHx8fHwxNzgyMTU2ODA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="174182" /><ns2:content url="https://images.unsplash.com/photo-1641750539134-cab44ce1b6c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdG9kYXl8ZW58MHx8fHwxNzgyMTU2ODA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1641750539134-cab44ce1b6c6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxmcm9tJTIwdG9kYXl8ZW58MHx8fHwxNzgyMTU2ODA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>오늘로</category></item><item><title>기본적 – basic</title><link>urn:urn:vocab:기본적</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1464618663641-bbdd760ae84a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNpY3xlbnwwfHx8fDE3ODIxNDkzMzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기본적 (basic)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (그는 “우크라이나 측과 이미 기본적 합의는 다 이뤄져 있다”며 “그 원칙은 변함이 없고 이번에 (우크라이나) 외교장관이 방한하면 또 약간의 진전이 있을 수 있지 않을까 그렇게 기대하고 있다”고 말했다&lt;br/&gt;&lt;em&gt;"He said, 'We have already reached a basic agreement with the Ukrainian side,' adding, 'The principle remains unchanged, and I hope that there may be some progress when the Ukrainian foreign minister visits this time.'"&lt;/em&gt;&lt;/p&gt;

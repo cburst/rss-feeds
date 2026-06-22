@@ -1,346 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 22 Jun 2026 17:28:49 +0000</lastBuildDate><item><title>A Court Case Reveals Some of Tim Hortons’ Secrets (법정 소송이 드러낸 팀호튼스의 비밀들)</title><link>https://www.nytimes.com/2026/06/20/world/canada/tim-hortons-prices-quebec-court.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/world/20candaletter-03/20candaletter-03-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Tim Hortons’ iconic status in Canada means that owning one of its franchises has become seen as the next best thing to winning a lottery.&lt;br/&gt;(캐나다에서 팀호튼스의 상징적 지위는 프랜차이즈를 소유하는 것이 복권에 당첨되는 것 다음으로 좋은 일로 여겨지게 만들었다.)&lt;/p&gt;
-&lt;p&gt;But even lottery wins come with headaches. In a Montreal court, 15 franchise holders are suing Tim Hortons for 27 million Canadian dollars for profits that they claim the company’s policies and practices have denied them.&lt;br/&gt;(하지만 복권 당첨에도 골칫거리는 따른다. 몬트리올 법원에서 15명의 프랜차이즈 소유주들이 팀호튼스를 상대로 2700만 캐나다 달러 규모의 소송을 제기했다. 그들은 회사의 정책과 관행 때문에 이익을 얻지 못했다고 주장한다.)&lt;/p&gt;
-&lt;p&gt;Like much in the Canadian court system, the case is moving sluggishly. The lawsuit was filed in March 2024.&lt;br/&gt;(캐나다 사법 제도의 많은 부분이 그렇듯, 이 사건도 더디게 진행되고 있다. 소송은 2024년 3월에 제기되었다.)&lt;/p&gt;
-&lt;p&gt;But this month, Tim Hortons submitted a document challenging its franchise holders’ claims and asking the Quebec Superior Court to dismiss the case. Most interesting of all, it also offers a peek behind the curtain at some of Tim Hortons’ secrets, particularly around how much customers pay and how it rewards loyal double-double drinkers.&lt;br/&gt;(하지만 이번 달, 팀호튼스는 프랜차이즈 소유주들의 주장에 이의를 제기하고 퀘벡 고등법원에 사건 기각을 요청하는 문서를 제출했다. 가장 흥미로운 점은 이 문서가 팀호튼스의 비밀, 특히 고객이 얼마를 지불하는지와 더블더블 음료를 마시는 충성 고객에게 어떻게 보상하는지에 대한 내막을 엿볼 수 있게 해준다는 것이다.)&lt;/p&gt;
-&lt;p&gt;You aren’t mistaken if you think Tim Hortons’ prices have soared since the Covid pandemic and Russia’s full-scale invasion of Ukraine.&lt;br/&gt;(코로나19 팬데믹과 러시아의 우크라이나 전면 침공 이후 팀호튼스의 가격이 급등했다고 생각하는 것이 틀린 생각은 아니다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-회사의 소장에 따른 계산에 따르면, 2021년에서 2024년 사이 일반 인플레이션은 18.4% 상승했다. 그러나 같은 기간 퀘벡의 팀호튼스 고객들은 21.1% 더 많은 금액을 지불했다.)&lt;/p&gt;
-&lt;p&gt;By the company’s calculations in the filing, general inflation rose by 18.4 percent between 2021 and 2024. But Tim Hortons’ customers in Quebec paid 21.1 percent more during the same time.&lt;br/&gt;(여러 요인 중에서도 반발하는 프랜차이즈 소유주들은 가격을 설정할 수 없었던 점을 이익 손실의 원인으로 꼽았다. 법원 소장에서 이 아이디어를 일축하면서, 팀호튼스는 고객이 지불하는 금액이 거주 지역에 따라 달라진다는 점을 확인했다.)&lt;/p&gt;
-&lt;p&gt;Among many factors, the dissident franchise holders blamed their lost profits on their inability to set prices. In dismissing that idea in its court filing, Tim Hortons confirmed that what customers pay depends on where they live.&lt;br/&gt;(회사는 캐나다를 62개의 "가격 클러스터"로 나누었다. 각 클러스터에서 현지 경쟁, 인건비, 소득, 통과하는 고객 수 등 다양한 요소를 기반으로 지속적으로 가격을 조정한다. 회사는 1년에 네 번 가격을 테스트한다.)&lt;/p&gt;
-&lt;p&gt;The company has divided the country into 62 “price clusters.” In each of them, it constantly adjusts prices based on a variety of factors, including local competition, labor costs, income and the number of customers who pass through. Four times a year, the company tests prices.&lt;br/&gt;(회사는 이 데이터를 사용하여 고객이 더 나은 조건을 찾아 길 건너 맥도날드로 달려가지 않을 수준에서 최대한 높은 가격을 설정한다. 또는 소장에 표현된 대로, 이 시스템은 "경쟁력과 수익성의 균형"에 관한 것이다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-법원 문서는 또한 공짜 커피 같은 것은 없다는 것을 보여준다. 여기에는 가격 인상과 충성도 혜택 축소의 조합으로 인해 팀스 리워드가 2019년 도입 후 1년 만에 "자체 자금 조달"이 되었다는 차트가 포함되어 있다. 팀호튼스의 단골 고객들은 참여하지 않는 고객들과 함께 스스로에게 효과적으로 보상하고 있는 셈이다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-팀호튼스를 고소한 프랜차이즈 소유주들은 약 15%의 영업 이익률을 보고 싶어 한다. 팀호튼스에 따르면, 대부분의 소유주들은 약 9%에서 14% 사이를 달성했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-프랜차이즈의 목표에는 미치지 못하지만, 이러한 이익률은 전국의 대부분의 레스토랑 소유주들이 부러워할 만한 수준일 것이다. 업계 단체인 레스토랑즈 캐나다의 설문 조사에 따르면, 회원사의 36%가 올해 첫 3개월 동안 손해를 보거나 간신히 손익분기점을 맞췄다. 10% 이상의 이익률을 기록한 곳은 13%에 불과했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-법원 소장에서 팀호튼스는 15명의 프랜차이즈 소유주 중 한 명이 2023년 가스페 지역의 레스토랑 5곳에서 140만 캐나다 달러를 벌었고, 2021년 이후 헬리콥터 4대를 구입하고 항공 사업을 시작했다고 밝혔다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-그럼에도 불구하고, 긴 프랜차이즈 계약을 포함한 이 문서는 레스토랑 소유주들이 대부분 팀호튼스에 좌우되며 회사가 끊임없이 그들의 주머니에 손을 넣고 있다는 점을 분명히 한다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-약간의 예외를 제외하고, 그들은 모든 식품, 공급품 및 장비를 팀호튼스 또는 회사가 선택한 공급업체로부터 구매해야 한다. 계약은 매년 매장을 다시 칠하고 5년마다 리노베이션할 것을 요구한다. 프랜차이즈 수수료 외에도 소유주들은 매주 판매액에 기반한 로열티를 지불하고(지연 시 높은 연체료 부과) 광고비를 매달 납부한다. 심지어 새 레스토랑 개점 광고를 위해 팀호튼스에 비용을 지불해야 하지만, 회사가 그 돈을 어떻게 사용하는지에 대해 발언권은 없다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-하지만 프랜차이즈 소유주들이 완전한 자율권을 가진 한 가지 영역이 있다. 팀호튼스는 경영진 고용과 직원 급여 지급을 전적으로 프랜차이즈 소유주의 책임으로 만든다. 커피를 따르거나 샌드위치를 만드는 사람들은 현지 소유주를 위해 일하는 것이지, 팀스를 위해 일하는 것이 아니다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-팀호튼스는 최근 몇 년 동안 캐나다에 외국인 임시 근로자 프로그램으로 오는 직원들에게 지나치게 의존한다는 인식 때문에 비판을 받아왔다. 팀호튼스는 법원 소장에서 소송을 제기한 소유주 중 한 명이 레스토랑 8곳에서 마다가스카르 출신 임시 근로자 40명을 고용했다고 밝혔다. 지난달 말, 회사는 매장 직원 11만 명 중 4,000명이 임시 취업 허가를 받고 일하고 있다고 말했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-정부에 임시 근로자 유치를 위해 로비를 한 사실을 인정한 후, 팀호튼스는 "캐나다 레스토랑 소유주들이 현지 팀원 1만 명을 새로 고용할 수 있도록 돕기 위한" 홍보 캠페인에 착수했다. 지금까지 가장 눈에 띄는 흔적은 팀호튼스에서 일하는 것을 젊은 캐나다인들의 통과 의례로 묘사하려는 TV 광고였다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-하지만 팀호튼스가 소유주들이 누구를 고용할지에 대해 발언권이 없다는 점을 고려하여, 나는 회사에 어떻게 1만 명의 현지 고용 인원을 산출했는지, 그리고 그것이 실제로 이루어질 것이라고 어떻게 확신하는지 물었다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-팀호튼스 모회사의 최고 기업 책임자인 덩컨 펄튼은 그 숫자가 프랜차이즈 소유주 자문 위원회의 고용 촉진 요청에서 나왔다고 말했다. 펄튼은 기업 교육 시스템에 로그인한 사람들을 기준으로 광고가 방영되기 시작한 지 3주 만에 약 6,500명이 캐나다에서 회사에 합류했다고 추정했다. 그러나 그는 이 숫자가 성수기 여름 시즌을 위한 과거 채용 물결과 어떻게 비교되는지 말해줄 수 없었다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-이안 오스틴은 타임스紙의 캐나다 담당 기자입니다. 윈저(온타리오) 출신으로 현재 오타와에 거주하며 20년 동안 캐나다를 취재해 왔습니다. austen@nytimes.com으로 연락할 수 있습니다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-타리크 판자
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-월드컵이 한순간에 국가와 팀이 그 어떤 것보다도 함께 뭉치는 것을 상징할 수 있다는 것을 보여준 엽서와 같았다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-캐나다가 넣은 6골도, 밴쿠버의 화창한 날 카타르를 상대로 거둔 압도적 승리가 캐나다를 토너먼트 진출로 이끌 것이라는 거의 확실성도 아니었다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-미드필더 이스마엘 코네의 가슴 아픈 부상 이후의 순간들이 지금까지 캐나다의 대회를 가장 잘 전달했다. 다리가 부러진 코네는 여전히 팬들에게 손을 흔들며 팀을 계속 응원하라는 메시지를 보냈다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-코네를 대신해 라인업에 들어간 네이선 살리바는 오후의 네 번째 골을 넣었을 때 그에 맞게 반응했다. 그는 부상당한 팀 동료의 유니폼을 잡아 B.C. 플레이스의 군중이 그의 골을 환호하는 가운데 그것을 높이 들어 올렸다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-경기 후 코네의 부상에 눈물을 흘린 미국인 감독 제시 마시는 "이런 순간에 나는 그들이 나를 그렇게 많이 필요로 하지 않는다고 생각한다. 그들은 서로를 가지고 있다"고 말했다. "그들의 가족들이 여기 있고 내일 가족 바베큐 파티가 있을 예정인데, 우리는 그것을 즐길 것이고 그는 우리 마음속에 있을 것이다."
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-더 힘든 도전이 앞에 있을 수 있지만(다음은 스위스와의 경기), 목요일에 분명해진 것은 캐나다, 국가와 팀이 비록 고통도 여정의 일부이지만 더 큰 환희의 순간을 가져올 수 있는 정신을 보여주고 있다는 것이다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-타리크 판자는 다섯 번째 월드컵을 취재하고 있는 타임스紙의 글로벌 스포츠 특파원이다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-"할리우드 북"에 만족하지 않고, 캐나다 스크린 산업은 그 어느 때보다 자신을 주장하고 자신의 이야기를 들려주고 있다. 타임스紙의 캐나다 지국장 마티나 스테비스-그리드네프와 사진작가 콜 번스턴은 몇 주 전 캐나다 스크린 어워즈의 백스테이지를 방문했다. 그들은 크고 작은 스크린에서 캐나다다움을 정의하는 데 깊이 헌신하는 젊은 베테랑 배우, 감독, 프로듀서, 작가 등을 발견했다. 놓쳤다면, 여기 선물 링크가 있다: 캐나다의 연예계, 할리우드의 그늘에서 벗어나다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-또한, 캐나다 배우이자 작가, 감독, 프로듀서인 세스 로건은 타임스紙의 작가이자 "더 인터뷰"의 공동 진행자인 룰루 가르시아-나바로와 함께 자신의 코미디 초기 시작과 이후의 다작 할리우드 경력에 대해 이야기했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-화요일, CBC와 로저스 스포츠넷은 회사들이 서브 라이선싱 계약에 합의하지 못한 후 공영 방송사가 더 이상 토요일 밤에 "캐나다의 하키의 밤"을 방영하지 않을 것이라고 발표했다고 브조사 이사이가 보도했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-이 결정에 대한 여러분의 생각과 CBC에서 토요일 밤에 "캐나다의 하키의 밤"을 시청했던 추억을 nytcanada@nytimes.com으로 들려주시기 바랍니다. 다음 주 캐나다 레터에서 가장 좋은 답변 중 일부를 재인쇄할 수 있습니다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-우리는 먼저 후속 연락을 하고, 정보를 확인하고, 여러분의 회신을 듣지 않고는 여러분의 응답의 어떤 부분도 게시하지 않을 것입니다. 또한 타임스 뉴스룸 외부에 연락처 정보를 공유하지 않으며, 여러분에게 연락하는 것 외의 다른 목적으로 사용하지 않을 것입니다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-노리미츠 오니시는 퀘벡이 어떻게 10년 만에 안락사 분야에서 세계를 선도하게 되었는지 보도했다. 한때 강력한 로마 가톨릭 교회였던 사회는 교회의 안락사 금지를 거부했으며, 많은 사람들이 대신 자신의 죽음에 대한 통제권을 개인의 권리로 본다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-토론토 주미국 영사관에 총격을 가한 혐의로 수배된 19세 남성에 대한 수색은 그가 피어슨 국제공항에서 체포되면서 끝났다. 그는 총기 소지, 자동차 절도, 영사관 공격 혐의로 기소되었다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-캐나다가 시민권 자격을 확대한 지 6개월 만에 기록 보관소에 대한 요청이 쇄도하고 있다. 이 문서들은 캐나다와의 유대 관계를 증명하는 데 필수적이다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-캐나다 억만장자 프랭크 스트로나흐(93세)가 두 건의 성폭행 및 추행 혐의로 유죄 판결을 받고 다른 세 건의 혐의에 대해 무죄를 선고받았다고 이안 오스틴이 보도했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-북미 자유 무역 협정을 검토하기 위한 또 다른 협상 라운드가 이번 주 워싱턴에서 마무리되었으며, 의원들은 협정을 옹호하는 목소리를 높이고 있으며 그 미래에 대해 불안해하고 있다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-월드컵 수요를 활용하기 위해 호텔들은 올해 객실 요금을 크게 인상했으며, 일부는 평균보다 500% 높은 야간 요금을 책정했다. 그러나 개최 도시 전반의 가격은 정점에서 꾸준히 하락했으며, 밴쿠버와 멕시코 몬테레이에서 가장 큰 하락폭을 보였다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-오피니언 칼럼에서: 한 도시가 주택 위기를 해결했을지도 모른다. 그리고 그것은 상상할 수 없는 가장 예상치 못한 장소 중 하나인 밴쿠버에서 일어나고 있다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-뉴욕 타임스 스타일 매거진은 여름 휴가를 위해 퀘벡 시티를 방문할 좋은 이유를 제시한다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-브리티시 컬럼비아의 한 워터파크에서 12명이 감전 가능성이 있는 난간을 만진 후 부상을 입었다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-온타리오주 시골 마플턴 타운십의 교차로에서 스포츠 유틸리티 차량과 10명의 승객을 태운 밴이 충돌하여 어린이 5명이 사망했다.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-저희는 어떻게 하고 있나요? 이 뉴스레터와 캐나다 일반의 사건들에 대한 여러분의 생각을 듣고 싶습니다. nytcanada@nytimes.com으로 보내주십시오.
-
-&lt;&lt;&lt;PARA&gt;&gt;=
-이 이메일이 마음에 드시나요? 친구들에게 전달하고, 여기에서 가입할 수 있다고 알려주십시오.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/canada/tim-hortons-prices-quebec-court.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/world/20candaletter-03/20candaletter-03-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 01:00:03 +0000</pubDate></item><item><title>Game Change (게임 체인지)</title><link>https://www.nytimes.com/2026/06/20/briefing/game-change.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20theMorningNL/20theMorningNL-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Everyone in New York City is talking about the Knicks, but perhaps as notable as the team’s winning the N.B.A. championship after a 53-year drought is the fact that people here are talking to one another at all. The city’s famous indifference, the anonymity-preserving armor that most inhabitants wear every day, has been disintegrating since the N.B.A. finals began, and seemed to disappear entirely after the Knicks won the chip.&lt;br/&gt;(뉴욕시티의 모든 사람들이 닉스에 대해 이야기하고 있지만, 53년 만의 NBA 우승만큼이나 주목할 만한 점은 이곳 사람들이 서로 대화를 나누고 있다는 사실일 것이다. 이 도시의 유명한 무관심, 대부분의 시민들이 매일 착용하는 익명성을 보호하는 갑옷은 NBA 결승전이 시작된 이후로 무너지기 시작했으며, 닉스가 우승을 차지한 후에는 완전히 사라진 듯 보였다.)&lt;/p&gt;
-&lt;p&gt;In this transformed city, previously forbidding strangers are transformed into fellow fans. A blue-and-orange hat is a symbol of fellowship, license to start a conversation in line at the deli. You could stand in silence while waiting for the elevator, or you could ask the person next to you if he saw the game. You could let the old man in the Knicks Forever tee with matching neon sneakers shamble on by, or you could nod and give him a thumbs-up, which, miraculously, is returned. The feeling is one of temporary wonder: Can you believe Brunson and Co. came through? Can you believe you and I are talking to each other right now?&lt;br/&gt;(이렇게 변한 도시에서는 이전에는 무서웠던 낯선 사람들이 동료 팬으로 변신한다. 파란색과 주황색 모자는 우애의 상징이며, 델리에서 줄을 서 있을 때 대화를 시작할 수 있는 면허증과 같다. 엘리베이터를 기다리는 동안 침묵 속에 서 있을 수도 있고, 옆 사람에게 경기를 봤는지 물을 수도 있다. '닉스 포에버' 티셔츠와 네온 운동화를 신은 노인이 지나가도록 내버려둘 수도 있고, 고개를 끄덕이며 엄지손가락을 치켜세울 수도 있는데, 기적적으로 그 답례를 받게 된다. 그 느낌은 일시적인 경이로움과 같다: 브런슨과 일행이 해냈다는 게 믿기나요? 당신과 내가 지금 서로 대화하고 있다는 게 믿기나요?)&lt;/p&gt;
-&lt;p&gt;New Yorkers mythologize their tendency to mind their own business as a form of self-sufficiency and sophistication. Unflappable, unconcerned with others, a perfect performance of what the sociologist Erving Goffman called “civil inattention,” acknowledging strangers with a respectful glance that never engages. Elsewhere this behavior would be seen as cold, antisocial, but in New York it’s become a modus vivendi.&lt;br/&gt;(뉴요커들은 자신의 일에 신경 쓰지 않는 경향을 자립심과 세련됨의 한 형태로 신화화한다. 흔들리지 않고, 타인에게 무관심하며, 사회학자 어빙 고프만이 "예의 바른 무관심"이라고 부른, 낯선 사람을 인정하되 절대 개입하지 않는 존중하는 시선의 완벽한 연기이다. 다른 곳에서는 이러한 행동이 냉담하고 반사회적인 것으로 여겨질 수 있지만, 뉴욕에서는 생활 방식이 되었다.)&lt;/p&gt;
-&lt;p&gt;But regardless of where you live, you’ve likely experienced that feeling of separateness from the people around you. People are going about their lives, busy with their families and jobs, often too preoccupied to acknowledge others. It’s only when that invisible armor falls — when someone ventures a “How are you?” at the gym, when the cashier asks if the probiotic soda you’re buying is any good — that you realize you’ve been keeping yourself separate. New York in the thrall of the Knicks presents this shift in the extreme. It’s a crucible, a laboratory of connection made all the more notable for the trademark dispassion it’s replaced.&lt;br/&gt;(하지만 당신이 어디에 살든, 주변 사람들과의 분리감을 경험해 본 적이 있을 것이다. 사람들은 가족과 직장에 바쁘게 살아가며, 종종 너무 몰두해서 다른 사람을 인정하지 못한다. 그 보이지 않는 갑옷이 벗겨질 때, 즉 누군가 체육관에서 "어떠세요?"라고 물을 때, 계산원이 당신이 사는 프로바이오틱 탄산음료가 괜찮은지 물을 때, 비로소 당신이 스스로를 분리시켜 왔음을 깨닫게 된다. 닉스에 사로잡힌 뉴욕은 이러한 변화를 극단적으로 보여준다. 그것은 도가니이자 연결의 실험실이며, 그것이 대체한 특유의 냉담함 때문에 더욱 주목할 만하다.)&lt;/p&gt;
-&lt;p&gt;I want to bottle this connection, this communal experience that’s so precious because it is, as my colleague Matt Flegenheimer put it, “good, gleeful, uncomplicated.” Knicks fever has given people an entrée to communicate with people they wouldn’t otherwise, a rare pathway to intimacy. Now that we’ve experienced it, now that we’ve admitted we want to connect with one another — that it feels good to chat and high-five and smile at people we don’t know — how do we perpetuate it?&lt;br/&gt;(나는 이 연결, 이 공동체적 경험을 병에 담아두고 싶다. 동료인 맷 플레겐하이머가 말했듯이 "좋고, 즐겁고, 복잡하지 않은" 것이기에 너무나 소중하다. 닉스 열풍은 사람들이 그렇지 않으면 대화하지 않을 사람들과 소통할 수 있는 입구, 친밀감으로 가는 드문 통로를 제공했다. 우리가 그것을 경험했고, 서로 연결되고 싶다는 것을 인정했으며, 모르는 사람들과 수다를 떨고 하이파이브를 하고 웃는 것이 기분 좋다는 것을 알게 된 지금, 어떻게 그것을 지속할 수 있을까?)&lt;/p&gt;
-&lt;p&gt;The British anthropologist Victor Turner called it “communitas,” that feeling of ecstatic kinship when our usual scripts are dispensed with, when we replace society’s regular structure with this warm “humankindness.” I’m already grieving the return to normalcy that will follow communitas, the inevitable retreat back into our eyes-down, you-talking-to-me bubbles of self-regard. But Turner cautioned against trying to institutionalize the good feeling. He saw resumption of normal life, with its clear boundaries and customs, as essential for a functioning society. People, he said, “return to structure revitalized by their experience of communitas.” If we can remember what it felt like to be this uninhibited, if we can remember that the guy we’d never in a million years think to talk to was once the guy in the OG Anunoby jersey we spent 10 delightful minutes dissecting plays with at a street-corner watch party, who knows what else is possible? The new season tips off in October.&lt;br/&gt;(영국 인류학자 빅터 터너는 이것을 "코뮤니타스"라고 불렀다. 즉, 우리의 일상적인 대본이 사라지고, 사회의 정규 구조를 이 따뜻한 "인간애"로 대체할 때 느끼는 열광적인 친족감이다. 나는 이미 코뮤니타스 이후에 올 정상으로의 복귀, 즉 눈을 내리깔고 '나한테 말하는 거야?'라는 자기 중심의 거품 속으로의 불가피한 후퇴를 슬퍼하고 있다. 하지만 터너는 좋은 감정을 제도화하려는 시도에 대해 경고했다. 그는 명확한 경계와 관습이 있는 정상적인 삶의 재개가 기능적인 사회에 필수적이라고 보았다. 사람들은 "코뮤니타스의 경험으로 활력을 되찾아 구조로 돌아간다"고 그는 말했다. 우리가 이렇게 자유로웠던 느낌을 기억할 수 있다면, 백만 년이 지나도 말을 걸 생각조차 하지 않았을 그 남자가 한때 길모퉁이 관중 파티에서 우리가 10분 동안 즐겁게 플레이를 분석했던 OG 아누노비 저지를 입은 그 사람이었다는 것을 기억할 수 있다면, 또 무엇이 가능할지 누가 알겠는가? 새 시즌은 10월에 시작된다.)&lt;/p&gt;
-&lt;p&gt;Iran Peace Deal&lt;br/&gt;(이란 평화 협정)&lt;/p&gt;
-&lt;p&gt;Negotiations between the U.S. and Iran were delayed amid fighting between Israel and Hezbollah. Israel later committed to an immediate cease-fire, an ambassador said, but there were fresh reports of fighting on Saturday.&lt;br/&gt;(미국과 이란 간의 협상은 이스라엘과 헤즈볼라 간의 교전으로 지연되었다. 한 대사에 따르면 이스라엘은 이후 즉각적인 휴전에 합의했지만, 토요일에는 새로운 교전 보도가 있었다.)&lt;/p&gt;
-&lt;p&gt;The shaky peace deal and tenuous negotiations have added to the chaos and confusion for ships in the Strait of Hormuz.&lt;br/&gt;(흔들리는 평화 협정과 불확실한 협상은 호르무즈 해협의 선박들에게 혼란과 혼란을 가중시켰다.)&lt;/p&gt;
-&lt;p&gt;In his first public comments on the deal, Iran’s supreme leader said he disliked signing it “as a matter of principle.”&lt;br/&gt;(협정에 대한 첫 공개 발언에서 이란의 최고 지도자는 원칙적으로 서명하는 것을 싫어한다고 말했다.)&lt;/p&gt;
-&lt;p&gt;Few nations have more to gain from the preliminary deal than India, which has been running dangerously low on fuel.&lt;br/&gt;(예비 협정으로부터 가장 많은 이득을 볼 국가는 연료가 위험할 정도로 부족해지고 있는 인도이다.)&lt;/p&gt;
-&lt;p&gt;Politics&lt;br/&gt;(정치)&lt;/p&gt;
-&lt;p&gt;Washington’s Reflecting Pool seems to be rejecting its makeover: The water remains murky, and pieces of its new “American flag blue” coating are peeling off.&lt;br/&gt;(워싱턴의 리플렉팅 풀은 리모델링을 거부하는 듯하다: 물은 여전히 흐리고, 새로운 "미국 국기 파란색" 코팅 조각이 벗겨지고 있다.)&lt;/p&gt;
-&lt;p&gt;Defense Secretary Pete Hegseth has blocked the promotions of around 20 female and minority officers, and possibly more. That isn’t a coincidence, The Times has found. Inside Hegseth’s war on diversity.&lt;br/&gt;(국방장관 피트 헤그세스는 약 20명의 여성 및 소수 장교들의 진급을 막았으며, 더 많을 수도 있다. 타임스는 이것이 우연이 아님을 발견했다. 헤그세스의 다양성 전쟁 내부.
-&lt;&lt;&lt;PERA&gt;&gt;&gt;
-트럼프 행정부는 국무부 성명에 따르면 남아프리카공화국에 대한 AIDS 자금 지원을 단계적으로 중단할 계획이다.)&lt;/p&gt;
-&lt;p&gt;The Trump administration plans to begin phasing out AIDS funding for South Africa, according to a State Department statement.&lt;br/&gt;(다른 주요 뉴스)&lt;/p&gt;
-&lt;p&gt;Other Big Stories&lt;br/&gt;(이번 주 모스크바에서 발생한 극적인 연료 저장 시설 폭발은 뚜껑이 솟아오르며 우크라이나의 회복력 있는 강점을 상징하는 듯했다. 그러나 폭발은 러시아 방어 미사일의 오인으로 인한 것일 수 있다.)&lt;/p&gt;
-&lt;p&gt;The dramatic explosion of a fuel storage facility in Moscow this week, which sent its lid soaring, seemed to symbolize Ukraine’s resilient strength. But the blast may have been caused by an errant Russian defense missile.&lt;br/&gt;(로스앤젤레스의 한 닉스 열성 팬이 너무 크게 응원하여 이웃들이 응급 상황을 신고했다. 출동한 경찰관이 그녀의 개를 죽였다.)&lt;/p&gt;
-&lt;p&gt;A Knicks superfan in Los Angeles cheered so loudly that neighbors reported a possible emergency. A responding police officer killed her dog.&lt;br/&gt;(시즌 첫 번째 이름이 붙은 열대성 폭풍 아서가 텍사스에서 캐롤라이나에 이르는 남동부 지역을 적셨다. 최소 3명이 사망했다.)&lt;/p&gt;
-&lt;p&gt;Tropical Storm Arthur, the first named storm of the season, has drenched a swath of the Southeast from Texas to the Carolinas. At least three people have died.&lt;br/&gt;(영화 및 TV)&lt;/p&gt;
-&lt;p&gt;Film and TV&lt;br/&gt;(전 "닥터 후" 스타 맷 스미스는 HBO의 "하우스 오브 더 드래곤"의 다가오는 시즌에서 살인적인 왕자를 연기한다. 혈흔이 그에게 잘 어울린다.)&lt;/p&gt;
-&lt;p&gt;Matt Smith, the former “Doctor Who” star, plays a murderous prince in the upcoming season of HBO’s “House of the Dragon.” Blood spatter looks great on him.&lt;br/&gt;("토이 스토리 5"는 마침내 조앤 큐잭이 목소리를 맡은 카우걸 인형 제시를 책임자로 세운다. 이 캐릭터는 원래 세뇨리타 선인장이라는 말하는 다육식물로 구상되었다.)&lt;/p&gt;
-&lt;p&gt;“Toy Story 5” finally puts Jessie, the cowgirl doll voiced by Joan Cusack, in charge. The character was originally envisioned as a talking succulent called Señorita Cactus.&lt;br/&gt;(로빈 후드는 일반적으로 폭정에 맞서는 고귀한 무법자로 여겨진다. 하지만 그가 실제로 약탈하는 살인자였다면? 마이클 사르노스키의 "로빈 후드의 죽음"은 그 아이디어를 진지하게 받아들인다.)&lt;/p&gt;
-&lt;p&gt;Robin Hood is usually seen as a noble outlaw who confronts tyranny. But what if he was actually a marauding killer? Michael Sarnoski’s “The Death of Robin Hood” takes that idea seriously.&lt;br/&gt;(TV 시트콤의 대가로 "치어스"를 만드는 데 기여하고 "택시", "프레이저", "프렌즈"를 포함한 다른 쇼의 1,000개 이상의 에피소드를 연출한 제임스 버로우스가 85세로 사망했다.)&lt;/p&gt;
-&lt;p&gt;James Burrows, a master of the TV sitcom who helped create “Cheers” and directed more than 1,000 episodes of other shows including “Taxi,” “Frasier” and “Friends,” died at 85.&lt;br/&gt;(음악)&lt;/p&gt;
-&lt;p&gt;Music&lt;br/&gt;(팝캐스트의 반기별 메일백 에피소드가 돌아왔다. 기즈는 록의 조 바이든인가? 마룬 5는 팝-랩 관문 약물이었나? 사람들은 아델이 게으르다고 생각하나? 여기서 들어보세요.)&lt;/p&gt;
-&lt;p&gt;Popcast’s semiannual mailbag episode is back. Is Geese the Joe Biden of rock? Was Maroon 5 a pop-rap gateway drug? Do people think Adele is lazy? Listen here.&lt;br/&gt;(그래미상을 수상한 아이슬란드 보컬리스트 라우베이는 불협화음을 창작 과정의 중심에 두고 있다. 이에 대한 그녀의 에세이를 읽어보세요.)&lt;/p&gt;
-&lt;p&gt;Laufey, the Grammy-winning Icelandic vocalist, keeps dissonance at the center of her creative process. Read her essay about it.&lt;br/&gt;(판사는 한 남성이 팝스타 사브리나 카펜터의 집에 10회 이상 들어가려 한 후 5년 동안 접근하지 말라고 명령했다.)&lt;/p&gt;
-&lt;p&gt;A judge ordered a man to stay away from the pop star Sabrina Carpenter for five years after he tried to get into her home more than a dozen times.&lt;br/&gt;(더 많은 문화)&lt;/p&gt;
-&lt;p&gt;More Culture&lt;br/&gt;(미국 예술가 제임스 터렐은 최신 "스카이스페이스" 설치 작품에서 거대한 돔 내부의 개구부를 통해 올려다보도록 관객을 초대한다.)&lt;/p&gt;
-&lt;p&gt;The American artist James Turrell invites viewers to gaze up through an opening inside a huge dome in his latest “skyspace” installation.&lt;br/&gt;(복원가들이 아테네의 장대한 신전인 파르테논 신전 측면의 220년 이상 비어 있던 틈을 수리했다.)&lt;/p&gt;
-&lt;p&gt;Restorers have fixed a gap on the side of the Parthenon, the grand temple in Athens, that had been empty for more than 220 years.&lt;br/&gt;(더 헌트: 약 60만 달러를 쓸 수 있는 한 부부와 두 명의 어린 자녀가 애틀랜타에서 침실 세 개짜리 집을 찾고 있다. 그들은 무엇을 선택했을까? 우리 게임을 해보세요.)&lt;/p&gt;
-&lt;p&gt;The Hunt: With about $600,000 to spend, a couple and their two young kids searched for a three-bedroom home in Atlanta. What did they pick? Play our game.&lt;br/&gt;(187만 5천 달러로 얻을 수 있는 것: 밀워키의 개조된 소방서; 매사추세츠주 세일럼의 19세기 주택; 또는 워싱턴주 베인브리지 아일랜드의 물과 산 전망이 있는 주택.)&lt;/p&gt;
-&lt;p&gt;What you get for $1.875 million: a converted firehouse in Milwaukee; a 19th-century house in Salem, Mass.; or a house with water and mountain views on Bainbridge Island, Wash.&lt;br/&gt;(매물: 7층짜리 바구니 하나. 한때 회사 본사였음. 가격: 850만 달러.)&lt;/p&gt;
-&lt;p&gt;For sale: One seven-story basket. Used to be a company headquarters. Asking price: $8.5 million.&lt;br/&gt;(휴고 스프리츠: 아페롤 스프리츠의 라이벌이 등장했나?)&lt;/p&gt;
-&lt;p&gt;Hugo spritz: Has the Aperol spritz met its match?&lt;br/&gt;(암시장: 사람들이 왓츠앱 그룹과 중국 실험실에서 체중 감량 약이라고 믿는 것을 사고 있다. 그것은 실제로 무엇일까?)&lt;/p&gt;
-&lt;p&gt;Black market: People are buying what they believe to be a weight-loss drug from WhatsApp groups and Chinese labs. What is it, really?&lt;br/&gt;(남성 정신 건강: 아빠들도 산후 우울증을 겪는다. 연구자들은 남성이 아기가 태어난 후 3~6개월 사이에 위험이 가장 높다고 말한다.)&lt;/p&gt;
-&lt;p&gt;Male mental health: Dads get postpartum depression, too. Researchers say men are at highest risk three to six months after their babies are born.&lt;br/&gt;(시중에는 수많은 진공 청소기가 있다. 올바른 것을 선택하는 것은 당신이 사는 집의 종류와 우선순위에 달려 있다. 다루기 힘든 기계를 끌고 다니는 것을 싫어한다면 무선 스틱 진공 청소기를 구입하라. 더 큰 집에 살고, 벽에서 벽까지 카펫이 깔려 있거나 털을 흘리는 반려동물을 키운다면, 코드형 업라이트 또는 캐니스터 진공 청소기가 가장 깨끗하게 청소하여 털과 먼지를 제거하고 알레르기 유발 물질을 걸러낼 수 있다. 마지막으로, 반려동물이 없고 깔개 몇 개만 있는 작은 아파트에 사는 사람이라면 로봇 진공 청소기가 효과적일 수 있다. — 에반 덴트)&lt;/p&gt;
-&lt;p&gt;There are countless vacuums on the market. Selecting the right one comes down to the kind of home you live in and your priorities. If you despise lugging out an unwieldy machine, get a cordless stick vacuum. If you live in a larger home, have wall-to-wall carpeting or deal with shedding pets, a plug-in upright or canister vacuum can give you the deepest clean, removing fur and dust and filtering allergens. Finally, for anyone in a smaller, pet-free apartment with only a couple of rugs, a robot vacuum may just do the trick. — Evan Dent&lt;br/&gt;(미국이 호주를 2-0으로 꺾고, 열광적인 시애틀 관중 앞에서 치열하고 격렬한 경기를 펼쳤다. 미국이 월드컵을 2연승으로 시작한 것은 1930년 이후 처음이며, 미국은 이제 토너먼트 진출을 확정지었다. 그들은 너무나 좋은 경기력을 보여주어 미국 팬들이 궁금해하기 시작했다: 이 팀이 실제로, 음, 해낼 수 있을까?)&lt;/p&gt;
-&lt;p&gt;The United States beat Australia, 2-0, in a feisty and physical game before a rowdy Seattle crowd. It’s the first time since 1930 that the U.S. has started a World Cup with two wins, and the Americans are now assured a spot in the knockout rounds. They have looked so good that U.S. fans are starting to wonder: Could this team actually, you know, do it?&lt;br/&gt;(어제의 다른 결과:)&lt;/p&gt;
-&lt;p&gt;Other results from yesterday:&lt;br/&gt;(모로코는 스코틀랜드를 1-0으로 꺾고 사실상 토너먼트 진출을 확정지었다.)&lt;/p&gt;
-&lt;p&gt;Morocco all but sealed its place in the knockout rounds with a 1-0 win over Scotland.&lt;br/&gt;(브라질은 아이티를 3-0으로 대파하며 월드컵 첫 승을 거두었다.)&lt;/p&gt;
-&lt;p&gt;Brazil earned its first win of the World Cup with a 3-0 trouncing of Haiti.&lt;br/&gt;(아직 많은 축구 경기가 남아 있지만, 우리는 이제 모든 팀이 적어도 한 번씩 경기를 치르는 것을 보았다. 디 애슬레틱의 축구 전문가들은 조별 리그 1라운드를 되돌아보았다. 다음은 그들의 견해 중 일부이다:)&lt;/p&gt;
-&lt;p&gt;There’s lots of soccer to be played still, but we now have seen every team take the pitch at least once. The Athletic’s soccer experts reflected on the first round of group play. Here are a few of their takes:&lt;br/&gt;(가장 인상 깊었던 팀)&lt;/p&gt;
-&lt;p&gt;Most impressive team&lt;br/&gt;(사이먼 휴즈: 프랑스. 그들은 강력한 상대인 세네갈을 상대로 훌륭하지 않았지만 여전히 3-1로 이겼다.)&lt;/p&gt;
-&lt;p&gt;Simon Hughes: France. They weren’t great against a very powerful opponent in Senegal and still won, 3-1.&lt;br/&gt;(가장 실망스러운 팀)&lt;/p&gt;
-&lt;p&gt;Most disappointing team&lt;br/&gt;(찰리 스콧: 가나. 그들이 파나마를 상대로 골을 넣을 수 있었던 유일한 방법은 골대가 비어 있는 상태에서 3야드 거리에서였다.)&lt;/p&gt;
-&lt;p&gt;Charlie Scott: Ghana. The only way they could score against Panama was from three yards out, in front of an open goal.&lt;br/&gt;(최고의 선수)&lt;/p&gt;
-&lt;p&gt;Best player&lt;br/&gt;(칼 안카: 여전히 메시다. 알제리를 상대로 한 그의 놀라운 해트트릭은 그가 (아마도) 역대 최고의 선수임을 상기시켰다.)&lt;/p&gt;
-&lt;p&gt;Carl Anka: It’s still Messi. His remarkable hat trick against Algeria reminded us that he is (probably) the greatest player to ever do it.&lt;br/&gt;(1라운드 후, 누가 우승할 것 같나요?)&lt;/p&gt;
-&lt;p&gt;After one round, who do you think is going to win it?&lt;br/&gt;(잭 랭: 한 번의 결과 때문에 몇 달 동안 가져온 의견을 뒤집어서는 안 된다는 원칙에 따라, 나는 스페인을 고수하겠다.)&lt;/p&gt;
-&lt;p&gt;Jack Lang: On the basis that you shouldn’t let one result overturn an opinion you have held for months, I’ll stick with Spain.&lt;br/&gt;(맷 슬레이터: 정말 내가 말해야 하는 건가요? 내가 해야 하나요? 겁쟁이들! 축구가 집으로 돌아온다. (잉글랜드.))&lt;/p&gt;
-&lt;p&gt;Matt Slater: Is it really being left to me to say it? Do I have to? Cowards! It’s coming home. (England.)&lt;br/&gt;(오늘의 스펠링 비가 여기 있습니다. 어제의 팡그램은 즉시성(immediacy)이었습니다.)&lt;/p&gt;
-&lt;p&gt;Here is today’s Spelling Bee. Yesterday’s pangram was immediacy.&lt;br/&gt;(이번 주 헤드라인을 얼마나 잘 따라왔는지 확인하기 위해 뉴스 퀴즈를 풀어보세요.)&lt;/p&gt;
-&lt;p&gt;Take the news quiz to see how well you followed this week’s headlines.&lt;br/&gt;(그리고 오늘의 미니 크로스워드, 워들, 크로스플레이, 커넥션즈, 스트랜즈가 있습니다.)&lt;/p&gt;
-&lt;p&gt;And here are today’s Mini Crossword, Wordle, Crossplay, Connections and Strands.&lt;br/&gt;(주말의 일부를 타임스와 함께 보내주셔서 감사합니다. — 멜리사)&lt;/p&gt;
-&lt;p&gt;Thanks for spending part of your weekend with The Times. — Melissa&lt;br/&gt;(이 뉴스레터를 받은 편지함으로 받으려면 여기에서 가입하세요. themorning@nytimes.com으로 팀에 연락하세요.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/briefing/game-change.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20theMorningNL/20theMorningNL-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 01:21:00 +0000</pubDate></item><item><title>Britain Is Set to Test How Far Charisma Can Shift Electoral Dynamics (영국, 카리스마가 선거 역학을 얼마나 바꿀 수 있을지 시험대에 오르다)</title><link>https://www.nytimes.com/2026/06/20/world/europe/burnham-starmer-labour-uk-reform.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-uk-politics-assess-vghw/20int-uk-politics-assess-vghw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;If Andy Burnham’s election to Parliament on Thursday results in him becoming Britain’s 59th prime minister in the weeks ahead, it will test the power of personality over policy.&lt;br/&gt;(만약 목요일 선거에서 앤디 버넘이 하원의원에 당선된 후 몇 주 안에 영국의 59대 총리가 된다면, 이는 정책보다 성격이 얼마나 큰 힘을 발휘하는지 시험하는 사례가 될 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-56세의 전 그레이터맨체스터 시장인 버넘은 총리 키어 스타머와 마찬가지로 노동당 정치인이다. 두 사람 모두 "노동당 가치"를 준수하는 것의 중요성을 자주 강조한다. 그 의미에 대해 일부 영역에서는 의견이 다르지만, 현재로서는 버넘 정부가 스타머의 정책과 크게 다를 것이라는 증거는 거의 없다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 많은 노동당 의원들은 스타머가 유권자들 사이에서 극도로 인기가 없어진 것에 충격을 받아, 7살 더 젊고 카리스마가 넘치며 더 진정성 있는 개인적 스타일을 지닌 버넘이 당과 국가를 침체에서 구해낼 수 있다고 확신하는 것으로 보인다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"소시지 자체가 바뀌지 않는다면, 결국 그가 제공하는 건 약간의 '지글거리는 소리'에 불과하다"고 런던 퀸메리대학교 정치학 교수 팀 베일은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"하지만 정부의 상황이 너무 오랫동안 암울했기 때문에, 대부분의 노동당 사람들은 그나마 받아들일 것이다. 순수한 성격의 힘으로 버넘이 사람들에게 당을 다시 한 번 봐주고 두 번째 기회를 주도록 설득할 수 있기를 바라면서 말이다"라고 그는 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-버넘이 다운링 스트리트에 진출하더라도 스타머를 괴롭혀 온 모든 도전 과제는 여전히 존재할 것이다. 경제 침체, 정부 부채, 자금 부족에 시달리는 국방 및 의료 시스템(각각 희소 자원을 두고 경쟁), 증가하는 세금 부담에 대한 불만, 그리고 영국인 3분의 1의 지지를 받는 반이민 포퓰리즘의 부상이라는 현실이 그것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-한 달도 채 안 된 특별 선거 운동 기간 동안 버넘은 이러한 도전 과제를 어떻게 해결할지에 대한 몇 가지 단서를 제시했다. 그는 런던 외부 지역에 더 많은 권한을 부여하고, 수도 같은 공공 서비스를 다시 공공 통제 하에 두고, 소기업의 재산세를 인하하며, 저소득층 주택을 더 많이 짓는 방안에 대해 이야기했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 그는 또한 국가 지도부에 필요한 희망과 변화에 대해 광범위한 일반론으로 유권자들에게 연설했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"모든 사람이 정치가 제대로 작동하지 않는다는 것을 알고 있다"고 그는 금요일 새벽, 잉글랜드 북서부의 탄광 마을과 시장 도시들로 이루어진 메이커필드의 최신 하원의원으로 선언된 후 지지자들에게 말했다. "모든 사람이 국가가 있어야 할 곳에 있지 않다고 느낄 수 있다. 오늘 밤은, 어쩌면, 전환점이 될 수 있다."
-&lt;&lt;&lt;PARA&gt;&gt;
-버넘의 지지자들은 그가 북서부에서 태어나고 자란 사람으로서, 2008년 금융 위기와 영국의 유럽연합 탈퇴 이후 경제적 어려움이 심화된 런던 외부 사람들의 좌절감을 이해한다고 주장한다. 그들은 그가 포퓰리즘 경쟁자들의 선동적인 수사에 맞서고, 스타머가 결코 할 수 없었던 방식으로 사람들이 자신의 목소리가 들린다고 느끼게 만드는 효과적인 이야기꾼이라고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-시장으로서 버넘은 맨체스터의 버스 시스템을 다시 공공 통제 하에 두고, 시내 중심에 밝은 노란색 '꿀벌 버스'에서 무료 교통을 도입하며, 요금을 2파운드(약 2.65달러)로 상한선을 정한 점으로 찬사를 받았다. 청정 공기 구역을 조성하려는 그의 노력은 실패했지만, 그의 도시에 민간 투자 물결을 가져오는 데 기여한 것으로 인정받았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"의도는 영국 내 더 소외된 지역의 사람들을 위해 정치가 작동하도록 만드는 것이다"라고 호주 모나쉬 대학교의 영국 민족주의 및 정치 전문 교수 벤 웰링스는 토요일에 썼다. 그는 버넘이 "영국 그 지역의 유권자들이 자신의 목소리가 들린다고 느끼기 시작하게 할 수 있다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리 중 많은 사람이 유권자들을 위해 성과를 내기를 조바심내고 있으며, 그 최선의 길은 앤디 버넘이 이끄는 것이라고 본다"고 요크 출신의 노동당 하원의원 레이첼 마스켈은 금요일 BBC 라디오에 말했다. 사우스포트의 하원의원 패트릭 헐리는 해당 프로그램에 "지금 우리는 새로운 무언가로의 전환이 필요하다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-정치에서 카리스마와 성격이 세부 정책 계획보다 우세한 선례는 많다. 거대한 성격의 보수당 정치인 보리스 존슨이 테레사 메이의 뒤를 이어 총리가 되기 위한 내부 지도부 경선에서 승리하고 2019년 총선에서 승리했을 때, 그의 유쾌하고 호전적인 스타일이 그의 성공을 이끌었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그리고 미국에서 트럼프 대통령은 자신의 성격에 대한 숭배를 만들어 '미국을 다시 위대하게' 운동에 힘을 실어, 정부 건물에 걸린 자신의 얼굴 배너와 그가 찾을 수 있는 모든 것에 새겨진 자신의 이름으로 선거 운동을 하고 통치해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-버넘은 트럼프와 같은 명령적인 존재감이나 전 대통령 버락 오바마와 같은 웅변가는 아니다. 하지만 하원과 정부에서의 초기 임기를 마친 후, 그는 9년 동안 지역 시장으로서 많은 유권자들이 혐오하는 웨스트민스터 내부 정치와 거리를 두어 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-코로나19 기간 동안, 그는 맨체스터를 대신해 중앙 정부에 맞서는 반항적인 모습을 보여 '북부의 왕'이라는 별명을 얻었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-결국, 버넘을 지지하려는 하원 내 노동당 동료들에게 가장 강력한 동기는 승리에 대한 열망과 나이절 파라지가 이끄는 포퓰리즘 우익 정당인 개혁 영국이 차기 정부를 구성하는 것을 막으려는 것일 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스타머가 지휘하는 동안 노동당은 여론 조사와 선거에서 어려움을 겪어 왔다. 그들은 2월 특별 선거에서 녹색당에 패배했다. 개혁당은 1년 이상 공개 여론 조사에서 일관되게 노동당을 앞질렀다.
-&lt;&lt;&lt;PARA&gt;&gt;
-목요일, 버넘은 자신의 선거에서 승리했을 뿐만 아니라 압도적인 방식으로 해냈다. 13명의 다른 후보들과 경쟁한 그는 거의 55%의 득표율을 기록했으며, 이는 다른 모든 후보들의 득표율을 합친 것보다 많았다. 그는 개혁 영국 후보를 쉽게 제압했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그것이 노동당 의원들이 원하는 결과다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"버넘의 화려한 승리 이후 스타머는 영국 총리직에 간신히 매달리고 있다"고 유라시아 그룹의 무즈타바 라만은 금요일 결과 분석에서 썼다. 그는 버넘의 지지자들이 "스타머에게 최대한의 압력을 가할 것이며, 처음에는 비공개로, 필요하다면 공개적으로 '품위 있는 퇴진'을 선택하도록 할 것"이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지금까지 총리는 그 압력에 저항해 왔다. 금요일 인터뷰에서 그는 메이커필드 지역을 노동당 가족 안에 유지한 버넘에게 성실히 축하를 전했다. 하지만 그는 또한 5년 임기 중 남은 3년 동안 자신의 자리를 지키기 위해 싸울 것을 다짐했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리가 반드시 피해야 할 한 가지는 서로를 공격하고 우리 당과 운동을 찢어놓음으로써 우리 당과 국가를 혼란에 빠뜨리는 것"이라고 스타머는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-만약 내각 동료들이 그를 공격한다면 스타머에게 사임 결정이 더 매력적으로 다가올 수 있다. 총리는 그가 원하지 않는 종류의 지저분한 당내 고통을 피하고 남은 유산을 보호하기 위해 질서 있는 이양으로 물러나기로 결정할 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-어느 쪽이든, 버넘은 결국 2024년 노동당이 의회 과반수를 차지한 후(비록 역사적으로 낮은 34%의 득표율에 불과했지만) 스타머가 깨달은 것을 발견할 수도 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-유권자는 매우 변덕스러울 수 있으며, 영국의 고통에 대한 장기적인 해결책을 찾기 위해서는 단순히 매력적인 성격만으로는 충분하지 않을 수 있다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/europe/burnham-starmer-labour-uk-reform.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-uk-politics-assess-vghw/20int-uk-politics-assess-vghw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 02:36:31 +0000</pubDate></item><item><title>Shipping remains far below prewar levels in the Strait of Hormuz. (호르무즈 해협의 선박 운항은 여전히 전쟁 전 수준에 크게 못 미치고 있습니다.)</title><link>https://www.nytimes.com/2026/06/20/world/middleeast/shipping-remains-far-below-prewar-levels-in-the-strait-of-hormuz.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20mideast-shipping-vqkg/20mideast-shipping-vqkg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;More ships have been moving through the Strait of Hormuz since the United States and Iran agreed to a preliminary deal this week that included provisions to reopen the waterway.&lt;br/&gt;(이번 주 미국과 이란이 수로 재개방 조치를 포함한 잠정 합의에 도출한 이후, 호르무즈 해협을 통과하는 선박이 늘어났습니다.)&lt;/p&gt;
-&lt;p&gt;But the traffic has been erratic and remains well below prewar levels.&lt;br/&gt;(그러나 교통량은 불규칙하며, 전쟁 전 수준에 비해 크게 낮은 수준을 유지하고 있습니다.)&lt;/p&gt;
-&lt;p&gt;Shipping companies remain cautious about the strait, a critical waterway for the world’s oil and gas supplies. They also face practical problems after their ships have been sitting in the Persian Gulf for months.&lt;br/&gt;(세계 석유 및 가스 공급에 중요한 이 수로에 대해 선적 회사들은 여전히 신중한 태도를 보이고 있습니다. 또한, 선박들이 수개월 동안 페르시아만에 머물러 있던 데 따른 실용적인 문제에도 직면하고 있습니다.)&lt;/p&gt;
-&lt;p&gt;On Thursday, 25 ships moved through the strait, including 14 oil tankers, according to Kpler, a maritime data company. The number was higher than the average in recent weeks. On Friday, 11 ships transited the strait: seven oil tankers and four dry bulk vessels, according to Kpler.&lt;br/&gt;(해양 데이터 회사인 Kpler에 따르면, 목요일에는 14척의 유조선을 포함해 25척의 선박이 해협을 통과했습니다. 이 수는 최근 몇 주간의 평균보다 높은 수치입니다. Kpler는 금요일에는 7척의 유조선과 4척의 건화물선 등 11척의 선박이 해협을 통과했다고 밝혔습니다.)&lt;/p&gt;
-&lt;p&gt;Before the war, roughly 130 vessels moved through the strait each day.&lt;br/&gt;(전쟁 전에는 하루 평균 약 130척의 선박이 해협을 통과했습니다.)&lt;/p&gt;
-&lt;p&gt;The preliminary agreement between the United States and Iran introduced a 60-day period of negotiations and outlined steps to reopen the strait. It removed a U.S. naval blockade on Iranian ships that had been imposed in April. The U.S. military said on Thursday that the blockade was no longer in place.&lt;br/&gt;(미국과 이란 간의 잠정 합의는 60일간의 협상 기간을 도입하고 해협 재개방을 위한 단계를 개괄했습니다. 이는 4월에 부과된 이란 선박에 대한 미국의 해상 봉쇄를 해제했습니다. 미군은 목요일에 봉쇄가 더 이상 유효하지 않다고 밝혔습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-합의에 따라, 이란은 해협을 재개방하고 60일 동안 전쟁 전 상태로 돌아가 선박이 무료로 통행할 수 있도록 허용하기로 했습니다. 그러나 이 합의는 60일 협상 기간 이후 이란이 요금을 부과할 가능성을 열어두고 있는 것으로 보입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-합의는 교통이 "30일 이내에" 재개될 것을 요구하지만, 언제 전쟁 전 수준으로 회복될지는 명확하지 않습니다. 합의는 상업 선박에 대해 해협을 "즉시" 재개방할 것을 요구했지만, "기술적 및 군사적 장애물"과 이란이 수로에서 기뢰를 제거해야 하는 필요성 때문에 지연될 수 있다고 언급했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/middleeast/shipping-remains-far-below-prewar-levels-in-the-strait-of-hormuz.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20mideast-shipping-vqkg/20mideast-shipping-vqkg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 02:57:56 +0000</pubDate></item><item><title>Israel and Hezbollah Are Still Fighting, Several Cease-Fires Later (이스라엘과 헤즈볼라, 여러 차례 휴전 이후에도 여전히 교전 중)</title><link>https://www.nytimes.com/2026/06/20/world/middleeast/israel-hezbollah-fighting-cease-fire.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20mideast-lebanon-strikes-tjqm/20mideast-lebanon-strikes-tjqm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;After a cease-fire was announced in Lebanon on Friday afternoon, the sixth such effort in a matter of weeks, little had changed 24 hours later as the truce once again devolved into more Israeli strikes and Hezbollah fire.&lt;br/&gt;(금요일 오후 레바논에서 휴전이 발표된 후, 몇 주 만에 여섯 번째 시도였지만, 24시간이 지난 시점에서도 상황은 거의 변하지 않았고 휴전은 다시 한번 이스라엘의 공습과 헤즈볼라의 포격으로 바뀌었다.)&lt;/p&gt;
-&lt;p&gt;Israel pounded towns and villages across southern Lebanon on Saturday, killing at least seven people and wounding more than a dozen, according to Lebanon’s health ministry.&lt;br/&gt;(이스라엘은 토요일 남부 레바논의 마을과 마을을 폭격하여 레바논 보건부에 따르면 최소 7명이 사망하고 10명 이상이 부상을 입었다.)&lt;/p&gt;
-&lt;p&gt;The Israeli military said the attacks came after Hezbollah, the Iran-backed Lebanese militant group, fired more than 50 projectiles overnight at Israeli troops in southern Lebanon, where Israel has occupied large swathes of territory since March.&lt;br/&gt;(이스라엘 군은 이번 공격이 이란이 지원하는 레바논 무장 단체 헤즈볼라가 밤사이 이스라엘군을 향해 50발 이상의 발사체를 쏜 데 따른 것이라고 밝혔다. 이스라엘은 3월 이후 남부 레바논의 넓은 지역을 점령하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 교전은 불과 하루 전 발표된 휴전을 무너뜨렸다. 이는 미국과 이란 간의 예비 평화 협정을 무산시킬 위험이 있는 급격한 확전을 진정시키기 위한 노력이었다. 이 협정에는 레바논에서의 군사 작전 종료가 명시되어 있었으나, 토요일 이란 군은 이스라엘의 지속적인 공격을 이유로 호르무즈 해협이 해상 통행에 폐쇄되었다고 발표하며 강수를 뒀다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이틀 만에 두 번째로, 레바논은 취약한 미국-이란 협정이 유지될지 여부의 중심에 다시 서게 되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-헤즈볼라의 밤사이 교전에 대한 설명에 따르면, 이 단체는 알리 알 타헤르(대도시 나바티예를 내려다보는 전략적 능선으로, 최근 갈등의 핵심 지점으로 부상)를 향해 진격하는 이스라엘군을 공격했다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-양측이 서로 최신 휴전을 위반했다고 비난하는 가운데, 헤즈볼라는 이 단체가 협정에 "충실"하지만 "적군이 추가 영토를 탈취하거나 점령을 확장하려는 어떤 시도도 용납하지 않을 것"이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘 관리들은 소위 "안전 지대"라고 부르는 지역에서 계속 작전을 수행할 것이라고 주장한다. 이 지역은 현재 레바논 내 6마일 이상 깊숙이 뻗어 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-교착 상태로 인해 최신 휴전은 갈등의 현실적인 종결보다는, 맞대응 공격의 익숙하면서도 불안정한 현상 유지로 회귀하는 것처럼 보인다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘과 헤즈볼라 모두 여전히 공격 권리를 주장하고 있는 가운데, 분석가들은 어떤 공격이든 또 다른 급속한 확전으로 이어져 미국과 이란 간의 임박한 평화 회담을 다시 위험에 빠뜨릴 수 있다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-토요일 사망자 수가 증가함에 따라, 레바논 군은 남부 레바논에서 이스라엘의 공습으로 병사 한 명이 사망했다고 밝혔다. 레바논 군은 이례적으로 직설적인 표현으로 이스라엘이 레바논의 안정을 회복할 수 있는 "어떤 해결책도 방해"하려 한다고 비난했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘 군은 관련 논평 요청에 대해 이 사건을 조사 중이라고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국이 대부분 지원하고 자금을 대는 레바논 군은 이스라엘과 헤즈볼라 간의 분쟁 당사자가 아니지만, 레바논 병사들은 반복적으로 폭력에 휩쓸려 이스라엘의 공습으로 사망해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다야나 이와자, 이자벨 커쉬너, 히두 아부 라반이 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/middleeast/israel-hezbollah-fighting-cease-fire.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20mideast-lebanon-strikes-tjqm/20mideast-lebanon-strikes-tjqm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 06:43:28 +0000</pubDate></item><item><title>New Strait of Hormuz Closure Announcement Threatens the Slow Uptick in Traffic (새로운 호르무즈 해협 폐쇄 발표, 교통량의 완만한 회복세 위협)</title><link>https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20mideast-shipping-update-wcgt/20mideast-shipping-update-wcgt-articleLarge-v2.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Shipping numbers in the Strait of Hormuz have been on a slow climb since the United States and Iran agreed to a preliminary deal this week to end the war and reopen the vital waterway. But traffic was suddenly jeopardized on Saturday, when Iran’s military said it was shutting the strait once again.&lt;br/&gt;(미국과 이란이 전쟁을 종식하고 이 중요한 수로를 재개방하기 위해 이번 주 예비 합의를 이룬 이후, 호르무즈 해협의 선박 통행량은 서서히 증가해 왔다. 그러나 토요일, 이란 군대가 해협을 다시 폐쇄하겠다고 발표하면서 교통량이 갑자기 위협받게 되었다.)&lt;/p&gt;
-&lt;p&gt;The closure came as U.S. Central Command announced a milestone, saying 55 commercial ships transited the strait on Saturday. That would be the largest number of ships to cross in a day since Iran effectively closed the strait early in the war — though it’s still far below the 130 daily prewar average.&lt;br/&gt;(이 폐쇄는 미국 중부사령부가 이정표를 발표한 시점에 이루어졌는데, 토요일에 55척의 상선이 해협을 통과했다고 밝혔다. 이는 이란이 전쟁 초기에 해협을 사실상 폐쇄한 이후 하루 최대 통과 선박 수였지만, 전쟁 전 평균인 하루 130척에는 여전히 크게 미치지 못한다.)&lt;/p&gt;
-&lt;p&gt;It was not clear whether traffic had changed after Iran announced the new closure.&lt;br/&gt;(이란이 새로운 폐쇄를 발표한 후 교통량이 변했는지는 명확하지 않았다.)&lt;/p&gt;
-&lt;p&gt;The confusion compounded as the United States and Iran offered conflicting assessments. The naval arm of Iran’s Islamic Revolutionary Guards Corps said if ships approached the strait, their security would be at risk.&lt;br/&gt;(미국과 이란이 상충되는 평가를 내놓으면서 혼란은 더욱 가중되었다. 이란 이슬람혁명수비대 해군 부대는 선박이 해협에 접근할 경우 안전이 위험에 처할 것이라고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;But Capt. Tim Hawkins, a spokesman for U.S. Central Command, denied in a text message on Saturday that Iran had closed the waterway, saying, “The strait is open and the U.S. blockade against Iran has ceased.” He wrote that traffic was “continuing to flow” and U.S. forces were monitoring the situation to ensure that continues.&lt;br/&gt;(그러나 팀 호킨스 미국 중부사령부 대변인은 토요일 문자 메시지를 통해 이란이 수로를 폐쇄했다는 주장을 부인하며 "해협은 열려 있으며, 이란에 대한 미국의 봉쇄는 중단되었다"고 말했다. 그는 교통량이 "계속 흐르고 있으며" 미군이 이를 보장하기 위해 상황을 모니터링하고 있다고 적었다.)&lt;/p&gt;
-&lt;p&gt;Throughout the war, Iran has used the strait — a critical route for the world’s oil and gas supplies — as one of its largest sources of leverage, and even the threat of renewed fighting has been enough to throttle shipping. Reflecting that volatility, traffic in recent days has been erratic and well below prewar levels.&lt;br/&gt;(전쟁 내내 이란은 세계 석유 및 가스 공급의 핵심 경로인 이 해협을 가장 큰 영향력 수단 중 하나로 사용해 왔으며, 전투 재개 위협만으로도 선박 운항을 억제하기에 충분했다. 이러한 변동성을 반영하여 최근 며칠간의 교통량은 불규칙했고 전쟁 전 수준에 훨씬 못 미쳤다.)&lt;/p&gt;
-&lt;p&gt;Though the preliminary deal reached by Iran and the United States included provisions to reopen the waterway, shipping companies remain cautious about moving through it. They also face logistical hurdles after their ships have been sitting in the Persian Gulf for months.&lt;br/&gt;(이란과 미국이 도달한 예비 합의가 수로 재개방 조항을 포함했지만, 선사들은 해협 통과에 여전히 신중한 입장이다. 또한 선박이 페르시아만에 수개월간 정박해 있던 후 물류적 장애물에 직면해 있다.)&lt;/p&gt;
-&lt;p&gt;On Thursday, 25 ships moved through the strait, including 14 oil tankers, according to Kpler, a maritime data company. The number was higher than the average in recent weeks. On Friday, 11 ships transited the strait: seven oil tankers and four dry bulk vessels, according to Kpler.&lt;br/&gt;(해양 데이터 회사인 Kpler에 따르면 목요일에는 14척의 유조선을 포함해 25척의 선박이 해협을 통과했다. 이 수치는 최근 몇 주간의 평균보다 높았다. Kpler에 따르면 금요일에는 11척의 선박이 해협을 통과했으며, 이 중 7척은 유조선, 4척은 건화물선이었다.)&lt;/p&gt;
-&lt;p&gt;Windward, a maritime analysis firm, said 22 ships went through the Strait of Hormuz on Saturday​, offering a lower number than the U.S. military’s. Michelle Wiese Bockmann, a senior maritime intelligence analyst at the firm, said the number could be higher after ships turned their tracking devices back on and became detectable.&lt;br/&gt;(해양 분석 회사인 Windward는 토요일에 22척의 선박이 호르무즈 해협을 통과했다고 밝혀 미군의 수치보다 낮은 숫자를 제시했다. 이 회사의 선임 해군 정보 분석가인 미셸 비제 보크만은 선박이 추적 장치를 다시 켜서 감지 가능해지면 그 숫자가 더 높아질 수 있다고 말했다.)&lt;/p&gt;
-&lt;p&gt;In announcing the closure of the waterway on Saturday, Iran’s central military command cited the killing and the displacement of Lebanese residents from southern Lebanon, along with Israel’s refusal to withdraw from the region, as factors. The deal between the United States and Iran stipulated an end to hostilities on all fronts, including Lebanon.&lt;br/&gt;(토요일 수로 폐쇄를 발표하면서 이란 중앙군사사령부는 레바논 주민들의 살해 및 남부 레바논에서의 이주, 그리고 이스라엘의 지역 철수 거부를 요인으로 언급했다. 미국과 이란 간의 합의는 레바논을 포함한 모든 전선에서의 적대 행위 종식을 명시했다.)&lt;/p&gt;
-&lt;p&gt;The preliminary agreement between the United States and Iran introduced a 60-day period of negotiations to reach a fuller peace, outlined steps to reopen the strait, and removed a U.S. naval blockade on Iranian ships that had been imposed in April.&lt;br/&gt;(미국과 이란 간의 예비 합의는 더 포괄적인 평화에 도달하기 위한 60일간의 협상 기간을 도입하고, 해협 재개방 절차를 개괄했으며, 4월에 부과된 이란 선박에 대한 미국의 해군 봉쇄를 해제했다.)&lt;/p&gt;
-&lt;p&gt;Under the deal, Iran agreed to reopen the strait and, for 60 days, return to the prewar status of allowing vessels to pass free of charge. The agreement, however, seems to leave open the possibility that Iran could charge fees after the 60-day negotiation period.&lt;br/&gt;(합의에 따라 이란은 해협을 재개방하고 60일 동안 선박이 무료로 통과할 수 있도록 전쟁 전 상태로 돌아가기로 합의했다. 그러나 이 합의는 60일 협상 기간 이후 이란이 수수료를 부과할 가능성을 열어둔 것으로 보인다.)&lt;/p&gt;
-&lt;p&gt;While the agreement calls for traffic to be reinstated “within 30 days,” it is not clear when it might return to prewar levels. The agreement called for reopening the strait to commercial vessels “immediately” but noted that there could be delays because of “technical and military obstacles,” as well as the need for Iran to remove mines from the waterway.&lt;br/&gt;(합의는 교통이 "30일 이내에" 재개되어야 한다고 요구하지만, 언제 전쟁 전 수준으로 돌아갈지는 불분명하다. 합의는 상선에 대한 해협 재개방을 "즉시" 요구했지만, "기술적 및 군사적 장애물"과 이란이 수로에서 지뢰를 제거해야 할 필요성으로 인해 지연이 있을 수 있다고 언급했다.)&lt;/p&gt;
-&lt;p&gt;Ms. Wiese Bockmann said that her bellwether for the situation in the coming days would be whether container ships affiliated with the European Union, which have been stranded since the war began, would make the trek across the strait. “And they haven’t moved yet,” she said.&lt;br/&gt;(비제 보크만은 향후 며칠간 상황의 기준점은 전쟁 발발 이후 좌초된 유럽연합(EU) 소속 컨테이너선이 해협을 통과할지 여부가 될 것이라고 말했다. "그리고 그들은 아직 움직이지 않았다"고 그녀는 말했다.)&lt;/p&gt;
-&lt;p&gt;“We can conclude that Western-affiliated tonnage stranded is still stepping back and assessing the security situation,” she said.&lt;br/&gt;("우리는 좌초된 서방 소속 선박들이 여전히 물러서서 안전 상황을 평가하고 있다고 결론 내릴 수 있다"고 그녀는 말했다.)&lt;/p&gt;
-&lt;p&gt;Jenny Gross and Peter Eavis contributed reporting.&lt;br/&gt;(제니 그로스와 피터 이비스가 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20mideast-shipping-update-wcgt/20mideast-shipping-update-wcgt-articleLarge-v2.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 14:13:44 +0000</pubDate></item><item><title>Wife of Spanish Prime Minister to Stand Trial for Corruption (스페인 총리 부인, 부패 혐의로 재판에 회부될 예정)</title><link>https://www.nytimes.com/2026/06/20/world/europe/gomez-spain-trial-corruption.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-spain-trial-zgfp/20int-spain-trial-zgfp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The wife of Prime Minister Pedro Sánchez of Spain will stand trial on charges of corruption and influence peddling as first lady, a judge ruled on Saturday.&lt;br/&gt;(스페인 페드로 산체스 총리의 부인이 퍼스트레이디 자격으로 부패 및 알선 혐의로 재판을 받게 될 것이라고 판사가 토요일 판결을 내렸다.)&lt;/p&gt;
-&lt;p&gt;Begoña Gómez has been under investigation since 2024, after a self-described anti-graft group filed a complaint accusing her of supporting a bid for a public contract by a group of companies to which she has personal and professional ties. Ms. Gómez has denied the accusations, but a judge in Madrid ruled there was enough evidence for the first lady to stand trial.&lt;br/&gt;(베고냐 고메스는 2024년부터 조사를 받아왔으며, 자칭 반부패 단체가 그녀가 개인적·직업적 연관이 있는 기업 그룹의 공공 계약 입찰을 지원했다는 고소장을 제출한 데 따른 것이다. 고메스 씨는 혐의를 부인했지만, 마드리드의 한 판사는 퍼스트레이디를 재판에 회부할 충분한 증거가 있다고 판결했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-후안 카를로스 페이나도 판사는 고메스 씨에게 횡령, 부패, 자금 유용 및 알선 혐의를 적용했으며, 그녀에게 여권을 당국에 제출하고 15일마다 법원에 출석하도록 명령했다. 재판 날짜는 아직 정해지지 않았다.)&lt;/p&gt;
-&lt;p&gt;Judge Juan Carlos Peinado brought charges of embezzlement, corruption, misappropriation of funds and influence peddling against Ms. Gómez and ordered her to surrender her passport to officials and to report to a court every 15 days. A trial date has not been set.&lt;br/&gt;("대통령궁에서 나오는 이러한 행동은 우리나라에서 오래전에 잊혀진 절대주의 정권의 특징처럼 보인다"고 판사는 84페이지 분량의 판결문에서 밝혔다.)&lt;/p&gt;
-&lt;p&gt;“Behaviors such as these emanating from presidential palaces seem more characteristic of absolutist regimes, thankfully long forgotten in our country,” the judge said in an 84-page ruling.&lt;br/&gt;(스페인 사법 제도는 원고가 법원에 직접 고소장을 제출할 수 있으며, 이후 판사가 조사를 주도하고 증거를 검토한 후 재판 진행 여부를 결정한다. 극우 복스당을 포함한 다른 우익 단체들도 고메스 씨에 대한 고소에 합류했다.)&lt;/p&gt;
-&lt;p&gt;The Spanish justice system allows a plaintiff to file a complaint directly with the court, after which a judge leads an investigation, reviews the evidence and decides whether to proceed to trial. Other right-wing groups, including the far-right Vox party, joined the complaint against Ms. Gómez.&lt;br/&gt;(산체스 총리는 이전에 아내의 법적 문제를 정치적 적들에 의한 "괴롭힘 및 철거 작전"이라고 묘사한 바 있다. 그는 수사가 처음 시작되었을 때 사퇴를 공개적으로 고려했지만, 자신이 정치적 중상모략 캠페인이라고 부른 것에 맞서 버텼다. 세계 무대에서 자유주의자들에게 인기 있는 좌파 지도자인 산체스 씨는 국내에서 점점 더 압박을 받고 있으며, 부패 의혹이 그와 그의 측근들을 괴롭히고 있다.)&lt;/p&gt;
-&lt;p&gt;Mr. Sánchez has previously described his wife’s legal woes as an “operation of harassment and demolition” by his political foes. He publicly considered resigning when the investigation first began, but held on in defiance of what he called a political smear campaign. Mr. Sánchez, a leftist leader who is popular with liberals on the world stage, has faced growing pressure at home, where corruption allegations have dogged him and those in his circle.&lt;br/&gt;(지난달 경찰은 산체스 씨가 이끄는 사회당 본부를 수색했다. 이 압수수색은 총리의 사퇴를 요구하는 보수 성향 스페인인들의 시위에 뒤이어 이루어졌다.)&lt;/p&gt;
-&lt;p&gt;Last month, the police searched the headquarters of the Socialist Party, which Mr. Sánchez leads. The raid followed a demonstration by conservative Spaniards demanding the prime minister’s resignation.&lt;br/&gt;(부패 수사는 총리의 여러 동맹 및 친척들을 연루시켰다. 지난달 산체스 씨의 형은 특혜 채용 의혹으로 재판에 넘겨졌다. 약 일주일 전, 그의 정치적 동맹이자 스페인 전 총리인 호세 루이스 로드리게스 사파테로는 정부가 어려움에 처한 항공사를 구제하도록 설득한 대가로 최대 240만 달러의 리베이트를 받았다는 의혹으로 공식 조사를 받았다.)&lt;/p&gt;
-&lt;p&gt;Corruption investigations have ensnared several of the prime minister’s allies and relatives. Last month, Mr. Sánchez’s brother went on trial over allegations that he received a patronage job. A little more than a week earlier, his political ally and Spain’s former prime minister, José Luis Rodríguez Zapatero, was placed under formal investigation after accusations that he had received kickbacks of as much as $2.4 million for helping persuade the government to bail out an ailing airline.&lt;br/&gt;(고메스 씨는 법원이 퍼스트레이디의 행동으로 혜택을 본 사업가 후안 카를로스 바라베스 콘술과 함께 기소되었다. 그녀의 비서인 크리스티나 알바레스도 고메스 씨의 중개인 역할을 한 혐의로 조사를 받고 있다.)&lt;/p&gt;
-&lt;p&gt;Ms. Gómez was charged alongside Juan Carlos Barrabés Cónsul, a businessman the court said benefited from the first lady’s actions. Her assistant, Cristina Álvarez, is also under investigation for her role as Ms. Gómez’s intermediary.&lt;br/&gt;("오늘은 정의를 믿는 우리에게 비참한 날이다"라고 펠릭스 볼라뇨스 각료이자 사회당 고위 인사가 소셜 미디어에 밝혔다. "누가 초래된 피해를 복구할 것인가?")&lt;/p&gt;
-&lt;p&gt;“Today is a disastrous day for those of us who believe in justice,” Félix Bolaños, a cabinet minister and senior member of the Socialist Party, said on social media. “Who will repair the damage caused?”&lt;br/&gt;(페이나도 판사의 재판 진행 결정 후, 산체스 씨의 정치적 반대자들은 즉시 포위했다. 야당 국민당의 미겔 텔라도 사무총장은 조기 선거를 촉구했다. 경쟁자들을 겨냥해 그는 집권당에서 "가족 중 기소된 사람이 없으면 아무것도 아닌 것처럼 보인다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;After Judge Peinado’s decision to allow the trial to go forward, Mr. Sánchez’s political opponents quickly circled. Miguel Tellado, general secretary of the opposition Popular Party, called for an early election. Taking aim at his rivals, he said that it appeared that in the ruling party, “if you don’t have a member of your family indicted, it seems like you’re nobody.”&lt;br/&gt;(영어로 '메이크 유어셀프 허드'로 알려진 이 사건을 제기한 단체 중 하나는 소셜 미디어에서 판사의 결정을 "굴하지 않는 정의의 훌륭한 예"라고 환영했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/europe/gomez-spain-trial-corruption.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-spain-trial-zgfp/20int-spain-trial-zgfp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 10:11:10 +0000</pubDate></item><item><title>Huge Blaze Ravages Dominican Republic Beach Resort (강풍을 타고 번진 대형 화재, 도미니카공화국 해변 리조트 덮쳐)</title><link>https://www.nytimes.com/2026/06/20/world/americas/dominican-republic-fire.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20int-dominican-republic-fire-gtwb/20int-dominican-republic-fire-gtwb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;A raging blaze fanned by strong winds on Friday destroyed a popular beachfront hotel on the southeastern shoreline of the Dominican Republic, rapidly consuming the thatched, palm-leaf roofs of many of the resort’s buildings.&lt;br/&gt;(금요일 강한 바람에 의해 확산된 격렬한 화재가 도미니카공화국 남동부 해안가의 인기 해변 호텔을 집어삼켜, 리조트 건물 다수의 초가지붕이 빠르게 불타버렸습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-응급 관계자들에 따르면, 그림 같은 해안 마을이자 옛 어촌인 바야히베에 위치한 비바 윈덤 도미니쿠스 비치 호텔에서 약 1,700명의 투숙객이 대피했습니다. 도미니카 당국에 따르면, 이탈리아인 관광객 한 명이 병원에서 사망 판정을 받았습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-호텔을 운영하는 체인인 비바 리조츠 바이 윈덤은 성명에서 "한 투숙객이 사망해 슬프며, 부검 결과를 통해 사인을 확인하는 동안 유가족께 깊은 애도를 표한다"고 밝혔습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-회사는 다른 모든 투숙객과 직원은 안전하게 대피했으며, 호텔은 추후 공지가 있을 때까지 폐쇄될 것이라고 덧붙였습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-도미니카공화국 국가 비상 대응 조정 기관인 비상운영센터의 후안 마누엘 멘데스 소장은 성명에서 토요일 오후까지 소방관들이 17시간에 걸쳐 불을 끈 끝에 화재가 진압되었고, 모든 투숙객은 인근 호텔로 이전되었다고 밝혔습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-멘데스 소장은 "화재 원인에 대한 기술 조사가 진행 중"이라고 말했습니다. 그러나 "예비 조사 결과에 따르면, 바람 상태와 초가지붕의 가연성 때문에 불길이 빠르게 확산되었다"고 덧붙였습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-토요일 소셜 미디어에 퍼진 드론 영상에는 여러 건물의 연기 자욱한 잔해, 수십 그루의 그을린 야자수, 그리고 온전한 테니스 코트가 보였습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-멘데스 소장은 전화 인터뷰에서 사망한 관광객(프란체스카 발렌티노, 45세로 확인)은 화상을 입지 않았다고 말했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 다른 사망자는 없었지만, 구조 작전 중 응급 요원 4명이 열사병 증상을 보였다고 덧붙였습니다. 이들은 모두 회복 중이라고 전했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이탈리아 관광부 장관 잔마르코 마찌는 이탈리아 통신사 ANSA에 화재 발생 당시 호텔에 285명의 이탈리아 국민이 있었다고 말했습니다. 이 중 130명을 위한 첫 귀국 항공편이 토요일에 출발할 예정이었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-마찌 장관은 ANSA에 "휴가가 용납할 수 없는 비극으로 변했다"고 말했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-도미니카공화국 산토도밍고에서 호글라 에네시아 페레스가 취재에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/americas/dominican-republic-fire.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20int-dominican-republic-fire-gtwb/20int-dominican-republic-fire-gtwb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 20 Jun 2026 18:27:41 +0000</pubDate></item><item><title>Man Arrested in Scotland After Rampage Leaves 5 Hurt, Police Say (스코틀랜드서 난동으로 5명 부상, 용의자 체포…경찰 발표)</title><link>https://www.nytimes.com/2026/06/20/world/europe/edinburgh-stabbing-arrest-injuries.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/multimedia/20xp-attack-lqzm/20xp-attack-lqzm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The police in Scotland arrested a 36-year-old man on Friday night after a series of attacks across Edinburgh that left five men injured, the authorities said.&lt;br/&gt;(스코틀랜드 경찰은 금요일 저녁, 에든버러 전역에서 발생한 일련의 공격으로 남성 5명이 부상을 입은 사건과 관련해 36세 남성을 체포했다고 당국이 밝혔다.)&lt;/p&gt;
-&lt;p&gt;As the authorities investigated the motive behind the rampage, advocacy groups in Scotland identified some of the victims as Muslims.&lt;br/&gt;(당국이 난동의 동기를 조사하는 가운데, 스코틀랜드의 옹호 단체들은 피해자 중 일부가 무슬림이라고 확인했다.)&lt;/p&gt;
-&lt;p&gt;In a statement on social media, the Muslim Council of Britain said that the attack was a consequence of “rhetoric that demonizes entire communities.”&lt;br/&gt;(영국무슬림협의회는 소셜 미디어 성명을 통해 이번 공격이 "전체 공동체를 악마화하는 수사"의 결과라고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;“The Muslim community is rightly nervous and worried,” the statement added. “To our community: Stay vigilant, stay united, look out for one another, and please report any Islamophobic hate crimes.”&lt;br/&gt;(성명은 "무슬림 공동체는 당연히 불안하고 걱정하고 있다"며 "우리 공동체에 당부한다: 경계를 늦추지 말고, 단결하며, 서로를 돌보고, 이슬람 혐오 범죄가 있으면 신고해 달라"고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;Prime Minister Keir Starmer of Britain said on social media that the man involved in the attacks “appears to be motivated by anti-Muslim hatred” and will face “the full force of the law.”&lt;br/&gt;(영국 키어 스타머 총리는 소셜 미디어에서 이번 공격에 연루된 남성이 "반무슬림 증오에 동기를 부여받은 것으로 보이며" "법의 엄중한 심판"을 받을 것이라고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;Counter Terrorism Policing Scotland is leading the investigation though the authorities have not said whether they believe the attacks are related to terrorism.&lt;br/&gt;(스코틀랜드 대테러 경찰이 수사를 주도하고 있지만, 당국은 이번 공격이 테러와 관련이 있다고 보는지 여부를 밝히지 않았다.)&lt;/p&gt;
-&lt;p&gt;The authorities have not publicly identified the man or announced any charges. They said they believe there is no further threat to the public.&lt;br/&gt;(당국은 용의자의 신원을 공개하거나 혐의를 발표하지 않았다. 대중에 대한 추가 위협은 없다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;The police received a report around 8:50 p.m. of an attack in the Sighthill area of Edinburgh, the police said in a news release. Officers found two injured men, who were both taken to a hospital, the police said.&lt;br/&gt;(경찰은 보도 자료에서 오후 8시 50분경 에든버러 사이트힐 지역에서 공격 신고를 접수했다고 밝혔다. 경찰관들은 부상당한 남성 2명을 발견했으며, 두 명 모두 병원으로 이송되었다고 경찰은 전했다.)&lt;/p&gt;
-&lt;p&gt;Over the next 40 minutes, officers received reports of attacks in the western and northern part of the city, including in the Telford Road and Leith Walk areas. The police found three more victims.&lt;br/&gt;(이후 40분 동안 경찰은 텔포드 로드와 리스 워크 지역을 포함한 도시 서부와 북부에서 공격 신고를 접수했다. 경찰은 추가 피해자 3명을 발견했다.)&lt;/p&gt;
-&lt;p&gt;The five men, ages 22 to 39, had injuries that the police did not describe in detail. Three required hospital treatment. None of the injuries were life-threatening, the police said.&lt;br/&gt;(22세에서 39세 사이의 남성 5명은 경찰이 자세히 설명하지 않은 부상을 입었다. 세 명은 병원 치료가 필요했다. 경찰에 따르면 생명에 지장이 없는 부상이었다.)&lt;/p&gt;
-&lt;p&gt;The police are investigating the attacks as being linked.&lt;br/&gt;(경찰은 이번 공격이 관련된 것으로 보고 수사 중이다.)&lt;/p&gt;
-&lt;p&gt;“I want to send a clear message of support to all our communities that there is no place for racism or faith-based hate in a Scotland which is at its best when we stand together,” Catriona Paton, the assistant chief constable for Police Scotland, said in the news release.&lt;br/&gt;("인종차별이나 신앙 기반 증오가 설 자리는 없으며, 우리가 함께 뭉칠 때 스코틀랜드는 최고의 모습을 보입니다. 모든 지역사회에 지지의 명확한 메시지를 전하고자 합니다"라고 스코틀랜드 경찰의 캐트리오나 패튼 부총경이 보도 자료에서 밝혔다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/20/world/europe/edinburgh-stabbing-arrest-injuries.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/20/multimedia/20xp-attack-lqzm/20xp-attack-lqzm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 21 Jun 2026 02:30:06 +0000</pubDate></item><item><title>Mona Kahlil, Defender of Sea Turtles, Killed in an Israel Strike in Lebanon (바다거북 수호자 모나 칼릴, 이스라엘의 레바논 공습으로 사망)</title><link>https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/world/20mideast-mona-khalil-1/20mideast-mona-khalil-1-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 22 Jun 2026 21:38:24 +0000</lastBuildDate><item><title>Mona Kahlil, Defender of Sea Turtles, Killed in an Israel Strike in Lebanon (바다거북 수호자 모나 칼릴, 이스라엘의 레바논 공습으로 사망)</title><link>https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/20/world/20mideast-mona-khalil-1/20mideast-mona-khalil-1-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;For more than two decades, Mona Khalil protected the endangered sea turtles that laid their eggs on a beach near her bed-and-breakfast in Lebanon and kept predators away from the vulnerable hatchings running to the Mediterranean Sea.&lt;br/&gt;(20년 넘게 모나 칼릴은 레바논에 있는 자신의 민박집 근처 해변에 알을 낳는 멸종 위기 바다거북을 보호하고, 취약한 새끼들이 지중해를 향해 달려갈 때 포식자들로부터 지켜냈다.)&lt;/p&gt;
 &lt;p&gt;Her efforts to spotlight the plight of the turtles, bringing together often opposing interests, earned her respect among conservationists. She remained unflinching in her mission even as periodic war erupted around her in southern Lebanon.&lt;br/&gt;(그녀가 거북의 곤경을 조명하고 종종 대립하는 이해관계를 하나로 모으려는 노력은 환경 보호론자들 사이에서 존경을 받았다. 그녀는 남부 레바논에서 주기적으로 전쟁이 발발하는 가운데서도 자신의 사명을 흔들림 없이 이어갔다.)&lt;/p&gt;
 &lt;p&gt;On June 4, the fighting between Israel and Hezbollah that has taken so many civilian lives in recent months caught up to her. She was wounded in an Israeli airstrike in southern Lebanon, and on Friday, she died of her injuries at the American University of Beirut Medical Center, a close friend, Fadia Jomaa, said.&lt;br/&gt;(최근 몇 달간 많은 민간인 목숨을 앗아간 이스라엘과 헤즈볼라 간의 교전은 지난 6월 4일 그녀에게까지 닥쳤다. 그녀는 남부 레바논에서 이스라엘의 공습으로 부상을 입었고, 금요일 베이루트 아메리칸 대학병원에서 상처로 인해 사망했다고 절친한 친구 파디아 조마아가 전했다.)&lt;/p&gt;
@@ -572,135 +231,7 @@ UPA를 기리는 것은 "우리 국가 간의 신뢰에 대한 터무니없고 �
 &lt;p&gt;That’s it for today. See you tomorrow! — Katrin&lt;br/&gt;(오늘은 여기까지입니다. 내일 뵙겠습니다! - 카트린)&lt;/p&gt;
 &lt;p&gt;Rebecca R. Ruiz and Tariq Panja were our guest writer today.&lt;br/&gt;(레베카 R. 루이즈와 타리크 판자가 오늘의 게스트 작가였습니다.)&lt;/p&gt;
 &lt;p&gt;We welcome your feedback. Send us your suggestions at theworld@nytimes.com.&lt;br/&gt;(여러분의 피드백을 환영합니다. theworld@nytimes.com으로 제안을 보내주세요.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/21/world/infantino-trump-fifa-iran-talks.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-theworld-nl-whpb/22int-theworld-nl-whpb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 21 Jun 2026 19:39:16 +0000</pubDate></item><item><title>Loophole in Patent Law Brings ‘Miracle Drug’ to Patients Who Can’t Afford It (특허법의 허점, '기적의 약'을 값비싼 가격에 못 사는 환자들에게)</title><link>https://www.nytimes.com/2026/06/22/health/cystic-fibrosis-drug-triko-trikafta.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/18/us/00dc-cystic-fibrosis-drug/00dc-cystic-fibrosis-drug-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Josua Lottering stepped out the airport doors in the Bangladesh capital, Dhaka, and doubled over in coughing spasms. Cystic fibrosis has sharply reduced his lung capacity, and the humid, smoggy air hit him hard.&lt;br/&gt;(조슈아 로터링은 방글라데시 수도 다카의 공항 문을 나서자마자 기침 발작으로 몸을 구부렸다. 낭포성 섬유증으로 폐 기능이 크게 저하된 그에게 습하고 스모그가 가득한 공기는 강하게 다가왔다.)&lt;/p&gt;
-&lt;p&gt;Yet even as coughs shook his body, he was delighted. Josua, 18, had made the long journey from the Western Cape in South Africa, to Dhaka, with his mother to purchase a year’s supply of a new generic version of a drug that has transformed the lives of cystic fibrosis patients in North America and Europe but that he and his family cannot afford back home.&lt;br/&gt;(그러나 기침이 몸을 떨게 하는 와중에도 그는 기뻤다. 18세의 조슈아는 남아프리카공화국 웨스턴케이프에서 어머니와 함께 다카까지 긴 여정을 떠나, 북미와 유럽에서 낭포성 섬유증 환자들의 삶을 바꿔놓았지만 그와 그의 가족이 고국에서 감당할 수 없는 약의 새로운 제네릭 버전을 1년치 구매하기 위해서였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 약은 보스턴에 본사를 둔 버텍스 제약이 생산하는 트라이카프타로, 낭포성 섬유증 환자들이 숨을 편하게 쉬고 더 오래 살 수 있게 해준다. 버텍스는 미국에서 이 약의 1년치를 약 34만 6000달러에 판매한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 회사는 혁신적인 낭포성 섬유증 치료제 시장을 독점하고 있으며, 트라이카프타는 2019년 출시 이후 490억 달러의 수익을 올렸다. 그러나 버텍스는 많은 저소득 국가에 이 약을 판매 등록하지 않았고, 저렴한 제네릭 버전 생산을 막는 조치를 취해왔다. 이는 부유한 시장에서 더 높은 가격을 청구할 수 있는 권리를 보호하려는 제약 회사들 사이에서 드문 전략이 아니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이제 방글라데시의 한 회사가 트라이카프타를 리버스 엔지니어링하여 글로벌 특허법의 허점을 이용해 버텍스 가격의 극히 일부에 자체 버전인 트라이코를 판매하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난주, 로터링 가족은 다카로 여행 온 다른 소수의 낭포성 섬유증 환자 및 그 가족들과 함께 벡심코 제약의 생산 라인에서 처음 생산된 트라이코 상자를 구매했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-버텍스 대변인 헤더 니콜스는 트라이카프타가 75개국에서 판매되거나 기증되고 있으며, 회사가 15개국에서 무료로 제공하고 있다고 말했다. 7000명 이상이 무료로 이 약을 받았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 이러한 프로그램에 포함되지 않은 수천 명의 환자들이 있으며, 이들은 버텍스를 법정에 세우거나 정부에 강제 실시권으로 알려진 절차를 통해 제네릭 버전을 수입하거나 현지에서 생산하도록 청원하는 등 다양한 전략을 시도해왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-방글라데시 버전은 그런 환자들에게 또 다른 선택지를 제공한다. 트라이코는 소아용으로 연간 6,350달러, 성인용으로 그 두 배 가격이다. 이는 여전히 일부 사람들에게는 너무 비싸지만, 다른 이들에게는 삶을 바꿀 수 있을 만큼 저렴하다.
-&lt;&lt;&lt;PARA&gt;&gt;
-방글라데시는 최빈국으로 분류되기 때문에 세계무역기구의 특허 침해법에서 면제된다. 이 나라는 이 면제 조항을 활용하여 특허약을 리버스 엔지니어링하고 특허가 없는 국가에 제네릭을 수출하는 번성하는 제약 산업의 본고장이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-대부분의 국가에는 특허가 있는 약의 제네릭 버전을 해당 국가로 반입하거나, 개인 사용 목적인 경우 우편으로 제네릭을 수입하는 것을 허용하는 면제 조항도 있다. 이것이 조슈아와 그의 어머니가 케이프타운 근처 집에서 다카로 오게 된 이유다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트라이코는 방글라데시 국가 의약품 규제 기관의 승인을 받았지만, 다른 어떤 국가의 규제 기관 승인도 받지 않았다. 벡심코는 미국 식품의약국과 세계보건기구의 규제 승인을 받은 다른 약도 생산한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-길리어드 사이언스가 2013년 C형 간염 치료제를 8만 4000달러에 판매하기 시작한 후, 벡심코는 그 10분의 1 가격에 제네릭을 생산했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-코로나19 팬데믹 기간 동안 벡심코는 항바이러스제 렘데시비르, 팍스로비드, 몰누피라비르의 저렴한 버전을 만들어 전 세계로 수출했다. 이는 낭포성 섬유증 환자와 그 가족들의 관심을 끌었고, 그들은 회사에 트라이카프타 생산을 제안했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-벡심코의 최고운영책임자 라부르 레자는 미국과 영국의 낭포성 섬유증 환자들이 트라이카프타로 삶이 어떻게 바뀌었는지 설명하는 이야기를 듣고, 자신들은 그 약을 구할 수 없다는 것을 알면서도 가슴이 아팠다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 "만약 우리가 이 약을 생산할 능력이 있다면, 여러분을 위해 이 일을 하겠다고 약속합니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-레자 씨는 자사가 지적 재산권 특허를 무시하고 혁신적인 약을 리버스 엔지니어링하는 비즈니스 모델을 고소득 국가와 저소득 국가 간의 치료 접근성에 대한 엄청난 격차를 해소하는 평준화 장치라고 설명한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-버텍스 대변인 니콜스는 방글라데시 제품에 대한 구체적인 질문에 답하지 않았다. 그녀는 "트라이카프타의 안전성과 효능은 24개국에서 200건 이상의 임상 시험을 통해 10년 넘게 테스트되었으며, 이는 제네릭 제조사들이 투자하지 않은 수준의 투자입니다"라고 말했다. 제네릭 의약품 생산업체는 일반적으로 이미 승인된 제품을 재현하기 때문에 후기 임상 시험을 진행하지 않는다.
-&lt;&lt;&lt;PARA&gt;&gt;
-레자 씨는 벡심코가 수십 명의 환자를 위해 2년치 트라이코를 초도 생산했으며, 어떤 시장이 형성될지 지켜볼 것이라고 말했다. 트라이카프타가 영국에서 출시되기 전에 영국 부모들로 시작된 낭포성 섬유증 구매자 클럽은 소량의 의약품을 국제적으로 배송한 경험이 있는 인도 회사와 협력하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-저소득 국가의 환자들이 고소득 국가에서 삶을 바꾸는 치료법을 찾으면서 이 모델의 중요성은 점점 커질 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-델리에 있는 제약 공급 회사 유다이코 헬스의 창립자 아유시 고얄은 자사 플랫폼 메드스파트너에 트라이코를 등록한 이후 몇 달 동안 환자들로부터 얼마나 빨리 배송할 수 있는지 묻는 전화를 하루에 6통씩 받고 있다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 "부모들은 매우 조바심을 내는데, 이는 그들의 아이를 위한 치료이기 때문에 이해합니다"라고 말했다. 이 회사는 10%의 수수료와 50달러의 배송비를 청구하며, 국가별로 다른 수입 절차를 처리한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-버텍스는 인도에서 트라이카프타 특허를 보유하고 있지만 상업적 판매 등록은 하지 않았다. 이 회사는 소수의 인도 환자들에게 약을 기증하는 한편, 정부가 저렴한 제네릭 생산을 허용하는 것을 막기 위해 수년간 법정에서 싸워왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-낭포성 섬유증을 유발하는 유전적 변이는 북유럽 혈통의 사람들에게 가장 흔하다. 그러나 개발도상국에도 많은 낭포성 섬유증 환자가 있으며, 상당수는 진단되지 않은 상태다. 한 분석에 따르면 인도만 해도 수만 명이 있을 것으로 추정된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다카에서 아딜 라만의 부모는 그가 신생아였을 때 무언가 문제가 있다는 것을 알아차렸지만, 여러 의사를 찾아다닌 지 2년 만에야 그가 한 번도 들어본 적 없는 질병인 낭포성 섬유증에 걸렸다는 사실을 알게 되었다. 그들의 초기 공포는 트라이카프타에 대해 알게 되면서 누그러졌지만, 곧 버텍스가 방글라데시에 이 약을 등록하지 않았으며 미국에서의 가격이 얼마인지 알게 되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-문시 씨는 "방글라데시에서는 아무도 그 가격을 감당할 수 없습니다"라고 말했다. 절박해진 그들은 현재 6세인 아딜을 인도에서 열리는 임상 시험에 참여시키려 했지만, 외국인 자격으로는 자격이 없었다. 문시 씨는 자신의 사정을 호소하기 위해 버텍스 임원들에게 전화를 걸었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아딜은 점점 더 아파졌다: 작년에 그는 몇 주 동안 중환자실에 있었다. 집에 있을 때는 어머니 아이샤 모슈미의 가슴에 누워 다른 아이들이 학교에 가는 모습을 창문 너머로 바라보곤 했다. 모슈미 씨는 "그가 왜 자신의 삶은 그들 같지 않냐고 물었습니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-월요일, 아딜의 부모는 그를 데리고 트라이코 첫 달 분을 수령하러 갔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-첫 투약 후 몇 시간 안에, 아딜은 낭포성 섬유증으로 인해 그의 몸이 과도하게 생성하는 가래를 대량으로 배출하기 시작했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-문시 씨는 "저는 신에게 이 아이를 주시고 이 병을 주셨으니, 반드시 기적을 주셔서 그를 구할 방법을 주시라고 기도했습니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트라이코를 구매하는 것은 여전히 막대한 재정적 부담이 될 것이라고 그는 말했지만, 대가족의 도움으로 아딜이 평생 이 약을 복용할 수 있기를 바란다고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-방글라데시 공장에서 아딜과 그의 가족은 세계 반대편에서 온 아버지와 아들 곁에 서 있었다. 26세의 시몬 셰프치크는 슬로바키아에 있는 자택에서 여행을 왔는데, 그곳의 국가 보험사는 일부 낭포성 섬유증 환자에게 트라이카프타를 지급하기로 동의했지만, 그의 특정 유전자 변이를 가진 환자에게는 해당되지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 "이 약이 있다는 것을 알면서도 정부에서 구할 수 없고 가격이 엄청나게 비쌌을 때는 끔찍했습니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-셰프치크 씨는 충분히 회복되어 일을 하고, 부모님 집에서 나와, 슬로바키아 정부가 모든 낭포성 섬유증 환자에게 트라이카프타를 지원하도록 로비를 하기를 희망한다. 로비가 통하지 않으면, 방글라데시에 더 가까이 이사하여 정기적으로 트라이코를 구매하기 쉽게 할 것이라고 그는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-남아프리카공화국에서 버텍스는 트라이카프타 특허를 냈지만 수년간 판매 등록을 하지 않았다. 환자들이 2023년에 강제 실시권을 요구하며 회사를 법정에 세웠을 때, 버텍스는 비공개 합의로 사건을 해결하여 일부 건강 보험 플랜에서 약값을 부담하도록 했다. 이는 진단된 낭포성 섬유증 환자의 절반을 넘게는 보장했지만, 공공 보건 시스템에 의존하는 환자를 포함한 저소득 가정은 제외되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-조슈아 로터링의 어머니 윌나는 건강 보험이 있었지만 약을 보장하지 않았다. 의사는 그녀에게 이 약을 사려면 연간 240만 남아프리카 랜드(약 15만 달러)가 들 것이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀는 "집 전체를 팔아도 반년치밖에 못 살 겁니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-남아프리카공화국에서는 신생아가 이 질병에 대해 정기적으로 검사를 받지 않으며, 아이들은 진단을 받기 전까지 청소년기를 힘겹게 보낼 수 있다. 조슈아는 저체중이었고 몸을 구부리게 만드는 기침 발작이 잦았다. 로터링 씨는 낭포성 섬유증에 대해 물었지만, 의사들은 작년까지 그를 진단하지 않았다고 말했다. 질병을 구글링하던 그녀는 트라이카프타에 대해 읽고 큰 안도감을 느꼈다. 그러다 잠시 후, 가족은 그 약이 얼마나 비쌀지 알게 되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-로터링 씨는 "조스가 가능한 한 빨리 약을 받을 수 있도록 우리는 무엇이든 했을 것입니다"라며 "당신은 아직 살아 있는 누군가를 애도하고 있고, 그가 악화되는 모습을 지켜보고 있습니다. 그것은 당신을 완전히 무력하게 만듭니다"라고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-낭포성 섬유증 가족을 위한 온라인 채팅에서 그녀는 새로운 방글라데시 약에 대해 알게 되었다. 성인용으로 연간 1만 2000달러인 이 약은 여전히 막대한 재정적 부담이지만, 미래를 계획하는 동안 아들을 살릴 수 있다고 생각하게 해주었다고 말했다. 그녀는 국가 보험사가 약값을 부담하는 나라로 이민을 고려해왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-로터링 가족은 목요일에 비행기로 귀국했으며, 의심하는 세관 직원에게 약 수입 법률을 설명해야 할까 봐 불안해했다. 그러나 그들은 어떤 질문도 받지 않았다. 조슈아는 다음 날 트라이코 복용을 시작했고, 저녁에 어머니에게 배고프다고 말했다. 그녀는 그에게서 한 번도 들어본 적 없는 말이었다. 그는 하루 종일 기침을 하지 않았고, 어린 시절 이후로 느끼지 못했던 냄새와 맛을 느낄 수 있었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-로터링 씨는 "수많은 기적이 일어난 날입니다"라고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/health/cystic-fibrosis-drug-triko-trikafta.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/18/us/00dc-cystic-fibrosis-drug/00dc-cystic-fibrosis-drug-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 00:01:06 +0000</pubDate></item><item><title>China Tightens Rare Earth Grip on U.S. Firms, Threatening Trade Clash (중국, 미국 기업에 희토류 통제 강화…무역 충돌 위협)</title><link>https://www.nytimes.com/2026/06/22/business/china-rare-earths.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/22/multimedia/22Biz-China-RareEarths-01-jbzm/22Biz-China-RareEarths-01-jbzm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;China took aim on Monday at a U.S. government program to reduce American reliance on Chinese imports for rare earth magnets, a move that risks reigniting trade tensions with President Trump.&lt;br/&gt;(중국이 월요일, 미국이 중국산 희토류 자석 수입 의존도를 줄이기 위해 추진하는 정부 프로그램을 겨냥했습니다. 이는 도널드 트럼프 대통령과의 무역 긴장을 다시 촉발할 위험이 있습니다.)&lt;/p&gt;
-&lt;p&gt;New restrictions will prohibit Chinese companies from shipping certain rare earth metals to two companies that are leading the Trump administration’s efforts to revive the American rare earth industry.&lt;br/&gt;(새로운 규제로 인해 중국 기업들은 트럼프 행정부의 미국 희토류 산업 부활 노력을 주도하는 두 기업에 특정 희토류 금속을 선적하는 것이 금지됩니다.)&lt;/p&gt;
-&lt;p&gt;The metals banned by China’s Ministry of Commerce are critical for a wide range of products from cars to military drones, and China controls nearly the entire global supply of them.&lt;br/&gt;(중국 상무부가 금지한 이 금속들은 자동차부터 군용 드론까지 다양한 제품에 필수적이며, 중국은 이들 금속의 거의 전 세계 공급을 장악하고 있습니다.)&lt;/p&gt;
-&lt;p&gt;After meeting in South Korea with Xi Jinping, China’s top leader, last October, Mr. Trump said China had agreed to resume supplying rare earth metals to the United States as needed. Chinese officials, however, never publicly described the agreement in such terms.&lt;br/&gt;(트럼프 대통령은 지난 10월 한국에서 중국 최고 지도자 시진핑을 만난 후, 중국이 필요에 따라 미국에 희토류 금속 공급을 재개하기로 합의했다고 밝혔습니다. 그러나 중국 관료들은 그러한 조건의 합의를 공개적으로 설명한 적이 없습니다.
-&lt;&lt;&lt;PARA&gt;&gt;&gt;&gt;
-지난달 베이징에서 열린 두 정상 간의 후속 정상회담에서도 희토류 공급에 관한 추가 진전은 없었습니다.)&lt;/p&gt;
-&lt;p&gt;A follow-up summit between the two leaders in Beijing last month produced no further progress on rare earth supplies.&lt;br/&gt;(지난주 프랑스에서 열린 주요 7개국(G7) 정상회의에서 주요 산업국 정상들은 2030년까지 한 국가에서 오는 희토류 수입 비율을 60%를 넘지 않도록 하는 등, 특정 공급자에 대한 의존도를 줄이기로 약속했습니다. 세계는 소위 경희토류 공급의 약 90%를 중국에 의존하고 있으며, 이는 정유, 유리 연마 및 자석 생산에 사용됩니다.)&lt;/p&gt;
-&lt;p&gt;At last week’s Group of 7 summit in France, leaders of the major industrialized nations pledged to reduce their dependence on any supplier, calling for no more than 60 percent of rare earth imports to come from one country by 2030. The world relies on China for about 90 percent of their supply of so-called light rare earths, which are used in oil refining, glass polishing and magnet production.&lt;br/&gt;(중국은 또한 세계 중희토류의 98% 이상을 정제하며, 이는 자석의 중요한 첨가제일 뿐만 아니라 인공지능 컴퓨터 칩, 레이저 및 다양한 기타 기술에도 사용됩니다. 베이징은 지난 14개월 동안 중희토류에 대한 우위를 무기로 사용해 왔습니다.)&lt;/p&gt;
-&lt;p&gt;China also refines more than 98 percent of the world’s heavy rare earths, which are crucial additives in magnets and are also used in artificial intelligence computer chips, lasers and a wide range of other technologies. Beijing has wielded its dominance over heavy rare earths as a trade weapon for the past 14 months.&lt;br/&gt;(2025년 4월, 중국은 7개 희토류 원소(대부분 중희토류)와 이들로 만든 자석의 수출을 엄격히 통제했습니다. 베이징은 이 물질들을 군사 및 민간 용도가 모두 있는 이중 용도 품목으로 분류했습니다. 중국 밖에서는 이 규제로 인해 자동차, 로봇, 군사 장비 및 기타 제품 생산이 중단되었습니다.)&lt;/p&gt;
-&lt;p&gt;In April 2025, China imposed strict controls on the export of seven rare earth elements, most of them heavy rare earths, as well as magnets made from them. Beijing classified the materials as dual-use goods, meaning they have both military and civilian applications. Outside China, the restrictions disrupted production of cars, robots, military equipment and other products.&lt;br/&gt;(월요일 중국의 조치로 인해 총 10개 미국 기업(일부는 직접적인 군사 관계 포함)이 중국에서 추가 이중 용도 제품을 구매하는 것이 금지되었습니다. 이 명단에는 미국 최대 희토류 기업 두 곳인 MP 머티리얼즈(MP Materials)와 USA 레어 어스(USA Rare Earth)가 포함되었습니다.)&lt;/p&gt;
-&lt;p&gt;The action by China on Monday barred 10 American companies in all, including some with direct military ties, from purchasing additional dual-use products from China. On the list were the two largest American rare-earth companies: MP Materials and USA Rare Earth.&lt;br/&gt;(국방부를 포함한 트럼프 행정부는 약 25년 전 대부분 폐쇄된 국내 희토류 자석 제조 역량을 복원하기 위해 두 기업에 수억 달러를 투자했습니다.)&lt;/p&gt;
-&lt;p&gt;The Trump administration, including the Department of Defense, has poured hundreds of millions of dollars into both companies to try to restore domestic rare-earth magnet manufacturing capacity, which mostly shut down a quarter century ago.&lt;br/&gt;(MP 머티리얼즈와 USA 레어 어스 모두 중국의 발표에 대해 즉시 논평을 거부했습니다. 국무부는 논평 요청에 응답하지 않았습니다.)&lt;/p&gt;
-&lt;p&gt;MP Materials and USA Rare Earth both declined to comment immediately on China’s announcement. The State Department did not respond to a request for comment.&lt;br/&gt;(MP 머티리얼즈는 캘리포니아주 마운틴 패스(Mountain Pass)에 있는 미국 최대 희토류 광산과 광석에서 4가지 경희토류 원소를 추출하는 대규모 정제소를 소유하고 있습니다. 또한 텍사스에 희토류 자석 공장을 건설 중이며, 처음에는 제너럴 모터스(GM)에 공급하고 군사 계약업체에 자석을 제공하는 계약도 체결했습니다.)&lt;/p&gt;
-&lt;p&gt;MP Materials owns the main U.S. rare earths mine at Mountain Pass, Calif., along with a large refinery that extracts four light rare earth elements from ore. It is also building rare-earth magnet factories in Texas, initially to supply General Motors, and has an agreement to provide magnets for military contractors.&lt;br/&gt;(USA 레어 어스는 오클라호마주 스틸워터(Stillwater)에서 휴면 상태인 자석 제조 장비를 복원했으며, 국내 공급망을 구축하기 위해 일련의 인수를 추진해 왔습니다.)&lt;/p&gt;
-&lt;p&gt;USA Rare Earth has restored dormant magnet-manufacturing equipment in Stillwater, Okla., and has pursued a series of acquisitions to build a domestic supply chain.&lt;br/&gt;(지난 4월 발표된 한 pending deal로 인해 이 기업은 브라질 기업 세하 베르데(Serra Verde)를 인수하게 됩니다. 세하 베르데는 내열성 자석을 만드는 데 사용되는 중희토류인 디스프로슘을 소량 생산하기 시작했습니다. 호주 기업 라이나스(Lynas)도 소량 생산을 시작했지만, 대규모 자석 공장에 필요한 물량에는 크게 미치지 못합니다.)&lt;/p&gt;
-&lt;p&gt;One pending deal, announced in April, would give the company control of Serra Verde, a Brazilian company that has started producing small quantities of dysprosium, a heavy rare earth used to make heat-resistant magnets. Lynas, an Australian company, has also begun producing small amounts, though far below the volumes required by major magnet factories.&lt;br/&gt;(새로운 규제는 사실상 미국에 대한 중국의 주요 희토류 공급이 거의 중단된 상황 위에 또 다른 법적 장벽을 추가합니다.)&lt;/p&gt;
-&lt;p&gt;The new restrictions create another legal barrier atop what has effectively become a near shutdown of Chinese supplies of key rare earths to the United States.&lt;br/&gt;(중국 해관총서(General Administration of Customs) 데이터에 따르면, 2025년 4월 이후 미국으로의 디스프로슘 선적이 중단되었습니다. 디스프로슘은 파워 시트, 조향 시스템 및 브레이크를 포함한 고온에서 작동하는 많은 자동차 시스템에 필요합니다.)&lt;/p&gt;
-&lt;p&gt;Data from China’s General Administration of Customs show that shipments of dysprosium to the United States have been halted since April 2025. Dysprosium is needed in many automotive systems that operate at high temperatures, including power seats, steering systems and brakes.&lt;br/&gt;(자석 제조업체는 더 비싼 중희토류인 테르븀을 디스프로슘 대신 사용할 수 있습니다. 그러나 중국 관세 데이터에 따르면, 중국은 지난 10월 한국 정상회담에 맞춰 6톤의 단일 선적을 허용한 이후로 테르븀을 미국에 선적하지 않았습니다.)&lt;/p&gt;
-&lt;p&gt;Magnet manufacturers can substitute terbium, a more expensive heavy rare earth, for dysprosium. But Chinese customs data show that China has shipped no terbium to the United States since last October, when Beijing allowed a single six-metric-ton shipment timed to coincide with the summit in South Korea.&lt;br/&gt;(“자석 생산업체 측에서 볼 때, 디스프로슘에 접근할 수 있는 길이 거의 또는 전혀 없습니다.”라고 플로리다주 멜버른에서 드론용 희토류 자석선을 소규모로 제조하는 어드밴스드 마그넷 랩(Advanced Magnet Lab)의 사장 웨이드 센티(Wade Senti)는 말했습니다.)&lt;/p&gt;
-&lt;p&gt;“From the magnet producer side, there is little to no access to dysprosium,” said Wade Senti, president of Advanced Magnet Lab, a small manufacturer of rare-earth magnet wire for drones in Melbourne, Fla.&lt;br/&gt;(센티는 자신의 회사가 유럽의 재활용업체로부터 디스프로슘을 확보했다고 말했습니다. 그러나 어드밴스드 마그넷 랩은 연간 수 톤의 자석을 생산하는 반면, MP 머티리얼즈와 USA 레어 어스 같은 기업은 연간 최대 1만 톤을 생산할 준비를 하고 있습니다.)&lt;/p&gt;
-&lt;p&gt;Mr. Senti said his company had secured dysprosium from a recycler in Europe. But Advanced Magnet Lab produces several tons of magnets a year, while companies like MP Materials and USA Rare Earth are preparing to produce as much as 10,000 tons a year.&lt;br/&gt;(제조업체는 입계 확산(grain boundary diffusion)이라는 기술을 통해 디스프로슘이나 테르븀에 대한 필요성을 크게 줄일 수는 있지만 완전히 제거할 수는 없습니다. MP 머티리얼즈와 USA 레어 어스는 이 기술과 관련된 지적 재산권에 대한 법적 분쟁에 휘말려 있습니다.)&lt;/p&gt;
-&lt;p&gt;Manufacturers can sharply reduce, though not eliminate, their need for dysprosium or terbium through a technique called grain boundary diffusion. MP Materials and USA Rare Earth are locked in a legal dispute over intellectual property rights related to that technology.&lt;br/&gt;(중국은 또한 11월에 희토류에 대한 더욱 엄격한 글로벌 수출 규제를 도입할 준비를 하고 있습니다.)&lt;/p&gt;
-&lt;p&gt;China is also preparing to introduce even tighter global export restrictions on rare earths in November.&lt;br/&gt;(장루이신(Ruoxin Zhang)이 연구에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/business/china-rare-earths.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22Biz-China-RareEarths-01-jbzm/22Biz-China-RareEarths-01-jbzm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 04:34:00 +0000</pubDate></item><item><title>Who Will Replace Starmer? Here’s What Happens Next. (스타머를 대체할 사람은 누구? 앞으로 일어날 일은 이렇다.)</title><link>https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-resign-replace-prime-minister-burnham-uk.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/22/multimedia/22uk-starmer-what-next-uk-cbpt/22uk-starmer-what-next-uk-cbpt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Will Britain’s next leader be chosen by contest or by something more like a coronation?&lt;br/&gt;(영국의 다음 지도자는 경선을 통해 선출될까, 아니면 사실상의 추대에 가까운 방식으로 결정될까?)&lt;/p&gt;
-&lt;p&gt;In his resignation statement on Monday, Prime Minister Keir Starmer announced a timetable for his departure from Downing Street that left open two options for the process to replace him.&lt;br/&gt;(키어 스타머 총리는 월요일 사임 성명에서 다우닝 스트리트 퇴임 일정을 발표하면서 자신을 대체할 절차에 대해 두 가지 선택지를 열어두었다.)&lt;/p&gt;
-&lt;p&gt;Under this scenario, a competition would take place to replace Mr. Starmer as the Labour Party’s leader and — because of the majority the party has in Parliament — as the prime minister.&lt;br/&gt;(이 시나리오에 따르면, 스타머를 대체할 노동당 대표를 선출하기 위한 경쟁이 벌어지며, 당이 의회에서 과반수를 차지하고 있기 때문에 그가 총리가 되는 과정도 포함된다.)&lt;/p&gt;
-&lt;p&gt;In his speech, Mr. Starmer said that he would ask Labour’s governing National Executive Committee to open nominations for party leader on July 9 and to close them by the time Parliament takes its summer recess. No exact date has been decided yet but is likely to be between mid to late July.&lt;br/&gt;(연설에서 스타머는 노동당 집행부인 전국집행위원회(NEC)에 7월 9일부터 당 대표 후보 등록을 시작하고 의회가 하원 휴회에 들어갈 때까지 접수를 마감해 달라고 요청할 것이라고 밝혔다. 아직 정확한 날짜는 결정되지 않았으나 7월 중순에서 말 사이가 유력하다.
-&lt;&lt;&lt;PARA&gt;&gt;
-출마하려면 후보는 노동당 의원 81명의 지지와 소수의 선거구당, 노동조합 또는 당에 가맹된 기타 단체의 지지를 받아야 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-유력 후보는 앤디 버넘이다. 인기 있는 노동당 정치인이자 그레이터맨체스터 전 시장인 그는 지난주 재보궐선거에서 의회 의석을 차지했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-알 카른스 전 국방부 장관을 비롯한 여러 노동당 정치인들이 경선 참여 의사를 내비쳤다. 하지만 경선 참여가 가장 유력하다고 여겨졌던 웨스 스트리팅 전 보건부 장관은 월요일 버넘을 지지하며 자신은 불출마하겠다고 선을 그었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-버넘 외에 다른 후보가 경선에 참여할 만한 충분한 지지를 확보할 경우, 최종 결정은 노동당 유료 회원과 가맹 노동조합 지지자들의 투표로 이루어진다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 시나리오에서 새 지도자는 "의회가 9월에 돌아오기 전에 자리를 잡을 것"이라고 스타머는 말했다. 그 날짜는 아직 정해지지 않았지만 보통 9월 초이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-후보 등록 마감 시점까지 버넘만이 유일한 후보라면, 그는 자동으로 당선되어 7월 중순에서 말 사이에 노동당 대표직을 확보하게 된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-확인이 완료되면 스타머는 짧은 여정으로 버킹엄 궁전으로 이동해 찰스 3세 국왕에게 공식 사임 의사를 전달하며 총리로서의 임기를 마무리한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-직후 버넘도 국왕을 방문해 정부 구성을 요청받고 스타머를 대체하게 된다. 이는 영국 체제에서 그를 국가 최고 정치직에 확정시키는 형식적인 절차이다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-resign-replace-prime-minister-burnham-uk.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22uk-starmer-what-next-uk-cbpt/22uk-starmer-what-next-uk-cbpt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 03:51:52 +0000</pubDate></item><item><title>Trump-Backed Outsider Appears to Win Colombian Presidential Race (트럼프 지지 무소속 후보, 콜롬비아 대선 승리 유력)</title><link>https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html</link><description>&lt;![CDATA[&lt;p&gt;Abelardo De La Espriella, a criminal defense lawyer with no previous political experience, appeared headed for a razor-thin victory on Sunday in Colombia’s presidential election, in a potential win for his fervent supporters, the global right and President Trump, who had endorsed him.&lt;br/&gt;(이전에 정치 경험이 전혀 없는 형사 변호사인 아벨라르도 데 라 에스프리에야가 일요일 콜롬비아 대통령 선거에서 아슬아슬한 승리를 거둘 것으로 보이며, 이는 그의 열렬한 지지자들, 국제 우파, 그리고 그를 지지한 도널드 트럼프 대통령에게 잠재적 승리가 될 전망이다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/21/world/infantino-trump-fifa-iran-talks.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-theworld-nl-whpb/22int-theworld-nl-whpb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 21 Jun 2026 19:39:16 +0000</pubDate></item><item><title>Trump-Backed Outsider Appears to Win Colombian Presidential Race (트럼프 지지 무소속 후보, 콜롬비아 대선 승리 유력)</title><link>https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html</link><description>&lt;![CDATA[&lt;p&gt;Abelardo De La Espriella, a criminal defense lawyer with no previous political experience, appeared headed for a razor-thin victory on Sunday in Colombia’s presidential election, in a potential win for his fervent supporters, the global right and President Trump, who had endorsed him.&lt;br/&gt;(이전에 정치 경험이 전혀 없는 형사 변호사인 아벨라르도 데 라 에스프리에야가 일요일 콜롬비아 대통령 선거에서 아슬아슬한 승리를 거둘 것으로 보이며, 이는 그의 열렬한 지지자들, 국제 우파, 그리고 그를 지지한 도널드 트럼프 대통령에게 잠재적 승리가 될 전망이다.)&lt;/p&gt;
 &lt;p&gt;Mr. De La Espriella — who transformed himself from sharply dressed Miami lawyer to populist in a soccer jersey and a straw hat — won 49.7 percent of the vote with more than 99 percent of the votes counted, according to preliminary official results. Iván Cepeda, a leftist senator and a longtime human rights advocate, received 48.7 percent.&lt;br/&gt;(예비 공식 결과에 따르면, 날렵한 정장을 입은 마이애미 변호사에서 축구 유니폼과 밀짚모자를 쓴 포퓰리스트로 변신한 데 라 에스프리에야는 개표율 99% 이상에서 49.7%의 득표율을 기록했다. 좌파 상원의원이자 오랜 인권 운동가인 이반 세페다는 48.7%를 얻었다.
 &lt;&lt;&lt;PARA&gt;&gt;
 그의 승리는 콜롬비아 최초의 좌파 대통령인 구스타보 페트로 아래 4년간의 통치 이후, 콜롬비아를 보수 통치로 되돌리는 것이다. 또한 트럼프 대통령의 두 번째 임기에서 라틴 아메리카의 전반적인 우파로의 전환을 앞당길 것이다.
@@ -796,7 +327,90 @@ UPA를 기리는 것은 "우리 국가 간의 신뢰에 대한 터무니없고 �
 "좌파는 효과가 없었습니다,"라고 보고타의 32세 공학 학생 후안 마누엘 비아르테가 말했다. "저는 새로운 것을 시도하고 싶습니다."
 &lt;&lt;&lt;PARA&gt;&gt;
 제네비브 글래츠키와 페데리코 리오스가 콜롬비아 바랑키야에서 취재에 기여했고, 루치아 촐라키안 에레라가 보고타에서, 호르헤 발렌시아가 콜롬비아 카르타헤나에서 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html</guid><pubDate>Mon, 22 Jun 2026 07:58:36 +0000</pubDate></item><item><title>Why Did Every Starbucks Barista in Korea Have to Take a History Lesson? (한국의 모든 스타벅스 바리스타가 역사 수업을 받아야 했던 이유는?)</title><link>https://www.nytimes.com/2026/06/22/world/asia/south-korea-starbucks-tank-day-controversy-closure.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/22/multimedia/22int-skorea-starbucks-bkfq/22int-skorea-starbucks-bkfq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html</guid><pubDate>Mon, 22 Jun 2026 07:58:36 +0000</pubDate></item><item><title>Loophole in Patent Law Brings ‘Miracle Drug’ to Patients Who Can’t Afford It (특허법의 허점, '기적의 약'을 값비싼 가격에 못 사는 환자들에게)</title><link>https://www.nytimes.com/2026/06/22/health/cystic-fibrosis-drug-triko-trikafta.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/18/us/00dc-cystic-fibrosis-drug/00dc-cystic-fibrosis-drug-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Josua Lottering stepped out the airport doors in the Bangladesh capital, Dhaka, and doubled over in coughing spasms. Cystic fibrosis has sharply reduced his lung capacity, and the humid, smoggy air hit him hard.&lt;br/&gt;(조슈아 로터링은 방글라데시 수도 다카의 공항 문을 나서자마자 기침 발작으로 몸을 구부렸다. 낭포성 섬유증으로 폐 기능이 크게 저하된 그에게 습하고 스모그가 가득한 공기는 강하게 다가왔다.)&lt;/p&gt;
+&lt;p&gt;Yet even as coughs shook his body, he was delighted. Josua, 18, had made the long journey from the Western Cape in South Africa, to Dhaka, with his mother to purchase a year’s supply of a new generic version of a drug that has transformed the lives of cystic fibrosis patients in North America and Europe but that he and his family cannot afford back home.&lt;br/&gt;(그러나 기침이 몸을 떨게 하는 와중에도 그는 기뻤다. 18세의 조슈아는 남아프리카공화국 웨스턴케이프에서 어머니와 함께 다카까지 긴 여정을 떠나, 북미와 유럽에서 낭포성 섬유증 환자들의 삶을 바꿔놓았지만 그와 그의 가족이 고국에서 감당할 수 없는 약의 새로운 제네릭 버전을 1년치 구매하기 위해서였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 약은 보스턴에 본사를 둔 버텍스 제약이 생산하는 트라이카프타로, 낭포성 섬유증 환자들이 숨을 편하게 쉬고 더 오래 살 수 있게 해준다. 버텍스는 미국에서 이 약의 1년치를 약 34만 6000달러에 판매한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 회사는 혁신적인 낭포성 섬유증 치료제 시장을 독점하고 있으며, 트라이카프타는 2019년 출시 이후 490억 달러의 수익을 올렸다. 그러나 버텍스는 많은 저소득 국가에 이 약을 판매 등록하지 않았고, 저렴한 제네릭 버전 생산을 막는 조치를 취해왔다. 이는 부유한 시장에서 더 높은 가격을 청구할 수 있는 권리를 보호하려는 제약 회사들 사이에서 드문 전략이 아니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이제 방글라데시의 한 회사가 트라이카프타를 리버스 엔지니어링하여 글로벌 특허법의 허점을 이용해 버텍스 가격의 극히 일부에 자체 버전인 트라이코를 판매하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난주, 로터링 가족은 다카로 여행 온 다른 소수의 낭포성 섬유증 환자 및 그 가족들과 함께 벡심코 제약의 생산 라인에서 처음 생산된 트라이코 상자를 구매했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+버텍스 대변인 헤더 니콜스는 트라이카프타가 75개국에서 판매되거나 기증되고 있으며, 회사가 15개국에서 무료로 제공하고 있다고 말했다. 7000명 이상이 무료로 이 약을 받았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 이러한 프로그램에 포함되지 않은 수천 명의 환자들이 있으며, 이들은 버텍스를 법정에 세우거나 정부에 강제 실시권으로 알려진 절차를 통해 제네릭 버전을 수입하거나 현지에서 생산하도록 청원하는 등 다양한 전략을 시도해왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+방글라데시 버전은 그런 환자들에게 또 다른 선택지를 제공한다. 트라이코는 소아용으로 연간 6,350달러, 성인용으로 그 두 배 가격이다. 이는 여전히 일부 사람들에게는 너무 비싸지만, 다른 이들에게는 삶을 바꿀 수 있을 만큼 저렴하다.
+&lt;&lt;&lt;PARA&gt;&gt;
+방글라데시는 최빈국으로 분류되기 때문에 세계무역기구의 특허 침해법에서 면제된다. 이 나라는 이 면제 조항을 활용하여 특허약을 리버스 엔지니어링하고 특허가 없는 국가에 제네릭을 수출하는 번성하는 제약 산업의 본고장이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+대부분의 국가에는 특허가 있는 약의 제네릭 버전을 해당 국가로 반입하거나, 개인 사용 목적인 경우 우편으로 제네릭을 수입하는 것을 허용하는 면제 조항도 있다. 이것이 조슈아와 그의 어머니가 케이프타운 근처 집에서 다카로 오게 된 이유다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트라이코는 방글라데시 국가 의약품 규제 기관의 승인을 받았지만, 다른 어떤 국가의 규제 기관 승인도 받지 않았다. 벡심코는 미국 식품의약국과 세계보건기구의 규제 승인을 받은 다른 약도 생산한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+길리어드 사이언스가 2013년 C형 간염 치료제를 8만 4000달러에 판매하기 시작한 후, 벡심코는 그 10분의 1 가격에 제네릭을 생산했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+코로나19 팬데믹 기간 동안 벡심코는 항바이러스제 렘데시비르, 팍스로비드, 몰누피라비르의 저렴한 버전을 만들어 전 세계로 수출했다. 이는 낭포성 섬유증 환자와 그 가족들의 관심을 끌었고, 그들은 회사에 트라이카프타 생산을 제안했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+벡심코의 최고운영책임자 라부르 레자는 미국과 영국의 낭포성 섬유증 환자들이 트라이카프타로 삶이 어떻게 바뀌었는지 설명하는 이야기를 듣고, 자신들은 그 약을 구할 수 없다는 것을 알면서도 가슴이 아팠다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "만약 우리가 이 약을 생산할 능력이 있다면, 여러분을 위해 이 일을 하겠다고 약속합니다"라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+레자 씨는 자사가 지적 재산권 특허를 무시하고 혁신적인 약을 리버스 엔지니어링하는 비즈니스 모델을 고소득 국가와 저소득 국가 간의 치료 접근성에 대한 엄청난 격차를 해소하는 평준화 장치라고 설명한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+버텍스 대변인 니콜스는 방글라데시 제품에 대한 구체적인 질문에 답하지 않았다. 그녀는 "트라이카프타의 안전성과 효능은 24개국에서 200건 이상의 임상 시험을 통해 10년 넘게 테스트되었으며, 이는 제네릭 제조사들이 투자하지 않은 수준의 투자입니다"라고 말했다. 제네릭 의약품 생산업체는 일반적으로 이미 승인된 제품을 재현하기 때문에 후기 임상 시험을 진행하지 않는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+레자 씨는 벡심코가 수십 명의 환자를 위해 2년치 트라이코를 초도 생산했으며, 어떤 시장이 형성될지 지켜볼 것이라고 말했다. 트라이카프타가 영국에서 출시되기 전에 영국 부모들로 시작된 낭포성 섬유증 구매자 클럽은 소량의 의약품을 국제적으로 배송한 경험이 있는 인도 회사와 협력하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+저소득 국가의 환자들이 고소득 국가에서 삶을 바꾸는 치료법을 찾으면서 이 모델의 중요성은 점점 커질 수 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+델리에 있는 제약 공급 회사 유다이코 헬스의 창립자 아유시 고얄은 자사 플랫폼 메드스파트너에 트라이코를 등록한 이후 몇 달 동안 환자들로부터 얼마나 빨리 배송할 수 있는지 묻는 전화를 하루에 6통씩 받고 있다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "부모들은 매우 조바심을 내는데, 이는 그들의 아이를 위한 치료이기 때문에 이해합니다"라고 말했다. 이 회사는 10%의 수수료와 50달러의 배송비를 청구하며, 국가별로 다른 수입 절차를 처리한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+버텍스는 인도에서 트라이카프타 특허를 보유하고 있지만 상업적 판매 등록은 하지 않았다. 이 회사는 소수의 인도 환자들에게 약을 기증하는 한편, 정부가 저렴한 제네릭 생산을 허용하는 것을 막기 위해 수년간 법정에서 싸워왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+낭포성 섬유증을 유발하는 유전적 변이는 북유럽 혈통의 사람들에게 가장 흔하다. 그러나 개발도상국에도 많은 낭포성 섬유증 환자가 있으며, 상당수는 진단되지 않은 상태다. 한 분석에 따르면 인도만 해도 수만 명이 있을 것으로 추정된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다카에서 아딜 라만의 부모는 그가 신생아였을 때 무언가 문제가 있다는 것을 알아차렸지만, 여러 의사를 찾아다닌 지 2년 만에야 그가 한 번도 들어본 적 없는 질병인 낭포성 섬유증에 걸렸다는 사실을 알게 되었다. 그들의 초기 공포는 트라이카프타에 대해 알게 되면서 누그러졌지만, 곧 버텍스가 방글라데시에 이 약을 등록하지 않았으며 미국에서의 가격이 얼마인지 알게 되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+문시 씨는 "방글라데시에서는 아무도 그 가격을 감당할 수 없습니다"라고 말했다. 절박해진 그들은 현재 6세인 아딜을 인도에서 열리는 임상 시험에 참여시키려 했지만, 외국인 자격으로는 자격이 없었다. 문시 씨는 자신의 사정을 호소하기 위해 버텍스 임원들에게 전화를 걸었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아딜은 점점 더 아파졌다: 작년에 그는 몇 주 동안 중환자실에 있었다. 집에 있을 때는 어머니 아이샤 모슈미의 가슴에 누워 다른 아이들이 학교에 가는 모습을 창문 너머로 바라보곤 했다. 모슈미 씨는 "그가 왜 자신의 삶은 그들 같지 않냐고 물었습니다"라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+월요일, 아딜의 부모는 그를 데리고 트라이코 첫 달 분을 수령하러 갔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+첫 투약 후 몇 시간 안에, 아딜은 낭포성 섬유증으로 인해 그의 몸이 과도하게 생성하는 가래를 대량으로 배출하기 시작했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+문시 씨는 "저는 신에게 이 아이를 주시고 이 병을 주셨으니, 반드시 기적을 주셔서 그를 구할 방법을 주시라고 기도했습니다"라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+트라이코를 구매하는 것은 여전히 막대한 재정적 부담이 될 것이라고 그는 말했지만, 대가족의 도움으로 아딜이 평생 이 약을 복용할 수 있기를 바란다고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+방글라데시 공장에서 아딜과 그의 가족은 세계 반대편에서 온 아버지와 아들 곁에 서 있었다. 26세의 시몬 셰프치크는 슬로바키아에 있는 자택에서 여행을 왔는데, 그곳의 국가 보험사는 일부 낭포성 섬유증 환자에게 트라이카프타를 지급하기로 동의했지만, 그의 특정 유전자 변이를 가진 환자에게는 해당되지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 "이 약이 있다는 것을 알면서도 정부에서 구할 수 없고 가격이 엄청나게 비쌌을 때는 끔찍했습니다"라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+셰프치크 씨는 충분히 회복되어 일을 하고, 부모님 집에서 나와, 슬로바키아 정부가 모든 낭포성 섬유증 환자에게 트라이카프타를 지원하도록 로비를 하기를 희망한다. 로비가 통하지 않으면, 방글라데시에 더 가까이 이사하여 정기적으로 트라이코를 구매하기 쉽게 할 것이라고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+남아프리카공화국에서 버텍스는 트라이카프타 특허를 냈지만 수년간 판매 등록을 하지 않았다. 환자들이 2023년에 강제 실시권을 요구하며 회사를 법정에 세웠을 때, 버텍스는 비공개 합의로 사건을 해결하여 일부 건강 보험 플랜에서 약값을 부담하도록 했다. 이는 진단된 낭포성 섬유증 환자의 절반을 넘게는 보장했지만, 공공 보건 시스템에 의존하는 환자를 포함한 저소득 가정은 제외되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+조슈아 로터링의 어머니 윌나는 건강 보험이 있었지만 약을 보장하지 않았다. 의사는 그녀에게 이 약을 사려면 연간 240만 남아프리카 랜드(약 15만 달러)가 들 것이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 "집 전체를 팔아도 반년치밖에 못 살 겁니다"라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+남아프리카공화국에서는 신생아가 이 질병에 대해 정기적으로 검사를 받지 않으며, 아이들은 진단을 받기 전까지 청소년기를 힘겹게 보낼 수 있다. 조슈아는 저체중이었고 몸을 구부리게 만드는 기침 발작이 잦았다. 로터링 씨는 낭포성 섬유증에 대해 물었지만, 의사들은 작년까지 그를 진단하지 않았다고 말했다. 질병을 구글링하던 그녀는 트라이카프타에 대해 읽고 큰 안도감을 느꼈다. 그러다 잠시 후, 가족은 그 약이 얼마나 비쌀지 알게 되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+로터링 씨는 "조스가 가능한 한 빨리 약을 받을 수 있도록 우리는 무엇이든 했을 것입니다"라며 "당신은 아직 살아 있는 누군가를 애도하고 있고, 그가 악화되는 모습을 지켜보고 있습니다. 그것은 당신을 완전히 무력하게 만듭니다"라고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+낭포성 섬유증 가족을 위한 온라인 채팅에서 그녀는 새로운 방글라데시 약에 대해 알게 되었다. 성인용으로 연간 1만 2000달러인 이 약은 여전히 막대한 재정적 부담이지만, 미래를 계획하는 동안 아들을 살릴 수 있다고 생각하게 해주었다고 말했다. 그녀는 국가 보험사가 약값을 부담하는 나라로 이민을 고려해왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+로터링 가족은 목요일에 비행기로 귀국했으며, 의심하는 세관 직원에게 약 수입 법률을 설명해야 할까 봐 불안해했다. 그러나 그들은 어떤 질문도 받지 않았다. 조슈아는 다음 날 트라이코 복용을 시작했고, 저녁에 어머니에게 배고프다고 말했다. 그녀는 그에게서 한 번도 들어본 적 없는 말이었다. 그는 하루 종일 기침을 하지 않았고, 어린 시절 이후로 느끼지 못했던 냄새와 맛을 느낄 수 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+로터링 씨는 "수많은 기적이 일어난 날입니다"라고 말했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/health/cystic-fibrosis-drug-triko-trikafta.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/18/us/00dc-cystic-fibrosis-drug/00dc-cystic-fibrosis-drug-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 11:07:46 +0000</pubDate></item><item><title>Why Did Every Starbucks Barista in Korea Have to Take a History Lesson? (한국의 모든 스타벅스 바리스타가 역사 수업을 받아야 했던 이유는?)</title><link>https://www.nytimes.com/2026/06/22/world/asia/south-korea-starbucks-tank-day-controversy-closure.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/22/multimedia/22int-skorea-starbucks-bkfq/22int-skorea-starbucks-bkfq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Starbucks has more than 2,000 stores across South Korea, including one that overlooks a North Korean village, one in a century-old traditional street market and one that sits on the 99th floor of a glass skyscraper. In a first, they all closed early on Monday.&lt;br/&gt;(스타벅스는 한국에 2,000개 이상의 매장을 두고 있으며, 북한 마을이 내려다보이는 매장, 100년 된 전통 재래시장에 있는 매장, 유리로 된 고층 빌딩 99층에 위치한 매장도 있다. 사상 처음으로, 이 모든 매장이 월요일에 일찍 문을 닫았다.)&lt;/p&gt;
 &lt;p&gt;But the 3 p.m. closure that did not mean extra time off for its 24,000 or so baristas, supervisors and corporate employees. Instead, they all had to do training on historical awareness and cultural sensitivity. It was damage control for a marketing debacle.&lt;br/&gt;(하지만 오후 3시 조기 폐점은 약 24,000명의 바리스타, 관리자, 본사 직원에게 추가 휴식을 의미하지는 않았다. 대신, 그들은 모두 역사 인식과 문화 감수성에 대한 교육을 받아야 했다. 이는 마케팅 실패에 대한 피해 통제 조치였다.)&lt;/p&gt;
 &lt;p&gt;Last month, Starbucks unveiled a new line of tumblers that it called “Tank Day.” The campaign began on the anniversary of a massacre in 1980, when South Korea was a military dictatorship and used tanks to crack down on pro-democracy protesters in the southern city of Gwangju.&lt;br/&gt;(지난달, 스타벅스는 '탱크 데이'라는 이름의 새로운 텀블러 라인을 공개했다. 이 캠페인은 1980년 한국이 군사 독재 정권 아래에 있었고, 남부 도시 광주에서 탱크를 동원해 민주화 시위대를 진압했던 학살 기념일에 시작되었다.)&lt;/p&gt;
@@ -808,7 +422,52 @@ UPA를 기리는 것은 "우리 국가 간의 신뢰에 대한 터무니없고 �
 &lt;p&gt;“In many cases, these issues arise because companies fail to properly understand society, its sensitivity, historical events, collective memories or pain points,” said Jeong-Woo Koo, who teaches sociology and spoke during the cultural sensitivity portion of the training. “Ultimately, it comes down to how well a corporation can read society.”&lt;br/&gt;("많은 경우, 이러한 문제는 기업이 사회, 그 민감성, 역사적 사건, 집단적 기억 또는 고통점을 제대로 이해하지 못하기 때문에 발생합니다,"라고 문화 감수성 교육 부분에서 강연한 사회학 교수 구정우는 말했다. "궁극적으로, 기업이 사회를 얼마나 잘 읽을 수 있는지에 달려 있습니다.")&lt;/p&gt;
 &lt;p&gt;Oh Jeyeon, who teaches contemporary Korean history, gave a lecture on major events since the 1950s for the historical awareness component of the training. He declined to comment.&lt;br/&gt;(현대 한국사를 가르치는 오제연 교수는 역사 인식 교육 부분을 위해 1950년대 이후 주요 사건에 대한 강의를 진행했다. 그는 논평을 거부했다.)&lt;/p&gt;
 &lt;p&gt;But the company is not out of the woods yet. The police are investigating Shinsegae executives on charges of defamation, insulting the bereaved families of the victims of the Gwangju massacre and violating the Special Act on the 5.18 Democratization Movement.&lt;br/&gt;(하지만 회사가 완전히 안전한 상황은 아니다. 경찰은 명예훼손, 광주 학살 희생자 유가족에 대한 모욕, 5·18 민주화운동 특별법 위반 혐의로 신세계 임원들을 수사 중이다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/world/asia/south-korea-starbucks-tank-day-controversy-closure.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-skorea-starbucks-bkfq/22int-skorea-starbucks-bkfq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 04:21:04 +0000</pubDate></item><item><title>Does This Radio Host Really Know Everyone in Wales? (이 라디오 진행자는 정말 웨일스 사람을 모두 알고 있을까?)</title><link>https://www.nytimes.com/2026/06/22/world/europe/elis-james-wales-radio.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/28/multimedia/00int-wales-gameshow-profile-01-cljf/00int-wales-gameshow-profile-01-cljf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/world/asia/south-korea-starbucks-tank-day-controversy-closure.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-skorea-starbucks-bkfq/22int-skorea-starbucks-bkfq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 11:58:38 +0000</pubDate></item><item><title>China Tightens Rare Earth Grip on U.S. Firms, Threatening Trade Clash (중국, 미국 기업에 희토류 통제 강화…무역 충돌 위협)</title><link>https://www.nytimes.com/2026/06/22/business/china-rare-earths.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/22/multimedia/22Biz-China-RareEarths-01-jbzm/22Biz-China-RareEarths-01-jbzm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;China took aim on Monday at a U.S. government program to reduce American reliance on Chinese imports for rare earth magnets, a move that risks reigniting trade tensions with President Trump.&lt;br/&gt;(중국이 월요일, 미국이 중국산 희토류 자석 수입 의존도를 줄이기 위해 추진하는 정부 프로그램을 겨냥했습니다. 이는 도널드 트럼프 대통령과의 무역 긴장을 다시 촉발할 위험이 있습니다.)&lt;/p&gt;
+&lt;p&gt;New restrictions will prohibit Chinese companies from shipping certain rare earth metals to two companies that are leading the Trump administration’s efforts to revive the American rare earth industry.&lt;br/&gt;(새로운 규제로 인해 중국 기업들은 트럼프 행정부의 미국 희토류 산업 부활 노력을 주도하는 두 기업에 특정 희토류 금속을 선적하는 것이 금지됩니다.)&lt;/p&gt;
+&lt;p&gt;The metals banned by China’s Ministry of Commerce are critical for a wide range of products from cars to military drones, and China controls nearly the entire global supply of them.&lt;br/&gt;(중국 상무부가 금지한 이 금속들은 자동차부터 군용 드론까지 다양한 제품에 필수적이며, 중국은 이들 금속의 거의 전 세계 공급을 장악하고 있습니다.)&lt;/p&gt;
+&lt;p&gt;After meeting in South Korea with Xi Jinping, China’s top leader, last October, Mr. Trump said China had agreed to resume supplying rare earth metals to the United States as needed. Chinese officials, however, never publicly described the agreement in such terms.&lt;br/&gt;(트럼프 대통령은 지난 10월 한국에서 중국 최고 지도자 시진핑을 만난 후, 중국이 필요에 따라 미국에 희토류 금속 공급을 재개하기로 합의했다고 밝혔습니다. 그러나 중국 관료들은 그러한 조건의 합의를 공개적으로 설명한 적이 없습니다.
+&lt;&lt;&lt;PARA&gt;&gt;&gt;&gt;
+지난달 베이징에서 열린 두 정상 간의 후속 정상회담에서도 희토류 공급에 관한 추가 진전은 없었습니다.)&lt;/p&gt;
+&lt;p&gt;A follow-up summit between the two leaders in Beijing last month produced no further progress on rare earth supplies.&lt;br/&gt;(지난주 프랑스에서 열린 주요 7개국(G7) 정상회의에서 주요 산업국 정상들은 2030년까지 한 국가에서 오는 희토류 수입 비율을 60%를 넘지 않도록 하는 등, 특정 공급자에 대한 의존도를 줄이기로 약속했습니다. 세계는 소위 경희토류 공급의 약 90%를 중국에 의존하고 있으며, 이는 정유, 유리 연마 및 자석 생산에 사용됩니다.)&lt;/p&gt;
+&lt;p&gt;At last week’s Group of 7 summit in France, leaders of the major industrialized nations pledged to reduce their dependence on any supplier, calling for no more than 60 percent of rare earth imports to come from one country by 2030. The world relies on China for about 90 percent of their supply of so-called light rare earths, which are used in oil refining, glass polishing and magnet production.&lt;br/&gt;(중국은 또한 세계 중희토류의 98% 이상을 정제하며, 이는 자석의 중요한 첨가제일 뿐만 아니라 인공지능 컴퓨터 칩, 레이저 및 다양한 기타 기술에도 사용됩니다. 베이징은 지난 14개월 동안 중희토류에 대한 우위를 무기로 사용해 왔습니다.)&lt;/p&gt;
+&lt;p&gt;China also refines more than 98 percent of the world’s heavy rare earths, which are crucial additives in magnets and are also used in artificial intelligence computer chips, lasers and a wide range of other technologies. Beijing has wielded its dominance over heavy rare earths as a trade weapon for the past 14 months.&lt;br/&gt;(2025년 4월, 중국은 7개 희토류 원소(대부분 중희토류)와 이들로 만든 자석의 수출을 엄격히 통제했습니다. 베이징은 이 물질들을 군사 및 민간 용도가 모두 있는 이중 용도 품목으로 분류했습니다. 중국 밖에서는 이 규제로 인해 자동차, 로봇, 군사 장비 및 기타 제품 생산이 중단되었습니다.)&lt;/p&gt;
+&lt;p&gt;In April 2025, China imposed strict controls on the export of seven rare earth elements, most of them heavy rare earths, as well as magnets made from them. Beijing classified the materials as dual-use goods, meaning they have both military and civilian applications. Outside China, the restrictions disrupted production of cars, robots, military equipment and other products.&lt;br/&gt;(월요일 중국의 조치로 인해 총 10개 미국 기업(일부는 직접적인 군사 관계 포함)이 중국에서 추가 이중 용도 제품을 구매하는 것이 금지되었습니다. 이 명단에는 미국 최대 희토류 기업 두 곳인 MP 머티리얼즈(MP Materials)와 USA 레어 어스(USA Rare Earth)가 포함되었습니다.)&lt;/p&gt;
+&lt;p&gt;The action by China on Monday barred 10 American companies in all, including some with direct military ties, from purchasing additional dual-use products from China. On the list were the two largest American rare-earth companies: MP Materials and USA Rare Earth.&lt;br/&gt;(국방부를 포함한 트럼프 행정부는 약 25년 전 대부분 폐쇄된 국내 희토류 자석 제조 역량을 복원하기 위해 두 기업에 수억 달러를 투자했습니다.)&lt;/p&gt;
+&lt;p&gt;The Trump administration, including the Department of Defense, has poured hundreds of millions of dollars into both companies to try to restore domestic rare-earth magnet manufacturing capacity, which mostly shut down a quarter century ago.&lt;br/&gt;(MP 머티리얼즈와 USA 레어 어스 모두 중국의 발표에 대해 즉시 논평을 거부했습니다. 국무부는 논평 요청에 응답하지 않았습니다.)&lt;/p&gt;
+&lt;p&gt;MP Materials and USA Rare Earth both declined to comment immediately on China’s announcement. The State Department did not respond to a request for comment.&lt;br/&gt;(MP 머티리얼즈는 캘리포니아주 마운틴 패스(Mountain Pass)에 있는 미국 최대 희토류 광산과 광석에서 4가지 경희토류 원소를 추출하는 대규모 정제소를 소유하고 있습니다. 또한 텍사스에 희토류 자석 공장을 건설 중이며, 처음에는 제너럴 모터스(GM)에 공급하고 군사 계약업체에 자석을 제공하는 계약도 체결했습니다.)&lt;/p&gt;
+&lt;p&gt;MP Materials owns the main U.S. rare earths mine at Mountain Pass, Calif., along with a large refinery that extracts four light rare earth elements from ore. It is also building rare-earth magnet factories in Texas, initially to supply General Motors, and has an agreement to provide magnets for military contractors.&lt;br/&gt;(USA 레어 어스는 오클라호마주 스틸워터(Stillwater)에서 휴면 상태인 자석 제조 장비를 복원했으며, 국내 공급망을 구축하기 위해 일련의 인수를 추진해 왔습니다.)&lt;/p&gt;
+&lt;p&gt;USA Rare Earth has restored dormant magnet-manufacturing equipment in Stillwater, Okla., and has pursued a series of acquisitions to build a domestic supply chain.&lt;br/&gt;(지난 4월 발표된 한 pending deal로 인해 이 기업은 브라질 기업 세하 베르데(Serra Verde)를 인수하게 됩니다. 세하 베르데는 내열성 자석을 만드는 데 사용되는 중희토류인 디스프로슘을 소량 생산하기 시작했습니다. 호주 기업 라이나스(Lynas)도 소량 생산을 시작했지만, 대규모 자석 공장에 필요한 물량에는 크게 미치지 못합니다.)&lt;/p&gt;
+&lt;p&gt;One pending deal, announced in April, would give the company control of Serra Verde, a Brazilian company that has started producing small quantities of dysprosium, a heavy rare earth used to make heat-resistant magnets. Lynas, an Australian company, has also begun producing small amounts, though far below the volumes required by major magnet factories.&lt;br/&gt;(새로운 규제는 사실상 미국에 대한 중국의 주요 희토류 공급이 거의 중단된 상황 위에 또 다른 법적 장벽을 추가합니다.)&lt;/p&gt;
+&lt;p&gt;The new restrictions create another legal barrier atop what has effectively become a near shutdown of Chinese supplies of key rare earths to the United States.&lt;br/&gt;(중국 해관총서(General Administration of Customs) 데이터에 따르면, 2025년 4월 이후 미국으로의 디스프로슘 선적이 중단되었습니다. 디스프로슘은 파워 시트, 조향 시스템 및 브레이크를 포함한 고온에서 작동하는 많은 자동차 시스템에 필요합니다.)&lt;/p&gt;
+&lt;p&gt;Data from China’s General Administration of Customs show that shipments of dysprosium to the United States have been halted since April 2025. Dysprosium is needed in many automotive systems that operate at high temperatures, including power seats, steering systems and brakes.&lt;br/&gt;(자석 제조업체는 더 비싼 중희토류인 테르븀을 디스프로슘 대신 사용할 수 있습니다. 그러나 중국 관세 데이터에 따르면, 중국은 지난 10월 한국 정상회담에 맞춰 6톤의 단일 선적을 허용한 이후로 테르븀을 미국에 선적하지 않았습니다.)&lt;/p&gt;
+&lt;p&gt;Magnet manufacturers can substitute terbium, a more expensive heavy rare earth, for dysprosium. But Chinese customs data show that China has shipped no terbium to the United States since last October, when Beijing allowed a single six-metric-ton shipment timed to coincide with the summit in South Korea.&lt;br/&gt;(“자석 생산업체 측에서 볼 때, 디스프로슘에 접근할 수 있는 길이 거의 또는 전혀 없습니다.”라고 플로리다주 멜버른에서 드론용 희토류 자석선을 소규모로 제조하는 어드밴스드 마그넷 랩(Advanced Magnet Lab)의 사장 웨이드 센티(Wade Senti)는 말했습니다.)&lt;/p&gt;
+&lt;p&gt;“From the magnet producer side, there is little to no access to dysprosium,” said Wade Senti, president of Advanced Magnet Lab, a small manufacturer of rare-earth magnet wire for drones in Melbourne, Fla.&lt;br/&gt;(센티는 자신의 회사가 유럽의 재활용업체로부터 디스프로슘을 확보했다고 말했습니다. 그러나 어드밴스드 마그넷 랩은 연간 수 톤의 자석을 생산하는 반면, MP 머티리얼즈와 USA 레어 어스 같은 기업은 연간 최대 1만 톤을 생산할 준비를 하고 있습니다.)&lt;/p&gt;
+&lt;p&gt;Mr. Senti said his company had secured dysprosium from a recycler in Europe. But Advanced Magnet Lab produces several tons of magnets a year, while companies like MP Materials and USA Rare Earth are preparing to produce as much as 10,000 tons a year.&lt;br/&gt;(제조업체는 입계 확산(grain boundary diffusion)이라는 기술을 통해 디스프로슘이나 테르븀에 대한 필요성을 크게 줄일 수는 있지만 완전히 제거할 수는 없습니다. MP 머티리얼즈와 USA 레어 어스는 이 기술과 관련된 지적 재산권에 대한 법적 분쟁에 휘말려 있습니다.)&lt;/p&gt;
+&lt;p&gt;Manufacturers can sharply reduce, though not eliminate, their need for dysprosium or terbium through a technique called grain boundary diffusion. MP Materials and USA Rare Earth are locked in a legal dispute over intellectual property rights related to that technology.&lt;br/&gt;(중국은 또한 11월에 희토류에 대한 더욱 엄격한 글로벌 수출 규제를 도입할 준비를 하고 있습니다.)&lt;/p&gt;
+&lt;p&gt;China is also preparing to introduce even tighter global export restrictions on rare earths in November.&lt;br/&gt;(장루이신(Ruoxin Zhang)이 연구에 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/business/china-rare-earths.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22Biz-China-RareEarths-01-jbzm/22Biz-China-RareEarths-01-jbzm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 04:34:01 +0000</pubDate></item><item><title>Who Will Replace Starmer? Here’s What Happens Next. (스타머를 대체할 사람은 누구? 앞으로 일어날 일은 이렇다.)</title><link>https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-resign-replace-prime-minister-burnham-uk.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/22/multimedia/22uk-starmer-what-next-uk-cbpt/22uk-starmer-what-next-uk-cbpt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Will Britain’s next leader be chosen by contest or by something more like a coronation?&lt;br/&gt;(영국의 다음 지도자는 경선을 통해 선출될까, 아니면 사실상의 추대에 가까운 방식으로 결정될까?)&lt;/p&gt;
+&lt;p&gt;In his resignation statement on Monday, Prime Minister Keir Starmer announced a timetable for his departure from Downing Street that left open two options for the process to replace him.&lt;br/&gt;(키어 스타머 총리는 월요일 사임 성명에서 다우닝 스트리트 퇴임 일정을 발표하면서 자신을 대체할 절차에 대해 두 가지 선택지를 열어두었다.)&lt;/p&gt;
+&lt;p&gt;Under this scenario, a competition would take place to replace Mr. Starmer as the Labour Party’s leader and — because of the majority the party has in Parliament — as the prime minister.&lt;br/&gt;(이 시나리오에 따르면, 스타머를 대체할 노동당 대표를 선출하기 위한 경쟁이 벌어지며, 당이 의회에서 과반수를 차지하고 있기 때문에 그가 총리가 되는 과정도 포함된다.)&lt;/p&gt;
+&lt;p&gt;In his speech, Mr. Starmer said that he would ask Labour’s governing National Executive Committee to open nominations for party leader on July 9 and to close them by the time Parliament takes its summer recess. No exact date has been decided yet but is likely to be between mid to late July.&lt;br/&gt;(연설에서 스타머는 노동당 집행부인 전국집행위원회(NEC)에 7월 9일부터 당 대표 후보 등록을 시작하고 의회가 하원 휴회에 들어갈 때까지 접수를 마감해 달라고 요청할 것이라고 밝혔다. 아직 정확한 날짜는 결정되지 않았으나 7월 중순에서 말 사이가 유력하다.
+&lt;&lt;&lt;PARA&gt;&gt;
+출마하려면 후보는 노동당 의원 81명의 지지와 소수의 선거구당, 노동조합 또는 당에 가맹된 기타 단체의 지지를 받아야 한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+유력 후보는 앤디 버넘이다. 인기 있는 노동당 정치인이자 그레이터맨체스터 전 시장인 그는 지난주 재보궐선거에서 의회 의석을 차지했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+알 카른스 전 국방부 장관을 비롯한 여러 노동당 정치인들이 경선 참여 의사를 내비쳤다. 하지만 경선 참여가 가장 유력하다고 여겨졌던 웨스 스트리팅 전 보건부 장관은 월요일 버넘을 지지하며 자신은 불출마하겠다고 선을 그었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+버넘 외에 다른 후보가 경선에 참여할 만한 충분한 지지를 확보할 경우, 최종 결정은 노동당 유료 회원과 가맹 노동조합 지지자들의 투표로 이루어진다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 시나리오에서 새 지도자는 "의회가 9월에 돌아오기 전에 자리를 잡을 것"이라고 스타머는 말했다. 그 날짜는 아직 정해지지 않았지만 보통 9월 초이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+후보 등록 마감 시점까지 버넘만이 유일한 후보라면, 그는 자동으로 당선되어 7월 중순에서 말 사이에 노동당 대표직을 확보하게 된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+확인이 완료되면 스타머는 짧은 여정으로 버킹엄 궁전으로 이동해 찰스 3세 국왕에게 공식 사임 의사를 전달하며 총리로서의 임기를 마무리한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+직후 버넘도 국왕을 방문해 정부 구성을 요청받고 스타머를 대체하게 된다. 이는 영국 체제에서 그를 국가 최고 정치직에 확정시키는 형식적인 절차이다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-resign-replace-prime-minister-burnham-uk.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22uk-starmer-what-next-uk-cbpt/22uk-starmer-what-next-uk-cbpt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 03:51:52 +0000</pubDate></item><item><title>Does This Radio Host Really Know Everyone in Wales? (이 라디오 진행자는 정말 웨일스 사람을 모두 알고 있을까?)</title><link>https://www.nytimes.com/2026/06/22/world/europe/elis-james-wales-radio.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/05/28/multimedia/00int-wales-gameshow-profile-01-cljf/00int-wales-gameshow-profile-01-cljf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;A caller is on the line. And Elis James, a comic who hosts a podcast and radio show, is bracing for the ultimate test of his Welsh identity.&lt;br/&gt;(청취자가 전화를 걸어왔다. 팟캐스트와 라디오 쇼를 진행하는 코미디언 엘리스 제임스는 자신의 웨일스인 정체성에 대한 궁극의 시험을 앞두고 긴장하고 있다.)&lt;/p&gt;
 &lt;p&gt;The clock is set. In 60 seconds or less, live on the radio, can he find someone he knows in common with the Welsh caller?&lt;br/&gt;(시간이 설정되었다. 60초 이내에, 생방송으로, 그는 웨일스 출신 청취자와 자신이 아는 공통 인맥을 찾을 수 있을까?)&lt;/p&gt;
 &lt;p&gt;He fires off the first question: “Age and school?”&lt;br/&gt;(그는 첫 번째 질문을 던진다: "나이와 학교는?")&lt;/p&gt;
@@ -868,7 +527,12 @@ UPA를 기리는 것은 "우리 국가 간의 신뢰에 대한 터무니없고 �
 &lt;p&gt;Then, they kept going. Mr. James asked if he knew someone called Simon Chunks — also a nickname — “whose mother puts pineapple on salad?”&lt;br/&gt;(그리고 계속 이어졌다. 제임스 씨는 '사이먼 청크스'라는 별명을 가진 사람을 아는지 물었는데, "그의 엄마는 샐러드에 파인애플을 올리는 사람"이라고 덧붙였다.)&lt;/p&gt;
 &lt;p&gt;Also a no. But it didn’t matter. They had already connected.&lt;br/&gt;(역시 아니요. 하지만 상관없었다. 그들은 이미 연결되었기 때문이다.
 &lt;&lt;&lt;PARA&gt;&gt;&gt;)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/world/europe/elis-james-wales-radio.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/28/multimedia/00int-wales-gameshow-profile-01-cljf/00int-wales-gameshow-profile-01-cljf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 05:08:40 +0000</pubDate></item><item><title>First Round of U.S.-Iran Talks Ends With High Hopes and Big Challenges (미국-이란 첫 대화 라운드, 큰 기대와 난제 속에 마무리)</title><link>https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/22/multimedia/22int-iran-talks-assess-01-mfhb/22int-iran-talks-assess-01-mfhb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/world/europe/elis-james-wales-radio.html</guid><enclosure url="https://static01.nyt.com/images/2026/05/28/multimedia/00int-wales-gameshow-profile-01-cljf/00int-wales-gameshow-profile-01-cljf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 05:08:40 +0000</pubDate></item><item><title>Two Boys Arrested After Deadly School Shooting in the Philippines (필리핀 학교 총기 난사 사건으로 10대 소년 2명 체포)</title><link>https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/22/multimedia/22int-philippines-shooting-sub-cwlj/22int-philippines-shooting-sub-cwlj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Three people were killed and seven others were wounded on Monday in a shooting at a school in the southern Philippines.&lt;br/&gt;(월요일, 필리핀 남부의 한 학교에서 발생한 총기 난사 사건으로 3명이 사망하고 7명이 부상을 입었다.)&lt;/p&gt;
+&lt;p&gt;The police said two attackers opened fire around 9 a.m. at San Jose National High School in Tacloban City. Both were arrested that afternoon.&lt;br/&gt;(경찰에 따르면, 오전 9시경 타클로반시의 산호세 국립 고등학교에서 두 명의 가해자가 총기를 발사했다. 이들은 오후에 체포되었다.)&lt;/p&gt;
+&lt;p&gt;The shooters, two ninth graders at the school, used a pistol and a revolver, Brig. Gen. Jason Capoy, the director of police in the Eastern Visayas Region, told a local radio station. He said the boys had reportedly been bullied at school.&lt;br/&gt;(동비사야스 지역 경찰청장인 제이슨 카포이 준장은 지역 라디오 방송국에 두 명의 가해자가 같은 학교 9학년생이며, 권총과 리볼버를 사용했다고 밝혔다. 그는 이 소년들이 학교에서 괴롭힘을 당해왔다고 전했다.)&lt;/p&gt;
+&lt;p&gt;The authorities did not immediately release details about the victims, but said that the wounded were in stable condition.&lt;br/&gt;(당국은 피해자에 대한 구체적인 정보를 즉시 공개하지 않았지만, 부상자들은 상태가 안정적이라고 전했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-philippines-shooting-sub-cwlj/22int-philippines-shooting-sub-cwlj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 04:42:11 +0000</pubDate></item><item><title>First Round of U.S.-Iran Talks Ends With High Hopes and Big Challenges (미국-이란 첫 대화 라운드, 큰 기대와 난제 속에 마무리)</title><link>https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/22/multimedia/22int-iran-talks-assess-01-mfhb/22int-iran-talks-assess-01-mfhb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The morning after the first overnight session of renewed talks between the United States and Iran, aimed at turning an incomplete truce into a lasting peace deal, the vibes were as warm as the heat wave currently washing over Switzerland.&lt;br/&gt;(미국과 이란이 불완전한 휴전을 지속적인 평화 협정으로 전환하기 위해 재개한 대화의 첫 야간 회의가 끝난 다음 날 아침, 그 분위기는 스위스를 뒤덮은 폭염만큼이나 뜨거웠습니다.)&lt;/p&gt;
 &lt;p&gt;Mediators from Pakistan and Qatar said early on Monday that Vice President JD Vance and his Iranian counterparts had made “encouraging progress” toward the goal of cementing a final peace agreement within 60 days. Swiss officials called the outcome “constructive.”&lt;br/&gt;(파키스탄과 카타르의 중재자들은 월요일 이른 시간, JD 밴스 부통령과 이란 측 대표들이 60일 이내에 최종 평화 협정을 확정하려는 목표를 향해 "고무적인 진전"을 이루었다고 밝혔습니다. 스위스 관리들은 그 결과를 "건설적"이라고 평가했습니다.)&lt;/p&gt;
 &lt;p&gt;But the details that floated out from behind the closed negotiating room doors at the luxury Bürgenstock Resort Lake Lucerne suggested that the discussions over the next two months could still prove difficult and that efforts to reach a deal could proceed in fits and starts.&lt;br/&gt;(하지만 루체른 호수의 고급 리조트인 뷔르겐슈톡 리조트의 협상장 문 뒤에서 흘러나온 세부 내용들은 앞으로 두 달간의 논의가 여전히 어려울 수 있으며, 협상 노력이 순탄치 않게 진행될 수 있음을 시사했습니다.
@@ -904,12 +568,7 @@ UPA를 기리는 것은 "우리 국가 간의 신뢰에 대한 터무니없고 �
 카타르와 파키스탄은 논의 결과 "추가 기술 협상을 위한 메커니즘 창설"로 이어졌다고 밝혔습니다. 스위스 당국은 당사자들이 "60일 이내에 최종 협정에 도달하기 위한 로드맵"에 합의했다고 말했습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
 "우리의 목표는 우리의 외교가 긴장 완화, 안정, 그리고 평화에 기여하는 것입니다."라고 스위스 관리들은 썼습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-iran-talks-assess-01-mfhb/22int-iran-talks-assess-01-mfhb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 06:04:28 +0000</pubDate></item><item><title>Two Boys Arrested After Deadly School Shooting in the Philippines (필리핀 학교 총기 난사 사건으로 10대 소년 2명 체포)</title><link>https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/22/multimedia/22int-philippines-shooting-sub-cwlj/22int-philippines-shooting-sub-cwlj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Three people were killed and seven others were wounded on Monday in a shooting at a school in the southern Philippines.&lt;br/&gt;(월요일, 필리핀 남부의 한 학교에서 발생한 총기 난사 사건으로 3명이 사망하고 7명이 부상을 입었다.)&lt;/p&gt;
-&lt;p&gt;The police said two attackers opened fire around 9 a.m. at San Jose National High School in Tacloban City. Both were arrested that afternoon.&lt;br/&gt;(경찰에 따르면, 오전 9시경 타클로반시의 산호세 국립 고등학교에서 두 명의 가해자가 총기를 발사했다. 이들은 오후에 체포되었다.)&lt;/p&gt;
-&lt;p&gt;The shooters, two ninth graders at the school, used a pistol and a revolver, Brig. Gen. Jason Capoy, the director of police in the Eastern Visayas Region, told a local radio station. He said the boys had reportedly been bullied at school.&lt;br/&gt;(동비사야스 지역 경찰청장인 제이슨 카포이 준장은 지역 라디오 방송국에 두 명의 가해자가 같은 학교 9학년생이며, 권총과 리볼버를 사용했다고 밝혔다. 그는 이 소년들이 학교에서 괴롭힘을 당해왔다고 전했다.)&lt;/p&gt;
-&lt;p&gt;The authorities did not immediately release details about the victims, but said that the wounded were in stable condition.&lt;br/&gt;(당국은 피해자에 대한 구체적인 정보를 즉시 공개하지 않았지만, 부상자들은 상태가 안정적이라고 전했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-philippines-shooting-sub-cwlj/22int-philippines-shooting-sub-cwlj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 04:42:10 +0000</pubDate></item><item><title>Explosion at Qatar Gas Plant Leaves at Least 54 Injured (카타르 가스 플랜트 폭발로 최소 54명 부상)</title><link>https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/22/multimedia/22int-Qatar-explosion-mfqb/22int-Qatar-explosion-mfqb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-iran-talks-assess-01-mfhb/22int-iran-talks-assess-01-mfhb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 22 Jun 2026 06:04:28 +0000</pubDate></item><item><title>Explosion at Qatar Gas Plant Leaves at Least 54 Injured (카타르 가스 플랜트 폭발로 최소 54명 부상)</title><link>https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/22/multimedia/22int-Qatar-explosion-mfqb/22int-Qatar-explosion-mfqb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;At least 54 people were injured and 18 others missing after an explosion in Qatar while the country was restarting its natural gas production after a shutdown during the Iran war, the Qatari authorities and the state energy company said.&lt;br/&gt;(카타르 당국과 국영 에너지 회사는 이란 전쟁 중 가동 중단 이후 액화천연가스 생산을 재개하는 과정에서 발생한 폭발로 최소 54명이 부상하고 18명이 실종됐다고 밝혔습니다.)&lt;/p&gt;
 &lt;p&gt;The blast late on Sunday was caused by a technical malfunction at a plant at Ras Laffan Industrial City, the Qatari Interior Ministry said in a statement on social media, emphasizing that no leaks were reported. Ras Laffan is the main site in Qatar for producing liquefied natural gas, the resource that underpins the country’s economy.&lt;br/&gt;(카타르 내무부는 일요일 늦게 발생한 폭발이 라스 라판 산업단지의 플랜트에서 기술적 결함으로 인해 발생했으며, 누출 신고는 없었다고 소셜 미디어 성명에서 강조했습니다. 라스 라판은 카타르 경제의 근간인 액화천연가스를 생산하는 주요 장소입니다.)&lt;/p&gt;
 &lt;p&gt;QatarEnergy, the state energy company, said on social media that the explosion and fire had occurred at a local gas supply facility “during the start-up of operations” at Ras Laffan.&lt;br/&gt;(국영 에너지 회사인 카타르에너지는 소셜 미디어를 통해 라스 라판에서 “운영 재개 중” 현지 가스 공급 시설에서 폭발과 화재가 발생했다고 밝혔습니다.)&lt;/p&gt;
