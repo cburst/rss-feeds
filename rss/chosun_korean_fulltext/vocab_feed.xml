@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 07:49:57 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 11:57:11 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,95 @@
 
 
 
-  <item><title>고귀한 – noble</title><link>urn:urn:vocab:고귀한</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>사과 – apple</title><link>urn:urn:vocab:사과</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHBsZXxlbnwwfHx8fDE3ODIwOTcwMjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사과 (apple)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Han Seong-sook Apologizes for Data Leak in ‘Everyone’s Startup’: "Will Establish Measures to Protect Participants’ Ideas" (한성숙 ‘모두의 창업’ 정보 유출에 사과 “도전자 아이디어 보호 대책 마련하겠다”) &lt;&lt;br/&gt;&lt;em&gt;Han Seong-sook Apologizes for Data Leak in ‘Everyone’s Startup’: "Will Establish Measures to Protect Participants’ Ideas"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Han Seong-sook Apologizes for Data Leak in ‘Everyone’s Startup’: "Will Establish Measures to Protect Participants’ Ideas" (한성숙 ‘모두의 창업’ 정보 유출에 사과 “도전자 아이디어 보호 대책 마련하겠다”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Han Seong-sook Apologizes for Data Leak in ‘Everyone’s Startup’: "Will Establish Measures to Protect Participants’ Ideas"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;’ (한성숙 국무총리 후보자 겸 중소벤처기업부 장관이 22일 중기부의 창업 플랫폼 ‘모두의 창업’에서 참가자 개인정보와 창업 아이디어가 유출된 데 대해 사과했다&lt;br/&gt;&lt;em&gt;’ (Han Seong-sook, Prime Minister nominee and Minister of SMEs and Startups, apologized on the 22nd for the leak of participants' personal information and startup ideas from the ministry's startup platform 'Everyone’s Startup'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 사과를 먹어요.&lt;br/&gt;&lt;em&gt;I eat an apple.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 사과는 맛있어요.&lt;br/&gt;&lt;em&gt;This apple is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHBsZXxlbnwwfHx8fDE3ODIwOTcwMjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사과 (apple)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Han Seong-sook Apologizes for Data Leak in ‘Everyone’s Startup’: "Will Establish Measures to Protect Participants’ Ideas" (한성숙 ‘모두의 창업’ 정보 유출에 사과 “도전자 아이디어 보호 대책 마련하겠다”) &lt;&lt;br/&gt;&lt;em&gt;Han Seong-sook Apologizes for Data Leak in ‘Everyone’s Startup’: "Will Establish Measures to Protect Participants’ Ideas"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[CDATA[&lt;h1&gt;Han Seong-sook Apologizes for Data Leak in ‘Everyone’s Startup’: "Will Establish Measures to Protect Participants’ Ideas" (한성숙 ‘모두의 창업’ 정보 유출에 사과 “도전자 아이디어 보호 대책 마련하겠다”)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;[CDATA[&lt;h1&gt;Han Seong-sook Apologizes for Data Leak in ‘Everyone’s Startup’: "Will Establish Measures to Protect Participants’ Ideas"&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;’ (한성숙 국무총리 후보자 겸 중소벤처기업부 장관이 22일 중기부의 창업 플랫폼 ‘모두의 창업’에서 참가자 개인정보와 창업 아이디어가 유출된 데 대해 사과했다&lt;br/&gt;&lt;em&gt;’ (Han Seong-sook, Prime Minister nominee and Minister of SMEs and Startups, apologized on the 22nd for the leak of participants' personal information and startup ideas from the ministry's startup platform 'Everyone’s Startup'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;나는 사과를 먹어요.&lt;br/&gt;&lt;em&gt;I eat an apple.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 사과는 맛있어요.&lt;br/&gt;&lt;em&gt;This apple is delicious.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 22 Jun 2026 11:57:11 +0900</pubDate><guid isPermaLink="false">vocab-3e69ea64158f4ae1767076de440262b3eb9ff86e</guid><enclosure url="https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHBsZXxlbnwwfHx8fDE3ODIwOTcwMjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="55640" /><ns2:content url="https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHBsZXxlbnwwfHx8fDE3ODIwOTcwMjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcHBsZXxlbnwwfHx8fDE3ODIwOTcwMjh8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사과</category></item><item><title>지지층 – support base</title><link>urn:urn:vocab:지지층</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773089237195-bc9449198ed8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0JTIwYmFzZXxlbnwwfHx8fDE3ODIwOTY5NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지지층 (support base)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(‘문조털래유’ 대 ‘한강새똥돼주길’… 민주당 지지층은 왜 화가 났나) &lt;&lt;br/&gt;&lt;em&gt;('Moon Jo-teol-lae-yu' vs 'Han River Bird Droppings Pig Path'... Why is the Democratic Party's support base angry?) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘문조털래유’ 대 ‘한강새똥돼주길’… 민주당 지지층은 왜 화가 났나)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;('Moon Jo-teol-lae-yu' vs 'Han River Bird Droppings Pig Path'... Why is the Democratic Party's support base angry?)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(현재 온라인 커뮤니티와 정치권 전반을 강타한 ‘문조털래유’와 ‘한강새똥돼주길’이라는 기괴한 멸칭의 등장은 지지층과 내부 권력 구도가 얼마나 극단적으로 분열되어 있는지를 상징적으로 보여준다&lt;br/&gt;&lt;em&gt;(The emergence of bizarre derogatory terms 'Moon Jo-teol-lae-yu' and 'Han River Bird Droppings Pig Path', which have recently swept online communities and the political sphere, symbolically shows how extremely divided the support base and internal power structure are.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 지지층이 넓다.&lt;br/&gt;&lt;em&gt;His support base is broad.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지지층이 후보를 지지한다.&lt;br/&gt;&lt;em&gt;The support base supports the candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1773089237195-bc9449198ed8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0JTIwYmFzZXxlbnwwfHx8fDE3ODIwOTY5NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="지지층 (support base)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(‘문조털래유’ 대 ‘한강새똥돼주길’… 민주당 지지층은 왜 화가 났나) &lt;&lt;br/&gt;&lt;em&gt;('Moon Jo-teol-lae-yu' vs 'Han River Bird Droppings Pig Path'... Why is the Democratic Party's support base angry?) &lt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(‘문조털래유’ 대 ‘한강새똥돼주길’… 민주당 지지층은 왜 화가 났나)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;br/&gt;&lt;em&gt;('Moon Jo-teol-lae-yu' vs 'Han River Bird Droppings Pig Path'... Why is the Democratic Party's support base angry?)&lt;/h1&gt;&lt;img src="https://cloudfront-ap-northeast-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(현재 온라인 커뮤니티와 정치권 전반을 강타한 ‘문조털래유’와 ‘한강새똥돼주길’이라는 기괴한 멸칭의 등장은 지지층과 내부 권력 구도가 얼마나 극단적으로 분열되어 있는지를 상징적으로 보여준다&lt;br/&gt;&lt;em&gt;(The emergence of bizarre derogatory terms 'Moon Jo-teol-lae-yu' and 'Han River Bird Droppings Pig Path', which have recently swept online communities and the political sphere, symbolically shows how extremely divided the support base and internal power structure are.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;그의 지지층이 넓다.&lt;br/&gt;&lt;em&gt;His support base is broad.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;지지층이 후보를 지지한다.&lt;br/&gt;&lt;em&gt;The support base supports the candidate.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 22 Jun 2026 11:55:57 +0900</pubDate><guid isPermaLink="false">vocab-316eaccad1f2868809757e3f4a866848ef8fe19d</guid><enclosure url="https://images.unsplash.com/photo-1773089237195-bc9449198ed8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0JTIwYmFzZXxlbnwwfHx8fDE3ODIwOTY5NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="149769" /><ns2:content url="https://images.unsplash.com/photo-1773089237195-bc9449198ed8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0JTIwYmFzZXxlbnwwfHx8fDE3ODIwOTY5NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1773089237195-bc9449198ed8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0JTIwYmFzZXxlbnwwfHx8fDE3ODIwOTY5NTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>지지층</category></item><item><title>창업은 – startup (topic)</title><link>urn:urn:vocab:창업은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFydHVwJTIwJTI4dG9waWMlMjl8ZW58MHx8fHwxNzgyMDg5NjE3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="창업은 (startup (topic))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (한 후보자는 “모두의 창업은 완성된 결과물이 아니다”라면서도 “어떠한 정책적 취지도 국민의 개인정보와 신뢰를 지키지 못한 책임보다 앞설 수는 없다”고 했다&lt;br/&gt;&lt;em&gt;" (One candidate said, 'Everyone's Startup is not a finished product,' but added, 'No policy intention can outweigh the responsibility of failing to protect the people's personal information and trust.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (모두의 창업은 중기부가 주관하는 창업 경진 대회로, 토너먼트식으로 진행되고 최종 우승자에게는 상금과 투자 등 사업 자금 10억원이 지원된다&lt;br/&gt;&lt;em&gt;" (Everyone's Startup is a startup competition hosted by the Ministry of SMEs and Startups, conducted in a tournament format, with the final winner receiving 1 billion won in business funds including prize money and investment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(모두의 창업은 완성된 결과물이 아니고, 함께 만들어 가는 과정의 프로젝트라는 점에 주안점을 두고 시작했습니다&lt;br/&gt;&lt;em&gt;(Everyone's Startup started with a focus on the fact that it is not a finished product but a project in the process of being created together.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;창업은 어렵지만 재미있어요.&lt;br/&gt;&lt;em&gt;Starting a business is difficult but fun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;창업은 많은 준비가 필요해요.&lt;br/&gt;&lt;em&gt;Starting a business requires a lot of preparation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFydHVwJTIwJTI4dG9waWMlMjl8ZW58MHx8fHwxNzgyMDg5NjE3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="창업은 (startup (topic))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (한 후보자는 “모두의 창업은 완성된 결과물이 아니다”라면서도 “어떠한 정책적 취지도 국민의 개인정보와 신뢰를 지키지 못한 책임보다 앞설 수는 없다”고 했다&lt;br/&gt;&lt;em&gt;" (One candidate said, 'Everyone's Startup is not a finished product,' but added, 'No policy intention can outweigh the responsibility of failing to protect the people's personal information and trust.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (모두의 창업은 중기부가 주관하는 창업 경진 대회로, 토너먼트식으로 진행되고 최종 우승자에게는 상금과 투자 등 사업 자금 10억원이 지원된다&lt;br/&gt;&lt;em&gt;" (Everyone's Startup is a startup competition hosted by the Ministry of SMEs and Startups, conducted in a tournament format, with the final winner receiving 1 billion won in business funds including prize money and investment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(모두의 창업은 완성된 결과물이 아니고, 함께 만들어 가는 과정의 프로젝트라는 점에 주안점을 두고 시작했습니다&lt;br/&gt;&lt;em&gt;(Everyone's Startup started with a focus on the fact that it is not a finished product but a project in the process of being created together.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;창업은 어렵지만 재미있어요.&lt;br/&gt;&lt;em&gt;Starting a business is difficult but fun.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;창업은 많은 준비가 필요해요.&lt;br/&gt;&lt;em&gt;Starting a business requires a lot of preparation.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 22 Jun 2026 09:53:41 +0900</pubDate><guid isPermaLink="false">vocab-250b41b8475e2c4d6c69af92a633286e476e57aa</guid><enclosure url="https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFydHVwJTIwJTI4dG9waWMlMjl8ZW58MHx8fHwxNzgyMDg5NjE3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="99719" /><ns2:content url="https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFydHVwJTIwJTI4dG9waWMlMjl8ZW58MHx8fHwxNzgyMDg5NjE3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdGFydHVwJTIwJTI4dG9waWMlMjl8ZW58MHx8fHwxNzgyMDg5NjE3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>창업은</category></item><item><title>직원들은 – employees</title><link>urn:urn:vocab:직원들은</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1538688423619-a81d3f23454b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbXBsb3llZXN8ZW58MHx8fHwxNzgyMDg5NTEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="직원들은 (employees)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;윤 위원장은 “온 국민이 경악할 만한 비리·부실도 선관위 직원들은 대수롭지 않게 생각하는 것 같다”며 “이 기회에 선거 현장 관리, 인사 체계, 조직 운영, 의사 결정 구조까지 모조리 파헤치겠다”고 했다&lt;br/&gt;&lt;em&gt;Chairman Yoon said, "Even corruption and negligence that would shock the entire nation seem trivial to election commission employees," and added, "We will thoroughly investigate everything from election site management, personnel system, organizational operation, to decision-making structure."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (“2024년 가족 채용 비리가 터지고 선관위 직원들은 ‘선관위는 가족회사’라고 했다&lt;br/&gt;&lt;em&gt;" ("After the 2024 nepotism scandal broke, election commission employees said, 'The election commission is a family company.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;온 국민이 경악할 만한 비리·부실도 선관위 직원들은 대수롭지 않게 생각하는 것이다&lt;br/&gt;&lt;em&gt;Even corruption and negligence that would shock the entire nation are considered trivial by election commission employees.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;직원들은 회사에 갑니다.&lt;br/&gt;&lt;em&gt;The employees go to the company.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;직원들은 점심을 먹습니다.&lt;br/&gt;&lt;em&gt;The employees eat lunch.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1538688423619-a81d3f23454b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbXBsb3llZXN8ZW58MHx8fHwxNzgyMDg5NTEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="직원들은 (employees)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;윤 위원장은 “온 국민이 경악할 만한 비리·부실도 선관위 직원들은 대수롭지 않게 생각하는 것 같다”며 “이 기회에 선거 현장 관리, 인사 체계, 조직 운영, 의사 결정 구조까지 모조리 파헤치겠다”고 했다&lt;br/&gt;&lt;em&gt;Chairman Yoon said, "Even corruption and negligence that would shock the entire nation seem trivial to election commission employees," and added, "We will thoroughly investigate everything from election site management, personnel system, organizational operation, to decision-making structure."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;” (“2024년 가족 채용 비리가 터지고 선관위 직원들은 ‘선관위는 가족회사’라고 했다&lt;br/&gt;&lt;em&gt;" ("After the 2024 nepotism scandal broke, election commission employees said, 'The election commission is a family company.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;온 국민이 경악할 만한 비리·부실도 선관위 직원들은 대수롭지 않게 생각하는 것이다&lt;br/&gt;&lt;em&gt;Even corruption and negligence that would shock the entire nation are considered trivial by election commission employees.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;직원들은 회사에 갑니다.&lt;br/&gt;&lt;em&gt;The employees go to the company.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;직원들은 점심을 먹습니다.&lt;br/&gt;&lt;em&gt;The employees eat lunch.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Mon, 22 Jun 2026 09:51:54 +0900</pubDate><guid isPermaLink="false">vocab-7d72d259b18033d541f186784ab4ae01321005a5</guid><enclosure url="https://images.unsplash.com/photo-1538688423619-a81d3f23454b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbXBsb3llZXN8ZW58MHx8fHwxNzgyMDg5NTEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="134265" /><ns2:content url="https://images.unsplash.com/photo-1538688423619-a81d3f23454b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbXBsb3llZXN8ZW58MHx8fHwxNzgyMDg5NTEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1538688423619-a81d3f23454b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxlbXBsb3llZXN8ZW58MHx8fHwxNzgyMDg5NTEwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>직원들은</category></item><item><title>고귀한 – noble</title><link>urn:urn:vocab:고귀한</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1677775268090-6dcdcc42e2fa?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxub2JsZXxlbnwwfHx8fDE3ODIwODIxOTJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="고귀한 (noble)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;자유와 평화라는 인류 보편의 가치를 지키기 위해 미국은 망설임 없이 달려와 줬다”며 “이름도 알지 못하던 나라, 한 번도 가본 적 없는 국가, 만난 적 없는 이들의 자유를 지키기 위해 자신의 가장 빛나는 청춘과 목숨을 바쳤던 참전용사들, 지금 생각해도 기적적인 그들의 고귀한 희생이 있었기에 대한민국은 오늘 대한민국이 존재할 수 있었다”고 했다&lt;br/&gt;&lt;em&gt;"To protect the universal values of freedom and peace, the United States rushed without hesitation," he said. "Veterans who gave their brightest youth and lives to protect the freedom of a country they had never heard of, a nation they had never visited, and people they had never met—their noble sacrifice, which I still think of as miraculous, made it possible for the Republic of Korea to exist as it is today."&lt;/em&gt;&lt;/p&gt;
