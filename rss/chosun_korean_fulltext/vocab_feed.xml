@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 22:19:27 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 02:28:59 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,93 @@
 
 
 
-  <item><title>사과드립니다 – I apologize</title><link>urn:urn:vocab:사과드립니다</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>기본적 – basic</title><link>urn:urn:vocab:기본적</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1464618663641-bbdd760ae84a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNpY3xlbnwwfHx8fDE3ODIxNDkzMzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기본적 (basic)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (그는 “우크라이나 측과 이미 기본적 합의는 다 이뤄져 있다”며 “그 원칙은 변함이 없고 이번에 (우크라이나) 외교장관이 방한하면 또 약간의 진전이 있을 수 있지 않을까 그렇게 기대하고 있다”고 말했다&lt;br/&gt;&lt;em&gt;"He said, 'We have already reached a basic agreement with the Ukrainian side,' adding, 'The principle remains unchanged, and I hope that there may be some progress when the Ukrainian foreign minister visits this time.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (외교부 고위 당국자는 이날 기자 간담회에서 “우크라이나 측과 이미 기본적 합의는 다 이뤄져 있다”며 “그 원칙은 변함이 없다”고 했다&lt;br/&gt;&lt;em&gt;"A senior foreign ministry official said at a press briefing that day, 'We have already reached a basic agreement with the Ukrainian side,' and 'The principle remains unchanged.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(외교부 고위 당국자가 22일 북한군 포로 2명의 한국행과 관련해 우크라이나 정부와 “기본적 합의”가 이뤄졌다고 하면서 이들의 한국행이 조만간 가시화될 것이란 관측이 나온다&lt;br/&gt;&lt;em&gt;As a senior foreign ministry official said on the 22nd that a 'basic agreement' has been reached with the Ukrainian government regarding the transfer of two North Korean prisoners of war to South Korea, there are observations that their transfer to South Korea may materialize soon.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 기본적 문제입니다.&lt;br/&gt;&lt;em&gt;This is a fundamental problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기본적 규칙을 배웠어요.&lt;br/&gt;&lt;em&gt;I learned the basic rules.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1464618663641-bbdd760ae84a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNpY3xlbnwwfHx8fDE3ODIxNDkzMzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="기본적 (basic)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (그는 “우크라이나 측과 이미 기본적 합의는 다 이뤄져 있다”며 “그 원칙은 변함이 없고 이번에 (우크라이나) 외교장관이 방한하면 또 약간의 진전이 있을 수 있지 않을까 그렇게 기대하고 있다”고 말했다&lt;br/&gt;&lt;em&gt;"He said, 'We have already reached a basic agreement with the Ukrainian side,' adding, 'The principle remains unchanged, and I hope that there may be some progress when the Ukrainian foreign minister visits this time.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (외교부 고위 당국자는 이날 기자 간담회에서 “우크라이나 측과 이미 기본적 합의는 다 이뤄져 있다”며 “그 원칙은 변함이 없다”고 했다&lt;br/&gt;&lt;em&gt;"A senior foreign ministry official said at a press briefing that day, 'We have already reached a basic agreement with the Ukrainian side,' and 'The principle remains unchanged.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(외교부 고위 당국자가 22일 북한군 포로 2명의 한국행과 관련해 우크라이나 정부와 “기본적 합의”가 이뤄졌다고 하면서 이들의 한국행이 조만간 가시화될 것이란 관측이 나온다&lt;br/&gt;&lt;em&gt;As a senior foreign ministry official said on the 22nd that a 'basic agreement' has been reached with the Ukrainian government regarding the transfer of two North Korean prisoners of war to South Korea, there are observations that their transfer to South Korea may materialize soon.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;이것은 기본적 문제입니다.&lt;br/&gt;&lt;em&gt;This is a fundamental problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;기본적 규칙을 배웠어요.&lt;br/&gt;&lt;em&gt;I learned the basic rules.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 23 Jun 2026 02:28:59 +0900</pubDate><guid isPermaLink="false">vocab-e38b5be591dd91f83bdf51f279dab6258fe2db12</guid><enclosure url="https://images.unsplash.com/photo-1464618663641-bbdd760ae84a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNpY3xlbnwwfHx8fDE3ODIxNDkzMzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="25577" /><ns2:content url="https://images.unsplash.com/photo-1464618663641-bbdd760ae84a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNpY3xlbnwwfHx8fDE3ODIxNDkzMzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1464618663641-bbdd760ae84a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxiYXNpY3xlbnwwfHx8fDE3ODIxNDkzMzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>기본적</category></item><item><title>그렇고 – and so</title><link>urn:urn:vocab:그렇고</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625945771023-514c4a28ac02?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbmQlMjBzb3xlbnwwfHx8fDE3ODIxNDkzMDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="그렇고 (and so)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (외교부 고위 당국자는 정동영 통일부 장관의 ‘북한 구성 핵시설’ 발언이 촉발한 한미 간 대북 정보 공유 제한에 대해서는 “미국 측도 그렇고 우리도 그렇고 여기에 대한 출구를 찾지 않겠는가&lt;br/&gt;&lt;em&gt;"(A senior Foreign Ministry official said regarding the restriction on sharing North Korea-related information between South Korea and the U.S., triggered by Unification Minister Jeong Dong-young's remarks about 'North Korea's Kusong nuclear facilities,' 'Both the U.S. and we are trying to find a way out of this, aren't we?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정동영 통일부 장관이 지난 3월 북한의 우라늄 농축 시설 소재지로 ‘평북 구성’을 지목한 후 미국이 대북 정보 공유를 제한한 데 대해, 외교부 고위 당국자는 “미국 측도 그렇고 우리도 그렇고 여기에 대한 출구를 찾지 않겠는가”라고 했다&lt;br/&gt;&lt;em&gt;After Unification Minister Jeong Dong-young pointed to 'Kusong in North Pyongan Province' as the location of North Korea's uranium enrichment facility in March, the U.S. restricted sharing of North Korea-related information. A senior Foreign Ministry official said, 'Both the U.S. and we are trying to find a way out of this, aren't we?'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;날씨가 춥고 그렇고 비도 와요.&lt;br/&gt;&lt;em&gt;The weather is cold and it's also raining.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 키가 크고 그렇고 잘생겼어요.&lt;br/&gt;&lt;em&gt;He is tall and handsome.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1625945771023-514c4a28ac02?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbmQlMjBzb3xlbnwwfHx8fDE3ODIxNDkzMDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="그렇고 (and so)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (외교부 고위 당국자는 정동영 통일부 장관의 ‘북한 구성 핵시설’ 발언이 촉발한 한미 간 대북 정보 공유 제한에 대해서는 “미국 측도 그렇고 우리도 그렇고 여기에 대한 출구를 찾지 않겠는가&lt;br/&gt;&lt;em&gt;"(A senior Foreign Ministry official said regarding the restriction on sharing North Korea-related information between South Korea and the U.S., triggered by Unification Minister Jeong Dong-young's remarks about 'North Korea's Kusong nuclear facilities,' 'Both the U.S. and we are trying to find a way out of this, aren't we?'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;정동영 통일부 장관이 지난 3월 북한의 우라늄 농축 시설 소재지로 ‘평북 구성’을 지목한 후 미국이 대북 정보 공유를 제한한 데 대해, 외교부 고위 당국자는 “미국 측도 그렇고 우리도 그렇고 여기에 대한 출구를 찾지 않겠는가”라고 했다&lt;br/&gt;&lt;em&gt;After Unification Minister Jeong Dong-young pointed to 'Kusong in North Pyongan Province' as the location of North Korea's uranium enrichment facility in March, the U.S. restricted sharing of North Korea-related information. A senior Foreign Ministry official said, 'Both the U.S. and we are trying to find a way out of this, aren't we?'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;날씨가 춥고 그렇고 비도 와요.&lt;br/&gt;&lt;em&gt;The weather is cold and it's also raining.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그는 키가 크고 그렇고 잘생겼어요.&lt;br/&gt;&lt;em&gt;He is tall and handsome.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 23 Jun 2026 02:28:31 +0900</pubDate><guid isPermaLink="false">vocab-79750d00f7b4ba0fb51f41d22d27c37d181e9848</guid><enclosure url="https://images.unsplash.com/photo-1625945771023-514c4a28ac02?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbmQlMjBzb3xlbnwwfHx8fDE3ODIxNDkzMDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="108842" /><ns2:content url="https://images.unsplash.com/photo-1625945771023-514c4a28ac02?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbmQlMjBzb3xlbnwwfHx8fDE3ODIxNDkzMDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1625945771023-514c4a28ac02?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhbmQlMjBzb3xlbnwwfHx8fDE3ODIxNDkzMDZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>그렇고</category></item><item><title>당직자 – person on duty</title><link>urn:urn:vocab:당직자</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1529478490015-00f1a2f8f5cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvbiUyMGR1dHl8ZW58MHx8fHwxNzgyMTQxOTM1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="당직자 (person on duty)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Some within Party Call It "Inappropriate" ([단독] 정청래, 사퇴 직전 당직자 승진·전보 인사&lt;br/&gt;&lt;em&gt;[Exclusive] Jeong Cheong-rae, Promotion and Transfer of Party Officials Just Before Resignation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Some within Party Call It "Inappropriate" ([단독] 정청래, 사퇴 직전 당직자 승진·전보 인사&lt;br/&gt;&lt;em&gt;[Exclusive] Jeong Cheong-rae, Promotion and Transfer of Party Officials Just Before Resignation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (더불어민주당이 22일 당직자 승진·전보 인사를 냈다&lt;br/&gt;&lt;em&gt;The Democratic Party of Korea announced the promotion and transfer of party officials on the 22nd&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;당직자가 사무실에 있습니다.&lt;br/&gt;&lt;em&gt;The duty officer is in the office.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 오늘 당직자입니다.&lt;br/&gt;&lt;em&gt;I am the duty officer today.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1529478490015-00f1a2f8f5cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvbiUyMGR1dHl8ZW58MHx8fHwxNzgyMTQxOTM1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="당직자 (person on duty)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;Some within Party Call It "Inappropriate" ([단독] 정청래, 사퇴 직전 당직자 승진·전보 인사&lt;br/&gt;&lt;em&gt;[Exclusive] Jeong Cheong-rae, Promotion and Transfer of Party Officials Just Before Resignation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Some within Party Call It "Inappropriate" ([단독] 정청래, 사퇴 직전 당직자 승진·전보 인사&lt;br/&gt;&lt;em&gt;[Exclusive] Jeong Cheong-rae, Promotion and Transfer of Party Officials Just Before Resignation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (더불어민주당이 22일 당직자 승진·전보 인사를 냈다&lt;br/&gt;&lt;em&gt;The Democratic Party of Korea announced the promotion and transfer of party officials on the 22nd&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;당직자가 사무실에 있습니다.&lt;br/&gt;&lt;em&gt;The duty officer is in the office.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;저는 오늘 당직자입니다.&lt;br/&gt;&lt;em&gt;I am the duty officer today.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 23 Jun 2026 00:25:39 +0900</pubDate><guid isPermaLink="false">vocab-2d2ae19aff4ea14dee6df593f9c9e8d2d43b85d5</guid><enclosure url="https://images.unsplash.com/photo-1529478490015-00f1a2f8f5cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvbiUyMGR1dHl8ZW58MHx8fHwxNzgyMTQxOTM1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="269404" /><ns2:content url="https://images.unsplash.com/photo-1529478490015-00f1a2f8f5cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvbiUyMGR1dHl8ZW58MHx8fHwxNzgyMTQxOTM1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1529478490015-00f1a2f8f5cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvbiUyMGR1dHl8ZW58MHx8fHwxNzgyMTQxOTM1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>당직자</category></item><item><title>인사는 – personnel matters</title><link>urn:urn:vocab:인사는</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1629273443900-9abe80c0403d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25uZWwlMjBtYXR0ZXJzfGVufDB8fHx8MTc4MjE0MTc0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인사는 (personnel matters)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이에 대해 민주당 사무처 관계자는 “노조와 단체협약에서 ‘정기 인사는 (전당대회와 관련 없이) 규정대로 한다’고 합의해서 인사를 예정대로 낸 것”이라면서 “당권 투쟁과는 관련 없다”고 했다&lt;br/&gt;&lt;em&gt;Regarding this, a Democratic Party office official said, 'We agreed in the union's collective agreement that regular personnel changes will be carried out according to regulations (regardless of the party convention), so we proceeded with the personnel changes as scheduled,' adding, 'This is unrelated to the party leadership struggle.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;다만 지난해 당대표 보궐선거에서도 주요 보직 인사는 정청래 대표가 당대표에 선출된 이후에 이뤄졌다&lt;br/&gt;&lt;em&gt;However, in last year's by-election for party leader, major appointments were made only after Representative Jeong Cheong-rae was elected as party leader.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이에 대해 사무처 관계자는 “지역위원장을 먼저 개편해야 이후에 시도당위원장을 선출하고, 전당대회도 치를 수 있다”면서 “이례적인 인사는 아니다”라고 했다&lt;br/&gt;&lt;em&gt;Regarding this, the office official said, 'We need to reorganize the regional committee chairs first, then elect the provincial party chairs, and then hold the party convention,' adding, 'This is not an unusual personnel change.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인사는 중요합니다.&lt;br/&gt;&lt;em&gt;Greetings are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인사는 회사에서 합니다.&lt;br/&gt;&lt;em&gt;Greetings are done at the company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1629273443900-9abe80c0403d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25uZWwlMjBtYXR0ZXJzfGVufDB8fHx8MTc4MjE0MTc0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="인사는 (personnel matters)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(이에 대해 민주당 사무처 관계자는 “노조와 단체협약에서 ‘정기 인사는 (전당대회와 관련 없이) 규정대로 한다’고 합의해서 인사를 예정대로 낸 것”이라면서 “당권 투쟁과는 관련 없다”고 했다&lt;br/&gt;&lt;em&gt;Regarding this, a Democratic Party office official said, 'We agreed in the union's collective agreement that regular personnel changes will be carried out according to regulations (regardless of the party convention), so we proceeded with the personnel changes as scheduled,' adding, 'This is unrelated to the party leadership struggle.'&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;다만 지난해 당대표 보궐선거에서도 주요 보직 인사는 정청래 대표가 당대표에 선출된 이후에 이뤄졌다&lt;br/&gt;&lt;em&gt;However, in last year's by-election for party leader, major appointments were made only after Representative Jeong Cheong-rae was elected as party leader.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이에 대해 사무처 관계자는 “지역위원장을 먼저 개편해야 이후에 시도당위원장을 선출하고, 전당대회도 치를 수 있다”면서 “이례적인 인사는 아니다”라고 했다&lt;br/&gt;&lt;em&gt;Regarding this, the office official said, 'We need to reorganize the regional committee chairs first, then elect the provincial party chairs, and then hold the party convention,' adding, 'This is not an unusual personnel change.'&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;인사는 중요합니다.&lt;br/&gt;&lt;em&gt;Greetings are important.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;인사는 회사에서 합니다.&lt;br/&gt;&lt;em&gt;Greetings are done at the company.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 23 Jun 2026 00:22:28 +0900</pubDate><guid isPermaLink="false">vocab-56b1ec1ce16bc383fbcd05bf77c531e4dd4f4a37</guid><enclosure url="https://images.unsplash.com/photo-1629273443900-9abe80c0403d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25uZWwlMjBtYXR0ZXJzfGVufDB8fHx8MTc4MjE0MTc0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="65100" /><ns2:content url="https://images.unsplash.com/photo-1629273443900-9abe80c0403d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25uZWwlMjBtYXR0ZXJzfGVufDB8fHx8MTc4MjE0MTc0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1629273443900-9abe80c0403d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxwZXJzb25uZWwlMjBtYXR0ZXJzfGVufDB8fHx8MTc4MjE0MTc0M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>인사는</category></item><item><title>사과드립니다 – I apologize</title><link>urn:urn:vocab:사과드립니다</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1660922771242-c598e0808188?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxJJTIwYXBvbG9naXplfGVufDB8fHx8MTc4MjEzNDM2M3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사과드립니다 (I apologize)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;먼저 모두의 창업 플랫폼 개인정보 유출로 인해 걱정과 불편을 겪으신 이용자 여러분께 진심으로 사과드립니다&lt;br/&gt;&lt;em&gt;First of all, we sincerely apologize to all users who have experienced concerns and inconveniences due to the personal information leak on our startup platform.&lt;/em&gt;&lt;/p&gt;
