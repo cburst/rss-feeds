@@ -7,7 +7,7 @@
     <ns0:link href="file:///Users/purp/Downloads/translator/chosun_korean_fulltext/vocab_feed.xml" rel="self" />
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 19:12:32 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:18:39 +0900</lastBuildDate>
 
 
 
@@ -749,7 +749,29 @@
 
 
 
-  <item><title>있느냐 – do you have</title><link>urn:urn:vocab:있느냐</link><description>&lt;div class="vocab-item"&gt;
+  <item><title>보니까 – as I see</title><link>urn:urn:vocab:보니까</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1727882825752-b9a631df4632?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMEklMjBzZWV8ZW58MHx8fHwxNzgyMjE3MTE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="보니까 (as I see)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이 대통령은 이번 사태에 대해 “우려가 큰데 참으로 안타까운 것이 정부 통제 범위 내에 있으면 손이라도 써보겠는데, (선관위는) 헌법이 정한 독립기관”이라며 “관리도 통제도 불가능한 상황이고, 심지어 국회도 이상적 감시 관리가 어렵다 보니까 내부 문제가 많이 생긴 것 같다”고 했다&lt;br/&gt;&lt;em&gt;" (President Lee said about the current situation, 'I am very concerned, but it is truly regrettable that if it were within the government's control, I would try to do something, but (the National Election Commission) is an independent institution stipulated by the Constitution,' adding, 'It is a situation where neither management nor control is possible, and even the National Assembly finds it difficult to conduct ideal oversight and management, so it seems that many internal problems have arisen.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “문제가 쌓이고 쌓이다 보니까 심지어 투표지가 부족한, 투표에 장애를 느끼는 그런 상황이 됐다”고 했다&lt;br/&gt;&lt;em&gt;He continued, "As problems accumulated, it even led to a situation where there was a shortage of ballots, causing obstacles to voting."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “우리 주식시장이 좋아지면 외국인 매수가 들어와서 원래는 달러 공급이 되어야 하는데, 너무 급격히 오르다 보니까 외국인들은 (전체 보유 중) 한국 포션이 커지니까 줄여야 되게 됐다”며 “구조적 문제라기보다 단기적 문제인가”라고 했다&lt;br/&gt;&lt;em&gt;" (President Lee said, 'When our stock market improves, foreign investors buy in, which should normally supply dollars, but because it rose too rapidly, foreigners (among their total holdings) had to reduce their Korean portion as it became too large,' adding, 'Is it more of a short-term problem rather than a structural issue?'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사진을 보니까 예쁘다.&lt;br/&gt;&lt;em&gt;Looking at the picture, it's pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;날씨를 보니까 비 온다.&lt;br/&gt;&lt;em&gt;Looking at the weather, it's raining.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns1:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1727882825752-b9a631df4632?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMEklMjBzZWV8ZW58MHx8fHwxNzgyMjE3MTE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="보니까 (as I see)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;" (이 대통령은 이번 사태에 대해 “우려가 큰데 참으로 안타까운 것이 정부 통제 범위 내에 있으면 손이라도 써보겠는데, (선관위는) 헌법이 정한 독립기관”이라며 “관리도 통제도 불가능한 상황이고, 심지어 국회도 이상적 감시 관리가 어렵다 보니까 내부 문제가 많이 생긴 것 같다”고 했다&lt;br/&gt;&lt;em&gt;" (President Lee said about the current situation, 'I am very concerned, but it is truly regrettable that if it were within the government's control, I would try to do something, but (the National Election Commission) is an independent institution stipulated by the Constitution,' adding, 'It is a situation where neither management nor control is possible, and even the National Assembly finds it difficult to conduct ideal oversight and management, so it seems that many internal problems have arisen.'"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이어 “문제가 쌓이고 쌓이다 보니까 심지어 투표지가 부족한, 투표에 장애를 느끼는 그런 상황이 됐다”고 했다&lt;br/&gt;&lt;em&gt;He continued, "As problems accumulated, it even led to a situation where there was a shortage of ballots, causing obstacles to voting."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;" (이 대통령은 “우리 주식시장이 좋아지면 외국인 매수가 들어와서 원래는 달러 공급이 되어야 하는데, 너무 급격히 오르다 보니까 외국인들은 (전체 보유 중) 한국 포션이 커지니까 줄여야 되게 됐다”며 “구조적 문제라기보다 단기적 문제인가”라고 했다&lt;br/&gt;&lt;em&gt;" (President Lee said, 'When our stock market improves, foreign investors buy in, which should normally supply dollars, but because it rose too rapidly, foreigners (among their total holdings) had to reduce their Korean portion as it became too large,' adding, 'Is it more of a short-term problem rather than a structural issue?'"&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사진을 보니까 예쁘다.&lt;br/&gt;&lt;em&gt;Looking at the picture, it's pretty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;날씨를 보니까 비 온다.&lt;br/&gt;&lt;em&gt;Looking at the weather, it's raining.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns1:encoded><pubDate>Tue, 23 Jun 2026 21:18:39 +0900</pubDate><guid isPermaLink="false">vocab-5ff3636d04005df2e47579e488a83ab4d8923b03</guid><enclosure url="https://images.unsplash.com/photo-1727882825752-b9a631df4632?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMEklMjBzZWV8ZW58MHx8fHwxNzgyMjE3MTE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="315777" /><ns2:content url="https://images.unsplash.com/photo-1727882825752-b9a631df4632?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMEklMjBzZWV8ZW58MHx8fHwxNzgyMjE3MTE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns2:thumbnail url="https://images.unsplash.com/photo-1727882825752-b9a631df4632?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxhcyUyMEklMjBzZWV8ZW58MHx8fHwxNzgyMjE3MTE1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>보니까</category></item><item><title>있느냐 – do you have</title><link>urn:urn:vocab:있느냐</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1571687450924-d4e325c6f38f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxkbyUyMHlvdSUyMGhhdmV8ZW58MHx8fHwxNzgyMjA5NTQ5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="있느냐 (do you have)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;" (이 대통령은 국무회의에서 이 조사를 언급하며 “본인의 고통은 얼마나 심각했을 것이며, 이걸 잃은 남자친구와 가족들은 얼마나 가슴이 아프고 속이 쓰렸겠느냐”며 “입장을 바꿔 생각하면 어떻게 이럴 수가 있느냐”고 했다&lt;br/&gt;&lt;em&gt;" (In a cabinet meeting, President Lee mentioned this investigation, saying, 'How severe must their pain have been, and how heartbroken and sick must the boyfriend and family who lost them feel?' and 'If you put yourself in their shoes, how could this happen?')&lt;/em&gt;&lt;/p&gt;
