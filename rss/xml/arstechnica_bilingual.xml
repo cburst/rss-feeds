@@ -1,114 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 26 Jun 2026 19:47:46 +0000</lastBuildDate><item><title>IBM claims world’s first sub-1 nanometer chip technology (IBM, 세계 최초 서브-1나노미터 칩 기술 주장)</title><link>https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Sub-1nm-node-chip-3-e1782339299592-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;IBM’s nanostack transistors could boost chip performance or energy efficiency.&lt;br/&gt;(IBM의 나노스택 트랜지스터가 칩 성능 또는 에너지 효율을 향상시킬 수 있다.)&lt;/p&gt;
-&lt;p&gt;A new chip architecture from IBM can integrate nearly 100 billion transistors on a chip the size of a human fingernail—nearly twice the transistor density of the company’s previous generation of chip technology. The resulting improvement in chip compute performance and energy efficiency comes from what IBM describes as the “world’s first sub-1 nanometer chip technology” for AI data centers.&lt;br/&gt;(IBM의 새로운 칩 아키텍처는 사람 손톱 크기의 칩에 약 1000억 개의 트랜지스터를 집적할 수 있는데, 이는 이전 세대 칩 기술보다 트랜지스터 밀도가 거의 두 배에 가깝다. 이에 따른 칩 연산 성능 및 에너지 효율성 향상은 IBM이 AI 데이터센터를 위해 설명한 "세계 최초의 서브-1나노미터 칩 기술"에서 비롯된다.)&lt;/p&gt;
-&lt;p&gt;“It’s not just an incremental step, it’s a meaningful leap forward,” said Jay Gambetta , director of IBM Research and IBM Fellow, in an advance media briefing. He described the new chip technology as “pointing to a future where computing becomes significantly more powerful without a corresponding increase in energy.”&lt;br/&gt;("이는 단순한 점진적 단계가 아니라 의미 있는 도약입니다."라고 IBM 리서치 소장 겸 IBM 펠로우인 제이 감베타가 사전 미디어 브리핑에서 말했다. 그는 새로운 칩 기술을 "에너지 증가 없이 컴퓨팅이 훨씬 더 강력해지는 미래를 가리키는 것"이라고 설명했다.)&lt;/p&gt;
-&lt;p&gt;It’s worth unpacking what the “world’s first sub-1 nanometer chip technology” means, because it is impractical to build reliably functional chips with transistors and other features smaller than 1 nanometer due to various physical limitations. Instead, IBM is basically claiming that its new “nanostack” architecture can deliver the computing performance improvements that would be expected if a theoretical chip could be built with physical features smaller than 1 nanometer.&lt;br/&gt;("세계 최초의 서브-1나노미터 칩 기술"이 무엇을 의미하는지 이해하는 것이 중요하다. 다양한 물리적 한계로 인해 1나노미터보다 작은 트랜지스터 및 기타 특징을 가진 칩을 안정적으로 기능하도록 제조하는 것은 비현실적이기 때문이다. 대신, IBM은 기본적으로 이론적 칩이 1나노미터보다 작은 물리적 특징으로 구축될 경우 기대되는 컴퓨팅 성능 향상을 새로운 "나노스택" 아키텍처가 제공할 수 있다고 주장하는 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-구체적으로, IBM은 새로운 칩 기술이 0.7나노미터 노드로 제작되었다고 설명하며, 이를 1나노미터가 10옹스트롬으로 구성되므로 7옹스트롬 노드라고 명명했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 이러한 노드 번호는 IBM 칩 특징의 실제 물리적 치수와 아무 관련이 없다는 점을 명심해야 한다. 1970년대와 1980년대에 개발된 구세대 칩은 180나노미터 노드에서 제작된 칩과 같이 칩 기술의 노드 또는 공정 이름과 일치하는 치수의 물리적 특징을 가졌지만, 이는 수십 년 전의 일이며 확실히 3나노미터 또는 2나노미터 공정으로 제작된 최신 칩 세대의 경우는 아니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-현대 칩 설계자들이 직면한 물리적 스케일링 한계를 극복하기 위해, IBM의 새로운 나노스택 아키텍처는 트랜지스터를 지그재그 배열로 수직 적층하여 동일한 칩 공간에 더 많은 트랜지스터를 집적한다. 나노스택 아키텍처는 2021년에 도입된 2나노미터 칩 노드를 위한 길을 닦은 회사의 이전 나노시트 트랜지스터 개발을 기반으로 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-IBM 나노스택 아키텍처의 기본 단위는 두 개의 트랜지스터가 적층되어 결합된 것으로 구성된다. 각 트랜지스터는 개별적으로 5나노미터 두께인 세 개의 나노시트로 구성되며, 이는 약 15개의 실리콘 원자 행에 해당한다. 또한 각 나노시트 사이에는 약 9나노미터의 거리가 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-IBM이 발표한 기술 보고서의 예측에 따르면, 나노스택 아키텍처는 IBM의 이전 세대 2나노미터 노드 칩보다 50% 더 높은 컴퓨팅 성능 또는 70% 더 큰 에너지 효율성을 위한 길을 열 수 있다. 회사는 일본 교토에서 열린 2025 IEEE VLSI 기술 및 회로 심포지엄에서 나노스택 트랜지스터 아키텍처를 발표했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-IBM 연구원들은 또한 VLSI 2026 심포지엄에서 나노스택 아키텍처가 정적 랜덤 액세스 메모리(SRAM)에 대해 40%의 스케일링 개선을 제공할 수 있는 방법을 보여주었다. SRAM은 많은 AI 애플리케이션에서 중요한 빠르지만 에너지 집약적인 읽기 및 쓰기 작업을 허용한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-메모리 개선은 칩의 SRAM 비트 셀(6개의 트랜지스터로 구성된 메모리 저장 장치)에 대한 지그재그 채널 설계를 통해 가능해졌으며, 이는 전체 셀 높이를 40% 줄이고 동일한 칩 공간에 더 많은 SRAM을 집적할 수 있게 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 SRAM 스케일링이 최근 몇 세대의 칩 기술에서 급격히 감소했기 때문에 AI 워크로드를 지원하려는 칩 설계자들에게 환영받는 소식일 것이다. 예를 들어, SRAM 스케일링은 3나노미터 칩 세대와 2나노미터 칩 세대 사이에 몇 퍼센트만 개선되었다고 감베타는 설명했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이 40% 달성은 결국 더 높은 대역폭과 높은 효율성을 요구하는 AI 워크플로우에서 산업화될 것입니다."라고 감베타는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-칩 기술 연구를 수행하는 회사로서, IBM은 AI 데이터센터나 소비자 기기에 사용될 상업용 칩을 제조하지 않는다. 대신, IBM은 일본의 Rapidus와 같은 반도체 회사와 협력하여 나노시트 아키텍처 기반의 이전 세대 2나노미터 노드 칩을 대량 생산하거나, 한국의 삼성과의 또 다른 파트너십을 통해 관련 기술을 상업화해왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다른 회사들은 직접적인 협력 없이 IBM의 선구적인 작업을 따라왔다. 예를 들어, 대만의 TSMC는 자체 독점 2나노미터 노드 기술을 위해 독자적으로 나노시트 트랜지스터를 개발했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"나노시트는 차세대 트랜지스터 스케일링의 기반이 되었습니다."라고 IBM 반도체 글로벌 R&amp;D 부사장 겸 IBM 리서치의 후이밍 부가 미디어 브리핑에서 말했다. "오늘날, 나노시트는 모든 주요 파운드리에서 대부분의 3나노미터 칩과 모든 2나노미터 칩에 채택되고 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-IBM은 최신 서브-1나노미터 노드 기술을 상업화하기 위해 협력할 특정 회사 이름을 밝히기를 거부했다. 하지만 부 부사장은 서브-1나노미터 노드에서 제작되고 최신 나노스택 아키텍처를 통합한 상업용 칩이 빠르면 향후 5년 이내에, 그리고 대부분 10년 이내에 생산을 시작할 수 있을 것으로 예상한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이는 CPU든 GPU든 주요 파운드리에서 오늘날의 주류인 나노시트를 대체할 것입니다."라고 부 부사장은 말했다. "10년 안에, 이것은 우리가 발명하고 업계가 변화하도록 도운 또 다른 주류가 될 것입니다.")&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Sub-1nm-node-chip-3-e1782339299592-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 01:00:55 +0000</pubDate></item><item><title>EveryHomo nalediwe know of is female, and the implications are fascinating (우리가 아는 모든 호모 날레디는 암컷이며, 그 의미는 흥미롭다)</title><link>https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/neo-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;“There is no natural explanation,” says paleoanthropologist John Hawks.&lt;br/&gt;("자연적인 설명은 없다"고 고인류학자 존 호크스가 말한다.)&lt;/p&gt;
-&lt;p&gt;All the Homo naledi skeletons in Rising Star Cave are female, and that probably didn’t happen by accident.&lt;br/&gt;(라이징 스타 동굴에 있는 모든 호모 날레디 골격은 암컷이며, 이는 우연이 아닐 가능성이 높다.)&lt;/p&gt;
-&lt;p&gt;In 2013, a team of anthropologists led by Lee Berger unearthed the remains of more than 20 small-bodied hominins (ancient relatives of humans), all 335,000 to 236,000 years old, from the Rising Star Cave System in South Africa. Excavations at Rising Star have sparked debate about whether these little hominins had all ended up in the caves by tragic accident, or whether they’d been carefully placed there by other members of their enigmatic species, dubbed Homo naledi.&lt;br/&gt;(2013년, 리 버거가 이끄는 인류학자 팀이 남아프리카 공화국의 라이징 스타 동굴계에서 33만 5천 년에서 23만 6천 년 전의 20구 이상의 작은 체구의 호미닌(인류의 고대 친척) 유해를 발굴했다. 라이징 스타 발굴은 이 작은 호미닌들이 비극적인 사고로 동굴에 갇혔는지, 아니면 호모 날레디라고 불리는 이 수수께끼의 종의 다른 구성원들이 의도적으로 이곳에 안치했는지에 대한 논쟁을 불러일으켰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이제 유해가 어떻게 그곳에 도착했는지를 설명해 줄 수 있는 반전이 있다: 라이징 스타의 모든 호미닌은 적어도 치아 에나멜의 단백질에 따르면 암컷이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-막스 플랑크 진화인류학 연구소의 분자 과학자 팔레사 마두페와 그녀의 동료들은 최근 라이징 스타 체계 깊숙한 네 개의 서로 다른 동굴 방에서 발굴된 23개의 호모 날레디 치아의 치아 에나멜에 있는 단백질을 분석했다. 이 23개의 치아는 첫 번째 작은 이를 가진 아기부터 수십 년간 씹어 닳은 이를 가진 노인까지 최소 20명의 다른 개체에서 나온 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-모든 샘플에는 X 염색체의 DNA에 암호화된 아멜로게닌-X(AMELX)라는 단백질이 포함되어 있었다. 그러나 Y 염색체에 암호화된 AMELY라는 남성 버전은 단 한 샘플에서도 발견되지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-유전적으로 남성인 인간의 경우, 치아 에나멜에는 일반적으로 AMELY가 AMELX의 약 10분의 1만큼 함유되어 있으며, 마두페와 동료들은 샘플의 AMELX 수준을 고려할 때 AMELY가 존재했다면 감지할 수 있었을 것이라고 말한다. 하지만 그렇지 않은 것으로 보인다. 동굴 체계에 있는 모든 단일 골격, 즉 알려진 모든 호모 날레디(인류학자들이 치아가 아닌 뼈만 발견한 경우 제외)는 유전적으로 암컷인 것으로 보인다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이것이 우연일 확률은 동전을 20번 던져 매번 같은 면이 나올 확률, 즉 마두페와 동료들에 따르면 0.0000954%와 거의 같다. 다시 말해, 비유적인 동전에는 가중치가 부여되어 있어야 한다는 뜻이다. 이 경우, 호미닌들이 의도적으로 행동했을 가능성이 크다. 예를 들어, 라이징 스타의 좁고 구불구불한 어둠 속에 죽은 자를 안장하는 것과 같은 행위 말이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이 시점에서 이것은 더 이상 우연이 아니었습니다"라고 버거(최근 연구의 공동 저자이기도 함)가 아르스 테크니카에 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-기술적으로 AMELY의 코드가 DNA에서 삭제되었을 가능성도 있다. 이는 인간에게서도 가끔 발생하며, 적어도 한 명의 네안데르탈인에게서도 발생한 적이 있다. 하지만 이는 극히 드물어서 호모 날레디의 상황을 설명하기에는 부적합하다. 라이징 스타의 죽은 호미닌들이 모두 유전적으로 암컷일 가능성이 훨씬 더 높다.
-&lt;&lt;&lt;PARA&gt;&gt;
-자연에서 대부분 암컷으로 구성된 영장류 집단을 발견하는 것은 드문 일이 아니다. 침팬지와 고릴라는 모두 거의 모든 성체가 암컷인 집단에서 산다. 그럼에도 불구하고 집단에는 필연적으로 양성의 새끼가 포함된다. 그러나 라이징 스타의 아기들조차 모두 암컷이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이 사례만큼 문화에 대한 명확한 증거를 갖는 경우는 드뭅니다"라고 위스콘신 대학의 고인류학자이자 최근 연구의 또 다른 공동 저자인 존 호크스가 아르스 테크니카에 말한다. "이를 가능하게 할 다른 과정은 존재하지 않는 것과 같습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-기술적으로는 호모 날레디가 사냥과 채집 작업을 분담했거나 심지어 어떤 종류의 의식 활동을 분담하여 암컷만이 동굴 깊숙이 들어가 길을 잃거나 갇혔을 가능성도 있다. 하지만 그들이 아이들을 데리고 갔다면, 표본의 절반을 차지하는 작은 골격들 중에서 수컷이 보여야 한다. 현재 가장 유력한 가능성은 호모 날레디가 죽은 자를 매장했다는 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-버거와 동료들은 수년 동안 이 점을 주장해 왔지만, 이제 더 많은 증거가 있다: 침팬지 크기의 뇌를 가진 호모 날레디가 죽음 이후에도 중요시되는 개인의 정체성의 일부로서 성별이라는 개념을 가지고 있었던 것으로 보인다는 점이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-단백질 분석은 호모 날레디에 대한 수많은 미해결 질문 중 하나, 즉 그들이 우리 및 호미닌 계통도의 다른 구성원들과 어떻게 관련되어 있는지에 대한 답을 제공할 희망도 제시한다. 뼈 자체는 답변보다 더 많은 질문을 제공한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-호모 날레디의 얼굴, 손, 다리는 우리와 다른 최근 호미닌과 더 비슷해 보이지만, 몸통은 유인원과 오스트랄로피테쿠스 같은 초기 호미닌과 더 비슷하다. 그들은 우리처럼 많이 걸었지만 여전히 우리보다 나무에서 더 많은 시간을 보내도록 적응되어 있었다. 그리고 그들의 뇌는 침팬지 크기이지만, 우리와 매우 비슷하게 모양이 형성되고 조직되어 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-연구에 포함된 20명의 호모 날레디 중 5명이 200만 년에서 100만 년 전에 살았던 더 이른 호미닌 친척인 파란트로푸스 로부스투스와 특정 단백질의 한 버전을 공유하는 것으로 밝혀졌다. 그리고 마두페와 동료들은 15개의 호모 날레디 치아에서 호모 날레디에게만 고유한 것으로 보이는 또 다른 단백질 버전을 발견했다. 이것만으로 호미닌 계통도를 구성하기에는 충분하지 않지만, 흥미로운 단서이며 치아의 고대 단백질이 멸종된 호미닌에 대해 더 많은 것을 밝혀낼 수 있음을 시사한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-코펜하겐 대학의 고단백질체학 연구원이자 연구의 공동 저자인 엔리코 카펠리니는 연구팀이 남아프리카의 다른 호미닌뿐만 아니라 동아프리카의 케냐, 탄자니아, 에티오피아 종들의 단백질도 시퀀싱하기를 희망한다. 이를 통해 그 단백질 변이가 실제로 호모 날레디에게만 고유한 것인지 밝혀낼 수 있으며, 그렇다면 다른 화석을 식별하는 데 사용될 수 있다. 그리고 호모 날레디의 단백질 변이를 호모 에렉투스 및 오스트랄로피테쿠스 아프리카누스와 같은 종들의 변이와 비교하면 이 모든 종들이 어떻게 관련되어 있는지 밝히는 데 도움이 될 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그것이 열망입니다. 아프리카 내외의 초기 호미닌 진화 재구성에 유용할 만큼 풍부한 분자 증거를 확보하는 것입니다"라고 카펠리니가 아르스 테크니카에 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러한 증거를 얻으려면 더 많은 종의 더 많은 호미닌을 샘플링하는 것뿐만 아니라 화석 치아를 더 깊이 절단해야 하는 샘플링의 위험을 감수해야 한다. 치아 내부의 물질인 상아질은 에나멜보다 더 많은 단백질을 함유하고 있어 더 많은 답을 제공할 수 있지만, 드물고 대체할 수 없는 화석을 손상시키는 대가를 치러야 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"현재로서는 이 결과를 발표하고 과학계의 피드백을 보고 싶었습니다"라고 카펠리니는 말한다. "그에 기초하여 추가 분석을 계속할 것입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-그 분석 중 일부는 결국 고대 DNA를 포함할 수도 있다. 과학자들은 가장 가까운 호미닌 친척인 네안데르탈인과 데니소바인의 게놈을 시퀀싱했지만, 라이징 스타의 호모 날레디 유해는 더 오래되었으며 남아프리카의 열기는 다른 유해가 발견된 곳보다 DNA를 더 빠르고 철저하게 분해한다. 10년 전, 버거의 팀은 호모 날레디 DNA를 시퀀싱하려고 시도했지만 뼈의 물질이 너무 분해되어 샘플을 얻을 수 없었다. 그 이후로 호크스는 팀이 더 잘 보존되었을 수 있는 다른 뼈를 발굴했으며 샘플링 및 시퀀싱 기술도 개선되었다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 이제 DNA 샘플링이 유망한지 평가하고 있으며, 나는 희망적입니다"라고 호크스는 말한다. "어떤 결과를 얻을지는 아직 예측할 수 없습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-한편, 모든 호모 날레디 수컷은 어디에 있을까? 호미닌은 단성생식으로 번식하는 것과는 거리가 멀기 때문에 그들은 어딘가에 분명히 존재해야 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-버거와 동료들이 이 종을 발견했을 때(그리고 2024년 단백질 분석 결과를 받기 전까지) 그들은 모든 골격이 매우 비슷해 보였기 때문에 호모 날레디의 수컷과 암컷이 우연히 크기와 체격이 매우 유사할 것이라고 가정했다. 고릴라와 같은 많은 유인원 종은 성별 간에 극적인 크기 차이가 있으며, 과학자들은 이를 성적 이형성이라고 부른다. 버거는 호모 날레디가 지금까지 본 호미닌 중 가장 성적 이형성이 낮은 종이라고 생각했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 아이디어는 이제 끝이다! "우리의 연구는 왜 호모 날레디에 상당한 변이가 부족했는지에 대한 오랜 미스터리를 해결하는 데 도움이 됩니다"라고 마두페는 연구에 관한 최근 보도자료에서 말한다. "이는 아마도 그들이 모두 한 성별에 속했기 때문일 수 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-아무도 실제로 호모 날레디 수컷이 어떻게 생겼는지 알지 못하며, 이는 몇 가지 흥미로운 가능성을 열어준다. 물론 라이징 스타 또는 다른 인근 유적지에 호모 날레디가 남성들을 안장한 방이 있을 수 있다. 하지만 호크스는 또 다른 의심을 품고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"나는 다른 유적지에서 이전에 날레디가 아니라고 배제했던 다른 화석들이 있다고 생각합니다. 어떤 경우에는 날레디보다 더 크기 때문입니다"라고 그는 말한다. "만약 수컷이 훨씬 더 크고 다르게 발달했다면, 우리가 아직 호모 날레디로 인식하지 못한 수컷이 이미 있을 수도 있습니다. 왜냐하면 우리는 작은 암컷 표본과 훨씬 더 비슷한 것을 찾고 있기 때문입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-라이징 스타 체계에서의 매장 사례는 수년 동안 논란이 되어 왔다. 도전 과제 중 하나는 우리 종이 죽은 자를 처리하는 방식의 다양성을 고려할 때 무엇이 무덤으로 간주되는지 확실히 알기 어렵다는 점이다. 죽은 자를 안장하는 것과 단순히 시신을 처리하는 것 사이의 선은 어디인가?
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 논쟁의 일부는 과학계가 다른 종(심지어 다른 호미닌)이 실제로 우리가 항상 인간을 특별하게 만든다고 생각했던 일을 한다는 증거를 받아들이는 데 매우 높은 기준을 설정하는 경향이 있기 때문이다. 호미닌은 적어도 300만 년 동안 석기 도구를 만들어 왔지만, 인류학자와 동물 행동 연구자들은 여전히 도구 제작을 예를 들어 동굴 벽에 그림을 그리거나 사후 세계를 상상하는 것과는 다른 범주의 행동으로 본다. 그리고 많은 인류학자들에게 그러한 능력(한때는 독특하게 인간적이라고 여겨졌던)을 가진 초기 호미닌은 받아들이기 어렵다.
-&lt;&lt;&lt;PARA&gt;&gt;
-네안데르탈인의 예술과 추상적 사고에 대한 논쟁은 점점 더 많은 증거가 쌓임에도 불구하고 계속되고 있다. 그리고 이러한 논쟁은 문제의 초기 호미닌이 호모 날레디처럼 상대적으로 작은 뇌(침팬지 크기)를 가질 때 더 격렬해진다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"현장에는 인간이 우리보다 앞선 문화적 종에서 진화했다고 생각하는 사람들과 문화가 현대 인간에서 시작되었다고 믿는 사람들 사이에 분열이 있습니다"라고 호크스는 말한다. "그래서 그들은 특별한 증거가 없는 한 이전의 문화에 대한 어떤 주장도 거부합니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 우리보다 앞서(그리고 때로는 겹친) 호미닌에 문화가 존재했다는 것은 더 이상 그렇게 특별한 주장이 아니다. 이는 부분적으로 네안데르탈인과 같은 다른 종의 증거 덕분이며, 부분적으로는 호모 날레디가 불을 사용했다는 것을 시사하는 라이징 스타의 다른 증거 덕분이다. 불 사용은 우리 종과 네안데르탈인이 이 선사 시대 시점까지 하고 있던 일이기도 하다. 그들은 심지어 바위에 새겨진 흔적을 남겼으며, 버거, 호크스 및 동료들은 2023년 논문에서 이를 설명했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-라이징 스타의 그 새겨진 흔적은 수개월 동안 버거의 마음속에 남아 있었다. "그 상징들은 우리를 위한 것이 아니었습니다. 그것들이 무엇을 위한 것이든, 분명히 호모 사피엔스를 위한 것은 아니었습니다"라고 그는 말한다. "그것들은 그들이 돌아오기 위한 것이거나, 그들의 후손이 돌아오기 위한 것이거나, 다른 목적을 위한 것이었지만, 우리를 위한 것은 아니었습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-"이것은 비인간 종과의 첫 접촉입니다. 그리고 반복하는 것이 중요하다고 생각합니다 – 비인간 종과의 접촉입니다. 그들의 뇌는 인간의 뇌가 아닙니다"라고 버거는 말한다. 그리고 그는 인류가 이 첫 접촉을 어떻게 대처할지에 대해 깊이 우려하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-네안데르탈인과 데니소바인은 유전적으로, 해부학적으로, 인지적으로 우리와 매우 유사했다. 그래서 일부 인류학자들은 우리가 그들을 별개의 종으로 간주해서는 안 된다고 주장하기도 한다. 그리고 다른 어떤 호미닌 종, 즉 오스트랄로피테쿠스 종들 중 어느 것도, 심지어 호모 에렉투스조차도 죽은 자를 돌보고 근처 동굴 벽에 예술이나 상징을 새겼다는 명확한 증거를 우리에게 제시하지 않았다. 다시 말해, 호모 날레디는 우리의 인지 능력과 동등한 수준으로 생각하고 느꼈을 수도 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-호모 날레디의 단백질 결과는 그 무거운 의미(죄송합니다)와 함께 버거와 그의 팀으로 하여금 동굴 체계에서의 발굴을 일시 중단하게 했지만, 실험실 분석은 계속되고 있다. 그는 이 단백질 연구가 인류학자와 호모 사피엔스 일반이 지적이고 문화적이지만 비인간인 종의 무덤을 발굴하는 윤리에 대해 진지하게 생각하도록 촉발하기를 희망한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이는 분명히 우리가 공룡처럼 호미닌을 발굴하는 것을 중단해야 한다는 것을 의미할 것입니다"라고 버거는 말한다. "나는 우리가 존중해야 할 책임이 있다고 생각하지만, 또한 현실적일 책임도 있다고 생각합니다. 이것은 스타트렉 에피소드에 더 가깝습니다. 알다시피? 그것이 인간의 문화라면 우리가 무엇을 해야 할지 알지만, 이것은 인간의 문화가 아닙니다." 첫 번째 단계는 호모 날레디와 그들의 문화에 대해 더 많이 이해하는 것이며, 이를 위해서는 더 많은 발굴과 더 많은 실험실 작업이 필요할 것이라고 그는 지적한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Cell, 2026. DOI: 10.1016/j.cell.2026.05.044 (DOI 정보).)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/neo-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 04:28:54 +0000</pubDate></item><item><title>New effort will get genome sequences for entire Endangered Species list (멸종위기종 전체 유전체 서열 분석 위한 새로운 노력)</title><link>https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-95576626-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 26 Jun 2026 21:52:39 +0000</lastBuildDate><item><title>New effort will get genome sequences for entire Endangered Species list (멸종위기종 전체 유전체 서열 분석 위한 새로운 노력)</title><link>https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-95576626-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Colossal Biosciences will be biobanking tissues from all of them as well.&lt;br/&gt;(콜로설 바이오사이언시스(Colossal Biosciences)는 모든 종의 조직을 생물은행에 보관할 예정이다.)&lt;/p&gt;
 &lt;p&gt;The US Endangered Species Act compels the government to identify species at risk of extinction and devise plans to restore populations and the habitats they depend on. It has seen some spectacular successes, such as the restoration of the bald eagle to much of its original range. But over 2,300 plant and animal populations remain on the list, requiring ongoing government intervention.&lt;br/&gt;(미국 멸종위기종법(Endangered Species Act)은 정부로 하여금 멸종 위험에 처한 종을 식별하고 개체군과 그들이 의존하는 서식지를 복원할 계획을 수립하도록 의무화한다. 이 법은 독수리가 원래 서식지의 대부분으로 복원되는 등 몇몇 놀라운 성공 사례를 보여주었다. 그러나 2,300종 이상의 식물 및 동물 개체군이 여전히 이 목록에 남아 있어 정부의 지속적인 개입이 필요하다.)&lt;/p&gt;
 &lt;p&gt;On Thursday, it was announced that all of those species would see their genomes sequenced and tissue samples preserved to aid future conservation efforts. The work will be done by a partnership between two unexpected parties. One is the US government, which has generally attempted to undercut the Endangered Species Act as part of its anti-regulatory efforts. It is joined by Colossal Biosciences, a biotech company that has a controversial take on what actually constitutes a species .&lt;br/&gt;(목요일, 이 모든 종의 유전체가 시퀀싱되고 조직 샘플이 보존되어 향후 보존 노력에 도움을 줄 것이라고 발표되었다. 이 작업은 예상치 못한 두 주체 간의 파트너십을 통해 이루어질 것이다. 하나는 반규제 정책의 일환으로 일반적으로 멸종위기종법을 약화시키려 시도해 온 미국 정부이다. 다른 하나는 실제로 종이 무엇을 구성하는지에 대해 논란의 여지가 있는 견해를 가진 생명공학 기업인 콜로설 바이오사이언시스이다.)&lt;/p&gt;
@@ -537,4 +428,60 @@ VW 대변인은 Ars에 "내부 기밀 문서에 대해 논평하지 않는다는
 &lt;p&gt;“It is unlikely that Carr would have communicated with individuals at that level. Carr would have communicated with Musk or other highly placed DOGE officials,” the filing said. Plaintiffs said a previous case involving DOGE showed that “DOGE personnel routinely conducted business on their personal phones using text messages, especially the Signal app.”&lt;br/&gt;(서면은 "카 위원장이 그 수준의 개인들과 소통했을 가능성은 낮습니다. 카 위원장은 머스크나 다른 고위 DOGE 관계자와 소통했을 것입니다"라고 밝혔다. 원고들은 이전 DOGE 관련 사건에서 "DOGE 직원들이 개인 전화기에서 문자 메시지, 특히 Signal 앱을 사용해 일상적으로 업무를 처리했다"는 사실이 드러났다고 밝혔다.)&lt;/p&gt;
 &lt;p&gt;The filing separately accused the FCC of limiting its records search to emails with FCC, DOGE, and GSA (General Services Administration) domains, despite plaintiffs’ objections. It also said that travel documents provided by the FCC did not include anything about Carr’s visits to Starlink facilities.&lt;br/&gt;(이 서면은 별도로 FCC가 원고의 반대에도 불구하고 기록 검색을 FCC, DOGE, GSA(일반서비스청) 도메인의 이메일로 제한했다고 비난했다. 또한 FCC가 제공한 여행 문서에는 카 위원장의 Starlink 시설 방문에 관한 내용이 포함되지 않았다고 밝혔다.)&lt;/p&gt;
 &lt;p&gt;We contacted the FCC today and will update this article if it provides any comment.&lt;br/&gt;(우리는 오늘 FCC에 연락했으며, 회신이 오면 이 기사를 업데이트할 예정이다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/brendan-carr-1152x648-1773688503.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 26 Jun 2026 09:51:04 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/brendan-carr-1152x648-1773688503.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 26 Jun 2026 09:51:04 +0000</pubDate></item><item><title>NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI (NYT, 마이크로소프트가 오픈AI를 위해 저작권을 침해하는 슈퍼컴퓨터를 구축했다고 비난)</title><link>https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-1024x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.&lt;br/&gt;(대법원의 소니에 대한 판결 이후, NYT가 오픈AI/마이크로소프트 저작권 주장을 변경하다.)&lt;/p&gt;
+&lt;p&gt;In a heavily redacted court filing Thursday, The New York Times proposed to amend its copyright complaint against OpenAI and Microsoft to clarify a claim and allege that Microsoft actively encouraged OpenAI to steal NYT works by building a bespoke supercomputing system ranked among the most powerful in the world.&lt;br/&gt;(목요일 공개된 대부분이 삭제된 법원 문서에서, &lt;뉴욕타임스&gt;(NYT)는 오픈AI와 마이크로소프트를 상대로 한 저작권 침해 소송을 수정하여 특정 주장을 명확히 하고, 마이크로소프트가 세계에서 가장 강력한 슈퍼컴퓨팅 시스템 중 하나를 맞춤 제작하여 NYT 저작물을 도용하도록 오픈AI를 적극적으로 부추겼다고 주장하는 내용을 포함시키려 했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+NYT의 이번 신청은 대법원이 소니가 인터넷 서비스 제공업체인 콕스 커뮤니케이션즈가 음악 불법 복제에 기여했다고 주장했지만 패소한 사건에서 콕스 측에 손을 들어주면서, 기여 침해에 대한 새로운 기준을 세운 데 따른 것입니다. 앞으로 원고는 당사자들이 불법 행위를 유도하려 의도적으로 행동했음을 입증해야 합니다. 법적 선례가 변경되었음을 인지한 NYT는 이제 소장을 수정하여 마이크로소프트에 대한 기여 침해 주장을 새로운 기준에 맞추려 하고 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"오늘 우리는 법원에 소장 수정 허가를 요청했습니다. 이는 새로운 법률과 증거 공개 과정에서 발견된 새로운 증거에 기반하여 마이크로소프트에 대한 기여 침해 주장을 명확히 함으로써 우리의 사건을 더욱 강화하기 위한 것입니다"라고 NYT 대변인 그레이엄 제임스가 Ars에 제공한 성명에서 밝혔습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+한 가지 주장을 명확히 하는 것 외에도, NYT는 모든 피고에 대한 두 가지 기여 저작권 침해 및 상표 희석 주장을 자발적으로 기각하는 데 동의했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마이크로소프트 대변인은 Ars에 이 수정된 소장을 "원고가 최근 다른 판결에서 나온 불리한 선례에서 자신의 주장을 구하려는 최후의 발악"으로 본다고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 NYT는 신청서에서 수정된 소장을 허용해도 마이크로소프트나 오픈AI 모두 불이익을 받지 않을 것이라고 주장했습니다. 법적 기준이 변경될 때 원고가 주장을 수정하는 것은 적절하며, 소송 일정에도 차질이 없을 것이라고 NYT는 주장했습니다. "타임스는 수정된 주장을 뒷받침하기 위해 추가 증거 공개를 요청하지 않기 때문입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리가 오랫동안 주장해왔듯이, 마이크로소프트는 오픈AI가 우리의 저작권이 있는 저작물을 도용하도록 적극적으로 부추겼습니다"라고 제임스가 말했습니다. "이 주장을 수정하고 사건을 가장 강력한 논점으로 간소화하는 것 외에도, 우리의 핵심 주장은 이 소송을 제기한 날과 동일합니다. 즉, 마이크로소프트와 오픈AI가 타임스의 수백만 개 저작권 저작물을 도용하여 우리 제품과 경쟁하고 불법적으로 자신을 부유하게 만들었다는 것입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+2023년, NYT는 오픈AI를 상대로 소송을 제기한 최초의 주요 언론사가 되었습니다. 이 유명 신문은 ChatGPT가 자사 기사를 불법적으로 학습했으며, 기사를 그대로 출력하여 저작권을 침해했고, ChatGPT를 NYT 구독의 대체재로 포지셔닝하여 시장 피해를 입혔으며, NYT 보도에 허위 주장을 귀속시켜 명예 훼손을 초래했다고 주장했습니다. 또한 ChatGPT가 Wirecutter 리뷰를 요약하여 출력함으로써 제휴 링크 클릭 손실로 인해 작가들의 수수료를 빼앗았다고 NYT는 주장했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+초기 소장에서 NYT는 마이크로소프트의 슈퍼컴퓨팅 시스템을 마치 일반적인 클라우드 컴퓨팅 서비스를 제공하는 것처럼 언급했습니다. 업데이트된 소장은 이 슈퍼컴퓨터가 오픈AI의 침해를 돕기 위해 맞춤 제작되었으며, 허가 없이 저작권 저작물을 학습시키는 명시적 목적으로 구축되었다고 명시하려 합니다. 그리고 NYT가 주장한 대로, 이 시스템에서 NYT 기사는 더 높은 가중치를 부여받았는데, 이는 두 회사 모두 가능한 한 최고 품질의 저널리즘으로 모델을 학습시켜 출력물에서 그 수준의 글쓰기를 자신 있게 모방할 수 있도록 하기 위함이었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 "특이하게 복잡한" 기계를 구축함으로써, 마이크로소프트는 침해된 저작물을 선택하는 데 도움을 주었을 뿐만 아니라 허가 없이 저작권 저작물을 탈취하는 수단을 제공했다고 NYT는 주장했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"마이크로소프트는 기본적으로 인터넷 전체를 사용할 목적으로 이를 특별히 설계했습니다. 특히 타임스 저작물을 불균형적으로 포함하도록 큐레이팅하여 역사상 가장 뛰어난 LLM을 훈련시키기 위해서였습니다"라고 NYT는 주장했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그리고 이제는 불공정하게 이익을 얻고 있다고 주장합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"마이크로소프트가 타임스로 훈련된 LLM을 제품 라인 전체에 배치한 것은 지난 1년간 시장 가치를 1조 달러나 끌어올리는 데 기여했습니다"라고 NYT는 주장했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+NYT에게는 증거 공개 과정에서 공유된 출력물(사용자의 ChatGPT 세션 중 상당 부분 포함)이 오픈AI와 마이크로소프트가 NYT를 대체하는 도구를 구축하여 저작권이 있는 저작물의 거의 그대로 발췌문을 생성했다는 가장 강력한 증거 중 일부로 남아 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+일부 사례에서 사용자들은 ChatGPT에게 페이월을 우회하려 한다고 말했고, "다음 단락"을 요청함으로써 기사의 상당 부분을 볼 수 있었습니다. 다른 경우에는 "모델이 그런 수작 없이도 여러 단락을 그냥 뱉어냈습니다." 대체로 인한 시장 피해를 입증하기 위해, 그들은 소장에서 나란히 비교한 예시와 침해로 의심되는 출력물의 스크린샷을 공유했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+NYT에게 이와 유사하게 문제가 되는 것은 마이크로소프트와 오픈AI 모델이 출판된 적 없는 콘텐츠에 대해 NYT를 허위로 인용하는 환각 현상입니다. 소장에는 Bing Chat이 스티브 포브스의 딸 모이라 포브스의 가짜 인용문을 인용한 사례와 ChatGPT가 오렌지 주스 섭취와 비호지킨 림프종을 연결하는 출판된 적 없는 NYT 기사를 조작한 사례가 나와 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"검색 엔진에 타임스가 어떤 주제에 대해 쓴 내용을 묻는 사용자에게는 승인되지 않은 복사본이나 부정확한 위조품이 아닌, 기사 자체에 대한 링크가 제공되어야 합니다"라고 NYT는 주장했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마이크로소프트와 오픈AI는 법원이 NYT 기사에 대한 AI 학습을 공정 사용으로 인정해주길 바라고 있습니다. Ars에 제공된 성명에서 오픈AI 대변인 드류 푸사테리는 AI 회사가 자주 반복해온 주장, 즉 저작권 저작물에 대한 AI 학습은 논란의 여지없이 공정 사용이라고 강조했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 NYT는 아마도 대체에 대한 증거가 강력하며, 이는 소송을 당한 기술 회사들에게 좋은 징조가 아닐 것으로 예상할 것입니다. 특히, AI 학습이 공정 사용이라고 판결한 초기 판결 중 하나는 원고가 시장 피해를 입증하지 못했기 때문에 명시적으로 승인되었습니다. 지난 6월, 연방 판사는 저작권 저작물에 대한 AI 학습에 반대하는 승소 가능한 주장이 무엇이라고 생각하는지 설명하면서, 공정 사용 문제가 아직 해결되지 않았다고 시사했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 사건에서 오픈AI는 "ChatGPT는 타임스 구독의 대체재가 아니다"라고 주장했습니다. NYT는 부분적으로 "그들이 자료를 다른 용도로 변형했기 때문"이라고 보도했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 NYT가 법원을 설득하여 ChatGPT의 사용이 신문의 사용과 그렇게 다르지 않다고 확신시킨다면, 가장 극단적인 결과는 오픈AI와 마이크로소프트가 모델을 삭제하고 처음부터 다시 시작하도록 요구할 수 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+NYT는 또한 향후 침해를 방지하기 위한 영구적 금지 명령과 막대한 손해 배상을 요청하면서, "피고들의 행위로 인해 그들은 소유하지 않은 저작권 저작물로부터 부당하게 이익을 얻었다"고 주장했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-1024x648.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 26 Jun 2026 11:04:55 +0000</pubDate></item><item><title>Russian citizens told “switch to Android” after Apple blocks key Russian apps (러시아 시민들, 애플이 주요 러시아 앱 차단하자 "안드로이드로 전환하라"는 지시 받아)</title><link>https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2216537000-1152x648-1782506387.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Russian government lashes out at Apple’s “bizarre” decisions.&lt;br/&gt;(러시아 정부, 애플의 "기괴한" 결정에 강력 비난.)&lt;/p&gt;
+&lt;p&gt;According to Apple’s 2025 App Store Transparency Report , Russia is the runaway world leader in one category: Demanding that Apple remove apps from its App Store.&lt;br/&gt;(애플의 2025년 앱스토어 투명성 보고서에 따르면, 러시아는 한 부문에서 세계 최고를 기록했습니다: 바로 애플에 자사 앱스토어에서 앱을 제거할 것을 요구한 것입니다.)&lt;/p&gt;
+&lt;p&gt;In 2025, Russia asked that Apple remove 1,213 apps—many of these VPN apps designed to thwart the country’s draconian Internet censorship. (Vietnam was number two, requesting that 335 apps be blocked.)&lt;br/&gt;(2025년 러시아는 애플에 1,213개의 앱 제거를 요청했으며, 이 중 대부분은 국가의 가혹한 인터넷 검열을 무력화하도록 설계된 VPN 앱이었습니다. (2위는 베트남으로, 335개 앱 차단을 요청했습니다.))&lt;/p&gt;
+&lt;p&gt;Russia is essentially trying to build a closed, spy-friendly, domestic version of the Internet. While the Russian government loves demanding app bans from Apple, it only wants bad, degenerate apps banned. It does not want good, strong Russian apps banned, such as VKontakte (a Russian version of Facebook) or the Max messaging app (state-mandated communications software so creepy that one exile publication described it with the insanely long headline, “You already know Russia’s Max messenger spies on users. You probably don’t know just how many surveillance tools it hides, including even a neural network for eavesdropping.”)&lt;br/&gt;(러시아는 본질적으로 폐쇄적이고 스파이에게 친화적인 국내판 인터넷을 구축하려 하고 있습니다. 러시아 정부는 애플에 앱 차단을 요구하는 것을 좋아하지만, 나쁘고 타락한 앱만 금지되기를 원합니다. VKontakte(러시아판 페이스북)나 Max 메시징 앱(한 망명 언론이 "당신은 이미 러시아의 Max 메신저가 사용자를 감시한다는 것을 압니다. 아마도 그것이 숨기고 있는 감시 도구가 얼마나 많은지, 심지어 도청용 신경망까지 포함한다는 사실을 모를 것입니다."라는 엄청나게 긴 제목으로 묘사한 국가 명령 통신 소프트웨어)과 같은 훌륭하고 강력한 러시아 앱이 금지되는 것을 원하지 않습니다.)&lt;/p&gt;
+&lt;p&gt;In the last few weeks, Apple has blocked both of these key apps, making them unavailable to iPhone users in Russia. Existing installs will still function, but Apple has shut down push notifications from the apps, making them far less useful. Max was blocked on in the first week of June . VKontakte was blocked on June 25 .&lt;br/&gt;(지난 몇 주 동안 애플은 이 두 핵심 앱을 모두 차단하여 러시아의 아이폰 사용자가 사용할 수 없게 만들었습니다. 기존 설치본은 계속 작동하지만, 애플은 앱의 푸시 알림을 차단하여 유용성을 크게 떨어뜨렸습니다. Max는 6월 첫째 주에 차단되었고, VKontakte는 6월 25일에 차단되었습니다.)&lt;/p&gt;
+&lt;p&gt;According to the Moscow Times , Kremlin spokesperson Dmitry Peskov said yesterday that “the Russian government expects an explanation from Apple for the removal of VK apps.”&lt;br/&gt;(모스크바 타임즈에 따르면, 크렘린궁 대변인 드미트리 페스코프는 어제 "러시아 정부는 VK 앱 제거에 대해 애플로부터 설명을 기대한다"고 말했습니다.)&lt;/p&gt;
+&lt;p&gt;VK Group, the developers of VKontakte and related services, issued its own statement complaining that “Apple has removed VK apps from the App Store without warning or explanation… VK has never been subject to sanctions nor included on sanctions lists, a fact confirmed by numerous legal opinions from international and US counsel. Apple has long been in possession of these official legal opinions and all relevant information. Nevertheless, Apple unilaterally removed VK apps without prior notice… We consider these actions by Apple regarding Russian users to be unjustified and unacceptable.” (Translation from Russian through Google Translate.)&lt;br/&gt;(VKontakte 및 관련 서비스의 개발사인 VK 그룹은 자체 성명을 통해 "애플이 사전 경고나 설명 없이 앱스토어에서 VK 앱을 제거했다... VK는 제재를 받은 적이 없으며 제재 명단에도 포함되지 않았는데, 이는 국제 및 미국 법률 자문기관의 수많은 법적 의견을 통해 확인된 사실이다. 애플은 오랫동안 이러한 공식 법적 의견과 모든 관련 정보를 보유해 왔다. 그럼에도 애플은 사전 통지 없이 일방적으로 VK 앱을 제거했다... 우리는 러시아 사용자에 대한 애플의 이러한 조치가 부당하고 용납될 수 없다고 생각한다"고 항의했습니다. (구글 번역을 통한 러시아어 번역.))&lt;/p&gt;
+&lt;p&gt;VK Group also stressed that its Android apps “remain fully functional—including updates, notifications, and other features—and are available via RuStore, Google Play, Huawei AppGallery, Samsung Store, Xiaomi Store, and official product websites.”&lt;br/&gt;(VK 그룹은 또한 자사의 안드로이드 앱이 "업데이트, 알림 및 기타 기능을 포함하여 완전히 정상 작동하며 RuStore, Google Play, Huawei AppGallery, Samsung Store, Xiaomi Store 및 공식 제품 웹사이트를 통해 이용 가능하다"고 강조했습니다.)&lt;/p&gt;
+&lt;p&gt;This appears to be the new line from the Kremlin, as well. A Russian Telegram channel that reports on Peskov’s comments quoted him yesterday as saying that Apple perhaps could not be “trusted as a commercial service provider” and that the blocks are part of a pattern of “decisions by Apple that are, to put it mildly, bizarre.” (Translation from Russian through Google Translate.)&lt;br/&gt;(이는 크렘린궁의 새로운 입장으로 보입니다. 페스코프의 발언을 보도하는 러시아 텔레그램 채널은 그가 어제 애플이 "상업 서비스 제공자로서 신뢰할 수 없을 수도 있다"며 앱 차단이 "애플의, 가볍게 말해 기괴한 결정"의 일부라고 말했다고 인용했습니다. (구글 번역을 통한 러시아어 번역.))&lt;/p&gt;
+&lt;p&gt;Still, despite the posturing, Peskov knows the score; there’s little Russia can do about the situation. So instead, he ended with an appeal to users. “There is always an immediate solution,” he said, “switch to Android, switch to our systems, switch to our equivalent service, and continue using the services you love.”&lt;br/&gt;(그럼에도 불구하고, 이런 허세에도 불구하고 페스코프는 상황을 잘 알고 있습니다. 러시아가 이 상황에 대해 할 수 있는 일은 거의 없습니다. 그래서 대신 그는 사용자에게 호소하는 말로 끝을 맺었습니다. "항상 즉각적인 해결책이 있습니다."라고 그는 말했습니다. "안드로이드로 전환하고, 우리 시스템으로 전환하고, 우리의 동등한 서비스로 전환하여 여러분이 사랑하는 서비스를 계속 사용하세요.")&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2216537000-1152x648-1782506387.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 26 Jun 2026 11:58:02 +0000</pubDate></item></channel></rss>
