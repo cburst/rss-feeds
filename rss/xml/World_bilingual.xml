@@ -1,340 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 26 Jun 2026 00:57:05 +0000</lastBuildDate><item><title>France Identifies Its First Case of Ebola (프랑스, 에볼라 첫 사례 확인)</title><link>https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html</link><description>&lt;![CDATA[&lt;p&gt;French officials on Wednesday identified the first case of Ebola in the country, saying that a doctor who had traveled to the Democratic Republic of Congo, where an outbreak began last month, had tested positive for the virus.&lt;br/&gt;(프랑스 관리들은 수요일, 지난달 발병이 시작된 콩고민주공화국을 방문한 의사가 바이러스 양성 반응을 보이며, 국내 첫 에볼라 사례를 확인했다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;The humanitarian worker was admitted to a special health care facility and is in stable condition, the health ministry said in a statement. French health workers were racing to trace anyone who may have come in contact with the doctor. Contacts will have to be isolated for 21 days and will be closely monitored, the ministry said.&lt;br/&gt;(보건부는 성명에서 인도주의 활동가가 특수 의료 시설에 입원했으며 안정적인 상태라고 전했다. 프랑스 보건 당국은 의사와 접촉했을 가능성이 있는 사람들을 추적하고 있다. 접촉자들은 21일간 격리되며 면밀히 모니터링될 것이라고 보건부는 밝혔다.)&lt;/p&gt;
-&lt;p&gt;Congo is at the center of an outbreak in central Africa that was declared on May 15, with most cases in the northeastern Ituri Province. At least 260 people have died, and there have been more than 1,000 confirmed cases in the country, according to the World Health Organization.&lt;br/&gt;(콩고는 5월 15일에 선포된 중앙아프리카 발병의 중심지로, 대부분의 사례는 북동부 이투리 주에서 발생했다. 세계보건기구에 따르면 최소 260명이 사망했으며, 국내에서 1,000건 이상의 확진 사례가 보고되었다.)&lt;/p&gt;
-&lt;p&gt;The doctor works for the Alliance for International Medical Action, an aid organization known as ALIMA that has been part of the emergency response to the outbreak, Tedros Adhanom Ghebreyesus, the director general of the W.H.O., said in a news conference. The nonprofit has helped in setting up treatment centers, he said.&lt;br/&gt;(이 의사는 ALIMA로 알려진 국제 의료 행동 연합에서 일하고 있으며, 이 단체는 발병에 대한 긴급 대응의 일부였다고 세계보건기구 사무총장 테드로스 아드하놈 게브레예수스가 기자회견에서 말했다. 그는 비영리 단체가 치료 센터 설립을 지원했다고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;“This case is a reminder of the risks faced by frontline responders,” Dr. Tedros said, adding that 82 health care workers have become ill during the outbreak.&lt;br/&gt;(“이 사례는 최일선 대응자들이 직면한 위험을 상기시켜 줍니다.”라고 테드로스 사무총장은 말하며 발병 기간 동안 82명의 의료 종사자가 병에 걸렸다고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;Dr. Tedros and the French officials did not disclose further details about the patient, including when he returned to France.&lt;br/&gt;(테드로스 사무총장과 프랑스 관리들은 환자가 프랑스로 돌아온 시기를 포함한 추가 세부 사항을 공개하지 않았다.)&lt;/p&gt;
-&lt;p&gt;ALIMA said the physician is a man who had been working in an area where the virus is circulating. The nonprofit said its work in the region would continue as it investigates how a staff member contracted the virus.&lt;br/&gt;(ALIMA는 의사가 바이러스가 유행하는 지역에서 일하고 있던 남성이라고 밝혔다. 비영리 단체는 직원이 어떻게 바이러스에 감염되었는지 조사하면서 이 지역에서의 작업을 계속할 것이라고 말했다.)&lt;/p&gt;
-&lt;p&gt;“Contamination prevention measures have been in place since the beginning of our intervention to protect our teams,” ALIMA said in a statement.&lt;br/&gt;(“우리 팀을 보호하기 위해 개입 시작 이후부터 오염 예방 조치가 시행되었습니다.”라고 ALIMA는 성명에서 밝혔다.)&lt;/p&gt;
-&lt;p&gt;Dr. Tedros warned against an “overreaction” to the discovery of cases outside of Africa, saying that the risk to the rest of the world remained low. In 50 years, fewer than 30 cases of Ebola have been detected outside the continent.&lt;br/&gt;(테드로스 사무총장은 아프리카 외부에서 사례가 발견된 것에 대한 “과잉 반응”을 경계하며, 세계 나머지 지역에 대한 위험은 여전히 낮다고 말했다. 50년 동안 아프리카 대륙 밖에서 30건 미만의 에볼라 사례가 발견되었다.)&lt;/p&gt;
-&lt;p&gt;The French health ministry said the risk of infection for the wider European population was low, citing the European Center for Disease Prevention and Control. Most of the positive cases in Congo have been in remote parts of the country, and Ebola spreads only through direct contact with the bodily fluids of a sick person.&lt;br/&gt;(프랑스 보건부는 유럽 질병 예방 통제 센터를 인용해 유럽 광범위 인구에 대한 감염 위험은 낮다고 밝혔다. 콩고의 대부분 양성 사례는 외딴 지역에서 발생했으며, 에볼라는 아픈 사람의 체액과 직접 접촉을 통해서만 퍼진다.)&lt;/p&gt;
-&lt;p&gt;ALIMA is one of several organizations rolling out clinical trials for treatment, which are set to begin next week in Congo, Dr. Tedros said. Since the outbreak was declared last month, the number of treatment beds has increased from fewer than 10 to more than 500 across 19 health centers, and daily testing has increased from 30 to more than 2,000.&lt;br/&gt;(테드로스 사무총장은 ALIMA가 다음 주 콩고에서 시작될 예정인 치료를 위한 임상 시험을 진행하는 여러 단체 중 하나라고 말했다. 지난달 발병이 선포된 이후 치료 병상 수는 10개 미만에서 19개 의료 센터에 걸쳐 500개 이상으로 증가했으며, 일일 검사는 30건에서 2,000건 이상으로 늘어났다.)&lt;/p&gt;
-&lt;p&gt;But he said the emergency response was still too slow. “Despite the good progress we have made, we still face major challenges, and the outbreak is continuing to outpace the response,” he said.&lt;br/&gt;(그러나 그는 긴급 대응이 여전히 너무 느리다고 말했다. “우리가 이룬 좋은 진전에도 불구하고 여전히 큰 도전에 직면하고 있으며, 발병이 계속해서 대응을 앞지르고 있습니다.”라고 그는 말했다.)&lt;/p&gt;
-&lt;p&gt;Before the confirmed infection in France, the only active case in Europe was an American doctor who was transferred to Germany for treatment after he contracted the virus in Congo. Dr. Peter Stafford was likely infected on May 9 while treating a woman who had a fever and severe stomach pain, according to Serge, the Christian mission organization that he works for. It was not known that the patient had Ebola when Dr. Stafford treated her. After she died and an Ebola outbreak was declared, it was presumed that she had the virus.&lt;br/&gt;(프랑스에서 확진 감염이 확인되기 전 유럽에서 유일한 활동성 사례는 콩고에서 바이러스에 감염된 후 치료를 위해 독일로 이송된 미국인 의사였다. 피터 스태퍼드 박사는 5월 9일 발열과 심한 복통을 앓던 여성을 치료하던 중 감염되었을 가능성이 있다고 그가 일하는 기독교 선교 단체 세르주가 밝혔다. 스태퍼드 박사가 그녀를 치료할 당시 환자가 에볼라에 걸린 사실은 알려지지 않았다. 그녀가 사망하고 에볼라 발병이 선포된 후, 그녀가 바이러스를 가졌던 것으로 추정되었다.)&lt;/p&gt;
-&lt;p&gt;Dr. Stafford made a full recovery and was released this month. His wife and four children were also evacuated to the same hospital, where they were monitored for 21 days and did not become sick.&lt;br/&gt;(스태퍼드 박사는 완전히 회복되어 이달에 퇴원했다. 그의 아내와 네 자녀도 같은 병원으로 대피하여 21일간 모니터링을 받았으며 병에 걸리지 않았다.)&lt;/p&gt;
-&lt;p&gt;A positive case in Europe should not be surprising as the virus continues to spread in eastern Congo, Dr. Daniela Manno, a clinical assistant professor at the London School of Hygiene and Tropical Medicine, said.&lt;br/&gt;(런던 위생 및 열대 의학 대학의 임상 조교수인 다니엘라 만노 박사는 바이러스가 동부 콩고에서 계속 퍼짐에 따라 유럽에서 양성 사례가 나오는 것은 놀라운 일이 아니라고 말했다.)&lt;/p&gt;
-&lt;p&gt;“Health care workers are particularly vulnerable because they may encounter patients in the early stages of Ebola disease, when symptoms are often nonspecific and can be mistaken for other common infections,” she said in a statement. But the risk to the general population in Europe remained low, she added, as health facilities have “well-established protocols for identifying and managing suspected cases of viral hemorrhagic fever.”&lt;br/&gt;(“의료 종사자들은 초기 증상이 비특이적이고 다른 일반 감염으로 오인될 수 있는 에볼라 질병 초기 단계의 환자를 만날 수 있기 때문에 특히 취약합니다.”라고 그녀는 성명에서 말했다. 그러나 유럽 일반 인구에 대한 위험은 여전히 낮다고 그녀는 덧붙였으며, 의료 시설에는 “바이러스성 출혈열 의심 사례를 식별하고 관리하기 위한 잘 확립된 프로토콜”이 있기 때문이다.)&lt;/p&gt;
-&lt;p&gt;The outbreak is the 17th in Congo in recent decades, and it has tested the country’s expertise and resources. The type of Ebola virus behind this outbreak, known as Bundibugyo, is rare, with no targeted vaccines or treatment.&lt;br/&gt;(이번 발병은 최근 수십 년간 콩고에서 17번째이며, 국가의 전문성과 자원을 시험하고 있다. 번디부교로 알려진 이 발병의 배후 에볼라 바이러스 유형은 드물며, 특화된 백신이나 치료법이 없다.)&lt;/p&gt;
-&lt;p&gt;Conflicts in the region have caused the forced displacement of people, creating conditions for the rapid spread of the virus.&lt;br/&gt;(이 지역의 갈등으로 인해 강제 이주가 발생하여 바이러스의 빠른 확산 조건이 만들어졌다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html</guid><pubDate>Wed, 24 Jun 2026 12:37:56 +0000</pubDate></item><item><title>Israel Says It Has Trapped Hezbollah Fighters in an Underground Complex (이스라엘, 헤즈볼라 대원들을 지하 벙커에 가둬놨다고 밝혀)</title><link>https://www.nytimes.com/2026/06/24/world/middleeast/israel-lebanon-hezbollah-fighters-tunnels.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/24/multimedia/24int-israel-lebanon-01-jfkt/24int-israel-lebanon-01-jfkt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The Israeli military says thousands of its troops have surrounded an underground Hezbollah fortress beneath the hills of southern Lebanon, trapping dozens of militants inside.&lt;br/&gt;(이스라엘군은 수천 명의 병력이 레바논 남부 언덕 아래에 있는 헤즈볼라의 지하 요새를 포위하고, 내부에 수십 명의 무장대원들을 가둬놨다고 밝혔습니다.)&lt;/p&gt;
-&lt;p&gt;The standoff is at the heart of intense clashes that have erupted in the area in recent days between U.S.-allied Israel and Iran-backed Hezbollah.&lt;br/&gt;(이 대치는 최근 며칠간 미국의 동맹국인 이스라엘과 이란의 지원을 받는 헤즈볼라 사이에 이 지역에서 발생한 격렬한 충돌의 핵심에 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 충돌들은 이미 테헤란과 워싱턴 간의 평화 협정 기본 틀을 향한 미묘한 진전을 뒤엎을 위협을 하고 있습니다. 만약 이 대치가 유혈 사태로 끝난다면, 그 협상들을 다시 방해할 수 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘-헤즈볼라 휴전과 주말 동안의 전면전 중단 이후에도, 이번 주에도 언덕에서는 특히 크파르 테브니트 마을 바로 북쪽에 있는 알리 알 타헤르라는 전략적 능선에서 교전이 계속되고 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-화요일, 이스라엘군은 군이 헤즈볼라 요원들이라고 밝힌 이들을 해당 지역에서 두 차례의 별도 작전으로 사격하여 최소 2명을 사살했습니다. 헤즈볼라는 사망자들이 민간인이라고 주장했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘 관리들은 갇힌 헤즈볼라 대원들이 식량과 물이 바닥나고 있다고 믿고 있다고 말합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-사안의 민감성으로 익명을 요구한 두 명의 레바논 고위 관리들에 따르면, 헤즈볼라는 이스라엘 국경에서 약 6마일(약 10km) 떨어진 알리 알 타헤르 능선 아래에 가장 큰 지하 시설 중 하나를 건설했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘은 이 복합 시설이 오랫동안 자국 영토에 대한 공격을 조율하고 발사하는 데 사용되어 왔다고 말합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-헤즈볼라는 논평 요청에 응답하지 않았습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 능선은 레바논 남동부의 많은 지역을 내려다보며, 수 주간 이스라엘의 공습으로 피해를 입은 나바티에 시를 포함합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-레바논
-&lt;&lt;&lt;PARA&gt;&gt;
-알리 알 타헤르
-&lt;&lt;&lt;PARA&gt;&gt;
-능선
-&lt;&lt;&lt;PARA&gt;&gt;
-레바논
-&lt;&lt;&lt;PARA&gt;&gt;
-보포르
-&lt;&lt;&lt;PARA&gt;&gt;
-성
-&lt;&lt;&lt;PARA&gt;&gt;
-나바티에
-&lt;&lt;&lt;PARA&gt;&gt;
-상세 지도
-&lt;&lt;&lt;PARA&gt;&gt;
-리타니 강
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘은
-&lt;&lt;&lt;PARA&gt;&gt;
-주민들에게
-&lt;&lt;&lt;PARA&gt;&gt;
-4월 휴전 이후
-&lt;&lt;&lt;PARA&gt;&gt;
-이곳으로 돌아오지 말라고 통보
-&lt;&lt;&lt;PARA&gt;&gt;
-타이베
-&lt;&lt;&lt;PARA&gt;&gt;
-확대된
-&lt;&lt;&lt;PARA&gt;&gt;
-출입 금지 구역
-&lt;&lt;&lt;PARA&gt;&gt;
-6월 18일 기준
-&lt;&lt;&lt;PARA&gt;&gt;
-빈트 주베일
-&lt;&lt;&lt;PARA&gt;&gt;
-나쿠라
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘
-&lt;&lt;&lt;PARA&gt;&gt;
-10마일
-&lt;&lt;&lt;PARA&gt;&gt;
-알리 알 타헤르 능선
-&lt;&lt;&lt;PARA&gt;&gt;
-보포르 성
-&lt;&lt;&lt;PARA&gt;&gt;
-레바논
-&lt;&lt;&lt;PARA&gt;&gt;
-레바논
-&lt;&lt;&lt;PARA&gt;&gt;
-나바티에
-&lt;&lt;&lt;PARA&gt;&gt;
-키암
-&lt;&lt;&lt;PARA&gt;&gt;
-리타니 강
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘은
-&lt;&lt;&lt;PARA&gt;&gt;
-주민들에게
-&lt;&lt;&lt;PARA&gt;&gt;
-4월 휴전 이후
-&lt;&lt;&lt;PARA&gt;&gt;
-이곳으로 돌아오지 말라고 통보
-&lt;&lt;&lt;PARA&gt;&gt;
-타이베
-&lt;&lt;&lt;PARA&gt;&gt;
-티레
-&lt;&lt;&lt;PARA&gt;&gt;
-티레
-&lt;&lt;&lt;PARA&gt;&gt;
-상세 지도
-&lt;&lt;&lt;PARA&gt;&gt;
-확대된
-&lt;&lt;&lt;PARA&gt;&gt;
-출입 금지 구역
-&lt;&lt;&lt;PARA&gt;&gt;
-6월 18일 기준
-&lt;&lt;&lt;PARA&gt;&gt;
-빈트 주베일
-&lt;&lt;&lt;PARA&gt;&gt;
-골란
-&lt;&lt;&lt;PARA&gt;&gt;
-고원
-&lt;&lt;&lt;PARA&gt;&gt;
-나쿠라
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘
-&lt;&lt;&lt;PARA&gt;&gt;
-6마일
-&lt;&lt;&lt;PARA&gt;&gt;
-알리 알 타헤르 능선
-&lt;&lt;&lt;PARA&gt;&gt;
-레바논
-&lt;&lt;&lt;PARA&gt;&gt;
-레바논
-&lt;&lt;&lt;PARA&gt;&gt;
-나바티에
-&lt;&lt;&lt;PARA&gt;&gt;
-보포르 성
-&lt;&lt;&lt;PARA&gt;&gt;
-키암
-&lt;&lt;&lt;PARA&gt;&gt;
-시리아
-&lt;&lt;&lt;PARA&gt;&gt;
-리타니 강
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘은
-&lt;&lt;&lt;PARA&gt;&gt;
-주민들에게
-&lt;&lt;&lt;PARA&gt;&gt;
-4월 휴전 이후
-&lt;&lt;&lt;PARA&gt;&gt;
-이곳으로 돌아오지 말라고 통보
-&lt;&lt;&lt;PARA&gt;&gt;
-타이베
-&lt;&lt;&lt;PARA&gt;&gt;
-티레
-&lt;&lt;&lt;PARA&gt;&gt;
-티레
-&lt;&lt;&lt;PARA&gt;&gt;
-상세 지도
-&lt;&lt;&lt;PARA&gt;&gt;
-확대된
-&lt;&lt;&lt;PARA&gt;&gt;
-출입 금지 구역
-&lt;&lt;&lt;PARA&gt;&gt;
-6월 18일 기준
-&lt;&lt;&lt;PARA&gt;&gt;
-골란
-&lt;&lt;&lt;PARA&gt;&gt;
-고원
-&lt;&lt;&lt;PARA&gt;&gt;
-빈트 주베일
-&lt;&lt;&lt;PARA&gt;&gt;
-나쿠라
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘
-&lt;&lt;&lt;PARA&gt;&gt;
-6마일
-&lt;&lt;&lt;PARA&gt;&gt;
-출처: 이스라엘군, 뉴욕 타임스
-&lt;&lt;&lt;PARA&gt;&gt;
-터널 복합 시설은 이스라엘이 5월 31일에 장악했다고 밝힌 전략적 언덕 위의 십자군 성인 보포르에서 북쪽으로 약 3마일(약 5km) 떨어져 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-당시 보포르 장악은 대체로 상징적인 것으로 여겨졌지만, 이스라엘군은 이것이 한 달 내내 지상 진격의 첫 단계에 불과했으며, 최종 목표는 크파르 테브니트 근처의 지하 시설을 점령하는 것이었다고 말합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘 전문가들은 이 터널 복합 시설이 이란의 도움으로 20년 이상에 걸쳐 건설되었으며, 헤즈볼라의 바드르 부대 본부 역할을 한다고 말합니다. 이 부대는 2024년 이후 레바논 남부에서 헤즈볼라의 주력 부대 중 하나로 간주됩니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이곳에서 이스라엘을 향해 미사일과 무기를 발사할 수 있습니다." 이스라엘 북부 국경의 안보 문제를 전문으로 하는 알마 연구 및 교육 센터의 사리트 제하비 소장이 말했습니다. "메툴라라는 이스라엘 국경 마을에서 10km 떨어져 있습니다."라고 그녀는 덧붙였습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘은 1982년 레바논 침공 이후 이 능선을 점령했으며, 2000년 레바논 남부에서 철수하는 동안 이스라엘이 마지막으로 떠난 지역 중 하나였습니다. 레바논 관리 중 한 명에 따르면, 이 지역의 구릉 지형 대부분은 이제 헤즈볼라가 건설한 벙커와 지하 시설로 덮여 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-안보 분석가들은 헤즈볼라가 이 지역이 리타니 강 바로 북쪽에 위치하여 유엔 레바논 평화 유지군의 기존 임무 범위 밖에 있기 때문에 해당 기반 시설을 건설하고 유지할 수 있었다고 말합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 지역은 또한 2024년 휴전 이후 리타니 강 이남 지역에 초점을 맞춘 헤즈볼라 무장 해제를 위한 레바논군의 노력 범위 밖에 있었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘과 헤즈볼라는 지난 3년 동안 두 차례의 전쟁을 치렀습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-위성 이미지는 5월 이후 알리 알 타헤르 능선에 대한 대규모 공습을 보여주며, 여기에는 과거 위성 사진이 최근 몇 년간 공사 현장을 보여준 지역도 포함됩니다. 최근 이미지는 또한 언덕 기슭의 마을이 광범위하게 파괴된 모습을 보여줍니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-6월 20일
-&lt;&lt;&lt;PARA&gt;&gt;
-N
-&lt;&lt;&lt;PARA&gt;&gt;
-알리 알 타헤르
-&lt;&lt;&lt;PARA&gt;&gt;
-능선
-&lt;&lt;&lt;PARA&gt;&gt;
-최근
-&lt;&lt;&lt;PARA&gt;&gt;
-표적 지역
-&lt;&lt;&lt;PARA&gt;&gt;
-1,000피트
-&lt;&lt;&lt;PARA&gt;&gt;
-최근
-&lt;&lt;&lt;PARA&gt;&gt;
-파괴된 건물
-&lt;&lt;&lt;PARA&gt;&gt;
-상세 지도
-&lt;&lt;&lt;PARA&gt;&gt;
-6월 20일
-&lt;&lt;&lt;PARA&gt;&gt;
-레바논
-&lt;&lt;&lt;PARA&gt;&gt;
-최근
-&lt;&lt;&lt;PARA&gt;&gt;
-표적 지역
-&lt;&lt;&lt;PARA&gt;&gt;
-상세 지도
-&lt;&lt;&lt;PARA&gt;&gt;
-알리 알 타헤르
-&lt;&lt;&lt;PARA&gt;&gt;
-능선
-&lt;&lt;&lt;PARA&gt;&gt;
-최근
-&lt;&lt;&lt;PARA&gt;&gt;
-파괴된 건물
-&lt;&lt;&lt;PARA&gt;&gt;
-500피트
-&lt;&lt;&lt;PARA&gt;&gt;
-6월 20일
-&lt;&lt;&lt;PARA&gt;&gt;
-레바논
-&lt;&lt;&lt;PARA&gt;&gt;
-상세 지도
-&lt;&lt;&lt;PARA&gt;&gt;
-최근
-&lt;&lt;&lt;PARA&gt;&gt;
-표적 지역
-&lt;&lt;&lt;PARA&gt;&gt;
-최근
-&lt;&lt;&lt;PARA&gt;&gt;
-파괴된 건물
-&lt;&lt;&lt;PARA&gt;&gt;
-알리 알 타헤르
-&lt;&lt;&lt;PARA&gt;&gt;
-능선
-&lt;&lt;&lt;PARA&gt;&gt;
-500피트
-&lt;&lt;&lt;PARA&gt;&gt;
-6월 20일
-&lt;&lt;&lt;PARA&gt;&gt;
-레바논
-&lt;&lt;&lt;PARA&gt;&gt;
-상세 지도
-&lt;&lt;&lt;PARA&gt;&gt;
-최근
-&lt;&lt;&lt;PARA&gt;&gt;
-표적 지역
-&lt;&lt;&lt;PARA&gt;&gt;
-최근
-&lt;&lt;&lt;PARA&gt;&gt;
-파괴된 건물
-&lt;&lt;&lt;PARA&gt;&gt;
-알리 알 타헤르
-&lt;&lt;&lt;PARA&gt;&gt;
-능선
-&lt;&lt;&lt;PARA&gt;&gt;
-500피트
-&lt;&lt;&lt;PARA&gt;&gt;
-출처: 에어버스 위성 이미지, 뉴욕 타임스
-&lt;&lt;&lt;PARA&gt;&gt;
-지난 5월까지만 해도 알리 알 타헤르 능선은 이스라엘이 국경에서 북쪽으로 수 마일 떨어진 레바논에 설정한 소위 완충 지대 밖에 있었습니다. 이스라엘은 지도에 노란 선으로 완충 지대를 표시하며, 이 선 남쪽의 모든 무장 전투원을 위협이자 합법적인 표적으로 간주한다고 말합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 이스라엘은 6월 18일 완충 지대를 구분 짓는 노란 선을 다시 그어, 특히 알리 알 타헤르를 포함하도록 확장했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하루 뒤, 이스라엘과 헤즈볼라 사이의 교전이 이 지역에서 격화되었으며, 대대장 중 한 명을 포함한 이스라엘 군인 4명이 탱크 폭발로 사망했습니다. 이스라엘은 일련의 공습으로 대응했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘군 대변인은 군은 병력이 지하 복합 시설에 접근함에 따라 헤즈볼라의 포격이 거세진 것이 이 지역이 헤즈볼라에게 얼마나 중요한지 증명한다고 믿는다고 말했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘 관리들은 수천 명의 병사들이 복합 시설을 포위하고 있다고 말합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-헤즈볼라 대원들에 대해 "그들이 갇혀서 어떻게 할지 고민하고 있다고 가정합니다."라고 군 대변인은 말했습니다. "우리와 싸울지, 항복할지, 아니면 휴전이나 이스라엘 철수로 인해 상황이 바뀌기를 기다릴지 말입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-이 상황은 지난 가을 가자 지구에서 휴전이 이루어진 후 수백 명의 하마스 대원들이 이스라엘 전선 뒤의 터널에 갇혔던 대치와 유사했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘은 그들의 무조건 항복을 요구했지만, 하마스는 안전한 통행을 요구했습니다. 군에 따르면, 결국 많은 수가 항복하거나 사망했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/24/world/middleeast/israel-lebanon-hezbollah-fighters-tunnels.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/24/multimedia/24int-israel-lebanon-01-jfkt/24int-israel-lebanon-01-jfkt-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Wed, 24 Jun 2026 06:46:28 +0000</pubDate></item><item><title>The Wife of Spain’s Leader Is Accused of Graft. It May Actually Help Him. (스페인 총리 부인의 뇌물 혐의, 오히려 그에게 도움이 될 수도)</title><link>https://www.nytimes.com/2026/06/24/world/europe/spain-sanchez-corruption.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/24/multimedia/24int-spain-sanchez-01-fwlq/24int-spain-sanchez-01-fwlq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Corruption cases keep piling up around Prime Minister Pedro Sánchez of Spain, targeting his political allies, associates and former ministers. Even his wife, Begoña Gómez, was set to surrender her passport on Wednesday after a judge ordered her to stand trial for corruption.&lt;br/&gt;(스페인의 페드로 산체스 총리 주변으로 정치적 동맹, 측근 및 전직 장관들을 겨냥한 부패 사건들이 끊임없이 쌓여가고 있다. 그의 아내 베고냐 고메스조차도 판사가 부패 혐의로 재판을 받도록 명령한 후 수요일에 여권을 제출해야 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-겉보기에 고메스 여사의 재판은 유럽에서 가장 오래 재임한 좌파 지도자이자 이란과 이민 문제에 대해 트럼프 대통령에게 맞서 국제적 명성을 얻은 산체스 총리에게 잠재적인 결정타가 될 수 있다. 그러나 분석가들은 생존 능력으로 유명한 총수가 아내에 대한 사건을 생명줄로 바꾸고 있다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-정부는 이 사건이 집착하는 판사에 의한 심각하게 결함이 있는 사냥 작전이며, 이 판사는 이 사건에 대한 판결에서 산체스 정부를 "절대주의 정권"에 비유했다고 주장한다. 고메스 여사는 자신이 개인적·직업적으로 연계된 회사들의 공공 계약 입찰을 지원하기 위해 영향력을 부적절하게 사용한 혐의를 받고 있다. 그녀는 이 혐의를 부인하며, 지지자들은 판사가 그녀를 희생시켜 남편을 해치려 한다고 비난했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-분석가들은 정부가 산체스 가족을 지나친 비방 작전의 피해자로 묘사함으로써 모든 사법적 물을 흐리려 한다고 말한다. 마드리드 카를로스 3세 대학의 정치학자 파블로 시몬에 따르면, 이 전술이 성공하면 이번 주 산체스의 주요 동맹에 대한 24년의 뇌물 수감형을 포함한 다른 사건들이 초래한 평판 손상을 완화할 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-시몬 씨는 "이것은 정부에 대한 전반적인 재판이라는 인식을 만듭니다. 이것이 그가 사용하려는 카드입니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-논평 요청에 대해 정부 대변인은 고메스 여사의 사건이 남편에게 정치적 레버리지를 제공했다는 제안에 정부가 경악했다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 비공식적으로 정부와 산체스 씨 당의 고위 관리들은 부인에 대한 사건이 야당의 자충수라고 말한다. 트럼프 씨와의 충돌과 마찬가지로, 부인의 재판은 그에게 열성적이지 않은 좌파 유권자들을 동원할 이슈를 제공했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-수요일 아침, 산체스 씨는 일련의 사건들로 인한 우려를 인정하면서도 정부가 부패를 근절했으며 사법부가 그 과정을 진행해야 한다고 주장했다. 그는 또한 정치적 상대들이 의도적으로 만든 "혼란"을 해소하기 위해 사건들의 "구조"를 조사할 필요가 있다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그런 다음 그는 "내 가족—아내와 형제"에 대해 제기된 사건들로 돌아갔다. 그의 형제 또한 영향력 행사 혐의로 재판을 받고 있다. 그가 "사건들은 사랑하는 사람들에게 영향을 미치고, 조금의 의심도 없이 근거 없는 비난에 기반해 있다는 것을 알기 때문에" 논의하기 어렵다고 말하자 야유가 터져 나왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-보수 야당 지도자 알베르토 누녜스 페이호는 산체스 씨 직후 연설에서 고메스 여사의 사건을 다른 사건들과 다시 묶어 전반적인 유죄 감정을 조성하려 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-페이호 씨는 "이것은 길의 요철이 아닙니다. 이것이 당신의 부패입니다"라며 새로운 선거를 요구했다. 그는 사건 목록을 읽으며 "자, 이 모든 것을 정당화할 수 있습니까? 불가능합니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-고메스 여사는 2024년부터 수사 대상이었다. 당시 반부패를 자처하는 보수 단체가 그녀에 대한 고소장을 제기했다. 판사는 지난 주말 그녀에게 횡령, 부패 및 영향력 행사 혐의로 재판을 받도록 명령했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 판사 후안 카를로스 페이나도는 사무실 밖에서 보수파들의 찬사를 받았다. 그러나 고위 정부 관리들은 그가 편향적이라고 비난했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-오스카르 푸엔테 교통부 장관은 페이나도 씨가 "어떤 수단을 써서라도 대통령 부인을 쓰러뜨리려는 건강하지 못한 집착을 가지고 있다"고 말했다. 의회의 사회당 지도자인 팍시 로페스는 그가 "판사가 되어서는 안 된다"고 말했다. 상사의 부인을 변호하는 다른 이들은 페이나도 씨 자신의 아내와 딸과 마드리드의 보수 정치인들 사이의 연결고리를 포착했다. "그것은 변칙적인 우연의 일치입니다"라고 과학혁신부 장관 디아나 모란트가 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-평론가들은 9월에 정년퇴직 연령인 72세가 되는 이 판사가 마지막 정치적 성전을 추구하고 있다고 추측했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-페이나도 씨는 논평 요청에 응하지 않았으며 다른 곳에서도 비판에 대해 언급하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-판사의 비판자들은 그의 84페이지 분량의 판결에서 결함을 찾는 것 외에도 상급 법원이 이전에 페이나도 씨의 고메스 여사에 대한 일부 조치를 근거 없음으로 기각했다는 사실을 붙잡았다. 전국 경찰 노조는 판사가 고메스 여사의 여권 압수에 대한 주장—그가 그녀를 보호하도록 배정된 경찰관들이 "그녀가 도망가는 것을 도울 수 있다"고 시사한—을 거부했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-고메스 여사와 다른 부패 사건들에 대한 긴장은 사회를 분열시켰고, 분석가들은 정치인과 사법부에 대한 공공 신뢰를 훼손했다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-시몬 씨는 법원을 둘러싼 모든 정치적 싸움이 "더 많은 양극화와 제도의 침식" 위험을 초래했다며, 그것은 "우리가 어디서나 더 많이 보고 있는 것"이라고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-카를로스 바라간이 취재에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/24/world/europe/spain-sanchez-corruption.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/24/multimedia/24int-spain-sanchez-01-fwlq/24int-spain-sanchez-01-fwlq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Wed, 24 Jun 2026 07:06:40 +0000</pubDate></item><item><title>Bahrain Restricts Shiite Holy Day Amid Iran War Crackdown (바레인, 이란 전쟁 탄압 속 시아파 성일 제한)</title><link>https://www.nytimes.com/2026/06/24/world/middleeast/bahrain-ashura-restrictions-shiite.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/23/multimedia/00int-bahrain-ashura-1-cjgq/00int-bahrain-ashura-1-cjgq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 26 Jun 2026 05:11:24 +0000</lastBuildDate><item><title>Bahrain Restricts Shiite Holy Day Amid Iran War Crackdown (바레인, 이란 전쟁 탄압 속 시아파 성일 제한)</title><link>https://www.nytimes.com/2026/06/24/world/middleeast/bahrain-ashura-restrictions-shiite.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/23/multimedia/00int-bahrain-ashura-1-cjgq/00int-bahrain-ashura-1-cjgq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The Bahraini government has imposed strict rules on how a key Shiite religious day is commemorated on Thursday, the latest measures the Gulf country has taken against its Shiite Muslim citizens amid sectarian tensions over the Iran war.&lt;br/&gt;(바레인 정부는 목요일 주요 시아파 종교일을 기념하는 방식에 엄격한 규칙을 부과했다. 이는 이란 전쟁을 둘러싼 종파적 긴장 속에서 걸프 국가가 시아파 무슬림 시민을 상대로 취한 최근 조치들 중 하나다.)&lt;/p&gt;
 &lt;p&gt;Bahrain is ruled by a Sunni Muslim monarchy, but most of its citizens are Twelver Shiites, a branch of Islam that is also Iran’s state religion.&lt;br/&gt;(바레인은 수니파 무슬림 군주제가 통치하지만, 시민 대부분은 열두 이맘파 시아파로, 이는 이란의 국교이기도 하다.)&lt;/p&gt;
 &lt;p&gt;The religious festival, Ashura, typically draws large crowds, involving processions, battle re-enactments and religious sermons. It is observed each year by Shiites worldwide on the 10th of Muharram, the first month in the Islamic calender, to honor the death of Imam Hussein, a grandson of the Prophet Muhammad.&lt;br/&gt;(종교 축제인 아슈라는 일반적으로 많은 군중을 끌어모으며, 행진, 전투 재현 및 종교 설교를 포함한다. 이는 매년 전 세계 시아파가 이슬람력 첫 번째 달인 무하람월 10일에 예언자 무함마드의 손자인 이맘 후세인의 죽음을 기리기 위해 지켜진다.)&lt;/p&gt;
@@ -640,7 +305,7 @@ N
 &lt;p&gt;In an audacious raid in January, U.S. forces captured and deposed the autocratic president, Nicolás Maduro, transporting him to the United States to face federal drug charges. President Trump handpicked Ms. Rodríguez as his successor and promised that the change would “unleash prosperity” by reviving Venezuela’s oil industry.&lt;br/&gt;(1월의 대담한 급습에서 미군은 독재 대통령 니콜라스 마두로를 체포하여 축출하고, 그를 미국으로 이송하여 연방 마약 혐의에 직면하게 했습니다. 트럼프 대통령은 로드리게스 여사를 자신의 후계자로 직접 지명했으며, 이러한 변화가 베네수엘라의 석유 산업을 부활시켜 "번영을 불러일으킬 것"이라고 약속했습니다.)&lt;/p&gt;
 &lt;p&gt;Six months on, there has been little sign of dramatic economic turnaround under Ms. Rodríguez, whose approval rating fell to 25 percent in May. Public coffers remain largely empty, leaving the government ill equipped to fund basic services.&lt;br/&gt;(6개월이 지난 지금, 로드리게스 여사 체제 하에서 극적인 경제 반전의 조짐은 거의 없으며, 그녀의 지지율은 5월에 25%로 떨어졌습니다. 공공 재정은 대부분 비어 있어 정부는 기본 서비스 자금을 조달할 여력이 거의 없습니다.)&lt;/p&gt;
 &lt;p&gt;Although the Trump administration has issued special exemptions from sanctions for companies interested in doing business in Venezuela, none has publicly committed to bringing significant capital into the country. Annual inflation is falling but remains the world’s highest, the currency has continued to decline in value, and though wages have increased, they are still too low to to lift many out of destitution.&lt;br/&gt;(트럼프 행정부가 베네수엘라에서 사업에 관심 있는 기업들을 위해 제재에 대한 특별 면제를 발행했지만, 상당한 자본을 국가에 가져오겠다고 공개적으로 약속한 기업은 없습니다. 연간 인플레이션은 하락하고 있지만 여전히 세계 최고 수준이며, 통화 가치는 계속 하락하고 있고, 임금은 인상되었지만 여전히 많은 사람들을 극빈에서 끌어올리기에는 너무 낮습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/25/multimedia/25venezuela-quake-wwk-01-pwjf/25venezuela-quake-wwk-01-pwjf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 15:40:28 +0000</pubDate></item><item><title>Venezuela Earthquakes Hammer Infrastructure, Making Aid Efforts Harder (베네수엘라 지진, 기반시설 강타…구호 활동 더욱 어려워져)</title><link>https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-infrastructure.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/24/multimedia/24venezuela-earthquake-utilities-bpqm/24venezuela-earthquake-utilities-bpqm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/25/multimedia/25venezuela-quake-wwk-01-pwjf/25venezuela-quake-wwk-01-pwjf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 17:27:09 +0000</pubDate></item><item><title>Venezuela Earthquakes Hammer Infrastructure, Making Aid Efforts Harder (베네수엘라 지진, 기반시설 강타…구호 활동 더욱 어려워져)</title><link>https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-infrastructure.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/24/multimedia/24venezuela-earthquake-utilities-bpqm/24venezuela-earthquake-utilities-bpqm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The two major earthquakes that struck Venezuela late on Wednesday hammered the country’s fragile infrastructure, raising the prospects of a high death toll and threatening to further set back the country’s recovery after years of mismanagement and corruption.&lt;br/&gt;(지난 수요일 늦은 시간 베네수엘라를 강타한 두 차례의 대규모 지진이 취약한 국가 기반시설을 강타하면서, 막대한 인명 피해 가능성이 제기되고 수년간의 잘못된 관리와 부패 이후 회복을 더욱 지연시킬 위협을 초래했습니다.)&lt;/p&gt;
 &lt;p&gt;Venezuela’s acting president, Delcy Rodríguez, said in a televised address that the quakes had caused widespread disruption to public infrastructure, especially in the capital, Caracas, and the neighboring state of La Guaira, which she said was the hardest hit. She said that there had been power outages in Caracas and La Guaira, though the electricity grid continued to function in the rest of the country.&lt;br/&gt;(베네수엘라 대행 대통령 델시 로드리게스는 대국민 연설에서 이번 지진이 특히 수도 카라카스와 인접한 라과이라 주에서 공공 기반시설에 광범위한 피해를 입혔으며, 라과이라가 가장 심각한 타격을 입었다고 밝혔습니다. 그녀는 카라카스와 라과이라에서 정전이 발생했지만, 다른 지역의 전력망은 계속 작동 중이라고 말했습니다.)&lt;/p&gt;
 &lt;p&gt;Early Thursday, no lights were on in parts of Caracas, especially in the west of the city, and streets were flooded from burst water pipes.&lt;br/&gt;(목요일 이른 시간, 카라카스 일부 지역, 특히 서부에서는 불이 전혀 켜지지 않았고, 파열된 수도관으로 인해 거리가 침수되었습니다.)&lt;/p&gt;
@@ -840,7 +505,7 @@ N
 &lt;p&gt;Ms. Rodríguez now faces a daunting task of leading a rescue and reconstruction effort by an impoverished, hollowed-out and autocratic state that she helped to create as Mr. Maduro’s right-hand lieutenant.&lt;br/&gt;(로드리게스 대행은 이제 마두로의 오른팔로서 스스로 창설에 기여한, 가난하고 속 빈 강정이며 독재적인 국가의 구호 및 재건 노력을 이끌어야 하는 막중한 임무에 직면해 있다.)&lt;/p&gt;
 &lt;p&gt;Even before the earthquake, Ms. Rodríguez had been facing growing calls to transform the country’s political system and allow new elections. These calls are now likely to intensify in a country gripped by mourning and hunger for change.&lt;br/&gt;(지진 이전에도 로드리게스 대행은 국가의 정치 체제를 바꾸고 새로운 선거를 허용하라는 요구가 커져왔다. 이러한 요구는 이제 애도와 변화에 대한 갈망에 사로잡힌 국가에서 더욱 거세질 가능성이 높다.)&lt;/p&gt;
 &lt;p&gt;Tyler Pager contributed reporting from Washington.&lt;br/&gt;(타일러 페이지가 워싱턴에서 보고에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/25/world/americas/devastating-earthquakes-will-test-venezuelas-newfound-alliance-with-us.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/25/multimedia/25venezuela-quake-us-test-topart-cbtm/25venezuela-quake-us-test-topart-cbtm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 12:02:28 +0000</pubDate></item><item><title>A ‘Deeply Ironic’ Climate Disruption ('깊은 아이러니' 기후 혼란)</title><link>https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/25/multimedia/25cli-newsletter-london-01-cvtp/25cli-newsletter-london-01-cvtp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/25/world/americas/devastating-earthquakes-will-test-venezuelas-newfound-alliance-with-us.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/25/multimedia/25venezuela-quake-us-test-topart-cbtm/25venezuela-quake-us-test-topart-cbtm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 17:06:34 +0000</pubDate></item><item><title>A ‘Deeply Ironic’ Climate Disruption ('깊은 아이러니' 기후 혼란)</title><link>https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/25/multimedia/25cli-newsletter-london-01-cvtp/25cli-newsletter-london-01-cvtp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;This week, thousands of scientists, policymakers, executives and activists have gathered in London for a week of climate events.&lt;br/&gt;(이번 주, 수천 명의 과학자, 정책 입안자, 경영진 및 활동가들이 일주일 간의 기후 행사를 위해 런던에 모였습니다.)&lt;/p&gt;
 &lt;p&gt;The climate showed up, too.&lt;br/&gt;(기후도 함께 나타났습니다.)&lt;/p&gt;
 &lt;p&gt;A heat dome has gripped much of Europe for days, sending temperatures across the continent and Britain soaring to deeply uncomfortable levels.&lt;br/&gt;(열돔이 며칠 동안 유럽 대부분을 뒤덮으며 대륙과 영국 전역의 기온을 참을 수 없을 정도로 높였습니다.)&lt;/p&gt;
@@ -1023,7 +688,7 @@ climateforward@nytimes.com으로 연락 주세요. 모든 메시지를 읽고, �
 &lt;p&gt;Have a happy weekend! — Katrin&lt;br/&gt;(즐거운 주말 보내세요! — 카트린)&lt;/p&gt;
 &lt;p&gt;Here are today’s Spelling Bee, Mini Crossword, Wordle and Sudoku. Find all our games here.&lt;br/&gt;(오늘의 스펠링 비, 미니 크로스워드, 워들, 스도쿠가 있습니다. 여기에서 모든 게임을 찾아보세요.)&lt;/p&gt;
 &lt;p&gt;We welcome your feedback. Send us your suggestions at theworld@nytimes.com.&lt;br/&gt;(여러분의 피드백을 환영합니다. theworld@nytimes.com으로 제안을 보내주세요.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/25/world/islam-middle-east-politics-venezuela-europe-heat.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/26/multimedia/26int-theworld-top-kcgl/26int-theworld-top-kcgl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 12:10:19 +0000</pubDate></item><item><title>Hoping for Miracles as Venezuela Digs Out From Massive Quakes (베네수엘라, 대규모 지진 속에서 기적을 바라며)</title><link>https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/25/multimedia/25int-venezuela-quake-mlpf/25int-venezuela-quake-mlpf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/25/world/islam-middle-east-politics-venezuela-europe-heat.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/26/multimedia/26int-theworld-top-kcgl/26int-theworld-top-kcgl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 19:51:24 +0000</pubDate></item><item><title>Hoping for Miracles as Venezuela Digs Out From Massive Quakes (베네수엘라, 대규모 지진 속에서 기적을 바라며)</title><link>https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/25/multimedia/25int-venezuela-quake-mlpf/25int-venezuela-quake-mlpf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Rescue workers and desperate residents dug for survivors in the rubble of large apartment buildings and flattened homes on Thursday after back-to-back major earthquakes struck Venezuela, a country already reeling from decades of economic and political upheaval.&lt;br/&gt;(목요일, 구조대원들과 절박한 주민들은 연속으로 발생한 강진 이후 무너진 대형 아파트 건물들과 평평해진 주택들의 잔해 속에서 생존자를 찾으며 발굴 작업을 벌였습니다. 베네수엘라는 이미 수십 년간의 경제적, 정치적 혼란으로 신음하고 있는 상황입니다.)&lt;/p&gt;
 &lt;p&gt;The Venezuelan government said that at least 188 people had been killed and more than 1,500 injured in the two quakes. The first, with a magnitude of 7.2, struck west of the capital, Caracas, on Wednesday just after 6 p.m. local time. It was followed by another, much stronger one measuring 7.5 just 39 seconds later.&lt;br/&gt;(베네수엘라 정부는 두 차례 지진으로 최소 188명이 사망하고 1,500명 이상이 부상했다고 밝혔습니다. 첫 번째 규모 7.2의 지진은 현지 시간 수요일 오후 6시 직후 수도 카라카스 서쪽에서 발생했습니다. 불과 39초 후에 7.5를 기록한 훨씬 더 강한 두 번째 지진이 뒤따랐습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -1100,7 +765,7 @@ climateforward@nytimes.com으로 연락 주세요. 모든 메시지를 읽고, �
 "그들이 나왔을 가능성은 없어요," 나바스 씨가 말했습니다. "아무 소리도 들리지 않아요. 그 안에 누군가 살아 있다면, 그것은 기적이에요."
 &lt;&lt;&lt;PARA&gt;&gt;
 보도에는 프란시스코 로블레스, 셰일라 우르다네타, 제네비에브 글래츠키, 티비사이 로메로, 파비올라 페레로, 로빈 조지 앤드루스, 에이미 그래프, 저드슨 존스, 리오 샌즈, 에드워드 웡, 존 윤이 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/25/multimedia/25int-venezuela-quake-mlpf/25int-venezuela-quake-mlpf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 12:15:16 +0000</pubDate></item><item><title>How Long Can a Person Survive Under Rubble? (사람이 잔해 아래에서 얼마나 오래 생존할 수 있을까?)</title><link>https://www.nytimes.com/2026/06/25/world/americas/earthquake-rubble-survival-venezuela-rescue.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/25/multimedia/25venezuela-quake-survival-time-bhfq/25venezuela-quake-survival-time-bhfq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/25/multimedia/25int-venezuela-quake-mlpf/25int-venezuela-quake-mlpf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 17:54:38 +0000</pubDate></item><item><title>How Long Can a Person Survive Under Rubble? (사람이 잔해 아래에서 얼마나 오래 생존할 수 있을까?)</title><link>https://www.nytimes.com/2026/06/25/world/americas/earthquake-rubble-survival-venezuela-rescue.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/25/multimedia/25venezuela-quake-survival-time-bhfq/25venezuela-quake-survival-time-bhfq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;There’s no hard and fast number detailing how long people can survive trapped in rubble after an earthquake, researchers advise.&lt;br/&gt;(연구자들은 지진 후 잔해에 갇힌 사람들이 얼마나 오래 생존할 수 있는지에 대한 정확한 수치는 없다고 말한다.)&lt;/p&gt;
 &lt;p&gt;For people who are unable to escape a building before it crumbles, the odds of survival depend on a long list of variables, including: How severe were the injuries? Is there access to food and water? How tall was the building? Can survivors breathe?&lt;br/&gt;(건물이 무너지기 전에 탈출하지 못한 사람들의 생존 확률은 부상의 심각도, 식수와 식량 접근 가능성, 건물 높이, 생존자가 숨을 쉴 수 있는지 여부 등 다양한 변수에 따라 달라진다.)&lt;/p&gt;
 &lt;p&gt;The authorities in Venezuela estimate that there could be hundreds of people still trapped under collapsed buildings following back-to-back, powerful earthquakes that struck on Wednesday. Local community organizations and emergency responders in Venezuela have been joined by families, neighbors and strangers to dig for survivors while additional rescue teams from various countries are racing to join the search.&lt;br/&gt;(베네수엘라 당국은 수요일 연속으로 발생한 강력한 지진 이후 무너진 건물 아래에 여전히 수백 명이 갇혀 있을 것으로 추정하고 있다. 베네수엘라의 지역 사회 단체와 응급 구조대에는 가족, 이웃, 낯선 사람들이 합류해 생존자를 찾기 위해 파고 있으며, 여러 국가의 추가 구조대도 수색 작업에 합류하기 위해 달려오고 있다.)&lt;/p&gt;
@@ -1143,7 +808,20 @@ MBP-134는 동물 실험에서 분디부교에 대해 효과를 보였으며, �
 만약 분디부교에 효과가 있다면, 오벨데시비르는 바이러스에 노출된 사람들을 보호하고 그들이 다른 사람에게 전염시키는 것을 막음으로써 바이러스에 대한 매우 중요한 무기를 제공할 수 있을 것이다.
 &lt;&lt;&lt;PARA&gt;&gt;
 이 임상 시험은 7월 중순에 시작될 예정이며, 1,200명이 등록될 것이다. 팔라 박사는 600명의 환자 이후 데이터 분석 결과 사람들을 보호하고 있는 것으로 나타나면, 발병 기간 동안 모든 접촉자에게 약물 접근성을 확대하는 것이 목표가 될 것이라고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/25/multimedia/25int-ebola-contact-1-jwtp/25int-ebola-contact-1-jwtp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 13:57:49 +0000</pubDate></item><item><title>Europe Is Sweltering. Here’s What That Looks Like (찜통더위에 신음하는 유럽, 그 현장은 이렇다)</title><link>https://www.nytimes.com/2026/06/24/world/europe/europe-heat-wave-photos.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/24/multimedia/24europe-heatwave-paris-02-ghvk/24europe-heatwave-paris-02-ghvk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/25/multimedia/25int-ebola-contact-1-jwtp/25int-ebola-contact-1-jwtp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 13:57:49 +0000</pubDate></item><item><title>How to Celebrate America’s 250th Birthday in the Country It Broke Up With (미국이 결별한 나라에서 250번째 생일을 축하하는 방법)</title><link>https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/24/multimedia/24trav-american-rev-britain-bjtp/24trav-american-rev-britain-bjtp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;This is the eighth article in a series about travel and the 250th anniversary of the Declaration of Independence.&lt;br/&gt;(이는 독립선언서 250주년과 여행에 관한 시리즈의 여덟 번째 기사입니다.)&lt;/p&gt;
+&lt;p&gt;In the two-and-a-half centuries since America broke free from Britain, it’s not as if the two countries have taken much space from each other. The two nations have long been staunch allies. Winston Churchill in 1944 called the bond between Britain and the United States a “special relationship,” a term that is still often used.&lt;br/&gt;(미국이 영국으로부터 독립한 지 250년이 지났지만, 두 나라는 서로에게서 큰 거리를 두지 않았습니다. 두 나라는 오랫동안 확고한 동맹국이었습니다. 윈스턴 처칠은 1944년 영국과 미국의 유대를 "특별한 관계"라고 불렀으며, 이 용어는 여전히 자주 사용됩니다.)&lt;/p&gt;
+&lt;p&gt;But on the topic of the American Revolution — or, as it is often called on the other side of the ocean, the U.S. War of Independence — the British public is not that interested, historians say.&lt;br/&gt;(그러나 미국 독립 혁명(바다 건너에서는 종종 미국 독립 전쟁이라고 불림)이라는 주제에 대해, 영국 대중은 그다지 관심이 없다고 역사가들은 말합니다.)&lt;/p&gt;
+&lt;p&gt;“It doesn’t receive the attention here it deserves,” said Tom Holland, a historian and co-host of the popular British podcast “The Rest Is History.” “That’s partly because we lost.” (British interest in U.S. history kicks back in around the assassination of President John F. Kennedy, he said.)&lt;br/&gt;(인기 있는 영국 팟캐스트 "The Rest Is History"의 공동 진행자이자 역사가인 톰 홀랜드는 "여기서는 이 주제가 마땅히 받아야 할 관심을 받지 못합니다. 부분적으로는 우리가 졌기 때문이죠."라고 말했습니다. (그에 따르면 영국의 미국사에 대한 관심은 존 F. 케네디 대통령 암살 즈음에 다시 살아납니다.))&lt;/p&gt;
+&lt;p&gt;“Had Britain won the war,” Mr. Holland said, “you can imagine America being a little more like Canada.”&lt;br/&gt;(홀랜드는 "영국이 전쟁에서 이겼다면, 미국이 캐나다와 좀 더 비슷했을 거라고 상상할 수 있습니다."라고 말했습니다.)&lt;/p&gt;
+&lt;p&gt;Still, remnants of the American Revolution can be found all over the city, including Benjamin Franklin’s living room and an original 1776 print of the Declaration of Independence.&lt;br/&gt;(그럼에도 불구하고, 도시 곳곳에서 미국 독립 혁명의 흔적을 찾을 수 있으며, 여기에는 벤저민 프랭클린의 거실과 1776년에 인쇄된 독립선언서 원본이 포함됩니다.)&lt;/p&gt;
+&lt;p&gt;We are having trouble retrieving the article content.&lt;br/&gt;(기사 내용을 불러오는 데 문제가 있습니다.)&lt;/p&gt;
+&lt;p&gt;Please enable JavaScript in your browser settings.&lt;br/&gt;(브라우저 설정에서 자바스크립트를 활성화해 주세요.)&lt;/p&gt;
+&lt;p&gt;Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.&lt;br/&gt;(접근을 확인하는 동안 기다려 주셔서 감사합니다. 리더 모드인 경우 종료하고 Times 계정에 로그인하거나, Times의 모든 콘텐츠를 이용하려면 구독해 주세요.)&lt;/p&gt;
+&lt;p&gt;Thank you for your patience while we verify access.&lt;br/&gt;(접근을 확인하는 동안 기다려 주셔서 감사합니다.)&lt;/p&gt;
+&lt;p&gt;Already a subscriber? Log in.&lt;br/&gt;(이미 구독자이신가요? 로그인하세요.)&lt;/p&gt;
+&lt;p&gt;Want all of The Times? Subscribe.&lt;br/&gt;(Times의 모든 콘텐츠를 원하시나요? 구독하세요.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/24/multimedia/24trav-american-rev-britain-bjtp/24trav-american-rev-britain-bjtp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 25 Jun 2026 19:05:11 +0000</pubDate></item><item><title>Europe Is Sweltering. Here’s What That Looks Like (찜통더위에 신음하는 유럽, 그 현장은 이렇다)</title><link>https://www.nytimes.com/2026/06/24/world/europe/europe-heat-wave-photos.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/24/multimedia/24europe-heatwave-paris-02-ghvk/24europe-heatwave-paris-02-ghvk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The commuters who clutched hand-held fans as they trudged through stiflingly hot London underground stations found little relief on Wednesday. Parisians dangled their legs in public fountains, desperate for a way to cool down. In Vatican City, sweat beaded on the foreheads of people gathered for a papal audience in St. Peter’s Square.&lt;br/&gt;(수요일, 손부채를 쥐고 런던 지하철의 숨 막히는 더위 속에서 발걸음을 옮기던 통근자들은 좀처럼 시원함을 찾지 못했다. 파리에서는 사람들이 공공 분수대에 다리를 담그며 더위를 식히려 애썼다. 바티칸 시국의 성 베드로 광장에서는 교황 알현을 기다리던 이들의 이마에 땀방울이 맺혔다.)&lt;/p&gt;
 &lt;p&gt;Extreme heat is becoming Europe’s new summer normal, even in parts of the region, like Britain, where it was once a rarity. Countries ill-equipped to deal with the soaring temperatures are struggling to cope, with aging infrastructure and a scarcity of air-conditioning. Across the continent, the heat is upending daily life.&lt;br/&gt;(극심한 더위는 이제 유럽의 새로운 여름 일상이 되고 있으며, 한때는 드문 현상이었던 영국 같은 지역에서조차 그러하다. 급격히 치솟는 기온에 대비가 안 된 나라들은 노후화된 인프라와 부족한 에어컨으로 인해 대처에 어려움을 겪고 있다. 유럽 전역에서 이 더위는 일상을 뒤엎고 있다.)&lt;/p&gt;
 &lt;p&gt;Record temperatures were documented in a number of places this week. As the mercury climbed steadily higher on Wednesday, train cancellations caused travel chaos for some, shuttered schools early and caused some hospitals in England to cancel elective procedures.&lt;br/&gt;(이번 주 여러 곳에서 기록적인 기온이 관측됐다. 수요일 수은주가 꾸준히 오르자 기차 운행이 중단돼 일부 여행객은 혼란을 겪었고, 학교들은 일찍 문을 닫았으며, 잉글랜드의 일부 병원은 선택적 수술을 연기했다.)&lt;/p&gt;
