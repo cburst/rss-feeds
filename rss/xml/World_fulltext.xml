@@ -1,5 +1,147 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/World_fulltext.xml</link><description>Full-text NYT World articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/World_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 02 Jul 2026 17:58:01 +0000</lastBuildDate><item><title>Aid Workers Fear Disease Outbreaks in Venezuela After Quakes</title><link>https://www.nytimes.com/2026/06/30/world/americas/venezuela-disease-outbreaks.html</link><description>&lt;![CDATA[
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/World_fulltext.xml</link><description>Full-text NYT World articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/World_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 02 Jul 2026 20:07:22 +0000</lastBuildDate><item><title>After U.S.-Iran War, Oman Said to Propose Hormuz Fee Plan</title><link>https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/30/multimedia/00int-Oman-Hormuz-01-fmgc/00int-Oman-Hormuz-01-fmgc-facebookJumbo.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;Iran and U.S.-allied Oman are moving forward with plans to collect payment for ships transiting the Strait of Hormuz, despite public American objections, according to an Iranian official and four diplomats with knowledge of the matter.&lt;/p&gt;
+&lt;p&gt;If enacted, the plans would be a significant change from the prewar status in the strategic waterway, underscoring how the American-Israeli decision to attack Iran on Feb. 28 has changed the Middle East in far-reaching and unanticipated ways.&lt;/p&gt;
+&lt;p&gt;Before the war, the Strait of Hormuz was an international shipping route between Iran and Oman that vessels sailed through free, carrying oil and gas from the Persian Gulf to the rest of the world. During the fighting, Iran effectively blockaded the waterway, an important choke point for global trade, sending energy prices skyrocketing.&lt;/p&gt;
+&lt;p&gt;Since then, Iranian officials have repeatedly declared their intentions to monetize the strait.&lt;/p&gt;
+&lt;p&gt;Oman recently delivered a formal proposal to the United States and other Western allies that outlined a plan in which shipping companies would pay service fees to use the strait, according to the Iranian official and a regional diplomat.&lt;/p&gt;
+&lt;p&gt;The risk of mines near the central route, long used by commercial ships, has forced ships to take alternative paths: a southern route near Oman or a northern route near Iran.&lt;/p&gt;
+&lt;p&gt;Iran&lt;/p&gt;
+&lt;p&gt;Strait of&lt;/p&gt;
+&lt;p&gt;Hormuz&lt;/p&gt;
+&lt;p&gt;Iranian&lt;/p&gt;
+&lt;p&gt;routes&lt;/p&gt;
+&lt;p&gt;Mine&lt;/p&gt;
+&lt;p&gt;danger area&lt;/p&gt;
+&lt;p&gt;Oman&lt;/p&gt;
+&lt;p&gt;Omani&lt;/p&gt;
+&lt;p&gt;routes&lt;/p&gt;
+&lt;p&gt;Pre-war&lt;/p&gt;
+&lt;p&gt;routes&lt;/p&gt;
+&lt;p&gt;Omani&lt;/p&gt;
+&lt;p&gt;waters&lt;/p&gt;
+&lt;p&gt;Iranian&lt;/p&gt;
+&lt;p&gt;waters&lt;/p&gt;
+&lt;p&gt;Emirati&lt;/p&gt;
+&lt;p&gt;waters&lt;/p&gt;
+&lt;p&gt;U.A.E.&lt;/p&gt;
+&lt;p&gt;Gulf of&lt;/p&gt;
+&lt;p&gt;Oman&lt;/p&gt;
+&lt;p&gt;Persian&lt;/p&gt;
+&lt;p&gt;Gulf&lt;/p&gt;
+&lt;p&gt;Iran&lt;/p&gt;
+&lt;p&gt;Strait of&lt;/p&gt;
+&lt;p&gt;Hormuz&lt;/p&gt;
+&lt;p&gt;Iranian&lt;/p&gt;
+&lt;p&gt;routes&lt;/p&gt;
+&lt;p&gt;Mine&lt;/p&gt;
+&lt;p&gt;danger area&lt;/p&gt;
+&lt;p&gt;Pre-war&lt;/p&gt;
+&lt;p&gt;routes&lt;/p&gt;
+&lt;p&gt;Oman&lt;/p&gt;
+&lt;p&gt;Omani&lt;/p&gt;
+&lt;p&gt;routes&lt;/p&gt;
+&lt;p&gt;Omani&lt;/p&gt;
+&lt;p&gt;waters&lt;/p&gt;
+&lt;p&gt;Persian&lt;/p&gt;
+&lt;p&gt;Gulf&lt;/p&gt;
+&lt;p&gt;Iranian&lt;/p&gt;
+&lt;p&gt;waters&lt;/p&gt;
+&lt;p&gt;Emirati&lt;/p&gt;
+&lt;p&gt;waters&lt;/p&gt;
+&lt;p&gt;U.A.E.&lt;/p&gt;
+&lt;p&gt;Gulf of&lt;/p&gt;
+&lt;p&gt;Oman&lt;/p&gt;
+&lt;p&gt;Iran&lt;/p&gt;
+&lt;p&gt;Strait of&lt;/p&gt;
+&lt;p&gt;Hormuz&lt;/p&gt;
+&lt;p&gt;Iranian&lt;/p&gt;
+&lt;p&gt;routes&lt;/p&gt;
+&lt;p&gt;Mine&lt;/p&gt;
+&lt;p&gt;danger area&lt;/p&gt;
+&lt;p&gt;Pre-war&lt;/p&gt;
+&lt;p&gt;routes&lt;/p&gt;
+&lt;p&gt;Oman&lt;/p&gt;
+&lt;p&gt;Omani&lt;/p&gt;
+&lt;p&gt;routes&lt;/p&gt;
+&lt;p&gt;Omani&lt;/p&gt;
+&lt;p&gt;waters&lt;/p&gt;
+&lt;p&gt;Persian&lt;/p&gt;
+&lt;p&gt;Gulf&lt;/p&gt;
+&lt;p&gt;Iranian&lt;/p&gt;
+&lt;p&gt;waters&lt;/p&gt;
+&lt;p&gt;Emirati&lt;/p&gt;
+&lt;p&gt;waters&lt;/p&gt;
+&lt;p&gt;U.A.E.&lt;/p&gt;
+&lt;p&gt;Gulf of&lt;/p&gt;
+&lt;p&gt;Oman&lt;/p&gt;
+&lt;p&gt;Iran&lt;/p&gt;
+&lt;p&gt;Strait of&lt;/p&gt;
+&lt;p&gt;Hormuz&lt;/p&gt;
+&lt;p&gt;Iranian&lt;/p&gt;
+&lt;p&gt;routes&lt;/p&gt;
+&lt;p&gt;Mine&lt;/p&gt;
+&lt;p&gt;danger area&lt;/p&gt;
+&lt;p&gt;Oman&lt;/p&gt;
+&lt;p&gt;Omani&lt;/p&gt;
+&lt;p&gt;routes&lt;/p&gt;
+&lt;p&gt;Pre-war&lt;/p&gt;
+&lt;p&gt;routes&lt;/p&gt;
+&lt;p&gt;Omani&lt;/p&gt;
+&lt;p&gt;waters&lt;/p&gt;
+&lt;p&gt;Iranian&lt;/p&gt;
+&lt;p&gt;waters&lt;/p&gt;
+&lt;p&gt;Emirati&lt;/p&gt;
+&lt;p&gt;waters&lt;/p&gt;
+&lt;p&gt;U.A.E.&lt;/p&gt;
+&lt;p&gt;Persian&lt;/p&gt;
+&lt;p&gt;Gulf&lt;/p&gt;
+&lt;p&gt;Gulf of&lt;/p&gt;
+&lt;p&gt;Oman&lt;/p&gt;
+&lt;p&gt;Sources: U.N. International Maritime Organization (pre-war routes); Persian Gulf Strait Authority (Iranian routes); Joint Maritime Information Center (Omani routes and mine danger area); Marine Regions (maritime boundaries). Adina Renner/The New York Times&lt;/p&gt;
+&lt;p&gt;A person familiar with the U.S. position said that American negotiators had received the Omani proposal and had concerns that they intended to discuss with Omani officials. That person and the regional diplomat both said that the proposal mentions voluntary fees, rather than a mandatory toll. The officials and diplomats cited in this article all spoke on the condition of anonymity to discuss sensitive diplomacy.&lt;/p&gt;
+&lt;p&gt;The future of the strait remains a central issue in talks between the United States and Iran to hammer out a lasting peace agreement.&lt;/p&gt;
+&lt;p&gt;Oman’s proposal is partly modeled on arrangements in the Straits of Malacca and Singapore, an Asian waterway where a private foundation collects voluntary contributions for safe navigation, the regional diplomat said.&lt;/p&gt;
+&lt;p&gt;Any fees in the Strait of Hormuz would be voluntary, the diplomat said. The Iranian official, however, said that the payments would be obligatory.&lt;/p&gt;
+&lt;p&gt;On Monday, Iran’s deputy foreign minister, Kazem Gharibabadi, said that Tehran’s priority was to come to an agreement with Oman. But if Oman is unwilling to establish a joint framework for managing the waterway, Iran will move forward on its own, he said, according to remarks carried by Iranian state television.&lt;/p&gt;
+&lt;p&gt;Oman, a sultanate in the southeastern tip of the Arabian Peninsula, has long cultivated a reputation for neutrality, serving as a mediator between the United States and Iran. The country has found itself engaging in an increasingly difficult balancing act as the war inflames regional tensions.&lt;/p&gt;
+&lt;p&gt;After news initially emerged in May that Oman had discussed partnering with Iran to charge service fees in the strait, President Trump threatened to bomb Oman if it did not “behave just like everybody else.”&lt;/p&gt;
+&lt;p&gt;As recently as last week, Mr. Trump called the idea of collecting tolls or fees for passage through the strait “unacceptable.”&lt;/p&gt;
+&lt;p&gt;It was not immediately clear whether the Trump administration would be willing to go along with voluntary service fees.&lt;/p&gt;
+&lt;p&gt;A framework peace agreement signed by the United States and Iran this month, which stopped the war, addressed the Strait of Hormuz, ensuring “the safe passage of commercial vessels with no charge,” but only for a period of 60 days while negotiations to define specifics carried on.&lt;/p&gt;
+&lt;p&gt;The agreement stipulated that Iran and Oman should start a “dialogue” about what happens in the shipping route after that.&lt;/p&gt;
+&lt;p&gt;The person familiar with the U.S. position said that the American negotiating team valued its partnership with Oman and was confident that they could resolve differences over the Omani proposal at the technical level.&lt;/p&gt;
+&lt;p&gt;The struggle over the future of Hormuz highlights the challenges Omani officials face as they find their country and waterways embroiled in a conflict that they had desperately tried to avert.&lt;/p&gt;
+&lt;p&gt;What happens in the strait is “a matter of urgent national security for them,” said Anna Jacobs, a New York-based nonresident fellow at the Arab Gulf States Institute.&lt;/p&gt;
+&lt;p&gt;“They are taking a longer view of the conflict and regional security and are focused on how to keep Iran at the table,” she added.&lt;/p&gt;
+&lt;p&gt;Three European diplomats said that, initially, Omani officials had portrayed their efforts as an attempt to find a backup plan to try to facilitate the flow of maritime trade if the conflict continued.&lt;/p&gt;
+&lt;p&gt;Although European countries are displeased with the idea of the fees, they are now focused on making sure it is at least done in a way that does not violate international law, the diplomats said. Voluntary fees could satisfy that requirement.&lt;/p&gt;
+&lt;p&gt;“Call it voluntary if you like — Hormuz was completely open before this war, and now it isn’t,” said H.A. Hellyer, a senior associate fellow at the Royal United Services Institute, a research organization in London. “That is not Oman’s doing, they never wanted this. All this hassle is part of Washington’s bill for starting an ill-advised war.”&lt;/p&gt;
+&lt;p&gt;The Trump administration has defended its decision to enter the war, during which Iran was able to exert control over the strait for months, discovering a potent way to disrupt the global economy and pressure Mr. Trump. Iran’s actions pushed the price of crude oil well above $100 a barrel and increased fuel prices for American consumers.&lt;/p&gt;
+&lt;p&gt;Secretary of State Marco Rubio told reporters in Bahrain last week that the United States would oppose any scenario in which use of the strait was monetized, regardless of whether it was called “a fee or a toll or a donation.”&lt;/p&gt;
+&lt;p&gt;“We need to get back to what the straits looked like before this conflict,” he said.&lt;/p&gt;
+&lt;p&gt;But analysts say that Iran’s newfound power to disrupt traffic through a waterway is critical leverage that it cannot afford to lose.&lt;/p&gt;
+&lt;p&gt;Iran’s foreign minister, Abbas Araghchi, told state television this month that the Strait of Hormuz would not return to its prewar status, when passage was free.&lt;/p&gt;
+&lt;p&gt;Mehdi Mohammadi, a senior adviser to Gen. Mohammad Bagher Ghalibaf, Iran’s lead negotiator with the United States, said on his social media page that terminology did not matter to Iran “whether you call it tolls, service fees for security or naval passage.”&lt;/p&gt;
+&lt;p&gt;“There is no free service anywhere in the world,” he said.&lt;/p&gt;
+&lt;p&gt;Last week, Oman and the International Maritime Organization designated a safe route that passed only through Omani territorial waters.&lt;/p&gt;
+&lt;p&gt;Iran responded by attacking a cargo ship in the strait. The International Maritime Organization, a U.N. agency, then halted an effort to evacuate hundreds of stranded ships in the waterway.&lt;/p&gt;
+&lt;p&gt;The flare-up in tensions threatened to derail the nascent recovery of shipping in the area.&lt;/p&gt;
+&lt;p&gt;Mr. Gharibabadi said that Iran and Oman would start talks during the next week to discuss arrangements for the strait, including the collection of fees from passing ships and changes to existing shipping routes, according to remarks carried by Iranian state television on Monday.&lt;/p&gt;
+&lt;p&gt;Oman publicly has been more opaque about its plans. The country’s foreign minister, Badr al-Busaidi, has rejected the idea of charging fees to merely transit the strait, saying that would be illegal. But he has drawn a distinction between “transit fees” versus fees for services provided by the countries along the strait.&lt;/p&gt;
+&lt;p&gt;Mr. al-Busaidi said in an interview on Sunday with Monte Carlo Doualiya, an Arabic-language radio station, that the responsibilities for keeping the strait’s waters safe and pollution-free while responding to periodic shipping emergencies “undoubtedly cost money.”&lt;/p&gt;
+&lt;p&gt;“All we are saying is that perhaps we can benefit from some existing experiences, on a voluntary basis, between the countries concerned with this matter,” he added in the interview.&lt;/p&gt;
+&lt;p&gt;He mentioned the precedent set in the Straits of Malacca and Singapore. There, a private Japanese foundation manages voluntary contributions from governments, companies and industry associations to facilitate safe navigation through the strait.&lt;/p&gt;
+&lt;p&gt;Arsenio Domínguez, secretary general of the International Maritime Organization, which regulates global shipping, has said that tolls or any system that interferes with the principle of freedom of navigation through international waterways would not be in accordance with international law. But on Monday, in an interview, he said a voluntary fund for the Strait of Hormuz could be feasible.&lt;/p&gt;
+&lt;p&gt;He has had conversations with Omani officials about “management of the strait,” including discussions about the arrangement in the Straits of Malacca and Singapore, he said.&lt;/p&gt;
+&lt;p&gt;“It’s learning from something that already exists, that is being tested,” he noted.&lt;/p&gt;
+&lt;p&gt;The goal is to find practical solutions to the crisis brought on by the war, he said, adding that he planned to discuss different options with the organization’s member states “to see what is viable.”&lt;/p&gt;
+&lt;p&gt;The Omani proposal is likely to be contentious among other Gulf Arab countries, which rely on the Strait of Hormuz to export oil and gas.&lt;/p&gt;
+&lt;p&gt;Speaking at an event organized this month by the European Council on Foreign Relations, Saudi Arabia’s foreign minister, Prince Faisal bin Farhan, said that the Strait of Hormuz “must return to the status quo before the war.”&lt;/p&gt;
+&lt;p&gt;“Why should we now, as a result of a conflict, accept some novel arrangement that is going to be imposed on it?” he asked.&lt;/p&gt;
+&lt;p&gt;Ismaeel Naar and Jenny Gross contributed reporting.&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html</guid><pubDate>Thu, 02 Jul 2026 09:39:52 +0000</pubDate></item><item><title>Aid Workers Fear Disease Outbreaks in Venezuela After Quakes</title><link>https://www.nytimes.com/2026/06/30/world/americas/venezuela-disease-outbreaks.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/30/multimedia/30int-Venezuela-Sanitation-cmvl/30int-Venezuela-Sanitation-cmvl-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;As the window of opportunity shrank in the search for earthquake survivors trapped under rubble in Venezuela, relief efforts on Tuesday began to focus on the longer-term ripple effects of disaster that are often less reported.&lt;/p&gt;
 &lt;p&gt;One of the most pressing consequences is the destruction of what little infrastructure for clean water existed in affected areas, raising the risk of contamination and the spread of illnesses like cholera and typhoid fever.&lt;/p&gt;
@@ -18,35 +160,7 @@
 &lt;p&gt;Without urgent efforts to detect infections and establish access to clean water, Dr. Scott said, outbreaks could “progress pretty quickly.”&lt;/p&gt;
 &lt;p&gt;The Spanish Red Cross plans to establish a clinic in La Guaira in the coming weeks to watch for outbreaks and provide mental health services for survivors. Ms. Arroyo expects the clinic to operate “nonstop” for the next four months or more.&lt;/p&gt;
 &lt;p&gt;“The end of the search-and-rescue phase,” she said, “is not the end of the disaster. It’s just the beginning.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/30/world/americas/venezuela-disease-outbreaks.html</guid><pubDate>Thu, 02 Jul 2026 06:29:24 +0000</pubDate></item><item><title>Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast</title><link>https://www.nytimes.com/2026/07/01/world/middleeast/syria-trump-hezbollah-lebanon.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/29/multimedia/29int-Syria-Lebanon-01-jmfk/29int-Syria-Lebanon-01-jmfk-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;When the Israel-Hezbollah conflict in Lebanon was threatening to unravel the U.S.-Iran peace deal, President Trump repeatedly floated an idea that took many in the region by surprise.&lt;/p&gt;
-&lt;p&gt;Neighboring Syria, whose relatively new government is no friend to Hezbollah, could help subdue the Iran-backed Lebanese militia.&lt;/p&gt;
-&lt;p&gt;The proposal revived bitter memories in Lebanon, which the Syrian military occupied for nearly three decades. It also baffled Syrians, whose government has made clear over and over again that it has no interest in meddling in its neighbors’ affairs or entering into more wars.&lt;/p&gt;
-&lt;p&gt;President Ahmed al-Sharaa reiterated that stance last week, rebuffing the notion that his U.S.-allied government was preparing to intervene militarily in Lebanon.&lt;/p&gt;
-&lt;p&gt;A solution for Lebanon that involves Syria “does not mean war and does not mean the old image of Syrian tutelage over Lebanon under the former regime,” Mr. al-Sharaa said in an interview on al-Mashhad TV, a Pan-Arab network based in Dubai. “We tried war, and we do not wish it on anyone.”&lt;/p&gt;
-&lt;p&gt;His stance reflects the geopolitical sea change that came with the toppling of President Bashar al-Assad by Mr. al-Sharaa’s rebel coalition in December 2024.&lt;/p&gt;
-&lt;p&gt;For decades under the Assad regime, Syria was a close ally of Iran and by extension its Lebanese proxy militia, Hezbollah. The country served as the main overland route through which Iran supplied Hezbollah with weapons and funds. In return, Hezbollah deployed its fighters to help the Assad government fight rebel forces during Syria’s nearly 14-year civil war.&lt;/p&gt;
-&lt;p&gt;The ouster of Mr. al-Assad changed that.&lt;/p&gt;
-&lt;p&gt;The rebels whom Hezbollah had spent years fighting in Syria were suddenly in power in Damascus. The group’s land bridge to its patron Iran was severed. And its most powerful ally aside from Tehran was gone.&lt;/p&gt;
-&lt;p&gt;Since taking power, Mr. al-Sharaa’s government has made it clear that it is no friend to Iran or its proxies in the region, including Hezbollah.&lt;/p&gt;
-&lt;p&gt;The Syrian Ministry of Interior has arrested people it suspects of being connected to Hezbollah, cracked down on cross-border smuggling and accused Hezbollah-linked groups of plotting attacks inside Syria. Hezbollah has denied those claims.&lt;/p&gt;
-&lt;p&gt;That animosity has probably contributed to the idea in Mr. Trump’s orbit of a Syrian intervention in Lebanon, analysts say. Mr. Trump has floated the idea repeatedly over the past two weeks as his frustration with Israel’s war in Lebanon has grown.&lt;/p&gt;
-&lt;p&gt;“I’d like to see a more surgical attack on Hezbollah,” Mr. Trump said in an interview with NBC News this month, adding, “We can help them with that, or we can recommend Syria.”&lt;/p&gt;
-&lt;p&gt;“Israel is fighting Hezbollah too long, and too many people are being killed,” Mr. Trump said at the Group of 7 summit in France days later, adding that “if Israel can’t do the job without killing everyone else,” Syria will.&lt;/p&gt;
-&lt;p&gt;The suggestion was Mr. Trump’s latest vote of confidence in Mr. al-Sharaa’s government. Over the past year, the Syrian government has cultivated close ties with the United States, winning sanctions relief and praise from Mr. Trump.&lt;/p&gt;
-&lt;p&gt;The United States also has close ties to Lebanon and is a leading supplier of military aid to the country.&lt;/p&gt;
-&lt;p&gt;“The U.S. is likely pressuring Syria into getting involved in Lebanon because successive U.S. administrations have viewed Lebanon and Syria as part of the same Levant file,” said Lina Khatib, a Middle East and North Africa fellow at Chatham House, a think tank. “And because both those countries’ governments are dependent on the U.S. politically.”&lt;/p&gt;
-&lt;p&gt;The proposal has raised alarm across the region.&lt;/p&gt;
-&lt;p&gt;Within Lebanon, it has stoked fears of repeating recent history. Syrian forces entered Lebanon in 1976 as part of an Arab peacekeeping force soon after the start of the Lebanese civil war. Syria subsequently occupied Lebanon for 29 years, during which it dominated Lebanon’s political and economic life. Its last forces pulled out in 2005, leaving behind anger and bitterness over its human rights abuses and interference in the country’s politics.&lt;/p&gt;
-&lt;p&gt;Syrian intervention could also expand the country’s influence in the region and by extension the influence of its ally Turkey — a prospect that analysts say could alarm Israel, which sees Turkey as a foe.&lt;/p&gt;
-&lt;p&gt;Even for Syria, the notion of fighting an old enemy in neighboring Lebanon has little appeal as its government works to consolidate its power and authority within its borders.&lt;/p&gt;
-&lt;p&gt;Having emerged from a brutal and fractious civil conflict, the country and its leaders are still struggling to rebuild both homes and infrastructure and a society divided along numerous fault lines, including sectarian ones.&lt;/p&gt;
-&lt;p&gt;“Getting Syria to intervene in Lebanon to help disarm Hezbollah is a recipe for destabilization in both countries,” Ms. Khatib said. “If Syrian troops enter Lebanon, this will spark sectarian tensions in the country and undermine the authority of the Lebanese government.”&lt;/p&gt;
-&lt;p&gt;Hezbollah might also try to retaliate by stirring trouble inside Syria, she added.&lt;/p&gt;
-&lt;p&gt;“Even if the U.S. pressures Syria, the last thing Syria wants is to be juggling domestic and foreign wars at once when the Syrian state is already struggling to exert its security and military authority within Syria,” Ms. Khatib said.&lt;/p&gt;
-&lt;p&gt;Reham Mourshed contributed reporting from Damascus, Syria.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/01/world/middleeast/syria-trump-hezbollah-lebanon.html</guid><pubDate>Wed, 01 Jul 2026 19:44:05 +0000</pubDate></item><item><title>What Does Venezuela Do With Its Dead?</title><link>https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/06/30/world/americas/venezuela-disease-outbreaks.html</guid><pubDate>Thu, 02 Jul 2026 06:29:24 +0000</pubDate></item><item><title>What Does Venezuela Do With Its Dead?</title><link>https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/30/multimedia/30venezuela-quake-dead-01-kflm/30venezuela-quake-dead-01-kflm-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;In the first days after the calamitous earthquakes in Venezuela, rescuers and volunteers clawed through collapsed buildings searching for signs of life.&lt;/p&gt;
 &lt;p&gt;Now, as hopes of finding more survivors fades, the authorities are confronting a different challenge: recovering, identifying and burying thousands of victims in a country whose institutions had already been weakened by years of economic collapse and government mismanagement.&lt;/p&gt;
@@ -78,7 +192,10 @@
 &lt;p&gt;Frances Robles and Julie Turkewitz contributed reporting.&lt;/p&gt;
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html</guid><pubDate>Thu, 02 Jul 2026 03:12:04 +0000</pubDate></item><item><title>Celebrating the World Cup, the English Ask: Who Owns the Flag?</title><link>https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html</link><description>&lt;![CDATA[
 The national flag of England, a white banner with a bold red cross, has been displayed by soccer fans during the World Cup. But it has caused tension over whom, and what, it is meant to represent.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html</guid><pubDate>Thu, 02 Jul 2026 05:55:56 +0000</pubDate></item><item><title>Ukraine Takes the War to Russia</title><link>https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html</guid><pubDate>Thu, 02 Jul 2026 05:55:56 +0000</pubDate></item><item><title>Crew Member Is Missing After Helicopter’s Emergency Landing in Arabian Sea, Navy Says</title><link>https://www.nytimes.com/2026/07/01/us/navy-helicopter-rescue-missing-person.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/01/multimedia/01xp-navy-fbkv/01xp-navy-fbkv-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+A handout photo provided by the U.S. Navy showing an MH-60S Sea Hawk helicopter.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/01/us/navy-helicopter-rescue-missing-person.html</guid><pubDate>Thu, 02 Jul 2026 10:17:17 +0000</pubDate></item><item><title>Ukraine Takes the War to Russia</title><link>https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02int-theworld-russia-ukraine-01-pwfg-promo/02int-theworld-russia-ukraine-01-pwfg-promo-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Kyiv’s aim is simple: Put enough pressure on President Vladimir Putin that he agrees to end the war. Will it work?
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html</guid><pubDate>Wed, 01 Jul 2026 21:06:14 +0000</pubDate></item><item><title>Russia Strikes Ukraine as Explosions Rock Capital of Kyiv</title><link>https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack</link><description>&lt;![CDATA[
@@ -90,13 +207,13 @@ Congolese fans in the capital, Kinshasa, react as England scored a winning goal 
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/01/world/africa/congo-england-world-cup-kinshasa.html</guid><pubDate>Thu, 02 Jul 2026 01:56:24 +0000</pubDate></item><item><title>Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to.</title><link>https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/09/multimedia/00int-Germany-AI-01-hwlc/00int-Germany-AI-01-hwlc-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Matthias Deindl, a product management executive for the company SAP, at an A.I.-enhanced production line in Walldorf, Germany.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html</guid><pubDate>Thu, 02 Jul 2026 05:51:59 +0000</pubDate></item><item><title>U.S. Restarts Shipments of Dollars to Iraq, Pausing Pressure</title><link>https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html</guid><pubDate>Thu, 02 Jul 2026 10:09:47 +0000</pubDate></item><item><title>U.S. Restarts Shipments of Dollars to Iraq, Pausing Pressure</title><link>https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/30/multimedia/30int-iraq-dollars-plqv/30int-iraq-dollars-plqv-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Iraq’s prime minister, Ali al-Zaidi, has taken steps to try to rein in Iran-backed militias in his country.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html</guid><pubDate>Thu, 02 Jul 2026 06:45:07 +0000</pubDate></item><item><title>Russia Bombards Ukrainian Capital With Deadly Wave of Attacks</title><link>https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/heres-the-latest</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html</guid><pubDate>Thu, 02 Jul 2026 09:09:51 +0000</pubDate></item><item><title>Russia Bombards Ukrainian Capital With Deadly Wave of Attacks</title><link>https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/heres-the-latest</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02int-ukraine-attacks-ledeall-01-jhbt/02int-ukraine-attacks-ledeall-01-jhbt-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 The site of a Russian attack on Kyiv on Thursday.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/heres-the-latest</guid><pubDate>Thu, 02 Jul 2026 07:02:45 +0000</pubDate></item><item><title>Imprisoned Chinese Journalist Seeks Medical Parole for Lung Tumor</title><link>https://www.nytimes.com/2026/07/02/world/asia/jailed-chinese-journalist-dong-yuyu-lung-tumor.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/heres-the-latest</guid><pubDate>Thu, 02 Jul 2026 10:48:37 +0000</pubDate></item><item><title>Imprisoned Chinese Journalist Seeks Medical Parole for Lung Tumor</title><link>https://www.nytimes.com/2026/07/02/world/asia/jailed-chinese-journalist-dong-yuyu-lung-tumor.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02int-china-journalist-mwgh/02int-china-journalist-mwgh-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Dong Yuyu in 2006.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/asia/jailed-chinese-journalist-dong-yuyu-lung-tumor.html</guid><pubDate>Thu, 02 Jul 2026 01:17:01 +0000</pubDate></item><item><title>Drones Over Europe Raise Concerns About Russian Activities</title><link>https://www.nytimes.com/2026/07/02/world/europe/drone-incursions-europe-russia.html</link><description>&lt;![CDATA[
@@ -105,10 +222,10 @@ A building that was struck by a Russian attack drone in Galati, eastern Romania,
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/drone-incursions-europe-russia.html</guid><pubDate>Thu, 02 Jul 2026 05:10:42 +0000</pubDate></item><item><title>Ukrainian Charged With Sabotaging Pipelines Between Russia and Germany</title><link>https://www.nytimes.com/2026/07/02/world/europe/pipeline-sabotage-ukraine-russia-germany.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02germany-pipeline-02-jzmt/02germany-pipeline-02-jzmt-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Gas escaping the damaged Nord Stream 2 pipeline after sabotage in 2022.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/pipeline-sabotage-ukraine-russia-germany.html</guid><pubDate>Thu, 02 Jul 2026 01:29:25 +0000</pubDate></item><item><title>Putin Retaliates With New Strikes After Ukraine Takes the War to Russia</title><link>https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/pipeline-sabotage-ukraine-russia-germany.html</guid><pubDate>Thu, 02 Jul 2026 10:57:49 +0000</pubDate></item><item><title>Putin Retaliates With New Strikes After Ukraine Takes the War to Russia</title><link>https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02ukraine-russia-assess-pvfl/02ukraine-russia-assess-pvfl-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 A resident of Kyiv, Ukraine, inside her damaged apartment after a Russian attack on Thursday.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html</guid><pubDate>Thu, 02 Jul 2026 05:01:09 +0000</pubDate></item><item><title>Even as It Bombards Kyiv, Russia’s Wider Military Campaign Has Largely Stalled</title><link>https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html</guid><pubDate>Thu, 02 Jul 2026 10:27:21 +0000</pubDate></item><item><title>Even as It Bombards Kyiv, Russia’s Wider Military Campaign Has Largely Stalled</title><link>https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02ukraine-battlefield-htqp/02ukraine-battlefield-htqp-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Ukrainian soldiers on the battlefield earlier this year.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html</guid><pubDate>Thu, 02 Jul 2026 05:49:35 +0000</pubDate></item><item><title>Kyiv Residents Pick Up the Pieces After the Latest Russian Assault</title><link>https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html</link><description>&lt;![CDATA[
@@ -117,10 +234,13 @@ A woman holds a child near an apartment building damaged in Russian airstrikes.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html</guid><pubDate>Thu, 02 Jul 2026 07:12:05 +0000</pubDate></item><item><title>Russia Bombards Ukrainian Capital With Deadly Wave of Attacks</title><link>https://www.nytimes.com/2026/07/02/world/europe/russia-attack-on-kyiv.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02int-ukraine-attacks-ledeall-01-jhbt/02int-ukraine-attacks-ledeall-01-jhbt-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 The site of a Russian attack on Kyiv on Thursday.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/russia-attack-on-kyiv.html</guid><pubDate>Thu, 02 Jul 2026 07:40:48 +0000</pubDate></item><item><title>See How Europe’s Heat Waves Melted the Alps’ Glaciers</title><link>https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/russia-attack-on-kyiv.html</guid><pubDate>Thu, 02 Jul 2026 07:40:49 +0000</pubDate></item><item><title>See How Europe’s Heat Waves Melted the Alps’ Glaciers</title><link>https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02cli-hotglaciers-kqtz/02cli-hotglaciers-kqtz-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 The Rhône Glacier in the Swiss Alps in 2025. The melting is already at levels typical of the end of summer.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html</guid><pubDate>Thu, 02 Jul 2026 08:25:24 +0000</pubDate></item><item><title>As Far Right Rises, German Leaders Look to Jump-Start the Economy</title><link>https://www.nytimes.com/2026/07/02/world/europe/germany-overhaul-merz-economy-pensions.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html</guid><pubDate>Thu, 02 Jul 2026 08:25:24 +0000</pubDate></item><item><title>Teenage Boys Who Raped Girls in Fordingbridge, England, Have Sentences Revised</title><link>https://www.nytimes.com/2026/07/02/world/europe/teenagers-rape-england-sentencing.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/world/02int-uk-teens-rape/02int-uk-teens-rape-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+Fordingbridge, a town in southeastern England, has been at the center of a rape case that sparked a public backlash after an initial sentencing was deemed too lenient.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/teenagers-rape-england-sentencing.html</guid><pubDate>Thu, 02 Jul 2026 10:47:42 +0000</pubDate></item><item><title>As Far Right Rises, German Leaders Look to Jump-Start the Economy</title><link>https://www.nytimes.com/2026/07/02/world/europe/germany-overhaul-merz-economy-pensions.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02int-germany-pensions-kqtp/02int-germany-pensions-kqtp-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Chancellor Friedrich Merz of Germany, second from left, in Berlin with his governing partners on Thursday.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/germany-overhaul-merz-economy-pensions.html</guid><pubDate>Thu, 02 Jul 2026 03:21:06 +0000</pubDate></item><item><title>China Says Pilot Who Flew Into Skyscraper Had Thoughts of Death</title><link>https://www.nytimes.com/2026/07/02/world/asia/beijing-skyscraper-crash-pilot.html</link><description>&lt;![CDATA[
@@ -131,11 +251,11 @@ A hole was visible in the Citic Tower in Beijing, after a plane crashed into the
 Romanian soldiers tested military equipment during a NATO exercise in April.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/nato-russia-attack-ukraine.html</guid><pubDate>Thu, 02 Jul 2026 03:45:46 +0000</pubDate></item><item><title>Vatican Excommunicates Society of St. Pius X, in First Major Crisis for Pope Leo</title><link>https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02int-vatican-excommunication-01-twkf/02int-vatican-excommunication-01-twkf-mediumSquareAt3X-v2.jpg"/&gt;&lt;/p&gt;
-The newly consecrated bishops outside the International Seminary of St. Pius X in Écône, Switzerland, on Wednesday.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html</guid><pubDate>Thu, 02 Jul 2026 07:08:24 +0000</pubDate></item><item><title>9 Buddhist Monks Killed After Boy Crashes Truck Into Procession</title><link>https://www.nytimes.com/2026/07/02/world/asia/thailand-buddhist-monks-truck-crash.html</link><description>&lt;![CDATA[
+The bishops newly consecrated by the Society of St. Pius X, in defiance of the Vatican, in Écône, Switzerland, on Wednesday.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html</guid><pubDate>Thu, 02 Jul 2026 10:02:06 +0000</pubDate></item><item><title>9 Buddhist Monks Killed After Boy Crashes Truck Into Procession</title><link>https://www.nytimes.com/2026/07/02/world/asia/thailand-buddhist-monks-truck-crash.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02int-thailand-monks-01-wzpc/02int-thailand-monks-01-wzpc-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 A monk being treated at a hospital in northeastern Thailand, in a photo released by the Ruamjai Mukdahan Rescue Foundation. A truck struck his group while they were on a pilgrimage.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/asia/thailand-buddhist-monks-truck-crash.html</guid><pubDate>Thu, 02 Jul 2026 03:38:53 +0000</pubDate></item><item><title>An Aerial View of Disaster at a Venezuela Housing Project</title><link>https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-oneimage.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/asia/thailand-buddhist-monks-truck-crash.html</guid><pubDate>Thu, 02 Jul 2026 10:35:25 +0000</pubDate></item><item><title>An Aerial View of Disaster at a Venezuela Housing Project</title><link>https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-oneimage.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/00int-venezuela-quake-oneimage-promo-qfbk/00int-venezuela-quake-oneimage-promo-qfbk-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 What one aerial image of a collapsed building tells us about the aftermath of an earthquake in La Guaira, Venezuela.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-oneimage.html</guid><pubDate>Thu, 02 Jul 2026 07:30:33 +0000</pubDate></item><item><title>India and Japan Expand Defense and Economic Ties</title><link>https://www.nytimes.com/2026/07/02/world/asia/03int-india-japan-modi-takaichi-security.html</link><description>&lt;![CDATA[
@@ -153,13 +273,13 @@ Mercedes González, director general of the Spanish Civil Guard, in Barcelona, S
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/europe/spain-police-investigation-sanchez.html</guid><pubDate>Thu, 02 Jul 2026 06:05:57 +0000</pubDate></item><item><title>Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War’s Outset</title><link>https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02int-Iran-Funeral-wvpk/02int-Iran-Funeral-wvpk-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Workers in Tehran assembled scaffolding on Thursday as the country prepared for the funeral of Ayatollah Ali Khamenei, whose image adorned the side of a nearby building.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html</guid><pubDate>Thu, 02 Jul 2026 06:32:33 +0000</pubDate></item><item><title>U.S. Hopes for Investment in Iran Would Break With Decades of History</title><link>https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html</guid><pubDate>Thu, 02 Jul 2026 06:32:34 +0000</pubDate></item><item><title>U.S. Hopes for Investment in Iran Would Break With Decades of History</title><link>https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/30/multimedia/xxint-iran-economy-01-tgzh/xxint-iran-economy-01-tgzh-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 The Grand Bazaar in Iran’s capital, Tehran, in May. The U.S. has offered Iran sanctions relief if it agrees to limits on its nuclear program.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html</guid><pubDate>Thu, 02 Jul 2026 05:14:38 +0000</pubDate></item><item><title>Can the World’s Largest Stadium Explain the Global Economy?</title><link>https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/25/multimedia/00vietnam-economy-tmch/00vietnam-economy-tmch-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Workers outside the construction site of Hung Vuong Stadium in Hanoi, Vietnam, in May.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html</guid><pubDate>Thu, 02 Jul 2026 05:50:24 +0000</pubDate></item><item><title>Russia Hammers Ukraine’s Capital in Deadly Attacks</title><link>https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html</guid><pubDate>Thu, 02 Jul 2026 10:43:36 +0000</pubDate></item><item><title>Russia Hammers Ukraine’s Capital in Deadly Attacks</title><link>https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02ukraine-promo-1010EST-mklb/02ukraine-promo-1010EST-mklb-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 At least 21 people were killed in Kyiv, the local authorities said. Ukraine’s president had warned that Moscow was preparing a “massive strike” as his country’s forces have hit deeper into Russian territory.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack</guid><pubDate>Thu, 02 Jul 2026 07:12:07 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack</guid><pubDate>Thu, 02 Jul 2026 10:49:18 +0000</pubDate></item></channel></rss>

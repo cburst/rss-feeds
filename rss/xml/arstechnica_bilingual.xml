@@ -1,42 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 02 Jul 2026 18:04:34 +0000</lastBuildDate><item><title>NASA inspector general suggests Boeing’s Starliner will now be a decade late (NASA 감사관, 보잉의 스타라이너가 10년 늦어질 것이라고 시사)</title><link>https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/52004657971_02c9a5ce1b_o-1152x648-1782919980.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Starliner’s certification may be delayed to 2027, 10 years later than Boeing’s original schedule.&lt;br/&gt;(스타라이너의 인증이 2027년으로 지연될 가능성이 있으며, 이는 보잉의 원래 일정보다 10년 늦은 것이다.)&lt;/p&gt;
-&lt;p&gt;NASA’s inspector general released an audit Tuesday of the agency’s Commercial Crew Program, and it looks increasingly likely that Boeing’s Starliner crew capsule won’t be certified for operational flights to the International Space Station until next year.&lt;br/&gt;(NASA 감사관은 화요일 NASA의 상업용 승무원 프로그램에 대한 감사 보고서를 발표했으며, 보잉의 스타라이너 승무원 캡슐이 국제우주정거장(ISS)으로의 정기 비행 인증을 내년까지 받지 못할 가능성이 점점 더 커지고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 NASA의 공식 ISS 퇴역 예정일인 2030년을 불과 3년 앞둔 시점이며, 의회에서는 2032년까지 연장을 추진 중이다. 게다가 내년에 스타라이너가 정기 승무원 교대 비행 준비를 완료한다고 해도, 보잉의 유인 캡슐은 2017년으로 설정된 원래 목표보다 10년이나 뒤처지게 된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-감사관은 6가지 권고사항을 제시했으며, NASA 관계자들은 모두 동의했다. 권고사항에는 다음 스타라이너 비행과 향후 승무원 임무에 대한 일정을 수립하고, 2024년 최초 유인 시험 비행에서 발생한 모든 문제가 "해결되고 문서화"될 충분한 시간을 포함하도록 일정을 업데이트하는 것이 포함된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-보고서 부록에서 NASA 관계자들은 이러한 작업을 12월 31일까지 완료할 것으로 예상한다고 밝혔다. 다음 스타라이너 임무(현재는 화물 비행으로 지정된 스타라이너-1)의 발사 일정은 언급되지 않았다. ISS를 방문하는 임무에 대한 NASA의 공식 일정에 따르면 스타라이너-1의 발사 날짜는 "검토 중"이다. 그러나 NASA가 우주선의 모든 기술적 문제를 해결하고 일정을 수립하는 데 연말까지 걸릴 것으로 예상한다면, 2027년 이전에 스타라이너-1을 발사할 가능성은 줄어들고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Ars는 이전에 스타라이너의 기술적 문제를 광범위하게 보도한 바 있다. 관리자들은 2024년 승무원 비행 시험(CFT)에서 약 100건의 비행 중 이상 현상과 "관찰 사항"을 보고했다. 당시 스타라이너는 NASA 우주비행사 부치 윌모어와 수니 윌리엄스를 ISS로 수송했으며, 8일간의 체류가 예정되어 있었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 NASA가 캡슐의 신뢰성이 승무원을 지구로 귀환시키기에 충분하지 않다고 판단하면서, 그들은 결국 9개월 동안 머물게 되었다. 윌모어와 윌리엄스는 대신 스페이스X의 크루 드래곤을 타고 귀환했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-NASA 항공우주 안전 자문 패널의 6월 22일 브리핑에 따르면, 대부분의 이상 현상과 관찰 사항에 대한 조사는 종료되었다. 그러나 주요 문제인 스타라이너의 헬륨 누출과 과열된 제어 추력기는 여전히 조사 중이라고 전 우주왕복선 사령관이자 NASA 독립 안전 패널 위원인 켄트 로밍어가 밝혔다. 감사관은 화요일 "낙하산 이상 현상은 지속적인 모니터링이 필요한 위험으로 남아 있다"고 보고했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-감사관은 "이러한 해결되지 않은 기술적 문제는 NASA와 보잉이 보잉의 기존 시스템 사용에 대한 과도한 자신감, 실현 불가능한 일정, 제한된 비행 시뮬레이션 데이터에 의해 발생했다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-NASA는 2014년 보잉과 스페이스X에 스타라이너와 크루 드래곤 차량을 개발해 우주비행사를 ISS로 수송하는 계약을 체결했다. 당시 미국 우주국은 2011년 NASA의 우주왕복선 함대 퇴역 이후 러시아의 소유즈 차량에만 의존해 승무원을 수송하고 있었다. 보잉과 스페이스X는 2017년부터 6개월 임무로 정거장에 승무원 비행을 시작할 것이라고 밝혔다. 약간의 지연 끝에 NASA는 2020년 스페이스X의 크루 드래곤을 정기 승무원 교대 임무에 인증했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-한편 보잉의 스타라이너는 반복적인 지연에 직면했다. 2019년 12월 무인 시험 비행은 우주정거장에 도달하지 못하고 임무가 중단되어 조기 귀환했다. 2022년 5월 두 번째 시험 비행은 주요 목표를 달성했으며, 이는 2024년 승무원 비행 시험(CFT)으로 이어졌으나, 보잉이 우주선 낙하산 시스템의 일부를 재설계하고 스타라이너의 승무원 캐빈 내부 가연성 문제를 해결하기 위해 1년이 추가로 지연되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-승무원 비행 시험(CFT) 이후 스타라이너가 더 많은 지연에 직면할 것이 분명해지자, NASA 관계자들은 보잉이 2014년 원래 계약에 따라 받은 6회의 보장된 승무원 교대 임무 중 2회를 박탈했으며, 이로 인해 보잉의 계약 가치는 약 5억 달러 감소했다. 원래 승무원 수송용이었던 남은 4회 비행 중 하나는 이제 화물 전용 임무가 되었다. NASA는 스타라이너가 지연됨에 따라 우주정거장에 충분한 인력을 유지하기 위해 스페이스X의 크루 드래곤으로 추가 임무를 수여했다. 감사관은 기관이 2030년까지 정거장의 승무원 수송 요구를 충당하기 위해 추가 스페이스X 비행을 구매해야 할 것이라고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-NASA 국장 재러드 아이작먼은 2월에 2024년 스타라이너 유인 비행을 공식적으로 "유형 A" 사고로 분류하며 시험 비행이 심각한 실패임을 인정했다. 같은 달 NASA의 고위 유인 우주 비행 관계자 두 명이 자리에서 물러났다.
-&lt;&lt;&lt;PARA&gt;&gt;
-감사관은 "NASA 요구 사항의 모호성과 적절한 사고 분류 지연이 CFT 문제 해결을 방해했다"고 보고했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-감사관은 NASA가 다음 스타라이너 임무에 화물만 실어 나르기로 한 결정에 동의하면서도, 우주비행사 없이 진행되는 비행은 기관의 모든 인간 등급 인증 이정표를 충족하지 못할 것이라고 지적했다. 이는 또한 NASA가 원래 스타라이너-1이 제공했을 서비스를 대체하기 위해 추가 승무원 수송 임무를 구매해야 함을 의미한다. 이 비용은 약 3억 달러에 달할 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-감사관은 "이 결정은 유인 ISS 유지에 대한 NASA의 비용을 증가시키며, 스타라이너 인증의 지속적인 지연을 심화시키고 NASA가 (상업용 승무원 계약 하에) 계약한 승무원 비행 수를 줄인다"고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다른 비용도 있다. NASA는 스타라이너 지연으로 인한 공백을 메우기 위해 크루 드래곤 비행을 가속화하는 대가로 스페이스X에 1,700만 달러를 지불했다. 감사관은 또한 2019년 이후 보잉에 지불된 거의 1억 2,800만 달러의 미래 스타라이너-3 승무원 교대 비행 비용에 대해 의문을 제기했는데, "이 임무는 확실성이 매우 낮다."
-&lt;&lt;&lt;PARA&gt;&gt;
-NASA와 보잉이 스타라이너의 재비행 준비를 마치면, 보잉은 ULA(United Launch Alliance)의 일정에서 아틀라스 V 로켓으로 스타라이너-1 임무를 수행할 자리를 찾아야 한다. NASA는 또한 ISS에 출입하는 바쁜 임무 일정에 스타라이너-1을 맞춰야 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-감사관은 "또한 보잉은 발사 가용성, ISS의 도킹 포트 접근, 승무원 훈련 일정 등 추가적인 일정 제약에 직면하고 있다. 그 결과 인간 등급 인증이 2027년으로 지연될 수 있으며, 이는 ISS의 계획된 수명 종료일인 2030년까지 유인 비행을 제공할 수 있는 기간이 제한적으로 남게 된다"고 밝혔다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/52004657971_02c9a5ce1b_o-1152x648-1782919980.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 01 Jul 2026 07:11:39 +0000</pubDate></item><item><title>After spooking Trump into safety testing, Anthropic AI models get global release (트럼프를 안전 테스트로 긴장시킨 후, Anthropic AI 모델 전 세계 출시)</title><link>https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-1024x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 02 Jul 2026 20:13:29 +0000</lastBuildDate><item><title>After spooking Trump into safety testing, Anthropic AI models get global release (트럼프를 안전 테스트로 긴장시킨 후, Anthropic AI 모델 전 세계 출시)</title><link>https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-1024x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;US lifts curbs on Anthropic’s advanced Fable and Mythos models.&lt;br/&gt;(미국, Anthropic의 고급 Fable 및 Mythos 모델에 대한 규제 해제)&lt;/p&gt;
 &lt;p&gt;The US has lifted export curbs on Anthropic’s newest Claude models, Fable 5 and Mythos 5, about three weeks after the Trump administration flagged the models as national security risks .&lt;br/&gt;(미국이 Anthropic의 최신 Claude 모델인 Fable 5와 Mythos 5에 대한 수출 규제를 해제했다. 트럼프 행정부가 이 모델들을 국가 안보 위험으로 지목한 지 약 3주 만이다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -506,4 +469,32 @@ Colangelo는 뉴 글렌의 9×4 변형 개발이 2030년대까지 미뤄져도 �
 저는 다른 방법이 보이지 않습니다. 앞으로 4~5년 동안 스타쉽에 모든 것을 걸어야 한다는 점 외에는요. 생각해보면, SpaceX는 발사 주기를 상당히 빠르게 확장할 수 있는 입증된 능력을 가지고 있습니다. 그들은 플로리다에서 스타쉽을 발사할 계획이 있고, 텍사스에는 두 개의 발사대가 있습니다. 이제 그들은 인프라 규모를 갖추었습니다. 우리가 그들이 이를 구축하고 활용하는 것을 지켜봐야 하는 상황이 아닙니다. 따라서 저는 이것이 첫 착륙을 위해 스타쉽에 모든 것을 걸고 향후 2년을 지나치게 복잡하게 만들지 않아야 하는 명확한 순간이 되어야 한다고 생각합니다. 음, 만약 우리가 이 착륙선을 저것에 올리고, 이 발사대에 이 차량을 서비스할 수 있는 새로운 시설을 만든다면, 우리는 이걸 발사할 수 있고 저걸 궤도에서 만날 수 있을 것입니다. 이것은 이미 연간 160회를 비행할 수 있는 회사가 연간 수십 회씩 새로운 차량을 비행하는 것보다 훨씬 더 복잡해지기 매우 빠릅니다. 그것이 저에게는 더 믿을 수 있는 경로입니다.
 &lt;&lt;&lt;PARA&gt;&gt;
 대화가 끝날 무렵, 패널들은 라이브 행사를 시청하는 시청자들로부터 온 여러 질문에 답변하는 속전속결 시간도 가졌습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/11/new-glenn-9x4-1-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 02 Jul 2026 07:46:47 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/11/new-glenn-9x4-1-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 02 Jul 2026 07:46:47 +0000</pubDate></item><item><title>FAA proposal: Supersonic airliners can fly over US cities if they’re quiet (FAA 제안: 저소음 초음속 여객기, 미국 도시 상공 비행 허용 가능)</title><link>https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-2560x1440.png" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;New US rules would legalize quiet supersonic flights without the sonic boom.&lt;br/&gt;(미국 신규 규정, 소닉붐 없는 저소음 초음속 비행을 합법화할 전망)&lt;/p&gt;
+&lt;p&gt;A long-standing ban on commercial supersonic flights over the United States would be overturned in a new rule proposed by the US Federal Aviation Administration. That could pave the way for the possible return of commercial supersonic airliners—as long as such aircraft can reduce the ground-level impacts of their sonic booms.&lt;br/&gt;(미국 내 상업용 초음속 비행에 대한 오랜 금지 조치가 미 연방항공청(FAA)이 제안한 새로운 규칙으로 폐지될 예정이다. 이는 항공기가 소닉붐의 지상 영향을 줄일 수 있다면 상업용 초음속 여객기의 복귀 가능성을 열어줄 수 있다.)&lt;/p&gt;
+&lt;p&gt;The FAA originally banned overland supersonic flights by civil aircraft in 1973, following US military tests involving supersonic flights over US cities such as Oklahoma City, Chicago, and St. Louis in the 1960s. But the Trump administration has championed the repeal of the ban to pave the way for supersonic airliners that could operate without disruptive sonic booms. So the FAA’s new rulemaking action on June 30, 2026, follows the direction of an executive order issued by President Trump on June 6, 2025.&lt;br/&gt;(FAA는 1960년대 오클라호마시티, 시카고, 세인트루이스 등 미국 도시 상공에서 미군의 초음속 비행 테스트 이후, 1973년 민간 항공기의 육상 초음속 비행을 처음으로 금지했다. 그러나 트럼프 행정부는 소닉붐의 혼란을 일으키지 않고 운항할 수 있는 초음속 여객기를 위한 길을 열기 위해 이 금지 조치 폐지를 지지해 왔다. 이에 따라 FAA의 2026년 6월 30일자 신규 규칙 제정은 2025년 6월 6일 트럼프 대통령이 발행한 행정명령 방향을 따른 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+새로 제안된 규칙은 53년간의 금지 조치를 대체하여, 표면에서의 소닉붐 과압(overpressure)을 평방피트당 0.11파운드 미만으로 유지하도록 요구하는 임시 "소음 기반" 인증 기준을 마련한다. 이 제안 기준은 콜로라도에 본사를 둔 스타트업 붐 슈퍼소닉(Boom Supersonic)이 XB-1 항공기로 조용한 마하 차단(Mach cutoff) 비행을 시연한 데 기반한다. 이는 특정 대기 조건을 활용해 더 높은 고도에서 초음속 직전 속도로 비행함으로써 항공기의 충격파가 지면으로 전달되지 않고 대기 중으로 굴절되도록 하는 방식이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+비교를 위해, 1976년부터 2003년까지 대서양 횡단 상업 비행을 한 콩코드(Concorde) 초음속 여객기는 고도 52,000피트에서 마하 2 속도로 비행할 때 평방피트당 1.94파운드에 해당하는 소닉붐 과압을 발생시켰다.
+&lt;&lt;&lt;PARA&gt;&gt;
+NASA의 사실 자료에 따르면 "1.5~2파운드 사이에서 일부 대중 반응이 예상될 수 있지만" 1파운드 과압에서는 건물 및 기타 구조물에 손상이 없다고 명시한다. 또한 인간은 초음속 항공기가 100피트 미만 고도에서 비행할 때 20~144파운드 사이의 소닉붐 과압을 경험했지만 부상은 없었다고 설명한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 모든 사람이 육상 초음속 비행을 허용하는 이 제안 기준에 동의하는 것은 아니다. 비영리 단체 국제청정교통위원회(ICCT)의 고선임 국장 댄 러더퍼드는 Aviation Week에 과압 지표는 2014년 유엔 전문가들에 의해 "실제로 소음 크기나 불쾌감을 측정하지 않는다"는 이유로 폐기되었다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+러더퍼드는 "FAA가 이렇게 약한 규칙을 제안할 줄은 정말 몰랐다"고 해당 매체에 전했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 의회 의원들도 초음속 항공 현대화 법안(Supersonic Aviation Modernization Act)을 추진하고 있다. 이 법안은 "항공기가 미국 내 지상에 어떤 소닉붐도 도달하지 않는 방식으로 운항되는 한" FAA가 육상 초음속 비행을 허용하도록 요구한다. 이 법안은 2026년 3월 24일 하원을 통과했으며, 상원 표결을 기다리고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+한편, NASA는 록히드 마틴 X-59 Quesst를 사용해 더 조용한 초음속 비행에 대한 다른 접근 방식을 테스트 중이다. 이는 침형 코를 가진 실험용 항공기로, 동체가 일반적인 소닉붐을 둔탁한 소리(sonic thump)로 줄이도록 설계되었다. NASA는 소음 수준 평가를 위해 인지 데시벨(PldB) 수준에 의존하며, 약 20피트 떨어진 곳에서 차문을 닫는 소리와 비슷한 75 PldB 정도의 둔탁한 소리를 일관되게 시연하는 것을 목표로 하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+NASA 시험 조종사이자 임무 통합 관리자는 이전에 Ars에 X-59 항공기의 향후 미국 전역 도시와 마을 상공 초음속 비행 테스트가 민간 항공 당국의 규정에 도움이 될 인지 소음 수준에 대한 지역사회 피드백을 제공할 것이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+FAA는 2027년 중반까지 최종 확정을 시도하기 전에 육상 초음속 비행에 대한 제안된 소음 규정을 더욱 개선할 시간이 있다. 기관은 또한 올해 후반에 초음속 항공기의 이륙 및 착륙 소음 기준을 설정하는 또 다른 규칙을 제안할 계획이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+더 조용한 육상 초음속 비행의 합법화가 상업용 초음속 여객기의 성공적인 복귀를 보장하지는 않는다. 콩코드 초음속 여객기는 뉴욕과 런던 간 대서양 횡단 비행 시간을 7시간에서 3시간 미만으로 단축했지만, 막대한 연료 소비로 인해 수익성 있는 운영을 유지하기 어려웠으며, 영국과 프랑스 정부가 공동 부담한 28억 달러 이상의 개발 비용 회수는 말할 것도 없었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+붐 슈퍼소닉은 Overture라는 초음속 여객기를 개발 중이며, 2029년까지 첫 항공기를 고객에 인도하는 것을 목표로 하고 있다. 이 회사는 아메리칸 항공, 일본항공, 유나이티드 항공과 상업 계약을 체결하여 이들 항공사에 Overture 항공기 구매 옵션을 부여했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 붐은 최근 몇 달 동안 AI 데이터 센터에 전력을 공급할 천연가스 터빈 생산으로 주 목표에서 전환했다. 붐 CEO 블레이크 숄은 이 부수 사업에서 발생하는 수익이 Overture 초음속 여객기의 개발 비용을 충당하는 데 도움이 될 것이라고 제안했다. 동시에 유나이티드 항공 CEO 스캇 커비는 붐이 초음속 여객기를 띄울 가능성을 "50/50"으로 평가했다고 말했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-2560x1440.png" length="0" type="image/png"/><pubDate>Thu, 02 Jul 2026 08:29:37 +0000</pubDate></item></channel></rss>
