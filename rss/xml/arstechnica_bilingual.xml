@@ -1,70 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 02 Jul 2026 20:13:29 +0000</lastBuildDate><item><title>After spooking Trump into safety testing, Anthropic AI models get global release (트럼프를 안전 테스트로 긴장시킨 후, Anthropic AI 모델 전 세계 출시)</title><link>https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-1024x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;US lifts curbs on Anthropic’s advanced Fable and Mythos models.&lt;br/&gt;(미국, Anthropic의 고급 Fable 및 Mythos 모델에 대한 규제 해제)&lt;/p&gt;
-&lt;p&gt;The US has lifted export curbs on Anthropic’s newest Claude models, Fable 5 and Mythos 5, about three weeks after the Trump administration flagged the models as national security risks .&lt;br/&gt;(미국이 Anthropic의 최신 Claude 모델인 Fable 5와 Mythos 5에 대한 수출 규제를 해제했다. 트럼프 행정부가 이 모델들을 국가 안보 위험으로 지목한 지 약 3주 만이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Anthropic은 블로그 게시글을 통해 오늘부터 Fable 5가 전 세계에서 이용 가능하며, 미국 조직들은 6월 26일부터 Mythos 5에 대한 접근 권한을 복구했다고 확인했다. Anthropic은 현재 정부와 협력하여 "Glasswing 프로그램 내 더 광범위한 국내 및 국제 파트너"에게 Mythos 접근 권한을 확대하는 중이라고 밝혔다. 이 프로그램은 신뢰할 수 있는 기업의 사이버 보안 연구원들이 방어 목적으로 Mythos에 접근할 수 있도록 허용한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-로이터 통신과 뉴욕타임스가 입수한 Anthropic에 보낸 서한에서 하워드 러트닉 상무부 장관은 Anthropic이 "Claude Mythos 및 Claude Fable AI 모델의 수출 또는 국가 내 이전에 더 이상 라이선스가 필요하지 않을 것"이라고 밝혔다. 서한은 Anthropic이 모델이 제기하는 위험을 해결하기 위해 "미국 정부와 긴밀히 협력하여 조치를 취했다"고 인정했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-모델 출시가 더 오래 지연되는 상황에서 러트닉 장관은 Anthropic이 정부와의 파트너십을 확대하기로 합의했다고 말했다. 회사는 해커와 협력하여 모델을 레드팀 테스트하는 프로그램을 구축했으며, 현재 새로운 탈옥 위협 보고를 24/7 모니터링하는 전담 내부 팀이 있다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-서한에서 러트닉 장관은 미국이 "언제든지 결정을 재평가하고" 수출 규제를 재도입할 권리를 보유한다고 상기시켰다. 하지만 현재로서는 러트닉 장관이 수지 와일스 백악관 비서실장과 함께 X에서 Fable 5의 재배치를 축하했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"지난 2주 동안 우리는 Anthropic과 긴밀히 협력하여 Fable 5를 분석 및 승인하고, 미국 정부 전체의 정렬을 보장하며 AI 분야에서 미국의 리더십을 강화했습니다."라고 러트닉 장관은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-와일스 비서실장은 Anthropic을 직접 언급하지 않았지만 트럼프를 위한 승리를 주장하며, "정부와 민간 부문이 전례 없는 방식으로 함께 협력했으며, 이러한 '미국 우선' 기반은 전례가 없습니다. 우리의 공유된 최우선 과제는 다음과 같습니다: 최고의 기술을 가능한 한 빠르고 안전하게 배포하는 것입니다."라고 썼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-6월 12일, 상무부는 Anthropic에 미국 외부의 모든 사람에게 최첨단 모델에 대한 접근을 차단하도록 명령했다. 이 명령은 중국, 러시아 또는 기타 우려 국가들이 전력망이나 은행 시스템과 같은 미국 인프라를 공격하기 위해 모델을 악용할 수 있다는 우려에서 비롯되었다. 이에 따라 Anthropic은 국가별로 사용자를 차단할 방법이 없었기 때문에 모든 접근을 차단했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-특히 Mythos는 "사이버 공격에 오용하려는 악의적인 행위자에게 독특하게 매력적"인 것으로 간주되었다고 Anthropic 블로그는 밝혔다. Anthropic에 따르면 이 모델은 "가장 숙련된 인간 보안 전문가를 제외한 모든 모델보다 더 효과적으로 소프트웨어 취약점을 찾아 악용할 수 있으며", 이러한 "엄청난 사이버 보안 능력"이 미국에 대해 사용될 수 있다고 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Fable 5는 "동일한 기본 모델"을 공유하지만 Mythos 5와 달리 "그러한 독특한 공격 능력을 제공하지 않는다"고 Anthropic은 밝혔다. 일반 대중을 위해 설계된 Fable 5는 이미 Anthropic이 모델에 적용한 가장 강력한 안전 장치를 갖추고 있었으며, Anthropic은 재배치를 앞두고 이러한 안전 장치가 더욱 강화되었다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-수주간의 테스트 끝에 Fable 5는 더 이상 Amazon 연구원들이 발견한 우회 방법에 취약하지 않다. 이 방법은 여러 소프트웨어 취약점을 식별하여 수출 규제를 촉발했다. 가장 우려스러운 점은 모델이 조작되어 취약점이 어떻게 악용될 수 있는지 보여주는 코드를 생성한 사례라고 Anthropic은 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Anthropic에 따르면, 테스트 결과 GPT-5.5 및 Kimi K2.7과 같은 시장의 덜 발전된 경쟁 모델도 "보고서에서 Fable 5가 식별한 것과 동일한 취약점을 식별할 수 있는 것"으로 확인되었다. 이는 "보고된 기술이 독특한 Mythos 수준의 사이버 능력을 노출하지 않았다"는 것을 확인했으며, "일상적인 방어적 사이버 보안 작업만 포함했다"고 Anthropic은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그럼에도 불구하고 우리는 보고된 우회 방법을 해결하기 위해 신속하게 움직였습니다."라고 Anthropic은 썼다. 현재 해당 탈옥 방법은 99% 이상의 경우에서 차단된다고 Anthropic은 밝혔다. 그러나 안전 장치를 강화하는 데는 "절충"이 수반되어 "일상적인 코딩 및 디버깅 작업 중" 일부 무해한 프롬프트가 차단될 수 있다고 회사는 인정했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"정부와 긴밀히 협력하여, 우리는 보고서에 설명된 행동을 대상으로 차단하는 개선된 안전 분류기를 훈련시켰습니다."라고 Anthropic은 말했다. "사용자는 Fable 5에 대한 요청이 차단되면 통보를 받고, 해당 요청은 대신 Opus 4.8로 전송됩니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-물론, 모델에 대한 독특하게 위험한 공격을 피하는 데 도움이 되는 Anthropic의 새로운 분류기는 "실수"를 할 수 있다고 Anthropic은 밝혔다. 회사는 오랫동안 탈옥에 완전히 "면역"인 모델을 구축하는 것은 "아마도 불가능하다"고 주장해 왔지만, 레드팀 테스트를 강화함으로써 "우리와 우리의 안전 파트너가 주요 탈옥을 가장 먼저 발견하고 악의적인 행위자가 피해에 사용하기 전에 수정할 수 있도록" 보장하기를 희망한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Amazon이 지목한 공격은 현재 "매우 적은 경우"에만 작동하며, "모델이 사이버 공격자에게 도움이 될 만큼 상세하지 않은 정보를 제공할 수 있다"고 Anthropic은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"조심"함으로써 "대다수의 탈옥은 위험한 행동을 성공적으로 차단 해제하지 못할 것이며" 생산하는 데 "매우 비용이 많이 들고 노력이 많이 필요할 것"이라고 Anthropic은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"탈옥이 성공하더라도, 우리의 추가 방어 계층"(일부 무해한 요청 차단 필요)은 "추가 완화를 제공합니다."라고 회사는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Anthropic의 블로그 게시글은 Amazon이 식별한 위협을 정부가 가장 큰 위협으로 간주하는 것, 즉 광범위한 취약점을 잠금 해제하고 예측 불가능한 공격을 가능하게 하는 보편적 탈옥보다 덜 위험한 것으로 축소하는 것으로 보인다.
-&lt;&lt;&lt;PARA&gt;&gt;
-민관 파트너십을 간소화하고 가장 큰 위험에 가장 신속하게 대응하기 위해, AI 산업의 목표는 내부와 정부 모두에서 적절한 개입을 보장하기 위해 위험을 분류하는 것이어야 한다고 Anthropic은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-현재 Anthropic은 Amazon, Microsoft, Google 및 기타 Glasswing 파트너와 협력하여 "AI 탈옥의 심각성을 평가하고 AI 개발자가 이에 대응하는 방법에 대한 합의 프레임워크 초안을 작성" 중이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-해당 논의에는 다른 산업 파트너도 환영한다고 Anthropic은 밝혔지만, 이 프로세스는 "불완전"하며 탈옥 점수 매기기를 위한 4가지 기준 설정에 초점을 맞추고 있다. 여기에는 탈옥이 제공하는 능력의 정도, 활성화하는 공격 작업 수, 인간이 탈옥을 무기화하기 쉬운 정도(단일 프롬프트 탈옥이 가장 위험한 것으로 간주됨), 그리고 탈옥 발견에 전문 지식이 필요한지 여부에 대한 평가가 포함된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 프레임워크를 사용하여 Anthropic은 탈옥 제출 채널을 24/7 모니터링할 팀을 구축했다고 블로그는 밝혔다. AI 기업은 또한 "보안 연구원이 Fable 5에서 발견한 잠재적 사이버 탈옥을 제출할 수 있는 새로운 HackerOne 프로그램"을 시작하여 레드팀 테스트를 최우선 과제로 유지할 것이라고 확인했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Anthropic의 경우, 정부 테스트의 한 가지 결과는 AI 기업을 블랙리스트에 올린 국가 안보 위험 지정과 관련하여 미국을 고소한 후 정부와의 관계가 개선된 것으로 보인다. Anthropic은 이 지정이 자율 무기 구축 또는 국내 대규모 감시 수행을 위해 모델에 대한 정부 접근을 회사가 거부한 것에 대한 보복이라고 주장했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-블로그에서 Anthropic은 배포 전 테스트 및 평가를 위해 정부 파트너와 협력하기 위한 약속을 확대하고 있다고 밝혔다. 이러한 노력에는 정부에 최첨단 모델에 대한 조기 접근 권한 부여, 새로운 탈옥 방법에 대한 정보 신속 공유, "AI 평가의 최첨단 발전"에 도움이 될 공동 연구에 자원 할당이 포함된다고 Anthropic은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 협력은 "AI의 위험과 이점에 대한 효과적인 글로벌 조정을 위한 템플릿의 시작"을 제공한다고 Anthropic은 말하면서, 모든 최첨단 모델 개발자가 같은 입장을 취하도록 보장하는 법안을 의회가 통과시킬 것을 촉구했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-정부는 Anthropic이 원하는 속도보다 너무 느리게 움직이고 있다. Anthropic CEO 다리오 아모데이는 이달 초 자신의 입법 제안을 내놓으며, 그의 요점을 강조하기 위해 반지의 제왕을 인용했다:
-&lt;&lt;&lt;PARA&gt;&gt;
-"반지의 제왕의 하위 줄거리 중 하나에서, 두 호빗은 숲을 베어 내는 군대로부터 자신의 숲을 방어하기 위해 현명하지만 느릿느릿한 지각 있는 나무인 곰돌이를 깨우려고 시도합니다. 문제는 곰돌이가 호빗과 매우 다른 속도로 움직인다는 것입니다. 그가 다른 나무에게 인사하는 데 하루 종일이 걸리므로, 그와 그의 동료들이 충분히 빠르게 행동하게 하는 것은 거의 불가능합니다. AI와 우리 정치 제도의 교차점은 약간 호빗과 곰돌이 같습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-처음에 트럼프는 혁신을 촉진하기 위해 AI 규제에 손을 대지 않을 계획이었다. 그러나 Anthropic의 Mythos 출시는 트럼프를 긴장시켜 5월에 최첨단 모델에 대한 자발적인 안전 테스트를 요청하게 했다. 그 이후로 트럼프는 "기업이 새로운 AI 모델을 검토를 위해 공식적으로 제출하는 방법과 그들이 적용받게 될 기준에 대한 프레임워크를 여전히 작업 중"이라고 논의에 정통한 두 소식통이 NYT에 전했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그의 게시글에서 아모데이는 의회에 신속히 행동하여 "AI가 재미있는 장난감에서 데이터 센터의 천재들로 가득 찬 전체 국가로 갈 수 있는" 세상을 위한 안전 규정을 재구상하고, 그렇지 않으면 "국가 전략적" 결과를 초래할 위험을 감수해야 한다고 촉구했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 AI 및 국가 안보에 초점을 맞춘 비영리 기관인 Frontier Security Institute의 전무 이사 아이작 해리스는 로이터에 "Anthropic의 정부와의 강화된 파트너십 이후 가장 큰 물음표"는 "가드레일이 덜한 중국의 동등하게 위험한 능력이 미국 시장에서 행정부에 의해 어떻게 처리될 것인가"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-특히, Anthropic은 최근 중국 AI 기업 알리바바가 Claude에 대한 가장 큰 복제 공격을 시작했다고 비난했다. 이에 대응하여 Anthropic은 미국 기업의 작업을 도용하는 중국 기업을 처벌하는 법률을 의회가 통과시킬 것을 촉구했다. 그렇지 않으면, Anthropic의 모델을 손에 넣을 수 없는 악의적인 행위자들이 더 낮은 안전 장치와 점점 더 가까워지는 능력을 가진 중국 모델로 전환하여 미국을 기습하는 공격을 시작할 수 있다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-1024x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 01 Jul 2026 07:44:18 +0000</pubDate></item><item><title>Ithaca’s king defies the gods in finalThe Odysseytrailer (이트라카의 왕, 신들에게 도전하다: &lt;오디세이&gt; 최종 예고편)</title><link>https://arstechnica.com/culture/2026/07/ithacas-king-defies-the-gods-in-final-the-odyssey-trailer/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey-1152x648-1782916077.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 02 Jul 2026 22:21:28 +0000</lastBuildDate><item><title>Ithaca’s king defies the gods in finalThe Odysseytrailer (이트라카의 왕, 신들에게 도전하다: &lt;오디세이&gt; 최종 예고편)</title><link>https://arstechnica.com/culture/2026/07/ithacas-king-defies-the-gods-in-final-the-odyssey-trailer/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey-1152x648-1782916077.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;“You gods don’t speak in ways we understand.”&lt;br/&gt;("신들은 우리가 이해할 수 있는 방식으로 말하지 않소.")&lt;/p&gt;
 &lt;p&gt;We’re counting down the days until the release of Christopher Nolan’s The Odyssey , and Universal Pictures has released one last trailer to keep anticipation high.&lt;br/&gt;(크리스토퍼 놀란 감독의 영화 &lt;오디세이&gt; 개봉일이 다가오고 있습니다. 유니버설 픽처스는 기대감을 높이기 위해 마지막 예고편 하나를 공개했습니다.)&lt;/p&gt;
 &lt;p&gt;Most of us read some version of The Odyssey in high school, so we’re familiar with the story : Odysseus, legendary Greek king of Ithaca, begins the long journey home after 10 years of fighting in the Trojan War. But the journey doesn’t go smoothly, as Odysseus and his men encounter the cyclops Polyphemus, the Sirens, and an enchantress named Circe, among other obstacles. Meanwhile, Penelope, his long-suffering wife, wards off hundreds of suitors eager to usurp Odysseus’ position.&lt;br/&gt;(대부분의 우리는 고등학교 시절 &lt;오디세이&gt;의 어떤 버전을 읽었기에 이 이야기에 익숙합니다. 전설적인 그리스 이타카의 왕 오디세우스가 10년간의 트로이 전쟁을 마치고 긴 귀향길에 오르지만, 순탄치만은 않습니다. 오디세우스와 그의 부하들은 외눈박이 거인 폴리페모스, 세이렌, 그리고 요정 키르케를 비롯한 여러 장애물과 맞닥뜨립니다. 한편, 오랜 세월 고통을 견뎌온 그의 아내 페넬로페는 오디세우스의 자리를 빼앗으려는 수백 명의 구혼자들을 물리칩니다.
@@ -497,4 +432,36 @@ FAA는 2027년 중반까지 최종 확정을 시도하기 전에 육상 초음�
 붐 슈퍼소닉은 Overture라는 초음속 여객기를 개발 중이며, 2029년까지 첫 항공기를 고객에 인도하는 것을 목표로 하고 있다. 이 회사는 아메리칸 항공, 일본항공, 유나이티드 항공과 상업 계약을 체결하여 이들 항공사에 Overture 항공기 구매 옵션을 부여했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 그러나 붐은 최근 몇 달 동안 AI 데이터 센터에 전력을 공급할 천연가스 터빈 생산으로 주 목표에서 전환했다. 붐 CEO 블레이크 숄은 이 부수 사업에서 발생하는 수익이 Overture 초음속 여객기의 개발 비용을 충당하는 데 도움이 될 것이라고 제안했다. 동시에 유나이티드 항공 CEO 스캇 커비는 붐이 초음속 여객기를 띄울 가능성을 "50/50"으로 평가했다고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-2560x1440.png" length="0" type="image/png"/><pubDate>Thu, 02 Jul 2026 08:29:37 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-2560x1440.png" length="0" type="image/png"/><pubDate>Thu, 02 Jul 2026 08:29:37 +0000</pubDate></item><item><title>Newly discovered PamStealer isn’t your typical macOS malware (새로 발견된 팜스틸러, 평범한 macOS 악성코드가 아니다)</title><link>https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The discovery underscores the increased effort being poured into Mac infostealers.&lt;br/&gt;(이번 발견은 Mac 정보 탈취용 악성코드 개발에 쏟아지는 노력이 증가하고 있음을 보여준다.
+&lt;&lt;&lt;PARA&gt;&gt;
+연구진이 이전에 본 적 없는 macOS 악성코드를 발견했다. 이 악성코드는 일련의 교묘한 기술을 결합해 Mac에 은밀하게 침투하며, 맞춤 개발된 자격 증명 탈취 코드를 실행한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 악성코드는 두 단계에 걸쳐 유포된다. 첫 번째 단계는 Mac용 클립보드 관리자인 Maccy로 위장한 디스크 이미지로 배포된다. 애플스크립트로 컴파일되어 있으며, 두 번째 단계를 전달하는 방식이 특징적이다. 이 악성코드는 PamStealer라는 이름으로 불리는데, Rust로 작성된 정보 탈취용 악성코드가 macOS에 내장된 플러그형 인증 모듈(PAM) 인터페이스를 사용해 대상의 로그인 비밀번호를 검증한 후 공격자 제어 서버로 전송하기 때문이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+디스크 이미지와 애플스크립트를 함께 사용하는 것은 Mac 악성코드에서 흔히 볼 수 있다. 더 특이한 점은 PamStealer가 이 둘을 결합해 은밀성을 확보하는 방식이다. 애플스크립트를 더블클릭하면 macOS 스크립트 편집기에서 열리는데, 악성 기능은 파일 깊숙이 숨겨져 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+macOS 보안 업체 Jamf의 연구원들은 "curl이나 zsh 같은 셸 명령어에 의존하는 대신, 이 애플스크립트는 기본 Objective-C API를 사용해 페이로드를 검색하고 준비하는 자체 포함 JXA(JavaScript for Automation) 다운로더를 실행한다"고 설명했다. "여기에 Rust 기반의 두 번째 단계와 PAM을 통해 자격 증명을 로컬에서 검증하는 비밀번호 캡처 워크플로우가 결합되면서, 일반적인 상용 macOS 정보 탈취용 악성코드보다 훨씬 조용한 실행 체인이 만들어진다."
+&lt;&lt;&lt;PARA&gt;&gt;
+신뢰할 수 있는 클립보드 관리자를 설치하려는 사용자가 디스크 이미지를 열면, 더블클릭 직후 Command-R 키를 누르라는 안내가 표시된다. 이 명령어는 애플스크립트 내의 악성 코드를 직접 실행한다. 또한 com.apple.quarantine이라는 macOS 속성을 우회할 수 있게 해준다. 이 속성은 인터넷에서 다운로드한 실행 파일에 대해 경고와 제한을 제공한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+Jamf는 다음과 같이 설명했다:
+&lt;&lt;&lt;PARA&gt;&gt;
+PamStealer는 최근 등장한 전달 방식과 덜 익숙한 페이로드를 결합한다. 클릭 가능한 .scpt 파일과 스크립트 편집기 유인책은 macOS 위협 환경에서 이미 채택이 증가하고 있는 기술에 기반을 두고 있지만, 이 악성코드는 자체 포함된 JXA 드로퍼, Rust 기반 두 번째 단계, 그리고 탈취 전에 PAM을 통해 로컬에서 자격 증명을 검증하는 비밀번호 캡처 워크플로우로 차별화된다. 두 번째 단계는 은밀하게 유지하기 위해 상당한 노력을 기울이며, Finder로 위장하고 명령 및 제어 트래픽을 암호화하며, Full Disk Access 요청과 같은 프롬프트를 최대 40분 동안 지연시켜 실행 시점과 활동이 일치하지 않게 만든다. 이러한 행동들은 상용 macOS 정보 탈취용 악성코드가 계속 진화하여 더 조용한 실행 체인과 기본 구현을 채택함으로써 기존 탐지 기회를 줄이면서도 표준 macOS 기능과의 호환성을 유지하고 있음을 보여준다.
+&lt;&lt;&lt;PARA&gt;&gt;
+첫 번째 단계는 페이로드를 macOS에 내장된 실제 구성 요소로 위장한 앱 번들 안에 넣는다. 구성 요소는 악성코드 샘플마다 다르다. Finder.app(com.apple.finder.core 또는 com.apple.finder.monitor 하위), Software Update.app(com.apple.security.daemon 하위) 등이 예시다. 어떤 경우든 이들은 숨김 모드로 실행된다. 또한 macOS의 실제 Finder.icns를 아이콘으로 표시한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+두 번째 단계는 Apple CPU에서 실행되는 Mac용으로 작성된 경량 Mach-O 파일이다. 공격자가 Rust로 작성한 선택은 macOS 정보 탈취용 악성코드에서 비교적 드물다. Swift, Go, Objective-C와 같은 언어가 더 흔하다. 이 바이너리는 번들로 제공된 SQLite 앱의 읽기 인터페이스를 호출한다. 이를 통해 정보 탈취용 악성코드가 데이터베이스 파일을 직접 읽을 수 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+PamStealer는 시스템 승인 요청처럼 보이도록 설계된 기본 비밀번호 프롬프트를 표시한다. 프롬프트와 함께 나타나는 텍스트는 "Maccy가 변경을 원합니다. 이를 허용하려면 비밀번호를 입력하세요."라고 말한다. 앞서 언급했듯이, 대상이 응하면 악성코드는 PAM API를 통해 로컬에서 비밀번호를 검증한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+Jamf는 "이 확인은 전적으로 PAM을 통해 이루어지며, 많은 상용 macOS 정보 탈취용 악성코드처럼 dscl, security, osascript 또는 어떤 생성된 프로세스로도 비밀번호를 확인하지 않는다"고 말했다. "결과는 검증된 비밀번호만 유지하는 더 조용한 루틴이며, 방어자가 탐지할 프로세스 체인이 하나 줄어든다."
+&lt;&lt;&lt;PARA&gt;&gt;
+검증에 실패하면 PamStealer는 올바른 비밀번호를 받을 때까지 프롬프트를 다시 표시한다. 대상이 올바른 비밀번호를 입력하면 PamStealer는 파일이 손상되어 설치할 수 없다는 메시지를 표시한다. 이는 대상이 무언가 이상하다고 의심하지 않도록 하기 위한 미끼 역할을 한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 악성코드는 탈취할 수 있는 정보를 최대화하기 위한 전술을 사용한다. 한 가지 전술은 대상이 가짜 Maccy 앱에 전체 디스크 접근 권한을 부여하도록 요청하는 것이다. 또한 이더리움 계정에 접근하도록 설계된 코드도 포함되어 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다양한 기술, 특히 스크립트 편집기 유인책, 자체 포함 JXA 드로퍼, Rust 기반 두 번째 단계, PAM을 통한 로컬 자격 증명 검증은 모두 주목할 만하다.
+&lt;&lt;&lt;PARA&gt;&gt;
+Jamf는 "이러한 행동들은 상용 macOS 정보 탈취용 악성코드가 계속 진화하여 더 조용한 실행 체인과 기본 구현을 채택함으로써 기존 탐지 기회를 줄이면서도 표준 macOS 기능과의 호환성을 유지하고 있음을 보여준다"고 말했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 02 Jul 2026 10:38:57 +0000</pubDate></item></channel></rss>
