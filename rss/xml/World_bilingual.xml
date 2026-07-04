@@ -1,58 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 04 Jul 2026 01:32:42 +0000</lastBuildDate><item><title>Celebrating the World Cup, the English Ask: Who Owns the Flag? (월드컵을 축하하며, 잉글랜드인들이 묻는다: 이 깃발의 주인은 누구인가?)</title><link>https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/01/multimedia/XXINT-UK-ENGLAND-FLAGS-02-wpbj/XXINT-UK-ENGLAND-FLAGS-02-wpbj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;In the heat of a sunny afternoon in late June, Flo Finch unfurled a 5-foot by 3-foot English flag outside her home with the help of a friend.&lt;br/&gt;(6월 말 어느 화창한 오후, 플로 핀치는 친구의 도움을 받아 집 밖에 1.5미터 x 0.9미터 크기의 잉글랜드 국기를 펼쳤다.)&lt;/p&gt;
-&lt;p&gt;A customized message stretched across the width of the red cross at its center: “For Football not Farage.”&lt;br/&gt;(빨간 십자가 한가운데를 가로지르는 맞춤형 메시지에는 이렇게 적혀 있었다: "축구를 위한 것이지, 파라지를 위한 것이 아니다.")&lt;/p&gt;
-&lt;p&gt;Ms. Finch, a huge soccer fan, wanted to show support for England’s team in the World Cup. But she felt strongly about differentiating her display of the flag from the stance of Nigel Farage’s Reform U.K. party and other factions on the right that have embraced the flag as a symbol of their anti-immigrant, nationalist ideology.&lt;br/&gt;(열렬한 축구 팬인 핀치 씨는 월드컵에서 잉글랜드 팀을 지지하는 마음을 보여주고 싶었다. 하지만 그녀는 나이절 파라지의 개혁 영국당과 같은 우파 세력이 반이민·민족주의 이데올로기의 상징으로 채택한 깃발과 자신의 게시물을 분명히 구별해야 한다고 강하게 느꼈다.)&lt;/p&gt;
-&lt;p&gt;England’s national flag, known as the St. George’s flag — white with a bright red cross — is a pervasive presence at violent marches and riots that have increased in frequency and scale in recent years. That’s a message people like Ms. Finch want to avoid when they hang the flag in support of England’s soccer team, which advanced to the round of 16 with a 2-1 victory over the Democratic Republic of Congo on Wednesday.&lt;br/&gt;(밝은 빨간 십자가가 그려진 흰색의 세인트 조지 깃발로 알려진 잉글랜드 국기는 최근 몇 년 사이 빈도와 규모가 증가한 폭력 행진과 폭동 현장에 널리 등장하고 있다. 이는 수요일 콩고 민주 공화국을 2-1로 꺾고 16강에 진출한 잉글랜드 축구팀을 응원하기 위해 깃발을 게양하는 핀치 씨 같은 사람들이 피하려는 메시지다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"저는 사람들이 제 잉글랜드, 제 영국을 빼앗아 본래 모습과 다른 무언가로 변질시키는 걸 용납하지 않을 겁니다."라고 그녀는 말했다. "저는 축구를 사랑해요. 항상 축구를 사랑해왔고, 그래서 그들이 저에게서 그걸 빼앗아가도록 두지 않을 겁니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀가 에식스에 있는 자기 집 외벽에 파라지 반대 메시지가 적힌 현수막을 거는 것은 이번이 네 번째였으며, 이전에 세 번이나 찢겨 내려졌었다고 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 달 월드컵이 시작되면서 열정적인 축구 팬들에 의해 세인트 조지 깃발이 영국 전역의 가정, 술집, 상점에 걸렸다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 일부 잉글랜드 팬들에게 이 깃발은 이제 무엇과 누구를 대표해야 하는지에 대한 격렬한 논쟁의 중심에 서 있다. 개혁 영국당이 이끄는 우익 민족주의 정치 운동이 영국 내에서 인기를 얻으면서 이러한 긴장은 더욱 날카롭게 느껴지고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-핀치 씨는 런던 북동쪽에 있는 에식스에 살고 있으며, 지난 5월 지방선거 이후 개혁 영국당이 처음으로 카운티 의회를 장악한 곳이다. 그녀는 세인트 조지 깃발이 주변 도시와 마을에 점점 더 많이 게양되고 있다고 말하며, 이를 개혁 영국당의 부상과 반이민 운동의 탓으로 돌렸다.
-&lt;&lt;&lt;PARA&gt;&gt;
-온라인으로 깃발을 주문한 후, 핀치 씨는 틱톡에 관련 게시물을 올렸고 빠르게 100만 회 이상의 조회수를 기록했다. 다른 사람들도 축구에 대한 충성심뿐만 아니라 이민, 인종, 잉글랜드 정체성에 대한 자신의 입장을 분명히 밝히기 위해 세인트 조지 깃발을 비슷하게 맞춤 제작했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"깃발 논쟁은 현재 국가 정체성과 그 안에 누가 포함되는지에 대한 더 넓은 투쟁의 증상과 같습니다."라고 영국의 반인종차별 옹호 단체 호프 낫 헤이트의 연구 책임자 조 멀홀이 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-세인트 조지 깃발은 지난해 여름 '작전 깃발을 올려라'라는 캠페인의 일환으로 영국 유니언 잭과 함께 전국 가로등 기둥에 등장하기 시작했다. (영국은 잉글랜드, 스코틀랜드, 웨일스, 북아일랜드의 네 국가로 구성되어 있으므로 유니언 잭은 전체를 대표한다. 각 국가는 자체 국기를 가지고 있으며, 북아일랜드의 경우 지역 주민을 대표하는 하나 이상의 기가 있다.)
-&lt;&lt;&lt;PARA&gt;&gt;
-호프 낫 헤이트의 분석에 따르면, '깃발을 올려라'는 초기 단계에서 잘 알려진 극우 활동가들에 의해 조직되었다. 곧 온라인으로 퍼져 나갔고 전국 각지의 다양한 집단이 동참하게 되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-작가이자 텔레비전 뉴스 진행자이며 개혁 영국당의 전 후보였던 맷 굿윈은 BBC와의 인터뷰에서 '깃발을 올려라'에 참여한 많은 사람들이 "기성 체제가 이제 그들은 더 이상 존재하지 않는다고 말하고 있다고 느꼈기 때문에" 잉글랜드 국기를 게양했다고 말했다. 그는 또한 잉글랜드인임을 "일종의 명확히 정의된 민족 집단과 혈통을 가진" 뚜렷한 정체성으로 보고 있다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-비평가들은 그러한 불만이 인종과 민족에 대한 민족주의적 관점을 암시하는 코드라고 말한다. '깃발을 올려라'는 현재는 추진력을 잃었지만, 일부 지역에서는 사람들이 허가 없이 공공 가로등 기둥에 깃발을 게양하여 지방 의회와 갈등을 빚고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이러한 긴장은 "제도와 의회를 매우 어려운 상황에 놓이게 합니다."라고 멀홀 씨는 말했다. "해당 국가의 깃발을 게양하는 것 자체에는 명백히 잘못된 점이 없기 때문입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 어떤 경우에는 깃발이 "영역 표시로 사용되며, 집단 내부와 외부를 구분 짓는 지표로 사용된다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-파라지 씨 자신도 이 논쟁에 뛰어들어, 사람들이 가로등 기둥에 깃발을 게양하는 것을 막으려는 지방 당국은 애국심이 없고 "잉글랜드 국기를 부끄러워한다"고 성명에서 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이 나라로 이사 와서 우리 국기가 마음에 들지 않는다면, 아주 간단한 아이디어가 있습니다. 당신이 온 곳으로 돌아가세요."라고 그는 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-11월 유고브 여론조사에 따르면, '깃발을 올려라' 캠페인이 절정에 달한 후 영국 대중의 대다수는 잉글랜드 국기가 주로 반이민 또는 반소수자 정서를 표현하는 방식으로 게양되고 있다고 생각했다. 또한 조사된 소수 민족 출신 성인의 절반 이상이 세인트 조지 깃발이 이제 인종차별적 상징이라고 느꼈다.
-&lt;&lt;&lt;PARA&gt;&gt;
-멀홀 씨는 현재 극우뿐만 아니라 중도우파 내에서도 잉글랜드인이 혈통이나 핏줄로 정의되며 '백인성'이 필수 요소라는 견해가 널리 퍼져 있다고 믿는다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 논쟁은 글로벌 스포츠 대회인 월드컵을 배경으로 펼쳐지고 있다. 오랫동안 팬들은 애국심과 지지를 표시하는 수단으로 깃발을 휘날려 왔다. 런던 남부에 있는 지방 당국이 건설한 공공 주택 단지인 커비 에스테이트의 거주자 크리스 다우스(47)는 스포츠 측면만이 유일하게 중요해야 한다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"모든 것은 축구에 관한 것이에요, 그것만이 우리가 신경 쓰는 전부입니다."라고 그는 말했다. 이 아파트 단지는 주요 축구 대회를 기념하여 잉글랜드 국기의 흰색과 빨간색으로 장식되어 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-재활용 업계에서 일하는 다우스 씨는 2012년 유럽 선수권 대회 때 이곳에서 시작된 깃발 게시 tradition의 주요 조직자 중 한 명이며, 그 이후로 규모가 커졌다. 주요 축구 대회 기간 동안 주민들은 수백 개의 깃발을 두르며, 축구 팬과 심지어 잉글랜드 선수들까지 이 단지를 순례하곤 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-6월 말 저녁, 주민들은 난간에서 펄럭이는 수백 개의 잉글랜드 국기와 발코니 사이를 가로지르는 깃발 장식 아래에서, 참을 수 없는 더위를 식히려고 야외 발코니에 느긋하게 앉아 있었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"축구는 친근하고 약간의 농담이 오가는 거예요."라고 다우스 씨는 말하며, 이곳에 잉글랜드 국기를 거는 것은 포용적이고 공동체 지향적인 국가적 자부심을 축하하는 방법이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 정치를 하지 않아요."라고 그는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-수년간 런던에 거주한 미국인으로서, 이 나라의 국기(혹은 여러 국기)에 대한 관계가 뚜렷이 다르게 느껴진다는 점이 항상 인상적이었다. 지난달 돌아다니며 월드컵이 시작되면서 훨씬 더 많은 잉글랜드 국기가 게양되는 것을 보면서, 나는 주요 스포츠 이벤트 기간에 사람들의 국기에 대한 인식이 어떻게 변하는지 궁금했다. 세인트 조지 깃발(잉글랜드의 국가적 깃발)의 게양은 점점 더 개혁 영국당의 부상과 함께 영국 정치에 발판을 마련한 성장하는 극우 운동과 연관되어 왔다. 이 깃발은 최근 몇 년 사이 빈도와 규모가 증가한 폭력 행진과 폭동 현장에 널리 등장하게 되었다. 그리고 지난해 여름 '작전 깃발을 올려라'라는 캠페인 이후, 이 깃발은 전국 가로등 기둥에도 나타나기 시작했다(자세한 내용은 기사에서 확인할 수 있다). 국가 국기가 거의 어디에나 게양되는 미국의 전통과 달리, 잉글랜드의 공공 장소에서의 국가 국기 게시에 대한 관계는 항상 조금 더 복잡하고, 어쩌면 일부에게는 더 부담스러운 느낌이었다. 이러한 긴장은 잉글랜드 축구팀이 월드컵에 참가하는 현재 특히 날카롭게 느껴진다. 많은 팬들이 지지를 표시하고 싶어 하지만, 일부는 깃발이 자신들에게 대표하는 반이민 또는 때로는 노골적인 인종차별적 정치와 자신의 게시물을 구별해야 한다고 느낀다. 다른 이들은 정치에서 완전히 멀어지길 원한다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/01/multimedia/XXINT-UK-ENGLAND-FLAGS-02-wpbj/XXINT-UK-ENGLAND-FLAGS-02-wpbj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 02 Jul 2026 05:55:56 +0000</pubDate></item><item><title>Crew Member Is Missing After Helicopter’s Emergency Landing in Arabian Sea, Navy Says (해군, 아라비아해 헬리콥터 비상착수 후 승무원 1명 실종)</title><link>https://www.nytimes.com/2026/07/01/us/navy-helicopter-rescue-missing-person.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/01/multimedia/01xp-navy-fbkv/01xp-navy-fbkv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 04 Jul 2026 05:45:28 +0000</lastBuildDate><item><title>Crew Member Is Missing After Helicopter’s Emergency Landing in Arabian Sea, Navy Says (해군, 아라비아해 헬리콥터 비상착수 후 승무원 1명 실종)</title><link>https://www.nytimes.com/2026/07/01/us/navy-helicopter-rescue-missing-person.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/01/multimedia/01xp-navy-fbkv/01xp-navy-fbkv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Three crew members of an MH-60S Sea Hawk helicopter were rescued and one remained missing after the vessel made an “emergency water landing” in the Arabian Sea early on Wednesday, according to a statement from U.S. Naval Forces Central Command.&lt;br/&gt;(미 중부 해군사령부의 발표에 따르면, 수요일 새벽 아라비아해에서 MH-60S 시호크 헬리콥터가 "비상 해상 착수"를 한 후 승무원 3명이 구조되었고 1명이 실종 상태다.)&lt;/p&gt;
 &lt;p&gt;The three crew members were in stable condition on board the U.S.S. George H.W. Bush, the aircraft carrier to which the four-person helicopter was assigned, and the Navy was continuing to search for the fourth member, the statement said.&lt;br/&gt;(발표에 따르면, 구조된 3명의 승무원은 항공모함 USS 조지 H.W. 부시호에서 안정된 상태이며, 해군은 4번째 승무원 수색을 계속하고 있다. 이 헬리콥터는 4인승으로 해당 항공모함에 배속되어 있었다.)&lt;/p&gt;
 &lt;p&gt;The emergency landing is under investigation, but there is no indication that it was caused by “hostile action,” the Navy said.&lt;br/&gt;(해군은 이 비상 착수에 대해 조사 중이지만, "적대적 행위"로 인한 것이라는 증거는 없다고 밝혔다.)&lt;/p&gt;
