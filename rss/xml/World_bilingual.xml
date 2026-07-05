@@ -1,25 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 05 Jul 2026 17:02:42 +0000</lastBuildDate><item><title>Carney Unveils Western Canada Mega-Projects to Boost Asia Trade (카니, 아시아 무역 확대 위해 서부 캐나다 메가 프로젝트 공개)</title><link>https://www.nytimes.com/2026/07/02/world/canada/carney-trade-oil-pipeline-alberta-british-columbia.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02INT-CANADA-WEST-SUB-lwqk/02INT-CANADA-WEST-SUB-lwqk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Canada took another step toward breaking its economic dependence on the United States on Thursday, as Prime Minister Mark Carney announced a slew of infrastructure projects in the country’s West to boost exports to Asia.&lt;br/&gt;(캐나다가 목요일, 마크 카니 총리가 서부 지역의 대규모 인프라 프로젝트를 발표하며 아시아 수출 확대를 추진함으로써 미국에 대한 경제 의존도에서 벗어나기 위한 또 한 걸음을 내디뎠다.)&lt;/p&gt;
-&lt;p&gt;Key among the proposed projects is a new pipeline that would take oil from the landlocked province of Alberta to the southern coast of British Columbia near Vancouver, where tankers would transport it to Asian markets. Alberta currently sells nearly all of its oil to the United States.&lt;br/&gt;(제안된 프로젝트 중 핵심은 내륙 주인 앨버타주에서 브리티시컬럼비아주 남부 해안인 밴쿠버 인근까지 송유관을 건설해 유조선을 통해 아시아 시장으로 원유를 운송하는 것이다. 현재 앨버타주는 거의 모든 원유를 미국에 판매하고 있다.)&lt;/p&gt;
-&lt;p&gt;Other major energy export plans include building up multiple liquefied natural gas terminals along the northern coast of British Columbia to triple the country’s L.N.G. production, and expanding the deep-sea port of Prince Rupert in the same region, which offers faster travel times for vessels heading to Asian destinations.&lt;br/&gt;(다른 주요 에너지 수출 계획으로는 브리티시컬럼비아주 북부 해안에 여러 액화천연가스 터미널을 건설해 캐나다의 LNG 생산량을 세 배로 늘리고, 같은 지역의 프린스 루퍼트 심해항을 확장해 아시아 목적지로 향하는 선박의 항해 시간을 단축하는 것이 포함된다.)&lt;/p&gt;
-&lt;p&gt;Mr. Carney also said that the Canadian government would expand the port of Vancouver, which is the main departure point for exports to Asia but has reached its capacity and would need to grow to carry additional goods.&lt;br/&gt;(카니 총리는 또한 캐나다 정부가 아시아 수출의 주요 출발점이지만 용량이 한계에 도달해 추가 물량을 처리하려면 확장이 필요한 밴쿠버항을 확대할 것이라고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;The projects make up a multibillion-dollar strategy to help Canada ship large volumes of energy and other goods to Asian markets amid a breakdown in its economic relationship with the United States under President Trump.&lt;br/&gt;(이 프로젝트들은 트럼프 대통령 아래에서 대미 경제 관계가 악화되는 가운데 캐나다가 대규모 에너지 및 기타 물품을 아시아 시장으로 수출하는 데 도움을 주기 위한 수십억 달러 규모의 전략을 구성한다.)&lt;/p&gt;
-&lt;p&gt;“In a more dangerous and divided world, our strategy is to focus on what we can control, by building our strength at home and diversifying our partnerships abroad,” Mr. Carney said at an event in Vancouver on Thursday, adding that the initiatives would “unlock” 150 billion Canadian dollars ($105 billion) in new investments&lt;br/&gt;("더 위험하고 분열된 세계에서 우리의 전략은 통제 가능한 것에 집중해 국내에서 강점을 키우고 해외 파트너십을 다양화하는 것입니다."라고 카니 총리는 목요일 밴쿠버에서 열린 행사에서 말하며, 이 계획들이 1,500억 캐나다 달러(약 1,050억 미국 달러)의 신규 투자를 "개방"할 것이라고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;Later Thursday, he traveled to Calgary, Alberta, to announce details of the new oil pipeline alongside the province’s premier, Danielle Smith.&lt;br/&gt;(이날 오후 그는 캘거리(앨버타주)로 이동해 앨버타주 주지사 대니엘 스미스와 함께 새 송유관의 세부 사항을 발표했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Carney and Ms. Smith said the pipeline would run alongside an existing one known as TMX and move one million barrels of oil a day. Stakeholders in the new project would include the federal and provincial governments, Indigenous groups whose territories the pipeline runs through, and a private-sector company.&lt;br/&gt;(카니 총리와 스미스 주지사는 이 송유관이 기존 TMX 송유관과 나란히 설치되어 하루 100만 배럴의 원유를 운반할 것이라고 밝혔다. 새 프로젝트의 이해관계자로는 연방 및 주 정부, 송유관이 통과하는 영토의 원주민 단체, 그리고 민간 기업이 포함될 예정이다.)&lt;/p&gt;
-&lt;p&gt;The announcements came a day after the U.S. administration said it would not renew the free-trade agreement it has with Canada and Mexico, putting North American trade, already disrupted by tariffs, in a new state of upheaval.&lt;br/&gt;(이번 발표는 미 행정부가 캐나다 및 멕시코와의 자유무역협정을 갱신하지 않겠다고 밝힌 다음 날 이루어졌으며, 이는 이미 관세로 혼란을 겪고 있는 북미 무역을 새로운 격변 상태로 몰아넣었다.)&lt;/p&gt;
-&lt;p&gt;Since taking office last spring, Mr. Carney has traveled extensively to Asia and Europe, trying to line up export markets for Canada, with the goal of doubling the country’s exports to non-U.S. markets over the next decade.&lt;br/&gt;(지난 봄 취임 이후 카니 총리는 아시아와 유럽을 광범위하게 방문하며 캐나다의 수출 시장을 확보하려 노력해 왔으며, 향후 10년 동안 비미국 시장에 대한 수출을 두 배로 늘리는 것을 목표로 하고 있다.)&lt;/p&gt;
-&lt;p&gt;The ambitious plans laid out on Thursday are politically potent in Canada, both for Mr. Carney and for the provinces of Alberta and British Columbia, whose interests are often conflicting.&lt;br/&gt;(목요일에 발표된 야심 찬 계획들은 캐나다 내에서 카니 총리와 앨버타주 및 브리티시컬럼비아주 모두에게 정치적으로 큰 의미를 지닌다. 이 두 주의 이해관계는 종종 충돌한다.)&lt;/p&gt;
-&lt;p&gt;Mr. Carney has staked his leadership on generational, nation-building projects that will help Canada survive what he’s called a “rupture” precipitated by the Trump presidency. He is under pressure to start delivering on them as trade talks with the United States drag on.&lt;br/&gt;(카니 총리는 자신의 지도력을 트럼프 행정부가 촉발한 이른바 "단절"에서 캐나다가 살아남는 데 도움이 될 세대를 아우르는 국가 건설 프로젝트에 걸고 있다. 대미 무역 협상이 지연됨에 따라 그는 이러한 프로젝트를 실제로 실행해야 한다는 압박을 받고 있다.)&lt;/p&gt;
-&lt;p&gt;Support for a major new oil pipeline from Alberta to the West Coast is seen as vital to keeping the province in the country amid a push for secession. Albertan separatists point to a lack of federal government support for more oil projects as evidence that the province cannot succeed within Canada and should break away to realize its potential. A vote to decide on whether to hold a referendum on secession will take place in mid-October.&lt;br/&gt;(앨버타주에서 서부 해안까지 이어지는 대규모 새 송유관에 대한 지원은 분리 독립 움직임 속에서 이 주를 캐나다에 잔류시키는 데 필수적인 것으로 여겨진다. 앨버타 분리주의자들은 연방 정부가 더 많은 석유 프로젝트를 지원하지 않는 점을 들어 이 주가 캐나다 내에서 성공할 수 없으며 잠재력을 발휘하려면 분리되어야 한다고 주장한다. 분리 독립 국민투표 실시 여부를 결정하는 투표가 10월 중순에 열릴 예정이다.)&lt;/p&gt;
-&lt;p&gt;The embrace of more oil development marks a major departure from the previous government led by Justin Trudeau, which had introduced measures curbing oil extraction on environmental grounds, angering Albertans.&lt;br/&gt;(더 많은 석유 개발을 수용하는 이 접근 방식은 이전 저스틴 트뤼도 정부와 크게 달라진 점이다. 트뤼도 정부는 환경적 이유로 석유 추출을 억제하는 조치를 도입해 앨버타 주민들의 분노를 샀다.)&lt;/p&gt;
-&lt;p&gt;But Mr. Carney’s approach does maintain some longstanding environmental protections, including, crucially, tight restrictions on the movement of tankers off the northern coast of British Columbia, a particularly sensitive issue in the region in part because of strong opposition to the large oil-carrying vessels by coastal Indigenous groups. Mr. Carney and Ms. Smith have also agreed that Alberta will oversee the construction of a major carbon-capture project.&lt;br/&gt;(그러나 카니 총리의 접근 방식은 일부 장기적인 환경 보호 조치를 유지하고 있으며, 특히 브리티시컬럼비아주 북부 해안에서 유조선 이동에 대한 엄격한 제한을 포함한다. 이 지역에서는 해안 원주민 단체들의 대형 유조선에 대한 강한 반대 때문에 이 문제가 특히 민감하다. 카니 총리와 스미스 주지사는 또한 앨버타주가 대규모 탄소 포집 프로젝트의 건설을 감독하기로 합의했다.)&lt;/p&gt;
-&lt;p&gt;The Conservative opposition party has repeatedly called out Mr. Carney for making big announcements but, more than a year in, having little to show for them.&lt;br/&gt;(야당인 보수당은 카니 총리가 큰 발표를 반복하지만, 취임 후 1년이 넘도록 실제 성과가 거의 없다고 반복해서 비판하고 있다.)&lt;/p&gt;
-&lt;p&gt;On Thursday Mr. Carney listed a number of big projects but did not always elaborate on how much each will cost, who will pay for them, or when they will be ready, although he did commit federal government funding for some, including the expansion of the port of Vancouver and the Alberta pipeline.&lt;br/&gt;(목요일 카니 총리는 여러 대규모 프로젝트를 나열했지만, 각 프로젝트의 비용, 자금 출처, 완공 시기에 대해 항상 자세히 설명하지는 않았다. 다만 밴쿠버항 확장과 앨버타 송유관 등 일부 프로젝트에는 연방 정부 자금을 지원하겠다고 약속했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Carney acknowledged that the pace of investment and infrastructure development in Canada was too slow to meet the country’s needs for jobs and growth, a complaint from the private sector, which points to cumbersome government regulations and bureaucracy.&lt;br/&gt;(카니 총리는 캐나다의 투자 및 인프라 개발 속도가 일자리와 성장에 대한 국가적 수요를 충족시키기에는 너무 느리다는 점을 인정했다. 이는 민간 부문이 번거로운 정부 규제와 관료제를 지적하며 제기해 온 불만이다.)&lt;/p&gt;
-&lt;p&gt;“To seize these opportunities, Canada has to do things differently,” Mr. Carney said. “We need to move faster, build bigger, and work together,” he added.&lt;br/&gt;("이러한 기회를 잡기 위해 캐나다는 다르게 행동해야 합니다."라고 카니 총리는 말했다. "더 빠르게 움직이고, 더 크게 건설하며, 함께 협력해야 합니다."라고 덧붙였다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/02/world/canada/carney-trade-oil-pipeline-alberta-british-columbia.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/02/multimedia/02INT-CANADA-WEST-SUB-lwqk/02INT-CANADA-WEST-SUB-lwqk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 02 Jul 2026 16:43:33 +0000</pubDate></item><item><title>With Attacks on Crimea, Ukraine Hopes to Pressure Putin to End the War (크림반도 공격으로 우크라이나, 푸틴 전쟁 종식 압박 기대)</title><link>https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02int-russia-crimea-mpkc/02int-russia-crimea-mpkc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 05 Jul 2026 19:05:32 +0000</lastBuildDate><item><title>With Attacks on Crimea, Ukraine Hopes to Pressure Putin to End the War (크림반도 공격으로 우크라이나, 푸틴 전쟁 종식 압박 기대)</title><link>https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/02/multimedia/02int-russia-crimea-mpkc/02int-russia-crimea-mpkc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Ukraine is trying to turn Crimea into a new pressure point for the Kremlin, aiming to inflict so much pain on a region especially dear to President Vladimir V. Putin of Russia that he will agree to end the war.&lt;br/&gt;(우크라이나는 크림반도를 크렘린에 대한 새로운 압박 지점으로 만들려고 한다. 이는 러시아의 블라디미르 V. 푸틴 대통령이 특히 소중히 여기는 지역에 큰 고통을 가해 그가 전쟁을 끝내도록 동의하게 만들기 위함이다.)&lt;/p&gt;
 &lt;p&gt;Crimea has long been a flashpoint between the two countries, even before Russia captured the region — a peninsula jutting into the Black Sea — and annexed it in 2014.&lt;br/&gt;(크림반도는 러시아가 이 지역—흑해로 돌출한 반도—을 장악하고 2014년 합병하기 전부터 두 국가 간의 오랜 갈등 지점이었다.)&lt;/p&gt;
 &lt;p&gt;Since the days of Catherine the Great, Crimea has functioned as a Russian military stronghold and a place for faraway Moscow to project its power into the Black Sea. Even when independent Ukraine controlled the territory, Russia kept a huge naval presence in Sevastopol, the peninsula’s biggest city. In 2014, Mr. Putin’s military attacks on Ukraine began with an invasion of Crimea, making the peninsula particularly symbolic.&lt;br/&gt;(예카테리나 대제 시대부터 크림반도는 러시아의 군사 요새이자 먼 모스크바가 흑해로 영향력을 투사하는 장소로 기능해왔다. 독립 우크라이나가 이 영토를 통제할 때조차 러시아는 반도 최대 도시인 세바스토폴에 대규모 해군을 주둔시켰다. 2014년, 푸틴 대통령의 우크라이나 군사 공격은 크림반도 침공으로 시작되어 이 반도가 특히 상징적인 의미를 갖게 되었다.
@@ -637,7 +617,7 @@ BBC는 목요일 그가 “교도소를 떠났다”고 보도했다. 그가 14�
 &lt;p&gt;Five people suffered severe or light injuries from the explosion, including a woman who was in critical condition, Mr. Raymond said. The German authorities said in their statement that the attack targeted Ukrainian citizens, but their counterparts in Monaco have declined to comment on the victims’ identity. Outlets in France, Monaco and Ukraine said one of the victims was a Ukrainian businessman, but The New York Times has not verified that assertion.&lt;br/&gt;(레이먼드 씨는 폭발로 인해 중상에서 경상을 입은 다섯 명이 있으며, 그 중 한 여성은 위독한 상태라고 말했다. 독일 당국은 성명에서 이 공격이 우크라이나 시민을 대상으로 했다고 밝혔지만, 모나코 당국은 피해자 신원에 대해 언급을 거부했다. 프랑스, 모나코, 우크라이나의 언론들은 피해자 중 한 명이 우크라이나 사업가라고 보도했지만, 뉴욕타임스는 이 주장을 확인하지 못했다.)&lt;/p&gt;
 &lt;p&gt;Two other people suspected of helping Ms. Berezovska were briefly placed in custody earlier this week, Mr. Raymond said. They were released because there was no evidence that they were involved, he said.&lt;br/&gt;(레이먼드 씨는 베레조프스카 씨를 도운 혐의를 받는 다른 두 명이 이번 주 초에 잠시 구금되었지만, 관련 증거가 없어 석방되었다고 말했다.)&lt;/p&gt;
 &lt;p&gt;Christopher F. Schuetze contributed reporting from Berlin.&lt;br/&gt;(크리스토퍼 F. 슈체가 베를린에서 보도에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/03/world/europe/monaco-bomb-suspect-ukraine-anastasiia-berezovska.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/03/multimedia/03int-monaco-bomber-whjb/03int-monaco-bomber-whjb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 03 Jul 2026 05:52:21 +0000</pubDate></item><item><title>An America 250 Celebration Left Soot Marks on a Belgian Museum (미국 250주년 기념 행사, 벨기에 박물관에 그을음 흔적 남겨)</title><link>https://www.nytimes.com/2026/07/03/world/europe/belgium-building-damaged-america-250-fireworks.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/03/multimedia/03int-belgium-fireworks-1-vfhb/03int-belgium-fireworks-1-vfhb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/03/world/europe/monaco-bomb-suspect-ukraine-anastasiia-berezovska.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/03/multimedia/03int-monaco-bomber-whjb/03int-monaco-bomber-whjb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 03 Jul 2026 05:52:22 +0000</pubDate></item><item><title>An America 250 Celebration Left Soot Marks on a Belgian Museum (미국 250주년 기념 행사, 벨기에 박물관에 그을음 흔적 남겨)</title><link>https://www.nytimes.com/2026/07/03/world/europe/belgium-building-damaged-america-250-fireworks.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/03/multimedia/03int-belgium-fireworks-1-vfhb/03int-belgium-fireworks-1-vfhb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The U.S. ambassador to Belgium, Bill White, booked a public park in Brussels for an invitation-only party to celebrate 250 years of American independence last weekend. There were lobster rolls, country music and fireworks.&lt;br/&gt;(주벨기에 미국 대사 빌 화이트는 지난 주말 브뤼셀의 공원을 대관해 미국 독립 250주년을 기념하는 초청 전용 파티를 열었다. 행사에는 랍스터롤, 컨트리 음악, 불꽃놀이가 준비되었다.)&lt;/p&gt;
 &lt;p&gt;Evidently, there was also damage.&lt;br/&gt;(분명히, 피해도 발생했다.)&lt;/p&gt;
 &lt;p&gt;The fireworks display left black marks on a building in the Cinquantenaire Park, Mr. White confirmed by phone on Friday. He said the fireworks company hired for the event would handle the repairs and said that a storm the night before the event may have washed protective coating from the structure.&lt;br/&gt;(화이트 대사는 금요일 전화 인터뷰를 통해 시네캉트네르 공원 내 건물에 불꽃놀이로 인한 검은 자국이 남았다고 확인했다. 그는 행사를 위해 고용된 불꽃놀이 업체가 수리를 담당할 것이며, 행사 전날 폭풍으로 건물 보호 코팅이 씻겨 나갔을 가능성도 있다고 말했다.)&lt;/p&gt;
@@ -739,7 +719,71 @@ BBC는 목요일 그가 “교도소를 떠났다”고 보도했다. 그가 14�
 "그들이 나쁜 경험을 했다면 오지 않을 것입니다"라고 그녀는 말했습니다. "오히려 그 반대입니다."
 &lt;&lt;&lt;PARA&gt;&gt;
 관광은 멕시코 경제의 큰 기둥이며, 미국 방문객이 가장 큰 고객입니다. 그래서 이 라틴 아메리카 지역을 담당하는 국제 특파원으로서, 저는 멕시코 정부가 세계에서 다섯 번째로 많이 방문한 국가가 되려는 목표에 대해 듣고 트럼프가 이미 이 지역의 여행에 미치는 영향을 본 후, 더 큰 이야기로 실마리를 연결하기 시작했습니다. 그리고 큰 관광 이벤트인 월드컵은 완벽한 시기처럼 느껴졌습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/30/multimedia/30int-worldcup-mexico-tourism-3-qzvk/30int-worldcup-mexico-tourism-3-qzvk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 04 Jul 2026 09:03:09 +0000</pubDate></item><item><title>Happy Birthday to Us (우리의 생일을 축하하며)</title><link>https://www.nytimes.com/2026/07/04/briefing/happy-birthday-to-us.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2020/04/21/multimedia/THE-MORNING-SECTION-BREAK/THE-MORNING-SECTION-BREAK-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/30/multimedia/30int-worldcup-mexico-tourism-3-qzvk/30int-worldcup-mexico-tourism-3-qzvk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 04 Jul 2026 09:03:09 +0000</pubDate></item><item><title>Rebel Catholics Defy Vatican’s Calls to Return to Mainstream Church (반항적 가톨릭 신자들, 바티칸의 주류 교회 복귀 요구에 맞서다)</title><link>https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/05/multimedia/05int-Switzerland-Schism-cgmh/05int-Switzerland-Schism-cgmh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;When the Vatican excommunicated the priesthood of a rebel conservative faction last week, creating the biggest schism in Roman Catholicism in decades, it also hoped to drive the group’s many followers back to the mainstream church.&lt;br/&gt;(바티칸이 지난주 반항적 보수파의 성직자들을 파문하며 수십 년 만에 로마 가톨릭 내에서 가장 큰 분열을 일으켰을 때, 이 조치가 집단의 많은 추종자들을 주류 교회로 되돌아가게 하기를 바랐다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 아르헨티나, 이탈리아, 스위스에 있는 이 분파 추종자들과의 인터뷰에 따르면, 이 처벌은 오히려 반항에 부딪혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+프랑스에서 이 분파가 운영하는 학교의 교사인 블랑딘 기욤맹(42세)은 "아무것도 바뀌지 않았다"고 말했다. 기욤맹 씨는 바티칸이 분파에 충성하는 신자들을 파문하겠다고 위협하더라도 자신은 성 비오 10세회(Society of St. Pius X)라는 이 분파에 남을 것이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 신의 뜻을 따르고 있다고 확신합니다"라고 기욤맹 씨는 말했다. 그녀는 교회를 대표하는 것은 바티칸이 아니라 이 회이며, "순수하고 진정한 가톨릭"이라고 주장했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+기욤맹 씨의 반항은 1970년에 제2차 바티칸 공의회(1962-1965) 이후 로마 가톨릭 교회의 현대화 전환에 항의하기 위해 설립된 이 회와 바티칸 사이의 56년에 걸친 교착 상태의 절정을 보여주었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 회는 공의회가 가톨릭 예배 형식을 바꾼 것을 한탄한다. 공의회는 사제들이 현지 언어로 예배를 드리는 것을 허용했지만, 이 회는 여전히 전통 라틴 미사를 고수하며 경외심과 신비로움을 보존한다고 주장한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 회는 또한 공의회 가르침의 본질을 거부하며, 그것이 교회의 천 년 전통 가르침과 모순된다고 말한다. 회원들은 공의회가 다른 종교를 수용하고 종교 간 대화와 다른 기독교 교파에 대한 접근을 추진한 것에 반대한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그들은 공의회를 가톨릭 교회 종말의 시작으로 지목하며, 이로 인해 유럽 교회의 신자 수가 줄고, 설교단의 사제 수가 감소했으며, 갖가지 이단과 오류가 생겼다고 주장한다. (실제로 가톨릭 신자 수는 적어도 미국과 아프리카에서는 증가하고 있다.)
+&lt;&lt;&lt;PARA&gt;&gt;
+레오 교황을 포함한 바티칸 지도자들은 자연히 이 분파의 입장에 반박하며 그것이 핵심 교회 가르침과 결별했다고 말한다. 레오 교황은 지난달 추종자들이 "교회의 특정 근본 요소를 받아들이기를 거부한다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+바티칸의 홍보 부서 운영을 돕는 고위 관계자 안드레아 토르니엘리는 목요일 사설에서 이 분파가 가톨릭 가르침의 다양성을 받아들이기를 거부하기 때문에 "가톨릭 신앙과 매우 동떨어져 있다"고 썼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이러한 의견 충돌은 지난주 스위스의 작은 마을 에코네에서 절정에 달했다. 이곳은 이 회의 창립자 마르셀 르페브르 대주교가 1970년 첫 신학교 건설을 감독한 곳이다. 수요일 의식이 가득한 예식에서 이 회의 새 지도자들은 레오 14세 교황의 뜻을 거역하고 네 명의 주교를 축성했으며, 이 회는 이 행사에 약 17,000명이 모였다고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하루 뒤 바티칸은 이 회가 교회와 분열 상태에 있다고 선언하고 주교들(수요일 예식 후 총 6명)과 사제들에 대한 파문령을 내려 혼인 집례와 고해 성사 집행을 금지했으며, 이는 무효로 간주되도록 했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다른 성직자와 평신도 신자들은 이 회의 가르침을 계속 따를 경우 파문될 위험이 있다고 통보받았다. 바티칸은 이 회를 떠나고자 하는 이들에게 가톨릭 품으로 돌아올 수 있는 구체적인 지침을 제시하며 화해의 손길을 내밀었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+금요일 에코네에서 그 간청은 무시된 것으로 보였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 회의 총장 다비데 팔리아라니 신부는 공개 성명에서 축성을 취소하거나 사과하지 않았으며, 바티칸의 결정을 "객관적으로 부당하고 무효"라고 묘사했다. 그럼에도 그는 파문에 대한 이 회의 첫 공식 대응인 편지에서 "쓰라림이나 반역 없이" 바티칸의 입장을 받아들이며 "거룩한 교회를 더욱 사랑하겠다"고 약속했다고 썼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+에코네가 최근 몇 일처럼 북적이지는 않았지만, 이 마을은 일주일간의 예식 후 정리 작업을 하는 회원들로 여전히 활기찼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+새로 축성된 주교 중 한 명인 마르크 아나피에 주교는 밝은 금색 십자가를 착용하고 경건하게 무릎 꿇는 신자들에게 축복을 내리기 위해 멈췄다. 아이들은 그의 오른손 반지에 입을 맞추기 위해 무릎을 꿇었다. 그는 기자와 이야기할 시간이 없다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 회는 약 1,500명의 정식 회원(절반은 사제)만 있지만, 관계자들은 전 세계적으로 30만에서 60만 명의 평신도 추종자를 확보하고 있다고 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+신학생들은 수백 개의 의자를 쌓고, 나무 단상을 해체하고, 전봇대에 올라 전선을 풀며 놀랍도록 민첩하게 움직였다. 긴 검은 수단에도 불구하고 말이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+르페브르 대주교가 묻힌 예배당 밖의 홀은 임시 서점으로 변신했다. 창립자의 전기, 다양한 성인에 관한 어린이 책들, 그리고 전 교황 요한 바오로 2세의 성덕에 의문을 제기하는 한 권의 책이 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+요한 바오로 2세는 1988년 이전 대치 상황에서 르페브르 대주교와 그가 축성한 네 명의 주교를 파문했다. 베네딕토 16세 교황 아래에서 관계가 개선되어 2009년 생존 주교들의 파문을 해제했고, 프란치스코 교황은 사제들이 혼인 집례와 고해 성사를 집행할 수 있도록 허용했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+프랑스 리옹에 있는 이 회 학교의 교사인 클레어-마리 브뤼네(55세)는 바티칸의 결정에 이의를 제기했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"파문은 잘못에 대한 처벌이지만, 잘못이 없다면 단지 불공평할 뿐입니다"라고 그녀는 말했다. "신자들을 파문하고 주교들을 파문하는 것은 바티칸이 2천 년의 기독교 역사를 파문하는 것과 같습니다. 우리는 사도들이 가르친 어떤 것도 바꾸지 않았기 때문입니다"라고 그녀는 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이러한 반항은 대서양 건너 아르헨티나 부에노스아이레스에서도 울려 퍼졌다. 그곳에서는 목요일 저녁 도시의 가장 번화한 도로 중 하나 뒤에 자리 잡은 교회에서 성 비오 10세회 신자들이 미사를 위해 모였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 분명히 이단자로 낙인찍혔군요"라고 경제학 학생인 티아고 베를랑가(23세)가 교회 문 밖에 서서 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다른 참석자들과 마찬가지로 베를랑가 씨는 레오 교황의 파문 명령에 분노했다. "저는 계속 이곳에 올 것입니다"라고 그는 말했다. "이단자는 다른 사람들입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+베를랑가 씨는 가톨릭 규칙을 위반하는 것은 성 비오 10세회가 아니라 교회의 현대화파라고 말했다. 그는 동성 결합을 축복하는 사제들, 이혼한 사람들에게 성체를 주는 것, 그리고 가톨릭을 유대교나 불교와 동등하게 대우하는 것 등을 불만으로 꼽았다. 그는 일부 "설교가 TED 강연처럼 들린다"며 미사에서 "작은 기타 같은 걸로 음악을 연주한다"고 불평했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"오늘날 교회는 모든 사람을 환영합니다"라고 그는 말했다. "동성애자가 될 수도 있고, 간음자가 될 수도 있습니다. 전통주의자만 빼고 모든 것이 가능합니다." 부에노스아이레스의 성 비오 10세회 수도원 미사에는 기타도 없었고, 심지어 피아노나 노래도 없었다. 일반 미사보다 무릎 꿇는 횟수가 더 많았고, 가슴을 치는 동작도 더 많았으며, 평화의 인사는 없었고, 라틴어가 훨씬 더 많이 사용되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 교황을 위해 기도합니다"라고 베를랑가 씨는 말했다: "교황을 위해 기도하는 신자들을 어떻게 '분열주의자'라고 부를 수 있습니까?"
+&lt;&lt;&lt;PARA&gt;&gt;
+로마 외곽의 알바노 라치알레에서 가브리엘레 다비노 신부는 이 분파가 2년 동안 추종자들을 축성과 그로 인한 후폭풍에 대비시켰다고 말했다. "우리는 글과 설교에서 이에 대해 이야기해 왔습니다"라고 이탈리아에서 약 2,000명의 추종자를 이끄는 다비노 신부는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+파문 이후 그의 무리를 떠난 가족은 단 한 가구뿐이라고 그는 말했다. 나머지는 "문제를 이해하고 있으며 이러한 제재에 오염되지 않았다고 느낀다"고 그는 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+엠마 부볼라가 부에노스아이레스에서 보도에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/05/multimedia/05int-Switzerland-Schism-cgmh/05int-Switzerland-Schism-cgmh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 04 Jul 2026 11:44:42 +0000</pubDate></item><item><title>Happy Birthday to Us (우리의 생일을 축하하며)</title><link>https://www.nytimes.com/2026/07/04/briefing/happy-birthday-to-us.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2020/04/21/multimedia/THE-MORNING-SECTION-BREAK/THE-MORNING-SECTION-BREAK-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Good morning. Like yesterday, today’s newsletter is a special edition featuring highlights from our 250th anniversary coverage.&lt;br/&gt;(좋은 아침입니다. 어제와 마찬가지로 오늘의 뉴스레터는 창간 250주년 기념 특집 하이라이트로 구성된 특별판입니다.)&lt;/p&gt;
 &lt;p&gt;But — as you no doubt heard — Taylor Swift got married yesterday! So that’s where we’ll start.&lt;br/&gt;(하지만 — 아마도 들으셨겠지만 — 테일러 스위프트가 어제 결혼했습니다! 그래서 그 이야기부터 시작하겠습니다.)&lt;/p&gt;
 &lt;p&gt;What better way to celebrate America’s 250th birthday than with our own royal wedding? Taylor Swift and Travis Kelce tied the knot at Madison Square Garden last night, amid a constellation of stars from the worlds of music, sports and Hollywood. Swift’s brother, Austin, served as “man of honor” and Jason Kelce, the groom’s brother, as best man. Adam Sandler officiated.&lt;br/&gt;(미국 250번째 생일을 우리만의 왕실 결혼식보다 더 잘 축하할 방법이 있을까요? 테일러 스위프트와 트래비스 켈스는 어젯밤 매디슨 스퀘어 가든에서 결혼식을 올렸으며, 음악, 스포츠, 할리우드 세계의 스타들이 총출동했습니다. 스위프트의 오스틴 오빠가 "신랑 들러리"를, 신랑의 형인 제이슨 켈스가 최고 들러리를 맡았습니다. 아담 샌들러가 주례를 맡았습니다.)&lt;/p&gt;
@@ -896,7 +940,7 @@ BBC는 목요일 그가 “교도소를 떠났다”고 보도했다. 그가 14�
 &lt;p&gt;Note: Data as of Sunday, July 5 at 3 p.m. Chamorro time.  William B. Davis/The New York Times&lt;br/&gt;(참고: 데이터는 7월 5일 일요일 오후 3시 차모로 시간 기준. 윌리엄 B. 데이비스/뉴욕타임스)&lt;/p&gt;
 &lt;p&gt;Adoracion Leomo said she had secured the window shutters of her home in a coastal village near Guam’s international airport. She hoped that would be enough, she said, but she wasn’t sure.&lt;br/&gt;(아도라시온 레오모는 괌 국제공항 근처 해안 마을에 있는 자신의 집 창문 셔터를 고정했다고 말했다. 그것으로 충분하길 바란다고 말했지만 확신하지는 않았다.)&lt;/p&gt;
 &lt;p&gt;“I’m not sure what to expect,” she said. “I just need to say a prayer that God will shield us from a strong typhoon.”&lt;br/&gt;("무엇을 기대해야 할지 잘 모르겠어요,"라고 그녀는 말했다. "하나님이 강한 태풍으로부터 우리를 보호해 주시길 기도해야 할 것 같아요.")&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/05/multimedia/05xp-typhoon-wphb/05xp-typhoon-wphb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 05 Jul 2026 04:08:07 +0000</pubDate></item><item><title>Prince Harry Will Travel to London, but Without His Family (해리 왕자, 가족 없이 런던 방문 예정)</title><link>https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/04/multimedia/04int-uk-prince-harry-qtfj/04int-uk-prince-harry-qtfj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/05/multimedia/05xp-typhoon-wphb/05xp-typhoon-wphb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 05 Jul 2026 08:17:16 +0000</pubDate></item><item><title>Prince Harry Will Travel to London, but Without His Family (해리 왕자, 가족 없이 런던 방문 예정)</title><link>https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/04/multimedia/04int-uk-prince-harry-qtfj/04int-uk-prince-harry-qtfj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Prince Harry will travel to the United Kingdom next week for the first time since a fence-mending reunion last fall with his father, King Charles, ending speculation that security concerns would mean a complete cancellation of the visit.&lt;br/&gt;(해리 왕자가 지난 가을 아버지인 찰스 국왕과의 화해적 재회 이후 처음으로 다음 주 영국을 방문한다. 이는 보안 문제로 인해 방문이 전면 취소될 수 있다는 추측을 종식시키는 결정이다.
 &lt;&lt;&lt;PARA&gt;&gt;
 아내와 자녀들은 원래 전체 여행 일정에 포함되었으나 런던에는 오지 않을 것이라고 가족 측 소식통이 전했다. 이들은 나머지 체류 기간에 대한 선택지를 여전히 고심 중이라고 덧붙였다.
@@ -982,71 +1026,7 @@ BBC는 6월 말, 부부가 여행 기간 중 일부 동안 자녀들과 함께 �
 &lt;p&gt;But the opportunity to promote hundreds of officials carries risks. Mr. Xi has purged the People’s Liberation Army elite of many of the senior officers he had chosen to promote. Those accused of corruption and disloyalty and removed included General Zhang Youxia, whom Mr. Xi had kept on beyond the usual retirement age and appointed China’s top uniformed commander.&lt;br/&gt;(그러나 수백 명의 관료를 승진시킬 기회는 위험을 수반한다. 시진핑은 자신이 승진시키기로 선택한 많은 고위 장교들로부터 중국인민해방군 엘리트를 숙청했다. 부패와 불충성 혐의로 기소되어 제거된 인물들 중에는 시진핑이 일반 은퇴 연령을 넘겨 유지시키고 중국 최고 군복 지휘관으로 임명했던 장유샤 장군도 포함되었다.)&lt;/p&gt;
 &lt;p&gt;“Given all that has happened, Xi Jinping will be even more cautious in recruitment screening ahead of the 21st party congress,” said Deng Yuwen, a former editor at the Study Times, a newspaper published by the Central Party School. “Xi Jinping wants to make sure that the ideas of future party and government cadres stay totally aligned with his.”&lt;br/&gt;("일어난 모든 일을 고려할 때, 시진핑은 제21차 당 대회를 앞두고 인재 선발에서 더욱 신중할 것이다"라고 중앙당교가 발행하는 신문인 학습시보의 전 편집장 덩위원이 말했다. "시진핑은 미래의 당과 정부 간부들의 사상이 자신의 사상과 완전히 일치하도록 하고 싶어 한다.")&lt;/p&gt;
 &lt;p&gt;Even if Mr. Cai also steps down from his other roles next year, which is possible given his age, he may stay as president of the party school, said Mr. Deng, who now lives in the United States. Mr. Cai could then serve as Mr. Xi’s eyes and ears, spotting and vetting officials for promotion in coming years.&lt;br/&gt;(차이치가 내년에 다른 역할에서 물러나더라도(나이를 고려할 때 가능성이 있음), 그는 당교 총장 자리는 유지할 수 있다고 현재 미국에 거주하는 덩위원이 말했다. 그러면 차이치는 시진핑의 눈과 귀 역할을 하며 향후 몇 년간 승진할 관료를 찾아 검증할 수 있을 것이다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/05/world/asia/china-xi-leadership-cai-qi.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/02/multimedia/00int-china-politics-01-zjlg/00int-china-politics-01-zjlg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 04 Jul 2026 19:01:07 +0000</pubDate></item><item><title>Rebel Catholics Defy Vatican’s Calls to Return to Mainstream Church (반항적 가톨릭 신자들, 바티칸의 주류 교회 복귀 요구에 맞서다)</title><link>https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/05/multimedia/05int-Switzerland-Schism-cgmh/05int-Switzerland-Schism-cgmh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;When the Vatican excommunicated the priesthood of a rebel conservative faction last week, creating the biggest schism in Roman Catholicism in decades, it also hoped to drive the group’s many followers back to the mainstream church.&lt;br/&gt;(바티칸이 지난주 반항적 보수파의 성직자들을 파문하며 수십 년 만에 로마 가톨릭 내에서 가장 큰 분열을 일으켰을 때, 이 조치가 집단의 많은 추종자들을 주류 교회로 되돌아가게 하기를 바랐다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 아르헨티나, 이탈리아, 스위스에 있는 이 분파 추종자들과의 인터뷰에 따르면, 이 처벌은 오히려 반항에 부딪혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑스에서 이 분파가 운영하는 학교의 교사인 블랑딘 기욤맹(42세)은 "아무것도 바뀌지 않았다"고 말했다. 기욤맹 씨는 바티칸이 분파에 충성하는 신자들을 파문하겠다고 위협하더라도 자신은 성 비오 10세회(Society of St. Pius X)라는 이 분파에 남을 것이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 신의 뜻을 따르고 있다고 확신합니다"라고 기욤맹 씨는 말했다. 그녀는 교회를 대표하는 것은 바티칸이 아니라 이 회이며, "순수하고 진정한 가톨릭"이라고 주장했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-기욤맹 씨의 반항은 1970년에 제2차 바티칸 공의회(1962-1965) 이후 로마 가톨릭 교회의 현대화 전환에 항의하기 위해 설립된 이 회와 바티칸 사이의 56년에 걸친 교착 상태의 절정을 보여주었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 회는 공의회가 가톨릭 예배 형식을 바꾼 것을 한탄한다. 공의회는 사제들이 현지 언어로 예배를 드리는 것을 허용했지만, 이 회는 여전히 전통 라틴 미사를 고수하며 경외심과 신비로움을 보존한다고 주장한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 회는 또한 공의회 가르침의 본질을 거부하며, 그것이 교회의 천 년 전통 가르침과 모순된다고 말한다. 회원들은 공의회가 다른 종교를 수용하고 종교 간 대화와 다른 기독교 교파에 대한 접근을 추진한 것에 반대한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그들은 공의회를 가톨릭 교회 종말의 시작으로 지목하며, 이로 인해 유럽 교회의 신자 수가 줄고, 설교단의 사제 수가 감소했으며, 갖가지 이단과 오류가 생겼다고 주장한다. (실제로 가톨릭 신자 수는 적어도 미국과 아프리카에서는 증가하고 있다.)
-&lt;&lt;&lt;PARA&gt;&gt;
-레오 교황을 포함한 바티칸 지도자들은 자연히 이 분파의 입장에 반박하며 그것이 핵심 교회 가르침과 결별했다고 말한다. 레오 교황은 지난달 추종자들이 "교회의 특정 근본 요소를 받아들이기를 거부한다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-바티칸의 홍보 부서 운영을 돕는 고위 관계자 안드레아 토르니엘리는 목요일 사설에서 이 분파가 가톨릭 가르침의 다양성을 받아들이기를 거부하기 때문에 "가톨릭 신앙과 매우 동떨어져 있다"고 썼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이러한 의견 충돌은 지난주 스위스의 작은 마을 에코네에서 절정에 달했다. 이곳은 이 회의 창립자 마르셀 르페브르 대주교가 1970년 첫 신학교 건설을 감독한 곳이다. 수요일 의식이 가득한 예식에서 이 회의 새 지도자들은 레오 14세 교황의 뜻을 거역하고 네 명의 주교를 축성했으며, 이 회는 이 행사에 약 17,000명이 모였다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하루 뒤 바티칸은 이 회가 교회와 분열 상태에 있다고 선언하고 주교들(수요일 예식 후 총 6명)과 사제들에 대한 파문령을 내려 혼인 집례와 고해 성사 집행을 금지했으며, 이는 무효로 간주되도록 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다른 성직자와 평신도 신자들은 이 회의 가르침을 계속 따를 경우 파문될 위험이 있다고 통보받았다. 바티칸은 이 회를 떠나고자 하는 이들에게 가톨릭 품으로 돌아올 수 있는 구체적인 지침을 제시하며 화해의 손길을 내밀었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-금요일 에코네에서 그 간청은 무시된 것으로 보였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 회의 총장 다비데 팔리아라니 신부는 공개 성명에서 축성을 취소하거나 사과하지 않았으며, 바티칸의 결정을 "객관적으로 부당하고 무효"라고 묘사했다. 그럼에도 그는 파문에 대한 이 회의 첫 공식 대응인 편지에서 "쓰라림이나 반역 없이" 바티칸의 입장을 받아들이며 "거룩한 교회를 더욱 사랑하겠다"고 약속했다고 썼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-에코네가 최근 몇 일처럼 북적이지는 않았지만, 이 마을은 일주일간의 예식 후 정리 작업을 하는 회원들로 여전히 활기찼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-새로 축성된 주교 중 한 명인 마르크 아나피에 주교는 밝은 금색 십자가를 착용하고 경건하게 무릎 꿇는 신자들에게 축복을 내리기 위해 멈췄다. 아이들은 그의 오른손 반지에 입을 맞추기 위해 무릎을 꿇었다. 그는 기자와 이야기할 시간이 없다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 회는 약 1,500명의 정식 회원(절반은 사제)만 있지만, 관계자들은 전 세계적으로 30만에서 60만 명의 평신도 추종자를 확보하고 있다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-신학생들은 수백 개의 의자를 쌓고, 나무 단상을 해체하고, 전봇대에 올라 전선을 풀며 놀랍도록 민첩하게 움직였다. 긴 검은 수단에도 불구하고 말이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-르페브르 대주교가 묻힌 예배당 밖의 홀은 임시 서점으로 변신했다. 창립자의 전기, 다양한 성인에 관한 어린이 책들, 그리고 전 교황 요한 바오로 2세의 성덕에 의문을 제기하는 한 권의 책이 있었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-요한 바오로 2세는 1988년 이전 대치 상황에서 르페브르 대주교와 그가 축성한 네 명의 주교를 파문했다. 베네딕토 16세 교황 아래에서 관계가 개선되어 2009년 생존 주교들의 파문을 해제했고, 프란치스코 교황은 사제들이 혼인 집례와 고해 성사를 집행할 수 있도록 허용했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프랑스 리옹에 있는 이 회 학교의 교사인 클레어-마리 브뤼네(55세)는 바티칸의 결정에 이의를 제기했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"파문은 잘못에 대한 처벌이지만, 잘못이 없다면 단지 불공평할 뿐입니다"라고 그녀는 말했다. "신자들을 파문하고 주교들을 파문하는 것은 바티칸이 2천 년의 기독교 역사를 파문하는 것과 같습니다. 우리는 사도들이 가르친 어떤 것도 바꾸지 않았기 때문입니다"라고 그녀는 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이러한 반항은 대서양 건너 아르헨티나 부에노스아이레스에서도 울려 퍼졌다. 그곳에서는 목요일 저녁 도시의 가장 번화한 도로 중 하나 뒤에 자리 잡은 교회에서 성 비오 10세회 신자들이 미사를 위해 모였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 분명히 이단자로 낙인찍혔군요"라고 경제학 학생인 티아고 베를랑가(23세)가 교회 문 밖에 서서 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다른 참석자들과 마찬가지로 베를랑가 씨는 레오 교황의 파문 명령에 분노했다. "저는 계속 이곳에 올 것입니다"라고 그는 말했다. "이단자는 다른 사람들입니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-베를랑가 씨는 가톨릭 규칙을 위반하는 것은 성 비오 10세회가 아니라 교회의 현대화파라고 말했다. 그는 동성 결합을 축복하는 사제들, 이혼한 사람들에게 성체를 주는 것, 그리고 가톨릭을 유대교나 불교와 동등하게 대우하는 것 등을 불만으로 꼽았다. 그는 일부 "설교가 TED 강연처럼 들린다"며 미사에서 "작은 기타 같은 걸로 음악을 연주한다"고 불평했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"오늘날 교회는 모든 사람을 환영합니다"라고 그는 말했다. "동성애자가 될 수도 있고, 간음자가 될 수도 있습니다. 전통주의자만 빼고 모든 것이 가능합니다." 부에노스아이레스의 성 비오 10세회 수도원 미사에는 기타도 없었고, 심지어 피아노나 노래도 없었다. 일반 미사보다 무릎 꿇는 횟수가 더 많았고, 가슴을 치는 동작도 더 많았으며, 평화의 인사는 없었고, 라틴어가 훨씬 더 많이 사용되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 교황을 위해 기도합니다"라고 베를랑가 씨는 말했다: "교황을 위해 기도하는 신자들을 어떻게 '분열주의자'라고 부를 수 있습니까?"
-&lt;&lt;&lt;PARA&gt;&gt;
-로마 외곽의 알바노 라치알레에서 가브리엘레 다비노 신부는 이 분파가 2년 동안 추종자들을 축성과 그로 인한 후폭풍에 대비시켰다고 말했다. "우리는 글과 설교에서 이에 대해 이야기해 왔습니다"라고 이탈리아에서 약 2,000명의 추종자를 이끄는 다비노 신부는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-파문 이후 그의 무리를 떠난 가족은 단 한 가구뿐이라고 그는 말했다. 나머지는 "문제를 이해하고 있으며 이러한 제재에 오염되지 않았다고 느낀다"고 그는 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-엠마 부볼라가 부에노스아이레스에서 보도에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/05/multimedia/05int-Switzerland-Schism-cgmh/05int-Switzerland-Schism-cgmh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 04 Jul 2026 11:44:42 +0000</pubDate></item><item><title>China Raises Pressure on Taiwan With Expanded Coast Guard Patrols (중국, 해양경비정 순찰 확대로 대만 압박 강화)</title><link>https://www.nytimes.com/2026/07/05/world/asia/china-taiwan-east-coast-guard-patrols.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/05/world/00int-china-taiwan/00int-china-taiwan-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/05/world/asia/china-xi-leadership-cai-qi.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/02/multimedia/00int-china-politics-01-zjlg/00int-china-politics-01-zjlg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 04 Jul 2026 19:01:07 +0000</pubDate></item><item><title>China Raises Pressure on Taiwan With Expanded Coast Guard Patrols (중국, 해양경비정 순찰 확대로 대만 압박 강화)</title><link>https://www.nytimes.com/2026/07/05/world/asia/china-taiwan-east-coast-guard-patrols.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/05/world/00int-china-taiwan/00int-china-taiwan-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;China is opening a new front in its pressure campaign against Taiwan, sending ships to its east to drive home a political point: Beijing claims not only the island itself but also the seas around it.&lt;br/&gt;(중국이 대만에 대한 압박 캠페인의 새로운 전선을 열고, 선박을 동쪽으로 보내 정치적 메시지를 전달하고 있다: 베이징은 섬 자체뿐 아니라 주변 해역까지 자국 영토라고 주장한다.)&lt;/p&gt;
 &lt;p&gt;The China Coast Guard announced on Saturday that its ships would conduct “law-enforcement patrols” in the Western Pacific waters east of Taiwan, a self-ruled island of 23 million people that Beijing claims as its territory.&lt;br/&gt;(중국 해양경비국은 토요일 자국 선박이 대만 동쪽 서태평양 해역에서 '법 집행 순찰'을 실시할 것이라고 발표했다. 대만은 2300만 명이 거주하는 자치 섬으로, 베이징은 이를 자국 영토라고 주장한다.)&lt;/p&gt;
 &lt;p&gt;The Western Pacific is crowded with commercial traffic and would be a vital arena if Beijing ever tried to blockade or invade Taiwan. China’s coast guard ships are often hulking, well-armed vessels that complement the country’s naval forces. They have been vital to Beijing’s efforts to dominate the disputed South China Sea, sometimes by swarming waters, ramming vessels or blasting crews with powerful water cannons.&lt;br/&gt;(서태평양은 상업 항로가 빽빽하며, 베이징이 대만을 봉쇄하거나 침공하려 할 경우 핵심 무대가 될 것이다. 중국 해양경비정은 종종 거대하고 무장이 잘된 선박으로, 해군력을 보완한다. 이들은 분쟁 지역인 남중국해를 장악하려는 베이징의 노력에 핵심적인 역할을 해왔으며, 때로는 해역을 가득 채우거나 선박을 충돌시키거나 강력한 워터 캐논으로 선원을 공격하기도 했다.)&lt;/p&gt;
@@ -1066,7 +1046,7 @@ BBC는 6월 말, 부부가 여행 기간 중 일부 동안 자녀들과 함께 �
 &lt;p&gt;Taiwan has told commercial ships passing through the area to ignore such demands from China. But a Chinese crew member on one ship complied, supplying information to a Chinese coast guard officer, said two Taiwanese officials who spoke on the condition of anonymity to discuss sensitive information. The compliance by the ship was first reported by Agence France-Presse, which said it was a Singapore-flagged cargo carrier.&lt;br/&gt;(대만은 해당 지역을 통과하는 상업 선박에 중국의 이러한 요구를 무시하라고 지시했다. 그러나 한 선박의 중국인 승무원이 순종하여 중국 해양경비대 장교에게 정보를 제공했다고 두 명의 대만 관리가 익명으로 민감한 정보를 논의하기 위해 말했다. 이 선박의 순종은 AFP통신이 처음 보도했으며, 싱가포르 국적의 화물선이라고 전했다.)&lt;/p&gt;
 &lt;p&gt;Up to now, Chinese coast guard patrols around Taiwan have mostly been in the strait between the island and the mainland. Since 2024, China has regularly patrolled near Kinmen, a set of islands near the Chinese coast that is controlled by Taiwan.&lt;br/&gt;(지금까지 대만 주변 중국 해양경비정 순찰은 대부분 섬과 본토 사이의 해협에 집중되어 있었다. 2024년 이후 중국은 중국 해안 근처에 위치한 대만 통제 하의 여러 섬인 진먼 근처를 정기적으로 순찰해 왔다.)&lt;/p&gt;
 &lt;p&gt;China’s navy has also continued expanding patrols and exercises around Taiwan. In July, Chinese and Russian navies will hold a joint exercise off Qingdao, a city on China’s northeast coast, and forces from both sides would then “conduct a joint maritime patrol” in the Pacific Ocean, China’s Ministry of National Defense said on Sunday.&lt;br/&gt;(중국 해군도 대만 주변 순찰과 훈련을 계속 확대하고 있다. 7월에는 중국과 러시아 해군이 중국 북동부 해안 도시인 칭다오 앞바다에서 합동 훈련을 실시할 예정이며, 양측 군대는 이후 태평양에서 "합동 해상 순찰"을 수행할 것이라고 중국 국방부가 일요일에 밝혔다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/05/world/asia/china-taiwan-east-coast-guard-patrols.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/05/world/00int-china-taiwan/00int-china-taiwan-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 04 Jul 2026 23:21:38 +0000</pubDate></item><item><title>Impeachment Trial of Philippine Vice President Set to Begin (필리핀 부통령 탄핵 재판 시작 예정)</title><link>https://www.nytimes.com/2026/07/05/world/asia/impeachment-trial-philippines-sara-duterte.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/04/multimedia/00int-duterte-trial-hctm/00int-duterte-trial-hctm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/05/world/asia/china-taiwan-east-coast-guard-patrols.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/05/world/00int-china-taiwan/00int-china-taiwan-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 05 Jul 2026 08:45:28 +0000</pubDate></item><item><title>Impeachment Trial of Philippine Vice President Set to Begin (필리핀 부통령 탄핵 재판 시작 예정)</title><link>https://www.nytimes.com/2026/07/05/world/asia/impeachment-trial-philippines-sara-duterte.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/04/multimedia/00int-duterte-trial-hctm/00int-duterte-trial-hctm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The impeachment trial of Vice President Sara Duterte of the Philippines is set to begin on Monday, in a case that has highlighted a bitter fight between the country’s two most powerful political dynasties.&lt;br/&gt;(필리핀 부통령 사라 두테르테의 탄핵 재판이 월요일 시작될 예정이다. 이 재판은 필리핀의 두 강력한 정치 왕조 간의 격렬한 대립을 부각시키는 사건이다.
 &lt;&lt;&lt;PARA&gt;&gt;
 의원들은 전 필리핀 대통령의 딸인 두테르테 부통령이 횡령과 페르디난드 마르코스 주니어 대통령을 암살하겠다고 협박하여 공공의 신뢰를 저버렸다고 비난했다. 마르코스 주니어 대통령 역시 정치 명문가 출신이다. 이 충격적인 결별은 마르코스 가문과 두테르테 가문이 2022년에 연합한 지 불과 4년 만에 일어났다.
@@ -1212,7 +1192,34 @@ BBC는 6월 말, 부부가 여행 기간 중 일부 동안 자녀들과 함께 �
 파문 이후 그의 무리를 떠난 가족은 단 한 가구뿐이라고 그는 말했다. 나머지는 "문제를 이해하고 있으며 이러한 제재에 오염되지 않았다고 느낀다"고 그는 덧붙였다.
 &lt;&lt;&lt;PARA&gt;&gt;
 엠마 부볼라가 부에노스아이레스에서 보도에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/05/world/europe/schism-catholic-pope-society-pius-excommunication.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/05/multimedia/05int-Switzerland-Schism-cgmh/05int-Switzerland-Schism-cgmh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 04 Jul 2026 19:01:22 +0000</pubDate></item><item><title>Far From Kyiv and Moscow, Soldiers Stalk Ruins and Evade Drones on the Front (키예프와 모스크바에서 멀리 떨어진 전선, 폐허를 배회하고 드론을 피하는 군인들)</title><link>https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/05/multimedia/05int-ukraine-battlefront-cjgh/05int-ukraine-battlefront-cjgh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/05/world/europe/schism-catholic-pope-society-pius-excommunication.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/05/multimedia/05int-Switzerland-Schism-cgmh/05int-Switzerland-Schism-cgmh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 04 Jul 2026 19:01:23 +0000</pubDate></item><item><title>Mourners Chant ‘Revenge’ at Funeral Prayers for Iran’s Slain Supreme Leader (애도자들, 이란 피살된 최고지도자 장례 기도에서 ‘복수’를 외치다)</title><link>https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/05/multimedia/05int-iran-funeral-01-zvmf/05int-iran-funeral-01-zvmf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Tens of thousands of mourners, including senior Iranian officials, packed Tehran on Sunday for funeral prayers for the slain supreme leader, Ayatollah Ali Khamenei, as crowds chanted calls for revenge.&lt;br/&gt;(일요일, 수만 명의 애도자들(고위 이란 관리들 포함)이 피살된 최고지도자 아야톨라 알리 하메네이를 위한 장례 기도를 위해 테헤란을 가득 메웠으며, 군중은 복수를 요구하는 함성을 외쳤다.)&lt;/p&gt;
+&lt;p&gt;Among those in attendance for the second day of mourning for his death, according to footage broadcast on state media, were the brothers of the country’s new supreme leader, Mojtaba Khamenei. But the leader himself has not been seen in public since succeeding his father, who was killed at the onset of the U.S.-Israeli war on Iran in late February.&lt;br/&gt;(국영 매체에 방영된 영상에 따르면, 그의 사망에 대한 애도 이틀째 행사에 참석한 인물 중에는 국가의 새로운 최고지도자 모즈타바 하메네이의 형제들도 있었다. 그러나 최고지도자 본인은 2월 말 미국-이스라엘의 이란 전쟁 발발 시 아버지가 피살된 이후 공식석상에 모습을 드러내지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+강력한 이슬람혁명수비대의 수장 아마드 바히디도 기도에 참석했다. 그는 거대한 그랜드 모살라 모스크 단지에서 애도자들(대부분 검은 옷을 입고 있음) 앞에 나타났고, 그들은 그를 향해 밀려들었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“복수, 복수,”라고 그들은 외쳤으며, 이 장면은 그 근처에 있던 뉴욕타임스 기자들이 목격했다. 바히디는 잠시 사람들에게 인사를 건넨 후 보안 요원들이 그를 급히 데려갔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+모즈타바 하메네이의 부재는 고위 인물들의 공개 행보가 종종 상징적 의미를 지니며 권위와 안정성을 투영하기 위해 신중하게 연출되는 정치 체제에서 주목의 대상이 되고 있다. 이는 그의 건강 상태와 국가의 내부 정치 역학, 특히 지역 긴장이 고조되고 이란의 정치적 미래에 대한 불확실성이 존재하는 시점에서 의문을 불러일으키고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그럼에도 불구하고, 새벽이 오기 훨씬 전부터 아버지를 애도하는 이들이 그랜드 모살라 모스크에 도착하기 시작했다. 많은 이들이 하메네이의 사진을 들고 그의 죽음에 대한 복수를 촉구하는 현수막을 들고 있었다. 모스크가 인파를 감당하지 못해 일부는 밖에서 기도했으며, 뜨거운 날씨 속에서 어깨를 맞대고 서 있었다. 남녀와 아이들이 부모와 함께 섰다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“그는 자신이 믿는 이념을 위해 서 있었고, 그로 인해 살해당했습니다,”라고 파리에서 추모식에 참석하기 위해 왔다고 말한 모하메드 압디는 말했다. 수도에서 남서쪽으로 약 90마일 떨어진 아비아네 출신인 그는 하메네이의 죽음이 그를 단순한 정치·종교 지도자에서 순교자이자 신념과 힘의 국가적 상징으로 변모시켰다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“그 힘과 대의가 저를 파리에서 테헤란으로 데려왔고, 오늘 눈물을 흘리게 했습니다,”라고 그는 말했다. “그는 자신이 진정으로 믿는 일을 실천한 사람이었습니다.”
+&lt;&lt;&lt;PARA&gt;&gt;
+40년 동안 하메네이는 이란의 거의 모든 주요 권력 중심지를 형성했다. 정치적으로 그는 전략적 결정, 군대 및 국가 기관에 대한 최종 권한을 가졌다. 사회적으로 그의 정부는 규제, 국영 매체 및 문화 감독을 통해 통제를 행사했다. 종교적으로 그는 이슬람 공화국의 최고 직위를 차지하여 정치적 권위와 성직자적 정통성을 결합했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 아내, 딸, 손녀를 포함한 가족 여러 명과 함께 살해당했다. 월요일, 그의 시신은 테헤란 시내를 가로지르는 공개 행진을 통해 운구될 예정이며, 이는 수도 중심부에서 또 다른 대규모 인파를 끌어모을 것으로 예상된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+일요일, 이틀째로 대규모 테헤란 지역이 추모 행사로 변모했다. 도로는 폐쇄되었고 거의 모든 주요 교차로에 보안군이 배치되었다. 자원봉사자들은 음식과 물을 나누어 주었고, 역에서는 공공 광장과 인도에 모인 사람들을 위해 여름 더위 속에 안개를 뿌렸다.
+&lt;&lt;&lt;PARA&gt;&gt;
+많은 이란인들에게 하메네이의 유산은 정부의 반대 의견 탄압과도 연결되어 있다. 보안군은 반복적으로 항의 시위에 무력을 사용했으며, 여기에는 지난 12월 경제적 좌절로 촉발된 시위도 포함되어 인권 단체에 따르면 수천 명이 사망했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+비판론자들은 지지자들이 그를 애도하며 모였지만 그의 죽음이 폭력적이고 억압적인 역사를 지워서는 안 된다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+사남 마후지가 취재에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/05/multimedia/05int-iran-funeral-01-zvmf/05int-iran-funeral-01-zvmf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 05 Jul 2026 04:31:26 +0000</pubDate></item><item><title>Far From Kyiv and Moscow, Soldiers Stalk Ruins and Evade Drones on the Front (키예프와 모스크바에서 멀리 떨어진 전선, 폐허를 배회하고 드론을 피하는 군인들)</title><link>https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/05/multimedia/05int-ukraine-battlefront-cjgh/05int-ukraine-battlefront-cjgh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Even as Russia and Ukraine intensified missile and drone strikes on each other’s major cities in recent days, their forces fought relentlessly along hundreds of miles of the frontline.&lt;br/&gt;(최근 러시아와 우크라이나가 서로의 주요 도시에 미사일과 드론 공격을 강화하는 가운데, 양국 군대는 수백 마일의 전선을 따라 지치지 않고 전투를 벌였습니다.)&lt;/p&gt;
 &lt;p&gt;In the sprawling industrial city of Kostiantynivka, in Ukraine’s eastern Donetsk region, Ukrainian and Russian forces have been battling for months. In recent days, officials on each side have disputed who had control.&lt;br/&gt;(우크라이나 동부 도네츠크 지역의 광활한 공업 도시 코스탼티니우카에서 우크라이나군과 러시아군은 수개월째 전투를 이어왔습니다. 최근 며칠 사이, 양측 관리들은 누가 이 도시를 장악했는지를 두고 논쟁을 벌였습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -1308,31 +1315,4 @@ BBC는 6월 말, 부부가 여행 기간 중 일부 동안 자녀들과 함께 �
 &lt;p&gt;It was late at night, and he hugged his aunt, her body lit by his headlamp.&lt;br/&gt;(밤이 깊었고, 그는 그의 머리등에 비친 이모를 껴안았다.)&lt;/p&gt;
 &lt;p&gt;“They built this all wrong,” Mr. Castillo said. “This shouldn’t have been here; they shouldn’t have put us here.”&lt;br/&gt;("이걸 완전히 잘못 지었어요," 카스티요 씨는 말했다. "이게 여기 있어선 안 됐어요; 그들은 우리를 여기에 두면 안 됐어요.")&lt;/p&gt;
 &lt;p&gt;Sheyla Urdaneta contributed reporting. Drone piloting by Andres Conde.&lt;br/&gt;(셰일라 우르다네타가 취재에 기여했다. 드론 조종은 안드레스 콘데가 담당했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/05/world/americas/venezuela-earthquake-la-guaira-building-collapse-government.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/05/multimedia/05int-venezuela-quake-homes-2-gjmh/05int-venezuela-quake-homes-2-gjmh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 05 Jul 2026 00:02:15 +0000</pubDate></item><item><title>Mourners Chant ‘Revenge’ at Funeral Prayers for Iran’s Slain Supreme Leader (애도자들, 이란 피살된 최고지도자 장례 기도에서 ‘복수’를 외치다)</title><link>https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/05/multimedia/05int-iran-funeral-01-zvmf/05int-iran-funeral-01-zvmf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Tens of thousands of mourners, including senior Iranian officials, packed Tehran on Sunday for funeral prayers for the slain supreme leader, Ayatollah Ali Khamenei, as crowds chanted calls for revenge.&lt;br/&gt;(일요일, 수만 명의 애도자들(고위 이란 관리들 포함)이 피살된 최고지도자 아야톨라 알리 하메네이를 위한 장례 기도를 위해 테헤란을 가득 메웠으며, 군중은 복수를 요구하는 함성을 외쳤다.)&lt;/p&gt;
-&lt;p&gt;Among those in attendance for the second day of mourning for his death, according to footage broadcast on state media, were the brothers of the country’s new supreme leader, Mojtaba Khamenei. But the leader himself has not been seen in public since succeeding his father, who was killed at the onset of the U.S.-Israeli war on Iran in late February.&lt;br/&gt;(국영 매체에 방영된 영상에 따르면, 그의 사망에 대한 애도 이틀째 행사에 참석한 인물 중에는 국가의 새로운 최고지도자 모즈타바 하메네이의 형제들도 있었다. 그러나 최고지도자 본인은 2월 말 미국-이스라엘의 이란 전쟁 발발 시 아버지가 피살된 이후 공식석상에 모습을 드러내지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-강력한 이슬람혁명수비대의 수장 아마드 바히디도 기도에 참석했다. 그는 거대한 그랜드 모살라 모스크 단지에서 애도자들(대부분 검은 옷을 입고 있음) 앞에 나타났고, 그들은 그를 향해 밀려들었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“복수, 복수,”라고 그들은 외쳤으며, 이 장면은 그 근처에 있던 뉴욕타임스 기자들이 목격했다. 바히디는 잠시 사람들에게 인사를 건넨 후 보안 요원들이 그를 급히 데려갔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-모즈타바 하메네이의 부재는 고위 인물들의 공개 행보가 종종 상징적 의미를 지니며 권위와 안정성을 투영하기 위해 신중하게 연출되는 정치 체제에서 주목의 대상이 되고 있다. 이는 그의 건강 상태와 국가의 내부 정치 역학, 특히 지역 긴장이 고조되고 이란의 정치적 미래에 대한 불확실성이 존재하는 시점에서 의문을 불러일으키고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그럼에도 불구하고, 새벽이 오기 훨씬 전부터 아버지를 애도하는 이들이 그랜드 모살라 모스크에 도착하기 시작했다. 많은 이들이 하메네이의 사진을 들고 그의 죽음에 대한 복수를 촉구하는 현수막을 들고 있었다. 모스크가 인파를 감당하지 못해 일부는 밖에서 기도했으며, 뜨거운 날씨 속에서 어깨를 맞대고 서 있었다. 남녀와 아이들이 부모와 함께 섰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“그는 자신이 믿는 이념을 위해 서 있었고, 그로 인해 살해당했습니다,”라고 파리에서 추모식에 참석하기 위해 왔다고 말한 모하메드 압디는 말했다. 수도에서 남서쪽으로 약 90마일 떨어진 아비아네 출신인 그는 하메네이의 죽음이 그를 단순한 정치·종교 지도자에서 순교자이자 신념과 힘의 국가적 상징으로 변모시켰다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“그 힘과 대의가 저를 파리에서 테헤란으로 데려왔고, 오늘 눈물을 흘리게 했습니다,”라고 그는 말했다. “그는 자신이 진정으로 믿는 일을 실천한 사람이었습니다.”
-&lt;&lt;&lt;PARA&gt;&gt;
-40년 동안 하메네이는 이란의 거의 모든 주요 권력 중심지를 형성했다. 정치적으로 그는 전략적 결정, 군대 및 국가 기관에 대한 최종 권한을 가졌다. 사회적으로 그의 정부는 규제, 국영 매체 및 문화 감독을 통해 통제를 행사했다. 종교적으로 그는 이슬람 공화국의 최고 직위를 차지하여 정치적 권위와 성직자적 정통성을 결합했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 아내, 딸, 손녀를 포함한 가족 여러 명과 함께 살해당했다. 월요일, 그의 시신은 테헤란 시내를 가로지르는 공개 행진을 통해 운구될 예정이며, 이는 수도 중심부에서 또 다른 대규모 인파를 끌어모을 것으로 예상된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일요일, 이틀째로 대규모 테헤란 지역이 추모 행사로 변모했다. 도로는 폐쇄되었고 거의 모든 주요 교차로에 보안군이 배치되었다. 자원봉사자들은 음식과 물을 나누어 주었고, 역에서는 공공 광장과 인도에 모인 사람들을 위해 여름 더위 속에 안개를 뿌렸다.
-&lt;&lt;&lt;PARA&gt;&gt;
-많은 이란인들에게 하메네이의 유산은 정부의 반대 의견 탄압과도 연결되어 있다. 보안군은 반복적으로 항의 시위에 무력을 사용했으며, 여기에는 지난 12월 경제적 좌절로 촉발된 시위도 포함되어 인권 단체에 따르면 수천 명이 사망했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-비판론자들은 지지자들이 그를 애도하며 모였지만 그의 죽음이 폭력적이고 억압적인 역사를 지워서는 안 된다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-사남 마후지가 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/05/multimedia/05int-iran-funeral-01-zvmf/05int-iran-funeral-01-zvmf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 05 Jul 2026 04:31:26 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/05/world/americas/venezuela-earthquake-la-guaira-building-collapse-government.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/05/multimedia/05int-venezuela-quake-homes-2-gjmh/05int-venezuela-quake-homes-2-gjmh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 05 Jul 2026 00:02:15 +0000</pubDate></item></channel></rss>
