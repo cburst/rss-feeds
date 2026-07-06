@@ -1,65 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 06 Jul 2026 19:57:36 +0000</lastBuildDate><item><title>FAA proposal: Supersonic airliners can fly over US cities if they’re quiet (FAA 제안: 저소음 초음속 여객기, 미국 도시 상공 비행 허용 가능)</title><link>https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-2560x1440.png" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;New US rules would legalize quiet supersonic flights without the sonic boom.&lt;br/&gt;(미국 신규 규정, 소닉붐 없는 저소음 초음속 비행을 합법화할 전망)&lt;/p&gt;
-&lt;p&gt;A long-standing ban on commercial supersonic flights over the United States would be overturned in a new rule proposed by the US Federal Aviation Administration. That could pave the way for the possible return of commercial supersonic airliners—as long as such aircraft can reduce the ground-level impacts of their sonic booms.&lt;br/&gt;(미국 내 상업용 초음속 비행에 대한 오랜 금지 조치가 미 연방항공청(FAA)이 제안한 새로운 규칙으로 폐지될 예정이다. 이는 항공기가 소닉붐의 지상 영향을 줄일 수 있다면 상업용 초음속 여객기의 복귀 가능성을 열어줄 수 있다.)&lt;/p&gt;
-&lt;p&gt;The FAA originally banned overland supersonic flights by civil aircraft in 1973, following US military tests involving supersonic flights over US cities such as Oklahoma City, Chicago, and St. Louis in the 1960s. But the Trump administration has championed the repeal of the ban to pave the way for supersonic airliners that could operate without disruptive sonic booms. So the FAA’s new rulemaking action on June 30, 2026, follows the direction of an executive order issued by President Trump on June 6, 2025.&lt;br/&gt;(FAA는 1960년대 오클라호마시티, 시카고, 세인트루이스 등 미국 도시 상공에서 미군의 초음속 비행 테스트 이후, 1973년 민간 항공기의 육상 초음속 비행을 처음으로 금지했다. 그러나 트럼프 행정부는 소닉붐의 혼란을 일으키지 않고 운항할 수 있는 초음속 여객기를 위한 길을 열기 위해 이 금지 조치 폐지를 지지해 왔다. 이에 따라 FAA의 2026년 6월 30일자 신규 규칙 제정은 2025년 6월 6일 트럼프 대통령이 발행한 행정명령 방향을 따른 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-새로 제안된 규칙은 53년간의 금지 조치를 대체하여, 표면에서의 소닉붐 과압(overpressure)을 평방피트당 0.11파운드 미만으로 유지하도록 요구하는 임시 "소음 기반" 인증 기준을 마련한다. 이 제안 기준은 콜로라도에 본사를 둔 스타트업 붐 슈퍼소닉(Boom Supersonic)이 XB-1 항공기로 조용한 마하 차단(Mach cutoff) 비행을 시연한 데 기반한다. 이는 특정 대기 조건을 활용해 더 높은 고도에서 초음속 직전 속도로 비행함으로써 항공기의 충격파가 지면으로 전달되지 않고 대기 중으로 굴절되도록 하는 방식이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-비교를 위해, 1976년부터 2003년까지 대서양 횡단 상업 비행을 한 콩코드(Concorde) 초음속 여객기는 고도 52,000피트에서 마하 2 속도로 비행할 때 평방피트당 1.94파운드에 해당하는 소닉붐 과압을 발생시켰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-NASA의 사실 자료에 따르면 "1.5~2파운드 사이에서 일부 대중 반응이 예상될 수 있지만" 1파운드 과압에서는 건물 및 기타 구조물에 손상이 없다고 명시한다. 또한 인간은 초음속 항공기가 100피트 미만 고도에서 비행할 때 20~144파운드 사이의 소닉붐 과압을 경험했지만 부상은 없었다고 설명한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 모든 사람이 육상 초음속 비행을 허용하는 이 제안 기준에 동의하는 것은 아니다. 비영리 단체 국제청정교통위원회(ICCT)의 고선임 국장 댄 러더퍼드는 Aviation Week에 과압 지표는 2014년 유엔 전문가들에 의해 "실제로 소음 크기나 불쾌감을 측정하지 않는다"는 이유로 폐기되었다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-러더퍼드는 "FAA가 이렇게 약한 규칙을 제안할 줄은 정말 몰랐다"고 해당 매체에 전했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국 의회 의원들도 초음속 항공 현대화 법안(Supersonic Aviation Modernization Act)을 추진하고 있다. 이 법안은 "항공기가 미국 내 지상에 어떤 소닉붐도 도달하지 않는 방식으로 운항되는 한" FAA가 육상 초음속 비행을 허용하도록 요구한다. 이 법안은 2026년 3월 24일 하원을 통과했으며, 상원 표결을 기다리고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-한편, NASA는 록히드 마틴 X-59 Quesst를 사용해 더 조용한 초음속 비행에 대한 다른 접근 방식을 테스트 중이다. 이는 침형 코를 가진 실험용 항공기로, 동체가 일반적인 소닉붐을 둔탁한 소리(sonic thump)로 줄이도록 설계되었다. NASA는 소음 수준 평가를 위해 인지 데시벨(PldB) 수준에 의존하며, 약 20피트 떨어진 곳에서 차문을 닫는 소리와 비슷한 75 PldB 정도의 둔탁한 소리를 일관되게 시연하는 것을 목표로 하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-NASA 시험 조종사이자 임무 통합 관리자는 이전에 Ars에 X-59 항공기의 향후 미국 전역 도시와 마을 상공 초음속 비행 테스트가 민간 항공 당국의 규정에 도움이 될 인지 소음 수준에 대한 지역사회 피드백을 제공할 것이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-FAA는 2027년 중반까지 최종 확정을 시도하기 전에 육상 초음속 비행에 대한 제안된 소음 규정을 더욱 개선할 시간이 있다. 기관은 또한 올해 후반에 초음속 항공기의 이륙 및 착륙 소음 기준을 설정하는 또 다른 규칙을 제안할 계획이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-더 조용한 육상 초음속 비행의 합법화가 상업용 초음속 여객기의 성공적인 복귀를 보장하지는 않는다. 콩코드 초음속 여객기는 뉴욕과 런던 간 대서양 횡단 비행 시간을 7시간에서 3시간 미만으로 단축했지만, 막대한 연료 소비로 인해 수익성 있는 운영을 유지하기 어려웠으며, 영국과 프랑스 정부가 공동 부담한 28억 달러 이상의 개발 비용 회수는 말할 것도 없었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-붐 슈퍼소닉은 Overture라는 초음속 여객기를 개발 중이며, 2029년까지 첫 항공기를 고객에 인도하는 것을 목표로 하고 있다. 이 회사는 아메리칸 항공, 일본항공, 유나이티드 항공과 상업 계약을 체결하여 이들 항공사에 Overture 항공기 구매 옵션을 부여했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 붐은 최근 몇 달 동안 AI 데이터 센터에 전력을 공급할 천연가스 터빈 생산으로 주 목표에서 전환했다. 붐 CEO 블레이크 숄은 이 부수 사업에서 발생하는 수익이 Overture 초음속 여객기의 개발 비용을 충당하는 데 도움이 될 것이라고 제안했다. 동시에 유나이티드 항공 CEO 스캇 커비는 붐이 초음속 여객기를 띄울 가능성을 "50/50"으로 평가했다고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-2560x1440.png" length="0" type="image/png"/><pubDate>Thu, 02 Jul 2026 08:29:37 +0000</pubDate></item><item><title>Newly discovered PamStealer isn’t your typical macOS malware (새로 발견된 팜스틸러, 평범한 macOS 악성코드가 아니다)</title><link>https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The discovery underscores the increased effort being poured into Mac infostealers.&lt;br/&gt;(이번 발견은 Mac 정보 탈취용 악성코드 개발에 쏟아지는 노력이 증가하고 있음을 보여준다.
-&lt;&lt;&lt;PARA&gt;&gt;
-연구진이 이전에 본 적 없는 macOS 악성코드를 발견했다. 이 악성코드는 일련의 교묘한 기술을 결합해 Mac에 은밀하게 침투하며, 맞춤 개발된 자격 증명 탈취 코드를 실행한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 악성코드는 두 단계에 걸쳐 유포된다. 첫 번째 단계는 Mac용 클립보드 관리자인 Maccy로 위장한 디스크 이미지로 배포된다. 애플스크립트로 컴파일되어 있으며, 두 번째 단계를 전달하는 방식이 특징적이다. 이 악성코드는 PamStealer라는 이름으로 불리는데, Rust로 작성된 정보 탈취용 악성코드가 macOS에 내장된 플러그형 인증 모듈(PAM) 인터페이스를 사용해 대상의 로그인 비밀번호를 검증한 후 공격자 제어 서버로 전송하기 때문이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-디스크 이미지와 애플스크립트를 함께 사용하는 것은 Mac 악성코드에서 흔히 볼 수 있다. 더 특이한 점은 PamStealer가 이 둘을 결합해 은밀성을 확보하는 방식이다. 애플스크립트를 더블클릭하면 macOS 스크립트 편집기에서 열리는데, 악성 기능은 파일 깊숙이 숨겨져 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-macOS 보안 업체 Jamf의 연구원들은 "curl이나 zsh 같은 셸 명령어에 의존하는 대신, 이 애플스크립트는 기본 Objective-C API를 사용해 페이로드를 검색하고 준비하는 자체 포함 JXA(JavaScript for Automation) 다운로더를 실행한다"고 설명했다. "여기에 Rust 기반의 두 번째 단계와 PAM을 통해 자격 증명을 로컬에서 검증하는 비밀번호 캡처 워크플로우가 결합되면서, 일반적인 상용 macOS 정보 탈취용 악성코드보다 훨씬 조용한 실행 체인이 만들어진다."
-&lt;&lt;&lt;PARA&gt;&gt;
-신뢰할 수 있는 클립보드 관리자를 설치하려는 사용자가 디스크 이미지를 열면, 더블클릭 직후 Command-R 키를 누르라는 안내가 표시된다. 이 명령어는 애플스크립트 내의 악성 코드를 직접 실행한다. 또한 com.apple.quarantine이라는 macOS 속성을 우회할 수 있게 해준다. 이 속성은 인터넷에서 다운로드한 실행 파일에 대해 경고와 제한을 제공한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Jamf는 다음과 같이 설명했다:
-&lt;&lt;&lt;PARA&gt;&gt;
-PamStealer는 최근 등장한 전달 방식과 덜 익숙한 페이로드를 결합한다. 클릭 가능한 .scpt 파일과 스크립트 편집기 유인책은 macOS 위협 환경에서 이미 채택이 증가하고 있는 기술에 기반을 두고 있지만, 이 악성코드는 자체 포함된 JXA 드로퍼, Rust 기반 두 번째 단계, 그리고 탈취 전에 PAM을 통해 로컬에서 자격 증명을 검증하는 비밀번호 캡처 워크플로우로 차별화된다. 두 번째 단계는 은밀하게 유지하기 위해 상당한 노력을 기울이며, Finder로 위장하고 명령 및 제어 트래픽을 암호화하며, Full Disk Access 요청과 같은 프롬프트를 최대 40분 동안 지연시켜 실행 시점과 활동이 일치하지 않게 만든다. 이러한 행동들은 상용 macOS 정보 탈취용 악성코드가 계속 진화하여 더 조용한 실행 체인과 기본 구현을 채택함으로써 기존 탐지 기회를 줄이면서도 표준 macOS 기능과의 호환성을 유지하고 있음을 보여준다.
-&lt;&lt;&lt;PARA&gt;&gt;
-첫 번째 단계는 페이로드를 macOS에 내장된 실제 구성 요소로 위장한 앱 번들 안에 넣는다. 구성 요소는 악성코드 샘플마다 다르다. Finder.app(com.apple.finder.core 또는 com.apple.finder.monitor 하위), Software Update.app(com.apple.security.daemon 하위) 등이 예시다. 어떤 경우든 이들은 숨김 모드로 실행된다. 또한 macOS의 실제 Finder.icns를 아이콘으로 표시한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-두 번째 단계는 Apple CPU에서 실행되는 Mac용으로 작성된 경량 Mach-O 파일이다. 공격자가 Rust로 작성한 선택은 macOS 정보 탈취용 악성코드에서 비교적 드물다. Swift, Go, Objective-C와 같은 언어가 더 흔하다. 이 바이너리는 번들로 제공된 SQLite 앱의 읽기 인터페이스를 호출한다. 이를 통해 정보 탈취용 악성코드가 데이터베이스 파일을 직접 읽을 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-PamStealer는 시스템 승인 요청처럼 보이도록 설계된 기본 비밀번호 프롬프트를 표시한다. 프롬프트와 함께 나타나는 텍스트는 "Maccy가 변경을 원합니다. 이를 허용하려면 비밀번호를 입력하세요."라고 말한다. 앞서 언급했듯이, 대상이 응하면 악성코드는 PAM API를 통해 로컬에서 비밀번호를 검증한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Jamf는 "이 확인은 전적으로 PAM을 통해 이루어지며, 많은 상용 macOS 정보 탈취용 악성코드처럼 dscl, security, osascript 또는 어떤 생성된 프로세스로도 비밀번호를 확인하지 않는다"고 말했다. "결과는 검증된 비밀번호만 유지하는 더 조용한 루틴이며, 방어자가 탐지할 프로세스 체인이 하나 줄어든다."
-&lt;&lt;&lt;PARA&gt;&gt;
-검증에 실패하면 PamStealer는 올바른 비밀번호를 받을 때까지 프롬프트를 다시 표시한다. 대상이 올바른 비밀번호를 입력하면 PamStealer는 파일이 손상되어 설치할 수 없다는 메시지를 표시한다. 이는 대상이 무언가 이상하다고 의심하지 않도록 하기 위한 미끼 역할을 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 악성코드는 탈취할 수 있는 정보를 최대화하기 위한 전술을 사용한다. 한 가지 전술은 대상이 가짜 Maccy 앱에 전체 디스크 접근 권한을 부여하도록 요청하는 것이다. 또한 이더리움 계정에 접근하도록 설계된 코드도 포함되어 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다양한 기술, 특히 스크립트 편집기 유인책, 자체 포함 JXA 드로퍼, Rust 기반 두 번째 단계, PAM을 통한 로컬 자격 증명 검증은 모두 주목할 만하다.
-&lt;&lt;&lt;PARA&gt;&gt;
-Jamf는 "이러한 행동들은 상용 macOS 정보 탈취용 악성코드가 계속 진화하여 더 조용한 실행 체인과 기본 구현을 채택함으로써 기존 탐지 기회를 줄이면서도 표준 macOS 기능과의 호환성을 유지하고 있음을 보여준다"고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 02 Jul 2026 10:38:57 +0000</pubDate></item><item><title>Wing Commander IVand the FMV future that never quite was (윙 커맨더 IV와 결코 실현되지 않은 FMV 미래)</title><link>https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/wing4_title.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 06 Jul 2026 22:04:59 +0000</lastBuildDate><item><title>Wing Commander IVand the FMV future that never quite was (윙 커맨더 IV와 결코 실현되지 않은 FMV 미래)</title><link>https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/wing4_title.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;C:\ArsGames takes a look at the time Chris Roberts more or less made a whole movie.&lt;br/&gt;(C:\ArsGames가 크리스 로버츠가 사실상 영화 한 편을 찍었던 시기를 조명합니다.)&lt;/p&gt;
 &lt;p&gt;Once or twice a month, we’ll publish a personal retrospective like this one, where we’ll feature one of the games from the list—perhaps a retro game you’ve heard of, perhaps a modern title you missed. Regardless, GOG will have a DRM-free version of the game ready to go. Be sure to check out the earlier articles in the series !&lt;br/&gt;(한두 달에 한 번씩, 우리는 이와 같은 개인적인 회고 글을 게재할 예정입니다. 여러분이 들어본 적 있는 레트로 게임, 혹은 놓쳤던 현대 타이틀을 소개합니다. 어느 쪽이든, GOG에서 해당 게임의 DRM 프리 버전을 바로 만나보실 수 있습니다. 시리즈의 이전 글들도 꼭 확인해 보세요!)&lt;/p&gt;
 &lt;p&gt;If I had to pick a chunk of the 1990s that feels the most 90s-ish to me, it’d be the two-year stretch between 1996 and 1997. 1996 saw me graduating from high school and starting college; 1997 saw me meeting my future wife and falling in love. While I tried to figure out how to navigate the University of Houston’s still mostly pre-digital first-semester registration process (we had to sign up for classes over the phone, with touch-tone buttons, like cavemen!), the larger world kept turning in ways that felt inevitable and good and right. The Cold War was in the rearview mirror—how could we ever have been so worried about nuclear annihilation just a few years before? Russia was a friendly bear presided over by everyone’s favorite drunk uncle , and things would obviously keep getting better, right?&lt;br/&gt;(1990년대 중 가장 90년대스러운 시절을 고르라면, 저는 1996년부터 1997년까지의 2년을 꼽겠습니다. 1996년에 저는 고등학교를 졸업하고 대학에 입학했고, 1997년에는 미래의 아내를 만나 사랑에 빠졌습니다. 휴스턴 대학교의, 여전히 대부분 디지털 이전 시대였던 첫 학기 등록 절차를 어떻게 헤쳐 나갈지 고민하는 동안(벽시대 사람들처럼 전화기의 터치톤 버튼을 눌러 수업을 신청해야 했습니다!), 더 넓은 세상은 불가피하고 좋고 올바른 방향으로 계속 돌아가고 있었습니다. 냉전은 이미 지나간 일이었습니다. 불과 몇 년 전만 해도 핵으로 인한 멸망을 그렇게 걱정했다니, 어떻게 그럴 수 있었을까요? 러시아는 모두가 좋아하는 술 취한 삼촌이 통치하는 친근한 곰이었고, 상황은 분명 계속 좋아질 것이었습니다. 그렇죠?
@@ -623,7 +563,7 @@ Street 모드는 저속에서 전기 추진을 우선시하며, 엔진은 주로
 앤스로픽은 Ars의 논평 요청에 즉시 응답하지 않았다.
 &lt;&lt;&lt;PARA&gt;&gt;
 그러나 대변인은 포스트에 중국 연구소의 증류 공격이 "국가 안보에 심각한 위협을 가하고 업계 전반의 AI 안전 기준을 훼손합니다. 그래서 우리는 우리가 보고 있는 것에 대해 계속 공개적으로 말하고 다른 연구소, 정부, 파트너들과 공동 해결책을 위해 긴밀히 협력하고 있습니다."라고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277613277-1024x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 06 Jul 2026 07:44:18 +0000</pubDate></item><item><title>Katalyst’s satellite rescue mission is now in pursuit of NASA’s Swift (Katalyst의 위성 구조 임무, 이제 NASA의 Swift를 추격 중)</title><link>https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pegasus-Image-2-resized-1000x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277613277-1024x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 06 Jul 2026 07:44:18 +0000</pubDate></item><item><title>Katalyst’s satellite rescue mission is now in pursuit of NASA’s Swift (Katalyst의 위성 구조 임무, 이제 NASA의 Swift를 추격 중)</title><link>https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pegasus-Image-2-resized-1000x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;It will take several weeks for the Link spacecraft to rendezvous with NASA’s Swift observatory.&lt;br/&gt;(Link 우주선이 NASA의 Swift 관측소와 랑데부하기까지는 수 주가 걸릴 것이다.)&lt;/p&gt;
 &lt;p&gt;High above the remote Pacific Ocean, about halfway between Hawaii and the northernmost part of Australia, an air-launched rocket fired into space on Independence Day weekend to kick off a weekslong pursuit of a NASA astronomy satellite perilously close to falling out of orbit.&lt;br/&gt;(하와이와 호주 최북단 사이의 중간쯤에 위치한 외딴 태평양 상공 높은 곳에서, 독립기념일 주말에 공중 발사 로켓이 우주로 발사되어 궤도 이탈 위험에 처한 NASA 천문학 위성에 대한 수 주간의 추적 임무를 시작했다.)&lt;/p&gt;
 &lt;p&gt;The endeavor to rescue NASA’s Swift satellite is the first mission of its kind. NASA put out a call for commercial companies less than a year ago to propose how they could rapidly build and launch a small satellite to latch onto the Swift spacecraft and boost its altitude so that it doesn’t come down in a few months.&lt;br/&gt;(NASA의 Swift 위성을 구출하려는 이 노력은 최초의 시도이다. NASA는 1년 전 상업 기업들에게 Swift 우주선에 접근하여 고도를 높여 몇 달 안에 추락하지 않도록 할 소형 위성을 신속하게 제작하고 발사할 방법을 제안하라는 요청을 냈다.)&lt;/p&gt;
@@ -660,4 +600,79 @@ NASA는 Swift 임무를 구하는 데 명확한 관심이 있다. 5억 달러짜
 "Katalyst에서 우리는 역동적인 우주 운영이라는 아이디어에 매우 열정적입니다,"라고 라몽타뉴가 말했다. "제가 의미하는 것은, 수년 동안 사람들은 우주를 위성을 만들고, 위성을 발사하고, 임무를 수행하고, 임무가 끝나면 위성이 재진입하거나 무덤 궤도로 가서 폐기되는 것으로 생각해 왔습니다. 그것은 일회용 모델입니다.
 &lt;&lt;&lt;PARA&gt;&gt;
 "우리는 우주선 운영자가 더 이상 발사 전에 내린 어리석은 결정에 의해 제약을 받지 않아야 한다고 생각합니다,"라고 그는 말했다. "연료 재급유, 재배치, 재목적화, 수리, 심지어 위성 업그레이드까지 할 수 있어야 하며, 그것들이 준비되지 않았더라도 말입니다. 그리고 그것이 Katalyst가 모든 사람의 사고 방식을 바꾸려고 하는 곳입니다.")&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pegasus-Image-2-resized-1000x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 06 Jul 2026 08:14:09 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pegasus-Image-2-resized-1000x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 06 Jul 2026 08:14:09 +0000</pubDate></item><item><title>NRC is (sort of) getting rid of “as low as reasonably achievable” standard (NRC가 (어느 정도) ‘합리적으로 달성 가능한 최저’ 기준을 폐지하다)</title><link>https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283985401-1024x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Its issues with current nuclear safety standards are termed semantic, not physical.&lt;br/&gt;(현행 원자력 안전 기준의 문제점은 물리적이 아닌 언어적 문제로 간주된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난주, 미국이 7월 4일 독립기념일 휴가를 시작하기 직전에 원자력규제위원회(NRC)는 방사선 노출 규제 방식을 변경하는 새 규칙을 제안했다. 트럼프 행정부는 미국 내 원자력 발전소 건설 재개를 추진해 왔으며, 많은 친원자력 지지자들은 기존 규제를 산업 발전의 주요 장벽으로 비난해 왔다. 따라서 대대적인 개정이 있을 것으로 예상되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 NRC의 새 제안 규칙은 현행 규칙의 과학적 근거를 지지하며, 문제는 주로 사용해 온 용어의 모호성에 있다고 시사한다. 대신, 동일한 목적을 달성하도록 설계되었지만 기존에 의존했던 일부 표현을 피하는 기준을 채택한다. 이러한 진화적 변화의 가장 명확한 지표는 아마도 NRC가 규칙 변경으로 산업계(전력뿐만 아니라 의료 및 연구 분야 포함)가 연간 약 950만 달러만 절약할 것으로 추산한다는 점일 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 원자력 규제의 중심에는 두 가지 기술 약어가 있다. 첫 번째는 LNT(Linear Non-Threshold, 선형 비문턱값)이다. 이는 생물학적 유해 효과를 더 이상 발생시키지 않을 만큼 충분히 낮은 방사선 수준이 존재하는지 여부, 즉 LNT에서의 ‘문턱값’과 관련된 문제를 가리킨다. ‘비문턱값’은 그러한 문턱값이 없음을 의미하며, 이는 생물학적 사실과 일치한다. 생물학은 단일 입자나 광자의 방사선도 DNA를 손상시킬 수 있으며, 세포가 그 손상을 복구하는 메커니즘은 본질적으로 오류가 발생하기 쉽다는 것을 입증했기 때문이다. LNT의 ‘선형’은 방사선의 영향이 선량에 정비례한다는 것을 설명한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+기초 생물학의 견고한 기반에도 불구하고, LNT는 현실 세계에서 입증하기 어려웠다. 인간은 자연 방사선을 포함하여 암 발병에 영향을 미칠 수 있는 많은 요인에 노출된다. 이러한 모든 다른 노출에 추가로 발생하는 소량의 방사선 영향만을 분리해 내는 것은 매우 까다로우며, 극히 낮은 수준의 노출이 미치는 영향은 결정적으로 입증되지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+상황을 복잡하게 만드는 것은, 소량의 방사선이 다른 원인으로 인한 손상의 세포 복구를 촉진한다는 호르메시스(hormesis) 이론을 지지하는 사람들이 많다는 점이다. 이에 대한 증거는 훨씬 더 빈약하며, 트럼프 행정부 첫 임기 동안 NRC가 과학적 체계의 일부로 호르메시스를 채택해 달라는 청원을 받았을 때, 이를 기각했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+NRC는 노출 위험에 대한 LNT 모델을 수용한다는 점에서 ALARA(As Low As Reasonably Achievable, 합리적으로 달성 가능한 최저)라는 일반 용어에 해당하는 노출 기준을 선택해 왔다. 방사선 노출이 위험을 수반한다면, 노출을 최소화하는 것이 방사성 물질을 다루는 작업자의 건강을 보호하는 가장 명확한 방법이다. 여기서 문제는 업계 외부인들이 상업용 항공기에 탑승할 때마다 정기적으로 초과하는 노출 한도를 설정하는 것이 가능하다는 점이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+따라서 ‘합리적’이라는 단어는 매우 주관적이면서도 과도한 역할을 한다. 비판론자들은 이것이 합리적인 노출 한도 설정 → 추가적인 저감 방법 탐색 → 비용 고려 없는 채택의 무한 순환을 초래한다고 주장해 왔다. 그리고 여기서 NRC는 문제가 있었음을 인정하고 있다. “본질적으로, ALARA 관련 의사 결정에 내재된 것으로 간주되는 합리성 테스트는 점차 가용한 선량 저감 수단이 있다면, 총 선량 및 저감량과 관련한 합리성과 무관하게 추가 고려 없이 적용되어야 한다는 기대가 되어 왔다”고 새 제안은 시사한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+과거 NRC는 다른 분야에서 개발된 건강한 삶의 가치 추정치를 바탕으로 노출 단위당 금전적 가치를 부여함으로써 이 문제를 해결하려 시도했다. 그러나 새 제안에서는 “ALARA 요건 이행에 있어 어려움, 즉 선량 저감이 충분한 시점의 불명확성, 과도한 주관성, 선택적이거나 일관성 없는 집행 가능성이 있었다”고 인정한다. 따라서 혼란의 원인이라고 판단되는 용어를 포기하는 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+여기서 핵심적인 사항 중 하나는 노출 위험에 대한 LNT 모델이 사라지지 않는다는 점이다. NRC는 이전에 기준 변경 청원을 기각하면서 “선량 문턱값이 존재하거나 낮은 수준의 방사선 건강 영향이 완전히 이해된다는 설득력 있는 증거가 없는 한, 암 및 유전적 영향에 대한 LNT 모델이 방사선 방호 기준 수립 및 방사선 방호 프로그램 계획에 적절하다고 결론 내렸다.” 새 제안 규칙에서도 이 논리는 그대로 유지된다. NRC는 “현재 LNT 모델에 대한 합의된 규제 준비 대안 모델이 존재하지 않는다”고 명시한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+더 구체적으로, “생물학적 반응이 발생하지 않는 노출 문턱값이 존재할 가능성은 낮다. 이러한 문턱값은 DNA 복구 과정이 그 선량 범위에서 완전히 효과적이거나 단일 방사선 궤적이 영향을 미칠 수 없는 경우에만 발생할 수 있다”고 밝힌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+주목할 점은 NRC가 이러한 결정을 내린 배경에 트럼프 대통령이 LNT를 설명하고 이를 비합리적이라고 지칭하는 행정 명령을 발표했다는 사실이 있다는 것이다. “NRC는 방사선 노출에 안전한 문턱값이 없으며 피해가 노출량에 정비례한다고 가정하는 안전 모델을 사용한다. 이러한 모델은 건전한 과학적 근거가 부족하고 비합리적인 결과를 초래한다”고 명령은 명시한다. 기관은 이를 재고하라는 구체적인 명령을 받았음에도 LNT를 유지하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+LNT가 유지됨에 따라 ALARA의 과학적 근거도 그대로 남아 있다. 따라서 새로운 제안 규정은 주로 이를 다른 이름으로 부르는 데 초점을 맞춘다. “NRC는 LNT 모델의 극저선량 방사선 위험 평가에 기반한 ALARA 원칙에 대한 언급을 규정에서 삭제할 것을 제안한다”고 제안된 변경 사항은 말한다. “대신, NRC는 규제 한도 미만의 선량을 관리하기 위해 덜 주관적이고 단계적인 접근 방식을 적용할 것이다.”
+&lt;&lt;&lt;PARA&gt;&gt;
+ALARA를 대체하기 위해 NRC는 증거가 방사선 영향이 명백함을 명확히 나타내는 한도를 시작으로 그 이하에 노출 임계값을 설정할 것이다. 가장 낮은 노출부터 가장 높은 노출까지, 이러한 임계값은 점점 더 적극적인 노출 제한 노력을 요구할 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 세부 사항의 표현은 다소 혼란스럽다. 이름에서 알 수 있듯이 LNT 모델은 생물학적 위험이 사라지는 문턱값이 없음을 시사하며, NRC는 이 모델을 수용한다. 그럼에도 불구하고 문턱값에 기반하여 규제한다. 또한 이러한 문턱값을 안전에 대한 ‘최적화’ 접근 방식의 구현이라고 칭한다. 그러나 최적화의 정의를 인용하면서 ALARA의 한 형태라고 언급하기도 하는데, 이는 다시 NRC가 없애고자 하는 용어이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 조치 외에도 NRC가 제안하는 규칙 변경은 주로 노출 모니터링 장비 사용에 관한 규정 업데이트에 초점을 맞춘다. 기관이 마지막으로 요구 사항을 수정한 이후 기술이 발전했으며, 이에 따라 이 제안을 통해 이를 업데이트하는 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+혼란에도 불구하고, 이러한 변경이 트럼프 행정부가 행정 명령에서 기대했던 종류의 원자력 발전 붐을 초래하지는 않을 것이 분명하다. 계획된 규칙의 주요 특징 중 하나는 현재 규정을 준수하는 모든 조직이 아무런 변경 없이도 계속 준수 상태를 유지할 수 있다는 점이다. 변경은 조직이 이를 채택함으로써 비용을 절감할 수 있다고 판단하는 경우에만 의미가 있을 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그리고 앞서 언급했듯이, 산업계의 이러한 절감액은 상당히 미미할 것이며, 총액은 연간 950만 달러로 추산된다. 이 절감액이 원자력 발전에만 국한되고(예: 더 저렴한 노출 모니터링이 아닌) ALARA 폐지에만 기인한다고 가정하더라도, 미국 내 57개 원전에 분산하면 발전소당 평균 약 15만 달러에 불과하다.
+&lt;&lt;&lt;PARA&gt;&gt;
+따라서 ALARA를 모든 원자력 산업 문제의 원인으로 보던 사람들은 NRC가 이를 폐지하는 것을 보고 기뻐할 것이다. 그러나 과학적 기반은 그대로 유지되며 결과적으로 규제 환경이 최소한으로만 변경된다는 사실을 알고 실망할 것이다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283985401-1024x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 06 Jul 2026 08:48:45 +0000</pubDate></item><item><title>What is the oldest American object ever launched into space? (미국이 우주로 보낸 가장 오래된 물건은 무엇일까?)</title><link>https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070326a-lg-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;From a Revolutionary War flag to the Statue of Liberty…&lt;br/&gt;(독립전쟁 깃발에서 자유의 여신상까지…)&lt;/p&gt;
+&lt;p&gt;Did you know that the space shuttle once launched the Statue of Liberty into space?&lt;br/&gt;(우주 왕복선이 한때 자유의 여신상을 우주로 발사했다는 사실을 알고 계신가요?
+&lt;&lt;&lt;PARA&gt;&gt;
+실제로 1985년 4월 디스커버리호가 네 번째 비행을 위해 이륙했을 때, 선내에는 두 개의 "자유의 여신상"이 있었습니다. 각각의 조각상 높이는 겨우 15인치(38.1센티미터)에 불과했지만, 당시 복원 작업이 진행 중이던 본래 조각상에서 떼어낸 구리로 만들어졌다는 점에서 의미가 깊습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+일주일간의 STS-51D 임무가 끝난 후, 우주를 다녀온 조각상 중 하나는 전시되었고, 다른 하나는 녹여 구리 봉인을 만드는 데 사용되었습니다. 이후 이 봉인들은 자유의 여신상 엘리스 아일랜드 백주년 위원회(Statue of Liberty Ellis Island Centennial Commission)를 통해 일반에 판매되었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 구리는 1875년부터 1884년까지 진행된 조각상의 최초 건설 시기로 거슬러 올라갑니다. 프랑스에서 선물한 자유의 여신상은 원래 1876년 미국 건국 100주년을 기념하기 위해 제작되었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이제 미국이 새로운 250년을 맞이하면서, 미국 역사의 다른 물건들을 지구 궤도로 운반한 우주 비행이 추가로 40년 더 진행되었습니다. 그렇다면 자연스럽게 떠오르는 질문이 있습니다: 지구 밖으로 발사된 가장 오래된 미국사 관련 유물은 무엇일까요?
+&lt;&lt;&lt;PARA&gt;&gt;
+본 기사의 목적상, '아메리카나(Americana)'는 독립전쟁과 1776년 독립선언서 서명 시기까지 거슬러 올라가는 모든 기념품을 의미합니다. 물론 그보다 더 오래된 물건이 우주에 간 사례도 있습니다. 예를 들어, 최초의 영구 잉글랜드 식민지인 제임스타운(1611년)의 '짐 꼬리표'가 2007년 애틀랜티스호에 실려 비행했습니다. 하지만 이는 본 기사의 범위를 벗어납니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+최초의 머큐리 우주비행사 중 한 명이자 미국 상원의원이었던 존 글렌(John Glenn)은 77세의 나이로 1998년 디스커버리호 임무에 탑승했을 당시 우주로 비행한 최고령자였습니다. 그가 가져가기로 선택한 물품 중에는 초기 미국 역사와 관련된 두 가지가 있었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"상원 큐레이터실, 상원 역사실 및 상원 도서관 직원들과 협의한 끝에, 글렌 상원의원은 STS-95 공식 비행 키트(OFK)를 위해 이 '의회 의사 진행 규범 매뉴얼(Manual of Parliamentary Practice)'을 선택했습니다." 상원 큐레이터실은 2023년 기사에서 이렇게 설명했습니다. 이 키트는 비행 후 전시할 기념품과 유물을 보관하는 곳입니다. "이 매뉴얼은 크기와 무게가 비교적 작아 실용적인 선택이었지만, 상원 역사에서 중요한 의미를 지닌 문서이기도 합니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+토머스 제퍼슨(Thomas Jefferson)이 부통령(따라서 상원 의장)으로 재임 중이던 1801년에 집필한 이 매뉴얼은 의사 진행 순서와 예의에 대한 접근 방식에 있어 미 의회 양원에 영향을 미쳤습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+글렌은 또한 전장에서 조지 워싱턴 장군을 식별하는 데 사용되었던 13개의 별이 그려진 깃발도 함께 가져갔습니다. 1777년 장군 제복의 세부 사항에서 영감을 받은 것으로 추정되는 워싱턴 사령부 깃발(Commander-in-Chief 기준기라고도 함)은 1799년 워싱턴 사망 200주년 기념 행사를 앞두고 글렌과 함께 비행했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 깃발과 매뉴얼 모두 복제품이었습니다. 원본은 박물관에 보관되어 있으며, 너무 손상되기 쉽고 대체 불가능하여 우주로 발사될 위험을 감수할 수 없다고 판단되었습니다. 글렌이 비행에 사용한 사본은 1993년 재판본이었고, 깃발은 1998년에 글렌이 비행할 수 있도록 특별 제작된 것입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 역사에 깊이 새겨진 또 다른 복제 깃발이 2014년 11월부터 2015년 6월까지 국제우주정거장(ISS)에 있었습니다. NASA 우주비행사 테리 버츠(Terry Virts)는 메릴랜드주 포트 맥헨리(Fort McHenry)에서 15개의 별이 그려진 깃발을 제공받았으며, 이 깃발은 볼티모어 전투 200주년이 되는 해의 국기의 날(Flag Day)에 이 역사적 장소에 게양되었던 것입니다. 이 깃발의 원본은 프랜시스 스콧 키(Francis Scott Key)가 "아직도 펄럭이는" 모습을 보고 1814년 미국 국가가 된 시 '성조기(The Star-Spangled Banner)'를 쓰게 한 바로 그 깃발입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+1869년 5월, 당시 유타 준주에 있던 프로몬토리 정상(Promontory Summit)에서 최초의 대륙 횡단 철도 완공을 기념하는 의식에 17.6캐럿 금 스파이크가 사용되었습니다. 오늘날 이 장소는 노스롭 그루먼(Northrop Grumman)이 우주 발사체용 고체 로켓 모터를 제작하고 시험하는 곳 근처에 위치한 국립 역사 공원입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+96년 후, 골든 스파이크의 복제품이 STS-38 승무원과 함께 애틀랜티스호에 실려 발사되었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 우주로 비행한 가장 오래된 아메리카나 유물로 여겨지는 것은 바로 다른 스파이크였습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+" USS 컨스티튜션(Constitution) , 일명 '올드 아이언사이즈(Old Ironsides)' 취역 200주년을 기념하여, 이 구리 스파이크는 USS 컨스티튜션 선체의 원래 부품으로, 미국 우주 왕복선을 타고 비행했습니다." 못을 설명하는 명판에는 이렇게 적혀 있습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+1797년으로 거슬러 올라가며 1992년 함선에서 제거된 이 스파이크는 1995년 6월 27일부터 7월 7일까지 STS-71 임무 전체 기간 동안 애틀랜티스호에 탑재되어 있었습니다. 이 임무는 NASA 우주 왕복선과 구 소련 러시아 우주 정거장 미르(Mir) 간의 최초의 랑데부 및 도킹을 기록한 역사적인 순간이었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+비슷한 연대의 나무 조각인 또 다른 컨스티튜션호 부품은 STS-31 임무를 통해 허블 우주 망원경과 함께 궤도로 발사되었습니다. 이 나무 조각은 메릴랜드주 아나폴리스에 있는 미국 해군사관학교 박물관(US Naval Academy Museum)에 대여 중이었습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070326a-lg-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 06 Jul 2026 10:57:56 +0000</pubDate></item></channel></rss>
