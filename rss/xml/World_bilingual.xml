@@ -1,33 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 07 Jul 2026 04:29:58 +0000</lastBuildDate><item><title>Prince Harry Will Travel to London, but Without His Family (해리 왕자, 가족 없이 런던 방문 예정)</title><link>https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/04/multimedia/04int-uk-prince-harry-qtfj/04int-uk-prince-harry-qtfj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Prince Harry will travel to the United Kingdom next week for the first time since a fence-mending reunion last fall with his father, King Charles, ending speculation that security concerns would mean a complete cancellation of the visit.&lt;br/&gt;(해리 왕자가 지난 가을 아버지인 찰스 국왕과의 화해적 재회 이후 처음으로 다음 주 영국을 방문한다. 이는 보안 문제로 인해 방문이 전면 취소될 수 있다는 추측을 종식시키는 결정이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아내와 자녀들은 원래 전체 여행 일정에 포함되었으나 런던에는 오지 않을 것이라고 가족 측 소식통이 전했다. 이들은 나머지 체류 기간에 대한 선택지를 여전히 고심 중이라고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-영국 당국이 해리의 미국인 아내 메건과 부부의 자녀들이 공적 자금으로 지원되는 보안을 받지 못할 것이라고 확인하고, 해리 자신의 보안팀이 우려를 제기한 후 런던 방문은 취소되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-41세의 해리는 캘리포니아에서 아내와 자녀들(아치 왕자와 릴리벳 공주)과 함께 살고 있으며, 이들이 함께 영국을 방문한 것은 2022년이 마지막이다. 가족 전체가 함께 런던 여행을 계획했다면 77세의 찰스 국왕과 7세, 5세의 손주들이 수년 만에 처음으로 직접 만날 기회가 될 예정이었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 여행에는 화요일부터 시작되는 여러 공개 행사와 2027 인빅투스 게임까지 1년을 앞둔 시점을 기념하기 위한 북부 도시 버밍엄 방문이 포함될 예정이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 최근 며칠간 정확한 일정에 대한 혼란이 있었고, 왕실 관찰자들과 영국 타블로이드 언론은 가족 드라마나 지속적인 보안 문제가 계획을 무산시킬 수 있다는 추측을 크게 쏟아냈다.
-&lt;&lt;&lt;PARA&gt;&gt;
-BBC는 6월 말, 부부가 여행 기간 중 일부 동안 자녀들과 함께 왕실 거주지에 머물겠다는 제안을 수락했다고 보도했다. 이는 해리가 인빅투스 게임을 위한 1년간의 준비를 시작하기 위해 여행을 떠난다는 설명이었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 버킹엄 궁전은 이후 왕실 영지 내 가족 숙소 제공 제안이 수락된 적이 없다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-해리 측 소식통은 해리가 버밍엄으로 이동할 예정인 여행 후반부에 가족이 합류할 가능성도 여전히 있다고 전했다. 해리는 10년 전 부상당한 군인들을 위한 대회인 인빅투스 게임을 창설했다. 또한 그가 지원하는 다른 대의명분과 관련된 영국 내 다른 일정도 소화할 예정이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-영국 당국이 해리 가족이 체류하는 동안 공적 자금으로 지원되는 보안을 제공하지 않기로 한 결정은 최근 몇 년간 왕실 관계에 걸림돌이 되어 왔다. 가족 간 불화는 해리가 서식스 공작이라는 칭호를 가진 상태에서 2020년 왕실 업무에서 물러나 미국으로 이주하면서 공개적으로 드러나기 시작했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-해리는 왕실에서 성장한 이야기를 담은 폭로성 회고록을 집필했고, 메건과의 관계에 관한 6부작 넷플릭스 시리즈를 제작하여 형인 윌리엄 왕자와의 갈등을 상세히 공개했다. 또한 보안 부족에 이의를 제기하는 소송을 제기했으나 패소했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 찰스 국왕이 비공개 형태의 암 진단을 받은 후, 해리는 2025년 봄 BBC와의 인터뷰에서 "가족과의 화해를 간절히 원한다"고 말했다. 9월에는 런던에서 아버지와 차를 마시며 한 시간을 보냈고, 이는 갈등 해소를 위한 첫걸음으로 평가되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-레오 샌즈가 취재에 기여했다.
-
-&lt;&lt;&lt;END&gt;&gt;)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/04/multimedia/04int-uk-prince-harry-qtfj/04int-uk-prince-harry-qtfj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 04 Jul 2026 14:18:51 +0000</pubDate></item><item><title>Huge Crowds Mass in Tehran for Ayatollah’s State Funeral (아야톨라 국장에 테헤란에 운집한 거대한 인파)</title><link>https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/04/multimedia/04int-khamenei-funeral-fmvh/04int-khamenei-funeral-fmvh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 07 Jul 2026 06:36:11 +0000</lastBuildDate><item><title>Huge Crowds Mass in Tehran for Ayatollah’s State Funeral (아야톨라 국장에 테헤란에 운집한 거대한 인파)</title><link>https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/04/multimedia/04int-khamenei-funeral-fmvh/04int-khamenei-funeral-fmvh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Huge crowds of Iranians gathered on Saturday to view the casket of Ayatollah Ali Khamenei at an elaborate state funeral for the former supreme leader, who dominated Iran for decades before being killed in the U.S.-Israeli war in late February.&lt;br/&gt;(토요일, 수많은 이란인들이 전 최고지도자 아야톨라 알리 하메네이의 관을 보기 위해 거대한 국장 행사장에 모여들었다. 그는 수십 년간 이란을 지배하다 2월 말 미-이스라엘 전쟁에서 사망했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 수만 명의 사람들이 새벽부터 수도 테헤란의 그랜드 모살라 모스크에 도착해 6일간의 공개 추모 행사가 시작되었다. 아야톨라 하메네이의 시신이 전국 여러 도시로 운구됨에 따라 수백만 명이 장례식에 참여할 것으로 예상된다.
