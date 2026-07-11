@@ -1,102 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 10 Jul 2026 21:55:51 +0000</lastBuildDate><item><title>Police Raids on Ukrainian Drone Maker Fuel Fears About Press Freedom (우크라이나 드론 제조업체 경찰 압수수색, 언론 자유에 대한 우려 고조)</title><link>https://www.nytimes.com/2026/07/08/world/europe/ukraine-police-raid-media.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/08/multimedia/08int-ukraine-raid-fgbc/08int-ukraine-raid-fgbc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The Ukrainian police have searched a major military drone manufacturer and the home of its owner, who is also a part owner of a prominent news outlet that has been critical of the military, escalating concerns about government pressure on independent media.&lt;br/&gt;(우크라이나 경찰이 주요 군사용 드론 제조업체와 그 소유주의 자택을 압수수색했다. 이 소유주는 군대를 비판해 온 유명 언론사의 공동 소유주이기도 하여, 정부의 독립 언론 압박에 대한 우려가 커지고 있다.)&lt;/p&gt;
-&lt;p&gt;The police action targeted the drone company Vyriy, whose owner, Oleksii Babenko, said officers had searched 40 locations on Tuesday, including the company’s offices and his home. Prosecutors said they were investigating price gouging in military contracts, which Mr. Babenko denied, and the company said in a statement that a commercial rivalry with another drone maker may have caused the raids.&lt;br/&gt;(이번 경찰 조치는 드론 회사 비리(Vyriy)를 겨냥했으며, 소유주 올렉시 바벤코는 화요일 회사 사무실과 자신의 자택을 포함해 40곳이 압수수색되었다고 말했다. 검찰은 군수 계약에서의 가격 폭리를 조사 중이라고 밝혔으나 바벤코는 이를 부인했으며, 회사는 성명을 통해 다른 드론 제조업체와의 상업적 경쟁이 압수수색의 원인이 되었을 수 있다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 이번 경찰 압수수색은 바벤코가 공동 소유한 뉴스 매체 바벨(Babel)에게 긴장된 시기에 이루어졌다. 바벨은 지난달 징집병 훈련 중 학대와 한 군부대에서 25명의 병사가 전투와 무관하게 사망한 사례를 기록한 조사 기사를 발표했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-우크라이나 언론인들은 이번 경찰 압수수색과 바벨의 조사 기사 사이에 연관성을 지적했다. 압수수색은 최근 다른 뉴스 사이트가 부패 조사 세부 내용을 게재하는 것을 금지한 법원 명령 직후에 이루어졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 두 조치는 “언론에 압력을 가하기 위한” 것이라고 우크라인스카 프라우다(Ukrainska Pravda)의 편집장 세브길 무사예바(Sevgil Musaieva)가 논평에서 썼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-바벤코는 수사에 협력하고 있으며 압수수색이 바벨의 보도와 관련이 있다는 증거는 없다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“러시아인을 제외한 그 누구와도 싸우지 않는다고 바로 말씀드릴 수 있습니다.”라고 그는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-우크라이나의 미디어 환경에는 여러 조사 매체와 독립 뉴스 사이트가 포함된다. 우크라이나 언론인들은 러시아 침공 초기에는 내부 분열을 피하기 위해 비판을 자제했지만, 최근에는 인사 변동과 정책 개혁으로 이어진 부패와 학대에 대한 주요 기사를 보도해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 언론인과 언론 자유를 감시하는 단체들은 수년간 우크라이나에서 전시의 비밀 유지 필요성을 훨씬 넘어서는 정부의 뉴스 미디어 제한과 압박에 대해 경고해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-‘스켈랴(Skelya)’로 알려진 제425 독립 돌격 연대의 훈련소에서의 학대에 대한 바벨의 조사는 구타와 가혹한 처벌의 여러 사례를 기록했다. 예를 들어, 두 병사를 며칠 동안 수갑으로 묶어두는 경우도 있었다. 조사 결과, 한 신병이 훈련소에서 병원에 실려 왔을 때 손가락이 부러지고 열린 상처가 있었으며, 며칠 만에 사망한 것으로 나타났다.
-&lt;&lt;&lt;PARA&gt;&gt;
-학대의 상당 부분은 약물 중독에서 회복 중이던 사람들이 군에 징집된 경우에 가해졌다. 이 기사는 아편 중독 병사에게 메타돈 대체 요법이 제공되지 않아 훈련 중 금단 증상을 겪었다는 사실을 기록했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 보도는 전투 외 사망 원인을 폐렴으로 명시한 의료 보고서에 의문을 제기했다. 스켈랴 연대는 훈련 중 병사들을 학대했다는 주장을 부인했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-경찰 압수수색 전에, 뉴스 매체와 바벤코는 소셜 미디어에서 폭력적인 비난에 시달렸다.
-&lt;&lt;&lt;PARA&gt;&gt;
-보도 직후 이루어진 경찰 조치는 전쟁 중 언론에 대한 압박 패턴을 따른다.
-&lt;&lt;&lt;PARA&gt;&gt;
-한 우크라이나 기자는 지방 신문의 편집 정책에 정부가 개입한 사실을 폭로한 후 징집 통지서를 받았다. 우크라이나 국내 정보 기관은 2024년에 한 조사 뉴스 사이트의 기자들이 사용하는 호텔 방에 비밀 카메라를 설치했다. 또한 공영 방송사는 자신의 보도가 정치적 압력을 받고 있다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-볼로디미르 젤렌스키 대통령은 호텔 도청 사건을 비난하고 책임자인 정보 장교를 해임했다. 그러나 그의 행정부는 전쟁 중 이전에 독립적이었던 텔레비전 방송국들을 단일한 국가 통제 방송으로 통합하여 독립 보도를 억압한다는 비판을 받고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-언론 권리 단체들은 러시아 침공을 취재하는 위험을 우크라이나 기자들에게 가장 심각한 위협으로 평가하면서도 공식적인 압력에 대한 우려를 제기해 왔다. “조사 기자들은 당국으로부터 신체적, 온라인상의 공격 증가에 직면하고 있다”고 국경없는기자회(Reporters Without Borders)는 우크라이나의 언론 자유 요약에서 썼다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/08/world/europe/ukraine-police-raid-media.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/08/multimedia/08int-ukraine-raid-fgbc/08int-ukraine-raid-fgbc-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Wed, 08 Jul 2026 09:00:05 +0000</pubDate></item><item><title>U.S. Strikes Iran for a Second Day After Trump Says Truce Is ‘Over.’ (트럼프 "휴전은 끝났다" 발언 후 미국, 이틀 연속 이란 공습)</title><link>https://www.nytimes.com/2026/07/08/world/middleeast/iran-truce-trump.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/08/multimedia/08int-iran-ledeall01-photo-ltbh/08int-iran-ledeall01-photo-ltbh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;American military forces launched attacks on Iran for a second straight day on Wednesday, hours after President Trump said that he believed that a temporary truce he signed with Iran was “over” and called its leaders “scum” and “evil people.”&lt;br/&gt;(미국 군대가 수요일 이틀째 이란을 공격했다. 이는 트럼프 대통령이 자신이 이란과 체결한 일시 휴전이 "끝났다"고 믿으며 이란 지도자들을 "인간 쓰레기"이자 "사악한 사람들"이라고 부른 지 몇 시간 만에 이루어졌다.)&lt;/p&gt;
-&lt;p&gt;U.S. Central Command, which oversees operations in the Middle East, said the attacks on Wednesday were intended to further degrade Iran’s ability to threaten ships in the Strait of Hormuz, the critical oil and gas route off Iran’s southern coast.&lt;br/&gt;(중동 작전을 관할하는 미 중부사령부는 수요일의 공격이 이란이 남부 해안의 중요한 석유 및 가스 통로인 호르무즈 해협에서 선박을 위협하는 능력을 더욱 약화시키기 위한 것이라고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;Iranian state media reported explosions across parts of southern Iran, including in Konarak and nearby Chabahar, two coastal cities east of the Strait of Hormuz, and the sound of warplanes flying over Kish, a small coral island 10 miles off the Iranian coast. A state television reporter said two projectiles had struck Abu Musa, an Iranian-controlled island in the Persian Gulf.&lt;br/&gt;(이란 국영 언론은 이란 남부 지역, 특히 호르무즈 해협 동쪽의 두 해안 도시인 코나라크와 인근 차바하르에서 폭발이 발생했으며, 이란 해안에서 16km 떨어진 작은 산호섬 키시 상공을 비행하는 전투기 소리가 들렸다고 보도했다. 국영 텔레비전 기자는 페르시아만에 있는 이란 통제 하의 섬인 아부무사에 두 발의 발사체가 명중했다고 전했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"미국은 중요한 국제 수로를 자유롭게 항해하는 상선과 민간 선원들에 대한 최근의 정당하지 않은 침략 행위에 대해 이란에 책임을 묻는 것입니다."라고 중부사령부는 성명에서 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 대통령은 트루스 소셜에 올린 글에서 이번 공격이 이번 주 이란의 선박 공격에 대한 "보복"으로 수행되었다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"또 발생하면 상황이 훨씬 더 나빠질 것입니다!"라고 그는 썼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 공격은 이란이 화요일 미국의 대대적인 이란 타격에 대한 보복으로 페르시아만을 가로질러 미사일과 드론을 발사한 지 몇 시간 만에 이루어졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-양측이 서로 휴전을 위반했다고 비난하고 일부 이란 언론이 협정 자체를 완전히 파기할 것을 요구하면서, 3주 전 이란과 미국이 서명한 휴전은 붕괴 직전에 이른 것으로 보인다. 호르무즈 해협의 선박 통행은 미국이 이란이 수로에서 상선 3척을 공격했다고 비난한 후 이미 중단되었고, 이는 최근의 적대 행위를 재점화하고 유가를 몇 주 만에 최고 수준으로 끌어올렸다.
-&lt;&lt;&lt;PARA&gt;&gt;
-수요일 터키 앙카라에서 열린 나토 정상회담에서 연설한 트럼프 대통령은 이란에 대한 최신 공격을 예고하며 앞으로 몇 시간 안에 이란을 "강하게" 타격할 것이라고 말했다. 그는 또한 이란 석유 산업의 핵심인 카르그 섬을 다시 점령하는 방안을 고려하고 있으며, 미군이 불과 3주 전에 해제한 이란 항구를 드나드는 선박에 대한 봉쇄를 재개할 수 있다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-휴전에 대한 질문에 그는 "나에게는 끝난 것 같다. 더 이상 그들과 거래하고 싶지 않다. 그들은 인간 쓰레기다."라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 대통령은 이란 지도자들을 "병든 사람들", "사악한 사람들", 그리고 "괴짜"라고 부르며 계속 비난했지만, 지속적인 평화 협정을 위한 그들과의 대화에는 여전히 열려 있다고 말했다. 이 비난하는 발언은 불과 몇 주 전 이란 지도자들을 "매우 합리적인 사람들"이자 "거래하기 좋았으며" "자국을 돕기 위해 노력하고 있다"고 칭찬했던 트럼프 대통령의 최근 기복을 보여준다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2월 말 미국과 이스라엘 군대가 이란을 공격하면서 시작된 이 분쟁은 간헐적인 공습과 평화를 위한 대화 사이의 어지러운 오고 감으로 특징지어져 왔다. 이러한 불확실성은 주로 전쟁이 이 지역의 석유 및 가스 흐름을 막았기 때문에 세계 경제를 혼란에 빠뜨렸다.
-&lt;&lt;&lt;PARA&gt;&gt;
-휴전은 호르무즈 해협을 재개방하고 협상을 위한 길을 닦기 위한 것이었다. 이 협정은 이란의 고농축 우라늄 비축분의 운명과 핵 프로그램의 미래를 포함한 가장 까다로운 문제들 중 일부를 60일 동안 해결하도록 남겨두었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란은 전쟁 첫날 이스라엘의 공습으로 사망한 최고 지도자 아야톨라 알리 하메네이의 장례식을 치르는 동안 이번 주 협상이 중단되었다. 그러나 트럼프 대통령은 수요일 협상을 재개할 의향이 별로 없다는 점을 시사했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그들과 거래를 하고 싶은지 잘 모르겠다"고 그는 나토 기자회견에서 말했다. "우리가 게임을 할 수도 있지만, 거래를 하고 싶은지는 확실하지 않다. 그냥 일을 끝내자."
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 대통령은 또한 자신이 이란인들의 암살 표적이 되고 있다고 말했다. 이란 지도자들이 "사라졌다"고 자랑하면서, 그는 "나도 사라질 수 있다. 왜냐하면 나는 그들의 1순위 표적이기 때문이다."라고 말했다. 미국 관리들은 이란의 은밀한 부대가 2024년에 트럼프 대통령을 암살하려는 음모를 꾸몄으며, 그 부대의 지도자는 3월 이란에서 미국의 공습으로 사망했다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란 관리들은 자체적인 위협적인 성명을 발표하며 미국이 휴전 협정의 여러 조항을 위반했다고 비난했다. "적의 침략자와 그 공범자들은 엄중히 처벌될 것입니다."라고 이란 최고 지도자 아야톨라 모즈타바 하메네이의 고문인 모흐센 레자에이는 최근 미국의 공격 이후 소셜 미디어에 썼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란의 강력한 이슬람 혁명수비대에 가까운 이란 언론 매체들은 더 나아가 휴전 종식을 요구하는 사설을 게재했다. 예를 들어 타스님 통신은 이란 관리들이 미국의 공격에 "이해를 태워버리는" 방식으로 대응해야 한다고 주장했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 사설들은 공식적인 이란 정책을 반영하지는 않았지만, 강경파들이 미국과의 임시 협정을 두고 갈라졌음을 강조했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘의 베냐민 네타냐후 총리는 팟캐스트 인터뷰에서 트럼프 대통령이 이란과의 기본 협정이 끝났다고 말한 것은 "중요한 발언"을 한 것이라고 말했다. 이스라엘은 휴전 당사자가 아니었다. "그가 무엇을 할 것인가?"라고 네타냐후 총리는 트럼프 대통령을 지칭하며 말했다. "우리는 모든 시나리오에 대비하고 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-휴전 조건에 따라 이란은 60일 동안 호르무즈 해협에서 선박에 무료로 "안전 통행"을 제공해야 했다. 그러나 이란은 이 협정이 경제적으로 중요한 수로에 대한 단독 감독권을 부여한다고 주장하며 선박들이 선호하는 경로를 사용하도록 요구해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미군에 따르면 최근 공격은 이번 주 초 이란이 호르무즈 해협에서 사우디 유조선과 카타르 액화천연가스 운반선을 포함한 세 척의 선박에 발포하면서 시작되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이에 대응하여 미군은 화요일 이란을 공격했으며, 미군은 방공 시스템, 지휘통제망, 해안 레이더 기지, 대함 미사일 기지, 그리고 해협 안팎에 있는 60척 이상의 이슬람 혁명수비대 선박을 타격했다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란 군대는 이번 공습으로 이란 공군 및 해군 병력 8명이 사망했다고 밝혔다. 이는 휴전 체결 이후 이란이 보고한 첫 군사적 사상자였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-해협 내 선박 공격에 대한 책임을 주장하지 않은 이란은 화요일 미국의 공격을 "노골적인 침략 행위"라고 비난하며 "강력한 대응"을 다짐했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-몇 시간 후, 이란 군대는 바레인과 쿠웨이트에 있는 미군 기지를 표적으로 삼았다고 주장하는 미사일과 드론을 발사했다. 중동 작전을 관할하는 미 중부사령부는 즉각적인 논평을 하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-쿠웨이트 정부는 자국 영토에 두 발의 탄도 미사일과 13대의 드론이 발사되었으며 모두 요격되었다고 밝혔다. 사상자 보고는 없었지만, 쿠웨이트 에너지부는 낙하하는 파편으로 인해 전력선이 손상되었다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-바레인에서는 아침 내내 공습 경보가 울렸다. 바레인 군대는 이란의 미사일과 드론을 요격했다고 밝혔지만, 피해 여부는 구체적으로 밝히지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-공격 이후 미국과 이란 간의 대화에서 중재자 역할을 해온 파키스탄은 "모든 당사자"에게 자제를 촉구하고 지역 안정을 해칠 수 있는 행동을 자제할 것을 촉구했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"지속적인 관여, 대화 및 외교에는 대안이 없습니다."라고 파키스탄 외무부는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-유엔 기관인 국제해사기구는 수요일 선박 운영자들에게 호르무즈 해협을 통해 선박을 보내지 말 것을 촉구하며, 이 지역에 있는 거의 6,000명의 선원을 "불필요한 위험"에 노출시키는 것을 피하고 싶다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-국제 기준인 브렌트유 가격은 수요일 5% 이상 급등해 배럴당 약 78달러로 몇 주 만에 최고 수준을 기록했으며, 이는 증가하는 공격이 촉발할 수 있는 경제적 혼란의 신호이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-보도에 기여한 사람: 아론 복서먼, 레일리 니쿠나자르, 제니 그로스, 숀 맥크리시, 파르나즈 파시히, 조나탄 라이스, 사남 마후지.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/08/world/middleeast/iran-truce-trump.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/08/multimedia/08int-iran-ledeall01-photo-ltbh/08int-iran-ledeall01-photo-ltbh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Wed, 08 Jul 2026 13:18:21 +0000</pubDate></item><item><title>At the Ayatollah’s Funeral (아야톨라의 장례식에서)</title><link>https://www.nytimes.com/2026/07/08/world/ali-khamenei-funeral-iran-strikes.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/09/multimedia/09int-theworld-top/09int-theworld-top-articleLarge.png?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 11 Jul 2026 00:00:19 +0000</lastBuildDate><item><title>At the Ayatollah’s Funeral (아야톨라의 장례식에서)</title><link>https://www.nytimes.com/2026/07/08/world/ali-khamenei-funeral-iran-strikes.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/09/multimedia/09int-theworld-top/09int-theworld-top-articleLarge.png?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;A lot has been happening. Last month, President Trump declared peace in the Middle East. Yesterday, he said the Iran deal was “over.” A defiant Iran is not giving him what he wants. More on that below.&lt;br/&gt;(많은 일이 일어나고 있습니다. 지난달 트럼프 대통령은 중동에 평화를 선언했습니다. 어제 그는 이란 핵 합의가 "끝났다"고 말했습니다. 도발적인 이란은 그가 원하는 것을 주지 않고 있습니다. 자세한 내용은 아래에서.)&lt;/p&gt;
 &lt;p&gt;Speaking of defiant: In Iran, a weeklong, multicity funeral for the former supreme leader Ali Khamenei is wrapping up today with his burial in the city of Mashhad, his birthplace and one of Shiite Islam’s holiest cities. Hundreds of thousands of mourners have been following his casket. I spoke with my colleague Abdi Latif Dahir, who has been watching the processions in Iran, about what this moment means for the country.&lt;br/&gt;(도발적인 것에 대해 말하자면: 이란에서는 전 최고 지도자 알리 하메네이를 위한 일주일간의 다도시 장례식이 오늘 그의 출생지이자 시아파 이슬람의 가장 신성한 도시 중 하나인 마슈하드 시에서의 안장으로 마무리됩니다. 수십만 명의 추모객들이 그의 관을 따라왔습니다. 저는 이란에서 행렬을 지켜보고 있는 동료 압디 라티프 다히르와 이 순간이 국가에 어떤 의미인지 이야기했습니다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -912,7 +815,7 @@ BBC에 따르면, 가나의 법무장관 도미닉 아쿠리팅가 아인은 바
 장례식에 참석한 몇 안 되는 사람 중 한 명이었던 뮈젤라르는 “땅콩버터 바닥”이 스히퍼스의 가장 유명한 시각 예술 작품이지만, 그는 그 페이스트에 대한 식욕이 전혀 없었다고 말했다.
 &lt;&lt;&lt;PARA&gt;&gt;
 그러나 땅콩 애호가를 위해 박물관 카페테리아는 방문객들이 이번 여름에 즐길 수 있도록 메뉴에 땅콩버터 샌드위치를 추가했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/10/arts/dutch-museum-peanut-butter-floor-art-wim-schippers.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/10/multimedia/10-xp-peanutbutter-zwjp/10-xp-peanutbutter-zwjp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 10 Jul 2026 07:38:16 +0000</pubDate></item><item><title>Police Investigating Donations to Reform U.K., Reports Say (경찰, 영국개혁당 기부금 수사 중…보도)</title><link>https://www.nytimes.com/2026/07/10/world/europe/reform-uk-farage-cottrell-donation-police.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/10/multimedia/10uk-reform-ltgv/10uk-reform-ltgv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/10/arts/dutch-museum-peanut-butter-floor-art-wim-schippers.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/10/multimedia/10-xp-peanutbutter-zwjp/10-xp-peanutbutter-zwjp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 10 Jul 2026 13:25:29 +0000</pubDate></item><item><title>Police Investigating Donations to Reform U.K., Reports Say (경찰, 영국개혁당 기부금 수사 중…보도)</title><link>https://www.nytimes.com/2026/07/10/world/europe/reform-uk-farage-cottrell-donation-police.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/10/multimedia/10uk-reform-ltgv/10uk-reform-ltgv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The British police are investigating donations worth at least 500,000 pounds, about $670,000, made to the populist right-wing party Reform U.K., according to British news reports, adding to the pressure on its leader, Nigel Farage.&lt;br/&gt;(영국 경찰이 포퓰리스트 우익 정당인 영국개혁당(Reform U.K.)에 전달된 최소 50만 파운드(약 67만 달러) 상당의 기부금을 수사 중이라고 영국 언론들이 보도했다. 이번 수사는 당 대표 나이절 패라지에게 압박을 가중시키고 있다.)&lt;/p&gt;
 &lt;p&gt;The Metropolitan Police in London confirmed in a statement to The New York Times on Friday that they were investigating donations made to a political party before the 2024 general election and whether they were legal.&lt;br/&gt;(런던 메트로폴리탄 경찰은 금요일 뉴욕타임스에 보낸 성명에서 2024년 총선 이전에 한 정당에 전달된 기부금과 그 적법성 여부를 조사 중이라고 밝혔다.)&lt;/p&gt;
 &lt;p&gt;Two people had been questioned as part of that investigation, the police said, adding that no arrests had been made. In keeping with British police practice, the statement did not name the people who had been interviewed or the political party that received the donations.&lt;br/&gt;(경찰은 이 수사와 관련해 두 명을 조사했으나 체포된 사람은 없다고 덧붙였다. 영국 경찰 관행에 따라 성명에는 조사를 받은 사람이나 기부금을 받은 정당의 이름이 공개되지 않았다.)&lt;/p&gt;
