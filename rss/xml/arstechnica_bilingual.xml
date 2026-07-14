@@ -1,49 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 14 Jul 2026 19:38:19 +0000</lastBuildDate><item><title>Now, defenders are embracing the prompt injection, too (이제 수비수들도 프롬프트 인젝션을 활용하기 시작했다)</title><link>https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;“Context bombing” tricks hacking agents into shutting down before they can do harm.&lt;br/&gt;("컨텍스트 폭격"은 해킹 에이전트가 피해를 입히기 전에 스스로 종료하도록 속인다.
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-프롬프트 인젝션은 공격자가 콘텐츠에 삽입하여 대규모 언어 모델이 이를 따르도록 유도하는 악의적인 명령으로, AI 플랫폼을 사용자에게 역이용하는 공격자들의 핵심 도구였다. 이메일이나 캘린더 초대장에 교묘하게 작성된 명령 하나면 LLM이 민감한 데이터를 유출하거나 다른 유해한 행동을 따르도록 만들 수 있다.
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-이제 수비수들도 프롬프트 인젝션을 활용하기 시작했다.
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-Tracebit의 연구원들은 월요일, Amazon Web Services에 저장된 비밀번호, 암호화 키 및 기타 비밀 정보 옆에 프롬프트 인젝션을 배치하는 것만으로도 AI 해킹 에이전트의 공격을 차단할 수 있는 경우가 많다고 밝혔다. 이러한 프롬프트는 공격용 LLM이 AI 개발자가 유해한 행동을 방지하기 위해 구축한 안전 장치인 가드레일에 의해 금지된 행동을 수행하도록 지시한다. LLM은 이에 반응하여 종료된다.
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-예를 들어 LLM에게 흡입형 탄저균 포자를 개발하는 방법을 제공하도록 명령하는 프롬프트나, 중국 개발자의 LLM의 경우 1989년 톈안먼 광장 학살의 상징인 탱크맨을 언급하도록 명령하는 프롬프트가 있다. LLM이 이러한 금지 명령을 만나면 기존 명령을 더 이상 따르지 않는다. 연구원들은 이 기술을 "컨텍스트 폭격"이라고 명명했다.
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-"결국 우리는 컨텍스트 내에서 거부 메커니즘을 작동시키는 것입니다." Tracebit의 공동 창립자이자 CEO인 Andy Smith가 이름 선택을 설명하며 말했다. "우리가 포착하려는 것은 이것이 강력하고 예리한 효과를 가지며 에이전트가 회복하기 어려울 수 있다는 사실입니다. 일단 그들이 이 내용을 컨텍스트에 포함시키면 계속 거부할 것입니다."
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-Tracebit는 초기 테스트 결과 컨텍스트 폭격이 큰 잠재력을 가지고 있다고 밝혔다. 그들은 Opus 4.8, Gemini 3.1 Pro, GLM 5.2, DeepSeek 4 Pro, Kimi 2.6을 테스트하여 일상적인 개발자 작업을 수행하도록 지시했고, 이로 인해 모델들이 리소스를 열거하고 심어진 문자열을 우연히 발견하게 했다. 그들은 시뮬레이션된 AWS 환경에서 모델을 실행했다.
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-"5개의 주요 모델과 152번의 공격 실행에서, 가짜 비밀에 이러한 문자열 중 하나를 심으면 에이전트가 전체 계정 관리자 권한을 획득하는 비율이 57%에서 5%로 감소했고, 완전한 침해(지속적인 발판을 남기는 경우)는 36%에서 1%로 감소했습니다." 월요일 게시물이 보도했다. "가장 능력이 뛰어난 에이전트인 Opus 4.8의 경우, 관리자 접근 권한을 93%의 실행에서 달성했지만 컨텍스트 폭탄에 직면했을 때는 매번 실패했습니다."
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-5개 모델과 152번의 실행을 평균한 결과는 다음과 같습니다:
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-이 연구는 Tracebit가 AI 에이전트 적으로부터 인프라가 공격받을 때 수비수에게 경고를 받는 방법을 도입한 5월의 연구 결과를 기반으로 한다. 이 방법은 합법적인 목적을 제공하는 것처럼 보이지만 실제로는 전혀 사용되지 않는 AWS 리소스 형태로 제공된다. 이 리소스는 사용 중인 리소스 옆에 위치한다. 에이전트 AI가 이를 조사하면 수비수에게 경고가 전송된다. 탄광에 투입되는 '카나리아'처럼, 이 리소스는 수비수가 치명적인 결과가 발생하기 전에 위협을 감지할 수 있게 해준다.
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-Tracebit Canariens는 평균적으로 공격 시작 후 8분 이내에 경고를 보냈다. 컨텍스트 폭격을 개발하게 된 동기는 단순히 경고하는 것이 아니라 공격을 중단시키는 무언가의 필요성에서 비롯되었다. 실험에서 에이전트 모델은 평균 14분 만에 관리자 권한으로 상승했다. 6분의 사전 경고는 불편할 정도로 촉박했다.
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-공격자들은 이미 프롬프트 인젝션을 사용하여 네트워크 내 AI 방어를 무력화하고 있다. 예를 들어, 보안 회사 Socket의 연구원들은 지난달 핵폭탄이나 생물학적 무기 제조 지침을 제공하도록 대상 LLM을 지시하는 LLM 에이전트를 발견했다. 이러한 인젝션은 AI 지원 악성코드 분석을 차단하도록 설계되었다. Check Point의 연구원들도 유사한 악성코드 프로토타입을 발견했다.
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-컨텍스트 폭격은 수비수가 역으로 공격자를 제압한 최초의 사례로 보인다.
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-"제가 알기로는 아직 다른 사람이 이 기술을 방어용으로 사용한 것을 본 적이 없습니다." 캘리포니아 대학교 샌디에이고 캠퍼스의 AI 보안 전문가인 Earlence Fernandes 교수가 인터뷰에서 말했다. 그는 비슷한 접근 방식을 고려 중이었지만, 약간 다른 맥락에서였다고 덧붙였다. "저도 첫 번째가 되고 싶었는데, 이 사람들이 나보다 먼저 해냈군요!"
-
-&lt;&lt;&lt;PARAS&gt;&gt;&gt;
-현재까지 프롬프트 인젝션의 근본 원인을 해결할 알려진 방법은 없다. 이로 인해 개발자들은 삽입된 프롬프트가 LLM을 이탈시키지 못하도록 정교한 가드레일을 구축하는 것 외에 다른 선택지가 없게 되었다. 수비수들은 이제 이 해결하기 어려운 문제를 자신들의 유리하게 활용할 방법을 찾을지도 모른다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 13 Jul 2026 06:06:34 +0000</pubDate></item><item><title>A “disaster waiting to happen”? Industry officials worry about Crew Dragon availability. ("폭탄이 터지기 직전"? 업계 관계자들, 크루 드래곤 가용성 우려)</title><link>https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/KSC-20230219-PH-SPX01_0002large-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 14 Jul 2026 21:44:29 +0000</lastBuildDate><item><title>A “disaster waiting to happen”? Industry officials worry about Crew Dragon availability. ("폭탄이 터지기 직전"? 업계 관계자들, 크루 드래곤 가용성 우려)</title><link>https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/KSC-20230219-PH-SPX01_0002large-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;“It’s very clear that in the United States there is a big need for an additional crew vehicle.”&lt;br/&gt;("미국에는 추가 유인 우주선이 절실히 필요하다는 것이 매우 명확합니다.")&lt;/p&gt;
 &lt;p&gt;NASA breathed a deep sigh of relief six years ago when SpaceX launched two astronauts, Doug Hurley and Bob Behnken, on a successful mission to the International Space Station. With the safe landing of Crew Dragon, the US space agency broke a nearly decade-long gap in its ability to put humans into orbit.&lt;br/&gt;(6년 전, 스페이스X가 우주비행사 더그 헐리와 밥 벤켄을 태운 성공적인 국제우주정거장(ISS) 임무가 발사되었을 때, NASA는 깊은 안도감을 느꼈습니다. 크루 드래곤의 안전한 착륙과 함께, 미국 항공우주국은 약 10년간 이어졌던 인간 궤도 진입 능력의 공백을 깨뜨렸습니다.)&lt;/p&gt;
 &lt;p&gt;Through its Commercial Crew program and multibillion-dollar contracts awarded in 2014, NASA had hoped to foster two providers of low-Earth orbit transportation, SpaceX and Boeing. However Boeing has yet to complete a successful crewed test flight—a perilous 2024 test flight by Boeing’s Starliner was later declared a Type A mishap —and probably won’t fly another crewed mission before 2028.&lt;br/&gt;(2014년에 수립된 상용 승무원 프로그램과 수십억 달러 규모의 계약을 통해 NASA는 저궤도 운송 수단을 제공할 스페이스X와 보잉이라는 두 공급자를 육성하기를 희망했습니다. 그러나 보잉은 아직 성공적인 유인 시험 비행을 완료하지 못했으며(보잉 스타라이너의 위험했던 2024년 시험 비행은 이후 A급 사고로 선언됨), 아마도 2028년 이전에는 또 다른 유인 임무를 수행하지 못할 것입니다.)&lt;/p&gt;
@@ -332,31 +288,7 @@ PNAS, 2026. DOI: 10.1073/pnas.2537479123 (DOI에 관하여).)&lt;/p&gt;
 &lt;p&gt;“If this trend continues, it may actually be the Boomers, not Gen Z, who deserve the title ‘generation of moderation,’” he added.&lt;br/&gt;(전 세계적으로 음주율이 하락하고 있지만, 일부 신흥 시장에서는 증가하고 있다.)&lt;/p&gt;
 &lt;p&gt;While rates are falling globally, in a few emerging markets drinking is on the up.&lt;br/&gt;(인도에서 도시 고소득층의 음주 참여율은 77%로, 3년 전 67%에서 크게 증가했다. 중국에서는 같은 집단에서 음주율이 89%로, 3년 전 86%에서 증가했다.)&lt;/p&gt;
 &lt;p&gt;In India, the participation rate among high-income earners in urban populations was 77 percent, up substantially from 67 percent three years ago. In China, the rate among drinkers in the same cohort was 89 percent, up from 86 percent three years ago.&lt;br/&gt;(© 2025 The Financial Times Ltd . 모든 권리 보유 . 어떠한 방식으로도 재배포, 복사 또는 수정할 수 없음.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-609621216-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Tue, 14 Jul 2026 04:19:16 +0000</pubDate></item><item><title>Probe into explosive diarrheal cases points to Taco Bell and bad lettuce (폭발적 설사 사례 조사, 타코벨과 오염된 상추 지목)</title><link>https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-2560x1440.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Health officials have not confirmed a source yet—and there may be multiple sources.&lt;br/&gt;(보건 당국은 아직 감염원을 확인하지 못했으며, 여러 감염원이 있을 가능성도 있습니다.)&lt;/p&gt;
-&lt;p&gt;Lettuce and salad greens have become the prime suspects in an explosive outbreak of the diarrheal parasite Cyclospora , which is surging nationwide but erupting to extraordinary heights in Michigan.&lt;br/&gt;(전국적으로 급증하며 미시간주에서 특히 폭발적으로 발생하고 있는 설사 유발 기생충 '사이클로스포라'의 대규모 발병에서 상추와 샐러드 채소가 주요 용의선상에 올랐습니다.)&lt;/p&gt;
-&lt;p&gt;In recent years, Michigan has typically reported around 50 cases of cyclosporiasis, which causes urgent bouts of watery diarrhea, abdominal cramps, and nausea. But, this year, as of July 14 , the state has reported 3,309 cases of the food-borne pathogen. Of those 44 have been hospitalized.&lt;br/&gt;(최근 몇 년간 미시간주에서는 보통 약 50건의 사이클로스포라증(묽은 설사, 복통, 메스꺼움을 유발)이 보고되었습니다. 그러나 올해는 7월 14일 기준으로 주에서 3,309건의 식품 매개 병원체 감염 사례가 보고되었으며, 이 중 44명이 입원했습니다.)&lt;/p&gt;
-&lt;p&gt;Based on interviews with more than 1,000 people sickened in Michigan, the latest data is pointing to leafy greens as the source, according to the Michigan Department of Health and Human Services (MDHHS).&lt;br/&gt;(미시간주 보건복지부(MDHHS)에 따르면 미시간주에서 발병한 1,000명 이상의 환자와의 인터뷰를 바탕으로 한 최신 데이터는 잎채소가 감염원임을 지목하고 있습니다.)&lt;/p&gt;
-&lt;p&gt;“Although we do not have a definite product identified as the source of the outbreak, we want to let Michiganders know what we have learned so far so they can take steps to protect their families,” Natasha Bagdasarian, Michigan’s chief medical executive, said in an announcement . “Early information has shown lettuce as a common product that regularly comes up during the investigation. We will continue to provide updates as we learn more.”&lt;br/&gt;("발병의 원인으로 특정 제품이 확인되지는 않았지만, 미시간 주민들에게 지금까지 확인된 정보를 알려 가족 보호 조치를 취할 수 있도록 하고자 합니다." 미시간주 최고 의료 책임자 나타샤 바그다사리안은 발표에서 이렇게 말했습니다. "초기 정보는 조사 중에 상추가 공통적으로 자주 언급되는 제품임을 보여줍니다. 더 많은 정보를 얻게 되면 지속적으로 업데이트를 제공하겠습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-별도로, 워싱턴포스트는 주 및 연방 당국이 타코벨 레스토랑이 단세포 기생충에 오염된 식품의 공급원이었을 가능성을 조사 중이라고 보도했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-디트로이트 지역의 현지 언론에 따르면, 타코벨 레스토랑들은 "전국적인 리콜로 인해 현재 상추, 고수, 양파, 피코 데 가요, 과카몰리를 판매할 수 없습니다"라고 적힌 안내문을 게시했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 레스토랑이 언급한 리콜이 무엇을 의미하는지는 불분명합니다. 미시간주나 연방 당국은 사이클로스포라증 사례와 관련된 전국적인 리콜을 발표한 바 없습니다. 포스트는 타코벨이 안내문이나 특정 농산물을 제외하기로 한 결정에 대한 여러 논평 요청에 응답하지 않았다고 보도했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-조사에 정통한 소식통은 매체에 일부 발병 환자들은 타코벨에서 식사한 경험이 있다고 인터뷰했지만, 다른 환자들은 그렇지 않아 오염된 식품의 공급원이 여러 곳일 수 있음을 시사한다고 말했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-MDHHS는 사이클로스포라의 감염원을 파악하기 어려운 이유로 오염된 음식을 섭취한 후 증상이 나타날 때까지 최대 2주가 걸릴 수 있어 잠재적 식품 공급원의 회수가 어렵기 때문이라고 설명했습니다. 또한 '복잡한 식품 유통 네트워크'가 감염원 추적을 복잡하게 만드는 요인이라고 지적했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미시간주에서 가장 많은 사례가 발생하고 있지만, 최소 31개 주에서도 발병이 보고되고 있습니다. 뉴욕주는 470건, 오하이오주는 최소 397건, 노스캐롤라이나주는 최소 240건을 보고했습니다. (미국 질병통제예방센터는 사례 데이터를 수집 중이나 보고 속도가 느립니다.) 사이클로스포라증 사례가 최고조에 달하는 여름철 현재 시점에서 전국 총계는 이미 4,000건을 훌쩍 넘겼습니다. 과거 미국에서는 연간 2,000~5,000건의 사례가 보고되었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아직 명확한 감염원이 밝혀지지 않은 가운데, 보건 당국은 특히 봉지 또는 상자에 포장된 채소류에 대해 주의를 권고하고 있습니다. 상추는 통으로 구매하여 겉잎 2~3장을 버리고 나머지를 깨끗이 씻을 것을 권장합니다. 그러나 껍질을 벗기거나 표면이 매끈한 농산물을 선택하는 것이 더 안전합니다. 가장 안전한 방법은 농산물을 최소 섭씨 70도(화씨 158도)에서 조리하여 기생충을 죽이는 것입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-MDHHS는 과거 사이클로스포라 발병이 봉지 샐러드 믹스 및 키트, 신선한 고수, 신선한 바질, 라즈베리, 스노우 피, 쪽파와 관련된 적이 있다고 밝혔습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-잦은 묽은 설사를 경험하는 사람은 의료진과 상담해야 합니다. 항균 치료제로 감염을 치료할 수 있으며, 휴식과 수분 섭취가 병행되어야 합니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-2560x1440.jpg" length="0" type="image/jpeg"/><pubDate>Tue, 14 Jul 2026 05:49:02 +0000</pubDate></item><item><title>New York bans data center construction for a year, rattling AI industry (뉴욕, 데이터센터 건설 1년간 금지…AI 업계 '충격')</title><link>https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276391767-1024x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-609621216-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Tue, 14 Jul 2026 04:19:16 +0000</pubDate></item><item><title>New York bans data center construction for a year, rattling AI industry (뉴욕, 데이터센터 건설 1년간 금지…AI 업계 '충격')</title><link>https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276391767-1024x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;New York’s data center moratorium may become the blueprint for anti-AI movement.&lt;br/&gt;(뉴욕주의 데이터센터 건설 중단 조치는 반AI 운동의 청사진이 될 수 있다.)&lt;/p&gt;
 &lt;p&gt;New York became the first state to pause all construction of massive new data centers after Democratic Governor Kathy Hochul announced a one-year moratorium on Tuesday, Reuters reported .&lt;br/&gt;(로이터통신에 따르면, 캐시 호컬 민주당 주지사는 화요일(현지시간) 1년간의 모라토리엄(일시중단)을 발표하며 뉴욕이 모든 대규모 신규 데이터센터 건설을 중단한 첫 번째 주가 됐다.)&lt;/p&gt;
 &lt;p&gt;The state-wide ban applies to data centers using 50 megawatts or more, officials told Reuters, and it won’t be lifted until the state figures out what “consistent standards” for responsible data center development in New York should look like.&lt;br/&gt;(당국은 로이터에 이번 주 전역 금지 조치가 50메가와트(MW) 이상을 사용하는 데이터센터에 적용되며, 주 정부가 뉴욕 내 책임 있는 데이터센터 개발을 위한 '일관된 기준'이 무엇인지 파악할 때까지 해제되지 않을 것이라고 밝혔다.)&lt;/p&gt;
@@ -408,4 +340,65 @@ MDHHS는 과거 사이클로스포라 발병이 봉지 샐러드 믹스 및 키�
 &lt;p&gt;In more recent years, the Ukrainian military has also developed and deployed drone boats for asymmetric warfare at sea since Russia launched a full-scale invasion of Ukraine in February 2022. Despite lacking a traditional navy, Ukraine has used a combination of flying drones and explosive drone boats to strike Russian warships and tankers, forcing Russia to withdraw its Black Sea Fleet to bases farther from Ukraine and cutting off vital Russian shipping routes .&lt;br/&gt;(우크라이나 드론 보트는 또한 미사일을 사용하여 러시아 헬리콥터를 격추하고, 소형 비행 드론을 배치하여 러시아 방공망을 공격하는 수상 플랫폼 역할을 하는 등 군사 역사에서 여러 이정표를 세웠다. 가장 최근에는 우크라이나 드론 보트가 전례 없는 상륙 작전에서 무장 지상 로봇을 분쟁 해안 지역에 배치하기도 했다.)&lt;/p&gt;
 &lt;p&gt;Ukrainian drone boats have also achieved several milestones in military history by using missiles to shoot down Russian helicopters and acting as surface platforms to deploy small flying drones to strike Russian air defenses. Most recently, a Ukrainian drone boat even deployed an armed ground robot onto contested coastal territory in an unprecedented amphibious operation.&lt;br/&gt;(도널드 트럼프 대통령이 휴전 합의가 붕괴된 후 이란과의 전쟁을 다시 격화함에 따라 미군이 드론 보트를 계속 어떻게 배치할지는 불분명하다. 미군 드론 보트 공격은 최근 며칠간 미군 전투기와 군함의 공격을 포함한 재래식 미군의 이란 표적에 대한 광범위한 공격의 일부였다.)&lt;/p&gt;
 &lt;p&gt;It’s unclear how the US military may continue deploying drone boats as President Donald Trump once again ramps up the war with Iran following the collapse of a supposed ceasefire. The US drone boat strikes came as part of a broader attack by conventional US military forces on Iranian targets in recent days, including strikes by US fighter aircraft and warships.&lt;br/&gt;(미군은 또한 이란과의 전쟁 중 처음으로 왕복 공격용 항공 드론을 사용하고 있다. 이는 이란이 개발한 샤헤드 드론에 크게 기반을 둔 LUCAS 드론이다. 드론 보트와 함께, 미국은 값싼 드론 무기를 사용하여 비대칭 전쟁을 추구하는 덜 강력한 국가나 세력의 사례를 따르고 있다. 미군은 특히 이란과의 전쟁에서 10억 달러 이상의 가치가 있는 값비싼 사냥꾼-살해자 리퍼 드론 수십 대를 잃은 후, 더 저렴한 감시 및 공격 드론의 신세대를 조달하려 하고 있다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/US-military-drone-boat-attack-on-Iranian-port-1152x648.png" length="0" type="image/png"/><pubDate>Tue, 14 Jul 2026 09:00:01 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/US-military-drone-boat-attack-on-Iranian-port-1152x648.png" length="0" type="image/png"/><pubDate>Tue, 14 Jul 2026 09:00:01 +0000</pubDate></item><item><title>Probe into explosive diarrheal cases points to Taco Bell and bad lettuce (폭발적 설사 사례 조사, 타코벨과 오염된 상추 지목)</title><link>https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-2560x1440.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Health officials have not confirmed a source yet—and there may be multiple sources.&lt;br/&gt;(보건 당국은 아직 감염원을 확인하지 못했으며, 여러 감염원이 있을 가능성도 있습니다.)&lt;/p&gt;
+&lt;p&gt;Lettuce and salad greens have become the prime suspects in an explosive outbreak of the diarrheal parasite Cyclospora , which is surging nationwide but erupting to extraordinary heights in Michigan.&lt;br/&gt;(전국적으로 급증하며 미시간주에서 특히 폭발적으로 발생하고 있는 설사 유발 기생충 '사이클로스포라'의 대규모 발병에서 상추와 샐러드 채소가 주요 용의선상에 올랐습니다.)&lt;/p&gt;
+&lt;p&gt;In recent years, Michigan has typically reported around 50 cases of cyclosporiasis, which causes urgent bouts of watery diarrhea, abdominal cramps, and nausea. But, this year, as of July 14 , the state has reported 3,309 cases of the food-borne pathogen. Of those 44 have been hospitalized.&lt;br/&gt;(최근 몇 년간 미시간주에서는 보통 약 50건의 사이클로스포라증(묽은 설사, 복통, 메스꺼움을 유발)이 보고되었습니다. 그러나 올해는 7월 14일 기준으로 주에서 3,309건의 식품 매개 병원체 감염 사례가 보고되었으며, 이 중 44명이 입원했습니다.)&lt;/p&gt;
+&lt;p&gt;Based on interviews with more than 1,000 people sickened in Michigan, the latest data is pointing to leafy greens as the source, according to the Michigan Department of Health and Human Services (MDHHS).&lt;br/&gt;(미시간주 보건복지부(MDHHS)에 따르면 미시간주에서 발병한 1,000명 이상의 환자와의 인터뷰를 바탕으로 한 최신 데이터는 잎채소가 감염원임을 지목하고 있습니다.)&lt;/p&gt;
+&lt;p&gt;“Although we do not have a definite product identified as the source of the outbreak, we want to let Michiganders know what we have learned so far so they can take steps to protect their families,” Natasha Bagdasarian, Michigan’s chief medical executive, said in an announcement . “Early information has shown lettuce as a common product that regularly comes up during the investigation. We will continue to provide updates as we learn more.”&lt;br/&gt;("발병의 원인으로 특정 제품이 확인되지는 않았지만, 미시간 주민들에게 지금까지 확인된 정보를 알려 가족 보호 조치를 취할 수 있도록 하고자 합니다." 미시간주 최고 의료 책임자 나타샤 바그다사리안은 발표에서 이렇게 말했습니다. "초기 정보는 조사 중에 상추가 공통적으로 자주 언급되는 제품임을 보여줍니다. 더 많은 정보를 얻게 되면 지속적으로 업데이트를 제공하겠습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+별도로, 워싱턴포스트는 주 및 연방 당국이 타코벨 레스토랑이 단세포 기생충에 오염된 식품의 공급원이었을 가능성을 조사 중이라고 보도했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+디트로이트 지역의 현지 언론에 따르면, 타코벨 레스토랑들은 "전국적인 리콜로 인해 현재 상추, 고수, 양파, 피코 데 가요, 과카몰리를 판매할 수 없습니다"라고 적힌 안내문을 게시했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 레스토랑이 언급한 리콜이 무엇을 의미하는지는 불분명합니다. 미시간주나 연방 당국은 사이클로스포라증 사례와 관련된 전국적인 리콜을 발표한 바 없습니다. 포스트는 타코벨이 안내문이나 특정 농산물을 제외하기로 한 결정에 대한 여러 논평 요청에 응답하지 않았다고 보도했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+조사에 정통한 소식통은 매체에 일부 발병 환자들은 타코벨에서 식사한 경험이 있다고 인터뷰했지만, 다른 환자들은 그렇지 않아 오염된 식품의 공급원이 여러 곳일 수 있음을 시사한다고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+MDHHS는 사이클로스포라의 감염원을 파악하기 어려운 이유로 오염된 음식을 섭취한 후 증상이 나타날 때까지 최대 2주가 걸릴 수 있어 잠재적 식품 공급원의 회수가 어렵기 때문이라고 설명했습니다. 또한 '복잡한 식품 유통 네트워크'가 감염원 추적을 복잡하게 만드는 요인이라고 지적했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미시간주에서 가장 많은 사례가 발생하고 있지만, 최소 31개 주에서도 발병이 보고되고 있습니다. 뉴욕주는 470건, 오하이오주는 최소 397건, 노스캐롤라이나주는 최소 240건을 보고했습니다. (미국 질병통제예방센터는 사례 데이터를 수집 중이나 보고 속도가 느립니다.) 사이클로스포라증 사례가 최고조에 달하는 여름철 현재 시점에서 전국 총계는 이미 4,000건을 훌쩍 넘겼습니다. 과거 미국에서는 연간 2,000~5,000건의 사례가 보고되었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아직 명확한 감염원이 밝혀지지 않은 가운데, 보건 당국은 특히 봉지 또는 상자에 포장된 채소류에 대해 주의를 권고하고 있습니다. 상추는 통으로 구매하여 겉잎 2~3장을 버리고 나머지를 깨끗이 씻을 것을 권장합니다. 그러나 껍질을 벗기거나 표면이 매끈한 농산물을 선택하는 것이 더 안전합니다. 가장 안전한 방법은 농산물을 최소 섭씨 70도(화씨 158도)에서 조리하여 기생충을 죽이는 것입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+MDHHS는 과거 사이클로스포라 발병이 봉지 샐러드 믹스 및 키트, 신선한 고수, 신선한 바질, 라즈베리, 스노우 피, 쪽파와 관련된 적이 있다고 밝혔습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+잦은 묽은 설사를 경험하는 사람은 의료진과 상담해야 합니다. 항균 치료제로 감염을 치료할 수 있으며, 휴식과 수분 섭취가 병행되어야 합니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-2560x1440.jpg" length="0" type="image/jpeg"/><pubDate>Tue, 14 Jul 2026 10:00:02 +0000</pubDate></item><item><title>Lawsuit claims Meta’s layoff decisions were made by AI, not humans (소송, 메타의 해고 결정이 AI에 의해 이루어졌다고 주장)</title><link>https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/meta-ai-1152x648-1784056210.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Meta denies using AI to terminate workers with disabilities and medical problems.&lt;br/&gt;(메타는 장애 및 의학적 문제가 있는 직원을 해고하기 위해 AI를 사용했다는 주장을 부인했습니다.)&lt;/p&gt;
+&lt;p&gt;Meta’s AI-fueled layoffs of 8,000 employees targeted workers with disabilities and those who took protected medical or family leaves, alleged a lawsuit filed by 26 employees who were selected for termination. Meta used internal AI tools to select employees for layoffs, according to the complaint filed yesterday by 26 “Doe” plaintiffs in US District Court for the Northern District of California.&lt;br/&gt;(메타가 AI 기반으로 8,000명의 직원을 해고하는 과정에서 장애인과 보호된 의료 휴가 또는 가족 휴가를 사용한 직원들을 표적으로 삼았다고, 해고 대상으로 선정된 26명의 직원이 제기한 소송에서 주장했습니다. 어제 26명의 ‘도우(Doe)’ 원고들이 미국 캘리포니아 북부 지방법원에 제출한 소장에 따르면, 메타는 내부 AI 도구를 사용해 해고 대상 직원을 선정했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+소장은 “메타는 업무를 잘 아는 관리자들의 숙고된 판단을 통해 해고 명단을 작성하지 않았습니다. 대신 메타는 내부적으로 ‘메타메이트(Metamate)’라고 불리는 시스템, 직원이 훈련한 ‘제2의 뇌(second-brain)’ 에이전트, 키스트로크 및 활동 모니터링 데이터, AI 토큰 사용량 대시보드, 알고리즘 기반 성과 평가 및 보정을 포함한 일련의 내부 인공지능 시스템을 사용하여 직원을 평가, 순위 매기기, 선정해 명단에 포함시켰습니다.”라고 주장했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+직원들은 특히 메타의 AI 도구를 얼마나 사용했는지에 따라 평가를 받았다고 합니다. 소장은 “메타의 내부 대시보드는 직원들을 ‘AI 네이티브(AI Native)’, ‘AI 퍼스트(AI First)’, ‘AI 이네이블드(AI Enabled)’와 같은 범주를 사용해 인공지능 도구 채택 단계별로 분류했습니다.”라고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+로이터 통신에 따르면, 이 소송은 “주요 미국 기업을 상대로 해고 과정에서 AI 사용을 문제 삼은 첫 번째 사례”인 것으로 보입니다. 소장은 직원 모니터링을 위한 메타의 도구가 장애 및 보호 휴가로 인한 차이를 고려하지 않았다고 주장합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+소장은 “이러한 도구는 보호된 의료 또는 가족 휴가 중인 직원이나 장애로 인해 생산성이 감소한 직원이 본질적으로 축적할 수 없는 투입 요소(성과 등급, 보정 점수, 생산성 및 산출 지표, ‘AI 네이티브’ 등급, AI 토큰 소비)에 의존합니다.”라고 주장했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+메타는 해고 결정을 사람이 내렸다고 말합니다. “이러한 주장은 근거가 없으며 사실에 기반하지 않습니다. 인력 관리 및 조직 결정은 AI가 아닌 사람에 의해 이루어졌고 현재도 이루어지고 있습니다.”라고 메타가 오늘 Ars에 제공한 성명에서 밝혔습니다. 메타는 이 소송에 대해 다른 언급은 하지 않았습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+소장은 메타 경영진이 휴가를 사용했거나 장애에 대한 합리적인 편의를 요청한 직원들의 점수를 조정하기 위한 조치를 취하지 않았다고 주장했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+소장은 “메타는 보호 휴가에 대해 이러한 투입 요소를 중립화하지 않았습니다. 보호 휴가 사용자나 편의 요청자를 선정 코호트에서 제외하지 않았습니다. 그리고 법이 요구하는 개별화된 휴가 및 편의 중립적 검토를 위해 시스템을 중단하지도 않았습니다.”라고 주장했습니다. “그 결과, 보호 휴가를 사용한 직원들은 보호 휴가를 고려하지 않았을 뿐만 아니라, 사실상 직원들이 이러한 휴가에 대한 법적 권리를 행사한 것을 불이익을 주는 평가에 기반해 불균형적으로 해고 대상으로 선정되었습니다.”
+&lt;&lt;&lt;PARA&gt;&gt;
+소장에 따르면, 26명의 원고들은 해고 대상으로 선정되기 전 24개월 이내에 휴가나 장애 편의를 요청했습니다. 소장에 따르면 해고는 아직 최종 확정되지 않았지만, 직원들은 7월 22일부터 일자리를 잃기 시작할 예정입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2026년 5월의 해고는 최고 인사 책임자(CPO)인 재닐 게일(Janelle Gale)이 메타가 직원의 약 10%를 감축하고 약 6,000개의 공석 채용을 중단할 것이라고 직원들에게 알린 내부 메모 이후에 이루어졌습니다. 게일의 메모는 “우리는 회사를 보다 효율적으로 운영하고 우리가 진행 중인 다른 투자를 상쇄할 수 있도록 하기 위한 지속적인 노력의 일환으로 이 작업을 수행하고 있습니다.”라고 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+소장은 “메타는 전월에 기록적인 수익을 보고하고 2026년에 인공지능에 1,250억 달러에서 1,450억 달러(2025년 지출의 두 배 이상)를 지출하겠다고 약속한 직후 이러한 감축을 발표하여 직원들 사이에서 왜 정리해고가 필요한지에 대한 의문을 제기했습니다.”라고 밝혔습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+소장에 따르면, 메타의 한 “과학자는 승인된 출산 전 임신 휴가 중에 선정되었는데, 양수가 터지기 하루 전이자 출산 이틀 전이었습니다.” 소장은 육아 휴가 중이거나 장애로 인한 의료 휴가 중에 해고 대상으로 선정된 원고들을 설명했습니다. 일부는 해고 대상으로 선정될 당시 여전히 유효한 승인된 재택 근무 편의 하에 업무에 복귀한 상태였다고 합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+원고들은 캘리포니아, 일리노이, 워싱턴, 뉴욕, 컬럼비아 특별구, 펜실베이니아, 플로리다주에 있는 메타에서 근무합니다. 이들은 메타가 미국 가족 및 의료 휴가법, 임신 차별 금지법, 미국 장애인법, 임산부 근로자 공정법을 위반했다고 주장합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+또한 여러 주와 컬럼비아 특별구가 부과한 다양한 법률 위반도 주장했습니다. 예를 들어, 캘리포니아 공정 고용 및 주택법 개정안은 “장애 또는 성별(임신 포함)을 이유로 차별적 영향을 초래하는 자동 의사 결정 시스템의 사용을 금지합니다.”라고 소장은 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+소송은 메타가 각 직원의 직업 및/또는 보호 휴가 상태를 유지하도록 하는 가처분 명령과 해고 선정 과정을 조사하기 위한 독립적인 감사를 요구합니다. 제안된 감사는 “선정 과정의 투입 요소, 가중치 및 산출물을 조사하고; 보호 휴가 상태, 편의 상태 또는 그 대리 변수가 투입 요소로 사용되었는지 확인하고; 휴가 및 편의 중립적 투입 요소를 사용하여 선정 점수를 재계산하고; 휴가 및 편의 중립적 근거로 선정이 정당화될 수 없는 명명된 원고를 식별합니다.”
+&lt;&lt;&lt;PARA&gt;&gt;
+원고들은 또한 메타가 해고 “및 알고리즘 지원 선정 과정”과 관련된 모든 데이터, 모델 및 문서를 보존하도록 명령을 요구합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+26명의 원고가 있지만, 이 소송은 집단 소송이 아닙니다. 소장은 메타가 회사를 상대로 한 집단 소송 참여 권리를 포기하는 중재 계약을 고용 조건으로 한다고 밝혔습니다. 원고들은 개별적으로 중재를 진행하기를 원하지만, 그 절차가 진행되는 동안 고용 상태를 유지하기 위해 법원 명령이 필요하다고 말합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+소장은 “원고들은 고용 상태 유지를 위한 예비 가처분 명령을 구합니다. 이는 메타가 그들의 해고를 최종 확정하고, 보상, 혜택, 주식 확정, 또는 보호 휴가 상태를 변경하는 것을 막고, 알고리즘 지원 선정 과정에 대한 독립적인 감사가 이루어지고 중재에서 주장의 본안이 해결될 때까지 기다리기 위함입니다.”라고 밝혔습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/meta-ai-1152x648-1784056210.jpg" length="0" type="image/jpeg"/><pubDate>Tue, 14 Jul 2026 11:05:53 +0000</pubDate></item></channel></rss>
