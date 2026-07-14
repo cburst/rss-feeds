@@ -1,65 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 14 Jul 2026 11:13:11 +0000</lastBuildDate><item><title>England and Norway Resurrect a Rivalry for the World Cup (잉글랜드와 노르웨이, 월드컵에서 라이벌전 재현)</title><link>https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/11/multimedia/11int-worldcup-england-norway-phwb/11int-worldcup-england-norway-phwb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;For nearly half their lives, Geir Martinsen and Richard Stott have bonded over their love of soccer, Manchester City Football Club and their adopted home of Oslo.&lt;br/&gt;(게이르 마틴센과 리처드 스토트는 거의 반평생을 축구와 맨체스터 시티 축구클럽, 그리고 그들의 둥지인 오슬로에 대한 사랑으로 끈끈한 유대를 이어왔다.)&lt;/p&gt;
-&lt;p&gt;But on Saturday, the friends will go their own ways. Norway and England are clashing in the FIFA World Cup quarterfinals.&lt;br/&gt;(그러나 토요일, 두 친구는 각자의 길을 갈 것이다. 노르웨이와 잉글랜드가 FIFA 월드컵 8강전에서 맞붙기 때문이다.)&lt;/p&gt;
-&lt;p&gt;“You can’t change your country of birth,” said Mr. Stott, 58, who moved from Manchester, England, to Norway over a quarter-century ago.&lt;br/&gt;(“태어난 나라는 바꿀 수 없잖아요.” 25년 전 잉글랜드 맨체스터에서 노르웨이로 이주한 58세의 스토트가 말했다.)&lt;/p&gt;
-&lt;p&gt;“It’s as they say, you can never change your kids or your football team,” added Mr. Martinsen, 53, who moved to Oslo from southeastern Norway the same year as Mr. Stott’s arrival. “Although he lived in Norway for many, many years, I fully understand why he supports England.”&lt;br/&gt;(“그들이 말하듯, 자식이나 축구 팀은 절대 바꿀 수 없어요.” 스토트가 노르웨이에 도착한 같은 해에 노르웨이 남동부에서 오슬로로 이사한 53세의 마틴센이 덧붙였다. “그가 노르웨이에서 아주 오래 살았지만, 그가 잉글랜드를 응원하는 이유를 완전히 이해합니다.”)&lt;/p&gt;
-&lt;p&gt;For 90 minutes, at least, they will be at odds — as another chapter is decided in the deep relationship of England and Norway, which has been defined by rivalry, conflict, cross-country settlement and friendship for over a thousand years.&lt;br/&gt;(적어도 90분 동안, 그들은 대립할 것이다. 잉글랜드와 노르웨이의 깊은 관계의 또 다른 장이 결정되는 가운데, 이 관계는 천 년 넘게 라이벌 의식, 갈등, 국가 간 이주, 그리고 우정으로 정의되어 왔다.)&lt;/p&gt;
-&lt;p&gt;Even before the Viking raids that began in the late eighth century, traders regularly crossed the North Sea, building ties among the era’s fractious kingdoms.&lt;br/&gt;(8세기 후반에 시작된 바이킹 약탈 이전에도, 상인들은 정기적으로 북해를 건너 그 시대의 분열된 왕국들 사이에 유대를 쌓았다.)&lt;/p&gt;
-&lt;p&gt;Then, the violence of the Viking Age shaped large parts of Britain for centuries to come, as early English kings fought and forged peace with Scandinavian raiders and settlers. (Norwegian influence can still be seen in the language and culture in regions like the Orkney Islands.)&lt;br/&gt;(그리고 바이킹 시대의 폭력은 수 세기 동안 브리튼의 넓은 지역을 형성했으며, 초기 잉글랜드 왕들은 스칸디나비아 약탈자 및 정착민들과 싸우고 평화를 맺었다. (노르웨이의 영향은 오크니 제도 같은 지역의 언어와 문화에서 여전히 볼 수 있다.))&lt;/p&gt;
-&lt;p&gt;In the modern age, relations grew — again through trade, as Norwegians brought British luxury goods, but also as Britain supported Norway’s bid for independence from Sweden in 1905. The links included each country’s royal family: Maud Alexandria, the youngest daughter of King Edward VII of England, became queen of Norway, ruling alongside King Haakon VII.&lt;br/&gt;(현대에 들어서는, 관계는 다시 교역을 통해 성장했다. 노르웨이인들이 영국의 사치품을 가져온 것뿐만 아니라, 1905년 영국이 노르웨이의 스웨덴으로부터 독립 시도를 지지하면서다. 이러한 연결 고리에는 각국의 왕실도 포함되었다: 잉글랜드 왕 에드워드 7세의 막내딸인 모드 알렉산드리아가 노르웨이의 왕비가 되어 하콘 7세 왕과 함께 통치했다.)&lt;/p&gt;
-&lt;p&gt;The two countries were allies during World War II, with Norwegian royals exiled in London as Nazi forces occupied Norway. As a token of thanks, Norway sends a Christmas tree to London each year, and the city holds it in pride of place in Trafalgar Square.&lt;br/&gt;(두 나라는 제2차 세계대전 동안 동맹국이었으며, 노르웨이 왕족은 나치가 노르웨이를 점령하자 런던에서 망명 생활을 했다. 감사의 표시로, 노르웨이는 매년 런던에 크리스마스 트리를 보내며, 런던은 이를 트라팔가 광장의 자랑스러운 장소에 세운다.)&lt;/p&gt;
-&lt;p&gt;In soccer, fans frequently cross the North Sea to watch a game on home soil, and Norway’s greatest players have made their mark in the English leagues.&lt;br/&gt;(축구에서는, 팬들이 자국의 경기를 보기 위해 자주 북해를 건너며, 노르웨이의 위대한 선수들은 잉글랜드 리그에서 두각을 나타냈다.)&lt;/p&gt;
-&lt;p&gt;The magnetic Norwegian player Erling Haaland plays for Manchester City and was born in Leeds, where his father, Alf-Inge Haaland, played in the 1990s. Just this spring, Norway’s team captain, Martin Odegaard, lifted the Premier League trophy for London club Arsenal, where he is also the captain.&lt;br/&gt;(매력적인 노르웨이 선수 엘링 홀란드는 맨체스터 시티에서 뛰며, 그의 아버지 알프-잉에 홀란드가 1990년대에 뛰었던 리즈에서 태어났다. 바로 이번 봄, 노르웨이의 주장 마르틴 외데고르는 런던 클럽 아스널의 주장으로서 프리미어리그 트로피를 들어 올렸다.)&lt;/p&gt;
-&lt;p&gt;“I’ve supported England as if I were English ever since the 1990 World Cup,” said Martin Molden, a psychologist and a supporter of Sheffield United Football Club. “But I’m Norwegian, and this Saturday I’m 100 percent behind Norway.”&lt;br/&gt;(“저는 1990년 월드컵 이후로 마치 잉글랜드 사람인 것처럼 잉글랜드를 응원해왔어요.” 셰필드 유나이티드 축구클럽을 지지하는 심리학자 마틴 몰덴이 말했다. “하지만 저는 노르웨이 사람이고, 이번 토요일에는 100% 노르웨이 편입니다.”)&lt;/p&gt;
-&lt;p&gt;The rivalry this week has so far mostly stayed friendly. On the side of a NATO summit in Turkey, the prime ministers of each country posed in their team jerseys, and the British Embassy in Norway replied drolly to an open letter in the Norwegian press predicting England’s failure.&lt;br/&gt;(이번 주의 라이벌 의식은 지금까지 대부분 우호적으로 유지되고 있다. 터키에서 열린 NATO 정상회담의 여백 속에서, 각국 총리는 팀 유니폼을 입고 포즈를 취했고, 영국 대사관은 노르웨이 언론에 실린 잉글랜드의 패배를 예측하는 공개 서한에 냉소적으로 답했다.)&lt;/p&gt;
-&lt;p&gt;“Should Norway win, we shall congratulate you graciously. Shortly afterward, we reserve the right to blame the weather. Nothing personal. Merely tradition,” the embassy said in a Facebook post. “Should England win, we trust you will remember that football is, after all, coming home. It simply has a habit of taking the scenic route.”&lt;br/&gt;(“노르웨이가 이기면, 우리는 우아하게 축하해 드리겠습니다. 그 직후, 우리는 날씨 탓을 할 권리를 보유합니다. 개인적인 감정은 없습니다. 단지 전통일 뿐입니다.” 대사관은 페이스북 게시글에서 말했다. “잉글랜드가 이기면, 여러분이 축구는 결국 집으로 돌아온다는 점을 기억하실 거라 믿습니다. 다만 풍경 좋은 길로 오는 습관이 있을 뿐입니다.”)&lt;/p&gt;
-&lt;p&gt;“Football’s Coming Home” is a refrain England has repeated since it won the World Cup for the first and only time in 1966. Each generation has yearned to realize the phrase — piling pressure on the national team and breaking many fans’ hearts.&lt;br/&gt;(“축구가 집으로 돌아온다”는 잉글랜드가 1966년 처음이자 유일하게 월드컵에서 우승한 이후 반복해온 후렴구다. 매 세대는 이 말을 현실로 만들기 위해 갈망하며, 국가대표팀에 압박을 가하고 많은 팬들의 마음을 아프게 했다.)&lt;/p&gt;
-&lt;p&gt;“England are very good at letting the fans down, aren’t they?” he said Terry Milnes, who heads the Arsenal North West Supporters Club. Mr. Milnes, 70, said he cannot help but hope that the national team wins on Saturday, but that its decades of failure had made him cautious.&lt;br/&gt;(“잉글랜드는 팬들을 실망시키는 데 아주 능숙하지 않나요?” 아스널 노스웨스트 서포터즈 클럽을 이끄는 테리 밀네스가 말했다. 70세의 밀네스는 국가대표팀이 토요일에 이기길 바라지 않을 수 없지만, 수십 년간의 실패가 그를 조심스럽게 만들었다고 말했다.)&lt;/p&gt;
-&lt;p&gt;Norway, meanwhile, is enjoying its most successful run at the World Cup ever. Its players and its fans’ Viking Row have become a sensation, winning new admirers.&lt;br/&gt;(한편, 노르웨이는 월드컵 역사상 가장 성공적인 성적을 누리고 있다. 선수들과 팬들의 ‘바이킹 로우(Viking Row)’는 센세이션을 일으키며 새로운 팬들을 얻고 있다.)&lt;/p&gt;
-&lt;p&gt;“I am rooting for Norway’s team,” said Owen Cross, 27, who moved from England to Norway three years ago. “England had a lot of shots to win the title and it’s time for Norway to get a shot.”&lt;br/&gt;(“저는 노르웨이 팀을 응원하고 있어요.” 3년 전 잉글랜드에서 노르웨이로 이사 온 27세의 오언 크로스가 말했다. “잉글랜드는 우승할 기회가 많았고, 이제는 노르웨이가 기회를 얻을 때입니다.”)&lt;/p&gt;
-&lt;p&gt;Skiing, not soccer, is Norway’s unofficial national sport, while in England football is the common language. Analysts can’t decide whether Norway’s winning team is an exceptional case, like the squad that beat Germany at the 1936 Olympics, or the result of extensive investment in sports development fueled by the wealth that followed the discovery of oil in 1967.&lt;br/&gt;(노르웨이의 비공식 국민 스포츠는 축구가 아닌 스키이며, 반면 잉글랜드에서 축구는 공통 언어다. 분석가들은 노르웨이의 승리 팀이 1936년 올림픽에서 독일을 이긴 팀과 같은 예외적인 경우인지, 아니면 1967년 석유 발견 이후 부를 바탕으로 한 광범위한 스포츠 발전 투자의 결과인지 결정하지 못하고 있다.)&lt;/p&gt;
-&lt;p&gt;“We’ve gone from being an amateur football nation to becoming a professional one,” said Arne Scheie, 82, a football commentator who has followed decades of World Cup play.&lt;br/&gt;(“우리는 아마추어 축구 국가에서 프로 축구 국가로 변모했습니다.” 수십 년간 월드컵 경기를 지켜본 82세의 축구 해설가 아르네 샤이에가 말했다.)&lt;/p&gt;
-&lt;p&gt;Some of England’s closest neighbors — with their own histories of conflict — have thrown their lot with Norway, too.&lt;br/&gt;(잉글랜드의 가장 가까운 이웃 중 일부도, 그들만의 갈등 역사를 가진 이들도, 노르웨이 편에 가담했다.)&lt;/p&gt;
-&lt;p&gt;Scotland’s supporters, known as the Tartan Army, have rowed with Norway’s plastic-helmeted Vikings. Many Welsh and Irish fans have also joined in.&lt;br/&gt;(‘타탄 아미(Tartan Army)’로 알려진 스코틀랜드 서포터들은 노르웨이의 플라스틱 헬멧을 쓴 바이킹들과 함께 노를 저었다. 많은 웨일스와 아일랜드 팬들도 동참했다.)&lt;/p&gt;
-&lt;p&gt;One of them, Maeve Brereton, an Irish citizen, rushed around London this week trying to find a Norway jersey. She found the Women’s Team jersey in a size for 13- to 15-year-old boys. If that doesn’t fit, she has a red T-shirt she plans to customize with the letters NORGE, spelling Norway in Norwegian.&lt;br/&gt;(그 중 한 명인 아일랜드 시민 메이브 브레레톤은 이번 주 런던을 돌며 노르웨이 유니폼을 찾느라 바빴다. 그녀는 여성 팀 유니폼을 13~15세 남아용 사이즈로 찾았다. 그것이 맞지 않으면, 그녀는 NORGE(노르웨이의 노르웨이어 표기) 글자를 직접 쓸 빨간 티셔츠를 준비하고 있다.)&lt;/p&gt;
-&lt;p&gt;“One of them is going to fit me on Saturday,” said Ms. Brereton, who has lived in England for more than six years. (Ireland didn’t qualify for the World Cup.)&lt;br/&gt;(“그중 하나는 토요일에 저에게 맞을 거예요.” 6년 넘게 잉글랜드에 살고 있는 브레레톤이 말했다. (아일랜드는 월드컵 본선에 진출하지 못했다.))&lt;/p&gt;
-&lt;p&gt;“Everyone seems nice, and it seemed like a wholesome thing to get involved in,” she said. “Sometimes, especially with England football fans, it’s not that inclusive as an environment.”&lt;br/&gt;(“모두 좋아 보이고, 참여하기 건전한 일처럼 느껴졌어요.” 그녀가 말했다. “때로는, 특히 잉글랜드 축구 팬들 사이에서는, 환경이 그리 포용적이지 않을 때가 있어요.”)&lt;/p&gt;
-&lt;p&gt;But the rivalry promises to remain friendly. Fans of club soccer are already looking beyond Saturday and beyond the World Cup. Mr. Milnes will still go to regular Arsenal games with a Norwegian friend who lives in England. Mr. Martinsen and Mr. Stott plan to meet up to dissect the game.&lt;br/&gt;(하지만 라이벌 의식은 우호적으로 유지될 전망이다. 클럽 축구 팬들은 이미 토요일과 월드컵 너머를 바라보고 있다. 밀네스는 잉글랜드에 사는 노르웨이 친구와 함께 여전히 정기적으로 아스널 경기를 보러 갈 것이다. 마틴센과 스토트는 경기를 분석하기 위해 만날 계획이다.)&lt;/p&gt;
-&lt;p&gt;“Whatever happens,” Mr. Stott said, “we’re not going to fall out.”&lt;br/&gt;(“무슨 일이 있어도, 우리는 싸우지 않을 거예요.” 스토트가 말했다.)&lt;/p&gt;
-&lt;p&gt;This is a question for anyone who isn’t Norwegian or English: Who will you be cheering for in tonight’s quarterfinal? Norway has emerged as the feel-good team of the tournament. The Viking Row is infectious, and it seems everyone wants to be Erling Haaland’s friend. It’s not hard to see why so many people, even some English fans, are backing them tonight. On the other hand, the pressure is on for England and some fans I spoke to would not even dare to hope. And yet, they do. Every generation of England’s national team hopes to be the one to bring the cup home to the birthplace of football (aka soccer). The frown on Harry Kane’s face says it all. I’m torn, but I’ll still be watching what is sure to be a riveting game.&lt;br/&gt;(노르웨이나 잉글랜드 사람이 아닌 모든 분들에게 묻습니다: 오늘 밤 8강전에서 누구를 응원하시겠습니까? 노르웨이는 이번 대회의 ‘기분 좋은 팀’으로 떠올랐습니다. 바이킹 로우는 전염성이 강하고, 모든 사람이 엘링 홀란드의 친구가 되고 싶어 하는 것 같습니다. 왜 많은 사람들, 심지어 일부 잉글랜드 팬들조차 오늘 밤 그들을 지지하는지 이해하기 어렵지 않습니다. 반면, 잉글랜드는 압박을 받고 있으며, 제가 이야기한 일부 팬들은 감히 희망조차 품지 못할 정도입니다. 그럼에도 불구하고, 그들은 희망합니다. 잉글랜드 국가대표팀의 모든 세대는 축구의 발상지(일명 사커)에 트로피를 가져오는 팀이 되기를 바랍니다. 해리 케인의 찡그린 표정이 모든 것을 말해줍니다. 저는 갈등하지만, 그래도 확실히 흥미진진할 이 경기를 지켜볼 것입니다.)&lt;/p&gt;
-&lt;p&gt;Henrik Pryser Libell and Louise Krüger contributed reporting.&lt;br/&gt;(헨릭 프리세르 리벨과 루이스 크뤼거가 취재에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/11/multimedia/11int-worldcup-england-norway-phwb/11int-worldcup-england-norway-phwb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 11 Jul 2026 15:12:39 +0000</pubDate></item><item><title>Inside the Canadian Lab Burning Down Buildings to Save Them (캐나다 실험실 내부: 건물을 구하기 위해 불태우다)</title><link>https://www.nytimes.com/2026/07/11/world/canada/wildfires-prevention-testing-canada.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/11/world/11-int-canadaletter-04/11-int-canadaletter-04-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Ahmed Kashef burns things down for a living.&lt;br/&gt;(아흐메드 카셰프는 불을 지르는 일로 생계를 유지합니다.)&lt;/p&gt;
-&lt;p&gt;As the director of the fire safety testing facility at the National Research Council of Canada in Ottawa, Dr. Kashef leads a team of scientists, engineers and technicians who operate an array of furnaces, construct buildings and then light them on fire to test the resilience of their materials.&lt;br/&gt;(오타와에 있는 캐나다 국립연구위원회의 화재안전시험시설 소장인 카셰프 박사는 다양한 용광로를 운영하고 건물을 지은 뒤 그 건물에 불을 붙여 재료의 내구성을 시험하는 과학자, 엔지니어, 기술자 팀을 이끌고 있습니다.)&lt;/p&gt;
-&lt;p&gt;When I visited the lab recently, Dr. Kashef told me that the growing threat of wildfires transformed his work.&lt;br/&gt;(최근 그 실험실을 방문했을 때, 카셰프 박사는 산불의 증가하는 위협이 자신의 연구 방식을 바꾸었다고 말했습니다.)&lt;/p&gt;
-&lt;p&gt;“Usually the fire that we dealt with all the time was from the inside to the outside,” he said at the start of our tour. “Now the wind is a factor. The size of the fire is much bigger because it’s coming from the forest. And then it comes through the firebrand, which is the projection of hot and burned material attacking the building.”&lt;br/&gt;(그는 견학을 시작하며 “평소 우리가 항상 다루던 화재는 내부에서 외부로 번지는 것이었습니다.”라고 말했습니다. “이제 바람이 변수입니다. 화재 규모가 훨씬 커졌는데, 그건 불이 숲에서 오기 때문입니다. 그리고 그 불은 뜨겁고 타버린 물질이 건물을 공격하는 불씨 형태로 다가옵니다.”)&lt;/p&gt;
-&lt;p&gt;He added: “You’re attacking the outside, not from the inside. So all that has changed the way that you need to treat buildings.”&lt;br/&gt;(그는 덧붙였습니다. “이제는 내부가 아닌 외부를 공격합니다. 따라서 건물을 다루는 방식을 완전히 바꿔야 합니다.”)&lt;/p&gt;
-&lt;p&gt;Walking into the lab on the research council’s university-style campus feels like a return to the Diefenbaker era. A brass plaque acknowledges its 1958 opening; a shinier one in French was added sometime after bilingualism became official. Just beyond the entrance, a small museum displays obsolete instruments and photographs of researchers burning down houses on government land.&lt;br/&gt;(연구위원회의 대학식 캠퍼스에 있는 실험실 안으로 들어서면 1950년대 디펜베이커 시대(캐나다 총리 시절)로 돌아간 듯한 느낌이 듭니다. 놋쇠 명판에는 1958년 개관 사실이 적혀 있고, 이중 언어 사용이 공식화된 후에는 더 새로워 보이는 프랑스어 명판이 추가되었습니다. 입구 바로 너머에는 작은 박물관이 있어 구식 장비들과 연구원들이 정부 소유 땅에서 집을 불태우는 사진들이 전시되어 있습니다.)&lt;/p&gt;
-&lt;p&gt;The three full-scale furnaces also date from the building’s opening but nevertheless are imposing. The first one visitors encounter can hold a wall up to 10 feet high and 12 feet wide. Behind it is a furnace for floors and roofs. In another room, a third tests columns.&lt;br/&gt;(3개의 실물 크기 용광로도 건물 개관 당시부터 있었지만, 여전히 위압적입니다. 방문객이 가장 먼저 마주하는 용광로는 높이 최대 10피트(약 3미터), 너비 12피트(약 3.7미터)의 벽을 수용할 수 있습니다. 그 뒤에는 바닥과 지붕용 용광로가 있습니다. 다른 방에는 기둥을 시험하는 세 번째 용광로가 있습니다.)&lt;/p&gt;
-&lt;p&gt;They do more than spew flames. Safety codes require that building materials sustain specific loads for certain periods before collapsing in a fire. The furnaces were recently upgraded to test the new laminated wood beams that Canada’s forest industry promoted as an alterative to steel and aluminum for tall buildings. Using hydraulics, the wall furnace can now simulate the load of up to a 30-story building. The furnaces also now generate greater heat to replicate the conditions of an approaching wildfire.&lt;br/&gt;(이 용광로들은 단순히 불꽃을 뿜어내는 것 이상을 합니다. 안전 규정은 건축 자재가 화재 시 무너지기 전까지 특정 하중을 일정 시간 동안 견뎌야 한다고 요구합니다. 이 용광로들은 캐나다 산림 산업이 고층 건물용 철강과 알루미늄의 대안으로 홍보해온 새로운 합판 목재 빔을 시험할 수 있도록 최근 업그레이드되었습니다. 유압 장치를 사용해 벽 용광로는 이제 최대 30층 건물의 하중을 시뮬레이션할 수 있습니다. 또한 용광로는 다가오는 산불의 조건을 재현하기 위해 더 높은 열을 발생시킵니다.)&lt;/p&gt;
-&lt;p&gt;Steel and concrete columns also go under the torch. And the results are not always what one may expect. The laminated wood beams and columns maintain their structural integrity, Dr. Kashef explained, by slowly burning layer by layer. Concrete beams, by contrast, can explode as the steel reinforcing bars inside them expand and moisture in their concrete turns to superheated steam.&lt;br/&gt;(철강과 콘크리트 기둥도 시험 대상이 됩니다. 그리고 그 결과가 항상 예상과 일치하는 것은 아닙니다. 카셰프 박사는 합판 목재 빔과 기둥은 천천히 층층이 타면서 구조적 무결성을 유지한다고 설명했습니다. 반면 콘크리트 빔은 내부의 철근 보강재가 팽창하고 콘크리트 속 수분이 과열 증기로 변하면서 폭발할 수 있습니다.)&lt;/p&gt;
-&lt;p&gt;The lab is also developing ways to simulate the wind-borne embers — firebrands — that set homes and other buildings ablaze well before the actual fire front arrives.&lt;br/&gt;(실험실은 또한 실제 화재 전선이 도착하기 훨씬 전에 가옥과 다른 건물에 불을 지르는 바람에 날리는 불씨(화염 덩어리)를 시뮬레이션하는 방법을 개발하고 있습니다.)&lt;/p&gt;
-&lt;p&gt;A small prototype device nicknamed “the baby dragon” swallows wood chips at one end and spews a stream of embers out the other. The plan is to scale it into a full-size version modeled after one at Japan’s national fire safety lab.&lt;br/&gt;(‘아기 용’이라는 별명이 붙은 소형 시제 장치는 한쪽 끝에서 나무 칩을 삼켜 다른 쪽 끝으로 불씨 흐름을 뿜어냅니다. 계획은 일본 국립 화재 안전 연구소의 모델을 본떠 실물 크기 버전으로 확장하는 것입니다.)&lt;/p&gt;
-&lt;p&gt;Elsewhere in the building, an even smaller ember maker attacks hot-plate-size samples of manufactured wood products.&lt;br/&gt;(건물 내 다른 곳에서는 더 작은 불씨 생성기가 가열판 크기의 가공 목재 샘플을 공격합니다.)&lt;/p&gt;
-&lt;p&gt;Because the lab cannot burn down forests, it is also developing gas and other sensors that a drone can drop into real fires to collect data for analysis.&lt;br/&gt;(실험실은 숲을 불태울 수 없기 때문에, 드론이 실제 화재에 투하하여 분석용 데이터를 수집할 수 있는 가스 및 기타 센서도 개발하고 있습니다.)&lt;/p&gt;
-&lt;p&gt;Not all the work involves burning. Other parts of the lab use virtual-reality driving simulators to improve wildfire evacuations, and are developing air filters for hospitals that screen out particles specific to wildfire smoke.&lt;br/&gt;(모든 작업이 불을 사용하는 것은 아닙니다. 실험실의 다른 부서에서는 산불 대피를 개선하기 위해 가상현실 운전 시뮬레이터를 사용하고, 산불 연기에 특화된 입자를 걸러내는 병원용 공기 필터를 개발하고 있습니다.)&lt;/p&gt;
-&lt;p&gt;The increased focus on wildfire safety is producing new approaches. Dr. Kashef showed me samples of wood treated with a coating that leaves the surface appearing unpainted — a popular look for homes and cabins in areas prone to wildfires. When exposed to flames, the coating immediately puffs up into a protective layer of insulation that vaguely resembles chocolate cake.&lt;br/&gt;(산불 안전에 대한 관심 증가는 새로운 접근법을 낳고 있습니다. 카셰프 박사는 산불 취약 지역의 주택과 오두막에서 인기 있는, 표면이 도색되지 않은 것처럼 보이는 코팅 처리된 목재 샘플을 보여주었습니다. 불꽃에 노출되면 이 코팅은 즉시 부풀어 올라 초콜릿 케이크를 연상시키는 보호용 단열층을 형성합니다.)&lt;/p&gt;
-&lt;p&gt;This week, two rapidly growing wildfires in British Columbia’s Fraser Canyon have prompted evacuations, burned buildings and disrupted highways, railways and the electrical system. A forecast for hot and dry weather suggests that they will continue to expand in the coming days.&lt;br/&gt;(이번 주, 브리티시컬럼비아주 프레이저 캐니언에서 급속히 확산 중인 두 건의 산불로 인해 대피 명령이 내려지고 건물이 불탔으며 고속도로, 철도, 전력 시스템이 마비되었습니다. 덥고 건조한 날씨 예보는 이 산불이 앞으로 며칠간 계속 확대될 것임을 시사합니다.)&lt;/p&gt;
-&lt;p&gt;As this year’s wildfire season develops in Canada, you can find The New York Times’s coverage here. The federal government also regularly updates its national wildfire map.&lt;br/&gt;(올해 캐나다 산불 시즌이 전개됨에 따라, 뉴욕타임스의 관련 보도를 여기에서 확인하실 수 있습니다. 캐나다 연방 정부도 정기적으로 국가 산불 지도를 업데이트합니다.)&lt;/p&gt;
-&lt;p&gt;Ian Austen reports on Canada for The Times. A Windsor, Ontario, native now based in Ottawa, he has reported on the country for two decades. He can be reached at austen@nytimes.com.&lt;br/&gt;(이언 오스틴은 타임스에서 캐나다를 담당하는 기자입니다. 온타리오 주 윈저 출신으로 현재 오타와에 거주하며 20년 동안 캐나다를 취재해 왔습니다. 이메일은 austen@nytimes.com으로 보내주십시오.)&lt;/p&gt;
-&lt;p&gt;Despite the best efforts of President Trump, the Gordie Howe International Bridge spanning Detroit and Windsor, Ontario, will open on July 27, Ian Austen in Ottawa and Tyler Pager in Washington reported. The bridge is the kind of large infrastructure project Prime Minister Mark Carney has championed as a bulwark against the economic damage caused by Mr. Trump’s trade war with Canada. Read the full story.&lt;br/&gt;(트럼프 대통령의 최선의 노력에도 불구하고, 디트로이트와 온타리오 주 윈저를 연결하는 고디 하우 국제 다리가 7월 27일에 개통될 것이라고 오타와의 이언 오스틴과 워싱턴의 타일러 페이지가 보도했습니다. 이 다리는 마크 카니 총리가 트럼프의 캐나다와의 무역 전쟁으로 인한 경제적 피해에 대한 방어책으로 지지해 온 대규모 인프라 프로젝트의 일종입니다. 전문 기사를 읽어보십시오.)&lt;/p&gt;
-&lt;p&gt;Tariq Panja, a global sports reporter for The Times who is covering his fifth World Cup, reported from Canada’s 3-0 loss to Morocco last Saturday. He wrote that the team’s surprising World Cup run, despite coming to an end in the round of 16, was a success that would have a lasting impact on the nation’s soccer program and a growing legion of loyal fans. Read the full story.&lt;br/&gt;(5번째 월드컵을 취재 중인 타임스의 글로벌 스포츠 기자 타리크 판자는 지난 토요일 캐나다의 모로코 상대 3-0 패배 소식을 전했습니다. 그는 캐나다 팀의 16강에서의 예상치 못한 월드컵 진출은 비록 거기서 끝났지만, 국가 축구 프로그램과 점점 늘어나는 충성파 팬들에게 지속적인 영향을 미칠 성공이었다고 썼습니다. 전문 기사를 읽어보십시오.)&lt;/p&gt;
-&lt;p&gt;Ian Austen reported this week on the most costly military purchase in Canada’s history: a deal to build a new fleet of submarines that Prime Minister Mark Carney won’t put a price on until negotiations with the contractor are complete. Canada chose a German-Norwegian joint bid to build up to a dozen diesel-electric submarines. It’s a significant step in Mr. Carney’s campaign to reduce Canadian military spending with the United States and increase the country’s military presence in the Arctic. Read the full story.&lt;br/&gt;(이언 오스틴은 이번 주 캐나다 역사상 가장 비싼 군사 구매, 즉 마크 카니 총리가 계약업체와 협상이 끝날 때까지 가격을 공개하지 않기로 한 새로운 잠수함 함대 건조 계약에 대해 보도했습니다. 캐나다는 최대 12척의 디젤-전기 잠수함을 건조하기 위해 독일-노르웨이 합동 입찰을 선택했습니다. 이는 카니 총리의 미국과의 군사 지출을 줄이고 북극에서의 군사 주둔을 늘리려는 캠페인의 중요한 단계입니다. 전문 기사를 읽어보십시오.)&lt;/p&gt;
-&lt;p&gt;Why “Heated Rivalry” didn’t get any Emmy nominations, but one of its leading actors did.&lt;br/&gt;(왜 ‘뜨거운 라이벌 관계’는 에미상 후보에 오르지 못했지만, 그 주연 배우 중 한 명은 후보에 올랐는가.)&lt;/p&gt;
-&lt;p&gt;From Opinion: Canada was the first to notice America’s threats and abandonment of the world order.&lt;br/&gt;(오피니언에서: 캐나다는 미국의 위협과 세계 질서 포기를 가장 먼저 알아차렸다.)&lt;/p&gt;
-&lt;p&gt;Air Canada hired Anko van der Werff as its new chief executive to replace Michael Rousseau, who said he would retire after criticism for his failure to learn French.&lt;br/&gt;(에어 캐나다는 마이클 루소의 후임으로 안코 판 데르 베르프를 신임 최고경영자로 고용했습니다. 루소는 프랑스어 학습 실패에 대한 비판으로 은퇴 의사를 밝혔습니다.)&lt;/p&gt;
-&lt;p&gt;U.S. federal officials announced a sweeping crackdown against a vast criminal network that preyed on Indian diaspora communities around the world and had been linked to the assassination of a Sikh separatist leader in British Columbia three years ago.&lt;br/&gt;(미국 연방 당국은 전 세계 인도 디아스포라 커뮤니티를 대상으로 한 광범위한 범죄 네트워크에 대한 대대적인 단속을 발표했습니다. 이 네트워크는 3년 전 브리티시컬럼비아주에서 시크교 분리주의 지도자 암살과 관련이 있습니다.)&lt;/p&gt;
-&lt;p&gt;Last Saturday, we published a quiz where question No. 5 inadvertently had two correct answers. The question asked you to identify an “untrue statement.” One of the options was, “Canada has only one national sport: hockey.” Because Canada has two national sports (hockey and lacrosse), that choice was untrue, but so was “Edmonton got more snow in January 2025 than Florida.” We’ve noted it in a correction. Thank you to the sharp-eyed readers.&lt;br/&gt;(지난 토요일, 우리는 5번 문제가 의도치 않게 정답이 두 개인 퀴즈를 게재했습니다. 그 질문은 “거짓된 진술”을 식별하도록 요구했습니다. 보기 중 하나는 “캐나다에는 단 하나의 국가 스포츠, 즉 하키만 있다”였습니다. 캐나다에는 두 가지 국가 스포츠(하키와 라크로스)가 있기 때문에 이 선택지는 거짓이었지만, “에드먼턴은 2025년 1월에 플로리다보다 더 많은 눈이 내렸다” 역시 거짓이었습니다. 정정 사항에 이를 명시했습니다. 예리한 독자 여러분께 감사드립니다.)&lt;/p&gt;
-&lt;p&gt;The Canada Letter is edited by Shawna Richer, who oversees Canada coverage on the International desk at The Times. She lives in Toronto.&lt;br/&gt;(캐나다 레터는 타임스 국제 데스크의 캐나다 보도를 총괄하는 쇼나 리처가 편집합니다. 그녀는 토론토에 거주합니다.)&lt;/p&gt;
-&lt;p&gt;How are we doing?We’re eager to have your thoughts about this newsletter and events in Canada in general. Please send them to nytcanada@nytimes.com.&lt;br/&gt;(저희는 어떻습니까? 이 뉴스레터와 캐나다의 사건들에 대한 여러분의 의견을 듣고 싶습니다. nytcanada@nytimes.com으로 보내주십시오.)&lt;/p&gt;
-&lt;p&gt;Like this email?Forward it to your friends, and let them know they can sign up here.&lt;br/&gt;(이 이메일이 마음에 드시나요? 친구들에게 전달하고, 여기에서 가입할 수 있다고 알려주십시오.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/11/world/canada/wildfires-prevention-testing-canada.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/11/world/11-int-canadaletter-04/11-int-canadaletter-04-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 11 Jul 2026 01:00:04 +0000</pubDate></item><item><title>Gravitational Pull (중력의 당김)</title><link>https://www.nytimes.com/2026/07/11/briefing/gravitational-pull.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/13/multimedia/11themorning-nl/11themorning-nl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 14 Jul 2026 13:18:00 +0000</lastBuildDate><item><title>Gravitational Pull (중력의 당김)</title><link>https://www.nytimes.com/2026/07/11/briefing/gravitational-pull.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/13/multimedia/11themorning-nl/11themorning-nl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Earlier this week, the earth reached its greatest distance from the sun, a point known as “aphelion.” It seems counterintuitive that Earth reaches aphelion in summer, but it’s the planet’s tilt, not its proximity to the sun, that gives us the season.&lt;br/&gt;(이번 주 초, 지구는 태양으로부터 가장 먼 지점인 '원일점'에 도달했습니다. 지구가 여름에 원일점에 도달한다는 것은 직관에 반하는 것처럼 보이지만, 계절을 만드는 것은 태양과의 거리가 아니라 지구의 기울기입니다.)&lt;/p&gt;
 &lt;p&gt;At aphelion, we’re about 94.5 million miles from the sun, a distance so vast as to be unfathomable. What we can fathom: our two feet pressing into Earth, taking up just inches of space. We’re here, now, in this room, in this house, in this town, a body and a mind and five senses taking in as much as we can. We’re so small, but so powerful that we can think and dream and fuss and project entire worlds into existence. And then we think those worlds are the entire universe. Meanwhile, the earth’s orbit continues, the sun goes on shining.&lt;br/&gt;(원일점에서 우리는 태양으로부터 약 9,450만 마일 떨어져 있으며, 이는 상상하기 어려울 정도로 광활한 거리입니다. 우리가 헤아릴 수 있는 것은: 두 발이 땅을 딛고 수 인치의 공간만을 차지하고 있다는 사실입니다. 우리는 지금 여기, 이 방, 이 집, 이 마을에 존재하며, 몸과 마음, 오감으로 최대한 많은 것을 받아들이고 있습니다. 우리는 너무 작지만, 생각하고 꿈꾸고 걱정하며 완전한 세계를 존재하게 할 수 있을 만큼 강력합니다. 그리고 나서 우리는 그 세계가 전 우주라고 생각합니다. 한편, 지구의 궤도는 계속되고, 태양은 계속 빛납니다.)&lt;/p&gt;
 &lt;p&gt;Easier to conceptualize: On July 2 at noon, we reached the exact middle of 2026, 182.5 days on either side. We can’t feel this any more than our distance from the sun, but we understand days. We understand the year and its cadence. We can picture the calendar in our minds, our equal distance from last January and next December. I picture the year as a sea, and I’m treading water right here in the middle, two shores equidistant. Of course, there’s no choice but to head for the far coast; the tides will have it no other way.&lt;br/&gt;(더 개념화하기 쉬운 것은: 7월 2일 정오에 우리는 2026년의 정확히 중간 지점, 양쪽으로 182.5일에 도달했습니다. 우리는 태양으로부터의 거리만큼이나 이것을 느낄 수 없지만, 날짜는 이해합니다. 우리는 1년과 그 리듬을 이해합니다. 우리는 마음속으로 달력을 그릴 수 있으며, 지난 1월과 내년 12월로부터 같은 거리에 있습니다. 나는 1년을 바다로 상상하고, 바로 그 중간에서 물을 헤치며 양쪽 해안이 같은 거리에 있습니다. 물론, 먼 해안을 향해 나아가는 것 외에는 선택지가 없습니다; 조류가 그 외의 길을 허락하지 않을 테니까요.)&lt;/p&gt;
@@ -502,7 +442,152 @@ CCTV에 따르면 중국 동부 전역에서 항공사들은 일요일 예정된
 &lt;p&gt;This past week, Mr. Trump renewed his own harsh language aimed at the regime in Tehran, calling it “scum,” “sick,” “evil” and “cuckoo.” He warned that he was ready to “just finish the job.”&lt;br/&gt;(지난주, 트럼프는 테헤란 정권에 대한 자신의 거친 언어를 재개하며, 그것을 "쓰레기", "병자", "악", "뻐꾸기"라고 불렀다. 그는 "그냥 일을 끝낼" 준비가 되었다고 경고했다.)&lt;/p&gt;
 &lt;p&gt;But given the steep economic and political price that Mr. Trump has already paid to fight Iran, many analysts doubt that Iranian leaders are taking his threats seriously. In a stark contrast with Mr. Putin’s efforts to project resolve, Mr. Trump said last month that continuing the war on Iran could have meant “possibly going into a depression.”&lt;br/&gt;(그러나 트럼프가 이란과 싸우기 위해 이미 엄청난 경제적, 정치적 대가를 치렀다는 점을 고려할 때, 많은 분석가들은 이란 지도자들이 그의 위협을 진지하게 받아들이고 있다고 의심한다. 푸틴의 결의 투영 노력과 극명한 대조를 이루며, 트럼프는 지난달 이란과의 전쟁을 계속하는 것이 "아마도 불황에 빠지는 것을 의미할 수 있다"고 말했다.)&lt;/p&gt;
 &lt;p&gt;Mr. Trump “seemed to have learned, for a while at least, one lesson from this war,” Mr. Malley said, “which is that he was better off ending it.”&lt;br/&gt;(트럼프는 "적어도 한동안은, 이 전쟁에서 한 가지 교훈을 배운 것으로 보입니다," 멀리가 말했다. "그것은 전쟁을 끝내는 것이 더 낫다는 것입니다.")&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/09/multimedia/00dc-trump-putin-01-jbzk/00dc-trump-putin-01-jbzk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 00:01:28 +0000</pubDate></item><item><title>U.K. Police Make New Arrest in Killing of Ex-Lawmaker (영국 경찰, 전 하원의원 살해 사건의 새로운 용의자 체포)</title><link>https://www.nytimes.com/2026/07/12/world/europe/ann-widdecombe-arrest-uk.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/multimedia/12int-uk-murder01-jgth/12int-uk-murder01-jgth-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/09/multimedia/00dc-trump-putin-01-jbzk/00dc-trump-putin-01-jbzk-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 00:01:28 +0000</pubDate></item><item><title>Inside Herat, Where a Taliban Campaign Targets a Cosmopolitan Outpost (헤라트 내부: 탈레반의 캠페인이 세계적인 거점을 겨냥하다)</title><link>https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/08/multimedia/08int-herat-crackdown-mhpz/08int-herat-crackdown-mhpz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Province by province, the Taliban government’s leader, Sheikh Haibatullah Akhundzada, has tightened his grip over Afghanistan. With a recent show of force in the western city of Herat, he has asserted control over one of the last havens where people had still been able to quietly ignore some of the Taliban’s restrictions.&lt;br/&gt;(탈레반 정부의 지도자 셰이크 하이바툴라 아쿤자다는 주 단위로 아프가니스탄에 대한 통제를 강화하고 있다. 최근 서부 도시 헤라트에서의 무력 시위를 통해, 그는 사람들이 탈레반의 일부 규제를 조용히 무시할 수 있었던 마지막 안식처 중 하나에 대한 통제권을 주장했다.)&lt;/p&gt;
+&lt;p&gt;Sheikh Akhundzada’s morality police have arrested dozens of women over the last few weeks for clothing deemed inappropriate, and men for beards they judged too short, as part of a campaign of policing dress codes, religious practices and other rules about daily life. The orders have been more strictly enforced in cities like Herat or Mazar-i-Sharif in the north, where the Taliban has less support than in the conservative south.&lt;br/&gt;(셰이크 아쿤자다의 도덕 경찰은 최근 몇 주 동안 부적절한 옷차림을 한 여성 수십 명과 너무 짧다고 판단한 수염을 기른 남성들을 체포했으며, 이는 복장 규정, 종교 관행 및 일상 생활의 기타 규칙을 단속하는 캠페인의 일환이다. 이 명령은 보수적인 남부보다 탈레반의 지지가 약한 헤라트나 북부의 마자르이샤리프 같은 도시에서 더 엄격하게 시행되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+6월에 헤라트를 방문했을 때, 많은 여성들은 체포의 물결에 휩쓸릴까 두려워 집을 떠나는 것을 피한다고 말했다. 일부 사람들은 드문 공개 저항 행동으로 항의하기도 했지만, 탈레반은 그들 역시 강력히 진압했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그들은 바이러스처럼 공포를 퍼뜨리고 있다"고 30대 헤라트 주민 헝가메가 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀와 헤라트에서 인터뷰한 20여 명의 다른 주민들, 종교 지도자들, 인권 운동가들, 교사들 대부분은 탈레반의 보복이 두려워 이름만 밝히거나 익명을 요구했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그들은 아프가니스탄에서 가장 국제화된 도시 중 하나의 광범위한 지역에 내려앉은 강렬한 새로운 공포와 위협의 분위기를 묘사했다. 헤라트의 여성과 소녀들은 학교, 대부분의 직업, 여행에 대한 접근에 있어 다른 지역의 여성들과 동일한 제약에 직면해 있다. 그러나 최근까지도 그들은 도시의 일부 지역에서 아프가니스탄의 다른 지역보다 약간 더 큰 이동의 자유와 느슨한 옷차림 규칙을 누리고 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+탈레반 정부는 이미 대부분의 반대 목소리를 침묵시켰다. 그러나 비평가들은 그것이 아프가니스탄의 다양한 사회를 격변의 지점까지 압박할 수 있다고 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"왜 그들은 매일 종교적 압력을 강화하는가?" 주요 시아파 성직자인 아야톨라 골람 압바스 와에지 자데가 5월 연설에서 말했다. "압력이 너무 높아지면, 불가피하게 폭발이 일어날 것이다."
+&lt;&lt;&lt;PARA&gt;&gt;
+아프가니스탄의 세 번째로 큰 도시이자 많은 시아파 무슬림 인구가 거주하는 헤라트는 결코 탈레반의 거점이 아니었다. 탈레반이 수니파 무슬림이기 때문이다. 1990년대 탈레반의 첫 통치로 이어진 내전 동안 헤라트는 그룹의 가장 강력한 적수들의 본거지였다. 그리고 2021년 8월 그룹에 함락된 마지막 도시 중 하나였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지난 여름과 3월에 도시를 방문한 이전 여행에서, 나는 머리카락이 살짝 보이는 느슨한 머리 스카프를 착용한 여학생들과 청바지나 화려한 숄을 입은 많은 여성들을 보았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+제브라일이라는 한 동네는 오랫동안 헤라트의 조용한 저항을 상징해 왔다. 이곳은 주로 시아파 하자라 공동체의 수만 가족이 거주하며, 서쪽으로 70마일 떨어진 이란과의 국경 간 거래의 중심지이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+제브라일에는 젊은 남녀가 자유롭게 만날 수 있는 카페와 화장과 하이힐을 신은 여성 친구들이 방해받지 않고 돌아다니는 시장이 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+6월 초 탈레반의 도덕 경찰이 지역 종교 지도자들에게 내린 지시는 그것을 종식시켰다. 경찰은 머리부터 발끝까지 얼굴을 포함해 몸을 가리는 명령을 따르지 않는 여성은 체포되어 감옥에 갈 수 있다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+6월 6일과 7일, 아프가니스탄 내 유엔 사절단에 따르면 명령 위반 혐의로 최소 30명의 여성이 체포되었다. 지역 인권 단체들은 지금까지 200건 이상의 체포를 등록했으며 더 많은 체포가 예상된다고 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"일부 세대는 명령을 받아들이고, 다른 세대는 받아들이지 않는다"고 헤라트의 시아파 성직자 후세인이 여성 복장에 대한 새로운 탄압에 대해 말했다. "새로운 세대는 대처하지 못하고 있다; 받아들이지 않고 있다."
+&lt;&lt;&lt;PARA&gt;&gt;
+6월 9일, 수십 명의 주민들이 강화된 규칙과 체포에 항의하기 위해 제브라일에 모였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그들 중에는 19세의 하마윤도 있었는데, 그녀는 어머니들이 가지 말라고 간청했지만 친구와 함께 왔다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"나는 스스로에게 말했다, '내가 가지 않고, 다른 사람들이 가지 않으면, 누가 참여하겠는가?'" 하마윤이 말했다. "내일은 내 어머니와 여동생이 체포될 차례일지도 모른다."
+&lt;&lt;&lt;PARA&gt;&gt;
+하마윤과 다른 시위자들은 "일, 교육, 자유"를 외쳤다. 외침이 더 커지고 무장한 탈레반 경찰관들이 시위자들에게 다가가자, 일부 시위자들이 탈레반에게 돌을 던졌고, 탈레반은 경고 사격을 한 후 발목을 겨냥했다고 다섯 명의 시위자들이 말했다. 긴장된 대치 상황의 영상은 소셜 미디어에 빠르게 퍼졌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+경찰관들은 시위자들을 제브라일의 골목길로 쫓아가 구타하고 수십 명을 체포했다고 시위자들과 충돌을 목격한 다섯 명이 말했다. 한 10대가 총상을 입고 사망했으며, 여러 명이 부상당했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+헤라트 경찰의 대변인 사이드 마수드 후세이니는 시위자들이 공공 질서를 방해하려는 "선동자"들이라고 말했다. 그는 경찰이 시위자들을 체포하거나 구타했다는 것을 부인했으며, 경찰이 "가능한 가장 짧은 시간에" 지역을 통제하에 되돌렸다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+제브라일의 항의는 오전 8시에 시작되었다. 오전 10시까지 탈레반은 모든 사람을 해산시켰다.
+&lt;&lt;&lt;PARA&gt;&gt;
+탈레반은 제브라일에 우글우글 모여들어 검문소를 설치했다. 또 다른 계획된 시위에 대한 소문이 퍼지자, 그들은 모스크와 학교에서 동네 주민들에게 경고를 발령했다: 다시는 항의하러 나가지 말라.
+&lt;&lt;&lt;PARA&gt;&gt;
+그들은 나가지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+대신, 제브라일에 공포의 분위기가 내려앉았다. 주민들은 탈레반이 사람들을 멈춰 세우고 수염이나 옷차림 때문에 체포하며, 어떤 경우에는 여학생들을 협박한다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+15세의 자흐라는 지난달 어느 날 아침 학교 운동장에서 탈레반 도덕 경찰의 면밀한 감시 아래 수백 명의 급우들과 함께 줄을 서야 했다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+학생들은 이미 머리부터 발끝까지 검은 차도르로 완전히 가려져 있었지만, 경찰관은 새로운 지시에 따라 얼굴도 가리라고 명령했다고 자흐라가 말했다. 그런 다음 경찰관들은 소녀들이 자신들의 옷차림을 "아프간 여성의 명예의 깃발"이라고 설명하는 종이를 들고 있는 모습을 촬영했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+일부 소녀들은 베일 아래서 울었다. "우리는 모두 겁에 질렸다"고 자흐라가 말했다. 부모님에게 연락해 도움을 받을 수 없었기 때문이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+최근 어느 저녁, 나는 주요 교차로마다 운전자들을 멈춰 세우는 12명의 무장 경찰관들을 보았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+완전히 가려진 여성들이 거리를 걸었고, 일몰이 105도 더위에서 잠시 벗어나게 해주었다. 지역 시장은 거의 텅 비어 있었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+단속과 체포에 대한 두려움은 경제 활동을 마비시켰다. 제브라일의 식품 포장 작업장 주인 샤킬라는 그녀의 직원 세 명이 몇 주 동안 출근하지 않았다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+헤라트의 한 교장은 일부 부모들이 딸들의 학교 출석을 중단시켰다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+일부는 탈레반 규칙에 동의하지 않는 성인들의 조롱에 직면한다. 자흐라의 학교에서, 얼굴을 가리는 마스크나 베일을 쓰고 수업에 참석하는 일부 학생들은 행인들로부터 "탈레반 당나귀"라는 모욕을 들었다고 그곳의 한 교사가 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+탈레반의 통제 강화 노력은 옷차림에 관한 사회적 규범을 넘어선다. 종교 관리, 교육 전문가 및 인권 단체에 따르면, 탈레반 관리들은 최근 몇 달 동안 전국적으로 시아파 공동체 구성원들의 공개적인 신앙 표시를 점점 더 억압하려 하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그들은 모든 남자 대학생들에게 탈레반의 수니파 학파를 따른다는 문서에 서명하도록 지시했다. 헤라트에서는 일부 교장들에게 시아파 학생 명단을 제공하라고 명령했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그리고 지난달 헤라트의 아프간 시아파들이 신성한 아슈라 기념식을 준비하는 동안, 그들의 지도자들은 탈레반으로부터 성지에서 깃발을 제거하고 야외 행렬을 취소하라는 명령을 받았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+시아파 관리들이 반대하자 그들은 물러났다. 신도들은 제한을 받았지만 기념식을 허용받았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+탈레반 정부의 대변인 자비울라 무자히드는 인터뷰에서 당국이 이슬람 국가의 시아파 공동체에 대한 안보 위협 때문에 기념식에 제한을 가했다고 말했다. 탈레반 정부는 수년에 걸쳐 아프가니스탄에서 이슬람 국가의 위협을 대부분 제거했다고 주장해 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아프가니스탄의 4500만 인구 중 10~15%가 시아파로 추산되지만, 그들은 다른 소수 민족과 마찬가지로 탈레반 정부에서 권력에서 대부분 배제되어 왔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그들은 권고를 받아들이지 않고, 지도를 받아들이지 않는다"고 시아파 성직자 아야톨라 와에지 자데가 5월 연설에서 탈레반 정부에 대해 말했다. "아마도 그들의 기초는 모든 결정을 스스로 내리고, 단일한 생각을 가지는 것이다."
+&lt;&lt;&lt;PARA&gt;&gt;
+아니사 샤비르가 연구에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/08/multimedia/08int-herat-crackdown-mhpz/08int-herat-crackdown-mhpz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 09:26:13 +0000</pubDate></item><item><title>Hard-Liners in Iran Want to Keep Fighting America (이란 강경파, 미국과의 전쟁 계속 원해)</title><link>https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/multimedia/12int-Iran-Opposition-vwbp/12int-Iran-Opposition-vwbp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The striking prominence of red flags — a Shiite Muslim symbol for vengeance — among the sea of mourners attending the weeklong funeral of Iran’s late supreme leader was considered a none-too-subtle statement that the country should continue the war with the United States.&lt;br/&gt;(이란 최고지도자 장례식에 일주일 동안 참석한 수많은 조문객들 사이에서 붉은 깃발이 눈에 띄게 두드러진 것은 시아파 무슬림에게 복수를 상징하는 것으로, 이 나라가 미국과의 전쟁을 계속해야 한다는 아주 노골적인 메시지로 여겨졌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이는 이슬람 공화국 내 극강경파의 요구로, 이들은 워싱턴과의 47년 대치를 유지하려 한다. 분석가들은 이 깃발들이 2월 미국과 이스라엘이 시작한 전쟁이 지도부를 참수하면서 테헤란에 정치적 불확실성을 불러온 이후, 이란의 새롭게 유동적인 정치 속에서 영향력 다툼이 벌어지고 있음을 보여주는 암시적인 사례라고 보았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+채터누가 테네시 대학의 사이드 골카르 교수는 이란의 보안군을 연구하며, 강경파들이 "애도의 분위기, 국가적 불안, 협상 반대 정서를 이용해 정치적으로 용인되는 논의의 범위를 좁히고 타협을 전략적으로 위험하고 도덕적으로 부당한 것으로 묘사하려 한다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+어쨌든, 지난주 미국과 이란이 군사 공습을 재개하면서 타협 가능성은 희미해졌다. 전투는 호르무즈 해협을 통한 주요 해운 항로에 대한 이란의 통제 범위라는 해결되지 않은 문제에서 촉발되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+휴전 붕괴는 양측이 6월 17일 서명한, 이란 핵 프로그램의 운명을 포함한 미래 평화 회담의 청사진인 양해각서를 위태롭게 했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+토요일 저녁부터 일요일까지 전투가 재개되며 양측의 공습이 이어졌다. 이란 국영 IRIB 방송사가 보도한 성명에 따르면, 이란 해군이 허가 없이 항해하던 상선에 경고 사격을 가한 후 해협이 무기한 완전 폐쇄될 것이라고 발표했다. 미 중부사령부는 이란 내에서 보복 공습을 수행 중이라고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+재개된 전쟁은 협상 시작 이후 이란에서 분명히 드러난 협상의 현명함에 대한 의견 차이를 더욱 벌려놓았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+베를린의 싱크탱크인 중동 및 글로벌 질서 센터의 알리 파톨라-네자드 소장은 "'전장'을 중시하는 세력과 '외교'를 중시하는 세력 사이에 긴장이 있다"고 말했다. 그는 외교에 회의적인 이들은 이란의 핵 프로그램, 탄도 미사일, 중동 전역의 대리 세력이 "체제 생존, 억지력 및 힘 투사의 필수 불가결한 기둥이며, 따라서 협상 불가 대상"이라고 믿는다고 덧붙였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+전반적으로, 전쟁 초기 최고지도자 아야톨라 알리 하메네이의 죽음은 이란을 운영하는 데 있어 이슬람 혁명 수비대의 입지를 강화한 것으로 보인다. 그의 아들이자 후계자가 공식석상에 모습을 드러내지 않은 것은 불확실성의 분위기를 더욱 부채질하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+골카르 교수는 "정치적 분위기가 매우 유동적이며, 누가 체제를 운영하는지 정말로 알 수 없다"며 "체제가 변화하고 있으며, 권력을 공고히 하는 데 시간이 필요하다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+강경파는 일반적으로 영향력보다는 소란스러운 것으로 간주되며, 그들 중에는 특히 이란의 붕괴된 경제를 복구하기 위해 협상을 지지하는 사람들도 많다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이란은 이와 유사한 길을 이전에도 걸어본 적이 있다. 오바마 행정부와 다른 세계 강대국들이 2015년 서명한 획기적인 국제 핵 협상을 협상하는 동안 비슷한 긴장이 발생했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+당시, 내부 변화를 추구하는 개혁파와 실용적 외교를 선호하는 세력은 미국을 지역에서 몰아내는 데 집착하는 보수파와 맞서 파벌 경쟁을 벌였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 후 2018년, 트럼프 대통령이 그 핵 협정에서 탈퇴했다. 개혁파는 워싱턴에 속아 핵 프로그램을 제한했다는 비난을 받으며 보수파가 정부 통제를 강화할 길을 열어주었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+파톨라-네자드 소장은 "지배 엘리트는 계속해서 다양한 강경파 계파가 장악하고 있다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+누구도 내부 반대를 용납하지 않지만, 한 진영은 자신을 실용적이라고 묘사하며 생존을 위해 미국과의 적대 행위를 끝내고 경제를 개방해야 한다고 주장한다. 다른 소수의 강경파는 이란 핵 프로그램 관련 사항을 포함해 워싱턴에 어떤 양보도 거부하며, 전쟁을 연장함으로써 이란이 승리할 수 있다고 믿는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+분석가들은 군부의 지배력이 정치 파벌의 영향력을 줄였다고 말하며, 이제 안보 기관의 우선순위가 최우선이 되었기 때문이라고 설명한다. 현재로서는 안보 기관이 협상을 선호하고 있다. 의회 의장이자 수석 협상가인 모하마드 바게르 갈리바프는 전직 혁명 수비대 사령관으로, 2015년 핵 협정에 대한 협상을 맹렬히 비판했던 인물이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+정부에 대한 군부의 광범위한 통제가 정책에 대한 파벌적 책동을 제한하더라도, 지도부는 여전히 강경파 사회적 기반의 시각을 고려해야 한다. 강경파 체제 지지자는 일반적으로 9300만 인구의 최대 20%로 추산된다. 그들은 목요일에 끝난 일주일간의 장례식에 참석한 조문객의 핵심이었음이 틀림없다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아버지를 이어 최고지도자가 된 아야톨라 모즈타바 하메네이는 복수 촉구에 동참했다. 그는 토요일 발표된 드문 성명에서 "우리는 두 전쟁에서 범죄자이자 수치스러운 살인자들로부터 당신의 순수한 피와 모든 순교자의 피를 복수할 것을 맹세한다"며 "이 복수는 우리 민족의 요구이며 반드시 수행되어야 한다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+젊은 하메네이는 아버지의 장례식에 참석하지 않았으며, 2월 28일 이란에 대한 첫 공격에서 중상을 입은 것으로 알려진 이후 공개석상에 나타나지 않았다. 그는 앞서 양해각서에 동의하는 모호한 성명을 발표했지만, "원칙적으로" 서명하는 것에는 반대한다고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+분석가들은 이러한 모호함이 극단주의자들에게 정책에 영향력을 행사할 여지를 주었고, 이는 장례식에서 붉은 깃발로 이어진 조직적인 노력을 촉발했다고 말했다. 많은 깃발에는 "오, 후세인을 위한 복수여"를 뜻하는 아랍어 문구가 새겨져 있었다. 서기 680년 폭군의 손에 의한 이맘 후세인의 죽음은 무고한 피를 갚고 폭정에 저항하는 중요한 시아파 상징이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+텍사스 A&amp;M 대학에서 이란 정치를 전문으로 연구하는 모하마드 타바르 교수는 "강경파들은 이슬람 공화국이 지도자와 고위 관료 암살에 대한 개인적 복수를 협상 전략으로서뿐만 아니라 미래 공격을 억제하는 수단으로서도 명시적으로 위협해야 한다고 믿는다"며 "우리는 이제 이 아이디어가 지도부에 의해 점차 채택되고 있으며, 하메네이 장례식에서 붉은 상징주의가 두드러지게 사용된 데서 이를 볼 수 있다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+카이한 신문의 영향력 있는 편집장 호세인 샤리아트마다리는 종종 강경파 사고를 반영하는 칼럼에서 협상가들이 해협을 통한 어떤 선박 통행도 허용한 이유에 의문을 제기했다. 그는 "호르무즈 해협을 여는 것이 적의 공격에 맞서 이슬람 이란을 무장 해제하는 것과 다름없다는 것을 확실히 알고 있지 않냐?!"고 썼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+더욱 노골적인 요구로, 그는 지난주 '우리는 트럼프의 머리를 원한다'는 제목의 1면 사설을 써서 정부가 미국 대통령을 합법적 표적으로 선언하고 그의 살해에 막대한 현상금을 내걸 것을 요구했다. 다른 여러 보수 또는 극단주의 일간지들도 트럼프에 대한 유사한 1면 위협을 게재했다. 강경파들은 최고지도자 암살 외에도 트럼프가 2020년 바그다드에서 중요한 혁명 수비대 사령관인 카심 술레이마니의 암살을 승인한 책임이 있다고 본다.
+&lt;&lt;&lt;PARA&gt;&gt;
+체제는 오랫동안 군중 규모를 정당성의 표시로 사용해 왔으며, 이란과 이라크의 수백만 조문객은 테헤란 정부가 국내 및 지역적 지지를 모두 누리고 있음을 증거로 인용되었다. 그러나 경제 문제는 올해 초 이란에서 광범위한 시위를 촉발했으며, 이는 극도의 폭력으로 진압되었고, 많은 정부 비판자들은 전쟁이 정권 교체를 가져오지 못한 것에 실망했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그럼에도, 정부는 협상에 대한 대중의 인식을 신중히 다뤄야 한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+테네시 대학의 골카르 교수는 "체제의 사회적 기반을 고려해야 한다"며 "그것이 지난 40년간 체제를 집권하게 한 핵심이다. 위기가 있을 때마다 그들이 나선다. 그들을 버릴 수 없다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+분석가들은 이익이 충분히 가치 있다면 정부가 궁극적으로 반미 이데올로기를 폐기할 수도 있다고 말했다. 텍사스 A&amp;M 교수 타바르는 "만약 그들이 자신들에게 유익하고 미국이 약속을 이행할 신뢰할 수 있는 협상을 본다면, 그것이 이란 내 자신들의 지지층을 늘릴 수 있기 때문에 절대적으로 환영할 것"이라며 "미국과 더 나은 관계를 원하는 많은 이란인들에게 어필할 수 있다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+현재, 미국이 어떤 협상을 지킬 것이라는 강한 의구심이 지속되고 있다. 분석가들은 역사를 고려할 때, 트럼프가 유가 인하를 돕기 위해 협상을 원하지만 결국에는 이를 저버릴 것이라는 광범위한 의혹이 있다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+협상하는 측은 미국이 또 다른 합의를 찢어버릴 경우 바보처럼 보이지 않도록 거리를 유지하는 데 신중하다. 트럼프는 최근 충돌 상황에서 양해각서가 "끝났다"고 빠르게 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+협상이 시작된 직후, 이란 외무부 대변인 에스마일 바가에는 이란 대표단이 왜 미국 대표단과 공개적으로 악수하기를 거부했는지 질문을 받았다. 그는 루미의 시를 인용해 "인간의 얼굴을 한 악마가 많기 때문에 모든 손에 손을 내밀어서는 안 된다"고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+시린 하킴과 로진 라자비가 취재에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-Iran-Opposition-vwbp/12int-Iran-Opposition-vwbp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 02:24:55 +0000</pubDate></item><item><title>U.K. Police Make New Arrest in Killing of Ex-Lawmaker (영국 경찰, 전 하원의원 살해 사건의 새로운 용의자 체포)</title><link>https://www.nytimes.com/2026/07/12/world/europe/ann-widdecombe-arrest-uk.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/multimedia/12int-uk-murder01-jgth/12int-uk-murder01-jgth-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The British police arrested a 28-year-old man on Saturday night in connection with the killing of Ann Widdecombe, a well-known politician who was found dead at her home in southwest England on Thursday.&lt;br/&gt;(영국 경찰이 토요일 밤, 앤 위드컴이라는 유명 정치인의 살해와 관련해 28세 남성을 체포했다. 그녀는 목요일 잉글랜드 남서부 자택에서 숨진 채 발견되었다.)&lt;/p&gt;
 &lt;p&gt;The man, whom the police identified only as a “white British national,” was arrested in South Yorkshire several hours north of Ms. Widdecombe’s home in Devon, according to a statement from the Devon and Cornwall Police Department.&lt;br/&gt;(데번 콘월 경찰국의 성명에 따르면, 경찰이 "백인 영국 국적자"로만 확인한 이 남성은 위드컴의 데번 자택에서 북쪽으로 몇 시간 거리에 있는 사우스 요크셔에서 체포되었다.
 &lt;&lt;&lt;PARA&gt;&gt;
@@ -527,7 +612,189 @@ CCTV에 따르면 중국 동부 전역에서 항공사들은 일요일 예정된
 &lt;p&gt;Fans and politicians have accused FIFA of profiteering and taking advantage of its monopoly over the biggest event in global sports. Even with some unsold tickets, the tournament — the biggest ever with 48 teams playing 104 games, many in cavernous N.F.L. stadiums — has already broken attendance records. FIFA is expecting to generate more than $3 billion in ticket sales this tournament, more than double its previous record.&lt;br/&gt;(아르헨티나의 경기는 대부분 메시 때문인데, 그의 이름은 월드컵에서 아르헨티나 팬들이 입는 거의 모든 레플리카 저지 뒷면에 새겨져 있다. 캔자스시티 8강전 전날, 일부 팬들은 모금에 나서 시내 밀 크릭 파크에 부스를 설치해 아르헨티나식 스테이크 샌드위치인 초리판, 맥주, 심지어 공식 팀 상품의 불법 복제품까지 판매했다.)&lt;/p&gt;
 &lt;p&gt;Argentina’s games have proved to be some of the most expensive, largely because of Mr. Messi, whose name has been on the back of almost every replica jersey worn by Argentina fans at the World Cup. On the eve of the quarterfinal game in Kansas City, some fans resorted to fund-raising, setting up stands at the city’s Mill Creek Park to sell Argentine-style steak sandwiches known as choripán, beer and even bootleg versions of the team’s official merchandise.&lt;br/&gt;(부에노스아이레스 파테르날 동네 출신의 샤를리 보토는 건축학을 전공하는 아들 리오넬(23세)과 함께 모자, 깃발, 저지를 활발히 판매하고 있었다. (보토는 아들이 메시의 이름을 따서 지어진 것이 아니라며, 23세 아들은 그렇지 않다고 말했다.) 그는 중국에서 수입한 짝퉁 저지를 판매해 2,500달러를 벌었다고 추정했다.)&lt;/p&gt;
 &lt;p&gt;Charly Botto, from the Paternal neighborhood of Buenos Aires, was doing a brisk business selling hats, flags and jerseys along with his son Lionel, an architecture student. (The 23-year-old was not named for Mr. Messi, Mr. Botto said.) He estimated that he had made $2,500 selling knockoff jerseys imported from China.&lt;br/&gt;("당연히 비용을 충당하는 데 도움이 됩니다."라고 보토는 말했다. 아르헨티나가 최소 두 경기를 더 치를 예정인 가운데, 그들의 재고는 바닥나고 있었다. 젊은 보토는 저지가 4~5장밖에 남지 않았다고 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html</guid><enclosure url="https://static01.nyt.com/images/2026/08/11/multimedia/11INT-WORLDCUP-Seats-01-fphb/11INT-WORLDCUP-Seats-01-fphb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 16:05:30 +0000</pubDate></item><item><title>Venezuela’s Post-Quake Politics (베네수엘라의 지진 후 정치)</title><link>https://www.nytimes.com/2026/07/12/world/venezuela-earthquake-iran.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/13/multimedia/13int-theworld-asia-nl-ptqj/13int-theworld-asia-nl-ptqj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html</guid><enclosure url="https://static01.nyt.com/images/2026/08/11/multimedia/11INT-WORLDCUP-Seats-01-fphb/11INT-WORLDCUP-Seats-01-fphb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 16:05:30 +0000</pubDate></item><item><title>Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor (젤렌스키, 전쟁 유리한 국면 접어들자 최고 지도부 개편 발표)</title><link>https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/multimedia/12int-ukraine-leadership-01-jzqf/12int-ukraine-leadership-01-jzqf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;President Volodymyr Zelensky announced on Sunday a shake-up of his top leadership, including the dismissal of the prime minister, in a personnel overhaul that comes as momentum in the war has shifted in Ukraine’s favor.&lt;br/&gt;(볼로디미르 젤렌스키 우크라이나 대통령은 2일(현지시간) 총리 경질을 포함한 최고 지도부 개편을 발표했다. 전쟁의 주도권이 우크라이나에 유리하게 돌아서면서 단행된 인적 쇄신이다.)&lt;/p&gt;
+&lt;p&gt;Mr. Zelensky said the personnel changes were needed to focus the government’s work on high-priority foreign and domestic policies, including relations with the United States, membership talks with the European Union, securing sufficient supplies of weaponry for the army, and supporting cities and towns near the front line.&lt;br/&gt;(젤렌스키 대통령은 이러한 인사 변경이 대미 관계, 유럽연합(EU) 가입 협상, 군의 충분한 무기 공급 확보, 최전선 인근 도시 및 마을 지원 등 외교·국내 정책 최우선 과제에 정부 업무를 집중시키기 위해 필요하다고 말했다.)&lt;/p&gt;
+&lt;p&gt;“Ukraine is changing its political strategy,” Mr. Zelensky said in a statement about the overhaul. He said he would designate an official to oversee each priority policy.&lt;br/&gt;(젤렌스키 대통령은 개편과 관련한 성명에서 "우크라이나는 정치 전략을 바꾸고 있다"고 밝혔다. 그는 각 최우선 정책을 감독할 담당자를 임명하겠다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Mr. Zelensky said that Prime Minister Yuliia Svyrydenko, a 40-year-old former minister of economy who had led a team of mostly young politicians in Mr. Zelensky’s government, would step down as prime minister.&lt;br/&gt;(젤렌스키 대통령에 따르면, 40세의 전직 경제부 장관으로 젤렌스키 정부 내 대부분 젊은 정치인들로 구성된 팀을 이끌어온 율리야 스비리덴코 총리가 총리직에서 물러난다.)&lt;/p&gt;
+&lt;p&gt;“The Cabinet of Ministers needs to be renewed,” Mr. Zelensky said.&lt;br/&gt;(젤렌스키 대통령은 "각료회의는 쇄신되어야 한다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;In the statement, he did not mention any other personnel changes. Earlier, Mr. Zelensky had said he planned changes in the diplomatic service in order to focus diplomacy on securing military supplies from allies. In the statement, he said he would also replace leaders of law enforcement agencies.&lt;br/&gt;(성명에서 그는 다른 인사 변동에 대해서는 언급하지 않았다. 앞서 젤렌스키 대통령은 동맹국으로부터 군수 물자 조달에 외교를 집중하기 위해 외교 관료 인사를 바꿀 계획이라고 밝힌 바 있다. 성명에서 그는 또한 법 집행 기관의 수장들도 교체할 것이라고 말했다.)&lt;/p&gt;
+&lt;p&gt;Political analysts will be watching two popular generals seen as potential rivals for the presidency in postwar elections, both of whom now work in Mr. Zelensky’s administration.&lt;br/&gt;(정치 분석가들은 전후 선거에서 대통령 후보가 될 잠재적 경쟁자로 여겨지는 두 인기 장군을 주목할 것이다. 이들은 현재 젤렌스키 행정부에서 일하고 있다.)&lt;/p&gt;
+&lt;p&gt;General Kyrylo Budanov, a former director of military intelligence, is currently chief of staff, and General Valery Zaluzhny is ambassador to Britain. Whether Mr. Zelensky keeps them inside the administration, and in which capacity, will partly define Ukraine’s postwar political lineup.&lt;br/&gt;(전 군 정보국장인 키릴로 부다노프 장군은 현재 비서실장이며, 발레리 잘루즈니 장군은 영국 대사이다. 젤렌스키 대통령이 이들을 행정부 내에 유지할지, 그리고 어떤 직책에 임명할지는 부분적으로 우크라이나의 전후 정치 구도를 결정할 것이다.)&lt;/p&gt;
+&lt;p&gt;Mr. Zelensky said he would work with Parliament, which must approve ministerial changes, on the overhaul. Mr. Zelensky’s political party, Servant of the People, holds a majority in Parliament but has sometimes struggled to pass legislation or win confirmations, as lawmakers don’t always vote along party lines.&lt;br/&gt;(젤렌스키 대통령은 개편에 관해 장관 인사 변경을 승인해야 하는 의회와 협력할 것이라고 말했다. 젤렌스키 대통령의 정당인 '국민의 종'은 의회에서 과반수를 차지하고 있지만, 의원들이 항상 당론에 따라 투표하지 않기 때문에 때때로 법안 통과나 인사 승인에 어려움을 겪어왔다.)&lt;/p&gt;
+&lt;p&gt;Mr. Zelensky last reshuffled the cabinet in July 2025, after a year and a half of gradual losses along the front line and as Ukraine suffered electrical blackouts as Russia hammered the country’s power grid.&lt;br/&gt;(젤렌스키 대통령은 지난 2025년 7월, 최전선에서 1년 반 동안 점진적 손실을 입고 러시아가 우크라이나 전력망을 타격해 정전 사태를 겪은 후 내각을 개편한 바 있다.)&lt;/p&gt;
+&lt;p&gt;He has replaced individual ministers in scandals over mismanagement and corruption, including a minister of national unity and minister of energy who were implicated by anti-corruption investigators in a kickback scheme.&lt;br/&gt;(그는 관리 부실 및 부패 스캔들로 개별 장관들을 교체해왔으며, 여기에는 반부패 수사관들로부터 리베이트 사건에 연루된 것으로 지목된 국가통일부 장관과 에너지부 장관이 포함된다.)&lt;/p&gt;
+&lt;p&gt;The current political reshuffle comes after a shift in the tide in the war. Ukraine’s strategy of fighting with drones both on the front line and to hit targets deep in Russia is yielding results.&lt;br/&gt;(이번 정치적 개편은 전쟁의 흐름에 변화가 생긴 후에 이루어졌다. 최전선과 러시아 깊숙한 곳의 목표물을 타격하기 위해 드론을 사용하는 우크라이나의 전략이 성과를 내고 있다.)&lt;/p&gt;
+&lt;p&gt;The Russian army is enduring huge casualties from exploding drones. U.S. and Ukrainian officials estimate about 30,000 of its soldiers a month are killed or injured just to maintain a mostly static front line. Russia is making slow gains in the eastern Donbas region but some months has a net loss of territory as Ukraine advances elsewhere.&lt;br/&gt;(러시아군은 폭발 드론으로 인해 막대한 사상자를 입고 있다. 미국과 우크라이나 관리들은 대부분 정체된 최전선을 유지하기 위해 매달 약 3만 명의 병력이 사망하거나 부상을 입는 것으로 추산한다. 러시아는 동부 돈바스 지역에서 더딘 진전을 보이고 있지만, 우크라이나가 다른 곳에서 진격함에 따라 일부 달은 순 영토 손실을 기록하기도 한다.)&lt;/p&gt;
+&lt;p&gt;Ukraine is also mass producing long-range exploding drones that have incapacitated about a quarter of Russia’s oil refining capacity. Ukraine claimed to have struck more than 90 ships in the Sea of Azov in the past week, in what would be a major security lapse for Russia in the sea.&lt;br/&gt;(우크라이나는 또한 러시아 정유 능력의 약 4분의 1을 무력화시킨 장거리 폭발 드론을 대량 생산하고 있다. 우크라이나는 지난 주 아조프해에서 90척 이상의 선박을 타격했다고 주장했는데, 이는 러시아의 해상 보안에 큰 허점을 드러낸 사건이 될 것이다.)&lt;/p&gt;
+&lt;p&gt;Stas Kozliuk contributed reporting from Kyiv, Ukraine.&lt;br/&gt;(스타스 코즐리우크가 우크라이나 키이우에서 취재에 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-ukraine-leadership-01-jzqf/12int-ukraine-leadership-01-jzqf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 05:51:40 +0000</pubDate></item><item><title>How Trump Failed to Secure the Strait of Hormuz in His Iran Deal (트럼프의 이란 협상에서 호르무즈 해협 장악 실패)</title><link>https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/multimedia/12dc-trump-strait-01-ctgl/12dc-trump-strait-01-ctgl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;For two months, under a quiet arrangement with the U.S. Navy, commercial tankers turned off their transponders to avoid detection by Iran as they crossed the perilous Strait of Hormuz to carry oil and gas out to the world.&lt;br/&gt;(두 달 동안, 미 해군과의 조용한 합의 아래 상업 유조선들은 위험한 호르무즈 해협을 건너 세계로 석유와 가스를 운송할 때 이란의 탐지를 피하기 위해 트랜스폰더를 껐다.)&lt;/p&gt;
+&lt;p&gt;The military offered some air cover in case Iran attacked, as naval officers directed the vessels over the radio to hug Oman’s coast, opposite Iran’s shore. That enabled a steady increase in traffic through the strait from May to June, during a tentative cease-fire in the war.&lt;br/&gt;(군대는 이란이 공격할 경우를 대비해 일부 항공 엄호를 제공했고, 해군 장교들은 무전으로 선박들을 이란 해안 반대편인 오만 연안에 밀착하도록 지시했다. 이는 전쟁 중 잠정 휴전 기간 동안 5월에서 6월까지 해협을 통과하는 교통량이 꾸준히 증가할 수 있게 했다.)&lt;/p&gt;
+&lt;p&gt;But a framework deal that President Trump signed with Iran last month helped bring that effort to a fiery end because of its language giving Iran official power in the strait and its vagueness in important phrases.&lt;br/&gt;(하지만 지난달 트럼프 대통령이 이란과 서명한 기본 협정은 해협에서 이란에 공식적인 권력을 부여하는 문구와 중요한 구절에서 모호함 때문에 그 노력을 불길한 종말로 이끌었다.)&lt;/p&gt;
+&lt;p&gt;Mr. Trump celebrated the agreement, reached on June 14, as the reopening of the strait. “Ships of the World, start your engines,” he wrote on social media. “Let the oil flow!”&lt;br/&gt;(트럼프는 6월 14일에 체결된 이 협정을 해협의 재개방으로 환영했다. 그는 소셜 미디어에 "세계의 배들아, 엔진을 켜라. 석유가 흐르게 하라!"고 썼다.)&lt;/p&gt;
+&lt;p&gt;But critics say it actually formalized a reality that Iranian officials have made clear throughout the war: They now control the strait.&lt;br/&gt;(하지만 비평가들은 이것이 이란 관리들이 전쟁 내내 분명히 밝혀온 현실, 즉 이제 그들이 해협을 통제한다는 사실을 공식화했다고 말한다.)&lt;/p&gt;
+&lt;p&gt;IRAN&lt;br/&gt;(이란)&lt;/p&gt;
+&lt;p&gt;Hormuz Island&lt;br/&gt;(호르무즈 섬)&lt;/p&gt;
+&lt;p&gt;Larak Island&lt;br/&gt;(라라크 섬)&lt;/p&gt;
+&lt;p&gt;Qeshm&lt;br/&gt;(케슘)&lt;/p&gt;
+&lt;p&gt;Strait of Hormuz&lt;br/&gt;(호르무즈 해협)&lt;/p&gt;
+&lt;p&gt;Hengam&lt;br/&gt;(헝감)&lt;/p&gt;
+&lt;p&gt;Sirik&lt;br/&gt;(시리크)&lt;/p&gt;
+&lt;p&gt;Greater&lt;br/&gt;(그레이터)&lt;/p&gt;
+&lt;p&gt;Tunb&lt;br/&gt;(툰브)&lt;/p&gt;
+&lt;p&gt;OMAN&lt;br/&gt;(오만)&lt;/p&gt;
+&lt;p&gt;Jask&lt;br/&gt;(자스크)&lt;/p&gt;
+&lt;p&gt;Dubai&lt;br/&gt;(두바이)&lt;/p&gt;
+&lt;p&gt;U.A.E.&lt;br/&gt;(U.A.E.)&lt;/p&gt;
+&lt;p&gt;OMAN&lt;br/&gt;(오만)&lt;/p&gt;
+&lt;p&gt;50 miles&lt;br/&gt;(50마일)&lt;/p&gt;
+&lt;p&gt;IRAN&lt;br/&gt;(이란)&lt;/p&gt;
+&lt;p&gt;Hormuz Island&lt;br/&gt;(호르무즈 섬)&lt;/p&gt;
+&lt;p&gt;Larak Island&lt;br/&gt;(라라크 섬)&lt;/p&gt;
+&lt;p&gt;Qeshm&lt;br/&gt;(케슘)&lt;/p&gt;
+&lt;p&gt;Strait of Hormuz&lt;br/&gt;(호르무즈 해협)&lt;/p&gt;
+&lt;p&gt;Hengam&lt;br/&gt;(헝감)&lt;/p&gt;
+&lt;p&gt;Sirik&lt;br/&gt;(시리크)&lt;/p&gt;
+&lt;p&gt;Greater&lt;br/&gt;(그레이터)&lt;/p&gt;
+&lt;p&gt;Tunb&lt;br/&gt;(툰브)&lt;/p&gt;
+&lt;p&gt;OMAN&lt;br/&gt;(오만)&lt;/p&gt;
+&lt;p&gt;Jask&lt;br/&gt;(자스크)&lt;/p&gt;
+&lt;p&gt;Dubai&lt;br/&gt;(두바이)&lt;/p&gt;
+&lt;p&gt;OMAN&lt;br/&gt;(오만)&lt;/p&gt;
+&lt;p&gt;U.A.E.&lt;br/&gt;(U.A.E.)&lt;/p&gt;
+&lt;p&gt;50 miles&lt;br/&gt;(50마일)&lt;/p&gt;
+&lt;p&gt;The New York Times&lt;br/&gt;(더 뉴욕 타임즈)&lt;/p&gt;
+&lt;p&gt;Iran’s missile and drone attacks on commercial ships in the strait essentially shut it down soon after the United States and Israel started the war. Then weeks after the United States and Iran entered a tentative and informal cease-fire in early April, some tankers began taking a southern route through the strait, farther from Iran’s coast.&lt;br/&gt;(해협을 통과하는 상업 선박에 대한 이란의 미사일과 드론 공격은 미국과 이스라엘이 전쟁을 시작한 직후 사실상 해협을 마비시켰다. 그 후 4월 초 미국과 이란이 잠정적이고 비공식적인 휴전에 들어간 지 몇 주 후, 일부 유조선들은 이란 해안에서 더 먼 해협의 남쪽 경로를 이용하기 시작했다.)&lt;/p&gt;
+&lt;p&gt;Now, by striking last week in that area, Iran is trying to force ships to travel through its territorial waters on the strait’s northern side, where Tehran can try to justify charging tolls or fees.&lt;br/&gt;(이제 지난주 그 지역을 공격함으로써, 이란은 선박들을 해협 북쪽에 있는 자국의 영해를 통해 항해하도록 강요하려 하고 있으며, 테헤란은 그곳에서 통행료나 수수료를 부과하는 것을 정당화하려 할 수 있다.)&lt;/p&gt;
+&lt;p&gt;Iranian units attacked three ships on Tuesday along the southern route, the U.S. military said. Mr. Trump responded by ordering airstrikes in Iran. The tensions escalated in an announcement this weekend by Iran’s Navy that it had fired on another vessel in the strait and was closing the waterway “until the end of U.S. interference in the region.”&lt;br/&gt;(미군은 화요일 이란 부대가 남쪽 경로에서 선박 세 척을 공격했다고 밝혔다. 트럼프는 이에 대응해 이란에 대한 공습을 명령했다. 주말 이란 해군이 해협에서 또 다른 선박에 발포했고 "미국의 지역 내 간섭이 끝날 때까지" 수로를 폐쇄한다고 발표하면서 긴장이 고조되었다.)&lt;/p&gt;
+&lt;p&gt;U.S. Central Command said it hit about 140 Iranian military targets in response, for a total of 310 American strikes over the last week.&lt;br/&gt;(미 중부사령부는 이에 대한 대응으로 약 140개의 이란 군사 표적을 타격했으며, 지난주 동안 총 310회의 미국 타격이 있었다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;With Mr. Trump warning that he thinks the June agreement is “over,” global energy prices are surging again, along with fears of a return to all-out war. Before the war, a fifth of the world’s oil and liquefied natural gas passed through the strait from producers in the Middle East.&lt;br/&gt;(트럼프가 6월 협정이 "끝났다"고 경고함에 따라, 세계 에너지 가격이 다시 급등하고 있으며 전면전 복귀에 대한 두려움도 커지고 있다. 전쟁 전에는 세계 석유와 액화천연가스의 5분의 1이 중동 생산국에서 해협을 통과했다.)&lt;/p&gt;
+&lt;p&gt;The latest crisis is an all-too-predictable result of the June agreement, former American officials and analysts say.&lt;br/&gt;(전직 미국 관리들과 분석가들은 이번 최신 위기가 6월 협정의 너무나 예측 가능한 결과라고 말한다.)&lt;/p&gt;
+&lt;p&gt;Facing anger over high gas prices and spiking inflation, Mr. Trump was eager to reopen the strait and relieve pressure on the global economy. Among other things, he agreed to end a U.S. military blockade of Iranian ports and allow Tehran to resume oil sales for 60 days in return for reopening the strait.&lt;br/&gt;(높은 휘발유 가격과 급등하는 인플레이션에 대한 분노에 직면한 트럼프는 해협을 재개방하고 세계 경제에 대한 압력을 완화하기를 열망했다. 무엇보다도 그는 이란 항구에 대한 미군의 봉쇄를 종료하고 해협 재개방에 대한 대가로 테헤란이 60일 동안 석유 판매를 재개하도록 허용하는 데 동의했다.)&lt;/p&gt;
+&lt;p&gt;The June agreement, called a memorandum of understanding, also prompted additional negotiations aimed at reaching a broader and more enduring peace plan.&lt;br/&gt;(양해각서라고 불리는 6월 협정은 또한 더 광범위하고 지속적인 평화 계획을 목표로 한 추가 협상을 촉발했다.)&lt;/p&gt;
+&lt;p&gt;While many U.S. and foreign officials welcomed the cease-fire, critics warned that the agreement was dangerously vague, particularly language in its fifth paragraph saying that Iran would “make arrangements using its best efforts for the safe passage of commercial vessels” through the Strait of Hormuz.&lt;br/&gt;(많은 미국과 외국 관리들이 휴전을 환영한 반면, 비평가들은 협정이 위험할 정도로 모호하다고 경고했으며, 특히 이란이 호르무즈 해협을 통한 상업 선박의 안전한 통과를 위해 최선의 노력을 다해 준비할 것이라고 명시한 5번째 문단의 언어를 지적했다.)&lt;/p&gt;
+&lt;p&gt;“No one should be surprised that Iran views that as explicitly giving them an enduring role controlling passage through Hormuz,” said Michael Ratney, a retired career diplomat who was the most recent U.S. ambassador to Saudi Arabia.&lt;br/&gt;("아무도 이란이 이를 호르무즈 통행을 통제하는 지속적인 역할을 명시적으로 부여받은 것으로 본다는 사실에 놀라서는 안 됩니다,"라고 최근까지 사우디아라비아 주재 미국 대사였던 은퇴한 외교관 마이클 래트니가 말했다.)&lt;/p&gt;
+&lt;p&gt;“Iran’s control obviously gives them powerful leverage,” he said, “and they appear to be willing to risk a resumption of conflict, perhaps even a collapse of the cease-fire, to maintain that leverage.”&lt;br/&gt;("이란의 통제는 분명히 그들에게 강력한 레버리지를 제공하며," 그는 "그들은 그 레버리지를 유지하기 위해 분쟁 재개, 아마도 휴전 붕괴의 위험을 감수할 의향이 있는 것으로 보입니다."라고 덧붙였다.)&lt;/p&gt;
+&lt;p&gt;At a news conference on June 18, Vice President JD Vance insisted that Mr. Trump’s demands about the strait would be enshrined in a future deal.&lt;br/&gt;(6월 18일 기자회견에서 J.D. 밴스 부통령은 트럼프의 해협에 대한 요구가 미래 협정에 명시될 것이라고 주장했다.)&lt;/p&gt;
+&lt;p&gt;“We have all the cards,” he said.&lt;br/&gt;("우리는 모든 카드를 가지고 있습니다,"라고 그는 말했다.)&lt;/p&gt;
+&lt;p&gt;The competition for control of the strait poses a dilemma for shipping companies: Should they pass through the Strait of Hormuz via the southern corridor closer to Oman and risk being attacked by Iran? Or should they take the northern Iranian corridor, paying high fees and reinforcing Tehran’s claims of authority?&lt;br/&gt;(해협 통제 경쟁은 해운 회사들에게 딜레마를 제기한다: 오만에 더 가까운 남쪽 회랑을 통해 호르무즈 해협을 통과하고 이란의 공격을 받을 위험을 감수할 것인가? 아니면 북쪽 이란 회랑을 이용하여 높은 수수료를 지불하고 테헤란의 권위 주장을 강화할 것인가?)&lt;/p&gt;
+&lt;p&gt;For almost 60 years, commercial ships sailed through the Strait of Hormuz along a route established by the United Nations.&lt;br/&gt;(거의 60년 동안, 상업 선박들은 유엔이 정한 경로를 따라 호르무즈 해협을 항해했다.)&lt;/p&gt;
+&lt;p&gt;Iran’s government supported the creation of the route in 1968 and did not try to control it even though it passed through Iranian territorial waters.&lt;br/&gt;(이란 정부는 1968년 경로 설정을 지지했으며, 그것이 이란 영해를 통과했음에도 불구하고 통제하려 하지 않았다.)&lt;/p&gt;
+&lt;p&gt;The leaders who took power in Iran during the 1979 Islamic Revolution said they were not bound by that U.N. agreement, though over the years the government has only occasionally challenged shipping in the strait.&lt;br/&gt;(1979년 이슬람 혁명 동안 이란에서 권력을 잡은 지도자들은 그 유엔 협정에 구속되지 않는다고 말했지만, 수년에 걸쳐 정부는 가끔씩만 해협에서의 선박 운항에 도전했다.)&lt;/p&gt;
+&lt;p&gt;That changed after U.S. and Israeli forces attacked Iran on Feb. 28.&lt;br/&gt;(이는 2월 28일 미국과 이스라엘 군대가 이란을 공격한 후 바뀌었다.)&lt;/p&gt;
+&lt;p&gt;Iran’s military quickly began striking commercial ships and laying mines, grinding traffic to a halt. Only those willing to pay large sums to Iran were granted safe passage along its coast.&lt;br/&gt;(이란 군대는 신속하게 상업 선박을 공격하고 지뢰를 부설하기 시작하여 교통을 마비시켰다. 이란에 큰 금액을 지불할 의향이 있는 선박만이 이란 해안을 따라 안전한 통행을 허가받았다.)&lt;/p&gt;
+&lt;p&gt;Critics say that Mr. Trump conceded this new status quo in the June agreement with Tehran. At the insistence of Iranian negotiators, that 14-point document acknowledges Iran’s power in the strait.&lt;br/&gt;(비평가들은 트럼프가 6월 협정에서 테헤란에 이 새로운 현상 유지를 양보했다고 말한다. 이란 협상가들의 주장에 따라, 14개 조항으로 구성된 이 문서는 해협에서 이란의 권력을 인정한다.)&lt;/p&gt;
+&lt;p&gt;It prohibits the charging of tolls or fees, but only for 60 days while negotiations toward another agreement continues. (Mr. Trump has said the United States could try to charge tolls.) The memorandum also does not include an ironclad guarantee that ships can safely sail any portion of the strait.&lt;br/&gt;(그것은 통행료나 수수료 부과를 금지하지만, 다른 협정을 위한 협상이 계속되는 동안 60일 동안만 유효하다. (트럼프는 미국이 통행료를 부과하려 할 수 있다고 말했다.) 양해각서는 또한 선박이 해협의 어떤 부분이든 안전하게 항해할 수 있다는 철통 같은 보장을 포함하지 않는다.)&lt;/p&gt;
+&lt;p&gt;Iranian officials and diplomatic experts say the final line formally ceded to Iran a central role in managing the strait: “The Islamic Republic of Iran will conduct dialogue with the Sultanate of Oman to define the future administration and maritime services in the Strait of Hormuz, in discussion with other Persian Gulf littoral states, in line with the applicable international law and the sovereign rights of coastal states of the Strait of Hormuz.”&lt;br/&gt;(이란 관리들과 외교 전문가들은 마지막 줄이 공식적으로 해협 관리에서 이란에 중앙 역할을 양도했다고 말한다: "이슬람 공화국 이란은 오만 술탄국과 대화를 통해 호르무즈 해협의 미래 행정 및 해상 서비스를 정의할 것이며, 호르무즈 해협 연안 국가들의 관련 국제법 및 주권적 권리에 부합하여 다른 페르시아만 연안 국가들과 논의할 것이다.")&lt;/p&gt;
+&lt;p&gt;At the time, Mr. Trump praised the agreement as a return to free navigation through the strait. But Iranian officials were soon citing it as grounds for dictating where ships should sail — namely, along a route near Iran’s coastline.&lt;br/&gt;(당시 트럼프는 이 협정을 해협을 통한 자유 항해의 복귀로 칭송했다. 그러나 이란 관리들은 곧 이를 선박이 항해해야 할 곳, 즉 이란 해안선 근처 경로를 지시하는 근거로 인용했다.)&lt;/p&gt;
+&lt;p&gt;Dennis Ross, a former longtime Middle East negotiator for presidents of both parties, said Iran’s view of the agreement was clear.&lt;br/&gt;(두 정당의 대통령들을 위해 오랫동안 중동 협상가로 활동한 데니스 로스는 협정에 대한 이란의 견해가 분명하다고 말했다.)&lt;/p&gt;
+&lt;p&gt;“You were opening the strait — but only on the condition that Iran was completely in control and that any other routes are not acceptable,” Mr. Ross said.&lt;br/&gt;("당신은 해협을 열고 있었습니다 – 하지만 이란이 완전히 통제하고 다른 경로는 허용되지 않는다는 조건 아래에서만," 로스는 말했다.)&lt;/p&gt;
+&lt;p&gt;Hussein Ibish, a scholar at the Arab Gulf States Institute, a research and advocacy group, said “all of international law goes in one direction, and the M.O.U. goes in the other direction.”&lt;br/&gt;(연구 및 옹호 단체인 아랍 걸프 국가 연구소의 학자 후세인 이비시는 "모든 국제법은 한 방향으로 가고, 양해각서는 다른 방향으로 간다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;Asked for comment, the White House referred to a Friday phone briefing that it had arranged for reporters on the condition that the U.S. officials speaking not be named. An American official involved in the negotiations said that Iran knew during the talks that ships were using a route near the Oman coast and had even fired drones at some of them. That meant when Iran agreed to make “best efforts” for safe passage, it would not launch attacks there, the official said.&lt;br/&gt;(논평을 요청받자, 백악관은 금요일에 언론인들을 위해 마련한 전화 브리핑을 언급했으며, 이 브리핑은 말하는 미국 관리들의 이름이 공개되지 않는다는 조건으로 진행되었다. 협상에 관여한 한 미국 관리는 이란이 회담 중에 선박들이 오만 해안 근처 경로를 사용하고 있었고 심지어 그들 중 일부에 드론을 발사했다는 것을 알고 있었다고 말했다. 이는 이란이 안전 통과를 위해 '최선의 노력'을 다하는 데 동의했을 때 그곳에서 공격을 시작하지 않을 것임을 의미한다고 그 관리는 말했다.)&lt;/p&gt;
+&lt;p&gt;Iranian negotiators knew they had leverage over the Americans as they discussed the proposed agreement in the early summer.&lt;br/&gt;(이란 협상가들은 초여름에 제안된 협정을 논의할 때 미국인들에 대한 레버리지를 알고 있었다.)&lt;/p&gt;
+&lt;p&gt;On May 4, the American military started an operation called Project Freedom to begin opening the strait by escorting stranded commercial ships.&lt;br/&gt;(5월 4일, 미군은 '프로젝트 프리덤'이라는 작전을 시작하여 좌초된 상업 선박들을 호위함으로써 해협을 열기 시작했다.)&lt;/p&gt;
+&lt;p&gt;Mr. Trump abandoned the effort in less than 48 hours after the crown prince of Saudi Arabia, fearing Iranian retaliation, refused to allow the Americans to use Saudi airspace for the venture.&lt;br/&gt;(트럼프는 사우디아라비아 왕세자가 이란의 보복을 우려하여 미국인들이 그 사업을 위해 사우디 영공을 사용하는 것을 거부한 후 48시간도 채 안 되어 그 노력을 포기했다.)&lt;/p&gt;
+&lt;p&gt;The Pentagon then tried a more subtle effort mainly involving radio guidance.&lt;br/&gt;(그 후 국방부는 주로 무선 유도와 관련된 더 미묘한 노력을 시도했다.)&lt;/p&gt;
+&lt;p&gt;Since early May, U.S. forces have given route guidance along Oman to more than 800 commercial vessels carrying 400 million barrels of crude oil, said Capt. Tim Hawkins, a spokesman for U.S. Central Command, which oversees the American military in the Middle East.&lt;br/&gt;(5월 초부터 미군은 중동에서 미군을 감독하는 미 중부사령부의 대변인 팀 호킨스 대령에 따르면 4억 배럴의 원유를 운반하는 800척 이상의 상업 선박에 오만을 따른 경로 안내를 제공했다.)&lt;/p&gt;
+&lt;p&gt;The ships followed a route designated by the International Maritime Organization, a London-based arm of the United Nations that regulates global shipping. The organization established the route in consultation with Oman to try to evacuate some 600 long-stranded vessels.&lt;br/&gt;(선박들은 세계 해운을 규제하는 유엔의 런던 기구인 국제해사기구가 지정한 경로를 따랐다. 이 기구는 약 600척의 장기 좌초 선박을 대피시키기 위해 오만과 협의하여 경로를 설정했다.)&lt;/p&gt;
+&lt;p&gt;An informal cease-fire turned into a formal one with the signing of the June agreement. In the seven days starting June 20, nearly 400 ships transited the strait, according to Kpler, a maritime data firm. That was the highest number in a one-week period since the war began.&lt;br/&gt;(비공식 휴전은 6월 협정 서명으로 공식 휴전으로 바뀌었다. 6월 20일부터 시작된 7일 동안 해상 데이터 회사 Kpler에 따르면 거의 400척의 선박이 해협을 통과했다. 이는 전쟁이 시작된 이후 일주일 동안 가장 높은 수치였다.)&lt;/p&gt;
+&lt;p&gt;But on Thursday, after Iran’s attacks, just 22 ships went through the strait.&lt;br/&gt;(하지만 목요일, 이란의 공격 이후 단 22척의 선박만이 해협을 통과했다.)&lt;/p&gt;
+&lt;p&gt;More than a dozen U.S. Navy warships, including two aircraft carriers, and scores of carrier- and land-based attack and surveillance planes are still operating in the general area of the Arabian Sea. The U.S. military is also conducting mine-detection missions in the strait using autonomous sea craft.&lt;br/&gt;(두 대의 항공모함을 포함한 12척 이상의 미 해군 전함과 수십 대의 항공모함 및 지상 기반 공격 및 정찰기가 여전히 아라비아해 일반 지역에서 작전 중이다. 미군은 또한 자율 해상 선박을 사용하여 해협에서 기뢰 탐지 임무를 수행하고 있다.)&lt;/p&gt;
+&lt;p&gt;“U.S. forces have held Iran accountable for its unwarranted aggression toward commercial shipping while still facilitating passage through the strait,” Captain Hawkins said.&lt;br/&gt;("미군은 해협을 통한 통행을 여전히 용이하게 하면서 상업 선박에 대한 이란의 부당한 공격에 대해 이란에 책임을 물었습니다," 호킨스 대령이 말했다.)&lt;/p&gt;
+&lt;p&gt;However, he added, there is “no guarantee” that American military guidance will protect commercial ships transiting the strait.&lt;br/&gt;(그러나 그는 미군의 안내가 해협을 통과하는 상업 선박을 보호할 것이라는 "보장은 없다"고 덧붙였다.)&lt;/p&gt;
+&lt;p&gt;During the height of the war, some shipping operators chose to sail closer to Iran — and rely on the Iranian military’s guarantee of safe passage. Iran told them they would have to pay up to $2 million per ship.&lt;br/&gt;(전쟁이 절정에 달했을 때, 일부 해운 운영자들은 이란에 더 가까이 항해하고 이란 군대의 안전 통과 보장에 의존하기로 선택했다. 이란은 그들에게 선박당 최대 200만 달러를 지불해야 한다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Iran has said that any ships transiting the strait must follow that route, and get permission to do so from the Persian Gulf Strait Authority, a body Tehran created in May.&lt;br/&gt;(이란은 해협을 통과하는 모든 선박이 그 경로를 따라야 하며, 테헤란이 5월에 만든 '페르시아만 해협 당국'의 허가를 받아야 한다고 말해왔다.)&lt;/p&gt;
+&lt;p&gt;Until it paused the practice under the terms of the June cease-fire, Iran insisted that the fees were for safety and environmental services. Some experts call that a contrived attempt by Iran to appear compliant with the United Nations Convention on the Law of the Sea, which allows such fees under specific conditions.&lt;br/&gt;(6월 휴전 조건에 따라 그 관행을 일시 중단할 때까지, 이란은 수수료가 안전 및 환경 서비스를 위한 것이라고 주장했다. 일부 전문가들은 이것이 특정 조건에서 그러한 수수료를 허용하는 유엔 해양법 협약을 준수하는 것처럼 보이려는 이란의 인위적인 시도라고 부른다.)&lt;/p&gt;
+&lt;p&gt;In fact, they say, Iran is actually establishing de facto tolls, which the convention outlaws. Iran signed but never ratified the convention, so it says the terms do not apply to it. The United States also has never ratified the convention.&lt;br/&gt;(실제로, 그들은 이란이 사실상 협약이 불법으로 규정하는 사실상의 통행료를 설정하고 있다고 말한다. 이란은 협약에 서명했지만 비준하지 않았으므로 그 조항이 자신에게 적용되지 않는다고 말한다. 미국도 협약을 비준한 적이 없다.)&lt;/p&gt;
+&lt;p&gt;The United States and some other countries rejected Iran’s demand that ships use that northern route, and in response, the U.S. military established the southern route in May along Oman’s coast.&lt;br/&gt;(미국과 일부 다른 국가들은 선박이 그 북쪽 경로를 사용해야 한다는 이란의 요구를 거부했고, 이에 대한 응답으로 미군은 5월에 오만 해안을 따라 남쪽 경로를 설정했다.)&lt;/p&gt;
+&lt;p&gt;After signing the agreement last month with Iran, Mr. Trump declared that the route was “totally safe, secure, and pristine.”&lt;br/&gt;(지난달 이란과 협정을 체결한 후, 트럼프는 그 경로가 "완전히 안전하고, 확보되었으며, 깨끗하다"고 선언했다.)&lt;/p&gt;
+&lt;p&gt;But as Iran and the United States vie for leverage, mainly using their militaries, risks to shipping companies could increase, said Dan Alamariu, the chief geopolitical strategist at Alpine Macro, an investment research firm.&lt;br/&gt;(그러나 이란과 미국이 주로 군대를 사용하여 레버리지를 놓고 경쟁함에 따라, 해운 회사에 대한 위험이 증가할 수 있다고 투자 리서치 회사인 Alpine Macro의 수석 지리정치 전략가 Dan Alamariu가 말했다.)&lt;/p&gt;
+&lt;p&gt;Iran has suffered economic pain but may be willing to endure more. Mr. Trump last week reinstated a U.S. ban on Iranian oil sales that he temporarily waived last month. But he has yet to reimpose a naval blockade of Iran’s ports.&lt;br/&gt;(이란은 경제적 고통을 겪었지만 더 많은 것을 견딜 의향이 있을 수 있다. 트럼프는 지난주 지난달 일시적으로 면제했던 이란 석유 판매에 대한 미국의 금지를 다시 시행했다. 그러나 그는 아직 이란 항구에 대한 해군 봉쇄를 재개하지 않았다.)&lt;/p&gt;
+&lt;p&gt;Mr. Alamariu said, “the question is which cracks first: the Iranian economy or the global economy?”&lt;br/&gt;(Alamariu는 "문제는 무엇이 먼저 무너지는가입니다: 이란 경제인가, 세계 경제인가?"라고 말했다.)&lt;/p&gt;
+&lt;p&gt;Reporting was contributed by David E. Sanger from Washington, Farnaz Fassihi and Peter Eavis from New York, and Jenny Gross from London.&lt;br/&gt;(보도에는 워싱턴의 David E. Sanger, 뉴욕의 Farnaz Fassihi와 Peter Eavis, 런던의 Jenny Gross가 기여했습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/12/multimedia/12dc-trump-strait-01-ctgl/12dc-trump-strait-01-ctgl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 07:43:37 +0000</pubDate></item><item><title>Lindsey Graham Championed Israel, Even as Wars Eroded American Support (린지 그레이엄, 전쟁이 미국의 지지를 약화시켜도 이스라엘을 지지하다)</title><link>https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-live-graham-israel-01-kjlh/12mideast-live-graham-israel-01-kjlh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Even as the wars in Gaza and Iran eroded American support for Israel, Lindsey Graham remained one of the country’s staunchest allies in Washington.&lt;br/&gt;(가자와 이란에서의 전쟁이 미국 내 이스라엘 지지를 약화시키는 와중에도, 린지 그레이엄은 워싱턴에서 이스라엘의 가장 강력한 동맹 중 하나로 남았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2월 말에 시작된 미국-이스라엘 합동 이란 전쟁을 위해 워싱턴에서 두드러진 로비스트 역할을 했던 사우스캐롤라이나 출신의 공화당 상원의원 그레이엄은 토요일에 사망했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+최근 몇 년간, 그레이엄의 개입주의적 외교 정책 견해는 미국의 글로벌 얽힘에 더 의심을 품게 된 공화당 내 일부와 마찰을 빚었다. 그러나 이러한 견해는 이스라엘에서 찬사를 받았으며, 그곳에서 그레이엄은 국가의 심화되는 국제적 고립 속에서 확고한 지지자로 기념되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+일요일, 베냐민 네타냐후 이스라엘 총리는 그레이엄을 "이스라엘의 위대한 친구"이자 "이스라엘과 미국의 안보는 분리될 수 없다는 것을 이해한" 인물이라고 불렀다. 이란 전쟁 직전 몇 주 동안, 그레이엄은 이 문제를 논의하기 위해 네타냐후를 만나기 위해 적어도 두 번 이스라엘을 방문했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"이스라엘은 가장 위대한 친구 중 하나를 잃었습니다. 미국은 위대한 애국자를 잃었습니다. 저는 사랑하는 친구를 잃었습니다."라고 네타냐후는 성명에서 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+네타냐후의 반대자들 중 몇몇은 올해 말 총선에서 그와 맞서는 인물들을 포함해, 상원의원을 애도하는 데 동참했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+최근 네타냐후 축출 캠페인에서 선두 주자로 부상한 이스라엘 전 참모총장 가디 아이젠코트는 그레이엄을 "이스라엘과 유대인이 알고 있는 가장 위대한 친구 중 한 명"이라고 불렀다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그의 지칠 줄 모르는 노력은 미국-이스라엘 동맹을 더 강하게 만들고, 중동을 더 안전하게 하며, 세계를 더 안보하게 만들었습니다."라고 아이젠코트는 성명에서 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+미국 상원의원으로서, 그레이엄은 비정상적으로 중동에 집중했으며, 이집트의 압델 파타 엘시시 대통령과 사우디아라비아의 실질적 통치자 왕세자 무함마드 빈 살만을 포함한 지도자들을 만나기 위해 자주 이 지역을 방문했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그레이엄의 주요 외교 정책 목표 중 하나는 이스라엘과 사우디아라비아의 관계를 정상화하기 위한 미국 지원 합의를 중개하는 것이었으며, 때때로 사우디 수도 리야드와 예루살렘 사이를 오갔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2023년 10월 7일 하마스 주도의 이스라엘 공격이 가자 전쟁을 촉발하기 전, 조셉 R. 바이든 주니어 대통령의 팀은 몇 달 동안 관계 정상화를 위해 노력했다. 사우디 정부가 동의하게 된 인센티브 중 하나는 미국과의 방위 조약이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 조약은 상원의 승인이 필요했을 것이다. 그레이엄은 공화당 상원의원들이 조약 협정에 찬성 투표하도록 설득하는 것을 목표로 했으며, 비록 그것이 민주당 행정부에 외교적 승리를 안겨주었을지라도 그랬다고 바이든 대통령 시절 이스라엘의 워싱턴 주재 대사를 지낸 마이크 헤르초그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"아이디어는 바이든이 민주당원들을 데려오고 린지가 공화당원들을 데려오는 것이었습니다."라고 연구 그룹인 워싱턴 근동 정책 연구소의 펠로우인 헤르초그는 말했다. "그는 이스라엘-사우디 문제에 매우 헌신적이었고, 그것이 미국에도 좋다고 믿었습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+이스라엘의 가자에서 하마스에 대한 군사 캠페인이 수만 명의 팔레스타인인을 사망에 이르게 하고 국제적 비난을 촉발한 후, 미국과 이스라엘의 사우디아라비아와의 합의에 대한 희망은 대부분 사라졌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+전쟁은 미국 내 여론의 급격한 변화를 악화시켜, 오랜 초당적 이스라엘 정부 지지를 약화시켰다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"이스라엘의 이미지는 미국 전반에서 악화되고 있으며, 공화당원과 민주당원 모두에게서 그렇습니다. 그러나 린지는 그의 지지에서 매우 확고하게 남아 있었으며, 미국-이스라엘 동맹을 위한 가장 두드러진 목소리 중 하나였습니다."라고 헤르초그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+일부 정부와 관련된 이란 언론은 그레이엄의 죽음을 축하하는 듯 보였다. 이란의 강력한 이슬람 혁명 수비대와 가까운 매체 타스님은 그가 "뱀과 개미의 먹이가 되었다"고 말했지만, 이슬람 공화국은 여전히 서 있다고 전했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+사남 마후지와 히도 아부 라반이 취재에 기여했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-live-graham-israel-01-kjlh/12mideast-live-graham-israel-01-kjlh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 10:42:08 +0000</pubDate></item><item><title>Sheikh Hamad bin Khalifa, Ruler Who Transformed Qatar, Dies at 74 (카타르를 변화시킨 군주, 셰이크 하마드 빈 칼리파 74세로 별세)</title><link>https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/world/12int-qatar-obit-sub-01/12int-qatar-obit-sub-01-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Sheikh Hamad bin Khalifa Al Thani, the former monarch who oversaw Qatar’s transformation from a little-known desert peninsula in the Persian Gulf into a country with vast wealth and global influence, died on Sunday. He was 74.&lt;br/&gt;(페르시아만의 잘 알려지지 않은 사막 반도에서 막대한 부와 세계적 영향력을 지닌 국가로 카타르의 변신을 이끈 전 군주 셰이크 하마드 빈 칼리파 알타니가 일요일 별세했다. 향년 74세였다.)&lt;/p&gt;
+&lt;p&gt;His death was announced by the Qatari royal court, which did not specify the cause. The court declared a public mourning period of four days.&lt;br/&gt;(카타르 왕실 법원이 그의 사망을 발표했으며, 사인은 밝히지 않았다. 법원은 4일간의 공식 애도 기간을 선포했다.)&lt;/p&gt;
+&lt;p&gt;Sheikh Hamad is often described as the founding father of modern Qatar.&lt;br/&gt;(셰이크 하마드는 종종 현대 카타르의 건국 아버지로 묘사된다.)&lt;/p&gt;
+&lt;p&gt;When he overthrew his father in a bloodless coup in 1995, Qatar was rich in natural gas but largely subordinate to neighboring Saudi Arabia. Sheikh Hamad helped turn the tiny country into a more independently minded state with political and financial influence far greater than its size, before handing over power to his son, the current emir, in 2013.&lt;br/&gt;(1995년 무혈 쿠데타로 아버지를 축출했을 당시 카타르는 천연가스가 풍부했지만 대체로 이웃 사우디아라비아에 예속되어 있었다. 셰이크 하마드는 이 작은 나라를 자국의 규모를 훨씬 뛰어넘는 정치·재정적 영향력을 가진, 더 독립적인 사고를 지닌 국가로 탈바꿈시키는 데 기여했으며, 2013년 아들인 현 국왕에게 권력을 넘겼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+재임 기간 동안 국가의 국내총생산(GDP)은 천연가스 수출 산업 개발을 위한 막대한 투자에 힘입어 24배 증가했다. 카타르는 알자지라 뉴스 네트워크를 설립하고 현재 약 6000억 달러의 자산을 관리하는 국부펀드도 조성했다. 또한 뇌물 의혹으로 얼룩진 유치전 끝에 2022년 남자 축구 월드컵 개최권을 따냈다.
+&lt;&lt;&lt;PARA&gt;&gt;
+더 최근에는 아들 셰이크 타밈 빈 하마드의 통치 아래에서 카타르는 일련의 전쟁들 사이에서 중재자로서의 명성을 쌓아왔다. 카타르 관료들은 서방 국가들과 이란, 팔레스타인 무장단체 하마스, 아프가니스탄 탈레반 사이의 외교를 촉진해왔다. 카타르는 미국과 이란 간의 현재 전쟁을 종식시키려는 노력에서 중재자 중 하나였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+카타르 수도 도하에서 1952년에 태어난 셰이크 하마드는 영국 샌드허스트 왕립 육군사관학교에서 공부한 후 카타르로 돌아와 군에 합류했다고 왕실 법원 전기가 전한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 일찍부터 권력을 위해 길러졌다. 카타르는 타니 가문이 세습 통치하는 권위주의 군주국이다. 셰이크 하마드의 아버지인 셰이크 칼리파 빈 하마드는 1972년 친척을 축출하고 국왕이 되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+1977년, 셰이크 하마드는 카타르의 왕세자로 임명되었다. 같은 10년 동안 풍부한 천연가스 매장량이 발견되어, 오늘날 약 40만 명에 불과한 소수 시민 인구를 가진 이 나라는 막대한 부를 향해 나아가게 되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+당시 분석가와 외교관들은 국왕 셰이크 칼리파를 사우디아라비아와 같은 지역 강대국에 순응적인 인물로 묘사했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+1995년, 셰이크 하마드는 아버지가 해외에 있는 동안 궁정 쿠데타를 일으켜 권력을 장악했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"일어난 일이 유쾌하지는 않지만, 해야만 했고 내가 해야 했다"고 당시 셰이크 하마드는 텔레비전 연설에서 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그의 통치는 국경 너머까지 카타르를 더 잘 알리고 영향력을 행사하게 하려는 야심찬 시도로 정의되었다. 미국은 곧 카타르에 주요 군사 기지를 구축했고, 셰이크 하마드는 아버지보다 이란과 이스라엘 모두와 더 긴밀한 관계를 추구했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+결국 카타르는 중동 전역의 사건을 적극적으로 형성하는 주체가 되어, 시리아 내전에서 반정부 반군을 지원하고 도하에 하마스와 탈레반의 정치 지도부를 초청했다. 또한 다른 아랍 군주국들보다 정치적 이슬람에 더 우호적이라는 평판을 얻었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+1996년, 셰이크 하마드는 알자지라 설립을 주도했다. 이 방송국은 중동의 다른 권위주의 정부들에게는 당혹감을 안겼는데, 해당 지역에 대해 더 개방적이고 비판적인 보도를 허용했기 때문이다(물론 카타르 자체에 대해서는 덜했지만).
+&lt;&lt;&lt;PARA&gt;&gt;
+1997년 《뉴욕타임스》와의 인터뷰에서 셰이크 하마드는 다른 정부들이 "국민과의 소통 부족"으로 스스로 불안을 자초했다고 시사하며, 카타르 지도자들이 국가 재산을 약탈하는 것을 막겠다고 약속했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"지도자들이 경찰과 정보 기관을 통해 국민 통제에 집중한다면, 그 결과는 국가 전체에 좋지 않을 것입니다"라고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+카타르는 이웃 국가들보다 약간 더 큰 표현의 자유를 허용한다. 중동 전역에 파문을 일으킨 아랍의 봄 혁명은 바레인과 사우디아라비아 동부를 흔들었지만, 잘 정돈된 도하의 거리까지는 번지지 않았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+카타르는 여전히 제한된 권한을 가진 자문 입법부를 둔 절대 군주국이다. 왕실은 여전히 화려한 부를 누리고 있으며, 정부와 기업 이익 사이의 경계는 종종 모호하다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2011년, 정부는 셰이크들이 비디오 게임을 한다는 내용을 포함해 왕실을 조롱하는 시를 쓴 시인을 기소했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2013년, 셰이크 하마드는 국가 및 지역의 관례를 깨고 자발적으로 아들 셰이크 타밈에게 권력을 양위했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"저희 민족의 역사에서 새로운 장을 열 때가 왔습니다. 새로운 세대가 그들의 역동적인 잠재력과 창의적인 생각으로 책임을 짊어지고 나아가는 때입니다"라고 당시 셰이크 하마드는 연설에서 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+셰이크 하마드는 세 명의 아내를 두었다. 이슬람법은 남성이 최대 네 명까지 동시에 아내를 두는 것을 허용하며, 걸프 왕조에서는 여러 번의 결혼을 통해 가족 및 정치적 유대를 공고히 하는 것이 일반적이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그는 현 국왕과 여러 다른 자녀들, 그리고 그의 아내 중 한 명인 셰이카 모자 빈트 나세르를 남겼다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/12/world/12int-qatar-obit-sub-01/12int-qatar-obit-sub-01-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 13 Jul 2026 08:36:40 +0000</pubDate></item><item><title>Venezuela’s Post-Quake Politics (베네수엘라의 지진 후 정치)</title><link>https://www.nytimes.com/2026/07/12/world/venezuela-earthquake-iran.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/13/multimedia/13int-theworld-asia-nl-ptqj/13int-theworld-asia-nl-ptqj-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The level of U.S. involvement in Venezuela since American forces captured its former president this year is remarkable. Secretary of State Marco Rubio has become a “de facto viceroy,” my colleagues report in a revealing story published this weekend. Through a steady stream of WhatsApp messages with its new president, Rubio controls Venezuela’s export revenues and decides how that money should be spent, who should be allowed to do business in the country and who should hold important offices.&lt;br/&gt;(올해 미군이 베네수엘라 전 대통령을 체포한 이후 미국의 베네수엘라 개입 수준은 놀랍습니다. 동료 기자들이 이번 주말에 공개한 폭로성 기사에 따르면, 마르코 루비오 국무장관은 '사실상의 총독'이 되었습니다. 루비오는 새 대통령과의 꾸준한 왓츠앱 메시지 교환을 통해 베네수엘라의 수출 수익을 통제하고, 그 돈을 어떻게 써야 하는지, 누가 베네수엘라에서 사업을 할 수 있는지, 누가 중요한 직위를 맡아야 하는지를 결정합니다.
 &lt;&lt;&lt;PARA&gt;&gt;
 외국 정부에 대한 그런 권위는, 말하자면 특이합니다. 하지만 그것은 미국에도 큰 위험을 수반합니다. 그 위험은 지난달 두 차례의 파괴적인 지진 이후 더욱 커졌습니다. 미국이 깊은 반감을 사고 있으며, 무능하다고 널리 비판받는 재난 대응으로 이미 제한적인 신뢰를 급속히 잃어가고 있는 선출되지 않은 정부와 얽히고 있기 때문입니다. 오늘 저는 베네수엘라에서 폭발적인 지진 후 정치에 대해 씁니다.
@@ -678,334 +945,7 @@ OPPE 26과 같은 건물은 단순한 사회주택이 아니었습니다. 동료
 &lt;p&gt;Mr. Chadchart said that, based on plastic chairs and tables in the venue that were still intact after the fire, it seemed the flames spread quickly along the ceiling. He did not state a cause for the fire, saying that a forensic investigation was underway.&lt;br/&gt;(차드차트 씨는 화재 후에도 그대로 남아 있던 업소의 플라스틱 의자와 테이블을 볼 때, 불길이 천장을 따라 빠르게 퍼진 것으로 보인다고 말했다. 그는 화재 원인을 밝히지 않으며, 법의학 조사가 진행 중이라고 전했다.)&lt;/p&gt;
 &lt;p&gt;The fire, which spread quickly and filled the room, limiting visibility, according to witnesses, was extinguished in less than an hour, local news media reported. About 18 people with injuries were taken to nearby hospitals.&lt;br/&gt;(목격자들에 따르면 불길은 빠르게 퍼져 실내를 가득 채워 시야를 제한했으며, 현지 언론 보도에 의하면 1시간 이내에 진화됐다. 약 18명의 부상자가 인근 병원으로 이송됐다.)&lt;/p&gt;
 &lt;p&gt;This is a developing story.&lt;br/&gt;(이 소식은 계속해서 업데이트되고 있다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-thailand-fire-qkcp/12int-thailand-fire-qkcp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 13 Jul 2026 08:38:50 +0000</pubDate></item><item><title>Inside Herat, Where a Taliban Campaign Targets a Cosmopolitan Outpost (헤라트 내부: 탈레반의 캠페인이 세계적인 거점을 겨냥하다)</title><link>https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/08/multimedia/08int-herat-crackdown-mhpz/08int-herat-crackdown-mhpz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Province by province, the Taliban government’s leader, Sheikh Haibatullah Akhundzada, has tightened his grip over Afghanistan. With a recent show of force in the western city of Herat, he has asserted control over one of the last havens where people had still been able to quietly ignore some of the Taliban’s restrictions.&lt;br/&gt;(탈레반 정부의 지도자 셰이크 하이바툴라 아쿤자다는 주 단위로 아프가니스탄에 대한 통제를 강화하고 있다. 최근 서부 도시 헤라트에서의 무력 시위를 통해, 그는 사람들이 탈레반의 일부 규제를 조용히 무시할 수 있었던 마지막 안식처 중 하나에 대한 통제권을 주장했다.)&lt;/p&gt;
-&lt;p&gt;Sheikh Akhundzada’s morality police have arrested dozens of women over the last few weeks for clothing deemed inappropriate, and men for beards they judged too short, as part of a campaign of policing dress codes, religious practices and other rules about daily life. The orders have been more strictly enforced in cities like Herat or Mazar-i-Sharif in the north, where the Taliban has less support than in the conservative south.&lt;br/&gt;(셰이크 아쿤자다의 도덕 경찰은 최근 몇 주 동안 부적절한 옷차림을 한 여성 수십 명과 너무 짧다고 판단한 수염을 기른 남성들을 체포했으며, 이는 복장 규정, 종교 관행 및 일상 생활의 기타 규칙을 단속하는 캠페인의 일환이다. 이 명령은 보수적인 남부보다 탈레반의 지지가 약한 헤라트나 북부의 마자르이샤리프 같은 도시에서 더 엄격하게 시행되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-6월에 헤라트를 방문했을 때, 많은 여성들은 체포의 물결에 휩쓸릴까 두려워 집을 떠나는 것을 피한다고 말했다. 일부 사람들은 드문 공개 저항 행동으로 항의하기도 했지만, 탈레반은 그들 역시 강력히 진압했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그들은 바이러스처럼 공포를 퍼뜨리고 있다"고 30대 헤라트 주민 헝가메가 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀와 헤라트에서 인터뷰한 20여 명의 다른 주민들, 종교 지도자들, 인권 운동가들, 교사들 대부분은 탈레반의 보복이 두려워 이름만 밝히거나 익명을 요구했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그들은 아프가니스탄에서 가장 국제화된 도시 중 하나의 광범위한 지역에 내려앉은 강렬한 새로운 공포와 위협의 분위기를 묘사했다. 헤라트의 여성과 소녀들은 학교, 대부분의 직업, 여행에 대한 접근에 있어 다른 지역의 여성들과 동일한 제약에 직면해 있다. 그러나 최근까지도 그들은 도시의 일부 지역에서 아프가니스탄의 다른 지역보다 약간 더 큰 이동의 자유와 느슨한 옷차림 규칙을 누리고 있었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-탈레반 정부는 이미 대부분의 반대 목소리를 침묵시켰다. 그러나 비평가들은 그것이 아프가니스탄의 다양한 사회를 격변의 지점까지 압박할 수 있다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"왜 그들은 매일 종교적 압력을 강화하는가?" 주요 시아파 성직자인 아야톨라 골람 압바스 와에지 자데가 5월 연설에서 말했다. "압력이 너무 높아지면, 불가피하게 폭발이 일어날 것이다."
-&lt;&lt;&lt;PARA&gt;&gt;
-아프가니스탄의 세 번째로 큰 도시이자 많은 시아파 무슬림 인구가 거주하는 헤라트는 결코 탈레반의 거점이 아니었다. 탈레반이 수니파 무슬림이기 때문이다. 1990년대 탈레반의 첫 통치로 이어진 내전 동안 헤라트는 그룹의 가장 강력한 적수들의 본거지였다. 그리고 2021년 8월 그룹에 함락된 마지막 도시 중 하나였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난 여름과 3월에 도시를 방문한 이전 여행에서, 나는 머리카락이 살짝 보이는 느슨한 머리 스카프를 착용한 여학생들과 청바지나 화려한 숄을 입은 많은 여성들을 보았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-제브라일이라는 한 동네는 오랫동안 헤라트의 조용한 저항을 상징해 왔다. 이곳은 주로 시아파 하자라 공동체의 수만 가족이 거주하며, 서쪽으로 70마일 떨어진 이란과의 국경 간 거래의 중심지이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-제브라일에는 젊은 남녀가 자유롭게 만날 수 있는 카페와 화장과 하이힐을 신은 여성 친구들이 방해받지 않고 돌아다니는 시장이 있었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-6월 초 탈레반의 도덕 경찰이 지역 종교 지도자들에게 내린 지시는 그것을 종식시켰다. 경찰은 머리부터 발끝까지 얼굴을 포함해 몸을 가리는 명령을 따르지 않는 여성은 체포되어 감옥에 갈 수 있다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-6월 6일과 7일, 아프가니스탄 내 유엔 사절단에 따르면 명령 위반 혐의로 최소 30명의 여성이 체포되었다. 지역 인권 단체들은 지금까지 200건 이상의 체포를 등록했으며 더 많은 체포가 예상된다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"일부 세대는 명령을 받아들이고, 다른 세대는 받아들이지 않는다"고 헤라트의 시아파 성직자 후세인이 여성 복장에 대한 새로운 탄압에 대해 말했다. "새로운 세대는 대처하지 못하고 있다; 받아들이지 않고 있다."
-&lt;&lt;&lt;PARA&gt;&gt;
-6월 9일, 수십 명의 주민들이 강화된 규칙과 체포에 항의하기 위해 제브라일에 모였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그들 중에는 19세의 하마윤도 있었는데, 그녀는 어머니들이 가지 말라고 간청했지만 친구와 함께 왔다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"나는 스스로에게 말했다, '내가 가지 않고, 다른 사람들이 가지 않으면, 누가 참여하겠는가?'" 하마윤이 말했다. "내일은 내 어머니와 여동생이 체포될 차례일지도 모른다."
-&lt;&lt;&lt;PARA&gt;&gt;
-하마윤과 다른 시위자들은 "일, 교육, 자유"를 외쳤다. 외침이 더 커지고 무장한 탈레반 경찰관들이 시위자들에게 다가가자, 일부 시위자들이 탈레반에게 돌을 던졌고, 탈레반은 경고 사격을 한 후 발목을 겨냥했다고 다섯 명의 시위자들이 말했다. 긴장된 대치 상황의 영상은 소셜 미디어에 빠르게 퍼졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-경찰관들은 시위자들을 제브라일의 골목길로 쫓아가 구타하고 수십 명을 체포했다고 시위자들과 충돌을 목격한 다섯 명이 말했다. 한 10대가 총상을 입고 사망했으며, 여러 명이 부상당했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-헤라트 경찰의 대변인 사이드 마수드 후세이니는 시위자들이 공공 질서를 방해하려는 "선동자"들이라고 말했다. 그는 경찰이 시위자들을 체포하거나 구타했다는 것을 부인했으며, 경찰이 "가능한 가장 짧은 시간에" 지역을 통제하에 되돌렸다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-제브라일의 항의는 오전 8시에 시작되었다. 오전 10시까지 탈레반은 모든 사람을 해산시켰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-탈레반은 제브라일에 우글우글 모여들어 검문소를 설치했다. 또 다른 계획된 시위에 대한 소문이 퍼지자, 그들은 모스크와 학교에서 동네 주민들에게 경고를 발령했다: 다시는 항의하러 나가지 말라.
-&lt;&lt;&lt;PARA&gt;&gt;
-그들은 나가지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-대신, 제브라일에 공포의 분위기가 내려앉았다. 주민들은 탈레반이 사람들을 멈춰 세우고 수염이나 옷차림 때문에 체포하며, 어떤 경우에는 여학생들을 협박한다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-15세의 자흐라는 지난달 어느 날 아침 학교 운동장에서 탈레반 도덕 경찰의 면밀한 감시 아래 수백 명의 급우들과 함께 줄을 서야 했다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-학생들은 이미 머리부터 발끝까지 검은 차도르로 완전히 가려져 있었지만, 경찰관은 새로운 지시에 따라 얼굴도 가리라고 명령했다고 자흐라가 말했다. 그런 다음 경찰관들은 소녀들이 자신들의 옷차림을 "아프간 여성의 명예의 깃발"이라고 설명하는 종이를 들고 있는 모습을 촬영했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일부 소녀들은 베일 아래서 울었다. "우리는 모두 겁에 질렸다"고 자흐라가 말했다. 부모님에게 연락해 도움을 받을 수 없었기 때문이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-최근 어느 저녁, 나는 주요 교차로마다 운전자들을 멈춰 세우는 12명의 무장 경찰관들을 보았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-완전히 가려진 여성들이 거리를 걸었고, 일몰이 105도 더위에서 잠시 벗어나게 해주었다. 지역 시장은 거의 텅 비어 있었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-단속과 체포에 대한 두려움은 경제 활동을 마비시켰다. 제브라일의 식품 포장 작업장 주인 샤킬라는 그녀의 직원 세 명이 몇 주 동안 출근하지 않았다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-헤라트의 한 교장은 일부 부모들이 딸들의 학교 출석을 중단시켰다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일부는 탈레반 규칙에 동의하지 않는 성인들의 조롱에 직면한다. 자흐라의 학교에서, 얼굴을 가리는 마스크나 베일을 쓰고 수업에 참석하는 일부 학생들은 행인들로부터 "탈레반 당나귀"라는 모욕을 들었다고 그곳의 한 교사가 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-탈레반의 통제 강화 노력은 옷차림에 관한 사회적 규범을 넘어선다. 종교 관리, 교육 전문가 및 인권 단체에 따르면, 탈레반 관리들은 최근 몇 달 동안 전국적으로 시아파 공동체 구성원들의 공개적인 신앙 표시를 점점 더 억압하려 하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그들은 모든 남자 대학생들에게 탈레반의 수니파 학파를 따른다는 문서에 서명하도록 지시했다. 헤라트에서는 일부 교장들에게 시아파 학생 명단을 제공하라고 명령했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그리고 지난달 헤라트의 아프간 시아파들이 신성한 아슈라 기념식을 준비하는 동안, 그들의 지도자들은 탈레반으로부터 성지에서 깃발을 제거하고 야외 행렬을 취소하라는 명령을 받았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-시아파 관리들이 반대하자 그들은 물러났다. 신도들은 제한을 받았지만 기념식을 허용받았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-탈레반 정부의 대변인 자비울라 무자히드는 인터뷰에서 당국이 이슬람 국가의 시아파 공동체에 대한 안보 위협 때문에 기념식에 제한을 가했다고 말했다. 탈레반 정부는 수년에 걸쳐 아프가니스탄에서 이슬람 국가의 위협을 대부분 제거했다고 주장해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아프가니스탄의 4500만 인구 중 10~15%가 시아파로 추산되지만, 그들은 다른 소수 민족과 마찬가지로 탈레반 정부에서 권력에서 대부분 배제되어 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그들은 권고를 받아들이지 않고, 지도를 받아들이지 않는다"고 시아파 성직자 아야톨라 와에지 자데가 5월 연설에서 탈레반 정부에 대해 말했다. "아마도 그들의 기초는 모든 결정을 스스로 내리고, 단일한 생각을 가지는 것이다."
-&lt;&lt;&lt;PARA&gt;&gt;
-아니사 샤비르가 연구에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/08/multimedia/08int-herat-crackdown-mhpz/08int-herat-crackdown-mhpz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 09:26:13 +0000</pubDate></item><item><title>Sheikh Hamad bin Khalifa, Ruler Who Transformed Qatar, Dies at 74 (카타르를 변화시킨 군주, 셰이크 하마드 빈 칼리파 74세로 별세)</title><link>https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/world/12int-qatar-obit-sub-01/12int-qatar-obit-sub-01-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Sheikh Hamad bin Khalifa Al Thani, the former monarch who oversaw Qatar’s transformation from a little-known desert peninsula in the Persian Gulf into a country with vast wealth and global influence, died on Sunday. He was 74.&lt;br/&gt;(페르시아만의 잘 알려지지 않은 사막 반도에서 막대한 부와 세계적 영향력을 지닌 국가로 카타르의 변신을 이끈 전 군주 셰이크 하마드 빈 칼리파 알타니가 일요일 별세했다. 향년 74세였다.)&lt;/p&gt;
-&lt;p&gt;His death was announced by the Qatari royal court, which did not specify the cause. The court declared a public mourning period of four days.&lt;br/&gt;(카타르 왕실 법원이 그의 사망을 발표했으며, 사인은 밝히지 않았다. 법원은 4일간의 공식 애도 기간을 선포했다.)&lt;/p&gt;
-&lt;p&gt;Sheikh Hamad is often described as the founding father of modern Qatar.&lt;br/&gt;(셰이크 하마드는 종종 현대 카타르의 건국 아버지로 묘사된다.)&lt;/p&gt;
-&lt;p&gt;When he overthrew his father in a bloodless coup in 1995, Qatar was rich in natural gas but largely subordinate to neighboring Saudi Arabia. Sheikh Hamad helped turn the tiny country into a more independently minded state with political and financial influence far greater than its size, before handing over power to his son, the current emir, in 2013.&lt;br/&gt;(1995년 무혈 쿠데타로 아버지를 축출했을 당시 카타르는 천연가스가 풍부했지만 대체로 이웃 사우디아라비아에 예속되어 있었다. 셰이크 하마드는 이 작은 나라를 자국의 규모를 훨씬 뛰어넘는 정치·재정적 영향력을 가진, 더 독립적인 사고를 지닌 국가로 탈바꿈시키는 데 기여했으며, 2013년 아들인 현 국왕에게 권력을 넘겼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-재임 기간 동안 국가의 국내총생산(GDP)은 천연가스 수출 산업 개발을 위한 막대한 투자에 힘입어 24배 증가했다. 카타르는 알자지라 뉴스 네트워크를 설립하고 현재 약 6000억 달러의 자산을 관리하는 국부펀드도 조성했다. 또한 뇌물 의혹으로 얼룩진 유치전 끝에 2022년 남자 축구 월드컵 개최권을 따냈다.
-&lt;&lt;&lt;PARA&gt;&gt;
-더 최근에는 아들 셰이크 타밈 빈 하마드의 통치 아래에서 카타르는 일련의 전쟁들 사이에서 중재자로서의 명성을 쌓아왔다. 카타르 관료들은 서방 국가들과 이란, 팔레스타인 무장단체 하마스, 아프가니스탄 탈레반 사이의 외교를 촉진해왔다. 카타르는 미국과 이란 간의 현재 전쟁을 종식시키려는 노력에서 중재자 중 하나였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-카타르 수도 도하에서 1952년에 태어난 셰이크 하마드는 영국 샌드허스트 왕립 육군사관학교에서 공부한 후 카타르로 돌아와 군에 합류했다고 왕실 법원 전기가 전한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 일찍부터 권력을 위해 길러졌다. 카타르는 타니 가문이 세습 통치하는 권위주의 군주국이다. 셰이크 하마드의 아버지인 셰이크 칼리파 빈 하마드는 1972년 친척을 축출하고 국왕이 되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-1977년, 셰이크 하마드는 카타르의 왕세자로 임명되었다. 같은 10년 동안 풍부한 천연가스 매장량이 발견되어, 오늘날 약 40만 명에 불과한 소수 시민 인구를 가진 이 나라는 막대한 부를 향해 나아가게 되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-당시 분석가와 외교관들은 국왕 셰이크 칼리파를 사우디아라비아와 같은 지역 강대국에 순응적인 인물로 묘사했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-1995년, 셰이크 하마드는 아버지가 해외에 있는 동안 궁정 쿠데타를 일으켜 권력을 장악했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"일어난 일이 유쾌하지는 않지만, 해야만 했고 내가 해야 했다"고 당시 셰이크 하마드는 텔레비전 연설에서 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그의 통치는 국경 너머까지 카타르를 더 잘 알리고 영향력을 행사하게 하려는 야심찬 시도로 정의되었다. 미국은 곧 카타르에 주요 군사 기지를 구축했고, 셰이크 하마드는 아버지보다 이란과 이스라엘 모두와 더 긴밀한 관계를 추구했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-결국 카타르는 중동 전역의 사건을 적극적으로 형성하는 주체가 되어, 시리아 내전에서 반정부 반군을 지원하고 도하에 하마스와 탈레반의 정치 지도부를 초청했다. 또한 다른 아랍 군주국들보다 정치적 이슬람에 더 우호적이라는 평판을 얻었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-1996년, 셰이크 하마드는 알자지라 설립을 주도했다. 이 방송국은 중동의 다른 권위주의 정부들에게는 당혹감을 안겼는데, 해당 지역에 대해 더 개방적이고 비판적인 보도를 허용했기 때문이다(물론 카타르 자체에 대해서는 덜했지만).
-&lt;&lt;&lt;PARA&gt;&gt;
-1997년 《뉴욕타임스》와의 인터뷰에서 셰이크 하마드는 다른 정부들이 "국민과의 소통 부족"으로 스스로 불안을 자초했다고 시사하며, 카타르 지도자들이 국가 재산을 약탈하는 것을 막겠다고 약속했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"지도자들이 경찰과 정보 기관을 통해 국민 통제에 집중한다면, 그 결과는 국가 전체에 좋지 않을 것입니다"라고 그는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-카타르는 이웃 국가들보다 약간 더 큰 표현의 자유를 허용한다. 중동 전역에 파문을 일으킨 아랍의 봄 혁명은 바레인과 사우디아라비아 동부를 흔들었지만, 잘 정돈된 도하의 거리까지는 번지지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-카타르는 여전히 제한된 권한을 가진 자문 입법부를 둔 절대 군주국이다. 왕실은 여전히 화려한 부를 누리고 있으며, 정부와 기업 이익 사이의 경계는 종종 모호하다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2011년, 정부는 셰이크들이 비디오 게임을 한다는 내용을 포함해 왕실을 조롱하는 시를 쓴 시인을 기소했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2013년, 셰이크 하마드는 국가 및 지역의 관례를 깨고 자발적으로 아들 셰이크 타밈에게 권력을 양위했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"저희 민족의 역사에서 새로운 장을 열 때가 왔습니다. 새로운 세대가 그들의 역동적인 잠재력과 창의적인 생각으로 책임을 짊어지고 나아가는 때입니다"라고 당시 셰이크 하마드는 연설에서 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-셰이크 하마드는 세 명의 아내를 두었다. 이슬람법은 남성이 최대 네 명까지 동시에 아내를 두는 것을 허용하며, 걸프 왕조에서는 여러 번의 결혼을 통해 가족 및 정치적 유대를 공고히 하는 것이 일반적이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그는 현 국왕과 여러 다른 자녀들, 그리고 그의 아내 중 한 명인 셰이카 모자 빈트 나세르를 남겼다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/12/world/12int-qatar-obit-sub-01/12int-qatar-obit-sub-01-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 13 Jul 2026 08:36:40 +0000</pubDate></item><item><title>Lindsey Graham Championed Israel, Even as Wars Eroded American Support (린지 그레이엄, 전쟁이 미국의 지지를 약화시켜도 이스라엘을 지지하다)</title><link>https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-live-graham-israel-01-kjlh/12mideast-live-graham-israel-01-kjlh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Even as the wars in Gaza and Iran eroded American support for Israel, Lindsey Graham remained one of the country’s staunchest allies in Washington.&lt;br/&gt;(가자와 이란에서의 전쟁이 미국 내 이스라엘 지지를 약화시키는 와중에도, 린지 그레이엄은 워싱턴에서 이스라엘의 가장 강력한 동맹 중 하나로 남았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2월 말에 시작된 미국-이스라엘 합동 이란 전쟁을 위해 워싱턴에서 두드러진 로비스트 역할을 했던 사우스캐롤라이나 출신의 공화당 상원의원 그레이엄은 토요일에 사망했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-최근 몇 년간, 그레이엄의 개입주의적 외교 정책 견해는 미국의 글로벌 얽힘에 더 의심을 품게 된 공화당 내 일부와 마찰을 빚었다. 그러나 이러한 견해는 이스라엘에서 찬사를 받았으며, 그곳에서 그레이엄은 국가의 심화되는 국제적 고립 속에서 확고한 지지자로 기념되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일요일, 베냐민 네타냐후 이스라엘 총리는 그레이엄을 "이스라엘의 위대한 친구"이자 "이스라엘과 미국의 안보는 분리될 수 없다는 것을 이해한" 인물이라고 불렀다. 이란 전쟁 직전 몇 주 동안, 그레이엄은 이 문제를 논의하기 위해 네타냐후를 만나기 위해 적어도 두 번 이스라엘을 방문했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이스라엘은 가장 위대한 친구 중 하나를 잃었습니다. 미국은 위대한 애국자를 잃었습니다. 저는 사랑하는 친구를 잃었습니다."라고 네타냐후는 성명에서 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-네타냐후의 반대자들 중 몇몇은 올해 말 총선에서 그와 맞서는 인물들을 포함해, 상원의원을 애도하는 데 동참했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-최근 네타냐후 축출 캠페인에서 선두 주자로 부상한 이스라엘 전 참모총장 가디 아이젠코트는 그레이엄을 "이스라엘과 유대인이 알고 있는 가장 위대한 친구 중 한 명"이라고 불렀다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그의 지칠 줄 모르는 노력은 미국-이스라엘 동맹을 더 강하게 만들고, 중동을 더 안전하게 하며, 세계를 더 안보하게 만들었습니다."라고 아이젠코트는 성명에서 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국 상원의원으로서, 그레이엄은 비정상적으로 중동에 집중했으며, 이집트의 압델 파타 엘시시 대통령과 사우디아라비아의 실질적 통치자 왕세자 무함마드 빈 살만을 포함한 지도자들을 만나기 위해 자주 이 지역을 방문했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그레이엄의 주요 외교 정책 목표 중 하나는 이스라엘과 사우디아라비아의 관계를 정상화하기 위한 미국 지원 합의를 중개하는 것이었으며, 때때로 사우디 수도 리야드와 예루살렘 사이를 오갔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2023년 10월 7일 하마스 주도의 이스라엘 공격이 가자 전쟁을 촉발하기 전, 조셉 R. 바이든 주니어 대통령의 팀은 몇 달 동안 관계 정상화를 위해 노력했다. 사우디 정부가 동의하게 된 인센티브 중 하나는 미국과의 방위 조약이었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 조약은 상원의 승인이 필요했을 것이다. 그레이엄은 공화당 상원의원들이 조약 협정에 찬성 투표하도록 설득하는 것을 목표로 했으며, 비록 그것이 민주당 행정부에 외교적 승리를 안겨주었을지라도 그랬다고 바이든 대통령 시절 이스라엘의 워싱턴 주재 대사를 지낸 마이크 헤르초그는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"아이디어는 바이든이 민주당원들을 데려오고 린지가 공화당원들을 데려오는 것이었습니다."라고 연구 그룹인 워싱턴 근동 정책 연구소의 펠로우인 헤르초그는 말했다. "그는 이스라엘-사우디 문제에 매우 헌신적이었고, 그것이 미국에도 좋다고 믿었습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-이스라엘의 가자에서 하마스에 대한 군사 캠페인이 수만 명의 팔레스타인인을 사망에 이르게 하고 국제적 비난을 촉발한 후, 미국과 이스라엘의 사우디아라비아와의 합의에 대한 희망은 대부분 사라졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-전쟁은 미국 내 여론의 급격한 변화를 악화시켜, 오랜 초당적 이스라엘 정부 지지를 약화시켰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이스라엘의 이미지는 미국 전반에서 악화되고 있으며, 공화당원과 민주당원 모두에게서 그렇습니다. 그러나 린지는 그의 지지에서 매우 확고하게 남아 있었으며, 미국-이스라엘 동맹을 위한 가장 두드러진 목소리 중 하나였습니다."라고 헤르초그는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일부 정부와 관련된 이란 언론은 그레이엄의 죽음을 축하하는 듯 보였다. 이란의 강력한 이슬람 혁명 수비대와 가까운 매체 타스님은 그가 "뱀과 개미의 먹이가 되었다"고 말했지만, 이슬람 공화국은 여전히 서 있다고 전했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-사남 마후지와 히도 아부 라반이 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-live-graham-israel-01-kjlh/12mideast-live-graham-israel-01-kjlh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 10:42:08 +0000</pubDate></item><item><title>Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor (젤렌스키, 전쟁 유리한 국면 접어들자 최고 지도부 개편 발표)</title><link>https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/multimedia/12int-ukraine-leadership-01-jzqf/12int-ukraine-leadership-01-jzqf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;President Volodymyr Zelensky announced on Sunday a shake-up of his top leadership, including the dismissal of the prime minister, in a personnel overhaul that comes as momentum in the war has shifted in Ukraine’s favor.&lt;br/&gt;(볼로디미르 젤렌스키 우크라이나 대통령은 2일(현지시간) 총리 경질을 포함한 최고 지도부 개편을 발표했다. 전쟁의 주도권이 우크라이나에 유리하게 돌아서면서 단행된 인적 쇄신이다.)&lt;/p&gt;
-&lt;p&gt;Mr. Zelensky said the personnel changes were needed to focus the government’s work on high-priority foreign and domestic policies, including relations with the United States, membership talks with the European Union, securing sufficient supplies of weaponry for the army, and supporting cities and towns near the front line.&lt;br/&gt;(젤렌스키 대통령은 이러한 인사 변경이 대미 관계, 유럽연합(EU) 가입 협상, 군의 충분한 무기 공급 확보, 최전선 인근 도시 및 마을 지원 등 외교·국내 정책 최우선 과제에 정부 업무를 집중시키기 위해 필요하다고 말했다.)&lt;/p&gt;
-&lt;p&gt;“Ukraine is changing its political strategy,” Mr. Zelensky said in a statement about the overhaul. He said he would designate an official to oversee each priority policy.&lt;br/&gt;(젤렌스키 대통령은 개편과 관련한 성명에서 "우크라이나는 정치 전략을 바꾸고 있다"고 밝혔다. 그는 각 최우선 정책을 감독할 담당자를 임명하겠다고 말했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Zelensky said that Prime Minister Yuliia Svyrydenko, a 40-year-old former minister of economy who had led a team of mostly young politicians in Mr. Zelensky’s government, would step down as prime minister.&lt;br/&gt;(젤렌스키 대통령에 따르면, 40세의 전직 경제부 장관으로 젤렌스키 정부 내 대부분 젊은 정치인들로 구성된 팀을 이끌어온 율리야 스비리덴코 총리가 총리직에서 물러난다.)&lt;/p&gt;
-&lt;p&gt;“The Cabinet of Ministers needs to be renewed,” Mr. Zelensky said.&lt;br/&gt;(젤렌스키 대통령은 "각료회의는 쇄신되어야 한다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;In the statement, he did not mention any other personnel changes. Earlier, Mr. Zelensky had said he planned changes in the diplomatic service in order to focus diplomacy on securing military supplies from allies. In the statement, he said he would also replace leaders of law enforcement agencies.&lt;br/&gt;(성명에서 그는 다른 인사 변동에 대해서는 언급하지 않았다. 앞서 젤렌스키 대통령은 동맹국으로부터 군수 물자 조달에 외교를 집중하기 위해 외교 관료 인사를 바꿀 계획이라고 밝힌 바 있다. 성명에서 그는 또한 법 집행 기관의 수장들도 교체할 것이라고 말했다.)&lt;/p&gt;
-&lt;p&gt;Political analysts will be watching two popular generals seen as potential rivals for the presidency in postwar elections, both of whom now work in Mr. Zelensky’s administration.&lt;br/&gt;(정치 분석가들은 전후 선거에서 대통령 후보가 될 잠재적 경쟁자로 여겨지는 두 인기 장군을 주목할 것이다. 이들은 현재 젤렌스키 행정부에서 일하고 있다.)&lt;/p&gt;
-&lt;p&gt;General Kyrylo Budanov, a former director of military intelligence, is currently chief of staff, and General Valery Zaluzhny is ambassador to Britain. Whether Mr. Zelensky keeps them inside the administration, and in which capacity, will partly define Ukraine’s postwar political lineup.&lt;br/&gt;(전 군 정보국장인 키릴로 부다노프 장군은 현재 비서실장이며, 발레리 잘루즈니 장군은 영국 대사이다. 젤렌스키 대통령이 이들을 행정부 내에 유지할지, 그리고 어떤 직책에 임명할지는 부분적으로 우크라이나의 전후 정치 구도를 결정할 것이다.)&lt;/p&gt;
-&lt;p&gt;Mr. Zelensky said he would work with Parliament, which must approve ministerial changes, on the overhaul. Mr. Zelensky’s political party, Servant of the People, holds a majority in Parliament but has sometimes struggled to pass legislation or win confirmations, as lawmakers don’t always vote along party lines.&lt;br/&gt;(젤렌스키 대통령은 개편에 관해 장관 인사 변경을 승인해야 하는 의회와 협력할 것이라고 말했다. 젤렌스키 대통령의 정당인 '국민의 종'은 의회에서 과반수를 차지하고 있지만, 의원들이 항상 당론에 따라 투표하지 않기 때문에 때때로 법안 통과나 인사 승인에 어려움을 겪어왔다.)&lt;/p&gt;
-&lt;p&gt;Mr. Zelensky last reshuffled the cabinet in July 2025, after a year and a half of gradual losses along the front line and as Ukraine suffered electrical blackouts as Russia hammered the country’s power grid.&lt;br/&gt;(젤렌스키 대통령은 지난 2025년 7월, 최전선에서 1년 반 동안 점진적 손실을 입고 러시아가 우크라이나 전력망을 타격해 정전 사태를 겪은 후 내각을 개편한 바 있다.)&lt;/p&gt;
-&lt;p&gt;He has replaced individual ministers in scandals over mismanagement and corruption, including a minister of national unity and minister of energy who were implicated by anti-corruption investigators in a kickback scheme.&lt;br/&gt;(그는 관리 부실 및 부패 스캔들로 개별 장관들을 교체해왔으며, 여기에는 반부패 수사관들로부터 리베이트 사건에 연루된 것으로 지목된 국가통일부 장관과 에너지부 장관이 포함된다.)&lt;/p&gt;
-&lt;p&gt;The current political reshuffle comes after a shift in the tide in the war. Ukraine’s strategy of fighting with drones both on the front line and to hit targets deep in Russia is yielding results.&lt;br/&gt;(이번 정치적 개편은 전쟁의 흐름에 변화가 생긴 후에 이루어졌다. 최전선과 러시아 깊숙한 곳의 목표물을 타격하기 위해 드론을 사용하는 우크라이나의 전략이 성과를 내고 있다.)&lt;/p&gt;
-&lt;p&gt;The Russian army is enduring huge casualties from exploding drones. U.S. and Ukrainian officials estimate about 30,000 of its soldiers a month are killed or injured just to maintain a mostly static front line. Russia is making slow gains in the eastern Donbas region but some months has a net loss of territory as Ukraine advances elsewhere.&lt;br/&gt;(러시아군은 폭발 드론으로 인해 막대한 사상자를 입고 있다. 미국과 우크라이나 관리들은 대부분 정체된 최전선을 유지하기 위해 매달 약 3만 명의 병력이 사망하거나 부상을 입는 것으로 추산한다. 러시아는 동부 돈바스 지역에서 더딘 진전을 보이고 있지만, 우크라이나가 다른 곳에서 진격함에 따라 일부 달은 순 영토 손실을 기록하기도 한다.)&lt;/p&gt;
-&lt;p&gt;Ukraine is also mass producing long-range exploding drones that have incapacitated about a quarter of Russia’s oil refining capacity. Ukraine claimed to have struck more than 90 ships in the Sea of Azov in the past week, in what would be a major security lapse for Russia in the sea.&lt;br/&gt;(우크라이나는 또한 러시아 정유 능력의 약 4분의 1을 무력화시킨 장거리 폭발 드론을 대량 생산하고 있다. 우크라이나는 지난 주 아조프해에서 90척 이상의 선박을 타격했다고 주장했는데, 이는 러시아의 해상 보안에 큰 허점을 드러낸 사건이 될 것이다.)&lt;/p&gt;
-&lt;p&gt;Stas Kozliuk contributed reporting from Kyiv, Ukraine.&lt;br/&gt;(스타스 코즐리우크가 우크라이나 키이우에서 취재에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-ukraine-leadership-01-jzqf/12int-ukraine-leadership-01-jzqf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 05:51:40 +0000</pubDate></item><item><title>How Trump Failed to Secure the Strait of Hormuz in His Iran Deal (트럼프의 이란 협상에서 호르무즈 해협 장악 실패)</title><link>https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/multimedia/12dc-trump-strait-01-ctgl/12dc-trump-strait-01-ctgl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;For two months, under a quiet arrangement with the U.S. Navy, commercial tankers turned off their transponders to avoid detection by Iran as they crossed the perilous Strait of Hormuz to carry oil and gas out to the world.&lt;br/&gt;(두 달 동안, 미 해군과의 조용한 합의 아래 상업 유조선들은 위험한 호르무즈 해협을 건너 세계로 석유와 가스를 운송할 때 이란의 탐지를 피하기 위해 트랜스폰더를 껐다.)&lt;/p&gt;
-&lt;p&gt;The military offered some air cover in case Iran attacked, as naval officers directed the vessels over the radio to hug Oman’s coast, opposite Iran’s shore. That enabled a steady increase in traffic through the strait from May to June, during a tentative cease-fire in the war.&lt;br/&gt;(군대는 이란이 공격할 경우를 대비해 일부 항공 엄호를 제공했고, 해군 장교들은 무전으로 선박들을 이란 해안 반대편인 오만 연안에 밀착하도록 지시했다. 이는 전쟁 중 잠정 휴전 기간 동안 5월에서 6월까지 해협을 통과하는 교통량이 꾸준히 증가할 수 있게 했다.)&lt;/p&gt;
-&lt;p&gt;But a framework deal that President Trump signed with Iran last month helped bring that effort to a fiery end because of its language giving Iran official power in the strait and its vagueness in important phrases.&lt;br/&gt;(하지만 지난달 트럼프 대통령이 이란과 서명한 기본 협정은 해협에서 이란에 공식적인 권력을 부여하는 문구와 중요한 구절에서 모호함 때문에 그 노력을 불길한 종말로 이끌었다.)&lt;/p&gt;
-&lt;p&gt;Mr. Trump celebrated the agreement, reached on June 14, as the reopening of the strait. “Ships of the World, start your engines,” he wrote on social media. “Let the oil flow!”&lt;br/&gt;(트럼프는 6월 14일에 체결된 이 협정을 해협의 재개방으로 환영했다. 그는 소셜 미디어에 "세계의 배들아, 엔진을 켜라. 석유가 흐르게 하라!"고 썼다.)&lt;/p&gt;
-&lt;p&gt;But critics say it actually formalized a reality that Iranian officials have made clear throughout the war: They now control the strait.&lt;br/&gt;(하지만 비평가들은 이것이 이란 관리들이 전쟁 내내 분명히 밝혀온 현실, 즉 이제 그들이 해협을 통제한다는 사실을 공식화했다고 말한다.)&lt;/p&gt;
-&lt;p&gt;IRAN&lt;br/&gt;(이란)&lt;/p&gt;
-&lt;p&gt;Hormuz Island&lt;br/&gt;(호르무즈 섬)&lt;/p&gt;
-&lt;p&gt;Larak Island&lt;br/&gt;(라라크 섬)&lt;/p&gt;
-&lt;p&gt;Qeshm&lt;br/&gt;(케슘)&lt;/p&gt;
-&lt;p&gt;Strait of Hormuz&lt;br/&gt;(호르무즈 해협)&lt;/p&gt;
-&lt;p&gt;Hengam&lt;br/&gt;(헝감)&lt;/p&gt;
-&lt;p&gt;Sirik&lt;br/&gt;(시리크)&lt;/p&gt;
-&lt;p&gt;Greater&lt;br/&gt;(그레이터)&lt;/p&gt;
-&lt;p&gt;Tunb&lt;br/&gt;(툰브)&lt;/p&gt;
-&lt;p&gt;OMAN&lt;br/&gt;(오만)&lt;/p&gt;
-&lt;p&gt;Jask&lt;br/&gt;(자스크)&lt;/p&gt;
-&lt;p&gt;Dubai&lt;br/&gt;(두바이)&lt;/p&gt;
-&lt;p&gt;U.A.E.&lt;br/&gt;(U.A.E.)&lt;/p&gt;
-&lt;p&gt;OMAN&lt;br/&gt;(오만)&lt;/p&gt;
-&lt;p&gt;50 miles&lt;br/&gt;(50마일)&lt;/p&gt;
-&lt;p&gt;IRAN&lt;br/&gt;(이란)&lt;/p&gt;
-&lt;p&gt;Hormuz Island&lt;br/&gt;(호르무즈 섬)&lt;/p&gt;
-&lt;p&gt;Larak Island&lt;br/&gt;(라라크 섬)&lt;/p&gt;
-&lt;p&gt;Qeshm&lt;br/&gt;(케슘)&lt;/p&gt;
-&lt;p&gt;Strait of Hormuz&lt;br/&gt;(호르무즈 해협)&lt;/p&gt;
-&lt;p&gt;Hengam&lt;br/&gt;(헝감)&lt;/p&gt;
-&lt;p&gt;Sirik&lt;br/&gt;(시리크)&lt;/p&gt;
-&lt;p&gt;Greater&lt;br/&gt;(그레이터)&lt;/p&gt;
-&lt;p&gt;Tunb&lt;br/&gt;(툰브)&lt;/p&gt;
-&lt;p&gt;OMAN&lt;br/&gt;(오만)&lt;/p&gt;
-&lt;p&gt;Jask&lt;br/&gt;(자스크)&lt;/p&gt;
-&lt;p&gt;Dubai&lt;br/&gt;(두바이)&lt;/p&gt;
-&lt;p&gt;OMAN&lt;br/&gt;(오만)&lt;/p&gt;
-&lt;p&gt;U.A.E.&lt;br/&gt;(U.A.E.)&lt;/p&gt;
-&lt;p&gt;50 miles&lt;br/&gt;(50마일)&lt;/p&gt;
-&lt;p&gt;The New York Times&lt;br/&gt;(더 뉴욕 타임즈)&lt;/p&gt;
-&lt;p&gt;Iran’s missile and drone attacks on commercial ships in the strait essentially shut it down soon after the United States and Israel started the war. Then weeks after the United States and Iran entered a tentative and informal cease-fire in early April, some tankers began taking a southern route through the strait, farther from Iran’s coast.&lt;br/&gt;(해협을 통과하는 상업 선박에 대한 이란의 미사일과 드론 공격은 미국과 이스라엘이 전쟁을 시작한 직후 사실상 해협을 마비시켰다. 그 후 4월 초 미국과 이란이 잠정적이고 비공식적인 휴전에 들어간 지 몇 주 후, 일부 유조선들은 이란 해안에서 더 먼 해협의 남쪽 경로를 이용하기 시작했다.)&lt;/p&gt;
-&lt;p&gt;Now, by striking last week in that area, Iran is trying to force ships to travel through its territorial waters on the strait’s northern side, where Tehran can try to justify charging tolls or fees.&lt;br/&gt;(이제 지난주 그 지역을 공격함으로써, 이란은 선박들을 해협 북쪽에 있는 자국의 영해를 통해 항해하도록 강요하려 하고 있으며, 테헤란은 그곳에서 통행료나 수수료를 부과하는 것을 정당화하려 할 수 있다.)&lt;/p&gt;
-&lt;p&gt;Iranian units attacked three ships on Tuesday along the southern route, the U.S. military said. Mr. Trump responded by ordering airstrikes in Iran. The tensions escalated in an announcement this weekend by Iran’s Navy that it had fired on another vessel in the strait and was closing the waterway “until the end of U.S. interference in the region.”&lt;br/&gt;(미군은 화요일 이란 부대가 남쪽 경로에서 선박 세 척을 공격했다고 밝혔다. 트럼프는 이에 대응해 이란에 대한 공습을 명령했다. 주말 이란 해군이 해협에서 또 다른 선박에 발포했고 "미국의 지역 내 간섭이 끝날 때까지" 수로를 폐쇄한다고 발표하면서 긴장이 고조되었다.)&lt;/p&gt;
-&lt;p&gt;U.S. Central Command said it hit about 140 Iranian military targets in response, for a total of 310 American strikes over the last week.&lt;br/&gt;(미 중부사령부는 이에 대한 대응으로 약 140개의 이란 군사 표적을 타격했으며, 지난주 동안 총 310회의 미국 타격이 있었다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;With Mr. Trump warning that he thinks the June agreement is “over,” global energy prices are surging again, along with fears of a return to all-out war. Before the war, a fifth of the world’s oil and liquefied natural gas passed through the strait from producers in the Middle East.&lt;br/&gt;(트럼프가 6월 협정이 "끝났다"고 경고함에 따라, 세계 에너지 가격이 다시 급등하고 있으며 전면전 복귀에 대한 두려움도 커지고 있다. 전쟁 전에는 세계 석유와 액화천연가스의 5분의 1이 중동 생산국에서 해협을 통과했다.)&lt;/p&gt;
-&lt;p&gt;The latest crisis is an all-too-predictable result of the June agreement, former American officials and analysts say.&lt;br/&gt;(전직 미국 관리들과 분석가들은 이번 최신 위기가 6월 협정의 너무나 예측 가능한 결과라고 말한다.)&lt;/p&gt;
-&lt;p&gt;Facing anger over high gas prices and spiking inflation, Mr. Trump was eager to reopen the strait and relieve pressure on the global economy. Among other things, he agreed to end a U.S. military blockade of Iranian ports and allow Tehran to resume oil sales for 60 days in return for reopening the strait.&lt;br/&gt;(높은 휘발유 가격과 급등하는 인플레이션에 대한 분노에 직면한 트럼프는 해협을 재개방하고 세계 경제에 대한 압력을 완화하기를 열망했다. 무엇보다도 그는 이란 항구에 대한 미군의 봉쇄를 종료하고 해협 재개방에 대한 대가로 테헤란이 60일 동안 석유 판매를 재개하도록 허용하는 데 동의했다.)&lt;/p&gt;
-&lt;p&gt;The June agreement, called a memorandum of understanding, also prompted additional negotiations aimed at reaching a broader and more enduring peace plan.&lt;br/&gt;(양해각서라고 불리는 6월 협정은 또한 더 광범위하고 지속적인 평화 계획을 목표로 한 추가 협상을 촉발했다.)&lt;/p&gt;
-&lt;p&gt;While many U.S. and foreign officials welcomed the cease-fire, critics warned that the agreement was dangerously vague, particularly language in its fifth paragraph saying that Iran would “make arrangements using its best efforts for the safe passage of commercial vessels” through the Strait of Hormuz.&lt;br/&gt;(많은 미국과 외국 관리들이 휴전을 환영한 반면, 비평가들은 협정이 위험할 정도로 모호하다고 경고했으며, 특히 이란이 호르무즈 해협을 통한 상업 선박의 안전한 통과를 위해 최선의 노력을 다해 준비할 것이라고 명시한 5번째 문단의 언어를 지적했다.)&lt;/p&gt;
-&lt;p&gt;“No one should be surprised that Iran views that as explicitly giving them an enduring role controlling passage through Hormuz,” said Michael Ratney, a retired career diplomat who was the most recent U.S. ambassador to Saudi Arabia.&lt;br/&gt;("아무도 이란이 이를 호르무즈 통행을 통제하는 지속적인 역할을 명시적으로 부여받은 것으로 본다는 사실에 놀라서는 안 됩니다,"라고 최근까지 사우디아라비아 주재 미국 대사였던 은퇴한 외교관 마이클 래트니가 말했다.)&lt;/p&gt;
-&lt;p&gt;“Iran’s control obviously gives them powerful leverage,” he said, “and they appear to be willing to risk a resumption of conflict, perhaps even a collapse of the cease-fire, to maintain that leverage.”&lt;br/&gt;("이란의 통제는 분명히 그들에게 강력한 레버리지를 제공하며," 그는 "그들은 그 레버리지를 유지하기 위해 분쟁 재개, 아마도 휴전 붕괴의 위험을 감수할 의향이 있는 것으로 보입니다."라고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;At a news conference on June 18, Vice President JD Vance insisted that Mr. Trump’s demands about the strait would be enshrined in a future deal.&lt;br/&gt;(6월 18일 기자회견에서 J.D. 밴스 부통령은 트럼프의 해협에 대한 요구가 미래 협정에 명시될 것이라고 주장했다.)&lt;/p&gt;
-&lt;p&gt;“We have all the cards,” he said.&lt;br/&gt;("우리는 모든 카드를 가지고 있습니다,"라고 그는 말했다.)&lt;/p&gt;
-&lt;p&gt;The competition for control of the strait poses a dilemma for shipping companies: Should they pass through the Strait of Hormuz via the southern corridor closer to Oman and risk being attacked by Iran? Or should they take the northern Iranian corridor, paying high fees and reinforcing Tehran’s claims of authority?&lt;br/&gt;(해협 통제 경쟁은 해운 회사들에게 딜레마를 제기한다: 오만에 더 가까운 남쪽 회랑을 통해 호르무즈 해협을 통과하고 이란의 공격을 받을 위험을 감수할 것인가? 아니면 북쪽 이란 회랑을 이용하여 높은 수수료를 지불하고 테헤란의 권위 주장을 강화할 것인가?)&lt;/p&gt;
-&lt;p&gt;For almost 60 years, commercial ships sailed through the Strait of Hormuz along a route established by the United Nations.&lt;br/&gt;(거의 60년 동안, 상업 선박들은 유엔이 정한 경로를 따라 호르무즈 해협을 항해했다.)&lt;/p&gt;
-&lt;p&gt;Iran’s government supported the creation of the route in 1968 and did not try to control it even though it passed through Iranian territorial waters.&lt;br/&gt;(이란 정부는 1968년 경로 설정을 지지했으며, 그것이 이란 영해를 통과했음에도 불구하고 통제하려 하지 않았다.)&lt;/p&gt;
-&lt;p&gt;The leaders who took power in Iran during the 1979 Islamic Revolution said they were not bound by that U.N. agreement, though over the years the government has only occasionally challenged shipping in the strait.&lt;br/&gt;(1979년 이슬람 혁명 동안 이란에서 권력을 잡은 지도자들은 그 유엔 협정에 구속되지 않는다고 말했지만, 수년에 걸쳐 정부는 가끔씩만 해협에서의 선박 운항에 도전했다.)&lt;/p&gt;
-&lt;p&gt;That changed after U.S. and Israeli forces attacked Iran on Feb. 28.&lt;br/&gt;(이는 2월 28일 미국과 이스라엘 군대가 이란을 공격한 후 바뀌었다.)&lt;/p&gt;
-&lt;p&gt;Iran’s military quickly began striking commercial ships and laying mines, grinding traffic to a halt. Only those willing to pay large sums to Iran were granted safe passage along its coast.&lt;br/&gt;(이란 군대는 신속하게 상업 선박을 공격하고 지뢰를 부설하기 시작하여 교통을 마비시켰다. 이란에 큰 금액을 지불할 의향이 있는 선박만이 이란 해안을 따라 안전한 통행을 허가받았다.)&lt;/p&gt;
-&lt;p&gt;Critics say that Mr. Trump conceded this new status quo in the June agreement with Tehran. At the insistence of Iranian negotiators, that 14-point document acknowledges Iran’s power in the strait.&lt;br/&gt;(비평가들은 트럼프가 6월 협정에서 테헤란에 이 새로운 현상 유지를 양보했다고 말한다. 이란 협상가들의 주장에 따라, 14개 조항으로 구성된 이 문서는 해협에서 이란의 권력을 인정한다.)&lt;/p&gt;
-&lt;p&gt;It prohibits the charging of tolls or fees, but only for 60 days while negotiations toward another agreement continues. (Mr. Trump has said the United States could try to charge tolls.) The memorandum also does not include an ironclad guarantee that ships can safely sail any portion of the strait.&lt;br/&gt;(그것은 통행료나 수수료 부과를 금지하지만, 다른 협정을 위한 협상이 계속되는 동안 60일 동안만 유효하다. (트럼프는 미국이 통행료를 부과하려 할 수 있다고 말했다.) 양해각서는 또한 선박이 해협의 어떤 부분이든 안전하게 항해할 수 있다는 철통 같은 보장을 포함하지 않는다.)&lt;/p&gt;
-&lt;p&gt;Iranian officials and diplomatic experts say the final line formally ceded to Iran a central role in managing the strait: “The Islamic Republic of Iran will conduct dialogue with the Sultanate of Oman to define the future administration and maritime services in the Strait of Hormuz, in discussion with other Persian Gulf littoral states, in line with the applicable international law and the sovereign rights of coastal states of the Strait of Hormuz.”&lt;br/&gt;(이란 관리들과 외교 전문가들은 마지막 줄이 공식적으로 해협 관리에서 이란에 중앙 역할을 양도했다고 말한다: "이슬람 공화국 이란은 오만 술탄국과 대화를 통해 호르무즈 해협의 미래 행정 및 해상 서비스를 정의할 것이며, 호르무즈 해협 연안 국가들의 관련 국제법 및 주권적 권리에 부합하여 다른 페르시아만 연안 국가들과 논의할 것이다.")&lt;/p&gt;
-&lt;p&gt;At the time, Mr. Trump praised the agreement as a return to free navigation through the strait. But Iranian officials were soon citing it as grounds for dictating where ships should sail — namely, along a route near Iran’s coastline.&lt;br/&gt;(당시 트럼프는 이 협정을 해협을 통한 자유 항해의 복귀로 칭송했다. 그러나 이란 관리들은 곧 이를 선박이 항해해야 할 곳, 즉 이란 해안선 근처 경로를 지시하는 근거로 인용했다.)&lt;/p&gt;
-&lt;p&gt;Dennis Ross, a former longtime Middle East negotiator for presidents of both parties, said Iran’s view of the agreement was clear.&lt;br/&gt;(두 정당의 대통령들을 위해 오랫동안 중동 협상가로 활동한 데니스 로스는 협정에 대한 이란의 견해가 분명하다고 말했다.)&lt;/p&gt;
-&lt;p&gt;“You were opening the strait — but only on the condition that Iran was completely in control and that any other routes are not acceptable,” Mr. Ross said.&lt;br/&gt;("당신은 해협을 열고 있었습니다 – 하지만 이란이 완전히 통제하고 다른 경로는 허용되지 않는다는 조건 아래에서만," 로스는 말했다.)&lt;/p&gt;
-&lt;p&gt;Hussein Ibish, a scholar at the Arab Gulf States Institute, a research and advocacy group, said “all of international law goes in one direction, and the M.O.U. goes in the other direction.”&lt;br/&gt;(연구 및 옹호 단체인 아랍 걸프 국가 연구소의 학자 후세인 이비시는 "모든 국제법은 한 방향으로 가고, 양해각서는 다른 방향으로 간다"고 말했다.)&lt;/p&gt;
-&lt;p&gt;Asked for comment, the White House referred to a Friday phone briefing that it had arranged for reporters on the condition that the U.S. officials speaking not be named. An American official involved in the negotiations said that Iran knew during the talks that ships were using a route near the Oman coast and had even fired drones at some of them. That meant when Iran agreed to make “best efforts” for safe passage, it would not launch attacks there, the official said.&lt;br/&gt;(논평을 요청받자, 백악관은 금요일에 언론인들을 위해 마련한 전화 브리핑을 언급했으며, 이 브리핑은 말하는 미국 관리들의 이름이 공개되지 않는다는 조건으로 진행되었다. 협상에 관여한 한 미국 관리는 이란이 회담 중에 선박들이 오만 해안 근처 경로를 사용하고 있었고 심지어 그들 중 일부에 드론을 발사했다는 것을 알고 있었다고 말했다. 이는 이란이 안전 통과를 위해 '최선의 노력'을 다하는 데 동의했을 때 그곳에서 공격을 시작하지 않을 것임을 의미한다고 그 관리는 말했다.)&lt;/p&gt;
-&lt;p&gt;Iranian negotiators knew they had leverage over the Americans as they discussed the proposed agreement in the early summer.&lt;br/&gt;(이란 협상가들은 초여름에 제안된 협정을 논의할 때 미국인들에 대한 레버리지를 알고 있었다.)&lt;/p&gt;
-&lt;p&gt;On May 4, the American military started an operation called Project Freedom to begin opening the strait by escorting stranded commercial ships.&lt;br/&gt;(5월 4일, 미군은 '프로젝트 프리덤'이라는 작전을 시작하여 좌초된 상업 선박들을 호위함으로써 해협을 열기 시작했다.)&lt;/p&gt;
-&lt;p&gt;Mr. Trump abandoned the effort in less than 48 hours after the crown prince of Saudi Arabia, fearing Iranian retaliation, refused to allow the Americans to use Saudi airspace for the venture.&lt;br/&gt;(트럼프는 사우디아라비아 왕세자가 이란의 보복을 우려하여 미국인들이 그 사업을 위해 사우디 영공을 사용하는 것을 거부한 후 48시간도 채 안 되어 그 노력을 포기했다.)&lt;/p&gt;
-&lt;p&gt;The Pentagon then tried a more subtle effort mainly involving radio guidance.&lt;br/&gt;(그 후 국방부는 주로 무선 유도와 관련된 더 미묘한 노력을 시도했다.)&lt;/p&gt;
-&lt;p&gt;Since early May, U.S. forces have given route guidance along Oman to more than 800 commercial vessels carrying 400 million barrels of crude oil, said Capt. Tim Hawkins, a spokesman for U.S. Central Command, which oversees the American military in the Middle East.&lt;br/&gt;(5월 초부터 미군은 중동에서 미군을 감독하는 미 중부사령부의 대변인 팀 호킨스 대령에 따르면 4억 배럴의 원유를 운반하는 800척 이상의 상업 선박에 오만을 따른 경로 안내를 제공했다.)&lt;/p&gt;
-&lt;p&gt;The ships followed a route designated by the International Maritime Organization, a London-based arm of the United Nations that regulates global shipping. The organization established the route in consultation with Oman to try to evacuate some 600 long-stranded vessels.&lt;br/&gt;(선박들은 세계 해운을 규제하는 유엔의 런던 기구인 국제해사기구가 지정한 경로를 따랐다. 이 기구는 약 600척의 장기 좌초 선박을 대피시키기 위해 오만과 협의하여 경로를 설정했다.)&lt;/p&gt;
-&lt;p&gt;An informal cease-fire turned into a formal one with the signing of the June agreement. In the seven days starting June 20, nearly 400 ships transited the strait, according to Kpler, a maritime data firm. That was the highest number in a one-week period since the war began.&lt;br/&gt;(비공식 휴전은 6월 협정 서명으로 공식 휴전으로 바뀌었다. 6월 20일부터 시작된 7일 동안 해상 데이터 회사 Kpler에 따르면 거의 400척의 선박이 해협을 통과했다. 이는 전쟁이 시작된 이후 일주일 동안 가장 높은 수치였다.)&lt;/p&gt;
-&lt;p&gt;But on Thursday, after Iran’s attacks, just 22 ships went through the strait.&lt;br/&gt;(하지만 목요일, 이란의 공격 이후 단 22척의 선박만이 해협을 통과했다.)&lt;/p&gt;
-&lt;p&gt;More than a dozen U.S. Navy warships, including two aircraft carriers, and scores of carrier- and land-based attack and surveillance planes are still operating in the general area of the Arabian Sea. The U.S. military is also conducting mine-detection missions in the strait using autonomous sea craft.&lt;br/&gt;(두 대의 항공모함을 포함한 12척 이상의 미 해군 전함과 수십 대의 항공모함 및 지상 기반 공격 및 정찰기가 여전히 아라비아해 일반 지역에서 작전 중이다. 미군은 또한 자율 해상 선박을 사용하여 해협에서 기뢰 탐지 임무를 수행하고 있다.)&lt;/p&gt;
-&lt;p&gt;“U.S. forces have held Iran accountable for its unwarranted aggression toward commercial shipping while still facilitating passage through the strait,” Captain Hawkins said.&lt;br/&gt;("미군은 해협을 통한 통행을 여전히 용이하게 하면서 상업 선박에 대한 이란의 부당한 공격에 대해 이란에 책임을 물었습니다," 호킨스 대령이 말했다.)&lt;/p&gt;
-&lt;p&gt;However, he added, there is “no guarantee” that American military guidance will protect commercial ships transiting the strait.&lt;br/&gt;(그러나 그는 미군의 안내가 해협을 통과하는 상업 선박을 보호할 것이라는 "보장은 없다"고 덧붙였다.)&lt;/p&gt;
-&lt;p&gt;During the height of the war, some shipping operators chose to sail closer to Iran — and rely on the Iranian military’s guarantee of safe passage. Iran told them they would have to pay up to $2 million per ship.&lt;br/&gt;(전쟁이 절정에 달했을 때, 일부 해운 운영자들은 이란에 더 가까이 항해하고 이란 군대의 안전 통과 보장에 의존하기로 선택했다. 이란은 그들에게 선박당 최대 200만 달러를 지불해야 한다고 말했다.)&lt;/p&gt;
-&lt;p&gt;Iran has said that any ships transiting the strait must follow that route, and get permission to do so from the Persian Gulf Strait Authority, a body Tehran created in May.&lt;br/&gt;(이란은 해협을 통과하는 모든 선박이 그 경로를 따라야 하며, 테헤란이 5월에 만든 '페르시아만 해협 당국'의 허가를 받아야 한다고 말해왔다.)&lt;/p&gt;
-&lt;p&gt;Until it paused the practice under the terms of the June cease-fire, Iran insisted that the fees were for safety and environmental services. Some experts call that a contrived attempt by Iran to appear compliant with the United Nations Convention on the Law of the Sea, which allows such fees under specific conditions.&lt;br/&gt;(6월 휴전 조건에 따라 그 관행을 일시 중단할 때까지, 이란은 수수료가 안전 및 환경 서비스를 위한 것이라고 주장했다. 일부 전문가들은 이것이 특정 조건에서 그러한 수수료를 허용하는 유엔 해양법 협약을 준수하는 것처럼 보이려는 이란의 인위적인 시도라고 부른다.)&lt;/p&gt;
-&lt;p&gt;In fact, they say, Iran is actually establishing de facto tolls, which the convention outlaws. Iran signed but never ratified the convention, so it says the terms do not apply to it. The United States also has never ratified the convention.&lt;br/&gt;(실제로, 그들은 이란이 사실상 협약이 불법으로 규정하는 사실상의 통행료를 설정하고 있다고 말한다. 이란은 협약에 서명했지만 비준하지 않았으므로 그 조항이 자신에게 적용되지 않는다고 말한다. 미국도 협약을 비준한 적이 없다.)&lt;/p&gt;
-&lt;p&gt;The United States and some other countries rejected Iran’s demand that ships use that northern route, and in response, the U.S. military established the southern route in May along Oman’s coast.&lt;br/&gt;(미국과 일부 다른 국가들은 선박이 그 북쪽 경로를 사용해야 한다는 이란의 요구를 거부했고, 이에 대한 응답으로 미군은 5월에 오만 해안을 따라 남쪽 경로를 설정했다.)&lt;/p&gt;
-&lt;p&gt;After signing the agreement last month with Iran, Mr. Trump declared that the route was “totally safe, secure, and pristine.”&lt;br/&gt;(지난달 이란과 협정을 체결한 후, 트럼프는 그 경로가 "완전히 안전하고, 확보되었으며, 깨끗하다"고 선언했다.)&lt;/p&gt;
-&lt;p&gt;But as Iran and the United States vie for leverage, mainly using their militaries, risks to shipping companies could increase, said Dan Alamariu, the chief geopolitical strategist at Alpine Macro, an investment research firm.&lt;br/&gt;(그러나 이란과 미국이 주로 군대를 사용하여 레버리지를 놓고 경쟁함에 따라, 해운 회사에 대한 위험이 증가할 수 있다고 투자 리서치 회사인 Alpine Macro의 수석 지리정치 전략가 Dan Alamariu가 말했다.)&lt;/p&gt;
-&lt;p&gt;Iran has suffered economic pain but may be willing to endure more. Mr. Trump last week reinstated a U.S. ban on Iranian oil sales that he temporarily waived last month. But he has yet to reimpose a naval blockade of Iran’s ports.&lt;br/&gt;(이란은 경제적 고통을 겪었지만 더 많은 것을 견딜 의향이 있을 수 있다. 트럼프는 지난주 지난달 일시적으로 면제했던 이란 석유 판매에 대한 미국의 금지를 다시 시행했다. 그러나 그는 아직 이란 항구에 대한 해군 봉쇄를 재개하지 않았다.)&lt;/p&gt;
-&lt;p&gt;Mr. Alamariu said, “the question is which cracks first: the Iranian economy or the global economy?”&lt;br/&gt;(Alamariu는 "문제는 무엇이 먼저 무너지는가입니다: 이란 경제인가, 세계 경제인가?"라고 말했다.)&lt;/p&gt;
-&lt;p&gt;Reporting was contributed by David E. Sanger from Washington, Farnaz Fassihi and Peter Eavis from New York, and Jenny Gross from London.&lt;br/&gt;(보도에는 워싱턴의 David E. Sanger, 뉴욕의 Farnaz Fassihi와 Peter Eavis, 런던의 Jenny Gross가 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/12/multimedia/12dc-trump-strait-01-ctgl/12dc-trump-strait-01-ctgl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 07:43:37 +0000</pubDate></item><item><title>Hard-Liners in Iran Want to Keep Fighting America (이란 강경파, 미국과의 전쟁 계속 원해)</title><link>https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/multimedia/12int-Iran-Opposition-vwbp/12int-Iran-Opposition-vwbp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The striking prominence of red flags — a Shiite Muslim symbol for vengeance — among the sea of mourners attending the weeklong funeral of Iran’s late supreme leader was considered a none-too-subtle statement that the country should continue the war with the United States.&lt;br/&gt;(이란 최고지도자 장례식에 일주일 동안 참석한 수많은 조문객들 사이에서 붉은 깃발이 눈에 띄게 두드러진 것은 시아파 무슬림에게 복수를 상징하는 것으로, 이 나라가 미국과의 전쟁을 계속해야 한다는 아주 노골적인 메시지로 여겨졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 이슬람 공화국 내 극강경파의 요구로, 이들은 워싱턴과의 47년 대치를 유지하려 한다. 분석가들은 이 깃발들이 2월 미국과 이스라엘이 시작한 전쟁이 지도부를 참수하면서 테헤란에 정치적 불확실성을 불러온 이후, 이란의 새롭게 유동적인 정치 속에서 영향력 다툼이 벌어지고 있음을 보여주는 암시적인 사례라고 보았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-채터누가 테네시 대학의 사이드 골카르 교수는 이란의 보안군을 연구하며, 강경파들이 "애도의 분위기, 국가적 불안, 협상 반대 정서를 이용해 정치적으로 용인되는 논의의 범위를 좁히고 타협을 전략적으로 위험하고 도덕적으로 부당한 것으로 묘사하려 한다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-어쨌든, 지난주 미국과 이란이 군사 공습을 재개하면서 타협 가능성은 희미해졌다. 전투는 호르무즈 해협을 통한 주요 해운 항로에 대한 이란의 통제 범위라는 해결되지 않은 문제에서 촉발되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-휴전 붕괴는 양측이 6월 17일 서명한, 이란 핵 프로그램의 운명을 포함한 미래 평화 회담의 청사진인 양해각서를 위태롭게 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-토요일 저녁부터 일요일까지 전투가 재개되며 양측의 공습이 이어졌다. 이란 국영 IRIB 방송사가 보도한 성명에 따르면, 이란 해군이 허가 없이 항해하던 상선에 경고 사격을 가한 후 해협이 무기한 완전 폐쇄될 것이라고 발표했다. 미 중부사령부는 이란 내에서 보복 공습을 수행 중이라고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-재개된 전쟁은 협상 시작 이후 이란에서 분명히 드러난 협상의 현명함에 대한 의견 차이를 더욱 벌려놓았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-베를린의 싱크탱크인 중동 및 글로벌 질서 센터의 알리 파톨라-네자드 소장은 "'전장'을 중시하는 세력과 '외교'를 중시하는 세력 사이에 긴장이 있다"고 말했다. 그는 외교에 회의적인 이들은 이란의 핵 프로그램, 탄도 미사일, 중동 전역의 대리 세력이 "체제 생존, 억지력 및 힘 투사의 필수 불가결한 기둥이며, 따라서 협상 불가 대상"이라고 믿는다고 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-전반적으로, 전쟁 초기 최고지도자 아야톨라 알리 하메네이의 죽음은 이란을 운영하는 데 있어 이슬람 혁명 수비대의 입지를 강화한 것으로 보인다. 그의 아들이자 후계자가 공식석상에 모습을 드러내지 않은 것은 불확실성의 분위기를 더욱 부채질하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-골카르 교수는 "정치적 분위기가 매우 유동적이며, 누가 체제를 운영하는지 정말로 알 수 없다"며 "체제가 변화하고 있으며, 권력을 공고히 하는 데 시간이 필요하다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-강경파는 일반적으로 영향력보다는 소란스러운 것으로 간주되며, 그들 중에는 특히 이란의 붕괴된 경제를 복구하기 위해 협상을 지지하는 사람들도 많다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이란은 이와 유사한 길을 이전에도 걸어본 적이 있다. 오바마 행정부와 다른 세계 강대국들이 2015년 서명한 획기적인 국제 핵 협상을 협상하는 동안 비슷한 긴장이 발생했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-당시, 내부 변화를 추구하는 개혁파와 실용적 외교를 선호하는 세력은 미국을 지역에서 몰아내는 데 집착하는 보수파와 맞서 파벌 경쟁을 벌였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 후 2018년, 트럼프 대통령이 그 핵 협정에서 탈퇴했다. 개혁파는 워싱턴에 속아 핵 프로그램을 제한했다는 비난을 받으며 보수파가 정부 통제를 강화할 길을 열어주었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-파톨라-네자드 소장은 "지배 엘리트는 계속해서 다양한 강경파 계파가 장악하고 있다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-누구도 내부 반대를 용납하지 않지만, 한 진영은 자신을 실용적이라고 묘사하며 생존을 위해 미국과의 적대 행위를 끝내고 경제를 개방해야 한다고 주장한다. 다른 소수의 강경파는 이란 핵 프로그램 관련 사항을 포함해 워싱턴에 어떤 양보도 거부하며, 전쟁을 연장함으로써 이란이 승리할 수 있다고 믿는다.
-&lt;&lt;&lt;PARA&gt;&gt;
-분석가들은 군부의 지배력이 정치 파벌의 영향력을 줄였다고 말하며, 이제 안보 기관의 우선순위가 최우선이 되었기 때문이라고 설명한다. 현재로서는 안보 기관이 협상을 선호하고 있다. 의회 의장이자 수석 협상가인 모하마드 바게르 갈리바프는 전직 혁명 수비대 사령관으로, 2015년 핵 협정에 대한 협상을 맹렬히 비판했던 인물이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-정부에 대한 군부의 광범위한 통제가 정책에 대한 파벌적 책동을 제한하더라도, 지도부는 여전히 강경파 사회적 기반의 시각을 고려해야 한다. 강경파 체제 지지자는 일반적으로 9300만 인구의 최대 20%로 추산된다. 그들은 목요일에 끝난 일주일간의 장례식에 참석한 조문객의 핵심이었음이 틀림없다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아버지를 이어 최고지도자가 된 아야톨라 모즈타바 하메네이는 복수 촉구에 동참했다. 그는 토요일 발표된 드문 성명에서 "우리는 두 전쟁에서 범죄자이자 수치스러운 살인자들로부터 당신의 순수한 피와 모든 순교자의 피를 복수할 것을 맹세한다"며 "이 복수는 우리 민족의 요구이며 반드시 수행되어야 한다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-젊은 하메네이는 아버지의 장례식에 참석하지 않았으며, 2월 28일 이란에 대한 첫 공격에서 중상을 입은 것으로 알려진 이후 공개석상에 나타나지 않았다. 그는 앞서 양해각서에 동의하는 모호한 성명을 발표했지만, "원칙적으로" 서명하는 것에는 반대한다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-분석가들은 이러한 모호함이 극단주의자들에게 정책에 영향력을 행사할 여지를 주었고, 이는 장례식에서 붉은 깃발로 이어진 조직적인 노력을 촉발했다고 말했다. 많은 깃발에는 "오, 후세인을 위한 복수여"를 뜻하는 아랍어 문구가 새겨져 있었다. 서기 680년 폭군의 손에 의한 이맘 후세인의 죽음은 무고한 피를 갚고 폭정에 저항하는 중요한 시아파 상징이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-텍사스 A&amp;M 대학에서 이란 정치를 전문으로 연구하는 모하마드 타바르 교수는 "강경파들은 이슬람 공화국이 지도자와 고위 관료 암살에 대한 개인적 복수를 협상 전략으로서뿐만 아니라 미래 공격을 억제하는 수단으로서도 명시적으로 위협해야 한다고 믿는다"며 "우리는 이제 이 아이디어가 지도부에 의해 점차 채택되고 있으며, 하메네이 장례식에서 붉은 상징주의가 두드러지게 사용된 데서 이를 볼 수 있다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-카이한 신문의 영향력 있는 편집장 호세인 샤리아트마다리는 종종 강경파 사고를 반영하는 칼럼에서 협상가들이 해협을 통한 어떤 선박 통행도 허용한 이유에 의문을 제기했다. 그는 "호르무즈 해협을 여는 것이 적의 공격에 맞서 이슬람 이란을 무장 해제하는 것과 다름없다는 것을 확실히 알고 있지 않냐?!"고 썼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-더욱 노골적인 요구로, 그는 지난주 '우리는 트럼프의 머리를 원한다'는 제목의 1면 사설을 써서 정부가 미국 대통령을 합법적 표적으로 선언하고 그의 살해에 막대한 현상금을 내걸 것을 요구했다. 다른 여러 보수 또는 극단주의 일간지들도 트럼프에 대한 유사한 1면 위협을 게재했다. 강경파들은 최고지도자 암살 외에도 트럼프가 2020년 바그다드에서 중요한 혁명 수비대 사령관인 카심 술레이마니의 암살을 승인한 책임이 있다고 본다.
-&lt;&lt;&lt;PARA&gt;&gt;
-체제는 오랫동안 군중 규모를 정당성의 표시로 사용해 왔으며, 이란과 이라크의 수백만 조문객은 테헤란 정부가 국내 및 지역적 지지를 모두 누리고 있음을 증거로 인용되었다. 그러나 경제 문제는 올해 초 이란에서 광범위한 시위를 촉발했으며, 이는 극도의 폭력으로 진압되었고, 많은 정부 비판자들은 전쟁이 정권 교체를 가져오지 못한 것에 실망했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그럼에도, 정부는 협상에 대한 대중의 인식을 신중히 다뤄야 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-테네시 대학의 골카르 교수는 "체제의 사회적 기반을 고려해야 한다"며 "그것이 지난 40년간 체제를 집권하게 한 핵심이다. 위기가 있을 때마다 그들이 나선다. 그들을 버릴 수 없다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-분석가들은 이익이 충분히 가치 있다면 정부가 궁극적으로 반미 이데올로기를 폐기할 수도 있다고 말했다. 텍사스 A&amp;M 교수 타바르는 "만약 그들이 자신들에게 유익하고 미국이 약속을 이행할 신뢰할 수 있는 협상을 본다면, 그것이 이란 내 자신들의 지지층을 늘릴 수 있기 때문에 절대적으로 환영할 것"이라며 "미국과 더 나은 관계를 원하는 많은 이란인들에게 어필할 수 있다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-현재, 미국이 어떤 협상을 지킬 것이라는 강한 의구심이 지속되고 있다. 분석가들은 역사를 고려할 때, 트럼프가 유가 인하를 돕기 위해 협상을 원하지만 결국에는 이를 저버릴 것이라는 광범위한 의혹이 있다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-협상하는 측은 미국이 또 다른 합의를 찢어버릴 경우 바보처럼 보이지 않도록 거리를 유지하는 데 신중하다. 트럼프는 최근 충돌 상황에서 양해각서가 "끝났다"고 빠르게 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-협상이 시작된 직후, 이란 외무부 대변인 에스마일 바가에는 이란 대표단이 왜 미국 대표단과 공개적으로 악수하기를 거부했는지 질문을 받았다. 그는 루미의 시를 인용해 "인간의 얼굴을 한 악마가 많기 때문에 모든 손에 손을 내밀어서는 안 된다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-시린 하킴과 로진 라자비가 취재에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-Iran-Opposition-vwbp/12int-Iran-Opposition-vwbp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sun, 12 Jul 2026 02:24:55 +0000</pubDate></item><item><title>Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes (&lt;&lt;TITLE&gt;&gt;)</title><link>https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/multimedia/12int-spain-fires-01-vwmf/12int-spain-fires-01-vwmf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-thailand-fire-qkcp/12int-thailand-fire-qkcp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Mon, 13 Jul 2026 08:38:50 +0000</pubDate></item><item><title>Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes (&lt;&lt;TITLE&gt;&gt;)</title><link>https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/12/multimedia/12int-spain-fires-01-vwmf/12int-spain-fires-01-vwmf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Lucinda Curtois was cooling off in the pool of her vacation home outside Bédar, a green oasis in the desert of southern Spain popular with British and Belgian expatriates, when a neighbor stopped by with news of flames on a distant hillside.&lt;br/&gt;(스페인 마을 주민들, 맹렬한 산불 속 탈출기)&lt;/p&gt;
 &lt;p&gt;Ms. Curtois, 52, wasn’t alarmed. She had been coming from Britain to the area near the Mediterranean Sea for 17 years, and hadn’t received any kind of warning from the local authorities. When her father called from Britain, saying he had seen reports of a raging fire in the area, she told him there was nothing to worry about.&lt;br/&gt;(&lt;&lt;PARAS&gt;&gt;)&lt;/p&gt;
 &lt;p&gt;But soon after she had hung up the phone, she heard her teenage son shout that flames had reached a ridge near their villa. Suddenly seized with panic, Ms. Curtois, her husband and two teenage children ran to the car and drove down the hill to the sea. It was a mistake.&lt;br/&gt;(루신다 커투아는 스페인 남부 사막의 오아시스인 베다르 외곽에 있는 별장 수영장에서 더위를 식히고 있었다. 이 지역은 영국과 벨기에 이주민들에게 인기 있는 곳으로, 이웃이 다가와 먼 언덕에서 불길이 보인다는 소식을 전했다.)&lt;/p&gt;
