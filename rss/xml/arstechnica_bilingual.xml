@@ -1,80 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 15 Jul 2026 20:58:39 +0000</lastBuildDate><item><title>The US government warns that Russia state hackers are coming after your router (미국 정부, 러시아 국가 해커들이 라우터를 노리고 있다고 경고)</title><link>https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/wireless-router-cables-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;With residential proxies all the rage, CISA urges router users to be vigilant.&lt;br/&gt;(가정용 프록시가 큰 인기를 끌면서, CISA는 라우터 사용자에게 경계를 늦추지 말 것을 촉구합니다.)&lt;/p&gt;
-&lt;p&gt;The federal government is warning users of home and small office routers to secure their devices as Russia state hackers continue to mass-compromise them for use in obscuring nefarious actions against sensitive organizations in the public and private sectors.&lt;br/&gt;(연방 정부는 가정 및 소규모 사무실 라우터 사용자들에게 기기를 보호하라고 경고하고 있습니다. 러시아 국가 해커들이 공공 및 민간 부문의 민감한 조직을 대상으로 한 악의적인 행위를 은폐하기 위해 이러한 라우터를 대규모로 장악하고 있기 때문입니다.)&lt;/p&gt;
-&lt;p&gt;Both the Russian and Chinese governments have been compromising routers for years, sometimes in prolonged tugs-of-war to wrest control of devices the other has already commandeered. The US government has occasionally issued covert commands and taken other steps to disinfect routers. Google and other companies have also worked to disrupt the massive botnets that control compromised routers in lockstep. The actions to date are little more than whack-a-mole exercises as the operators simply replace their botnets with new ones.&lt;br/&gt;(러시아와 중국 정부는 수년 동안 라우터를 장악해 왔으며, 때로는 상대방이 이미 장악한 기기를 빼앗기 위해 장기간의 줄다리기를 벌이기도 했습니다. 미국 정부는 때때로 은밀한 명령을 내리거나 라우터를 정화하는 다른 조치를 취했습니다. 구글과 다른 회사들도 장악된 라우터를 동시에 제어하는 대규모 봇넷을 무력화하기 위해 노력해 왔습니다. 지금까지의 조치는 운영자들이 단순히 기존 봇넷을 새로운 것으로 교체하는 두더지 잡기 수준에 불과합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"러시아 연방보안국(FSB) 센터16 사이버 행위자들은 전 세계적으로 제대로 구성되지 않았거나 취약한 네트워킹 기기를 계속 악용하고 있으며, 기회가 닿는 대로 여러 중요 인프라 부문 네트워크를 장악하고 있습니다."라고 사이버보안 및 인프라 보안국이 월요일 밝혔습니다. 이 해킹 그룹은 Berserk Bear, Energetic Bear, Crouching Yeti, Dragonfly, Ghost Blizzard, Static Tundra 등 다양한 이름으로 추적되고 있습니다. 이 권고는 호주, 덴마크, 뉴질랜드, 영국 등 전 세계 정부와 공동으로 발표되었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-기관이 경고한 주요 장악 수단은 해커들이 일반적이거나 기본 인증 자격 증명을 수락하는 활성 SNMP(단순 네트워크 관리 프로토콜) 에이전트가 있는 IP 범위를 스캔하는 것이었습니다. 이러한 스캔은 행위자들이 대상 기기를 편입시키려는 바로 그 라우터 봇넷에 의해 실행됩니다. 위조된 주소에서 악성 트래픽을 보내 해커들은 제대로 구성되지 않은 라우터의 SNMP 에이전트를 사용하여 악성 코드를 실행할 수 있습니다. SNMP를 사용하면 관리되는 네트워킹 기기에 대한 정보를 수집 및 정리하거나 해당 정보를 수정하여 기기 동작을 변경할 수 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-기기를 장악한 후 해커들은 통신, 국방, 에너지, 금융 서비스, 정부 부문의 표적을 탐색하거나 공격할 때 이를 종료 노드로 사용합니다. 신뢰할 수 있는 IP 주소를 가진 정상적인 기기를 통해 악성 트래픽을 우회시킴으로써 공격자들은 방화벽 및 기타 보안 방어에 차단될 가능성을 낮출 수 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-월요일의 권고는 최근 몇 년간 중국이 수행한 동일한 작업에 대해서는 언급하지 않았습니다. 이른바 가정용 프록시는 금전적 동기를 가진 범죄 해커들이 자신의 실제 IP 주소를 은폐하기 위해 사용하는 주요 도구이기도 합니다. 많은 경우 이러한 종류의 프록시는 악성 코드가 사전 설치된 상태로 판매되는 수백만 대의 스트리밍 기기로 구성됩니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-기관은 라우터 사용자들에게 기기를 잠그라고 촉구했습니다. 주요 제안 사항 중 하나는 SNMP 버전 1과 2가 비밀번호를 암호화하지 않거나 다른 상식적인 보안 관행을 따르지 않으므로 이를 비활성화하는 것입니다. 대신 SNMP 버전 3만 사용해야 합니다. 더 나은 방법은 특정 용도로 필요하지 않은 한 SNMP를 완전히 비활성화하는 것입니다. 다른 보호 조치로는 모든 기기에서 Cisco Smart Install 비활성화, 강력한 비밀번호 사용, 정기적인 펌웨어 업데이트, 다른 네트워킹 프로토콜 사용 자제 등이 있습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/04/wireless-router-cables-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 13 Jul 2026 12:03:07 +0000</pubDate></item><item><title>US continues to shun Ebola-infected citizens; second American sent to Germany (미국, 에볼라 감염 시민 계속 외면… 두 번째 환자 독일로 이송)</title><link>https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284895790-2560x1440.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The man is said to be doing well in a Frankfurt hospital.&lt;br/&gt;(해당 남성은 프랑크푸르트 병원에서 상태가 호전되고 있는 것으로 전해졌다.)&lt;/p&gt;
-&lt;p&gt;A US citizen doing humanitarian work in the Democratic Republic of Congo has tested positive for Ebola, marking the second American infected amid the DRC’s explosive Ebola outbreak—and the second to be sent for care in Germany rather than the US.&lt;br/&gt;(콩고민주공화국(DRC)에서 인도주의 활동을 하던 미국 시민이 에볼라 양성 판정을 받았다. 이는 DRC의 폭발적인 에볼라 발병 속에서 감염된 두 번째 미국인이며, 미국이 아닌 독일로 치료를 받으러 보내진 두 번째 사례다.
-&lt;&lt;&lt;PARA&gt;&gt;
-5월 15일에 처음 발병이 선언된 이 에볼라 발병은 이미 기록상 세 번째로 큰 규모이며 계속 확산 중이다. 7월 12일 기준으로 DRC는 에볼라바이러스의 덜 알려진 분디부교 변종으로 인해 1,926건의 사례와 702명의 사망을 보고했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 행정부 하에서 미국은 고립주의적 접근 방식을 채택해 엄격하고 논란의 여지가 있는 여행 제한을 시행하고 바이러스에 노출되거나 감염된 시민의 본국 송환을 차단하고 있다. 이는 미국 내에 에볼라 환자를 안전하게 모니터링하고 고품질 치료를 제공하도록 설계된 여러 시설이 있음에도 불구하고다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국은 또한 발병 대응에서도 대부분 배제되어 있다. 취임 후 트럼프는 세계보건기구(WHO)에서 탈퇴하려 했으며, WHO는 바이러스 확산을 막기 위한 국제적 노력을 조율하고 있지만 여전히 의료진을 앞지르고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-월요일, 테드로스 아드하놈 게브레예수스 WHO 사무총장은 WHO가 감염된 미국인에게 임상 치료를 제공했으며, 이후 환자는 독일로 이송되어 후속 치료를 받았다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-구호 활동가들 사이에서 이러한 감염이 예상치 못한 일이 아니라고 말하면서, 테드로스는 바이러스 억제를 위한 더 많은 지원을 촉구했다. "발병이 확대됨에 따라 지역, 국가, 국제 파트너들의 가속화된 대응이 시급히 필요합니다,"라고 그는 월요일 소셜 미디어에 말했다. "WHO는 정부의 지도 아래 아프리카 CDC와 긴밀히 협력해 가능한 한 신속하게 발병을 통제하기 위해 노력하고 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-감염된 미국인은 복음주의 기독교 단체인 사마리아인의 지갑에서 일하고 있었다. 해당 단체는 언론에 감염된 직원이 60대 남성으로 창고 관리자로 일하고 있었다고 전했다. 그는 단체의 에볼라 치료 센터에서 직접 환자 치료에 관여하지 않았으며, 이는 그가 어떻게 감염되었는지에 대한 의문을 제기한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-월요일, 단체는 이 남성이 프랑크푸르트 대학 병원에 도착해 치료를 받고 있다고 밝혔다. 그는 "치료에 잘 반응하고 있으며 안정된 상태로, 병원의 특수 격리 병동에서 우수한 의료 서비스를 받고 있다"고 워싱턴 포스트에 보낸 성명에서 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 발병에서 첫 번째로 감염된 미국인인 피터 스태퍼드 박사는 다른 기독교 단체에서 일하고 있었으며 노출되었을 때 직접 환자를 치료하고 있었다. 그는 병에 걸린 후 치료를 위해 베를린으로 이송되었다. 그의 이송은 트럼프 행정부 관리들이 그를 미국으로 송환하는 것을 막으면서 지연된 것으로 알려졌다. 스태퍼드는 베를린에서 회복된 후 가족과 함께 미국으로 돌아왔다. 스태퍼드의 단체 동료 중 한 명도 노출되어 프라하로 모니터링을 위해 보내졌다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284895790-2560x1440.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 13 Jul 2026 13:07:34 +0000</pubDate></item><item><title>SpaceX is gearing up for Starship’s 13th test flight later this week (스페이스X, 이번 주 후반 스타십 13차 시험 비행 준비)</title><link>https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/starship_raptor3s-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.&lt;br/&gt;(이번 비행은 스타십에 더 높은 압력을 가하고 궤도에서 새로운 스타링크 위성을 시험할 예정이다.)&lt;/p&gt;
-&lt;p&gt;The next test flight of SpaceX’s Starship spacecraft and Super Heavy booster could take off as soon as Thursday, and much of the hour-long mission will look a lot like the last Starship flight in May .&lt;br/&gt;(스페이스X의 스타십 우주선과 슈퍼 헤비 부스터의 다음 시험 비행은 빠르면 목요일에 이륙할 수 있으며, 약 1시간 동안의 임무는 지난 5월 스타십 비행과 많은 부분에서 유사할 것이다.)&lt;/p&gt;
-&lt;p&gt;But there are a few key differences for this launch, set to occur during a launch window that opens at 5:45 pm CDT (22:45 UTC) on Thursday. The most notable change is the inclusion of real, functioning Starlink satellites inside Starship’s cargo bay. SpaceX previously tested the ship’s payload deployment mechanism using simulators mimicking the mass and dimensions of the company’s next-generation Starlink Version 3 broadband satellites.&lt;br/&gt;(그러나 이번 발사에는 몇 가지 주요 차이점이 있으며, 목요일 오후 5시 45분 CDT(22:45 UTC)에 시작되는 발사 기간 내에 이루어질 예정이다. 가장 주목할 만한 변화는 스타십의 화물칸 내부에 실제 작동하는 스타링크 위성이 포함된다는 점이다. 스페이스X는 이전에 회사의 차세대 스타링크 버전 3 광대역 위성의 질량과 크기를 모방한 시뮬레이터를 사용하여 우주선의 탑재체 전개 메커니즘을 테스트한 바 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번은 스타십의 13번째 본격 시험 비행이자 스페이스X의 최신 버전 스타십을 사용하는 두 번째 비행으로, 기술자들은 20개의 스타링크 V3 위성을 우주선 전개 장치에 설치했다. 이 장치는 도르래와 케이블 시스템으로, 우주선 측면의 개구부를 통해 위성 더미를 한 번에 하나씩 분사하도록 설계되었다. 이 위성들은 스페이스X의 운용 네트워크에 포함되지는 않지만, 엔지니어들은 스타링크 V3와 저궤도에서 비행하는 다른 우주선 간에 레이저 통신 링크를 일시적으로 구축하려 시도할 것이다. 성공할 경우, 이 링크는 스타링크 V3가 스페이스X의 이전 세대 스타링크 위성과의 상호 운용성을 입증할 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스페이스X의 이전 모든 스타십 시험 비행과 마찬가지로, 400피트(약 122미터)가 넘는 이 로켓은 텍사스 스타베이스 발사장에서 인도양의 미리 지정된 위치까지 지구 반 바퀴를 도는 긴 준궤도 궤적을 따라 비행할 것이다. 스타십과 20개의 스타링크 위성의 비행은 대기권으로 재진입하기 전까지 약 1시간 조금 더 지속될 것이다. 우주선은 호주 북서부 해상에서 통제된 해상 착수를 목표로 하며, 스타링크 위성들은 재진입 과정에서 불타 소멸될 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 주 임무의 비행 계획은 스타링크 위성이 태양 전지판과 안테나를 펼치기에 충분한 시간만 우주에서 제공한다. 또한 위성들은 약 100마일(약 160km) 이상 상공을 비행하면서 남아프리카의 지상국과 연결을 시도할 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-게다가, 스페이스X에 따르면 일부 스타링크 V3에는 스타십의 열 차폐체를 스캔하고 지상 엔지니어에게 영상을 전송하는 카메라가 탑재될 것이다. 이 영상은 지상 팀이 "향후 임무에서 발사 장소로 귀환하기 위한 스타십의 열 차폐체 준비 상태를 분석하는 방법을 계속 테스트"할 수 있게 해줄 것이라고 스페이스X는 웹사이트 게시물에서 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난 스타십 임무에서는 두 개의 스타링크 모형이 외부 촬영용 카메라를 탑재하여 우주의 어두운 공간을 배경으로 한 우주선의 모습을 전송했다. 이번에는 스페이스X가 6개의 스타링크 위성에 카메라를 부착했다. 이번 주 임무에서의 촬영 기회는 지난 비행과 마찬가지로 야간에 이루어질 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다음 스타십 시험 비행에 스타링크 V3가 포함된 것은 앞으로 다가올 일의 전조다. 완전히 적재된 스타십은 단일 비행으로 최대 60개의 스타링크 V3를 발사할 수 있어 네트워크 용량의 극적인 확장을 가능하게 한다. V2 위성을 탑재한 팰컨 9 발사는 각각 약 2.6 Tbps를 군집에 추가한다. 스타십을 V3 위성 전체 스택과 결합하면 네트워크에 60 Tbps를 추가할 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스타십은 고객 탑재체와 스페이스X의 제안된 궤도 데이터 센터 네트워크를 위한 대형 플랫폼을 포함한 다른 종류의 위성도 운반하도록 설계되었다. 이 로켓은 달과 화성 비행용으로도 설계되었다. 스타십은 달 남극에 우주비행사를 착륙시키기 위한 NASA의 아르테미스 프로그램의 핵심 부분이다. 그러나 스타십의 첫 번째 실제 운용 임무는 아마도 올해 후반에 계획대로 진행된다면 스페이스X의 3세대 스타링크 군집을 배치하는 것으로 시작될 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스페이스X는 이러한 모든 야망을 달성하기 전에 스타십을 저궤도로 보내야 한다. 목요일의 거의 완벽한 시험 비행은 회사를 궤도 발사의 직전 단계에 올려놓을 것이다. 이는 차례로 스타십이 실제 위성 발사, 궤도 내 재급유 시연, 그리고 향후 재사용을 위한 스타십의 텍사스 스타베이스 첫 귀환과 같은 몇 가지 중요한 이정표를 향해 나아갈 수 있게 해줄 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-스페이스X가 이번 주에 궤도 비행을 시도하지 않는 한 가지 이유는 지난 발사에서 시험 목표 중 하나를 완료하지 못했기 때문이다. 당시 우주선은 6개의 랩터 엔진 중 하나를 우주에서 짧게 점화해야 했으나, 발사 과정에서 랩터 엔진이 조기에 정지하면서 점화를 건너뛰었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-우주선의 나머지 비행은 계획대로 진행되어 인도양에서 정확한 해상 착수로 마무리되었다. 이는 더 강력한 새로운 랩터 엔진을 선보이는 스페이스X 스타십 V3의 첫 비행이었다. 그러나 관계자들은 궤도 비행을 진행하기 전에 무기력한 우주 진공에서 랩터 엔진이 재점화할 수 있는 능력에 대한 확신이 필요하다. 최악의 시나리오에서는 랩터 엔진 재점화 실패로 스타십이 궤도에 발이 묶여, 거대한 스테인리스강 차량이 무유도 재진입을 하게 되어 공공 안전에 위험이 될 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 주 임무의 비행 계획에는 5월에 완료되지 않은 랩터 재시작 목표가 포함되어 있다. 주말 동안 웹사이트에 게시된 업데이트에서 스페이스X는 비행 12에서 랩터 엔진의 조기 정지 원인을 다루지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"차량은 엔진 손실 능력을 입증하고 계획된 준궤도 궤적에 도달할 수 있었습니다"라고 회사는 웹사이트에 썼다. "상호 연결된 원인을 해결하기 위해 여러 하드웨어 및 운용 수정이 이루어졌으며, 향후 랩터 엔진 버전에서 추가적인 신뢰성 개선이 계획되어 있습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-스타십의 마지막 비행에서 완료되지 않은 또 다른 목표는 로켓의 슈퍼 헤비 부스터(1단)의 해상 착수와 관련이 있었다. 이 부스터는 이륙 후 몇 분 만에 우주선(상단)과 분리되면서 제어력을 잃었다. 스페이스X는 부스터가 남텍사스 발사 기지에서 하류의 멕시코 만 해상 착수 지점으로 스스로 비행하도록 의도했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"비행 12의 단 분리 시점에서, 우주선의 엔진 시동 미세 차이로 인해 부스터의 방향 전환이 약 90도 어긋났습니다"라고 스페이스X는 썼다. "시동 순서는 타이밍 변동성에 더 강건하고 원하는 방향으로 더 안정적으로 전환되도록 수정되었으며, 이는 전반적인 성능을 향상시키기 위해 이루어졌습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-"단 분리 및 방향 전환 후, 슈퍼 헤비 부스터는 귀환 점화를 시도했습니다"라고 스페이스X는 계속했다. "33개 엔진 중 5개가 재점화 시도 중 문제를 겪어 귀환 점화가 조기 종료되었습니다. 이번 비행의 슈퍼 헤비는 재점화 신뢰성을 개선하기 위한 하드웨어 수정과 함께 다중 엔진 비행 환경에서 관찰된 조건에 맞춰진 엔진 경보 및 중단 업데이트가 적용되었습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-스페이스X는 또한 비행 13을 사용하여 스타십의 열 차폐체 실험을 계속할 예정이며, 이는 프로그램에서 가장 까다로운 기술적 과제 중 하나이다. 전체 로켓이 스페이스X가 의도하는 대로 빠르게 재사용 가능해지려면, 수천 개의 세라믹 타일로 구성된 열 차폐체가 단 한 번만 우주선을 보호해서는 안 된다. 이 타일은 정비나 교체 없이 재진입의 극심한 열을 반복해서 견딜 수 있을 만큼 견고해야 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"스타십의 가장 큰 남은 문제는 무엇일까요? 그것은 열 차폐체를 재사용 가능하게 만드는 것입니다"라고 머스크는 2월 Dwarkesh Podcast에서 말했다. "아무도 재사용 가능한 궤도 열 차폐체를 만든 적이 없습니다. 열 차폐체는 상승 단계에서 타일을 많이 떨어뜨리지 않고 견뎌내야 하며, 그런 다음 다시 돌아와서도 타일을 많이 잃거나 주 동체를 과열시키지 않아야 합니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 우주선을 바다에 부드럽게 착륙시키며 되돌려온 적이 있습니다. 몇 번 해봤지만 타일을 많이 잃었고, 많은 작업 없이는 재사용이 불가능했을 것입니다"라고 머스크는 말했다. "착륙시켜 추진제를 재충전하고 다시 비행하려면, 4만 개의 타일을 일일이 검사하는 이런 노동 집약적인 작업을 할 수 없습니다."
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 비행에서 스페이스X는 수정된 타일과 부착 메커니즘을 시험하여 다양한 열 차폐체 옵션에 대한 비행 데이터를 수집할 것이다. 또한 열 차폐체에는 이전 비행보다 상승 중 더 높은 동압을 경험할 때 측정을 위한 "하중 감지 타일"이 장착될 것이다. 이 더 높은 동압은 "궤도 탑재량 능력 증가를 대가로 타일 부착물에 추가적인 스트레스를 가할 것"이라고 스페이스X는 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/starship_raptor3s-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 13 Jul 2026 16:17:14 +0000</pubDate></item><item><title>Boomers, not Gen Z, are the generation cutting back most on alcohol (베이비붐 세대, Z세대보다 술 소비 가장 크게 줄인 세대로 밝혀져)</title><link>https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-609621216-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 15 Jul 2026 23:08:07 +0000</lastBuildDate><item><title>Boomers, not Gen Z, are the generation cutting back most on alcohol (베이비붐 세대, Z세대보다 술 소비 가장 크게 줄인 세대로 밝혀져)</title><link>https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-609621216-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;New research overturns assumption that abstinent younger drinkers are behind weak demand.&lt;br/&gt;(새 연구는 젊은 층의 금주 추세가 알코올 수요 약세를 주도한다는 통념을 뒤집었다.)&lt;/p&gt;
 &lt;p&gt;Baby boomers are the generation cutting back most on alcohol consumption, outstripping Gen Z’s abstinence, as moderation takes hold at every level of society.&lt;br/&gt;(베이비붐 세대가 전체 사회 계층에서 절제가 자리 잡으면서 Z세대의 금주율을 앞지르며 알코올 소비를 가장 크게 줄이고 있다.)&lt;/p&gt;
 &lt;p&gt;Seventy-one percent of boomers, those born between 1946 and 1964, consumed alcohol in the past six months—the lowest drinking rate of any generation and down 2 percentage points from three years ago, according to IWSR, a market researcher for the global beverage industry.&lt;br/&gt;(세계 음료 시장 조사기관 IWSR에 따르면 1946년에서 1964년 사이에 태어난 베이비붐 세대의 71%가 지난 6개월간 술을 마셨으며, 이는 모든 세대 중 가장 낮은 음주율로 3년 전보다 2%포인트 하락한 수치다.)&lt;/p&gt;
@@ -566,4 +491,115 @@ ESET이 식별한 심은 다양한 익스플로잇에 취약한 것으로 알려
 &lt;p&gt;As explained in a post by a different analyst: “When a new user is logging on, Windows needs to load the user’s class hive. Since the user isn’t logged on before logging on (tautology, I know), it can’t be loaded in the context of the user. So it is loaded in the context of NT AUTHORITY\SYSTEM. LegacyHive abuses this.”&lt;br/&gt;(다른 분석가의 게시글에 따르면 "새 사용자가 로그온할 때 Windows는 해당 사용자의 클래스 하이브를 로드해야 합니다. 사용자는 로그온 전에는 로그온된 상태가 아니므로(동어반복임을 압니다), 사용자 컨텍스트에서 로드할 수 없습니다. 따라서 NT AUTHORITY\SYSTEM 컨텍스트에서 로드됩니다. LegacyHive는 이를 악용합니다.")&lt;/p&gt;
 &lt;p&gt;In an emailed statement, Microsoft said it’s aware of the vulnerability report and is investigating. The company also noted its preference that vulnerability reporters follow a coordinated disclosure policy.&lt;br/&gt;(이메일 성명에서 마이크로소프트는 취약점 보고를 인지하고 있으며 조사 중이라고 밝혔습니다. 또한 회사는 취약점 보고자가 조정된 공개 정책을 따르는 것을 선호한다고 강조했습니다.)&lt;/p&gt;
 &lt;p&gt;For now, Windows users who want to protect their systems against HiveLegacy can run a detection script published by independent researcher Kevin Beaumont. Other defenses are to restrict local non-user account creation, monitor ProfSvc for unexpected hive loads, and track NTUSER.DAT/UsrClass.dat activity.&lt;br/&gt;(현재 HiveLegacy로부터 시스템을 보호하려는 Windows 사용자는 독립 연구원 Kevin Beaumont가 게시한 탐지 스크립트를 실행할 수 있습니다. 다른 방어 방법으로는 로컬 비사용자 계정 생성을 제한하고, ProfSvc의 예상치 못한 하이브 로드를 모니터링하며, NTUSER.DAT/UsrClass.dat 활동을 추적하는 것이 있습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-1024x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 15 Jul 2026 10:59:48 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-1024x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 15 Jul 2026 10:59:48 +0000</pubDate></item><item><title>Engineer identifies and explains every ’90s computer seen inJurassic Park (엔지니어가 《쥬라기 공원》에 등장하는 모든 90년대 컴퓨터를 식별하고 설명하다)</title><link>https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/unix-system-jp-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Yes, it was, in fact, a Unix system.&lt;br/&gt;(네, 맞습니다. 실제로 유닉스 시스템이었습니다.)&lt;/p&gt;
+&lt;p&gt;Jurassic Park , while beloved as a film, has been the subject of snarky memes for the infamous line in which one of the characters declares, “This is a Unix system, I know this!” while using a computer with an unusual 3D file manager interface.&lt;br/&gt;(《쥬라기 공원》은 영화로 사랑받고 있지만, 한 캐릭터가 특이한 3D 파일 관리자 인터페이스를 가진 컴퓨터를 사용하면서 "이건 유닉스 시스템이에요, 저는 알아요!"라고 외치는 악명 높은 대사로 인해 비꼬는 밈의 대상이 되어 왔습니다.)&lt;/p&gt;
+&lt;p&gt;Despite the memes, the film’s production team was meticulous in accurately sourcing the right PCs (and adjacent details) for the sets—not too much of a surprise, given writer Michael Crichton’s background with computing and his obsessive attention to detail in the book the film is based on.&lt;br/&gt;(밈에도 불구하고, 이 영화의 제작팀은 세트에 적합한 PC(및 관련 세부 사항)를 정확히 조달하는 데 세심한 주의를 기울였습니다. 이는 작가 마이클 크라이튼이 컴퓨팅에 대한 배경 지식을 가지고 있고 영화의 원작 소설에 대한 집요한 세부 묘사에 집착한다는 점을 고려하면 그리 놀라운 일이 아닙니다.)&lt;/p&gt;
+&lt;p&gt;This was made clear by a little hobbyist investigation from Google software engineer Fabien Sanglard . He scanned the film and picked out every specifically identifiable piece of hardware he could see, listed what they were, and shared context from other sources on their specs, costs, and how they ended up in the production.&lt;br/&gt;(이는 구글 소프트웨어 엔지니어 파비앙 상글라르의 취미 수준의 조사에서 명확히 드러났습니다. 그는 영화를 스캔하며 볼 수 있는 모든 구체적으로 식별 가능한 하드웨어 부품을 찾아내고, 그것들이 무엇인지 나열했으며, 다른 출처에서 사양, 가격, 그리고 제작에 사용된 경위에 대한 맥락을 공유했습니다.)&lt;/p&gt;
+&lt;p&gt;Truthfully, none of this is new information; people have been discussing the technology in Jurassic Park for years. But it hadn’t been put all in one place in a highly readable analysis in a long time, and it gained some traction this week on Reddit and Hacker News . Plus, Jurassic Park has been on our minds given the recent passing of beloved actor Sam Neill .&lt;br/&gt;(솔직히 말해, 이것은 새로운 정보가 아닙니다. 사람들은 수년 동안 《쥬라기 공원》의 기술에 대해 논의해 왔습니다. 하지만 오랜만에 이 정보가 매우 가독성 높은 분석으로 한곳에 모인 것이며, 이번 주 레딧과 해커 뉴스에서 주목을 받았습니다. 게다가 사랑받는 배우 샘 닐의 최근 별세로 인해 《쥬라기 공원》이 우리 마음속에 떠오르고 있었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+식별된 하드웨어에는 (다른 것들 중에서도) 5대의 씽킹 머신즈 CM-5 시스템, 모토로라 엔보이 PDA, 그리고 여러 당시 최첨단 SGI 워크스테이션(IRIS Crimson 및 R4000 Indigo 포함)이 포함됩니다. 추가 배경 정보를 위해 상글라르는 《쥬라기 공원》 특수 효과 코디네이터 코리 파우셰의 인용문을 공유했는데, 이는 《쥬라기 공원 제작기》라는 책에서 볼 수 있습니다:
+&lt;&lt;&lt;PARA&gt;&gt;
+세트에 있는 모든 것은 진짜였습니다. 관객들이 컴퓨터에 대해 매우 정교한 지식을 가지고 있기 때문에 우리는 어떤 것도 가짜로 만들 수 없었습니다. 총 실리콘 그래픽스에서 대여한 87만 5천 달러 상당의 컴퓨터 하드웨어, 애플에서 대여한 35만 달러 상당, 그리고 추가로 50만 달러 상당의 하드웨어와 소프트웨어가 세트와 무대 뒤 제어실을 갖추는 데 사용되었습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+캐릭터 데니스 네드리의 컴퓨터 중 두 대는 맥이었으며, 각각 매킨토시 쿼드라 700이었습니다. 이는 오늘날 애플이 악당의 손에 자사 기기를 두는 제품 배치를 금지하는 정책을 가지고 있다는 보고를 고려하면 다소 아이러니합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+소프트웨어에도 고려가 있었습니다. 많은 사람들이 영화에서 퀵타임 비디오 플레이어를 알아보았습니다. 상글라르는 여러 지점에서 캐릭터들이 실제 CLI에서 작업하고 있음을 관찰했으며, 물론 "이건 유닉스 시스템이에요"라는 대사를 촉발한 실제 실험적 3D 파일 시스템 브라우저인 FSN도 있습니다. (네, 실제로 유닉스 시스템이 맞습니다.)
+&lt;&lt;&lt;PARA&gt;&gt;
+참고: FSN 파일 탐색기를 직접 실험해보고 싶다면 가능합니다. 올해 초, 컴퓨터 역사가이자 애호가인 앤드루 워켄틴은 영화에서 볼 수 있는 일부 소프트웨어를 포함한 "가상 OS 박물관"이라는 174GB 컬렉션을 출시했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+상글라르의 블로그 게시물에서 더 많은 조사할 장치, 사양 및 기타 흥미로운 역사적 인용문을 찾을 수 있습니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/unix-system-jp-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 15 Jul 2026 12:04:22 +0000</pubDate></item><item><title>Judge: Trump can’t deport researchers just for working in content moderation (판사: "트럼프, 콘텐츠 조정 업무만으로 연구원 추방 불가")</title><link>https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2201944209-1024x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Disinformation researchers praise ruling blocking Trump visa denials and deportations.&lt;br/&gt;(허위정보 연구원들, 트럼프 비자 거부 및 추방 정책 차단 판결 환영)&lt;/p&gt;
+&lt;p&gt;This week, the Coalition for Independent Technology Research (CITR) won a key battle in its fight to reverse a visa-restriction policy that the Trump administration had used to attempt to revoke green cards and deport non-US citizens who work on misinformation, disinformation, fact-checking, content moderation, compliance, and trust and safety.&lt;br/&gt;(이번 주, 독립 기술 연구 연합(CITR)이 불법·허위정보, 팩트체크, 콘텐츠 조정, 규정 준수, 신뢰·안전 관련 업무를 하는 미국 비시민권자의 영주권 취소 및 추방을 시도하는 데 트럼프 행정부가 사용했던 비자 제한 정책을 뒤집기 위한 싸움에서 중요한 승리를 거뒀다.
+&lt;&lt;&lt;PARA&gt;&gt;
+화요일 공개된 의견에서 제임스 보아스버그 미국 연방지방법원 판사는 CITR의 소송이 해결될 때까지 국무부가 해당 정책을 시행하지 못하도록 하는 예비적 금지명령을 승인했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+표면적으로 이 정책은 비자 거부나 추방을 요구하지 않는다. 대신, 미국의 표현을 억압해 여론을 조작하려는 외국 적대 세력을 돕는 것으로 의심되는 개인에 대한 이민 조사를 승인한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+소송 과정에서 국무부는 이 정책에 따라 명시적으로 표적이 된 다섯 명의 연구원 중 누구라도 미국인을 검열하거나 미국 공론을 조작하려는 외국 세력과 연루되었다는 사실을 입증하지 못했다. 보아스버그 판사는 규제되지 않은 상태에서는 국무부의 권한이 "콘텐츠 조정 분야 자체를 넘어서는 명확한 중단점이 없는" 것으로 보인다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+자신의 업무를 수행하는 신뢰·안전 노동자들에 대한 공격은 특히 우려스럽다고 보아스버그 판사는 지적했다. 마코 루비오 국무장관이 자신의 부서가 "표적 연구원 명단을 확대할 준비가 되어 있고 기꺼이 그러겠다"고 위협했기 때문이다. 이것이 보아스버그 판사가 국무부의 요청처럼 금지명령을 CITR 회원에게만 제한하지 않고 정책 집행을 광범위하게 중단시킨 이유다. 판사는 다음과 같이 설명했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"플랫폼의 신뢰·안전 팀에서 일하는 합법적 영주권자, 더 강력한 허위정보 라벨을 요구하는 비시민권자 연구원, 조정 규칙 적용을 돕는 규정 준수 직원, 또는 거짓 정보를 퍼뜨리는 사이트에서 광고주를 돌리려는 옹호 단체 지도자는 이 정책이 단순히 콘텐츠 조정 업무를 한다는 이유만으로 자신의 이민 신분을 위험에 빠뜨릴 수 있다고 합리적으로 이해할 수 있다—외국의 주권 권력을 휘두르거나 검열을 용이하게 해서가 아니라."
+&lt;&lt;&lt;PARA&gt;&gt;
+보아스버그 판사에 따르면, 국무부는 플랫폼이 검열의 선을 넘기 전에 어느 정도의 콘텐츠 조정이 허용되는지에 대한 격렬한 공개 논쟁에서 "집행의 엄지를 저울 한쪽에 두고" 있었다. 판사는 트럼프 대통령의 견해에 따라, 더 많은 조정을 선호하는 비시민권자 연구원이 더 적은 조정을 선호하는 연구원보다 이 정책에 따라 불이익을 받을 가능성이 더 높아 보인다고 지적했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+보아스버그 판사는 CITR이 돌이킬 수 없는 피해를 피하기 위해 금지명령이 필요하다고 주장했고, 정부는 이에 대해 이의를 제기하지도 않았다고 말했다. 정부는 CITR에 소송을 제기할 자격이 없다는 점을 입증할 것으로 예상되며 그 부분에 주력한 것으로 보인다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 CITR은 다른 연구원들에 의해 확인된 증거를 제시했으며, 이 정책이 연구, 옹호 활동 및 여행을 위축시켰다고 주장했다. CITR의 경우, 이 정책은 특히 보고 활동을 손상시키고, 행사를 망치고, 비용을 증가시키며, 대중을 대상으로 한 작업을 축소시켰다.
+&lt;&lt;&lt;PARA&gt;&gt;
+보아스버그 판사는 CITR이 연구원들을 관점에 따라 부적절하게 검열함으로써 수정헌법 제1조를 위반했다는 점을 입증할 가능성이 있는 충분한 피해 증거를 제시했다고 판결했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+보아스버그 판사는 "미국 정치 논쟁의 상당 부분은 어떤 관행이 자유인지 규제인지, 안전인지 억압인지, 책임인지 검열인지에 대한 의견 차이로 구성된다"고 썼다. "수정헌법 제1조는 관리들이 그들이 비난하는 쪽에 법적 부담을 부과하여 그 논쟁을 해결하는 것을 허용하지 않는다."
+&lt;&lt;&lt;PARA&gt;&gt;
+국무부 정책의 첫 번째 표적 중에는 X(트위터)를 비판한 온라인 안전 연구원들이 포함되어 있었으며, X의 소유주인 일론 머스크는 여전히 트럼프의 동맹이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+전 유럽연합 집행위원 티에리 브르통은 부분적으로 2024년 X에 디지털 서비스법(DSA)에 따른 의무에 관한 서한을 보냈다는 이유로 표적이 되었다. 브르통의 사례는 국무부가 외국 세력과 공모해 미국 표현을 검열했다는 혐의에 가장 근접한 사례였다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 보아스버그 판사는 국무부의 주장이 정책에서 외국 주권 위협을 구성하는 것에 대한 자체 평가와 충돌한다고 말했다. 판사는 국무부가 유럽 규제 당국이 DSA를 사용해 미국인을 검열하는지 조사했지만 온라인 표현의 검열이나 범죄화를 가능하게 하는 남용에 대한 "증거를 찾지 못했다"고 언급했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+또한 국무부는 다른 표적 연구원들을 미국 입국 금지에 대한 정책 이익과 연결할 수 없었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+보아스버그 판사는 정책 자체가 불법이라고 시사하지는 않았으며, 단지 콘텐츠 조정에 종사하는 사람들에 대한 정책 집행이 수정헌법에 위배되는 것으로 보인다고만 지적했다. 그는 "국무부가 주장하는 이익과 정책의 실제 운영 사이의 불일치가 뚜렷하다"며 CITR이 수정헌법 제1조 청구에서 승소할 가능성이 높다고 경고했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+국무부의 표적이 된 연구원들은 소송이 진행되면서 더 광범위한 보복에 대한 두려움이 남아 있음에도 판결을 환영했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+디지털 증오 대응 센터(CCDH)의 CEO이자 설립자인 임란 아흐메드는 사전 통보 없이 추방 위협에 직면했으며, 이는 별도의 소송을 제기한 후에야 일시적으로 차단되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+CCDH는 머스크가 궁극적으로 패소한 장기간의 X 광고 보이콧 소송에서 머스크와 공개적으로 충돌했다. 판사는 X의 소송이 CCDH의 발언을 "처벌"하기 위한 것이라고 판결했다. 보아스버그 판사는 국무부가 X를 구체적으로 언급하지는 않았지만, "소셜 미디어 플랫폼의 증오와 허위정보를 기록하는 CCDH의 연구"와 "그것이 발견한 것에 대해 광고주와 플랫폼에 조치를 취하도록 압박하는 캠페인" 때문에 아흐메드를 표적으로 삼았다고 주장했다고 썼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+Ars에 제공된 성명에서 아흐메드는 빅테크 이익이 트럼프 행정부의 신뢰·안전 연구원 공격에 영향을 미쳤다고 시사했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아흐메드는 "저는 10년 전 소셜 미디어가 촉진하는 엄청난 양의 증오, 사기, 심지어 자해와 폭력을 밝히기 위해 디지털 증오 대응 센터(CCDH)를 시작했습니다"라고 말했다. "억만장자(지금은 조만장자) 기술 임원들, 그들의 로비스트, 그리고 그들의 명령을 따르는 정치인들은 그것을 '검열'이라고 부릅니다. 그러나 주요 기술 플랫폼에 대한 투명성을 높이는 것은 검열이 아닙니다. 검열은 정부가 가장 큰 기부자들이 듣고 싶어하지 않는 견해를 가진 사람들의 영주권을 취소하려고 할 때 발생합니다. 권력에 거울을 비추는 것은 검열이 아닙니다. 거울을 든 사람을 추방하는 것이 검열입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+안나-레나 폰 호덴베르크와 조세핀 발론은 아흐메드의 의견에 동의하며, 국무부가 플랫폼이 안전하지 않다고 판단될 때 광고 수익을 잃을 위험이 있는 소셜 미디어 회사에 이익이 되도록 움직이고 있다고 말했다. 독일 비영리 단체 HateAid의 CEO인 이들은 온라인 학대 피해자가 유해 콘텐츠를 삭제하도록 돕는 일을 한다는 이유로 표적이 되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+보아스버그 판결에 대한 공동 성명에서 CEO들은 "오늘의 결정은 강력한 메시지를 보냅니다. 온라인 플랫폼이 어린이와 사회에 미치는 위험—허위정보 및 반유대주의 유포를 포함—을 이해하기 위해 노력하는 독립적인 기술 연구원들은 그렇게 했다는 이유로 처벌받아서는 안 됩니다. 이 판결은 미국의 기본 권리가 온라인 플랫폼의 상업적 이익을 위해 희생되어서는 안 된다는 것을 분명히 합니다"라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마지막으로, 글로벌 허위정보 지수(GDI)의 공동 설립자 클레어 멜포드는 뉴스 및 정보 사이트가 플랫폼 신뢰성을 평가하는 데 도움을 주기 위해 "허위정보 위험 등급"을 발행했던 과거 업무 때문에 유사하게 표적이 되었다. 성명에서 그녀는 집행 중단 및 여행 제한 해제에 대한 법원의 결정을 칭찬하는 다른 사람들과 함께했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+멜포드는 "이것은 표현의 자유를 위한 승리이며, 그것을 두려워하는 자들에 대한 패배입니다. GDI는 온라인 광고에서 자유 시장 거래를 알립니다"라고 말했다. "CEO로서 저의 미국 여행 금지는 정부가 저를 검열하고 자유 시장에 간섭하려는 용납할 수 없는 시도였습니다.")&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2201944209-1024x648.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 15 Jul 2026 12:26:02 +0000</pubDate></item><item><title>Sheetz is quitting VMware, migrating 11,000 virtual machines (시츠, VMware 탈퇴 선언… 1만 1000개 가상머신 이전)</title><link>https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/images-1152x648-1784145789.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;The convenience store chain will use StorMagic instead.&lt;br/&gt;(편의점 체인이 스토매직(StorMagic)으로 전환한다.)&lt;/p&gt;
+&lt;p&gt;Sheetz, a US convenience store chain, is moving its 838 locations off VMware.&lt;br/&gt;(미국 편의점 체인 시츠(Sheetz)가 838개 지점의 VMware 사용을 중단한다.)&lt;/p&gt;
+&lt;p&gt;Sheetz has used VMware virtualization across two Dell R440/R450-series servers at each of its locations since 2019. Now it’s migrating 12 to 14 virtual machines (VMs) in each of its stores from VMware vSphere to StorMagic’s SvHCI, “with an additional two VMs to be replaced over the coming months to transition from Windows 10 to Windows 11,” Scott Robertson, infrastructure team manager at Sheetz, told Ars Technica via email. Ultimately, Sheetz will move about 11,000 VMs from Broadcom’s virtualization platform. Sheetz is still running the original Dell server hardware.&lt;br/&gt;(시츠는 2019년부터 각 지점의 Dell R440/R450 시리즈 서버 2대에서 VMware 가상화를 사용해 왔다. 이제 각 매장의 12~14개 가상머신(VM)을 VMware vSphere에서 스토매직의 SvHCI로 이전하고 있으며, “향후 몇 달 안에 Windows 10에서 Windows 11로 전환하기 위해 추가로 2개의 VM을 교체할 예정”이라고 시츠의 인프라팀 관리자 스콧 로버트슨(Scott Robertson)이 이메일로 Ars Technica에 전했다. 궁극적으로 시츠는 브로드컴(Broadcom)의 가상화 플랫폼에서 약 1만 1000개의 VM을 옮길 것이다. 시츠는 여전히 원래의 Dell 서버 하드웨어를 사용 중이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+오늘 회사 발표에 따르면, 지금까지 시츠는 월 평균 200개씩 600개 이상의 매장 이전을 완료했다. 발표에 따르면 시츠는 4개월 안에 이전 작업을 마칠 예정이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+로버트슨은 시츠가 VMware를 떠나기로 결정한 이유가 브로드컴의 변경 사항, 즉 영구 라이선스를 폐지하고 대규모 번들 구독으로 전환한 정책 때문이라고 밝혔다. 그는 다음과 같이 덧붙였다:
+&lt;&lt;&lt;PARA&gt;&gt;
+예상된 가격 인상, 강제적인 구독 모델, 그리고 5년 약정이 결합되어 장기 예산 편성에 너무 많은 불확실성을 초래하고 공급업체 의존도를 높였습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+브로드컴의 인수로 불만을 느낀 VMware 고객을 유치하려는 수많은 경쟁업체가 있다. 그러나 좌절한 IT 부서조차도 28년간 가상화의 대명사가 된 VMware의 폭과 역량에 필적하는 대체재를 찾는 데 어려움을 겪고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+시츠는 2019년부터 중요 매장 애플리케이션을 위해 VMware와 함께 스토매직의 가상 스토리지 영역 네트워크 솔루션인 SvSAN을 사용해 왔으며, 이번에 스토매직을 최종 선택했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“초기 도입을 통해 스토매직이 대규모 분산 소매 환경에서 필요한 복원력과 중앙 집중식 관리를 제공할 수 있음을 입증했습니다.”라고 시츠의 플랫폼 엔지니어링 디렉터 게리 슬리버(Gary Sliver)는 성명에서 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+슬리버는 또한 이전 작업에 “모든 현장에 기술자를 보낼 필요가 없었다”고 언급했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+로버트슨은 Ars에 SvSAN에서 SvHCI로 원격으로 전환하고 하드웨어 업그레이드가 필요하지 않아 시츠가 “상당한” 비용을 절약할 수 있을 것이라고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 대규모 IT 프로젝트에서 예상되듯 가상화 플랫폼 이전은 여전히 어려움을 안겨준다. 시츠의 가장 큰 이전 장애물에 대한 질문에 로버트슨은 Ars에 다음과 같이 답했다:
+&lt;&lt;&lt;PARA&gt;&gt;
+자동화와 [SvHCI의 VMware] VM 가져오기 유틸리티는 이 이전 작업을 확장하는 데 절대적으로 필수적이었습니다. 365일 24시간 운영되는 소매 환경에서 비즈니스 중단을 최소화하는 것이 중요했습니다. 전체 전환 과정에서 매장 운영이 최대한 원활하게 이루어지도록 철저한 계획과 강력한 자동화가 필요했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+API와 관련된 SvHCI 제품의 성숙도 덕분에 추가 작업이 약간 필요했으며, 이전의 주요 과제는 환경 규모에 비해 작업을 수행할 시간을 확보하는 것이었습니다. 동시에 계획, 개발, 구현을 진행해야 했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+많은 기업에게 VMware에서 이전하는 것은 필요한 비용, 시간, 인력 때문에 부담스러운 일이다. 또한 일부 기업은 VMware와 동일한 기능과 호환성을 가진 대체재를 찾는 데 어려움을 겪고 있다고 보고한다. VMware 기술에 의존하는 조직에게는 전체 또는 부분 이전조차도 현실적으로 불가능해 보일 수 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+결과적으로 VMware 제품 사용을 중단하거나 줄이는 데 관심이 있는 많은 VMware 고객이 있지만, 아직 실행에 옮기지 못했거나 계획 단계에 머물러 있다. 지난 9월, 가트너(Gartner)는 2028년까지 VMware 워크로드의 35%가 다른 곳으로 이전될 것이라고 추정했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+스토매직은 중소기업(SMB)을 대상으로 서비스를 제공하는 것으로 유명하지만, 오늘 발표는 특히 수많은 SMB 규모 지점을 보유한 기업을 타겟으로 하는 브로드컴의 VMware 전략이 겨냥하는 대기업 고객을 유치하려는 관심을 강조한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“실제로 우리는 항상 두 가지 뚜렷한 시장에 집중해 왔습니다: SMB/중간 시장 데이터센터와 시츠와 같은 대규모 분산 기업의 ‘에지’ 환경입니다. 수백, 수천 개의 소매점, 식료품점, 지점을 가진 분산 기업은 실제로 각 현장에서 지역 SMB와 유사한 IT 과제에 직면합니다.”라고 스토매직의 글로벌 영업 SVP 스콧 맨(Scott Mann)이 이메일로 Ars에 전하며, 이러한 조직이 제한된 물리적 공간, 전력, 현장 기술 인력, 예산을 가지고 있다고 지적했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+경영진은 현재 VMware의 엔터프라이즈 고객들 사이에서 추가 기회를 보고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+“역사적으로 대기업은 에지 위치에서 ‘VMware 세금’을 관행적으로 감수해 왔습니다. 그러나 최근의 대규모 업계 변화, 특히 브로드컴의 VMware 인수로 인해 기업들은 원격 현장을 유지하기 위해 막대한 예산 증가에 직면하고 있습니다.”라고 맨은 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+최근 VMware에서 이전 중인 것으로 밝혀진 다른 기업으로는 Allstate, T-Mobile, 영국 식료품 체인 Tesco가 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+브로드컴 측은 VMware의 라이선스 모델 변경이 업계 전반의 추세에 부합한다고 주장하며, VMware 인수가 재정적으로 성공적이라고 평가하고 있다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/images-1152x648-1784145789.jpg" length="0" type="image/jpeg"/><pubDate>Wed, 15 Jul 2026 12:41:56 +0000</pubDate></item></channel></rss>
