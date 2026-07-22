@@ -1,82 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT Business Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/Business_fulltext.xml</link><description>Full-text NYT Business articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/Business_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 22 Jul 2026 10:13:14 +0000</lastBuildDate><item><title>Review Says Gates Foundation Did Not Participate in Epstein Crimes</title><link>https://www.nytimes.com/2026/07/21/business/gates-foundation-epstein.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/21/multimedia/21biz-gates-review-cpbj/21biz-gates-review-cpbj-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;Outside investigators hired by the Gates Foundation concluded that the influential philanthropy did not participate in the crimes of Jeffrey Epstein, the convicted sex offender who sought to cultivate a relationship with Bill Gates.&lt;/p&gt;
-&lt;p&gt;The law firm WilmerHale investigated only the foundation and not Mr. Gates’s dealings with Mr. Epstein in “a personal capacity.” Mr. Gates, who heads and funds the foundation, was among the 50-odd current and former foundation employees and officers interviewed.&lt;/p&gt;
-&lt;p&gt;But the review was limited in key ways, as the investigators acknowledged in a footnote: Its lawyers did not have access to Mr. Gates’s personal communications with Mr. Epstein. The review did not include Mr. Gates’s personal interactions with Mr. Epstein. Nor did the review include the activities of Mr. Gates’s private office, Gates Ventures, whose employees had contact with Mr. Epstein, according to the files released by the Justice Department this year.&lt;/p&gt;
-&lt;p&gt;In a three-page executive summary released on Tuesday by the foundation, WilmerHale said it “found no evidence of participation in or knowledge of Epstein’s ongoing sex trafficking operations or criminal activities.” Investigators also said that the foundation was not aware at the time that Mr. Epstein was using its name “to help advance his conduct,” and “found no evidence that Epstein was paid by the foundation.”&lt;/p&gt;
-&lt;p&gt;The full report was not made public. But its top-line findings may help put to rest some of the unease inside the foundation after the release of the Epstein files invoked a fervor in right-wing circles and inside the $90 billion foundation.&lt;/p&gt;
-&lt;p&gt;Mr. Gates has consistently denied that his ties to Mr. Epstein went beyond seeking a philanthropic partnership, and he has repeatedly described that effort as an error in judgment. The review noted that foundation leaders, including Mr. Gates, had met with Mr. Epstein roughly 30 times between 2011 to 2014 to discuss, among other topics, Mr. Epstein’s idea to set up a donor-advised fund.&lt;/p&gt;
-&lt;p&gt;The review said that Mr. Gates and other senior foundation staff were made aware of Mr. Epstein’s criminal conviction. “Mr. Gates was aware of reputational concerns related to Epstein’s prior conviction and sentencing for a sex-related offense when he began conversations with him in 2011,” investigators wrote.&lt;/p&gt;
-&lt;p&gt;Mr. Gates, who is the co-founder of Microsoft, said in a statement Tuesday: “Completing this review is an important step in providing the clarity that partners, employees and grantees deserve.”&lt;/p&gt;
-&lt;p&gt;The foundation said it would institute a series of governance reforms in the wake of the WilmerHale report, including new vetting processes and greater scrutiny of people who work for Mr. Gates’s personal ventures and the foundation simultaneously.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/21/business/gates-foundation-epstein.html</guid><pubDate>Tue, 21 Jul 2026 10:51:48 +0000</pubDate></item><item><title>A Houthi Blockade Could Worsen an Already Fragile Oil Market</title><link>https://www.nytimes.com/2026/07/21/business/oil-red-sea-houthis.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/21/multimedia/21Biz-Redsea-Shipping-fmjh/21Biz-Redsea-Shipping-fmjh-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;Threats from the Iran-backed Houthi militant group this week to block Saudi Arabia’s use of the Red Sea risk cutting off a crucial alternative path for Mideast oil and further destabilizing a global energy market upended by the war in Iran.&lt;/p&gt;
-&lt;p&gt;Since March, the Saudis have been moving millions of barrels of oil west each day through a pipeline and loading it onto tankers. From there, most of the vessels have navigated the Bab al-Mandab strait, a waterway at the southern end of the Red Sea, mostly to customers in Asia.&lt;/p&gt;
-&lt;p&gt;IRAQ&lt;/p&gt;
-&lt;p&gt;IRAN&lt;/p&gt;
-&lt;p&gt;Suez Canal&lt;/p&gt;
-&lt;p&gt;Strait&lt;/p&gt;
-&lt;p&gt;of Hormuz&lt;/p&gt;
-&lt;p&gt;SAUDI&lt;/p&gt;
-&lt;p&gt;ARABIA&lt;/p&gt;
-&lt;p&gt;Persian&lt;/p&gt;
-&lt;p&gt;Gulf&lt;/p&gt;
-&lt;p&gt;EGYPT&lt;/p&gt;
-&lt;p&gt;Oil pipelines&lt;/p&gt;
-&lt;p&gt;OMAN&lt;/p&gt;
-&lt;p&gt;SUDAN&lt;/p&gt;
-&lt;p&gt;Red&lt;/p&gt;
-&lt;p&gt;Sea&lt;/p&gt;
-&lt;p&gt;YEMEN&lt;/p&gt;
-&lt;p&gt;Arabian&lt;/p&gt;
-&lt;p&gt;Sea&lt;/p&gt;
-&lt;p&gt;Houthi&lt;/p&gt;
-&lt;p&gt;stronghold&lt;/p&gt;
-&lt;p&gt;Bab al-Mandab&lt;/p&gt;
-&lt;p&gt;Strait&lt;/p&gt;
-&lt;p&gt;Suez Canal&lt;/p&gt;
-&lt;p&gt;IRAN&lt;/p&gt;
-&lt;p&gt;Strait of Hormuz&lt;/p&gt;
-&lt;p&gt;SAUDI&lt;/p&gt;
-&lt;p&gt;ARABIA&lt;/p&gt;
-&lt;p&gt;Persian&lt;/p&gt;
-&lt;p&gt;Gulf&lt;/p&gt;
-&lt;p&gt;EGYPT&lt;/p&gt;
-&lt;p&gt;Oil pipelines&lt;/p&gt;
-&lt;p&gt;OMAN&lt;/p&gt;
-&lt;p&gt;SUDAN&lt;/p&gt;
-&lt;p&gt;Red&lt;/p&gt;
-&lt;p&gt;Sea&lt;/p&gt;
-&lt;p&gt;Arabian Sea&lt;/p&gt;
-&lt;p&gt;YEMEN&lt;/p&gt;
-&lt;p&gt;Houthi stronghold&lt;/p&gt;
-&lt;p&gt;Bab al-Mandab Strait&lt;/p&gt;
-&lt;p&gt;SOMALIA&lt;/p&gt;
-&lt;p&gt;Sources: Global Energy Monitor (pipelines); Critical Threats Project at the American Enterprise Institute (Houthi-controlled areas)&lt;/p&gt;
-&lt;p&gt;Samuel Granados/The New York Times&lt;/p&gt;
-&lt;p&gt;Before the war, one-fifth of the world’s oil passed through the Strait of Hormuz. Now, another choke point might be turned into a geopolitical weapon, underlining how drastically trade routes have been scrambled. Energy producers that devised workarounds to deliver shipments are now facing the possibility of needing to map new routes.&lt;/p&gt;
-&lt;p&gt;It was not apparent how or even whether the Houthis, who are based in Yemen, will carry through on their declaration, which they issued on Monday. But there were signs that the threat could be affecting sea traffic. Two oil tankers heading toward the Bab al-Mandab made U-turns and were moving north toward the Suez Canal, according to Kpler, a maritime data company. But that route can be costlier and logistically more complex.&lt;/p&gt;
-&lt;p&gt;On Tuesday, more than 93 crude oil tankers were operating in the Red Sea, a big increase from the approximately 50 tankers a day before the war, Kpler found, a reflection of the increased use of Saudi Arabia’s Yanbu port on the Red Sea. In recent months, Saudi Arabia has been exporting around 3.6 million barrels of oil and related fuels a day via the Bab al-Mandab strait. Before the war, the Saudis exported fewer than one million barrels per day via that route. Most of the oil shipped from Saudi ports south through the Red Sea is sent to South Korea, Japan, China and other destinations in Asia.&lt;/p&gt;
-&lt;p&gt;Even though the redirection of oil flows away from the Persian Gulf has allowed Saudi Arabia to continue delivering energy supplies to global markets, its overall exports of crude are running at a fraction of prewar levels.&lt;/p&gt;
-&lt;p&gt;Note: Data includes exports of crude oil and refined fuels, such as gasoline and diesel.&lt;/p&gt;
-&lt;p&gt;Source: Kpler.&lt;/p&gt;
-&lt;p&gt;Rebecca F. Elliott/The New York Times&lt;/p&gt;
-&lt;p&gt;According to a shipping executive, speaking on the condition of anonymity over concerns about the safety of his seafarers and vessels, shipowners received an email dated Monday from the Houthis warning them against loading cargo at Saudi Arabian ports. A Houthi official confirmed the email.&lt;/p&gt;
-&lt;p&gt;Oil traders have so far not reacted strongly to the Houthi threat. Brent, the global oil benchmark, is up about 3 percent this week to above $90 a barrel.&lt;/p&gt;
-&lt;p&gt;Several factors are cushioning oil prices. China is importing much less oil, and the United Arab Emirates is producing more, Ian Bremmer, the president of Eurasia Group, a geopolitical risk consultancy, wrote in a note. At the same time, the United States still has enough stockpiles of gasoline and diesel to meet roughly two months’ worth of demand.&lt;/p&gt;
-&lt;p&gt;But any attack on ships or infrastructure in the Red Sea would have a chilling effect on the market, analysts said.&lt;/p&gt;
-&lt;p&gt;“Even if one tanker gets hit by a drone, then that very much sends a signal to shipowners and crews,” said Hamad Hussain, an economist with Capital Economics, a consulting firm. “It would only take a couple to spook ships from making the trip.”&lt;/p&gt;
-&lt;p&gt;If Saudi Arabia deems shipping oil via the Red Sea’s Bab al-Mandab strait too risky, it has alternatives: It could send oil and fuels north to the Mediterranean via a pipeline in Egypt or the Suez Canal.&lt;/p&gt;
-&lt;p&gt;That approach, however, would be logistically challenging, not to mention very expensive. The Egyptian pipeline cannot accommodate all the oil that Saudi Arabia is currently sending south, and the Suez Canal is too shallow for fully loaded crude tankers. It would take an extra four weeks to export oil from Saudi Arabia to Asia via the northern route, said Matt Smith, a Kpler analyst.&lt;/p&gt;
-&lt;p&gt;The Houthis have caused lasting disruptions in the Red Sea in the past, attacking ships in 2023 shortly after the onset of the Gaza war. Today, Red Sea traffic is at only 55 percent to 60 percent of what it was before 2023, according to data from Windward, a maritime data firm.&lt;/p&gt;
-&lt;p&gt;The latest threats come at a particularly difficult time, with Iran’s attacks on ships transiting the Strait of Hormuz prompting many shipowners and operators to decide it is too dangerous to use that waterway. The strait has been practically at a standstill, with the exception of a brief cease-fire, since the United States and Israel launched strikes on Iran on Feb. 28. Only 12 ships passed through the critical waterway on Monday, Kpler said, down from about 130 before the war.&lt;/p&gt;
-&lt;p&gt;The Houthis control a significant part of Yemen. The threat to blockade Saudi Arabia, a U.S. ally, risks opening a new front in the regional war and further disrupting global energy supplies. Last week, the Houthis accused Saudi Arabia of striking Yemen’s main international airport in Sanaa.&lt;/p&gt;
-&lt;p&gt;But Gregory Brew, a senior analyst with the Eurasia Group, said the last time hostilities flared between Saudi Arabia and Yemen in 2023, the Houthis appeared to avoid attacking ships carrying Saudi oil.&lt;/p&gt;
-&lt;p&gt;That history, he said, has given investors some hope that the newest Houthi threats will not escalate. And yet even a limited offensive by the Houthis would worry markets and raise prices, Mr. Brew said. If that happens, he said, “Oil prices would be likely to climb above $100 a barrel this month unless we get decisive de-escalation between the United States and Iran.”&lt;/p&gt;
-&lt;p&gt;Shuaib Almosawa contributed reporting from Sanaa, Yemen.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/21/business/oil-red-sea-houthis.html</guid><pubDate>Tue, 21 Jul 2026 11:13:21 +0000</pubDate></item><item><title>Trump Plans to Impose Tariffs on Generic Drugs</title><link>https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html</link><description>&lt;![CDATA[
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT Business Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/Business_fulltext.xml</link><description>Full-text NYT Business articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/Business_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 22 Jul 2026 12:22:06 +0000</lastBuildDate><item><title>Trump Plans to Impose Tariffs on Generic Drugs</title><link>https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2024/12/21/multimedia/21dc-trump-drugs/21SCI-SPAN-05-tqkf-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 President Trump said he plans to impose tariffs on generic medicines in an effort to bring pharmaceutical manufacturing back to the United States.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html</guid><pubDate>Tue, 21 Jul 2026 16:24:53 +0000</pubDate></item><item><title>How Donald Trump Jr.’s 1789 Capital Is Cashing In Without Apology</title><link>https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html</link><description>&lt;![CDATA[
@@ -86,6 +9,12 @@ Omeed Malik, left, and Donald Trump Jr.
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/21/multimedia/21dc-laredo-trade-vid-cover-2-zpmj/21dc-laredo-trade-vid-cover-2-zpmj-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html</guid><pubDate>Wed, 22 Jul 2026 00:01:47 +0000</pubDate></item><item><title>See How Houthis Put the Red Sea at Risk as an Alternative Oil Route</title><link>https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/21/multimedia/2026-07-21-middle-east-chokepoints-index/2026-07-21-middle-east-chokepoints-index-mediumSquareAt3X-v8.png"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/21/multimedia/2026-07-21-middle-east-chokepoints-index/2026-07-21-middle-east-chokepoints-index-mediumSquareAt3X-v9.png"/&gt;&lt;/p&gt;
 Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html</guid><pubDate>Wed, 22 Jul 2026 00:02:31 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html</guid><pubDate>Wed, 22 Jul 2026 03:17:51 +0000</pubDate></item><item><title>Global Oil Price Jumps as War Threats Intensify</title><link>https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/22/multimedia/biz-osg-hormuz-tfhm/biz-osg-hormuz-tfhm-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+The risk of continued fighting and a threatened blockade in the Red Sea added to uncertainty about the flow of energy from the region.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html</guid><pubDate>Wed, 22 Jul 2026 02:46:29 +0000</pubDate></item><item><title>Trump’s New Trade Fights (and Deals)</title><link>https://www.nytimes.com/2026/07/22/business/dealbook/trump-trade-saudi-canada.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/22/multimedia/22db-trump-jcgh/22db-trump-jcgh-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+Trade fights and agreements are increasingly front of mind for President Trump.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/22/business/dealbook/trump-trade-saudi-canada.html</guid><pubDate>Wed, 22 Jul 2026 03:01:47 +0000</pubDate></item></channel></rss>
