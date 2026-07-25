@@ -1,49 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 25 Jul 2026 16:09:57 +0000</lastBuildDate><item><title>Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them (젤렌스키의 눈부신 급선회, 수많은 방향 전환으로 점철된 대통령직의 최신 사례)</title><link>https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/23/multimedia/23int-ukraine-zelensky-gbzh/23int-ukraine-zelensky-gbzh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Before he became president, Volodymyr Zelensky played Napoleon in a comedic film that portrayed his character as a headstrong idiot who refused to change course even as he led his army to ruin.&lt;br/&gt;(대통령이 되기 전, 볼로디미르 젤렌스키는 코미디 영화에서 나폴레옹 역을 맡아, 자신의 군대를 파멸로 이끌면서도 방향을 바꾸지 않는 고집 센 바보 캐릭터를 연기했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-대통령으로서 젤렌스키는 자신이 연기한 프랑스 장군의 모습과 정반대다——어쩌면 지나치게 유연하다고 할 정도다. 분석가들은 그가 임명과 정책에 관한 결정을 너무 자주 번복하여, 전시 지도력에 혼란과 인사 변동이 위험 요소로 작용한다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난 일주일 반 동안의 최근 혼란에서, 젤렌스키는 처음에는 군사 전략과 무기 구매 문제를 두고 경험 많은 최고 장군과 개혁 성향의 인기 있는 국방장관 간의 갈등에서 장군 편을 들었다. 그는 지난주에 장관을 해임했다. 그러다 화요일 늦게, 장군을 해고하고 한 세대 아래인 사령관을 임명했는데, 이 인물은 방금 해임된 국방장관과 동맹 관계에 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이는 이해하기 어려운 급선회였으며, 젤렌스키는 군대 강화를 위한 개혁에 대한 헌신을 재확인한 것 외에는 공개적으로 설명하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 사건으로 우크라이나는 2022년 러시아의 전면 침공 이후 국내 정치에서 가장 심각한 혼란 중 하나에 빠졌다. 국방장관 미하일로 페도로프 해임에 항의하는 시위자들이 거리로 나섰고, 젤렌스키의 최근 입장 번복도 추가 시위 요구를 잠재우지 못했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-젤렌스키의 지지자들에게는 여론에 귀 기울이고 급선회를 하는 그의 의지가 우크라이나 민주주의의 강점이자 독재적인 러시아 통치와의 중요한 대비를 보여준다. 전쟁이 시작된 지 거의 4년 반, 대통령 임기 7년이 지난 지금, 대다수 우크라이나인은 젤렌스키를 지도자로 신뢰한다고 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 그의 빈번한 방향 전환은 전쟁의 시련이 확고한 지도력을 요구하는 상황에서 약점으로 비칠 수 있다. 젤렌스키에 대한 비판 중 하나는 그가 연예계 본능을 정치에 끌어들여, 가장 큰 박수를 받기 위해 노력하고 승인을 찾아 이리저리 방향을 바꾼다는 점이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"좋은 소식은 그가 방향을 수정한다는 점입니다,"라고 런던 채텀 하우스의 우크라이나 프로그램 책임자 오리샤 루체비치는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-나쁜 소식은 그가 얼마나 자주 그리고 노골적으로 그렇게 하는지입니다, 라고 그녀는 덧붙였다. "그는 휘어집니다. 인간으로서 의심이 있습니다. 자신에 대해 확신이 없습니다,"라고 루체비치는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-페도로프를 해임한 후, 젤렌스키는 그에게 정부 내 다른 자리를 제안했다. 목요일, 페도로프가 새 임명에 동의할지에 대한 며칠간의 추측 끝에, 그는 국방장관으로 복귀하는 제안만 받아들이겠다고 성명을 통해 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"다른 역할은," 무기 구매의 부패 척결, 군대 현대화, 그리고 그의 짧은 6개월 임기 동안 국방부가 시작한 다른 계획들을 완수하는 데 "실질적인 권한을 갖지 않는다,"고 그는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-젤렌스키는 다른 인물을 국방장관 후보로 지명할 것임을 시사했다. 이 계획을 고수한다면, 페도로프가 잠재적인 정치적 반대자로 부상할 위험이 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-군 지도부에 대한 그의 급선회에서 젤렌스키는 공개적으로 실수를 인정하지 않았다. 지난주 자신의 정당 당원들과의 비공개 회의에서, 그는 국방장관과 최고 장군 올렉산드르 시르스키 간의 충돌에서 난처한 상황을 설명했다고 우크라이나 언론이 보도했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-자동화 무기의 전도사인 페도로프는 시르스키 장군이 로봇화 전략을 지연시키고 있다고 비난했다. 젤렌스키는 정치적 동맹자들에게 두 사람을 모두 해고함으로써 갈등을 해결하는 것을 고려했지만, 지도력의 너무 급격한 변화를 우려했다고 보도했다. 그래서 그는 장관만 해임하며 장군 편을 들었다는 신호를 보냈다.
-&lt;&lt;&lt;PARA&gt;&gt;
-러시아 침공 전, 젤렌스키 정부는 회전문 같았다. 그는 농지 민영화와 국영 기업 거버넌스 개혁이라는 야심 찬 의제로 대통령직을 시작했다. 하지만 1년도 안 되어 첫 내각을 해임했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-코로나19 팬데믹 기간 중 한 달에 보건장관을 두 번 교체하기도 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-전면 침공 후 첫 해 동안, 젤렌스키는 대부분의 주요 장관과 보안 서비스 지도자를 그대로 두었다. 하지만 이번 달 그가 시작한 정부 개편(페도로프 해임 포함)은 1년 만에 두 번째다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그리고 지난 여름, 젤렌스키는 부패 방지 기관을 약화시키려는 정부 계획에서 또 다른 방향 전환을 했다. 그와 그의 당 의원들은 변경 사항을 시행했지만, 대규모 시위 후 방향을 바꿨다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 달 정부 개편에서 일부 임명은 유지되었고 거의 논란을 일으키지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-젤렌스키는 경제학자 율리아 스비리덴코를 전 에너지 임원 세르히 코레츠키로 총리 자리에 교체했다. 이 조치는 러시아의 겨울철 에너지망 공격에 대비한 준비로 여겨졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 젤렌스키가 궁극적으로 페도로프를 국방장관으로 복귀시킴으로써 완전히 방향을 바꿀지 여부는 주요 의문으로 남아 있다. 키이우의 독립 분석 그룹 펜타(Penta) 대표 볼로디미르 페센코는 그렇게 하면 젤렌스키의 입지가 약화될 것이라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"만약 페도로프가 현재 상황에서 국방장관 자리로 돌아온다면, 우크라이나에 병행 권력 중심지가 생길 것입니다,"라고 페센코는 말했다. "이는 젤렌스키의 정치적 종말의 시작이 될 것입니다.")&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/23/multimedia/23int-ukraine-zelensky-gbzh/23int-ukraine-zelensky-gbzh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Thu, 23 Jul 2026 06:45:01 +0000</pubDate></item><item><title>Chaos Breaks Out at Border Crossings With Iraq (이라크 국경 검문소에서 혼란 발생)</title><link>https://www.nytimes.com/2026/07/23/world/middleeast/iraq-border-crossings-struck.html</link><description>&lt;![CDATA[&lt;p&gt;Two of Iraq’s border crossings were attacked on Thursday during the latest round of hostilities overnight in the Middle East, according to officials and videos on social media verified by The New York Times. It was not immediately clear who launched the attacks.&lt;br/&gt;(이라크의 두 국경 검문소가 목요일 중동에서 발생한 최신 야간 충돌 과정에서 공격을 받았다고 관리들과 뉴욕타임스가 확인한 소셜 미디어 영상이 전했다. 누가 공격을 감행했는지는 즉시 확인되지 않았다.)&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 25 Jul 2026 18:12:51 +0000</lastBuildDate><item><title>Chaos Breaks Out at Border Crossings With Iraq (이라크 국경 검문소에서 혼란 발생)</title><link>https://www.nytimes.com/2026/07/23/world/middleeast/iraq-border-crossings-struck.html</link><description>&lt;![CDATA[&lt;p&gt;Two of Iraq’s border crossings were attacked on Thursday during the latest round of hostilities overnight in the Middle East, according to officials and videos on social media verified by The New York Times. It was not immediately clear who launched the attacks.&lt;br/&gt;(이라크의 두 국경 검문소가 목요일 중동에서 발생한 최신 야간 충돌 과정에서 공격을 받았다고 관리들과 뉴욕타임스가 확인한 소셜 미디어 영상이 전했다. 누가 공격을 감행했는지는 즉시 확인되지 않았다.)&lt;/p&gt;
 &lt;p&gt;The first attack occurred in the early morning hours of Thursday near the Iranian side of the Shalamcheh border crossing with Iraq in Iran’s Khuzestan province. Iranian and Iraqi media outlets reported that a rest station for police officers at the crossing had been struck by U.S. airstrikes.&lt;br/&gt;(첫 번째 공격은 목요일 이른 시간에 이란 후제스탄주의 이라크 국경 샬람체 검문소 이란 측 근처에서 발생했다. 이란과 이라크 미디어 매체들은 검문소의 경찰 휴게소가 미국의 공습을 받았다고 보도했다.)&lt;/p&gt;
 &lt;p&gt;U.S. Central Command, which oversees operations in the region, did not immediately respond to questions about the attack.&lt;br/&gt;(지역 작전을 총괄하는 미 중부사령부는 이 공격에 대한 질문에 즉시 답변하지 않았다.)&lt;/p&gt;
 &lt;p&gt;In a video, crowds can be seen fleeing as explosions ring out near the Iranian side of the crossing.&lt;br/&gt;(한 영상에서는 검문소 이란 측 근처에서 폭발음이 울리자 군중이 도망치는 모습이 보인다.)&lt;/p&gt;
@@ -415,7 +371,89 @@ C.J.P.는 금요일에 전국 집회를 촉구했다.
 &lt;p&gt;It is not an accident that Mr. Farandou is visiting Spain instead of the United States, Asia or the Middle East, where many buildings are also heavily air-conditioned. Those places are too distant, culturally and geographically, to be useful models for France, he said. Even trying to live more like their Spanish neighbors will be a stretch for the French, he said, though they will have little choice.&lt;br/&gt;(파랑두 씨가 미국, 아시아 또는 중동 대신 스페인을 방문하는 것은 우연이 아닙니다. 그 곳들은 많은 건물이 에어컨으로 heavily 냉방되지만, 문화적, 지리적으로 너무 멀어 프랑스의 유용한 모델이 될 수 없다고 그는 말했습니다. 심지어 스페인 이웃처럼 살려는 시도조차 프랑스인에게는 어려운 일이겠지만, 선택의 여지가 거의 없다고 그는 말했습니다.)&lt;/p&gt;
 &lt;p&gt;“Deep down, I have this conviction,” Mr. Farandou said: The French people “will have to change something relatively profound in order to adapt in adapt to these very long periods of intense heat.”&lt;br/&gt;("마음속 깊이, 저는 확신이 있습니다." 파랑두 씨는 말했습니다. 프랑스 국민은 "이 매우 긴 극심한 더위 기간에 적응하기 위해 비교적 근본적인 무언가를 바꿔야 할 것입니다.")&lt;/p&gt;
 &lt;p&gt;Ségolène Le Stradic contributed reporting.&lt;br/&gt;(세골렌 르 스트라디크가 보도에 기여했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/24/multimedia/24int-paris-spain-heat-kmlz/24int-paris-spain-heat-kmlz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 24 Jul 2026 07:10:17 +0000</pubDate></item><item><title>Is Instagram’s Latest Travel Trend a Disaster Waiting to Happen? (인스타그램의 최신 여행 트렌드, 재앙의 씨앗인가?)</title><link>https://www.nytimes.com/2026/07/24/travel/risky-trips-instagram-tiktok-social-media.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/25/multimedia/25trav-risky-social-01-kgfv/25trav-risky-social-01-kgfv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/24/multimedia/24int-paris-spain-heat-kmlz/24int-paris-spain-heat-kmlz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 24 Jul 2026 07:10:17 +0000</pubDate></item><item><title>First Girls’ Polo Team Breaks With Tradition, but Keeps the Goat Carcass (키르기스스탄 최초 여성 폴로팀, 전통 깨고 염소 시체는 그대로)</title><link>https://www.nytimes.com/2026/07/24/world/europe/first-girls-polo-team-breaks-with-tradition-but-keeps-the-goat-carcass.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/30/multimedia/00Kyrgyzstan-girls-polo-dispatch-01-mhfz/00Kyrgyzstan-girls-polo-dispatch-01-mhfz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;On a muddy field in Kyrgyzstan, eight teenagers on horseback thundered back and forth playing a Central Asian version of polo known as kok-boru. But instead of mallets, they used their bare hands, and in place of a ball was a headless dead goat.&lt;br/&gt;(키르기스스탄의 진흙 투성이 경기장에서 8명의 10대 청소년이 말을 타고 중앙아시아식 폴로인 '콕보루'를 하며 분주히 오갔다. 그런데 채 대신 맨손을 사용했고, 공 대신 머리 없는 죽은 염소가 사용되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+16세의 베기마이 바키로바는 염소 시체가 말 옆구리에서 천천히 미끄러지는 것을 잡으려고 질주했다. 양옆에서는 두 소년이 그녀를 밀치고, 고함을 지르며 염소를 잡으려 했다. 기수들과 말이 전속력으로 다가오자 관중들은 측면에서 흩어졌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 경기는 키르기스스탄의 톈산 산맥 근처에 있는 수백 채의 목조와 흙집 마을인 아실바쉬에서는 흔한 광경이었다. 콕보루는 이곳의 국기(國技)이다. 하지만 특이한 광경은 수백 년 동안 거의 남성들만 해온 경기에 참가한 베기마이(여성)였다. 작년에 베기마이와 다른 10대 소녀 5명은 키르기스스탄 최초의 여성 콕보루 팀을 결성했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"모든 소녀에게는 열정이 있어요." 짧은 검은 포니테일이 경기장의 짧은 머리들 사이에서 눈에 띄는 베기마이가 말했다. 사람들이 콕보루는 '여성을 위한 것이 아니다'라고 말할 때, 그녀는 여성에게 실력과 욕망이 있다면 콕보루도 그녀를 위한 것이라고 말한다고 했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"더 많은 부모님들이 딸들이 운동하게 놔뒀으면 좋겠어요." 그녀가 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+온라인의 부정적인 댓글과 마을 내 비판에도 불구하고, 베기마이의 팀은 거친 스포츠에 참여하고 싶어 하는 소수의, 그러나 점차 늘어나는 여성과 소녀들에게 영감을 주고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+콕보루는 키르기즈어로 '회색 늑대'를 의미하며 목동들이 늑대 시체를 가지고 놀던 게임에서 유래했다. 나중에 염소로 대체되었다. 콕보루의 변형은 중앙아시아 전역에서 행해지지만, 키르기스스탄 북부에서는 보통 4명의 기수로 구성된 두 팀이 땅이나 서로에게서 염소 시체를 빼앗아 경기장 양쪽 끝에 있는 큰 대야에 던져 넣기 위해 겨루는 방식으로 진행된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 경기는 고속으로 충돌할 수 있는 기수와 말 모두에게 힘들다. 2025년에는 키르기스스탄에서 두 명의 남성이 경기 도중 사망했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+1991년 소련 붕괴 이후 키르기스스탄이 독립한 이후 전통 스포츠를 되살리기 위해 노력해 왔지만, 콕보루와 같은 남성 종목에 대부분 관심을 기울였다고 키르기스스탄 전통 스포츠의 성 역할에 대해 글을 써온 중앙아시아 아메리칸 대학교의 사회과학자 엘레나 몰차노바는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 여성 콕보루 팀은 "전통과의 단절이 아니다"라고 몰차노바 교수는 말했다. 유목민 키르기즈 사회와 전설에서 말을 탄 여성은 항상 중요한 역할을 해왔기 때문이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+6남매(다섯 자매와 한 명의 형제) 중 넷째인 베기마이는 어렸을 때부터 말 타기를 시작했다. 그녀는 형이 출전한 여러 경기를 관람한 후 콕보루에 진지한 관심을 갖기 시작했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그녀는 말을 키우고 한때 콕보루에 출전했던 아버지 박티베크 베이셰케예프와 함께 훈련을 시작했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 스포츠에서 가장 어려운 부분은 기수가 종종 고속으로 말에서 몸을 숙여 염소 시체를 땅에서 잡은 다음, 무거운 시체를 안장 위로 다시 들어 올리는 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+매일, 마른 체구의 47세 베이셰케예프와 그의 딸은 이웃 마을까지 3마일(약 4.8km)을 왕복하여 말을 타고 갔다. 가는 길에 베기마이는 말에서 몸을 숙여 자동차 타이어를 안장 위로 들어 올리는 연습을 반복했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"울고 눈물을 흘리면서" 결국 그것을 마스터했다고 베기마이는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+안전에 대한 우려는 현실적이다. 베기마이는 2월에 말에서 떨어져 팔이 부러졌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"이건 병이에요." 패배한 웃음을 지으며 콕보루에 대해 말하는 베기마이의 어머니 누르굴 오스모노바가 말했다. "나는 허락하지 않았어요. 지금도 허락하지 않아요. 그건 그녀 아버지 때문이에요."
+&lt;&lt;&lt;PARA&gt;&gt;
+그럼에도 불구하고, 2025년 초, 베기마이는 형과 비공식 경기에서 뛰기 시작했다. 그녀는 또한 이기기 시작했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+2월, 인스타그램에 콕보루 영상이 입소문을 타면서 베기마이는 키르기스스탄 전역에 몇몇 소녀들이 조용히 콕보루를 하고 있다는 것을 깨달았다. 그녀는 그들을 모아 사회를 만들기로 결정했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+베기마이, 그녀의 두 자매, 그리고 지역에서 온 다른 세 소녀는 2025년 3월에 처음으로 함께 경기를 했다. 그것은 운명이었다. 그들은 그날 팀을 결성하기로 결정했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"우리는 자매처럼 되었어요." 쉽게 웃고 승부욕이 강한 17세의 아이술루 비림쿨로바가 말했다. 그녀는 다른 마을에서 팀에 대해 듣기 전에 콕보루를 독학으로 배웠다.
+&lt;&lt;&lt;PARA&gt;&gt;
+팀은 지난 1년 동안 남학생 팀을 상대로 수십 번의 경기를 치렀다고 베기마이는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+여성들은 도전을 좋아하고 그들을 이겼을 때 "소년들을 울리는 것"을 좋아하기 때문에 경기를 한다고 아이술루가 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+아이술루의 어머니 메에림 카라바예바는 콕보루가 딸에게 얼마나 도움이 되었는지 보았다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그녀는 휴대폰을 거의 안 봐요." 아실바쉬에서 동쪽으로 30분 거리에 있는 마을 카라사칼에서 차를 마시며 카라바예바가 자랑스럽게 말했다. "저녁에는 9시에 자서 아침 6시에 일어나 말에게 먹이를 줘요."
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 팀원을 모집하는 것은 어렵다. 콕보루를 하는 소녀나 충분히 잘 타는 소녀가 거의 없고, 잠재적인 팀원들이 너무 멀리 사는 경우가 많다고 베기마이는 말했다. 다른 많은 사람들은 하고 싶어 하지만 부모님들이 너무 위험하거나 소녀들을 위한 것이 아니라며 허락하지 않는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+3월 초의 서늘한 오후, 베기마이의 오너 누르술탄이 집 뒤뜰에서 염소의 머리를 자르고 배를 갈라 꿰매는 작업을 마친 직후, 일행은 마을 가장자리에 있는 경기장으로 말을 타고 출발했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+곧, 주변 마을에서 말을 가진 모든 10대 소년들이 콕보루가 열렸다는 소식을 듣고 경기가 시작될 시간이 되었다. 첫 번째 경기에서 베기마이가 먼저 염소를 잡아 마을에서 평소 득점 대야 대신 사용하는 땅의 표시 주위로 큰 원을 그리며 돌았다. 하지만 베기마이의 팀 동료들이 그녀를 위해 길을 비우려고 싸우는 와중에도, 그녀는 충분히 가까이 다가갈 수 없었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"왜 그렇게 멀리 있니?" 그녀의 아버지가 외쳤다. "덤벼라!"
+&lt;&lt;&lt;PARA&gt;&gt;
+여학생 팀은 첫 경기에서 0-2로 졌지만 두 번째 경기에서는 이겼다. 베기마이가 혼잡을 뚫고 밀고 들어가 두 번이나 염소 시체를 표시 위에 떨어뜨리며 관중들의 환호를 이끌어냈다.
+&lt;&lt;&lt;PARA&gt;&gt;
+팀에 대한 소녀들의 인스타그램 게시물은 지지와 많은 관심을 불러일으켰지만, 특히 여성의 자리는 집안이라는 비난도 쏟아졌다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"저희가 나설 때마다 그들은 댓글을 쓰지만, 우리는 신경 쓰지 않아요." 다른 팀원인 16세의 숄라 케넨바예바가 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+베기마이와 그녀의 자매들은 고향 주변에서 못마땅한 시선과 빈정대는 말을 듣는다고 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그런 악의적인 말들 때문에 정말 우울증에 빠졌고, 거기서 빠져나올 수 없었어요. 밖에 나가서 여성 팀 동료들이 나타났을 때야 놓을 수 있었어요." 베기마이가 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+작년에 국가 콕보루 연맹은 이 스포츠가 너무 거칠고 위험하기 때문에 여성의 경기를 전혀 지지하지 않는다고 지역 언론에 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 올해 2월부터 7월 중순까지 연맹 회장을 지낸 아킬베크 에시모프는 방침을 바꿨다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"저는 전적으로 지지합니다. 가능하다면 연맹 측에서도 도움을 드리겠습니다." 에시모프는 봄에 진행된 인터뷰에서 사무실에 앉아 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다시 경기장으로 돌아와, 시간이 늦어지고 있었다. 곧 가족은 완전히 연해진 염소 시체의 가죽을 벗기고, 야외 화덕 위 큰 냄비에 삶아 양파와 허브와 함께 내놓을 예정이었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 베기마이는 아직 그만둘 준비가 되어 있지 않았다. "한 판만 더 합시다." 모두가 원을 그리며 모였을 때 그녀가 간청했다. 다른 소녀들은 지쳐 있었지만, 충분히 많은 소년들이 응했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+베기마이는 땅에 놓인 시체 쪽으로 질주했다. 외로운 포니테일이 그녀의 등에서 깡충거렸다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그녀는 움직이게 하기 쉽습니다. 멈추게 하기는 어렵습니다." 그녀의 아버지가 말했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/24/world/europe/first-girls-polo-team-breaks-with-tradition-but-keeps-the-goat-carcass.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/30/multimedia/00Kyrgyzstan-girls-polo-dispatch-01-mhfz/00Kyrgyzstan-girls-polo-dispatch-01-mhfz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 24 Jul 2026 00:00:27 +0000</pubDate></item><item><title>Is Instagram’s Latest Travel Trend a Disaster Waiting to Happen? (인스타그램의 최신 여행 트렌드, 재앙의 씨앗인가?)</title><link>https://www.nytimes.com/2026/07/24/travel/risky-trips-instagram-tiktok-social-media.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/25/multimedia/25trav-risky-social-01-kgfv/25trav-risky-social-01-kgfv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Ian Andersen cycled into Iran in June 2025, carrying a camping stove, a tent, a flat-tire kit and cigarettes.&lt;br/&gt;(2025년 6월, 이안 앤더슨은 캠핑 스토브, 텐트, 펑크 수리 키트, 그리고 담배를 챙겨 자전거를 타고 이란으로 들어갔다.
 &lt;&lt;&lt;PARA&gt;&gt;
 자유분방한 미네소타 출신의 앤더슨은 포르투갈에서 일본까지 1만 마일(약 1만 6,000km)의 자전거 여행을 기록하며 점점 더 커지는 소셜 미디어 팔로워들에게 콘텐츠를 제공하고 있었고, 미국 국무부의 여행 경고에도 불구하고 이란에 입국했다. 33세의 앤더슨이 한 영상에서는 거의 텅 빈 도로를 자전거로 달리며 미국을 풍자하는 노골적인 락 앤롤 노래를 크게 틀고 있는 모습이 담겼다. 또 다른 영상에서는 국무부의 경고가 오히려 '숨은 보석'을 찾을 기회를 만들어준다고 말했다.
@@ -489,7 +527,7 @@ C.J.P.는 금요일에 전국 집회를 촉구했다.
 앤더슨은 모든 사람이 극한의 여행을 떠나라고 권장하지는 않는다. 그러나 자신의 안전 지대 밖으로 나가 자신의 신념에 도전하는 사람들과 대화하라고 격려한다.
 &lt;&lt;&lt;PARA&gt;&gt;
 "낯선 사람이나 장소를 해결해야 할 문제로 대하는 것을 멈추면 세상을 보는 방식이 바뀝니다."라고 그는 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/24/travel/risky-trips-instagram-tiktok-social-media.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/25/multimedia/25trav-risky-social-01-kgfv/25trav-risky-social-01-kgfv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 24 Jul 2026 04:31:49 +0000</pubDate></item><item><title>‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War (‘우리는 지옥에 갇혔다’: 이란인들이 말하는, 수개월 간의 전쟁으로 멈춰버린 삶)</title><link>https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/23/multimedia/00int-iran-voices-02-cgvz/00int-iran-voices-02-cgvz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/24/travel/risky-trips-instagram-tiktok-social-media.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/25/multimedia/25trav-risky-social-01-kgfv/25trav-risky-social-01-kgfv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 24 Jul 2026 04:31:50 +0000</pubDate></item><item><title>‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War (‘우리는 지옥에 갇혔다’: 이란인들이 말하는, 수개월 간의 전쟁으로 멈춰버린 삶)</title><link>https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/23/multimedia/00int-iran-voices-02-cgvz/00int-iran-voices-02-cgvz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;A horribly familiar rhythm of war has returned for Iranians — with bombarded highways and a plunging currency, menacing social media posts by President Trump and fiery rhetoric by Iran’s clerical rulers.&lt;br/&gt;(이란인들에게 끔찍하게 익숙한 전쟁의 리듬이 돌아왔다. 폭격당한 고속도로와 폭락하는 통화, 트럼프 대통령의 위협적인 소셜 미디어 게시물, 그리고 이란 성직자 통치자들의 격앙된 수사(修辭)가 그것이다.)&lt;/p&gt;
 &lt;p&gt;Yet when Behnam, an unemployed musician in Tehran, calls his family or friends to check in, he never starts by talking about the war. “The first question we ask one another is: Have you eaten?”&lt;br/&gt;(그러나 테헤란에 사는 무직 음악가 베남이 가족이나 친구에게 안부 전화를 할 때, 그는 절대 전쟁 이야기로 시작하지 않는다. “우리가 서로에게 묻는 첫 질문은 ‘밥은 먹었어?’입니다.”)&lt;/p&gt;
 &lt;p&gt;Like all Iranians interviewed for this article, Behnam, 38, asked that his last name not be used for fear of reprisal from Iran’s government. “It has honestly reached a point where we’re only thinking about survival,” he said.&lt;br/&gt;(이 기사를 위해 인터뷰한 모든 이란인들처럼, 38세의 베남도 정부의 보복을 두려워해 성을 밝히지 말아 달라고 요청했다. 그는 “솔직히 우리가 생존만을 생각하는 지경에 이르렀다”고 말했다.)&lt;/p&gt;
@@ -756,89 +794,7 @@ SK는 가족 경영 재벌 중 하나로, 오랜 기간 부패하고 족벌적�
 &lt;p&gt;From Opinion: Iran, China, Canada? A defense of Trump’s grand strategy.&lt;br/&gt;(의견: 이란, 중국, 캐나다? 트럼프의 대전략을 옹호하는 글입니다.)&lt;/p&gt;
 &lt;p&gt;How are we doing?We’re eager to have your thoughts about this newsletter and events in Canada in general. Please send them to nytcanada@nytimes.com.&lt;br/&gt;(어떻게 되고 있어? 이 뉴스레터와 캐나다 내 전반적인 행사에 대한 여러분의 생각을 듣고 싶습니다. nytcanada@nytimes.com 에게 보내 주세요.)&lt;/p&gt;
 &lt;p&gt;Like this email?Forward it to your friends, and let them know they can sign up here.&lt;br/&gt;(이 이메일 마음에 드시나요? 친구들에게 전달하고, 여기에서 가입할 수 있다고 알려주세요.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/25/world/canada/trump-tariffs-trade-wildfires-smoke.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-canada-letter-pmvg/25int-canada-letter-pmvg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Jul 2026 03:52:44 +0000</pubDate></item><item><title>First Girls’ Polo Team Breaks With Tradition, but Keeps the Goat Carcass (키르기스스탄 최초 여성 폴로팀, 전통 깨고 염소 시체는 그대로)</title><link>https://www.nytimes.com/2026/07/24/world/europe/first-girls-polo-team-breaks-with-tradition-but-keeps-the-goat-carcass.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/06/30/multimedia/00Kyrgyzstan-girls-polo-dispatch-01-mhfz/00Kyrgyzstan-girls-polo-dispatch-01-mhfz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;On a muddy field in Kyrgyzstan, eight teenagers on horseback thundered back and forth playing a Central Asian version of polo known as kok-boru. But instead of mallets, they used their bare hands, and in place of a ball was a headless dead goat.&lt;br/&gt;(키르기스스탄의 진흙 투성이 경기장에서 8명의 10대 청소년이 말을 타고 중앙아시아식 폴로인 '콕보루'를 하며 분주히 오갔다. 그런데 채 대신 맨손을 사용했고, 공 대신 머리 없는 죽은 염소가 사용되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-16세의 베기마이 바키로바는 염소 시체가 말 옆구리에서 천천히 미끄러지는 것을 잡으려고 질주했다. 양옆에서는 두 소년이 그녀를 밀치고, 고함을 지르며 염소를 잡으려 했다. 기수들과 말이 전속력으로 다가오자 관중들은 측면에서 흩어졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 경기는 키르기스스탄의 톈산 산맥 근처에 있는 수백 채의 목조와 흙집 마을인 아실바쉬에서는 흔한 광경이었다. 콕보루는 이곳의 국기(國技)이다. 하지만 특이한 광경은 수백 년 동안 거의 남성들만 해온 경기에 참가한 베기마이(여성)였다. 작년에 베기마이와 다른 10대 소녀 5명은 키르기스스탄 최초의 여성 콕보루 팀을 결성했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"모든 소녀에게는 열정이 있어요." 짧은 검은 포니테일이 경기장의 짧은 머리들 사이에서 눈에 띄는 베기마이가 말했다. 사람들이 콕보루는 '여성을 위한 것이 아니다'라고 말할 때, 그녀는 여성에게 실력과 욕망이 있다면 콕보루도 그녀를 위한 것이라고 말한다고 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"더 많은 부모님들이 딸들이 운동하게 놔뒀으면 좋겠어요." 그녀가 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-온라인의 부정적인 댓글과 마을 내 비판에도 불구하고, 베기마이의 팀은 거친 스포츠에 참여하고 싶어 하는 소수의, 그러나 점차 늘어나는 여성과 소녀들에게 영감을 주고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-콕보루는 키르기즈어로 '회색 늑대'를 의미하며 목동들이 늑대 시체를 가지고 놀던 게임에서 유래했다. 나중에 염소로 대체되었다. 콕보루의 변형은 중앙아시아 전역에서 행해지지만, 키르기스스탄 북부에서는 보통 4명의 기수로 구성된 두 팀이 땅이나 서로에게서 염소 시체를 빼앗아 경기장 양쪽 끝에 있는 큰 대야에 던져 넣기 위해 겨루는 방식으로 진행된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 경기는 고속으로 충돌할 수 있는 기수와 말 모두에게 힘들다. 2025년에는 키르기스스탄에서 두 명의 남성이 경기 도중 사망했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-1991년 소련 붕괴 이후 키르기스스탄이 독립한 이후 전통 스포츠를 되살리기 위해 노력해 왔지만, 콕보루와 같은 남성 종목에 대부분 관심을 기울였다고 키르기스스탄 전통 스포츠의 성 역할에 대해 글을 써온 중앙아시아 아메리칸 대학교의 사회과학자 엘레나 몰차노바는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 여성 콕보루 팀은 "전통과의 단절이 아니다"라고 몰차노바 교수는 말했다. 유목민 키르기즈 사회와 전설에서 말을 탄 여성은 항상 중요한 역할을 해왔기 때문이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-6남매(다섯 자매와 한 명의 형제) 중 넷째인 베기마이는 어렸을 때부터 말 타기를 시작했다. 그녀는 형이 출전한 여러 경기를 관람한 후 콕보루에 진지한 관심을 갖기 시작했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀는 말을 키우고 한때 콕보루에 출전했던 아버지 박티베크 베이셰케예프와 함께 훈련을 시작했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이 스포츠에서 가장 어려운 부분은 기수가 종종 고속으로 말에서 몸을 숙여 염소 시체를 땅에서 잡은 다음, 무거운 시체를 안장 위로 다시 들어 올리는 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-매일, 마른 체구의 47세 베이셰케예프와 그의 딸은 이웃 마을까지 3마일(약 4.8km)을 왕복하여 말을 타고 갔다. 가는 길에 베기마이는 말에서 몸을 숙여 자동차 타이어를 안장 위로 들어 올리는 연습을 반복했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"울고 눈물을 흘리면서" 결국 그것을 마스터했다고 베기마이는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-안전에 대한 우려는 현실적이다. 베기마이는 2월에 말에서 떨어져 팔이 부러졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"이건 병이에요." 패배한 웃음을 지으며 콕보루에 대해 말하는 베기마이의 어머니 누르굴 오스모노바가 말했다. "나는 허락하지 않았어요. 지금도 허락하지 않아요. 그건 그녀 아버지 때문이에요."
-&lt;&lt;&lt;PARA&gt;&gt;
-그럼에도 불구하고, 2025년 초, 베기마이는 형과 비공식 경기에서 뛰기 시작했다. 그녀는 또한 이기기 시작했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2월, 인스타그램에 콕보루 영상이 입소문을 타면서 베기마이는 키르기스스탄 전역에 몇몇 소녀들이 조용히 콕보루를 하고 있다는 것을 깨달았다. 그녀는 그들을 모아 사회를 만들기로 결정했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-베기마이, 그녀의 두 자매, 그리고 지역에서 온 다른 세 소녀는 2025년 3월에 처음으로 함께 경기를 했다. 그것은 운명이었다. 그들은 그날 팀을 결성하기로 결정했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"우리는 자매처럼 되었어요." 쉽게 웃고 승부욕이 강한 17세의 아이술루 비림쿨로바가 말했다. 그녀는 다른 마을에서 팀에 대해 듣기 전에 콕보루를 독학으로 배웠다.
-&lt;&lt;&lt;PARA&gt;&gt;
-팀은 지난 1년 동안 남학생 팀을 상대로 수십 번의 경기를 치렀다고 베기마이는 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-여성들은 도전을 좋아하고 그들을 이겼을 때 "소년들을 울리는 것"을 좋아하기 때문에 경기를 한다고 아이술루가 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아이술루의 어머니 메에림 카라바예바는 콕보루가 딸에게 얼마나 도움이 되었는지 보았다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그녀는 휴대폰을 거의 안 봐요." 아실바쉬에서 동쪽으로 30분 거리에 있는 마을 카라사칼에서 차를 마시며 카라바예바가 자랑스럽게 말했다. "저녁에는 9시에 자서 아침 6시에 일어나 말에게 먹이를 줘요."
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 팀원을 모집하는 것은 어렵다. 콕보루를 하는 소녀나 충분히 잘 타는 소녀가 거의 없고, 잠재적인 팀원들이 너무 멀리 사는 경우가 많다고 베기마이는 말했다. 다른 많은 사람들은 하고 싶어 하지만 부모님들이 너무 위험하거나 소녀들을 위한 것이 아니라며 허락하지 않는다.
-&lt;&lt;&lt;PARA&gt;&gt;
-3월 초의 서늘한 오후, 베기마이의 오너 누르술탄이 집 뒤뜰에서 염소의 머리를 자르고 배를 갈라 꿰매는 작업을 마친 직후, 일행은 마을 가장자리에 있는 경기장으로 말을 타고 출발했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-곧, 주변 마을에서 말을 가진 모든 10대 소년들이 콕보루가 열렸다는 소식을 듣고 경기가 시작될 시간이 되었다. 첫 번째 경기에서 베기마이가 먼저 염소를 잡아 마을에서 평소 득점 대야 대신 사용하는 땅의 표시 주위로 큰 원을 그리며 돌았다. 하지만 베기마이의 팀 동료들이 그녀를 위해 길을 비우려고 싸우는 와중에도, 그녀는 충분히 가까이 다가갈 수 없었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"왜 그렇게 멀리 있니?" 그녀의 아버지가 외쳤다. "덤벼라!"
-&lt;&lt;&lt;PARA&gt;&gt;
-여학생 팀은 첫 경기에서 0-2로 졌지만 두 번째 경기에서는 이겼다. 베기마이가 혼잡을 뚫고 밀고 들어가 두 번이나 염소 시체를 표시 위에 떨어뜨리며 관중들의 환호를 이끌어냈다.
-&lt;&lt;&lt;PARA&gt;&gt;
-팀에 대한 소녀들의 인스타그램 게시물은 지지와 많은 관심을 불러일으켰지만, 특히 여성의 자리는 집안이라는 비난도 쏟아졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"저희가 나설 때마다 그들은 댓글을 쓰지만, 우리는 신경 쓰지 않아요." 다른 팀원인 16세의 숄라 케넨바예바가 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-베기마이와 그녀의 자매들은 고향 주변에서 못마땅한 시선과 빈정대는 말을 듣는다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그런 악의적인 말들 때문에 정말 우울증에 빠졌고, 거기서 빠져나올 수 없었어요. 밖에 나가서 여성 팀 동료들이 나타났을 때야 놓을 수 있었어요." 베기마이가 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-작년에 국가 콕보루 연맹은 이 스포츠가 너무 거칠고 위험하기 때문에 여성의 경기를 전혀 지지하지 않는다고 지역 언론에 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 올해 2월부터 7월 중순까지 연맹 회장을 지낸 아킬베크 에시모프는 방침을 바꿨다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"저는 전적으로 지지합니다. 가능하다면 연맹 측에서도 도움을 드리겠습니다." 에시모프는 봄에 진행된 인터뷰에서 사무실에 앉아 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-다시 경기장으로 돌아와, 시간이 늦어지고 있었다. 곧 가족은 완전히 연해진 염소 시체의 가죽을 벗기고, 야외 화덕 위 큰 냄비에 삶아 양파와 허브와 함께 내놓을 예정이었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 베기마이는 아직 그만둘 준비가 되어 있지 않았다. "한 판만 더 합시다." 모두가 원을 그리며 모였을 때 그녀가 간청했다. 다른 소녀들은 지쳐 있었지만, 충분히 많은 소년들이 응했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-베기마이는 땅에 놓인 시체 쪽으로 질주했다. 외로운 포니테일이 그녀의 등에서 깡충거렸다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그녀는 움직이게 하기 쉽습니다. 멈추게 하기는 어렵습니다." 그녀의 아버지가 말했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/24/world/europe/first-girls-polo-team-breaks-with-tradition-but-keeps-the-goat-carcass.html</guid><enclosure url="https://static01.nyt.com/images/2026/06/30/multimedia/00Kyrgyzstan-girls-polo-dispatch-01-mhfz/00Kyrgyzstan-girls-polo-dispatch-01-mhfz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 24 Jul 2026 00:00:27 +0000</pubDate></item><item><title>Divided by Poverty Even in Death (죽음마저 가르는 빈곤의 경계)</title><link>https://www.nytimes.com/2026/07/24/world/americas/venezuela-earthquake-dead-costs-la-guaira.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/24/multimedia/24int-Venezuela-quake-inequality-qjvf/24int-Venezuela-quake-inequality-qjvf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/25/world/canada/trump-tariffs-trade-wildfires-smoke.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-canada-letter-pmvg/25int-canada-letter-pmvg-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Jul 2026 03:52:44 +0000</pubDate></item><item><title>Divided by Poverty Even in Death (죽음마저 가르는 빈곤의 경계)</title><link>https://www.nytimes.com/2026/07/24/world/americas/venezuela-earthquake-dead-costs-la-guaira.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/24/multimedia/24int-Venezuela-quake-inequality-qjvf/24int-Venezuela-quake-inequality-qjvf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The teenager sat in the passenger’s seat of a pickup truck beside her mother’s coffin and merged into traffic along a coastal road in Venezuela. Michell Mendoza, 16, had escaped the wreckage of one of the many high-rise public housing complexes that collapsed during last month’s catastrophic earthquakes in the state of La Guaira. Her parents and her older brother, however, were killed.&lt;br/&gt;(10대 소녀 미첼 멘도사(16)는 어머니의 관이 실린 픽업트럭 조수석에 앉아 베네수엘라 해안 도로의 차량 흐름에 합류했다. 그녀는 지난달 라과이라 주에서 발생한 대지진으로 무너진 수많은 고층 공공주택 단지 중 한 곳의 잔해에서 간신히 빠져나왔다. 그러나 부모님과 오빠는 목숨을 잃었다.)&lt;/p&gt;
 &lt;p&gt;But when Michell and her other family members — mostly children and teenagers — arrived at the hillside graveyard in her town of Caraballeda, the caretaker sent them away. The family did not own a gravesite, he said, and because they could not afford one, Michell could not bury her mother there.&lt;br/&gt;(하지만 미첼과 그녀의 다른 가족들(대부분 어린이와 청소년)이 그녀의 고향인 카라바예다 언덕의 묘지에 도착했을 때, 묘지 관리인은 그들을 돌려보냈다. 가족이 소유한 묘지 자리가 없고, 비용을 감당할 수 없어 그곳에 어머니를 묻을 수 없다는 것이었다.)&lt;/p&gt;
 &lt;p&gt;“I didn’t know even graveyards could be private,” said Alexandra Romero, 18, Michell’s sister-in-law, who is six months pregnant, her legs dangling from the pick up in front of the cemetery.&lt;br/&gt;("묘지도 사유지가 될 수 있다는 걸 몰랐어요." 묘지 앞 픽업트럭에서 다리를 늘어뜨린 채 앉아 있던 임신 6개월의 알렉산드라 로메로(18, 미첼의 올케)가 말했다.)&lt;/p&gt;
@@ -987,7 +943,7 @@ SK는 가족 경영 재벌 중 하나로, 오랜 기간 부패하고 족벌적�
 &lt;p&gt;A firefighter working near a burning building on Thursday in Lège-Cap-Ferret, France.&lt;br/&gt;(프랑스 레주-카-페레에서 불타는 건물 근처에서 근무 중인 소방관.)&lt;/p&gt;
 &lt;p&gt;Some evacuees in Spain took shelter from the wildfires in a Madrid sports center.&lt;br/&gt;(스페인에 있는 일부 대피민들은 마드리드의 한 스포츠 센터에서 산불을 피해 피신했다.)&lt;/p&gt;
 &lt;p&gt;A wildfire burned in a forest near the Arcachon Bay on Friday.&lt;br/&gt;(금요일 아르카숑 만 근처 숲에서 산불이 발생했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/25/multimedia/25Int-Europe-Fires-Visual-thlq/25Int-Europe-Fires-Visual-thlq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Jul 2026 04:44:37 +0000</pubDate></item><item><title>Who Are the People Protesting in India? (인도에서 시위하는 사람들은 누구인가요?)</title><link>https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/24/multimedia/24INDIA-PROTEST-PROFILES-flcw/24INDIA-PROTEST-PROFILES-flcw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/25/multimedia/25Int-Europe-Fires-Visual-thlq/25Int-Europe-Fires-Visual-thlq-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Jul 2026 09:05:45 +0000</pubDate></item><item><title>Who Are the People Protesting in India? (인도에서 시위하는 사람들은 누구인가요?)</title><link>https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/24/multimedia/24INDIA-PROTEST-PROFILES-flcw/24INDIA-PROTEST-PROFILES-flcw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The pent-up hopes and frustrations of India’s young people found a release in a protest movement that gathered steam this past week in the capital, New Delhi.&lt;br/&gt;(인도 젊은이들의 억눌린 희망과 좌절이 지난주 수도 뉴델리에서 힘을 얻은 시위 운동에서 해방을 찾았다.)&lt;/p&gt;
 &lt;p&gt;A crowd of thousands was mobilized by a call by the leaders of a youth movement to reform India’s troubled education system and to push for the resignation of the country’s education minister, Dharmendra Pradhan, whom they blamed for a botched college-entrance exam that left millions in the lurch.&lt;br/&gt;(수천 명의 군중이 청년 운동 지도자들의 촉구에 동원되어 인도의 문제 많은 교육 시스템을 개혁하고, 수백만 명이 곤란한 대학 입시 실패를 책임지며 교육부 장관 다르멘드라 프라단의 사임을 촉구했다.)&lt;/p&gt;
 &lt;p&gt;On Saturday, Mr. Pradhan submitted his resignation to Mr. Modi, handing the protesters a major win. But it wasn’t immediately clear that the protesters would call it a day given that their grievances have grown since a violent crackdown by police on Monday. The beating of demonstrators fueled people’s anger and the spirit of the protests has become more inclusive, attracting activists and academics, curious teenagers, blue-collar parents and children from affluent homes, established celebrities and newly minted influencers, atheists, farmers, religious leaders, and even a man wearing a Spiderman mask.&lt;br/&gt;(토요일, 프라단 씨는 모디 총리에게 사임서를 제출하며 시위대에게 큰 승리를 안겼다. 하지만 월요일 경찰의 폭력적인 진압 이후 시위대의 불만이 커진 점을 고려할 때, 시위대가 곧 그만둘지 여부는 명확하지 않았다. 시위대에 대한 구타는 사람들의 분노를 부추겼고, 시위의 정신은 더욱 포용적으로 변해 활동가와 학자, 호기심 많은 10대들, 부유한 가정의 블루칼라 부모와 아이들, 유명 인사와 신인 인플루언서, 무신론자, 농부, 종교 지도자, 심지어 스파이더맨 가면을 쓴 남성까지 끌어들였다.)&lt;/p&gt;
@@ -1092,7 +1048,7 @@ SK는 가족 경영 재벌 중 하나로, 오랜 기간 부패하고 족벌적�
 &lt;p&gt;Interviewers often asked him why he had traded his seeming picture-perfect life abroad for the dangers of Colombian politics. His response was that God — and patriotic duty — had called.&lt;br/&gt;(인터뷰어들은 그에게 왜 완벽한 해외 생활을 콜롬비아 정치의 위험과 바꾸었는지 자주 물었다. 그의 대답은 하나님과 애국적 의무가 부르셨다는 것이었다.)&lt;/p&gt;
 &lt;p&gt;He had to save Colombia from drug traffickers.&lt;br/&gt;(그는 콜롬비아를 마약 밀매업자들로부터 구해야 했다.)&lt;/p&gt;
 &lt;p&gt;Jorge Valencia contributed reporting from Bogotá, Colombia, and Genevieve Glatsky contributed reporting from Barranquilla, Colombia. Alain Delaquérière contributed research.&lt;br/&gt;(호르헤 발렌시아는 콜롬비아 보고타에서, 제네비브 글래츠키는 콜롬비아 바랑키야에서 보도에 기여했습니다. 알랭 들라케리에르가 연구에 기여했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/27/multimedia/00int-colombian-president-florida-glqf/00int-colombian-president-florida-glqf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Jul 2026 00:00:23 +0000</pubDate></item><item><title>India’s Education Minister Steps Down, Handing Win to Protesters (인도 교육부 장관, 사임, 시위대에게 윈 승리)</title><link>https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/25/multimedia/25int-india-minister-btlh/25int-india-minister-btlh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/27/multimedia/00int-colombian-president-florida-glqf/00int-colombian-president-florida-glqf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Jul 2026 08:20:59 +0000</pubDate></item><item><title>India’s Education Minister Steps Down, Handing Win to Protesters (인도 교육부 장관, 사임, 시위대에게 윈 승리)</title><link>https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/25/multimedia/25int-india-minister-btlh/25int-india-minister-btlh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;India’s education minister stepped down on Saturday, in a major victory for a student protest movement whose explosive rise has become one of the most serious challenges in years to the power of Prime Minister Narendra Modi.&lt;br/&gt;(인도 교육부 장관은 토요일에 사임했으며, 이는 학생 시위 운동의 폭발적인 부상이 수년간 나렌드라 모디 총리의 권력에 가장 심각한 도전 중 하나가 된 큰 승리였다.)&lt;/p&gt;
 &lt;p&gt;The education minister, Dharmendra Pradhan, submitted his resignation to Mr. Modi, bowing to weeks of public pressure that culminated in nationwide street protests from Delhi and Mumbai to Kolkata and Chennai.&lt;br/&gt;(교육부 장관 다르멘드라 프라단은 수주간의 대중 압력에 굴복해 사임서를 제출했고, 이는 델리와 뭄바이에서 콜카타, 첸나이에 이르기까지 전국적인 거리 시위로 이어졌다.)&lt;/p&gt;
 &lt;p&gt;Mr. Pradhan said he had been “deeply pained” by the events of recent days, but he pointed a finger at what he called “anti-national forces,” saying he did not want them to take advantage of the massive protests.&lt;br/&gt;(프라단 대통령은 최근 며칠간의 사건에 대해 "깊은 고통을 겪었다"고 말했지만, 그는 "반국가 세력"이라 부르며 대규모 시위를 이용하지 않길 원한다고 말했다.)&lt;/p&gt;
@@ -1108,4 +1064,53 @@ SK는 가족 경영 재벌 중 하나로, 오랜 기간 부패하고 족벌적�
 &lt;p&gt;The call to remove Mr. Pradhan forced Mr. Modi to balance loyalty to his supporters against the need to placate young people, who account for 40 percent of India’s population. An operative of the ruling Bharatiya Janata Party, Mr. Pradhan was credited with helping the B.J.P. come to power in some recent state elections. Over a nearly three-decade political career, he has held various positions in the party.&lt;br/&gt;(프라단 축출 요구는 모디 총리가 지지자에 대한 충성심과 인도 인구의 40%를 차지하는 젊은이들을 달래야 한다는 필요성 사이에서 균형을 맞추게 만들었다. 집권 인도 국민당(BJP) 활동가인 프라단 씨는 최근 주 선거에서 BJP가 집권하는 데 기여한 것으로 평가받았다. 거의 30년에 걸친 정치 경력 동안 그는 당 내에서 다양한 직책을 맡아왔습니다.)&lt;/p&gt;
 &lt;p&gt;But the exam leak scandal in May triggered long-simmering frustrations about government accountability and a lack of jobs and opportunity that Mr. Modi cannot immediately address. India puts students through a pressure-cooker education system, and yet nearly 40 percent of graduates between the ages of 15 and 25 are unemployed, according to a 2026 study. Student suicides are increasing faster than those of the overall population.&lt;br/&gt;(하지만 5월의 시험 유출 스캔들은 정부 책임성과 일자리 및 기회 부족에 대한 오랜 불만을 촉발시켰으며, 모디 대통령이 즉시 해결하지 못했다. 인도는 학생들을 압박적인 교육 시스템을 시행하지만, 2026년 연구에 따르면 15세에서 25세 사이 졸업생의 거의 40%가 실업 상태입니다. 학생 자살률은 전체 인구보다 더 빠르게 증가하고 있습니다.)&lt;/p&gt;
 &lt;p&gt;The students’ victory could motivate them to push their demands further. Aside from education, the C.J.P. is also asking the government to consider its far more sweeping agenda for change, including judicial reforms and gender quotas for Parliament.&lt;br/&gt;(학생들의 승리는 그들이 요구를 더욱 밀어붙이도록 동기를 부여할 수 있다. 교육 외에도, 중앙 대법당은 정부에 사법 개혁과 의회 성별 할당제를 포함한 훨씬 더 광범위한 변화 의제를 고려해 달라고 요청하고 있다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-india-minister-btlh/25int-india-minister-btlh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Jul 2026 02:06:44 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-india-minister-btlh/25int-india-minister-btlh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Jul 2026 08:07:41 +0000</pubDate></item><item><title>What a Journey Through Wartime Iran Revealed (전시 이란을 통해 드러난 여정)</title><link>https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/25/multimedia/25iran-01-gvkh/25iran-01-gvkh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Before I had even set foot in Iran, the country had begun telling me a version of its modern-day story.&lt;br/&gt;(내가 이란에 발을 들이기 전에, 그 나라는 현대 이야기의 한 버전을 내게 들려주기 시작했다.)&lt;/p&gt;
+&lt;p&gt;It started on the Iran Air flight. Tucked into the seat pocket in front of every passenger was a leaflet bearing the face of Ayatollah Ali Khamenei, the country’s supreme leader who was killed months earlier, at the onset of the U.S.-Israeli attacks on Iran. The message was unmistakable. Before visitors saw Tehran’s streets or spoke to a single Iranian, they were being introduced to a nation in mourning, one determined to highlight the foreign aggression it had endured.&lt;br/&gt;(그 시작은 이란 항공 비행기에서였다. 모든 승객 앞 좌석 주머니에는 몇 달 전 미국과 이스라엘의 이란 공격 초기에 사망한 아야톨라 알리 하메네이의 얼굴이 담긴 전단지가 들어 있었다. 그 메시지는 분명했다. 방문객들이 테헤란의 거리를 보거나 단 한 명의 이란인과 대화하기 전에, 그들은 애도하는 국가를 소개받았으며, 그 나라는 자신들이 견뎌낸 외세의 침략을 부각시키려는 결심이 강했다.)&lt;/p&gt;
+&lt;p&gt;When I reached the airport, portraits of Ayatollah Khamenei were watching over the arrivals hall. Giant banners proclaimed endurance. Posters and flags called for revenge. The message from Iran’s leaders was clear: The country had suffered. It had survived, and the world needed to see both.&lt;br/&gt;(공항에 도착했을 때, 하메네이 아야톨라의 초상화들이 도착 홀을 지켜보고 있었습니다. 거대한 깃발은 인내를 외쳤다. 복수를 외치는 포스터와 깃발들이 있었다. 이란 지도자들의 메시지는 분명했다: 나라가 고통받았다는 것이다. 그것은 살아남았고, 세상은 두 가지 모두를 보아야 했다.)&lt;/p&gt;
+&lt;p&gt;I arrived in Iran in early July as part of the first team of New York Times journalists allowed into the country since the war began in late February. Before that, thousands of protesters were killed following anti-government protests that began in late December. We were allowed to report on Ayatollah Khamenei’s funeral ceremonies, accompanied by a government-appointed translator and a guide.&lt;br/&gt;(저는 전쟁이 시작된 2월 말 이후 처음으로 뉴욕타임스 기자들의 일원으로 이란에 도착했습니다. 그 이전에는 12월 말부터 시작된 반정부 시위 이후 수천 명의 시위대가 사망했다. 우리는 정부가 임명한 통역사와 가이드와 함께 하메네이 아야톨라의 장례식을 보도할 수 있었습니다.)&lt;/p&gt;
+&lt;p&gt;We spent several days reporting in Tehran, the capital, before traveling to Mashhad, the birthplace of the ayatollah and the city where he would be buried. During our visit, the war, which had briefly paused under a fragile cease-fire, began flaring again.&lt;br/&gt;(우리는 수도 테헤란에서 며칠간 취재를 했고, 이후 아야톨라의 출생지이자 그가 묻힐 도시인 마슈하드로 이동했습니다. 우리가 방문하는 동안, 불안정한 휴전 아래 잠시 멈췄던 전쟁이 다시 불타오르기 시작했다.)&lt;/p&gt;
+&lt;p&gt;While the Iran we encountered was shaped by war, it was not defined by it alone.&lt;br/&gt;(우리가 만난 이란은 전쟁에 의해 형성되었지만, 전쟁만으로 정의된 것은 아니었습니다.)&lt;/p&gt;
+&lt;p&gt;Even as the state projected strength, resilience and national unity, the people we met revealed a more complicated reality. We found grief accompanied by a fierce sense of national pride, opposition to the government tempered by unease over foreign intervention, outwardly liberal lifestyles unfolding alongside religious mourning, and anger at Israel and the United States alongside frustration with economic hardship and state restrictions.&lt;br/&gt;(국가가 힘과 회복력, 국가 통합을 내세우는 동안, 우리가 만난 사람들은 더 복잡한 현실을 드러냈습니다. 우리는 슬픔과 함께 강한 국가적 자부심, 정부에 대한 반대와 외국 개입에 대한 불안, 겉으로는 자유주의적인 생활 방식과 종교적 애도, 이스라엘과 미국에 대한 분노, 그리고 경제적 어려움과 국가 제한에 대한 좌절감을 발견했습니다.)&lt;/p&gt;
+&lt;p&gt;Understanding Iran meant holding all of those realities in view at once.&lt;br/&gt;(이란을 이해한다는 것은 이 모든 현실을 한꺼번에 인식하는 것을 의미했다.)&lt;/p&gt;
+&lt;p&gt;Our first stop was Golestan Palace.&lt;br/&gt;(첫 번째 목적지는 골레스탄 궁전이었습니다.)&lt;/p&gt;
+&lt;p&gt;The government’s choice was hardly accidental. It wanted to show how the war had reached beyond military targets to places central to Iran’s history and identity.&lt;br/&gt;(정부의 선택은 결코 우연이 아니었다. 전쟁이 군사적 목표를 넘어 이란 역사와 정체성의 중심지까지 확장되었음을 보여주고자 했다.)&lt;/p&gt;
+&lt;p&gt;The sprawling UNESCO World Heritage site dates to a chapter of Iranian history that predates the Islamic Republic. Once the ceremonial seat of the Qajar dynasty, it was where Persian kings held court beneath glittering mirrored ceilings and elaborate tilework.&lt;br/&gt;(이 광대한 유네스코 세계유산지는 이슬람 공화국 이전의 이란 역사 한 장에 속합니다. 한때 카자르 왕조의 의례 중심지였던 이곳은 페르시아 왕들이 반짝이는 거울 천장과 정교한 타일 장식 아래 궁정을 열던 곳이었습니다.)&lt;/p&gt;
+&lt;p&gt;Now parts of it bore fresh scars after being damaged in a strike targeting a judiciary building nearby.&lt;br/&gt;(현재 일부 건물은 인근 사법청을 겨냥한 공격으로 손상되어 새로운 상처를 입었다.)&lt;/p&gt;
+&lt;p&gt;Shadi Jafari, who led the media tour, said it was “unfortunate” how the palace survived centuries of Iranian history only to be scarred by modern war.&lt;br/&gt;(미디어 투어를 이끈 샤디 자파리는 궁전이 이란 역사의 수세기를 견뎌냈지만 현대 전쟁으로 인해 상처를 입은 것은 "안타깝다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;Throughout our trip, we encountered reminders everywhere of the strikes’ broad reach.&lt;br/&gt;(여행 내내 우리는 파업의 광범위한 영향력을 상기시키는 곳곳을 마주쳤습니다.)&lt;/p&gt;
+&lt;p&gt;At Sharif University of Technology, one of Iran’s premier academic institutions, damaged buildings had crumbled into heaps of concrete and mangled metal. The Iranian space research center had been reduced to a tangle of collapsed floors. The Azadi sports complex, a landmark venue that has long hosted major concerts, sporting events and public gatherings, lay in ruins. American and Israeli officials have said that certain civilian sites are used by Iranian security forces to generate revenue or produce materials that can be used for military purposes.&lt;br/&gt;(이란 최고의 학술 기관 중 하나인 샤리프 공과대학교에서는 손상된 건물들이 콘크리트 더미와 망가진 금속 더미로 무너져 내렸다. 이란 우주 연구센터는 무너진 바닥의 엉킴으로 전락했다. 오랫동안 주요 콘서트, 스포츠 행사, 대중 집회를 개최해온 랜드마크 경기장인 아자디 스포츠 콤플렉스는 폐허가 되었다. 미국과 이스라엘 관리들은 일부 민간 시설이 이란 보안군이 수입을 창출하거나 군사 목적으로 사용할 수 있는 물자를 생산하는 데 사용한다고 밝혔다.)&lt;/p&gt;
+&lt;p&gt;This destruction — along with the killing of top military, intelligence and political leaders — loomed over the ayatollah’s funeral, which coincided with Muharram, the month when Shiite Muslims commemorate the martyrdom of Imam Hussein, the Prophet Muhammad’s grandson. This year, the losses of the recent war have been woven into that centuries-old narrative of sacrifice and martyrdom.&lt;br/&gt;(이 파괴와 함께 최고 군부, 정보기관, 정치 지도자들의 살해는 아야톨라의 장례식을 무겁게 짓눌렀는데, 이 장례식은 시아파 무슬림들이 무함마드 예언자의 손자 이맘 후세인의 순교를 기념하는 무하람과 맞물려 있었다. 올해는 최근 전쟁의 손실들이 수세기 동안 이어져 온 희생과 순교의 이야기에 얽혀 있다.)&lt;/p&gt;
+&lt;p&gt;Many mourners did not speak of compromise. They wanted retaliation. They wanted President Trump dead. To them, diplomacy was weakness.&lt;br/&gt;(많은 조문객들은 타협에 대해 언급하지 않았다. 그들은 보복을 원했다. 그들은 트럼프 대통령이 죽길 원했다. 그들에게 외교는 약점이었다.)&lt;/p&gt;
+&lt;p&gt;At the Grand Mosalla prayer complex in Tehran, one woman told us that Iran had been attacked by the world’s most powerful military and was still standing. That, she believed, was victory enough. A man carried a yellowed newspaper from the era of Ayatollah Ruhollah Khomeini, who died in 1989, bearing his declaration that “nobody has the right to negotiate with America.” Beside it, he held a handwritten sign that read, “This is the result of negotiations.”&lt;br/&gt;(테헤란의 그랜드 모살라 기도 단지에서 한 여성은 이란이 세계에서 가장 강력한 군대의 공격을 받았음에도 여전히 버티고 있다고 우리에게 말했다. 그것만으로도 충분한 승리라고 그녀는 믿었다. 한 남성이 1989년에 사망한 아야톨라 루홀라 호메이니 시대의 누렇게 변한 신문을 들고 있었으며, 그는 "아무도 미국과 협상할 권리가 없다"는 선언문을 실었다. 그 옆에는 "이것이 협상의 결과이다."라는 손글씨 팻말을 들고 있었다.)&lt;/p&gt;
+&lt;p&gt;When Ahmad Vahidi, the commander of the powerful Islamic Revolutionary Guards Corps, appeared just a few feet from where I stood after the funeral prayers, chants of “Revenge! Revenge!” rippled through the crowd.&lt;br/&gt;(강력한 이슬람 혁명수비대의 사령관 아흐마드 바히디가 장례 기도 후 내가 서 있던 곳에서 불과 몇 걸음 떨어진 곳에 나타났을 때, "복수!"라는 구호가 울려 퍼졌다. 복수!" 군중 속에서 퍼져 나왔다.)&lt;/p&gt;
+&lt;p&gt;It was a sentiment shared by Seyed Mustafa, a businessman who had traveled from the southwestern city of Ahvaz. “Resistance and revenge are the only paths forward,” he said.&lt;br/&gt;(이 감정은 남서부 도시 아바즈에서 온 사업가 세예드 무스타파도 공유했다. "저항과 복수만이 앞으로 나아갈 길이다," 그가 말했다.)&lt;/p&gt;
+&lt;p&gt;Only a few miles from where mourners gathered for days, a very different scene unfolded.&lt;br/&gt;(며칠간 애도하는 이들이 모여 있던 곳에서 불과 몇 마일 떨어진 곳에서는 전혀 다른 장면이 펼쳐졌다.)&lt;/p&gt;
+&lt;p&gt;In north Tehran, the city’s upscale district, young people filled sandwich shops, cafes and boutique storefronts. Luxury cars inched through the nighttime traffic. Young tattooed men in shorts wore fresh bandages from cosmetic nose surgery. Women, dressed in bare-shouldered tops, rode motorcycles, their hair flowing behind them.&lt;br/&gt;(도시의 고급 지구인 북부 테헤란에서는 젊은이들이 샌드위치 가게, 카페, 부티크 상점을 가득 메웠다. 고급차들이 밤의 교통 사이를 천천히 지나갔다. 반바지를 입은 젊은 문신 남성들은 코 성형 수술로 받은 신선한 붕대를 감고 있었다. 여성들은 어깨가 드러난 상의를 입고 오토바이를 타며 머리카락이 뒤로 흩날렸다.)&lt;/p&gt;
+&lt;p&gt;At one restaurant where we ate dinner, music featuring a female vocalist poured through the speakers. Only weeks earlier, a female singer had been sentenced to 74 lashes for performing at a concert without wearing a hijab.&lt;br/&gt;(우리가 저녁을 먹던 한 식당에서는 여성 보컬이 나오는 음악이 스피커를 통해 흘러나왔다. 불과 몇 주 전, 한 여성 가수가 히잡을 쓰지 않은 채 콘서트에서 공연했다는 이유로 74대의 태형을 선고받았다.)&lt;/p&gt;
+&lt;p&gt;Looking around the room, one of the government guides remarked, almost with amusement, “For people here, it’s as if Ayatollah Khamenei didn’t die.”&lt;br/&gt;(방을 둘러보던 정부 안내원 중 한 명이 거의 재미있다는 듯이 말했다. "여기 있는 사람들에게는 아야톨라 하메네이가 죽지 않은 것과 같아.")&lt;/p&gt;
+&lt;p&gt;It was an understated acknowledgment of the parallel reality we had walked into.&lt;br/&gt;(그것은 우리가 들어온 평행 현실에 대한 절제된 인정이었다.)&lt;/p&gt;
+&lt;p&gt;Many of the Iranians we approached were remarkably warm. They asked where we were from. They wanted to know why we had come. Yet none agreed to be interviewed on record. Again and again, they apologized.&lt;br/&gt;(우리가 다가간 많은 이란인들은 놀라울 정도로 따뜻했습니다. 그들은 우리가 어디서 왔냐고 물었다. 왜 우리가 왔는지 알고 싶어 했어. 하지만 아무도 공식 인터뷰에 동의하지 않았다. 그들은 계속해서 사과했다.)&lt;/p&gt;
+&lt;p&gt;“I don’t want problems.”&lt;br/&gt;("문제 일으키고 싶지 않아.")&lt;/p&gt;
+&lt;p&gt;“Why would I talk to journalists? Am I crazy?”&lt;br/&gt;("왜 내가 기자들과 이야기해야 하지? 내가 미친 걸까?")&lt;/p&gt;
+&lt;p&gt;“You understand.”&lt;br/&gt;("이해하지.")&lt;/p&gt;
+&lt;p&gt;Their silence was its own form of testimony.&lt;br/&gt;(그들의 침묵 자체가 증언의 한 형태였다.)&lt;/p&gt;
+&lt;p&gt;Beneath the politics, another crisis threaded through many conversations: the struggle to make ends meet.&lt;br/&gt;(정치적 배경에는 또 다른 위기가 많은 대화를 통해 스며들어 있었다: 생계를 꾸리기 위한 투쟁.)&lt;/p&gt;
+&lt;p&gt;The war had accelerated financial pressures that many Iranians had been feeling for years because of sanctions, corruption and economic isolation.&lt;br/&gt;(전쟁은 제재, 부패, 경제적 고립으로 인해 많은 이란인들이 수년간 느껴온 재정적 압박을 가속화시켰다.)&lt;/p&gt;
+&lt;p&gt;Monthslong internet cutoffs had crippled businesses, including parts of Iran’s bustling tech sector, leading to mass layoffs. A spiraling currency had eroded purchasing power. University graduates spoke of struggling to find stable work. Those with jobs worried their wages no longer stretched far enough.&lt;br/&gt;(수개월간의 인터넷 차단으로 인해 이란의 분주한 기술 부문 일부를 포함한 기업들이 마비되어 대규모 해고가 발생했다. 통화 폭락은 구매력을 약화시켰다. 대학 졸업생들은 안정적인 일자리를 찾기 위해 고군분투했다고 말했습니다. 일자리를 가진 사람들은 임금이 더 이상 충분히 부족하다고 걱정했다.)&lt;/p&gt;
+&lt;p&gt;At one restaurant, a worker approached us at the washroom to say the restaurant would be forced to close during the upcoming funeral ceremonies, leaving him without the wages he needed to feed his family. He shrugged as he spoke, as though disappointment had become too familiar to provoke outrage.&lt;br/&gt;(한 식당에서 한 직원이 화장실에서 다가와 다가오는 장례식 동안 식당이 문을 닫게 되어 가족을 먹여 살릴 임금을 잃게 될 것이라고 말했습니다. 그는 어깨를 으쓱하며 말했다. 실망이 너무 익숙해져서 분노를 불러일으키지 않는 듯했다.)&lt;/p&gt;
+&lt;p&gt;To many Iranians, the funeral also became a measure of the state’s priorities. Even as elaborate mourning ceremonies were staged — complete with misting stations, free water and food — some Iranians described living through water shortages and power cuts.&lt;br/&gt;(많은 이란인들에게 장례식은 국가의 우선순위를 보여주는 척도가 되었다. 분무 스테이션, 무료 물과 식량이 포함된 정교한 애도식이 진행되는 동안에도 일부 이란인들은 물 부족과 정전을 겪었다고 묘사했다.)&lt;/p&gt;
+&lt;p&gt;The way that Ayatollah Khamenei’s funeral events were planned and carried out left “a deeply troubling sense of inequality and discrimination,” said Lida, 44, a doctoral student who spoke by phone from Tehran and on the condition that her last name not be used for fear of retaliation.&lt;br/&gt;(아야톨라 하메네이의 장례식 계획과 진행 방식은 "깊은 불평등과 차별의 우려감을 남겼다"고 테헤란에서 전화 통화를 했던 44세 리다가 말했다. 그녀는 보복을 두려워해 성을 사용하지 말라는 조건으로 전화 통화를 했다.)&lt;/p&gt;
+&lt;p&gt;“The government under his authority appeared to support only one segment of society — those regarded as insiders or loyalists,” she said, “and this is clearly reflected in the way his funeral ceremonies have been conducted as well.”&lt;br/&gt;("그의 권한 아래 정부는 오직 한 사회 집단, 즉 내부자나 충성파로 간주되는 이들만을 지지하는 것으로 보였으며," 그녀는 "이는 그의 장례식 방식에서도 분명히 드러난다"고 말했다.)&lt;/p&gt;
+&lt;p&gt;Our journey ended in Mashhad, where Ayatollah Khamenei was to be buried. Mourners converged on the Imam Reza shrine from across the world. But even here, reminders of war interrupted devotion.&lt;br/&gt;(우리의 여정은 아야톨라 하메네이가 묻힐 마슈하드에서 끝났습니다. 전 세계에서 조문객들이 이맘 레자 성지로 모였습니다. 하지만 여기서도 전쟁의 흔적이 헌신을 방해했다.)&lt;/p&gt;
+&lt;p&gt;At the arrivals hall of Mashhad airport, dozens of mostly pink and blue backpacks were displayed in memory of children killed when a U.S. strike hit their school in the southern city of Minab early in the war. The bags were paired with roses and children’s shoes.&lt;br/&gt;(마슈하드 공항 도착 홀에는 전쟁 초 남부 도시 미나브에서 미군 공격으로 학교가 공격되어 사망한 아이들을 기리기 위해 주로 분홍색과 파란색 배낭 수십 개가 전시되었다. 가방에는 장미와 어린이 신발이 매치되어 있었다.)&lt;/p&gt;
+&lt;p&gt;At a bakery in the city’s bazaar, a worker taped to the door a photograph of his nephew, a sailor who he said was killed when a U.S. submarine torpedoed his ship.&lt;br/&gt;(도시 바자회에 있는 한 빵집에서 한 직원이 조카의 사진을 문에 붙였는데, 조카는 미 잠수함이 자신의 배를 어뢰 공격해 사망했다고 말했다.)&lt;/p&gt;
+&lt;p&gt;Just hours before, the United States had reimposed sanctions on Iranian oil and conducted new strikes inside Iran. The cease-fire was already beginning to unravel, giving way to a wave of fighting that has once again engulfed the wider region.&lt;br/&gt;(불과 몇 시간 전, 미국은 이란 석유에 대한 제재를 재가하고 이란 내에서 새로운 공격을 실시했다. 휴전은 이미 무너지기 시작했고, 다시 한 번 더 넓은 지역을 휩쓸고 있는 전투의 물결로 이어지고 있다.)&lt;/p&gt;
+&lt;p&gt;Hours after the ayatollah’s burial, we drove toward the Afghan border. At immigration, two officers motioned me over to their booth. With only limited English, one officer typed some words into a translation app on his phone and held up the screen for me.&lt;br/&gt;(아야톨라의 매장 몇 시간 후, 우리는 아프간 국경을 향해 차를 몰았습니다. 출입국 심사관에서 두 명의 직원이 저를 부스로 안내했습니다. 영어가 제한적이었던 한 경찰관이 휴대폰 번역 앱에 몇 단어를 입력하고 화면을 내게 보여주었다.)&lt;/p&gt;
+&lt;p&gt;“What do you think of Iran and its people?” it read.&lt;br/&gt;("이란과 그 국민들에 대해 어떻게 생각하십니까?"라고 적혀 있었다.)&lt;/p&gt;
+&lt;p&gt;As I looked up from the phone, the other asked, smiling: “Do you think we are strong?”&lt;br/&gt;(전화기에서 눈을 들어 상대가 웃으며 물었다: "우리가 강하다고 생각해?")&lt;/p&gt;
+&lt;p&gt;They were, in many ways, the questions that had followed us throughout the trip.&lt;br/&gt;(이 질문들은 여러 면에서 여행 내내 우리를 따라다녔던 질문들이었습니다.)&lt;/p&gt;
+&lt;p&gt;Iran had spent my entire journey asking the world to recognize its strength.&lt;br/&gt;(이란은 전 세계 모두가 자신의 힘을 인정해 달라고 요청해 왔습니다.)&lt;/p&gt;
+&lt;p&gt;Its people had answered with something far more complicated: strength, yes, but also grief, defiance, weariness, fear and hope.&lt;br/&gt;(그 사람들은 훨씬 더 복잡한 감정으로 대답했다: 힘, 맞지만, 슬픔, 반항, 피로, 두려움, 희망도 함께였다.)&lt;/p&gt;
+&lt;p&gt;I spent a week in Iran with a New York Times reporting team during the funeral of Ayatollah Ali Khamenei, killed at the onset of the U.S.-Israeli war on Iran. Midway through our stay, a brief pause in the fighting shattered. Reporting through those days showed a country of stark contrasts — a  government projecting strength, and a public quietly bearing fear, exhaustion, and hope.&lt;br/&gt;(나는 이란에서 일주일간 뉴욕 타임스 취재팀과 함께 미-이스라엘 전쟁 초기에 사망한 아야톨라 알리 하메네이의 장례식을 지켜보았다. 우리가 머무는 중간, 전투의 잠시 휴식이 깨졌다. 그 시절 보도는 극명한 대조를 이루는 나라를 보여주었다 — 강력한 정부를 내세우는 반면, 대중은 조용히 두려움과 피로, 희망을 품고 있었다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/25/multimedia/25iran-01-gvkh/25iran-01-gvkh-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Sat, 25 Jul 2026 03:11:26 +0000</pubDate></item></channel></rss>
