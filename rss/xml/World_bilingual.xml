@@ -1,34 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 31 Jul 2026 01:39:37 +0000</lastBuildDate><item><title>Houthis Claim Strike on Another Saudi Oil Tanker (후티, 사우디 유조선 또 공격 주장)</title><link>https://www.nytimes.com/2026/07/28/world/middleeast/houthis-strike-saudi-tanker.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/28/multimedia/28int-houthis-saudi-1-jklp/28int-houthis-saudi-1-jklp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The Iranian-backed Houthi militant group in Yemen said on Tuesday that it had targeted a Saudi oil tanker with missiles in what would be the latest attack in an emerging front of the war between the United States and Iran.&lt;br/&gt;(예멘의 이란 지원을 받는 후티 반군 단체는 화요일 사우디 유조선 한 척을 미사일로 공격했다고 밝혔다. 이는 미국과 이란 간 전쟁의 새로운 전선에서 발생한 최근 공격이 될 전망이다.)&lt;/p&gt;
-&lt;p&gt;The skirmishes between the Houthis, who control a large part of Yemen, and the Saudis risked igniting another conflict and infused more volatility into world energy supplies.&lt;br/&gt;(예멘의 상당 부분을 장악한 후티와 사우디 간의 충돌은 또 다른 분쟁을 촉발할 위험이 있으며, 세계 에너지 공급에 더 큰 변동성을 불러일으키고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-사우디 당국은 공공 해상 모니터링 서비스에서 사우디 국적선으로 등록된 최신 유조선 NCC 가잘호에 대한 공격을 즉시 확인하지 않았다. 이 선박은 선박 모니터링 업체 마린트래픽에 따르면 5일 전 사우디아라비아의 홍해 연안에서 마지막으로 위치가 파악됐다.
-&lt;&lt;&lt;PARA&gt;&gt;
-후티는 유조선이 반복된 경고를 무시했으며 방향을 돌릴 수밖에 없었다고 말했다. 그들은 선박이 실제로 피격되었는지, 또는 당시 선박의 위치에 대해서는 밝히지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 공격은 후티가 홍해에서 사우디아라비아로 향하거나 출발하는 선박을 봉쇄하겠다고 발표한 이후 공격받은 최소 네 번째 유조선이다. 영국 해군이 운영하는 모니터링 그룹은 후티의 주장이 나온 지 몇 시간 후, 한 유조선이 홍해를 항해하던 중 폭발음을 들었으며 모든 승무원이 안전하다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-후티가 공격을 주장한 직후, 사우디 국방부는 이틀 연속 이라크 내 이란 동맹 민병대가 사우디 석유 시설을 겨냥해 발사한 여러 대의 드론을 파괴했다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-후티가 이달 초 봉쇄를 발표한 이후, 양측은 서로에 대한 공격을 주장해 왔다. 사우디 주도 군사 연합은 수년 만에 처음으로 후티 장악 지역에서 공습을 수행했다. 선박 공격과는 별도로, 후티는 월요일 사우디 동부 유전과 홍해 허브인 얀부를 연결하는 원유 공급 및 수송 경로를 표적으로 삼았다고 밝혔다. 사우디 왕국 국방부는 아직 이 주장에 대해 답변하지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-3월 이후 이란은 페르시아만의 좁은 관문인 호르무즈 해협을 사실상 봉쇄했다. 이로 인해 사우디아라비아는 수백 마일 떨어진 홍해 항구를 통해 석유와 가스 수출에 더 크게 의존할 수밖에 없게 됐다.
-&lt;&lt;&lt;PARA&gt;&gt;
-후티는 인도양과 아시아 시장으로 가는 최단 경로인 바브엘만데브 해협이 좁아지는 홍해 남부 대부분의 해안을 장악하고 있다. 선박이 이 통로를 이용할 수 없을 경우, 수에즈 운하를 통해 북쪽으로 향해야 하며, 일부 항로는 수천 마일이 추가된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지난주 후티는 홍해에서 두 척의 유조선을 공격했다고 주장했으며, 사우디아라비아는 그중 하나만 확인했다. 이후 금요일, 사우디 관리들은 홍해에서 공격을 받은 사우디 소유 선박의 선체가 손상됐다고 밝혔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-후티는 이라크 파벌, 가자지구의 하마스, 레바논의 헤즈볼라와 함께 이란의 더 넓은 '저항 축'의 일부를 형성한다. 이란의 지원을 받아 그들은 사우디가 지원하는 국제적으로 인정된 예멘 정부와 내전을 치르며 국가의 상당 부분을 장악했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-사우디와 후티는 2022년 휴전 이후 깨지기 쉬운 교착 상태에 있었지만, 이란 비행기가 사나에 착륙하려는 분쟁으로 후티가 사우디가 예멘 수도 사나의 주요 국제공항을 공격했다고 비난하면서 이달 긴장이 폭발했다. 후티는 이에 보복해 사우디 남부의 아브하 공항을 공격했으며, 이는 2022년 초 이후 후티의 첫 사우디 영토 직접 공격이었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-후티는 이전에도 홍해에서 선박 운항을 방해하는 능력을 무기화한 바 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2023년 말 시작된 가자 전쟁 동안, 후티는 드론, 미사일 및 선박 납치를 통해 홍해에서 상선을 공격하며 이스라엘과 그 동맹국에 압력을 가하려 했다. 일부 추정에 따르면, 후티의 봉쇄는 글로벌 석유 시장의 3% 이상에 영향을 미칠 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-후티의 최근 위협은 특히 어려운 시기에 나왔다. 이란이 호르무즈 해협을 통과하는 선박을 공격하면서 많은 선주와 운영자들이 이 해로를 사용하기에는 너무 위험하다고 판단했기 때문이다. 이 해협은 미국과 이스라엘이 2월 28일 이란을 공격한 이후 짧은 휴전을 제외하고는 사실상 마비 상태에 있으며, 월간 통행 수는 몇 달 만에 최저 수준을 기록했다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/07/28/world/middleeast/houthis-strike-saudi-tanker.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/28/multimedia/28int-houthis-saudi-1-jklp/28int-houthis-saudi-1-jklp-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 28 Jul 2026 16:08:39 +0000</pubDate></item><item><title>Israel Strikes Mosque in Gaza City (이스라엘, 가자시티 모스크 폭격)</title><link>https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/28/multimedia/28int-gaza-mosque-01-ftmz/28int-gaza-mosque-01-ftmz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 31 Jul 2026 05:53:52 +0000</lastBuildDate><item><title>Israel Strikes Mosque in Gaza City (이스라엘, 가자시티 모스크 폭격)</title><link>https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/28/multimedia/28int-gaza-mosque-01-ftmz/28int-gaza-mosque-01-ftmz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The Israeli military bombed a mosque in Gaza, accusing the Palestinian militant group Hamas on Wednesday of using it to store weapons.&lt;br/&gt;(이스라엘 군은 수요일 가자지구의 한 모스크를 폭격했으며, 팔레스타인 무장 단체 하마스가 이곳을 무기 저장고로 사용했다고 주장했다.)&lt;/p&gt;
 &lt;p&gt;The Hamas-run government media office in Gaza responded by saying Israel’s claims aimed “to justify its attacks on mosques” and were “entirely false.” There were no reports of deaths from the attack.&lt;br/&gt;(가자지구의 하마스 통치 정부 미디어 사무소는 이에 대해 이스라엘의 주장이 "모스크 공격을 정당화하기 위한 것"이며 "완전히 거짓"이라고 반박했다. 이번 공격으로 인한 사망자 보고는 없었다.)&lt;/p&gt;
 &lt;p&gt;The Israeli military said advance warning was provided to civilians “to mitigate the risk of harm to them.”&lt;br/&gt;(이스라엘 군은 민간인 피해를 최소화하기 위해 사전 경고를 제공했다고 밝혔다.)&lt;/p&gt;
