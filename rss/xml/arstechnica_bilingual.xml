@@ -1,56 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 04 Aug 2026 18:54:36 +0000</lastBuildDate><item><title>How fruit flies chase invisible ribbons of smell to get to their source (초파리가 보이지 않는 냄새 리본을 추적하여 근원지를 찾는 방법)</title><link>https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-956238116-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Tracking smells in turbulent air takes a keen sense of direction and sharp memory.&lt;br/&gt;(난류 속에서 냄새를 추적하려면 예리한 방향 감각과 날카로운 기억력이 필요하다.)&lt;/p&gt;
-&lt;p&gt;A fruit fly hunting a piece of rotting fruit or a mate navigates by smell, following plumes of odor. Out in the wild, turbulent air swirls these plumes into a chaotic, broken landscape—dense chemical filaments laced through long stretches of clean air. A fly trying to find the source gets the smell in stutters, from constantly shifting directions, with no guarantee that a next whiff is coming at all.&lt;br/&gt;(썩어 가는 과일 조각이나 짝을 찾는 초파리는 냄새를 따라 이동하며, 냄새 기둥(플룸)을 추적한다. 야생에서는 난기류가 이 기둥을 휘저어 혼란스럽고 단절된 지형으로 만든다—조밀한 화학 필라멘트가 깨끗한 공기의 긴 구간 사이에 얽혀 있다. 근원지를 찾으려는 파리는 끊임없이 방향을 바꾸는 냄새를 간헐적으로만 맡게 되며, 다음 냄새가 올지조차 보장할 수 없다.
-&lt;&lt;&lt;PARA&gt;&gt;
-과학자들은 초파리가 머리핀 크기의 뇌로 이 혼란스러운 신호를 어떻게 처리하는지 거의 알지 못했다. 오랫동안 생물학자들은 ‘급상승 및 확산(surge and cast)’ 모델을 지지했는데, 이 모델은 곤충이 고정된 반사 신경으로 이 문제를 해결한다고 주장했다. 그 아이디어는 파리가 더듬이의 후각 뉴런으로 냄새 기둥을 감지하면 단순히 바람을 거슬러 날아가다가 냄새가 사라지면 좌우로 날아다니며 다시 잡으려 한다는 것이었다. 그러나 록펠러 대학의 신경과학자 바네사 루타가 이끄는 팀은 초파리가 훨씬 더 진보된 행동을 한다는 것을 밝혀냈다.
-&lt;&lt;&lt;PARA&gt;&gt;
-전통적인 급상승 및 확산 모델의 문제점은 구불구불한 냄새 기둥을 장거리로 추적하는 곤충의 행동을 설명하기 어렵다는 점이다. 자연 환경에서 공중에 떠다니는 화학 신호는 종종 희박하고 신뢰할 수 없다. 그러나 이러한 특성 때문에 후각 탐색의 메커니즘을 실험으로 검증하는 것은 악명 높을 정도로 어렵다. “냄새는 보이지 않으며,” 루타는 말한다, “종종 난기류에 실려 운반됩니다.” 우리는 동물이 순간순간 무엇을 맡고 있는지 알 방법이 없습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그래서 루타 팀은 이를 알아내기 위한 실험을 설계했다. 과학자들은 초파리(Drosophila)를 완전한 어둠 속에서 공기 쿠션 위에 떠 있는 작은 공 위에 고정시켰다. “그것은 파리 크기의 러닝머신입니다,” 루타가 설명한다. 파리가 공 표면을 걸을 때, 그 회전은 더듬이에 꾸준한 기류를 불어넣는 노즐을 조종하여, 곤충이 마치 열린 들판을 걷는 것처럼 항상 일정한 방향에서 바람을 느끼게 했다. 그런 다음 연구자들은 이 기류에 사과 식초를 주입했고, 파리의 가상 필드 위치에 따라 이를 켜고 껐다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이렇게 하여 연구자들은 파리가 감지하는 냄새의 강도와 방향을 정밀하게 제어할 수 있었다. “우리는 사실상 어떤 종류의 임의 화학적 지형도 생성할 수 있었습니다,” 루타가 말한다. 팀은 난류 기둥, 직선 복도, 역방향으로 흐르는 냄새 구배를 포함한 실제감 있는 후각 경험을 시뮬레이션할 수 있었다. “그것은 사실 매우 복잡한 가상 현실 시스템은 아니지만, 엄청나게 강력합니다,” 루타가 덧붙였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번에는 실험자들이 파리가 받는 모든 분자의 정체와 양을 알 수 있었다. 그들이 처음 테스트한 것은 급상승 및 확산 모델이었다. 그리고 그 모델은 잘 들어맞지 않았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-바람을 따라 흐르는 약 50밀리미터 너비의 직선 식초 복도 실험에서 파리들은 당연한 행동인 중앙을 따라 전진하지 않았다. 대신, 그들은 한쪽 가장자리를 따라 붙어서 반복적인 두 단계 과정을 통해 이동했다. 파리가 냄새 구역에 들어서는 순간, 그것은 방향을 틀어 밖으로 나가고, 깨끗한 공기 밖을 돌고 나서 경계선으로 직진했다. 팀은 이를 가장자리 추적(edge tracking)이라고 불렀다.
-&lt;&lt;&lt;PARA&gt;&gt;
-파리들은 또한 냄새 기둥 내부보다 외부에서 훨씬 더 많은 시간을 머물렀는데, 근원지를 향한 거의 모든 전진은 그 짧은 냄새 구역 진입 동안에만 일어났다. “파리들은 냄새 기둥의 가장자리를 따라 수 미터를 추적하면서도 결코 그 안으로 들어가지 않습니다,” 루타가 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-연구자들이 처음 생각한 설명은 파리들이 근원지를 향해 증가하는 냄새 구배를 오르고 있다는 것이었다. 그러나 그들도 그렇게 하지 않았다. 팀이 구배를 반전시켜 파리가 전진할수록 식초 냄새가 약해지도록 했을 때, 파리들은 가장자리를 똑같이 잘 추적했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-팀은 또한 유전자 조작을 통해 빛이 두 더듬이의 후각 뉴런을 동시에 직접 활성화할 수 있는 파리들로도 실험했다. 과학자들이 실제 냄새를 660나노미터 적색광 빔으로 대체했을 때, 곤충들은 이 빛 기둥의 가장자리를 완벽하게 추적했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 진짜 놀라움은 팀이 냄새가 전혀 없어 안내가 없는 상황에서 파리들이 무엇을 하는지 자세히 관찰했을 때 나왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-파리가 냄새 기둥 밖에 있을 때 연구자들이 그 기둥을 사라지게 하자, 곤충은 계속해서 가장자리가 있어야 할 위치로 향했다. 무작위로 탐색하는 대신, 그들은 냄새 물질이 있어야 할 곳을 알고 있는 것처럼 향했다. “그들은 저장된 기억이 그 방향으로 계속 조종하고 있는 것처럼 보였습니다,” 루타가 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그래서 팀은 저장된 후각 기억을 찾기 시작했다. 첫 번째 후보는 곤충 뇌의 내비게이션 허브와 같은 중앙 복합체라는 뇌 구조였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-형광 이미징을 사용하여 뉴런이 실시간으로 발화하는 것을 관찰하면서, 루타와 동료들은 파리의 나침반 역할을 하는 뉴런을 특정했다. 가장자리 추적 내내 이 나침반은 바람에 고정되어 있었고, 파리가 냄새 안에 있는지 밖에 있는지에 무관했다. 팀이 이 뉴런들을 침묵시키자, 파리들은 완전히 길을 잃고 바람을 거슬러 방황하며 돌아올 방법을 몰랐다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 신경 나침반은 퍼즐의 한 조각에 불과했다. 바람 속에서 사라진 냄새를 찾으려면 파리에게 목표—무엇을 찾아야 하는지에 대한 기억—가 있어야 한다. 팀은 그 기억을 찾아 나섰다.
-&lt;&lt;&lt;PARA&gt;&gt;
-팀은 부채 모양체라고 불리는 구조에서 발견되는 다른 뉴런 군집에서 후각 기억을 찾아냈는데, 이 구조는 이미 파리가 가고 싶은 위치를 부호화한다고 알려져 있었다. 나침반처럼, 이 뉴런들의 활동은 포인터 역할을 하지만, 이 경우에는 파리가 의도한 목적지를 표시하는 것이다. 깨끗한 공기 밖에서 이 포인터는 나침반에서 떨어져 냄새 기둥의 가장자리를 향해 흔들렸는데, 파리가 물리적으로 방향을 틀어 돌아가기 몇 초 전이었다. 나침반 뉴런과 마찬가지로, 냄새 가장자리 위치를 부호화하는 뉴런을 침묵시키면 파리들이 그 냄새를 찾는 것이 불가능해졌다. “그들이 밖으로 나오면, 즉각적인 감각 정보가 없어 냄새 기둥으로 돌아갈 수 없습니다. 그때 기억이 중요해집니다,” 루타가 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-파리들이 냄새 기둥의 가장자리 위치를 기억하는지 확인하기 위해, 팀은 곤충들이 이 기억을 업데이트할 수 있는지 테스트했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-파리 뇌에서 무슨 일이 일어나고 있는지 이해하기 위해, 팀은 시뮬레이션 파리가 떠나는 모드와 돌아오는 모드 사이를 전환하며 경계를 넘을 때마다 저장된 냄새 기둥 가장자리 위치를 업데이트하는 컴퓨터 모델을 구축했다. 가장 중요한 데이터 포인트는 파리가 마지막으로 냄새 기둥에 부딪힌 방향인 진입 각도라는 것이 밝혀졌다. 각도가 없으면 시뮬레이션 파리들은 더 이상 가장자리 추적을 할 수 없었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그런 다음 연구자들은 실제 파리로 돌아가 후각 기억을 얼마나 빨리 수정할 수 있는지 테스트했다. 파리들이 45도 기울어진 냄새 기둥을 추적하게 한 다음, 갑자기 반대쪽 45도 각도로 뒤집었다. 처음에는 곤충들이 길을 잃고 이전 방향을 탐색했다. 그러나 단 한 번의 훈련 세션—파리가 우연히 올바른 새 각도로 걸을 때마다 식초 한 방울을 전달하는 것—으로 문제를 해결하기에 충분했다. 파리들은 즉시 내부 목표를 다시 쓰고 새 구간을 추적하기 시작했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“우리는 새로운 진입 각도를 주입할 수 있었습니다,” 루타가 말한다. 그녀에게 이것은 반사 신경이 아니라 기억이 초파리의 후각 탐색을 담당한다는 가장 강력한 증거 중 일부였다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 이것이 반드시 기존의 급상승 및 확산 아이디어가 끝났다는 것을 의미하지는 않는다.
-&lt;&lt;&lt;PARA&gt;&gt;
-팀이 컴퓨터 모델에서 시뮬레이션된 자연 냄새 기둥을 통해 파리들을 실행했을 때, 진입 각도 기억은 냄새 기둥이 일관된 리본으로 유지되는 근원지 근처에서 가장 잘 작동했다. 더 하류에서는 냄새가 모든 방향에서 오는 혼란스러운 필라멘트로 부서지면서 기억은 빠르게 신뢰할 수 없게 되고 덮어쓰여졌다. 팀은 이것이 아마도 파리들이 더 단순한 반사 신경에 의존하는 지점일 것이라고 추측한다. “동물들은 자신의 전략을 적응시키고 있습니다,” 루타가 말한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그녀는 세계가 예측 가능할 때는 기억에 의존하고, 그렇지 않을 때는 그것을 버릴 가능성이 있다고 제안한다. 팀이 이제 가장 먼저 조사하고 싶은 것은 살아있는 파리에서 매우 난류가 심한 냄새 기둥을 추적하는 데 기억이 실제로 관련이 있는지, 아니면 모델이 시사한 것처럼 상황이 안정될 때 다른 메커니즘으로 대체되는지 여부다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“초파리에 대한 이해가 증가하고 있으며, 이 파리가 순간적인 감각 신호를 저장된 공간 목표로 변환하는 핵심 계산에 대한 통찰력을 제공하는 힘이 점점 인정받고 있습니다,” 루타가 주장한다. 초파리는 가장 단순하고 광범위하게 연구된 뇌 중 하나를 가지고 있기 때문에, 그녀는 이러한 통찰력이 나머지 동물계에서 이 과정이 어떻게 작동하는지 이해하는 데 관련이 있을 것이라고 생각한다. “그것은 모든 동물이 수행할 수 있는 기본적인 특징이며, 우리 자신처럼 더 정교하고 복잡한 뇌를 가진 동물들도 포함됩니다,” 그녀가 덧붙인다.
-&lt;&lt;&lt;PARA&gt;&gt;
-네이처, 2026. DOI: 10.1038/s41586-026-10827-7)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-956238116-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Sat, 01 Aug 2026 01:00:19 +0000</pubDate></item><item><title>Defcon’s new badge is a security key you can see inside (데프콘의 새로운 배지, 내부를 볼 수 있는 보안 키)</title><link>https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/defconbadge-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 04 Aug 2026 21:02:28 +0000</lastBuildDate><item><title>Defcon’s new badge is a security key you can see inside (데프콘의 새로운 배지, 내부를 볼 수 있는 보안 키)</title><link>https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/defconbadge-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;A removable chip lets hackers inspect their badge—and keep using it after Defcon.&lt;br/&gt;(분리 가능한 칩 덕분에 해커들은 자신의 배지를 검사할 수 있고, 데프콘 이후에도 계속 사용할 수 있다.)&lt;/p&gt;
 &lt;p&gt;It’s been a longtime feature of the annual Defcon hacker conference that attendees come away not only with knowledge of new software vulnerabilities and hacking techniques but also an elaborately designed conference badge—often electronic masterpieces embedded with intricate puzzles , complex crypto challenges, hidden Easter eggs , and even the mechanical gear trains of a watch.&lt;br/&gt;(매년 열리는 데프콘 해커 컨퍼런스의 오랜 전통 중 하나는 참가자들이 새로운 소프트웨어 취약점과 해킹 기술에 대한 지식뿐만 아니라 정교하게 디자인된 컨퍼런스 배지—종종 복잡한 퍼즐, 난해한 암호 챌린지, 숨겨진 이스터 에그, 심지어 시계의 기계식 기어 트레인까지 내장된 전자 공학의 걸작—을 가지고 돌아간다는 것이다.)&lt;/p&gt;
 &lt;p&gt;Each year’s badge creator endeavors to top previous designs and blow the minds of hard-to-impress hackers. But this year’s badges take a different tack. Instead of the badge designs being the star, it’s what is inside the hardware that will really stand out.&lt;br/&gt;(매년 배지 제작자는 이전 디자인을 능가하고 좀처럼 감탄하지 않는 해커들을 놀라게 하기 위해 노력한다. 하지만 올해의 배지는 다른 접근 방식을 취한다. 배지 디자인이 주인공이 아니라, 하드웨어 내부에 있는 것이 진정으로 눈에 띌 것이다.)&lt;/p&gt;
@@ -564,4 +513,47 @@ UHF 할인을 폐지하면 사실상 전국 TV 소유 규칙이 더 엄격해졌
 테슬라는 2020년 말에 S&amp;P 500에 편입되었지만, 스페이스X가 테슬라와 합병한다면 패시브 투자자로부터 스페이스X를 보호하려는 S&amp;P의 노력은 수포로 돌아갈 것이다. (테슬라와 스페이스X 모두 연초 대비 약 25% 하락했지만, 물론 스페이스X의 한 해는 6월 기업공개(IPO)로 시작되었을 뿐이다.)
 &lt;&lt;&lt;PARA&gt;&gt;
 이러한 합병은 국가 안보를 이유로 미국 정부에 의해 차단될 위험이 있다. 한편으로는 스페이스X와 미국 정부 간의 수백억 달러에 달하는 군사 계약이 있고, 다른 한편으로는 테슬라의 중국 사업이 있기 때문이다. 금계를 죽이는 것은 수익성 있게 더 많은 자동차를 팔고자 하는 회사의 관점에서 생각해 보면 말이 되지 않는다. 하지만 그렇게 말하면서도, 테슬라의 CEO는 우리에게 더 이상 자동차 회사가 아니라고 계속 말하고 있지 않은가?)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2270890949-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Tue, 04 Aug 2026 08:34:48 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2270890949-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Tue, 04 Aug 2026 08:34:48 +0000</pubDate></item><item><title>Texas halts data center connections to power grid amid overwhelming demand (텍사스, 압도적인 수요 속 데이터센터 전력망 연결 중단)</title><link>https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;Governor who touted Texas as AI “epicenter” pauses data center grid connections.&lt;br/&gt;(텍사스를 AI "중심지"라고 홍보했던 주지사, 데이터센터 전력망 연결 일시 중단)&lt;/p&gt;
+&lt;p&gt;Nowhere is the US data center boom bigger than in Texas. But less than a year after declaring Texas the “epicenter of AI development,” Governor Greg Abbott has declared a moratorium on all new power grid connections for data centers—at least until developers provide more information about their projects’ potential impacts on the grid and communities.&lt;br/&gt;(미국에서 데이터센터 붐이 가장 크게 일어난 곳은 텍사스다. 그러나 텍사스를 "AI 개발의 중심지"로 선언한 지 1년도 채 되지 않아, 그렉 애벗 주지사는 데이터센터의 신규 전력망 연결에 대한 모라토리엄(일시 중단)을 선언했다——적어도 개발자들이 프로젝트가 전력망과 지역사회에 미칠 잠재적 영향에 대한 더 많은 정보를 제공할 때까지는 말이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+공화당 소속 주지사는 8월 3일 텍사스 공공유틸리티위원회와 전력신뢰성위원회(ERCOT)의 전력망 운영자들에게 "ERCOT의 상호연결 절차를 진행 중인 모든 데이터센터에 대한 포괄적인 검증 및 감사를 수행"하도록 지시했다. 독립 시스템 운영자로서 ERCOT는 미국 본토의 다른 지역과 분리되어 운영되는 전력망을 감독하며 텍사스 대부분 지역에 서비스를 제공한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+텍사스는 값싼 토지와 비교적 풍부한 에너지 자원, 그리고 세금 감면과 규제 완화 같은 주 차원의 인센티브를 제공하며 데이터센터 개발을 적극적으로 유치해 왔다. 이로 인해 텍사스는 버지니아를 제치고 미국 최대 데이터센터 시장이 될 전망이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 최근의 AI 붐과 이에 따른 데이터센터 개발 광풍은 서류상으로 텍사스 전력망을 압도할 위협이 되고 있다. 주정부가 신규 발전 설비 추가에서 미국 내 선두를 달리고 있음에도 불구하고 말이다. ERCOT의 상호연결 대기열에는 현재 텍사스 전력망 연결 요청으로 474기가와트 이상을 대표하는 1,800개 이상의 프로젝트가 포함되어 있으며——이는 텍사스의 역대 최대 전력 수요 기록의 5배가 넘는 수치다——이러한 전력 연결 요청의 약 90%가 데이터센터에서 나온다.
+&lt;&lt;&lt;PARA&gt;&gt;
+애벗 주지사 사무실의 성명에 따르면 "이러한 전례 없는 부하 증가는 텍사스 전력망의 신뢰성과 안정성을 위협할 수 있다."
+&lt;&lt;&lt;PARA&gt;&gt;
+이러한 데이터센터 프로젝트 중 상당수는 여러 이유로 실제로 건설되지 않을 수도 있다. 그러나 The Texas Tribune에 따르면 ERCOT는 여전히 데이터센터 수요와 기타 요인으로 인해 2032년까지 주 전체 전력 수요가 현재 수요 기록의 두 배로 증가할 수 있다고 예측했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+AI 붐은 텍사스에 추가적인 결과를 초래했다. 2014년 초당파적 지지로 통과된 데이터센터 세금 감면 혜택은 현재 연간 10억 달러 이상의 데이터센터 개발자 세금 감면으로 급증했으며——The Texas Tribune은 주정부가 향후 2년간 32억 달러의 판매세 수입을 잃을 수 있다고 추산한다고 보도했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+애벗 주지사의 새 지시는 데이터센터가 ERCOT 전력망에 얼마나 의존할 것인지에 대한 감사와 함께 데이터센터의 연간 및 최대 전력 소비량 예측 확보를 요구한다. 또한 개별 데이터센터 프로젝트가 주정부 재정 지원에 얼마나 의존하는지에 대한 정보와 각 데이터센터 프로젝트의 소유권 및 지배 지분에 대한 세부 정보를 요구한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+애벗 주지사는 또한 주 규제 기관과 전력망 운영자에게 데이터센터의 냉각 시스템과 용수 사용이 지역 사회가 필요로 하는 지역 용수 공급을 얼마나 끌어다 쓸 수 있는지 파악하도록 지시했다. 그러나 주지사의 지시는 데이터센터가 냉각 시스템을 통해서보다 전력 생산원을 통해 훨씬 더 많은 물을 사용하는 경우가 많다는 사실을 언급하지 않는다——이 사실은 캘리포니아 대학교 리버사이드의 샤오레이 렌 같은 연구자들이 강조해 온 점이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+코퍼스 크리스티 같은 텍사스 지역 사회는 이미 수년간의 가뭄과 싸워 왔다. 그러나 기후 변화와 "지역을 말라붙게 만든" 대형 에너지 및 화학 기업들의 운영으로 인해 물 문제가 더욱 악화되었다고 San Antonio News가 보도했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+연방 데이터를 분석한 시에라 클럽 보고서에 따르면 텍사스 천연가스 발전소는 2024년에 560억 갤런의 물을 사용했고, 석탄 발전소는 추가로 340억 갤런을 소비했으며, 원자력 발전소는 260억 갤런을 사용했다. 이에 비해 텍사스 데이터센터는 냉각 목적으로 직접 80억 갤런의 물을 사용했지만, 많은 데이터센터가 물 집약적인 전력 생산원에 의존하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+애벗 주지사의 지시는 또한 데이터센터가 "소음 완화, 조명 통제, 이격 거리, 교통 개선, 긴급 대응 조정 및 기타 지역사회 보호 조치를 포함하여 인접 부동산 소유자와 지역사회에 미치는 영향을 줄이기 위해" 취하는 조치에 대한 더 철저한 조사를 요구한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러나 이 지시는 데이터센터와 관련된 지역 대기 오염과 온실가스 배출을 눈에 띄게 언급하지 않는다. 비영리 뉴스룸 Floodlight는 AI 기업들이 텍사스의 지역 허가 허점을 이용해 신규 데이터센터 캠퍼스에 가스 터빈과 백업 디젤 발전기를 현장에 설치하고 있으며——더 광범위한 환경 검토나 지역사회와의 소통 없이 말이다——라고 보도했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+주목할 점은 텍사스의 데이터센터 전력망 연결 중단이 가능한 한 빨리 가동을 시작하기 위해 자체 현장 발전 설비를 구축하는 데이터센터 프로젝트에는 적용되지 않는다는 것이다. 시장 정보 플랫폼 CleanView의 연구에 따르면 이러한 "계량기 뒤(behind-the-meter) 전력" 전략은 Meta, Microsoft, Amazon, Oracle, OpenAI, Anthropic 같은 기술 및 AI 기업들 사이에서 점점 더 보편화되고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이러한 계량기 뒤 전력은 일반적으로 천연가스에 의존한다. 그러나 복합화력 가스 터빈의 장기간 주문 잔고로 인해 데이터센터 개발자들은 "세미트럭에 묶인 이동식 가스 발전기"와 "원래 항공기와 군함용으로 설계된 항공파생 터빈" 같은 대체 소스를 찾고 있다고 CleanView는 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+텍사스는 발표된 데이터센터용 계량기 뒤 용량이 40기가와트로 미국 모든 주를 선도한다. CleanView에 따르면 이러한 요인은 텍사스 퍼미안 분지의 가스 공급과 "광범위한 파이프라인 인프라", 그리고 "주정부의 관대한 규제 환경"에 의해 주도된다.
+&lt;&lt;&lt;PARA&gt;&gt;
+감독 공백에도 불구하고 텍사스의 데이터센터 승인 모라토리엄은 "ERCOT의 데이터센터 가동 계획에 큰 차질을 빚게 한다"고 E&amp;E News가 보도했다. 텍사스 전력망 운영자는 데이터센터 프로젝트를 그룹으로 전력망에 연결하려고 노력해 왔으며, 첫 번째 그룹("Batch Zero"로 알려짐)에 대한 통지가 이번 주 말까지 발송될 예정이었다. 그러나 ERCOT 관계자들은 애벗 주지사의 지시를 수행하기 위해 주 규제 기관과 협력하는 동안 Batch Zero 절차를 연기할 것이라고 밝혔다.
+&lt;&lt;&lt;PARA&gt;&gt;
+애벗 주지사의 AI 데이터센터에 대한 태도 변화는 현직 주지사가 "농촌 지역에 건설되는 데이터센터와 초고압 송전선로에 대한 우려로 지지율이 하락한 것"과 맞물려 있다고 E&amp;E News가 보도했다. 또한 텍사스 유권자들이 일반적으로 지역사회 내 데이터센터를 반대한다는 여론조사——미국인들의 전국적 추세의 일부다——와 최근 Fox News 여론조사에서 민주당 도전자 지나 히노호사가 애벗에게 불과 1%포인트 뒤처지고 있다는 점을 지적했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+애벗 주지사의 중단 조치가 부적절하다고 설명하는 성명에서 히노호사는 주의회가 더 엄격한 규칙을 통과시킬 때까지 데이터센터 개발에 대한 전면 모라토리엄을 발표할 것을 촉구했다. 그녀와 민주당 미국 상원 후보 제임스 탈라리코는 모두 텍사스 데이터센터에 대한 더 엄격한 규제를 요구했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+데이터센터에 대한 지역사회 우려에는 지역 환경 영향과 전기 요금 상승이 포함된다. 주 규제 기관은 데이터센터 수요를 수용하는 데 필요한 전력 인프라 업그레이드 비용을 일반 주택 소비자와 소기업이 부담하지 않도록 전력 회사와 협력해 왔다. 트럼프 행정부는 주요 미국 기술 기업들이 서명한 "납세자 보호 서약"을 홍보해 왔지만, Ars 분석은 이 협정에 의미 있는 집행 메커니즘이 부족하다는 점을 이전에 지적한 바 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+현재 미국 최대 데이터센터 시장을 보유한 버지니아의 의원들을 포함해 여러 주의회가 데이터센터 개발 모라토리엄을 도입하고 논의해 왔다. 7월 14일, 뉴욕의 민주당 소속 캐시 호철 주지사는 데이터센터 개발 표준을 마련할 시간을 갖기 위해 데이터센터 건설에 대한 1년간 금지를 발표했다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Tue, 04 Aug 2026 11:34:28 +0000</pubDate></item></channel></rss>
