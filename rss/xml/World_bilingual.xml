@@ -1,38 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 07 Aug 2026 16:25:48 +0000</lastBuildDate><item><title>The Neonatal Doctor Crisis in a Country Desperate for Babies (아이를 간절히 원하는 나라의 신생아 의사 위기)</title><link>https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/30/multimedia/00int-skorea-neonatal-mzwv/00int-skorea-neonatal-mzwv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;The baby started turning blue almost immediately after she was born in a small clinic last month in South Korea.&lt;br/&gt;(지난달 한국의 한 작은 산부인과 클리닉에서 태어난 아기가 태어난 직후 거의 바로 얼굴이 파래지기 시작했습니다.)&lt;/p&gt;
-&lt;p&gt;There was a neonatal intensive care unit a short drive away, but the specialist there had reportedly resigned recently after years of grueling 90-hour work weeks. Another did not have any free beds. So the clinic’s staff rushed the newborn, who was struggling to breathe, to a third hospital. That facility was 30 minutes away by car, and by the time she got there, she died.&lt;br/&gt;(차로 가까운 거리에 신생아 집중 치료실(NICU)이 있었지만, 그곳의 전문의는 수년간의 혹독한 주 90시간 근무 끝에 최근 사직한 것으로 알려졌습니다. 다른 병원에는 빈 병상이 없었습니다. 그래서 클리닉 직원들은 숨쉬기 어려워하는 신생아를 서둘러 세 번째 병원으로 이송했습니다. 그 병원은 차로 30분 거리에 있었고, 도착했을 때 아기는 숨을 거뒀습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-클리닉은 나중에 첫 번째 NICU에 그날 밤 아기를 치료할 수 있었던 다른 전문의가 근무하고 있었다는 사실을 알게 됐습니다. 하지만 의료계의 많은 사람들은 인근 병원이 전문의 부족이 심화되면서 그 공석을 채우지 못한 것으로 추정했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-전주에서 발생한 이 아기의 사망은 국회의원들과 지역 언론이 상세히 보도했으며, 한국의 더 큰 위기, 즉 응급 의료의 확대되는 격차의 일부였습니다. 신생아 의사 부족은 특히 우려스러운데, 한국은 세계 최저 수준의 출산율을 높이기 위해 수년간 노력해 왔기 때문입니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-1980년대 출산율이 대체 수준 아래로 떨어지면서 한국은 심각한 변화를 겪었습니다. 최근 수십 년 동안 수천 개의 학교가 문을 닫았습니다. 최근 몇 년 동안 보육원의 40% 이상이 문을 닫았습니다. 소아과 의사, 분만실, 신생아 의사의 수는 매년 급격히 줄어들고 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-현재 한국에는 77개의 NICU가 있으며, 240명의 전문의가 가장 취약한 환자들을 돌보는 일을 맡고 있다고 정부와 의사 단체가 밝혔습니다. 부족은 인구 중심지인 수도권을 제외한 지역에서 가장 심각합니다. 수도권 밖의 일부 병원에는 한 명의 전문의만이 30명 이상의 아기를 동시에 돌봐야 하는 곳도 있다고 의사들은 말합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-신생아 의사들은 출산율을 높이기 위한 정부의 조치가 장시간 근무, 낮은 급여, 소송을 걱정해야 하는 환자들 등 자신들의 근무 조건을 개선하는 데 거의 도움이 되지 않았다고 말합니다. 이러한 우려는 한국 의료계 전체의 목소리와 맞닿아 있으며, 지난 9월에 끝난 수천 명의 의사들이 참여한 18개월간의 파업에 기여했습니다. 신생아 전문 분야의 미래는 특히 암울합니다. 정부 데이터에 따르면 NICU에서 근무하는 전공의 수는 최근 몇 년 동안 94% 감소했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-윤영아 교수는 서울성모병원 신생아과에서 교육 의사로 재직 중입니다. 그녀는 16년간의 의사 생활 동안 특히 초기 교수 시절에 주 100시간 이상 일한 주를 셀 수 없이 많이 경험했다고 말했습니다. 현재 그녀의 과에는 전공의가 한 명도 없어 병동의 미래에 의문이 제기되고 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-“우리에 대한 지원이나 보호가 거의 없는 상황에서 누가 여기서 일하고 싶어하겠습니까?”라고 그녀는 말했습니다. 병원은 인력 공백을 메우기 위해 계약직 의사나 간호사에게 의존하고 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-의사들은 정부의 노력이 출산율을 높이는 데 집중되어 왔다고 주장합니다. 지난 20년 동안 한국은 새 부모를 위한 현금 수당, 여성의 난자 동결 시술, 예비 부부를 위한 무료 결혼식장 등 프로그램에 수천억 달러에 해당하는 금액을 투자했습니다. 그러나 전문가들은 이러한 지출이 국가의 가장 어린 시민들에게 적절한 의료를 제공하기 위한 의료 인프라를 확보하려는 시도는 하지 않았다고 말합니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-싱가포르 국립대학교에서 공공 정책을 가르치는 소아과 전문가인 탄 포 린 교수는 여전히 “훈련받은 의료 전문의의 충분성을 보장하기 위한 인센티브의 불균형”이 있다고 말했습니다. 그녀는 정책 초점이 “가족 형성 과정에 지나치게 치우쳐 있다”고 덧붙였습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-대한신생아학회는 신생아 응급 의료 부족을 대부분 무시하면서 아이를 낳도록 장려하는 정부 정책을 “역설”이라고 표현했습니다. 지난달 성명에서 수도권 밖의 NICU는 “재앙 상태에 가깝다”고 밝혔습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-정부는 분만 및 고위험 시술에 대한 수가를 인상하겠다고 발표했습니다. 이는 의사들의 급여를 높이기 위한 조치입니다. 또한 응급 이송을 신속히 처리하기 위해 국립의료원 중앙모자병원의 당직 파견원 수를 늘리겠다고 밝혔습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-최한선 씨는 지난 6월 국회에서 열린 정책 포럼에서 자신의 조산 경험과 NICU의 중요성에 대해 이야기했습니다. 그녀는 임신 20주에 출혈이 발생해 수술이 필요했습니다. 그녀의 아들은 3주 후에 태어났는데 몸무게가 약 1.4파운드(약 635g)에 불과했으며 고혈압과 뇌출혈 같은 일련의 건강 합병증을 겪었습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그 아들은 발달 장애가 남았지만 NICU에서 거의 5개월간 치료를 받은 끝에 살아남았습니다. 최 씨는 “NICU는 선택이 아니라 아기의 생명을 구하는 필수 서비스”라고 말했습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-하지만 한국에서 신생아 전문의 수가 계속 줄어들면 이러한 치료가 위험에 처할 수 있습니다.
-&lt;&lt;&lt;PARA&gt;&gt;
-윤 교수는 “저는 사명감으로 쉬지 않고 일해 왔습니다”라며 “하지만 이런 상황이 계속된다면 곧 이 아기들을 돌볼 사람이 아무도 없게 될까 봐 두렵습니다”라고 말했습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html</guid><enclosure url="https://static01.nyt.com/images/2026/07/30/multimedia/00int-skorea-neonatal-mzwv/00int-skorea-neonatal-mzwv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Tue, 04 Aug 2026 12:00:06 +0000</pubDate></item><item><title>U.S. Revokes Visa of Top Brazilian Diplomat, Dialing Up Tensions (美, 브라질 최고위 외교관 비자 취소…긴장 고조)</title><link>https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/04/multimedia/04int-brazil-us-ambassador/04int-brazil-us-ambassador-articleLarge-v4.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 07 Aug 2026 18:35:24 +0000</lastBuildDate><item><title>U.S. Revokes Visa of Top Brazilian Diplomat, Dialing Up Tensions (美, 브라질 최고위 외교관 비자 취소…긴장 고조)</title><link>https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/04/multimedia/04int-brazil-us-ambassador/04int-brazil-us-ambassador-articleLarge-v4.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The Trump administration has revoked the visa of Brazil’s top diplomat in the United States, according to a senior U.S. official, deepening a diplomatic rift between the Western Hemisphere’s two largest nations.&lt;br/&gt;(미국 정부 고위 관리에 따르면 트럼프 행정부가 브라질의 주미 최고위 외교관 비자를 취소했다. 이로써 서반구 양대 강국 간 외교적 균열이 깊어지고 있다.)&lt;/p&gt;
 &lt;p&gt;The visa of the Brazilian ambassador, Maria Luiza Ribeiro Viotti, was canceled in response to her country’s decision to stall the approval of President Trump’s newly appointed ambassador to Brazil and refuse entry recently to several other U.S. diplomats, said a senior State Department official. The official spoke anonymously to discuss a sensitive diplomatic matter.&lt;br/&gt;(미 국무부 고위 관리는 브라질 대사 마리아 루이자 히베이루 비오티의 비자가 자국이 트럼프 대통령이 새로 지명한 주브라질 미국 대사 승인을 지연하고 최근 다른 미국 외교관들의 입국을 거부한 데 대한 대응으로 취소됐다고 밝혔다. 이 관리는 민감한 외교 문제를 논의하기 위해 익명을 요구했다.)&lt;/p&gt;
 &lt;p&gt;Ms. Viotti will not be kicked out of the United States, and her visa will be reinstated if Brazil accepts Daniel Perez, a Republican state lawmaker in Florida, as the next American ambassador to Brazil, according to the U.S. official.&lt;br/&gt;(미국 관리에 따르면 비오티 대사는 미국에서 추방되지는 않으며, 브라질이 플로리다 주 공화당 주의원인 다니엘 페레스를 차기 주브라질 미국 대사로 승인하면 그녀의 비자는 복원된다.)&lt;/p&gt;
