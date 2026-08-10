@@ -1,23 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 10 Aug 2026 10:37:56 +0000</lastBuildDate><item><title>Explosive drone found hovering near Ukrainian cargo aircraft at German airport (독일 공항에서 우크라이나 화물기 주변에 폭발물 탑재 드론 발견)</title><link>https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Drone-and-Antonov-cargo-plane-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.&lt;br/&gt;(러시아의 공격? 라이프치히 공항에 주기 중인 항공기를 겨냥한 폭발물 드론.)&lt;/p&gt;
-&lt;p&gt;German police disarmed a drone carrying explosives after it was discovered near Ukrainian cargo aircraft parked at Leipzig airport—and authorities are looking into the possibility of a second drone after an approaching aircraft collided with something midair.&lt;br/&gt;(독일 경찰은 라이프치히 공항에 주기 중인 우크라이나 화물기 근처에서 폭발물을 탑재한 드론을 발견해 무력화시켰으며, 당국은 접근 중이던 항공기가 공중에서 무언가와 충돌한 사건과 관련해 두 번째 드론의 가능성도 조사하고 있다.)&lt;/p&gt;
-&lt;p&gt;The drone was first spotted by an airport employee hovering close to the ground between two parked An-124 cargo aircraft owned by Ukraine’s Antonov Airlines shortly before midnight on August 4, according to The Guardian . It had apparently been modified to help avoid detection by the airport’s drone defense sensors, said Alexander Dobrindt, federal minister of the interior for Germany, during a press conference.&lt;br/&gt;(가디언에 따르면 이 드론은 8월 4일 자정 직전, 공항 직원이 우크라이나의 안토노프 항공이 소유한 두 대의 An-124 화물기 사이에서 지면 가까이 떠 있는 것을 처음 목격했다. 알렉산더 도브린트 독일 연방 내무부 장관은 기자회견에서 드론이 공항의 드론 방어 센서 탐지를 피하도록 개조된 것으로 보인다고 밝혔다.)&lt;/p&gt;
-&lt;p&gt;Dobrindt described the drone as carrying a fist-sized package of a substance believed to be the plastic explosive Semtex. Only a failed detonator prevented the drone from exploding near the Ukrainian cargo aircraft, he said.&lt;br/&gt;(도브린트 장관은 드론이 주먹 크기의 플라스틱 폭약인 셈텍스로 추정되는 물질을 탑재하고 있었다고 설명했다. 그는 점화 장치의 고장만 아니었다면 드론이 우크라이나 화물기 근처에서 폭발했을 것이라고 말했다.)&lt;/p&gt;
-&lt;p&gt;German police used a bomb disposal robot to help disarm the drone and later carried out a controlled explosion, according to BBC News .&lt;br/&gt;(BBC 뉴스에 따르면 독일 경찰은 폭탄 처리 로봇을 이용해 드론을 무력화시킨 후 통제된 폭파를 실시했다.)&lt;/p&gt;
-&lt;p&gt;Contrary to some media reports, the German Interior Ministry has denied that the apparently targeted Ukrainian cargo aircraft were carrying weapons or other munitions for delivery to Ukraine, according to Deutsche Welle . Instead, government officials described the aircraft as having been empty at the time of the drone incident.&lt;br/&gt;(도이체 벨레에 따르면 독일 내무부는 일부 언론 보도와 달리 표적이 된 우크라이나 화물기가 우크라이나로 보낼 무기나 기타 군수품을 실고 있었다는 주장을 부인했다. 대신 정부 관리들은 드론 사건 당시 해당 항공기들이 비어 있었다고 설명했다.)&lt;/p&gt;
-&lt;p&gt;The incident forced Leipzig/Halle airport—one of Europe’s largest air cargo hubs—to close to all air traffic for several hours. That forced 19 flights to divert away from the airport , including a Boeing 757 operated by the shipping company DHL that was forced to abort its landing approach, according to the flight tracking service Flightradar24.&lt;br/&gt;(이 사건으로 유럽 최대 항공 화물 허브 중 하나인 라이프치히/할레 공항은 모든 항공 교통이 몇 시간 동안 폐쇄됐다. 비행 추적 서비스인 플라이트레이더24에 따르면 이로 인해 19편의 항공편이 공항에서 우회했으며, 물류 회사 DHL이 운영하는 보잉 757은 착륙 접근을 중단해야 했다.)&lt;/p&gt;
-&lt;p&gt;As the DHL-operated aircraft started climbing again, it collided with another flying object midair and diverted to land at Hanover airport with minor damage, German police reported in a statement . German authorities are looking into the possibility that the object was a second drone.&lt;br/&gt;(독일 경찰은 성명에서 DHL 운영 항공기가 다시 상승하는 과정에서 공중의 다른 비행 물체와 충돌해 경미한 손상을 입고 하노버 공항으로 우회 착륙했다고 보고했다. 독일 당국은 그 물체가 두 번째 드론일 가능성을 조사하고 있다.)&lt;/p&gt;
-&lt;p&gt;German officials have not officially named a suspect behind the attempted attack, but have opened a counterterrorism investigation. Dobrindt acknowledged that “we are dealing with a contest here that possibly involves foreign powers,” and described the incident as a “hybrid threat scenario.”&lt;br/&gt;(독일 관리들은 이번 미수 공격의 용의자를 공식적으로 지목하지 않았지만, 대테러 조사를 시작했다. 도브린트 장관은 "우리는 잠재적으로 외국 세력이 개입된 대결을 다루고 있다"고 인정하며 이 사건을 "하이브리드 위협 시나리오"라고 묘사했다.)&lt;/p&gt;
-&lt;p&gt;The incident has already spurred Roderich Kiesewetter, a lawmaker and member of the German parliament’s intelligence committee, to more directly describe Russia as being responsible for the “attempted act of terrorism.”&lt;br/&gt;(이번 사건은 이미 독일 연방의회 정보위원회 위원인 로더리히 키제베터 의원이 러시아가 "테러 미수 행위"의 배후라고 더 직접적으로 지목하게 만들었다.)&lt;/p&gt;
-&lt;p&gt;As a major hub for air cargo, Leipzig/Halle airport frequently oversees the transit of shipments for NATO and the German military. It is also the current home base for Ukraine’s Antonov Airlines, which operates a charter cargo service fleet that includes the world’s largest operational cargo aircraft, the Antonov An-124 Ruslan.&lt;br/&gt;(라이프치히/할레 공항은 항공 화물의 주요 허브로서 나토와 독일 군대의 화물 환적을 자주 처리한다. 또한 세계에서 가장 큰 운용 화물 항공기인 안토노프 An-124 루슬란을 포함한 전세 화물기 함대를 운영하는 우크라이나의 안토노프 항공의 현 거점이기도 하다.)&lt;/p&gt;
-&lt;p&gt;The incident also evoked a potentially telling reaction from Alexander Sosnowski, a pro-Kremlin propagandist who regularly appears as a guest on Russian state television. In a short video posted on Telegram, Sosnowski clearly assumed the attempted attack was a Russian operation targeting the Ukrainian aircraft and expressed disappointment that it had failed, according to The Bild , a German tabloid newspaper.&lt;br/&gt;(이번 사건은 러시아 국영 TV에 단골 게스트로 출연하는 친크렘린 성향의 선전가 알렉산더 소스노프스키에게도 시사적인 반응을 불러일으켰다. 독일 타블로이드 신문인 빌트에 따르면 소스노프스키는 텔레그램에 게시한 짧은 영상에서 이번 미수 공격이 우크라이나 항공기를 겨냥한 러시아 작전임을 명확히 가정하고 그것이 실패한 데 대해 실망을 표했다.)&lt;/p&gt;
-&lt;p&gt;These latest incidents follow dozens of drone sightings over other European airports, along with military bases, ports, energy and industrial facilities, since 2024. In May, Munich airport in Germany closed twice within 24 hours following possible drone sightings.&lt;br/&gt;(이번 최신 사건들은 2024년 이후 유럽의 다른 공항, 군사 기지, 항구, 에너지 및 산업 시설 상공에서 드론이 수십 차례 목격된 데 이어 발생했다. 지난 5월에는 독일 뮌헨 공항이 드론 목격 정황으로 24시간 내 두 차례 폐쇄되기도 했다.)&lt;/p&gt;
-&lt;p&gt;Drone incursions have become especially more frequent in Northern and Eastern Europe, given their closer proximity to Russia and the ongoing war in Ukraine. Those incursions have forced fighter jets to scramble repeatedly in response, along with leading to a building fire and injuries in Romania following a Russian drone crash.&lt;br/&gt;(드론 침입은 러시아와의 근접성과 진행 중인 우크라이나 전쟁으로 인해 북유럽과 동유럽에서 특히 더 빈번해졌다. 이러한 침입으로 전투기들이 반복적으로 긴급 출격해야 했으며, 루마니아에서는 러시아 드론 추락으로 건물 화재와 부상자가 발생하기도 했다.)&lt;/p&gt;
-&lt;p&gt;But the long-promised European Drone Defence Initiative that was supposed to create the equivalent of a “drone wall” to provide counter-drone surveillance and defenses has yet to materialize in any meaningful way, said Ulrike Franke , a senior policy fellow at the European Council on Foreign Relations, in an article for World Politics Review . Instead, individual European countries such as Poland have been building their own national counter-drone systems.&lt;br/&gt;(그러나 유럽 대외관계위원회의 선임 정책 펠로인 울리케 프랑케는 월드 폴리틱스 리뷰 기사에서 "드론 장벽"에 해당하는 대드론 감시 및 방어 체계를 구축하겠다는 오랜 약속인 유럽 드론 방어 이니셔티브가 아직 의미 있는 방식으로 실현되지 않았다고 밝혔다. 대신 폴란드와 같은 개별 유럽 국가들이 자체 국가 차원의 대드론 시스템을 구축하고 있다.)&lt;/p&gt;
-&lt;p&gt;Germany has already provided about $118 billion to support Ukraine since Russia launched a full-scale invasion of Ukraine in 2022, according to Deutsche Welle . Beyond supplying weapons and humanitarian aid, Germany has also trained more than 24,000 Ukrainian soldiers and is hosting more than 1 million Ukrainian refugees.&lt;br/&gt;(도이체 벨레에 따르면 독일은 2022년 러시아가 우크라이나를 전면 침공한 이후 우크라이나를 지원하기 위해 이미 약 1,180억 달러를 제공했다. 독일은 무기와 인도적 지원을 공급하는 것 외에도 2만 4,000명 이상의 우크라이나 군인을 훈련시켰으며, 100만 명 이상의 우크라이나 난민을 수용하고 있다.)&lt;/p&gt;
-&lt;p&gt;Some of Germany’s latest cooperative ventures with Ukraine have involved joint production of new military drones. Ars recently covered a $100 million deal—reportedly funded by Germany—that is equipping the Ukrainian military with drones capable of performing AI target tracking .&lt;br/&gt;(독일의 최근 우크라이나와의 협력 사업 중 일부는 새로운 군용 드론의 공동 생산을 포함한다. Ars는 최근 독일이 자금을 지원한 것으로 알려진 1억 달러 규모의 계약을 보도했는데, 이 계약은 AI 표적 추적이 가능한 드론으로 우크라이나 군대를 장비하는 것이다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Drone-and-Antonov-cargo-plane-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Thu, 06 Aug 2026 13:01:55 +0000</pubDate></item><item><title>Organ donation group accused of trying to take living man’s organs faces shutdown (살아있는 남성의 장기를 적출하려 한 혐의를 받는 장기 기증 단체, 폐쇄 위기에 직면)</title><link>https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063-2560x1440.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 10 Aug 2026 12:42:01 +0000</lastBuildDate><item><title>Organ donation group accused of trying to take living man’s organs faces shutdown (살아있는 남성의 장기를 적출하려 한 혐의를 받는 장기 기증 단체, 폐쇄 위기에 직면)</title><link>https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063-2560x1440.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;The organization, Network for Hope, “strongly disagrees” with Trump admin’s decision.&lt;br/&gt;(해당 단체인 Network for Hope는 트럼프 행정부의 결정에 "강하게 반대"한다고 밝혔다.)&lt;/p&gt;
 &lt;p&gt;The US health department is working to shut down a Kentucky-based organ procurement organization that made headlines over a 2021 incident in which it was accused of trying to harvest a man’s organs while he was still alive.&lt;br/&gt;(미국 보건부가 켄터키주에 본부를 둔 장기 적출 기관을 폐쇄하기 위한 절차를 진행 중이다. 이 기관은 2021년, 살아있는 남성의 장기를 적출하려 했다는 혐의로 언론의 주목을 받은 바 있다.)&lt;/p&gt;
 &lt;p&gt;In an announcement Wednesday, the Department of Health and Human Services said it had begun the process to decertify the organization, Network for Hope (NFH) . Losing its certification would effectively shutter the organization, which serves Kentucky as well as parts of Indiana, Ohio, and West Virginia. If decertified, another organization will be appointed to coordinate donations in the region.&lt;br/&gt;(보건복지부는 수요일 발표에서 Network for Hope(NFH)의 인증을 취소하는 절차를 시작했다고 밝혔다. 인증을 잃게 되면 켄터키주와 인디애나주, 오하이오주, 웨스트버지니아주 일부 지역을 담당하는 이 기관은 사실상 문을 닫게 된다. 인증이 취소되면 해당 지역의 기증 조정을 맡을 다른 기관이 지정될 예정이다.)&lt;/p&gt;
@@ -401,4 +383,105 @@
 팀은 또한 과테말라의 로스 초코요스와 2만 6000년 전 뉴질랜드의 오루아누이 폭발과 같은 다른 거대 화산 폭발에 대해 더 많이 알기 위해 유사한 접근법이 사용되기를 희망한다. “그것들은 토바만큼 크지는 않았지만, 여전히 초대형 화산 폭발이었습니다. 무슨 일이 일어났는지 보는 것은 흥미롭고 신날 것입니다.”라고 박 박사는 말한다.
 &lt;&lt;&lt;PARA&gt;&gt;
 Science Advances, 2026. DOI: 10.1126/sciadv.adv6851)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-1.jpeg" length="0" type="image/jpeg"/><pubDate>Sun, 09 Aug 2026 02:00:14 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-1.jpeg" length="0" type="image/jpeg"/><pubDate>Sun, 09 Aug 2026 02:00:14 +0000</pubDate></item><item><title>Peer review is overwhelmed—can it survive in the AI era? (동료 심사가 압도당하고 있다—AI 시대에 살아남을 수 있을까?)</title><link>https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.&lt;br/&gt;(연구 논문과 AI 지원 논문이 급증하면서 자원봉사 심사자들은 따라잡기에 어려움을 겪고 있다.)&lt;/p&gt;
+&lt;p&gt;Jason Semprini was excited about his research on policies mandating that elementary school students receive the human papillomavirus vaccine. HPV causes most cases of cervical cancer, but counterintuitively, Semprini found that mandates don’t do that much to reduce the overall rate of cervical cancer in a population. That’s odd, but it’s also not completely surprising—we know that mandating a vaccine can motivate some people to find ways to avoid it.&lt;br/&gt;(제이슨 셈프리니는 초등학생에게 인유두종바이러스(HPV) 백신 접종을 의무화하는 정책에 대한 자신의 연구에 흥분해 있었다. HPV는 자궁경부암의 대부분을 유발하지만, 반직관적으로 셈프리니는 의무화가 인구 전체의 자궁경부암 발병률을 크게 낮추지 않는다는 것을 발견했다. 이상하지만 완전히 놀라운 것은 아니다—백신 의무화가 어떤 사람들에게는 이를 피할 방법을 찾도록 동기를 부여할 수 있다는 것을 우리는 알고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+셈프리니는 연구를 작성하여 저널에 원고를 제출했고, 그곳에서 동료 심사(peer review)를 위해 보내졌다. 이는 해당 분야의 다른 연구자들이 연구의 타당성을 평가하고 출판 여부에 대한 권고를 하는 오랜 과정이다. 이는 일반적으로 익명으로, 자원봉사 기반으로 이루어진다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 경우, 심사자는 셈프리니의 흥분을 공유하지 않았다. 그것은 연구의 핵심 메시지에 대한 오해에서 비롯되었을 수 있다: 심사자는 셈프리니가 백신 접종률을 높이기 위한 정책의 효과를 연구하는 것이 아니라 HPV 백신 자체가 자궁경부암을 예방하는지에 의문을 제기하는 것이라고 잘못 생각했다. "그것은 아주 큰 차이가 있습니다,"라고 디모인 대학의 보건 경제학자 셈프리니가 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+종종 논문은 두세 명의 전문가에 의해 심사되므로, 한 명이 오해해도 다른 사람들이 명확히 해줄 수 있다. 그러나 이 경우에는 심사자가 한 명뿐이었고, 그래서 논문은 거절되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+셈프리니에게는 심사자가 주의 깊게 읽지 않아 자신의 연구가 지연되는 것이 좌절스러우며, 이는 일부 연구자들이 점점 더 흔해지고 있다고 말하는 경험이다. 모든 학문 분야에서 출판물의 수는 꾸준히 증가하고 있다. 심사자들은 따라잡기에 어려움을 겪고 있으며, 그 시스템이 흔들리고 있는 것처럼 보인다.
+&lt;&lt;&lt;PARA&gt;&gt;
+예를 들어, Scopus와 Web of Science 데이터베이스에 색인된 논문의 수는 최근 연간 5.6%의 비율로 기하급수적으로 증가하고 있다. 한 추정에 따르면, 전 세계 연구자들은 매년 동료 심사에 총 15,000년 상당의 노동을 쏟고 있으며, 이는 유급이라면 미국에서만 15억 달러의 비용이 들 것이다. 연구자들은 점점 그러한 시간을 기부하기 어려워하고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"저는 동료 심사자를 찾는 데 엄청나게 어려움을 겪고 있습니다,"라고 Wiley의 Learned Publishing 편집위원이지만 자신의 의견은 독립 컨설턴트로서의 견해를 나타내는 하시브 이르풀라가 말했다. Human Immunology의 편집자 스티븐 맥은 최근 논문 한 편을 심사할 사람을 단 한 명 찾기 위해 약 30명의 연구자에게 이메일을 보내야 했다. 5년 전에는 세 명의 심사자를 찾기 위해 이메일을 5~10통만 보내면 되었을 것이라고 그는 추정한다. 이러한 상황에서 편집자들이 자격이 없거나 집중할 시간이 없는 사람들에게 심사를 배정하는 것은 놀라운 일이 아니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+대부분의 분야에서 연구자들은 일자리와 연구비를 확보하기 위해 동료 심사된 출판물이 필요하므로, 화이트헤드 연구소의 미생물학자 세바스찬 루리도의 말처럼 그 시스템이 "극도로 지연되고 고통스러워지고" 있음에도 불구하고 계속해서 그 과정을 견뎌내고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+점점 더 많은 사람들이 변화를 주장하고 있다. 한편, 몇몇 대담한 연구자들은 전통적인 출판 시스템이 더 이상 가치가 없다고 결정했다—특히 AI 연구에서는 블로그와 같은 매우 비공식적인 수단을 통해 영향력 있는 연구 결과를 전달하는 쪽으로 전환이 이루어지고 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+동료 심사는 "과학의 초석"이라고 셈프리니는 말했다. 하지만 현재로서는 "그것이 튼튼하게 서 있지 않습니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+오늘날 연구 문화에서 중심적인 위치를 차지함에도 불구하고, 동료 심사는 학술 출판의 보편적 특징이 된 지 약 50년밖에 되지 않았다. 과학 학회들은 1800년대 초반부터 제출물을 검토하고 출판 적합성을 평가하는 메커니즘을 가지고 있었지만, 그 내부 운영 방식은 다양했고, 연구의 전체적인 정신 자체가 그 당시에는 완전히 달랐다고 세인트앤드루스 대학의 과학사학자 에일린 파이프는 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"당신 나라에서 천문학에 관심이 있는 모든 사람들을 상상해 보세요—그 수가 아주 많지는 않지만—그들이 매주 목요일 저녁에 함께 모여 천문학에 대해 이야기하고, 함께 저널을 발행한다고 말이죠,"라고 파이프가 나에게 말하며 초기 심사 시대의 과학이 어떠했는지 설명했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+연구자들은 대학 교수라기보다는 독립적인 신사들이었기 때문에 출판이 경력 발전과 연결되지 않았다. 게다가 저널에서 일하는 것은 친구들과 함께 하는 재미있는 일이었기 때문에, 그들은 보통 심사자로서 시간을 기꺼이 기부했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+동료 심사는 거의 우연하게 보편화되었는데, 이는 브랜드 문제를 해결하는 방법이었다. 1970년대에 미국 경제는 침체되고 있었다. 인플레이션은 상승하고, 고용은 감소하고, 가스 위기가 있었으며, 국립과학재단(NSF)은 지출을 정당화해야 한다는 대중의 압력을 받게 되었다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그 압력은 제2차 세계대전 이후 연방 정부 자금이 25배 증가한 과학에 대한 열광의 시기에 뒤이어 나타났다. 국립과학재단은 1950년대부터 외부 심사자들을 사용하여 연구비 신청을 평가해 왔는데—이는 당시로서는 이례적이었다—그것이 재단의 구원이 되었다. 독립적인 심사자 패널이 자금 배분을 결정했기 때문에, 그들의 결정은 정당성의 분위기를 띠었다. 궁극적으로, 그 정당성이 입법자들이 재단의 자금 결정을 그들의 직접적인 정치적 통제 하에 두는 것을 막았다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"그것은 여러모로 과학자들이 다른 이해관계자들에게 한 세일즈 피치였으며, 그것이 동료 심사를 과학의 초석으로 만들었습니다,"라고 메릴랜드 대학의 과학사학자 멜린다 볼드윈이 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+영국도 1980년대 후반과 1990년대 초반에 비슷한 시기를 겪었다. HIV부터 자폐증의 원인, 냉핵융합에 이르기까지 수많은 논란이 되는 과학적 이슈들이 언론의 큰 주목을 받았다. 갑자기 대중은 합법적인 과학과 엉터리를 구별하는 데 관심을 갖게 되었고, 많은 과학 단체들이 "우리는 올바른 과학이 어떤 것인지 알 수 있습니다. 올바른 과학은 동료 심사를 거칩니다"라고 말함으로써 대응했다고 파이프는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+오늘날 동료 심사는 표준이다. 저널 편집자들은 대학 교수들에게 많은 다른 전문적 책임과 함께 심사서를 작성하도록 요청하며, 그러한 요청은 종종 빠르게 들어온다. 루리도는 매달 약 10건의 원고 심사 요청을 받는다고 추정하지만, 현실적으로 그는 한두 건만 할 시간이 있다. 맥은 저널 편집자로서의 역할 외에도 캘리포니아 대학 샌프란시스코의 면역유전학자로서 하루나 이틀에 한 번꼴로 심사 요청을 받는다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러한 빈도는 부분적으로 그 어느 때보다 많은 사람들이 저널에 연구를 제출하기 때문이다. 또한 1960년과 2020년 사이에 저널 수도 급증했으며, 일부 저널은 정기적으로 "특집호"를 운영하여 연구자들이 맞춤 콘텐츠를 생성한다. 많은 저널들이 온라인 전용이 되면서 더 많은 원고를 출판하고 있는데, 이는 편집자들이 제한된 분량의 종이에 내용을 맞춰야 하는 부담에서 벗어났기 때문이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+연구는 점점 더 학제적이 되고 있어, 많은 연구들이 검토하는 데 더 많은 지식과 시간을 필요로 한다. 그리고 AI는 연구자들이 자신의 연구를 작성하기 쉽게 만들고 전 세계 사람들이 영어 저널에 제출하기 쉽게 만들어 과부하에 기여한다. 게다가, 절박한 연구자들에게 비용을 받고 허위(그러나 종종 그럴듯해 보이는) 출판물에 이름을 올려주는 페이퍼 밀(paper mill) 서비스도 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 모든 것이 동료 심사의 질을 유지하는 것뿐만 아니라 그것이 전혀 이루어지도록 보장하는 것도 어렵게 만들었다. "때로는 우리가 출판의 감소(degrowth)에 대해 이야기하기 시작해야 한다고 생각합니다,"라고 이르풀라가 말했다. "그것은 엄청나게 성장했습니다. 매우 건강하지 않습니다!"
+&lt;&lt;&lt;PARA&gt;&gt;
+AI 연구자들은 콘텐츠 폭발을 예민하게 느끼고 있다. 컴퓨터 과학자들은 일반적으로 학회 논문집(proceedings)에 발표하며, 최고의 AI 학회에 제출되는 논문 수는 2019년 이후 2배에서 10배로 증가했다. 그 결과, "그 분야를 평가하거나 좋은 피드백을 주기에 충분히 이해하지 못하는" 사람들로부터 심사를 받는 것이 흔해졌다고 캘리포니아 대학 산타바바라의 컴퓨터 과학자 정해원은 말한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+AI 연구자들은 다른 것을 실험하기에 좋은 위치에 있다. 그들의 분야는 새롭고, 번개처럼 빠르게 움직이며, 많은 연구가 학계 밖에서 이루어지고 있어, 많은 연구자들이 경력 발전을 위해 공식적인 출판물을 필요로 하지 않는다. 이러한 배경 속에서 블로그가 인기를 얻었다. 요즘은 "좋은 블로그를 유지하는 것이 좋은 팟캐스트 채널을 갖는 것과 거의 같습니다,"라고 정씨는 말했다. "당신의 목소리가 크게 증폭되고, 당신이 알려지게 됩니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+많은 블로그는 업계 리더들이 작성하지만, 일부 학자들도 그 흐름에 올라타고 있다. 플랫퍼런 연구소의 AI 연구자 헬렌 쿠는 학회 제출의 보람 없는 고역에 너무 싫증이 나서 자신의 연구를 새 블로그에만 출판하기로 결정했다 (그녀는 현재 게임 이론을 사용하여 AI가 파괴적으로 행동하는 것을 방지하는 연구를 하고 있다).
+&lt;&lt;&lt;PARA&gt;&gt;
+오랜 기간 운영되는 블로그 중 하나인 AI 얼라인먼트 포럼(AI Alignment Forum)은 AI를 안전하고 인류에게 유익하게 만드는 방법에 관심이 있는 다양한 연구자 커뮤니티(많은 학자 포함)에 의해 작성된다. AI 얼라인먼트 포럼은 동료 심사 대신 회원들이 콘텐츠를 추천하거나 추천하지 않을 수 있고 자신의 견해를 설명하는 댓글을 게시할 수 있는 메커니즘을 사용한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+물론, 독자들이 추천이나 비추천에 많은 생각을 했다는 보장은 없다. "그것이 이 시스템의 큰 약점 중 하나입니다,"라고 AI 얼라인먼트 포럼을 운영하는 라이트콘 인프라스트럭처의 CEO 올리버 하브리카는 인정했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+반면에, 게시물은 저널에서 받을 소수의 동료 심사보다 훨씬 더 많은 반응을 얻는 경향이 있다. 그리고 독자들은 댓글에 반응한 후 투표를 변경할 수 있다. AI 얼라인먼트 포럼이 양질의 작업을 부각시키는 또 다른 방법은 올해의 최고 콘텐츠를 재검토하고 회원들에게 그것이 어떻게 시간이 지나며, 주장이 여전히 유효한지에 대한 논평을 작성하도록 요청하는 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 시스템은 전통적인 출판에 비해 몇 가지 장점을 제공한다. 첫째, 훨씬 빠르며, 이는 빠르게 움직이는 분야에서 특히 중요하다. 종종 연구자가 전통적인 저널에 제출하면 "당신의 작업이 동료 심사를 통과할 때쯤이면, 이미 시대에 뒤떨어졌을 가능성이 매우 높습니다,"라고 하브리카는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 하브리카의 관점에서 AI 얼라인먼트 포럼의 더 큰 장점은 투표 시스템이 독자들의 관심을 좋은 연구와 그에 대한 반론 모두로 이끈다는 것이다. 그러한 메커니즘이 없으면 많은 연구자들은 소셜 미디어에 의존하여 새로운 것을 부각시킬 것이다. 그러나 그것은 어떤 콘텐츠를 눈에 띄게 할지 결정하기 위해 독점적이고 잠재적으로 편향되며 종종 불투명한 메커니즘을 사용하는 회사들의 변덕에 분야의 초점을 맡기는 것이다. "저는 우리 분야의 관심이 트위터 알고리즘의 산물이 되기를 정말 원하지 않습니다,"라고 하브리카는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+많은 블로그에서 사용되는 구어체 문체는 또한 관심을 끌 수 있으며, 장단점이 있다. 쿠에게는 블로그에 출판할 때 다른 누군가가 그녀의 아이디어에 대한 공로를 인정받을 걱정을 덜게 해주는 의미가 있다. 왜냐하면 그녀가 할 만큼 개인적인 색깔을 작업에 넣을 사람은 없기 때문이다. 그리고 정씨는 접근하기 쉬운 문체가 복잡한 개념을 이해하기 쉽게 만들 수 있다고 생각한다. "그것에 가치가 있습니다,"라고 그녀는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 밴더빌트 대학의 철학자 데이비드 토르스타드는 접근성이 엄밀성을 희생할 수 있으며, 구어체 글쓰기가 작업의 질에 관계없이 카리스마 있는 목소리가 최고로 부상하게 할 수 있다고 경고한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+동료 심사에서 벗어나는 것은 또한 당신의 작업을 고립시킬 수 있다고 토르스타드는 말했다. 그는 장기주의(longtermism), 즉 미래의 사람들을 가장 잘 보호하는 방법을 연구한다. 최근 많은 장기주의자들이 AI가 인류의 몰락을 가져오는 것을 어떻게 막을지에 관심을 가지고 있으며, 많은 이들이 AI 얼라인먼트 포럼에 자신의 연구를 출판했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그것은 동료 심사를 강하게 믿고 동료 심사를 사용하는 매체에만 출판하는 토르스타드에게 문제를 제기한다. 동료 심사를 거치지 않은 작업을 인용하는 것은 확실히 위험 신호를 보낼 수 있는데, 자신의 작업은 그러한 매체에서 심사 과정을 거쳐야 하기 때문이다. 그 의미는 그가 자신의 분야에서 많은 작업을 인용할 수 없다는 것이다. "그것은 엄청나게 제한적입니다,"라고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+5년 전에는 이것이 오늘날보다 더 큰 문제였다고 하브리카는 말했다. 이제 대부분의 분야의 심사자들은 합법적인 작업을 출판하는 다양한 방법이 있다는 것을 인정한다. "머신러닝 논문에서 정말로 인용하고 싶은 것의 50% 미만이 실제로 적절히 동료 심사를 거칩니다,"라고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+동료 심사가 여전히 많은 시간을 차지하면서, 많은 연구자들이 과정을 빠르게 하기 위한 지름길을 찾고 있다. Frontiers 저널의 직원들이 실시한 설문 조사에 따르면 동료 심사자의 절반 이상이 이미 어떤 방식으로든 AI를 과정에 통합하고 있으며, 아마도 적어도 부분적으로는 이러한 이유 때문일 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+언젠가는 AI가 생성한 심사가 일상적이고 유익한 것으로 여겨질 수 있다. 하지만 현재로서는 AI가 연구자들이 짜증스럽고 비윤리적이라고 생각하는 방식으로 종종 사용된다. 예를 들어, 라이덴 대학의 언어학자 마레인 반 푸텐은 자신의 출판물에서 어떤 고대 종교 지도자가 꾸란의 특정 해석을 제시했는지에 대해 특정 중세 아랍어 매뉴얼을 인용하라고 제안하는 심사를 처음에 기쁘게 받았다. "그것은 훌륭하다고 생각했어요, 찾아봐야겠다!"라고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+하지만 그는 어디에서도 그 참고문헌을 추적할 수 없었다. 마침내 이틀간의 검색 끝에 반 푸텐은 다른 가능성을 고려하기 시작했다: AI가 그 참고문헌을 환각(hallucinate)했을 수 있다는 것이다. 그는 심사로 돌아가서, 실제로 그것이 엠 대시의 불필요한 사용과 같은 AI 생성 텍스트의 특징을 포함하고 있음을 알아차렸다. 그는 텍스트를 AI 탐지 도구에 돌렸고, 그것이 거의 확실히 AI에 의해 생성되었다는 것을 알려주었다. "그것은 매우 좌절스러웠고 제 시간을 엄청나게 낭비하는 일이었습니다,"라고 그는 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+환각의 위험에 더해, 출판되지 않은 원고를 데이터를 보관할 수 있는 챗봇에 업로드하는 것은 기밀성 위반을 구성할 수 있다고 뉴멕시코 공과대학의 철학자 크리스 초글렉은 말한다. 로컬에서 실행되는 대규모 언어 모델이나 데이터를 보관하지 않기로 합의한 서비스가 해결책을 제공할 수 있지만, 지름길을 기꺼이 사용하려는 사람이 어느 정도 주의를 기울일 것을 요구한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+올해, AI 학회 NeurIPS는 맞춤형 AI 도구가 심사자의 판단을 완전히 대체하지 않고 도울 수 있는지 보기 위해 시험을 운영할 것이다. 예를 들어, 이 도구는 연구자들이 제출물을 이해하고 심사를 작성하는 데 필요한 배경 연구를 수행하는 데 도움을 줄 수 있지만, 심사 자체를 작성하지는 않을 것이라고 학회 조직위원회는 NeurIPS 웹사이트에 썼다.
+&lt;&lt;&lt;PARA&gt;&gt;
+한편, 많은 분야에서 동료 심사를 개혁하는 다른 방법을 실험하고 있다. 느린 심사 과정을 해결하기 위한 오랜 전략 중 하나는 프리프린트(preprint)를 사용하는 것이다—이는 연구자들이 일반적인 출판 과정을 진행하는 동안 자신의 연구가 보이도록 arxiv.org와 같은 사이트에 게시하는 공식적으로 작성된 출판물이다. 일부 분야에서 프리프린트는 이제 연구비 및 일자리 신청의 합법적인 근거로 간주된다. 왜냐하면 사람들이 공식 출판을 기다리는 동안 경력을 잠시 멈추어야 해서는 안 된다는 것이 널리 이해되기 때문이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+다른 아이디어들은 심사 과정 자체에 초점을 맞춘다. 한 가지 분명한 단계는 심사 작업량을 제출 출처를 반영하여 재분배하는 것이다. 편집자들은 작업량을 공평하게 분배하기보다는 미국과 소수의 다른 국가의 남성 연구자들에게 불균형적으로 심사를 배정하는 경향이 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+일부 연구자들은 동료 심사자에게 보수를 지급하는 것을 주장하기도 하지만, 다른 사람들은 그 관행이 연구자들이 이미 직면하고 있는 부담스러운 출판 비용을 증가시킬 것을 우려한다. 심사당 $100~$300 범위의 보상이 품질을 손상시키지 않으면서 과정을 빠르게 한다는 증거가 있다. 이는 돈이 방정식에 추가되면 "실제로 마감 기한이 있다는" 느낌을 주기 때문일 수 있다고 초글렉은 말했다.
+&lt;&lt;&lt;PARA&gt;&gt;
+그러한 동기가 없으면 일부 심사자들은 마감 기한을 "마법적"이라고 볼 수 있다고 그는 제안했다, "왜냐하면 단순히 바꿀 수 있기 때문입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+다른 사람들은 더 구조적인 변화를 주장하고 있다. 이미 제한적으로 사용되고 있는 한 가지 옵션은 동료 심사 과정을 저널 제출에서 분리하는 것이다. 대신, 연구자 커뮤니티가 공식적으로 제출되기 전에 논문을 심사하고, 연구자들은 이렇게 심사된 연구를 출판하기로 약속한 여러 저널 중 하나에 자신의 논문을 제출할 수 있다. 첫 번째 저널이 논문을 게재하지 않기로 결정하면, 저자는 새로운 동료 심사 라운드를 거치지 않고 두 번째 저널에 접근할 수 있다.
+&lt;&lt;&lt;PARA&gt;&gt;
+한편, 학술 커뮤니케이션 옹호자 카메론 네일론은 얼마나 적은 수의 논문이 궁극적으로 세상에 영향을 미치는지 고려할 때 모든 저널 기사가 정말로 동료 심사를 필요로 하는지에 대해 오랫동안 의문을 제기해 왔다. 어쩌면 연구들은 동료 심사로 보내지기 전에 관심 임계값을 충족해야 할 수도 있다고 그는 제안한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이러한 모든 압력과 제안 속에서, 동료 심사는 한계점에 다다르고 있으며, 결국 실패할 것인가?
+&lt;&lt;&lt;PARA&gt;&gt;
+그 시스템이 대부분의 분야에서 경력 진행의 일부이자 대중의 신뢰를 얻는 방법으로서 매우 확고하게 자리 잡고 있기 때문에 동료 심사에서 완전한 전환을 상상하기는 어렵다. 동시에, 학술 출판이 지금까지의 속도로 계속 성장한다면, 그 시스템은 단순히 따라잡을 수 없을 것이다. "그래서 어느 시점에 무언가가 거기서 깨질 것입니다,"라고 네일론은 말했다. 동료 심사를 버리는 대신, 연구 분야가 양보다 질의 출판을 장려하는 방법을 찾아야 할 수도 있다고 그는 제안한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+현재의 인센티브를 고려할 때 연구자들이 자발적으로 덜 출판하는 것도 상상하기 어렵다. 하지만 어쩌면 둘 다 어느 정도 일어날 수도 있다. 심사자 풀이 고갈되면서, 저널들은 그들의 증식을 억제해야 할 것이며, 이는 출판물 증가를 완화할 수 있다. 한편, 동료 심사는 과거의 엄밀하지 않고 더 파편화된 버전이 될 수 있으며, 분야에 따라 다른 의미를 갖게 될 것이다.
+&lt;&lt;&lt;PARA&gt;&gt;
+마지막 두 가지가 이미 일어나고 있다는 증거가 있다. 예전에는 세 명의 심사자가 원고를 검토하는 것이 표준이었지만, 맥은 최근 면역학 분야의 평균이 두 명에 가까워지는 것을 보았다고 말한다. 경제학 분야에서는 이미 일부 유명 저널이 동료 심사자에게 보수를 지급한다. 한편, 많은 과학 분야의 연구자들은 정기적으로 프리프린트를 출판한다.
+&lt;&lt;&lt;PARA&gt;&gt;
+동료 심사는 흔들리지 않을 만큼은 아니지만, 회복력이 있다. 그 관행은 아마도 어떤 형태로든 계속될 것이지만, 우리가 익숙한 것과 같은 동료 심사가 아닐 수도 있다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Mon, 10 Aug 2026 02:00:47 +0000</pubDate></item></channel></rss>
