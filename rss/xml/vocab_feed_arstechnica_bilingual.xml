@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" xmlns:ns1="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Korean Vocab Feed (xml)</title><description>새로운 한국어 어휘 항목 (예문 + 번역 + 이미지)</description><lastBuildDate>Tue, 11 Aug 2026 23:00:31 +0900</lastBuildDate><language>ko-KR</language><ttl>60</ttl><item><title>스토어가 – store (subject)</title><link>urn:urn:vocab:스토어가</link><description>&lt;div class="vocab-item"&gt;
+<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" xmlns:ns1="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Korean Vocab Feed (xml)</title><description>새로운 한국어 어휘 항목 (예문 + 번역 + 이미지)</description><lastBuildDate>Wed, 12 Aug 2026 01:09:34 +0900</lastBuildDate><language>ko-KR</language><ttl>60</ttl><item><title>사이클론 – cyclone</title><link>urn:urn:vocab:사이클론</link><description>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1454789476662-53eb23ba5907?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjeWNsb25lfGVufDB8fHx8MTc4NjQ2NDU2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사이클론 (cyclone)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(목요일 네이처에 게재된 논문에서 연구진은 WeatherNext AI 모델이 전례 없는 정확도로 사이클론을 예측할 수 있음을 보여준다&lt;br/&gt;&lt;em&gt;In a paper published in Nature on Thursday, researchers show that the WeatherNext AI model can predict cyclones with unprecedented accuracy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“사이클론 데이터는 많지 않지만 기상 데이터는 많습니다&lt;br/&gt;&lt;em&gt;There is not much cyclone data, but there is a lot of weather data.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“그래서 우리가 한 것은 날씨와 사이클론 모두에 능한 모델을 훈련시키는 것이었습니다&lt;br/&gt;&lt;em&gt;So what we did was train a model that is proficient in both weather and cyclones.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사이클론이 바다에서 왔어요.&lt;br/&gt;&lt;em&gt;The cyclone came from the sea.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사이클론은 매우 위험해요.&lt;br/&gt;&lt;em&gt;The cyclone is very dangerous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><ns0:encoded>&lt;div class="vocab-item"&gt;
+&lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1454789476662-53eb23ba5907?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjeWNsb25lfGVufDB8fHx8MTc4NjQ2NDU2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="사이클론 (cyclone)" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
+&lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;(목요일 네이처에 게재된 논문에서 연구진은 WeatherNext AI 모델이 전례 없는 정확도로 사이클론을 예측할 수 있음을 보여준다&lt;br/&gt;&lt;em&gt;In a paper published in Nature on Thursday, researchers show that the WeatherNext AI model can predict cyclones with unprecedented accuracy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“사이클론 데이터는 많지 않지만 기상 데이터는 많습니다&lt;br/&gt;&lt;em&gt;There is not much cyclone data, but there is a lot of weather data.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“그래서 우리가 한 것은 날씨와 사이클론 모두에 능한 모델을 훈련시키는 것이었습니다&lt;br/&gt;&lt;em&gt;So what we did was train a model that is proficient in both weather and cyclones.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="simple"&gt;&lt;strong&gt;간단한 예문:&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;사이클론이 바다에서 왔어요.&lt;br/&gt;&lt;em&gt;The cyclone came from the sea.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;사이클론은 매우 위험해요.&lt;br/&gt;&lt;em&gt;The cyclone is very dangerous.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</ns0:encoded><pubDate>Wed, 12 Aug 2026 01:09:34 +0900</pubDate><guid isPermaLink="false">vocab-329f5cf73e1c78d9c9bdda7640844520591b387e</guid><enclosure url="https://images.unsplash.com/photo-1454789476662-53eb23ba5907?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjeWNsb25lfGVufDB8fHx8MTc4NjQ2NDU2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" length="310255" /><ns1:content url="https://images.unsplash.com/photo-1454789476662-53eb23ba5907?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjeWNsb25lfGVufDB8fHx8MTc4NjQ2NDU2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" type="image/jpeg" medium="image" /><ns1:thumbnail url="https://images.unsplash.com/photo-1454789476662-53eb23ba5907?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxjeWNsb25lfGVufDB8fHx8MTc4NjQ2NDU2OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" /><category>사이클론</category></item><item><title>스토어가 – store (subject)</title><link>urn:urn:vocab:스토어가</link><description>&lt;div class="vocab-item"&gt;
 &lt;div class="vocab-image"&gt;&lt;img src="https://images.unsplash.com/photo-1595057243976-875ee35f8dda?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NjA2MzJ8MHwxfHNlYXJjaHwxfHxzdG9yZSUyMCUyOHN1YmplY3QlMjl8ZW58MHx8fHwxNzg2NDU2ODI3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="스토어가 (store (subject))" style="max-width:100%;height:auto;" /&gt;&lt;/div&gt;
 &lt;div class="examples"&gt;&lt;strong&gt;예문 (실제 기사에서):&lt;/strong&gt;&lt;br/&gt;
 &lt;p&gt;(법원 명령에 따라 구글 Play 내에서 유통되는 첫 번째 앱 스토어가 된 Aptoide&lt;br/&gt;&lt;em&gt;Aptoide, which became the first app store to be distributed within Google Play under a court order&lt;/em&gt;&lt;/p&gt;
