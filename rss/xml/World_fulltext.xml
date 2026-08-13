@@ -1,153 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/World_fulltext.xml</link><description>Full-text NYT World articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/World_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 13 Aug 2026 09:58:45 +0000</lastBuildDate><item><title>The Eclipse Is Coming, and Iceland Is Looking for a Break in the Clouds</title><link>https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-iceland.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/11/multimedia/11int-iceland-eclipse-top-twqp/11int-iceland-eclipse-top-twqp-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;A total solar eclipse will cast a shadow across several European countries on Wednesday. But in Iceland, where eclipse chasers were hoping for one of the best possible views, the unpredictable weather may prove to be a spoiler.&lt;/p&gt;
-&lt;p&gt;So many Icelanders — and some intrepid visitors — plan to make a game-day decision about where to go to watch the spectacle.&lt;/p&gt;
-&lt;p&gt;“It’s the worst country to watch an eclipse,” said Margret Brynjolfsdottir, who lives in Iceland’s remote northwest, part of the narrow band of the globe where the moon will completely block out the sun.&lt;/p&gt;
-&lt;p&gt;As of Tuesday, forecasters were predicting overcast skies and rain across most of Iceland. Ms. Brynjolfsdottir, a physical therapist, planned to watch the eclipse from home, no matter how the sky looks. But Icelanders are used to fickle weather, and many are likely to check the forecast on Wednesday morning and hit the road to find the clearest skies they can.&lt;/p&gt;
-&lt;p&gt;In short, no one really knows where anyone is going to go.&lt;/p&gt;
-&lt;p&gt;“We are as prepared as we can be,” said Birna Mjoll Atladottir, who runs the westernmost hotel in Iceland, Hotel Breidavik. The period when the moon completely eclipses the sun — known as totality — will last an impressive two minutes and 10 seconds at her hotel. (Just up the road, on the cliffs at the edge of the country, it will stretch on for another three seconds.)&lt;/p&gt;
-&lt;p&gt;Ms. Atladottir has cleared two fields around her hotel, erected 10 new portable toilets and ordered a month’s worth of food.&lt;/p&gt;
-&lt;p&gt;If the weather cooperates, she could get flooded with campers. But if not, all that expensive preparation could be for naught.&lt;/p&gt;
-&lt;p&gt;“We don’t know anything,” she said, sighing.&lt;/p&gt;
-&lt;p&gt;This will be Europe’s first total solar eclipse since 1999. On most of the continent, the moon will obscure only a portion of the sun, but parts of Russia, Greenland, Spain and Portugal as well as Iceland are in the path of the total eclipse. (People in Spain will be trying to stay safe in extreme heat.)&lt;/p&gt;
-&lt;p&gt;That rare moment of darkness will last longer here in the Westfjords, a remote region of northwestern Iceland, than almost anywhere else, excluding the oceans. The Westfjords, which are not on Iceland’s main tourist route, has been gearing up to host the eclipse enthusiasts (also known as umbraphiles, or people who love the shadows).&lt;/p&gt;
-&lt;p&gt;Visitors began making reservations years ago. Some Airbnb hosts and hotel owners have jacked up their prices; some rooms that usually cost a few hundred dollars are going for thousands.&lt;/p&gt;
-&lt;p&gt;“Iceland is pretty much sold out,” said Saevar Helgi Bragason, a science communicator who has become the country’s unofficial eclipse czar.&lt;/p&gt;
-&lt;p&gt;And in recent months, harried officials in the Westfjords and elsewhere have been scrambling to fix roads, boost mobile coverage and reserve the country’s relatively few portable toilets.&lt;/p&gt;
-&lt;p&gt;Percentage of the sun&lt;/p&gt;
-&lt;p&gt;obscured during the eclipse&lt;/p&gt;
-&lt;p&gt;40%&lt;/p&gt;
-&lt;p&gt;60%&lt;/p&gt;
-&lt;p&gt;20%&lt;/p&gt;
-&lt;p&gt;80%&lt;/p&gt;
-&lt;p&gt;10%&lt;/p&gt;
-&lt;p&gt;100%&lt;/p&gt;
-&lt;p&gt;Greenland&lt;/p&gt;
-&lt;p&gt;Reykjavik,&lt;/p&gt;
-&lt;p&gt;Iceland&lt;/p&gt;
-&lt;p&gt;Totality begins&lt;/p&gt;
-&lt;p&gt;5:48 p.m. GMT&lt;/p&gt;
-&lt;p&gt;Canada&lt;/p&gt;
-&lt;p&gt;U.S.&lt;/p&gt;
-&lt;p&gt;U.K.&lt;/p&gt;
-&lt;p&gt;Valencia, Spain&lt;/p&gt;
-&lt;p&gt;Totality begins&lt;/p&gt;
-&lt;p&gt;8:32 p.m. UCT&lt;/p&gt;
-&lt;p&gt;Percentage of the sun&lt;/p&gt;
-&lt;p&gt;obscured during the eclipse&lt;/p&gt;
-&lt;p&gt;40%&lt;/p&gt;
-&lt;p&gt;60%&lt;/p&gt;
-&lt;p&gt;20%&lt;/p&gt;
-&lt;p&gt;80%&lt;/p&gt;
-&lt;p&gt;10%&lt;/p&gt;
-&lt;p&gt;100%&lt;/p&gt;
-&lt;p&gt;Greenland&lt;/p&gt;
-&lt;p&gt;Reykjavik,&lt;/p&gt;
-&lt;p&gt;Iceland&lt;/p&gt;
-&lt;p&gt;Totality begins&lt;/p&gt;
-&lt;p&gt;5:48 p.m.&lt;/p&gt;
-&lt;p&gt;Canada&lt;/p&gt;
-&lt;p&gt;U.S.&lt;/p&gt;
-&lt;p&gt;U.K.&lt;/p&gt;
-&lt;p&gt;Valencia, Spain&lt;/p&gt;
-&lt;p&gt;Totality begins&lt;/p&gt;
-&lt;p&gt;8:32 p.m.&lt;/p&gt;
-&lt;p&gt;Percentage of the sun&lt;/p&gt;
-&lt;p&gt;obscured during the eclipse&lt;/p&gt;
-&lt;p&gt;40%&lt;/p&gt;
-&lt;p&gt;60%&lt;/p&gt;
-&lt;p&gt;20%&lt;/p&gt;
-&lt;p&gt;80%&lt;/p&gt;
-&lt;p&gt;10%&lt;/p&gt;
-&lt;p&gt;100%&lt;/p&gt;
-&lt;p&gt;Greenland&lt;/p&gt;
-&lt;p&gt;Reykjavik,&lt;/p&gt;
-&lt;p&gt;Iceland&lt;/p&gt;
-&lt;p&gt;Totality begins&lt;/p&gt;
-&lt;p&gt;5:48 p.m.&lt;/p&gt;
-&lt;p&gt;Canada&lt;/p&gt;
-&lt;p&gt;U.S.&lt;/p&gt;
-&lt;p&gt;U.K.&lt;/p&gt;
-&lt;p&gt;Valencia, Spain&lt;/p&gt;
-&lt;p&gt;Totality begins&lt;/p&gt;
-&lt;p&gt;8:32 p.m.&lt;/p&gt;
-&lt;p&gt;Percentage of the sun&lt;/p&gt;
-&lt;p&gt;obscured during the eclipse&lt;/p&gt;
-&lt;p&gt;40%&lt;/p&gt;
-&lt;p&gt;60%&lt;/p&gt;
-&lt;p&gt;20%&lt;/p&gt;
-&lt;p&gt;80%&lt;/p&gt;
-&lt;p&gt;10%&lt;/p&gt;
-&lt;p&gt;100%&lt;/p&gt;
-&lt;p&gt;Greenland&lt;/p&gt;
-&lt;p&gt;Reykjavik,&lt;/p&gt;
-&lt;p&gt;Iceland&lt;/p&gt;
-&lt;p&gt;Totality begins&lt;/p&gt;
-&lt;p&gt;5:48 p.m.&lt;/p&gt;
-&lt;p&gt;Canada&lt;/p&gt;
-&lt;p&gt;U.S.&lt;/p&gt;
-&lt;p&gt;U.K.&lt;/p&gt;
-&lt;p&gt;Valencia, Spain&lt;/p&gt;
-&lt;p&gt;Totality begins&lt;/p&gt;
-&lt;p&gt;8:32 p.m.&lt;/p&gt;
-&lt;p&gt;Percentage of the sun&lt;/p&gt;
-&lt;p&gt;obscured during the eclipse&lt;/p&gt;
-&lt;p&gt;40%&lt;/p&gt;
-&lt;p&gt;60%&lt;/p&gt;
-&lt;p&gt;20%&lt;/p&gt;
-&lt;p&gt;80%&lt;/p&gt;
-&lt;p&gt;10%&lt;/p&gt;
-&lt;p&gt;100%&lt;/p&gt;
-&lt;p&gt;Greenland&lt;/p&gt;
-&lt;p&gt;Reykjavik,&lt;/p&gt;
-&lt;p&gt;Iceland&lt;/p&gt;
-&lt;p&gt;Totality begins&lt;/p&gt;
-&lt;p&gt;5:48 p.m.&lt;/p&gt;
-&lt;p&gt;Canada&lt;/p&gt;
-&lt;p&gt;U.S.&lt;/p&gt;
-&lt;p&gt;U.K.&lt;/p&gt;
-&lt;p&gt;Valencia, Spain&lt;/p&gt;
-&lt;p&gt;Totality begins&lt;/p&gt;
-&lt;p&gt;8:32 p.m.&lt;/p&gt;
-&lt;p&gt;83% partial eclipse&lt;/p&gt;
-&lt;p&gt;Maximum&lt;/p&gt;
-&lt;p&gt;7:58 PM&lt;/p&gt;
-&lt;p&gt;Partial begins&lt;/p&gt;
-&lt;p&gt;7:04 PM&lt;/p&gt;
-&lt;p&gt;Partial ends&lt;/p&gt;
-&lt;p&gt;8:50 PM&lt;/p&gt;
-&lt;p&gt;Sun altitude at maximum&lt;/p&gt;
-&lt;p&gt;7 deg.&lt;/p&gt;
-&lt;p&gt;Totality start time is shown in local time. Sources: NASA Scientific Visualization Studio (eclipse data); Natural Earth (map data). Adina Renner/The New York Times&lt;/p&gt;
-&lt;p&gt;Foreign tourists aren’t the main concern, officials said. That’s because most of the roughly 75,000 foreigners set to be in Iceland that day have probably committed to a fixed plan.&lt;/p&gt;
-&lt;p&gt;Instead, it’s the Icelanders, who are used to spending their summers chasing the sun. Any number of the island’s 400,000 residents — about a third of whom will not be able to see a total eclipse from their homes — could set out to find the best possible view. That could result in gridlock on unpaved, less-traveled rural roads.&lt;/p&gt;
-&lt;p&gt;“The Icelandic weather doesn’t really allow you to make plans ahead of time,” said Diego Ragnar Angemi, an amateur astronomer who lives in the northwestern corner of the Westfjords, where totality is set to last for some 90 seconds.&lt;/p&gt;
-&lt;p&gt;Conditions can differ from fjord to fjord, Mr. Angemi said, so even a short drive can change the view completely. “I am going to stay home only if I see that it’s cloudy from here to Reykjavik,” he said.&lt;/p&gt;
-&lt;p&gt;If there’s sunshine anywhere nearby, he said, “I will take the chance — of course.”&lt;/p&gt;
-&lt;p&gt;The Westfjords have mostly been spared Iceland’s crush of tourists in megabuses, who come to gaze at the northern lights, soak in hot tubs and pose with hot dogs.&lt;/p&gt;
-&lt;p&gt;This is the rare unbeaten path. And it shows.&lt;/p&gt;
-&lt;p&gt;Green hills, unmarked by houses, slope up from the fjords. Phone calls drop as you drive around bends. Big grocery stores are hours away. The biggest village in the southern Westfjords, Patreksfjordur, has about 700 residents, four restaurants, a gas station and a liquor store.&lt;/p&gt;
-&lt;p&gt;Driving here can be, at best, bumpy. Many roads that lace across fjords are unpaved, pitted with potholes deep enough to chatter even a clenched jaw.&lt;/p&gt;
-&lt;p&gt;On a normal day, that wouldn’t be a major problem. These aren’t busy roads — a quarter of an hour can pass without another car being seen. Most people know to take it slow.&lt;/p&gt;
-&lt;p&gt;“But it’s not a normal day,” said Johann B. Skulason, a national police official who is helping to coordinate the work of different agencies as Iceland prepares for the eclipse. He spoke from a command center in Reykjavik that would normally be used for a crisis like a volcanic eruption.&lt;/p&gt;
-&lt;p&gt;Road crews in the Westfjords have been leveling gravel roads, like the one that stretches out past Hotel Breidavik — Ms. Atladottir’s hotel — toward the western Latrabjarg cliffs, where puffins roost and thousands of eclipse chasers could soon gather.&lt;/p&gt;
-&lt;p&gt;The crews were cutting it close. On Saturday evening, hours after the first people arrived to pitch a tent outside Hotel Breidavik, workers were laying new gravel.&lt;/p&gt;
-&lt;p&gt;A nearby hospital and fire department have been staffing up and preparing to send emergency crews out to the cliffs. Telecom companies have been strengthening networks for months. And there may never be a better day for Iceland’s waste management industry.&lt;/p&gt;
-&lt;p&gt;Jon Thorir Frantzson, the chief executive of the Icelandic Container Association, a private company, said all of his portable toilets — he has about 250 — have been rented for months. “It’s never been like this,” he said.&lt;/p&gt;
-&lt;p&gt;“It’s crazy to have them there, in the middle of nowhere,” he added. “Dragging them all to the Westfjords? That has never happened.”&lt;/p&gt;
-&lt;p&gt;Ms. Atladottir got her first booking for this Wednesday 14 years ago. She first thought it was a joke. Who makes a booking so far in advance?&lt;/p&gt;
-&lt;p&gt;Now, it’s all too real. Her rooms have long been booked, but there was still plenty of space for campers. On Saturday, her phone kept ringing.&lt;/p&gt;
-&lt;p&gt;“I would like to know if we can make a reservation for the 12th?” a caller asked, the second inquiry in under an hour.&lt;/p&gt;
-&lt;p&gt;Ms. Atladottir calmly explained that no, they were not taking bookings for campsites, but yes, they had more than enough space.&lt;/p&gt;
-&lt;p&gt;The caller thanked her, and hung up.&lt;/p&gt;
-&lt;p&gt;“How are we going to be prepared?” Ms. Atladottir said, laughing. “Are we going to expect 100 people — or 1,000 people — or what?”&lt;/p&gt;
-&lt;p&gt;By Monday, more than a dozen people had already set up their tents in the field outside her hotel. Whatever happens, it’ll be magical, there on her remote stretch of beach, looking up as the sky darkens briefly into night.&lt;/p&gt;
-&lt;p&gt;Egill Bjarnason contributed reporting from Husavik, in northern Iceland.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-iceland.html</guid><pubDate>Wed, 12 Aug 2026 11:13:08 +0000</pubDate></item><item><title>First Total Eclipse in Europe in Decades Turns Day to Night</title><link>https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/solar-eclipse-europe</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-promo-4PM-1-zptj/12europe-eclipse-promo-4PM-1-zptj-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-Normally empty Spanish towns have filled up, and
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/solar-eclipse-europe</guid><pubDate>Wed, 12 Aug 2026 10:36:56 +0000</pubDate></item><item><title>Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97</title><link>https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html</link><description>&lt;![CDATA[
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/World_fulltext.xml</link><description>Full-text NYT World articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/World_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 13 Aug 2026 12:02:38 +0000</lastBuildDate><item><title>Why Nigel Farage Is Running Against a ‘Trash Can’Why Nigel Farage Is Running Against a ‘Trash Can’</title><link>https://www.nytimes.com/video/world/europe/100000011041924/why-nigel-farage-is-running-against-a-trash-can.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/06/world/europe/RV_Thumbnail-Binface/RV_Thumbnail-Binface-facebookJumbo.png?play-overlay"/&gt;&lt;/p&gt;
+Our reporter Amelia Nierenberg describes how the right-wing British political leader Nigel Farage, who is seeking re-election to Parliament, faces an unconventional opponent: Count Binface.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/video/world/europe/100000011041924/why-nigel-farage-is-running-against-a-trash-can.html</guid><pubDate>Thu, 13 Aug 2026 01:40:03 +0000</pubDate></item><item><title>Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97</title><link>https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2022/11/15/obituaries/00obit-zhu-01/00obit-zhu-01-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Zhu Rongji, the former Chinese premier who played a pivotal role in guiding his country toward a market-based economy in the 1990s and subsequently into the World Trade Organization, died on Wednesday in Beijing. He was 97.&lt;/p&gt;
 &lt;p&gt;His death was announced by Xinhua, China’s official news agency, which did not cite a cause, noting only that he died after medical treatment failed to save him.&lt;/p&gt;
@@ -196,80 +51,7 @@ Normally empty Spanish towns have filled up, and
 &lt;p&gt;While Mr. Zhu was premier, his son, Levin Zhu Yunlai, was the most visible investment banker at the China International Capital Corporation. C.I.C.C., as it is known, worked with Wall Street banks to list the shares of big Chinese state-owned enterprises on Western stock exchanges.&lt;/p&gt;
 &lt;p&gt;In addition to his son, Mr. Zhu’s family included Lao An, his wife of seven decades, as well as a daughter, Zhu Yanlai. Hong Kong news media reported in 2019 that Mr. Zhu also had at least one granddaughter, the daughter of Zhu Yanlai.&lt;/p&gt;
 &lt;p&gt;Li You contributed research.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html</guid><pubDate>Wed, 12 Aug 2026 14:13:17 +0000</pubDate></item><item><title>As Europe Faces Another Heat Wave, Travelers Are Forced to Adapt</title><link>https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/12/multimedia/12trav-europe-wildfires-mpqk/12trav-europe-wildfires-mpqk-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;Standing on a paddle board in late July, Kryssi Whitehurst saw a plume of smoke slowly engulf the sky over a lake in southern France. Miles away, the Gironde wildfire would soon prompt one of the largest peacetime evacuations in French history.&lt;/p&gt;
-&lt;p&gt;Mrs. Whitehurst, from Britain, had traveled to stay in a cabin at one of the region’s beloved campgrounds on the Atlantic coast with her husband and two young children. When they rushed back from their outing, she said, a black and red cloud filled the sky as ash rained down.&lt;/p&gt;
-&lt;p&gt;“Everybody looked really, really scared,” said Mrs. Whitehurst, who went teary eyed to the reception desk, where she was assured the red smoke came from preventive fire retardant. Her family spent the next five days compulsively checking the news before they were told to evacuate halfway through their 10-day vacation.&lt;/p&gt;
-&lt;p&gt;The first half of summer in Europe has featured a grueling series of heat waves and widespread wildfires, which have burned more than 1.3 million acres across the European Union. The Danube and Rhine rivers hit record lows caused by drought from the prolonged heat waves, upending river cruises and forcing operators to cancel or change itineraries with alternative bus transfers and hotel stays.&lt;/p&gt;
-&lt;p&gt;After the hottest June-to-July period on record in Western Europe, the continent is now in the midst of its fifth heat wave since May. Temperatures are expected to reach 40 degrees Celsius (104 degrees Fahrenheit) or more, initially across parts of France, Spain and Italy, then in Central Europe, where some of the highest temperatures are expected in the Czech Republic, Germany and Poland.&lt;/p&gt;
-&lt;p&gt;Dozens of travelers told The Times that the sweltering season in Europe led them to reschedule travel dates, cancel tours of outdoor sites like the Roman Colosseum, leave trips early or plan future summer vacations to more temperate locations like Scandinavia or mountainous regions. Several people said they struggled with the lack of air conditioning and that their children or older travel companions experienced heat-related illnesses.&lt;/p&gt;
-&lt;p&gt;“The oppressive temperatures completely altered our trip, turning a visit to these beautiful destinations into something that felt more like a survival contest,” said Rebecca Hoyt, a clinical social worker from Colorado who visited southern Spain and France in early July. She’s already decided not to return next summer.&lt;/p&gt;
-&lt;p&gt;Climate factors are increasingly shaping where and how Europeans travel, according to a July report from the European Travel Commission. Eduardo Santander, the travel commission’s chief executive, said that the tourism sector must prepare for long-term shifts in seasonal travel, while strengthening resilience, crisis preparedness and communication with visitors.&lt;/p&gt;
-&lt;p&gt;Despite the fact that these patterns of extreme heat in Europe have been building for several years, travelers have largely been reluctant to change their plans entirely. Industry leaders say they have not seen a notable shift away from preferred summer destinations in Southern and Mediterranean Europe.&lt;/p&gt;
-&lt;p&gt;“For the past few years I’ve tried to swear off summer travel to Europe, and yet I keep going back,” said Sabina Piersol, an English teacher from San Francisco who did the “unthinkable” and ended her June trip to Paris three days early because of the heat.&lt;/p&gt;
-&lt;p&gt;Instead, travel patterns are gradually evolving, pointing toward a growing seasonal shift in demand, said Mr. Santander. Compared to last year, travel interest this year was slightly higher in June, signaling a small shift toward early-summer travel, according to the commission. Winter and spring arrivals to Southern Europe are growing, and Nordic regions are reporting record arrivals, he said.&lt;/p&gt;
-&lt;p&gt;Heat alone does not typically change immediate hotel demand for destinations in France, where a series of heat waves have forced popular sites like the Louvre and Eiffel Tower to close early, according to the MKG group, a market research firm based in Paris.&lt;/p&gt;
-&lt;p&gt;The shift is more subtle: In summer 2025, hotel occupancy rose faster in the French mountains than on the coast, according to the firm. Revenue per available room grew by double digits on the northern coastlines of the English Channel and Brittany.&lt;/p&gt;
-&lt;p&gt;Óscar Perelli del Amo, the chief executive of Exceltur, Spain’s national tourism industry association, said the tourism sector expects 10 percent revenue growth in Valencia and Murcia this year, despite soaring summer temperatures in both areas. In Madrid, international tourist expenditure reached 10 billion euros, or about $11.5 billion, in the first half of 2026, up 11 percent from the same period in 2025.&lt;/p&gt;
-&lt;p&gt;“I’m not worried about this season,” said Ana Rios, a retired nurse who rents out three vacation properties in Madrid. But if it continues to get hotter each year, she said, tourists — like the locals — will not want to stay in the city in the summer.&lt;/p&gt;
-&lt;p&gt;Operators in Greece expressed similar concerns. Vitorakis Michail, who runs a tour company on Crete, said that increasing heat waves and higher summer temperatures have gradually changed the profile of visitors to the island. “Over the past three to four years, we have seen a growing number of tourists choosing to visit in September and October instead of the peak summer months,” he said.&lt;/p&gt;
-&lt;p&gt;As Europe confronts more unpredictable weather patterns and as tourists are increasingly exposed to extreme weather, local hospitality leaders say the wildfire response in France highlights a necessity for future economic stability: clear and precise crisis communication.&lt;/p&gt;
-&lt;p&gt;On July 26, Sophie Brocas, the prefect of the Nouvelle-Aquitaine region, strongly urged tourists not to travel to Gironde — an area about twice the size of Delaware — until the fire had been contained and for tourists already in the area to consider relocating to a different destination, since the situation could deteriorate.&lt;/p&gt;
-&lt;p&gt;A cascade of cancellations struck businesses across the entire region, according to the Union of Trades and Industries in the Hospitality Sector, France’s main hospitality union. Some hotels over 60 miles from the fire saw occupancy rates fall as low as 25 percent, the union said, down from 80 percent during the same time last year.&lt;/p&gt;
-&lt;p&gt;“Informing people transparently about a genuine risk is essential,” said Arthur Laborde, president of the union’s Landes chapter. “Extending that warning unnecessarily to an entire department can create a second crisis — an economic one — far beyond the area actually in danger.”&lt;/p&gt;
-&lt;p&gt;A fire that directly impacted 4 percent of the Gironde region caused hotel losses in the first 10 days of around seven million euros — a number that exceeded what every major French wildfire in the past decade combined cost the country’s hotels, according to the MKG Group. Before the fire, the agency reported hotels in the region were outpacing last summer’s turnout.&lt;/p&gt;
-&lt;p&gt;The firm has tracked the impact of wildfires for the past decade and never detected an effect beyond three miles from a burn perimeter. This time, bookings were down across an entire department, including areas more than 50 miles away, such as the wine region around Saint-Émilion.&lt;/p&gt;
-&lt;p&gt;Rail service and a major highway south of Bordeaux closed for several days, disrupting access to some cities miles from the fire, such as the bayside town of Arcachon.&lt;/p&gt;
-&lt;p&gt;“I hope within a few days, the phone will start ringing again,” Gilles Delepaux, a hotel manager in Arcachon, said in early August. He said he had to tell some workers to take days off as cancellations mounted.&lt;/p&gt;
-&lt;p&gt;Most of the impacted businesses are independently owned and sustain themselves throughout the year on the money they make in July and August, said Mr. Laborde, the union president. The group recently launched a campaign called “Don’t Abandon Us!” to recoup visitors.&lt;/p&gt;
-&lt;p&gt;On July 28, following progress in containing the fires, Serge Papin, the country’s tourism minister, encouraged people not to cancel their August holidays in unaffected areas and emphasized that the tourism season was not over.&lt;/p&gt;
-&lt;p&gt;Wendy Smith, a 71-year-old retiree from Palm Springs, Calif., was planning to travel during the second week of August along the Atlantic coast of France, from Brittany to Biarritz. But after the fires, she canceled her train tickets and apartment rentals in three oceanside towns. She instead flew straight from Paris to the southern tip of the country.&lt;/p&gt;
-&lt;p&gt;“My thought was that an extra tourist, even just traveling through the area, would not be helpful to anyone,” she said.&lt;/p&gt;
-&lt;p&gt;Ceylan Yeğinsu and Iliana Magra contributed reporting.&lt;/p&gt;
-&lt;p&gt;Follow New York Times Travel on Instagram and sign up for our Travel Dispatch newsletter to get expert tips on traveling smarter and inspiration for your next vacation. Dreaming up a future getaway or just armchair traveling? Check out our 52 Places to Go in 2026.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html</guid><pubDate>Wed, 12 Aug 2026 11:06:39 +0000</pubDate></item><item><title>Here’s how a special U.S. Navy squadron photographed Spain’s 1905 eclipse.</title><link>https://www.nytimes.com/2026/08/12/world/europe/total-solar-eclipse-spain-1905-us-navy.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-squadron1/12europe-eclipse-squadron1-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;The last total solar eclipse visible from Spain was nearly 121 years ago, and, just like this year, it drew crowds from around the world. Among the spectators for the event, on Aug. 30, 1905, were the crews of three warships sent by the U.S. military to take high-definition photographs of the sun’s corona.&lt;/p&gt;
-&lt;p&gt;That “Eclipse Squadron,” as The New York Times called the expedition at the time, set sail on July 1 carrying one of the largest cameras then constructed, with a lens worth about $900 — about $34,000 today. Several naval astronomers were onboard the ships — the U.S.S. Minneapolis, U.S.S. Columbia and U.S.S. Caesar — ready to set up the camera near the Porta Coeli monastery in the mountains north of Valencia.&lt;/p&gt;
-&lt;p&gt;The trip was “a wonderful scientific adventure that brought America and Spain together,” said Vicente Muñoz Gimeno, a historical researcher and journalist in Valencia who recently compiled a report about the Eclipse Squadron.&lt;/p&gt;
-&lt;p&gt;Arriving several weeks before the eclipse, the Americans were just in time for the 1905 Great Valencia Fair, which is still a tradition to this day in the city. The sailors won a regatta against local rowers and attended a bullfight during the festivities. Then, leading up to the eclipse, they worked with residents to erect their 65-foot refractory telescope.&lt;/p&gt;
-&lt;p&gt;According to Mr. Muñoz, “The expedition resulted in a unique cultural crossroads, where American sailors and astronomers set up cutting edge equipment among local farmlands, shared traditional dances with the residents of Bétera and Serra, and ultimately captured flawless photographic plates of the inner corona during 106 seconds of totality.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/12/world/europe/total-solar-eclipse-spain-1905-us-navy.html</guid><pubDate>Wed, 12 Aug 2026 10:08:09 +0000</pubDate></item><item><title>Driver Sets Record for Hydrogen-Powered Vehicle at More Than 406 M.P.H.</title><link>https://www.nytimes.com/2026/08/12/us/land-speed-record-utah-andy-green.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-speed-02-thkp/12xp-speed-02-thkp-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;The fastest driver on Earth has set another record.&lt;/p&gt;
-&lt;p&gt;Andy Green, 64, the only person to break the sound barrier on land, set a record for the fastest land speed in a hydrogen-fueled internal-combustion vehicle on Tuesday, at 406.320 miles per hour (653.909 kilometers per hour). The record, set at the Bonneville Salt Flats in Utah, was confirmed by the Fédération Internationale de l’Automobile, the governing body for motorsports.&lt;/p&gt;
-&lt;p&gt;“The ground comes at you very, very quickly,” Mr. Green, a former pilot for the Royal Air Force, said in a phone interview on Wednesday. “You’re driving five or six times as fast as on the interstate. Everything happens very quickly.”&lt;/p&gt;
-&lt;p&gt;Mr. Green was driving a JCB Hydromax — which looks more like a rocket on wheels than a car — “ the fastest hydrogen-powered vehicle of any kind in history,” according to JCB, the British machinery company that manufactured it. Beyond setting a land speed record, the company is hoping to use hydrogen engines in the products it builds, Mr. Green said.&lt;/p&gt;
-&lt;p&gt;No plumes of smoke were produced by this speed record: Hydrogen powers the vehicle and water comes out of the exhaust.&lt;/p&gt;
-&lt;p&gt;“This is as zero carbon as it gets,” Mr. Green said.&lt;/p&gt;
-&lt;p&gt;Mohammed Ben Sulayem, the F.I.A. president, called the record a “historic milestone” in a statement. The previous land-speed record for a hydrogen combustion vehicle was 185.5 m.p.h., and was set in 2004 by the BMW H2R vehicle, according to F.I.A.&lt;/p&gt;
-&lt;p&gt;Mr. Green set the record on a 12-mile track on the Bonneville Salt Flats, a 30,000-acre expanse of hard, white salt crust on the Great Salt Lake Basin in Utah.&lt;/p&gt;
-&lt;p&gt;“You can physically see the curvature of the earth,” Mr. Green said. “This smooth surface is so long.”&lt;/p&gt;
-&lt;p&gt;How does it feel to be in a vehicle going 400 m.p.h.? Loud, and with heavy vibrations, Mr. Green said. As he accelerated, he looked farther in the distance, and the markers along the course came at him faster and faster, he said. Around him, there was nothing but white salt. The track seemed to get narrower. All of this is happening as he was sandwiched between two roaring engines in a cockpit that was built to fit his 6-foot-3 frame.&lt;/p&gt;
-&lt;p&gt;It takes about 72 seconds to get from 50 miles per hour to 400, Mr. Green said.&lt;/p&gt;
-&lt;p&gt;The Bonneville Salt Flats have been the site of speed races since 1912. Once part of a large prehistoric lake that covered a third of the state, the flats are composed mostly of table salt, according to the U.S. Department of the Interior’s Bureau of Land Management.&lt;/p&gt;
-&lt;p&gt;Mr. Green said on Wednesday that he had considered himself to be retired from speed racing — until JCB called. In October 1997, he broke the sound barrier on land in the Black Rock Desert of Nevada, driving a jet-powered car at an average speed of 763.035 m.p.h. over two runs. That vehicle was powered by two Rolls-Royce engines from a Phantom fighter jet.&lt;/p&gt;
-&lt;p&gt;That run broke the overall land-speed record set in 1983 by Richard Noble, a British entrepreneur, who traveled at 633.4 m.p.h. with a jet-powered car.&lt;/p&gt;
-&lt;p&gt;The JCB Hydromax was not built to rival the 1997 record, according to F.I.A., but rather to set a new fastest speed for a hydrogen vehicle. But, the organization said in a statement, “it has laid down an important marker in the world of motor sport and beyond.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/12/us/land-speed-record-utah-andy-green.html</guid><pubDate>Wed, 12 Aug 2026 10:40:30 +0000</pubDate></item><item><title>A Bright Spot in Colombia as Rescuers Free Quake Victim</title><link>https://www.nytimes.com/2026/08/12/world/americas/colombia-earthquake-rescue.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/12/world/12int-colombia-quake-oneimage-promo/12int-colombia-quake-oneimage-promo-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;Sometimes you get lucky.&lt;/p&gt;
-&lt;p&gt;This is Diana Marcela Troncoso. For almost 30 hours, she was trapped in earthquake debris. She gripped the arm of a Colombian firefighter like a lifeline.&lt;/p&gt;
-&lt;p&gt;As rescuers worked to free her, a police doctor, Claudia Milanes, monitored Ms. Troncoso’s vital signs, making sure she was hydrated.&lt;/p&gt;
-&lt;p&gt;At least 181 people died in Colombia after the quake. But not Ms.  Troncoso.    “Diana! Diana!” the crowd chanted as she was carried out. Some applauded.&lt;/p&gt;
-&lt;p&gt;In Cali, mountains of debris like this one are now commonplace. Many people are still missing.&lt;/p&gt;
-&lt;p&gt;Military forces were deployed to help the civil authorities cordon off the hardest-hit cities and to coordinate the search for survivors.&lt;/p&gt;
-&lt;p&gt;But ordinary citizens pitched in, too. They mobilized to gather supplies, food and hydration for the rescue teams.&lt;/p&gt;
-&lt;p&gt;Supported by&lt;/p&gt;
-&lt;p&gt;By The New York Times&lt;/p&gt;
-&lt;p&gt;Diana Marcela Troncoso, a biomedical engineer, was just one of more than 200 people feared trapped alive on Tuesday in the rubble of Cali, the city perhaps hardest hit by the earthquake that rocked Colombia a day earlier.&lt;/p&gt;
-&lt;p&gt;As emergency workers labored to find buried victims elsewhere in the city, firefighters from the capital, Bogotá, were able to extricate Ms. Troncoso, who is 31.&lt;/p&gt;
-&lt;p&gt;To get to her, firefighters had to make their way through a narrow tunnel under over 20 feet of rubble. On the surface, it was over 94 degrees Fahrenheit. In the tunnel, it was even hotter, and electrolyte drinks were kept close at hand.&lt;/p&gt;
-&lt;p&gt;A crowd of onlookers cheered on the rescuers. They could hear a newly freed Ms. Troncoso cry in pain when she was strapped to a backboard. Then they watched as firefighters carefully navigated the debris field and delivered her to a waiting ambulance.&lt;/p&gt;
-&lt;p&gt;But with the first 48 hours after a disaster like the quake considered critical, the rescue workers could not afford to linger.&lt;/p&gt;
-&lt;p&gt;Genevieve Glatsky contributed reporting from Cali, Colombia.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/12/world/americas/colombia-earthquake-rescue.html</guid><pubDate>Wed, 12 Aug 2026 11:01:51 +0000</pubDate></item><item><title>Scenes From the 2026 European Solar Eclipse</title><link>https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html</guid><pubDate>Wed, 12 Aug 2026 14:13:17 +0000</pubDate></item><item><title>Scenes From the 2026 European Solar Eclipse</title><link>https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-eclipse-visual-stack-promo-thgl/12xp-eclipse-visual-stack-promo-thgl-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Flocks of sky-watchers around Europe turned their gazes upward on Wednesday for the rare chance to witness a total solar eclipse, the continent’s first in decades.&lt;/p&gt;
 &lt;p&gt;The eclipse began just after 6 p.m. Central European Time (around 12 p.m. Eastern time) in the northernmost part of Russia. The shadow of the moon swooped down to Greenland and Iceland, then farther south across parts of Spain. By 9 p.m., the eclipse ended as the sun set in the Mediterranean.&lt;/p&gt;
@@ -442,10 +224,7 @@ In a place known for its fickle weather, eclipse watchers took a risk. Only some
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html</guid><pubDate>Wed, 12 Aug 2026 15:43:39 +0000</pubDate></item><item><title>Coming next summer: the ‘eclipse of the century.’</title><link>https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/2027-eclipse-morocco-spain-egypt</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-next-topart-wmtk/12europe-eclipse-next-topart-wmtk-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Watching the solar eclipse at Washington Square Park in New York in 2024.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/2027-eclipse-morocco-spain-egypt</guid><pubDate>Wed, 12 Aug 2026 21:19:40 +0000</pubDate></item><item><title>How China Remembers Zhu Rongji, the Premier Who Spoke His Mind</title><link>https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/13/multimedia/13int-china-premier-01-hjtf/13int-china-premier-01-hjtf-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
-The official obituary of Zhu Rongji, at a newsstand in Beijing on Thursday.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html</guid><pubDate>Thu, 13 Aug 2026 00:40:32 +0000</pubDate></item><item><title>A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.</title><link>https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/2027-eclipse-morocco-spain-egypt</guid><pubDate>Wed, 12 Aug 2026 21:19:40 +0000</pubDate></item><item><title>A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.</title><link>https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/12/multimedia/12int-spain-eclipse-01-pgbz/12int-spain-eclipse-01-pgbz-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;The day before the first total solar eclipse on the Spanish mainland in more than a century, Mar Carretero-Castrillo, a 28-year-old astrophysicist, climbed the hill in the tiny and remote northern Spanish village where she spent her childhood summers staring up at the starry night sky.&lt;/p&gt;
 &lt;p&gt;Ms. Carretero-Castrillo had returned home from her job overseas for the big celestial event, she said, with the “beautiful idea” of gathering a small watch party on the same hill to quietly experience the eclipse with snacks, scientific discussions and educational games played with kitchen colanders.&lt;/p&gt;
@@ -525,40 +304,7 @@ The official obituary of Zhu Rongji, at a newsstand in Beijing on Thursday.
 &lt;p&gt;At a central cinema in Rome, Mario Del Pane was taking advantage of a city-sponsored initiative offering free afternoon movies at several cinemas.&lt;/p&gt;
 &lt;p&gt;“It’s a way to pass the hottest hours in a cool place,” Mr. Del Pane, 44, said. The other options were to stay home, or go to the beach, which wasn’t much of an alternative, he said.&lt;/p&gt;
 &lt;p&gt;“The temperature is very hot on the sand and you suffer,” Mr. Del Pane said. “I much prefer to be in a cool cinema.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html</guid><pubDate>Wed, 12 Aug 2026 15:44:00 +0000</pubDate></item><item><title>How Nigel Farage Ended Up Running Against a Man Dressed as a Trash Can</title><link>https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/12/multimedia/12int-uk-binface-01-chlb/12int-uk-binface-01-chlb-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;Count Binface, a man in a trash can costume, was trying to explain why he would be a winner no matter what happened on Thursday in the most high-profile election he’s ever fought.&lt;/p&gt;
-&lt;p&gt;“Shall we do a little flowchart?” he asked me, gesturing with his gloved fingers.&lt;/p&gt;
-&lt;p&gt;If you haven’t been following British politics, you may be wondering why I was interviewing someone who claims to be an intergalactic space warrior from the planet Sigma IX. Count Binface is a character played by the writer and comedian Jon Harvey, 46, and he has run in several elections as part of Britain’s long tradition of novelty political candidates.&lt;/p&gt;
-&lt;p&gt;Now he is heading for his biggest gig yet. He is the main opposition to Nigel Farage, the leader of the right-wing populist party Reform U.K., in a special parliamentary election in Clacton, an area on England’s eastern coast.&lt;/p&gt;
-&lt;p&gt;Mr. Farage is expected to win by a landslide — he held the seat with a large majority until he resigned last month to force this vote. One recent poll suggested he could get 73 percent. But though he has sought to frame this as a “people versus the establishment” election, all of the other major political parties have refused to take part. They called it a political stunt to distract from a parliamentary investigation into a gift of five million pounds (about $6.7 million) that Mr. Farage had failed to disclose.&lt;/p&gt;
-&lt;p&gt;Count Binface, who would only be interviewed in character, is Mr. Farage’s most prominent rival in the election, although 32 other candidates are running. Some are longtime Clacton residents, such as Nick Pelas, who has lived in Clacton-on-Sea for over a decade, while three represent the Official Monster Raving Loony Party, a group once associated with Britain’s most famous novelty candidate.&lt;/p&gt;
-&lt;p&gt;If Mr. Farage “wins even with an increased majority,” Count Binface argued as he laid out his metaphorical flowchart, “but it is against 33 candidates including an alien shaped like a trash can, who’s won?”&lt;/p&gt;
-&lt;p&gt;Mr. Farage would of course disagree. Reform U.K. did not respond to requests for comment for this article, but previously, Zia Yusuf, a senior party official, told the BBC that the other parties were boycotting the vote because they were “running scared” of Mr. Farage.&lt;/p&gt;
-&lt;p&gt;Count Binface’s moment in the national spotlight began last month, when Mr. Farage, who won the seat in Clacton at the 2024 general election, announced a surprise resignation. For weeks, Mr. Farage had been under pressure after revelations over his finances, including £5 million he received from a Thailand-based cryptocurrency billionaire. A parliamentary investigation had begun into whether Mr. Farage should have declared the gift, which he received in the months before the 2024 election.&lt;/p&gt;
-&lt;p&gt;Mr. Farage resigned on July 7, before the investigation was complete, and said he would immediately run for the same seat, in an apparent attempt to reclaim the political narrative.&lt;/p&gt;
-&lt;p&gt;“Let me be absolutely clear: I have done nothing wrong,” he said, adding: “I have decided that the people of Clacton should be the judges of my actions.”&lt;/p&gt;
-&lt;p&gt;If Mr. Farage were found to have broken the rules, he could be suspended from Parliament and potentially forced to fight a second special election. All the other major parties said they would wait for the investigation to conclude, with the Conservatives saying they would contest any resulting election.&lt;/p&gt;
-&lt;p&gt;That left Count Binface, in his silvered helmet and cape, to face the Reform leader this time.&lt;/p&gt;
-&lt;p&gt;“The so-called mainstream parties have elected not to take part,” Count Binface told me. “Either because they’re terrified by my magnificence,” or because “this is all actually a bit of a sideshow.”&lt;/p&gt;
-&lt;p&gt;Any British, Irish or eligible Commonwealth citizen over 18 can run in a parliamentary election in Britain, provided they pay a £500 deposit and get the nominations of 10 people living in the area.&lt;/p&gt;
-&lt;p&gt;Over the years, British politicians have routinely shared the stage with novelty candidates in funny costumes, from Elmo to representatives of the Raving Loonies.&lt;/p&gt;
-&lt;p&gt;In Britain, said Ian Hislop, the editor of Private Eye, a British satirical magazine, it has long been understood that “it is as important to laugh at politicians as it is to vote for them.”&lt;/p&gt;
-&lt;p&gt;Count Binface challenged the former Conservative prime minister Rishi Sunak. He ran against a previous prime minister, Theresa May, too, in a previous incarnation as Lord Buckethead, which he had to abandon over a copyright dispute. He ran in London’s mayoral election against Mayor Sadiq Khan. Earlier this summer, he ran in the Makerfield special election against the Labour candidate Andy Burnham. Mr. Burnham, now Britain’s prime minister, won with 54.8 percent, while Count Binface got 0.2 percent.&lt;/p&gt;
-&lt;p&gt;Mr. Harvey, the human underneath the costume, attended the University of Oxford, where he studied classics. (In a recent appearance on the podcast “The Rest Is Politics,” he let loose a stunning flow of Ancient Greek.) He has also worked on British satirical programs as a comedy writer, including for Armando Iannucci, the creator of “Veep.”&lt;/p&gt;
-&lt;p&gt;As Count Binface, his usual campaign promises include building “at least one affordable house” — a jibe at the house-building promises of consecutive British governments, which never seem to be met. He also has a longstanding promise to nationalize Adele, and to “cut your taxes and raise everyone else’s.”&lt;/p&gt;
-&lt;p&gt;There’s a serious message underneath, about the absurdity of modern politics and the impossibility of trying to please all voters everywhere.&lt;/p&gt;
-&lt;p&gt;Clacton, a parliamentary seat centered around a faded seaside town, voted by a large margin for Brexit, Mr. Farage’s signature cause before the 2016 referendum. Mr. Farage has built a populist movement by railing against immigration and more recently promising a Trump-style program of mass deportations.&lt;/p&gt;
-&lt;p&gt;In 2024, Mr. Farage won the seat with 46 percent of the vote, while a Conservative came in second place. “This is Farage country,” said Keiran Pedley, the director of politics at the polling firm Ipsos.&lt;/p&gt;
-&lt;p&gt;Some voters in Clacton have expressed frustration at the focus on the current election’s two most notable candidates. Brian Porter, a gardener who has lived in the area for about a year, said he wanted to vote for someone local who understood the needs of the community. “You’ve got all these jokers,” he said, pointing to both Count Binface (“farcical”) and Mr. Farage, who he said was “using the election to actually hide his sins.”&lt;/p&gt;
-&lt;p&gt;“It’s becoming a laughing joke,” he added. “And it’s not. This is people’s lives. It’s our future.”&lt;/p&gt;
-&lt;p&gt;Count Binface’s strongest previous result was 1 percent in the 2021 London mayoral election. A striking success for him here would be to exceed 5 percent, at which point his £500 election deposit would be refunded.&lt;/p&gt;
-&lt;p&gt;Count Binface has spent time in Clacton campaigning, meeting residents and recording videos. He also released a more detailed list of campaign promises, including some Farage-specific ones. Lawmakers who resign midterm should be barred from the resulting special election, he said. He promised to “spend more time in Clacton-on-Sea than in Washington D.C.,” a nod to Mr. Farage’s friendship with President Trump. And he pledged to “not accept £5 million gifts from crypto billionaires (on Earth).”&lt;/p&gt;
-&lt;p&gt;Even if Mr. Farage wins on Thursday, as expected, he will have to face the outcome of the investigation into that gift.&lt;/p&gt;
-&lt;p&gt;Count Binface accepts that at that point, the media interest in his story is likely to die down. He admitted that it had delighted him: “This has been the biggest feeding frenzy for old Binny so far.” He was also keen to emphasize his regard for the democratic process, and for voters who decide to support Mr. Farage.&lt;/p&gt;
-&lt;p&gt;“He has a pitch which is very powerful to a certain part of the electorate,” he said. “We mustn’t disrespect that. If humans choose to vote for Nigel, that is democracy.”&lt;/p&gt;
-&lt;p&gt;But with the major parties absent, “I seem to be his majesty’s opposition,” he said, from behind his bin. “Which is fine.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html</guid><pubDate>Wed, 12 Aug 2026 11:37:58 +0000</pubDate></item><item><title>What to Know About Today’s U.K. Special Election: Farage vs. Binface</title><link>https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html</guid><pubDate>Wed, 12 Aug 2026 15:44:00 +0000</pubDate></item><item><title>What to Know About Today’s U.K. Special Election: Farage vs. Binface</title><link>https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-farage-wtk-01-vgkz/13int-uk-farage-wtk-01-vgkz-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Nigel Farage, leader of Reform U.K., at a rally for the party in Wymondham, England, last month.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html</guid><pubDate>Wed, 12 Aug 2026 23:04:24 +0000</pubDate></item><item><title>‘An English Summer Is Not the Same Anymore’</title><link>https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html</link><description>&lt;![CDATA[
@@ -567,10 +313,16 @@ Sunrise in London on an amber warning day last week. More extreme heat is foreca
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html</guid><pubDate>Thu, 13 Aug 2026 00:32:41 +0000</pubDate></item><item><title>Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies</title><link>https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/12/multimedia/12int-ukraine-ports-01-lvhk/12int-ukraine-ports-01-lvhk-mediumSquareAt3X-v2.jpg"/&gt;&lt;/p&gt;
 A vessel struck off the coast of Odesa, Ukraine, last month. The Russian campaign has halted nearly all shipping in and out of the port.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html</guid><pubDate>Wed, 12 Aug 2026 23:18:06 +0000</pubDate></item><item><title>The Man on a Mission to Build India’s Most Livable City</title><link>https://www.nytimes.com/2026/08/13/world/asia/india-amravati-livable-city-andhra-pradesh.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html</guid><pubDate>Thu, 13 Aug 2026 01:22:18 +0000</pubDate></item><item><title>Putin Visits Islands Seized from Japan in World War II, Angering Tokyo</title><link>https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/13/multimedia/13int-japan-russia-ftjb/13int-japan-russia-ftjb-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+A Russian state media photo released on Thursday showed President Vladimir V. Putin of Russia visiting a contested island.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html</guid><pubDate>Thu, 13 Aug 2026 01:56:13 +0000</pubDate></item><item><title>The Man on a Mission to Build India’s Most Livable City</title><link>https://www.nytimes.com/2026/08/13/world/asia/india-amravati-livable-city-andhra-pradesh.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/13/multimedia/13int-india-city-phlq/13int-india-city-phlq-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 The construction site for a tech hub labeled “Quantum Valley” in Amaravati, Andhra Pradesh, India.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/13/world/asia/india-amravati-livable-city-andhra-pradesh.html</guid><pubDate>Wed, 12 Aug 2026 19:12:21 +0000</pubDate></item><item><title>A Patient’s Final Breath in a Congolese Ebola Ward</title><link>https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/13/world/asia/india-amravati-livable-city-andhra-pradesh.html</guid><pubDate>Thu, 13 Aug 2026 01:17:15 +0000</pubDate></item><item><title>A Patient’s Final Breath in a Congolese Ebola Ward</title><link>https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/12/multimedia/12int-ebola-ward-patient-promo-hkgq/12int-ebola-ward-patient-promo-hkgq-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 The distance between life and death is razor thin at one medical clinic in Rwampara, the heart of the epidemic ravaging the Democratic Republic of Congo.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html</guid><pubDate>Thu, 13 Aug 2026 00:02:03 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html</guid><pubDate>Thu, 13 Aug 2026 00:02:03 +0000</pubDate></item><item><title>How China Remembers Zhu Rongji, the Premier Who Spoke His Mind</title><link>https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/13/multimedia/13int-china-premier-01-hjtf/13int-china-premier-01-hjtf-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+The official obituary of Zhu Rongji, at a newsstand in Beijing on Thursday.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html</guid><pubDate>Thu, 13 Aug 2026 02:21:58 +0000</pubDate></item></channel></rss>
