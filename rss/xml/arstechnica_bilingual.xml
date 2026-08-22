@@ -1,60 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 21 Aug 2026 23:42:18 +0000</lastBuildDate><item><title>Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026 (아마존, 2026년 말까지 미국 500개 지역에 배송 드론 도달 목표)</title><link>https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Amazon-Prime-Air-drone-1152x648.jpeg" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;US residents face trade-offs as delivery drone services such as Prime Air expand.&lt;br/&gt;(프라임 에어(Prime Air)와 같은 배송 드론 서비스가 확대됨에 따라 미국 주민들은 선택의 기로에 서게 됐다.)&lt;/p&gt;
-&lt;p&gt;Amazon wants to grow its Prime Air delivery drone service sixfold to reach nearly 500 cities and towns across the United States by the end of 2026. The planned expansions from Amazon and its rivals could make the convenience of delivery drone services available to tens of millions more people in the coming months—but will also test more communities’ tolerance for increased noise from daily drone flights.&lt;br/&gt;(아마존은 2026년 말까지 미국 전역 약 500개 도시와 마을에 배송 드론 서비스인 프라임 에어를 6배로 확대하고자 한다. 아마존과 경쟁사들의 이러한 계획된 확장은 향후 수개월 내에 수천만 명 이상의 사람들에게 배송 드론 서비스의 편리함을 제공할 수 있을 것으로 보이지만, 동시에 일상적인 드론 비행으로 인한 소음 증가에 대한 지역사회의 인내심을 시험할 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-8월 19일, 아마존은 시카고, 클리블랜드, 애틀랜타, 뉴욕주 시러큐스, 아이다호주 보이시 대도시권에서 곧 프라임 에어를 출시할 것이라고 발표했으며, 올해 말에는 더 많은 지역이 추가될 예정이다. 각 프라임 에어 사이트는 약 175제곱마일 지역 내에서 배송 드론 서비스를 제공하며, 배송 시간은 30분에서 1시간이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프라임 에어는 현재 7개 주 10개 도시의 아마존 창고에서 운영되고 있다. 여기에는 주로 피닉스, 탬파, 캔자스시티, 네브래스카주 오마하, 루이지애나주 배턴루지, 디트로이트, 휴스턴, 텍사스주 샌안토니오, 댈러스, 웨이코의 교외 지역이 포함된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아마존 프라임 에어의 확장은 경쟁사인 월마트가 자체 배송 드론 서비스를 확대하기 위해 윙(Wing) 및 지플라인(Zipline)과 제휴한 가운데 이뤄졌다. 월마트는 최근 4개 주 66개 매장에서 운영한 지 100만 건이 넘는 드론 배송을 돌파하는 이정표를 세웠으며, 2027년까지 270개 이상의 월마트 매장으로 서비스 영역을 확대할 계획이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-별도로, 지플라인은 2029년 말까지 하루 100만 건의 드론 배송을 목표로 우버와의 파트너십을 발표했다. 지플라인은 처음에 아프리카에서 혈액 및 기타 필수 의료 물품의 장거리 드론 배송을 개척한 이후, 미국 내 배송 사업을 꾸준히 확장해 왔으며 이미 전 세계적으로 270만 건 이상의 배송을 완료했다고 주장한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-심지어 도어대시(DoorDash)도 자체 배송 드론 프로그램 구축을 추진하고 있다. 7월, 이 배송 서비스 회사는 자사가 설명하는 '도어대시 에어(DoorDash Air)'를 출시하기 위해 FAA(미국 연방항공청) 파트 135 인증을 받았다고 발표했다. 다만 아직 배송 드론 설계 및 운영 계획 수립 초기 단계에 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국에서 빠르게 확장되는 드론 배송 서비스는 고객에게 1시간 이내, 가장 빠른 경우 수 분 내에 신속한 배송을 약속한다. 이러한 자율 드론은 일반적으로 배터리 전력으로 작동하며, 라스트마일 배송을 위해 도로에 차량을 추가로 투입하지 않으면서도 더 낮은 배출가스와 더 낮은 비용의 운영을 제공할 가능성이 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-그러나 배송 드론은 운반할 수 있는 무게에 여전히 제한이 있다. 예를 들어, 아마존은 자사 드론이 큰 신발 상자에 들어갈 수 있는 5파운드 이하의 거의 모든 물품을 처리할 수 있다고 설명한다. 강풍, 폭우 또는 폭설, 극심한 추위도 드론 운항을 방해할 수 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-또한 드론이 서비스를 제공하는 지역사회에서는 안전, 프라이버시, 특히 소음 공해에 대한 우려가 제기되어 왔다. 미국 기업들이 미 연방항공청의 규제 승인을 받아 전국적으로 배송 드론 서비스를 확대함에 따라 이러한 문제들이 사라질 가능성은 낮아 보인다.
-&lt;&lt;&lt;PARA&gt;&gt;
-지플라인은 자율 드론이 총 1억 마일 이상을 비행했음에도 불구하고 가장 깨끗한 안전 기록을 보유한 것으로 보인다. 이 회사는 드론에 예비 낙하산을 장착하고 있는데, 올해 월마트 주문을 배송하던 중 개별 드론이 문제에 직면했던 몇몇 경우에 유용하게 사용된 것으로 보인다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이에 비해 아마존 프라임 에어의 운영은 FAA와 미 국가교통안전위원회(NTSB)의 조사를 촉발한 여러 안전 사고로 이어졌다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2025년 10월, 아리조나주 톨레슨에서 아마존 배송 드론 2대가 공사 중인 고정 크레인에 충돌했으며, 2025년 11월에는 또 다른 배송 드론이 웨이코에서 가공 인터넷 케이블을 끊어뜨렸다. 이러한 사고에 대한 연방 정부의 조사는 현재 진행 중이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-CNBC가 입수한 3월 내부 직원 회의 녹취록에서 아마존 프라임 에어 담당 부사장인 데이비드 카본은 "우리는 알고리즘을 훈련했고 꽤 자신이 있었지만, 실제 현장에서 성능이 충분하지 않다는 것을 발견했다. 말하자면, 그것은 겸손함을 배우는 경험이었다"고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-가장 최근의 사고로는 2026년 2월 텍사스주 리처드슨에서 수직 상승 중이던 아마존 배송 드론이 아파트 건물과 충돌한 후 지상에 떨어진 사건이 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-알파벳 소유의 윙은 2022년 9월 호주 브리즈번에서 한 음식 배송 드론이 가공 전력선 위에 착륙한 후 화재가 발생하는 등 최소 한 건의 주목할 만한 안전 사고를 겪었다. 이로 인해 에너지 회사 에너젝스(Energex)는 약 2,000명의 전기 공급을 일시적으로 중단해야 했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-또한 월마트 주문을 배송하던 윙 배송 드론이 2026년 3월 텍사스주 케마에서 잔디밭에 추락하여 화재가 발생했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-배송 드론에 대한 가장 흔한 불만은 안전보다는 지속적인 소음에 관한 것이다. 일부 사람들은 집 위로 하루에 여러 번 배송 드론 소리를 듣는다고 묘사했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미시간주 헤이즐 파크에 거주하는 조슈아 브렌트는 TV 방송국 WDIV와의 인터뷰에서 "제 집 위 20피트 상공에서 하루 50번, 마치 날아다니는 잎사귀 송풍기나 잔디 깎는 기계 소리가 나는 것과 같습니다. 제 개들은 정신을 잃고 화를 냅니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-레딧(Reddit)의 지역사회 중심 서브레딧에도 배송 드론 소음에 관한 여러 게시물이 올라와 있다. 윙과 지플라인 드론이 언급되기도 하지만, 많은 게시물은 아마존 배송 드론의 소음에 집중하는 경향이 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미시간주 로열 오크(Royal Oak) 서브레딧에서 레딧 사용자 Puzzleheaded_Belt740은 "어떤 날은 15분마다 5~6번 오가는 소리를 듣습니다. 정말 시끄러워요. 작은 헬리콥터가 맴도는 것 같은 소리입니다"라고 댓글을 달았다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일부 레딧 사용자들은 아마존 고객 서비스에 집 주변으로 드론 경로를 변경해 달라고 요청했지만 큰 성과가 없었다고 묘사했다. 다른 이들은 FAA에 소음 민원을 제기했다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-텍사스주 리처드슨 서브레딧에서 레딧 사용자 le_artista는 "우리 동네의 실제 거리 교통보다 더 자주 들립니다. 이는 우리 집의 분위기를 적극적으로 바꿔 놓았습니다. 한 기업이 원치 않고 요청하지도 않은 소음으로 우리 집을 방해하는데, 이를 막을 방법이 없는 것 같습니다"라고 썼다.
-&lt;&lt;&lt;PARA&gt;&gt;
-리처드슨의 여러 지역 주민들은 6월에 프라임 에어 운영으로 인한 소음에 대한 공개 항의 시위를 열기도 했다. 아마존은 배송 드론 서비스 출시 전 공공 홍보 노력과 지역사회 우려에 계속 소통할 의사가 있음을 설명하며 대응했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-일부 사람들은 드론이 뒷마당 위를 지속적으로 비행하거나 맴도는 것에 대한 프라이버시 우려도 표명했다. 로열 오크 서브레딧에서 레딧 사용자 redheadjo8은 "뒷마당에서 선탠을 하고 있었는데 드론 4대가 집 위로 지나가서 너무 소름 끼쳐서 결국 안으로 들어갔습니다"라고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아마존은 자사 배송 드론이 개인을 추적하거나 사람들의 움직임을 기록하지 않고, 오직 항법, 장애물 감지, 패키지 투하를 위해서만 온보드 카메라와 센서를 사용한다고 설명해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-프라임 에어 서비스 확장에 관한 아마존 뉴스 기사에 따르면 "누구도 모니터링하는 실시간 카메라 피드는 없습니다. 온보드 카메라 데이터는 안전한 항법을 위해 드론 자체가 처리합니다"라고 한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-향후 몇 달 안에 얼마나 많은 사람들이 지역 시의회나 FAA에 우려를 표명하는지 지켜볼 가치가 있다. FAA의 최신 데이터에 따르면 드론에 대한 총 등록 소음 민원 및 문의 수는 여전히 헬리콥터나 고정익 항공기 소음 민원에 비해 상대적으로 적다. 그러나 미국 내 배송 드론 운영이 계속 전국적으로 확대됨에 따라 이는 바뀔 수 있다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Amazon-Prime-Air-drone-1152x648.jpeg" length="0" type="image/jpeg"/><pubDate>Wed, 19 Aug 2026 13:02:38 +0000</pubDate></item><item><title>NASA calls off mission to rescue Swift gamma-ray observatory (NASA, 스위프트 감마선 관측 위성 구조 임무 중단 발표)</title><link>https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ars Technica Bilingual Feed</title><link>https://feeds.arstechnica.com/arstechnica/index</link><description>Ars Technica articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 22 Aug 2026 01:48:55 +0000</lastBuildDate><item><title>NASA calls off mission to rescue Swift gamma-ray observatory (NASA, 스위프트 감마선 관측 위성 구조 임무 중단 발표)</title><link>https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-1152x648.jpg" alt="Article image"/&gt;&lt;/p&gt;
 &lt;p&gt;Without a rescue, NASA’s Swift Observatory is expected to reenter the atmosphere later this year.&lt;br/&gt;(구조 없이는 NASA의 스위프트 관측 위성이 올해 말 대기권에 재진입할 것으로 예상된다.)&lt;/p&gt;
 &lt;p&gt;NASA and Katalyst Space Technologies announced Wednesday they are giving up on a robotic mission to rescue the Swift gamma-ray telescope before it falls out of orbit.&lt;br/&gt;(NASA와 Katalyst 스페이스 테크놀로지스는 수요일, 스위프트 감마선 망원경이 궤도에서 이탈하기 전에 이를 구조하기 위한 로봇 임무를 포기한다고 발표했다.)&lt;/p&gt;
 &lt;p&gt;The rescue satellite, named Link, launched July 3 on a journey to fly up to NASA’s Neil Gehrels Swift Observatory, capture it with three robotic arms, and boost its orbit high enough to escape a looming reentry. Link is about the size of a refrigerator, with two power-generating solar arrays and three xenon-fueled electric thrusters to send Swift into a safer, higher orbit.&lt;br/&gt;(링크라는 이름의 구조 위성은 7월 3일 발사되어 NASA의 닐 게렐스 스위프트 관측 위성까지 비행해, 세 개의 로봇 팔로 이를 포착한 후 다가오는 재진입을 피할 수 있을 만큼 높은 궤도로 끌어올리는 임무를 수행할 예정이었다. 링크는 냉장고 크기로, 두 개의 태양광 패널과 스위프트를 더 안전하고 높은 궤도로 보내기 위한 세 개의 크세논 연료 전기 추력기를 장착하고 있다.)&lt;/p&gt;
@@ -576,4 +521,34 @@ FTC는 이러한 우려 중 일부를 해결하기 위해 정책 성명서를 �
 그래서 이는 분명히 잘못된 모델이지만 유용한 모델의 사례로 보인다.
 &lt;&lt;&lt;PARA&gt;&gt;
 Science Advances, 2026. DOI: 10.1126/sciadv.aeg8096 ( DOI 정보 ).)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 21 Aug 2026 11:26:46 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376-1152x648.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 21 Aug 2026 11:26:46 +0000</pubDate></item><item><title>Trump’s space transportation policy calls for new spaceport on federal land (트럼프 우주 수송 정책, 연방 토지에 신규 우주기지 건설 촉구)</title><link>https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg" alt="Article image"/&gt;&lt;/p&gt;
+&lt;p&gt;“We probably need another site that’s capable of heavy and super heavy launch capability.”&lt;br/&gt;("중량 및 초중량 발사 능력을 갖춘 또 다른 기지가 필요할 것입니다.")&lt;/p&gt;
+&lt;p&gt;A new national space transportation policy signed by President Donald Trump on Thursday calls for the development of more spaceports to support more than 1,000 launches and reentries per year by 2030.&lt;br/&gt;(도널드 트럼프 대통령이 목요일에 서명한 새로운 국가 우주 수송 정책은 2030년까지 연간 1,000회 이상의 발사 및 재진입을 지원하기 위한 더 많은 우주기지 개발을 요구합니다.)&lt;/p&gt;
+&lt;p&gt;The presidential memorandum replaces a 2013 policy signed by former President Barack Obama. Both policies share an emphasis on supporting the commercial space industry and underscore the importance of assured access to space. But the launch sector has changed immensely since then. There were 176 orbital launch attempts from US soil last year, nearly 10 times the number in 2013. SpaceX led the pack last year with 165 orbital launches of its Falcon 9 rocket, plus five suborbital test flights of the much larger Starship.&lt;br/&gt;(이 대통령 각서는 버락 오바마 전 대통령이 2013년에 서명한 정책을 대체합니다. 두 정책 모두 상업용 우주 산업 지원에 중점을 두고 있으며 우주 접근 보장의 중요성을 강조합니다. 그러나 그 이후 발사 부문은 엄청나게 변화했습니다. 작년에는 미국 영토에서 176회의 궤도 발사 시도가 있었으며, 이는 2013년의 거의 10배에 해당합니다. 작년에는 스페이스X가 팰컨 9 로켓의 궤도 발사 165회와 훨씬 더 큰 스타십의 준궤도 시험 비행 5회로 선두를 차지했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"2030년까지 우리의 우주 수송 범위는 매년 1,000회 이상의 발사와 재진입을 지원할 수 있도록 성장해야 합니다,"라고 정책은 명시합니다. "이 각서에 명시된 정책들은 미국이 우주에서 계속해서 우위를 점하는 것을 보장할 것입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+예상되는 급증은 통신 서비스, 공중 감시, 우주 기반 표적 지정 및 궤도 데이터 센터에 대한 상업 및 군사 수요에 의해 주도됩니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+국가 우주 수송 정책의 가장 주목할 만한 업데이트는 이러한 높은 전망을 실현할 수 있는 국가의 능력을 강화하는 데 초점을 맞추고 있습니다. 트럼프 행정부는 국방부와 NASA에 "발사 및 재진입 용량과 유연성을 높이기 위해 연방 발사 및 재진입 범위의 인프라 투자를 우선시하고 조정"할 것을 요구합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이러한 연방 우주기지에는 플로리다에서 인접한 부지에 위치한 케이프 커내버럴 우주군 기지와 NASA 케네디 우주 센터가 포함됩니다. 다른 기지로는 캘리포니아의 반덴버그 우주군 기지와 버지니아의 NASA 월롭스 비행 시설이 있습니다. 현재 중량 발사가 가능한 우주기지는 플로리다와 캘리포니아뿐입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+정책 문서는 연방 소유 우주기지에서 더 효율적인 범위 일정 기준을 지원하며, 상업 사용자와 미국 정부 임무의 요구를 균형 있게 조정합니다. 또한 군 당국과 NASA에 "자원의 투명한 배분을 보장하고 발사 용량을 최적화하기 위해 범위 일정을 정기적으로 공개"하도록 지시합니다. 현재 대부분의 로켓 발사 일정은 며칠 또는 몇 주 전까지는 공개되지 않습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+정부는 또한 미국 내 추가 발사 시설의 잠재적 위치를 식별하고, 발사 및 재진입 운영을 영공 및 항공 교통 관제 현대화 노력에 통합하는 것을 개선하며, "중요한 우주 발사 회랑을 위한 우선 영공"을 지정할 것입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+보다 구체적으로, 백악관은 내무부에 연방 토지 재진입 지점으로 지정될 추가 연방 토지를 식별하도록 지시하고 있습니다. 이는 내무부 산하 해양에너지관리국이 지난달 해상 기반 우주 발사 및 재진입 활동을 위한 수중 토지와 폐기된 해양 석유 굴착 장치의 잠재적 사용에 관한 공개 의견을 요청한 데 따른 것입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+지시문의 이 조항은 최근 국방부 연구 결과를 승인하는 것으로 보입니다. 이 연구는 정부가 미국 내에 세 번째 중량 발사 기지를 가질 필요가 있다고 식별했습니다. 이 보고서는 공개되지 않았지만, 트로이 마인크 공군 장관이 5월 하원 군사위원회 청문회에서 이 결과를 설명했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"대체로 말하면, 복원력 측면에서 그리고 케이프조차도 우리가 가진 공간의 한계를 고려할 때, 중량 및 초중량 발사 능력을 갖춘 또 다른 기지가 필요할 것입니다,"라고 마인크는 말했습니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+"용량을 늘려야 할 것입니다,"라고 같은 5월 청문회에서 우주군 최고 장성인 챈스 살츠먼 장군이 말했습니다. "그리고 아마도 그와 연결될 수 있는 것은, 우리가 별도의 발사 장소를 가져야 하고 단지 우리가 가진 두 개의 특정 발사 포트에만 너무 묶여 있지 않아야 할 필요가 있는 지리적 복원력일 것입니다."
+&lt;&lt;&lt;PARA&gt;&gt;
+새 우주 수송 정책의 또 다른 요소는 보다 신속한 발사 운영을 목표로 합니다. 예를 들어 고우선 순위 탑재체가 필요 시 48시간 이내에 궤도에 배치될 수 있으며, 잠재적으로 기존 발사 범위에서 멀리 떨어진 "원정 장소"에서 이루어질 수 있습니다. 로켓 랩과 아스트라와 같은 일부 기업들은 이미 이동식 발사 인프라를 개발 중입니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+이 각서는 또한 달로 및 달에서의 상업 운송에 관한 NASA의 진행 중인 작업을 지원하며, 기관이 미래의 상업용 로봇 및 유인 화성 탐사를 지원하도록 지시합니다.
+&lt;&lt;&lt;PARA&gt;&gt;
+정부는 이미 국가 우주 수송 정책의 다른 원칙을 추진하고 있습니다. 여기에는 연방 범위에서 상업 사용자의 접근을 더 많이 허용하고, 허가 및 환경 검토를 신속히 처리하며, NASA 또는 미군 우주기지에서 운영하는 상업 발사 기업에 사용자 요금을 부과하는 것이 포함됩니다.)&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/</guid><enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg" length="0" type="image/jpeg"/><pubDate>Fri, 21 Aug 2026 14:32:17 +0000</pubDate></item></channel></rss>
