@@ -1,140 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/World_fulltext.xml</link><description>Full-text NYT World articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/World_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 05 Sep 2026 12:59:04 +0000</lastBuildDate><item><title>Inside the Nepal Tunnel Rescue Operation</title><link>https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation-trishuli.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/04/multimedia/04nepal-floods-rescue-logistics-lhvc/04nepal-floods-rescue-logistics-lhvc-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;When the Australian geologist and engineer Arnold Dix was approached by the Nepal authorities to help find those who could be trapped in hydropower project tunnels after a major flood last week, he knew there were several pressing challenges.&lt;/p&gt;
-&lt;p&gt;First, rescuers needed to locate the projects and their entrances, because everything had been “removed” by the force of the flood, Mr. Dix said.&lt;/p&gt;
-&lt;p&gt;“It took us the better part of a day or two, just to figure out where the power stations used to be and also to develop a plan as to how might we save people if they survived,” he said.&lt;/p&gt;
-&lt;p&gt;Hundreds of workers have been missing in the tunnels since last Wednesday, when a glacial collapse sent tsunami-like waves of water mixed with rock and debris through two river valleys, killing more than 1,300 people and leaving more than 4,000 missing in Nepal and neighboring China.&lt;/p&gt;
-&lt;p&gt;Nepal has built a robust hydroelectric industry, harnessing the fast-flowing waters in the Himalayas to generate electricity. Those projects require both manual and engineering work to construct tunnel systems deep into the earth. Many hydropower projects have been constructed along the Bhotekoshi and Trishuli Rivers, which bore the brunt of the flooding.&lt;/p&gt;
-&lt;p&gt;Mr. Dix and his team’s efforts were focused on the Trishuli 3A hydropower project.&lt;/p&gt;
-&lt;p&gt;Mr. Dix’s team relied on engineering drawings of the structures underground, satellite imagery and old charts to try and identify any potential “Goldilocks zones” — a term Mr. Dix used to describe a small subterranean area “where a human being could have survived.”&lt;/p&gt;
-&lt;p&gt;This information would guide rescuers on where to start looking. Most of their efforts have been focused in the project’s cable tunnel — which runs from the underground powerhouse to the transmission grid, he said.&lt;/p&gt;
-&lt;p&gt;CHINA&lt;/p&gt;
-&lt;p&gt;Area of&lt;/p&gt;
-&lt;p&gt;flooding&lt;/p&gt;
-&lt;p&gt;N&lt;/p&gt;
-&lt;p&gt;Area of&lt;/p&gt;
-&lt;p&gt;detail&lt;/p&gt;
-&lt;p&gt;Mt. Everest&lt;/p&gt;
-&lt;p&gt;Kathmandu&lt;/p&gt;
-&lt;p&gt;NEPAL&lt;/p&gt;
-&lt;p&gt;Water intake&lt;/p&gt;
-&lt;p&gt;Starting point of the project&lt;/p&gt;
-&lt;p&gt;INDIA&lt;/p&gt;
-&lt;p&gt;Upper Trishuli 3A&lt;/p&gt;
-&lt;p&gt;hydropower project&lt;/p&gt;
-&lt;p&gt;Water flows to an&lt;/p&gt;
-&lt;p&gt;underground powerhouse&lt;/p&gt;
-&lt;p&gt;through a 2.5-mile-long tunnel.&lt;/p&gt;
-&lt;p&gt;Area of&lt;/p&gt;
-&lt;p&gt;flooding&lt;/p&gt;
-&lt;p&gt;Simle&lt;/p&gt;
-&lt;p&gt;village&lt;/p&gt;
-&lt;p&gt;Underground powerhouse&lt;/p&gt;
-&lt;p&gt;The workers were rescued&lt;/p&gt;
-&lt;p&gt;from another tunnel leading&lt;/p&gt;
-&lt;p&gt;to the powerhouse.&lt;/p&gt;
-&lt;p&gt;0.2 miles&lt;/p&gt;
-&lt;p&gt;N&lt;/p&gt;
-&lt;p&gt;Water intake&lt;/p&gt;
-&lt;p&gt;Starting point of the project&lt;/p&gt;
-&lt;p&gt;Upper Trishuli 3A&lt;/p&gt;
-&lt;p&gt;hydropower project&lt;/p&gt;
-&lt;p&gt;Water flows to an&lt;/p&gt;
-&lt;p&gt;underground powerhouse&lt;/p&gt;
-&lt;p&gt;through a 2.5-mile-long tunnel.&lt;/p&gt;
-&lt;p&gt;Area of&lt;/p&gt;
-&lt;p&gt;flooding&lt;/p&gt;
-&lt;p&gt;Simle&lt;/p&gt;
-&lt;p&gt;village&lt;/p&gt;
-&lt;p&gt;Underground powerhouse&lt;/p&gt;
-&lt;p&gt;The workers were rescued&lt;/p&gt;
-&lt;p&gt;from another tunnel leading&lt;/p&gt;
-&lt;p&gt;to the powerhouse.&lt;/p&gt;
-&lt;p&gt;CHINA&lt;/p&gt;
-&lt;p&gt;Area of&lt;/p&gt;
-&lt;p&gt;flooding&lt;/p&gt;
-&lt;p&gt;Area of&lt;/p&gt;
-&lt;p&gt;detail&lt;/p&gt;
-&lt;p&gt;Mt. Everest&lt;/p&gt;
-&lt;p&gt;Kathmandu&lt;/p&gt;
-&lt;p&gt;NEPAL&lt;/p&gt;
-&lt;p&gt;0.2 miles&lt;/p&gt;
-&lt;p&gt;INDIA&lt;/p&gt;
-&lt;p&gt;0.2 miles&lt;/p&gt;
-&lt;p&gt;N&lt;/p&gt;
-&lt;p&gt;Water intake&lt;/p&gt;
-&lt;p&gt;Starting point of the project&lt;/p&gt;
-&lt;p&gt;Upper Trishuli 3A&lt;/p&gt;
-&lt;p&gt;hydropower project&lt;/p&gt;
-&lt;p&gt;Water flows to an&lt;/p&gt;
-&lt;p&gt;underground powerhouse&lt;/p&gt;
-&lt;p&gt;through a 2.5-mile-long&lt;/p&gt;
-&lt;p&gt;tunnel.&lt;/p&gt;
-&lt;p&gt;Simle&lt;/p&gt;
-&lt;p&gt;village&lt;/p&gt;
-&lt;p&gt;Area of&lt;/p&gt;
-&lt;p&gt;flooding&lt;/p&gt;
-&lt;p&gt;Underground powerhouse&lt;/p&gt;
-&lt;p&gt;The workers were rescued&lt;/p&gt;
-&lt;p&gt;from another tunnel leading&lt;/p&gt;
-&lt;p&gt;to the powerhouse.&lt;/p&gt;
-&lt;p&gt;CHINA&lt;/p&gt;
-&lt;p&gt;Area of&lt;/p&gt;
-&lt;p&gt;flooding&lt;/p&gt;
-&lt;p&gt;Area of&lt;/p&gt;
-&lt;p&gt;detail&lt;/p&gt;
-&lt;p&gt;Mt. Everest&lt;/p&gt;
-&lt;p&gt;Kathmandu&lt;/p&gt;
-&lt;p&gt;NEPAL&lt;/p&gt;
-&lt;p&gt;INDIA&lt;/p&gt;
-&lt;p&gt;Area of&lt;/p&gt;
-&lt;p&gt;flooding&lt;/p&gt;
-&lt;p&gt;CHINA&lt;/p&gt;
-&lt;p&gt;Mt. Everest&lt;/p&gt;
-&lt;p&gt;Area of&lt;/p&gt;
-&lt;p&gt;detail&lt;/p&gt;
-&lt;p&gt;NEPAL&lt;/p&gt;
-&lt;p&gt;Kathmandu&lt;/p&gt;
-&lt;p&gt;INDIA&lt;/p&gt;
-&lt;p&gt;N&lt;/p&gt;
-&lt;p&gt;0.2 miles&lt;/p&gt;
-&lt;p&gt;Area of&lt;/p&gt;
-&lt;p&gt;flooding&lt;/p&gt;
-&lt;p&gt;Water intake&lt;/p&gt;
-&lt;p&gt;Starting point of the project&lt;/p&gt;
-&lt;p&gt;Upper&lt;/p&gt;
-&lt;p&gt;Trishuli 3A&lt;/p&gt;
-&lt;p&gt;hydropower&lt;/p&gt;
-&lt;p&gt;project&lt;/p&gt;
-&lt;p&gt;Water flows to an&lt;/p&gt;
-&lt;p&gt;underground powerhouse&lt;/p&gt;
-&lt;p&gt;through a 2.5-mile-long&lt;/p&gt;
-&lt;p&gt;tunnel.&lt;/p&gt;
-&lt;p&gt;Simle&lt;/p&gt;
-&lt;p&gt;village&lt;/p&gt;
-&lt;p&gt;Underground powerhouse&lt;/p&gt;
-&lt;p&gt;The workers were rescued&lt;/p&gt;
-&lt;p&gt;from another tunnel leading&lt;/p&gt;
-&lt;p&gt;to the powerhouse.&lt;/p&gt;
-&lt;p&gt;Sources: Nepal Electricity Authority; Satellite image by Airbus via Google&lt;/p&gt;
-&lt;p&gt;Pablo Robles /The New York Times&lt;/p&gt;
-&lt;p&gt;Mr. Dix is now en route to Kathmandu from Australia to help with rescue efforts on the ground. He has advised on major underground rescue operations around the world, including a tunnel collapse in the Himalayas three years ago, when 41 workers were rescued after being trapped for 17 days.&lt;/p&gt;
-&lt;p&gt;This operation has been slow and difficult work, he said. Rescuers have had to dig through mud and use explosives to blast through rocks “the size of cars.” Once inside the tunnel, they were faced with water that needed to be drained, he added.&lt;/p&gt;
-&lt;p&gt;“We had to dig a huge drainage canal back to the river — the new river which is now not where it used to be — because we were worried that the tunnel was full of water, and it would drown us, or maybe drown people who were ahead of us in the tunnel,” Mr. Dix said.&lt;/p&gt;
-&lt;p&gt;Rescuers then were able to create a small gap along the top of the cable tunnel through which they could crawl, calling to any survivors.&lt;/p&gt;
-&lt;p&gt;Those immense efforts paid off on Friday.&lt;/p&gt;
-&lt;p&gt;Mr. Dix said rescuers heard the “faint sound of someone in Nepalese acknowledging” their calls.&lt;/p&gt;
-&lt;p&gt;A short time later, at least two workers were found alive. They have been flown to Kathmandu for treatment. One is in a critical condition.&lt;/p&gt;
-&lt;p&gt;One of the rescued, Sanjay Sah, is a mechanical foreman and the other, Kabir Maharjan, is a mechanical supervisor, according to a list seen by The New York Times. Both were employees of the Nepal Electricity Authority, according to the list.&lt;/p&gt;
-&lt;p&gt;More than 40 people were thought to be inside the tunnel, according to two people briefed on the rescue operations, including a senior Nepali Army officer. Rescuers also heard other voices in the tunnel, the people said, kindling hope that more people could be saved. It was not clear how many were still alive.&lt;/p&gt;
-&lt;p&gt;“I was in tears, of course,” Mr. Dix said of the moment he found out the good news.&lt;/p&gt;
-&lt;p&gt;For both survivors, challenges remain, he said. “They don’t know what’s happened; they’ve been cut off from the world the whole time, they’ve been trapped in the dark for more than a week,” he said.&lt;/p&gt;
-&lt;p&gt;“They’re going to find out that thousands of people have died, including their friends and colleagues,” he added.&lt;/p&gt;
-&lt;p&gt;There will be no rest for Mr. Dix. Once he arrives in Kathmandu on Friday evening, he will put what he has learned from this rescue “into strategies about how we might go and help other power stations.”&lt;/p&gt;
-&lt;p&gt;He said the efforts of the rescue team were extraordinary, adding, “we’re performing miracles out there.”&lt;/p&gt;
-&lt;p&gt;Anupreeta Das contributed reporting.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation-trishuli.html</guid><pubDate>Fri, 04 Sep 2026 12:59:13 +0000</pubDate></item><item><title>U.N. Approves African Proposal for a New World Map</title><link>https://www.nytimes.com/2026/09/04/world/africa/world-map-projection-africa.html</link><description>&lt;![CDATA[
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/World_fulltext.xml</link><description>Full-text NYT World articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/World_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 05 Sep 2026 15:07:45 +0000</lastBuildDate><item><title>U.N. Approves African Proposal for a New World Map</title><link>https://www.nytimes.com/2026/09/04/world/africa/world-map-projection-africa.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/04/world/africa/04vid-maps-africa-cover-image/04vid-maps-africa-cover-image-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;The United Nations General Assembly on Friday endorsed a world map that depicts the size of Africa more accurately than the map most commonly used now.&lt;/p&gt;
 &lt;p&gt;The assembly approved a resolution favoring the Equal Earth projection, a map that supporters say shows the true size of countries, over the familiar Mercator map, which shrinks regions near the Equator. It passed with 164 votes in favor and six abstentions, according to Reuters. The only nation that voted against the resolution was the United States, which said the map promoted an “ideological agenda” and was a distraction from the “genuine problems of international peace, prosperity or good relations,” Reuters reported.&lt;/p&gt;
@@ -416,7 +281,13 @@
 &lt;p&gt;A Times Insider column looks behind the scenes of our reporting for an article about drug use on the music festival scene at Shambhala Music, a weekend rave on a ranch in British Columbia in July.&lt;/p&gt;
 &lt;p&gt;How are we doing?We’re eager to have your thoughts about this newsletter and events in Canada in general. Please send them to nytcanada@nytimes.com.&lt;/p&gt;
 &lt;p&gt;Like this email?Forward it to your friends, and let them know they can sign up here.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/canada/stolen-cars-canada-russia-trade-war-tariffs.html</guid><pubDate>Sat, 05 Sep 2026 01:00:12 +0000</pubDate></item><item><title>A Glitz-Free Place Named for Trump? Welcome to the Golan Heights.</title><link>https://www.nytimes.com/2026/09/05/world/middleeast/israel-golan-trump-heights.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/canada/stolen-cars-canada-russia-trade-war-tariffs.html</guid><pubDate>Sat, 05 Sep 2026 01:00:12 +0000</pubDate></item><item><title>Huckabee Condemns ‘Terrorist’ Attacks on Palestinians in West Bank Town Hall</title><link>https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/05/multimedia/05int-westbank-huckabee-1-blzt/05int-westbank-huckabee-1-blzt-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+The U.S. ambassador to Israel, Mike Huckabee, center right, meeting residents of Turmus Ayya, a Palestinian town near Ramallah in the Israeli-occupied West Bank that is home to many American citizens, on Saturday.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html</guid><pubDate>Sat, 05 Sep 2026 06:02:24 +0000</pubDate></item><item><title>Families Turn to Symbolic Cremation After Nepal Floods</title><link>https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/04/multimedia/04int-nepal-rites-hlcq/04int-nepal-rites-hlcq-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+Darshan Bhattarai, center left, and Kamala Bhattarai, center right, at a cremation ceremony for Pushpa Raj Bhattarai at Pashupatinath Temple in Kathmandu, Nepal, on Thursday.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html</guid><pubDate>Sat, 05 Sep 2026 06:01:31 +0000</pubDate></item><item><title>A Glitz-Free Place Named for Trump? Welcome to the Golan Heights.</title><link>https://www.nytimes.com/2026/09/05/world/middleeast/israel-golan-trump-heights.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/07/30/multimedia/xxint-israel-trump-heights-01-cpzv/xxint-israel-trump-heights-01-cpzv-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Seven years ago, Israel announced with great fanfare the establishment of Trump Heights, a settlement named for the glitz-loving American president. Today, despite the name, the place is about as far from the Trump aesthetic as imaginable.&lt;/p&gt;
 &lt;p&gt;The community is home to about 27 families living in a tight cluster of spartan, prefabricated homes in the rugged north of the Israeli-controlled Golan Heights, a few miles from the volatile frontiers with Lebanon and Syria.&lt;/p&gt;
@@ -637,7 +508,7 @@
 &lt;p&gt;There had been about a month of relative calm in the conflict between Iran and the United States until late August, when the two sides traded fire. This week, U.S. forces carried out a barrage of strikes in retaliation for Iranian attacks on ships and American forces in the region.&lt;/p&gt;
 &lt;p&gt;One of the strikes hit a wedding in southern Iran, killing five people and wounding dozens, according to Iranian officials.&lt;/p&gt;
 &lt;p&gt;President Trump issued a renewed threat to Iran on Friday, saying that the United States may strike Pickaxe Mountain, a suspected Iranian nuclear site, “very soon.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html</guid><pubDate>Sat, 05 Sep 2026 02:39:55 +0000</pubDate></item><item><title>Secret Dossier Adds to Evidence of Chemical Weapons in Sudan</title><link>https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html</guid><pubDate>Sat, 05 Sep 2026 06:04:39 +0000</pubDate></item><item><title>Secret Dossier Adds to Evidence of Chemical Weapons in Sudan</title><link>https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/02/multimedia/00sudan-cw-jfqz/00sudan-cw-jfqz-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Secretive bomb tests in the Sudanese desert. Suffocated scorpions, found dead on the floor of a weapons factory. Chlorine canisters taken from a water treatment plant in the war-torn capital.&lt;/p&gt;
 &lt;p&gt;Sudan’s military has long denied American accusations that it used chemical weapons as part of the country’s devastating civil war. That accusation brought punishing U.S. sanctions on Sudan and its army chief, Gen. Abdel Fattah al-Burhan. Yet the United States has never publicly substantiated the claim with proof.&lt;/p&gt;
@@ -728,7 +599,7 @@
 &lt;p&gt;That Mr. Orr’s reported comments in the recording appear to depart from ethical standards may be the result of loose talk or naiveté, Mr. Furedi argued, adding that to use them “as a basis to make hard and fast judgments about the moral status of the individual is wrong.”&lt;/p&gt;
 &lt;p&gt;Others were not so charitable.&lt;/p&gt;
 &lt;p&gt;“He was supposed to be in charge of policy. We haven’t seen that much policy, so maybe we know why: He had extracurricular activities,” Mr. Montgomerie said. “On a human level, I feel quite sad for him, but he was the author of his own downfall.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html</guid><pubDate>Sat, 05 Sep 2026 00:29:27 +0000</pubDate></item><item><title>Trump Envoys Arrive in Moscow for Talks on Ukraine War</title><link>https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html</guid><pubDate>Sat, 05 Sep 2026 00:29:28 +0000</pubDate></item><item><title>Trump Envoys Arrive in Moscow for Talks on Ukraine War</title><link>https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/05/multimedia/05int-russia-meeting-placeholder-lwjb/05int-russia-meeting-placeholder-lwjb-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;President Trump’s envoys Steve Witkoff and Jared Kushner arrived in Moscow on Saturday, Russian state news agencies reported, ahead of a planned trip to Kyiv, Ukraine, as they hope to reignite diplomatic efforts to end the war there.&lt;/p&gt;
 &lt;p&gt;Mr. Witkoff, the president’s special envoy, and Mr. Kushner, Mr. Trump’s son-in-law, are making their first trip to Russia since January. A month after that visit, U.S.-backed peace negotiations went into a deep freeze when the United States and Israel attacked Iran.&lt;/p&gt;
@@ -742,4 +613,4 @@
 &lt;p&gt;But the war appears far away from any resolution.&lt;/p&gt;
 &lt;p&gt;Speaking on Friday, Dmitri S. Peskov, Mr. Putin’s spokesman, praised “the good will of the Americans” who, he said, “are ready to continue their mediation efforts.” But Mr. Peskov said Russia would continue to insist that Ukraine withdraw its troops from the Donetsk and Luhansk regions, in the country’s east, before any cease-fire could occur — a demand that Ukraine has rejected.&lt;/p&gt;
 &lt;p&gt;Mr. Peskov’s comments followed statements on Thursday by Mr. Putin, who said that regardless of American mediation efforts, “Russia and Ukraine must first reach an agreement between themselves.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html</guid><pubDate>Sat, 05 Sep 2026 03:40:22 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html</guid><pubDate>Sat, 05 Sep 2026 05:24:08 +0000</pubDate></item></channel></rss>
