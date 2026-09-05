@@ -1,84 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/World_fulltext.xml</link><description>Full-text NYT World articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/World_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 05 Sep 2026 15:07:45 +0000</lastBuildDate><item><title>U.N. Approves African Proposal for a New World Map</title><link>https://www.nytimes.com/2026/09/04/world/africa/world-map-projection-africa.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/04/world/africa/04vid-maps-africa-cover-image/04vid-maps-africa-cover-image-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;The United Nations General Assembly on Friday endorsed a world map that depicts the size of Africa more accurately than the map most commonly used now.&lt;/p&gt;
-&lt;p&gt;The assembly approved a resolution favoring the Equal Earth projection, a map that supporters say shows the true size of countries, over the familiar Mercator map, which shrinks regions near the Equator. It passed with 164 votes in favor and six abstentions, according to Reuters. The only nation that voted against the resolution was the United States, which said the map promoted an “ideological agenda” and was a distraction from the “genuine problems of international peace, prosperity or good relations,” Reuters reported.&lt;/p&gt;
-&lt;p&gt;The new map has supporters in Africa, who say the Mercator projection has contributed to a historical bias that has minimized tropical and equatorial regions and exaggerated the size of countries near the poles.&lt;/p&gt;
-&lt;p&gt;The U.N. resolution does not outlaw the Mercator projection or require the use of the Equal Earth map. But it is part of a campaign to raise awareness of the effects of visual representations of the Earth on how people view the world.&lt;/p&gt;
-&lt;p&gt;Here’s what to know about the debate.&lt;/p&gt;
-&lt;p&gt;The projection, one of many ways to represent the spherical Earth on a flat plane, was designed by the Flemish cartographer Gerardus Mercator in 1569 to help sailors navigate.&lt;/p&gt;
-&lt;p&gt;It was created by projecting the Earth’s features onto a cylinder, then flattening that into a rectangle.&lt;/p&gt;
-&lt;p&gt;The map was invaluable for seafaring: Any straight line drawn on the map represents a compass direction that sailors can use to determine which way to go. The projection has since become widely used in books, classrooms and online services like Google Maps.&lt;/p&gt;
-&lt;p&gt;Mercator projection&lt;/p&gt;
-&lt;p&gt;Equal Earth projection&lt;/p&gt;
-&lt;p&gt;Greenland&lt;/p&gt;
-&lt;p&gt;Europe&lt;/p&gt;
-&lt;p&gt;North&lt;/p&gt;
-&lt;p&gt;America&lt;/p&gt;
-&lt;p&gt;Asia&lt;/p&gt;
-&lt;p&gt;North&lt;/p&gt;
-&lt;p&gt;America&lt;/p&gt;
-&lt;p&gt;Europe&lt;/p&gt;
-&lt;p&gt;Africa&lt;/p&gt;
-&lt;p&gt;Asia&lt;/p&gt;
-&lt;p&gt;Africa&lt;/p&gt;
-&lt;p&gt;South&lt;/p&gt;
-&lt;p&gt;America&lt;/p&gt;
-&lt;p&gt;Australia&lt;/p&gt;
-&lt;p&gt;South&lt;/p&gt;
-&lt;p&gt;America&lt;/p&gt;
-&lt;p&gt;Australia&lt;/p&gt;
-&lt;p&gt;Mercator projection&lt;/p&gt;
-&lt;p&gt;Greenland&lt;/p&gt;
-&lt;p&gt;Europe&lt;/p&gt;
-&lt;p&gt;North&lt;/p&gt;
-&lt;p&gt;America&lt;/p&gt;
-&lt;p&gt;Africa&lt;/p&gt;
-&lt;p&gt;South&lt;/p&gt;
-&lt;p&gt;America&lt;/p&gt;
-&lt;p&gt;Australia&lt;/p&gt;
-&lt;p&gt;Equal Earth projection&lt;/p&gt;
-&lt;p&gt;Europe&lt;/p&gt;
-&lt;p&gt;North&lt;/p&gt;
-&lt;p&gt;America&lt;/p&gt;
-&lt;p&gt;Asia&lt;/p&gt;
-&lt;p&gt;Africa&lt;/p&gt;
-&lt;p&gt;South&lt;/p&gt;
-&lt;p&gt;America&lt;/p&gt;
-&lt;p&gt;Australia&lt;/p&gt;
-&lt;p&gt;Mercator projection&lt;/p&gt;
-&lt;p&gt;Greenland&lt;/p&gt;
-&lt;p&gt;North&lt;/p&gt;
-&lt;p&gt;America&lt;/p&gt;
-&lt;p&gt;Europe&lt;/p&gt;
-&lt;p&gt;Asia&lt;/p&gt;
-&lt;p&gt;Africa&lt;/p&gt;
-&lt;p&gt;South&lt;/p&gt;
-&lt;p&gt;America&lt;/p&gt;
-&lt;p&gt;Australia&lt;/p&gt;
-&lt;p&gt;Equal Earth projection&lt;/p&gt;
-&lt;p&gt;Europe&lt;/p&gt;
-&lt;p&gt;North&lt;/p&gt;
-&lt;p&gt;America&lt;/p&gt;
-&lt;p&gt;Asia&lt;/p&gt;
-&lt;p&gt;Africa&lt;/p&gt;
-&lt;p&gt;South&lt;/p&gt;
-&lt;p&gt;America&lt;/p&gt;
-&lt;p&gt;Australia&lt;/p&gt;
-&lt;p&gt;By Weiyi Cai&lt;/p&gt;
-&lt;p&gt;Every map projection makes sacrifices, like shape, size or distance: You can’t flatten a round object without somehow stretching, shrinking or tearing it. The Mercator projection reflects true directions but distorts the size of landmasses.&lt;/p&gt;
-&lt;p&gt;If you had a Mercator projection on your classroom wall, you might have grown up believing that Greenland, for example, is as big as Africa, even though it is one-14th its size. You might also think that Alaska is bigger than Mexico, when it is 25 percent smaller.&lt;/p&gt;
-&lt;p&gt;Critics have argued that the Mercator map creates a subtle bias whereby northern nations, including some of the world’s wealthiest, appear large and equatorial regions, home mostly to developing countries, are depicted as small. Some cartographers say it reinforces a Eurocentric and colonial worldview.&lt;/p&gt;
-&lt;p&gt;The Equal Earth projection — created in 2018 by the cartographers Bojan Savric, Bernhard Jenny and Tom Patterson — sacrifices straight-line directions in order to render landmasses in their correct proportions. It has rounded edges to account for the Earth’s spherical shape instead of a rectangle.&lt;/p&gt;
-&lt;p&gt;Advocacy groups in Africa have campaigned to replace the Mercator map since April 2025. The African Union endorsed the campaign in August that year, urging its 55 member states to adopt the Equal Earth map in schools and public communications. The West African nation of Togo sponsored the U.N. resolution, backed by other countries in the African Union.&lt;/p&gt;
-&lt;p&gt;“A map is never neutral,” Robert Dussey, the foreign minister of Togo, said on Thursday, promoting the U.N. resolution. “It shapes perceptions, influences how the place of peoples and continents in the world is understood and may, sometimes from the earliest years of schooling, perpetuate representations that do not correspond to geographic reality.”&lt;/p&gt;
-&lt;p&gt;The resolution before the U.N. General Assembly calls on the more than 190 member states to update their educational materials and educate students about the accurate sizes of countries and the limitations of different map projections.&lt;/p&gt;
-&lt;p&gt;It also urges major digital map providers to discuss the issue with governments and adopt more accurate cartographic representations.&lt;/p&gt;
-&lt;p&gt;The resolution is not binding. But the push to replace the Mercator map has made progress in other ways.&lt;/p&gt;
-&lt;p&gt;Google, which used a Mercator-based map for more than a decade, shifted in 2018 to showing the Earth as a globe when zoomed out on the desktop platform. “Greenland’s projection is no longer the size of Africa,” the company said on social media.&lt;/p&gt;
-&lt;p&gt;Some schools have begun replacing Mercator maps. Boston Public Schools in 2017 began purchasing maps with the Peters projection, which shows countries in their correct proportional sizes to one another at the cost of stretching and squashing their outlines.&lt;/p&gt;
-&lt;p&gt;The shift was part of the district’s effort to “decolonize the curriculum,” Colin Rose, then a district administrator, told The Boston Globe.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/04/world/africa/world-map-projection-africa.html</guid><pubDate>Fri, 04 Sep 2026 16:26:14 +0000</pubDate></item><item><title>Philippines’ Vice President Faces Arrest Over Assassination Threats</title><link>https://www.nytimes.com/2026/09/04/world/asia/sara-duterte-arrest-warrant-philippines.html</link><description>&lt;![CDATA[
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Full-Text Feed</title><link>file:///Users/purp/Downloads/translator/xml/World_fulltext.xml</link><description>Full-text NYT World articles</description><atom:link href="file:///Users/purp/Downloads/translator/xml/World_fulltext.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 05 Sep 2026 17:10:18 +0000</lastBuildDate><item><title>Philippines’ Vice President Faces Arrest Over Assassination Threats</title><link>https://www.nytimes.com/2026/09/04/world/asia/sara-duterte-arrest-warrant-philippines.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/04/world/04int-philippines-sara-Duterte-001/04int-philippines-sara-Duterte-001-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;A Philippine court on Friday ordered the arrest of the country’s vice president, Sara Duterte, over charges that she threatened to have President Ferdinand R. Marcos Jr., the first lady and a former speaker of the House of Representatives assassinated.&lt;/p&gt;
 &lt;p&gt;It was the latest turn in the acrimonious, yearslong feud between Ms. Duterte and Mr. Marcos, former allies who are scions of two Philippine political dynasties.&lt;/p&gt;
@@ -90,37 +11,7 @@
 &lt;p&gt;Around five years ago, Mr. Marcos and Ms. Duterte formed an unlikely alliance that propelled them to the two highest positions in the country. But their partnership collapsed quickly after the election, with both camps hurling accusations of corruption against the other.&lt;/p&gt;
 &lt;p&gt;The acrimony spiraled further last year, when Mr. Marcos facilitated the arrest of his predecessor, Rodrigo Duterte, who is Ms. Duterte’s father. He is facing charges at the International Criminal Court of crimes against humanity over his brutal antidrug campaign.&lt;/p&gt;
 &lt;p&gt;Ms. Duterte has faced other legal issues. She has been impeached twice and is currently facing trial in the Philippine Senate. A conviction would bar her from holding public office. But she remains the leading contender for president in the next election, which is scheduled for 2028.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/04/world/asia/sara-duterte-arrest-warrant-philippines.html</guid><pubDate>Fri, 04 Sep 2026 21:04:47 +0000</pubDate></item><item><title>9 Days After Flood, 2 Men Are Pulled Alive From Mud-Filled Tunnels in Nepal</title><link>https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/04/multimedia/04int-Nepal-flood-leadall-bwjz/04int-Nepal-flood-leadall-bwjz-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;The rescuers heard voices. They crawled through a sludge-filled tunnel deep underground where employees of a hydroelectric plant in Nepal had been trapped for nine days.&lt;/p&gt;
-&lt;p&gt;“We are coming!” Lt. Col. Ganga Baral, one of the leaders of the operation, said he had called out. “Don’t worry, the Nepali Army is coming.”&lt;/p&gt;
-&lt;p&gt;On Friday morning, two mud-caked survivors were rescued from the tunnels and hoisted into the open air, an extraordinary moment captured on video and in photos by the army.&lt;/p&gt;
-&lt;p&gt;The improbable rescue provided a measure of hope a week and a half after a glacial collapse unleashed a tsunami of mud and boulders that killed more than 1,300 people in Nepal and Tibet and left thousands of others missing.&lt;/p&gt;
-&lt;p&gt;The men were rescued from a hydroelectric center buried so deeply in the detritus of the flood that engineers had to use satellite images to pinpoint its location amid the disfigured landscape.&lt;/p&gt;
-&lt;p&gt;Hirashova Maharjan, the wife of Kabir Maharjan, one of the workers rescued, described her husband as deeply disoriented after being airlifted to Kathmandu, the capital, for medical treatment.&lt;/p&gt;
-&lt;p&gt;“He didn’t even recognize me,” she said from the army hospital in Kathmandu. But his condition has since improved, she said.&lt;/p&gt;
-&lt;p&gt;“He is stable now,” she said. “We’re so happy. We are crying with happiness. Thank you to the army and to the government.”&lt;/p&gt;
-&lt;p&gt;The raging floodwaters that erupted on Aug. 26 washed away roads, bridges and, in some cases, entire villages.&lt;/p&gt;
-&lt;p&gt;The two men were rescued from a tunnel in the Upper Trishuli 3A hydropower project. The body of a third man, a mechanical engineer, was also recovered on Friday, according to Dirghayu Kumar Shrestha, the head of the Nepal Electricity Authority.&lt;/p&gt;
-&lt;p&gt;More than 40 other workers were thought to be inside the tunnel, according to Sanjay Sah, one of the rescued men. It was not clear how many were still alive.&lt;/p&gt;
-&lt;p&gt;Mr. Sah was able to answer questions through an oxygen mask. He spoke from a stretcher in a video that was posted to a government ministry’s Facebook page. He said he thought three or four people were still alive in the area where he had been found.&lt;/p&gt;
-&lt;p&gt;“I used to work in the control room as an operator,” he says in the video. “Usually there would be four or five people there, but at the time, there were 40 or 45.”&lt;/p&gt;
-&lt;p&gt;He added: “I tried to get everyone out and tried to warn everyone. But then I ran out of time.”&lt;/p&gt;
-&lt;p&gt;Mr. Sah, who was a mechanical foreman at the hydroelectric plant, said he had recited prayers “over and over again” during his time trapped underground in darkness. “How many days has it been?” he asked.&lt;/p&gt;
-&lt;p&gt;The rescue efforts have been grueling. Images posted by the Nepali Army showed rescuers slithering through sludge deep in the tunnels with hard hats and flashlights. Other rescuers paddled through tunnels in inflatable dinghies, the kind used in white-water rafting.&lt;/p&gt;
-&lt;p&gt;Arnold Dix, an Australian geologist and engineer who is assisting the Nepalese authorities in the rescue operations, said it had taken a day or two to locate the power stations and to develop a plan to rescue the workers.&lt;/p&gt;
-&lt;p&gt;Nepal has a large hydroelectric industry that harnesses the fast-flowing waters in the Himalayas. Many of the projects have tunnel systems deep in the earth along the Bhotekoshi and Trishuli rivers, which bore the brunt of the flooding.&lt;/p&gt;
-&lt;p&gt;Mr. Dix said he had focused on the Trishuli 3A hydropower project, relying on engineering drawings of the structures underground, satellite imagery and old charts to try and identify any potential “Goldilocks zones” — a term he used to describe a small subterranean area “where a human being could have survived.”&lt;/p&gt;
-&lt;p&gt;Most of the rescue efforts have been focused in the project’s cable tunnel, which runs from the underground powerhouse to the transmission grid.&lt;/p&gt;
-&lt;p&gt;The operation has been slow and difficult work, Mr. Dix said. Rescuers have had to dig through mud and use explosives to blast through rocks “the size of cars.” Once inside the tunnel, they were faced with water that had to be drained, he added.&lt;/p&gt;
-&lt;p&gt;Workers had to dig a huge drainage canal back to the river.&lt;/p&gt;
-&lt;p&gt;“We were worried that the tunnel was full of water, and it would drown us, or maybe drown people who were ahead of us in the tunnel,” Mr. Dix said.&lt;/p&gt;
-&lt;p&gt;Rescuers were then able to create a small gap along the top of the cable tunnel through which they could crawl, calling to any survivors. That was the area where rescuers found Mr. Maharjan and Mr. Sah.&lt;/p&gt;
-&lt;p&gt;Mr. Sah’s family had all but given up hope that he might be found alive. Dev Sah, his brother- in-law, said that the family had decided just a day earlier to provide a DNA sample in case his body needed to be identified.&lt;/p&gt;
-&lt;p&gt;On Friday, Dev Sah said he had spoken to the rescued man at the hospital and had to reassure him repeatedly that he was now safe.&lt;/p&gt;
-&lt;p&gt;“He has received a new life today,” Dev Sah said.&lt;/p&gt;
-&lt;p&gt;Mujib Mashal, Alex Travelli and Binod Ghimire contributed reporting.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue.html</guid><pubDate>Fri, 04 Sep 2026 16:05:16 +0000</pubDate></item><item><title>Kenyans Did College Students’ Homework For Years. Then A.I. Arrived.</title><link>https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/04/world/asia/sara-duterte-arrest-warrant-philippines.html</guid><pubDate>Fri, 04 Sep 2026 21:04:47 +0000</pubDate></item><item><title>Kenyans Did College Students’ Homework For Years. Then A.I. Arrived.</title><link>https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Teresios Bundi once symbolized the strange, life-changing opportunities the internet provided.&lt;/p&gt;
 &lt;p&gt;Hailing from a farming village in Kenya, Mr. Bundi moved to the capital, Nairobi, in 2011 to be the first in his family to attend university. There, a friend suggested he try a new online job: writing essays for cheating overseas college students.&lt;/p&gt;
@@ -281,10 +172,7 @@
 &lt;p&gt;A Times Insider column looks behind the scenes of our reporting for an article about drug use on the music festival scene at Shambhala Music, a weekend rave on a ranch in British Columbia in July.&lt;/p&gt;
 &lt;p&gt;How are we doing?We’re eager to have your thoughts about this newsletter and events in Canada in general. Please send them to nytcanada@nytimes.com.&lt;/p&gt;
 &lt;p&gt;Like this email?Forward it to your friends, and let them know they can sign up here.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/canada/stolen-cars-canada-russia-trade-war-tariffs.html</guid><pubDate>Sat, 05 Sep 2026 01:00:12 +0000</pubDate></item><item><title>Huckabee Condemns ‘Terrorist’ Attacks on Palestinians in West Bank Town Hall</title><link>https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/05/multimedia/05int-westbank-huckabee-1-blzt/05int-westbank-huckabee-1-blzt-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
-The U.S. ambassador to Israel, Mike Huckabee, center right, meeting residents of Turmus Ayya, a Palestinian town near Ramallah in the Israeli-occupied West Bank that is home to many American citizens, on Saturday.
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html</guid><pubDate>Sat, 05 Sep 2026 06:02:24 +0000</pubDate></item><item><title>Families Turn to Symbolic Cremation After Nepal Floods</title><link>https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/canada/stolen-cars-canada-russia-trade-war-tariffs.html</guid><pubDate>Sat, 05 Sep 2026 01:00:12 +0000</pubDate></item><item><title>Families Turn to Symbolic Cremation After Nepal Floods</title><link>https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/04/multimedia/04int-nepal-rites-hlcq/04int-nepal-rites-hlcq-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
 Darshan Bhattarai, center left, and Kamala Bhattarai, center right, at a cremation ceremony for Pushpa Raj Bhattarai at Pashupatinath Temple in Kathmandu, Nepal, on Thursday.
 ]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html</guid><pubDate>Sat, 05 Sep 2026 06:01:31 +0000</pubDate></item><item><title>A Glitz-Free Place Named for Trump? Welcome to the Golan Heights.</title><link>https://www.nytimes.com/2026/09/05/world/middleeast/israel-golan-trump-heights.html</link><description>&lt;![CDATA[
@@ -496,19 +384,41 @@ Darshan Bhattarai, center left, and Kamala Bhattarai, center right, at a cremati
 &lt;p&gt;If the AfD fails to win a majority of seats in the state Parliament, other parties could band together to form a government, most likely led by the Christian Democrats. That would retain the so-called firewall in German politics, where no other major party will work with the AfD. Mr. Siegmund seemed to be preparing his supporters for such an outcome in rallies this week.&lt;/p&gt;
 &lt;p&gt;But even if the AfD falls short in Saxony-Anhalt, experts said, the forces propelling its rise are unlikely to go away.&lt;/p&gt;
 &lt;p&gt;“People here in eastern Germany are neither more right-wing than people in other federal states, nor are they more authoritarian than in other federal states,” said Mr. Spohn, the political scientist in Magdeburg. “They’re simply more frustrated.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/europe/germany-afd-saxony-anhalt.html</guid><pubDate>Fri, 04 Sep 2026 19:01:07 +0000</pubDate></item><item><title>Iran’s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg</title><link>https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/05/multimedia/05int-iran-tanker-Kharg-htqw/05int-iran-tanker-Kharg-htqw-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;Iran’s state media said Saturday that U.S. forces had struck an Iranian oil tanker off the coast of the strategically important Kharg Island, days after the two sides engaged in the most intense fighting in weeks.&lt;/p&gt;
-&lt;p&gt;The United States has not confirmed the Iranian reports. A spokesman for the U.S. military did not immediately respond to a request for comment.&lt;/p&gt;
-&lt;p&gt;Kharg Island, in the Persian Gulf, is Iran’s primary hub for oil exports, which have been squeezed for weeks by a U.S. naval blockade of Iranian ports.&lt;/p&gt;
-&lt;p&gt;Iranian news outlets, including the state broadcaster, said that at least one American missile had hit the tanker, and published images of a ship emitting black plumes of smoke.&lt;/p&gt;
-&lt;p&gt;Tasnim, a semiofficial news outlet affiliated with Iran’s Islamic Revolutionary Guards Corps, reported that the attack took place on Saturday morning, and that the tanker’s crew had survived and were being evacuated.&lt;/p&gt;
-&lt;p&gt;The reports come as the fate of the Strait of Hormuz, a waterway on Iran’s southern coast, has become central to the conflict between Iran and the United States. The strait previously served as a major shipping route for oil and other key commodities, but Iran has sought to control it since the country was attacked by the United States and Israel earlier this year.&lt;/p&gt;
-&lt;p&gt;The U.S. Navy has been helping ships navigate a southern route through the strait, near the coast of Oman, drawing retaliation from Iran. On Monday, two oil tankers were attacked within minutes of each other while trying to pass through.&lt;/p&gt;
-&lt;p&gt;There had been about a month of relative calm in the conflict between Iran and the United States until late August, when the two sides traded fire. This week, U.S. forces carried out a barrage of strikes in retaliation for Iranian attacks on ships and American forces in the region.&lt;/p&gt;
-&lt;p&gt;One of the strikes hit a wedding in southern Iran, killing five people and wounding dozens, according to Iranian officials.&lt;/p&gt;
-&lt;p&gt;President Trump issued a renewed threat to Iran on Friday, saying that the United States may strike Pickaxe Mountain, a suspected Iranian nuclear site, “very soon.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html</guid><pubDate>Sat, 05 Sep 2026 06:04:39 +0000</pubDate></item><item><title>Secret Dossier Adds to Evidence of Chemical Weapons in Sudan</title><link>https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/europe/germany-afd-saxony-anhalt.html</guid><pubDate>Fri, 04 Sep 2026 19:01:07 +0000</pubDate></item><item><title>An Exposé Jolts Reform U.K. and Sidelines the Man Called Farage’s Brain</title><link>https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/05/multimedia/05uk-reform-orr-01-cjfw/05uk-reform-orr-01-cjfw-facebookJumbo.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;A thinker and a theologian, James Orr has ties to both Vice President JD Vance and the tech billionaire Peter Thiel. He served as the head of policy for Nigel Farage’s right-wing populist Reform U.K. party. Some called him Mr. Farage’s brain.&lt;/p&gt;
+&lt;p&gt;Mr. Orr was the academic behind Mr. Farage’s hopes of being Britain’s next prime minister. But on Friday, he was suspended by the party.&lt;/p&gt;
+&lt;p&gt;His fall was set off by an undercover exposé, aired on Thursday, that secretly filmed Mr. Orr and another aide, Dan Jukes, discussing how political donations from a man they appeared to think was American could be secretly funneled to benefit the party without disclosure.&lt;/p&gt;
+&lt;p&gt;British law requires all donations to be disclosed and prohibits political contributions from foreign individuals. The American was an actor posing as a donor, according to the British broadcaster Channel 4 News, which aired the video.&lt;/p&gt;
+&lt;p&gt;Reform has denied breaking any law and has accused the broadcaster of a hit job. Mr. Orr has said that he was entrapped by opponents who were “politically motivated to discredit a political vehicle, Reform U.K.” Mr. Orr did not respond to a text message seeking comment on Friday. A spokesman for Reform did not respond to a request for comment about his and Mr. Jukes’s actions on the video.&lt;/p&gt;
+&lt;p&gt;The footage showed Mr. Orr discussing payments with an undercover reporter posing as a British donor and claiming to have a wealthy American father. According to the broadcaster, Mr. Orr suggested that the American parent could finance opinion polling favorable to Reform.&lt;/p&gt;
+&lt;p&gt;“The reality is we could easily get away with it,” Mr. Orr, who is an associate professor of philosophy of religion at Cambridge University, is seen saying.&lt;/p&gt;
+&lt;p&gt;“It’s definitely a tragic story, however much self-inflicted,” said Tim Montgomerie, who was a prominent member of Reform until his suspension last month after criticizing party figures. “A professor who specializes in ethics who’s caught on camera saying: We won’t get caught. It’s unbelievable.”&lt;/p&gt;
+&lt;p&gt;Verbatim, an investigative group founded by journalists from the nonprofit Center for Climate Reporting, conducted the undercover filming. The New York Times has not independently verified the actions in the videos.&lt;/p&gt;
+&lt;p&gt;In the recording, Mr. Orr boasts about his authority inside Reform. “Nigel has asked me to be his senior adviser,” he said. “I’d be one of three people reporting directly to Nigel, so that gives me a lot of — it gives me enormous — power in the party, if I want it. So, basically, the job will be fund-raising. I’m raising a lot of money for the party.”&lt;/p&gt;
+&lt;p&gt;Tim Bale, a professor of politics at Queen Mary University of London, said of Mr. Orr: “He had been touted as Reform’s brain, and it turns out — at least from what he said — that he was heavily involved in fund-raising, which comes as quite a surprise.”&lt;/p&gt;
+&lt;p&gt;The fallout from the undercover filming is the latest recent challenge Reform has faced.&lt;/p&gt;
+&lt;p&gt;The party, which had led opinion polls for more than a year, has seen its popularity dip in recent months after it was revealed that Mr. Farage had accepted a gift of 5 million pounds (about $6.7 million) from a cryptocurrency billionaire, and following other questions about party financing.&lt;/p&gt;
+&lt;p&gt;Mr. Orr was a favorite of Mr. Farage’s, though not just because of his intellect, Mr. Montgomerie said. “Nigel Farage has always been really keen on him,” he added. “I remember him telling me not so long ago that he loves James because he got things done. That certainly fitted with what we watched on Channel 4, that sense of making something happen.”&lt;/p&gt;
+&lt;p&gt;Educated at Winchester College, an elite secondary school, Mr. Orr, now 47, studied at Oxford and then at Cambridge, and worked in corporate law before entering academia.&lt;/p&gt;
+&lt;p&gt;In a 2025 podcast discussing his Christianity, he described a religious awakening more than two decades ago, after interpreting survival from a potentially lethal skiing accident as a sign from God.&lt;/p&gt;
+&lt;p&gt;He is also well connected in right-wing circles in the United States.&lt;/p&gt;
+&lt;p&gt;Mr. Orr recalled in the podcast recent battles against liberal policies at Cambridge and described his friendship with Mr. Vance, whose own memoir about his religious journey, “Communion,” was published this year. Their early conversations were “about religion and God and faith and Catholicism,” said Mr. Orr, who described how he had welcomed the vice president to his home in Cambridge when the American visited Britain.&lt;/p&gt;
+&lt;p&gt;This year, he also hosted Mr. Thiel in Cambridge for what Mr. Orr called a “stunningly original and erudite” set of lectures.&lt;/p&gt;
+&lt;p&gt;“That’s what connected him to Reform in the first place,” Mr. Montgomerie said of Mr. Orr’s connections to well-known right-wing figures in the United States. “Whatever the modern equivalent of a Rolodex is — the contacts book — is definitely what made Reform interested in him.”&lt;/p&gt;
+&lt;p&gt;On Thursday, before the Channel 4 News report, Mr. Orr was a featured speaker at Reform’s annual conference in Birmingham, England.&lt;/p&gt;
+&lt;p&gt;In the early afternoon, he joined Robert Jenrick, who speaks for the party on financial issues, on a panel titled, “What Is Reform’s Economic Vision?” There, Mr. Orr presented himself as an architect of the party.&lt;/p&gt;
+&lt;p&gt;“We’re willing for the first time in a very long time to think outside the box,” he said, describing Reform to a packed crowd of business executives. “We’re not, as it were, being suffocated by the dead hands of legacy party orthodoxy. We’re not worrying about whether we are on the left or whether on the right.”&lt;/p&gt;
+&lt;p&gt;Moments after the hourlong panel ended, Mr. Orr was whisked away to another stage, where he moderated a discussion about Reform’s commitment to spending more on the military.&lt;/p&gt;
+&lt;p&gt;But by Friday morning, Lee Anderson, Reform’s chairman, had announced that Mr. Orr had “stepped back,” along with Mr. Jukes. Mr. Farage later referred to Mr. Orr in a radio interview as simply a “contractor” for the party.&lt;/p&gt;
+&lt;p&gt;In a statement after the exposé, Cambridge said it was “looking into these matters.”&lt;/p&gt;
+&lt;p&gt;Some friends say they believe that Mr. Orr will be back.&lt;/p&gt;
+&lt;p&gt;“I cannot imagine James staying out for a long time because he is very valuable for Reform,” said Frank Furedi, an emeritus professor of sociology at the University of Kent, who described Mr. Orr as a charismatic orator.&lt;/p&gt;
+&lt;p&gt;“One problem Reform has — as all populist organizations — is their relative lack of support among intellectuals particularly, public intellectuals,” he said. He added that “what James believes is that policy needs to be informed by moral and ethical norms.”&lt;/p&gt;
+&lt;p&gt;That Mr. Orr’s reported comments in the recording appear to depart from ethical standards may be the result of loose talk or naiveté, Mr. Furedi argued, adding that to use them “as a basis to make hard and fast judgments about the moral status of the individual is wrong.”&lt;/p&gt;
+&lt;p&gt;Others were not so charitable.&lt;/p&gt;
+&lt;p&gt;“He was supposed to be in charge of policy. We haven’t seen that much policy, so maybe we know why: He had extracurricular activities,” Mr. Montgomerie said. “On a human level, I feel quite sad for him, but he was the author of his own downfall.”&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html</guid><pubDate>Sat, 05 Sep 2026 00:29:28 +0000</pubDate></item><item><title>Secret Dossier Adds to Evidence of Chemical Weapons in Sudan</title><link>https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/02/multimedia/00sudan-cw-jfqz/00sudan-cw-jfqz-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Secretive bomb tests in the Sudanese desert. Suffocated scorpions, found dead on the floor of a weapons factory. Chlorine canisters taken from a water treatment plant in the war-torn capital.&lt;/p&gt;
 &lt;p&gt;Sudan’s military has long denied American accusations that it used chemical weapons as part of the country’s devastating civil war. That accusation brought punishing U.S. sanctions on Sudan and its army chief, Gen. Abdel Fattah al-Burhan. Yet the United States has never publicly substantiated the claim with proof.&lt;/p&gt;
@@ -554,7 +464,22 @@ Darshan Bhattarai, center left, and Kamala Bhattarai, center right, at a cremati
 &lt;p&gt;When the committee submitted its interim report in July, it said it found no trace of chemical weapons.&lt;/p&gt;
 &lt;p&gt;A final report is pending.&lt;/p&gt;
 &lt;p&gt;An employee of The New York Times contributed reporting.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html</guid><pubDate>Sat, 05 Sep 2026 00:02:51 +0000</pubDate></item><item><title>Chinese Worker Rescued From Tunnel in Nepal 10 Days After Floods</title><link>https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html</guid><pubDate>Sat, 05 Sep 2026 00:02:51 +0000</pubDate></item><item><title>Iran’s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg</title><link>https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/05/multimedia/05int-iran-tanker-Kharg-htqw/05int-iran-tanker-Kharg-htqw-facebookJumbo.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;Iran’s state media said Saturday that U.S. forces had struck an Iranian oil tanker off the coast of the strategically important Kharg Island, days after the two sides engaged in the most intense fighting in weeks.&lt;/p&gt;
+&lt;p&gt;The United States has not confirmed the Iranian reports. A spokesman for the U.S. military did not immediately respond to a request for comment.&lt;/p&gt;
+&lt;p&gt;Kharg Island, in the Persian Gulf, is Iran’s primary hub for oil exports, which have been squeezed for weeks by a U.S. naval blockade of Iranian ports.&lt;/p&gt;
+&lt;p&gt;Iranian news outlets, including the state broadcaster, said that at least one American missile had hit the tanker, and published images of a ship emitting black plumes of smoke.&lt;/p&gt;
+&lt;p&gt;Tasnim, a semiofficial news outlet affiliated with Iran’s Islamic Revolutionary Guards Corps, reported that the attack took place on Saturday morning, and that the tanker’s crew had survived and were being evacuated.&lt;/p&gt;
+&lt;p&gt;The reports come as the fate of the Strait of Hormuz, a waterway on Iran’s southern coast, has become central to the conflict between Iran and the United States. The strait previously served as a major shipping route for oil and other key commodities, but Iran has sought to control it since the country was attacked by the United States and Israel earlier this year.&lt;/p&gt;
+&lt;p&gt;The U.S. Navy has been helping ships navigate a southern route through the strait, near the coast of Oman, drawing retaliation from Iran. On Monday, two oil tankers were attacked within minutes of each other while trying to pass through.&lt;/p&gt;
+&lt;p&gt;There had been about a month of relative calm in the conflict between Iran and the United States until late August, when the two sides traded fire. This week, U.S. forces carried out a barrage of strikes in retaliation for Iranian attacks on ships and American forces in the region.&lt;/p&gt;
+&lt;p&gt;One of the strikes hit a wedding in southern Iran, killing five people and wounding dozens, according to Iranian officials.&lt;/p&gt;
+&lt;p&gt;President Trump issued a renewed threat to Iran on Friday, saying that the United States may strike Pickaxe Mountain, a suspected Iranian nuclear site, “very soon.”&lt;/p&gt;
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html</guid><pubDate>Sat, 05 Sep 2026 06:04:39 +0000</pubDate></item><item><title>Huckabee Condemns ‘Terrorist’ Attacks on Palestinians in West Bank Town Hall</title><link>https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html</link><description>&lt;![CDATA[
+&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/05/multimedia/05int-westbank-huckabee-1-blzt/05int-westbank-huckabee-1-blzt-mediumSquareAt3X.jpg"/&gt;&lt;/p&gt;
+The U.S. ambassador to Israel, Mike Huckabee, center right, meeting residents of Turmus Ayya, a Palestinian town near Ramallah in the Israeli-occupied West Bank that is home to many American citizens, on Saturday.
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html</guid><pubDate>Sat, 05 Sep 2026 07:34:03 +0000</pubDate></item><item><title>Chinese Worker Rescued From Tunnel in Nepal 10 Days After Floods</title><link>https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/05/multimedia/05INT-NEPAL-RESCUE-ghlc/05INT-NEPAL-RESCUE-ghlc-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;A Chinese worker was rescued on Saturday from a tunnel in Nepal, the Nepali Army said, 10 days after its entrance was buried in the catastrophic floods that tore through one of the country’s northern river systems.&lt;/p&gt;
 &lt;p&gt;The army said that a joint rescue team, including foreign personnel, had pulled the man from inside a 740-foot tunnel in the Upper Trishuli-1 hydropower project. “His health is currently being assessed, and further search and rescue operations are continuing,” the army said in a statement. It did not immediately confirm the man’s name.&lt;/p&gt;
@@ -565,41 +490,7 @@ Darshan Bhattarai, center left, and Kamala Bhattarai, center right, at a cremati
 &lt;p&gt;In February, the deputy director of the labor ministry in Nepal told local media outlets that about 1,600 Chinese citizens were living in Nepal on work permits. That made China the biggest source of foreign workers in Nepal — not counting India, which sends its citizens back and forth across the Nepali border freely.&lt;/p&gt;
 &lt;p&gt;Chinese engineers are especially visible at Nepal’s hydropower and other infrastructure projects.&lt;/p&gt;
 &lt;p&gt;South Korea has an especially large investment in the Upper Trishuli-1 project, one of the most productive hydropower plants in the area. A 44-member Korea Disaster Relief Team has been working in the afflicted districts of Nepal since Tuesday.&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html</guid><pubDate>Sat, 05 Sep 2026 03:47:33 +0000</pubDate></item><item><title>An Exposé Jolts Reform U.K. and Sidelines the Man Called Farage’s Brain</title><link>https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html</link><description>&lt;![CDATA[
-&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/05/multimedia/05uk-reform-orr-01-cjfw/05uk-reform-orr-01-cjfw-facebookJumbo.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;A thinker and a theologian, James Orr has ties to both Vice President JD Vance and the tech billionaire Peter Thiel. He served as the head of policy for Nigel Farage’s right-wing populist Reform U.K. party. Some called him Mr. Farage’s brain.&lt;/p&gt;
-&lt;p&gt;Mr. Orr was the academic behind Mr. Farage’s hopes of being Britain’s next prime minister. But on Friday, he was suspended by the party.&lt;/p&gt;
-&lt;p&gt;His fall was set off by an undercover exposé, aired on Thursday, that secretly filmed Mr. Orr and another aide, Dan Jukes, discussing how political donations from a man they appeared to think was American could be secretly funneled to benefit the party without disclosure.&lt;/p&gt;
-&lt;p&gt;British law requires all donations to be disclosed and prohibits political contributions from foreign individuals. The American was an actor posing as a donor, according to the British broadcaster Channel 4 News, which aired the video.&lt;/p&gt;
-&lt;p&gt;Reform has denied breaking any law and has accused the broadcaster of a hit job. Mr. Orr has said that he was entrapped by opponents who were “politically motivated to discredit a political vehicle, Reform U.K.” Mr. Orr did not respond to a text message seeking comment on Friday. A spokesman for Reform did not respond to a request for comment about his and Mr. Jukes’s actions on the video.&lt;/p&gt;
-&lt;p&gt;The footage showed Mr. Orr discussing payments with an undercover reporter posing as a British donor and claiming to have a wealthy American father. According to the broadcaster, Mr. Orr suggested that the American parent could finance opinion polling favorable to Reform.&lt;/p&gt;
-&lt;p&gt;“The reality is we could easily get away with it,” Mr. Orr, who is an associate professor of philosophy of religion at Cambridge University, is seen saying.&lt;/p&gt;
-&lt;p&gt;“It’s definitely a tragic story, however much self-inflicted,” said Tim Montgomerie, who was a prominent member of Reform until his suspension last month after criticizing party figures. “A professor who specializes in ethics who’s caught on camera saying: We won’t get caught. It’s unbelievable.”&lt;/p&gt;
-&lt;p&gt;Verbatim, an investigative group founded by journalists from the nonprofit Center for Climate Reporting, conducted the undercover filming. The New York Times has not independently verified the actions in the videos.&lt;/p&gt;
-&lt;p&gt;In the recording, Mr. Orr boasts about his authority inside Reform. “Nigel has asked me to be his senior adviser,” he said. “I’d be one of three people reporting directly to Nigel, so that gives me a lot of — it gives me enormous — power in the party, if I want it. So, basically, the job will be fund-raising. I’m raising a lot of money for the party.”&lt;/p&gt;
-&lt;p&gt;Tim Bale, a professor of politics at Queen Mary University of London, said of Mr. Orr: “He had been touted as Reform’s brain, and it turns out — at least from what he said — that he was heavily involved in fund-raising, which comes as quite a surprise.”&lt;/p&gt;
-&lt;p&gt;The fallout from the undercover filming is the latest recent challenge Reform has faced.&lt;/p&gt;
-&lt;p&gt;The party, which had led opinion polls for more than a year, has seen its popularity dip in recent months after it was revealed that Mr. Farage had accepted a gift of 5 million pounds (about $6.7 million) from a cryptocurrency billionaire, and following other questions about party financing.&lt;/p&gt;
-&lt;p&gt;Mr. Orr was a favorite of Mr. Farage’s, though not just because of his intellect, Mr. Montgomerie said. “Nigel Farage has always been really keen on him,” he added. “I remember him telling me not so long ago that he loves James because he got things done. That certainly fitted with what we watched on Channel 4, that sense of making something happen.”&lt;/p&gt;
-&lt;p&gt;Educated at Winchester College, an elite secondary school, Mr. Orr, now 47, studied at Oxford and then at Cambridge, and worked in corporate law before entering academia.&lt;/p&gt;
-&lt;p&gt;In a 2025 podcast discussing his Christianity, he described a religious awakening more than two decades ago, after interpreting survival from a potentially lethal skiing accident as a sign from God.&lt;/p&gt;
-&lt;p&gt;He is also well connected in right-wing circles in the United States.&lt;/p&gt;
-&lt;p&gt;Mr. Orr recalled in the podcast recent battles against liberal policies at Cambridge and described his friendship with Mr. Vance, whose own memoir about his religious journey, “Communion,” was published this year. Their early conversations were “about religion and God and faith and Catholicism,” said Mr. Orr, who described how he had welcomed the vice president to his home in Cambridge when the American visited Britain.&lt;/p&gt;
-&lt;p&gt;This year, he also hosted Mr. Thiel in Cambridge for what Mr. Orr called a “stunningly original and erudite” set of lectures.&lt;/p&gt;
-&lt;p&gt;“That’s what connected him to Reform in the first place,” Mr. Montgomerie said of Mr. Orr’s connections to well-known right-wing figures in the United States. “Whatever the modern equivalent of a Rolodex is — the contacts book — is definitely what made Reform interested in him.”&lt;/p&gt;
-&lt;p&gt;On Thursday, before the Channel 4 News report, Mr. Orr was a featured speaker at Reform’s annual conference in Birmingham, England.&lt;/p&gt;
-&lt;p&gt;In the early afternoon, he joined Robert Jenrick, who speaks for the party on financial issues, on a panel titled, “What Is Reform’s Economic Vision?” There, Mr. Orr presented himself as an architect of the party.&lt;/p&gt;
-&lt;p&gt;“We’re willing for the first time in a very long time to think outside the box,” he said, describing Reform to a packed crowd of business executives. “We’re not, as it were, being suffocated by the dead hands of legacy party orthodoxy. We’re not worrying about whether we are on the left or whether on the right.”&lt;/p&gt;
-&lt;p&gt;Moments after the hourlong panel ended, Mr. Orr was whisked away to another stage, where he moderated a discussion about Reform’s commitment to spending more on the military.&lt;/p&gt;
-&lt;p&gt;But by Friday morning, Lee Anderson, Reform’s chairman, had announced that Mr. Orr had “stepped back,” along with Mr. Jukes. Mr. Farage later referred to Mr. Orr in a radio interview as simply a “contractor” for the party.&lt;/p&gt;
-&lt;p&gt;In a statement after the exposé, Cambridge said it was “looking into these matters.”&lt;/p&gt;
-&lt;p&gt;Some friends say they believe that Mr. Orr will be back.&lt;/p&gt;
-&lt;p&gt;“I cannot imagine James staying out for a long time because he is very valuable for Reform,” said Frank Furedi, an emeritus professor of sociology at the University of Kent, who described Mr. Orr as a charismatic orator.&lt;/p&gt;
-&lt;p&gt;“One problem Reform has — as all populist organizations — is their relative lack of support among intellectuals particularly, public intellectuals,” he said. He added that “what James believes is that policy needs to be informed by moral and ethical norms.”&lt;/p&gt;
-&lt;p&gt;That Mr. Orr’s reported comments in the recording appear to depart from ethical standards may be the result of loose talk or naiveté, Mr. Furedi argued, adding that to use them “as a basis to make hard and fast judgments about the moral status of the individual is wrong.”&lt;/p&gt;
-&lt;p&gt;Others were not so charitable.&lt;/p&gt;
-&lt;p&gt;“He was supposed to be in charge of policy. We haven’t seen that much policy, so maybe we know why: He had extracurricular activities,” Mr. Montgomerie said. “On a human level, I feel quite sad for him, but he was the author of his own downfall.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html</guid><pubDate>Sat, 05 Sep 2026 00:29:28 +0000</pubDate></item><item><title>Trump Envoys Arrive in Moscow for Talks on Ukraine War</title><link>https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html</link><description>&lt;![CDATA[
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html</guid><pubDate>Sat, 05 Sep 2026 06:35:40 +0000</pubDate></item><item><title>Trump Envoys Arrive in Moscow for Talks on Ukraine War</title><link>https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html</link><description>&lt;![CDATA[
 &lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/05/multimedia/05int-russia-meeting-placeholder-lwjb/05int-russia-meeting-placeholder-lwjb-facebookJumbo.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;President Trump’s envoys Steve Witkoff and Jared Kushner arrived in Moscow on Saturday, Russian state news agencies reported, ahead of a planned trip to Kyiv, Ukraine, as they hope to reignite diplomatic efforts to end the war there.&lt;/p&gt;
 &lt;p&gt;Mr. Witkoff, the president’s special envoy, and Mr. Kushner, Mr. Trump’s son-in-law, are making their first trip to Russia since January. A month after that visit, U.S.-backed peace negotiations went into a deep freeze when the United States and Israel attacked Iran.&lt;/p&gt;
@@ -613,4 +504,4 @@ Darshan Bhattarai, center left, and Kamala Bhattarai, center right, at a cremati
 &lt;p&gt;But the war appears far away from any resolution.&lt;/p&gt;
 &lt;p&gt;Speaking on Friday, Dmitri S. Peskov, Mr. Putin’s spokesman, praised “the good will of the Americans” who, he said, “are ready to continue their mediation efforts.” But Mr. Peskov said Russia would continue to insist that Ukraine withdraw its troops from the Donetsk and Luhansk regions, in the country’s east, before any cease-fire could occur — a demand that Ukraine has rejected.&lt;/p&gt;
 &lt;p&gt;Mr. Peskov’s comments followed statements on Thursday by Mr. Putin, who said that regardless of American mediation efforts, “Russia and Ukraine must first reach an agreement between themselves.”&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html</guid><pubDate>Sat, 05 Sep 2026 05:24:08 +0000</pubDate></item></channel></rss>
+]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html</guid><pubDate>Sat, 05 Sep 2026 07:33:40 +0000</pubDate></item></channel></rss>
