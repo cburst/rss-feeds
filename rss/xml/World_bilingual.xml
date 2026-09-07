@@ -1,58 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 06 Sep 2026 22:05:20 +0000</lastBuildDate><item><title>Toronto Stadium Is Severely Damaged by Thunderstorm Ahead of AC/DC Concert (AC/DC 콘서트 앞두고 토론토 경기장, 뇌우로 심각한 피해)</title><link>https://www.nytimes.com/2026/09/03/world/canada/toronto-rogers-stadium-thunderstorm-damage.html</link><description>&lt;![CDATA[&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/03/multimedia/xp-toronto-stadium-02-klbv/xp-toronto-stadium-02-klbv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" alt="Article image"/&gt;&lt;/p&gt;
-&lt;p&gt;Severe thunderstorms tore through Toronto on Wednesday, causing major flooding, downed trees, widespread power outages and significant damage to Rogers Stadium, a venue that hosts major concert tours.&lt;br/&gt;(수요일 토론토를 강타한 심한 뇌우로 대규모 홍수, 나무 쓰러짐, 광범위한 정전, 그리고 주요 콘서트 투어가 열리는 로저스 스타디움에 상당한 피해가 발생했습니다.)&lt;/p&gt;
-&lt;p&gt;The 50,000-capacity stadium, which opened in 2025 and is owned by Live Nation, was built specifically for big-name acts like Oasis, which played there last year on its reunion tour, and the Korean pop band BTS, which was in town late last month.&lt;br/&gt;(수용 인원 5만 명의 이 경기장은 2025년에 개장했으며 라이브 네이션이 소유하고 있는데, 지난해 재결합 투어로 이곳에서 공연한 오아시스와 지난달 말 방문한 한국 팝 밴드 BTS 같은 유명 아티스트를 위해 특별히 건설되었습니다.)&lt;/p&gt;
-&lt;p&gt;Drone and helicopter footage taken after the storm showed collapsed seats and partly collapsed grandstands at the stadium, in the Downsview neighborhood. There were no reported injuries.&lt;br/&gt;(폭풍 이후 촬영된 드론 및 헬리콥터 영상에는 다운즈뷰 지역의 경기장에서 좌석이 무너지고 관중석 일부가 부분적으로 붕괴된 모습이 보였습니다. 부상자는 보고되지 않았습니다.)&lt;/p&gt;
-&lt;p&gt;The country singer Chris Stapleton had just completed two nights of shows the day before the storms, and Bruno Mars and Foo Fighters have performed there this year. The next scheduled concert, and its final show of the summer, is AC/DC on Sept. 16, according to the venue’s website. It was not immediately clear if that concert would be able to proceed as planned.&lt;br/&gt;(컨트리 가수 크리스 스테이플턴은 폭풍 전날 이틀간의 공연을 막 마친 상태였고, 브루노 마스와 푸 파이터스는 올해 이곳에서 공연했습니다. 경기장 웹사이트에 따르면 다음 예정된 콘서트는 여름의 마지막 공연으로 9월 16일 AC/DC입니다. 해당 공연이 계획대로 진행될 수 있을지는 즉시 확인되지 않았습니다.)&lt;/p&gt;
-&lt;p&gt;A press officer for Live Nation Canada confirmed in a statement on Thursday that Rogers Stadium had sustained significant damage. “We are currently assessing the extent of the damage and will provide further information as it becomes available,” the statement said.&lt;br/&gt;(라이브 네이션 캐나다의 홍보 담당자는 목요일 성명을 통해 로저스 스타디움이 상당한 피해를 입었다고 확인했습니다. 성명은 "현재 피해 규모를 평가 중이며 정보가 확보되는 대로 추가 정보를 제공하겠습니다"라고 밝혔습니다.)&lt;/p&gt;
-&lt;p&gt;Thunderstorms developed across southern Ontario on Wednesday, whipping up winds that knocked over trees and power lines. More than 150,000 customers in the province lost power, according to Environment Canada, the government weather service.&lt;br/&gt;(수요일 남부 온타리오 전역에서 뇌우가 발달해 나무와 전신주를 쓰러뜨리는 강풍을 일으켰습니다. 정부 기상청인 캐나다환경부에 따르면 이 지역에서 15만 명 이상의 고객이 정전을 겪었습니다.)&lt;/p&gt;
-&lt;p&gt;In the late afternoon, a fierce storm moved across the greater Toronto area, dumping two to five inches of rain that brought widespread flooding in city streets. Winds above 50 miles an hour were recorded, though radar estimated that wind gusts most likely reached 80 m.p.h. in some locations.&lt;br/&gt;(늦은 오후, 강한 폭풍이 광역 토론토 지역을 가로질러 이동하며 2~5인치의 비를 쏟아내 도시 거리에 광범위한 홍수를 일으켰습니다. 시속 50마일 이상의 바람이 기록되었지만, 레이더 추정에 따르면 일부 지역에서는 돌풍이 시속 80마일에 달했을 가능성이 높습니다.)&lt;/p&gt;
-&lt;p&gt;Hail as large as tennis balls fell over North York, a neighborhood in north Toronto, smashing car windshields and apartment windows.&lt;br/&gt;(토론토 북부 지역인 노스요크에는 테니스 공 크기의 우박이 떨어져 자동차 앞유리와 아파트 창문이 깨졌습니다.)&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/2026/09/03/world/canada/toronto-rogers-stadium-thunderstorm-damage.html</guid><enclosure url="https://static01.nyt.com/images/2026/09/03/multimedia/xp-toronto-stadium-02-klbv/xp-toronto-stadium-02-klbv-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" length="0" type="image/jpeg"/><pubDate>Fri, 04 Sep 2026 04:20:54 +0000</pubDate></item><item><title>Argentina Is Ramping Up Its Claim to the Falklands. Here’s What to Know. (아르헨티나, 포클랜드 제도 영유권 주장 강화…알아야 할 사항들)</title><link>https://www.nytimes.com/article/falkland-islands-trump-uk-argentina-malvinas.html</link><description>&lt;![CDATA[&lt;p&gt;President Javier Milei of Argentina has been ramping up his country’s claim over the long-disputed Falkland Islands, a British territory for almost two centuries.&lt;br/&gt;(아르헨티나의 하비에르 밀레이 대통령이 거의 2세기 동안 영국 영토였던 포클랜드 제도에 대한 자국의 영유권 주장을 강화하고 있다.)&lt;/p&gt;
-&lt;p&gt;Mr. Milei, a right-wing populist and staunch ally of President Trump, said on Thursday that his government would take stronger steps against an offshore oil project near the Falklands. In a nationally televised address, he described the project by Israeli and British firms as a threat to Argentina’s sovereignty and an attempt to steal natural resources from its people.&lt;br/&gt;(우익 포퓰리스트이자 트럼프 대통령의 확고한 동맹인 밀레이 대통령은 목요일, 포클랜드 인근 해상 유전 프로젝트에 대해 더 강력한 조치를 취하겠다고 밝혔다. 국영 TV로 생중계된 연설에서 그는 이스라엘과 영국 기업들이 추진하는 이 프로젝트를 아르헨티나의 주권에 대한 위협이자 아르헨티나 국민의 천연자원을 빼앗으려는 시도라고 규정했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아르헨티나는 이 제도를 말비나스 제도라고 부르며, 영국의 주권을 결코 인정한 적이 없다. 1982년 아르헨티나의 제도 침공은 짧지만 유혈이 낭자한 전쟁을 촉발했고, 영국이 승리했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-밀레이 대통령의 이 연설은 분쟁에 대한 미국의 중립성에 의문을 제기한 트럼프 대통령의 최근 발언 이후에 나온 것이다.
-&lt;&lt;&lt;PARA&gt;&gt;
-포클랜드 제도에 대해 알아야 할 사항과 이것이 왜 그토록 논란이 되는지 설명한다.
-&lt;&lt;&lt;PARA&gt;&gt;
-두 개의 주요 섬과 수백 개의 작은 섬으로 구성된 이 군도는 남아메리카 본토에서 동쪽으로 약 300마일 떨어져 있다. 2021년 인구 조사에 따르면 약 3,600명이 거주하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-최초의 유럽 탐험대는 1500년대 후반부터 이 제도에 도달하기 시작했으며, 이로 인해 서로 경쟁하는 영유권 주장이 생겨났다. 영국은 1830년대에 실질적인 지배권을 확보했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-1816년 스페인으로부터 독립을 선언한 아르헨티나는 이 제도에 대한 자국의 영유권을 계속 유지하고 있으며, 영국의 주권을 인정하지 않고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-포클랜드 제도는 대체로 자치적으로 운영된다. 영국은 제도의 외교와 국방을 통제하며, 전투기를 포함한 군사력을 유지하고 있다.
-&lt;&lt;&lt;PARA&gt;&gt;
-2013년 국민투표에서 포클랜드 주민들은 압도적으로 영국 영토로 잔류할 것을 선택했다. 영국은 포클랜드 주민들이 자신들의 지위를 결정할 권리가 있다고 말해 왔지만, 아르헨티나는 과거에 이 제도가 불법적으로 거주하게 되었다고 주장해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-아르헨티나와 영국 간의 분쟁은 20세기에 걸쳐 반복적으로 표면화되었다. 여러 차례의 협상이 진행되었지만 모두 결론을 내지 못했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-1982년 4월 2일, 아르헨티나는 수천 명의 병력을 보내 제도를 장악했다. 로널드 레이건 대통령은 아르헨티나 군사 정권의 지도자를 설득하여 침공을 취소시키려 했지만 실패했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-영국은 군함과 잠수함을 포함한 대규모 군대를 파견하여 대응했고, 결국 74일 만에 아르헨티나의 항복을 강제했다. 아르헨티나 군인 약 650명이 전사했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-40년이 넘게 지난 지금도 그 전쟁과 인명 피해는 아르헨티나에서 여전히 아픔의 원천이다. 아르헨티나는 포클랜드 제도에 대한 영유권 주장을 포기하지 않았으며, 이는 아르헨티나 헌법의 일부이기도 하다. 이 제도는 특히 아르헨티나 축구 국가대표팀 지지자들 사이에서 국가 정체성을 표현할 때 자주 언급된다.
-&lt;&lt;&lt;PARA&gt;&gt;
-올해 여름 월드컵에서 아르헨티나 선수 두 명이 잉글랜드를 꺾은 후 포클랜드 제도가 자기 나라 땅이라는 내용의 현수막을 들었다. 이로 인해 정치적 구호를 허용하지 않는 축구 행사 규정에 따라 축구계 최고 기구인 FIFA가 징계 절차를 시작했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 행정부가 이 분쟁에 대해 어떤 입장을 취할지에 대한 의문들이 제기되면서 올해 다시 주목을 받게 되었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국과 이스라엘이 2월에 이란과의 전쟁을 시작한 후, 트럼프 대통령은 영국을 포함한 NATO 동맹국들의 지원 부족에 불만을 표명했다. 로이터 통신이 보도한 미 국방부 이메일에 따르면, 포클랜드 문제에 대한 미국의 입장에서 발을 빼는 것은 이란 전쟁을 두고 영국을 징벌하는 방법이 될 수 있다는 제안이 있었다.
-&lt;&lt;&lt;PARA&gt;&gt;
-미국은 역사적으로 영국의 제도에 대한 사실상(de facto) 통제를 인정해 왔지만, 어느 국가가 주권을 갖는지에 대해서는 중립을 유지해 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-트럼프 행정부가 이 문제에 대해 입장을 바꾸는 것은 영국에 대한 중대한 외교적 모욕이 될 것이다. 영국 정부는 이 제도가 "포클랜드 주민들의 의사에 따라 영국의 해외 영토이며 앞으로도 그럴 것"이라고 밝혀 왔다.
-&lt;&lt;&lt;PARA&gt;&gt;
-이번 주 초, 트럼프 대통령은 포클랜드 문제에 대한 미국의 입장을 검토하고 있다고 말했다. 그리고 목요일에 방송된 영국 TV 채널 GB 뉴스와의 인터뷰에서 트럼프 대통령은 아르헨티나가 포클랜드를 주장할 경우 영국을 도울 것인지 묻는 질문에 직접적인 대답을 피했다. 대신 그는 대화를 이란 전쟁으로 돌렸다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"당신네 나라는 나를 도우러 오지 않았습니다,"라고 트럼프 대통령은 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-몇 시간 후, 밀레이 대통령은 TV 연설에서 미국이 아르헨티나가 전략적으로 중요한 위치에 있는 신뢰할 수 있는 파트너이며, 향후 수십 년 동안 귀중한 동맹이 될 수 있다는 것을 알고 있다고 말했다.
-&lt;&lt;&lt;PARA&gt;&gt;
-"그것이 없다면,"라고 그는 덧붙였다, "이 모든 것은 불가능했을 것입니다.")&lt;/p&gt;
-]]&gt;</description><guid isPermaLink="false">https://www.nytimes.com/article/falkland-islands-trump-uk-argentina-malvinas.html</guid><pubDate>Fri, 04 Sep 2026 06:51:44 +0000</pubDate></item><item><title>Workers Rescued From Tunnel in Nepal 9 Days After Flood (네팔 홍수 9일 만에 수력발전 터널에서 근로자들 구조)</title><link>https://www.nytimes.com/2026/09/04/world/asia/nepal-floods-rescue-tunnel-worker.html</link><description>&lt;![CDATA[&lt;p&gt;At least two workers trapped in one of the hydropower project tunnels hit by Nepal’s flash flood last week were rescued on Friday morning, an army spokesman said.&lt;br/&gt;(지난주 네팔의 갑작스러운 홍수로 피해를 입은 수력발전 프로젝트 터널 중 한 곳에 갇혀 있던 근로자 최소 2명이 금요일 아침에 구조됐다고 군 대변인이 밝혔다.)&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NYT World Bilingual Feed</title><link>https://rss.nytimes.com/services/xml/rss/nyt/World.xml</link><description>NYT World articles translated into Korean</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 07 Sep 2026 00:08:59 +0000</lastBuildDate><item><title>Workers Rescued From Tunnel in Nepal 9 Days After Flood (네팔 홍수 9일 만에 수력발전 터널에서 근로자들 구조)</title><link>https://www.nytimes.com/2026/09/04/world/asia/nepal-floods-rescue-tunnel-worker.html</link><description>&lt;![CDATA[&lt;p&gt;At least two workers trapped in one of the hydropower project tunnels hit by Nepal’s flash flood last week were rescued on Friday morning, an army spokesman said.&lt;br/&gt;(지난주 네팔의 갑작스러운 홍수로 피해를 입은 수력발전 프로젝트 터널 중 한 곳에 갇혀 있던 근로자 최소 2명이 금요일 아침에 구조됐다고 군 대변인이 밝혔다.)&lt;/p&gt;
 &lt;p&gt;Officers from the Nepali Army, with assistance from technical teams sent by India, China and other countries, have been working day and night to make their way through a dense mixture of sludge and mud to bore into the tunnels.&lt;br/&gt;(네팔 육군 장교들은 인도, 중국 및 기타 국가에서 파견된 기술 팀의 지원을 받아 터널로 뚫고 들어가기 위해 진흙과 진창이 뒤섞인 밀집한 혼합물을 뚫는 작업을 밤낮으로 진행해 왔다.)&lt;/p&gt;
 &lt;p&gt;Hundreds of workers have been missing in the tunnels since last Wednesday, when a glacial collapse sent tsunami-like waves of water mixed with rock and debris through two river valleys, killing more than 1,200 people. More than 4,000 people remain missing in Nepal and neighboring Tibet.&lt;br/&gt;(지난 수요일 빙하 붕괴로 인해 두 강 계곡을 따라 암석과 잔해가 섞인 쓰나미 같은 물줄기가 밀려와 1,200명 이상이 사망하면서, 수백 명의 근로자들이 그 이후로 터널에서 실종 상태였다. 네팔과 인접한 티베트에서 4,000명 이상이 여전히 실종 상태다.)&lt;/p&gt;
 &lt;p&gt;Raja Ram Basnet, a spokesman for the Nepali Army, said the workers were rescued from the Trishuli 3A hydropower project.&lt;br/&gt;(네팔 육군 대변인 라자 람 바스네트는 근로자들이 트리슐리 3A 수력발전 프로젝트에서 구조됐다고 말했다.)&lt;/p&gt;
